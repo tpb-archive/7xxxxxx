@@ -1,0 +1,16 @@
+Irish Driver Theory Test 5th Edition (October 2011)
+
+Also includes official fix for practice Bus & Truck theory tests (http://www.imagitech.co.uk/SoftwareUpdate/The Official Driver Theory Test/2.0/English/The Official Driver Theory Test 5th Edition Update 1 (English) Setup.exe)
+
+
+This torrent contains an ISO rip of the official test CD which has been slightly modified to include the official Bus & Truck update fix as well as instructions and tools to make this version work. The test software has some rather weak copy protection. Below are some workarounds for this copy protection. Try them one at a time, in any order until one method works for you.
+
+Option 1. Mount the ISO file to a virtual drive: Install Alcohol 52% Free (included in torrent and CD image) or Daemon Tools Lite (http://www.disc-tools.com/download/daemon). Note: Daemon Tools only worked for me using emulated SCSI drives, but not when using the default DT drives. Ensure you check the SPTD option when installing this. Once you installed either of these, mount TODTT_2011.iso to the virtual drive. Fingers crossed.
+
+Option 2. Burn the ISO image to a CD (CD-R preferably) and try the disk in a CD-ROM (non-burner) drive. The copy protection looks for information from the CD that is only present in burned media. CD-ROM drives cannot read this info :)
+
+Option 3. Burn the ISO image to a CD (CD-R preferably). Now hide the fact that the CD-R (burned CD) is not a CD-ROM (pressed original disk) to defeat the copy protection. Here's how. Install Alcohol 52% Free and start it up. Select "Emulation" from the Options section and check the first option, "Ignore Media Type". This option forces software to ignore writeable media types, allowing it to be recognised as CD-ROM media (one caveat here though - you would need to turn this option off again if you need to burn a CD/DVD as this option shows burners as read-only drives).
+
+Good Luck.
+
+PS. A nice touch from our benevolent masters' lackeys in the RSA; they outsourced this work to Prometric who then outsourced it again Imagitech in the UK. Who knows, maybe the work eventually got done in India or beyond. You'd think they could've managed to find someone here in Ireland to spend about two days knocking this app together (which is about all the time spent on it by the looks of it).

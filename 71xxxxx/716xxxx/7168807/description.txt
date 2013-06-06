@@ -1,0 +1,46 @@
+Video
+ID/String                        : 0
+Format                           : MPEG-4 Visual
+Format_Profile                   : Simple@L1
+Format_Settings_BVOP/String      : No
+Format_Settings_QPel/String      : No
+Format_Settings_GMC/String       :  warppoint0
+Format_Settings_Matrix/String    : Default (H.263)
+CodecID                          : DIVX
+CodecID/Info                     : Project Mayo
+CodecID/Hint                     : DivX 4
+Duration/String                  : 1h 54mn
+BitRate/String                   : 707 Kbps
+Width/String                     : 496 pixel3
+Height/String                    : 272 pixel2
+DisplayAspectRatio/String        : 16:9
+FrameRate/String                 : 23.976 fps2
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bit3
+ScanType/String                  : Progressive
+Compression_Mode/String          : Lossy
+Bits-(Pixel*Frame)               : 0.219
+StreamSize/String                : 579 MiB (84%)
+Encoded_Library/String           : FFmpeg0.4.9-pre1b4718
+
+Audio
+ID/String                        : 1
+Format                           : MPEG Audio
+Format_Version                   : Version 1
+Format_Profile                   : Layer 3
+Format_Settings_Mode             : Joint stereo
+Format_Settings_ModeExtension    : MS Stereo
+CodecID                          : 55
+CodecID/Hint                     : MP3
+Duration/String                  : 1h 54mn
+BitRate_Mode/String              : CBR
+BitRate/String                   : 128 Kbps
+Channel(s)/String                : 2 channel2
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+StreamSize/String                : 105 MiB (15%)
+Alignment/String                 : Alignment_Split
+Interleave_Duration/String       : 500 ms (11.99 video frames3)
+Interleave_Preload/String        : 500 ms
+Encoded_Library/String           : LAME3.97 (alpha)

@@ -1,0 +1,57 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-04-18T11:32Z,"is it just my copy or is the video damaged at 26min
+in?"
+,bubbanuggzz,2012-04-18T12:05Z,"it is indeed psspss.stops at around 25mins & re-starts around 32mins.the weird part is the audio,it stays spot on thru the video skip & never goas out of sync"
+[V],psspss,2012-04-18T12:19Z,"guess we have to wait for a new up
+I noticed when I converted to xvid and was
+randomly checking sync lucky I hit the spot
+
+then I checked the mp4 and same but
+it was worse then the xvid lol.. I guess I could
+cut out the bad 5min
+
+i think crimson or other cappers about will release something
+
+looks like the problem happen in last segment
+where ad break was cut out"
+,veedmo,2012-04-18T12:25Z,"Yup. No image for about 10 mins. Not a codec issue, there's just no vid info in the file."
+[T],trialNerror,2012-04-18T21:40Z,"weird indeed.
+and errrr wrong psspss it's the 4th clip of the episode not last.
+you can wait for crimson to release something but it might not be out until next week from them if they release it at all.  you should know by now just how consistent that team is"
+[T],trialNerror,2012-04-18T21:42Z,"you're all lucky i haven't deleted the .ts recordings yet and can try encoding again for a proper release.  the reason i didn't notice the missing video chunk is because i check the start, the middle, and the very end for sync.  the missing vid clip is between middle and end so it got overlooked.  sorry?  no not really. shit happens. at least i'm gonna try to fix it "
+,Jerseyboy68,2012-04-18T23:26Z,Let Me Know When You Fix It Thanks!!
+[T],trialNerror,2012-04-19T00:45Z,"FIXED!
+http://thepiratebay.se/torrent/7196404/Dream.Machines.S01E02.PROPER.HDTV.x264-tNe.mp4
+
+NO idea why that one section wouldn't encode individually but would encode just fine when doing the whole episode combined.
+
+in case folks don't know how it's done...
+
+tv shows get recorded to the pc using a IEEE 1394 cable, aka firewire, from the hd box to the pc - it's almost like a file transfer more than a recording - this gives you a 100% digital copy of the broadcast
+
+at first commercial break that recording gets clipped from all the crap before and after the episode segment using something like VideoReDo or SmartCutter
+
+that clipped segment is then indexed using DGIndex giving a .d2v file
+
+an avisynth script is made up to describe how to handle that .d2v file DGIndex makes; to deinterlace or inverse telecine, video frame cropping, resizing, etc
+
+example:
+LoadPlugin(""C:Program FilesAviSynth 2.5pluginsDGDecode.dll"")
+Loadplugin(""C:Program FilesAviSynth 2.5pluginsLeakKernelDeint.dll"")
+mpeg2source(""C:UserstNeDesktopDM1.d2v"").LeakKernelDeint(order=1,sharp=true).spline36resize(720,404,8,8,-8,-8)
+
+save as you wish with the extension .avs
+
+a command line .bat file is used to send that avisynth script (.avs) to the encoder.
+
+example:
+C:x264x264.exe --profile main --level 3.1 --preset slow --tune film --crf 22.0 --deblock 1:1 --subme 9 --rc-lookahead 60 -o ""C:UserstNeDesktopDM1.mp4"" ""C:x264avsDMDM1.avs""
+
+with the file paths for output location and the avisynth script entered accordingly you should be able to run that .bat file and a CLI window pops up showing the progress.  this will give a faster, better encoding opposed to GUI software
+
+repeat process for each segment of the episode then mux them all together when each clip and audio has been encoded
+
+complicated? kinda. but pretty easy after a while.
+
+anyway yea clip 4 of this episode wouldn't go well by itself but when i added all 6 clips to DGIndex to make a .d2v file of the whole episode it would work fine.  baffling."
+[T],trialNerror,2012-04-19T00:47Z,"oh yea, tpb doesn't like forward slashes.  oh well any intelligent being can figure out where they should go in the examples"

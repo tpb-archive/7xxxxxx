@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,naveen056,2012-03-16T13:13Z,"Brother i downloaded it but i can't installed 
+can you please help me for installation and also upload supporting drivers!!!!!!!!!!!!!!!!"
+,ManinBlue,2012-03-17T04:19Z,"burn to cd, boot from cd.
+
+i recommend imgburn: http://www.imgburn.com/index.php?act=download
+
+after your pc boots from cd, press option #1- start windows 98 setup from cd.
+
+as for drivers... after install, u should be able to update from within OS."
+,naveen056,2012-03-17T04:53Z,thanks but i tried it asked me to re-partition the entire hard disk for that i created a disk for it it is of no use please help me again if u don't mind? 
+,ManinBlue,2012-03-17T20:42Z,"i agree george2473... virtual machine is best use for win98 nowadays...
+
+as for your problem naveen056... i havnt used it on a ""real"" pc in yrs... u should try it on a virtual machine through either windows xp (vmware) or windows 7 (virtual pc). not sure what ur setup is, hope this helps."
+,ManinBlue,2012-03-17T20:58Z,"just as a general rule... to my knowledge, when installing an operating system... whether it is windows 98... or windows 7.. once u create a partition on your hard drive... u need to format it before u can do anything with it... after creation, the hard drive is still in what is called ""RAW"" format. 
+u must format it to either ntfs or fat."

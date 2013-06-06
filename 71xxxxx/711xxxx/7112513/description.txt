@@ -1,0 +1,34 @@
+Official Web Site:  http://vladalexa.com/apps/osx/loadables/
+App Store Web Site:  http://itunes.apple.com/us/app/loadables/id436748346?mt=12
+
+Loadables attempts to provide a exhaustive list of all the kind of processes, plugins or libraries that are loaded in your system on boot time, on log in, on demand, etc and the services provided by the running applications.
+
+It differentiates* default ones that existed since the install of your operating system from third party installed or otherwise added by a operating system upgrade later.
+
+It provides three actions for most types of services : Stop Process** (stops the process for that service if running) , Disable*** (prevents the service from running without removing it) and Remove Service**** that effectively removes the service from the operating system.
+
+It lists the folowing types of services: Login Items, System Starter and launchd
+It lists the mach services currently active (these are core services provided by the running applications, not to be confused with the aqua services or the boot/startup services)
+It lists a number of operating system additions, namely : Contextual Menu Items, Kernel Extensions, Address Book Plug-ins, Internet Plug-ins, Spotlight Plug-ins, Authorization Plug-ins, Privileged Helper Tools, System Configuration Bundles, Input Managers, Aqua Services and Login Hooks.
+
+It shows info associated with each item like executable, owner and date if available in order to make sense of when did a service get added and by who etc.
+
+Applications in the Mac App Store are not allowed to elevate privileges, this can be done manually by the use of sudo.
+
+* Entries that are not grayed are not present by default in the operating system and have been added either by a third party or a subsequent operating system update.
+
+* The ability to stop processed depends of the authorization level of the user running Loadables , caution should be exercised when stoping OSX services that could be critical to the operating system.
+
+* Entries in bold are not handled by launchd for the user running Loadables (they can not be disabled as that has no effect on them)
+
+* The ability to remove services depends of the authorization level of the user running Loadables, removing a service should be a last resort action and used with caution, they are kept in the Trash for a while shall you change your mind.
+
+What's New:
+
+* implemented sandboxing
+
+System Requirements:
+
+Intel Mac, OS X.6 or greater
+
+--- PLEASE SEED ---

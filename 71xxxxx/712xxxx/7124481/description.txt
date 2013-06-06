@@ -1,0 +1,29 @@
+DVDFab Platinum v8.1.7.0 Qt Beta
+
+This is a AIO = all in one program double click exe and use clickable buttons.
+
+[img]http://www.dvdfab.com/images/logo.png[/img]
+
+DVDFab 8.1.7.0 Qt Beta (March 22, 2012)
+
+New: Updated language files.
+
+Blu-ray Copy:
+New: Added support for BDAV disc, a special format used by Blu-ray recorder in Japan. User can use "Main Movie" to copy it to normal BDMV format which can be played on normal Blu-ray player.
+Fix: HD-DVD support was broken.
+Fix: An error 401 when copying Blu-ray 3D disc as Blu-ray 2D disc in certain cases.
+Fix: An error 102 when copying "Full Disc" in certain cases.
+
+Blu-ray Ripper:
+New: Added support for BDAV disc, a special format used by Blu-ray recorder in Japan.
+Fix: An error 504 when converting to Xbox 360 in certain cases.
+
+DVD Creator:
+Fix: No subtitle problem in certain cases.
+
+Blu-ray Creator:
+Fix: No subtitle problem in certain cases. 
+
+
+
+(the rest of the info is in the txt file enjoy)

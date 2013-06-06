@@ -1,0 +1,31 @@
+This is MTV Music Generator 3 PAL Eng version ripped directly from original dvd, this is a music making disc for ps2. In order to run it you must have either chipped ps2 to run burned discs or pcsx2, if you will run this on pcsx2 than you need to configure it for fastest settings so that there will ne distorted sound.
+
+Config is:  
+
+emulation settings
+
+Everything is left as is except speedhacks
+
+EE cyclerate set to 3, Vu cycle stealing set to 1
+Enable INTC
+Enable Wait loop
+Enable mvu flah hack
+
+Audio setting (SPUX2)
+
+Interpolation set to 0-nearest
+Disable effects processing
+Reverb set to 1X
+Module 1 Xaudio
+Synchronization mode set - Async
+
+Video GSDX
+
+Render set to - direct 3d hardware
+Interlacing - none
+Original ps2 resolution set to - Native
+Enable Logaritmic Z
+Enable Alpha correction FBA
+Disable Allow 8-Bit textures
+
+Please seed as much as possible, Thank you!

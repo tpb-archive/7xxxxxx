@@ -1,0 +1,52 @@
+﻿User Type,Username,Date,Text
+,Herchi,2012-03-28T20:36Z,¿Alguien lo ha bajado? ¿Os ha ido bien el juego?
+,carlopin,2012-03-31T19:57Z,"El juego funciona perfectamente.
+
+Si se quiere cambiar el directorio de instalación, deben modificarse las correspondientes entradas en el Registro. No es complicado, pero si no se está seguro, mejor abstenerse.
+
+En Windows 7, éstas se crean en HKEY_LOCAL_MACHINESOFTWARESims
+
+Ahí estarán las entradas del juego original y todas las expansiones. HAY QUE MODIFICAR EN CADA UNA, las entradas [ExePath] e [Install Dir].
+
+Por defecto, en éstas aparece la ruta [ExePatch: C:Program FilesElectronicArtsLos Sims 3GameBinTS3.exe] e [Install Dir: C:Program FilesElectronicArtsLos Sims 3].
+
+Para modificar: dar doble clic en la entrada que se quiere modificar; editar la entrada, reemplazando la parte que dice [C:Program FilesElectronics ArtsLos Sims 3] por la ruta en que está el juego; por ejemplo: D:Archivos de programaElectronics ArtsLos Sims 3 (respetando, en el caso del ExePath, el resto de la ruta que allí aparece; en este caso, por tratarse del juego base: [GameBinTS3] (variará para cada expansión).
+
+Ojo, que el instalador propone por çdefecto la ruta ""C:Program Files"" para la instalación completa.  
+
+Esto quiere decir que SIEMPRE, sea cual sea la ruta por la que opten, agregará la sentencia ""Electronic ArtsNombre de la expansión"", a continuación de la ruta que elijan, y lo hará para cada instalación y entrada de registro.  De ahí que deban modificarse todas.
+
+Lo más aconsejable es revisar donde se instaló el paquete, ver y anotar la ruta completa, y a partir de ahí modificar el registro, fijándose en la gramática de la entrada (la mayoría de las veces bastará con modificar la primera parte de la misma, para que se ajuste a nuestra propia ruta de instalación).
+
+Por supuesto, quedan hechas todas las advertencias en relación con los peligros de modificar elo Registro en cualquier versión de Windows.
+
+Suerte y disfruten."
+,angelesluz,2012-04-01T06:48Z,No me deja bajarlo :( 
+,carlopin,2012-04-02T14:52Z,"¿Tienes un cleinte que soporte magnets links? Estos últimos exigen que des un clic a [GET THIS TORRENT].  Si has instalado un cliente con soporte para magnets links, éste se lanzará automáticamente.  Como verás, ya no es posible guardar el archivo torrent, como con el antiguo botón [GET TORRENT FILE]."
+,roberto.figueroa,2012-04-22T23:05Z,funcionara o no alguien sabe ? otra cosa no es necesario eso de la actualización de los parche se juega y listo?
+,shadowld,2012-06-11T20:25Z,"Hola! he descargado el juego, pero me aparece como ""Archivo"", en blanco. No se como cambiarle el formato para poder utilizarlo. Si podes dame una mano! muchas gracias!"
+,Dymas11,2012-06-20T15:36Z,"me dice que falta el archivo direcxt by pereman.exe
+como lo arreglo? Gracias =D"
+,Herchi,2012-06-29T18:17Z,"hay que abrir el archivo (un .7z) con el WinRAR o similar. Yo uso el 7-zip. Si lo buscas es google lo encontrarás.
+
+Después descomprimes todo (va a durarte un cacho) y sólo después instalar."
+,CarAlm,2012-08-12T13:11Z,"Para Instalar tenemos que:
+
+1) o bien cerrar el Utorrent (o el programa con el que lo descargaron) o bien eliminar el torrent sin eliminar los datos
+
+2) Asegurares de que tienen por lo menos unos 30 GB libres 
+
+3)Descomprimir todo de golpe con WinRAR o 7z
+
+4)Doble Click a AutoRun y a esperar un rato LARGO!
+
+5)hacer lo que dice Carlopin si teneis Windows 7 (creo) y ya esta, asi que como lo hice yo
+
+Espero que Ayude."
+,maka97,2012-09-15T00:21Z,Hola el juego lo descargue y funciono re bien pero quiero desinstalar algunas expansiones como hago?
+,kley_thor,2012-09-27T02:34Z,"Yo instale el juego me funciona perfecto 
+pero el detalle es que cuando lo cierrro y lo abro despues nada mas me aparece el ronbo del sims 
+y luego ya no me deja hacer nada alguien sabe por que o me puede decir como arreglarlo :( 
+por favor"
+,kley_thor,2012-09-27T02:37Z,"ola el sims lo instale y todo sin problema 
+pero el detalle es que cuando juego y luego lo cierro me aparece nada mas el ronbo del sim pero el sim no y lueg oa los 15 min no me aparece nada alguien sabe como arreglarlo?? por favor"

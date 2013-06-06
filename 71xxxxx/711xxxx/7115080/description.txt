@@ -1,0 +1,36 @@
+Ubehage's EasyCopy v2 Preview Installer
+---------------------------------------
+
+I am making a new version of EasySuite; a collection of small applications (tools) for the nerds. ;)
+
+This is ONLY a preview of EasyCopy v2!
+It has the main GUI, with almost everything working perfectly and smooth.
+It cannot copy anything, nor save or load any queued jobs.
+
+You really can't use this release for anything - it is only for preview.
+
+Personally, I made it to perform a few tests on different versions of Windows.
+
+
+Works on:
+- Windows Vista 32bit,
+- Windows Vista 64bit,
+- Windows 7 32bit,
+- Windows 7 64bit,
+- Window 8 32bit,
+- Windows 8 64bit.
+
+
+The following files will be installed:
+%SYSTEM32%powerdll2.dll
+%SYSTEM32%EasySuiteDLL.dll
+%DESKTOP%EasyCopy2.exe
+
+
+The powerdll2.dll-file is my own creation. It's a major code-library that I made a few years ago.
+You might leave it or delete it. It will never be replaced by a new version, though not many programs use it.
+
+The EasySuiteDLL.dll-file will be replaced by a new version as progress comes along.
+
+
+/Ubehage

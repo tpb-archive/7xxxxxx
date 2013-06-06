@@ -1,0 +1,28 @@
+Intro:
+
+	This application was made to download music from SoundCloud given an artist and title.
+
+	Although I'd love to say it has a 100% success rate I cannot. It seems more successful
+	with genres such as Drum & Bass, Dubstep, Electronic as you would almost expect with
+	most of soundcloud being remixes so please remember this when it is giving you a dubstep
+	remix of Justin Bieber when it's not what you want.
+
+How it works:
+
+	It works simply by getting the user provided details (Artist and Title) then it goes off
+	to SoundCloud with this data viait
+	then strips this page down using simple string manipulation to get the streamUrl value
+	which is then used to download the song. After this, it will grab album art using
+	(http://www.albumart.org/index.php?searchkey=ARTIST+TITLE) or 
+	(http://www.albumart.org/index.php?searchkey=ARTIST) if the former provides empty.
+	All that is left is to ID3 tag it all together using UltraID3Lib (mixed into the EXE).
+
+Copyright:
+	
+	What copyright?
+
+Credits:
+
+	ATeenagePirate (Reddit account if you're interested)
+
+Enjoy.

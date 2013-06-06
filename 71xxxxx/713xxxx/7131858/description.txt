@@ -1,0 +1,13 @@
+Here is a possible solution for those who cannot get these language level to activate
+
+NOTE: DO NOT use this if you have other languages installed.
+OR if you HAVE NOT installed the Rosetta Stone programs I UL'd
+
+Instructions:
+
+If you have ONLY Spanish (Latin America)installed then you copy this file to the 
+ProgramData-Rosetta Stone folder, and you should be set.
+
+HOWEVER, if you have ANY OTHER languages installed, then you must APPEND this file
+to the existing Products.xml file.
+

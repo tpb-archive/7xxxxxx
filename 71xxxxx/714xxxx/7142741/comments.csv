@@ -1,0 +1,85 @@
+﻿User Type,Username,Date,Text
+,etherNerd,2012-04-06T22:30Z,"Hey guys, I'm currently downloading and will seed regardless of the answer to this question.
+
+I'm going to mainly be virtualizing this on a MacBook (late 2006) Snow Leopard machine. But I also wanted to try to virtualize it on my gaming machine which runs Windows 7. To top that off, it has an AMD Phenom processor. Do you guys know if this will work on an AMD machine with an nVidia chipset? I doubt it, but I would love to hear feedback on this question."
+,newberemis,2012-04-07T17:38Z,"working for me, because, the /Extra folder don't see, please help. My screen resolution is always 1024x768. "
+,etherNerd,2012-04-08T15:44Z,"@newberemis: I don't think anyone would be able to understand your question when it is worded like that. 
+
+""working for me""
+Great!
+
+""because, the /Extra folder don't see""
+Well, it definitely does not have eyes.
+
+""please help. My screen resolution is always 1024x768.""
+Get a bigger screen?"
+,ehasis,2012-04-08T18:49Z,Works perfectly on VirtualBox 4.1.12 on Windows 7.
+,newberemis,2012-04-09T06:14Z,"etherNerd, yo hablo español.
+
+Lo que quiero decir es que funciona bien en mi virtual box, solamente tengo 2 problemas con el sonido y Graphics card.
+
+Placa de sonido	es Realtek ALC887 High Definition, pude solucionar instalando MultiBeast: Lion Edition de http://www.tonymacx86.com.
+
+Lo que no puedo solucionar es mi Graphics card. 
+
+Más información:
+
+Processor: Intel Core i7 2600k 
+Mainboard: Asus P8z68-V LX
+Graphics integrated: Intel HD Graphics 3000 (GT2+)
+
+He seguido todos los pasos que indican pero no logo hacer funcionar. 
+
+La resolucion de mi pantalla es siempre 1024x768, pero en windows 7 64bits yo utilizo 1600x900. 
+
+He probado de http://www.osx86.net/ todos los Kexts para HD 3000, pero no funcionan ningunos."
+,ProzacR,2012-04-13T11:51Z,It works on ANY machine with Virtual-box installed! You can get Virtual-box for free just google for their homepage. That program simulates computer. Just do not forget to disable EFI in virtual machine options and add in archive included CD iso file to machine as cd.
+,navivb,2012-04-16T08:32Z,can this image file be installed on virtual box running in linux
+,gpborges,2012-04-19T17:11Z,"Thx a LOT! I'm running it on a host Ubuntu 10.04 LTS + Oracle VirtualBox 4.1.12 and it works JUST FINE. Even 3D, 2D, all working fine... I have a Lenovo T410 (core i5) at work and I had to enable VT and VT-d in BIOS. Also, set the VM config to be a Mac OS Server 64 bits and set video memory all the way up to 128MB. Anyone knows how to use a shared folder? Also, is there a way to set custom resolutions (my native monitor resolution is 1440x900 (16:10). To  conclude, can you make sure there isn't any keylogger, spy soft, etc? (Just in case...)"
+,toyeur0,2012-04-20T12:32Z,"Hello,
+Works perfectly, thanks SoulUploader !
+But I've juste one problem : the screen resolution can't be changed in the Monitor control pannel, there is just one choice.
+
+I try to edit the file com.apple.boot.plist in HackBoot.iso because it doesn't exist in the Library folder (which doesn't exist too) to add :
+
+Graphics Mode
+1366x768x32
+
+but after the iso didn't load at the virtual machine start.
+Can you tell me how add a specific screen resolution ? Because 4/3 not very good :)
+
+Thanks again."
+,olivier_d10,2012-05-05T02:52Z,Hi I have a Fx 6100 (6 core) processor and when i install the mac on virtual box it ends up saying ''Not an Intel Platform : Restard Fix not applied !!!! '' SOme one got an issue for that it would apreciated X 10000 . Thanks for your help every body!
+,st.gajju95,2012-05-12T07:47Z,"I can't install this mac by Virtual machine..
+A error has occured.Saying VM can't find Virtual.log and Virtual.png..
+Plz..Help me.."
+,st.gajju95,2012-05-12T07:47Z,"I can't install this mac by Virtual machine..
+A error has occured.Saying VM can't find Virtual.log and Virtual.png..
+Plz..Help me..
+"
+,kdj2013,2012-05-14T13:51Z,"@etherNerd @olivier_d10 I have an AMD FX-6100 and this works fine on my Windows 7 Host. I get a color code error, being 32-bit capable but only 24-bit showing, but that's not such a big deal. I assume you haven't gotten it to work?"
+,erremuerto,2012-05-21T16:31Z,So why is this a .exe file? isn't that a bit suspicious?
+,binyo66,2012-06-04T06:06Z,exe it is a self extract. thx
+,yezezey,2012-06-29T11:27Z,works fine. thanks.
+,Mh58541,2012-06-29T20:49Z,Will it run with 1Gb Ram And 112.28 GB of Hard disk Drive 
+,travelgurutg,2012-07-10T20:04Z,Not working on AMD pc
+,dude.camo,2012-09-08T12:48Z,didnt work but this did http://thepiratebay.se/torrent/7605325/Mountain_lion_(10.8)_complete_virtual_machine_pack_Supported_ver
+,666Gott,2012-09-24T15:16Z,"Thnx, SoulUploader, for all of your hard work.
+
+It is truly appreciated.
+
+Could you post your Virtual Box Version and Computing Platform?
+
+I'm trying to run this in Kubuntu 12.04 and it never reaches the Desktop Environment, it only arrives at a Black Screen.
+
+With Virtual Box, the exact version is extremely important, as an image that works in one version, may not work on a newer version, even if it's the same Computing Platform.
+
+This is specific to Virtual Box.
+
+With a Lion VMWare image, previously, I had the same issue, however, although that image did not work on a Hackintosh Install, it did work under Windows 7 Install.
+
+I need ANY, Mac OS X Instal Virtual Image, to work under Kubuntu 12.04.
+
+I'm going to try the link provided by dude.camo.
+
+Thank you, dude.camo."

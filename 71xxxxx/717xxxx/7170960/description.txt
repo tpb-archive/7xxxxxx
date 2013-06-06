@@ -1,0 +1,17 @@
+New version of the utility that inserts a valid license for NOD32 update Commercial versions 2.5.x, 2.7.x, 3.x, 4.x, 5.0.x, including Eset Smart Security.
+ 
+- ESET Support v5.
+ - Added the option to choose the ESET product type for which to retrieve the license (VAS = NOD32 Antivirus, ESET Smart Security ESS =, EAVBE = NOD32 Antivirus Business Edition, ESET Smart Security ESSBE = Business Edition).
+ - Added an option to change the seconds to wait for the detection of internet when activating the "Start with the system."
+ - Added languages: French, Persian, Russian, Ukrainian, Swedish.
+ - Fixed errors when connecting to certain license servers.
+
+The procedure for treatment:
+ Disable self-defense, run TNod User & Password Finder and wait until the installation license.
+
+
+WARNING:
+
+* ESET can detect these utilities as a false virus.
+
+Add into exclusions, the paths.	

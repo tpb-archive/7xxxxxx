@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+,Tedevil,2012-03-24T15:34Z,"Ignore the installation instruction fron CORE since it does not work. Do this:
+1. Disable internet. Pull network cable from computer, do not just disable the network adapter.
+2. Install and open UltraEdit.
+3. Click Register when it asks you about it.
+4. Click Activate, which will send you to another box. Click Offline Activation.
+5. Fill in a username and password.
+6. Copy the 2 codes into the keygen. Click generate. Copy the codes it gives you into the registration box and register!
+7. Patch host file from the keygen."
+,Zhcwu,2012-04-15T22:45Z,"keygen keeps crashing after intro? tried run as admin too, and turned of antivirus.... anyone have any other ideas?"
+,Zhcwu,2012-04-15T23:03Z,"Ignore me,, for some reason the first time i downloaded it, i didn't get the keygen so I thought the CORE10k.EXE was it... May CORE Live forever, one of the few fine groups left they still care about people and not $$ love you guys."
+,dapidc,2012-05-23T11:37Z,"cannot download keygen, TrendMicro detected it as trojan.
+
+Actually, it works OK. just disable the AV."
+,Kulstad71,2012-05-27T00:55Z,"@Tedevil
+I tried using your method, but when I clicked the ACTIVATE button, I just got an error message saying something like INVALID RESPONSE FROM SERVER, even tho I had modified my Hosts file and physically disconnected from the internet.  Also, I couldn't get the keygen to generate anything.
+
+I'm not normally this wee-todd-ed about ""alternate installation methods"", but what the hell am I doing wrong?"
+,Kulstad71,2012-06-01T02:47Z,"With a little bit of help from Google, I found the answer to my problem (merging Tedevil's instructions with my fix):
+1. Disable internet. Pull network cable from computer, do not just disable the network adapter.
+(1a - patch host file)
+2. Install and open UltraEdit.
+3. Click Register when it asks you about it.
+4. Click Activate. (You should get an INVALID SERVER RESPONSE error message twice)
+(5a - click the PROXY button)
+(5b - enter anything into the 2 boxes ie: FRUITLOOPS and 2012)
+(5c - you should then get the option for offline activation)
+5. Fill in a username and password.
+6. Copy the 2 codes (there are 2 USER CODES [User Code 1 and User Code 2]) into the keygen. Click generate. Copy the codes it gives you into the registration box and register!
+7. Patch host file from the keygen. (I did this before I installed).
+
+The above should work just fine.  Do NOT check for updates from within UltraEdit.
+
+Oh yeah...and don't forget to re-enable/re-connect your internet connection when you're done."
+,softsrv,2012-06-04T16:07Z,"""Patch Host File"" does not seem to work from the keygen on Win 7 (64 bit)... so patch manually as per instructions in Read Me.txt....
+
+... and the programmer typed code into his new editor long after the sun had set
+
+spot on guys!!"
+,Chewza,2012-07-08T21:26Z,"Thanks for the download, this has to be one of the greatest text editors available for windows, and I use it every day.
+
+And yes, if you disconnect your internet connection, then hit activate, it will give you the ability to click the offline registration button.  
+
+Works great, thanks again!"
+,AhmadLight,2012-08-31T03:27Z,Works 100%

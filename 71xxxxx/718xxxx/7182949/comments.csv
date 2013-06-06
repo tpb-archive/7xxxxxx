@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+[V],ThumperTM,2012-04-13T15:54Z,enjoy
+,FineTune,2012-04-13T23:24Z,"Does this need to be used every 180 days?
+
+p.s. You fucking rock Thumper!!"
+,checholin,2012-05-09T21:40Z,"Hey Thumper, i went by your forum and the register is not working...
+
+Thanks for the m$ toolkit, works great."
+,TheColdTruth,2012-06-13T03:14Z,"Citation & Bibliography functionality greyed out/disabled after using this tool, works great otherwise!"
+,TheColdTruth,2012-06-13T03:43Z,"Here's the fix if your citation/bibliography isn't working in Office 2010:
+
+""After much frustration and careful review I have created a fix for this problem that does not require one to uninstall and reinstall the software.
+
+Step one:
+
+Merge the following entries into the registry:
+
+[HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionInstallerUserDataS-1-5-18Products 0004109B10090400000000000F01FECUsage]
+
+""WordBibliographyFilesIntl_1033""=dword:40b60006
+
+[HKEY_CLASSES_ROOTInstallerFeatures 0004109110000000000000000F01FEC]
+
+""WORDBibliographyFiles""=""WORDFiles""
+
+Step two:
+
+Open Microsoft Office Word 2010 and click on the References tab.  This course of action will start the installation process.  Once the installation is finished, close out of Word and reopen it.  All the Citation and Bibliography functionally should now function normally.
+
+Best regards!"""

@@ -1,0 +1,37 @@
+Official Web Site:   http://www.obdev.at/products/littlesnitch/index.html
+
+A firewall protects your computer against unwanted guests from the Internet. But who protects your private data from being sent out? Little Snitch does!
+
+Protect your privacy
+
+As soon as youΓÇÖre connected to the Internet, applications can potentially send whatever information they want to wherever they want. Sometimes they do this for good reason, on your explicit request. But often they donΓÇÖt. Little Snitch allows you to intercept these unwanted connection attempts, and lets you decide how to proceed. Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can then choose to allow or deny this connection, or define a rule how to handle similar, future connection attempts. This reliably prevents private data from being sent out without your knowledge. Little Snitch runs inconspicuously in the background and it can also detect network related activity of viruses, trojans and other malware.
+
+Define whom you trust
+
+Little Snitch provides flexible configuration options, allowing you to grant specific permissions to your trusted applications or to prevent others from establishing particular Internet connections at all. So you will only be warned in those cases that really need your attention.
+
+Keep an eye on your traffic
+
+Little Snitch includes a Network Monitor, showing detailed information of all incoming and outgoing network traffic. A status icon in the menu bar provides a summary of current network activity, and a monitor window with more comprehensive information pops up automatically in case of new traffic events.
+
+
+What's New in 2.5 Version
+
+* Automatic software update.
+
+* Improved screen sharing support.
+
+* Improved privacy: Network Monitor no longer shows the destination
+  of other userΓÇÖs connections.
+
+* Fixes- a rare kernel panic.
+
+* Fixes a bug in combination with sockets of protocol divert.
+
+System Requirements:
+
+PPC or Intel Mac, OS X.4 - X.7
+
+--- PLEASE SEED ---
+
+

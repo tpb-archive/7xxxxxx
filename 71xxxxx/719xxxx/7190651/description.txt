@@ -1,0 +1,32 @@
+This package contains deobfuscated, unpacked skypekit binaries for Windows and x86_Linux + SDK
+All anti-debugging code was removed so feel free to explore binaries.
+
+Runtimes was a little bit fixed so it makes a handshake with Skype authorization server just like a regular desktop client for Windows.
+That means you don't need to request any certificate to use it.
+Btw, package contains termless keypair.pem file but it is intended only for compatibility with SDK.
+Even if this key will be revoked by Skype, runtime will work as usual because the key is not involved in handshake process.
+
+The "-d" option now writes clear debug log (only for 3.7.0) in vanilla skypekit the logs are obfuscated.
+
+
+For more help got to skypeopensource@conference.jabber.ru
+
+
+
+-----------------------------
+
+3.7.0  windows_x86 runtime  Voice(Skype Audio Library), No Video
+3.7.0  linux_x86 runtime  Voice(Skype Audio Library), Video(RTP)
+4.1.2  beta  windows_x86  Voice(Skype Audio Library), Video (Skype Video Library)
+
+
+-----------------------------
+Checksums:
+
+file						md5sum
+
+RUNTIME_linux-x86-skypekit-voicertp-videortp_3.7.0 - 2f8babbc6530e7ad874667f895264ee1
+RUNTIME_windows-x86-skypekit-voiceSAL-novideo_3.7.0.exe - fb35dead8ad79882d6e762f832eb65ab
+RUNTIME_windows-x86-skypekit-voiceSAL-videoSVL_4.1.2.exe - e2b9b76f8a3abf2b0d385b1d00f75efc
+keypair.pem - 06351becb3e901246068b37f881fe449
+

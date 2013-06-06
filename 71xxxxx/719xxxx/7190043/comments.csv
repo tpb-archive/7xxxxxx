@@ -1,0 +1,127 @@
+﻿User Type,Username,Date,Text
+,lasskke,2012-04-16T15:10Z,Works great on Windows 7 (32 & 64 bit)!
+,OmniNegro,2012-04-16T16:41Z,"I know you just answered this, but I must ask anyway. Does this install and work fine in Windows 7 x64? I tried years ago to get my purchased copy of G2G installed in Windows 7 and it managed to install and then would not run at all.
+
+It would start drawing the window and stay at 100% of one core CPU usage but never move to actually loading.
+
+I actually asked GoG if they could verify this worked for more than just the install. I explained that I could get my copy to install fine, but the executable would not run in any situation I could produce. 
+
+They only told me it did in the most generic way possible while linking in a reference to the support for their games. In other words they denied a sale rather than bother to answer my question.
+
+Presuming it works, I should point out this is *WAY* better than the rest of the Gothic series."
+,lasskke,2012-04-16T17:04Z,"@OmniNegro
+I also couldnt get it work on Windows 7 about 2 years ago,but this is GOG version, it has their installer and its optimize for Windows 7.
+Its run great for me, I have Windows 7 32 bit, I dont see why wouldnt work for you,try it.
+You try also to enabled antialisaing in Nvidia Control Panel(or ATI), to remove jagged lines.
+Comment if you succeed."
+,OmniNegro,2012-04-16T17:24Z,"Thank you for the quick reply. I will try and post back my results.
+
+And not to judge anyone in any way, but I will buy the game from GoG if it works out. Despite the fact that PB never bothered to keep the retail version workable for modern OSes. I feel like it is only right to support those who keep the great games of yesteryear working.
+
+Thank you in advance. (Slow download for now. I will give it time.)"
+,lasskke,2012-04-16T20:43Z,Seed bitches!!!! :)
+,OmniNegro,2012-04-17T01:26Z,"Lol. People never bother to seed, nor even allow uploading. Their system should bitch-slap them for this nonsense.
+
+Currently at ~15%... Still uploading ten pieces for ever piece I finally manage to download. Leechers like these should be shot in the face."
+,garinca123,2012-04-18T13:45Z,"Seed,plz.This wersion work great on win7 x64 & its a one of the best RPG ever."
+,OmniNegro,2012-04-18T14:43Z,"/Sigh
+
+43.7% and waiting forever. Seed!
+
+I want to see that it works before I give GoG my money. It would suck especially hard to find it not working since I own a retail copy of it too. (Retail copies are useless these days it seems.)
+
+Here is MS saying that piracy is desirable. I wish I could sig it here.
+https://en.wikipedia.org/wiki/Digital_rights_management#Not_all_piracy_is_undesirable_to_digital_rights_holders
+
+GoG themselves should seed this so we can verify it works and finally see reason to pay them."
+,garinca123,2012-04-18T15:55Z,Me to stuck at 43.7%.No seeds or...?
+,OmniNegro,2012-04-18T16:28Z,I believe the seeder (Singular.) only seeds in the daytime of the USA. And they have limited bandwidth for this. Be patient and help others to help yourself.
+,lasskke,2012-04-18T16:41Z,"I'm seeding, but my internet is very slow,sorry..."
+,OmniNegro,2012-04-18T17:20Z,"No need to apologize. It is the responsibility of the leechers such as myself to support you.
+
+Those who do not contribute should apologize.
+
+I and others am patient. Thank you for the reply though. :)"
+,OmniNegro,2012-04-19T21:31Z,"Lol. I forgot how old this was. Max screen resolution is 1400 by something else. I will look for a way to manually edit it to work in nice 1920 x 1080.
+
+If you cannot get it to load, you need to open Game Explorer in Windows. (Look for it with the default games like Minesweeper.) and disable loading boxart and junk. Otherwise you have to allow gameux.dll access to the Internet. No way for me. But it works fine if you just open Game Explorer and disable that junk.
+
+Here is some information about that.
+https://social.technet.microsoft.com/Forums/en/w7itprogeneral/thread/d9aaef3d-d294-4a27-847f-0dc1422e3930
+
+GoG will get a sale to me for this once I verify it actually works beyond getting into the menu.
+
+Thank you lasskke. The seeding took it's sweet time, but we understand what a pain it is dealing with all us leeches. :)"
+,OmniNegro,2012-04-19T21:43Z,"Easy as cake. Here is the details. (A quicker search than I would have suspected.)
+
+http://www.gog.com/en/forum/gothic_series/notes_on_widescreen_resolution/
+
+There are multiple pages to the thread. Read them *ALL*. Some work is required to get things working right. I am testing now to see if I can manage. 
+
+Last time I tried this was years ago and I failed to get it working. It looks like the work continued however."
+,OmniNegro,2012-04-19T22:27Z,"Failure again. I uninstalled. GoG clearly did nothing to address the aspect ratio problem, despite the fact that a solution was available. But since they use their own executable, it is impossible to use that without a boatload of work and files no-longer available.
+
+GoG gets no sale.
+
+Thank you for finally answering my years old question of weather or not this is worth buying. It is not in my never humble opinion. 
+
+If you use a widescreen aspect ratio, you can expect everything to be distorted forever. And videos do not play at all. None of them. Fuck GoG."
+,garinca123,2012-04-19T23:42Z,"Work perfect on my win7 x64.This will work for wide screen:* Disable video scaling because otherwise videos may only have audio!
+scaleVideos=0
+
+* Custom resolution (system/gothic2.ini file) to 1920px x 1200px widescreen:
+zVidResFullscreenX=1920
+zVidResFullscreenY=1200
+zVidResFullscreenBPP=32
+
+* Extend menu to fit widescreen:
+extendedMenu=1
+
+* Antialiasing, anisotropic filtering and other graphic candy:
+zTexAnisotropicFiltering=1
+zVidEnableAntiAliasing=1
+zSubdivSurfacesEnabled=1
+zCloudShadowScale=1
+zTexCacheSizeMaxBytes=128000000
+zSndCacheSizeMaxBytes=80000000
+
+* Enable Quick Save buttons (F5 save, F9 load):
+useQuickSaveKeys=1
+
+* Shortcuts for healing- and mana potions (appears in ingame settings):
+usePotionKeys=1 "
+,levian_durai,2012-04-20T00:04Z,"Got stuck at about 70%, then someone started seeding again. Will seed to 2.0 ratio, but this needs more seeds!"
+,OmniNegro,2012-04-20T16:18Z,"@garinca123
+
+Thank you. I am glad I bookmarked this torrent.
+
+I am reinstalling to test your changes. I am shamed to admit it, but this fixed the problem entirely. It even retains the settings properly unlike the retail boxed version from years ago.
+
+I advise anyone wanting to try this to run the game first, and set all the settings to the best it offers in the menu, including the sound renderer and speaker setup before doing the changes. 
+
+Then just search for every setting as mentioned above and you will no longer be playing Gothic 2 Gold Midget Version. :)
+
+Even the videos work fine like this. They are not fullscreen, but that is a petty and trivial price to pay for not listening to the videos only.
+
+I am very much puzzled why the setting scaleVideos=0 seems to fix the scaling issues for the main game too. It should not effect that at all. (Probably why I missed that one.)
+
+Thank you again for helping me pull my head from my ass garinca123.
+
+GoG is about to get a sale."
+,OmniNegro,2012-04-20T16:47Z,"Here are a few settings that may be worth noting.
+
+This first one disables intro videos.
+playLogoVideos=0
+
+This one allows ambient sounds and chatter to generate subtitles.
+subTitlesNoise=1
+
+This one makes items glow when you get near them. It could be annoying, but nice when in a dark cave or at night.
+zHighLightScale=1
+
+This one I leave at zero since it disables the Alt-Tab and other shortcuts. Your call though.
+zKillSysKeys=0"
+,abdcool911,2012-06-04T15:05Z,Downloading At The Moment i hope for the best 
+,abdcool911,2012-06-04T18:19Z,"Works FINE  ... Doesn't get stuck at 47% or whatever , I'm usin Window's XP Service Pack 3 
+"
+,RMAapocalypse,2012-06-14T20:15Z,It works perfectly except that I can't see subtitles? I just see a black screen and hear them.

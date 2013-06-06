@@ -1,0 +1,21 @@
+The Fastest Movie Capture
+
+Dxtory is a movie capture tool only for DirextX/OpenGL application.
+In order to acquire data from Surface Memory directly, It operates very much at high speed.
+Arbitrary cropping and free scaling are supported by hardware.
+Non-deteriorated Capture
+
+The codec of Dxtory can record original pixel data as it is. A quality can be pursued to a limit with video source without degradation.
+Moreover, since the third party VFW codec is also supported, the user can choose a favorite solution.
+Distribution HDD Writing
+
+
+The bottleneck of No. 1 of the speed of capture is a write-in speed to HDD.
+If it is the environment of two or more HDD, this function will accelerate writting speed.
+Preparation is completed only by specifying two or more holders which save data, and performing speed setting, without using a special file system.
+Dual Audio Recording
+
+If there are two or more audio input devices, two sound sources are recordable, like game sound and mic input.
+It is possible to edit it individually later because it is preserved respectively as an independent stream in AVI file.
+Only voice changes volume or there is small only game sound, by the conventional mux recording, it becomes possible for it to have been impossible.
+If CoreAudio is effective environment (Windows Vista/Windows 7), since game sound can also be recorded from an output, only by 1 audio device, two lines are recordable. (* There is also a thing which cannot record sound depending on application.)

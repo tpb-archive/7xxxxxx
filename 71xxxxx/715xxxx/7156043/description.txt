@@ -1,0 +1,49 @@
+Created and Seeded By Niresh12495
+For Support 
+
+
+Version 10.7.3 V2
+
+Thanks to My Friend "Jude Nirosan" Initial Seeding and Thanks to All Seeders 
+Thanks to MoElleven For Giving Me The Background Image
+Please Seed My Torrents As long As You Can 
+
+Thanks for
+Chameleon Team
+Kexts.com (For Drivers)(Torrent Hosting)(Torrent Hosting)
+ThePirateBay.org (Torrent Hosting)(Torrent Hosting)
+
+To Download Drivers Goto Kexts.com
+You Can Update to Any 10.7.x Updates 
+goto support.apple.com/downloads 
+
+
+Changes in This Release 
+Fixed The "?????" Display Error 
+PS2 Drivers Were Changed Again
+Fixed "Keyboard Not Found" problem for PS2 Keyboard Users 
+Added Boot Plist Commands as Packages 
+Added Support for VESA Display Support
+Chameleon was Updated to svn 1913+
+nscript Was Added (Not as a Package)
+Voodoo Battery Packages Was Modified 
+Installation Supports USB3.0 Install Method
+USB 3.0 Kext Was Updated from the kext from MultiBeast 4.2.1
+SuperVIAATA Was updated
+FakeSMC and The Plugins Were Added
+Java for Mac OS X 10.7 V1 Was Added to The Essential Packages
+Removed Most of Graphics Driver as They Were Made from 10.7.2 
+Added Support for AD2000B Audio Driver
+AppleNForce ATA Was Added to Fixed Kexts Instead of SuperNForce ATA as It Was only a 32 Bit Supported Kext
+A Few Language Translations Were Added
+Nvidia Natit Driver Was Updated
+GMA 4500 Driver Was Updated
+Added HandBrake and "The UnArchiver" Applications
+Updated MPlayerX , Champlist , VLC and CleanMyMac Applications
+Removed Disabler Kext From The Package "Fixed Kexts" as NullCPUPowerManagement Kext was an Alternative to Disabler Kext
+Fixed Some Errors Faced During Installation
+Added AMD Kernel 
+npci was changed from 0x2000 to 0x3000
+Updated The Package ALC662 
+Updated Chimera to 1.9.0
+My Next Release Will Be Mountain Lion On September Until Then Bye ΓÇªΓÇªΓÇª..

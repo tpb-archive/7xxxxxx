@@ -1,0 +1,89 @@
+﻿User Type,Username,Date,Text
+,Wuppertaler79,2012-03-16T11:25Z,"It also works on a softmodded WII.
+ItÂ´s just the normal Fanmade translation, nothing super special^^
+The usual stuff :D"
+,alexff37,2012-03-16T12:01Z,"Its not so easy to patch it for dolphin. normal patch just crush the emulator.
+
+You need Wiiscrubber (1.4) + partitionbuilder (1.1).
+
+Load ISO in wiiscrubber
+
+Extracting key partition files:
+1. Expand Partition:2 (DATA)
+2. Right click + extract the following files:
+-partition.bin
+-boot.bin
+-bi2.bin
+-apploader.img
+-main.dol
+
+Save them all to a folder like ""ff4sys"" or something.
+
+Data files: Right click Partition:2 (DATA) -> Unencrypted Partition -> Extract
+Save to a folder like ""ff4data"" or whatever you want.
+
+Patch files: Download + Extract the patch files. You need to copy these to the appropriate folders in the data files partition you extracted (""ff4data"" in my example). These are the corresponding paths:
+BigFontGhostList -> HideItem or SmallFontGhostlist -> HideItem
+Chapters -> RSL
+Credits -> RSL
+Item -> HideItem
+Menu -> Miya
+Miya -> Miya
+RSL -> RSL
+Songs -> SNDSTREAM
+
+Rebuilding the partition:
+1. Open partitionbuilder.exe (make sure you have version 1.1!!)
+2. Load up the files it needs (extracted to ""ff4sys"" in my example).
+3. Source file directory is the data partition you extracted to a folder (""ff4data"" in my example).
+4. Click build, remember the filename you saved it as.
+5. Wait. When it finishes, exit partitionbuilder.
+
+Back to Wiiscrubber:
+1. Right click Partition:2 (DATA) -> Unencrypted Partition -> Load -> Open the partition img you built in partitionbuilder.
+2. Wait. Once it finishes you can exit Wiiscrubber and you'll be all set.
+
+Normal patch only works for real wii"
+,mrpinkeye85,2012-03-18T00:43Z,has anyone tryed on a softmod wii? i tryed the other patched version and it freezes halfway through frist level. is this one better?
+,alexff37,2012-03-18T01:11Z,Wuppertaler79 tried and it works
+,Ryusei,2012-04-02T21:12Z,"Okay.  This is my first time trying to mod any game for dolphin.  This is also my first time trying to use wiiscrubber or partitionbuilder.
+
+However, I'm hot having an issue with the instructions until I get to this part:
+
+""Patch files: Download + Extract the patch files. You need to copy these to the appropriate folders in the data files partition you extracted (""ff4data"" in my example). These are the corresponding paths:
+BigFontGhostList -> HideItem or SmallFontGhostlist -> HideItem
+Chapters -> RSL
+Credits -> RSL
+Item -> HideItem
+Menu -> Miya
+Miya -> Miya
+RSL -> RSL
+Songs -> SNDSTREAM""
+
+Where am I supposed to get the patch to do this?  I'm fairly sure once I have the patch I can figure it out, but I can't seem to find an active link for said patch.  Any help would be very much appreciated."
+,alexff37,2012-04-03T08:53Z,It's already patched
+,Ryusei,2012-04-03T09:16Z,"So we're to skip that step and go straight to the 'rebuilding the partition' section?
+
+I was under the impression that I needed to do those steps to be able to play the game on dolphin.
+
+Sorry for being such a nuisance I just don't want to ruin the file beyond fixing and have to redownload it if I didn't need to in the first place >.>;"
+,alexff37,2012-04-03T10:41Z,No you don't need to do anything just run the game 
+,Ryusei,2012-04-06T01:55Z,"Okay~  I've gotten it to work.  But now I've run into another issue.
+
+The second time you play as Misaki, when you have to enter in the code for the intercom - I go up to examine it and as soon as I hit next it takes me out of the screen and back into third person view.  Is this a glitch?  Is there a way to fix it?"
+,Ryusei,2012-04-06T15:45Z,N/M it fixed itself after I rebooted the game.  Strange.
+,Im_Cortez,2012-04-07T06:34Z,"If anyone can please seed, I'll be more than happy to keep seeding after..."
+,AndrewZsz,2012-05-06T06:23Z,"Burned at 4x with a smartbuy DVD-R and it DIDN'T worked ):  
+
+I downloaded 3 FF4 torrents already, but none of them worked for me!  
+
+I have a 4.3 wii softmoded and Gecko at HBC to force ntsc... gecko just doesnt load the game and the disc channel crashes to an black-error screen saying that i have to remove the disk and restart the wii... any ideas?"
+,dieagain20113,2012-08-16T03:17Z,"1. so if I start game with dolphin, then its English in-game? I dont need to run any exe to make it English?   
+2. can u play through chapter 7 male part 2. with someone's ff4 torrent.when there is a panel with 3 buttons, a bug didnt let me photo ghost air around the panel, cant progress story.   "
+,Kaylei,2012-08-27T13:31Z,"Quick question.  I've managed to get the game to load and actually work - but now I've run into a bit of a jam.
+
+Once I get to the title screen, I receive a message that I can only assume is an error message (sadly, I cannot read Japanese).
+
+Does anyone know how to fix and/or bypass it?  I'm thinking I don't have my emulated remote set up correctly (using keyboard), or maybe I have to delete something to make it work properly.
+
+Any thoughts on this?"

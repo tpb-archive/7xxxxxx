@@ -1,0 +1,56 @@
+General
+Unique ID                                : 234949325544774451673012355396782483519 (0xB0C1981A15C73E59A6E15A04440B683F)
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 67.2 MiB
+Duration                                 : 2mn 56s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 195 Kbps
+Movie name                               : Van Halen - She's The Woman [Por @RenanMartinsDV]
+Encoded date                             : UTC 2012-04-13 19:31:25
+Writing application                      : mkvmerge v5.4.0 ('Piper') built on Mar 10 2012 13:34:39
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2mn 56s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 3 600 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Title                                    : X264 1280X720 3600KBPS 29.97FPS
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2mn 56s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Title                                    : AAC 44.1KHz 128KBPS estéreo
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,tony5490,2012-04-07T21:39Z,Well it just got uploaded so I shall be a guinea pig on this one. let ya know
+,casper1690,2012-04-07T22:30Z,crap blurry missing ten mins aswell
+,HolyDuFF2,2012-04-08T00:34Z,"Hi, i was going to explain to ya all why the movie is shorter than the retail one. But, it seems that the movie is acually shorter. Anyway, when you watch the real movie it's shown in 24 FPS (23.976 FPS) but when you watch it in the cinema it's played in 25 FPS. So i made a calculation out of it as you can see below.
+
+NOTE: The runtime of this movie is not 1h 25mn it's 1h 30mn.
+
+Real Playtime: 6780 sec (24 FPS)
+TS Playtime: 5416 sec (25 FPS)
+CAM Playtime: 5101 sec (25 FPS)
+
+Multiplier: 0.96 (1/25 = 0.04 | 1 - 0.04 =0.96)
+
+Calculation: 6780*0.96 = 6508,8 sec
+
+25 FPS Playtime: 6508,8 sec - Credits = (5416 sec || 5101 sec) ???
+
+I belive that this is a correct calculation that removes 1 second every 25th second. However this means that the movie credits must be either 18 mins or 23 mins. In this case 18 mins cus this is the TS version. And i don't believe that the credits is 18 mins. So why is the movie shorter than it's supposed to be?"
+,cstraybeck,2012-04-08T14:48Z,"@HolyduFF2, there's a bonus scene in the end of the credits which is also missing, that scene is about 2 minutes long. But still, the credits ain't that long."
+,HolyDuFF2,2012-04-08T15:29Z,"ironymon, you are totally stupid. We are talking movies here, not games. All the movies out there are made for 24 FPS (23.976 FPS) but i cinemas the movie runs in 25 FPS. That means that it will show 25 pictures of the movie in one second except for 24. That will make the movie shorter at faster playback in the cinemas because it will play thru all the movies pictures faster. Here is and example why.
+
+If we take this movie as an example. This movie is 113 min. Now we need to convert this to seconds.
+
+113*60 = 6780 sec
+
+Now we need to convert the seconds into frames. And the standard is 24 FPS (23.976 FPS)
+
+6780*24 = 162720 frames
+
+Now we need to convert this into seconds for playback at 25 FPS.
+
+162720/25 = 6508,8 seconds
+
+Now, the results.
+
+Movie length @ 24 FPS: 6780 seconds
+Moive length @ 25 FPS: 6508,8 seconds
+
+As you now can see, the moive is shorter and runs faster at 25 FPS. Now, if you are to stupid to understand this. Please download Fraps. Then open VLC or any other moive playback software i suppose and then run a DVDRip of a moive. You will see that fraps shows 24 FPS. Now, run this moive a TS version. You will see that fraps shows 25 FPS. And if your to stupid to understand that and thinks that fraps shows wrong. Then please do the following in VLC.
+
+Tools > Codec Information
+
+Then look for ""Frame rate"" and you will see that VLC will say 23.976215 for a regular movie and 25 for this one. Now, fuck who did you say?"
+,mikiqex,2012-04-09T08:31Z,I saw in teaser some scenes I didn't see in the movie and I don't think because those scenes didn't make it thru the final cut. Some parts are missing!
+[V],maximersk,2012-04-09T22:28Z,"Please... Let him alone, guys !
+HolyDuFF2 is fucking right !!"
+,colonelrxc,2012-04-14T05:19Z,who gives a shit if he's right?! No one cares!! Rate it and run

@@ -1,0 +1,53 @@
+Complete name
+Spartacus.S01E1.B92.x264[mixman].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 582 MiB
+Duration                                 : 49mn 57s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 629 Kbps
+Encoded date                             : UTC 2012-03-20 21:24:22
+Writing application                      : mkvmerge v5.4.0 ('Piper') built on Mar 10 2012 13:34:39
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 49mn 57s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 10 000 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 50.000 fps
+Original frame rate                      : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 49mn 57s
+Channel(s)                               : 1 channel
+Channel positions                        : Front: C
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 9ms
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No

@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+[V],nikita200,2012-04-03T19:24Z,"Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 9. October 2007, 14:21
+
+Caludio Baglioni / Al茅-O贸 CD1
+
+Used drive  : ATAPI-CDROM-DRIVE-52MAX   Adapter: 1  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Combined read/write offset correction       : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Installed external ASPI interface
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : Yes
+Command line compressor         : C:ProgrammiExact Audio Copywavpack.exe
+Additional command line options : -h -m -w ""Artist=%a"" -w ""Title=%t"" -w ""Album=%g"" -w ""Year=%y"" -w ""Track=%n"" -w ""Genre=%m"" %s %d 
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:08.00 |         0    |    14099   
+        2  |  3:08.00 |  4:20.57 |     14100    |    33656   
+        3  |  7:28.57 |  5:01.65 |     33657    |    56296   
+        4  | 12:30.47 |  5:02.15 |     56297    |    78961   
+        5  | 17:32.62 |  4:56.55 |     78962    |   101216   
+        6  | 22:29.42 |  5:11.48 |    101217    |   124589   
+        7  | 27:41.15 |  5:47.02 |    124590    |   150616   
+        8  | 33:28.17 |  5:53.40 |    150617    |   177131   
+        9  | 39:21.57 | 15:50.53 |    177132    |   248434   
+
+
+Range status and errors
+
+Selected range
+
+     Filename D:Caludio Baglioni - Al茅-O贸 CD1.wav
+
+     Peak level 100.0 %
+     Range quality 100.0 %
+     Copy CRC D32735B0
+     Copy OK
+
+No errors occurred
+
+End of status report"
+[V],nikita200,2012-04-03T19:24Z,CD2 coming soon
+[V],nikita200,2012-04-04T12:35Z,"CD2:
+
+http://thepiratebay.se/torrent/7158896"

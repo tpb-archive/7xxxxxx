@@ -1,0 +1,52 @@
+DVDFab Platinum v8.1.6.7 Qt Beta
+
+This is a AIO = all in one program double click exe and use clickable buttons.
+
+[img]http://www.dvdfab.com/images/logo.png[/img]
+
+DVDFab 8.1.6.7 Qt Beta (March 14, 2012)
+
+New: Added profiles for some Android mobile devices.
+
+Blu-ray Copy:
+New: Added option "Remove Java protection with StealthyClone anti-protection" in "Settings -> Protection -> Blu-ray".
+New: Added support for new Java-based protection.
+New: Improved fake playlists detection.
+
+
+
+Installation Info:
+1)install the dvdfab setup and don't launch
+2)open crack folder and  right click on the msvcr90.dll and copy
+3)go to the install folder or do the patch same spot 
+C:Program FilesDVDFab 8 QT   and or C:Program Files(x86)DVDFab 8 QT
+and right click and paste the file and Copy over other msvcr90.dll 
+4)start DVDfab program and close welcome screen
+and click on the green check mark at the top
+and on the top left of the settings window click on general
+and in the middle bottom area UNcheck check for new version automaticly click ok
+And never update as u will lose your registration
+5)enjoy from Slickinator
+
+NOTE: some computers with win 7 64bit  may not work as of yet but has been working on win 7 32bit and windows xp pro
+if having problems try right clicking on patch and run as admin .. good luck   
+
+... in there own writing
+
+heres what one person told me that worked for them in windows 7 64bit
+For Win 7 (maybe Vista too) 64 bit users, here is what I did to get it to work.
+- Ran the file 'DVDFab Platinum v8.x.x.x Qt Final + Patch'
+- Chose to run the setup at the top.
+- On install, chose a custom install path. Rather then let it install to the 'Program Files (x86)', erase the (x86). So the path would be 'c:Program FilesDVDFab 8 Qt (32-bit)'
+Note: I appended (32-bit) to the name so I would remember that it's a 32-bit app and not 64-bit.
+- From the first launch window of DVDFab, choose 'Patch or Crack'. A explorer window should pop up that points to 'C:UsersJoeAppDataLocalTempir_ext_temp_0AutoPlayDocsPatch And Crack'
+- Open the 'or Crack' folder.
+- Copy the 'msvcr90.dll' file to your 'c:Program FilesDVDFab 8 Qt (32-bit)' folder. Rename the original if needed.
+- Go back to your 'Patch and Crack' folder.
+- Open the 'DVDFab.Products.v8.x.x.x.Multi.Patch.v1.x-BBB' folder
+- Launch 'Patch'
+- Press the 'P' button.
+- Navigate to your 'c:Program FilesDVDFab 8 Qt (32-bit)' folder and select the 'msvcr90.dll' you copied over from earlier.
+- Click 'Open'
+That should do it. Open DVDFab and verify that it says in the field "License Expires" it says "Never Expires" 
+

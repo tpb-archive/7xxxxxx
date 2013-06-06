@@ -1,0 +1,167 @@
+﻿User Type,Username,Date,Text
+[V],linday1,2012-03-29T21:26Z,"Hunter Windows 7 Ultimate SP1 1.9 x64 ""Office 2010 integrated"" NL NLT
+
+Omschrijving:
+Hunter Windows 7 Ultimate SP1 1.9 x64 ""Office 2010 integrated"" NL Maart 2012 DRIVERPACKS SSD (NL DVD9/usb-stick versie)
+
+Deze Aangepaste Windows 7 Installatie is voorzien een hoop aanpassingen, hierdoor is er geen product-code of **** nodig.
+Maar dat nog lang niet alles een hoop programma's en Windows Updates zijn voor ge"
+[V],linday1,2012-03-29T21:29Z,"installeerd,
+ook zijn er veel instellingen veranderd hierdoor word het maximale uit Windows 7 gehaald! 
+
+Office 2010 is volledig verwerkt in de Windows installatie, hierdoor beschik je meteen over een volledig office pakket.
+
+*anders dan bij andere Custom Windows 7 versies verwerk ik alle programma's en updates in de installatie image (install.wim)
+en worden niet tijdens of de na de Windows installatie geinstalleerd.
+Dit scheelt tijd en ruimte!
+
+Aan het eind van de installatie word er gevraagd of Windows op een SSD is geinstalleerd,
+en als er op Ja word gedrukt word SSD Tweaker pro geinstalleerd en geheel automatisch uitgevoerd.
+Daarna volgt de zelfde vraag over Driverpacks deze kunnen geheel automatisch worden doorgelopen en de benodigde drivers worden ge"
+[V],linday1,2012-03-29T22:16Z,"geInstalleerd.
+Zo ben je in een klap klaar!
+
+wel word aangeraden later de video drivers van de website van de fabrikant te halen zodat je beschikt over de allerlaatste versie.
+Helaas kunnen er driver conflicten optreden door gebruik van driverpacks. En dit resulteert in blauwe schermen.
+
+Door mij is geen computer-naam of gebruikersnaam opgegeven, dit moet je dus zelf doen tijdens de installatie.
+Dit vind ik persoonlijk het prettigste.
+
+een Custom Windows 8 Thema is verwerkt en op standaard ingesteld. hierdoor zien veel dingen er net wat strakker uit.
+er zijn geen systeem bestanden aangepast hiervoor.
+Zodat het geen nadelige werken heeft op de snelheid.
+
+Op de vraag of er een 32bit versie komt kan ik kort zijn, deze komt er niet.
+De reden hiervoor is dat de meeste computers nu prima overweg kunnen met een 64bit besturingssysteem,
+en ik zelf geen 32bit meer gebruik. Daarom vind ik het zonde van de tijd om alles 2 keer te gaan doen terwijl ik zelf maar 1 versie ervan gebruik. "
+[T],djjlicious,2012-03-30T00:19Z,"Jammer, geen 32 bit. Komt ie nog linday1?"
+[V],linday1,2012-03-30T10:40Z,"sorry ik krijg al de info er niet op door dat stomme piratebaytekst gebeuren.
+
+Nee er komt hiervan geen 32bit zegt hij "
+[V],linday1,2012-03-30T10:42Z,"Verwerkte programma's/onderdelen:
+---------------------------------
+Rocketdock 1,3,5
+
+Ccleaner 3.16
+
+Office 2010 Professional Plus
+
+Adobe Flash Player
+
+Adobe Shockwave
+
+Adobe Reader
+
+Java 6 update 31
+
+Direct X 9c
+
+Visual C++
+
+Windows Live messenger V.14
+
+Winrar pro 4.0
+
+Shark Codec pack V.3.5.6
+
+Security Essentials (Anti-virus)
+
+Windows Calender (Vista7)
+
+*(Vista7) overgezet uit Windows Vista, standaard niet aanwezig in Windows 7.
+"
+[V],linday1,2012-03-30T10:43Z,"office 2010 professional plus:
+****************************************
+Word,Excel,Powerpoint,plubliser,outlook en acces. zijn volledig verwerkt in deze installatie. ook de EZ-Activator is voorgeinstalleerd.
+
+Aanpassingen tenopzichte van standaard instellingen (Tweaks):
+-------------------------------------------------------------
+1. UAC het beruchte gebruikers account beheer is uitgeschakeld.
+is nodig voor het installeren van Unattended/Silent installers.
+
+via start - msconfig - hulpprogramma's - UAC instellingen. weer aan te zetten.
+
+2. Energieschema is op Hoge prestatie gezet.
+omdatanders je computer in stand-by gaat na een tijdje.
+
+via bureaublad eigenschappen - schermbeveiliging energie-instellingen wijzigen -
+selecteer een energiebeheerschema en dan vervolgens op Gebalanceerd (aanbevolen) zetten.
+
+3.De Taakbalk is klein ingesteld zodat deze er hetzelfde uitziet als in de vorige versies van Windows.
+
+Via Taakbalk rechtermuisknop - eigenschappen - kleine pictogrammen gebruiken uitvinden -
+en taakbalkknoppen op combineren labels verbergen zetten weer ongedaan te maken.
+
+4. Kleine bureaublad pictogrammen.
+
+via bureaublad rechtermuisknop - beeld - normale pictogrammen - weer terug te zetten naar normaal.
+
+5. Rocketdock start automatisch op.
+
+via Start - uitvoeren - msconfig - opstarten - weer ongedaan te maken.
+
+8. Windows Update vraagt niet meer om een herstart na het installeren van Updates.
+
+via start -> regedit ->[HKEY_LOCAL_MACHINESOFTWAREPoliciesMicrosoftWindowsWindowsUpdateAU] -> ""NoAutoRebootWithLoggedOnUsers""=dword:00000001
+van =dword:00000001 dit maken: dword:00000000 weer ongedaan te maken.
+
+9. internet Explorer 8 werkbalk favorieten zijn uitgezet.
+
+10. Google in de zoekbalk van Internet Explorer 8.
+
+11. uxtheme bestanden zijn gepacht, hierdoor is het mogelijk om thema's te gebruiken die niet officeel afkomstig zijn van Microsoft.
+
+12. Windows 8 Thema is standaard ingeschakeld, dit is alleen een thema er zijn verder geen systeem bestanden aangepast.
+via bureaublad -> aan persoonlijke voorkeur aanpassen -> weer te veranderen in het standaard thema.
+
+"
+[V],linday1,2012-03-30T10:43Z,"Office 2010 geactiveerd:
+************************
+Office is al geactiveerd doormiddel van de EZ-Activator van office 2010 toolkit.mocht je hiermee later problemen ondervinden dan kan je hier de laatste versie van office 2010 toolkit vinden:
+
+http://forums.mydigitallife.info/thread ... -Activator
+
+Windows 7 Loader:
+-----------------
+door de win7 loader van DAZ is Windows na de installatie meteen geactiveerd. er komen vaak nieuwe versies van de Loader uit
+mocht je problemen ondervinden met de Windows 7 loader of een nieuwe versie willen installeren dan kun je hier een kijkje nemen:
+
+http://forums.mydigitallife.info/thread ... nformation
+
+Na de installatie kan je een virusmelding krijgen over Loader.exe, deze heb ik bewust in de map WindowsSetupscript laten staan
+zodat je deze kan deinstalleren mocht er een nieuwere versie van de Daz Loader uit zijn en je problemen ondervindt.
+Deze virusmelding kan dus als een vals alarm worden beschouwd.
+
+
+INSTALL NOTES:
+--------------
+Installeren van uit een bestaande Windows Installatie is niet mogelijk, je moet opstarten vanaf de DVD of USB-stick (Meestal kom je in het boot-menu door tijdens het opstartscherm op F8 te drukken)
+
+Vervolgens selecteer je de Gewenste partitie, en formateer je deze.
+
+De installatie gaat nu zijn werk doen, alles is van tevoren door mij opgegeven behalve de computernaam en gebruikersnaam.
+
+wanneer het bureaublad voor de eerste keer geladen word loopt er een script die de laatste taken uitvoert, ook word er gevraagd of Windows op een SSD is geinstalleerd en kan daar op worden aangepast met SSD Tweaker pro.
+daarna word er gevraagd of er gebruik moet worden gemaakt van Driverpacks. (LET OP* Het kan voorkomen dat er een driver conflct ontstaat door het gebruik van Driverpacks. dit resulteerd in blauwe schermen!)
+hierna word het systeem herstard en is deze gebruiksklaar!
+
+Hunters dank gaan uit naar:
+************************
+HJW
+Muiz
+Roeldie
+
+Ik heb hem op mijn pc staan en hij loopt als een zonnetje  Let erop je kan hem beter branden met een programma zoals poweriso en je hebt een grotere usb nodig dan 8 gig. 
+"
+[T],liluser,2012-03-30T15:20Z,"is it NL only or multi language ?
+is the native install in NL or EN ?
+what date have you updated this os till ?
+does it have any driverpacks added ?
+
+well done looks good ;-)"
+,frenchman2803,2012-04-02T20:43Z,"Is this a regular .iso image to put on a cd and just boot from? Is it possible to get the boot in english? (havent tried it yet, just downloading."
+,jdevrieslentsch,2012-04-07T14:04Z,"Hunter, schijnbaar laat jij iets weg in je release wat mijn machine nodig heeft. Tijdens de installatie van jouw versie van oktober en deze met office integrated zegen dat er iets ontbreekt wat voor mijn machine nodig is. Met een standaard installatie CD heb ik daar geen last van. Laat jij soms ondersteuning voor SSD's of Blueray schrijvers weg?"
+,papatony,2012-04-13T20:17Z,linday1.. good day to you.. can i install this for english? thanks and more power..
+,toolkid,2012-08-21T10:40Z,"Werkt er goed, heb meteen alles compleet, drivers proggrammas
+Heb al 10 keer geinstaleerd op systemen, geen probleem gehad"
+,toolkid,2012-08-21T10:41Z,"Je hebt wel 16 GB nodig, met 8 redt je het net niet"

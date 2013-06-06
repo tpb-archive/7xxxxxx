@@ -1,0 +1,27 @@
+Changes in DVDFab Passkey 8.0.5.6 (March 17, 2012):
+
+ * New: Updated language files.
+ * Fix: ΓÇ£Rip to Hard DriveΓÇ¥ broken with two or more drives.
+
+ Passkey for Blu-ray:
+
+ * New: Added support for new BD+ protection.
+ * New: Added support for new Java-based protection.
+ * New: Added brand new ΓÇ£StealthyClone anti-protectionΓÇ¥ as a generic way to beat latest Java protection. Please visit http://blog.dvdfab.com/stealthyclone-anti-protection.html to get more details.
+ * New: Added option ΓÇ£Remove Java protection with StealthyClone anti-protectionΓÇ¥ in ΓÇ£Settings -> Blu-rayΓÇ¥.
+ * New: Improved main playlist detection for latest Blu-ray discs with fake playlists protection. DVDFab will select correct main playlist with correct angle in ΓÇ£Main MovieΓÇ¥ mode, also the main playlist can be got in ΓÇ£Settings -> InfoΓÇ¥ window.
+ * New: Added region reset support for PowerDVD 12 and TotalMedia Theatre 5.2.
+ * Fix: A black screen problem when BD-Live is removed, and user accesses the BD-Live content from the backup disc.
+
+
+Preactivated-silent installation...
+
+Simply clever and easy to install and use so.
+
+Special thanks to Master13 for his great job as well as for sharing.
+
+enjoy and have fun
+
+cheers ;)
+
+a nice day end to all

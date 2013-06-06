@@ -1,0 +1,15 @@
+ImageGlue is a popular toolkit for dynamic image generation. With ImageGlue you can manipulate images in high quality and with incredible performance using simple C#, VB.NET and ASP.NET code. Use ImageGlue as an Active Server Page Extension to create and modify images on the fly from Windows based web servers. Use ImageGlue as a .NET component in your desktop applications. If you're looking for the best image component for the Microsoft's .NET Framework, use ImageGlue .NET! 
+
+ImageGlue .NET is a .NET native product encapsulated in an easy-to-deploy set of DLLs. You'll find our documentation clear and extensive, with example code in C# and VB.NET for all major functions, and an example web project which you may freely adapt. 
+
+Read and write core image types like BMP, PNG, TIFF, JPEG/JFIF, GIF, Photoshop, QuickDraw PICT, Targa, PDF, EPS, Macromedia FlashΓäó 5, QuickTime Image, Silicon Graphics, MacPaint, FlashPix and JPEG2000. Handle extremely large TIFF files with our Very Large TIFF SupportΓäó. Read images from movie types like AVI and MOV. Plus support for over 80 other graphics file formats. 
+
+Draw image files or data, text (in columns or along paths), lines, shapes (unfilled, filled or textured). All available anti-aliased. Perform arbitrary transforms (e.g. rotation, skews, scaling) on any of these objects. Make use of hardware acceleration if available. 
+
+Use transparencies to blend or matte images together. Insert alpha channels. Select portions of images for specific operations. Manipulate image color tables using a multitude of different palette and color reduction methods. 
+
+ImageGlue .NET Professional edition now incorporates the same PostScript rendering engine as used by ABCpdf, our PDF component, which has proven to be fast, robust and accurate. PostScript support enables you to import and export PS, EPS, and PDF files in their native color spaces. PostScript is a programming language with practically unlimited power so all the power of PostScript from simple text drawing to complex warping and special effects are yours for the taking. 
+
+Use IGSettings to manage system-wide configuration and collect operational, error and optimization information. 
+
+Read and write images to databases as BLOBs. Use standard html file uploads to allow clients to send you image files for processing. Extract IPTC and EXIF image metadata like captions and keywords for insertion into databases. ImageGlue meshes perfectly with the print world...

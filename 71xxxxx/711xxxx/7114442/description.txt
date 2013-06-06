@@ -1,0 +1,18 @@
+This patched version fixes the bug on modern computers where
+Marble Drop hangs on completing a level. No need for
+compatibility mode.
+
+These files are not from the CD, but are the actual game files. 
+The Marble Drop installer is 16-bit, which means it doesn't run
+on 64-bit OSes.
+
+To play the game:
+1. Run the marbledrop.reg file. This only has to be done once.
+2. Start marble.exe!
+
+The game still suffers from the "black screen on startup"-bug.
+This is fixed by dragging the window out of sight and then back
+again.
+
+I don't think there are any other game-breaking bugs, if you can
+find any, please post about them in the comments.

@@ -1,0 +1,14 @@
+Elite: The New Kind was a fan remake of the highly successful space trading game Elite. 
+
+Elite TNK was worked on between 1999 to 2002 by Christian Pinder.
+
+This particular version is 1.0, dated from 22 July 2001.
+
+---
+
+Note - If you are getting strange color issues, try creating a batch script in the games directory which includes the following -
+
+taskkill /f /im explorer.exe
+newkind.exe
+start explorer.exe
+exit

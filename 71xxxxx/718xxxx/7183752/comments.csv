@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,jamz3243,2012-04-13T22:31Z,"md5: 
+
+dc63b64f5b106ecc8939f403f7da6bd0  anonymous.iso"
+,notadmin,2012-04-13T23:07Z,"what would these ""lulz"" be? i don't want my computer fried"
+,jamz3243,2012-04-14T03:22Z,"@notadmin it's not really meant for everyone, I made this for a specific freind. by lulz I mean a certain set of apps that can be used to test your own network's latency.
+
+This is still a work in progress, it's kinda like a mix of tails (censorship evasion) but for the network savy person that wants to make their own ""secure"" network."
+,notadmin,2012-04-14T16:31Z,that actually sounds really interesting. i already am running linux and i have tails on a thumb drive but hey as long as this is safe i'll give it a try
+,jamz3243,2012-04-17T04:13Z,"@notadmin, well it doesn't have the same precautions tails has(as it the fact that you can install it on a hardrive; where tails won't let you & it also does not sense nor alert you when you run it under a vm), it does have the same applications used to circumvent network blocks. it comes with utilities to help you also better understand network blocks with an application call hping, while it is called a network smasher you can use it to craft packets to see what packets a network admin/firewall/etc. is looking to block so you can make tor and i2p to work should said network block say imcp and udp traffic to a site you like, like wise you can also use hping to do simple stress tests and what not. I also included ohter things like pentbox, some iptable rules already preset but at a cost, I had to also preset ports for tor and i2p (so you might want to change them when you boot, if you feel paranoid about being sniffed out on a network). Same thing with ssh, I installed it along with webmin, so you might need to regenerate you ssh key (but on the cool side you can at least boot a bunch of these cds and have a make shift supercomputer or botnet). I included a few images below.
+
+http://bayimg.com/OAogOaaDB"
+,jamz3243,2012-04-17T04:14Z,"also sorry for not seeding, I was away for a while, however I will begin seeding again. it shouldn't be interrupted this time."

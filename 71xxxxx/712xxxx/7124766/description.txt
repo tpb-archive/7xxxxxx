@@ -1,0 +1,74 @@
+In this torrent, I'm giving you an emulator kit named PCSX2.  What it does is giving you the option to play PS2 games on MAC OSXs Snow Leopard(SL) and Lion.  Offically, it perfectly works with SL. I also added a modded PCSX2 emulator to the package named "PCSX2 r5109.zip" for Lion users. The Installation video is here:
+
+
+
+
+
+
+
+FOR SNOW LEOPARD USERS:
+
+
+So what we need to run this emulator on MAC is:
+
+
+1.  "PCSX2" itself (You will download PCSX2/mac Snow Leopard only under PCSX2/mac full builds title):
+ 
+http://pcsx2mac.net/downloads/
+
+
+2.  "XQuartz" which is a community supported update to X11 in Leopard (In order to make it run, you should have at least 10.6.3): 
+ 
+http://xquartz.macosforge.org/landing/
+
+
+3.  nVidia developer tools "Cg Toolkit" which is needed for the graphics.  Technically, you can download from nVidia's Website but it requires registration so I already downloaded and added it in this package for you.  You have it as "Cg-3.1.0010.zip" file.
+
+
+4.  "PCSX2 BIOS" which makes it possible to start the emulator.  I added the BIOS files in the package as "bios.zip" file.
+
+
+
+
+
+
+FOR LION USERS:
+
+
+Since I'm using SL, I couldn't try the modded one (PCSX2 r5109.zip) for Lion but some of my friends did and it worked for them. All you need to do is to drop it to your HD and click to run, you dont't need the installation steps above.  This ported one works with SL too but I suggest SL users installing it with the way above. 
+
+
+
+
+
+
+
+
+Minimum System Requirements for PCSX2 to get performance while playing games:
+
+Intel Core 2 Duo 3.2 GHz Processor (Intel i3 processors or higher recommended)
+MAC OSX 10.6.3 for SL or 10.7.x for Lion
+2 GB RAM System Memory (4 GB RAM or higher recommended) 
+256 vRAM dedicated graphics cards that support Pixel Shaders 2.0 (512 MB vRAM dedicated nVidia or ATI graphics cards recommended)  
+
+
+
+There are some tips for you to make PCSX2 run faster on a MAC:
+ 
+http://www.ehow.com/how_4686634_make-pcsx2-run-faster-computer.html
+
+
+Here is the PCSX2 compatibility list for the PS2 games:
+ 
+http://pcsx2.net/compat.php?p=1&c=a&s1=1&s2=1&s3=1&s4=1&s5=1
+
+
+
+
+ 
+ 
+
+
+
+
+Have fun!

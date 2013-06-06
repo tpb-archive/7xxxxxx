@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-03-25T05:08Z,at least simon is back.. so this years wont be such a flop as last years
+[V],psspss,2012-03-25T05:11Z,"from now on anyone i see not sharing in my peer list
+will be going to my personal block list
+
+and anyone connecting to me with bitlord bitcomet or
+transmission or any other weird client other
+then utorrent will be blocked
+that includes utorrent ver less then 2.x
+some still using 1.6 1.7 and 1,83 out there with
+poor UTP support
+
+azure and mac utorrent and bittorrent all seem good
+so far
+
+im finding these arent sharing the data and slows
+it down for all
+
+==
+
+how to save wasted data using utorrent
+
+http://digiex.net/guides-reviews/guides-tutorials/application-guides/937-enable-update-ip-filter-block-list-utorrent-ipfilter-dat.html
+
+all have a read
+
+this is how Im doing it..
+I made a ipfilter.dat in the program data area
+and just add found ip from peerlist to it
+x.x.x.x
+right click on peer list then go update ipfilter.
+person is then gone from the list :_)"
+[V],psspss,2012-03-25T06:26Z,"hmm just watching does seem the audio drifts
+a little throughout the video after all.
+not too bad though. maybe its just my player
+or just the first 1/3 of the video.
+
+shame all mp4 sources are not equal.. as they dont convert well 
+a few of them but we stuck now as all switch
+from xvid to mp4s so have to do a convert regardless"
+[V],psspss,2012-03-25T06:37Z,"100 ms on track sync seems better 
+when watching in VLC
+
+might have to wait for a 720p source to convert
+to fix it.. I think the minor random corruption
+in various places
+knocks it a bit"
+[V],psspss,2012-03-25T06:54Z,"to fix the minor audio sync
+if want to fix once downloaded and want to keep do these steps (otherwise use VLC player from videolan.org.. and go tools m track sync and
+press up arrow once for 100ms so can watch it)
+
+1) download avidemux.org and install
+2) run and load the video
+3) tick shift down the side and enter 100
+4) file pulldown then save -> save video and 
+enter the name
+
+done"
+,Tyki,2012-03-27T21:13Z,"is there another version around,  am thankful you took time to upload this but the picture sound is really bad, can't enjoy it."
+[V],psspss,2012-03-27T23:47Z,"I think some added the mp4 here for you
+theres now a 720p but saem capper so
+maybe using a bad tool still which dont convert to xvid perfectly..
+
+the sound can be fix in less then a minute if read above comments either when playing or
+via the editor... 1 min in editor to resave it
+or a few seconds to adjust in player
+
+the video seemed ok to me.. maybe some pixels
+in very fast movement"
+[V],psspss,2012-03-27T23:49Z,"as above ..
+720p is here
+http://thepiratebay.se/torrent/7130284/Britains.Got.Talent.S06E01.720p.HDTV.x264-C4TV
+
+
+theres also a xvid by someone else its bigger though maybe higher bitrate so no need for me to redo mine.. as im happy with my version it was good enough on laptop"
+[V],psspss,2012-03-27T23:50Z,"another rip of xvid
+http://thepiratebay.se/torrent/7130365/Britains.Got.Talent.S06E01.HDTV.XviD-AFG
+
+I say its done from the same main source though"

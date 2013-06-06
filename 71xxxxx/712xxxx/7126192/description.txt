@@ -1,0 +1,24 @@
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 3h 8mn
+Bit rate                         : 3 181 Kbps
+Nominal bit rate                 : 3 500 Kbps
+Width                            : 1 920 pixels
+Height                           : 800 pixels
+Display aspect ratio             : 2.40:1
+Frame rate mode                  : Variable
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.083
+Stream size                      : 4.19 GiB (73%)
+Writing library                  : x264 core 112

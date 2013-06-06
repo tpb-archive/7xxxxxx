@@ -1,0 +1,45 @@
+Video
+ID/String                        : 0
+Format                           : MPEG-4 Visual
+Format_Profile                   : Advanced Simple@L5
+Format_Settings_BVOP/String      : 2
+Format_Settings_QPel/String      : No
+Format_Settings_GMC/String       :  warppoint0
+Format_Settings_Matrix/String    : Default (H.263)
+MuxingMode                       : MuxingMode_PackedBitstream
+CodecID                          : XVID
+CodecID/Hint                     : XviD
+Duration/String                  : 1h 30mn
+BitRate/String                   : 959 Kbps
+Width/String                     : 688 pixel3
+Height/String                    : 368 pixel3
+DisplayAspectRatio/String        : 1.870
+FrameRate/String                 : 29.970 fps3
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bit3
+ScanType/String                  : Progressive
+Compression_Mode/String          : Lossy
+Bits-(Pixel*Frame)               : 0.126
+StreamSize/String                : 620 MiB (80%)
+Encoded_Library/String           : XviD 64
+
+Audio
+ID/String                        : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Format_Settings_Endianness       : Big
+CodecID                          : 2000
+Duration/String                  : 1h 30mn
+BitRate_Mode/String              : CBR
+BitRate/String                   : 224 Kbps
+Channel(s)/String                : 2 channel2
+ChannelPositions                 : Front: L R
+SamplingRate/String              : 48.0 KHz
+BitDepth/String                  : 16 bit3
+Compression_Mode/String          : Lossy
+StreamSize/String                : 145 MiB (19%)
+Alignment/String                 : Alignment_Split
+Interleave_Duration/String       : 33 ms (1.00 video frames1)
+Interleave_Preload/String        : 500 ms

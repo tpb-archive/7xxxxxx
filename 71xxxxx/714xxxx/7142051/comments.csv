@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,leobrz81,2012-03-30T02:03Z,Is this the base game w/ ALL expansions? Or base game only? It seems very small for all expansions. Anyone try it yet?
+,feiko,2012-03-30T08:58Z,Yes it it with all For mac in NL and no installers just copy to the right place. all converter to small packages.
+,ginger92,2012-04-03T22:56Z,"I downloaded and everything looks okay...but it opens up, then goes to a black screen and crashes. Did I copy it to the wrong place?"
+,raosman,2012-04-04T07:16Z,"I just downloaded everything works fine for me, the only issue i have is the whole game is in different language. How do I change it to english?"
+,freakyshax,2012-04-10T17:05Z,seeeed!!!!
+,EnJoy92,2012-04-12T17:56Z,Welke uitbreiding zijn het allemaal ??
+,caitflorida,2012-04-13T18:11Z,"I feel dumb but I've never done torrents with a Mac...
+Can anyone walk me through it? I unzipped it with The Unarchiver and now I have a list of the files and I'm not sure where to go from there."
+,caitflorida,2012-04-13T18:49Z,"The only file that works is the base game, which I already have installed, and all the others show up as ""Unix Executable File""... Can anyone help?"
+,Dapso,2012-04-13T22:50Z,"Solution is: First. Update Sim3 to the latest version. Go to the Finder /Applications/De Sims3 and right click on Sims3 click on the openb content. Now you see the content. Go to the 
+(Sims 3/Contents/Resources/transgaming/C Drive/Program Files/Electronic Arts/The Sims 3/Game/Bin
+open ""default. ini"" with TextEdit. Go to the end of the lines. You'll see a game version like 1.4.6.00001. This number can be different. Just change the last (!) number 1 to 2 like this 1.4.6.00002. The number changes the region code so if the WAP is from europe change it to 2. if other regions. Change it to your region code number.(http://upload.wikimedia.org/wikipedia/commons/9/92/DVD-Regions_with_key-2.svg). 
+I don't know if it works please try and say if it works or not."
+,skooth,2012-04-25T07:22Z,"Hi, working perfect on my MPB 2011 with Lion OSX. But is it possible to change the language to English or Portuguese? I tried a lot of things and couldn't do it. Thank you!"
+,nmujicar,2012-04-30T19:39Z,How can i change the language?
+,jmacias94,2012-05-01T07:19Z,"excuse me, I downloaded this torrent and worked perfectly! But how can I change the language? any help? thanks!"
+,piuloc,2012-05-10T23:43Z,Jus give me f*cking answer to change the f*cking language !!!
+,rachel2055,2012-05-13T15:24Z,How do you change the language to English??
+,amig0252,2012-05-15T17:05Z,"Hi Dapso, I just tried what you said and it didn't work.. the game is still in Dutch.. have no idea how to do it :("
+,eldarion044,2012-05-17T17:31Z,"i don't know if this works... but it's something.
+http://www.modthesims.info/wiki.php?title=Game_Help:Change_Game_Language"
+,TheSacBoss,2012-05-21T15:46Z,i downloaded it now can someone please tell me how to make it work from there
+,mitchie29,2012-05-22T18:46Z,De uitbreidingen zijn ze allemaal dus tot en met showtime en accessoires pakketten ook. Ook zitten alle downloads erbij van de sims 3 store. Ik ben nu aan het kijken hoe ik hem werkende kan houden omdat als ik hem opstart dat ik een foutmelding krijg maar als ik download installeer krijg ik het opstart scherm gewoon. Ik zal jullie later weten of hij het zal doen en wat is precies jullie probleem ?
+,mitchie29,2012-05-22T18:47Z,"And for the English people :
+This is a copy of a DUTCH installed game. We do not know how to change the language that is your problem."
+,mitchie29,2012-05-23T19:16Z,"How to let it work :
+To make the sims 3 work on your macbook you first have to unpack both packages and replace the map : The SIMS 3 to applications and the sims 3 map ( the other one ) you have to replace that to documents. When you want to play it, it wil not work because there is no connection. You need to go to documents-the other one map you have placed-Sims3-downloads. Select them al and click double. then it will install the downloads. When it is done ( during 10 minutes ) you could play the sims. When it is the first time you need to slow down and let everything need his time. Then you could play !
+
+Sorry for my english not very good at all ;) Hope it works for you guys !"
+,rajerk,2012-06-02T19:39Z,which expansions are included?
+,TheSacBoss,2012-06-12T16:40Z,it keeps saying an error occurred.Can someone please help me?
+,vicfi,2012-07-14T00:25Z,"Finally discover how to change the language!!
+
+First: Open the Folder De Sims 3/The SIMS 3
+Right click on The Sims 3.app -> Show Package Contents.
+
+You all have to set finder to find files on the actual folder. To do that, go to Finder Preferences, Click on the Advanced tab.
+
+After this, search "".reg"" on finder's spotlight, then open ALL files named ""update_always.reg"" with TextEdit.
+Then change locale ""nl-NL"" to ""en-US"", also change the country to US.
+
+Some reg. files you have to change two times, first after [HKEY_LOCAL_MACHINESOFTWARESimsThe Sim 3 ~expansion pack name~]
+""telemetry""=dword...
+
+And then, after [HKEY_LOCAL_MACHINESOFTWARESimsThe Sims 3]
+""country""=...
+
+
+
+Then, just open The Sims 3.app again o/
+
+The Launcher Menu will continue in Dutch, but after you click on the play button, everything will be ""translated"" to the language you set.
+
+Sorry for my English."
+,Lady25,2012-07-15T02:19Z,"Hey Vicfi!
+
+Are you sure that will work for MAC?! I'm not trying to sound rude or anything it's just I've been searching everywhere to get the Sims expansions for MAC to work to no avail. I don't know if I can take another disappointment that's all. :)"
+,vicfi,2012-07-15T18:11Z,"Lady25, I've searched on google for hours and had no success, so I tried to change the language without a tutorial. You have too follow exactly what I said and It will work. It's not easy, but try! And if you fail, I'll make a video tutorial"
+,edgariokas,2012-07-19T16:27Z,"i just unzip it and its not working, keeps saying Het opstarten van de applicatie is mislukt. can anyone help me ?"
+,DiscardedMads,2012-07-20T09:48Z,"Hey! Thanks a lot for the torrent, works just perfect!
+
+@Vicfi Thanks a lot! I could even get the game in my own language! (Norwegian) Massive thanks to you, my friend!"
+,DiscardedMads,2012-07-20T15:05Z,... and I was wondering if I can update the game without destroying anything? Thanks!
+,abelardus,2012-07-20T17:26Z,I updated the game (it wouldn't let me play without updating) and now it is asking me to insert a cd I don't have. Any solutions?
+,abelardus,2012-07-20T17:58Z,reopened the zip. It will start without updating in dutch but not english. Any solutions? Could someone with a working english version maybe upload a new torrent?
+,maebba,2012-07-30T17:49Z,I need help !!! Don't know how to do the thing that the person says to change the language :p !  help me please! 
+,TheSacBoss,2012-08-10T15:16Z,"@vicfi 
+OMG thank you so much it worked only thing is my sims are gone but thanks anyways :)"

@@ -1,0 +1,13 @@
+1. Uninstall any other version of Sygic, delete Aura folder and reboot.
+
+2. Install 11.2.6 and select any map to download. Interrupt download after a few kb completed.
+
+3. Check the folder. Aura shows only database.xml file.
+
+4. Copy contents of Aura folder from your PC including the base files (~ 292 mb) into /sdcard/Aura and maps into /sdcard/Aura/maps.
+
+5. Restart application. Start page shows maps to select, select continue without selecting any maps. Program downloads another 130mb and works.
+
+Steps above are required if you get prolonged "loading configuration files" message. If you don't get that message, just copy the base files (Aura folder) to sdcard and maps into /sdcard/aura/maps and you are good to go.
+
+Maps included are 100% for India. 

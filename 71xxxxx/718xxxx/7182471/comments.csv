@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,DFC-Louise,2012-04-13T20:11Z,"This has japanese text as well, right?"
+[T],tikasukaz,2012-04-13T21:10Z,"More info here
+
+http://vndb.org/v777
+
+There is no english patch yet"
+,DFC-Louise,2012-04-13T21:33Z,"Ah, thank you, i'll have to wait."
+,Krosbryd,2012-04-15T00:34Z,"Doesn't look like this works, unless I'm completely missing something.  I tried to mount the MDS image, but Daemon Tools keeps saying ""Unable to mount image.  File not accessible.""  I then installed it from the setup file provided, but when I tried to play, it told me to insert the disc.
+
+I know it's a new torrent, and very few people will get this game (due to it not having an English translation), but does someone know of way to fix this?"
+[T],tikasukaz,2012-04-15T19:57Z,Please start seeding.. don't just download
+,dragonsofchaos,2012-04-23T06:12Z,"Go to: http://nodvd21.en-grey.com/Entry/9/
+First, download ""Mahoutsukai Patch.rar""‎
+Then, extract.
+Inside the ""Mahoutsukai Patch"" folder, there will be a subfolder named ""plugin"" and a total of 3 files.
+Copy all the files (including the subfolder) and place them into:
+C:Program FilesTYPE-MOON魔法使いの夜
+It should tell you that files with the same name already exist.  Choose REPLACE for all.
+(2 of the 3 files should be preexisting.)
+Next, click on the link to the right of ""NoDVD Patch→""
+After the download, extract and double-click the files that's NOT the ""read me"" file.
+It should prompt you to choose an executive file.
+Go to C:Program FilesTYPE-MOON魔法使いの夜 again, and choose the ""魔法使いの夜.exe""
+Now Click Open, and everything should be working."

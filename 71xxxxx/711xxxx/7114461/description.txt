@@ -1,0 +1,31 @@
+TORRTUX 0.1.1 Beta test
+------------------------
+
+Description :
+Torrtux is a terminal-based program, written in perl for downloading torrents from The Pirate Bay. 
+With it you can get the magnet link of your torrent, copy it in the clipboard and open your torrent manager. All of that from your terminal ! 
+It also allows you to get the details of your torrent, the author, the date, the type, the size, etc., just like being on the TPB site !
+
+It retrieves informations in the source code of the TPB page and parses it with regexp and the library html-parser. 
+
+You have to chose your favourite torrent-manager in the config file in ~/.torrtuxrc.
+
+Torrtux is still in beta test, so report all the bugs you find, thanks !
+
+Features :
+- Research of torrents on thepiratepay.se
+- Sorting of the torrents, like being on TPB
+- Downloading of the magnet link
+- You can open your favourite torrent-manager
+- Automatic copy of the magnet link in your clipboard
+
+Language :
+English
+
+License :
+GPL v.3
+
+Website/doc :  
+http://sourceforge.net/projects/torrtux/
+
+Enjoy ! 

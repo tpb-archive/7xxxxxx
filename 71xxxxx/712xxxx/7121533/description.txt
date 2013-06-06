@@ -1,0 +1,23 @@
+Corpus of 63735 Czech newspaper articles from online news portals, mainly from year 2010, saved with information about date, title, URL, extracted text of the article and HTML source code.
+
+The corpus is not "homogenous" with respect to time - the amount of articles per day and the ratio of different sources varies trough time - for more details, see the paper below (in Czech only).
+
+The text is not extracted perfectly from the HTML source - the extraction was done by Readability script, ported to perl.
+
+The articles themselves are in year/month/day/number.xml and year/month/day/number.html files; .html is the HTML source (obviously), the rest of the data is in the .xml.
+
+To be used only for educational and non-commercial purposes. 
+(C) the original authors of the articles, glued together by Karel Bílek, student of Charles University of Prague, done as a byproduct of the paper Sledování témat v elektronickém zpravodajství - https://github.com/runn1ng/zpravostroj2/raw/master/thesis/prace.pdf . A citation would be nice ^_^
+
+--
+
+Korpus 63735 českých novinových článků z několika zpravodajských serverů, převážně z roku 2010. Uloženo včetně informací o datu, titulku článku, URL, čistého textu článku a HTML zdroje původního článku.
+
+Korpus není "homogenní" vzhledem k čase - počet článků na den a poměr různých zdrojů se v čase liší - viz práce níže. 
+
+Text není vyextrahován z HTML zdroje perfektně; extrakce byla udělána upraveným kódem Readability, portovaným do perlu.
+
+Články jsou v souborech rok/měsíc/den/číslo.xml a rok/měsíc/den/číslo.html; .html je zdroj, .xml je zbytek dat.
+
+Používejte pouze pro výuku a výzkum a nekomerčně.
+(C) původní autoři článků, vyrobeno Karlem Bílkem, studentem Univerzity Karlovy v Praze, jakožto vedlejší produkt bakalářské práce Sledování témat v elektronickém zpravodajství - https://github.com/runn1ng/zpravostroj2/raw/master/thesis/prace.pdf . Nějaká ta citace by mě potěšila ^_^

@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,ahmed100,2012-04-12T22:42Z,"-----------------------------------------------
+Instructions
+-----------------------------------------------
+
+Navigate to java.com website or use the file in the java folder and install Java Runtime Enviroment (jre).
+Do NOT install the ask.com toolbar.
+
+Let's install Peugeot:
+
+Mount the ServiceBox 09.2011 Peugeot Disk1.iso
+(I used DAEMON Tools Lite, do NOT install the crapware that is bundled with it)
+The disk should autostart.
+
+Choose English as language and press ok.
+Next.
+Choose no and press next.
+Write down the ""Installation code"" and start the Peugeot keygenerator ""PeugeotKG.jar"".
+Only works under windows XP - windows XP mode, free from microsoft - http://www.microsoft.com/windows/virtual-pc/download.aspx
+
+Populate the installation code and choose country ""US"". Click ""generate"" and copy the activation code.
+Paste the activation code in the setup window and press next.
+Enable both tickmarks and click next.
+Next.
+Accept the license and click next.
+Choose ""Standalone installation"" and click next.
+Choose ""Complete installation"" and click install.
+
+Wait for the installer to finish and press ""finish"".
+Wait for the installer to ask for DVD 2/2.
+
+Unmount disk 1 and mount disk 2; wait for it to mount and press ok to continue setup.
+
+Choose ""Standalone installation"" and press next.
+Choose ""Complete installation"" and press install.
+Wait for the installer to finish and press ""finish"".
+Press finish again to exit the installer."
+,ahmed100,2012-04-12T22:56Z,"Run PSA Date Validator on Windows 7, I ran it in compatibilty mode for XP sp3 and run as admin http://www.howtogeek.com/howto/windows-vista/using-windows-vista-compatibility-mode/
+
+Add some years to the license period for both Peugeot and Citroen. I used 10 years which worked fine.
+You might need to do this a couple of times before it works, you can confirm the validity date by right clicking the Peugeot logo in the system tray and choosing ""about"".
+
+Install should be completed now."
+,Redurecto,2012-04-18T20:06Z,"when i press ""generate"" to receive an activation code, the program automaticly shutdowns and generate some Java error log, i dont know why it is happening :( I alreday downloaded latest java. 
+
+p.s. Im trying to do it in win7"
+,ahmed100,2012-04-20T10:59Z,@Redurecto - you need to learn to read.
+,Redurecto,2012-04-20T15:37Z,@ahmed100 what exactly?
+,Redurecto,2012-04-20T15:40Z,@ahmed100 what exactly? ?
+,ahmed100,2012-04-22T11:20Z,@Redurecto - the words
+,Redurecto,2012-05-18T19:49Z,"@ahmed100 what words? lol, are you st u pid or you are acting like st u pid? seems to me you are st u pid and you can't help me this one. If you can't give me  productive response then better s h u t up and don't write anything!"
+,vox225,2012-05-28T00:20Z,HELP ME I ... WINDOWS SEVEN APPLICATION IS NOT WORK ......TANKS
+,thexspirit,2012-08-22T09:43Z,"!!!IMPORTANT!!!
+If your software DOES NOT RUN and get error that is must be updated and is out of date, start it IN COMPARABILITY MODE FOR WINDOWS XP SP3. THIS FIXED THE ISSUE!"

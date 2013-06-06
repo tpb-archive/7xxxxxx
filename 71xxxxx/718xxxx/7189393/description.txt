@@ -1,0 +1,33 @@
+Java 7 New Features Cookbook By Richard M. Reese, Jennifer L. Reese
+384 Pages | 2012 | ISBN: 1849685622 | EPUB + PDF | 4 MB
+
+
+Java 7 is a major update that includes a lot of exciting new language improvements such as support for type inference and improved exception handling. Other new features include the ability to work with symbolic links, a greatly simplified directory traversal technique, and the monitoring of file creation and deletion. Improvements in event handling, security, and concurrent processing have also been added
+
+
+Java 7 New Features Cookbook is your go-to guide to learn about all the new exciting features Java 7 has to offer with a very practical recipe-based approach.
+
+The book starts with coverage of the new language improvements. Subsequent chapters address the new features of Java 7 while incorporating these new language improvements when possible.
+
+The new NIO techniques provide enhanced capabilities which are complemented by the new try-with-resources block and enhanced generic support. The new JLayer decorator and improved window methods enhance the developerΓÇÖs ability to create GUI applications.
+
+The Java 7 New Features Cookbook provides a comprehensive coverage of the exciting features in Java 7.
+
+What you will learn from this book
+
+Use new Java language improvements such as improved exception handling techniques and better support for literals
+Manage files and directories using the new Path class for better control of file attributes and special files such as symbolic links
+Manage file systems traversals and monitor directory and files changes
+Perform asynchronous IO in Java 7 and treat a zip file as a file system to ease the use of zip files
+Use the numerous Graphical User Interface improvements including window methods, the new JLayer class and various dialog box-related methods
+Utilize improved access to mouse buttons and the mouse wheel along with additional event handling support
+Master the new row set interfaces and control of the database schema
+Use new techniques for interacting with operating system processes and improvement in SSL session support
+Manage threads using the join/fork paradigm and use new data structures with threads
+Incorporate numerous development techniques such as support for locale and currency and the ability to handle null pointers
+
+Approach
+Each recipe comprises step-by-step instructions followed by an analysis of what was done in each task and other useful information. The book is designed so that you can read it chapter by chapter, or look at the list of recipes and refer to them in no particular order. Each example comes with its expected output to make your learning even easier.
+
+Who this book is for
+This book is designed to bring those who are familiar with Java up-to-speed on the new features found in Java 7.

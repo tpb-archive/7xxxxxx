@@ -1,0 +1,55 @@
+Changes in DVDFab 8.1.7.3 Qt Final-(April 1, 2012) 
+
+What's New:
+
+New: Updated language files.
+New: Improved disc opening speed with multiple active drives (including virtual drive).
+New: Improved the reliability of source disc detection.
+
+DVD Copy:
+
+New: Added support for new copy protection.
+
+Blu-ray Copy:
+
+New: Added support for new BD+ generation 13 and new Java protection as found on "The Sitter".
+New: Added support for BDAV disc, a special format used by Blu-ray recorder in Japan. User can use "Main Movie" to copy it to normal BDMV format which can be played on normal Blu-ray player.
+New: Added support to copy Blu-ray 3D disc/iso to Blu-ray 3D folder using "Copy [B]as Blu-ray 3D". 
+Note: To use above new feature, ΓÇ£create .minisoΓÇ¥ must be enabled, and BD50 output only for now. The "BDMVSTREAMSSIF" folder will not be copied from source to save disk space. To playback the Blu-ray 3D folder, user need mount the dvdfab.miniso with DVDFab Virtual Drive v1360 or above, and the SSIF folder will be re-created automatically in the virtual drive.
+Fix: A freeze problem with CUDA encoder in certain cases.
+Fix: An error 401 when copying Blu-ray 3D disc as Blu-ray 2D disc in certain cases.
+Fix: An error 102 when copying "Full Disc" in certain cases.
+
+Blu-ray Ripper:
+
+New: Added support for BDAV disc, a special format used by Blu-ray recorder in Japan.
+Fix: An error 504 when converting to Xbox 360 in certain cases.
+Fix: A freeze problem with CUDA encoder in certain cases.
+Fix: An A/V sync problem when ripping Blu-ray to H264.mp4.aac.
+Fix: A no black border problem when rendering subtitle.
+
+DVD Creator:
+
+Fix: No subtitle problem in certain cases.
+Fix: More then 6 source files cannot be created correctly.
+
+Blu-ray Creator:
+
+Fix: No subtitle problem in certain cases.
+
+_______________________
+
+
+preactivated version-normal installation...
+
+Special thanks to Dimitry for sharing.
+
+as usual,working like a charm indeed.
+
+uncheck case  for check automaticaly new update by your general menu setting option
+to avoid to be blacklisted by Avangate online server checker to be safe.
+That's the way to do it and thefore now,you get full retail version is safe mode.
+
+seed,please.
+
+enjoy and regards

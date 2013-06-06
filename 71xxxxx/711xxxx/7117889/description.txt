@@ -1,0 +1,26 @@
+This is a very small version of Windows XP Professional SP3 x86
+updated to October 2011 with security hotfixes. This edition does
+not include Internet Explorer or Windows Media Player at all.
+Everything is updated. This edition is about as cut down as it can
+be and is only intended for gaming and squeezing life out of the oldest
+computers, however, many people use this version full time and use all
+the same programs and play all the same games as on full XP. Programs
+most likely not to work with this edition are gigantic Microsoft apps
+like Microsoft Office. Other software that relies on MDAC or the Jet
+Database will not work, because  those items are removed. This version
+of Windows is less than a quarter of the size of full Windows. An extreme
+amount of components are removed, to check exactly what is removed, open
+the "Last Session.ini" file here on the ISO: "$OEM$Last Session.ini"
+and look under the section "[Components]" to see what is removed. Then
+also look under the section "[RemoveFiles]" to see individual files also
+removed.
+
+Notes:
+
+- This is the official ISO extracted from the "Windows XP 2003 eXPerience Edition October 2011" created by eXPerience.
+
+- This ISO doesnt include drivers (except the SATA ones) or apps, just the S.O.
+
+- My upload speed is only 20-25kbps so please dont expect fast uploads from me.
+
+- If you need some help with this S.O. join his forum http://retestrak.nl/board/

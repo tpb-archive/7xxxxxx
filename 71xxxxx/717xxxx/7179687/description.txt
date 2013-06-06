@@ -1,0 +1,32 @@
+Note : this torrent contains all the files required for downgrade (except itunes and the ios firmware for your idevice )
+Required Downloads :
+∩éº	Download Host file
+∩éº	Download Sn0wbreeze for Windows
+∩éº	Download TinyUmbrella ΓÇô Windows / Mac
+∩éº	Download FixRecovery ΓÇô Windows / Mac
+∩éº	Download Redsn0w for Windows / Mac
+∩éº	Download iFaith
+∩éº	Download iOS 5.0.1 / 5.0 for your iOS device
+∩éº	Download iTunes Windows / Mac
+How to Downgrade 5.1 to 5.0.1 / 5.0 without SHSH blobs files Tutorial :
+Step 1: You have to go to C:WindowsSystem32driversetc , and replace ΓÇ£HOSTΓÇ¥ file downloaded above
+
+Step 2: Open redsn0w and jailbreak your device, you can follow this tutorial ΓÇô Click Here ΓÇô but you have to point to iOS 5.0.1 or 5.0
+
+Step 3: Then the iPhone will stop on the recovery mode.
+
+Step 4: Open Tinyumbrella (can be found in ΓÇ£Restore FilesΓÇ¥ folder above), then click on your iPhone name at the left then press on Start TSS Server.
+
+Step 5: Open iTunes and restore your iPhone with iOS 5.0.1 / 5.0 firmware (Shift + Restore) then close it.
+
+Step 6: You will find error 1013, at this time you have to use Fixrecovery (can be found in ΓÇ£Restore FilesΓÇ¥ folder above).
+
+Step 7: Open iFaith (downloaded above) and Save shsh file.
+
+Step 8: Open sn0wbreeze (downloaded above) to create custom iOS 5.0.1 firmware and restore with it. Done.
+Note: We have not had a chance to verify this guide, so if you gonna try it, please feed us back, specially iPad 2 users.
+Common Errors:
+∩éº	If you get  3194, 1600, 1602, 1013, 1015, 20 errors, you can fix it ΓÇô Click Here or Here
+∩éº	If you get 1611 error, you can fix it ΓÇô Click Here.
+[via] SpiritJB
+torrent posted by pirate063

@@ -1,0 +1,38 @@
+AIDA64 Extreme Edition 2.30.1911.Beta
+
+AIDA64 (former EVEREST) - the utility is a powerful tool for identification and testing of virtually all components of personal computers running operating systems Windows. Gives you detailed information about all the hardware and software, in addition, with built-in modules for testing and calibration can be further tested the individual subsystems PC. Displays detailed information about all the hardware and software installed on your system.
+
+Features:
+- Level information about motherboard and CPU
+- Details of the video drivers and monitor
+- Information about all storage devices
+- Exhaustive information about network adapters, multimedia and input devices
+Information about other glands (PCI, PnP, PCMCIA, USB)
+- Details of Windows, including the date of installation, the license key and more
+Information about network shares, users and groups list, and much more
+- Large amount of information about networking status, remote access, network resources and Internet settings
+- Detailed information about installed programs, scheduled tasks and startup programs
+- Information about operating system security
+- A list of firewalls, anti-spyware and anti-
+- System Stability Test
+- CPUID Panel
+- Hardware monitoring
+- Benchmarks CPU and FPU
+- Tests of memory
+- Module performance test drive
+- Detection of possible misconfiguration and compatibility issues of hardware and software
+- Report Wizard
+- Mailing and printing
+
+
+Changelog:
+Storage / SMART / improved support for Toshiba T6UG1XBG based SSDs
+motherboard specific sensor info for Gigabyte H77M-D3H, Z77MX-D3H, Z77X Series
+fixed: Multimedia / HD Audio / HDA controller PCI device database lookup
+fixed: Devices / Windows Devices / PCI device database lookup
+fixed: RSoD on nVIDIA GeForce 600 Series (GK1xx)
+
+
+Tested And Working (Serials included)
+
+Enjoy

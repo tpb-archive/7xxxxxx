@@ -1,0 +1,183 @@
+﻿User Type,Username,Date,Text
+,jersson,2012-03-20T22:06Z,Marvellous upload man. Thank You
+,Ellri,2012-03-21T00:42Z,"Thanks so much, I'm installing it now. :)  I'll seed it for as long as I can afterwards~"
+,brianxxx,2012-03-21T01:07Z,Freakin sweet!
+,mankhan67,2012-03-21T12:40Z,bless you
+,mankhan67,2012-03-21T12:42Z,Also do you have any idea where can i find out Arcosft TMT 5.2.119 or 120????
+,Kecman991,2012-03-21T16:22Z,"Does the Remote feature work for anyone?
+Because my android application doesn't find any srevers :/"
+,bungcha,2012-03-21T20:02Z,"thanks
+if u have problem playing 3d full bluray disk i.e.Seks.i.Dzen.3D.2011.x264.Blu-Ray(1080p).BLUEBIRD
+u try     ok"
+,darkchild1,2012-03-21T22:42Z,"Works greats, thanks"
+,MADMAX724,2012-03-22T03:12Z,Is this 64 bit
+,scanfox99,2012-03-23T03:21Z,"Warning everyone:
+This does not install on Windows 7 32bit
+(having Administrator rights)
+
+Error Number: 0x80040707
+Description: DLL function call crashed:
+SKUtil2008.SK_ModifyDefaultFileAssociation
+
+Setup will now terminate.
+
+Image of error pop-up:
+http://bayimg.com/CANaNaADI"
+,scanfox99,2012-03-23T03:27Z,"Warning everyone:
+This does not install on Windows 7 32bit
+(having Administrator rights)
+
+Error Number: 0x80040707
+Description: DLL function call crashed:
+SKUtil2008.SK_ModifyDefaultFileAssociation
+
+Setup will now terminate."
+,scanfox99,2012-03-23T03:28Z,"Image of error pop-up:
+http://bayimg.com/CANaNaADI"
+,yarbs,2012-03-23T13:51Z,"Thanks so much ADHDerby,  I’ve been using your releases for about 4 years now and I really appreciate your perseverance, I can imagine it’s so easy to get bored or have real-world events eventually stop you from posting but you haven’t let that happen so Thanks Mate
+
+BTW As someone who uses PDVD Ultra in Cinema Mode most of the time I think this version is probably the best ever as I can now access Blu-ray folders unlike before when I could only access a Blu-ray Disc or ISO mount in VCD "
+,quible,2012-03-24T00:17Z,"@scanfox99 I have had this problem with powerdvd 10 before. I can't remember the fix for it. I remember unpacking the setup, which I think gave me an option to point to the specified file in the error message. Try that and post back. Like I said, it was powerdvd 10 that it happened to me on, so it was a while back."
+,quible,2012-03-24T00:27Z,"I have a problem too. Powerdvd now no longer plays any of my videos. It played them fine yesterday, but now. nothing. I've reinstalled the software as well and still nothing. It'll show the time remaining, but it just says --/--/-- for the current time. No sound, no video. any fix for this?"
+,quible,2012-03-24T00:32Z,"I run windows 7 x64 with an AMD athlon II 255 with 4gb of DDR3 ram and an nvidia 8400gs graphics card just in case you need to know.
+@scanfox99, I can't replicate your error on a 32 bit virtual machine. Try re-downloading. also make sure windows is up to date."
+[T],ADHDerby,2012-03-24T14:44Z,"You're welcome! :)
+
+@ mankhan67: As far as I know there's no valid crack for it yet
+
+@ Kecman991: I can't test it (don't own an Android) but it should work
+
+@ bungcha: I've experienced no problems with playing Blu-ray 3D movies
+
+@ MADMAX724: It's 32 bit but it works fine on Windows 7 64 bit
+
+@ scanfox99: Like quible said: Try re-downloading. I didn't make changes to the install procedure.
+
+@ yarbs: You're welcome! I have a wife and 3 kids,.. so my computer time is limited. But I keep creating and uploading stuff :S  :D
+
+@ quible: Did you install or update any codecs lately? If so,.. that may be the cause."
+,Squego,2012-03-26T09:38Z,"Thanks a lot ADHDerby !!!
+
+I just have one problem.
+I have a GeForce GTX 560ti connected to an Denon AVR 1912 via HDMI and I wanted to bitstream audio HD.
+So I went to the options and set ""bitstream audio HD"" but when the bluray is playing, this option disappear and I can only choose between ""PCM"" and ""dts bitstream (no HD)"".
+
+Does anyone have a solution for this ?
+
+PS : When the HD audio is decoded by powerdvd and transferred to my Denon in PCM, is it lossless or is the quality worse than audio HD bitstream ?"
+,quible,2012-03-26T20:18Z,"Hi, thanx for the tip ADH. I just installed the shark codec pack, set it to sharks recommended, and hay presto, powerdvd now plays back videos again. It's strange as I haven't changed codec settings since Christmas time. thanx."
+,makbt,2012-03-27T21:46Z,"Hi ADHDerby
+Thankx for the release, I update to Ultra_12.0.1514.54 and I lost this logo
+http://www.imageup.ru/img265/908814/2012-03-22_213627.png.html from the main screen !:( any idea why is that?"
+[T],ADHDerby,2012-03-28T08:41Z,"@ Squego: You're welcome! I don't know a solution yet (can't test it atm)
+
+@ quible: Nice to see that it fixed the video playback problem! :)
+
+@ makbt: They forgot to add a logo (dts_es_neo6.png)
+They also forgot it in the previous version but I fixed it.
+Here's the fix for the update:  
+
+http://www.wuptoad.com/file/2680737542/Media.zip (replace t with l) :D
+
+Copy and replace Media.zip in PowerDVD12 directoryCustomSkinStandardPhoto"
+[T],ADHDerby,2012-03-28T08:46Z,Backslash test: PowerDVD12\Custom\Skin\Standard\Photo
+[T],ADHDerby,2012-03-28T09:14Z,"OK,.. that worked ...
+
+Copy and replace Media.zip in
+32-bit: C:\Program Files\CyberLink\PowerDVD12\Custom\Skin\Standard\Photo
+64-bit: C:\Program Files (x86)\CyberLink\PowerDVD12\Custom\Skin\Standard\Photo"
+,magsood,2012-03-28T12:10Z,"Hi ADHDerby
+Please Create 12.0.1514.54 PreActivated!
+Very Thanks"
+,makbt,2012-03-29T22:44Z,"@ADHDerby
+
+Thanx for the logo fix, i'v been always a fan of ur PDVD release. 
+playing .mkv files, i can see vedio but no sound !! 
+i'v no codec pack installed. is it a splitter issue? 
+
+THANX"
+[T],ADHDerby,2012-03-30T10:01Z,"@ magsood: I've tried it but they changed things in the installer,.. it keeps asking for a serial. :/
+I need an updated Ultra installer or a good brainwave...
+Meanwhile you can update this version without problems.
+
+@ theuniqueuser: They changed a lot of functions and commands.
+The missing tweaks don't work anymore or are obsolete.
+I didn't add the Disable Start-up Apps tweak because PowerDVD gives an error when I disable them.
+
+@ makbt: You're welcome! :)
+It probably is a splitter issue, I've experienced no problems here."
+,makbt,2012-04-01T10:25Z,"@ADHDerby
+Thanx for the response, i'm on win7 X64 ,MKV files was played on PDVD12+update Ultra_12.0.1514.54 as a video only,  installing Haali  splitter x64+ FFDShow x32&x64 i got it A/V.
+If u experienced no problems with stand alone PDVD12 could u lpease elaborate any particular conf. at ur side
+so that i can get results simillar to ur's.
+
+Thanx"
+[T],ADHDerby,2012-04-02T16:52Z,"I'm also running Windows 7 64-bit
++ Shark007 Codecs with Shark007 suggested settings"
+,Colpevole,2012-04-07T00:30Z,thx for the up L ADHDerby! is it possible to get a new link for the media.zip?
+,yarbs,2012-04-07T18:56Z,"I’m back to using Powerdvd 11 again because the picture skips really badly with some VC-1 based Blu-rays like The Matrix.
+
+Typical CyberLink, 1 step forward and 2 steps back"
+,geek4real,2012-04-08T01:41Z,"I have downloaded a bunch of your stuff today because of the great comments people posted.  Thanks for this, and for them all.  My new HTPC loves you.  I will keep them seeding."
+,powcub,2012-04-09T05:30Z,"Can you register and update PowerDVD 12?
+
+what is the difference between 32bit and 64bit PowerDVD 12?
+
+Thanks for the upload, it worked nice and easy :)"
+,Clemenator,2012-04-10T07:37Z,"Cheers mate works great for me, just run as admin win7 64bit
+however i found its 3d to be a big step backwards compared to 11, so i removed it & reinstalled 11..
+however thats not ur problem.. So thank heaps once again :)(:"
+[T],ADHDerby,2012-04-11T09:57Z,"@ Colpevole: Sure, here ya go: http://www.bendspace.com/file/lszf22 (replace the b with s)
+
+@ yarbs & Clemenator: Same here,.. still prefer PowerDVD 11
+
+@ geek4real: You're welcome and thanks! :)
+
+@ powcub: You can update and register without probs
+PowerDVD is 32-bit, but it works on 64-bit Windows
+You're welcome! :)"
+,OverlordM,2012-04-14T20:18Z,"Every time I install it says its installing the Microsoft Visual C++ 2005 Redistributable x86
+but it then says it failed to install it. 
+
+Im running Windows 7 Home Premium 64-bit "
+[T],ADHDerby,2012-04-14T21:16Z,"Workaround: Extract Setup.exe with 7-zip or WinRar.
+Open the  Setup//Runtime directory and delete the ""VC2005 SP1 Update"" directory.
+Run the Setup.exe from within the extracted directory."
+,revolver75,2012-04-15T16:17Z,thx ADHDerby luv your stuff used it for a long always been solid im currently using 11 its my main player for dvd'blu'mkv etc although cyberlink does have its issues ive read the comments and it would seem as far as picture quality goes powerdvd11 is still the best option for 2d or 3d im on the latest 2608 can i ask is it your opinion to stick to 11 for the best picture quality and also is there anyway to fix the problem with mkv not using the subtitle tracks in v11 its very anoying i was watchin mi4 all good up to the foreign parts tryed to activated them in settings but there blacked out i understand this is a normal problem but i though if anyone has the answer you would thx again.
+[T],ADHDerby,2012-04-15T18:06Z,"Atm I prefer PowerDVD 11,.. better picture quality, less stuttering.
+About the subtitles: yes, sometimes they don't work :/
+My workaround: extract the preferred subtitle (I use tsMuxer) or download a new one, and name it exactly like the movie"
+[V],Maverick2587,2012-04-17T00:50Z,"Thx!
+
+Works Perfect"
+,djr2012,2012-05-10T05:51Z,Cyberlink even the demo one still crash on me. I think Cyberlink is just terrible.
+,ptbarnum3,2012-05-11T07:38Z,"Every mp4 I try to play has sound out of sync and if I rewind 5 seconds it's fine for a few minutes.I wish powerdvd 12 was as stable as 11.I tried the update from ChingLiu and same thing.Great upload,but I just reinstalled powerdvd 11 from you again,your the best.PowerDVD 11 Ultra v11.0.2024.51 PreActivated [ADHDerby] and updated it and I think this one is the most stable.Now I can enjoy mp4 again."
+,msmmpts,2012-05-11T15:46Z,they updated the version..can you upload that?
+,Alphroman,2012-05-25T00:39Z,This is closing as soon as I open it.  Any suggestions?
+,JDviking,2012-06-04T12:17Z,"If you get the error meseage: This program needs elevation. Then just right click the SETUP file, and click ""Run as administrator"" and go on as usual.
+"
+,quible,2012-06-07T17:12Z,@adh I haven't seen any activity from you for ages. You doing ok? I'd hate for you to be ill or something
+[T],ADHDerby,2012-06-18T12:05Z,"@ msmmpts: You can safely update this version.
+
+@ Alphroman: Make sure that you installed the latest audio and video-card drivers
+
+@ quible: Sorry for the late reply, it was a combo of several things:
+- I've been sick for a long time (Sinusitis vs. Winter,.. Winter won :/)
+- They blocked TPB here in the Netherlands, found workarounds but had the famous login and comment issues
+- I have a wife and 3 kids :S"
+,TyMod,2012-06-28T03:37Z,"Thank you. Just bought a Blu-Ray player and needed the software to push it. Just what I needed!
+
+Thanks again."
+,hstpb,2012-06-29T01:42Z,"Hello Sir!
+Could you upload the latest version (12.0.1620.54)?
+
+It has several bugs correction and some other minnor changes. I tried to find it, but couldn't find someone who has managed to crack it. And if I install your version and try to update to the latest one, it won't update anyway.
+
+Would it be hard for you to do it?
+Thanks a lot!"
+,lugzz,2012-07-07T00:54Z,thanks heaps for the ul mate this is awsome 
+,Nomi_KhaN,2012-07-15T18:26Z, Trojan inside...........
+,codekiddy,2012-07-27T08:28Z,"Don't download, the file contains a trojan."
+,josemdot,2012-08-05T06:49Z,"@ADHDerby, I followed the installation instructions precisely and blocked internet access, but once I install the update the program becomes a 30 trial. Help?
+Btw, thanks for the upload!"
+,hu2,2012-08-08T06:45Z,hi i haven't installed yet but i'm wondering how to Disable_CLFLVSplitter.bat? thanks

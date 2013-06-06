@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,brianxxx,2012-04-06T22:16Z,ACDSEE won't decode .jp2 for me. 
+,brianxxx,2012-04-06T22:32Z,"OK. Found solution. Quoted straight from ACDSEE knowledge base.
+
+The error message ""The source data format is not recognized"" is usually displayed if you have the RAW image open in another application, which locks the image and prevents ACDSee from decoding it. For example, you will encounter this error message if a RAW image is open in Adobe Creative Suite when you try to view the image in ACDSee. When this occurs, the image is flagged as corrupted by ACDSee and added to the Quarantined Files list. You will be unable to view this image within ACDSee until it is removed from the Quarantined Files list.
+
+To resolve this issue:
+
+    Close other image viewing or editing applications.
+    Start ACDSee and make sure you are in Browser mode.
+    For ACDSee Pro 3, Pro 4 and ACDSee 12, click Tool |Database | Quarantine Files. For previous versions of ACDSee, click Database | Quarantine Files.
+    Select the RAW file(s) in the Quarantined Files list.
+    Click Remove.
+    Click OK.
+
+Tip: If you wish to perform side-by-side comparisons between ACDSee and another RAW viewing application, we recommend that you open the image in ACDSee first and then open it in the secondary application afterwards. Since ACDSee does not lock the RAW file, it can be decoded before it is locked by the secondary RAW viewing application. This should prevent the problem described above from re-occurring. "
+,pepohead,2012-04-11T22:24Z,"Incredible pics. Nice work, polx73! Is there any chance you can upload slim model Sarah from WAH? Thanks in advance."
+,polx73,2012-04-17T19:38Z,"ScreenLists ( 317 photo ) :
+
+http://www.imagebam.com/gallery/wbxk4jtipfbsy04twdrmavjcypjb2j2b"
+,polx73,2012-04-17T22:57Z,http://thepiratebay.se/torrent/7192765/Wearehairy.com_Sarah___371_pics_____.jpg

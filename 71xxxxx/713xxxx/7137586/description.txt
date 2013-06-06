@@ -1,0 +1,44 @@
+v2. This one comes with a new and improved welfare console.
+v3. Added N7 Defender and Reckoner Full body armors as unlocked by default.
+Added all casual appearances as unlocked by default. This includes the N7 Hoodie
+old cerberus outfit some bloodied casual outfits. I didn't add
+anything new just unlocked all existing ones by default. That includes
+boxers/panties one too... silly bioware...
+
+Put the coalesced.bin into Mass Effect 3/BIOGame/CookedPCConsole and put exec.txt
+in Mass Effect 3/Binaries.
+
+Hotkeys:
+Numpad0	 - God mode.
+Numpad.	 - Refill ammo/grenades/medigel.
+Numpad1	 - Teleport to targeted location.
+Numpad2	 - Ghost mode(noclip + flying).
+Numpad3	 - Turn off ghost and go back to walking.
+Numpad4	 - Add 100000 credits.
+Numpad5	 - Add 1000 experience.
+Numpad6	 - Add 10 talent points.
+Numpad7	 - Add Reaper BlackStar... 1 shot in it.
+Numpad8	 - Adds all default single player weapons + collectors assault rifle.
+Numpad9	 - Adds all the dlc weapons.
+Numpad+	 - Takes screenshot they end up in
+	   Documents/Bioware/Mass Effect 3/BIOGame/Screenshots
+Numpad-	 - Turn HUD on/off.
+Numpad*	 - Freeze characters on/off (everything gets paused).
+Numpad/	 - Fly camera on/off (for screen shot purposes or to look around
+	   while game runs).
+PageUp	 - Normal game speed.
+PageDown - Reduces game speed to 10%.
+Home	 - Executes any console commands inside exec.txt (Put any UnreadEngine3
+	   console commands here... most mass effect 2 console commands will work
+	   too) just create a shortcut on desktop to exec.txt minimize game put
+	   what you need in it go back to game hit Home key and bam WELFARE CONSOLE!
+	   You can put multiple commands here... say you want to... add 5k paragon
+	   and renegade rep at same time all you have to put in is
+	   "SetParagon 5000 | SetRenegade 5000". No quotes naturally.
+
+Feel free to do with this w/e the hell you feel like doing or post it where ever
+the hell you want but keep readme.txt attached so ppl dont ask stupid questions.
+Oh and fuck cheathappens and any other inbredhalfwits that like scamming ppl for
+cash on things like trainers or hell... anything.
+
+Made by HiSaZuL for the hell of it.

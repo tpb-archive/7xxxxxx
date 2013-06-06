@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,0xE1,2012-04-27T21:34Z,"The quality is impressive for a video from year 1982.
+Thank you for sharing!"
+,xny675,2012-09-17T00:18Z,"V: 9
+A: -12,000,000
+
+This is seriously a shame - the picture quality is excellent, but the audio is full of small nearly-constant timing errors that on playback makes it unlistenable - truly a shame for a film that the soundtrack score is an inherent part of enjoying.
+
+It sounds like it's been improperly resampled at least once, or even time-stretched or -compressed.  Seriously a shame, but the audio is total garbage.  
+
+tested on: MPC-HC x64 w/ and w/o ffdshow, VLC on Windows & linux, the problem is present on all players and exists even with playback sampling rate locked @ 48kHz to ensure no resampling is taking place]
+
+If you care about the soundtrack [and you should, it's a major part of the film] you should download the IRE DVD image version."
+,Skram0,2012-09-22T09:49Z,"@xny675
+Agreed, the audio IS a different pitch than the IRE version. A bit lower in pitch. Interesting coincidence though, this was released in Australia on 3/22/12. Posted here on 3/30/12.
+http://en.wikipedia.org/wiki/Koyaanisqatsi#Home_video
+
+Australia uses PAL video instead of NTSC.
+http://en.wikipedia.org/wiki/Blu-ray_Disc#Region_codes
+
+As I understand it, when converting from PAL 25fps to NTSC 23.976fps there can be a change in audio pitch. I thought usually higher pitch because they double the 25 to 50 and it's sped up to 60. But maybe here they just slowed down the framerate from 25 to 23.976 which slowed the audio too. But I got too many beers in me, I can't think that deep right now.
+
+So my guess is that this is PAL video converted to NTSC. What's up with the filename anyway? Kojaaniskatsi? Released from Valegorov? This ain't no usual [PublicHD] release. Where's their usual .TXT file? How come the filename doesn't have their name in it?
+
+Also, this shit was filmed in 4:3 wasn't it? Something like that. Why is this 16:9? Side by side to IRE freeze frames you see this version is CROPPED. There's actually information cut from the top and bottom from the IRE version and zoomed.
+
+If you care about audio. If you care about video. Do not download this. The audio is warped, the video is cropped. Bad bad bad.
+
+Wait for:
+http://www.blu-ray.com/movies/The-Qatsi-Trilogy-Blu-ray/55787/"
+,Skram0,2012-09-22T09:54Z,"By the way, if you love the audio in this movie, get the audio CD. There's mega bass in the Koyaanisqatsi track along."
+,Skram0,2012-09-22T10:02Z,"Great reading here on the subject:
+http://originaltrilogy.com/forum/topic.cfm/Koyaanisqatsi-IRE-Fullscreen-Version-MORE-IMAGE/topic/5872/
+
+This link from the above page shows the differences in the cropped vs not chopped:
+http://www.dvdbeaver.com/film/DVDCompare2/koyaanisqatsi.htm"
+,xny675,2012-09-24T19:03Z,"@skram0 I'm seriously tempted to take the audio track from the IRE version and remux it with this .. yes, the presentation [as with the original 16:9 DVD] is cropped, but sometimes I put this on just to listen to Philip Glass..  The IRE version is still best but I'm mostly okay with the cropping.
+
+Worse: the BR version of Naqoyqatsi [originally done in 4:3] is STRETCHED to 16:9..  this is not the fault of the ripper, it's actually like that on the disc, which is .. just pathetic.  Thank goodness computer players let you unstretch the image, unlike TV sets."

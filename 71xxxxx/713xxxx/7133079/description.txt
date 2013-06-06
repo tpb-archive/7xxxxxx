@@ -1,0 +1,78 @@
+
+
+INSTALL NOtes:-
+================
+
+1) Open the "VLC Media Player Portable 1.1.11 (C7M)"
+3) Install The software
+4) Finish installation
+
+
+===========================================================
+Âº  Description  Âº
+
+
+VLC media player is a highly portable multimedia player for various audio and video 
+formats as well as DVDs, VCDs, and various streaming protocols without external codec 
+or program.
+
+It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a 
+high-bandwidth network.
+
+VLC can play:
+
+MPEG-1, MPEG-2 and MPEG-4 / DivX files from a hard disk, a CD-ROM drive, and so on
+DVDs, VCDs, and Audio CDs
+From satellite cards (DVB-S)
+Several types of network streams: UDP/RTP Unicast, UDP/RTP Multicast, HTTP, RTSP, MMS,
+etc.
+From acquisition or encoding cards (on GNU/Linux and Windows only)
+
+==============================================================
+ Âº   Technical   Âº
+ 
+
+Title:	        VLC Media Player 1.1.11
+Filename:	vlc-1.1.11-win32.exe
+File size:	20.10MB (21,073,936 bytes)
+Requirements:	Windows 2000 / XP / 2003 / Vista / Windows7 / XP64 / Vista64 / 
+                Windows7 64
+Languages:	Multiple languages
+License:	Open Source
+Date added:	July 16, 2011
+
+ 
+ Âº  Log Fixtures Âº
+ 
+
+# Security:
+* Fix buffer overflows in the RealMedia demuxer (CVE-2011-2587) and the AVI one 
+  (CVE-2011-2588).
+
+# Mac OS X:
+* Fixed scrolling direction if the input device's signal is inverted
+* Update Auhal audio output to the latest API
+* Fix images disappearing issue on the interface
+* Reduced installation size by up to 30 MB
+* Resolved conflict between iTunes and VLC wrt Media Key handling
+
+# Mozilla/ActiveX webplugin:
+* Fullscreen mode is fixed on Win32
+* Very simple fullscreen controller is visible on Win32
+
+# Demuxers/Meta Readers:
+* Better support for cover art embedded in mp4, wma
+
+# Muxers/Output:
+* Fix AVI muxer so the generated files are readable on other players
+
+# Extensions:
+* Multiple fixes for crashes and malfunctionning issues
+
+[/b]		
+
+
+=====================================================
+
+ 
+http://thepiratebay.se/user/clueman7

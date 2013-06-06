@@ -1,0 +1,36 @@
+This is a test for the next planned step for Office 2010 Toolkit. It is my plan to eventually phase out Office 2010 Toolkit for a new application, that is currently under development. App is stable as it is still well tested code in almost all cases, but I'm looking for new ideas, suggestions, and testing of new functions.
+
+
+Requirements:
+Microsoft .NET Framework 3.5
+Office 2010 for Office Support
+Windows NT 6 era operating system (Vista or later) for Windows Support
+
+Microsoft Toolkit Changelog:
+2.3.1
+-Enabled Windows Tab for Windows 8. WARNING: Windows 8 is NOT officially supported and many functions have issues, especially Restore.
+-Fixes numerous registry issues created during migration back to .NET 3.5. This was a cause for bugs in quite a few functions.
+-Removed "Check for Program Updates" (Users of earlier builds need update soon as I will remove this info which may cause annoying errors)
+-Repairing Office 2010 should no longer involve extra setup boxes on non x86-64 Office Architecture.
+-Replaced Windows 8 DP Key with Windows 8 CP Key.
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+To know , learn and get all things come and join here
+LOTS AND LOTS OF GREAT THINGS ARE HERE
+                                                                                                            
+https://forum.suprbay.org
+
+For reporting bad or suspicious torrents                                                                                                                                                                                                    
+https://forum.suprbay.org/forumdisplay.php?fid=29
+
+For my 1550+ Torrents                                                                                                                                                                                                      
+http://thepiratebay.org/user/Anacondaz/
+
+			
+credit to the original creator encoder 			
+
+
+		

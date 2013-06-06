@@ -1,0 +1,10 @@
+Changelog:
+- Characters can now sheathe one weapon and then pick up another
+- Added effect for removing weapons that are embedded in bodies
+- Nav mesh objects are no longer hollow
+- Added functions to directly access variables in other scripts (GetIntVar, GetBoolVar and GetFloatVar)
+- Fixed occasional persistent item lens flare
+- Fixed idle guards sometimes walking slowly backwards for no reason
+
+
+Just want the changes from the last alpha to a174? http://cdn.wolfire.com/alpha/diffs/a174.zip

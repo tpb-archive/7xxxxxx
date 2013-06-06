@@ -1,0 +1,81 @@
+﻿User Type,Username,Date,Text
+,EinDeutschMan,2012-03-31T05:07Z,"Can I assume by the number of seeder and leechers that this torrent works?
+
+If so, then I will create one for each of the language packs I have UL'd.
+
+Let me know...
+
+Auf Wiedersehen,
+
+EinDeutschMan"
+,lancelotofcamelot,2012-04-06T06:47Z,"Hey EinDeutschMan,
+
+So I have to have previously downloaded the other German langauge pack and have it installed and then download and install this one ? It's just that I can't find the other contents folder you said to merge the contents folder in the ISO with.
+
+Kind Regards,
+
+lancelotofcamelot"
+,lancelotofcamelot,2012-04-06T06:53Z,"Hi EinDeutschMan,
+
+Where is the content folder you want the contents folder in the ISO to be merged with ? I can't find it.
+
+Kind Regards,
+
+lancelotofcamelot"
+,EinDeutschMan,2012-04-06T19:22Z,"@lancelotofcamelot,
+
+Actually, this ISO is for anyone who cannot get the German Language packs installed correctly.
+You DO NOT need this ISO if you have gotten the German packs installed and activated.
+This ISO simply does some of the work for you.
+
+It requires you to DL and install these two ISO's first (in this order)
+
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+
+If you ONLY want to have German installed (right now), copy the contents of this ISO to your C: drive, and allow it to merge with your ProgramData folder. 
+
+You will end up with ""C:/ProgramData/Rosetta Stone/Content""
+The Content folder is where the language file are located.
+
+Again, if you ONLY want to have German installed right now and you HAVE NOT installed any language packs, then disregard the part about merging this content folder with yours, as you will not have one yet.
+
+Then copy and edit the two xml files as outlined in the readme.txt file. 
+
+1. Rename the GermanProducts.xml to Products.xml
+2. Edit the DynamicStoredPaths.xml to point to where ever your tracking.db3 file is.
+3. Edit the DynamicStoredPaths.xml so the LanguageDataBasePath line points to the Content folder you copied from this ISO.
+
+AGAIN, do this ONLY if you DO NOT have any other languages installed.
+
+EinDeutschMan"
+,lancelotofcamelot,2012-04-07T05:08Z,"Hi EinDeutschMan,
+
+Thanks for your help in clarifying the issue !
+
+Kind Regards,
+
+lancelotofcamelot"
+,EinDeutschMan,2012-04-11T00:41Z,"TO ALL:
+
+I have been contacted by ""law enforcement"".
+(while I think it was a scare tactic, I can't take that chance).
+
+Therefore, I am, at least for the time being, ending my involvement with TPB.
+(I will still be reading and possibly commenting)
+
+If anyone has any advice concerning reliable ISP masking, I would appreciate it greatly.
+
+Auf Wiedersehen,
+
+EinDeutschMan"
+,Doppelgang,2012-04-14T10:23Z,"Liebe EinDeutschMan,
+
+You are so awesome!!! It works like a charm! I love it so much. Vielen Dank! Don't listen to those people who say it doesn't work. It is perfect. "
+,EinDeutschMan,2012-04-14T11:50Z,"@Doppelgang,
+
+Veilen Dank, das ist Sehr gut!
+
+Guten Tag!
+
+EinDeutschMan"

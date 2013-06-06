@@ -1,0 +1,16 @@
+
+OCULA is a unique collection of plug-in tools for NUKE that solve common problems with stereoscopic imagery, boost productivity in post production and ultimately help deliver a more rewarding stereoscopic viewing experience.
+
+Problems addressed include:
+
+Colour matching - fixing differences introduced by polarisation and mirror rigs
+
+Vertical alignment - correcting vertical offsets introduced by mismatched camera rigs and keystoning
+
+Focus matching - fixing focus differences between cameras by deblurring and view reconstruction
+
+Interaxial shifting - altering the interaxial distance baked into a stereo pair by rebuilding views
+
+Retiming - stereo motion vectors for retimes with correct stereo alignment
+
+Disparity generation - for automating and speeding up day to day compositing tasks including automated roto view generation, convergence manipulation, depth channel generation, material QC and more.

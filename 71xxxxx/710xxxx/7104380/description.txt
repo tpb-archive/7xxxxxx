@@ -1,0 +1,38 @@
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L1
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 2h 26mn
+Bit rate                                 : 38.3 Kbps
+Width                                    : 720 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 2.045
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.006
+Stream size                              : 40.2 MiB (3%)
+Writing library                          : Lavc52.62.0
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Codec ID                                 : 2000
+Duration                                 : 2h 26mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 470 MiB (31%)
+Alignment                                : Aligned on interleaves

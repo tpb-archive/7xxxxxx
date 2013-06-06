@@ -1,0 +1,585 @@
+﻿User Type,Username,Date,Text
+,rayquest9,2012-04-19T23:57Z,"thanx
+man pls can 
+upload pastho lang also"
+,kmrnja,2012-04-21T00:27Z,"works better than the last but the languages that came with it don't work, it says its missing a file, but that's not what i want to fix, speech part doesn't work, says its missing a file, i have it on outbound but still says the same."
+,kmrnja,2012-04-21T00:33Z,"actually the reason the languages don't work is because of error 4112.
+do you know what i probably did wrong or what file i'm missing for the speech part of it?"
+,EinDeutschMan,2012-04-21T03:23Z,"@kmrnja
+
+What language pack are you trying to use?
+This will ONLY WORK with the language packs that I have UL's and have ""PreInstalled"" in the name.
+You CANNOT  install languages through Rosetta Stone, if you do, the activation will not work correctly.
+This is because I have already activated several of the most popular languages:
+
+French
+German
+Spanish (Latin America)
+Spanish (Spain)
+Latin
+
+But to save you DL time and reduce overall file size, I UL'd the languages separately.
+
+As far as the speech component not working, I have no idea, but if you can give me more info
+what version of windows, is it 64 bit, did you follow the README instructions EXACTLY?
+
+Let me know and I'll work on it for you.
+
+EinDeutschMan"
+,kmrnja,2012-04-21T06:00Z,"@EinDeutschMan i was trying to use italian it works fine just not the speech recognition says error 2123 and that some file is missing, i have windows 7 and its 64 bit, and yeah i followed all of the instructions. the only other thing that doesn't work is all those languages it came with i just get a 4112 error.  nd thanks!"
+,EinDeutschMan,2012-04-21T06:50Z,"@kmrnja,
+
+Apparently you did NOT follow the instructions EXACTLY:
+""This will ONLY WORK with the language packs that I have UL's and have ""PreInstalled"" in the name.
+You CANNOT install languages through Rosetta Stone, if you do, the activation will not work correctly.
+This is because I have already activated several of the most popular languages:
+
+French
+German
+Spanish (Latin America)
+Spanish (Spain)
+Latin
+
+But to save you DL time and reduce overall file size, I UL'd the languages separately.""
+
+Italian is NOT ""preinstalled"", therefore the crack used will not work correctly.
+
+As far as the 2123 error, it can have two causes:
+1. You need to make sure you are the ""owner"" on the Rosetta Stone program folder.
+  (Set the permissions on the folder: right click folder>Properties>Security>Advanced>Owner>Edit)
+2. Your AV/Firewall software may be blocking it.
+  (TEMPORARILY disable your AV/Firewall software, and try to run it.)
+
+I will double check the language pack(s) 
+But the 4112 error usually means they are corrupt, and you need to DL them again--
+DO NOT DL them until I have had a chance to check them again.
+
+I will let you know...
+
+EinDeutschMan
+
+EinDeutschMan"
+,kmrnja,2012-04-21T17:38Z,"@EinDeutschMan
+for the 2123 error i made sure i was the owner, and i disabled the firewall but nothing. 
+I installed it to another computer and it works perfectly fine no problems at all, but that was the patch version, when i installed it on mine, it would save it on Program File x86 instead and cause all sorts of problems. "
+,kmrnja,2012-04-21T20:08Z,"@EinDeutschMan 
+never mind i found what the problem i had, my anti-virus was blocking some files because it said it was a virus, i fix it now. thanks"
+,naate,2012-04-24T01:19Z,"Maybe I'm doing something wrong but I believe I followed the instructions in the ""read me"" and the PDF properly. Everythings fine until the instructions say to navigate to RosettaStoneVersion3.exe and open it.
+When I open it the screen that appears isnt the same as whats shown in your PDF. The screen I'm getting gives the options to add a language,remove a language, deactivate products and quit rosetta stone. the screen in the PDF offers to register now, register later and never register. One thing I wondered about is how the screenshot in your PDF shows the file as being RosettaStoneVersion3.exe while that file on what I DL'd is lacking the .exe at the end of the filename. Any Idea what I might've done wrong or whats going on?"
+,naate,2012-04-24T01:20Z,"@EinDeutschMan
+Maybe I'm doing something wrong but I believe I followed the instructions in the ""read me"" and the PDF properly. Everythings fine until the instructions say to navigate to RosettaStoneVersion3.exe and open it.
+When I open it the screen that appears isnt the same as whats shown in your PDF. The screen I'm getting gives the options to add a language,remove a language, deactivate products and quit rosetta stone. the screen in the PDF offers to register now, register later and never register. One thing I wondered about is how the screenshot in your PDF shows the file as being RosettaStoneVersion3.exe while that file on what I DL'd is lacking the .exe at the end of the filename. Any Idea what I might've done wrong or whats going on?"
+,EinDeutschMan,2012-04-24T16:13Z,"@naate,
+
+Actually, you've done nothing wrong.
+
+1. It was my error to mention that if you run this and have NOT DL'd any of the language packs, you would get the screen that you are seeing. 
+
+NOTE
+===== 
+Because of how I've done this, you MUST use the language packs that I UL, and that have ""Preinstalled"" in the name. 
+
+If you don't see the language pack you want, let me know, and if I have it, I will UL it for you.
+
+2. I'm pretty sure the reason you are NOT seeing the .exe extension is because you do not have the ""view"" options in Folder Options  set differently.
+
+To change this:
+Go to Control Panel,
+Folder Options, 
+View, 
+UNcheck the box that says ""Hide extensions for known file types"",
+OK,
+You should now see the .exe
+
+Let me know,
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-24T18:35Z,"TO ALL:
+
+Apparently I created some confusion about the two different versions I have UL'd
+
+(http://thepiratebay.se/torrent/7198939/Rosetta_Stone_v3_Preinstalled.rar and http://thepiratebay.se/torrent/7035678)/Rosetta_Stone_v3.4.7_w_Patch.iso
+
+What I attempted to do was to eliminate some of the activation issues, and make it easier to install by just having to mount the ISO, and copy the contents to the root of C:
+
+The these two ISO are NOT interchangeable!
+
+I'm sorry for the confusion created
+
+BTW, this is EXACTLY what I did to create the RS Program:
+COMPLETELY removed the RS PROGRAM from my machine, including doing a RegEdit.
+(I did NOT remove the language packs I had installed)
+REinstalled it.
+MOVED it FROM C:/Program Files (x86) TO C:/Program Files.
+(I did this because I know that it will not work correctly on the older versions of Windows i.e. XP.)
+Edit the C:/ProgramData/DynamicStoredPaths.xml file to point to the correct folder - C:/Program Files.
+Tested it on 3 different machines 1 - XP 32 bit, 1 - Vista 64 bit, and 1 - Win 7 64 bit
+Ran fine
+Created the Products.xml file, included the most sought after languages.
+Tested it again - ran through all levels of all languages, made sure all components were available.
+Created the RS_Preinstalled.ISO
+Created the README!!.txt
+Created the RSv3PreInstalled.PDF
+Combined them into Rosetta_Stone_v3_Preinstalled.rar
+UL'd it
+
+To create the Language packs:
+Installed 1 language, all levels (that I have) to C:/Program Files/Content
+Tested it - to make sure that it was activated, and all components were working
+(Since it was already activated in the Products.xml file, I did NOT have to do anything more.)
+Created the language ISO
+I'm sorry if the name doesn't please everybody, but I thought it was short and concise
+Created the README!!.txt file
+Combined them into the rar file of the same name...
+UL'd it.
+
+EinDeutschMan "
+,sprival,2012-04-24T18:51Z,"After following your directions, I run the application and get fatal error 5118. What have I done wrong? I'm running Windows 7 Pro x64."
+,EinDeutschMan,2012-04-25T00:33Z,"@sprival,
+
+The first thing you need to check is that you have full control of the Program Files and ProgramData folders.
+
+Open My Computer
+Open C drive
+Right click Program Files
+Properties > Security > Permissions > Edit > Add... > Type your User name in the box > OK >
+Make sure that the ""Apply to:"" button says ""This folder, subfolders and files"" 
+Under the ""Allow"" column click Full Control
+Click OK until all windows are closed.
+
+Do the same thing for the ProgramData folder.
+
+There is also the possibility that it has something to do with the headset not being configured correctly.
+You'll find that under Sound in the Control Panel.
+
+BTW, I tested this on a Win 7 (not Pro) x64
+
+Let me know,
+
+EinDeutschMan"
+,blainecarbo,2012-04-25T00:58Z,"I need some help, I have uploaded the rosetta stone preinstalled version, followed all your instructions to the letter, also uploaded the spanish latin america preinstalled, I don't know what I am doing worng, but rosetta stone...keeps telling me to insert language cd in drive, and then tells me it cannot locate language cd...please help "
+,blainecarbo,2012-04-25T01:00Z,"I have ul the rosetta stone preinstalled version, also uploaded the spanish latin america preinstalled, I don't know what I am doing worng, but rosetta stone...keeps telling me to insert language cd in drive, and then tells me it cannot locate language cd...please help "
+,blainecarbo,2012-04-25T01:00Z,"I need some help, I have uploaded the rosetta stone preinstalled version, also uploaded the spanish latin america preinstalled, I followed all the instructions, but I don't know what I am doing worng, but rosetta stone...keeps telling me to insert language cd in drive, and then tells me it cannot locate language cd...please help "
+,EinDeutschMan,2012-04-25T03:53Z,"@blainecarbo,
+
+First of all, you MUST READ the README!!.txt files!
+
+You DO NOT ""Install"" the language packs!
+You MOUNT the ISO's and COPY the contents to your C DRIVE
+
+These are excerpts from the README!! files that I UL'd with the rar files:
+
+Rosetta Stone v3 Preinstalled instructions:
+Instructions
+=============
+
+1. Block Internet access
+   (you WILL need to allow ""Trusted outbound"" or your equivalent for the Speech Recognition - Error 1117)
+
+------>>> 2. Mount RS_Preinstalled.ISO 
+   (I have included PowerISOSetup.zip if you want to use it, serials #'s are enclosed.)  1. Mount Spanish_LatinAmerica_PreInstalled.iso "
+,EinDeutschMan,2012-04-25T04:08Z,"@blainecarbo,
+
+First of all, you MUST READ the README!!.txt files!
+
+You DO NOT ""Install"" the language packs!
+You MOUNT the ISO's and COPY the contents to your C DRIVE
+
+These are excerpts from the README!! files that I UL'd with the rar files:
+
+Rosetta Stone v3 Preinstalled instructions:
+Instructions
+=============
+
+1. Block Internet access
+(you WILL need to allow ""Trusted outbound"" or your equivalent for the Speech Recognition - Error 1117)
+
+------>>> 2. Mount RS_Preinstalled.ISO
+(I have included PowerISOSetup.zip if you want to use it, serials #'s are enclosed.)
+
+3. Copy contents to C: and allow them to merge
+
+*******************************************************************************
+
+Spanish_LatinAmerica_PreInstalled Instructions:
+
+Instructions
+=============
+
+1. Mount Spanish_LatinAmerica_PreInstalled.iso 
+2. Copy contents to C: and allow them to merge
+
+If you follow the instructions in the README!!.txt files , you should NOT have any problems.
+
+Let me know,
+
+EinDeutschMan"
+,NorGod,2012-04-25T19:09Z,"@EinDeutschMan
+
+Thanks the program works great. Any chance you could upload a pre installed version of Hebrew cause I've been looking everywhere for the complete one, or any one that works. Thanks again. "
+,iverson03032,2012-04-25T21:13Z,"@EinDeutschMan I am having the same problem as ""naate"". When I mount it and copy the files to my C drive. I open Rosetta and it pops up with an Add Language Level, Remove Language Level (greyed out), Deactivate Product, and Quit Rosetta Stone. Instead of Register Now, Later, or Never Register. When you said
+
+ ""Because of how I've done this, you MUST use the language packs that I UL, and that have ""Preinstalled"" in the name. "" 
+
+I don't see any Activated Languages that you've uploaded either. Hope you know the answer thanks a lot looking forward to your response. "
+,EinDeutschMan,2012-04-25T23:47Z,"@NorGod,
+
+I've got Hebrew levels 1 & 2, I'll UL it tonight or tomorrow
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-25T23:52Z,"@iverson03032,
+
+I have UL'd Latin and Spanish (Latin America), I am in the process of creating more rar files.
+(unfortunately, I have a REAL job, LOL!!)
+
+Which language would like for me to UL, and if I have it, I'll create the rar and UL it in the next day or so.
+
+EinDeutschMan"
+,iverson03032,2012-04-26T00:47Z,@EinDeutschMan no I don't need any other languages.. I just don't know why I'm stuck on the add language part and the Register screen in your pdf doens't come up once I open Rosetta Stone. 
+,hszgrl84,2012-04-26T01:25Z,"@EinDeutschMan
+i'm looking for French, is that one that will be up soon? also, do you happen to have Danish? no hurry on that one if you do have it.
+
+btw, i was confused at first on the installation process but then i pulled my head out and realized it was my stupidity that kept giving me installation errors... sometimes when you make things this simple, people get lost :)"
+,EinDeutschMan,2012-04-26T13:25Z,"@iverson03032,
+
+That screen comes up if you do not have ANY languages installed.
+
+RS won't let you continue until you install at least 1 level of 1 language, which makes sense.
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-26T13:28Z,"@hszgrl84,
+
+I'll put French (levels 1- 5) up in the next day or so, and yes I have Dutch levels 1- 3.
+
+EinDeutschMan"
+,spartizi,2012-04-28T09:45Z,"Ok Let me try to repeat the steps back to you on how to install and run this whole thing properly. But first 1 question
+Can we use the Rosetta stone program installer from the v3.47 wpatch iso to begin everything?
+
+if so...
+
+1. Install using Rosetta stone program installer.exe from 3.47 iso (follow steps provided to us to do so with activation and blocking internet and such)
+
+2. mount the ""Spanish_LatinAmerica_PreInstalled""
+
+3. Copy over the program files and data
+
+4.run rosetta stone 
+
+5. LEARN?"
+,spartizi,2012-04-28T09:47Z,"@EinDeutschMan
+
+Ok Let me try to repeat the steps back to you on how to install and run this whole thing properly. But first 1 question
+Can we use the Rosetta stone program installer from the v3.47 wpatch iso to begin everything?
+
+if so...
+
+1. Install using Rosetta stone program installer.exe from 3.47 iso (follow steps provided to us to do so with activation and blocking internet and such)
+
+2. mount the ""Spanish_LatinAmerica_PreInstalled.iso""
+
+3. Copy over the program files and data from RS_PreInstalled
+
+4.run rosetta stone 
+
+5. LEARN?"
+,EinDeutschMan,2012-04-28T18:38Z,"@spartizi
+
+To answer your qusetion, no.
+
+You have the procedure right, but you MUST use this ISO:
+http://thepiratebay.se/torrent/7198939/Rosetta_Stone_v3_Preinstalled.rar
+
+1. DL, unzip and install this ISO:
+http://thepiratebay.se/torrent/7198939/Rosetta_Stone_v3_Preinstalled.rar
+
+2. mount the ""Spanish_LatinAmerica_PreInstalled.iso""
+
+3. Copy over the program files and data from RS_PreInstalled
+
+4.run rosetta stone
+
+5. LEARN? 
+
+==================================================================
+The reason behind that is in order to use the v 3.4.7 install, you must install this ISO FIRST:
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+Otherwise the activation will not work correctly
+
+BUT if you use the ""Preinstalled"" version;
+http://thepiratebay.se/torrent/7198284/Rosetta_Stone_v3_Preinstalled.rar
+
+All the work has been done for you, everything has been installed and activated, 
+so all you have to do is copy the folders to your C drive.
+
+Then DL the language packs (that have ""Preinstalled"" in the name), copy those files to your C drive,
+and you're DONE! 
+
+I've tried to make this as easy as possible, to reduce error(s)
+But I think I've added too much confusion in the process.
+
+Just keep in mind, if it does NOT say ""Preinstalled"" somewhere in the name, 
+I cannot guarantee it will work with ANYTHING that has ""Preinstalled"" in it's name.
+
+Does that help clear up some of the confusion?
+
+Let me know,
+
+EinDeutschMan"
+,spartizi,2012-04-29T22:42Z,"@EindeutschMAN
+WOO! i got it. man that was wayyy easier than i was making it. "
+,Papi_D,2012-04-29T22:59Z,The link to download is not working am I doing something wrong? can someone help?
+,EinDeutschMan,2012-04-30T03:24Z,"@Papi_D,
+
+I am testing it now by DLing it back to my machine, but it seems to be working fine.
+
+I would check your firewall settings.
+I will seed it for a few days.
+
+BTW, I have a fiber connection, but I'm only getting 44 kB/s when I usually get 1.2+ mB/s :(
+
+EinDeutschMan"
+,liamo206,2012-04-30T21:32Z,"can you make Portuguese Brazil preinstalled language file if you have time, thanks a lot."
+,EinDeutschMan,2012-05-01T02:31Z,"@liamo206,
+
+Yes, I will be happy to do that for you,
+Do you have any other languages installed?
+Do PLAN to have any other languages installed?
+
+I need this info so that I can properly create the .xml file(s) you will need
+
+Give me a couple of days to get it done.
+
+EinDeutschMan"
+,declertIiamo206,2012-05-01T18:39Z,"@EinDeutschMan
+Hey, it's liamo206, can't get into my other account. I have French_preinstalled already and Spanish_LatinAmerica_preinstalled and I'm downloading the Lating one but I really want Portuguese Brazil, thanks a lot I appreciate it."
+,Ferrera1690,2012-05-03T05:00Z,"@ EinDeutschMan
+
+Hi there, I am running Windows XP Version 2002 Home Edition. I also registered here to voice my progress or lack thereof. I had 100% success in installing, copying, etc. in order for the program to function successfully up until installing the ""Preinstalled"" folders and programs. I ran into a ""Fatal Application Error: 2111/Error 2032."" I installed your original iso, the V3 iso, and your language packs. Then i ran into the activation prompt when trying to rach lesson 3. Then I came on here and followed the instructions. If I'm not mistaken, the merging takes about an hour? I'm not sure if I did that right. Also, I did not uninstall and reinstall that new ISO. In short, my question is: If I were to start all over, clean the registry, remove the language packs, and completely wipe rosetta stone from my computer, how would you proceed from Step 1? To a completely new user, what would be your NEW method of installing this program with no activation problems and etc.? I really appreciate all of your effort towards the community. I hope you can provide this!"
+,kenshin12,2012-05-04T08:59Z,"ok i did every thing but getting add language screen whats the accual path to move preinstalled iso to get rs to see that it is there. win 7 64bit...
+ps i have copied it now to three places and mounted into several drives i'm really lost about this"
+,EinDeutschMan,2012-05-04T11:24Z,"@liamo206,
+
+I haven't forgotten about you, I've been VERY busy these last few days, but I will get the Portuguese (Brazil) up for you this weekend.
+
+EinDeutschman"
+,EinDeutschMan,2012-05-04T12:34Z,"@ferrera1690,
+
+I have to admit I'm a little confused as to what you did, or more specifically in what order you did it.
+So I'm gonna start from the beginning...
+1. Do a regedit and search for and delete everything that says ""Rosetta Stone"".
+2. Delete the C:/Program files/Rosetta Stone folder
+3. Delete the C:/ProgramData/Rosetta Stone folder
+4. DL and unzip this: Rosetta_Stone_v3_Preinstalled.rar (if you haven't already)
+5. Copy the contents of the ISO to your C: Drive, allow it to merge with the existing folders.
+    (This step should only take a few minutes)
+6. DL and unzip the language pack you want (Remember, it MUST have ""Preinstalled"" in it's name)
+7.  Copy the contents of the ISO to your C: Drive, allow it to merge with the existing folders.
+    (Depending on the language pack, and the speed of your machine, this might take a while, 
+      the language packs are about 2 GB each, but contain all levels that I have).
+8. Reboot.
+9. Since this does NOT create a shortcut, 
+    You must go to the C:/Program Files/Rosetta Stone/Rosetta Stone V3 folder and create it yourself.
+    ( I did this on purpose, I hate when programs put shortcuts everywhere, not where I want them!)
+10. Block Internet access for this file: 
+     C:/Program Files/Rosetta Stone/Rosetta Stone V3/RosettaStoneVersion3.exe
+
+*************************************************************************************    
+ NOTE: You need to block the file from ""Untrusted outbound""  or your equivalent.
+           HOWEVER, you need to ALLOW ""Trusted outbound"" or your equivalent. 
+           Since I don't know what Firewall you are using, you'll need to check this out
+           This is because Rosetta Stone needs to ""talk"" to itself for the speech recognition to work (?)
+           If this is not done correctly, you may get an ""error # 1117"" ""A component of the speech...""
+**************************************************************************************
+
+11. Start Rosetta Stone and create user profile
+That's it!
+
+You should be set,
+Let me know...
+
+EinDeutschman"
+,EinDeutschMan,2012-05-04T12:57Z,"@kenshin,
+If you are getting to the ""Add /Remove languages"" screen, 
+then it looks as if you've done everything correctly.
+
+BUT, I don't think you've added any language packs.
+
+Rosetta Stone goes to that screen only if you do NOT have any language packs loaded.
+That's because it requires at least ONE LEVEL of ONE LANGUAGE to work.
+
+Read the comment I sent to Ferrera1690, it has the steps you need to follow outlined in it:
+
+4. DL and unzip this: Rosetta_Stone_v3_Preinstalled.rar (if you haven't already)
+5. Copy the contents of the ISO to your C: Drive, allow it to merge with the existing folders.
+    (This step should only take a few minutes)
+6. DL and unzip the language pack you want (Remember, it MUST have ""Preinstalled"" in it's name)
+7. Copy the contents of the ISO to your C: Drive, allow it to merge with the existing folders.
+   (Depending on the language pack, and the speed of your machine, this might take a while,
+   the language packs are about 2 GB each, but contain all levels that I have).
+8. Reboot.
+9. Since this does NOT create a shortcut,
+    You must go to the C:/Program Files/Rosetta Stone/Rosetta Stone V3 folder and create it yourself.
+    ( I did this on purpose, I hate when programs put shortcuts everywhere, not where I want them!)
+10. Block Internet access for this file:
+    C:/Program Files/Rosetta Stone/Rosetta Stone V3/RosettaStoneVersion3.exe
+
+*************************************************************************************
+NOTE: You need to block the file from ""Untrusted outbound"" or your equivalent.
+          HOWEVER, you need to ALLOW ""Trusted outbound"" or your equivalent.
+          Since I don't know what Firewall you are using, you'll need to check this out
+          This is because Rosetta Stone needs to ""talk"" to itself for the speech recognition to work (?)
+          If this is not done correctly, you may get an ""error # 1117"" ""A component of the speech...""
+**************************************************************************************
+
+11. Start Rosetta Stone and create user profile
+That's it!
+
+You should be set,
+Let me know...
+
+EinDeutschman"
+,Ferrera1690,2012-05-04T18:57Z,"@ EinDeutschMan
+
+All right. Thank you. When I get home, I will sit and trouble shoot this again. Im a little unfamiliar with the terminology ""merge,"" though. Does that simply mean to allow copy and paste? particularly since I'm removing ALL rosetta stone folders and data?"
+,EinDeutschMan,2012-05-05T03:17Z,"@Ferrera1690,
+
+Yes, while you ARE removing all of the Rosetta Stone folders,
+they are SUB-FOLDERS of C:/Program Files or C:/ProgramData.
+
+Does that simply mean to allow copy and paste? , in short, YES, you are ""Merging""
+the Rosetta Stone folders with the existing C:/Program Files or C:/ProgramData Folders.
+
+Let M=me know,
+
+EinDeutschMan"
+,paddyc222,2012-05-05T18:00Z,"@eindeutschman
+
+need all the italian pre installed sir. i'll be very grateful if you have them please.
+paddy"
+,EinDeutschMan,2012-05-05T21:19Z,"@paddyc222,
+
+I will UL it ASAP, but it may be a few days, I've been very busy at my (REAL) job.
+
+EinDeutschMan"
+,BigSpence,2012-05-05T23:44Z,"do you have english preinstalled anywhere by chance? this works so good, i want to give it to my friend who speaks very little english. thank you for the great job done. :)"
+,BigSpence,2012-05-06T00:10Z,"do you have english preinstalled anywhere by chance? the french and spanish work so good, i want to give english to my friend who speaks very little english. thank you for the great job done btw. :)"
+,EinDeutschMan,2012-05-06T04:34Z,"@BigSpence,
+
+I will UL it ASAP, but it may be a few days, I've been very busy at my (REAL) job.
+
+EinDeutschMan "
+,Ferrera1690,2012-05-07T01:00Z,"@EinDeutschMan
+
+Hey there,
+
+I followed all the instruction and did a regedit and searched through my computer for anything Rosetta Stone. I downloaded the v3 Preinstalled and merged it to my computer as well as the french preinstalled, rebooted it, and I still got a ""Fatal Application Error: 2111
+Error # 2032."" The same error I got when I did this the first time. What could this possibly be?"
+,Whoaman001,2012-05-08T06:25Z,"EinDeutschMan, what do you mean block internet during the install? I have to stay connected for it to work, so I cant unplug the ethernet, but I have to block internet? I dont know how to do that. I have everything else under control though."
+,EinDeutschMan,2012-05-09T04:22Z,"@Whoaman001,
+
+Put an exception in your firewall software for the RosettaStoneversion3.exe file to keep it from accessing the internet.
+
+And, YES , you CAN unplug the internet DURING INSTALL!
+You do not NEED or WANT the install program to have access to the internet while it installs Rosetta Stone.
+
+EniDeutschMan"
+,Stonerpope,2012-05-09T19:33Z,"@EinDeutschMan
+Id be very happy if you could upload a German preinstalled language course.
+
+Thanks for all your hard work. People like you rock"
+,vsoccerulz,2012-05-10T01:52Z,"I would love to have Greek, Spanish, and Japanese uploaded as well.  Thanks a lot for all of your work it was very easy to follow, I've got french working flawlessly!"
+,slobwold,2012-05-11T00:13Z,could you upload the Russian preinstalled language course 
+,Ferrera1690,2012-05-12T09:59Z,"@ EinDeutschMan
+
+Hey there,
+
+I tried this preinstalled version on another laptop, a window's vista, and it works perfectly fine. Even if the iso is not mounted to the C: drive, it opens up perfectly fine with no errors or anything at all! For some reason, on my computer, a windows xp, the program does not want to open or work. The registry is completely clear and my computer rid of rosetta stone anything. Even if the .iso is not mounted to my C: drive, it wont open from within the poweriso program. Is this not meant to work with an XP? I'm so frustrated and I really need this program! I either might have to buy it or a new computer )': Any clues? I'm so close yet I can't even get the program to open! "
+,jsuarez3,2012-05-15T03:47Z,"@EinDeutschMan
+Hello! First, I would like to thank you for all ur help and ULs. Second I was wondering if you could please UL/create a a pre-installed English (American).  I already DL'ed this pre-installed, the French pre-installed and English (American) pack. I can use the French but not the English, so I believe it is b/c i do not have the pre-installed for it unless you think otherwise.  I would really appreciate any help you can provide me.
+
+Thank you.
+jsuarez3"
+,EvilRado,2012-05-15T05:28Z,"http://screensnapr.com/v/kkOdIE.jpg
+
+help"
+,Ferrera1690,2012-05-15T06:02Z,"@ EinDeutschMan
+
+Hey there,
+
+so I installed windows 7 and now this file works. To anyone reading this, this new iso did NOT work for my windows XP home edition but gave me no issues with the (free) OS upgrade. Thanks again to EinDeutschMan. "
+,EinDeutschMan,2012-05-15T15:29Z,"TO ALL:
+
+I don't know why I didn't do this earlier,
+I have created a SELF EXTRACTING version of the ""Rosetta_Stone_v3_Preinstalled.rar""
+
+Rosetta Stone v3.4.7 Preinstalled.exe
+
+It takes out all of the guess work.
+
+DL this file, extract it, allow it to extract to the default location (C:/)
+
+It will create a ""Rosetta Stone"" folder in Program Files (x86) AND C:/ProgramData.
+
+It will then copy all the files needed to run Rosetta Stone.
+
+You will see that ALL language packs that I have are already activated.
+
+DL whichever language pack(s) you want, as many as you want.
+(assuming you have that much free space on your drive)
+
+Extract them, they will copy all of the files needed for that particular language to:
+C:/Program Files (x86)/Rosetta Stone/content
+
+Go to the C:/Program Files (x86)/Rosetta Stone/Rosetta Stone v3 folder.
+
+run the ""RosettaSoneVersion3"" file
+
+Click ""Never register""
+At the activation screen, click ""Continue"" 
+(you can scroll through the list of languages that are activated if you wish)
+Create User
+
+DONE!
+
+NOTE:
+I have tested this on 3 machines, 2 Vista's, and 1 Win7.
+ALL of the files have been scanned with Vipre 2012, and are clean.		
+
+EinDeutschMan"
+,vsoccerulz,2012-05-17T19:47Z,wait...so the new langauges won't work with this preinstalled rosetta stone?
+,derbuzz,2012-05-19T14:41Z,"I did everything you said to do. I copied the files and tried to run the install and no matter how i try to install it, its says the application has a error 2126. Any help?"
+,Reckless88,2012-05-24T02:23Z,Umm sorry for the newbish question but what is the username for the powerISO setup? I've got the serials file open...
+,mtata,2012-05-28T20:11Z,Hey could you do a polish language pack please? thanks
+,wolf147,2012-05-30T20:52Z,"How do you put 2 languages in?
+I put the Spanish (Latin America) in correctly, everything works great. I want to add french and maybe another language but when i went to merge the French into the program files its said something like are u sure u want to override existing files (being the Spanish files)  Should I just let it do that and it should work?"
+,nastyJazzy,2012-06-01T06:54Z,"After opening Rosetta Stone and clicking ""Never register"", i receive error 8112 :
+
+""
+There was a minor error. Click Ok to continue.
+1007
+20
+""
+
+Seems to work fine though."
+,JoyBear73,2012-06-02T23:30Z,"Ein DeutschMan,
+
+Thanks for all the hard work you have put into this, I'm sure a lot of people are greatful for making the process much easier. I have one question, is it possible to create one preinstall with ALL the language packs you have? I have downloaded this torrent and installed, but would like to be able to get one torrent that will install all the language packs at once, instead of trying to find and install each separately. Again thanks for all your hard work."
+,Tmz94,2012-06-04T23:35Z,Does this work for MAC's?
+,Tmz94,2012-06-04T23:41Z,Also does it work for windows as well?
+,aura.n,2012-06-05T04:27Z,Am I the only one having issues with the microphones? It makes me repeatedly plug in and unplug my mic in order to recognize that I've finished speaking (which usually causes a sound and messes up my input)
+,kjdavis,2012-06-09T03:24Z,"@ EinDeutschMan
+I get an error every time i try to download this file, the v3.4.7, and the Korean file. Any help please?"
+,caylaaahammm,2012-07-18T08:06Z,"@EinDeutschMan
+I installed everything just how it was in the readme, however I didn't use PowerISO, I used Daemon, when I try to use one of the languages that was already preinstalled I get error 4112, what do I do?"
+,caylaaahammm,2012-07-18T08:20Z,I still can't get any of the languages to work. They keep giving me error 4112.
+,tee_bee,2012-07-19T17:28Z,"worked for me, I get the screen that says basically to select the language pack I want! (I know I must select the ones that you have uploaded that say PREINSTALLED in the title, in this case I am going for the FRENCH which you have listed at http://thepiratebay.se/torrent/7222992/Rosetta_Stone_French_Preinstalled.rar
+
+Can't wait to see how it works!"
+,tee_bee,2012-07-19T17:29Z,"BTW, is there any chance you could do a preinstalled version of Japanese?  I would really like to learn it.  Thank you for your time and uploads!"
+,tee_bee,2012-07-19T22:02Z,"Well rosetta stone opens to the screen that asks me to install the language pack and points me to my CD drive.
+I have already mounted the pre-installed french version by ISO and merged it with Program files in my C: drive, and rebooted.
+Still getting the same request to put in a CD into my CD drive.
+
+Any thoughts?  Thank you!"
+,spiocola,2012-07-29T05:55Z,i am clicking rsversion3.exe and get error code 2123.  i have no version of RS on my pc. what am i doing wrong?
+,jolie1887,2012-08-05T10:53Z,Does this mean you have to have RS preinstalled on your computer? 

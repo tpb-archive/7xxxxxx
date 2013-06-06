@@ -1,0 +1,19 @@
+Hey guys
+I wasn't able to find any decent encodes of 24 seasons 1, 2 and 3. Therefore I encoded the first season myself with high quality settings.
+Maybe I'll share seasons 2 and 3 as well if there's a need for it. This release won't work with portable devices or console crap.
+I recommend VLC Player (2.0+) or Media Player Classic with CoreAVC (3.0+) for playback. Your player MUST support 10bit!
+
+
+All episodes got cleaned up before encoding (DVD sources are often messy). This helps greatly with compression.
+
+Original: http://bayimg.com/aAOiBAadb (click on the image to enlarge)
+Cleanup: http://bayimg.com/AAOIaaADb (click on the image to enlarge)
+
+The quality is a lot better than XviD stuff (624x352 [219648 pixels] vs 720x576 [414720 pixels] with x264 10bit).
+However, one can still easily notice it's a DVD source (there's no HD source available).
+
+
+Source: DVD9 PAL
+Video: x264 2184 x64 10bit @crf 17 using very slow settings
+Audio: English and German untouched streams (English is default) @192kbps 2Ch
+Filters: MDegrain3, ColorMatrix

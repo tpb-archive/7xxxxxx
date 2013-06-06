@@ -1,0 +1,17 @@
+REAPER 4.2x brings substantial new functionality to the 4.x series, including:
+
+  
+
+    JS:
+        fixed incorrect MIDI bus handling
+        fixed (low) limit on expression size
+    OSX:
+        fixed large FX preset reading
+        improved support for non-US keyboards
+    API: plug-in state api now supports larger configuration chunks (up to 8MB or so)
+    Envelopes: improved tooltip labeling for FX parameters
+    Improved support for international characters in many places (EDL import/export, system path definitions, etc)
+    Items: fixed volume labels when invert item phase is set
+    OSC: fixed action messages
+    ReaTune: fixed bugs in correction from 4.20/4.21
+

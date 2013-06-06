@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,longword,2012-03-15T15:44Z,"For gods sake, SEED!"
+,prvn24,2012-03-27T11:59Z,please seeeeeedddddddd!!!!!!!!!!!
+,Altium818,2012-03-28T16:10Z,"This version DOES NOT work. I spent one full day trying to get it to work without luck on a few different PCs. First during installation you have to change privileges on Preffolders.ini or it will fail to complete installation, and once installed I did exactly as indicated but once I start Altium it opens,  a windows flickers a few times with a progress bar and then it closes down, leaving the splash screen stucked. I don't even have the time to set the license file. Then DXP process has to be killed. "
+,overl0ad3r,2012-07-05T00:34Z,"DON'T DOWNLOAD. IT'S CORRUPTED. Same problem here. Have to change PrefFolders.ini privileges (remove ReadOnly) very fast, after installation begins and before it ends. When try to run it, a window saying (Information: Please wait a moment...) flicks some times and program freezes. "
+,longword,2012-09-06T15:53Z,Nice to have trolls visiting me .-)
+,HardChuck,2012-09-15T16:16Z,"@longword
+
+IÂ´ve Installed, it needed to change PrefFolders.ini write only attribute before the install ends.
+
+after change the DXP file, it get stucked on altium start logo ""adding view: Object Inspector"""
+,tc2770,2012-09-17T10:01Z,"@longword
+
+Same issue here, PrefFolder.ini, than on starting DXP it fails as others have described."
+,HardChuck,2012-09-21T14:24Z,"@longword, thank you for the uploads. The 10.589 release works fine for me.
+
+I will keep seeding anyway..."

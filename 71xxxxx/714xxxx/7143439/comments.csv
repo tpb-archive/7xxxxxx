@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,TehSTiG,2012-04-16T14:46Z,I noticed the russian spam links also. Is there any way to remove them? And what do they do is it some sort of virus or just a link?
+,TehSTiG,2012-04-16T20:47Z,To get rid of that spam link you have to modify the copyright.php (just delete the part that has the links to the .ru site) file thats in the features folder. I recommend doing this prior to installation because it takes days for google to update the search results and that spam link will be the first thing showing up in google... and thats not good for business. 
+,BudaMO,2012-04-17T20:38Z,does anyone have matching phpbb3 style for this theme. Please
+,dallens,2012-04-23T00:41Z,"So this template has some serious issues. I does indeed have a link in the copyright.php file to a russian website. But also there is something else wrong with this template. links to Facebook do not work. facebook is unable to see the website which probably means google and other search engines cant see it either. If you have this copy of this template try pasting any link from your site to facebook, nothing will be scraped. use ""facebook linter"" to get a better idea of how FB sees the site and you will know what I mean. I suggest we flag this upload because it has been altered in some weird way making any sites that use it a huge security risk"
+,rusmafia,2012-04-24T16:08Z,"DO NOT USE... wait for a PROPER skull upload .... if you are a webside owner, do not use it, buy it or wait for PROPER, from SKULL uploader here at TPB .
+
+SKULL = Quality :-)"
+,tot143,2012-05-30T02:50Z,"template is clean, but you have to remove also 2 phps from - templatesrt_ionospherehtmlcom_contentarticle  (coded string) in default.php 
+
+to put it on production mode just in case change passwords ( for sql too) 
+
+this template is a bit heavy, is better not to use ganty compressors but jfinalizer. 
+
+i didnt bother to look for decoding app, looks like dont matter
+
+template works grate, but i left this russian backlinks i one of pages. after all simce fair and for alexa 1 page is enough. good work russians and thanks for share
+"

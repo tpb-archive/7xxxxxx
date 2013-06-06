@@ -1,0 +1,51 @@
+Dicionarios para Mac OS X. Funcionam no aplicativo Dicionario nativo do Mac OS X.
+
+
+CONTEUDO
+--------
+
+- Aurelio Portugues Brasil
+
+- Babylon Portugues-Ingles
+
+- Babylon English-Portuguese
+
+
+INSTALACAO
+----------
+
+1) Copiar arquivos para ~/Library/Dictionaries
+
+2) Abrir o aplicativo Dicionario
+
+3) Ir em preferencias e selecionar os novos itens
+
+
+UTILIZACAO
+----------
+
+Funcionalidades padrao do dicionario do Mac OS X, entre elas:
+
+1) Clicar na lupa do conto superior direito ou pressionar "COMMAND-Espaco" 
+   e digitar a palavra
+
+2) Posicionar o cursor sobre uma palavra (em qualquer aplicativo) e 
+   pressionar "CTRL-COMMAND-D"
+
+3) Selecionar o texto, clicar com o BOTAO DIREITO (ou tocar com DOIS DEDOS 
+   no trackpad) e escolher "Look up" (ou o equivalente em Portugues) no menu
+
+
+OBSERVACOES
+-----------
+
+Lamentavelmente nao existe Dicionario Aurelio a venda para Mac OS X. Talvez isso se deva ao fato dos usuarios desta plataforma terem baixissimo poder aquisitivoΓÇª hahaha. 
+
+Sendo assim, nao me restou outra alternativa a nao ser desenvolver um programa para fazer a conversao do banco de dados de palavras e definicoes do Aurelio.
+
+
+-------------------
+Criado por Mr. Milk
+
+27/03/2012
+-------------------

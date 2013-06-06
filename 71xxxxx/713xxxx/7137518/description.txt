@@ -1,0 +1,25 @@
+PowerArchiver Pro 2011 v12.12.03
+
+Homepage: http://www.powerarchiver.com/powerarchiver/
+
+
+Full Windows 7 Support, UAC and VSS:
+=====================================
+Full Windows 7 support with jump lists, taskbar progress and taskbar icon overlays. First archiver to do so.You do not need to worry about compatibility problems with PowerArchiver if you are using or considering upgrading to Windows 7 ΓÇô we have done extensive testing to ensure everything works perfectly. PowerArchiver also runs great on all other Windows versions, from Windows 2000 to Windows Windows 7 and Server 2008, both 32-bit and 64-bit versions.
+UAC elevantion support. PowerArchiver supports UAC (user access control) elevation to administrator when it detects the need for admin account in order to read or write in some folder.
+VSS support ΓÇô Do you need to compress databases, Outlook .pst files, or any other files that are exclusivly used by some application? No problem for PowerArchiver ΓÇô we have exclusive support for VSS (volume shadow support), which is usually used only by enterprise backups to access data that is not accessible to other programs.
+
+
+Most Advaced ZIP/ZIPX Engine:
+==============================
+ZIP Support PowerArchiver offers superior ZIP and ZIPX format support compared to other archivers.Here are the highlights:
+-Multicore deflate zip engine, almost 4x faster than single core systems on quad core computers. (3x faster than WinZip 15)
+-Improved speed of zip compression and extraction on any occassion.
+-Full support for advanced ZIPX format ΓÇô LZMA, JPEG, PPMd, BZIP2 and WAVPACK in ZIP/ZIPX, according to latest ZIP standards. PowerArchiver is the only application that fully supports Winzip 15 and earlier files, while providing faster (up to 3x) and stronger compression compared to WinZip 15.
+-Full support for more basic ZIP format that is compatible with all archivers out there, as well as the built-in Windows XP/Vista/7 zip reader.
+-Unlimited size of the archive, unlimited size of files inside archive and unlimited number of files inside archive.
+-Multicore LZMA engine for ZIP/ZIPX.
+-Support for Unicode in ZIP, both read and write. Implemented throughout application.
+-ZIP/ZIPX AES support (both PkZip 5.1 and WZ 9.0 standards supported) ΓÇô FIPS 140.2 Certified.
+-SecureZip compatibility ΓÇô only archiver fully compatible with SecureZip, including reading 3DES encrypted archives and ZIP/ZIPX archives encrypted with digital certificates.
+-Multiple disk spanning, with support for unlimited span sizes

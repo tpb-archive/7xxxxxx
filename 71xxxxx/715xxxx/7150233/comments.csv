@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,virus.app,2012-04-01T16:05Z,scene4all can ur team krack acapelas infovox ivox voices for mac
+,BaieDePirate,2012-04-05T02:59Z,It now claims that the trial period is over... Anyone else having a problem with that? 
+,BaDcereal,2012-04-13T04:53Z,"For fix trial period over is simple.
+If the program has expired but you have backed up profiles use the steps 2,3,4 and 10. Otherwise follow the steps. You need use Terminal.app for this commands.
+
+1- Save files:
+cp /Users/YOUR_ACC_DIR/Library/Preferences/SuperFlexibleSynchronizer.cfg ~/Desktop
+cp /Users/YOUR_ACC_DIR/Library/Preferences/SuperFlexibleSynchronizer.ini ~/Desktop
+
+2- Uninstall the program using CleanApp or similar
+
+3- Remove the files:
+rm -rf /private/var/db/BootCaches/9F8E3191-C0BA-46D2-812C-E5571C6813EA/app.com.company.SuperFlexibleSynchronizer.playlist
+rm -rf /Users/YOUR_ACC_DIR/Library/Preferences/SuperFlexibleSynchronizer*
+rm -rf /Users/YOUR_ACC_DIR/Library/Preferences/com.company.SuperFlexibleSynchronizer.plist.lockfile
+rm -rf /Users/YOUR_ACC_DIR/Library/Saved Application State/com.company.SuperFlexibleSynchronizer.savedState/
+
+PS: change YOUR_ACC_DIR by your acc name dir
+
+4- After install Super Flexible File Synchronizer registering using your own keygen or key below:
+BaDcereal
+MXSIP7ILRXL2383
+
+5- Open the program then click Advanced Mode Command+, then select the Prefs tab
+
+6- Select other config file then click on Select Config File ...
+
+7- Select the file SuperFlexibleSynchronizer.cfg you backed up, then click on Close
+
+8- On screen View Profile select the profiles you want to back up click the right mouse button ""click on the trackpad with two fingers"" and choose Export to any files it creates a file .INI
+
+9- If you did not back up the profiles and used the SuperFlexibleSynchronizer.cfg you had saved when you close the program and open again it will be expired you must perform the steps 2-4 again.
+
+10 - Once installed and with the profiles saved in .INI file click on the GEAR icon and choose Import Profile select the one you want and click OK.
+
+11- Your program is ready to use if you happen to expire after a month to perform the same procedure.
+
+12-Tks for read. Enjoy your app and sorry my bad english ^^"
+,MFucker,2012-06-24T06:17Z,"Does not work, not worth download."

@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,BlueTak,2012-03-17T15:40Z,Nice work TR :)
+[T],tr108,2012-03-17T18:02Z,"Thanks BlueTak.
+
+I decided to go with one of my favorite films as a test encode for some new toys I got yday. Since I did all that, I figured I'd share. But, boy, it comes at over 65% larger than the corresponding 720p encode (https://thepiratebay.se/torrent/7110182/) :o
+
+Still, plays nicely on my devices & Mac Pro. Curious to hear how it plays for others..."
+,Adrikus,2012-03-17T20:04Z,"everything went smoothly on PC and ipad 2, thx tr"
+,marko997,2012-03-17T23:05Z,@Adrikus Is the iPad 2 capable to reproduce this size: 1920 by 814 pixels. I tought 720 was the top.
+,BlueTak,2012-03-18T02:03Z,"I'm struggling to download this, 20kbs :("
+,Tiestick2003,2012-03-18T18:39Z,This works fine on my iPad 1.
+,BlueTak,2012-03-18T19:50Z,"@TR
+
+Tested on my iPad3 and ATV3 today, they work perfectly and look great! Thank you!
+
+I look forward to any 1080p stuff you can do, maybe up the bitrate slightly?"
+[T],tr108,2012-03-19T02:01Z,"I appreciate the feedback everyone. (BlueTak, glad you were able to download it... finally.)
+
+Adrikus, I can confirm myself that the file plays on the iPad 2. I gave a friend this file via flash drive and he transferred it via iTunes to his iPad 2 in front of me. I suspect this was unlocked for older devices in the 5.0 update.
+
+I wish I could update the torrent description to correct the playback devices. :("
+[T],tr108,2012-03-19T03:45Z,"Whoops, I meant to direct part of that last comment at marko997 (Thank you though, Adrikus, for the feedback)
+
+Tiestick2003, thank you for posting - good to know that this works on the iPad 1. (My girl has one but I never thought to test!)"
+,fede_2890,2012-03-20T13:26Z,"Thanks for all your movies! Good quality in small dimentions!
+
+I've seen that you use Handbrake to convert the video, and I have a question: what kind of format is the original file that you use? .mkv 720p or what?
+
+Thanks again!"
+[T],tr108,2012-03-21T02:28Z,@fede_2890 - originals are .mkv files via download (720p or 1080p) or from BD discs created by MakeMKV (1080p).
+,fede_2890,2012-03-21T11:03Z,"Ok, as i thought! 
+Just one question: what convertion settings do you use with Handbrake?
+
+Thanks!"
+[T],tr108,2012-03-21T23:41Z,"@fede_2890 I've exported the 2 presets (one for film & CGI material, one for cell animation) I use for 720p encodes here:
+
+http://bayfiles.com/file/5ZhR/MZaFoD/techrod108_presets.zip
+
+Download them, unpack the zip, then in HandBrake go to Presets -> Import...
+
+Just in case you don't know: if you move the Constant Quality slider, under the Video tab, to a LOWER number (say 21 or 20) you will INCREASE the bit rate and, typically, the video quality. For most films, I use 22 (which is what the preset is) but on occasion I dial it to 21, even 20, if I'm unhappy with the encode or the source that I'm working from isn't that clean. Going beyond 18, IMO, doesn't do much besides create ""bit rate bloat"" but your eyes may differ. :)
+
+Hope that helps."
+,fede_2890,2012-03-22T17:22Z,"Thank you guy!
+
+And thanks again for your movies!"
+,fede_2890,2012-03-22T22:03Z,"I know, probably you're hating me! 
+Just two more questions: to create the .m4v file, you advise to use a 720p or 1080p .mkv? 
+The dimension of the .m4v file on what depends? Because I have a 4.6GB mkv file, and the converted m4v is 2.6 GB...it's ok? "
+[T],tr108,2012-03-23T03:12Z,"@fede_2890 - overall, for both of your questions: trust your eyes.
+
+There are some 720p encodes available on bit torrent that are much better suited to being used as source encodes - for the kind of stuff you're looking to do, at least - than some of the 1080p ups that get posted. A good rule of thumb is to have a 720p encode that averages 4000 Kbps or better. For 1080p, think 8000 Kbps and above. But, again, trust your vision.
+
+As for question #2, those numbers sound about right (4 GB -> 2.6 GB) but, again, you've got to trust your eyes. 
+
+But if you'll let me hop on my sandbox for a second...
+
+Because movies are shot on all different types of source material - 35mm film, Super 35 film, digital video, etc - don't let the bit rate numbers be the judge. One film - a CGI animated film, might look great in 720p at 2000 Kbps while another, shot on Super 35 (The Matrix) demands a much higher bit rates because Super 35 film is very grainy. Also, HandBrake uses the x264 encoder, which does quite well at low bit rates for brighter scenes but not so great on the darker scenes. (Heaven forbid you watch all your encodes on a TV with the brightness turned all the way up! :)"
+,fede_2890,2012-03-24T15:40Z,"Thanks for answering! You're very kind! 
+I'll do some attempts!"
+[T],tr108,2012-03-24T22:27Z,It ain't no thing. Good luck.

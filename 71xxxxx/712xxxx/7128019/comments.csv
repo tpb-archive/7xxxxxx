@@ -1,0 +1,66 @@
+﻿User Type,Username,Date,Text
+[V],nikita200,2012-03-24T13:42Z,"Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 22. October 2008, 14:48
+
+Pearl Jam / Benaroya Hall: October 22nd 2003 (CD1)
+
+Used drive  : HL-DT-STDVDRAM GSA-4167B   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:Post_FormatExAuCoCodecsFLACflac.exe
+Additional command line options : -8 -V -T ""artist=%a"" -T ""album=%g"" -T ""date=%y"" -T ""genre=%m"" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  5:22.58 |         0    |    24207   
+        2  |  5:22.58 |  4:18.70 |     24208    |    43627   
+        3  |  9:41.53 |  4:49.02 |     43628    |    65304   
+        4  | 14:30.55 |  4:25.63 |     65305    |    85242   
+        5  | 18:56.43 |  3:49.59 |     85243    |   102476   
+        6  | 22:46.27 |  7:29.13 |    102477    |   136164   
+        7  | 30:15.40 |  3:58.19 |    136165    |   154033   
+        8  | 34:13.59 |  6:18.16 |    154034    |   182399   
+        9  | 40:32.00 |  5:53.58 |    182400    |   208932   
+       10  | 46:25.58 |  5:37.22 |    208933    |   234229   
+       11  | 52:03.05 |  5:29.54 |    234230    |   258958   
+       12  | 57:32.59 |  5:13.19 |    258959    |   282452   
+       13  | 62:46.03 |  7:42.32 |    282453    |   317134   
+       14  | 70:28.35 |  2:07.19 |    317135    |   326678   
+
+
+Range status and errors
+
+Selected range
+
+     Filename D:PJ1Pearl Jam - Benaroya Hall  October 22nd 2003 (CD1).wav
+
+     Peak level 100.0 %
+     Range quality 99.9 %
+     Test CRC 6E5F6C93
+     Copy CRC 6E5F6C93
+     Copy OK
+
+No errors occurred"
+[V],nikita200,2012-03-24T13:43Z,CD2 coming soon
+[V],nikita200,2012-03-24T17:51Z,"CD2:
+
+http://thepiratebay.se/torrent/7128369/Pearl_Jam_-_Live_at_Benaroya_Hall_[CD2]"

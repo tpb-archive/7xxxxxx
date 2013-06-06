@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,xjif222,2012-04-17T08:13Z,It only works with a JTAG
+,xjif222,2012-04-17T22:51Z,How is it everyone?
+,xjif222,2012-04-19T00:19Z,"My ratio is 6:1, please seed so everyone can enjoy! TPB has given me so much, it's time I give in return."
+,1l3l_00cl,2012-07-24T13:04Z,after watching a couple youtube videos finally figured it out how to install it properly on my jtag - it works great - Thanks!
+,1l3l_00cl,2012-07-24T14:44Z,"Heres an explanation:
+
+You will need the following:
+
+1) This torrent file
+2) xm360 v2.0 (you will need this to unlock the DLC's)
+
+Download this from here 
+
+http://digiex.net/downloads/download-center-2-0/xbox-360-content/libxenon-homebrew-jtag-reset-glitch-content/7999-xm360-2-0d-download-xbox-360-jtag-xbla-dlc-tu-content-organiser.html
+
+3) COD Black Ops Title Update 11
+
+Download this from here
+
+http://digiex.net/downloads/download-center-2-0/xbox-360-content/title-updates/9357-call-duty-black-ops-title-update-11-a.html
+
+4) USB
+5) I dont think i need to tell you that you need a black ops ENG version and Jtag'd console
+
+Once you have all the files mentioned above create 3 folders (on your PC/laptop) with the following names:
+
+00000002 
+000B0000
+xm360
+
+once you have created and named them, now you have to put/extract the files into those folders which you have downloaded in steps 1 to 5.
+
+I) Put the DLC torrent file that has a weird long name like for ex. ""14D22F140D379F43EC6DEF36A631EA01E1940EE041"" into the folder     00000002
+
+II) Extract the black ops title update 11 (the file name should be  tu00000003_00000000) into the folder      000B0000
+
+III) Extract the contents of xm360v2.0d into the folder          xm360
+
+
+Now you have to copy these 3 folders (00000002, 000B0000 & xm360) to either a USB (4GB capacity at least) or external HDD (must be FAT32) whichever you prefer and then plug USB on the console. 
+
+Before you continue further I hope you know how to create a file on XeXmenu, how to copy paste files from USB to content folder and how to use XeXmenu overall - its not that hard.
+
+1) Go to Hdd1> where you will see folders such as Cache, Content, Compatibility etc.
+
+2) Next you have to create a folder named ""apps"" on Hdd1 and copy the folder    xm360      from usb/HDD into that    apps    folder.
+
+3) Copy the folder      000B0000      &       00000002       from the USB/HDD and paste it to the following destination       Hdd1> Content > 0000000000000000 > 41560855...........MAKE SURE YOU PASTE THOSE 2 FOLDERS INTO 41560855 FOLDER
+
+4) Go to Apps folder that you made in step 2 and go to xm360 folder and run the file      XM360.xex - you will have to wait for a few secs for the screen to reappear where you will see options for ""Rescan all""  ""Unlock XBLA"" ""Show DLC"" ETC.
+
+5)  Select scan all/rescan all and wait for it to be finished
+
+6) Then click on Show DLC and you should see COD Black Ops and on the side you will see DLC by their name     First Strike     or         Escalation       or      Annihilation        or         Rezurrection. 
+
+Which ever DLC you installed in content folder you should see it there. 
+
+7) Now all you have to do is select it and unlock it (you should have an option to unlock them on the left hand side)
+
+8) Once their unlocked run COD Black Ops go to zombies/multiplayer and you should see the maps theres.
+
+
+I know its long but do it step by step unless you wanna watch multiple youtube videos.
+
+I hope this helps.
+
+Thanks to Youtube videos and Xbox360iso.com"
+,friendlyguy70,2012-08-25T14:03Z,"Hey, thanks for that tutorial on how to add the DLC.  It was VERY helpful. The step that I didnt know was where to put the title update. thanks again!  "

@@ -1,0 +1,169 @@
+﻿User Type,Username,Date,Text
+,sudha124,2012-04-15T16:10Z,This is my first torrent..Hope it works fine..Leave your feedback here
+,waleedhalde,2012-04-16T12:53Z,"very nice work sudha .... was searching for this for a very long tim.... works great on my morotorola defy ... shocked for seeing no comments for a wonderful upload... guess noone knows about it 
+..any ways keep on updating and uploading thanx a lot dudt"
+,dhami1222,2012-04-26T11:34Z,Many Thanks for such a wonderful app.....  Searched a lot for this.... Keep up the good work... Thanks a lot once again... :)
+,drharry,2012-04-26T15:16Z,Wow.. wat a grt app.. keep up this good work.. 
+,jashan510,2012-04-27T17:39Z,"Thanks man this is really gonna be helpful
+I will seed (y) :D"
+,nitrojunkie007,2012-05-20T09:44Z,Thanks a ton...!!!! So nice of you...
+,nitrojunkie007,2012-05-23T06:13Z,WOW !!! Works like a charm on HTC Desire HD...much better then google maps ownhere version...This is the best version of Sygic+Mapmyindia maps available on torrent sites or mobilism...coz i've tried 'em all...go for it...once again thanks a lot sudha...  
+,rohtak80,2012-05-24T02:23Z,"I have installed and downloaded the Maps, but there is no way for me to proceed with Step 5. I am using Samsung Galaxy Nexus that does not have an SD card but works on internal memory. 
+
+I searched thru all folders in the phone but am unable to find ""Sygic"", ""Aura"" or any such folder to overwrite the maps files. Any clues?
+
+Thanks!"
+,sudha124,2012-05-25T10:02Z,"@rohtak80 I suppose you have ICS and it uses the Media Transfer Protocol (MTP)..Try airdroid from the market and see if you can access the aura folder in the root
+
+https://play.google.com/store/apps/details?id=com.sand.airdroid"
+,sudha124,2012-05-25T10:24Z,@rohtak80 If you dont have a wifi network for airdroid use MyPhoneExplorer for connecting your phone to PC via USB cable..
+,nuttyim,2012-06-18T08:58Z,"sudha124-your torrent is gud,but i am not able to get gps signal.so it is not able to track my current position.i have followed all the above steps.
+after installing i downloaded delhi map then i replaced the map content of only delhi in my sd card with your torrent map data of only delhi.
+i have tried it in open space also with full view of sky,but not able to get the signal
+earlier the sygic 7 day trial worked very well
+ i want it badly,plz reply where i am wrong"
+,sudha124,2012-06-20T07:01Z,"@nuttyim 
+Can you tell me which phone and android OS are you using ? 
+Are you able to track your location with google maps ?
+Also use GPS status from the market and find out if it can fix a location ?
+
+download A-GPS data regularly for faster fixes..coz usually it takes more time for the first fix..sometimes around 10-15 mins ! so be patient.."
+,nuttyim,2012-06-21T22:07Z,"sudha124-thanx for ur fast reply
+actually i am using samsung galaxy R I9103 with android version 2.3.5
+earlier google maps used to find my position correctly but now sometimes it find correct position and sometimes it cannot.
+i have downloaded gps status,i have tried calibrating compass,accelerometer and downloaded gps assistance data,i let gps status running for around 1 hour but it cant fix it,but i have tried this at home,may be thats the reason its not able to fix it.one more thing now i am getting gps signal in sygic but it is not detecting my correct position,it detects always the same position.is i am doing right?"
+,sudha124,2012-06-22T05:35Z,"@nuttyim Seems like a problem with your gps radio..Getting a fix indoors is very rare unless you root it..
+After rooting you can edit your gps.conf file for fix within indoors and also much faster..
+
+If not rooted try this using the method 1 via ADB Pusher http://forum.xda-developers.com/showthread.php?t=1442032
+
+The google specific build works perfectly here in india..First fix around 18-20 secs ans subsequently in less than 8 secs..But this is for me so try playing around and find out which works for you..
+Make sure after using the above script TURN OFF 'Use wireless networks' in location & security settings
+
+If you've already rooted try fasterfix from the market which also works fine for us in india
+
+"
+,sudha124,2012-06-22T06:17Z,"@nuttyim Do note the above method doesnt work on all devices..It has a bad glitch where your location is fixed to the centre of any country..so do some googling before trying it out..I would recommend you to root and use fasterfix (safest of all)
+
+Also check out http://forum.xda-developers.com/showthread.php?t=1458920 and ask the guys out there"
+,sudhi575,2012-06-29T15:51Z,"Hi Sudha, 
+
+1. I have legacy nexus one running 2.3.6, will these maps run on my device
+
+2. people please seed, my download speed is less than 1KB
+
+thanks"
+,sudha124,2012-06-30T04:31Z,@sudhi575 Yes it will work pefectly..Nexus one is not really an old device..Anything above android 2.0.1 will do
+,sudhi575,2012-06-30T06:35Z,"@Sudha, Thanks for a quick response, is there a way i can install this in Bada OS devices? Samsung wave 5800 in particular."
+,sudha124,2012-06-30T08:42Z,"no..Sygic has ditched bada OS some time back..It was available for Bada 1.2 last year..
+
+Yes if you still have the old 1.0 or 1.2 bada"
+,lsk007,2012-06-30T10:06Z,"Sudha124,
+All is well.
+but step #4, is not clear to me. I am not very much technically sound. Hence please be little more simple step by step in #4. Also where is the download link...?
+
+Anyway, I just wanted to know #4, query is "" ie i01.mi.2013.01 to i32.mi.2013 with contents in the new map folders provided in the torrent..(do not copy and paste folder)"" - This part I did not understand. If you could help with snap shots will be a great help even other like me...Many thanks in advance.
+
+Sunil"
+,lsk007,2012-06-30T10:07Z,"I forgot to mention, I currently use Y series GT-S5360 devise from samsung."
+,lsk007,2012-06-30T10:09Z,"Sudha124 : if the snap shots for the below request is not possible to post here, you can paste in word doc. and send it to my email address : lsunilkumar.android@gmail.com
+
+Thanks in advance
+Sunil"
+,sudha124,2012-06-30T11:23Z,"@Sunil
+1.Connect your phone to the PC via USB cable under mass storage
+2.Navigate to SDcard/aura/maps
+3.You'll see folders from i01.mi.2013.01 to i32.mi.2013, .lic, content.info, mlm files and wcl folder
+4.Now copy all the files from the torrent folder i01.mi.2012.01
+5.Then open i01.mi.2013.01 in the SDcard and paste the contents 
+6.Select 'Move and Replace' when windows prompts
+7.Repeat the same for all 32 folders
+You should have the updated maps now"
+,lsk007,2012-06-30T15:19Z,"@sucha124:
+Thanks for your guidance, I am on track, but then...
+
+Where do will I find #4 ?
+""4.Now copy all the files from the torrent folder i01.mi.2012.01""
+
+I mean torrent folder. I could find 2012 folder in Maps but i01.mi.2012.01: Where will I find it to download or please guide me. Thanks in advance."
+,lsk007,2012-06-30T15:24Z,@sudha124 : sorry I always miss some information to give you to help me in better understand. I have downloaded 11.2.6 the cracked version of latest Sygic map. In that all folder with be seen with date as 2013. Can you please help.
+,sudha124,2012-06-30T15:58Z,@lsk007 There's something called google..use that to find out how to download from a torrent..Then download this torrent ! you'll have all your files including the 2012 (ie) i01.mi.2012.01 folder !! 
+,nuttyim,2012-06-30T20:47Z,"sudha124-thanx for ur reply
+i will try your suggestion,just one thing i want to tell you that sygic worked fine for me only one time thats in gurgaon near ambience mall.i cant understand why it started working there only???"
+,nuttyim,2012-07-01T18:09Z,"sudha124-one more thing do adb push installer will root my phone
+actually i dont want to root my phone
+i tried finding adb push installer but not able to find it"
+,sudha124,2012-07-02T04:29Z,"Here it is http://derekgordon.com/gps-files/agps.adb.all.builds.v3.1.and.v1.3.zip
+
+Connect your device to PC via USB and make sure you turn on USB debugging
+Then simply select which version you want and when it prompts restart your phone"
+,nuttyim,2012-07-02T17:48Z,"hey i tried that link 
+then connected my phone to pc with usb debugging checked
+after that i opened the file Windows ADB Installation Script.bat
+after that i entered my choice 3
+then it started running but gave error like no permission,read only like that
+then restarted my phone...
+i thing i need root for this,is i am right???"
+,nuttyim,2012-07-02T17:54Z,and sorry for asking questions again and again but i want to ask one more question can i move the folder Aura to memory card???
+,sudha124,2012-07-03T06:23Z,"@nuttyim Yes..root is needed..you can do temp root and unroot it afterwards if you dont want to void your warranty..rooting takes less than 5 mins
+
+and yes you can move the whole of aura folder into your SDcard"
+,nuttyim,2012-07-03T17:23Z,"ok... 
+thanx for your advice and your time
+you are sure na that root will not void my warranty?
+and can you prefer me the best way to temperory root 
+jst tell me the name of rooting software"
+,sudha124,2012-07-04T04:50Z,"@nuttyim 
+Know the basics first..
+1.Root is getting super user permission
+2.Your android OS is stored in your ROM just like Windows OS in your PC
+3.You cant change/modify the contents in your ROM unless you root it (ie) superuser permission like in this case you want to change the gps.config file
+4.After rooting almost everyone will load a custom ROM meaning you'll install modified windows version on your PC to gain most out of your phone like 
+Faster GPS fix
+Fast and smooth OS
+Free wifi tethering
+Install beats audio for better audio
+Ad-free phone n lots !
+5.And yeah doing all this will void your warranty..So if for any reason you want to get your phone to the service centre simply flash the stock OS (ie) the ROM/firmware/OS which came with the device and you've unrooted it
+
+Read lots before rooting and follow the procedure exactly..know exactly what you're gonna do next before proceeding
+
+Rooting procedure varies with device..
+Some links for rooting your device
+http://androidadvices.com/root-samsung-galaxy-i9103-tutorial/
+
+http://forum.xda-developers.com/showthread.php?t=1406880
+
+http://forum.xda-developers.com/showthread.php?t=1525109
+
+http://forum.xda-developers.com/showthread.php?t=1406541
+
+Your phone has a recovery mode to install new OS but this has limited functions..
+to flash a custom ROM you need a custom recovery..
+CWM is Clockworkmod recovery which is the most used/famous recovery"
+,nuttyim,2012-07-04T19:10Z,"k...
+thanks once again i will try dis out"
+,abhinavmishra,2012-07-23T10:13Z,"hi thanks a lot for uploading such a GREAT torrent on tpb and helping everyone out.
+I just wanted to ask one thing.....is the city guide option active....cause for me it is not active for india's map but the city guide is active in other countries map. i.e I cannot select city guide option. Please Please somebody Please reply. and any suggestion to activat it if any. Thamks in advance"
+,abhinavmishra,2012-07-23T10:15Z,"Hi thanks a lot for uploading such a GREAT torrent on tpb and helping everyone out and its working perfectly fine.
+I just wanted to ask one thing.....is the city guide option active....cause for me it is not active for india's map but the city guide is active in other countries map. i.e I cannot select city guide option. Please Please somebody Please reply. and any suggestion to activat it if any. Thamks in advance."
+,abhinavmishra,2012-07-23T10:16Z,"Hi thanks a lot for uploading such a GREAT torrent on tpb and helping everyone out and its working perfectly fine.
+I just wanted to ask one thing.....is the city guide option active....cause for me it is not active for india's map but the city guide is active in other countries map. i.e I cannot select city guide option (rest all the options are working). Please Please somebody Please reply. and any suggestion to activat it if any. Thamks in advance."
+,sudha124,2012-07-23T16:45Z,@abhinavmishra Sygic doesn't provide city guides for INDIA..even in the full paid version..
+,nuttyim,2012-08-04T20:58Z,"@sudha124-i changed my phone
+now its working perfect
+
+now i m using sygic on iphone"
+,sj170,2012-08-07T18:03Z,"Hi @sudha124 - I have a Samsung Galaxy Ace Plus and have installed the app and also downloaded the maps.  When I start the application, it gives a warning ""Problem parsing recieved unknown configuration file. Unknown tag in file database htmlhtml"".  Pressing OK button closes the sygic app.  Can you help?  (I have a paid version of mapmyindia Mobile Maps 10 app running ok)"
+,drvipinv,2012-08-08T03:59Z,"hi...
+i downloaded sygic on my sony xperia u... downloaded the necessary maps, removed the folder aura and then installed... installation completed successfully... but the device is asking for a default program to open the software... not able to make changes in the app settings too... what to do??? can anybody suggest a solution????"
+,sj170,2012-08-08T10:05Z,Thank you.  It works fine on Samsung Galaxy Ace Plus after removing paid version 10 bought with misleading claims from mapmyindia.
+,kanchudeep,2012-09-22T10:52Z,"Hi...
+
+You can also try out :
+http://thepiratebay.se/torrent/7244868/Sygic_Navigation_11.2.5_%28Android%29_with_MapmyIndia_7_Maps_of_Indi
+
+It is Sygic 11.2.5 (Android) version with MapMyIndia 7.0 (Feb 2012) maps. No difference between version 11.2.6 & version 11.2.5 for Indian users.
+Advantage is that this will need minimum work... No need to download data from Sygic Downloader. All data is already present. Almost zero configuration!
+
+Regards..."

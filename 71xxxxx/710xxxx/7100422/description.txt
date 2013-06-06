@@ -1,0 +1,17 @@
+The main features of 7-Zip
+
+High compression ratio in 7z format with LZMA and LZMA2 compression
+Supported formats:
+Packing / unpacking: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM
+Unpacking only: ARJ, CAB, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, RAR, RPM, SquashFS, UDF, VHD, WIM, XAR and Z.
+For ZIP and GZIP formats, 7-Zip provides a compression ratio that is 2-10 % better than the ratio provided by PKZip and WinZip
+Strong AES-256 encryption in 7z and ZIP formats
+Self-extracting capability for 7z format
+Integration with Windows Shell
+Powerful File Manager
+Powerful command line version
+Plugin for FAR Manager
+Localizations for 79 languages
+
+
+Keep Seeding

@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,AppleTV1080p,2012-03-21T04:29Z,hey man! Love your work. Are you planning on doing each of these movies in 1080p as well?
+[T],tr108,2012-03-21T06:39Z,"Thanks man. Going forward, I will *try* to do both 720p & 1080p on some films. (As to which films, dunno yet, but - as with my test encode, Kung Fu Panda - I'll post the 1080p encode first, then the 720p one, when I will be posting two resolutions.)
+
+Unfortunately, I (probably) won't be returning to anything that I've upped already in 720p. I haven't found that magic (encoding) formula for 1080p yet..."
+,BlueTak,2012-03-21T12:03Z,"@ TR, are you using Handbrake?
+
+I find the High profile preset does a good job. If I had a half decent upload speed, I'd contribute. I've done a few 9GB MKVs to MP4 this week at 1080p."
+,mamun777,2012-03-21T14:39Z,"@ tr108 if possible can you post some screen shot for handbrake settings, I have no idea how do you do those 2 channel audio track as well as the HD video settings...Thanks a million..."
+[T],tr108,2012-03-21T23:47Z,"@mamun777 I've exported the 2 presets (one for film & CGI material, one for cell animation) I use for 720p encodes here:
+
+http://bayfiles.com/file/5ZhR/MZaFoD/techrod108_presets.zip
+
+Download them, unpack the zip, then in HandBrake go to Presets -> Import...
+
+Just in case you don't know: if you move the Constant Quality slider, under the Video tab, to a LOWER number (say 21 or 20) you will INCREASE the bit rate and, typically, the video quality. For most films, I use 22 (which is what the preset is) but on occasion I dial it to 21, even 20, if I'm unhappy with the encode or the source that I'm working from isn't that clean. Going beyond 18, IMO, doesn't do much besides create ""bit rate bloat"" but your eyes may differ. :)
+
+Hope that helps."
+[T],tr108,2012-03-21T23:57Z,"@BlueTak Indeed, the High Profile preset is great.
+
+I'm trying to tweak the settings in the advanced tab to allow me to either crush the bit rate more (very unlikely), speed up the encode (probably not a chance in ....), or get even better-looking encodes at higher bit rates. It's an exercise in patience. lol.
+
+In particular, I'm trying to improve quality in the darker scenes."
+,karimbaraka,2012-03-22T10:04Z,"Thanks for uploads can you do them in higher bitrate or even in Bit Depth : 10 Bits ??
+Just suggesting :)"
+,temp1992,2012-03-23T01:28Z,"Hi tr1008,
+
+I was wondering if you could in the future support chapters (enable chapters option in Handbrake)??
+
+Thanks so much!!"
+,temp1992,2012-03-23T01:31Z,"I don't know where my previous comment went...
+
+Hi tr108,
+
+I was wondering if you would kindly support (enable option in Handbrake) chapters in your future movie uploads??
+
+Thanks so much!"
+[T],tr108,2012-03-23T02:51Z,"@temp1992 - Actually, I *do* keep the chapters for the MKV files that have them. The source file I used for this film, unfortunately, wasn't chaptered."
+[T],tr108,2012-03-23T13:35Z,"@karimbaraka - I can appreciate the suggestions. :)
+
+About upping the bit rate, I feel that going from a 8/10 to 10/10 visual quality (20% increase in the eyeball test) usually means a 50% or more increase in file size and that's not worth it to me, at least for 720p. (I realize many peeps disagree with me on that.)  That said, I *might* aim to make some 1080p ups more reference quality if the source is clean (aka direct from BD), but it's still TBD.
+
+I'd love to be able to do 10-bit reference quality encodes, but playback is too limited. :("
+,karimbaraka,2012-03-23T20:11Z,No worries man keep going with great uploads :D
+,justneustis,2012-03-24T20:00Z,Absolutely awesome. Thanks for the quality movies. Any chance of getting MI: Ghost Protocol?
+[T],tr108,2012-03-24T22:24Z,"When MI:GP is available in legit quality, I'll encode it, in both 1080 & 720. :)"

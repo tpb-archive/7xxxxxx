@@ -1,0 +1,61 @@
+CompleteName                     : L:Død Snø.m4v
+Format                           : MPEG-4
+Format_Profile                   : Base Media / Version 2
+CodecID                          : mp42
+FileSize/String                  : 1.17 GiB
+Duration/String                  : 1h 27mn
+OverallBitRate_Mode/String       : Variable
+OverallBitRate/String            : 1 918 Kbps
+
+
+Encoded_Application              : HandBrake 0.9.6 2012022800
+ID/String                        : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format_Profile                   : Main@L3.0
+Format_Settings_CABAC/String     : Yes
+Format_Settings_RefFrames/String : 4 frames
+CodecID                          : avc1
+CodecID/Info                     : Advanced Video Coding
+Duration/String                  : 1h 27mn
+BitRate_Mode/String              : Variable
+BitRate/String                   : 1 467 Kbps
+Width/String                     : 720 pixels
+Height/String                    : 552 pixels
+DisplayAspectRatio/String        : 1.855
+FrameRate_Mode/String            : Variable
+FrameRate/String                 : 25.000 fps
+FrameRate_Minimum/String         : 12.500 fps
+FrameRate_Maximum/String         : 25.000 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Bits-(Pixel*Frame)               : 0.148
+StreamSize/String                : 920 MiB (77%)
+Encoded_Library/String           : x264 core 120
+Encoded_Library_Settings         : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded_Date                     : UTC 2012-04-07 22:41:53
+Tagged_Date                      : UTC 2012-04-07 22:54:55
+Color primaries                  : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+ID/String                        : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Format_Settings_Endianness       : Big
+CodecID                          : ac-3
+Duration/String                  : 1h 27mn
+BitRate_Mode/String              : Constant
+BitRate/String                   : 448 Kbps
+Channel(s)/String                : 6 channels
+ChannelPositions                 : Front: L C R, Side: L R, LFE
+SamplingRate/String              : 48.0 KHz
+BitDepth/String                  : 16 bits
+Compression_Mode/String          : Lossy
+Video_Delay/String               : -120ms
+StreamSize/String                : 281 MiB (23%)
+Language/String                  : Norwegian
+

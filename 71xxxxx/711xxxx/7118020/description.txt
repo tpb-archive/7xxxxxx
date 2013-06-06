@@ -1,0 +1,55 @@
+The Ultimate Blu-ray & Media Player
+
+PowerDVD 12 plays all types of media content - movies, videos, photos and music, and brings the best in video and audio technologies to upgrade all your viewing experience to HD and 3D, including streamed content via home network, or, Youtube, Facebook and Flickr pages.  PowerDVD 12 is the ultimate entertainment software you need anywhere at home and on-the-road.
+
+Find out more about PowerDVD 12's amazing features:
+
+- Enjoy all your HD media - movies, music, and photos
+- Play media from anywhere - PCs, smart devices, and cloud
+- Enhance the quality of all your media - videos, photos & music
+- Watch videos & photos on Facebook, YouTube and Flickr
+- Take PowerDVD beyond your PC with PowerDVD Mobile for Android tablets
+- Control PowerDVD from your iPhone, iPad & Android device with PowerDVD Remote
+
+
+Available Languages:
+
+English, Chinese (Traditional), Japanese, Spanish, Korean, Chinese (Simplified), German, French, Italian, Russian, Portuguese
+
+
+Preactivated Recompressed Setup:
+
+- Installs the Ultra Version, pre-activated and pre-registered
+- Theand Movie Remix features are disabled by default
+- Sets the cursor hide time in Full Screen to 1 sec (default = 3)
+
+
+Install: Just run Setup.exe and you are done, it's registered and activated.
+
+
+================================
+:: Tweak Pack for PowerDVD 12 ::
+================================
+
+Blu-Ray Region Reset.bat:     Resets the Blu-Ray region settings
+Disable BD Mouse Pop-up.bat:  Disables the Blu-Ray disk Mouse support Pop-up
+En/Disable   Enables/DisablesRemix and Comments
+En/Disable CLFLVSplitter.bat: Enables/Disables the FLV Splitter *
+Disable PowerDVD12Agent:      Disables PowerDVD12Agent and PowerDVD12DMREngine **
+
+Note: After you reset the Blu-Ray region, it is a must to reinstall PowerDVD!!
+
+
+*   CLFLVSplitter.ax can cause a crash when you play flv videos in Windows Media Player. Disable_CLFLVSplitter.bat will unregister the FLV Splitter, which fixes the problem
+
+**  Disables PowerDVD12Agent and DMREngine from running automatically at Windows startup. They both launch when you run PowerDVD 12
+
+
+
+Sorry about my previous release, it was not working correctly (wrong license file)
+I've tested this one on several machines,.. it plays Blu-Rays and it doesn't crash
+
+
+Cheers,
+
+ADHDerby

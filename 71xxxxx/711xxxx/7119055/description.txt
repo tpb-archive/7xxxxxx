@@ -1,0 +1,49 @@
+Hugo 2011 BDRip 1080p extras multi  HighCode
+ 
+http://www.imdb.com/title/tt0970179/
+
+
+Source.................Hugo 2011 1080p 2D Blu-Ray AVC DTS-HD MA 7.1-HDChina
+Format.................Matroska
+File size..............6.64 GiB
+Duration...............2h 6mn
+Format profile.........High@L5.0
+Video bit rate.........6 000 Kbps
+Display AR.............1920 x 1080 (16:9)
+Frame rate.............23.976 fps
+Title..................Hugo 2011 1080p HighCode
+Encoder................HighCode (aka mkvonly)
+
+What makes this encode look identical to the Blu-ray source (x264 core 119):
+cabac=1 / ref=9 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=11 / me_range=128 / trellis=2 / 8x8dct=1 / bframes=9 / b_pyramid=2 / rc_lookahead=130 / rc=2pass / bitrate=6000
+
+See samples source (34 MB/s, 40.9 MB) vs HighCode (6MB/s, 7.22 MB)
+source:
+HighCode:
+
+Some standalone players won't play this file because the very high encoding settings so test the sample b4.
+
+AUDIO:
+#1 ENGLISH DTS 768 KB/S, 5.1 ch, 682 MiB (10%)
+#2 ENGLISH Audio description for blind and partially sighted people AAC vrb ~190 KB/s
+#3 FRENCH AAC vrb ~190 KB/s, 2ch
+#4 PORTUGUESE BR AAC vrb ~190 KB/s, 2ch
+#5 SPANISH Lat Am AAC vrb ~190 KB/s, 2ch
+
+SUBTITLES:
+Eng + sdh, Ara, Dan, Fin, Fre, Hun, Kor, Por Br, Rom, Spa Lat Am, Swe, Tur
+
+Extras:
+extra 1 - The Making of Hugo 20 min, 720p, VobSubs; Eng, Fre, Spa
+extra 2 - The Cinemagician, Georges Mellies 16 min, 720p. VobSubs; Eng, Fre, Por, Spa
+
+For those who praise big files and look down at smaller files:
+
+Hugo.2011.1080p.BluRay.X264-AMIABLE (8.75 GB)
+vs
+Hugo 2011 BDRip 1080p extras multi HighCode (6.64 GB including the 4 extra audio tracks)
+
+AMIABLE: http://imgbox.com/aadieDRZ
+HighCode: http://imgbox.com/aaoxAhsV
+
+Snapped at:Time:00:25:22.843/Frame:36511, 23.976

@@ -1,0 +1,9 @@
+All files are .iso images, and must be burned as an image file. This can be done with any commercial burning program (Nero, Roxio, Sonic, etc). The following link can be used to download a plug-in for either XP or Vista, allowing the image to be burned to disc within Windows. Windows 7 natively will extract and burn .iso files. Simply install the plug-in, then double-click on the image and click ΓÇ£NextΓÇ¥ on the window that pops up.
+ 
+http://isorecorder.alexfeinman.com/isorecorder.htm 
+
+With the exception of NTCD 2.5.1, all images have been renamed to correlate with the year of release. This should correspond to the year the system was released, to simplify the process of which utility to run. NTCD 2.5.1 is for all systems released in ΓÇÖ04 or prior. It also includes a FDISK utility. 
+
+Hard Drive DMI must be run on all Hard Drive replacements for HP and Compaq. 
+
+A system will boot properly without the DMI or Tattoo utility being ran. The purpose of these utilities is to add an identifier to the Motherboard BIOS so the restore software will recognize the system as being the correct system for the restore to run. Otherwise if a restore is attempted, an error message will appear, stating the CDΓÇÖs do not support the system.

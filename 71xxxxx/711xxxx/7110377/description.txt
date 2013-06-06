@@ -1,0 +1,62 @@
+DVDFab v8.1.6.8 is out (March 17, 2012)
+ 
+http://www.dvdfab.com/download.htm
+
+What's New:
+
+Internal/GUI:
+
+New: Added support for Windows 8. 
+New: Updated qt runtime dlls. 
+New: Updated language files. 
+New: Added profiles for new iPad and some Android mobile devices. 
+New: Some minor changes and improvements. 
+Fix: A problem of drag and drop.
+________________
+ 
+Blu-ray Copy: 
+New: Added support for new BD+ protection. 
+New: Added support for new Java-based protection. 
+New: Added brand new "StealthyClone anti-protection" as a generic way to beat latest Java protection. Please visit http://blog.dvdfab.com/stealthyclone...rotection.html to get more details. 
+New: Added option "Remove Java protection with StealthyClone anti-protection" in "Settings -> Protection -> Blu-ray". 
+New: Improved main playlist detection for latest Blu-ray discs with fake playlists protection. DVDFab will select correct main playlist with correct angle in "Main Movie" mode, also the main playlist can be got in "Settings -> Info" window. 
+Fix: A black screen problem when BD-Live is removed, and user accesses the BD-Live content from the backup disc. 
+Fix: A video stutter problem when copying Blu-ray disc to BD5/BD9 with Intel Quick Sync encoder. 
+Fix: A freeze problem when copying to BD5/BD9 with GPU acceleration enabled in certain cases. 
+Fix: A bad quality video problem when using Lightning-Recoding in certain cases. 
+Fix: Blu-ray 3D backup disc is not playable when using "Copy as Blu-ray 2D" in certain cases. 
+NOTE: We suggest user to use the original Blu-ray 2D disc to create 2D backup, and use original Blu-ray 3D disc to create 3D backup. For single 3D+2D disc, there is no problem to use "Copy as Blu-ray 2D". 
+Fix: Blu-ray 3D backup disc is not playable when using "Convert to Blu-ray SBS 3D" in certain cases. 
+Fix: A 504 error when copying Blu-ray 3D disc to BD5/BD9 using "Convert to Blu-ray SBS 3D" in certain cases.
+___________________
+ 
+Video Converter: 
+New: Added support for ass/ssa subtitle files. 
+New: Added support for UTF-8 and unicode subtitle files.
+___________________
+ 
+DVD Creator: 
+New: 16:9 output will be selected automatically when source file is wider then 16:9 like 2.35:1. 
+New: Added support for ass/ssa subtitle files. 
+New: Added support for UTF-8 and unicode subtitle files. 
+___________________
+
+Blu-ray Creator: 
+New: Added support for ass/ssa subtitle files. 
+New: Added support for UTF-8 and unicode subtitle files. 
+Fix: No sound problem when converting other audio stream to AC3 audio
+
+___________________
+
+Preactivated version-silent installation...
+That's the way to do it... :)
+
+Simply clever...
+
+Special thanks to Master13 for sharing as well as for his great job.
+
+Tested and ok indeed ;)
+
+enjoy and have fun
+
+regards

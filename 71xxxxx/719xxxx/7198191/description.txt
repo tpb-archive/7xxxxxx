@@ -1,0 +1,7 @@
+Hauptgerät für die Aufnahmen ist ein 27" iMac mit 3,4 GHz Intel Core i7 Prozessor, 8GB 1333MHz DDR3 Ram und SSD HD. Als weitere Hardware kommt ein M-AUDIO Fast Track mit einem SCM-1 Mikrofon im Studio zum Einsatz. Softwareseitig zeichnet Garageband die Podcasts auf und mit Nicecast2 von Rogue Amoeba wird der Stream zum shoutcast Server von streamplus gesendet. Nicecast übernimmt auch mit der Archive Lösung mein Fallback, wenn Garageband mitten im Podcast abstürzt (bisher 2 mal vorgekommen).
+
+Die externen Podcast Teilnehmer schalten sich bevorzugterweise per Google+ Hangout in den Podcast mit rein. Um die vielen verschiedenen Audioquellen (Fasttrack und hangout) in Garageband aufnehmen und über Nicecast2 streamen zu können kommt der virtuelle Soundadapter soundflower zum Einsatz. Zum Schluss leitet die Software line-in , ebenfalls von Rogue Amoeba, das Mikrofonsignal vom Fasttrack an soundflower. In Google Hangout wird als Ausgang ebenfalls soundflower ausgewählt. Soundflower wird als Audioeingangssignal bei Garageband ausgewählt, fertig ist das Setup.
+
+Die Aufgenommenen Podcast werden im .mp3 Format an den kostenlosen Dienst Auphonic gesendet. Hier wird das .mp3 File automatisch angepasst und ausgelevelt. Laute Stimmem werden runter geregelt und leise Stimmen werden lauter gemacht. Einfach gesprochen. Das da etwas mehr hinter steckt kann man sich auf deren Homepage anschauen. Aus auphonic fallen wenn man möchte bis zu drei Formate heraus. MP3, M4A und OGG.
+
+Viel Spass beim nachbauen des Setup und selbst podcasten.

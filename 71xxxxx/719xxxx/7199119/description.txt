@@ -1,0 +1,20 @@
+System Requirements
+IBM-compatible PC with a minimum 2 GHz Pentium-class microprocessor and 512 MB RAM
+Windows 7, Vista, XP, 2000 (32 & 64 bit)
+4 MB hard disk space
+For Blu-ray or HD DVD media, a Blu-ray or HD DVD compliant drive is required.
+For HD decryption and ripping, the minimum OS is Windows 2000 (latest SP).
+PC player software usually requires Windows XP SP2 as minumum OS.
+
+Changelog
+
+- New (Blu-ray): Updated decryption keys
+- New (Blu-ray): Support for new BD+ protection
+- New (Blu-ray): Support for new Java based protection
+- New (DVD): Support for new copy protections
+- Fix (Blu-ray): Online connection was required for certain discs, where it shouldn't be necessary
+- Fix (Blu-ray): Speedmenu could crash with certain Blu-ray discs
+- Fix (Blu-ray): Corrupted menus if region code removal is enabled with some discs
+- Change (Blu-ray): Removed limit of max. 64 title keys
+- Some minor fixes and improvements
+- Updated languages

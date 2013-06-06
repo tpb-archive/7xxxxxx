@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,mimokrokodil,2012-03-19T18:43Z,"KSP.exe drops some ""inst.exe"" to ""C:Users\AppDataLocalTemp"" and runs it.
+My antivirus blocked it.
+
+https://www.virustotal.com/file/f0cab106439e7551d80ab450bfa00a6e80677caa2f5bf8868d096eee5b6f5471/analysis/1332177436/
+
+BTW game doesn't work. Maybe because of antivirus."
+,sarsars,2012-03-19T19:58Z,"AVG and avast didn't seem to pick it up. What kind of antivirus are you running and are you sure it isn't a false positive when so few of them picked it up?
+
+I tried starting it and for some reason it didn't work for me either, so I'll try finding a working version and upload it"
+,mimokrokodil,2012-03-19T20:43Z,"sarsars, this is not false alarm.
+inst.exe create in AppData folder with name ""KSP"" and drop there some files.
+Then runs ""atieclxx.exe"" from that folder, ""atieclxx.exe"" runs ""val.exe"" that kill antivirus, get your passwords/credit card info and sends it to hacker."
+,mimokrokodil,2012-03-19T21:09Z,"And more.
+There's bitcoin miner (google ""bitcoin miner virus"")
+Bitcoin login of hacker ""1PNmRRFu3cqdy9U3ZebzNCN2U6kPM5KhB2""
+He uses your PC to make bitcoins (money)
+You can look bitcoin balance/stats using this login.
+Right now speed of all infected PCs 701.51 MH/s"
+,sarsars,2012-03-19T21:17Z,"Really? I ran it in a virtual machine and nothing happened at all.
+If you want me to stop uploading, tell me to, like a man. Don't make up bullshit because your antivirus sucks. You still didn't tell me what kind of antivirus you're running. 3/43 is very little and no major antivirus reports anything. Anyways, thanks for writing."
+,mimokrokodil,2012-03-19T21:30Z,"I use Kaspersky Internet Security 2011
+I don't lie to you. Install KIS 2011 and look yourself."
+,mimokrokodil,2012-03-19T21:34Z,"And after you catch that ""inst.exe"" google for ""anubis iseclab"" and upload there that file, and you will see what he do. Or if you can - use debugger."
+,sarsars,2012-03-19T22:09Z,"Thanks. Kaspersky didn't say anything on virustotal, but I guess I'll install it and check"
+,mimokrokodil,2012-03-19T22:37Z,"Kaspersky didn't say that's virus, he say that some suspicious file ""inst.exe"" trying to launch from temp folder. And he asking allow or block. Look at path of that file, press ""block"", then go and get that file. See properties of file:
+
+Silent=1
+Overwrite=2
+Setup=""%appdata%KSPatieclxx.exe""
+Path=""%appdata%KSP""
+
+You can unpack it with WinRar, and see what is that. By google name of 1 file ""phatk120223.cl"" you can see that that is BitCoin virus.
+And by look with what params runs ""val.exe"" (true anubis) you can know account of hacker in bitcoin.
+And i think ""inst.exe"" not in ""ksp.exe"", but in ""ksp.dll"" that injects into ""ksp.exe"". (open ""ksp.dll"" with notepad (lol), and you will find there ""inst.exe"")
+Well, good luck. I go sleep."
+,mimokrokodil,2012-03-21T23:53Z,"Let's congratulate hacker! 
+He made first 1 bitcoin on infected computers!
+Right now speed of all infected PCs 1,236.00 MH/s"
+,juhl88,2012-04-18T12:33Z,Virus alright. Reporting this bitch!

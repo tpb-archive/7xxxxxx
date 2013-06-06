@@ -1,0 +1,14 @@
+DigitalPID Decryptor is designed for computer users to manually retrieve their Product Keys, back them up, edit OEM information and recently a Tools & Utilities section was added.
+
+v1.0.8.10 (Minor) (Fix) Changes made:
+1.) Bug fix ΓÇô Program would not display its MD5 when renamed from ΓÇÿDigitalPID DecryptorΓÇÖ
+2.) Edited how system files are deleted due to exceptions and incorrect dialogs being shown.
+3.) Minor UI edits
+4.) Edited how the save function backs up your information
+5.) Improved error handling
+
+Compatibility:
+Not Windows XP compatible ΓÇô XP Version in development
+Windows Vista ΓÇô All versions
+Windows 7 ΓÇô All versions
+Windows 8 ΓÇô All versions to build 8250

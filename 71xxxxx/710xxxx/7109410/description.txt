@@ -1,0 +1,19 @@
+I've uploaded this great Android 4.0 ROM for you :D
+It is Android 4.0.3 based on CM9 with Mike's new 2.6.35.14 kernel.
+It was adapted for ICS and GT-540 in many ways like:
+
+-3.2 kernel power(msm-battery) and CPUFreq drivers
+-3.0.8 GPU core drivers(KGSL 3.0)
+-Genlock and memalloc(new kind of memory managment stuff from Galaxy Nexus)
+-The Bluetooth driver also from Nexus(It is needed for BlueSleep issue-thanks Mac┼éaw)
+-It has got an LGΓÇÖs .29 Charging table restored to get real battery percentage
+-Backported framebrufer from 3.0 to get rid of screen sleeping errors
+-Netfilter from 3.0 for data stats(not implemented in system yet)
+-Battery Voltage and Temperature is fixed
+
+
+Original DL links: http://mikegapinski.androidus.pl/android-4-0-ice-cream-sandwich-aosp/
+
+Please seed if possible
+
+Installation tutorial is pretty long, so here's the link: http://androidforums.com/lg-optimus-gt540/494941-update-4-0-lg-gt-540-a.html

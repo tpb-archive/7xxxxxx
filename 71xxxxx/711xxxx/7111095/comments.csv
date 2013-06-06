@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,engineer79,2012-03-18T03:29Z,"Technically, game size is 844.1 MB.  I archived it for you to approximately 430 MB so you can download asap.  No Password for the .zip file and please seed since there might be some fans for this classic game."
+,Grapeflavouredpop,2012-03-19T01:19Z,cant get online because links wont paste in the console -___- 
+,engineer79,2012-03-19T04:19Z,"If you have a mouse problem, try this;
+
+http://www.triq.net/articles/mouse-acceleration-download"
+,engineer79,2012-03-19T04:23Z,"+ if you have an ""invalid authentication certificate length"" problem, just goto this way and find config.cfg file.  Open it with texedit and delete setinfo values;
+
+Contents/Resources/transgaming/c_drive/Program Files/CS/cstrike/maps"
+,hipoman,2012-03-19T18:38Z,ummm is sais the gamemaster is wrong how do i fix that
+,hipoman,2012-03-19T18:41Z,sorry the  master game server is not responding....
+,engineer79,2012-03-19T19:08Z,"Take a look at this, you can permanently solve your master game server problem;
+
+http://thepiratebay.se/torrent/4394071/Counter_Strike_Source_for_Mac_fix_"
+,jahehelol,2012-04-03T14:38Z,great upload! works perfectly! but how do i add bots?
+,Basely96,2012-04-13T16:16Z,"Please help it's not working! I unzipped the file and then I dragged it to the application folder but when I click on it, it just bounces once and doesn't open. PLEASE reply"
+,yammmmmmmmmmmm,2012-04-15T23:51Z,Anyone here that has a link for CS that works on lion?? Im looking forward to play this. TIA
+,yuvalmiz,2012-05-20T21:03Z,"for @Basely96 : just create a new folder named ""Counterstrike Preferences"" in /library/preferences.
+but i can't add bots..."
+,basccosmin,2012-05-24T22:35Z,"I found just this 2 files (setinfo ""_vgui_menus"" ""1""
+setinfo ""_ah"" ""0"") and delete them but stil give the same message invalid ..... I solved the problem with master servers but this one not :-( please help me.
+thank you"
+,borsalin1,2012-07-07T12:16Z,How do I add bots?
+,NTDaniel,2012-07-28T17:17Z,"go to console, ""bot_quota [how ever many bots you want]"""
+,HXChris87,2012-07-30T20:20Z,"bot_quota doesn't work for me, please help... Thank you. by the way, awesome torrent :D"
+,nikunj24,2012-08-21T09:20Z,This works even in mountain lion.. m playing guys!!
+,Adrenalinmaskin,2012-09-07T13:11Z,How do I enable the console?
+,jhonathan993,2012-09-11T03:35Z,It does not function in the Mountain Lion
+,lemon14,2012-09-15T05:07Z,"Works on Mountain Lion. You need to create a new folder named ""Counterstrike Preferences"" at MacHD/Library/Preferences/ 
+Then download the Cs1.6 Master Server
+
+http://css.setti.info/code/masterserver/
+
+Thanks for the upload."
+,lemon14,2012-09-15T05:12Z,"By the way after creating that new folder,that's it.
+The master server instruction is different.
+Download,right click on the file,show info,scroll down make sure everything is Read Only then replace the same file from..
+Contents/Resources/Transgaming/C_drive/Program Files/Counter-Strike/ then scroll down look for the folder named ""Platform"" then Config.
+You can find these folders by: Right click on the Cs app,show package contents. That's it. "

@@ -1,0 +1,26 @@
+Yes, we all know it is FREE - stop complaining about this being here.
+
+There may be soon-after second releases of this version, so check out their HOMEPAGE for updates:
+ 
+http://www.kmplayer.com/forums/showthread.php?t=24627
+
+NOTE: Be careful and DECLINE the installation of the AskToolbar and other goodies at the end of the player's setup - if you don't want toolbars, that is.
+
+
+** 3.2 UPDATE LIST **
+- Supports 3D Formats. (Side-By-Side, Top-and-Bottom) to (Anaglyph, Interlaced)
+- Supports 10-bit H.264. (Libcodec.dll)
+- Supports Intel Widi.
+- Added video codec "DV5P".
+- Add new function album art (Thumnail image extraction from FLAC file)
+- Thumbnail image display enhancement when playing audio files. (MP3, FLAC, WMA)
+- Fixed ColorSpace bug.
+- Fixed Intel Codec H.264.
+- Fixed Winamp plugin.
+- Error correction of images infected with malicious codes. (EIP register Corruption Vulnerability. Provided: KISA)
+- Fixed view as a desktop mode in Windows 7.
+- Fixed improper load of Album Art bug.
+- Correction of screen display error when using EVR(C/A) - if you skip from the WMV file.
+- Fixed KMP HTTP Reader.
+- AAC codec Parser error correction from MOV file.
+- MKV Skip Problum.

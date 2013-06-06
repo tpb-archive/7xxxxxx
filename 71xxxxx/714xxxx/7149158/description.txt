@@ -1,0 +1,14 @@
+Requisitos Mínimos
+
+* Processador Intel Pentium 4;
+* 1 GB de memória RAM para Windows XP e 2 GB para Windows Vista/7;
+* 1 GB de espaço livre em disco.
+
+Install:
+
+1) Desative a conexão com Adobe:
+– Meu computador/ c:/system32/ drivers/ etc/ hosts [abra com o bloco de notas] depois copie e cole o seguinte código: 127.0.0.1 activate.adobe.com
+
+2) Abra o instalador.
+
+3) Use nosso Keymaker para gerar um serial.

@@ -1,0 +1,30 @@
+Altair HyperWorks provides its users with powerful tools for multidisciplinary CAE analysis. The new version added SOLVER to solve the problems of dynamics of solids, the combined FEA / MBD-the analysis of deformable and rigid bodies, the 3D visualization of the results HyperGraph 3D, specialized graphical interfaces for different manufacturing processes (stamping, forging, welding, extrusion and casting) and much more. As part of CAE-Driven Design Process developed new optimization procedure, implemented in the program OptiStruct (stress-constrained topology, topography, structural, shape and size optimization.
+
+Modules:
+
+HyperMesh
+- Module of input data, splitting patterns, use of materials etc.
+Runs fast and high-quality splitting the original model.
+It can be run in different "environments" for different solver.
+
+HyperCrash
+- The module for calculating the dynamic impact and collisions.
+
+OptiStruct and RADIOSS
+- The structural solver and nonlinear problems. Can be run from a shell or separately.
+
+HyperView and HyperView Player
+- The module visualization and postprocessing.
+
+HyperStudy and HyperStudy DSS
+- Module Implementation and optimization of multi-analysis.
+
+HyperGraph and HyperGraph 3D
+- Postprocessors with great potential.
+
+MotionView and MotionSolve
+- Viewer and solver for problems of kinematics and dynamics.
+Fully compatible (directly or inversely) with MSC.ADAMS, ADM is able to cheat and ACF files from ADAMS!
+
+BatchMesher
+- Avtorazbienie and support assemblies. Written in Java.

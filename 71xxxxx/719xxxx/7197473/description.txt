@@ -1,0 +1,18 @@
+1.    Find and right-click the Windows Command Prompt in your Start Menu and choose to run it as an Administrator.
+ 
+2.    At the prompt, enter "diskpart" to launch MicrosoftΓÇÖs disk management utility. The command line should now read ΓÇ£DISKPART>ΓÇ¥.
+ 
+3.    Type "list disk" to show a list of all disk drives. If your USB key is plugged into your PC, it should be listed here, along
+ with other physical drives. Note the USB keyΓÇÖs disk number ΓÇô you can pick it out by looking at the disk capacity.
+ 
+4.    Type **"select disk #", with the USB keyΓÇÖs disk number in place of #.
+ 
+5.    Type "clean" for the utility to clean the disk, which DiskPart will confirm.
+ 
+6.    Create a new bootable partition by entering "create partition primary". 
+
+7.    Choose this partition with select partition 1, and then mark it as active by typing "active".  
+
+8.    Format the key by inputting "format fs=fat32". This should take a few minutes, and DiskPart will display a progress percentage. 
+
+9.    Lastly, type "assign" to give this USB key a drive letter. Close the DiskPart program using "exit"

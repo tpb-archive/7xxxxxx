@@ -1,0 +1,102 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-03-17T13:01Z,"tne said his source had audio problems theres
+still some minor lip syncing I couldnt fix without
+heaps of re-editing nearer the end of this xvid avi
+
+its prob like 100ms out or less.. but then
+its all in the dark and side views mostly :)
+
+but i enjoyed this episode.. wasnt too bad
+of an investigate"
+,ixtul,2012-03-19T02:01Z,"thanks for uploading this in xvid.  It sucks that so many uploaders have gone to this abrupt shift to mkv format without apparently understanding that a lot of people use 360s and ps3s and all sorts of other devices to watch stuff on TV that will never ever be compatible with this format.  I appreciate that it's a somewhat better format for certain things, but for TV shows I think it's kind of a dick move to just shift over to the newest, geekiest format just ""because"" when the previous format worked just fine.  If it ain't broke, why fix it?"
+[V],psspss,2012-03-19T02:40Z,"sadly some follow the pack and others like myself standout and stand firm
+
+I have no issue if cappers make 720p mkvs but there
+was no valid reason to reason convert tv shows to mp4 that benefited the wholw..
+
+there reason if dont liek then convert it.. the problem with that even people like me cant be certain a recode of mp4 will turn out a nice xvid all the time when if they did it direct from there source it works better"
+[V],psspss,2012-03-19T02:41Z,"opps types.. eyes nto sure good ont his default
+small font they use"
+[V],psspss,2012-03-19T02:44Z,"wish they had some commetn or torrent editor here. all these down times and no real improvements to the system
+
+==
+
+what I meant
+
+sadly some follow the pack and others like myself standout and stand firm
+
+I have no issue if cappers make 720p mkvs but there
+was no valid reason or reason to convert tv shows to mp4 that benefited the wholw..
+
+their reason if dont like then convert it yourself.. the problem with that even people like me cant be certain a reencode of mp4 will turn out a nice xvid all the time when if they did it direct from their source it works better 
+
+mp4s are not all equal.. although they may play
+fine in VLC they may not convert well"
+[T],trialNerror,2012-03-19T08:28Z,"Don't take this the wrong way, but I was wondering ... are you doing 1-pass or 2-pass encoding?
+
+Also, why are you changing the framerate?  That will only increase chances of audio sync issues.
+
+Using a better profile wouldn't hurt, either.  Just because the x264 is Main@L3 doesn't mean XviD Simple@L3 is equivalent.  Couldn't be further from the truth!!!  Use Advanced Simple@L5.
+
+One last thing I noticed is the mp3 audio being split across interleaves for alignment. This could be bad for stand alone players like Xbox, PS3, and assorted DivX certified DVD players.  You want the audio to be ""aligned on interleaves"" for best sync.
+
+That's all suggestive advice for video/audio encoding, not criticism.
+
+Now, could you please explain what is so bad about x264?
+
+It is an AVC format which is supported by X360, PS3, every freaking Apple device and a number of others as well. AAC audio is supported by all those same devices.
+
+You folks act like it's compatible with nothing when the truth is it's ready to play on MANY THINGS in the mp4 format that is being released - if you have PS3 or X360 and want to watch some 720p mkv stuff on your game console use this guide: http://kat.ph/blog/trialNerror/post/579/ - Doesn't convert anything (unless you have X360 then the audio may need conversion) only takes the audio/video tracks out of the mkv and puts them in mp4 which can then be played on a PS3 and X360.
+
+You really should do a visual comparison between x264 and XviD.  I did with this version and my version of Ghost Adventures and it's clear to see x264 has WAY better compression than XviD.  1000 kbps of x264 will get you a whole shitload more than 1000 kbps of XviD (aka h.263).  AAC audio outperforms MP3 as well.
+
+I didn't switch to x264 just because scene did, and scene didn't switch ""just because"", either.  There's a reason for it. The change over to x264 AVC is because it has so much playback support; because the file can be roughly the same size or drastically smaller and still have improved quality; because for me I am able to have a finished product ready to share in half the time.  You won't touch x264, though, so you wouldn't really know that about the compression to quality ratio. Have you notice how animated series like Family Guy and South Park are now only 75mb for x264 instead of 175 for XviD, but look even better than the XviD?  That's why x264 AVC and AAC is the format of choice now.
+
+Check out the stats for each video format...
+
+http://en.wikipedia.org/wiki/Xvid  (20 year old video compression!!!)
+vs.
+http://en.wikipedia.org/wiki/X264  (Much newer, much more powerful, lots of playback support!!!)
+
+Just look at x264's track record of achievements.  Even major motion picture studios will use x264.  And you wonder why we have swapped out XviD for x264.  It should be totally obvious!  If it's not obvious, then you aren't educated enough about the subject and have no place to bitch or argue about it... especially you, Rambo. (-;"
+[V],psspss,2012-03-19T09:05Z,"im using CBR ... instead of 2 pass which can reduce the bitrate
+
+cbr may be smaller or bigger by a few extra mbs
+dont botther me
+
+all are set to 1000bit but i think the encoders has bugs and reduce it sometimes.. if it plays good and looks good on lappy its good enough for me
+and so I share it as others want xvid
+
+and if its 20 years old.. then that makes it well tested dont it.
+
+I dont think oeple really care about the ongoign debate TNE.. they want it for older gear"
+[T],trialNerror,2012-03-19T10:10Z,"2 pass is meant to give you lower bitrate... where it's slow movement scenes... and higher bitrate where it's quicker motion frames.  This will be way better looking than 1 pass CBR. Not saying you HAVE to do 2 pass, you can settle for so-so quality, but the 2 pass really does improve it.
+
+Ah hah. Not debating. Freedom of expression. Explaining.  You obviously didn't check the wiki links, either, or you would have seen x264 has been around for almost 10 years. Long enough to be tested through the ringers, wouldn't you say? Yep. Totally. It has been tested. Many times and even won numerous awards. Not debating, just explaining. Don't get it twisted.
+
+I also don't see how ""old gear"" could even be brought up. Most people have an Xbox 360, or PS3, a ROKU or a WDMP (Western Digital Media Player); cell phones, tablet, netbook, laptop, desktop PC are all capable of playing the x264 AVC video with AAC audio and a brand new bluray player with AVC/AAC playback support is NOT that expensive.
+
+There's no real legitimate reason to stick with XviD anymore.  If you don't have any of the devices that support AVC/AAC, that's almost sad. C'mon, it's 2012.  AVC/AAC is not state of the art brand new just came out a few months ago last year... so please stop acting like it is.
+
+Those that insist XviD must stick around because of ""old gear"" is a very, VERY small crowd and that is why we who have moved on up to x264 really don't care if you can't get with the times.
+
+Oh, by the way, not that anybody here gives a shit, but I did find the reason and a solution to the audio problems. All regular (not 720p) HDTV.x264-tNe.mp4's from now on will be PS3, X360, and many, many other device compliant.
+
+Still hope they'll give you troubles when trying to convert them (-; because they really don't need converting since they play perfectly fine on everything I have which is similar to what most other people have."
+[V],psspss,2012-03-19T11:07Z,"well I googled web on 1st and 2nd pass
+basically...they sad it dont always produce better results but doubles or more the conversion time
+
+it has to do 2 pass so it can work out the average bit rate
+to use on final encoding to get it to 350mb otr whatrever you choose
+
+I dont think it matter about splits not if use CBR for video and sound..
+
+so many use VBR which cause issues espc if
+a video file becomes corrupted is my experience
+
+making mp4 VBR is silly we talking about a few extra mb savings right.
+
+the profile the soft chooses.. it works.. no point messing with it..
+
+Im not after perfection just that it plays on stuff is good enough for me.. Im not competing with cappers etc.. just providing my stuff as they as for it.. h,mmm 
+"

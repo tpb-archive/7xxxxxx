@@ -1,0 +1,12 @@
+First 3 Albums by Delta Goodrem: Innocent Eyes, Mistaken Identity and Delta.
+
+Ripped from CD in Ubuntu with the following script:
+
+cdparanoia -B;
+for file in *.wav; do flac -8 $file "${file%.cdda.wav}.flac"; done
+
+Software versions:
+- cdparanoia III release 10.2 (September 11, 2008)
+- flac 1.2.1
+
+Enjoy and Seed!	

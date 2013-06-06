@@ -1,0 +1,47 @@
+Finnish language version of Windows 7 SP1 32-bit (updated April 2012).
+
+SUOMENKIELINEN WINDOWS 7 SP1 32-BITTINEN HUHTIKUU 2012
+
+Integroitu Windows Updaten päivitykset (päivitetty huhtikuu 2012).
+
+Windows 7:n asennuksessa valitse minkä version haluat asentaa.
+- Starter
+- Home Basic
+- Home Premium
+- Professional
+- Ultimate
+
+Jos sinulla ei ole laillista Windows 7:n Product Key -tuotetunnusta.
+- Windows 7:n asennuksessa ohita kohta jossa kysytään Product Key -tuotetunnusta.
+- Suorita aktivointi mukana tulevalla aktivointiohjelmalla (Windows Loader).
+
+Aktivointi onnistuu myös laillisella Product Key -tuotetunnuksella (Retail/OEM), mutta jos tuotetunnus on tarkoitettu esim. Home Premium versiolle, niin silloin tuotetunnuksella voi aktivoida ainoastaan Home Premium version.
+
+--------------------------------------------------------------------------------
+
+Kuinka tehdään käynnistyvä USB-muistitikku Windows 7:n ISO-levykuvasta?
+
+Windows 7 USB/DVD download tool
+www.microsoftstore.com/store/msstore/html/pbPage.Help_Win7_usbdvd_dwnTool
+
+Kytke USB-liittimeen vähintään 4 Gt:n USB-muistitikku.
+
+Käynnistä "Windows 7 USB/DVD Download Tool".
+- klikkaa "Browse" ja valitse Windows 7:n ISO-levykuva.
+- klikkaa "USB device".
+- klikkaa "Begin copying".
+
+--------------------------------------------------------------------------------
+
+Kuinka poltetaan DVD-levylle Windows 7:n käynnistyvä ISO-levykuva?
+
+Windows 7:ssa saa poltettua ISO-levykuvan DVD-levylle valitsemalla ISO-levykuvan hiiren oikealla painikkeella ja valitsemalla "Tallenna levyn näköistiedosto".
+
+Mutta suositeltavaa on käyttää ohjelmaa jolla voit pienentää polttonopeutta maksiminopeudesta, esim. polta ISO-levykuva ilmaisella ImgBurn poltto-ohjelmalla.
+
+- valitse "Write image file to disc"-painike.
+- valitse "Browse for a file"-kansiokuvake.
+- valitse ISO-levykuva ja klikkaa "Avaa"-painiketta.
+- laita tyhjä DVD-levy asemaan.
+- "Write Speed"-alasvetovalikosta pienennä polttonopeutta maksiminopeudesta.
+- valitse "Write"-painike.

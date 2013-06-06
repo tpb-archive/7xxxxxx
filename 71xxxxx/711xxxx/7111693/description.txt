@@ -1,0 +1,12 @@
+Start building electronics projects with Netduino, the popular open source hardware platform thatΓÇÖs captured the imagination of makers and hobbyists worldwide. This easy-to-follow book provides the step-by-step guidance you need to experiment with Netduino and the .NET Micro Framework.
+
+Through a set of simple projects, youΓÇÖll learn how to create electronic gadgetsΓÇöincluding networked devices that communicate over TCP/IP. Along the way, hobbyists will pick up the basics of .NET programming, and programmers will discover how to work with electronics and microcontrollers. Follow the projects in sequence and learn techniques for building your own Netduino-based devices.
+
+Get an overview of the Netduino microcontroller family
+Install the free Visual Studio Express, .NET Micro Framework, and Netduino SDK
+Write code that lets you turn NetduinoΓÇÖs LED on and off
+Learn how to increase NetduinoΓÇÖs capabilities with various expansion shields
+Measure digital and analog inputs with MakerShield
+Make a light appear dimmer or brighter with Pulse Width Modulation
+Use electrical pulses to play a song and control the position of a servo motor
+Create an app to control your Netduino over the Web

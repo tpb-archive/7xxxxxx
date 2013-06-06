@@ -1,0 +1,11 @@
+Changelog:
+- Added stances, attacks and parries for one-handed dog sword
+- Stuck weapons are physically active
+- Sheathed weapons animate more accurately
+- Fixed several weapon bugs
+- Torso IK is now pose-relative, allowing for sideways stances
+- Items can trigger mirrored animations
+- Cat rapier now uses the move-set of the one-handed dog sword
+- Cat dagger now uses the move-set of the dog knife
+- Characters wait a couple seconds after opponent is defeated before letting their guard down
+

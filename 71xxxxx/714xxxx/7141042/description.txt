@@ -1,0 +1,24 @@
+NOTE: This is for developers.  If you don't understand whats being talked about in the description then this software isn't for youΓÇªΓÇª..
+
+Official Web Site:  http://www.jetbrains.com/objc/whatsnew/index.html
+
+AppCode 1.5 adds a set of very important "extract/introduce" refactorings: extract parameter, extract instance variable, extract property, extract typedef, extract macro, extract constant and the killer extract block parameter.
+
+Additionally, a number of opposite direction "inline" refactorings have been added for methods, functions, local variables, parameters, constants, macros and typedefs.
+
+Hopefully, the name of the refactoring "Convert local variable to ivar/property/parameter" speaks for itself.
+
+The new "Refactor This" popup puts all refactorings under your fingertips for instant invocation and you only need to remember one hotkey
+
+AppCode 1.5.2 hotfix corrects LLDB with Xcode 4.3.2
+Posted on March 23, 2012 by Eugene Toporov
+
+System Requirements;
+
+Intel Mac, OS X.6 or better
+Xcode 4.3 or higher for OS X.7
+Xcode 3.2.6 or 4.2 on Mac OS X 10.6
+
+--- PEASE SEED ---
+
+

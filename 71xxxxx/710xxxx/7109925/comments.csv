@@ -1,0 +1,81 @@
+﻿User Type,Username,Date,Text
+,nickie1801,2012-03-17T17:06Z,"uploaded twice, sorry for that...."
+,bodmas,2012-03-24T06:04Z,"worked perfect for me. made LENOVO_PART (the OEM reserved parition) as it was built factory reserved.
+
+the OKR button or NOVO button works now perfect. the only thing lack is that while the factory build OEM reserved partition has winodws 7 image files but this does not has.
+
+can some one upload the contents of LENOVO_PART (oem reserved partition) of lenovo ideapad z570 here?
+
+then I will post a complete guide to make NOVO button works with factory built restoration of windows 7."
+,nickie1801,2012-03-24T09:50Z,"Thanks bodmas, you did a great job!  Hopefully Lenovo users will upload their OEM reserved partition here, with the type and partnumbers as well. (to avoid difference in drivers).
+Is it possible for you to write a step-by-step guide, how to make a backup file from the windows partition in the OEM partition?
+Lots of ppl bought their machine with DOS only, it will be nice if they can make their own ""default"" backup, and set it back with the NOVO button."
+,nickie1801,2012-03-24T10:03Z,"Lenovo users: if your bios supports SLIC 2.1,  it is possible to download and install Windows 7 ultimate RTM  and install the windows loader: thepiratebay.se/search/windows loader/0/99/0. Windows will be seen as genuine and no problems with updating later on. To check if your bios supports SLIC 2.1 check this side: http://www.mydigitallife.info/how-to-check-or-verify-pc-motherboard-bios-slic-version-is-slp-oa-2-0-or-2-1-for-oem-activation/"
+,bodmas,2012-03-24T17:11Z,"Its too easy. just burn the ISO file on DVD and boot it from DVD.
+it will boot up like windows boot and a screen will come up which will have 3 options: namely
+1. Install with clean partition (under this category your HDD will get formatted entirely). under this option just put the number 1 and click on OK. it will ask for the drive size. first for drive C and then D. the Lenovo_part (OEM reserved partition under each category will automatically is made automatically with all OKR files and folders with the partition size=14.26 GB)
+2. under this option your C and D drives will remain unchanged, only the OEM reserved partition will be formatted and build as factory default.
+3. I have not checked this option.
+
+I have checked the option 2 while I had already made the LENOVO_PART reserved partition under option 1 and disrupted the contents of this hidden partition to check if it is reset. so it has been reset to default under option 2. but I do not know if option 2 makes Lenovo_part partition keeping other partitions  intact especially system partition C.
+
+I think if your HDD do not have any LENOVO_PART oem reserved partition or if you have deleted it accidentally then you have to chose option 1.
+
+a request once again. please report me if any one has lenovo Ideapad z570 notebook with factory built lenovo_part oem reserved partition. then I will guide you to make it open and again hidden. by opening you can copy the contents of it for others users and I will be the first one probably.  "
+,nickie1801,2012-03-24T21:11Z,Thanks for the clear guide! Good to hear it works. Try to check the Lenovo community forum. There are several topics about the z570. Maybe someone is willing to help and post his recovery partition.
+,bodmas,2012-03-25T17:02Z,"dear nickie1801,
+I got it worked fully.
+here is what I did.
+
+first i chose for option 1 for clean install. under this I have formatted entire HDD and made c drive and d drive and one automatically made LENOVO_PART Oem reserved partition. closed down the PC. since my c drive did not have any OS so I used win7 DVD to install it. under the OKR partitioning method there were no 100 MB system reserved partition, further the D drive was made logical partition. I do not like logical partition. so I used win7 DVD to delete the C and D apparitions and recreated C and D partitions with 100 MB system reserved partition automatically. Now I have installed my win7 Ultimate sp1 on C drive. Installed all drivers and software. Now my OS was a clean and complete install.
+
+Now once again I booted from OKR DVD and this time I have chosen Option 2. It recreated LENOVO_Part partition and shut down automatically.
+
+Now I pressed the NOVO button and it started to get backup of C drive automatically and saved it in the LENOVO_PART partition.  took half an hour approx.
+
+now the NOVO button is fully functional for recovery of C drive. tested successfully.
+
+have a big and loud laugh on lenovo.
+
+HOPE this thread is not reported by Lenovo."
+,nickie1801,2012-03-25T23:44Z,"Thanks again bodmas, you made it possible were lots of ppl are searching for!  And i like the clear 'how to', the more guys can use and enjoy this.
+
+Lots of ppl have downloaded it already, it will find its way itselfs. 
+
+And thanks to the original uploader. gold, Pure GOLD...."
+,m.yossry,2012-04-26T12:34Z,"@bodmas, i've recently installed windows 8 c.p. which disabled my novo key completly (not turning on at all) then i was planning to reinstall from okr eng. but i tried the ""fix ASD"" 1st, it fixed every thing :D and it is some kind of module"
+,bodmas,2012-05-01T03:43Z,"thanks m.yossry for your feed back. glad to know that you got benefited with this awesome software and fixed your novo problem.
+
+have a nice day.  "
+,bodmas,2012-05-01T03:57Z,"This DVD has three option. namely 1.  Install OKR 7.0 (Clean Partition), 2. Install OKR 7.0 (Not clean Partition), 3. Fix ASD. 
+
+all three option has different function. option-1 will delete your entire HDD and will recreate partition C and D and one OEM reserved (LENOVO_PART) partition . C drive will be primary partition while D drive will be logical partition.  it does not make 100 MB of system reserved partition. but you can customize you visible partition using Windows 7 DVD while installing it as under OKR option 1 your HDD has no OS installed. so delete the C and D drive using windows 7 DVD and Create partition of C and D with one automatically created 100 MB system reserved partition. now your both C and D drive are of primary partition. ( I prefer primary partition over logical one).  install your preferred version of windows7 and all your required software, antivirus and make it complete. but remember that your C drive should be filled with less then 32 GB preferably. 
+
+Now once again boot from OKR DVD and this time chose for option-2 and let it complete and shut down. now press the NOVO button under shut down state. it will start to backup your entire C drive to this OEM reserved partition. let it complete.(please remember, each time you will boot from this DVD and chose for option-2 and then pressing NOVO key under shut-down state you will be able to re-create fresh back-up of C drive into hidden OEM reserved partition and from now it will restore with this state of C drive.) 
+
+now you have fully functional novo button with the OS recovery of your choice. factory come has many unwanted bloatware. 
+
+OKR Option-3 (fix ASD) : when your HDD has this oem reserved partition of lenovo_part but still your novo (OKR) button is not working then boot from this OKR DVD and chose for option-3 and your novo button will start working.
+
+
+
+hope this guide will save a lot of lenovo users who accidentely did wrong with this OEM reserved parition."
+,TPBxiaz007,2012-07-19T18:45Z,"============================
+A How TO
+============================
+http://forums.lenovo.com/t5/Lenovo-3000-and-Essential/Disk-Partitioning-and-OneKey-Recovery-Feature/td-p/8036/page/37
+==============================
+
+its a size of 785 MB so you need to burn this on a DVD. just boot from this DVD and Chose for an Option 2 in your case. further when prompted for language selection please select your preferred language. 5 is for US English.  It will create the LENOVO_PART partition of the factory default size of 14.26 GB (15000 MB) and will shut down. Now your OKR (NOVO) button of your laptop is fully functional. since this LENOVO_PART parition is newly created so at present this does not have any recovery OS. but as soon as you press your NOVO button first time after creation of this partition, it will start backing up of your present OS which is installed on C Drive and will be saved automatically in this OEM reserved partition. when finished your OKR or NOVO button has every option as it had when you bought from factory. please remember each time your boot from this DVD and chose for option 2 it will recreate a fresh lenovo-part partition formating the earlier one and on first press of novo button it will backup your installed OS and everything with that OS to this LENOVO_PART partition.
+
+this DVD has three option. namely 1.  Install OKR 7.0 (Clean Partition), 2. Install OKR 7.0 (Not clean Partition), 3. Fix ASD.
+
+all three option has different function. option 1 will delete your entire HDD and will recreate partiton C and D and one OEM reserved (LENOVO_PART) partition . C drive will be primary partition while D drive will be logical partiton.  it does not make 100 MB of system reserved parition. but you can customize you visible partition using Windows 7 DVD while installing it as under OKR option 1 your HDD has no OS installed. so delete the C and D drive using windows 7 DVD and Create partiton of C and D with one automatically creatred 100 MB system reserved partiton. now your both C and D drive are of primary parition. ( I prefer primary parition over logical one).  install your prefered version of windows7 and all your required software, antivirus and make it complete. but remember that your C drive should be filled with less then 30 GB preferebly.
+
+Now once again boot from OKR DVD and this thime chosee for option 2 and let it complete and shut down. now press the NOVO button under shu down state. it will start to backup your entire C drive to this OEM reserved partiton. let it complete.
+
+now you have fully functional novo button with the OS recovery of your choice. factory come has many unwanted blotware.
+
+OKR option 3. (fix ASD) : when your HDD has this oem reserved parition of lenovo_part but still your novo (OKR) buuton is not working then boot from this OKR DVD and chose for option 3 and your novo button will start working.
+
+hope this guide will save a lot of lenovo users who accidentely did wrong with this OEM reserved parition."

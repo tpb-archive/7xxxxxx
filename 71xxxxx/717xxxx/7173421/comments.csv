@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,600538411,2012-04-10T11:39Z,"Sozzy about formatting above (dunno how to edit)
+
+5. Load xm360.xex in the XM360 directory, Select Refresh...Show DLC...Unlock DLC....Exit to Dash"
+,600538411,2012-04-11T12:21Z,"You getting the ""Corrupt disc error""?????
+
+You may also want to install the title update #3 for this game.
+
+You will need:
+* A USB stick formatted using the xbox (xbox storage device)
+* USB XTAF (look on net)
+* Title Update #3 (download it from http://marketplace.jqe360.com/ )
+
+Steps
+1. Format USB Drive and then place in PC
+2. Launch USB XTAF
+3. Select ""File"" then ""OPen Device Selector""
+4. In the data partition, create a folder called ""Content""
+5. In the ""Content"" folder, create a folder called ""0000000000000000"" (16 zeros)
+6. In the ""0000000000000000"" folder, create a folder called ""4D530910""
+7. In the ""4D530910"" folder, create a folder called ""000B0000""
+8. Right click on the ""000B0000"" folder and select ""inject""
+9. Now select the title update file you downloaded and inject the in.
+10. Now goto File and select ""Close current drive""
+11. Insert the usb drive back into the Jtag xbox and then goto System...Storage... aradadadadada you will see the title update there. Just select move then your HDD and your done... Voila
+
+Your welcome!!!!"
+,ZozO95,2012-04-28T11:06Z,"Thank you so much upload, perfectly works ! :)"

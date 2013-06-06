@@ -1,0 +1,26 @@
+
+RedEyes Host Monitor 2.16.0.1959 | 1.5 Mb
+
+RedEyes is a powerful host and network monitor designed for testing performance and availability of hosts connected to the LAN or Internet (workstations, servers, routers, etc) with an IP address, as well as services running on these devices that work with TCP and alert administrators in case of failure of these devices or services.
+
+
+
+Features:
+ΓÇó Realtime connection status tracking
+ΓÇó Monitoring period - every 0.5/1/5/10/20/30/60 minutes
+ΓÇó Monitoring of hundreds of hosts in parallel with no impact to the network workload (up to 250)
+ΓÇó PING/HTTP/TCP/UDP monitoring
+ΓÇó Configurable monitoring options: ping timeout, ping packet size, TTL, port
+ΓÇó Visual, sound, tray, e-mail, ICQ notification on different events. Using customizable e-mail and ICQ templates (SMS notifications will be included in a future version of the program)
+ΓÇó Executing custom actions (commands, applications, scripts) on connection loss and error events
+ΓÇó Monitoring web report service
+ΓÇó IP scan to detect all of the IP-based devices in the local network
+ΓÇó Monitoring and managing of local connections
+ΓÇó Customizable settings and common applications (fast port scanner, trace route, ftp client, whois etc.)
+ΓÇó Advanced logging options to text file or csv event log
+
+Efficiency of the device is verified using the protocols TCP, UDP, HTTP and ICMP. Efficiency of services performed by the implementation of the connection attempt to TCP port on which to run services (web server, mail server, proxy-server, domain controller, etc).
+
+It w ill be useful primarily for the technical support staff who have a tendency to ignore the incidence of critical hosts/services in the network, as well as for network/system administrators.
+
+If you need a fast and powerful program to monitor the network routers, computers, services and resources, you should try RedEyes Host Monitor.

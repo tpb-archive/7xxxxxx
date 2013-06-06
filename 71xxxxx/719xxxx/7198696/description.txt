@@ -1,0 +1,15 @@
+Trojan Remover aids in the removal of Malware ΓÇô Trojan Horses, Worms, Adware, Spyware ΓÇô when standard anti-virus software either fails to detect them or fails to effectively eliminate them. Standard antivirus programs are good at detecting this Malware, but not always so good at effectively removing it. Trojan Remover is designed specifically to disable/remove Malware without the user having to manually edit system files or the Registry. The program also removes the additional system modifications some Malware carries out which are ignored by standard antivirus and trojan scanners. Trojan Remover scans ALL the files loaded at boot time for Adware, Spyware, Remote Access Trojans, Internet Worms and other malware. Trojan Remover also checks to see if Windows loads Services which are hidden by Rootkit techniques and warns you if it finds any. For each identified Trojan Horse, Worm, or other malware, Trojan Remover pops up an alert screen which shows the file location and name; it offers to remove the programΓÇÖs reference from the system files and allows you to rename the file to stop its activation.
+
+Most modern Malware programs are memory-resident, which makes their de-activation more difficult. How many times have you been told to start your computer in ΓÇÿSafeΓÇÖ mode, or even worse, in DOS? Trojan Remover does all this for you. When it finds Malware that is memory-resident, Trojan Remover automatically re-starts (on request) your system and completely DISABLES the Malware before Windows restarts.
+
+Trojan Remover writes a detailed logfile every time it performs a scan. This logfile contains information on which programs load at boot-time, and what (if any) actions Trojan Remover carried out. The logfile can be viewed and printed using Notepad.
+Trojan Remover is set to automatically scan for Malware every time you start your PC (you can disable this automatic scan if you wish).
+
+Trojan Remover is designed for Windows 98/ME/2000/XP/Vista/Windows 7 ΓÇô however it is not currently compatible with any 64bit versions of Windows.
+
+Changes in  Version 6.8.3:
+* Improved support for 64bit systems, including integration into the Windows Explorer context menu.
+* Updated detection methods. 
+
+Homepage ΓÇô http://www.simplysup.com
+

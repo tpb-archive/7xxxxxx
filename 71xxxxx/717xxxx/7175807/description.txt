@@ -1,0 +1,36 @@
+N64oid v2.7
+Requirements: 2.0 or higher
+Operating System: Android
+Overview: N64oid is the very famous N64 emulator optimized for Android. It is a port of Mupen64plus, along with Ari64's ARM dynarec.
+
+
+
+
+* Run most games smoothly at a reasonable speed with sound. This requires you have a high-end device (Nexus-S, Galaxy-S, Xoom, etc).
+* Best game compatibility compared to all other N64 emulators on mobile devices.
+* Save/load game states at ANY points, as well as in-game save support. Save files are fully compatible with Mupen64plus on PC.
+* A configurable, translucent on-screen keypad that is very easy to use.
+* Key mappings to map game keys to hardware buttons.
+* Multiple (bluetooth) controllers support through BluezIME.
+* Option to use the G-sensor as the analog stick.
+* Support cheats (choose from hundreds!)
+* More options:
+- Fog effect
+- Rumble pak emulation by vibrating the phone!
+
+*Requirement*
+- Android 2.0 or above
+- ARMv7 compatible CPU
+- OpenGL-ES 2.0
+
+*CREDITS*:
+- Mupen64plus team
+- Ari64 for his excellent ARM dynarec
+- Crualfoxhound for beta testing
+
+*LEGAL*: This product is not affiliated with, nor authorized, endorsed or licensed in any way by Nintendo Corporation, its affiliates or subsidiaries. All trademarks are property of their respective holders. All individual games screen shots or audio that are simulated by N64oid are property of their respective copyright holders and are only used for the purpose of informing the customer of the software's functionality.
+
+What's in this version:
+(v2.7)
+- Updated to Mupen64plus-1.99.5 (mainly fixed some graphics)
+- Fixed touchpad on Xperia Play ICS.

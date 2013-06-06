@@ -1,0 +1,36 @@
+Original Uploader : Ti-O2 von www.boerse.bz
+Original Post : 
+http://www.boerse.bz/boerse/software-angebote/windows-software/127712-windows-xp-professional-corporate-edition-sp3-deutsch-unveraendert.html
+
+Windows XP Professional Corporate Edition SP3 (Final) Deutsch
+unverändert inklusive 10 gültigen VL-Keys
+
+
+Dieses Angebot richtet sich an alle die ein unverändertes ("unverfrickeltes") CD-Image von Windows XP Professional Corporate Edition mit integriertem Service Pack 3 suchen. Es sind ganz bewusst keine zusätzliche Updates oder Komponenten wie IE7 oder WMP11 integriert, also SP3 "pur". Das ISO-Image stammt in dieser Form direkt von Microsoft.
+
+Diese Windows XP Professional Corporate Edition x86 (32-Bit) braucht nicht aktiviert zu werden. Zehn dazu passende gültige Keys sind ebenfalls mit dabei ("Product-Keys.txt"), diese bestehen ohne zusätzliche Workarounds die WGA-Gültigkeitsprüfung bis zu heutigen Tag (und wohl auch in Zukunft). Das bedeutet dass problemlos sämtliche Updates (inkl. IE7, WMP11 und Windows Defender) über Windows Update heruntergeladen und installiert werden können. Auch sämtliche WGA-geschützten Windows-Downloads im Microsoft Download Center stehen damit uneingeschränkt zur Verfügung.
+Die gleichen zehn Keys sind auch hier im WGA-Thread in Beitrag #1 unter "Methode 3 - gültigen Volume License Key (VLK) verwenden" zu finden.
+
+Installationsanleitung:
+
+1. Angebot herunterladen und z.B. mit WinRAR oder 7-Zip entpacken, das RAR-Passwort ist "Ti-O2" (ohne die "")(falls nötig).
+2. Vom ISO-Image "DE_WinXP_Pro_with_SP3_VL.iso" eine CD brennen, eine PDF-Anleitung dazu ist als Datei "ISO-Image-brennen.pdf" im Angebot enthalten.
+3. Die im Angebot enthaltene Datei "Product-Keys.txt" ausdrucken (oder abschreiben) da sie während der Installation nicht zur Verfügung steht.
+4. Sicherstellen das im BIOS das CD/DVD-Laufwerk als erste Bootdevice eingestellt ist.
+5. CD einlegen und von CD booten, Windows XP nach den Bildschirmanweisungen installieren.
+6. Wenn nach dem Product-Key gefragt wird einen der zehn Keys aus der (zuvor ausgedruckten) Datei "Product-Keys.txt" installieren, alle zehn Keys sind "gleich gut".
+7. Windows XP Installation fertigstellen und Spass daran haben.
+
+
+Das Angebot enthält:
+
+* DE_WinXP_Pro_with_SP3_VL.iso, das ISO-Image selbst.
+* Product-Keys.txt, enthält die zehn gültigen Product-Keys (VLKs).
+* uxtheme.dl_, gepatchte uxtheme.dll als cab-Archiv zum Integrieren auf eine Installations-CD. Dazu auf dem ISO-Image vor dem Brennen einfach die bestehende uxtheme.dl_ im Ordner i386 ersetzen, z.B. mit UltraISO.
+* uxtheme.dll, gepatchte uxtheme.dll zum Austauschen in einer bestehenden Installation. Dies muss im abgesicherten Modus (F8 beim Starten) erfolgen.
+* ISO-Image-brennen.pdf, ISO-Image Brennanleitung.
+* ISO-Burner.zip, einfache ISO-Image Brennsoftware Active@ ISO Burner.
+
+Original Uploader : Ti-O2 von www.boerse.bz
+Original Post : 
+http://www.boerse.bz/boerse/software-angebote/windows-software/127712-windows-xp-professional-corporate-edition-sp3-deutsch-unveraendert.html

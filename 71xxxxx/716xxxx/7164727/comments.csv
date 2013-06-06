@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,Cerebral222,2012-04-06T18:55Z,"If your using Xpadder, change the Q-SAVE key to F6, it's currently F2, you can also add the UP arrow to the WALK RUN button in the advanced section to give easier navigation."
+,Cerebral222,2012-04-06T20:51Z,"After you download the game, check out volume II: Tomb of the Underground God first, here you will see a real big glitch, your on a train, but half the train is missing, real freaky!, I only just figured out how you fix this, otherwise I would have uploaded it already fixed. First google and download a file called Tridx8.dll, copy that file into the game folder, then go to the SYSTEM folder within the game folder and open the nocturne file, find the line that looks like this; rendererDLLPath=tridx7.dll 
+now change the tridx7 to tridx8, this takes the game from being rendered with the directx7 dll file to directx 8.
+
+"
+,Cerebral222,2012-04-07T07:34Z,"Ok, I've been screwing around with this and found that you don't need to do as my last comment states, just turn off 3D HARDWARE in the graphics section, this will only give you a max res of 640x480, but it will let you get through the part of the game that is glitched, after a while of playing, quick save then go to your graphics settings and turn 3D back on, bolster the res, and see how that goes."

@@ -1,0 +1,45 @@
+Altium Designer v10.818.23272- 2 ISOs
+
+Altium Designer - Complex system of designing high-speed electronic devices based on printed circuit boards, which 
+
+allows developers to create projects, from concept and VHDL-description of the FPGA, to carry out simulation derived 
+
+schemes and VHDL-code, prepare files for production, and the concept of Live Design, the so-called living design, 
+
+allows it to complete the project on-board debugging NanoBoard.
+
+
+System requirements:
+* Windows XP SP2 Professional or later
+* Intel Pentium IV (4) 1,8 GHz or higher
+* 1 GB of RAM
+* 3,5 GB hard disk space (Installation + User Files)
+* Monitor resolution of 1280x1024 is highly recommended:
+- The SECOND monitor with minimum screen resolution of 1024x768
+- (YES it is software made for two monitors!)
+* NVIDIA GeForce 6000/7000 series, 128 MB or above
+* Parallel port (for connecting to the NanoBoard-NB1)
+* USB2.0 port (for connecting to the NanoBoard-NB2)
+* Adobe Reader 8 or higher
+* DVD-drive or Daemon tools or similar software
+
+Installation:
+
+This is a russian release (the software is ENGLISH
+
+Mount image in UltraIso or DaemonTools, installed via AltiumInstaller.exe, replace dxp.exe
+
+Select if you want to use the ALF licenses on the Altium ISO or use the alternative method to create your own personal license.
+
+Year: 2011
+Version: 10.818.23272
+Developer: Altium
+Resolution: 32bit
+Compatibility with Vista: complete
+Compatible with Windows 7: complete
+
+And yes, there's another release of about 9,2GB floating around, it's almost the same, except that it doesn't have a ISO of the Toolkits DVD, and the scmuck just stored everything in the RAR files instead of compressing it... veery bright....
+
+Of course both the RAR files and the ISOs has SFV files for checksum check.
+
+//Longword

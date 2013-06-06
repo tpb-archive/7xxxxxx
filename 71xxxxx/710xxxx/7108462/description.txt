@@ -1,0 +1,43 @@
+==============================================
+= Embarcadero RAD Studio XE2 (With Update 3) =
+==============================================
+
+
+IMPORTANT 
+^^^^^^^^^
+All launches of installations must be under Administrator previleges
+To do so right click on executable and select "Run as Administrator"
+
+
+INSTALATION
+^^^^^^^^^^^
+1. Download ISO from Enbarcadero Development Network
+   URL: http://altd.embarcadero.com/download/radstudio/xe2/delphicbuilder_xe2_4358_win_dl.iso
+   PS: If asked create an account, it's free :)
+2. Mount or burn to a DVD disc
+3. Run Installer
+4. When prompted for a key use: 2AAE-E3SSSD-RXN5NE-HACS
+   PS: You can use "keygendelphi.exe" to generate one
+5. Activate using activation Mehod 1 or 2
+6. Enjoy :)
+
+
+
+ACTIVATION - METHOD 1
+^^^^^^^^^^^^^^^^^^^^^
+1. Run "patcher.exe" to copy files and run "activator.exe" :)
+   PS: Backup of files will be created to
+2. Click "Active" to activate
+3. Close "activator.exe"
+
+
+ACTIVATION - METHOD 2
+^^^^^^^^^^^^^^^^^^^^^
+1. Copy "bdsreg.exe", "cglm.ini", "msimg32.dll" and "sanctuarylib.dll" to bin folder.
+   Win32: "C:Program FilesEmbarcaderoRAD Studio9.0bin"
+   Win64: "C:Program Files (x86)EmbarcaderoRAD Studio9.0bin"
+2. Run "activator.exe" and click "Active" to activate
+3. Close "activator.exe"
+
+
+By Nitroito

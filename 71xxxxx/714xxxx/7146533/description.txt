@@ -1,0 +1,21 @@
+Diablo 3 BETA (Build 8896) server installation instructions.
+
+1. Update your client to version 8896.
+
+2. Extract the .rar files.
+
+3. Copy all the client files in "Diablo 3 BetaData_D3PCMPQs" to the server folder "Diablo 3AssetsMPQ"
+
+4. Start "Mooege.exe" from the server folder.
+
+5. To add an account write "!account add (email) (password) (nickname) owner"
+
+6. Start D3Launcher.exe from the client folder and click "Local Battle.net"
+
+7. Log in with the e-mail and password you made and enjoy.
+
+Credits
+
+HellGate Server
+Mooege
+tibrusjer	

@@ -1,0 +1,29 @@
+Uninstall Tool 3.1.1 Build 5240 (2012) [MULTi][Portable]
+
+English:
+--------
+Uninstall Tool - Fast, powerful and reliable alternative to the system applet "Add or Remove Programs." It is a safe, reliable and convenient way to remove unneeded applications and improve the efficiency of your computer. Uninstall Tool has many features: display hidden installed programs, sorts the list of software to define a filter that removes improperly installed and uninstalled the program can export the list of installed programs in HTML.
+
+Uninstaller:
+Master card: a quick scan
+Master card: the definition of the running processes belonging to delete the program, termination of these processes on demand
+Master card: informs about the files that could not be removed, because They were employed by the system.
+Delayed removal (after reboot) of these files
+Improved grouping of programs by category Applications / System / Hidden. Improved definition of icon software
+Ability to stop the forced uninstaller default (useful for cases where it hung, for example)
+Display more recent programs in the toolbar, grouped by type (Applications / System / Hidden)
+Improved algorithm for caching
+Improved use of the filter to search for programs
+The list of programs with small icons look better
+Google search the name of the program (Ctrl + G) or the publisher (see menu 'Action')
+Cash programs are stored in the file 'CachedData.dat'. Updates the cache is now simply by clicking the Refresh button (F5)
+A huge number of small improvements and bug fixes
+ Izmeneniya3.1.1 Build 5240
+* Improved Uninstall Wizard scanning (in C: UsersAppDataLocal folder)
+* Minor UI improvements
+
+3.1.1 Build 5236
+* Fixed some rare false positive in Uninstall Wizard on x64 Windows (thanks to Kurbster)
+
+ The procedure lecheniyaSkopirovat file from crack (xYY) in the installation folder.
+Been treated with a portable version.

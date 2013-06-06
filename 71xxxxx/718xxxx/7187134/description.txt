@@ -1,0 +1,45 @@
+INFO:-
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 5 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 3h 15mn
+Nominal bit rate : 2 200 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Title : 720p ~Abhinav4u~
+
+
+Audio #1
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 3h 15mn
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Title : English 6CH ~Abhinav4u~
+Language : English
+
+Audio #2
+ID : 3
+Format : MPEG Audio
+Format version : Version 1
+Format profile : Layer 3
+Mode : Joint stereo
+Mode extension : MS Stereo
+Codec ID/Hint : MP3
+Duration : 3h 15mn
+Channel(s) : 2 channels
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Title : Hindi ~Abhinav4u~
+Language : Hindi

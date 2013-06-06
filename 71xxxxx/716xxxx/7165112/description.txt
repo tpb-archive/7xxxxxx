@@ -1,0 +1,31 @@
+--------------------------------------------
+Software Loading CD for CP2 based units
+(c) CONTINENTAL Wetzlar
+
+
+CdTreeBuilder version 3.06 is used.
+--------------------------------------------
+
+
+
+#CD:P 0 0 5 . 4 0 1 . 3 0 2
+#DATE:2011-11-17
+
+#Project: VWRNS
+#Author: RoNe
+#Steckbrief: C_EU_10.354_t1 C6/C10/C12
+
+#CommentStart:
+This is a SWL CD for VW delivery.
+
+#CommentEnd:
+
+
+#Integrationphase: Delivery cw22/11 C6/C10/C12-samples
+#VwSwPartNumber:1T0035680D/3T0035680B/7F0035680A/7E0035680A/1T0035680F/1T0035680G/3T0035680C/3T0035680D
+#VwSwIndex:4020/4026/4028/4024
+#AppsBuild:C_EU_10.354_t1 C6/C10/C12
+
+
+
+#CRC16:d6d9

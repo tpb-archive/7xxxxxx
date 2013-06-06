@@ -1,0 +1,49 @@
+Video
+ID/String                        : 0
+Format                           : MPEG-4 Visual
+Format_Profile                   : Advanced Simple@L5
+Format_Settings_BVOP/String      : 2
+Format_Settings_QPel/String      : Yes
+Format_Settings_GMC/String       :  warppoint0
+Format_Settings_Matrix/String    : Default (H.263)
+MuxingMode                       : MuxingMode_PackedBitstream
+CodecID                          : XVID
+CodecID/Hint                     : XviD
+Duration/String                  : 1h 30mn
+BitRate/String                   : 938 Kbps
+Width/String                     : 608 pixel3
+Height/String                    : 320 pixel3
+DisplayAspectRatio/String        : 1.900
+FrameRate/String                 : 23.976 fps2
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bit3
+ScanType/String                  : Progressive
+Compression_Mode/String          : Lossy
+Bits-(Pixel*Frame)               : 0.201
+StreamSize/String                : 608 MiB (87%)
+Encoded_Library/String           : XviD 1.2.0SMP (UTC 2006-01-08)
+
+Audio
+ID/String                        : 1
+Format                           : MPEG Audio
+Format_Version                   : Version 1
+Format_Profile                   : Layer 3
+Format_Settings_Mode             : Joint stereo
+Format_Settings_ModeExtension    : MS Stereo
+CodecID                          : 55
+CodecID/Hint                     : MP3
+Duration/String                  : 1h 30mn
+BitRate_Mode/String              : VBR
+BitRate/String                   : 129 Kbps
+BitRate_Minimum/String           : 128 Kbps
+Channel(s)/String                : 2 channel2
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+Video_Delay/String               : 432ms
+StreamSize/String                : 83.3 MiB (12%)
+Alignment/String                 : Alignment_Split
+Interleave_Duration/String       : 24 ms (0.58 video frames1)
+Interleave_Preload/String        : 1325 ms
+Encoded_Library/String           : LAME3.96a
+Encoded_Library_Settings         : -m j -V 5 -q 3 -lowpass 17 --vbr-old -b 128

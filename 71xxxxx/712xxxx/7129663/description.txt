@@ -1,0 +1,54 @@
+General
+Parada.2011.DVDRip-Rumpelstiltskin.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1 017 MiB
+Duration                                 : 1h 49mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 299 Kbps
+Writing application                      : Lavf51.12.1
+Writing library                          : Lavf51.12.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L3.0
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=12
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 49mn
+Bit rate mode                            : Variable
+Bit rate                                 : 1 145 Kbps
+Maximum bit rate                         : 1 680 Kbps
+Width                                    : 788 pixels
+Height                                   : 436 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Original frame rate                      : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.133
+Stream size                              : 896 MiB (88%)
+Language                                 : Serbian
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 49mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 100 MiB (10%)
+Writing library                          : LAME3.97

@@ -1,0 +1,69 @@
+ABOUT:
+
+Welcome to Visual Studio 11 Beta & .NET Framework 4.5 Beta!
+
+The available Visual Studio 11 Beta products and localizations are pre-release versions of the next release of Visual Studio. As such, they are not final and are subject to change prior to release. Before installing this pre-release software, you should review the associated readme files for system requirements and a list of known issues:
+
+Visual Studio 11 Beta Readme
+.NET Framework 4.5 Beta Readme
+Team Foundation Server Beta Readme
+
+Compatibility with previous releases
+
+.NET 4.5 is an in-place update of .NET 4 and provides very high app compatibility for all .NET 4 scenarios
+You can install and use Visual Studio 11 Beta alongside Visual Studio 2010
+Visual Studio 11 Team Foundation Server Beta requires 64-bit versions of server operating systems when installing on Windows Server (see Visual Studio 11 Team Foundation Server Beta system requirements)
+
+Upgrade paths
+
+When following the supported upgrade paths, your Visual Studio source, solution, and project files will continue to work; however, you should expect to make some changes to sources. While we cannot guarantee binary compatibility between releases, we will do our best to document significant changes to assist you with updates.
+
+Supported:
+Upgrade from .NET 4.5 Developer Preview to Beta
+Upgrade from .NET 4.5 Beta to Release (RTM)
+Upgrade from Visual Studio 11 Beta & .NET 4.5 Beta to Release Candidate
+Upgrade from Visual Studio 11 Release Candidate & .NET 4.5 Release Candidate to Release (RTM)
+Not supported:
+Upgrade from Visual Studio 11 Developer Preview to Beta; however, you can install Visual Studio 11 Beta after uninstalling Visual Studio 11 Developer Preview
+Upgrade from Visual Studio 11 Beta to Release (RTM)
+
+Carrying assets forward
+
+All data in Visual Studio 11 Team Foundation Server Beta (work items, source files, tests and test results, builds, and warehouse data) will be carried forward when following supported upgrade paths. Even when following supported upgrade paths, you should take adequate measures to back up and protect your data prior to upgrading to a new release.
+Getting support and reporting issues
+
+MSDN Forums ΓÇô To interact with others in the community who are using this pre-release software, including Microsoft MVPs and product team members
+Microsoft Connect ΓÇô To report and track issues, search for issues reported by others, and to find possible answers
+
+Go Live with Visual Studio 11 Beta and .NET Framework 4.5 Beta
+
+Learn how you can deploy applications built with Visual Studio 11 Beta and .NET Framework 4.5 Beta in a production environment and get support for issues you encounter.
+********************************************
+SYSTEM REQUIREMENTS:
+
+
+Supported Operating Systems
+
+Windows 7 (x86 and x64)
+Windows 8 Consumer Preview (x86 and x64)
+Windows Server 2008 R2 (x64)
+Windows Server 8 Beta (x64)
+
+Supported Architectures
+
+32-bit (x86)
+64-bit (x64)
+
+Hardware Requirements
+
+1.6 GHz or faster processor
+1 GB of RAM (1.5 GB if running on a virtual machine)
+10 GB of available hard disk space
+5400 RPM hard drive
+DirectX 9-capable video card running at 1024 x 768 or higher display resolution
+
+
+******************************************************************************
+
+Please seed.
+Enjoy. 

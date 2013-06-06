@@ -1,0 +1,25 @@
+Open the "Adobe Patch""Block Activation", and run the batch cmd.
+(If you have issues with it, scroll down to my FAQ reply)
+This will edit your "hosts" file, I set mine to read only after
+I have done an edit. I have encluded a shortcut in the patch folder if you
+do not know where your Hosts file is. 
+
+Open the folder named "AdobePSCS5" and run the setup app. 
+
+Enter one of the serials I have supplied in the patch folder.
+Select your language (this is not Multi, it is ENG.)
+Skip "enter Adobe ID"
+Install 
+
+Open the patch folder,I am running a 64-Bit System
+so I will use the "64 Bit System" folder.
+(Those with 32-Bit Systems will OC use the 32-Bit folder)
+Inside of that folder you will see four (4) folders.
+Two (2) are batch folders. Running a 64-Bit System,
+I will use the 32 & 64 bit batch files.
+In the 64-Bit folder exe the "DLLCopy64b"
+Do the same in the 32-Bit folder. 
+
+Open Photoshop
+go to"help""updates" 
+

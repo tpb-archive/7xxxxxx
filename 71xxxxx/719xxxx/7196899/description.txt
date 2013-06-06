@@ -1,0 +1,45 @@
+DVD Nação Zumbi ao Vivo em Recife, lançado em 2012. Show gravado em 2009.
+
+Complete name                            : E:outputNação.Zumbi.DVD.Ao.Vivo.Recife.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 841 MiB
+Duration                                 : 1h 6mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 768 Kbps
+Writing application                      : Lavf52.0.0
+
+Video
+ID                                       : 0
+Format                                   : xvid
+Codec ID                                 : xvid
+Duration                                 : 1h 6mn
+Bit rate                                 : 1 601 Kbps
+Width                                    : 852 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Bits/(Pixel*Frame)                       : 0.163
+Stream size                              : 761 MiB (91%)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 6mn
+Bit rate mode                            : Variable
+Bit rate                                 : 155 Kbps
+Minimum bit rate                         : 32.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 73.7 MiB (9%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 26 ms (0.63 video frame)
+Writing library                          : LAME3.97 
+Encoding settings                        : -m j -V 4 -q 2 -lowpass 17.5 --vbr-old -b 32

@@ -1,0 +1,23 @@
+DailyNotes version 4.4 ( Updated: 4-04-2012 )
+
+- Added No Results message, if no posts are found on index pages
+	* index.php
+- Fixed search form placeholder text
+	* includes/scripts.php
+- Improved shortcodes functionality ( now you can use ET Tabs inside of the ET Learn more block )
+	* epanel/shortcodes/js/et_shortcodes_frontend.js
+	* epanel/shortcodes/shortcodes.css
+
+
+Demo: http://www.elegantthemes.com/demo/?theme=DailyNotes
+
+
+Enjoy and Seed!
+
+
+ ___                 
+|_ _|_ __ __ _  __ _ 
+ | || '__/ _` |/ _` |
+ | || | | (_| | (_| |
+|___|_|  __,_|__, |
+                  |_|	

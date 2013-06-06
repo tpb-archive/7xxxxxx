@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+[V],Anacondaz,2012-03-23T06:49Z,"
+Stability
+• Multiprocessing
+The Gears team were considering a multithreaded browser (noting that a problem with existing web browser implementations was that they are inherently single-threaded) and Chrome implemented this concept with a multiprocessing architecture. A separate process is allocated to each task (eg tabs, plugins), as is the case with modern operating systems. This prevents tasks from interfering with each other which is good for both security and stability; an attacker successfully gaining access to one application does not give them access to all and failure in one application results in a ""Sad Tab"" screen of death. This strategy exacts a fixed per-process cost up front but results in less memory bloat overall as fragmentation is confined to each process and no longer results in further memory allocations. To complement this, Chrome will also feature a process manager which will allow the user to see how much memory and CPU each tab is using, as well as kill unresponsive tabs.
+
+User interface
+• Features
+Chrome has added some commonly used plugin-specific features of other browsers into the default package, such as an Incognito tab mode, where no logs of the user activity are stored, and all cookies from the session are discarded. As a part of Chrome's V8 javascript virtual machine, pop-up javascript windows will not be shown by default, and will instead appear as a small bar at the bottom of the interface until the user wishes to display or hide the window. Chrome will include support for web applications running alongside other local applications on the computer. Tabs can be put in a web-app mode, where the omnibar and controls will be hidden with the goal of allowing the user to use the web-app without the browser ""in the way"".
+• Rendering Engine
+Chrome uses the WebKit rendering engine on advice from the Gears team because it is simple, memory efficient, useful on embedded devices and easy to learn for new developers.
+• Tabs
+While all of the major tabbed web browsers (e.g. Internet Explorer, Firefox) have been designed with the window as the primary container, Chrome will put tabs first (similar to Opera). The most immediate way this will show is in the user interface: tabs will be at the top of the window, instead of below the controls, as in the other major tabbed browsers. In Chrome, each tab will be an individual process, and each will have its own browser controls and address bar (dubbed omnibox), a design that adds stability to the browser. If one tab fails only one process dies; the browser can still be used as normal with the exception of the dead tab. Chrome will also implement a New Tab Page which shows the nine most visited pages in thumbnails, along with the most searched on sites, most recently bookmarked sites, and most recently closed tabs, upon opening a new tab, similar to Opera's ""Speed Dial"" page.
+
+
+"

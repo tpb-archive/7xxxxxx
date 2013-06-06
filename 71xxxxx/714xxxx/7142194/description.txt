@@ -1,0 +1,47 @@
+All for this package goes to jackpot08 of http://forum.xda-developers.com
+
+I just packaged all of the components into one file.
+
+
+Instructions for flashing your LG Revolution
+
+
+01. Run 00-LG VZW_United_WHQL_v2.3.1.exe (Windows Driver)
+
+02. Run 01-LGNPSTv1.2_Store_Version.msi
+
+03. Run 02-LGNPST_General_v1.2_Lab_Version.msi
+
+04. Copy 03-LGNPST.exe to "C:LG ElectronicsLGNPST" and rename to LGNPST.exe (rename original to LGNPST.bak or delete)
+
+05. Run 04-LGNPST_Components_Ver_5_0_12_0.msi
+
+06. Run 05-LGNPST_GenericModels_Ver_5_0_10_0.msi
+
+07. Run 06-Right_Click_Register_DLL.reg
+
+08. Make a new folder called "Models" in the program's directory (Default: "C:LG ElectronicsLGNPST")
+
+09. Unzip 07-RevoDLL.zip and put the DLL in the "Models" folder.
+
+10. Right Click "VS910.dll" and click on Install/Register.
+
+11. Reboot your computer
+
+12. Run "LGNPST" from the Start Menu
+
+13. Plug in your phone, use Internet Connection Mode,and enable USB Debugging.
+
+14. Your Revo should pop up in the list
+
+15. Select it and click on the Open folder button inside the .BIN query underneath the COM## details.
+
+16. Since it wants a .bin file, you can open the .TOT file by typing "*.*" inside the File Name query and hitting Enter
+
+17. Select the TOT file you want to flash from the TOT folder in this package and click OK
+
+18. Click on Upgrade
+
+19. Wait until the process finishes 100%
+
+20. You now should have flashed your LG Revolution to whichever firmware version you prefer

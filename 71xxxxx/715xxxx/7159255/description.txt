@@ -1,0 +1,71 @@
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 699 MiB
+Duration                                 : 1h 13mn
+Overall bit rate                         : 1 329 Kbps
+Encoded date                             : UTC 2010-05-29 12:15:56
+Writing application                      : mkvmerge v3.4.0 ('Rapunzel') built on May 15 2010 09:38:20
+Writing library                          : libebml v0.8.0 + libmatroska v0.9.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 6 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 13mn
+Nominal bit rate                         : 1 011 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.185
+Writing library                          : x264 core 96 r1613 81e75e9
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 13mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : French
+Default                                  : Yes
+Forced                                   : No
+
+Subtitles:
+Language                                 : English
+
+Language                                 : Spanish
+
+Language                                 : French
+
+Language                                 : Dutch
+
+Language                                 : Italian
+
+Language                                 : Greek
+
+Language                                 : Portuguese
+
+Language                                 : Swedish
+
+Language                                 : Polish
+
+Language                                 : Turkish
+
+Language                                 : Hungarian

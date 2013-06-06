@@ -1,0 +1,66 @@
+Mirror.Mirror.TS.XviD.AC3-ANALOG
+
+
+
+
+
+
+
+Complete name : Mirror.Mirror.TS.Xvid.Ac3.ANALOGm.m.ts.analog.avi
+Format : AVI
+Format/Info : Audio Video Interleave
+File size : 1.37 GiB
+Duration : 1h 38mn
+Overall bit rate : 1 999 Kbps
+Writing application : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library : VirtualDubMod build 2540/release
+
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Advanced Simple@L5
+Format settings, BVOP : 1
+Format settings, QPel : Yes
+Format settings, GMC : No warppoints
+Format settings, Matrix : Custom
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Duration : 1h 38mn
+Bit rate : 1 797 Kbps
+Width : 688 pixels
+Height : 288 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.363
+Stream size : 1.23 GiB (90%)
+Writing library : XviD 58
+
+Audio
+ID : 1
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Codec ID : 2000
+Duration : 1h 38mn
+Bit rate mode : Constant
+Bit rate : 192 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 135 MiB (10%)
+Alignment : Split accross interleaves
+Interleave, duration : 40 ms (1.00 video frame)
+Interleave, preload duration : 500 ms
+Sample : Yes
+
+Source : Vobs/Mirror Mirror 2012 TS2DVD DD2 THANX 
+
+

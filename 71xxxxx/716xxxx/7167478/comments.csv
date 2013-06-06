@@ -1,0 +1,135 @@
+﻿User Type,Username,Date,Text
+,Dhizzy16,2012-04-07T20:41Z,language?
+,pirateguy122,2012-04-07T20:46Z,"@Dhizzy16
+
+English."
+[V],.BONE.,2012-04-07T20:47Z,ENGLISH! but its missing 10 mins..
+,T4R1K,2012-04-07T21:12Z,"Downloading, and will seed for a week or two."
+,cstraybeck,2012-04-07T21:12Z,"Yes, they speak english, no dub.
+But, the video is really blurry.
+A: 7
+V: 4 (would be a 6 or 7 if it hadn't been so blurry)"
+,T4R1K,2012-04-07T21:14Z,Missing first 10 mins. or final 10 mins. ?
+,HolyDuFF2,2012-04-08T00:33Z,"Hi, i was going to explain to ya all why the movie is shorter than the retail one. But, it seems that the movie is acually shorter. Anyway, when you watch the real movie it's shown in 24 FPS (23.976 FPS) but when you watch it in the cinema it's played in 25 FPS. So i made a calculation out of it as you can see below.
+
+NOTE: The runtime of this movie is not 1h 25mn it's 1h 30mn.
+
+Real Playtime: 6780 sec (24 FPS)
+TS Playtime: 5416 sec (25 FPS)
+CAM Playtime: 5101 sec (25 FPS)
+
+Multiplier: 0.96 (1/25 = 0.04 | 1 - 0.04 =0.96)
+
+Calculation: 6780*0.96 = 6508,8 sec
+
+25 FPS Playtime: 6508,8 sec - Credits = (5416 sec || 5101 sec) ???
+
+I belive that this is a correct calculation that removes 1 second every 25th second. However this means that the movie credits must be either 18 mins or 23 mins. In this case 18 mins cus this is the TS version. And i don't believe that the credits is 18 mins. So why is the movie shorter than it's supposed to be?"
+,lucien1915,2012-04-08T01:13Z,wow to that guy ^ i think i blacked out for like 5 mins after reading ur comment
+,zBamza,2012-04-08T02:24Z,haha no doubt. i feel smarter after reading that :P dowloading now will rate when its done
+,zBamza,2012-04-08T02:26Z,nvm.. not gonna sit through a dl at 5kb/s lol tooo many leachers not enough seeeeeders
+,trapper41,2012-04-08T04:55Z,"wow im so smart now....lol
+ty for the work legend well done sir"
+,huegart,2012-04-08T05:34Z,so is the movie worth the d.l.
+,torntadik,2012-04-08T08:11Z,download this shit and see...aint like u have anything else better to do lol
+,bfpg8989,2012-04-08T11:44Z,"Dear user , ty for effort but even you said f u c k no to this lol
+
+3/3.5 A/V lol"
+,spifkitten99,2012-04-08T12:38Z,"HolyDuFF2, are you retarded?
+
+A movie does not become longer or shorter when converting from one framerate to another. If it did, it would mean it was playing too fast or too slow. Only retarded morons would convert it in that way.
+
+Instead frames are either dropped, or duplicates are added.
+
+It's common fucking sense, that you don't simply speed it up or slow it down."
+,spifkitten99,2012-04-08T12:44Z,"and by the way, no need to make such a fuss about the calculations. It's quite easy.
+
+If you wanna play a 24 fps movie back at 25 fps, this is all you gotta do:
+
+movielenght*24/25"
+,Newland69,2012-04-08T13:33Z,Those cine-links are bs. Requires registration etc etc...
+,HolyDuFF2,2012-04-08T15:34Z,"This is a comment to spifkitten99. It's a copy of an explanation to another retard like him. And yes your calculations are correct as i use them below. But my other one is based on this one and is a simplified version of this one. And the moive is not converted to 25 FPS it's only playbacked at 25 FPS. Only retarded morons like yourself would do something like that as you mentioned.
+
+ironymon, you are totally stupid. We are talking movies here, not games. All the movies out there are made for 24 FPS (23.976 FPS) but i cinemas the movie runs in 25 FPS. That means that it will show 25 pictures of the movie in one second except for 24. That will make the movie shorter at faster playback in the cinemas because it will play thru all the movies pictures faster. Here is and example why.
+
+If we take this movie as an example. This movie is 113 min. Now we need to convert this to seconds.
+
+113*60 = 6780 sec
+
+Now we need to convert the seconds into frames. And the standard is 24 FPS (23.976 FPS)
+
+6780*24 = 162720 frames
+
+Now we need to convert this into seconds for playback at 25 FPS.
+
+162720/25 = 6508,8 seconds
+
+Now, the results.
+
+Movie length @ 24 FPS: 6780 seconds
+Moive length @ 25 FPS: 6508,8 seconds
+
+As you now can see, the moive is shorter and runs faster at 25 FPS. Now, if you are to stupid to understand this. Please download Fraps. Then open VLC or any other moive playback software i suppose and then run a DVDRip of a moive. You will see that fraps shows 24 FPS. Now, run this moive a TS version. You will see that fraps shows 25 FPS. And if your to stupid to understand that and thinks that fraps shows wrong. Then please do the following in VLC.
+
+Tools > Codec Information
+
+Then look for ""Frame rate"" and you will see that VLC will say 23.976215 for a regular movie and 25 for this one. Now, fuck who did you say?"
+,HolyDuFF2,2012-04-08T15:36Z,And why don't you download Fraps. And then change the playback speed on the movie. Then you will see increased frame rate at faster speeds. And decreased frame rate at slower speeds :)
+,DooMbie,2012-04-08T16:27Z,@HolyDuFF2 You my dear sir are a moron. those really are frames per second so it doesn't change the actual length(only size of the file itself) of the movie if you increase of in this instance decrease the amount of those it still will be period of one second. Oh and there is this other thing did you seriously commented on all links to this movie??? are you some crazy nutjob or just extremely insecure and in need of attention??? well im just happy to brake it down to you you've made it only with a bit different result. not gonna tell you but if you are so smart you'll figure it out on your own.   
+,DooMbie,2012-04-08T16:43Z,@HolyDuFF2 You my dear sir are a moron. those really are frames per second so it doesn't change the actual length(only size of the file itself) of the movie if you increase of in this instance decrease the amount of those it still will be period of one second. Oh and there is this other thing did you seriously commented on all links to this movie??? are you some crazy nutjob or just extremely insecure and in need of attention??? well im just happy to brake it down to you you've made it only with a bit different result. not gonna tell you but if you are so smart you'll figure it out on your own.   
+,hawkins4,2012-04-08T18:52Z,Weirdest group of comments EVER
+,asdquit123,2012-04-08T20:06Z,"Fucking Americans. why do you guys compete with that nonsense topics?
+
+
+YOU GUYS ARE PATHETIC!"
+,eggy750,2012-04-08T22:36Z,lol these comments are entertaining me before the movie lol
+,ShakeJunt,2012-04-09T01:13Z,Why do people even bother uploading this fucking garbage. Cam and Telesync are never worth downloading. Pull your heads out of your asses People!
+,ShakeJunt,2012-04-09T01:20Z,Someone needs to ban these faggots who keep posting their shitty websites in the comments section on every damn torrent. Fuck you and your foreign websites!
+,mcgillj,2012-04-09T01:44Z,"Ok... the whole FPS thing is BULLSHIT! The film, LITERALLY, is missing foorage.. PERIOD. Alot of scenes you can see quick zoom, jump cuts.. which would be fine if that is all it was. But there are litereally SCENES missing as you transition. There's about at LEAST 2 minutes missing from the reintroduction of Stifler, just a few seconds from the introduction of Finch. This clears up at about the 45-60 minute mark. And it was still watchable quality wise. I watch it on a 42"" TV.
+
+v=6.0?
+a=5.5 (a bit tinny.. but clear that it it understood)>
+
+If you MUST see it opening weekend. The movie does mess a FEW scenes.. like what happens to the jet skis, etc. But oddly? And maybe its cayse I did already see it.. but nothing so major you can't understand the film (aside from Stifler's boss who was introduced earlier and shows up again later, but like I said.. you can figure that out from context). If you must, download its decent.. but I would suggest waiting for a NEW source."
+,seathog,2012-04-09T02:15Z,a thousand words with eddie murphy be one of the first to up load it in HD
+,Nyghtlilly,2012-04-09T03:29Z,@eggy750 LMAO!!!! IKR? love it
+,Nyghtlilly,2012-04-09T03:35Z,@eggy750   LMAO!!!!! love it
+,Biazzz,2012-04-09T14:52Z,"english subtitles:
+http://www.nl-subtitles.com/en/subtitles/English/American%20Reunion%20/1605630/"
+,kennykillerkoala,2012-04-10T03:50Z,"https://forum.suprbay.org/showthread.php?tid=106733
+
+If I can't beat the fuck out of a spammer I just go there."
+,spaceballz2010,2012-04-11T07:45Z,"holy duff must be a tweaker, only a meth head would come on tpb to talk about framerates, lol just put your comment of the movie and move on, from what i have seen the quality is not that good so im going to look for something else to watch.  Thank you to all the non meth-heads who just put the quality, this guy responded to being called a moron with more calculations.  NO ONE HERE GIVES A FUCK!  And we are all going to shit on your comments because of that reason.  "
+,spifkitten99,2012-04-11T13:26Z,"HolyDuFF2, you are seriously retarded.
+
+1 - No fucking movie theater plays a movie at any different framerate than the correct one.
+
+2 - Films are NOT recorded at 24 fps. Some of the cameras used to make cams use 24 fps. Some use 30. That has no effect on the length of the movie, since it's played back at the same rate that it's recorded at.
+
+3 - Why the fuck would you use fraps to find out the framerate of a video? Any decent video play can tell you the framerate.
+
+4 - You cannot use the framerate of this video to find out anything at all, about what framerate it was played back at, in the theater. The only thing the framerate here shows, is what framerate the camera that recorded it used.
+
+5 - There was no need to repeat your retarded calculations. Everybody understood them. They are just irrelevant.
+
+6 - When a movie is converted from one framerate to another (they do this when making dvd releases, since in europe we use 25 fps, and in USA they use 30 fps), the speed of the movie is not changed even one second. Frames are dropped, or duplicated. This is fact.
+
+You should not open your mouth ever here again, until you have educated yourself a little. You seem to just be repeating stuff you have heard, without actually having any understanding of it, because pretty much everything you write, is completely wrong, and screams of ignorance."
+,spifkitten99,2012-04-11T13:27Z,7 - The theaters can play bakc a movie at any fucking framerate they want. They don't need to convert it or play it back at a wrong rate.
+,tito23_23_,2012-04-12T02:22Z,"the flik is missing some footage 
+v=6
+a=5 
+thanks"
+,nihila101,2012-04-13T07:14Z,"spifkitten99
+
+All i can say u are so right.
+and btw nice feebback on the retard. 
+
+sorry for my bad eng /// im swedish sadly
+
+d.s
+this torrent is worse than the first one uploaded.
+cant just ppl do nice uploads no more? wtf"
+,thisgonnaworkthistime,2012-04-13T16:06Z,crap copy. missing over 20 minutes. don't waste time. 
+,lwhack,2012-04-16T14:51Z,missing lots of footage a total waste of download time
+,4stanktoe,2012-04-21T21:00Z,I only come here to read the comments.

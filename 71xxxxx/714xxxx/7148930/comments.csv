@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,pubicoption,2012-06-21T04:50Z,"Picture is compressed horizontally, looks awful."
+[T],[D],2012-06-21T10:43Z,You're doing it wrong then.
+[T],[D],2012-06-21T10:49Z,"The display aspect ratio is set in the container. You are right that the raw stream has a wrong SAR set, but any player that doesn't suck completely should play it fine. Even then, they might have some command to override the aspect ratio."

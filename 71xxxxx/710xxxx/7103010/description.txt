@@ -1,0 +1,47 @@
+
+File infO
+
+                                            
+General
+Complete name                    : ++ Lolita 1997 ++_x264_eng_sub-Dee++ Lolita ++_x264_eng_sub-Dee.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 2.19 GiB
+Duration                         : 2h 11mn
+Overall bit rate                 : 2374 Kbps
+Writing application              : Lavf54.1.100
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 8 frames
+Codec ID                         : avc1
+Duration                         : 2h 11mn
+Bit rate mode                    : Variable
+Bit rate                         : 2142 Kbps
+Width                            : 720 pixels
+Height                           : 576 pixels
+Display aspect ratio             : 16/9
+Frame rate mode                  : Variable
+Frame rate                       : 25.000 fps
+Standard                         : PAL
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.207
+Stream size                      : 1.98 GiB (90%)
+Writing library                  : x264 core 120 r2164
+Encoding settings                : cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=9 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=2142 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=69 / qpstep=4 / vbv_maxrate=14000 / vbv_bufsize=14000 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+Format                           : ac-3
+Codec ID                         : ac-3
+Duration                         : 2h 11mn
+Bit rate mode                    : Constant
+Bit rate                         : 224 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Resolution                       : 16 bits
+Stream size                      : 211 MiB (9%)

@@ -1,0 +1,27 @@
+What is New in Version Four
+Wenlin User’s Guide
+Improved ABC Chinese-English dictionary with numerous additions and revisions. Chinese characters are included for all example sentences.
+New high-quality ABC English-Chinese dictionary edited by John DeFrancis and Zhang Yanyin. (Available as a [book] from UH Press!)
+Both Chinese and English entries are marked with grade levels {A}/{B}/{C}/{D}/..., based on graded word lists prepared by PRC specialists in teaching the two languages. Chinese vocabulary grade levels are based on Hanyu Shuiping Kaoshi (HSK), the official test of Chinese proficiency.
+Wenlin’s Zìdiǎn (字典 dictionary of Chinese characters) has been greatly improved and now includes for the first time a new electronic edition of the 2000 year-old Chinese dictionary, (说文解字) Shuōwén Jiězì (created by Richard Cook, including an 11,246-character Seal Script outline font.)
+Flashcard improvements: support for words rather than only single characters; more flexibility about question types; a documented XML file format that could be shared with other software.
+For Pinyin transcriptions of common Chinese words (grades A/B/C/D), changes in tone are indicated while preserving the original tone, using either a dot or a line below the vowel.
+Text with sound: a sample dialog from the John DeFrancis textbook Beginning Chinese is included, with sound recordings for each sentence. Choose Sample Texts from the File menu.
+Wenlin now allows users to open an unlimited number of separate resizable windows and sub-windows.
+Right-click for pop-up menu for cut/copy/paste/look-up/pronounce; double-click for highlighting whole word.
+Toolbar has new tools, a new appearance, and greater flexibility.
+New commands: Recent Files/Words/Fonts (in the File, Dictionary, and Font menus, respectively).
+New Search menu command: Search Dictionaries (like Search Files, but search the dictionaries). Search:Find/Replace now includes powerful Regular Expression (PCRE) support.
+Full Unicode Unihan 6.0 support for more than 75,000 Chinese characters.
+Users now have direct access to Wenlin’s CDL technology, including the ability to edit/create an unlimited number of custom Chinese characters.
+New commands in the Options menu: Show/Hide Dictionary Items, for showing/hiding various dictionary details (like simple/full form characters, pinyin, English pronunciation, etc.); and Advanced Options, with several more things that can be customized for special uses.
+Instant Look-up displays explanations of dictionary part-of-speech abbreviations.
+Wenlin users now have access to the Wenlin Source Code (mostly in the C programming language), to help customize and improve the program. If interested, please contact Wenlin Institute for details.
+
+Wenlin 4.1 contains several new and updated features, including:
+New flexibility in the location of required program data files, as described in Appendix C.
+Updated Zìdiǎn data (字典 Chinese character dictionary).
+Updated Cídiǎn data (詞典 Chinese word dictionary).
+Updated Shuōwén Jiězì data (说文解字 Ancient Chinese character dictionary).
+Updated Source Code.
+And much much more!

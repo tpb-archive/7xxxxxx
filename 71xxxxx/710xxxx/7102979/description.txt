@@ -1,0 +1,37 @@
+aTV Flash (black) is a user-friendly software package that supercharges your new black AppleTV, unleashing a plethora of new functionality. DonΓÇÖt worry about the technical details ΓÇô aTV Flash (black) is simple to use and safe for your AppleTV. Installation is a snap and doesnΓÇÖt require any physical changes to the AppleTV.
+-------------------------------------------------------------------------------
+update: 1.4 Mar-8-2012:
+
+NEW: Center channel audio boost (+6dB and +12dB) for 5.0 and 5.1 audio tracks
+NEW: Finnish, German, Japanese, Norwegian, Polish, Russian, and Swedish translations
+NEW: '4:3 Crop' and '4:3 Stretch' zoom options
+NEW: Support for M3U and PLS playlists
+NEW: EyeTV folder detection
+NEW: TrueHD audio (downmixed)
+NEW: 24-bit and 32-bit audio (downmixed) 
+NEW: Enhanced downmixing for 5.1 AC3 audio (Dolby Pro Logic II)
+NEW: Support for embedded MP3 covers
+NEW: Automatic EXIF-based image rotation
+NEW: MP4s embedded subtitles
+NEW: Clock added to main menu
+IMPROVED: Poster art quality in list and grid view
+IMPROVED: Buffering logic for DVD files
+IMPROVED: Cover art fetching from Last.fm
+IMPROVED: DVD menu highlighting
+IMPROVED: Photo viewer & slideshow
+IMPROVED: Adjusted slideshow to match native Flickr style
+IMPROVED: Danish, Dutch, French, Greek, Italian, Brazilian Portuguese, and Spanish translations
+IMPROVED: Minor UI improvements
+FIXED: Downmixing issues for specific audio tracks
+FIXED: Playback issues for single ISO files in a folder
+FXIED: Increased AFP login timeout to 30 sec
+FIXED: Metadata issues for files that contain '/' in folder or file name
+FIXED: Operation of the photo slideshow on iOS 4.x
+FXIED: Issue with favorites removal when share password is changed
+FIXED: Incorrect navigation in grid view on iOS 4.*
+FIXED: Issue with DVD marked as watched after viewing menu
+FIXED: Rare issue with incorrect pre-playback screen layout
+FIXED: Rare crash in libdvdnav when playing DVD files
+FIXED: Rare DVD playback error
+FIXED: Rare 'Bad URL' error
+FIXED: Other miscellaneous bug fixes

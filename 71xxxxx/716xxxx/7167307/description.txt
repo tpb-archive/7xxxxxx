@@ -1,0 +1,51 @@
+Liberty City Textures Volume 1.
+
+A texture mod for the main city of Algonquin.
+
+I started this back in November as a pet project for myself,
+since then it's grown to cover the whole main city [Algonquin],
+and gone from just roads and pavements to grass, walls, glass,
+windows, buildings, shops, roofs, glues, metals, etc..
+
+Every road and pavement has not only been updated to 1024 textures,
+but they have also had their specular maps removed to stop shiny road
+syndrome - often seen in most ENB configs, & even non-ENB timecycle mods -
+Most ground specular maps have also been removed, mostly to try to stop
+shiny almost glass-looking grass, and the generic ground normal map has been
+improved.
+
+Most stock Rockstar textures are left in, shops, buildings, ground, walls, etc..
+These are often good enough to leave intact, but most require a lot of work to
+change, such as shop textures which match their models they are mapped on to -
+this is a lot of work to get new textures to fit to the stock models.
+
+I have colour-corrected most stock textures, sometimes darkening them if they're
+too bright, and lighting then if they're too dark.
+
+The GTXD has had a big overhaul, it's also optimised - only 61Mb - and contains
+some beta road textures for Broker - these are as close to Rockstar's originals
+as I can get wthout actually copying them.
+
+No install is required, simply download all files and place them in their correct
+folders.
+
+NOTE: PLEASE MAKE A BACKUP OF THE FOLLOWING
+
+C:Program Files (x86)Rockstar GamesGrand Theft Auto IVpcdatamapsmanhat
+
+It is big, 1.9Gb, but I cannot provide backups for this, so incase this mod isn't
+for you then please back this up somewhere so you can return to them if needed.
+
+Also backup your gtxd here, C:Program Files (x86)Rockstar GamesGrand Theft Auto IVpcdatacdimages
+
+Install, simply download all files and place manhat01 - manhat12 in
+
+C:Program Files (x86)Rockstar GamesGrand Theft Auto IVpcdatamapsmanhat
+
+and the gtxd goes here
+
+C:Program Files (x86)Rockstar GamesGrand Theft Auto IVpcdatacdimages
+
+Thats it.
+
+Please do not steal this mod, download it and modify it and upload as your own mod. If you want to include the gtxd in your ENB mod then please contact me first, I normally don't have a problem as long as I get asked. 

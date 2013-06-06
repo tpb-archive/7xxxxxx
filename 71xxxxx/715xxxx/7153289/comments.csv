@@ -1,0 +1,84 @@
+﻿User Type,Username,Date,Text
+[V],nikita200,2012-04-02T15:00Z,"Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 19. October 2008, 13:59
+
+Franco Battiato / Last Summer Dance (Vol.2)
+
+Used drive  : HL-DT-STDVDRAM GSA-4167B   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : D:Post_FormatExAuCoCodecsFLACflac.exe
+Additional command line options : -8 -V -T ""artist=%a"" -T ""album=%g"" -T ""date=%y"" -T ""genre=%m"" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:32.24 |         0    |    15923   
+        2  |  3:32.24 |  3:52.44 |     15924    |    33367   
+        3  |  7:24.68 |  4:21.26 |     33368    |    52968   
+        4  | 11:46.19 |  3:10.45 |     52969    |    67263   
+        5  | 14:56.64 |  2:38.31 |     67264    |    79144   
+        6  | 17:35.20 |  2:13.35 |     79145    |    89154   
+        7  | 19:48.55 |  2:50.28 |     89155    |   101932   
+        8  | 22:39.08 |  3:46.40 |    101933    |   118922   
+        9  | 26:25.48 |  8:23.59 |    118923    |   156706   
+       10  | 34:49.32 |  2:54.06 |    156707    |   169762   
+       11  | 37:43.38 |  3:02.64 |    169763    |   183476   
+       12  | 40:46.27 |  4:11.07 |    183477    |   202308   
+       13  | 44:57.34 |  4:19.25 |    202309    |   221758   
+
+
+Range status and errors
+
+Selected range
+
+     Filename D:CD2Franco Battiato - Last Summer Dance (Vol.2).wav
+
+     Peak level 100.0 %
+     Range quality 100.0 %
+     Copy CRC E60B03DB
+     Copy OK
+
+No errors occurred
+
+
+AccurateRip summary
+
+Track  1  accurately ripped (confidence 1)  [BE933122]
+Track  2  accurately ripped (confidence 1)  [CDD6232C]
+Track  3  accurately ripped (confidence 1)  [7CF4BF11]
+Track  4  accurately ripped (confidence 1)  [015CD9A8]
+Track  5  accurately ripped (confidence 1)  [FF83177D]
+Track  6  accurately ripped (confidence 1)  [42166B90]
+Track  7  accurately ripped (confidence 1)  [E69ACF49]
+Track  8  accurately ripped (confidence 1)  [EC29696E]
+Track  9  accurately ripped (confidence 1)  [B9A6834E]
+Track 10  accurately ripped (confidence 1)  [CF3B46D5]
+Track 11  accurately ripped (confidence 1)  [66C0A116]
+Track 12  accurately ripped (confidence 1)  [1578ED73]
+Track 13  accurately ripped (confidence 1)  [B74B0C4B]
+
+All tracks accurately ripped
+
+End of status report"
+[V],nikita200,2012-04-02T15:03Z,"CD1:
+
+http://thepiratebay.se/torrent/7153095/Franco_Battiato_-_Last_Summer_Dance_(Live)_[CD1_-_Box]"

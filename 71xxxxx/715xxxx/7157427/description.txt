@@ -1,0 +1,7 @@
+As part of a recent presentation for the InfoSec Southwest conference (http://www.infosecsouthwest.com/), KoreLogic scoured the Internet looking for MD5 and SHA1 password hashes. We came up with a few--about 146 million. In order to improve the research behind better password cracking--and stronger password storage and strength enforcement--researchers need raw data, and real data is better than contrived data.
+
+These hashes were obtained from Hash-cracking websites and forums, pastebin leaks,yourpaste, MD5 hashcracking lists, Google, etc. All these hashes were previously published and shared publicly by other people on the Internet, and KoreLogic is not responsible for their initial release.
+
+We collected these, removed as many "bad" or invalid hashes as possible, removed any usernames or site information, sorted, and uniqued them into this one massive list. Some non-crackable hashes and other noise might have slipped through; for example we know there are at least 5,000 NTLMs in this list. Additionally, some of the MD5s might be missing their salts.
+
+The result is a 2.5 gigabyte tarball.

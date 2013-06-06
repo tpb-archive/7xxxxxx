@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+[V],nikita200,2012-04-04T12:34Z,"Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
+
+EAC extraction logfile from 9. October 2007, 14:34
+
+Claudio Baglioni / Al茅-O贸 CD2
+
+Used drive  : ATAPI-CDROM-DRIVE-52MAX   Adapter: 1  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Combined read/write offset correction       : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Installed external ASPI interface
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 128 kBit/s
+Quality                         : High
+Add ID3 tag                     : Yes
+Command line compressor         : C:ProgrammiExact Audio Copywavpack.exe
+Additional command line options : -h -m -w ""Artist=%a"" -w ""Title=%t"" -w ""Album=%g"" -w ""Year=%y"" -w ""Track=%n"" -w ""Genre=%m"" %s %d 
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:32.60 |         0    |    20459   
+        2  |  4:32.60 |  5:11.62 |     20460    |    43846   
+        3  |  9:44.47 |  6:36.23 |     43847    |    73569   
+        4  | 16:20.70 | 10:57.15 |     73570    |   122859   
+        5  | 27:18.10 |  2:50.72 |    122860    |   135681   
+        6  | 30:09.07 |  5:24.28 |    135682    |   160009   
+        7  | 35:33.35 |  2:36.15 |    160010    |   171724   
+        8  | 38:09.50 |  2:26.62 |    171725    |   182736   
+        9  | 40:36.37 |  2:51.58 |    182737    |   195619   
+       10  | 43:28.20 |  3:39.45 |    195620    |   212089   
+       11  | 47:07.65 |  5:19.12 |    212090    |   236026   
+       12  | 52:27.02 |  2:40.10 |    236027    |   248036   
+
+
+Range status and errors
+
+Selected range
+
+     Filename D:Claudio Baglioni - Al茅-O贸 CD2.wav
+
+     Peak level 96.8 %
+     Range quality 100.0 %
+     Copy CRC 37447048
+     Copy OK
+
+No errors occurred
+
+End of status report"
+[V],nikita200,2012-04-04T12:40Z,"CD1:
+
+http://thepiratebay.se/torrent/7157056/Claudio_Baglioni_-_al_amp_eacute_-o_amp_oacute__(live)_-_1982_[CD1]"

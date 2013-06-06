@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,recon1301,2012-05-25T03:11Z,After i open terminal... then what do i do? sorry im a noob
+,Kilamite,2012-05-26T12:33Z,"Keymaker works fine and generated valid serial.
+
+@ recon1301, open Terminal and type:
+
+chmod +x AND THEN DRAG THE KEYMAKER FILE INTO THE TERMINAL WINDOW
+
+If you do that, you should get something like:
+
+chmod +x /Users/UserName/Downloads/VMware.Fusion.v4.1.2.MacOSX.Incl.Keymaker-EMBRACE/keymaker
+
+If so, hit return.
+
+Then, go back to the folder with the Keymaker file and open it."
+,netin,2012-05-30T01:21Z,WICKED!! This works flawlessly in LION no more kernel issues!! thanks a buch mate!! you saved my arse!
+,netin,2012-05-30T01:21Z,...bunch... bwahaha :)
+,Pitorro,2012-06-11T03:42Z,"I tried the terminal commands as suggested on your read.txt, to get the keygen for my 10.6.8 MAC and nothing appeared as a key. 
+Pitorro"
+,Xio81,2012-06-28T15:14Z,I get a kernel error when I try to create a VM. Anyone else?

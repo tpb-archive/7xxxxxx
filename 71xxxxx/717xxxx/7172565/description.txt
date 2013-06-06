@@ -1,0 +1,66 @@
+ http://i1240.photobucket.com/albums/gg498/Godmode1/logo_forum.png
+
+
+Format: ISO Image
+Language: English
+Hoster: TPB
+Size: 9,4 GB
+Official:
+Wiki: http://half-life.wikia.com/wiki/Half-Life_universe
+
+
+Description:
+
+This is a compilation of VALVE singleplayer-only games in the Half-Life universe, including:
+
+HALF-LIFE
+HALF-LIFE: BLUE SHIFT
+HALF-LIFE: OPPOSING FORCE
+HALF-LIFE 2
+HALF-LIFE 2: EPISODE ONE
+HALF-LIFE 2: EPISODE TWO
+HALF-LIFE 2: LOST COAST
+PORTAL
+PORTAL 2
+
+The Idea behind this was to create an easy to handle "all-in-one" package and at the same time keep the filesize as small as possible. To achieve this I made use of the Source-Engine's shared GCF files. More information about this can be found in the README file.
+
+Multiplayer games were left out on purpose, mainly because they're updated too often and there are already about a million releases of them. They don't fit the idea behind this package.
+
+This is my first release, I put a lot of work and time into it to make sure everything works fine. Feedback is appreciated!
+
+Have fun!
+
+
+Features:
+
+Amazingly small installer filesize compared to common Standalone releases
+Uses unmodified files directly from STEAM, nothing was changed from the original content.
+Incorporates newest updates to the SOURCE engine for all games, including achievements (as of 11/23/11)
+International (English) release, can be expanded with other languages
+Precracked, no need for STEAM or internet connection
+Custom installer/uninstaller with the option to select only the games you want to install, each game can be installed as a standalone.
+
+
+Instructions:
+
+1. Mount
+2. Run installer
+3. Read the text at the beginning to avoid questions later (or read the README file)
+4. Select the games you want to install
+5. Launch games from any shortcut
+ 
+http://i1240.photobucket.com/albums/gg498/Godmode1/animation_forum_2.gif
+
+
+Changelog:
+
+Version 1.22 (02/11/2012):
+Updated the README file with additional info.
+Reworked the setup routine: new art, more info, code improvments.
+Added a 'print' button on the bottom of the README page.
+Added an uninstall prompt regarding savegames.
+Added background music and a 'toggle music' button.
+Added 64bit support.
+Fixed: 'next disk' prompt is now readable.
+Fixed: game symbols were displayed incorrectly for some people.

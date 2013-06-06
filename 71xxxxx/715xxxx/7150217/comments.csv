@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,PIRATE-555,2012-05-27T04:04Z,"MARK MY WORDS!
+It's VERY important that you BLOCK this program in your FIREWALL!
+
+Block this range:
+82.165.115.1  thru 82.165.115.255
+in BOTH Inbound and Outbound Rules.
+
+ALSO BLOCK the PROGRAM in your Firewall because sooner or later this program ""phones home"" and IF your s/n is not valid, it not only DISABLES the program, it kills many other of your favorite programs!
+
+YE have been warned!
+PIRATE-555"
+,helob01,2012-08-23T10:42Z,"How to you configure to
+Block this range:
+82.165.115.1 thru 82.165.115.255
+in BOTH Inbound and Outbound Rules.
+in Win 7 Firewall?
+I can configure for the program only.
+TQ"
+,geek4real,2012-09-12T18:36Z,"@helob01: Go into your advanced firewall settings.  Create a new incoming rule.  Select ""custom.""  Click next until you get to the SCOPE options click Add (Remote location) 
+from 82.165.115.1
+to 82.165.115.255
+
+Click OK and Next
+
+Then, in the ACTION options, make sure you click BLOCK!
+
+Name it and save.
+
+Create another rule for Outgoing connections exactly the same way."
+,sackese,2012-09-13T22:20Z,"@Pirate-555 & geek4real
+
+Seems they have another range, as I'm getting mine blocked."

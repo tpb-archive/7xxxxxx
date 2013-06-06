@@ -1,0 +1,66 @@
+Similar to scene release name for naming conventions sake, not a scene release. It's a pirate bay release if anything, though feel free to share it anywhere you want.
+
+1080p Dr. Horrible. As the bay did not seem to be blessed with it already, I ordered the BD and ripped it. Seem to me most torrents of DR horrible lead to horribly made rips. Hopefully you won't find this as bad.
+
+Format profile ended up 5.0 so there's far from any guarantee it will play on your standalone. Software players will play it back just fine with DXVA and all.
+
+Included audio commentary track as well.
+
+Did not de-noise video as I feel that is a decision for a director or technical director to make. Instead I've raised the bitrate (ow well it's CRF 21.5) in order to preserve the filmy grain that the source has.
+  
+http://www.imdb.com/title/tt1227926/
+
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L5.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 42mn 22s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Writing library                : x264 core 120
+Encoding settings              : cabac=1 / ref=5 (etc, too many chars in descr)
+RP177
+
+Audio #1
+ID                             : 2
+Format                         : DTS
+Format/Info                    : Digital Theater Systems
+Codec ID                       : A_DTS
+Duration                       : 42mn 22s
+Bit rate mode                  : Constant
+Bit rate                       : 1 510 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 458 MiB (16%)
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Audio #2
+ID                             : 3
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 42mn 22s
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Language                       : English
+Default                        : No
+Forced                         : No

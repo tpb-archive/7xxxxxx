@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+,OmniNegro,2012-04-16T22:22Z,"This is nearly a quarter smaller than the other versions. Can anyone confirm this is real?
+
+With all due respect, you cannot say anything salvistra. Your account is only a day old."
+,salvistra,2012-04-16T22:34Z,"To my knowledge THETA is a scene group or at least a respected p2p group. You might be able to look it up in a pre-database, and you can certainly find this release on several respected trackers like for example Bitgamer. All I did was unrar it. You can try google as well - 2600+ hits."
+,OmniNegro,2012-04-17T00:41Z,"Slapping a respected name like Theta does not make it official. I am asking if anyone can verify that it is. I checked Usenet. And it has not been posted there yet.
+
+Understand that I mean no disrespect to you Salvistra. I simply see that your account is new. I will dig around on a few other sites and see what I can find. Thank you for being kind in your reply though. :)"
+,sage1210,2012-04-17T04:23Z,"i installed it and play it. yeb this is totally real 1.1.3.
+
+but i still not know what different between this version and the old version yet."
+,OmniNegro,2012-04-17T05:32Z,"It works without fail. Unlike the GoG version of 1.06 it even works sandboxed.
+
+I have no clue what the difference is between the two versions, but this is smaller. (Before installing, it is smaller by nearly a quarter. After install size is almost identical to 1.06.)
+
+Thank you Salvistra. I am sorry to have called you into doubt. :)
+
+Note that this version loaded my savegames from 1.06 without problems."
+,Whitekid7,2012-04-17T19:53Z,"Fast DL, works perfectly and smoothly.
+Also smaller than the other torrents of this game on here so that's a plus."
+,bazoo.ET,2012-04-17T23:46Z,"Legend.of.Grimrock is the same as the old dos game eye of the beholder
+just been modden up and give a new name    "
+,OmniNegro,2012-04-18T08:20Z,"@bazoo.et
+Idiot. LoG is *NOT* EoB.
+
+http://www.grimrock.net/blog/page/6/
+
+""This image is not just a gorgeous piece of art but I think it nails down what this game is all about: pure oldschool dungeon exploration, mindblowing puzzles and intense atmosphere in the spirit of classics like Dungeon Master, Eye of the Beholder, Ultima Underworld and Arx Fatalis. These games were our favorites when we were kids and to me Dungeon Master is still one of the best games ever made. So our goal is to transfer the spirit of these old masterpieces and combine them with todayâ&#x20AC;&#x2122;s technologies, gameplay innovations and graphics to bring them to this day.""
+
+Now why would they say it was made like them if they simply stole the fucking maps? It is similar. But that is all. There are exactly zero illusory walls. EoB had a boatload of those.
+
+That means you are an idiot that speaks as fact things you believe but have zero experience with. Shut the fuck up and go die."
+,Smarock,2012-04-21T20:51Z,Omninigger are you some kind of aspie?
+,arrow_in_the_knee,2012-04-22T15:03Z,"wait for 1.1.4
+
+it fixes and adds :
+
+Done:
+- vsync is enabled by default
+- borderless windows are no longer topmost
+- pressing ESC closes character sheet
+- fixed unlimited frost arrow exploit
+- improved display resolution auto-detection at first launch
+- fixed a couple of typos and broken english
+- removed check that disables high texture resolution setting when running low on video memory (some graphics drivers seem to report available video memory incorrectly)
+- quick save/load
+- volume sliders
+- to avoid confusion autosave & quicksave slots can't be renamed anymore
+- adjusted gui layout and camera fov so that user interface elements do not overlap with important screen areas on non-widescreen displays
+- invert horizontal mouse option
+- camera bobbing option (only available by editing the config file manually)
+- configurable tooltip delay (only available by editing the config file manually)
+- frame rate limiter (set to 120fps but can be changed by editing the config file)
+- custom character portraits
+- bug fix: very long map marker notes without spaces in them causes the automap to crash
+- bug fix: editing a map marker that is on the same exact spot as a marker on the other map page edits them both at the same time
+- bug fix: map labels are sometimes drawn partially underneath map symbols
+- bug fix: topmost menu item doesn't work reliably in high resolutions such as 2560x1440
+- bug fix: wall text translations are not dismissed when right-clicking
+- bug fix: inanimate objects can be backstabbed
+- bug fix: projectiles go through doors in some very rare cases
+- bug fix: saving the game crashes if all save game slots are full and the autosave slot is deleted or unused
+- bug fix: Fighter's Challenge doesn't open if there's an item in front of the door (only applies to new games, existing save games still have this bug)
+- bug fix: saving the game just after the end fight creates a corrupted save that can lead to crashes and the end sequence not getting triggered correctly
+- bug fix: auto pickup doesn't pick up the correct amount of ammo in some rare circumstances
+- bug fix: standing on stairs and turning with the mouse, followed by a turn using q/e keys is buggy
+- bug fix: when a monster is damaged, experience point text sometimes (very rarely) flash in a square where a monster has been killed
+- bug fix: trying to load a save game that has just been deleted manually from the file system (e.g. in Windows explorer) crashes the game
+
+Work in progress:
+- Building the patch
+
+sauce : http://www.grimrock.net/forum/viewtopic.php?f=12&t=754"

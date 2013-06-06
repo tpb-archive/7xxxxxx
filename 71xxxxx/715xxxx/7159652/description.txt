@@ -1,0 +1,60 @@
+Total Uninstall 6.0.0 (2012) [MULTi]
+ 
+http://www.martau.com/
+
+Size: 17 Mb
+Language: Multi language
+Platform: Windows All
+Tablet: Present
+
+Total Uninstall - a tool designed to remove the installed software. The first step in the Total Uninstall is monitoring changes in the system during the installation of new software. A snapshot file system and registry prior to the installation of an application and after. In the future, based on the collected at the time of installation of data (images before and after installation), the utility will quickly and help you remove unwanted program. As you can see, everything is pretty simple. In the Total Uninstall interface is not congested, all the steps set through dialogues.
+
+Features:
+Careful analysis of the existing installed programs and create a log of changes for a new installation
+Monitoring changes in the registry and file system for new installations
+A complete and thorough removal of the analyzed application or otmonitorennyh
+Displays a list of installed programs and otmonitorennyh relevant application icons
+The Organization of the applications installed and otmonitorennyh
+Easy and fast search program to remove keyword
+Summary and detailed information about each installed application, and otmonitorennom
+Use custom settings to detect changes
+A detailed log after removing the selected program
+Powerful search in detected changes
+Stand-alone, low resource system, the agent for notification of running installation of new applications
+Export registry changes for install or uninstall
+Export list of installed applications and otmonitorennyh in a separate file
+Export to file or print detected changes
+
+ IzmeneniyaVersion 6.0.0 - MAJOR UPGRADE (2012-04-02)
+
+General
+
+native 64 bit support
+interface improvements
+decreased memory usage
+faster uninstall of programs
+other contless improvements
+
+Monitored programs module
+
+option to scan and detect created / modified / deleted alternate data streams
+drag and drop a setup program in the monitored programs list to start the monitoring process
+Merge logs dialog will use selected logs from the list
+
+Installed Programs module
+
+analysis up to five times faster than previous version
+more accurate installation analysis that takes into account all the rest of installed programs
+new system areas analyzed
+Install history information in summary
+drag and drop a shortcut in the installed programs list to locate the program or to add it to the list
+detects and uninstalls corrupted installations
+
+Cleaner module (new)
+
+configurable cleaning profiles
+
+ The procedure aktivatsiiFizicheski disable Internet connection
+
+After installation, register data from key.txt
+Block program access to the network firewall

@@ -1,0 +1,60 @@
+Blood.and.Chrome.Wondercon.Trailer.1080p.stereo.mp4 has the video track from the torrent "Blood and Chrome trailer test" with the audio track changed from:
+old: AAC 44.1KHz mono    72Kbps
+new: AAC 48.0KHz stereo 165Kbps sourced from lossless flac.
+
+General
+Complete name             : Blood.and.Chrome.Wondercon.Trailer.1080p.stereo.mp4
+Format                    : MPEG-4
+Format profile            : Base Media
+Codec ID                  : isom
+File size                 : 84.6 MiB
+Duration                  : 1mn 35s
+Overall bit rate mode     : Variable
+Overall bit rate          : 7 415 Kbps
+Writing application       : Lavf52.32.0
+
+Video
+ID                        : 1
+Format                    : AVC
+Format/Info               : Advanced Video Codec
+Format profile            : Baseline@L4.0
+Format settings, CABAC    : No
+Format settings, ReFrames : 4 frames
+Format settings, GOP      : M=1, N=12
+Codec ID                  : avc1
+Codec ID/Info             : Advanced Video Coding
+Duration                  : 1mn 34s
+Bit rate                  : 7 302 Kbps
+Width                     : 1 920 pixels
+Height                    : 1 080 pixels
+Display aspect ratio      : 16:9
+Frame rate mode           : Constant
+Frame rate                : 23.976 fps
+Standard                  : NTSC
+Color space               : YUV
+Chroma subsampling        : 4:2:0
+Bit depth                 : 8 bits
+Scan type                 : Progressive
+Bits/(Pixel*Frame)        : 0.147
+Stream size               : 82.6 MiB (98%)
+Language                  : English
+Color primaries           : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics  : BT.601-6 525, BT.601-6 625, BT.1358 525, BT.1358 625, BT.1700 NTSC, SMPTE 170M
+Matrix coefficients       : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                        : 2
+Format                    : AAC
+Format/Info               : Advanced Audio Codec
+Format profile            : LC
+Codec ID                  : 40
+Duration                  : 1mn 35s
+Bit rate mode             : Variable
+Bit rate                  : 165 Kbps
+Channel(s)                : 2 channels
+Channel positions         : Front: L R
+Sampling rate             : 48.0 KHz
+Compression mode          : Lossy
+Stream size               : 1.88 MiB (2%)
+Language                  : English
+

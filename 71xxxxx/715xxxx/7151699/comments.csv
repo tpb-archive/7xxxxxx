@@ -1,0 +1,165 @@
+﻿User Type,Username,Date,Text
+[T],razalgul1979,2012-04-02T00:19Z,"If any part is corrupted use winrar tool and repair but was tested and showed no errors.
+
+Enjoy and seed!"
+,dududus,2012-04-02T09:09Z,"Thanks, but confuse, why should there be any chance it's corrupted? WinRAR repair is not the answer."
+,Lelele5,2012-04-03T02:57Z,"Confirmed, works perfectly, just install the game to HDD.
+
+Thank you so much, been searching for this for a long time."
+[T],razalgul1979,2012-04-03T13:55Z,Yes for this game to work you must install it in hd
+,Assassinprofessor,2012-04-04T16:57Z,can you upload PAL either pls
+[T],razalgul1979,2012-04-04T19:00Z,sorry my console is NTSC-U 
+,Assassinprofessor,2012-04-04T20:34Z,:(((
+,android_adh,2012-04-05T03:15Z,Hi a question? I'm from mexico there will be a problem?
+,rogue-op,2012-04-06T16:37Z,can I burn this on a DL DVD? sorry! I'm a bit new here :)
+[T],razalgul1979,2012-04-06T17:48Z,"Yes you must burn to a DVD + R Dual layer verbatim are the best
+
+load the .dvd file with ImgBurn change the booktype to DVD-Rom and just burn"
+,CptKlink,2012-04-10T21:46Z,I get nothing but fails when running this through abgx360 1.06 guessing not a proper rip
+,hpt_tk,2012-04-18T13:38Z,"Hi there, Can I ask you one question?
+I have Korean xbox 360 Slim model which is not modded yet. Is there any chance to work on it somehow? Plus, any risk to get banned? 
+Thank you."
+,ReldvS,2012-04-21T21:16Z,does anyone know if u can play this on a chipped old xbox.  it has evolution2 chip.and a large HDD i was gonna ftp it.  thank uploader....this looks very awesome. i jus hope i can play it on older system.
+,ReldvS,2012-04-21T21:26Z,"Please, does anyone know if this will work on a chipped original xbox?  i can play RE 1,2,and 3 already so i am thinking this may not be a jump since RE 4 was on PS2.  anyways just wondering if you can load to HDD and play on original xbox or if maybe some xbox guru out there can make that happen. RE was always a great game and id love to see this on the xbox :-)"
+,The_Doctor_Faust,2012-04-22T23:29Z,Getting a disk not recognized error. I'm wondering if I need to patch this to LT 3.0?
+,iceziie,2012-04-23T18:10Z,What do you guys mean that change to HDD sorry i new to gamer but i want this game so much and if someone have time can you guys tell me how to do step by step if you can thank you so much (i try it the first time that i didn't change any of files i just burn in to a dvd and when i put in xbox it says mixed media disc) somebody help me pleaseeeee
+,snipe07,2012-04-24T23:04Z,"I'm getting Disc Cannot Be Read error, burnt at 2.4x to verbatim MKM001. What do I need to do to get it to run?"
+,luckydragonman,2012-04-28T05:02Z,"Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+D:XBOX 360Resident Evil 4 HDResident Evil 4 HD.dvd is valid
+
+Checking Game
+     ISO: ""D:XBOX 360Resident Evil 4 HDResident Evil 4 HD.iso""
+     Size: 7838695424 bytes
+     Files in ISO: 4598, Folders in ISO: 59
+     Total bytes used: 3821337466 (52.36%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  bio4XBOX.exe
+     Original PE Timestamp: 2011/06/24 11:21:51
+     Min Kernel Required:   v2.0.13146.0
+     Allowed Media Types:   Secure Virtual Optical Device
+     Game Name:             resident evil 4
+     No Avatar Awards
+     Achievements:          12 Achievements totaling 1000 Gamerscore
+     XEX CRC = DDA8612E
+     XEX Media ID: 0C7BAC81636D218C449F5202-140D3442
+
+Region Code: 0x0000FDFF
+     NTSC/J (Excludes China)
+     NTSC/U
+
+Checking SS
+     Timestamp of Authoring: 2011/06/29 00:00:00
+     Timestamp of Mastering: 2011/08/20 11:00:42
+     SS Version: 1
+     SS CRC = BA3A070D (RawSS = 7620B0A3)
+     SS Media ID: 2081FD50DA29A3E77AA267F0-3F29CB75
+SS media id does not match this game!
+
+Checking DMI
+     Timestamp of Authoring: 2011/06/29 00:00:00 (matches SS)
+     DMI CRC = 9B1DB6AB
+     DMI Media ID: 2081FD50DA29A3E77AA267F0-3F29CB75
+DMI media id does not match this game!
+
+Checking PFI
+     PFI CRC = E18BC70B
+PFI matches known data (10th - 12th Wave)
+
+Video partition found
+     Checking L0 Video padding... 56%
+-------------------------------------------------------------------------------
+L0 Video padding contains data but this is normal for XGD2 (The old way of
+putting L1 video on L0). Add command line option --pL0 if you want to blank it
+out (the data hasn't actually been checked that it matches L1 video... it could
+be anything). Note that XGD2 ISOs without L1 video on L0 will appear to have
+bad video data when checked with older versions of abgx360. This version of
+abgx360 doesn't care about L1 video on L0... it will pad L0 video with zeroes
+whenever video is autofixed or manually patched. You can rest assured that only
+old and unsafe custom firmwares will read L1 video from L0; newer ones will
+read it properly from L1. If you're tired of seeing this message then just
+disable ""Check/Fix Video padding"", as it still makes no difference in terms
+of stealth... this option only exists as a way to make sure ISOs are ""clean"",
+with no extra data in areas that aren't CRC checked.
+-------------------------------------------------------------------------------
+     Checking L1 Video padding... L1 Video is zero padded
+     Video CRC = 65D35C53 (V0 = 6B82FE03, V1 = DFEFC0BF)
+Video partition matches known data (12th Wave)
+
+Stealth check failed!
+
+Starting AutoFix
+     Looking for Xex_DDA8612E.ini in the online verified database
+     There is no verified rip of Xex CRC DDA8612E in the online database
+Failed to find a verified ini file for this Xex
+AutoFix Failed!
+
+Press any key to exit . . .
+
+what does this mean?"
+,Tyclone,2012-05-11T15:15Z,It means this rip is FUCKED mate!! All stats failed. What a waste of space...
+[T],razalgul1979,2012-05-12T22:58Z,"I finished the game and also separate ways
+The game works fine for me.
+@Tyclone:
+Get out of my torrent!
+Currently has 24 seeds and 34 peers and does not need you"
+,SingleSanctuary,2012-05-21T19:48Z,Thanks for this torrent! I burned this game onto a memorex dual layer (as with all of my XGD3 games) and it says you must install it to the hard drive! I don't use a hard drive I use a USB drive ! It takes 4 - 6 gb just so you know ! The game will not work if you don't install it! Thanks again! Are there any other arcade games like this one? Perhaps Perfect Dark? 
+,this-sux,2012-06-02T18:27Z,"yo what the hell, iv got a question why dose it keep showin up when i try to burn it it says i only have 34K when i need like 2048? how d i get tht?"
+,this-sux,2012-06-02T18:42Z,like i need some help wit this cuz this is the first download tht hasnt worked tht iv done
+[T],razalgul1979,2012-06-04T05:35Z,"@this-sux:
+What are you talking about dude?
+It is an iso XGD2 and the size is 7.30 gb. Like all the isos XGD2 XBOX360"
+,Ninj333,2012-06-25T02:30Z,"I was skeptical of this download as well as a lot others. Run Through AB, there will be errors, Burn with ImgBurn, and this is the important part if you do not install the game to your HD the game will not play. If you just run the disk you will get “Unauthorized Disc” or an error of that nature. Install to the HD then run the game and it shall work flawlessly. To be clear this game works perfectly, don’t listen to the haters! Great Job Raz!!"
+,iNSaNesK8,2012-07-03T17:05Z,I start up the game and think its working.  I start a new game and it says that the disk is unreadable.  I don't know what I did wrong.
+,iNSaNesK8,2012-07-03T17:28Z,How do you install this game to a Xbox 360 Slim with the newest dashboard?
+,iNSaNesK8,2012-07-03T17:28Z,"^
+ |           to the HDD"
+,Beto110197,2012-07-31T08:02Z,Is xdg2?? in spanish or MULTI5??
+,im.mythos,2012-08-03T20:20Z,"El Archivo funciona. Graben su disco con toda confianza y aunque no hay registro en la base de datos de abgx funciona a pesar de que se dice que debe ser SS V1. Necesitan como bien lo dice instalar el juego y a jugar. Para quien pregunta no es multi idioma, el juego está en Inglés."
+,dayro47,2012-08-18T22:09Z,"thank for the game..
+  works perfect !!!!!!!!"
+,dayro47,2012-08-18T22:10Z,"thank for the game..
+  works perfect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+,johnr283,2012-09-07T15:58Z,Thhanks! It worked fine for me.
+,johnr283,2012-09-07T16:00Z,Thanks! It worked fine for me.

@@ -1,0 +1,126 @@
+﻿User Type,Username,Date,Text
+,crazymadcat,2012-04-20T18:31Z,The name of your torrent sucks...
+,EinDeutschMan,2012-04-21T03:08Z,"@crazymadcat
+
+O.K., fine RENAME IT!
+
+EinDeutschMan"
+,sythrox,2012-04-22T13:57Z,"So I downloaded this and the preinstalled rosetta stone version, do I need to mount them both because I still get an error message.  I was prompted to put in the serial # which was pre filled with xxxxx's I'm just having difficulties with the language packs, I copied them to my c drive and everthing."
+,crazymadcat,2012-04-23T16:09Z,Do it YOURSELF.. why me?  Pfff...  After 1 week it still shows a damn f*cking sentence instead of the RIGHT name.
+,gadew66,2012-04-24T00:25Z,Thanks for your efforts. Sometimes people expect 100% when 99.9% is all that is possible ASAP.
+,EinDeutschMan,2012-04-24T16:35Z,"@sythrox,
+
+2 questions:
+1. Besides the activation problem, is Rosetta Stone running correctly?
+   When you ran Rosetta Stone, did it look like the PDF I UL'd?
+   Do you see the page showing several languages activated?
+
+2. Are you trying to use any language packs that do NOT have ""Preinstalled"" in the name?
+
+And, yes, you need to mount them both (the RS_PreInstalled AND the Spanish_LatinAmerica_PreInstalled ISO's), then copy the contents of BOTH ISO's to your C drive, and allow them to merge with your ""Program Files"" and ""ProgramData"" folders.
+
+It doesn't matter what order you copy them in, but, you MUST have copied them BOTH in order for it to run, and to have the Spanish run correctly.
+
+Let me know,
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-24T16:37Z,"@crazymadcat,
+
+O.K., just WHAT would you want me to name it?"
+,EinDeutschMan,2012-04-24T17:16Z,"@gadew66,
+
+Thanks for the comment, I'm just trying to help other people out.
+I'm sure there are flaws (besides the NAME!), so if you have any thoughts or recommendations,
+I'd like to hear them.
+
+BTW, this is EXACTLY what I did to create the RS Program:
+COMPLETELY removed the RS PROGRAM from my machine, including doing a RegEdit.
+     (I did NOT remove the language packs I had installed)
+REinstalled it. 
+MOVED it FROM C:/Program Files (x86) TO C:/Program Files.
+     (I did this because I know that it will not work correctly on the older versions of Windows i.e. XP.)
+Edit the C:/ProgramData/DynamicStoredPaths.xml file to point to the correct folder - C:/Program Files.
+Tested it on 3 different machines 1 - XP 32 bit, 1 - Vista 64 bit, and 1 - Win 7 64 bit
+Ran fine
+Created the Products.xml file, included the most sought after languages.
+Tested it again - ran through all levels of all languages, made sure all components were available.
+Created the RS_Preinstalled.ISO
+Created the README!!.txt
+Created the RSv3PreInstalled.PDF
+Combined them into Rosetta_Stone_v3_Preinstalled.rar
+UL'd it
+
+To create the Language packs:
+Installed 1 language, all levels (that I have) to C:/Program Files/Content
+Tested it - to make sure that it was activated, and all components were working
+     (Since it was already activated in the Products.xml file, I did NOT have to do anything more.)
+Created the language ISO
+     I'm sorry if the name doesn't please everybody, but I thought it was short and concise
+Created the README!!.txt file
+Combined them into the rar file of the same name...
+UL'd it.
+
+EinDeutschMan"
+,sythrox,2012-04-24T18:11Z,"Yes I saw the mulitiple activation screen, did that.  Everything seemed to be geared for a lauguage install.  I downloaded the torrent that on THIS page that I'm commenting on."
+,EinDeutschMan,2012-04-24T23:36Z,"@sythrox,
+
+Hmmm... 
+O.K., let me look into it.
+BTW what error #/message did you get, that will help.
+
+EinDeutschMan"
+,vivasativa,2012-05-01T20:45Z,"Hello :) So I ran into a problem while moving the contents of this torrent into the C: drive. I successfully moved the Rosetta Stone preinstalled contents and started up the program. Of course it said error when I tried to start a language because I hadn't moved this yet. Both are mounted, but when I try to paste the contents of this torrent into C:, it extracts for about 10 minutes and then when I go to paste it again, it just does the same thing, not allowing me to do anything else. "
+,vivasativa,2012-05-01T20:52Z,"Actually, when I go into the Rosetta Stone Program Files, this torrent's ""Content"" folder is there above the Rosetta Stone v3 folder, but when I run the program it still comes up with an error when I try to run Level 1. Error 4112 I believe?"
+,sckr,2012-05-08T00:06Z,"I'm having the same trouble as vivasativa - a 4112 error upon starting a language... I believe I did everything exactly as your directions stated... Would appreciate some help, but no rush - the language isn't going to change too quickly! Thanks!"
+,sckr,2012-05-10T02:32Z,"Okay, nevermind. I accidentally DLed and installed Latin by accident, instead of Latin American Spanish... Latin runs well! Thanks a bunch, @EinDeutschMan!"
+,softmoc,2012-05-13T23:10Z,"Hey EinDeutschMan! Thanks for this! You did a great job! Everything works fine.
+
+One question though... Since I'm doing the preinstalled version the app never shows up in Programs, so I can't blacklist it from Accessing Internet... Any ideas here? I can just turn off my internet before opening app, I think, but if I forget one day I'm screwed T_T"
+,EvilRado,2012-05-15T02:21Z,NEED SEEDS WE HAVE 0 SEEDS
+,Koybito,2012-05-26T07:18Z,"Hello there. 
+First, thanks for all your hard work. This would be great, if I could get it to work. I downloaded both this torrent and the preinstalled RS you made. I followed what you wrote in the read me files. Rosetta Stone starts but I was never given the option to ""Never Register."" It just took me to a screen that said ""instal language pack with CD"" or ""uninstall language pack."" And when I looked, it didn't have any languages listed. I'm not sure where I went wrong, but I would greatly appreciate any help you could offer. "
+,Koybito,2012-05-26T17:27Z,"Never mind about what I said before! I uninstalled everything and started over. I don't know what I did wrong, but it just worked this time with no issues. Thank you so much for this torrent!
+
+If you have Japanese and Polish, I would love to download them too!"
+,EinDeutschMan,2012-05-27T22:53Z,"@koybito,
+
+DL these two files.
+http://thepiratebay.se/torrent/7272499/Rosetta_Stone_v3.4.7_Preinstalled.exe
+
+http://thepiratebay.se/torrent/7302893/Rosetta_Stone_v3_Japanese__amp_amp__Speech_Preinstalled.exe
+
+I created them, and they are self extracting, 
+the first one will only take a couple of minutes,
+However, the language pack(s) have almost 100,000 files, so it will take a while.
+
+the first one will install Rosetta Stone and all the files needed
+
+It will create  folders in Program Files (x86) and ProgramData
+After it is finished, you will see that ALL of the languages I have are already activated.
+
+The second one will install the Japanese language pack in the folder created in Program Files (x86) 
+
+The Polish Language pack is on the list too, I'll get it UL'd soon."
+,meekmills4,2012-06-01T19:36Z,"PLEASE IM BEGGING!!! I have been working on this danm thing for 6 hrs. i am veery new to pirate bay!! NEED HELP!!! I need the dumbed down instructions because i followed your instructions and it keep asking to upload a language
+NEED HELP"
+,EinDeutschMan,2012-06-05T20:15Z,"@meekmills4,
+I will UL instructions later tonight or tomorrow, 
+It's Tuesday afternoon now
+Sorry about the wait."
+,polkeny1793,2012-06-06T02:07Z,im getting the same problem as sythrox i did everything you said in your readme but when i go to open a language i get the 4112 error please help
+,mattylicious,2012-07-08T16:39Z,"@EinDeutschman
+
+I am new to DL'ing torrents so excuse my ignorance. Once I open the application it gives me a 8112 ""minor error"" but lets me continue.
+
+After I choose my level it gives me a 4112 error and exits the application. I have tried to disconnect from the internet and from spyware, but it doesn't make a difference."
+,jnthnpa,2012-07-09T06:52Z,"Look I am seriously confused as shit....I'm not a total noob when it comes to computers, but I have no idea how to do this. PLEASE HELP!!!
+
+As far as I can tell I mounted the ""Spanish_LatinAmerica_PreInstalled.iso"" , but thats where I get lost. You said in the read me directions to ""Copy contents to C: and allow them to merge""...How the heck do I do that (I'm running windows 7)
+
+Also I started off trying to download the other iso versions of all this you had listed on here and immediately started having issues. Then I came across the preinstalled versions and thought that it was probably better. I currently have the Rosetta Stone v3 installed but can not get any further without help.
+
+Look in all honesty I am trying to save money by downloading this and not paying for it cause I need to save what money I can. I'm moving to Costa Rica for 1yr and I leave in less than 2 months. At the moment I only speak just enough Spanish to speak to my cleaning lady and order food at Taco Bell, so this would help me out tremendously. So please from the bottom of my heart I am pleading and begging you to help me.
+
+kthnx!!!"
+,jnthnpa,2012-07-11T06:32Z,Hey yeah I also just wanted to say that I have no idea how to register PowerISO. It wont let me do shit without a registration code and username. I keep putting in all the different info you had in the instructions but nothing is working...WTF dude??!! HELP!!
+,jnthnpa,2012-07-12T07:23Z,"OK, I finally figured out WTH to do....however it keeps telling me.....error: 2123 - There was an error in the application.....And then it only gives me the option to quit...What now? seriously dude you gotta help people out if you create these uploads..."

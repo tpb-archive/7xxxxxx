@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+[V],Mair.nl,2012-03-23T13:19Z,thank you :)
+,doctortonic,2012-03-25T17:41Z,"What is the md5sum / sha for this image?
+
+Something is WRONG and WIERD with this torrent! 
+
+My MD5 sum for this image wich I downloaded is 
+
+dc87b42bbd1b60099e33790b5798dd11 
+
+and this is the THIRD (third) Time I get it. 
+
+If I boot with "" knoppix testcd "" I have this screen.
+
+
+http://img560.imageshack.us/img560/3206/knxscreen.png
+
+:(
+
+"" Checking KNOPPIX/KNOPPIX...Failed! ""
+
+So the image is corrupted?!.... "
+,tintin67,2012-04-03T23:29Z,"I tried this in a virtual machine and as a live cd which both work.  Installing them though doesn't, neither to a flash drive or a hd, every time i get a disk error."
+,normanborlaug,2012-04-12T07:44Z,"The correct md5sum is: dc87b42bbd1b60099e33790b5798dd11
+
+I have tested this and it boots and installs just fine."

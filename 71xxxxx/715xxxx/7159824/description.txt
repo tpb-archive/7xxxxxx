@@ -1,0 +1,16 @@
+VirtualBox-Image für SOA-Entwicklung
+
+
+Folgende Befehle werden auf der Console erkannt:
+
+eclipse - startet Eclipse 3.7 (ggf. auf Java EE Perspektive wechseln)
+startintalio - Manuelles Starten des Intalio-Server
+stopintalio - Manuelles Stoppen des Intalio-Server
+intalio - startet den Intalio-Designer
+soapUI-4.0.1 - Startet das Tool soapUI
+loadUI-2.0.0 - Startet das Tool loadUI
+startaxis2 - Manuelles Starten des Axis2-Server (auch über Eclipse - Tomcat startbar)
+
+Alle Installationen befinden sich unter /opt. In den jeweiligen Unterverzeichnissen kann man weitere Kommandos absetzen
+
+Password für User = Admin: hbrs22

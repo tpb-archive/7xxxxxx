@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,G_host_,2012-04-28T07:34Z,Can you give some instructions on this one ?  i tried copying in exe and get an error where does the .dll go ?
+,G_host_,2012-04-28T07:37Z,"Forget it, figured it out : )"
+,unmarkedfaith,2012-04-30T22:38Z,most of the items I release are a simple copy dll into installation folder etc.  But I ALWAYS recommend that you also register the cracked dll inside the GAC so that you wont have to deal with any accidental references to GAC -vs- the .dll in install folder.

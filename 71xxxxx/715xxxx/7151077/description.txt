@@ -1,0 +1,34 @@
+Stereoscopic Player Overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A first glance...
+
+Stereoscopic Player is a versatile 3D movie player. It allows you to play stereo┬¡scopic videos and DVDs (external decoder required) and also allows you to watch live video from a capture device. Since it is based on Direct┬¡Show, it can handle almost any media format, for example AVI, MPEG, WMV, ASF and MOV. Videos can be coded in several different stereo┬¡scopic formats. Please see the feature list for supported input and output formats.
+
+
+... and a few more details
+
+Why is it necessary to use a special software for 3D movie playback? The reason is that there are a lots of different ways to watch stereoscopic content as well as different ways to store the content. In the past, it was necessary to encode a stereoscopic movie for each viewing method, for example you had to create an anaglyph file, a interlaced file for use with shutter glasses and a side-by-side for for free-viewing without glasses. Quality was often low. For example, most video codecs don't handle interlaced content well or subsample color information (reducing color resolution to quarter of original resolution), which reduces anaglyph quality significantly.
+
+The solution to above problem is creating just one file and convert it in real-time to the desired output format. The Stereoscopic Player is such a real-time conversion application. Using the player is easy: Load your stereoscopic movie, tell the player how it is encoded and finally select the desired output format (called viewing method). For your convenience, the Stereoscopic Player remembers input settings for each stereoscopic movie in its integrated video library so that you don't have to re-do all the configuration steps again and again. For the most popular 3D-DVDs and 3D video files, Stereoscopic Player can even retrieve the proper settings from a web server. If you are creating content yourself, you can ship your video files together with a Stereoscopic Metafile (*.svi), which also eliminates the need to specify the input format.
+
+For professional use, command line parameters, OLE automation and the Sony 9-pin protocol are available to automate the Stereoscopic Player. Furthermore, it can control external effects via a serial port or DMX512.
+
+
+What about 2D-3D conversion?
+
+Please note that Stereoscopic Player can not convert 2D content to 3D!  There is no real-time conversion algorithm available which works reasonably well. Computer are not smart enough to understand what's in the foreground and what's in the background yet. Since Stereoscopic Player is a high quality product, no inferior conversion algorithms were incorporated into the player. Stereoscopic Player requires real stereoscopic movies, containing both left and right view.
+
+
+Installation Instructions:
+
+   1/. Install Stereoscopic player using "StereoscopicPlayer180_en.msi"
+
+   2/. Once installation is complete, copy and overwrite "StereoPlayer.exe" 
+    supplied with torrent with the one in installation directory.
+
+And Enjoy!
+
+
+
+                                  This torrent has been brought to you by GeckoGold

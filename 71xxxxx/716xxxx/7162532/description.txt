@@ -1,0 +1,13 @@
+Visual Studio LightSwitch 2011 is a tool for developing business applications for the desktop, web, and cloud. You can extend the functionality of LightSwitch by creating extensions using Visual Studio 2010 Professional, the Visual Studio SDK, and the Visual Studio LightSwitch 2011 Extensibility Toolkit.
+
+The following are required in order to create LightSwitch extensions. You cannot create extensions using LightSwitch alone.
+
+Visual Studio 2010 SP1 (Professional, Premium, or Ultimate edition)
+
+Visual Studio 2010 SP1 SDK
+
+Visual Studio LightSwitch 2011
+
+Visual Studio LightSwitch 2011 Extensibility Toolkit
+
+In addition to these prerequisites, you should be proficient in either Visual Basic or C# and should be familiar with both Windows Presentation Foundation (WPF) and Silverlight. We also recommend that you be familiar with creating Visual Studio extensions using the Visual Studio SDK.

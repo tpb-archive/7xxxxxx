@@ -1,0 +1,49 @@
+Well, it's about darn time. Red Alert: A Path Beyond version 2.1.1 is ready to rock, the servers are being updated, and mirrors are being prepared! There are a lot of changes in this one, far more than originally planned, including support for Eyefinity and ultra-widescreen, the new Heavy and Light tanks, revised tech levels and balancing, and updates to maps. Oh, and tons of performance boosts across every facet of the game, a blessing for those with less powerful computers (those of you who have better systems can now enjoy native 16x anisotropic filtering and high-quality FXAA to rid yourselves of jaggies).
+
+---------------------------------
+Red Alert: A Path Beyond Readme
+[Excerpts, not everything would fit]
+---------------------------------
+
+---
+1.  IMPORTANT!
+---
+In order to play Red Alert: A Path Beyond, you should run the "Red Alert - A Path Beyond Launcher" 
+
+tool from the Start Menu (or, if you didn't install Start Menu shortcuts, you should run 
+
+apblauncher.exe in the main folder of the game).  There, you can adjust game options and browse for 
+
+servers, as well as view the manual and latest news about the game.  The desktop icon, if you chose 
+
+to install it, will also run the launcher.
+
+----
+4.  PERFORMANCE TWEAKS/GRAPHICAL ISSUES
+----
+If you are having performance issues, you can turn off shader options individually
+or completely by using the "options" in the launcher utility.  Shader effects are present in the 
+
+Special Effects
+pane of the utility.  If you are having strange graphical issues, try checking the "Force
+SM2 Shaders on SM3 cards" option, which will switch to an older algorithm for shaders which
+may be more compatible with your card.  If you notice that you have severe issues when looking at
+cloaked units, uncheck "Enable Refraction Effects".  If you are having performance issues in
+general, uncheck "Shaders Enabled" which will enable all shader and post-processing effects.
+This typically boosts performance by a large amount, but at the cost of graphical quality.
+High-quality shadows shouldn't need to be disabled except on very old computers that barely
+meet the minimum requirements.  If performance issues still persist, try adjusting the
+geometry and texture detail.
+
+You can find out more in the General Discussion portion of our forum at 
+ 
+http://www.apathbeyond.com/forum
+
+---
+5.  CONTACT INFO
+---
+Questions?  Comments?  Log on to http://www.apathbeyond.com/forum and sign up for an account!  We 
+
+can always use new members, and are (generally) a pretty friendly bunch. Be sure to NOT ask us to 
+
+delete your account when you sign up.

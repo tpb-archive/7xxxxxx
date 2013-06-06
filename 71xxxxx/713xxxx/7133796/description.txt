@@ -1,0 +1,103 @@
+Official Web Site:  http://www.sublimetext.com/2
+
+* See the blog post for a summary:  http://www.sublimetext.com/blog
+ /articles/sublime-text-2-build-2181
+
+Whats New:
+
+* New Icon, by The Iconfactory
+
+* File and Global settings have been combined into a single settings file
+
+* Selecting a word will highlight other occurrences. This can be
+  controlled with the match_selection setting
+
+* Reworked text rendering for improved quality
+
+* Improved automatic indentation. It now uses bracket matching to better
+  determine indentation
+
+* Added setting indent_to_bracket and smart_indent, to customize
+  automatic indentation
+
+* Auto Complete is less intrusive
+
+* Renaming a file via the side bar will rename any open files
+
+* Improved folder scanning performance on huge directory trees
+
+* Untitled files have their name set automatically from the first line of the
+ file. The can be controlled with the set_unsaved_view_name setting
+
+ * Ruby: #{} is expanded when # is entered in a string
+
+* Folder names are shown in the window title if no project is open
+
+* Folders in projects are stored with relative paths
+
+* Added Save with Encoding
+
+* Spelling errors are indicated with an underline only, the foreground
+ color of the text is no longer changed
+
+* Added no_bold and no_italic font options
+
+* Added margin setting, to control the size of the gutter
+
+* Key bindings for Goto Anything, Save, etc will work if a panel has
+  input focus
+
+* "Open all with current extension as" handles filenames without
+  extensions
+
+* Fixed an auto complete display issue
+
+* Fixed find_under_expand not setting whole_word correctly
+
+* Fixed Paste and Indent adding unwanted whitespace when pasting
+  within a line
+
+* Fixed a minor compatibility issue with .tmLanguage files
+
+* Fixed a tab dragging issue on OS X and Windows
+
+* OS X: Tweaked sub-pixel positioning to match TextEdit and Terminal. 
+
+*  The previous behavior is available via the no_round font option.
+
+* OS X: Open File and Open Folder have been combined into a single 
+
+* Open menu item
+
+* OS X: Control+Option+Left/Right will move by sub words, in the
+   same manner as Control+Left/Right
+
+* Windows: Default font is now Consolas
+
+* Windows: Improved text rendering quality when using Direct Write
+* Windows: Added support for --wait
+
+* Windows: Added support for drive letter relative paths passed on the
+   command line
+
+* Windows and Linux: Added key bindings for ctrl+shift+backspace
+ /delete
+
+* Linux: Added a workaround for a glibc bug when
+  MALLOC_CHECK_ is defined
+
+* Linux: Pango is used for font rendering, improving support for CJK
+  text
+
+* Vintage: Escape cancels current input (thanks fjl)
+
+* Vintage: Pasting over visual mode selections works as expected (thanks
+  misfo)
+
+* Plugin initialization time is reported in the console at startup
+
+System Requirements:
+
+Intel Mac, OS X.6 or greater
+
+--- PLEASE SEED ---

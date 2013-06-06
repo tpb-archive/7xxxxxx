@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,tibrusjer,2012-03-14T13:50Z,"I'm sorry, wrote the wrong build number.
+It should be 8815."
+,Karepow,2012-03-15T07:39Z,"Hey, I followed all the instructions in the ReadMe.txt from your 8610 release and I just downloaded this update, 8815 and I am still getting the message ""You have been disconnected from Battle.net"" whenever I try to login with the email and password I made. Any ideas why it's doing that?"
+,Karepow,2012-03-15T07:44Z,"Also, in the HellGateServer.exe window it says, ""[Error] [AuthenticationService]: Client (my e-mail) doesn't match required version 8610, disconnecting..""
+
+I don't know if this helps with troubleshooting the problem."
+,Karepow,2012-03-15T08:04Z,"It also says in one of the lines in the cmd window ""ignoring patch 8815"""
+,Artiscock,2012-03-15T14:16Z,"@Karepow I found solution to that problem. Instead of running HellGateServer, simply run mooege.exe it should apply the updates and work just fine as server. Game works but is very buggy. Only 2 different monsters, totally random item drops and many skills, questions etc don't work. In other words dont try this to get an idea of the gameplay.... rather it's a good way to get an idea of the controls, interface and graphics. But it's like a hollow shell as of now (got bored after 10 mins), so I'm waiting for Blizzard to fill it up with some real juice, hopefully soon."
+,tibrusjer,2012-03-15T14:39Z,"Yes, sorry for not clearify that.
+HellGateServer is outdated and now the releases should only be Mooege (mostly 'cause the HellGate team charges the person who download on their site through those ""win an ipad"" or whatever)
+"
+,Karepow,2012-03-15T19:14Z,"When I run mooege.exe I am getting the message in the cmd window ""Required patch-chain version 8815 is not satified .""
+
+Any ideas?"
+,Karepow,2012-03-15T19:22Z,"Okay scratch my last comment. I fixed that.
+
+Still getting the message ""You have been disconnected from Battle.net"" when I try to login. I'm using mooege.exe from the same folder that D3Launcher is in."
+,tibrusjer,2012-03-16T07:38Z,"Have you remembered to extract the files from ""D3 8815 Update.rar"" inside the game folder?
+
+Hmm, for some reason I've been lazy with the instructions.
+Sorry."

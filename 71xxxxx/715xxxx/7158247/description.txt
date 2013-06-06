@@ -1,0 +1,39 @@
+Please Comment! SEED! and Enjoy!
+
+Tested with Poweramp Music Player (trial) v2.0.5-build-488
+
+
+
+Description
+Powerful Music Player for Android
+
+This application unlocks Poweramp (Trial), powerful music player for Android. Please install Poweramp Music Player (Trial) application first. Unlocker removes the trial period limitation. Any version of Poweramp can be unlocked (v1.x and v2.x).
+
+Please update BOTH Unlocker and Poweramp Trial (it's the main app) if you're experiencing any issues with the license.
+
+Common Questions/Answers for Poweramp v2.x:
+
+Q. My songs are missing from folders/library.
+A. Please ensure you have all your folders with music actually checked in Poweramp Settings => Music Folders.
+Your original Android Library is not changed, nor any files deleted.
+Poweramp 2.0.1+ has Auto-find option in Settings. This will import your Android library folders into Poweramp.
+
+Poweramp library is a separate, completely independent library. When you installed Poweramp 2.0, it just got filled with the files scanned from your sd card/other flash memory, as specified in Music Folders. By default these are /music, /mp3 and Google music cache directory, or the Poweramp 1.4 previous music folders settings.
+
+
+Q. Where is Auto-advance Setting now in Poweramp 2.0
+A. It's merged with Repeat modes. Just keep pressing Repeat mode until Advance List.
+
+
+Q. Volume too low. Volume changes weirdly. Other volume issues.
+A. Try to disable Direct Volume Control in Poweramp Settings => Audio Engine => Advanced Tweaks.
+
+Poweramp 2.x uses Direct Volume Control by default on 2.3+ mid-to-high end devices. On stock ROMs this produces much better audio output. But many custom/buggy ROMs, while supporting DVC, can fail with it.
+
+
+Q. Poweramp 2.0 widget becomes white/doesn't work on phone reboot
+A. This can happen if something blocks Poweramp from starting on reboot and updating the widget - task managers, auto-start tweaking. If you use such apps/tweaks, you may need to add Poweramp (or/and WidgetPack) to exceptions list.
+
+
+Q. Can I get Poweramp v1.4 look?
+A. You can download "Poweramp Classic Skin" on Market.

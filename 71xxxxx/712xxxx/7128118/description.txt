@@ -1,0 +1,83 @@
+Arabic Phonetic Keyboard for windows 32 bit 64 bit 95, 98, 2000, XP, 7
+
+Keyboard Generator says:
+
+The package for Windows 2000, XP and NT 4.0 contains two keyboard layouts: Arabic ASDF Eastern with Arabic-Indic digists and Arabic ASDF Western with Arabic-European digits.  The package for Windows 95, 98 and ME has only one keyboard layout: Arabic ASDF, which is like Arabic ASDF Western but without Farsi yeh.
+
+Type Arabic by sound or shape:
+
+ 
+Some mappings are arbitrary but not completely:
+
+ is placed next to  because they look and sound similarly. 
+ and v are dental sounds:  is interdental and v is labiodental. 
+Alif maksura is mapped onto Shift+Y and Farsi yeh is mapped onto Shift+F.
+
+Diacritics & Tatweel
+Hold down the AltGr key (= the right Alt key) to type diacritics and tatweel:
+
+AltGr+A  > fatha 
+AltGr+I > kasra 
+AltGr+U > damma 
+AltGr+Q > fathatan 
+AltGr+E > kasratan 
+AltGr+W > dammatan 
+AltGr+O > sukun 
+AltGr+S > shadda 
+AltGr+T > tatweel 
+
+
+Punctuation
+Hold down the Shift key to type quotation marks, dashes or decimal comma:
+
+Shift+Q  > left single quote 
+Shift+W > right single quote 
+Shift+E > left double quote 
+Shift+R > right double quote 
+Shift+N > en dash 
+Shift+M > em dash 
+Shift+6 > decimal comma 
+
+
+Hold down the AltGr key (= the right Alt key) to type remapped punctuation:
+
+AltGr+,  > English comma 
+AltGr+; > English semicolon 
+AltGr+/ > English question mark 
+AltGr+ > backslash 
+
+
+Type | with Shift+AltGr+.
+
+Right-to-Left in Windows
+Windows 2000 and XP support right-to-left languages at the system level.
+
+Users of Windows 95, 98 or ME can type right-to-left in bidirectional applications such as
+
+Browsers and Email Clients 
+Internet Explorer and Outlook Express 5.01 or later 
+Mozilla 1.0 or later 
+Netscape 6.2 or later 
+Word Processors and Text Editors 
+Microsoft Word 2000 or XP 
+WordPad for Windows Millenium 
+WordPad for Windows 98 with the RichEdit 3.0 update 
+AbiWord BiDi 
+DingDang Write 2000 
+Sharmahd Computing UniPad 
+
+Tools
+I used the following applications to make the keyboard layouts, the help files, and the installer:
+
+Janko's Keyboard Generator 
+Keyboard Layout Manager  (mirror) 
+FAR 
+HTML Help Workshop 
+Inno Setup Compiler. 
+
+
+
+[color=Red]For more info: 
+http://zsigri.tripod.com/fontboard/arabic.html
+
+The keyboard creator say it will not run on windows 7, but it is wrong it is still well even in windows 7 64 bit.  :D [/color]

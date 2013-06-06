@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-04-11T12:35Z,"video shuts off @ 58 minute mark in WMC / WMP on win 7 x64.
+
+tried converting it with mkvmerge with older and current versions.. all fail with warnings and encoding is cut off at 58 minutes..
+
+tried loading it up into Avidemux to mux the streams into a new container and Avidemux crashes and shuts down while loading the video..
+
+kinda gay watching the show and having the last half hour unwatchable"
+[T],trialNerror,2012-04-12T03:30Z,"Sorry about that.
+I skipped through a couple parts but not that far into the duration.
+Usually MOMENTUM has no issues.
+I can try releasing a proper one later."
+,xpmule,2012-04-13T11:03Z,"no problem :)
+i wanted to let people know i had problems etc
+and maybe it was only me although im not a noob ;)
+A proper might be a good idea though
+i downloaded the 720p version and it worked flawlessly :) Good job on that one for sure !
+
+But i don't really want to store / archive tv shows on my hdd @ 720p because of space issues so i looked at the idea of doing my own conversion on the 720p version to match the one in this torrent but im not experienced in encoding to mp4's and i have done a million encodes to avi or mkv with AVIDEMUX but its sketchy with avc based content so i bailed on the idea and grabbed MEGui and im learning how to do that whole issue..
+Ofcourse i was wondering what tools the the scene uses i of course grabbed the updated scene rules text file already (when the change was made recently)
+
+ANyways ya lol
+a proper would save people some trouble ;)
+But wether it works or not i always apreciate the effort people make to share so thank you very much !"
+[T],trialNerror,2012-04-14T03:43Z,"I have considered converting MO's 720p to a SD x264, but I would personally prefer to get a .ts (transport stream) recording of my own to toy with - which will be on Sunday morning.  Will release a PROPER.HDTV.x264 then and later that evening will release the new episode.
+
+What scene uses and what's available to the public are two totally different types of tools.  Scene has custom written programs that put anything the public can use to shame.  I'm only P2P so I have no idea what the tools are like, only that they use CLI based operations opposed to GUI, but I have a buddy in the scene and it was mentioned the new tools they've developed would make me jizz in my jeans."
+,shootersebby,2012-05-29T17:35Z,"Dies at 00:58:00, using VLC Win7 64bit. What happened?"

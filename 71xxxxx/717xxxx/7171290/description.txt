@@ -1,0 +1,21 @@
+The telepules are images to locate places on maps. Telepules management is roughly identical to that POI. These places are:
+
+- districts,
+- Neighbourhoods
+- place names,
+- villages,
+- cities,
+- capitals.
+
+These places and cities are shown in maps TA and NQ. By default, TA and NQ only offer images of red, round, more or less large depending on the size of the place. The layer containing the bmp image to view the last as follows (sorted in descending order of images)
+
+- Frame 1 -> capital
+- Image 2 -> city whose inhabitants number is> = 1000000,
+- Image 3 -> city whose inhabitants number is between 500000 and 999999,
+- Image 4 -> city whose inhabitants number is between 100000 and 499999,
+- Image 5 -> city whose per capita is between 50000 and 99999
+- Image 6 -> city whose per capita is between 10000 and 49999,
+- Image 7 -> city whose inhabitants number is <10000,
+- Image 7 -> neighborhoods, districts, localities ...
+
+

@@ -1,0 +1,84 @@
+﻿User Type,Username,Date,Text
+[T],liluser,2012-03-28T20:18Z,"i would have added more info here but piratebay having problems with too much info added
+info added in torrent"
+,thirdcat,2012-03-28T20:57Z,You are Lillemaster.
+,TheoremW,2012-03-29T05:03Z,"Since I spent fifteen minutes scrolling through the .iso file, here's the key:
+
+MR49R-DRJXX-M6PX2-V96BF-8CKBJ"
+[T],liluser,2012-03-29T08:28Z,dont post the key as it might get blacklisted by microsoft.. the key is already inserted in  this windows
+,aleksa64,2012-03-29T08:36Z,Thanks
+[T],liluser,2012-03-29T08:53Z,"there is always one person on piratebay that tries and blacklists the only cd key thats working 100%
+will you only be pleased once its blacklisted ?"
+,NTY,2012-03-29T17:37Z,"TheoremW, there's no reason to post the key here as it is in the answer file (winnt.sif) and will be used automatically when you install by CD. However, if you're installing by hard drive then you'd run winnt32 /copysource:lang /dudisable /unattend:(winnt.sif or any name.txt)"
+,NTY,2012-03-29T18:03Z,"Have a look at: Q dot GS/14lWh
+Also: unattended. msfn. org/unattended. xp
+BTW, if you're installing by hard drive, do the following before running winnt32:
+Extract the .iso to a directory, copy+paste the OEM folder into $OEM$$1 (make a folder named $1).
+Open the I386 folder, open DOSNET.INF and add these 2 lines under [Files]
+d1,setuporg.exe
+d1,presetup.cmd
+Copy PRESETUP.CMD + SETUPORG.EXE from I386 and paste them into $OEM$$$System32"
+,NTY,2012-03-29T18:08Z,That's q[.]gs and unattended.msfn.org/unattended.xp
+,NTY,2012-03-29T18:10Z,In above steps for installing by hard drive it's $OEM$/$1 :S
+,NTY,2012-03-29T18:11Z,Sorry LOL I mean $OEM$$1 :P
+,NTY,2012-03-29T18:16Z,$OEM$$$System32 -.-
+,NTY,2012-03-29T18:18Z,BACKSLASH AFTER $OEM$
+[T],liluser,2012-03-29T19:55Z,"The $OEM$ Distribution Folders
+
+http://unattended.msfn.org/unattended.xp/view/web/18/
+
+did put address but will it let it post."
+,D255,2012-04-02T14:48Z,"damn, some stupid user's post the wins key.
+should go to school for further study"
+,D255,2012-04-02T14:51Z,"who the hell posted the wins key.
+should go to school for further study
+and also it wont takes for 15 minutes
+to find the windows key. damn"
+,meatboy987,2012-04-06T00:32Z,My windows theme is stuck on classic.  Someone please help me fix this.
+[T],liluser,2012-04-06T13:43Z,"the default theme is xp theme.
+what did u do to change it to classic theme"
+[T],liluser,2012-04-07T17:48Z,"in Quality: + / -
+
+please put reason in comment ty.."
+[V],Anacondaz,2012-04-08T06:06Z,thank you for another awesome upload mate
+[T],liluser,2012-04-11T22:23Z,who wants april 2012 version let me know
+,roy2646,2012-04-12T01:00Z,"liluser, can it be installed to a 64-bit processor? I am only curious because if a 32-bit version of xp like yours will work in 64-bit processor, why is it that there is another 64-bit version from another uploader? Did you try your your xp to install to a 64-bit machine?"
+,Mesiya,2012-04-12T03:29Z,"liluser of anyone is there version of win xp pro sp3 with all the patches & updates uptill now with upgrade & repair option.
+
+i am fed with orginal sp3 msdn version from MS requires 119 patches + updates tried auto patcher, nod 32 updates warning & used rising pc doctor.
+
+have almost all updates but too time consuming install them to different pc's
+
+Please develop a release with all patches & updates with upgrade & repair option like MS Does if possible it will make life easy and least worries."
+[T],liluser,2012-04-12T08:41Z,"@ roy2646  yes you can install on a 64bit pc this 32bit xp will run on a 64bit pc
+
+@ Mesiya  click my name and you will see all my torrents look for standard version it has no extras and nothing taken out and u have to put key yourself and upgrade & repair option works"
+,Mesiya,2012-04-12T10:18Z,"lil user can u make a version will all updates hotfixes priority optional every till now so someone install he all the patches i mean framework and all runtimes with repair & upgrade feature.
+
+i mean like microsoft made in 2008 apr intergated sp3 version with all updates till apr 2012 "
+,Mesiya,2012-04-12T10:25Z,"liluser how make this update version all updates i mean i want make a version like latest win xp pro
+
+i have an antivirus program rising antivirus it has an option to make setup maker with current latest antivirus program with latest virus database no antivirus even os maker provides that kind of option. its one click option to reassemble and repack the antivirus setup in one executable."
+[T],liluser,2012-04-12T15:53Z,"@ Mesiya i make my own silent installs aswell one exe
+antivirus i made was eset.5.0.95.0 with advanced options pre set to max + tnod 1.4.2b4 all in one exe"
+[T],liluser,2012-04-12T15:54Z,"new april 2012 version here..
+http://thepiratebay.se/torrent/7180365/Windows_Xp_Pro_Sp3_Corporate_student_edition_April_2012"
+,Mesiya,2012-04-13T14:47Z,"@ Mesiya i make my own silent installs aswell one exe
+antivirus i made was eset.5.0.95.0 with advanced options pre set to max + tnod 1.4.2b4 all in one exe
+
+1 ( Nod antivirus) can tell how made this exe.
+or provide the one you made.
+
+2 liluser how make update version all updates i mean i want make a version like latest win xp pro cd or DVD All the update complete upto date
+
+"
+,Mesiya,2012-04-13T14:51Z,"@ Mesiya i make my own silent installs aswell one exe
+antivirus i made was eset.5.0.95.0 with advanced options pre set to max + tnod 1.4.2b4 all in one exe
+
+1 ( Nod antivirus) can tell how made this exe.
+or provide the one you made.
+
+2 liluser how make update version all updates i mean i want make a version like latest win xp pro cd or DVD All the update complete upto date"
+[T],liluser,2012-04-24T19:30Z,"use SFXMaker to make silent apps.. 
+
+for complete up to date xp just add all hotfixes needed with nlite.."

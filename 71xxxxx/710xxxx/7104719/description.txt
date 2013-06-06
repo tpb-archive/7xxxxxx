@@ -1,0 +1,39 @@
+Black Book - Zwartboek (2006)  
+http://www.imdb.com/title/tt0389557
+
+Yes, thats my _second_ experiment in DVD encoding, again the smallest rip for that movie: 580 MB.
+
+Possibly interesting for you are the encoding parameters (which usually nobody disclose..):
+HandBrake-0.9.6-i686-Win_GUI,mkv,x264,filters off,keep aspects,anamorphic=none,bitrate=470,2pass+turbo,AUDIO:AAC,Dolby prologic,22.05,96
+ADVANCED:
+ref=5:deblock=-2,-1:analyse=all:me=umh:subq=5:psy_rd=0.00,0.00:direct=auto:keyint_min=23:aq-mode=2:bframes=16:qpmin=10:qpmax=51:mbtree=0
+
+Feel free to reuse and/or improve!
+Actually I cloned and improved them from YIFY torrents, which have the best quality/size rate, in my opinion.. ;)
+
+MediaInfo:
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 569 MiB
+Overall bit rate                         : 570 Kbps
+
+Video
+Format                                   : AVC
+Duration                                 : 2h 19mn
+Nominal bit rate                         : 470 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+Language                                 : Dutch
+
+Audio
+Format                                   : AAC
+Channel(s)                               : 2 channels
+Sampling rate                            : 22.05 KHz
+Language                                 : English
+
+Text
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+
+eYYe

@@ -1,0 +1,31 @@
+TinyNT is a very compact general-purpose Windows environment that can be used to browse the web without a trace on the host machine or to repair your Windows installation in the event of system failure. TinyNT, derived from Windows PE 3.1, is not designed to be used as a full-powered operating system. Instead, it is designed to be used as a system restoration or repair utility, and optionally for other tasks that require a lightweight and portable Windows environment. Note that any changes made to the Windows environment or the X: drive do not persist after shutdown.
+
+New to version 1.1: The base image was made smaller by removing or compressing unneeded DLLs. More utilities were also added to the CD image.
+
+Applications included on the CD in 7-Zip packages that you can extract to the RAM disk at runtime:
+
+- QtWeb: A simple lightweight web browser.
+- Sysinternals Autoruns: A startup program viewer/editor that can help to remove viruses that load on startup from your machine.
+- NirSoft BlueScreenView: A lightweight crash dump viewer that can help to diagnose the cause of BSODs on your machine.
+- Microsoft ImageX: The official Microsoft hard drive imaging utility that can be used to create and restore disk images from .WIM files.
+- NetUse.exe: My own utility that can be used to map network shares as a replacement for NET.EXE. Type "NetUse.exe ?" at a command prompt for details on how to use this utility.
+- NTPWEdit: A password editor for Windows NT that can easily change your user account's password in the event that you forget it.
+- Remote Desktop Connection: The standard remote desktop client found in Windows that can be used to connect to a remote server.
+- Sysinternals Process Explorer: An advanced process management utility for Windows.
+- UPX (Ultimate Packer for eXecutables): An executable packer for Windows that provides an excellect compression ratio.
+
+Third-party applications built into the TinyNT image that you can run from any command prompt:
+
+- 7-Zip: A file archiving utility that provides an excellent compression ratio. The GUI version of this program can be run from the command line with the command "7zFM.exe", while the command-line version can be ran with the command "7z.exe".
+- NirSoft NirCmd: A very compact and versatile shell scripting utility that essentially combines almost all of the functionality from normal Windows command line utilities into one.
+
+Note: Not all standard command line tools like SC.EXE are included in Windows PE. Except for NET.EXE, none of these command-line programs were removed from the image.
+
+Minimum system requirements to run TinyNT:
+
+- 256MB RAM
+- 600MHz processor
+- A monitor a resolution of at least 800x600 (TinyNT supports 640x480, 800x600, 1024x768, 1152x864, 1280x768, and 1600x1200)
+- A broadband internet connection to take advantage of networking support (not all network adapters are supported; also note that TinyNT cannot connect to wireless networks)
+
+Seeding would be appreciated. ;)

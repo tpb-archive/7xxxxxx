@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,katast,2012-03-15T15:03Z,"MEDIAINFO
+
+General
+
+Format : Matroska
+Format version : Version 2
+Overall bit rate : About 572 Kbps
+Encoded date : UTC 2012-03-09 08:18:17
+Writing application : mkvmerge v4.8.0 ('I Got The...') built on May 24 2011 03:12:58
+Writing library : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Nominal bit rate : 450 Kbps
+Width : 560 pixels
+Height : 320 pixels
+Display aspect ratio : 16:9
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.084
+Writing library : x264 core 119 r2106 07efeb4
+Default : Yes
+Forced : No
+
+Audio
+
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : HE-AACv2 / HE-AAC / LC
+Codec ID : A_AAC
+Channel(s) : 2 channels / 1 channel / 1 channel
+Channel positions : Front: L R / Front: C / Front: C
+Sampling rate : 48.0 KHz / 48.0 KHz / 24.0 KHz"

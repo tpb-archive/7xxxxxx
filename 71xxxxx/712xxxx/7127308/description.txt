@@ -1,0 +1,17 @@
+What does it do: 
+ - Detects the download links for Vista Codec Package, Windows 7 codecs, Windows 8 Codecs and x64 Components 
+ - Downloads the codec pack and/or the x64 components 
+ - Provides the original and/or stripped .msi and .mst 
+ - Can strip all undesired elements 
+ - Builds a new, smaller 7z SFX installer 
+ - Can build a dual arch installer 
+ - Can build Vista Codec Package 
+ - Checks for codec pack version 
+
+ What it doesn't do: 
+ - Does not install any toolbar or weatherbug. All junk has been stripped from the installers. 
+
+ Changelog for version 2.0.1 
+
+ - Fixed a problem obtaining the XP-Vista Codecs.msi file 
+ - Fixed Bing Bar setup was not correctly removed from XP-Vista Codec Package.

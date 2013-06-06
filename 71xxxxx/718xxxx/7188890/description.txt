@@ -1,0 +1,46 @@
+Thank you for downloading JLinux-12-4.15
+
+Installation instructions:
+=========================
+Install the .iso file to a DVD-R (it's too big for a CD-R)
+
+Or Install it on a 2GB Thumbdrive with UNetBootin:
+ 
+http://unetbootin.sourceforge.net/
+
+Features:
+========
+XBMC and Serviio (A very flexible UPnP/DLNA client and server together)
+Pre-configured BTGuard and HMA ProVPN 
+
+** BTGuard is also pre-configured in the Network Manager OpenVPN Section **
+
+Applications include: Vuze, Banshee, VLC, Chromium, Skype, much more... 
+
+Command line aliases:
+
+BTG = connect directly to a BTGuard Canadian OpenVPN Server
+HMA = connect directly to a HMA Canadian OpenVPN Server 
+
+Both are included but you will have to use your own username/passord for Pro VPN
+
+Installers right on the desktop for Libre Office and Gnome
+
+About this distro:
+
+With ISPs, Government and Media interests working (sometimes together) against the free Internet...
+This distro was put created to give real privacy back to the user.
+
+Based on Ubuntu 10.04.4 (Lucid)
+Kernel version: 2.6.32-41-generic #88-Ubuntu SMP Thu Mar 29 13:08:43 UTC 2012 i686 GNU/Linux
+ 
+This was to avoid Gnome3, Unity and to prevent this distribution from looking like a phone.
+
+Thanks, 
+
+j
+
+P.S. This version is still in testing, use at your own risk!
+
+Screenshot: 
+http://bayimg.com/kAOcPaAdb

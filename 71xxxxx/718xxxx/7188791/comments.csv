@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,chrisu19,2012-04-16T03:51Z,it has all the usa maps pois and voices
+,JBCool,2012-07-20T13:53Z,It has very Old Maps from 2009
+,jurix123,2012-08-15T17:05Z,"Good job chrisu19 :) 
+After little configuration map is working fine.
+It has maps for North America + central Europe and Middle East. 
+
+Originally map is set to work in 800x420 resolution.
+I had to configure it to work with 420x272 resolution of my GPS.
+
+To do so you have to:
+1. in sys.txt file set the resolution_dir=""480_272""
+2. in ui_igo9 subfolder duplicate the 800_480 folder and rename copy to 480_272
+3. in subfolder ui_igo9480_272 edit images and change resolution to 60% of the original size
+Enjoy! 
+
+Thanks"

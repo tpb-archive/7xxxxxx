@@ -1,0 +1,5 @@
+Sleep Cycles has been updated to v2.
+
+A bug when the "warning to sleep" alarm was set. The value of a the 24 hour 12am was not being set to 0. This has been corrected.
+Implemented save settings for times, checkboxes, warning to sleep time, etc. Settings are reloaded each time you open Sleep Cycles.
+Implemented a time picker for the "warning to sleep" alarm. This allows you to set your own warning time.

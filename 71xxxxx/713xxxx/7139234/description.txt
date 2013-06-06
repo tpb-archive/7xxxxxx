@@ -1,0 +1,36 @@
+Allmost the same procedure as max 5. Exept there's a extra file (max6.plist) in the Universal Demo Remover, that removes these files:
+
+com.Bestscopy.Inherence.plist
+com.ConalCapital.Forestay.plist
+com.CormicUSA.Techworks.plist
+com.corp.featherbrain.plist
+com.INGINGCorporation.MediaFiber.plist
+com.MicentexarEurope.Writhen.plist
+com.NetsSystemsInc.Offspring.plist
+com.raterdevelopment.serverclient.plist
+com.Turboceler.Prosit.plist
+
+
+
+Manual
+
+ 1. Close all applications
+
+ 2. Start FSeventer
+
+ 3. click play button
+   4. start max6
+   5. hit quit
+
+ 6. hit stop button in fseventer
+
+ 7. save log file
+
+ 8. open Universal Demo remover and unlock it
+   9. import FSeventer log (the log file you just made)
+   10. click remove files
+
+
+And the trial is resetted. 
+
+IKB helping InteractiveMediaDesign students	

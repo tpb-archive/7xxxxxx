@@ -1,0 +1,16 @@
+Delphi and C++ Builder components for preparing and burning images to CD and DVD optical storage media.
+Windows Windows 7, Windows Vista, Windows Server 2008 R2 and Windows Server 2008 are supported natively. Windows XP and Windows 2003 require the installation of the KB932716 update package.
+
+    uses standard Windows Image Mastering API 2
+    available for Delphi 5 - XE2 and C++ Builder 6 - XE2
+
+-----------------------
+URL: http://www.winsoft.sk/burncs.htm
+----------
+
+iNSTALLATiON :                                                           
+                                                                            
+   Unpack  to  a  directory, add directory to your delphi library path and  
+   open    and    install    the    'BurnCSP.dpk'    file    in    delphi.  
+                                                                            
+   Enjoy  

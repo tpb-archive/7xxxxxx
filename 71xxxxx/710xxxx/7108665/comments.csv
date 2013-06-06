@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,loreneth,2012-03-17T04:55Z,this is for the 32bit version of windows do you have the 64 bit version?
+,t0017,2012-03-17T05:25Z,"I have windows 7 64 bits, and it works.
+
+But you need to have the java 32 bits version."
+,loreneth,2012-03-17T06:46Z,"erm no when i download it from their official forums it works perfect only it asks for a login and paswsord when trying to play and when i try to launch this it says 
+
+Can't load IA 32-bit .dll on a AMD 64-bit platform
+i think by removing the protection it removed some version check or something cause the original works fine. and i have downloaded both the 32 and 64 bits versions of java."
+,free_thinker,2012-03-17T12:04Z,"I got the same problem but I found a way to start it:
+-go to the game folder and choose a bat to launch the game, depending on your resources
+-create a backup copy of it and open the original with notepad, you'll see at the top:
+
+set path=%path%;%ProgramFiles%Javajre7bin;%ProgramFiles(x86)%Javajre7bin;
+""%ProgramFiles%Javajre7binjava""
+
+and you should change it with
+
+set path=%path%;%ProgramFiles(x86)%Javajre7bin;
+""%ProgramFiles(x86)%Javajre7binjava""
+
+-save and run the bat you just edited and when it asks you for login and pass just click ""Log In"" and the game will start.
+
+It worked for me, let me know if it helps."
+,free_thinker,2012-03-17T12:10Z,"I got the same problem but I found a solution, here it is:
+
+http://pastebin.com/wKxgeWU9
+
+"
+,free_thinker,2012-03-17T12:22Z,"Of course you'll need Java 7 32 bit, too."
+,Taskerr,2012-03-18T17:33Z,Not working when it say press any key to continue  i press but nothing happened and i installed the redlist.
+,Taskerr,2012-03-18T18:04Z,Nvm I've found java 7 and it's working thanks
+,Alantos90,2012-03-21T22:24Z,"How do i delete the password, the key and the username on Desura from my PC? I was so excited, that i didn't read the important thing and my game is messed up. After launching it, there's character creation, then, after clicking start, there is a black screen... It doesn't respond."
+,Alantos90,2012-03-22T09:09Z,"NOPE, it's just java out of memory error, someone knows how to fix it?"
+,Yakkut,2012-03-23T14:20Z,"Whenever I try to start it through those .bat files, it just shows a prompt screen saying system couldnt find the path or something like that, then it says PAUSE and Press any key to continue. I press a key and it doesn't do anything.
+
+Whats goin on?"
+,susucoklat2,2012-03-24T15:26Z,"dear uploader wherever you may be, the project zomboid v0.2.0k has been released at 23 Mar 2012. would you please kindly upload the ""free"" version?"
+,Boxmanbr,2012-03-25T05:58Z,http://thepiratebay.se/torrent/7129681 for newer version
+,1N07,2012-04-04T22:06Z,"WTF. After installing the shortcut doesnt work, So I checked the game folder and the game exe wasnt there???
+all the game files were there but no exe..."
+,zebedieh,2012-04-24T23:18Z,i cant start it any help?
+,Pouczar,2012-05-06T23:39Z,Does this game require a really good computer because this is lagging like hell for me?

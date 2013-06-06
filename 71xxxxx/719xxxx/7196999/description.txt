@@ -1,0 +1,60 @@
+XDA Thread: 
+http://forum.xda-developers.com/showthread.php?t=1569895
+
+
+
+From Eugene's Post:
+
+I Am Not AFFILIATED with the CyanogenMOD Team.. Any Comments by me are not the views of CyanogenMOD!
+
+
+Please Read ENTIRE Post
+
+
+CyanogenMod is a free, community built, aftermarket firmware distribution of Android 2.3 (Gingerbread), which is designed to increase performance and reliability over stock Android for your device.
+
+Code:
+#include <std_disclaimer.h>
+/*
+* Your warranty is now void.
+*
+* I am not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at me for messing up your device, I will laugh at you.
+*/
+CyanogenMod is based on the Android Open Source Project with extra contributions from many people within the Android community. It can be used without any need to have any Google application installed. Linked below is a package that has come from another Android project that restore the Google parts. CyanogenMod does still include various hardware-specific code, which is also slowly being open-sourced anyway.
+
+****THIS IS A TESTING PHASE ROM THERE WILL BE ISSUES.****
+This is an Beta 5 release & Based on Slayher CM7 Build, but you should find it stable for everyday use.
+
+**Known Issues**
+~ Join Contacts don't work correctly
+~ APN Lost on Airplane Mode
+~ Render FX Not working
+~ Youtube Fast Forward is Broken
+
+INSTRUCTIONS:
+- First time flashing CM 7 to your Galaxy S2 (or coming from another ROM)?
+1. Unlock/root your device and install Clockwork Recovery via ROM Manager 
+2. Do a Nandroid backup!
+3. WIPE
+4. Install the ROM
+
+- Second time flashing
+1. Do a Factory Wipe
+2. Format System
+
+~ If Coming from ICS
+1. Use / Google DARKSIDE.SUPER.WIPE_EXT4.zip
+2. Flash DARKSIDE.SUPER.WIPE_EXT4.zip
+3. Flash CM7_373R4.zip
+
+Download:
+
+T-Mobile T989 SGS2:
+CM7_373R4.zip
+
+AT&T SkyRocket I727 SGS2:
+Coming Soon

@@ -1,0 +1,24 @@
+Introducing BlueOnyx
+
+BlueOnyx is a Linux distribution (based on CentOS 5.8 and/or Scientific Linux 6.2) which aims at delivering a turnkey server appliance for webhosting. It comes with a web based GUI interface which allows you (and your email, FTP and webhosting clients!) to manage most aspects of the server, its sites and accounts through a browser based interface. It is open source software, released under a Sun modified BSD license.
+BlueOnyx is a modernized fork of BlueQuartz  
+http://www.bluequartz.org/
+and has been developed by Solarspeed.net 
+http://www.solarspeed.net/
+and NuOnce Networks, Inc. and A lot of improvements and enhancements (compared to a regular BlueQuartz) went into BlueOnyx. Including support for Java Servlet Pages, built in web based email, phpMyAdmin for you and your webhosting clients and provisions to automatically create MySQL databases and users for each virtual site.
+
+BlueOnyx 5108R:
+This is the first release of the 64-bit version of BlueOnyx. It is based on the RHEL6 clone Scientific Linux 6.2.
+
+BlueOnyx 5107R:
+This is the most up to date and "stable" version of the 32-bit release of BlueOnyx. It is based on the RHEL6 clone Scientific Linux 6.2. However, a CentOS6 version of it will also be made available once CentOS6 has caught up on half a year of missing security patches. BlueOnyx 5107R will run fine on any RHEL6 clone, or RHEL6 itself.
+ 
+http://www.blueonyx.it/index.php?page=features 
+http://www.blueonyx.it/index.php?page=news 
+http://www.blueonyx.it/ 
+http://www.blueonyx.it/index.php?page=downloads (donations,...) 
+http://www.blueonyx.it/index.php?page=mailing-list
+
+md5sums :
+e981d024e7cadeff1f7ee39e7a732f16  BlueOnyx-5107R-SL-6.2-20120313.iso
+e6f1453fb32f84e9d9841af9033fb0e2  BlueOnyx-5108R-SL-6.2-20120313.iso

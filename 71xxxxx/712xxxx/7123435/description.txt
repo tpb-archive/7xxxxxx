@@ -1,0 +1,34 @@
+NEW UPDATE (22-March-2012)
+
+Is a colletion of cracks/fixes released till date for NOD 32 Antivirus and ESET Smart Security (x86/x64).
+Works in Nod32 v2.x & ESS-EAV 3.0/4.x/5.x
+
+Added updates:
+
+* TNOD User & Password Finder 1.4.2 beta3 (x86/x64)
+* NodLuna 1.2r (x86/x64)
+* NOD32 Update Viewer 5.00.1 (x86/x64)
+
+
+Rest of programs:
+
+* NodLogin 10.0.6 (x86/x64)
+* MinodLogin 3.10.0.1 (x86/x64)
+* LogANod 4.1c (x86)
+* Trial Resets (ESET PureFix 2.03 - Box & Mara Fix 1.5)
+* NodDownload 1.0 beta (x86/x64)
+* Nod Key Basic 1.0 beta (x86/x64)
+* NOD Generador 8.0.1 (x86/x64)
+* PassNOd32 v0.0.0.0.5
+* MinodServer 1.4.0.1 (x86/x64)
+
+WARNING:
+
+* ESET can detect these utilities as a false virus.
+
+Add into exclusions, the paths:
+
+C:Program FilesESET*.*
+C:Program FilesUlisesSoft*.*
+C:Program FilesESETUlisess Seguridad*.*
+

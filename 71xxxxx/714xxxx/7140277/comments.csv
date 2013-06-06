@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+,fumo7,2012-03-29T02:41Z,"Hi just wanted to say that I enjoy your work! Nice size/quality balance. btw: have you considered using AAC instead of AC3? It certainly is more efficient than AC3, the only drawback may be some compatibility issues?"
+[T],CODYBOSS1969,2012-03-29T06:22Z,"@fumo7:
+
+This very good balance is partly obtained using AC3 sound [for this one on video+audio encoding the final audio stream bit rate do not depend on the final video stream bit rate ; on the other hand encoding H264+AAC  smaller size= smaller size for both of them]
+
+But partly you are right. Partly ..I need this tipe of encoding!
+
+Some comments in here: 
+
+http://askville.amazon.com/AAC-soundtrack-sound-AC3-DTS-Dolby-Pro-Logic-II-surround-speakers-format/AnswerViewer.do?requestId=2846960"
+[T],CODYBOSS1969,2012-03-29T06:36Z,"....""on the other hand encoding H264+AAC smaller size= smaller size for both of them""
+
+....and lower bitrates !!!
+
+Conclusion:
+-------------
+
+Really low AAC 5.1 produces significantly lower quality sound than high bitrate AC3 5.1 [wich I can obtain constantly! I go for 448 kbps on AC3 5.1 nothing less ]"
+,abhikrit,2012-03-29T06:54Z,"hey cody, please do see my comments in your previous UPLOAD. "
+,fumo7,2012-03-29T09:42Z,"@CODY
+thx for answering
+I was just saying that if you would encode to ~448kbit AAC the quality would be even better. And At 336-384 AAC would sound about the same as 448 AC3. So you can save like 100kbit/s for free which doesn't sound like a lot but gives ~70MB less for average length movie."
+,abhikrit,2012-03-29T22:40Z,"ac3 does sound better than aac. even if aac reduces the size..it also reduces the quality to some extent.
+
+
+@cody..
+There's a new ALTERNATIVE CUT for THE TOWN... its a fresh bluray.. please rip it if you can.. 
+
+http://thepiratebay.se/torrent/7142260/The.Town.ALTERNATE.CUT.2010.720p.BluRay.x264-H_%5BPublicHD%5D"
+,fumo7,2012-03-30T03:32Z,"@abhikrit - lol no it doesn't
+you probably have no idea how encoding works so I don't want to waste my time explaining. but at the same bitrate AAC sounds better because it's newer and better codec."
+,abhikrit,2012-03-30T06:43Z,"^^ dude, dont tell me you know better. i WAS an encoder myself. AAC is not better than ac3 and dts. AAC is compressed audio tech. anyway, will say the same, wont waste my time explaining things to you. "
+,fumo7,2012-03-30T12:30Z,"^^ dude, dont tell me you know better. i AM an encoder myself.
+AC3 is lossy compression, DTS too - DTS-HD is compressed but lossless.
+This AC3 track in CODY's rip isn't the original source like in DVDrips. He does those rips from HD sources with DTS 1500kbps audio (which is core extracted from DTS-HD blu-ray discs). So if you are encoding to another codec to save space why not use the best one?
+About AC3 from MeWiki ""Compared to other lossy codecs however, it is quite inefficient and space-consuming."" and AAC ""...probably the best overall compared to any other codec. """
+[T],CODYBOSS1969,2012-03-30T23:28Z,"@fumo7:
+
+The space consuming and inneficient AC3 gives me some liberty [free-will] in encoding: vbr mp4 goes with vbr AAC and..the lower bitrate you go with video the same you have to do with audio...[and you have to match the proper range of kbps for audio for encoding-otherwise it won't go- unless you encode separately the audio stream and mux video+audio finally] Encoding with AC3 gives me far less headaches, good audio quality, good audio/video balance....and so on
+
+I think this is the reason for ... the wise guys gives us from some time direct encoding possibility for AC3 sound stream in mp4 container. It is a choice matter .. I don't think it's an involution...
+
+An opinion.... not from a professional!
+
+Cheers for both of you :
+
+fumo7 and abhikrit !!"
+,fumo7,2012-03-31T02:34Z,"sure CODY you do what you like, it was a question or a friendly advice.
+I was just arguing with abhikrit because he started (and was wrong) ;-p
+
+btw. first time I hear something about matching video and audio bitrate. don't really understand how is that necessary for anything (except maybe streaming). I personally like to use StaxRip simple to use but you can set ALL advanced options you need. And muxing and demuxing is done automatically so it isn't any extra work. also it can use latest r2184 build of x264 (you just need to replace exe in the right folder)."
+[T],CODYBOSS1969,2012-04-03T09:11Z,"@fumo7:
+
+StaxRip looks great like a front-end application for this purpose.
+
+Maybe I'll try sometime. I'll stick for now with one of the free ...but also complete front-end apps disqualified in some guides for StaxRip.
+
+Cheers."
+,disimagery2,2012-06-01T05:52Z,which sound format would sound best on my googlaphonic system?

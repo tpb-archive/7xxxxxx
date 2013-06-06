@@ -1,0 +1,44 @@
+Fanny and Alexander - Fanny och Alexander (1982) 
+http://www.imdb.com/title/tt0083922
+
+My _third_ experiment in encoding,here the source,if you need more subtitles please refer to it:
+ 
+http://thepiratebay.se/torrent/6917724/Fanny_och_Alexander_%281982%29_Xvid_720p_HD_multisubs_and_4.2GB_
+
+The encoding parameters:
+HandBrake-0.9.6-i686-Win_GUI,mkv,x264,size 720x400,keep aspect,anamorphic=none,filters off,bitrate=450,2pass+turbo,AUDIO:AAC,Dolby prologic,22.05,96
+ADVANCED:
+ref=5:deblock=-2,-1:analyse=all:me=umh:subq=5:psy_rd=0.00,0.00:direct=auto:keyint_min=23:aq-mode=2:bframes=16:qpmin=10:qpmax=51:mbtree=0
+
+Still the same as the last 2 encodings,please feel free to reuse and/or improve!
+
+MediaInfo:
+Format                                   : Matroska
+File size                                : 721 MiB
+Duration                                 : 3h 8mn
+Overall bit rate                         : 534 Kbps
+
+Video
+Format                                   : AVC
+Codec ID                                 : V_MPEG4/ISO/AVC
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Language                                 : Swedish
+
+Audio
+Format                                   : AAC
+Codec ID                                 : A_AAC
+Channel(s)                               : 1 channel
+Channel positions                        : Front: C
+Sampling rate                            : 22.05 KHz
+
+Text
+Format                                   : UTF-8
+Language                                 : English
+
+..long live OUR information age!
+..long live OUR information freedom!
+..long live OUR TPB!
+
+eYYe

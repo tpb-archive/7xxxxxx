@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,krankkase,2012-03-27T02:05Z,"The crack doesn't work. It does exactly the same thing as the 'repack' one on Demonoid. My DAW (Mixcraft) is prevented from opening and a dialogue appears saying:
+""The program can't start because WavesLib_9.0_Win32.dll is missing from your computer. Try reinstalling the program to fix this problem.""
+
+However, WavesLib_9.0_Win32.dll is actually on my computer, and it's in C:Program Files (x86)Waves.
+
+I'm using Win7 (64-bit).
+
+Is anyone else getting this?"
+,waves_user,2012-03-27T08:16Z,"Worked fine for me with windows 7 pro 64-bit, had old waves v8 from team air uninstalled deleted registry from instructions downloaded the offline installer from waves.com and ran crack. works flawless"
+,waves_user,2012-03-27T08:37Z,"krankkase
+Try my method, downloading the offline waves v9 installer from the website (or just use the same install since its already there) and just run only the crack from this torrent, delete all old and new waves registries (follow the instructions txt. included  for directory) and do a clean install of it, if that doesn't work try running as admin. install only the mercury and SSL collection.after running the crack the pop up window asks ""choose the installation directory of vst2 32bit plugin"" put it in the waves folder in the 64-bit directory, the window may pop up twice for 64-bit OS, install all of them to the waves folder, Thats how I got it working for a legit copy of pro tools 10, hope that helps"
+,westcoastst,2012-03-29T16:18Z,Works perfectly. No Issues. Thanks for the great upload!!! ; )
+,middle_c,2012-03-31T22:27Z,"@waves_user - i followed your instructions and it did install, however when i open a program i am told no licenses are found. any advice?"
+,waves_user,2012-04-01T09:46Z,"@middle_c
+well I am assuming you did run the crack afterward, and you still get that error message. did you do both methods (using the install included and downloading the offline installer from waves.com to troubleshoot)? when you run the crack, during the install a window should pop up, are you a 32-bit or 64-bit user because that could make a difference. as i stated before make sure you delete the registry file and in your case ALL of waves registries including v9, just to be on the safe side, and re-install, run crack pop up window choose waves folder,c/program files/waves or c/program files(86x)/waves, just a reminder install only mercury and ssl,crack will install licenses for these open DAW and see if that fixes the problem, walk me through the steps you took,so i have a better idea of what might have gone wrong"
+,middle_c,2012-04-02T21:41Z,"@waves_user  - i actually ran it accprding to ur EXACT example... deleted the registry keys 1st, then ran the offline installer with ONLY mercury and ssl 4000 selected, then ran the crack. i tried it with the recommended folder paths, THEN used the folder path u suggested. got the ""team assign"" message at the end. then i opened up wavelab 6, and thats when i get the message from waves license center saying there are no licenses, and it gives me two options: rescan or skip... o_O"
+,middle_c,2012-04-02T21:43Z,also i didn't get a pop up asking if i was a 32 or 64 bit user in any of the 5 installs i ran...
+,waves_user,2012-04-03T07:48Z,"@ middle_c
+well there is no pop up window ""asking"" if your a 32 or 64-bit, its the widow where you choose the folder path when you run the crack, is wavelab 6 the only DAW or do you use others? check the registry after the crack install, I'm thinking its a wavelab problem or the, is this the only waves version that gives you issues? what about v8?"
+,middle_c,2012-04-03T19:07Z,"@waves user - i decided to download v9 to my laptop 1st to test it out, on my desktop i run cubase 5 and i didn't want to wipe waves off w/o knowing if this was real! lol, previously i had v8 on my laptop and yes it worked perfectly fine... thinking i might install cubase on my laptop and see if it works with cubase, because that's the program i would use it with more than wavelab..."
+,waves_user,2012-04-04T08:17Z,"im also thinking it could be the internet, i don't use a connection on my workstation, just strictly pro tools, i have a laptop for that so, maybe that could also be an issue, v9 see's license center and communicates to the plug-ins that there is no valid registered user, did you try it without your internet connected?"
+,middle_c,2012-04-04T10:24Z,"i just did a fresh install while disconnected from the net... same thing, waves license center does not detect any licenses! =("
+,middle_c,2012-04-06T23:46Z,"i guess it was just a wavelab 6 problem, when i installed it on my desktop, where i run my saw, it worked! thanks for your help @waves_user!"
+,timtimtatious,2012-04-07T05:14Z,Why only mercrury and ssl 4000?
+,waves_user,2012-04-07T07:47Z,"@middle_c
+glad you got your DAW rig up and running"
+,waves_user,2012-04-07T07:50Z,"@timtimtatious
+that makes the complete Waves collection all plug-in's are included in mercury including Inpahes, whats not included is the ssl collection, so check those to make the full install"
+,middle_c,2012-04-11T19:04Z,"@waves_user
+did u get an email this morning regarding the new NLS Summing Plugin? Any chance of a crack being available for it?"
+,waves_user,2012-04-12T08:28Z,"@middle_c
+yeah i did, which looks like a really cool new add-on  modeled after the SSL and two other consoles, waves keeps putting out new plug-ins by the bundle..."
+,waves_user,2012-04-12T08:29Z,"@middle_c
+...but unfortunately I just learned yesterday that team assign has ""retired"" There last release was waves v9 repack(which fixed the problem of this release on TPB which does not include The Kings Microphone by abbey roads and waves tune lite and guitar solo)..."
+,waves_user,2012-04-12T08:30Z,"...in the info it stated that they decided to resign as a team, i don't know if its true or a joke, so only time will tell. I'm looking online but I highly doubt we will see a crack for it for a few days, since one of the internets best teams has called it quits (if its true) we have to wait and see if and old crack team will make a come back(maybe team air?) or if a new team will make a debut, if i do find something i will try to post here"
+,waves_user,2012-04-12T08:31Z,"had a hard time posting one giant comment so i had to break it into parts, bummer"
+,middle_c,2012-04-13T16:55Z,"@waves_user - is there a way to friend each other here on TPB, so we can stay in touch?"
+,waves_user,2012-04-14T09:39Z,"@middle_c
+well, not that i know of, im also on demonoid
+under a different name, we can keep in touch there as well"
+,waves_user,2012-04-17T07:51Z,"NLS Plug-Ins are out
+http://thepiratebay.se/torrent/7191699/Waves_v9_Complete_With_NLS_Plugins"
+,audionut5000,2012-04-18T21:22Z,is vocal/bass rider included in this???
+,audionut5000,2012-04-18T21:23Z,Is Vocal/Bass Rider included in this???
+,waves_user,2012-04-19T05:09Z,"@audionut5000
+yes it is, but its missing the kings microphone, download the repack it also includes the new NLS plug-ins
+
+http://thepiratebay.se/torrent/7191699/Waves_v9_Complete_With_NLS_Plugins"

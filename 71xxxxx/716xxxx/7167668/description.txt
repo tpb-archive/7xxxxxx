@@ -1,0 +1,53 @@
+Official Web Site:  http://www.eigenlogik.com/entropy/
+
+Entropy is a versatile and easy to use archiver capable of creating, modifying and extracting many archive formats.allows you create, modify and extract popular archive formats like zip, 7z and tar.
+
+A versatile tool, Entropy allows you to :
+
+* Extract an entire archive, or individual files within it.
+
+* View contents of an archive instantly without extracting it.
+
+* Create new archives ( including multi-volume split archives )
+
+* Modify existing archives
+
+* Secure your archives using AES-256 encryption.
+
+* Search within archives.
+
+* Filter out unnecessary files ( like .DS_Store ).
+
+Whats New:
+
+* Package-folders are now atomically extracted
+
+* Cumulative folder sizes are now displayed
+
+* A more robust auto-quit implementation
+
+* Improved size heuristics for solid archives
+
+* Write permission issues are now preemptively detected
+
+* Improved handling of multi-part archives
+
+* Support for fullscreen mode on Lion
+
+Bug fixes:
+
+* Fixed an issue that caused Entropy to crash when extracting certain sit
+  files
+
+* Fixed a potential out-of-bounds access when dealing with raw disk
+  images
+
+* Textboxes are now properly auto-focused
+
+System Requirements:
+
+Intel Mac, OS X.6 or greater
+
+--- PLEASE SEED ---
+
+

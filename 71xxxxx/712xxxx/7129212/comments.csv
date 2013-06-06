@@ -1,0 +1,58 @@
+﻿User Type,Username,Date,Text
+,garycabrera,2012-03-26T18:20Z,Where are the patched files?
+,thewongg,2012-04-01T01:25Z,"I have seen these work on Odysseys, Pilots, Ridgelines and '07 and older accords, but can someone CONFIRM it works on a 2008-2012 ACCORD?
+
+I have yet to see any work on the newer accords, even after changing the 2 files.
+
+Thanks"
+,thewongg,2012-04-01T01:37Z,"P.S.  I have burnt this using imgburn and nero, both at 2.4x and 1x on verbatim dvd+r dl, booktyped to dvd-rom.  None working on '08 or '09 accord yet.... looking for confirmation on newer accords.  Thanks."
+,slapsh0t,2012-04-01T19:07Z,Are the patched files included in the ISO?  I can't seem to find them.
+,imperialdesi,2012-04-04T06:06Z,Where are the patches?
+,Sprite23,2012-04-06T06:45Z,Worked for my 08 TL-S
+,aquemini001,2012-04-07T03:59Z,Could someone PLEASE explain which files were replaced with which within the downloaded torrent!
+,Sprite23,2012-04-08T22:29Z,"The patch files are here, they are hosted on deposit files
+
+files/r00y1bnnv
+
+If you can't figure that one out, too bad!"
+,bathy,2012-04-09T07:26Z,Confirmed it works with my 2005 MDX
+,bathy,2012-04-09T07:27Z,Confirmed it works!
+,danehowser1999,2012-04-13T21:41Z,"Worked fine on my '07 TL-S.  I hate that you have one .rar file containing multiple .rar files containing an iso, and that the patched .bin files are separate.  If I had the bandwidth I'd upload a torrent with an already patched iso in a single .rar .
+After extracting the iso from the rar files I opened it in ultra-iso and replaced the 2 bin files with the patched ones downloaded from deposit files and saved as a new iso file.  Then burned using Nero at 4x."
+,danehowser1999,2012-04-13T21:43Z,"Worked fine on my '07 TL-S, upgraded from 4.6.2.  I hate that you have one .rar file containing multiple .rar files containing an iso, and that the patched .bin files are separate.  If I had the bandwidth I'd upload a torrent with an already patched iso in a single .rar .
+After extracting the iso from the rar files I opened it in ultra-iso and replaced the 2 bin files with the patched ones downloaded from deposit files and saved as a new iso file.  Then burned using Nero at 4x."
+,artig85,2012-04-15T09:18Z,"deposit files???
+"
+,danehowser1999,2012-04-16T23:31Z,The files you need to overwrite those in the .iso are hosted at a site called depositfiles which wasn't mentioned by url to keep them from finding/banning the download.  Go to www.{thatname}.com and then to /files/r00y1bnnv to get the download.
+,shaunep,2012-04-18T23:47Z,Why is this torrent only 4.1 GB and the torrent for last years DVD 7.2 GB? Any ideas?
+,socalpapi16,2012-04-27T20:48Z,Works on 2007 Honda Ridgeline. Very simple setup.
+,danehowser1999,2012-05-14T03:00Z,"Forgot to add, also worked with my 2007 MDX."
+,Sigma5,2012-06-01T01:56Z,"Thanks to danehowser1999's info, I was able to get this to work in an RDX! I've tried many times with other 4.xx torrents and failed.  So to the guy asking about the 2008 Accord, this will probably work for you to.  You need to merge in the hacked .BIN files.  I used cheapo Memorex DVD-DL.  Here's the exact steps I did:
+
+1. Unrar the files to get the 4.A2 ISO.  Don't extract the ISO.  Download the hacked .BIN files from depositfiles.  Extract these somewhere.
+2. Download and install UltraISO.  Using UltraISO, open the 4.A2 ISO.  Drag the two .BIN files into the UltraISO window and confirm that you want to overwrite the existing files.
+3. Save the new ISO file with a different name (eg. B120AS-hacked.ISO) This could take awhile depending on the speed of your computer.
+4. Download and install ImgBurn.  Using ImgBurn, choose B120AS-hacked.ISO to burn to disk.  Before burning to a DVD-DL disk, choose the option in ImgBurn to change the BookType to DVD-ROM.  The BookType may be unnessary but it's what I did.  Burn the disk at a slow speed (I used 2.4x) with verification.  If you see errors in the ImgBurn log, you may want to burn another disk.
+5. That's it.  Pop the disk into your car and it should download automatically.
+
+Thanks to sutekidane for upping this and for the hacked files!"
+,atel97,2012-06-17T20:04Z,tried and no luck :(  Anyone having this worked on 09 MDX?
+,Arioch3d,2012-06-26T21:12Z,"Worked like a champ following Sigma5's process.  2006 Ridgeline.
+
+Thanks for taking the time to post the image and the process.  Much appreciated."
+,impactz2012,2012-07-06T00:19Z,"can someone please help. i have a mac. i open the torrent once completed with zipeg (zip,far extractor for mac). i see 44 parts of the B120SA2. how can i find the iso files. each part when clicked is an .iso."
+,zooness,2012-07-28T22:33Z,"this did not work on my 2009 mdx. fallowed steps exactly, used kodak DL disc and i get a rear error. "
+,0101ll000,2012-08-18T22:17Z,"Thank you sutekidane.  Works for '06 Accord.  Does NOT work for '09 Pilot.
+
+Accord gave a ""contact service"" error, to which I reset the Navi system - then selected ""download.""  It works now.
+
+Not so lucky on the Pilot.  Had to revert back to an old DVD with '08 data.  Bummer.  I'll try the ""patched"" version next for this one.
+
+info: dB ver is 4.A2, sw ver is 2.11.00"
+,0101ll000,2012-08-19T22:15Z,"There is a ""patched"" version of this as well.  I had the same results - worked on '06 not in the '09.  I verified bitset (dvd-rom) on the recorded dvd-dl and still no joy.  Anyone have success on a late model accord/pilot?"
+,langle2007,2012-09-05T23:45Z,"Following Sigma5's process.Worked fine on my '07 Acura TL, upgraded from 4.5.5. Much appreciated."
+,0101ll000,2012-09-11T17:22Z,"@impactz2012, have you rc'vd help or have u figured ur issue out?  This is late response.
+
+? for @anyone?  Have anyone that has non-touch screen gotten this to work?"
+,Nutsy79764434,2012-09-14T14:02Z,Was working fine until I got out of Ontario..then it shut down saying destination not found out of range.
+,tsx6spd,2012-09-25T01:44Z,Worked Fine for My 2006 Acura TSX!

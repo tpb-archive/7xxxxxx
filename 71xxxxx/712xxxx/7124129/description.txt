@@ -1,0 +1,57 @@
+DVD ripped to mkv, and stereo pcm audio formatted via DTS-MA.
+
+
+
+
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 1.50 GiB
+Duration                       : 1h 0mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 3 565 Kbps
+Encoded date                   : UTC 2012-01-31 16:30:01
+Writing application            : mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10
+Writing library                : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L2.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 0mn
+Bit rate mode                  : Variable
+Bit rate                       : 1 936 Kbps
+Maximum bit rate               : 40.0 Mbps
+Width                          : 512 pixels
+Height                         : 384 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 25.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.394
+Stream size                    : 834 MiB (54%)
+Writing library                : x264 core 119
+
+
+Audio
+ID                             : 2
+Format                         : DTS
+Format/Info                    : Digital Theater Systems
+Format profile                 : MA / Core
+Codec ID                       : A_DTS
+Duration                       : 1h 0mn
+Bit rate mode                  : Variable
+Bit rate                       : 1 558 Kbps / 1 510 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 24 bits
+Compression mode               : Lossless / Lossy
+Default                        : Yes
+Forced                         : No
+

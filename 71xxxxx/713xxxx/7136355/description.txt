@@ -1,0 +1,22 @@
+Sorry for not seeding my previous torrent. My pc broke down. But hope this can make up for it. This one works on vista and 7. Just extract the files in c: and run the game in win95 mode.
+
+If u dont want the game in c: you will have to edit the corsairs.ini file. 
+
+[PATHS]
+PATHROOT=		c:CORSAIRS
+PATHDATA=		c:CORSAIRSDATA
+PATHSAVE=		c:CORSAIRSBOOK
+PATHCDROM=		D:
+PATHBOOK=		c:CORSAIRSBOOK
+PATHSOUND=		c:CORSAIRSSOUND
+
+Just edit were u want the game installed.
+
+ex :
+[PATHS]
+PATHROOT=		d:CORSAIRS
+PATHDATA=		d:CORSAIRSDATA
+PATHSAVE=		d:CORSAIRSBOOK
+PATHCDROM=		E:
+PATHBOOK=		d:CORSAIRSBOOK
+PATHSOUND=		d:CORSAIRSSOUND

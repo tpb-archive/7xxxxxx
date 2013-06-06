@@ -1,0 +1,4 @@
+Microsoft Robotics Developer Studio (Microsoft RDS, MRDS) is a Windows-based environment for robot control and simulation. It is aimed at academic, hobbyist, and commercial developers and handles a wide variety of robot hardware.
+ RDS is based on CCR (Concurrency and Coordination Runtime): a .NET-based concurrent library implementation for managing asynchronous parallel tasks. This technique involves using message-passing and a lightweight services-oriented runtime, DSS (Decentralized Software Services), which allows the orchestration of multiple services to achieve complex behaviors.
+ Features include: a visual programming tool, Microsoft Visual Programming Language for creating and debugging robot applications, web-based and windows-based interfaces, 3D simulation (including hardware acceleration), easy access to a robot's sensors and actuators. The primary programming language is C#.
+ 

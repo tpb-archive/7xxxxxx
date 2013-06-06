@@ -1,0 +1,68 @@
+
+┬║ Description ┬║
+
+
+WinRAR is an archiving utility that completely supports RAR and ZIP archives and is able
+to unpack CAB, ARJ, LZH, TAR, GZ, ACE, UUE, BZ2, JAR, ISO, 7Z, Z archives. It
+consistently makes smaller archives than the competition, saving disk space and
+transmission costs.
+
+WinRAR offers a graphic interactive interface utilizing mouse and menus as well as the
+command line interface. WinRAR is easier to use than many other archivers with the
+inclusion of a special "Wizard" mode which allows instant access to the basic
+archiving functions through a simple question and answer procedure.
+
+WinRAR offers you the benefit of industry strength archive encryption using AES
+(Advanced Encryption Standard) with a key of 128 bits. It supports files and archives
+up to 8,589 billion gigabytes in size. It also offers the ability to create
+selfextracting and multivolume archives. With recovery record and recovery volumes,
+you can reconstruct even physically damaged archives.
+
+--------------------------------------------------------------------------------------
+
+┬║ Technical ┬║
+
+Title: WinRAR 4.10 Beta 1 (32-bit)
+Filename: wrar41b1.exe
+File size: 1.43MB (1,504,586 bytes)
+Requirements: Windows 9x / 2000 / XP / 2003 / Vista / Windows7
+Languages: en-US
+License: Shareware
+Date added: October 4, 20111
+---------------------------------------------------------------------------------------
+
+Title: WinRAR 4.10 Beta 1 (64-bit)
+Filename: winrar-x64-41b1.exe
+File size: 1.56MB (1,634,173 bytes)
+Requirements: Windows XP64 / Vista64 / Windows7 64
+Languages: en-US
+License: Shareware
+Date added: October 4, 2011
+
+
+┬║ log. ┬║
+
+* WinRAR can create ZIP archives of practically any size.
+- 2 GB archive size and 65535 file number ZIP limitations of previous WinRAR versions
+are not valid anymore.
+* WinRAR can create multivolume ZIP archives, which are also known as split ZIP files.
+- ZIP volumes have names like 'volname.zip', 'volname.z01', 'volname.z02'.
+- Use a volume with ".zip" file extension in all archive processing operations
+like starting extraction or opening an archive.
+- Unlike RAR volumes, ZIP volumes cannot be self-extracting.
+- WinRAR needs to have access to all ZIP volumes of multivolume file set at the
+same time, when creating or unpacking them. So it is impossible to create or unpack
+ZIP volumes on removable disks, one volume per disk. You need to create them all in
+the same folder.
+* Added the high precision file time support in ZIP archives.
+- WinRAR can store and extract modification, creation and last access file time in
+ZIP archives with 100 nanosecond precision.
+- You need to set "High precision modification time" option in "Time" part of
+archiving dialog to store all 3 times in archive.
+- Set appropriate "File time" options in "Advanced" part of extraction dialog to
+choose times to extract.
+* Added support for Unicode names stored in ZIP extra field data.
+- Different ZIP tools store Unicode names either in file header or in ZIP extra
+field and now WinRAR can correctly process both types of Unicode names.
+* "Synchronize archive contents" option and -as command line switch are supported
+in ZIP format.

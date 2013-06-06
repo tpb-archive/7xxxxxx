@@ -1,0 +1,53 @@
+Vidéo : x264
+Audio : AAC 5.1
+
+Général
+Format                           : MPEG-4
+Profil du format                 : Base Media
+Identifiant du codec             : isom
+Taille du fichier                : 1,57 Gio
+Durée                            : 2h 38mn
+Débit global moyen               : 1 424 Kbps
+Date d'encodage                  : UTC 2012-03-11 11:21:34
+Date de marquage                 : UTC 2012-03-11 11:21:34
+
+Vidéo
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Profil du format                 : High@L4.0
+Paramètres du format, CABAC      : Oui
+Paramètres du format, RefFrames  : 5 images
+Identifiant du codec             : avc1
+Identifiant du codec/Info        : Advanced Video Coding
+Durée                            : 2h 38mn
+Type de débit                    : Variable
+Débit                            : 1 200 Kbps
+Débit maximum                    : 8 017 Kbps
+Largeur                          : 1 280 pixels
+Hauteur                          : 536 pixels
+Format à l'écran                 : 2.400
+Type d'images/s                  : Constant
+Images par seconde               : 23,976 Im/s
+Résolution                       : 24 bits
+Colorimétrie                     : 4:2:0
+Type d'image                     : Progressif
+Bits/(Pixel*Image)               : 0.073
+Taille du flux                   : 1,32 Gio (84%)
+Bibliothèque utilisée            : x264 core 122 r2183 c522ad1
+
+Audio
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Version du format                : Version 4
+Profil du format                 : LC
+Paramètres du format, SBR        : Non
+Identifiant du codec             : 40
+Durée                            : 2h 38mn
+Type de débit                    : Variable
+Débit                            : 221 Kbps
+Débit maximum                    : 299 Kbps
+Canaux                           : 6 canaux
+Position des cannaux             : Front: L C R, Rear: L R, LFE
+Echantillonnage                  : 48,0 KHz
+Résolution                       : 16 bits
+Taille du flux                   : 250 Mio (16%)

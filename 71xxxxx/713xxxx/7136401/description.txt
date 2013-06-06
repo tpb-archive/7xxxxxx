@@ -1,0 +1,22 @@
+You can either download the torrent or just read the instructions here:
+
+
+
+These instructions are for installing Komplete from this website: 
+http://thepiratebay.se/torrent/4248183/Native.Instruments.Komplete.5.VSTi.DXi.RTAS.AU.HYBRiD-DYNAMiCS
+
+
+Here are the instrucions......
+@Robjton (or anyone else having trouble installing the torrent)......To install program, first you need an ISO mounting program such as PowerISO or MagicISO. Then download the torrent. After torrent is downloaded follow these steps....(For Winows xp)
+1.Go to place where torrents are downloaded (usually in documents) and click on the file for komplete.
+2.Click on folder for disk1, it will be called Native.Instruments.Komplete.5.VSTi.DXI.RTAS.AU.Hybrid.DVDR.D01-Dynamics, it will open a folder containing several RAR files, click on the first one and it will open another window that contains the ISO file and the Updates folder. Click on the ISO file and it will extract it and open your ISO program.
+3)When the ISO program is opened, locate mount on the program, and click mount image to drive(whatever letter it says, ex:[F:] or [H:] or [I:]) 
+4)Then, this is the tricky part,(At least for me it was), you need to locate the ISO file within your computer, i found mine in C:Documents and SettingsCodyLocal SettingsTemp(Cody being my user name)NOTE:to be able to view your local settings you need to enable Show hidden files... to do this go to My Computer then click Tools in the menu bar then click Folder Options then go to the View tab then locate Show hidden files and folders and enable showing them...The folder your looking for in Temp is called something like Rar$DIa0.075( the number varies for each RAR file) to locate hover mouse over the folder and look for file called dyn-nik5di.iso
+5) Once the file is located, click on the file and it will mount the ISO. a window should open that contains the files within the ISO(If not, then go to my computer and look for the drive under the  Devices with Removable Storage area) the drive should be called something like Komplete5(H:)click on it and it will open the drives contents.
+6) I recommend clicking on the Komplete5.exe and not the Kompletesetup.exe, because the kompletesetup.exe will basically just extract the komplete.exe file so its alot easier to just click on the Komplete.exe file
+7)Once the setup starts, configure it how you want it and then it will install komplete on your computer. BUT it will not install the Libraries...
+8) To install the Libraries, you need to follow steps 1-5 except find the files for the current folder you clicked on such as disk2 or whatever.
+IMPORTANT: Just installing this program will not activate ANY of the programs.....to activate the programs you need to update them... to update them go back to the first file called:Native.Instruments.Komplete.5.VSTi.DXI.RTAS.AU.Hybrid.DVDR.D01-Dynamics, and open the updates folder then run all the updates for the programs.....Then your programs will be updated.
+For the latest version on massive (Massive v:1.1.5) click this link...http://thepiratebay.se/torrent/6237375
+For the latest version of Reaktor (Reaktor v:5.6.1) go
+For a program for Reaktor called Razor(A very awesome program!!!) go to.......http://thepiratebay.se/torrent/6851102

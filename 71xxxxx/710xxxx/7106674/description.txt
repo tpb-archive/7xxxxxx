@@ -1,0 +1,13 @@
+ESET NOD32 Smart Security 4+Fix
+
+this is Eset Smart Security 4 with mara trail fix.
+
+(I have found that update does not work with this fix anymore. i keep getting the error message- "update information not consistant". to fix this i have entered the following server to the list of update servers in advanced setup tree:   http://update.eset.com/eset_eval/   
+-this seems to fix the problem although u may have to manually choose this server each time u want to update)
+
+tested and working on: windows xp pro sp3 x86
+                       windows 7 pro sp1 x64
+
+enjoy!
+
+ManinBlue
