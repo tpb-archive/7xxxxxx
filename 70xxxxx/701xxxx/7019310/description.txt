@@ -1,0 +1,21 @@
+With across-the-board improvements (Job Scheduling, Networking, MPI etc), benchmarks and customer evidence indicate that Windows HPC Server 2008 R2 has performance that rivals Linux for real-world applications.
+Out-of-the-box, with little tuning or configuration, Windows HPC Server R2 scales beyond 1000 nodes and scales to much larger numbers with additional tuning and optimization.  The Heat map shows the status of 1000 nodes without scrolling or paging.
+In the Microsoft Performance Labs hundreds of ISV applications and open source codes have been tuned for optimal performance on Windows HPC Server 2008 R2 Suite.
+Includes support for RDMA over Ethernet (iWARP) from Intel and RDMA over infiniband quad data rate (40Gbps) hardware.
+Optimization of shared memory implementations for new Intel â€œNehalemâ€-based processors.
+
+Install notes:
+==============
+
+Burn or mount .ISO and install Server 2008 R2 HPC suite.
+
+For HPC Pack Express same, burn or mount and install.
+
+Use activator to activate.
+
+Enjoy!
+
+Tom_Da_Man
+
+
+

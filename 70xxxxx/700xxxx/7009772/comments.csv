@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,DACPRIME,2012-02-05T06:52Z,"This Version 10.0.2.0.4269 has a well known bug, any program such as uTorrent with an ""open containing folder"" option, Dopus opens a 2nd lister after about 30 seconds.
+
+This bug is fixed in beta version 10.0.3.1.4402. Unfortunately I have not yet figured out the new blacklisting protection. "
+,snubz,2012-02-10T03:29Z,"Thanks for this DACPRIME. Is the bug you mentioned only problematic when you set Dopus to replace explorer? 
+
+The protection on this software is crazy. Hard to get it working sometimes. Great file manager, just wish it didn't cost more than the OS it's running on. :("
+,DACPRIME,2012-02-25T14:11Z,"If you don't have Dopus replacing explorer the ""open containing folder"" option just opens an explorer window, no bug."
+,Sakunne,2012-03-01T11:51Z,"There is no such key in W7
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\DlgInfo\
+
+Would you update un-blacklisting guide for W7"
+,Sakunne,2012-03-01T14:58Z,"This one works fine, though blocking Inernet via hosts file doesn't work like it's described in included un-blacklisting guide - it still finds and suggests new updates.
+Blocking internet using Comodo firewall works fine."
+,mmm_9,2012-09-28T00:38Z,"Following the guide the license was accepted the problem is that when you are trying to bypass directory opus activation,after 5 minutes of using it the files are not read correctly and you have to restart the program once and once again.
+Is there any solution for this?"

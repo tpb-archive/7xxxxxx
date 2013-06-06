@@ -1,0 +1,30 @@
+WSE (Warband Script Enhancer) checks the checksum of mb_warband.exe to see if it's the original. I've changed the checksum for two different cracks so that they look like the original file to WSE. I didn't make either crack, I just changed the checksum of both of them so they'd work with WSE. I'm still testing both out. Crack 1 seems to have fewer issues with WSE, but crack 2 seems to actually see some servers. If your crack is working fine for you, I've also included everything that you'll need to change the SRC32 checksum of your current cracked .exe. Here's what you'll need to do once you've extracted the archive...
+
+If you want to use either of the cracks I've included for 1.143:
+
+1)Copy either of the mb_warband's to your installation directory, then either use them or WSE to launch the game. If you like mb_warband2.exe better, rename it to mb_warband.exe. 
+
+If you want to use your current crack with WSE:
+
+1) Copy fakecrc.exe
+
+XP
+2) Open up cmd by clicking start, run, then cmd
+
+or
+
+Vista/7
+2) Type cmd in the start menu, right click cmd.exe, and choose 'Run as administrator'
+
+3) Minimize that window for now, browse to your Warband installation directory (ie C:Program Files (x86)Mount&Blade - Warband), and paste fakecrc.exe here.
+
+4. Create a backup somewhere of mb_warband (or whatever your crack is called) in case it gets messed up here in a little bit.
+
+5) At the top of your file browser, copy your current directory.
+
+6) Switch to the cmd window. Type 'cd' without quotes, hit space, right click in the window, and select paste. Enter.
+
+7) If you're in the same directory as your cracked .exe and fakecrc.exe in your cmd window, copy the text 'fakecrc mb_warband.exe 0xC3FEE1D1' without quotes and paste it into the cmd window (replace mb_warband.exe with whatever the cracked .exe is). Hit enter. You should see "Done! CRC32 is now 0xC3FEE1D1" somewhere. If that's not what it says, something is wrong.
+-Note: Type fakecrc by itself for help with its functions.
+
+Hope it works out for you, please seed if it does =)

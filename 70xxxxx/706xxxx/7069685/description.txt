@@ -1,0 +1,98 @@
+UniqueID/String                          : 173524826238790561309247071476932698452 (0x828BAA7814B07740B1CC35B1EF086154)
+Formato                                  : Matroska
+Formato de la versiÃ³n                    : Version 2
+TamaÃ±o del archivo                       : 3,79GIB
+DuraciÃ³n                                 : 1h 33min.
+Tasa de bits total                       : 5 785Kbps
+Fecha de codificaciÃ³n                    : UTC 2012-02-27 12:08:27
+AplicaciÃ³n de codificiÃ³n                 : mkvmerge v5.3.0 ('I could have danced') built on Feb  9 2012 10:38:07
+LibrerÃ­a de codificaciÃ³n                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : Main@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 2marcos
+ID CÃ³dec                                 : V_MPEG4/ISO/AVC
+DuraciÃ³n                                 : 1h 33min.
+Tasa de bits                             : 5 000Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 800pixeles
+RelaciÃ³n de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Variable
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploraciÃ³n                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.136
+TamaÃ±o de pista                          : 3,13GIB (83%)
+TÃ­tulo                                   : Resident Evil Apocalypse por Theghost
+LibrerÃ­a de codificaciÃ³n                 : x264 core 120 r2164
+Opciones de codificaciÃ³n                 : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x131 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=1 / weightp=2 / keyint=230 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=5000 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=69 / qpstep=4 / vbv_maxrate=24000 / vbv_bufsize=24000 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Idioma                                   : InglÃ©s
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+ID CÃ³dec                                 : A_AC3
+DuraciÃ³n                                 : 1h 33min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+TamaÃ±o de pista                          : 301MB (8%)
+TÃ­tulo                                   : EspaÃ±ol
+Idioma                                   : EspaÃ±ol
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 5
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+ID CÃ³dec                                 : A_AC3
+DuraciÃ³n                                 : 1h 33min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+TamaÃ±o de pista                          : 301MB (8%)
+TÃ­tulo                                   : Ingles
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 3
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+TÃ­tulo                                   : Ingles por Theghost
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #2
+ID                                       : 4
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+TÃ­tulo                                   : EspaÃ±ol por Theghost
+Idioma                                   : EspaÃ±ol
+Default                                  : No
+Forced                                   : No
+
+ 
+http://www.pandopuntokualda.com

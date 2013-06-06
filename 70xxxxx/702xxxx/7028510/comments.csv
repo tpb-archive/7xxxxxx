@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,xuxatumaye,2012-02-14T03:26Z,"info please, multi? spanish?? RF ?"
+,Smallz94,2012-02-14T03:49Z,"read it first  
+
+Platform: XBOX360
+Region: Region FREE
+Genre: Sports / Fitness
+Publisher: Majesco
+Developer: Zoe Mode
+Language: English"
+,phaetol,2012-02-14T23:21Z,"When running this through ABGX i got ""Game Partition CRC does not match the verified ini!"" First time this have ever happened from any of your uploads boobsman!"
+,Smallz94,2012-02-15T00:40Z,yea i got the same too
+,Smallz94,2012-02-15T00:50Z,"http://www.abgx.net/filename/?ch=6
+
+this mite not work because the data is corrupted."
+,sunisstar,2012-02-15T01:51Z,ABGX says it's a bid rip.
+,sunisstar,2012-02-15T01:51Z,"edit:
+
+ABGX says it's a BAD rip. "
+,sunisstar,2012-02-15T01:52Z,ABGX says it's a BAD rip.
+,Smallz94,2012-02-15T02:05Z,we have to wait until they fix it.. (never) lol 
+,GAMERTAG,2012-02-16T18:27Z,THANKS
+,MDaSilva93,2012-02-29T01:05Z,"I also got ""Game Partition CRC does not match the verified ini!"" but i burned it and it works perfect for me. Thanks boobsman for the rip"
+,hp400,2012-03-29T05:25Z,"goto abgx.net and type in the name. it will show you what you need to do to fix it...
+
+it says single bit error to byte 0xBA231B87 change 0xE4 to 0xEC to fix it...
+
+no idea how to do that or what that means... anyone?"
+,Tuetenpenner,2012-07-06T13:49Z,"Open the Iso in a Hex-Editor (I use HxD). Go to Adress 0xBA231B87 (remove the x, in HxD: press Ctrl+G, and type in 0BA231B87). Now you see E4. Change it to EC and save.
+Have fun without errors!"
+,abdul86,2012-07-29T05:42Z,"Region Code: 0x00FF00FF
+      PAL
+      NTSC/U
+Game partition CRC does not match the verified ini!"

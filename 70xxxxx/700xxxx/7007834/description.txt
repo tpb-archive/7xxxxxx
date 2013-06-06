@@ -1,0 +1,30 @@
+Rage.Update.2-SKIDROW
+*********************
+
+
+Patch Changes / Fixes
+-----------------------------
+- Fixed crash from potentially having stale transcode jobs in flight when switching between texture cache sizes.
+- Fixed crash from using SIMD optimized memcpy with a PBO pointer that is not 16-byte aligned.
+- Fixed GPU transcode option always turning off when restarting the game.
+- Fixed progression in Dead City where player could not advance through sliding door en route to the defibrillator upgrade.
+- Fixed CPU feature detection.
+- Fixed issues with launching MP by using double quotes around path name.
+- Fixed lack of texture detail on parts of the screen at high resolutions due to limited feedback analysis buffer.
+- Fixed thread stack space usage and freed up 700 MB of virtual address space.
+- Re-enabled UBOs.
+- Adjustments to default VDM values for balance.	
+
+Installation :
+
+
+
+1. Run Rage.Update.2.exe
+
+2. Install
+
+3. Copy the cracked content from the SKIDROW folder to the main install folder and overwrite
+
+4. Play the game
+
+5. Support the companies, which software you actually enjoy!

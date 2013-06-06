@@ -1,0 +1,133 @@
+﻿User Type,Username,Date,Text
+[V],linday1,2012-03-06T14:43Z,"Omschrijving:
+Hunter XP 2011 V1.1
+
+Dit is een onofficle versie van Windows XP Professional voorzien van een hele hoop drivers, updates en veel gebruikte programma's samengesteld door Hunter.
+door mij is alleen de product-code opgegeven. dit is dus niet een zogenoemde unattended installatie!
+Productcode?
+
+U heeft bij deze versie geen productcode of licentie nodig; deze is al in de DVD verwerkt en is ongelimiteerd te gebruiken.
+ook word deze DVD als Genuine gezien door Windows Update zodat Windows updaten geen problemen oplevert.
+
+Verschillen met voorgaande versie:
+
+Nieuw updatepack verwerkt update's t/m September 2011.
+Driverpacks zijn bijgewerkt.
+Java 6u26 bijgewerkt naar 6u27
+Klite codec pack 7.10 bijgewerkt naar 7.80.
+Messenger plus 5.0.2 bijgewerkt naar 5.10
+Flash player bijgewerkt naar versie 11
+Shockwave bijgewerkt naar nieuwste versie.
+
+Verwerkte Programma's en Updates:
+
+Adobe Flash Player
+Adobe Shockwave Player
+Adobe Reader (PDF)
+Winrar
+Alle Update's t/m juni
+.Net framework T/M V.4
+Internet Explorer 8
+Windows Media Player 11
+Klite Codec pack
+Windows Live Messenger 9
+Messenger Plus! 5
+Alt + Tab Replacement
+
+Verwerkt aanpassingen (tweaks):
+
+Msconfig toegevoegd aan context menu deze computer
+software verwijderen of toevoegen toegeveogd aan context menu deze computer
+userpasswords2 toegevoegd aan configuratie scherm
+tweak versnelt openen avi bestanden
+opstarten geoptimaliseerd
+schakeld hangende programmas af tijdens het afsluiten
+toolbar favorieten in IE8 uitgeschakeld.
+google als standaard zoekmachine
+opruimingswizard uitgeschakeld
+windows rondleiding uitgeschakeld
+
+voor meer verdere info bekijk het tweak.reg bestand met kladblok in de oem map.
+"
+[V],linday1,2012-03-06T14:44Z,"Driverpacks:
+
+DP_Bluetooth_wnt5_x86-32_910
+DP_Graphics_Languages_wnt5_x86-32_1107
+DP_Graphics_PhysX_wnt5_x86-32_1107
+DP_HID_wnt5_x86-32_1105
+DP_LAN-RIS_wnt5_x86-32_1011
+DP_Misc_wnt5_x86-32_1108
+DP_Modem_wnt5_x86-32_1101
+DP_Monitor_wnt5_x86-32_1005
+DP_Runtimes_wnt5_x86-32_1107
+DP_TV_wnt5_x86-32_1005
+DP_WebCam_wnt5_x86-32_1107
+DP_Chipset_wnt5_x86-32_1109
+DP_CPU_wnt5_x86-32_1005
+DP_Graphics_A_wnt5_x86-32_1107
+DP_Graphics_B_wnt5_x86-32_1107
+DP_Graphics_C_wnt5_x86-32_1107
+DP_LAN_wnt5_x86-32_1109
+DP_MassStorage_wnt5_x86-32_1109
+DP_Sound_A_wnt5_x86-32_1108
+DP_Sound_B_wnt5_x86-32_1108
+DP_WLAN_wnt5_x86-32_1109
+
+bij zowel AMD/ATI en Nvidia worden alleen de display drivers geinstalleerd.
+zodat u zelf eenvoudig de nieuwste versie kan installeren.
+
+Systeemeisen:
+
+eigelijk zijn er niet echt systeemeisen. op een P2 266 mhz en 128 mb werkgeheugen gaat het gewoon werken.
+de enige eis is een harddisk van 4GB of groter.
+
+Install notes:
+
+TIP*
+
+het kan handig zijn om voordat je deze winXP gaat installeren je drivers te backuppen met Driver Genius deze staat in de map repackers op de dvd.
+dit werkt overigens alleen met Windows XPop Windows XP dus als je nu Vista of 7 draait heeft dit geen zin. het backuppen van drivers scheelt na de installatie een hoop zoekwerk omdat je deze eenvoudig weer kan terugzetten.
+de driverpacks kunnen soms verouderd zijn daarom is het zeker voor je videokaart het beste als je na de installatie de nieuwste drivers download en installeerd.
+
+TIP*
+
+als je deze XP versie naast een Win7 wilt installeren die je al hebt draaien zul je na de installatie geen boot menu zien omdat XP deze niet maakt. Win7 zou deze wel maken als je eerst XP installeert en daarna Win7.
+maar dit is simpel op te lossen door na de installatie de Windows 7 dvd erin te doen en te klikken op uw computer herstellen, dan zoekt de win7 dvd je Windows installaties en geeft aan dat er een probleem is en of je dit wilt oplossen en daarna wilt herstarter.
+daarna heb je dus een boot menu zodat je kan kiezen wat je wilt opstarten.
+
+LET OP: een aangepaste Windows versie kun je helaas niet vanuit je huidige besturingssysteem installeren, je zult moeten booten vanaf de CD/DVD:
+
+1. als je pc opstart moet je het boot menu openen, hiervoor wordt een toets aangegeven (bij Asus is dit meestal F8).
+bij oudere pc's kan dit niet en moet je in de Bios de opstartvolgorde aanpassen en de CD/DVD drive op 1 zetten (hiervoor kan je handleiding van je moederbord raadplegen)
+
+2. nadat alle drivers zijn geladen moet je de plaats kiezen waar Windows ge"
+[V],linday1,2012-03-06T14:45Z,"Driverpacks:
+
+DP_Bluetooth_wnt5_x86-32_910
+DP_Graphics_Languages_wnt5_x86-32_1107
+DP_Graphics_PhysX_wnt5_x86-32_1107
+DP_HID_wnt5_x86-32_1105
+DP_LAN-RIS_wnt5_x86-32_1011
+DP_Misc_wnt5_x86-32_1108
+DP_Modem_wnt5_x86-32_1101
+DP_Monitor_wnt5_x86-32_1005
+DP_Runtimes_wnt5_x86-32_1107
+DP_TV_wnt5_x86-32_1005
+DP_WebCam_wnt5_x86-32_1107
+DP_Chipset_wnt5_x86-32_1109
+DP_CPU_wnt5_x86-32_1005
+DP_Graphics_A_wnt5_x86-32_1107
+DP_Graphics_B_wnt5_x86-32_1107
+DP_Graphics_C_wnt5_x86-32_1107
+DP_LAN_wnt5_x86-32_1109
+DP_MassStorage_wnt5_x86-32_1109
+DP_Sound_A_wnt5_x86-32_1108
+DP_Sound_B_wnt5_x86-32_1108
+DP_WLAN_wnt5_x86-32_1109
+
+bij zowel AMD/ATI en Nvidia worden alleen de display drivers geinstalleerd.
+zodat u zelf eenvoudig de nieuwste versie kan installeren.
+"
+[V],linday1,2012-03-06T14:47Z,2. nadat alle drivers zijn geladen moet je de plaats kiezen waar Windows ge
+[V],linday1,2012-03-06T16:23Z,. nadat alle drivers zijn geladen moet je de plaats kiezen waar Windows ge
+[V],linday1,2012-03-06T16:23Z,helaas wil die niet de originele tekst pakken hier op dit forum maar op het NLT is die dus wel goed te lezen.

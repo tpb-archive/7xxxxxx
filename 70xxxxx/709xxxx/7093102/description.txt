@@ -1,0 +1,62 @@
+MEDIAINFO
+
+
+Format :AVC
+Format/Info :Advanced Video Codec
+Format_Profile :High@L4.0
+Format_Settings_CABAC/String :Si
+Format_Settings_RefFrames/String :3marcos
+MuxingMode :Header stripping
+CodecID :V_MPEG4/ISO/AVC
+Duration/String :1h 0min.
+BitRate_Mode/String :Variable
+BitRate_Maximum/String :25,0Mbps
+Width/String :1 280pixeles
+Height/String :720pixeles
+DisplayAspectRatio/String :16:9
+FrameRate/String :23,976fps
+ColorSpace :YUV
+ChromaSubsampling :4:2:0
+BitDepth/String :8bits
+ScanType/String :Progresivo
+
+Audio #1
+ID/String :2
+Format :MPEG Audio
+Format_Version :Version 1
+Format_Profile :Layer 3
+Format_Settings_Mode :Joint stereo
+MuxingMode :Header stripping
+CodecID :A_MPEG/L3
+CodecID/Hint :MP3
+Duration/String :1h 0min.
+BitRate_Mode/String :Variable
+Channel(s)/String :2canales
+SamplingRate/String :48,0KHz
+Video_Delay/String :1seg.
+Language/String : Español Latino
+
+Audio #2
+ID/String :4
+Format :AC-3
+Format/Info :Audio Coding 3
+Format_Settings_ModeExtension :CM (complete main)
+MuxingMode :Header stripping
+CodecID :A_AC3
+Duration/String :1h 0min.
+BitRate_Mode/String :Constante
+BitRate/String :640Kbps
+Channel(s)/String :6canales
+ChannelPositions :Front: L C R, Side: L R, LFE
+SamplingRate/String :48,0KHz
+BitDepth/String :16bits
+StreamSize/String :275MB (15%)
+Language/String : English
+
+Texto #1
+ID/String :5
+Format :UTF-8
+CodecID :S_TEXT/UTF8
+CodecID/Info :UTF-8 Plain Text
+Language/String : Español 
+Default/String :Si

@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+[V],blaze69,2012-03-07T03:43Z,"Thanks Mate :)
+
+Changelog Here Guys
+
+Alan Wake v1.03.16.4825 Update info:
+
+- Add Latin-American Localization support (download the Free DLC from Steam and add -locale=esm to Alan Wake's Steam launch options to use it)
+- Added -directaiming command line parameter that removes all mouse acceleration (enables also -rigidcamera automatically) 
+- Improved low level mouse reading routines to make the control cope better with low and variable frame rates. This also removes the reported jerkiness when -rigidcamera was enabled. You may need to re-adjust your mouse sensitivity in the menus! 
+- Removed auto-aim that was accidentally enabled in the previous build 
+- Added a frame rate limiter to menus & videos to prevent cards running at 1000's of fps (reduces stress on the graphics cards)
+- Reduced CPU use when game doesn't have focus
+- Fixed ""first run"" on a 2nd PC overwriting saves & statistics downloaded from cloud
+- Fixed crashes when using alt-tab to change out of the game when the game is loading 
+- Fixed DEVICE_CREATE_ERROR for users who have ""custom DPI"" set in Windows. 
+- Fixed one specific case of ""File IO Failure"" issue when unable to write to My Documents 
+- Fixed camera to remember it's side preference (tab key) 
+- Fixed Cursor Key / Numpad assignment issues 
+- Fixed screen brightness back to original when changing process 
+- Fixed some cases of ""back"" and Return to Game functionality so that it doesn't need 3 presses
+- Thanks for your feedback! We are still working on improvements & fixes, please see our forum for up to date troubleshooting and update information: http://forum.alanwake.com/showthread.php?t=7759"
+,MLO89,2012-03-07T09:16Z,Works perfect. Thanks
+,UniversalSoldier1911,2012-03-07T14:20Z,Thanks a lot.. Working perfectly!!
+,chrisroberts2,2012-03-08T12:07Z,Wouldnt recommend this update as it makes the game co out of control when you move your mouse.
+,4MaxPayne,2012-03-11T02:03Z,working well thx

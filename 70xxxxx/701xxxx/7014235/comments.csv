@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,RMJ113,2012-02-07T05:44Z,"This makes no sence! Why is a server needed for single player?
+
+ just get ALTEROPS then MP will work!
+
+I allso would never trust a .bat !"
+,trimidogg,2012-02-07T06:14Z,"this method is used before on many games 
+you will download server with Hlds from steam servers than with the crack you can play single player you can also still create dedicated server if you want to also you can use this files if you ever buy the game copy the game files to
+C:\Program Files\Steam\steamapps\common\call of duty modern warfare 3
+so you dont have to redownload them
+
+it's a simple bat file 
+right click edit 
+you can see what's inside
+
+
+
+Download MW3.bat
+
+    @echo off
+    Title Call of Duty: Modern Warfare 3 Single Player =TRK=
+    Color 0A
+    echo.
+    echo.
+    echo.
+    echo.
+    echo.   ***************************************************************************
+    echo.   *                                                                         *
+    echo.   *                 Call of Duty: Modern Warfare 3 Single Player            *
+    echo.   *                                                                         *
+    echo.   *                        _/_/_/_/_/  _/_/_/    _/    _/                   *
+    echo.   *          _/_/_/_/_/      _/      _/    _/  _/  _/    _/_/_/_/_/         *
+    echo.   *                         _/      _/_/_/    _/_/                          *
+    echo.   *        _/_/_/_/_/      _/      _/    _/  _/  _/    _/_/_/_/_/           *
+    echo.   *                       _/      _/    _/  _/    _/                        *
+    echo.   *                                                      www.Play-Shqip.com *
+    echo.   ***************************************************************************
+    echo.
+	echo.
+	echo.
+    echo.    
+	echo.                             Time - %time%
+    echo.
+	echo.
+    echo.
+    pause
+    cls
+   	Hlds\hldsupdatetool.exe -command update -game ""modernwarfare3"" -dir MW3
+	cls
+	echo.           ReCheck Files To make Sure All Files Are In Place
+	Hlds\hldsupdatetool.exe -command update -game ""modernwarfare3"" -dir MW3
+	Redist\DirectX\DXSETUP.exe
+    Redist\vcredist_x86.exe
+	unrar.exe x -y -c- Crack.rar MW3
+	echo.
+    echo.
+    echo.
+    echo.
+    echo.	                               DONE
+	echo.
+    echo.    
+	echo.                            Time - %time%
+    echo.
+	echo.
+    echo.
+pause.."
+,vedroo43,2012-04-20T19:40Z,working wery nice

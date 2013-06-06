@@ -1,0 +1,125 @@
+﻿User Type,Username,Date,Text
+,andyzx,2012-03-21T22:24Z,Please somebody help me and add Swedish Audio Companion! Thanks
+,ekripper,2012-03-29T12:34Z,"Hi All, I seem to be having a problem when trying to install this torrent on a previously installed Rosetta stone V3 which already houses 2 working language packages. The download works fine and seemingly so does the mounting to powerISO, but when I click install error 3221 pops up and says the language content requires update of rosetta stone.
+
+Also upon starting up the programme minor error 8112 pops up but this has never been a problem.
+
+If someone could give me some advice it would be greatly appreciated!!!
+
+Cheers"
+,EinDeutschMan,2012-03-30T02:21Z,"@ekripper,
+
+The error 3221 is because the language pack needs a newer version of Rosetta Stone than you have installed
+
+The 8118 error is a language pack activation error.
+
+go to the Rosetta Stone folder in C:programdata and rename all of the files to anything else
+(i.e. products.xml to products.xml.BAK) this will protect your current installation. (depending on what version of RS you have, this MAY be named InstalledProducts.xml)
+
+You will have to install BOTH of the Rosetta Stone ISO's, as well as the Swedish language packs.
+But you will only have to do it once.
+
+DL this ISO, and READ the Read Important.txt file
+
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+
+This is Rosetta Stone v3
+Install it.
+Copy the patch in the patch folder to where you installed the program, then run it.
+
+The patch will MORE THAN LIKELY set off your AV software -->> IGNORE IT!
+
+This will allow you to activate the language packs
+
+Then DL the Rosetta Stone v3.4.7 program here:
+
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+
+There is a PDF enclosed, it has detailed instructions on how to install program and languages
+
+DO NOT be fooled into needing any serials/keygens.
+
+Replace the exe with the one in the crack folder.
+
+Now comes the FUN PART, open your (Installed)Products.xml.bak file with WORDPAD, (not Notepad) and APPEND the newly created xml into the .BAK file
+
+It doesn't matter where, so copy and paste it IMMEDIATELY before the VERY LAST entry that will read something like this   
+
+
+
+"
+,EinDeutschMan,2012-03-30T02:37Z,"@ekripper,
+
+DAMMIT!
+I can't show the example because of the symbols used in the xml files...
+
+Anyway, after you've done that, save the xml.bak file, then delete the new .xml file and rename your original .xml.BAK file back to what it was.
+
+That should solve your problems.
+
+If you aren't comfortable with this, copy the original xml file somewhere else, and if you screw up, simply copy it back into the Rosetta Stone folder and overwrite the file there.
+
+Let me know,
+
+EinDeutschMan
+"
+,ekripper,2012-03-30T11:34Z,"Thanks so much for your help EinDeutschMan!!!! If there is no easy solution to the one I'm about to mention then I'll follow your below instructions.  Sorry to waste your time!! but I've gone ahead and installed your torrents on my other computer and everything was working perfect all of yesterday. But then when I came to use it again today it didn't open and then came up with error 2123. 
+I'm running windows 7 and upon my first installation attempt it came up with this error, but this was due to the programme opening automatically before I was able to transfer the crack file into the installed folder.
+
+Do you know of a solution for this issue?
+
+Once again thanks in advance, your help is greatly appreciated."
+,EinDeutschMan,2012-03-30T13:09Z,"@ekripper,
+
+Unfortunately, there is no easy solution
+
+First of all, rename the hidden file Tracking.db3 to tracking.BAK. It is (supposed to be) in the Rosetta Stone folder in ProgramData, (you will lose your progress tracking) Reboot.
+If that doesn't work...
+
+Change the permissions to the entire ProgramData Rosetta Stone folder taking ownership, and giving yourself Full Control. Reboot.
+If that doesn't work...
+
+Defrag the disk, then Reboot (Yes, AGAIN!)
+
+If all else fails, UNinstall-REinstall Rosetta Stone, block ALL Internet access during setup, then after setup it is done, and set your AV-Firewall to give Rosetta Stone ""Trusted Outbound Only"" , so that you don't get a 1117 error (Speech Recognition)
+
+Let me know...
+
+EinDeutschMan"
+,ekripper,2012-04-01T18:26Z,"@ EinDeutschman
+
+Yes!!! It's all up and running perfectly fine now.
+
+The second option of altering the folder ownership is the thing that worked for me. This option meant that I didn't lose any of the language progress I had already finished, which is a bonus!!
+
+Again thanks for your help!!!"
+,ghostcomet,2012-04-22T02:16Z,"I need help installing this...Ive been following the instructions that you've been posting on these torrents of yours
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+
+But when it comes time to install the languages I keep getting  an 9114 error, I have done everything you have said to do but I cant install the language.
+This is what I have been doing:
+1) I've blocked acess to internet
+@) Ive been running the the
+piratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso program
+3) I've installed it, but not launched RS, and I copied both the patch and the .ddl files into where RS is installed on my computer( 64 bit windows 7 btw) and ran the patch
+4) I set my firewall to allow communication outwards, but i dont allow inwards communication, I use windows firewall
+5) i go to install the .iso for swedish and thats when i get the 9114 error
+
+please help im getting so frusterated"
+,EinDeutschMan,2012-04-24T17:23Z,"@ghostcomet,
+
+The 9114 error (usually) comes from the wrong version of Rosetta Stone.
+And after reading your comment, I see why:
+If you did everything as you described, you failed to install this ISO:
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+DL and install it in the SAME folder as your current version, and you should be set.
+
+Let me know...
+
+EinDeutschMan"
+,bud123456,2012-04-28T02:14Z,It was working fine for me for the first two core lessons. I kept clicking activate later. Now on Core lesson 3 It says in order to continue I have to activate it. Any suggestions? Thanks
+,JWilkans,2012-07-05T09:31Z,"@ EinDeutschman
+
+Thanks so much for the 2123 fix!  I've seen tons of comments on it and the second one on your list makes it run perfectly.  Thanks again."

@@ -1,0 +1,11 @@
+BlackBerry Playbook OS 2.0.0 loaded into VMware to use for testing applications and whatever else you might want the system for. This is the latest release of the BlackBerry PlayBook OS as of 03/03/2012, so it includes the Android Runtime.
+
+The image works on Windows, Linux + Mac and is a self-extracting .exe, the actual image is ~600MB. I added in the BlackBerry Dev Tools so you can install applications and so on (there's a guide URL if you need to know how to do it).
+
+Watch the setup to see how to set it up (obviously). Remember to seed!
+
+The Self-Extractor should have the following hashes: 
+
+MD5: 8204659277122d5ed31416c3433b19d1
+SHA1: 12949c5036415584652ab70f2afea61c559cedf5
+CRC32: 4835d2fd

@@ -1,0 +1,19 @@
+FreeOSX (old Fake OSX)
+
+FreeOSX is an Ubuntu-based distribution with Gnome by default desktop.
+Also our goal is to reproduce an a-like machintosh desktop.
+
+FreeOSX2 rev 2.2 :
+# Based on Debian/Ubuntu 10.04 LTS
+# Architecture : 64
+# Kernel : Linux 2.6.32-33-Generic
+# Desktop : Gnome 2.30.2
+# File browser : Nautilus 2.31.1
+# Web browser : Firefox 9.0.1
+# Ubuntu security updates until april 2013 
+http://sourceforge.net/p/fakeosx/wiki/Fake%20home/
+ 
+http://sourceforge.net/projects/fakeosx/
+
+sha1sum : adb57a6706396be8546a0e8a0edfed16b879a427  free-osx226.iso
+md5sum : d3aa6b4f611ee330be541b1ca942c0fa  free-osx226.iso

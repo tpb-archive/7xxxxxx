@@ -1,0 +1,28 @@
+Description
+DruidBSD is a FreeBSD micro-distribution that supports CD/DVD, USB, and HD booting into a Live BSD Distribution.  
+http://sourceforge.net/projects/druidbsd/
+
+FreeBSD_Druid-9.0b56.iso
+    This bootable [hybridized] ISO is a FreeBSD 9.0 intaller capable of installing either i386 or amd64. It has all the advantages of DruidBSD below but can also install FreeBSD or rescue non-bootable systems. It is a powerful tool in any FreeBSD administratorâ€™s arsenal. Great for large-scale enterprise deployments.
+FreeBSD_Druid-9.0b56-nonhybrid-cddvd-only.iso
+    This bootable ISO is the same as the above except not post-processed with the ISOLINUX isohybrid utility, meaning you can only use this image with CD/DVD media whereas the above hybrid ISO can be used with CD/DVD media and/or USB flash media. One minor advantage appears to be that VirtualBox 4.1.8 or higher on Mac OS X likes this image while disliking the above hybrid ISO. If youâ€™re using VirtualBox and get a 'medium error' when trying to use the hybrid ISO, you can either try burning the hybrid ISO to disc first and then using it, or if that is inconvenient (perhaps because you donâ€™t have a burner or blank media) then use this image with VirtualBox.
+DruidBSD-1.0b1.iso
+    This bootable [hybridized] ISO contains a micro-FreeBSD distribution designed to operate entirely in memory once-booted. DruidBSD contains over 150 utilities for doing just about anything you can imagine.
+Druid-0.0.iso
+    This bootable [hybridized] ISO contains everything that the above (DruidBSD-X.Y.iso) contains, plus the following utilities:
+
+    * windiag â€“ Microsoft Windows memory diagnostic
+    * memtest86 â€“ Open-source free memory diagnostic
+    * memtest86+ â€“ Open-source free memory diagnostic
+    * dban â€“ Darikâ€™s Boot and Nuke secure-wipe utility
+    * killdisk â€“ ActiveÂ® KillDisk Free Edition
+    * seatools â€“ Disk utilities from SeaGate
+Hybridized ISO
+    A 'hybridized' ISO is one that has been post-processed with the isohybrid utility from ISOLINUX. This utility modifies the ISO file by encapsulating the ISO9660 filesystem within disk structure understood by most MBR-based BIOSes.
+    This allows you to take the resulting ISO and write it to either optical media (such as CD/DVD) or a USB flash drive (using dd). 
+http://sourceforge.net/projects/druidbsd/files/
+ 
+http://druidbsd.sourceforge.net/
+
+sha1sum : 22b1a0329046fa717424f074f49a46415d6073d3  FreeBSD_Druid-9.0b56.iso
+md5sum : 24364ba68b48b6c622999cb2fc4091ab  FreeBSD_Druid-9.0b56.iso

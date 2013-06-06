@@ -1,0 +1,80 @@
+﻿User Type,Username,Date,Text
+,icetgamer,2012-02-02T22:13Z,"Install order:
+
+1- Install Victoria II
+
+2- Install V2 Patch 1.4
+
+3- Install V2 AHD.
+
+
+Correct? Confirm kindly."
+,ElefRus,2012-02-02T22:17Z,"No, this is a complete installation, original VII+HD+v2.1 patch. U don't have to install anythin in addition."
+,Jakeler,2012-02-03T11:50Z,works 100% Thanks a bunch.
+,issnerol,2012-02-03T17:32Z,"Please help! After the installation appeared ""MSVCR100.DLL is missing"". I put the dll in the folder, but another error appeared: ""MSVCR100.DLL is either not designed to run on Windows or contains an error..."". What I can do to fix? PS: I tried with and without patch 1.4"
+,renivira,2012-02-03T23:31Z,"Please help! After the installation appeared ""MSVCR100.DLL is missing"". I put the dll in the folder, but another error appeared: ""MSVCR100.DLL is either not designed to run on Windows or contains an error..."". What I can do to fix? PS: I tried with and without patch 1.4
+
+You need no patches nor original Victoria. Just delete your previous version properly (helped for me) and run the AHD installer."
+,HoneyAdicct,2012-02-04T09:39Z,"For everyone that has problems with MSVCR100.DLL, update and install Microsoft Visual C++ Redistributable Package 2010. 
+
+You can find it here: http://www.microsoft.com/download/en/confirmation.aspx?id=5555"
+,faraday0,2012-02-04T12:30Z,"@ElefRus, quality torrent!! Thanks a lot!! Works perfectly."
+,Critical,2012-02-06T11:44Z,"Also, if the MSVCR100.DLL problem is not solved yet with the installation of C++ 2010, then you installed AHD in other folder than Victoria II's. Cut and paste the AHD content into Vicky2 folder.
+
+Also, is this 2.1 update?"
+,Critical,2012-02-06T11:45Z,"Also, what if I installed this over my 1.4b patched Vicky2? Is anything bad about it?"
+,issnerol,2012-02-06T13:53Z,"MSCVR100.DLL Problem. I installed the C++ 2010 again (both the Vic2 and Microsoft Website C++) and the error continued. I also tried to cut and paste, but it continues. I`m going to try again and look for my Windows 7 errors. Thanks."
+,Critical,2012-02-06T19:57Z,"Then uninstall Vicky2, AHD, all the Microsoft Visual C++ versions you have and; reinstall Vicky2, install 2008, 2010 version along the 2005 version that comes with the installation of the game.
+Install AHD in Vicky2 folder.
+It has to work."
+,issnerol,2012-02-06T20:39Z,"WOW! Julees1133, I flew out my chair when the launcher opened. It worked. Very, very, very thank you! "
+,KoldPT,2012-02-07T23:06Z,Can you export the registry settings? The problem with this is that when 2.2 comes out it won't let us patch.
+,blahblahblacksheep,2012-02-10T21:57Z,"The game crashes every few minutes with a ""v2game.exe not responding"" message. There is no help on the internet that I can access without a registered game. 
+
+There are a lot of hints about it being a torrented copy only problem, any clue how to fix this?"
+,Critical,2012-02-11T00:31Z,"Probably didn't installed correctly, try reinstalling it if you already didn't.
+As for the upcoming patch, I hope our source will keep the good things coming, unless we won't be able to patch the a bit-bugged AHD."
+,edenman8,2012-02-16T21:48Z,"@issnerol how could u solve that problem? can´t see the answer of Julees1133!
+pls i need some help to solve the problem with the missing xxx.dll, i downloaded but than ""MSVCR100.DLL is either not designed to run on Windows or contains an error...""
+but i sounds like its solved? pls help meee ;)"
+,edenman8,2012-02-16T22:21Z,kann man hier eig keine pm schreiben? ;)
+,issnerol,2012-02-17T13:09Z,"@edenman, Jules may have deleted his comment.
+1 - Remove everything, Victoria 2, AHD, MC++ 2005, 2008, 2010
+2 - Then install MC++ in order: 2005, 2008, 2010
+3 - Install Victoria 2 normally. 
+4 - Install AHD in the same folder where you installed Vic2.
+5 - Enjoy!
+
+Only by this procedure worked for me.
+
+
+Danke schöne für die frage."
+,edenman8,2012-02-18T11:33Z,"Danke auch! :)
+Thank you :P"
+,perprivater,2012-02-19T05:55Z,could you update it to the public beta 2.2
+,Alamantharis,2012-02-21T03:56Z,"Hey man, I downloaded your version of AHD, but I had Victoria 2 installed prior to that. So I installed this version and it didn't work. 
+I proceed to unistall everything since this version contains Vicky 2 already right? it didn't work either. I can't seem to get this to work, it just crashes to desktop after the Paradox Interactive logo pops in.
+
+I tried everything the other users posted here, but still doesn't work. I'm running it on Windows 7 64 version, Crusader Kings 2 works just fine so I know it's not because of having an old video-card."
+,Alamantharis,2012-02-22T03:02Z,"Ok, I came with a solution for that sudden crash, I don't know if it works in other Paradox games.
+
+You need to go to your pc and go to this directory
+
+C:\Program Files (x86)\Common Files\Ahead\DSFilter
+
+Change DSfilter to DSFilter_music
+
+After doing that it should work, I read that it has something to do with Nero, but I don't know and I don't care, the game works, excellent work ElefRus!
+
+(If you find Ahead in that directory, then I'm sorry but I can't help you any further)."
+,theskiv,2012-02-29T12:32Z,"why why why??? cant I download this? There is no ""download torrent"" button for some reason. And its like that on many torrents apparently. The ""get this torrent"" button asks if it can run my utorrent and when i allow it the torrent it tries to download is empty (0 bytes). Someone help?"
+,Leviathan07,2012-05-01T23:55Z,Does anyone know if it's safe to patch this version of V2 to 2.31 via manual official patch? 
+,maximusvegas999,2012-05-03T15:04Z,"@Leviathan07 Yeah its safe, where did you get the manual patch?"
+,bill2505,2012-05-04T23:58Z,"where i  can find the latest patch in non installer version guys
+.because the installer doesnt work"
+,MarniXL,2012-05-10T18:40Z,No one has the new patch? The new patch adds lots of stuff but I can't find it anywhere. You can't get it via the normal forum site or launcher because yo dont have the real copy. So no one knows how to get the patch!!??
+,Cetacin,2012-06-18T04:43Z,game crashes on start up for me i have vc++ 2005 2008 and 2010 installed and made sure i had directx up to date. when i run v2game.exe in administrator mode i get past the developers thing and the opening cinematic and then the game crashes. also happens for eu3 too
+,Ninix,2012-07-25T19:01Z,"Question: I tried to use the mod which allows you to convert saves from EU3: when loading a converted file, the game -which works fine otherwise- spent nearly half an hour ""adapting history"" with no end in sight."
+,kenyon1151,2012-09-01T15:45Z,"The game crashes every couple of minutes on me. I have tried re installing and restarting my computer, yet i still get the same message. Which is ""v2game.exe not responding"". Has anyone figured out a fix for this? "
+,kenyon1151,2012-09-03T08:44Z,i figured it out. There are actually two applications to run. 1 is v2game and the other is victoria2. I started using victoria2 and it doesn't stop responding anymore.
+,taurusz8,2012-09-25T17:55Z,"i have installed the game and it's working good. but there is one small problem, everything is in Russian. How to change language in English? I have tried to edit settings.txt but is not changing  anything."

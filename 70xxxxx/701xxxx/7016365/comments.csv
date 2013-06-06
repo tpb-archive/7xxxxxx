@@ -1,0 +1,279 @@
+﻿User Type,Username,Date,Text
+,wd123411,2012-02-08T21:52Z,"Can you explain your methodology a little more? For example, porno torrents don't appear unless you are logged in. That might explain the discrepancy.
+
+Also, can you describe how long the scrape took, and have you any idea how long it would take to scrape the descriptions too?
+
+Thanks for this!"
+,allisfine,2012-02-09T00:58Z,"(Hello YCombinator!)
+
+I went trough all the torrents, but as a logged out user. This may be the reason why I saw only 1.5m of torrents.
+
+I went trough the torrent description sites like
+http://thepiratebay.se/torrent/$i
+by adding 1 to the $i
+
+It took the computer about 2 days. I can post the script somewhere if you want, it is in perl, it is not complicated at all."
+,allisfine,2012-02-09T01:22Z,"The script itself is here
+
+http://pastebin.com/8RXXthXB"
+,atndigcrk,2012-02-09T15:28Z,http://torrentfreak.com/download-a-copy-of-the-pirate-bay-its-only-90-mb-120209/
+,radioman-lt,2012-02-09T15:37Z,"nice to have, would be cool if tpb team officially release such packs from time to time"
+,ilikegreenbananas,2012-02-09T15:40Z,"Never touched perl but it seems the script starts at torrent/1 and loops from there halting when it finds Not Found
+
+However the very first one is not found.
+
+http://thepiratebay.se/torrent/1"
+,allisfine,2012-02-09T15:50Z,"ilikegreenbananas: nope, if it hits ""not found"", the fork (I browse the piratebay in separate forks, because threads in perl suck) returns 0 and nothing gets printed
+
+(returning values from fork is done trough some black magic in Parallel::ForkManager module)
+
+maybe it skips the torrent 1, but who cares about that, the first torrents are with number above 4.000.000 anyway"
+,lryo,2012-02-09T16:39Z,"Is it possible to have the method to start the script? It seems that there needs to Parallel :: ForkManager, which platform do we start?
+
+Thanks in advance,
+"
+,InVultusSolis,2012-02-09T16:48Z,"I think I will expound upon this idea. I will write a script that registers me as logged in, showing all torrents. I will also make a more clearly delimited file. If pipe characters can exist in torrent names, then how can anyone clearly parse the file?"
+,allisfine,2012-02-09T17:19Z,"InVultusSolis:
+I think I was wrong, even as logged in user, I see exactly the same torrents. The only difference is in SEARCH results, but I don't use those in scraping. It won't help.
+
+Yeah, I am sorry for the pipes, I thought about it only after I started seeding it. The first pipe is always a separator, the last 4 pipes are always separators. Besides, the pipe is in the name only in very few cases. "
+,BagOfDicks,2012-02-09T17:54Z,"You can access any torrent with the direct url, even porn ones, I don't think that's the problem here."
+,lryo,2012-02-09T18:10Z,allisfine : It's possible to explain to start the script ?
+,BagOfDicks,2012-02-09T18:29Z,"It seems the script is missing torrents (maybe a lot of them).
+
+Take the first entry ""3281929"", there's a ""3281928"", and ""3281926.
+
+lryo:
+Download ActivePerl (http://www.activestate.com/activeperl/downloads)
+
+After installing open a command prompt window and type:
+ppm install Parallel-ForkManager"
+,daHelper,2012-02-09T18:44Z,I think you are still able to parse his data. You would just have to have more conditions that the program checks for. It makes for a more interesting program. haha
+,lryo,2012-02-09T18:59Z,@BagOfDicks : thanks
+,lryo,2012-02-09T19:09Z,BagOfDicks : When ./perl /piratebay_magnet_scrape.pl ?
+,BagOfDicks,2012-02-09T19:29Z,"lryo:
+
+You can open a command prompt window and type:
+piratebay_magnet_scrape.pl
+or
+perl piratebay_magnet_scrape.pl 
+
+or just double-click piratebay_magnet_scrape.pl, depending on the settings you selected when installing."
+,e_smith2000,2012-02-09T19:54Z,"*******
+InVultusSolis wrote:
+If pipe characters can exist in torrent names, then how can anyone clearly parse the file? 
+*******
+
+I ran in to this problem when making my youtube upload scheduler (java) http://code.google.com/p/ytuscheduler/
+
+I worked around it by cutting the string up in to an array based on the delimiter, then counted the length of the array, then i pulled the first 2 and the last 3 elements of the array assuming the remaining was the file name. Seems to work out well - no reason the same couldn't be done here. "
+,Sugepowada,2012-02-09T19:55Z,"Guys, i downloaded this torrent, but i don't know how to use those magnet link hash :( can any one explain please ??"
+,Sugepowada,2012-02-09T19:57Z,"guys, please how to i use the hashs ???"
+,atndigcrk,2012-02-09T20:54Z,copy paste in ur browser it will launch utorrent like any magnet link on tpb already does
+,allisfine,2012-02-09T22:35Z,"BagOfDicks :
+the file looks sort-of-sorted, but it's not. If you sort it by ID, the first torrent is 3211594, the second torrent 3211609, the third (and the first one with any seeder) 3211623
+
+to all:
+you need perl, curl and Parallel::ForkManager module to run the skript.
+So, you most probably need a linux machine. (Or cygwin, but if you have cygwin, you don't need to ask here for instructions.)"
+,somken,2012-02-09T23:47Z,"Now we can see how big the piratebay is in terms of filesize.  
+
+T:\!Other\complete>php size.php
+Size in byes: 1.8302781573359E+15
+The pirate bay is: 1,664.63 TB
+
+http://pastebin.com/1dhBLEGv"
+,somken,2012-02-09T23:59Z,"http://pastebin.com/1dhBLEGv
+
+T:\!Other\complete>php size.php
+Size in byes: 1.8302781573359E+15
+The pirate bay is: 1,664.63 TB"
+,e_smith2000,2012-02-10T00:00Z,You know... i ran some numbers and it appreas that if you included the description and comments the file would be between 33g and 50g.
+,steveshotz,2012-02-10T01:23Z,How does this work??
+,steveshotz,2012-02-10T01:33Z,How the fuck do i do this?!
+,jonessoda1,2012-02-10T03:46Z,"So I downloaded this file, extracted the contents, have Active perl...... Now what?"
+,jonessoda1,2012-02-10T03:51Z,"I downloaded the file, it downloads in .rar format, I extracted the file, now what?"
+[T],prathaprabhu,2012-02-10T04:10Z,Very simple - use Vuze torrent application.
+,mattrageous4,2012-02-10T05:08Z,"hey how do i download this, vuze say it is too big to be a torrent, and utorrent say not enough space... so how can i load this to pick what to download?"
+,jonessoda1,2012-02-10T05:16Z,"What program do i use to associate with the file ""complete"" after the winrar file has been extracted?"
+,jonessoda1,2012-02-10T05:17Z,"What program do i use to associate with the file ""complete"" after the winrar file has been extracted? The file extension is just ""File"""
+,jonessoda1,2012-02-10T05:31Z,Vuze didnt help me. I have the .rar file downloaded. I extracted it. Now what? Can someone post a step by step process?
+,e_smith2000,2012-02-10T06:14Z,"For those wanting some help: The file contained in the RAR is a text document. In it contains formatted data from TPB. If you want it in a semi readable format you will have to do something to it - like import it in to excel as a delimited file  (Google ""how to import comma delimited file in to excel"") except use ""|"" (without quotations) as the delimiter. 
+
+Otherwise you could just open up this file in wordpad/gedit/whatever and search for what you want. The format imformation is being store is as stated in the description: TPBID|TorrentName|SizeInBytes|Seeders|Leachers|MagnetLinkHash
+
+ What you do is take the MagnetLinkHash and place after: magnet:?xt=urn:btih:
+
+IF MagnetLinkHash is 123456789123456789 then what you do is this:
+
+magnet:?xt=urn:btih:123456789123456789
+
+Then you go to your torrent client, somehow tell it to open a new torrent file (URL) and past  magnet:?xt=urn:btih:123456789123456789 in to it. "
+,mattrageous4,2012-02-10T06:57Z,thank you @e_smith2000
+,Jadistk,2012-02-10T07:04Z,"Thanks for the help e_smith2000,
+
+but I can't seem to open this in notepad, wordpad, microsoft word, or microsoft excel. I get errors for too many pages/rows in word and excel, and notepad/wordpad just hang on me. I have a decent processor with 8 GB of RAM. Any suggestions? I love this idea of this torrent, so how can I open the entire thing? Thanks."
+,Cykotitan,2012-02-10T09:40Z,Opens up fine in notepad++
+,BagOfDicks,2012-02-10T09:52Z,"allisfine: I know the file is not sorted, but as you can see ""3281928"" and ""3281926"" aren't there. That was just an example."
+,spawn236964,2012-02-10T09:53Z,"Nice. Does open in notepad++
+
+BTW - If you put the magnet link in your address bar it opens in your torrent app."
+,spawn236964,2012-02-10T09:56Z,"Does open in notepad++ 
+
+BTW- If you put the magent link in your address bar  it open the torrent in your torrent app."
+,omvax,2012-02-10T12:07Z,"Hey guys. You will probably love this script for fast searching and sorting through this archive!
+
+https://raw.github.com/gist/1788788/15e63bbebed7204674ab0b294b98766dca1f1aa9/tpb.py"
+,omvax,2012-02-10T12:10Z,"BTW. There is about 100 malformed rows in the file: some piratebay ID are duplicated, and some entries doesn't have magnet link hash (and some have only 38 characters, or less).
+
+Detected using this search tool https://gist.github.com/1788788"
+,omvax,2012-02-10T12:33Z,"I constantly update a search tool, so best way to download newest version I visiting this page https://gist.github.com/1788788"
+,Myrdhyn77,2012-02-10T14:13Z,"The perl script fails to run for me in linux.
+Can't use an undefined value as an ARRAY reference at piratebay_magnet_scrape.pl line 11."
+,IseeingI2I,2012-02-10T15:06Z,OH SHIT THIS IS EPIC DOWNLOAD ALL THE BAY!!! seriously someone give allisfine a medal just for being awesome
+,allisfine,2012-02-10T17:01Z,"BagOfDicks:
+oh shit, you are right.
+
+well, everyone, I have a bug or something in the script. Maybe having 50 connections at the same time was not such a good idea after all.
+
+I will try it again with less connection and more tries when it hits 404, but it will take more time. I will upload a new version when I got it.
+
+/and I still think Pirate Bay itself should do this, not me/"
+,gbalt,2012-02-10T23:28Z,"here's a cool cross platform viewing application https://github.com/Adys/tpbviewer, made specifically for this kind of thing"
+,CyberSickness,2012-02-11T04:53Z,"thanks, but i can't even download it
+
+error: page not found, torrent or magnet link
+
+:("
+,saverio84,2012-02-11T16:18Z,"Great idea and great work!
+I don't know much about programming, but I think it would have been better if you replaced the ""|"" symbol either in the torrent titles or as a separator.
+Trying to import the file as delimitated text in excel or access, there are about 2000 torrents in which ""|"" is present as part of the title, so it screws the sorting.
+
+Sorry for my English, I'm italian. And thanks again, this is nonetheless fantastic!"
+,spawn236964,2012-02-11T23:26Z,"Jus an idea, It would be nice if you could include one copy with the descriptions. That wld be nice. "
+,S0N_M4RC3L0,2012-02-12T07:27Z,baixando! valeu!
+,degtukas,2012-02-12T13:14Z,"somehow i can't download this torrent file, magnet link either. Is there problem with my pc, or with download link?"
+,pksgenije,2012-02-12T21:51Z,"Can anyone to hang pictures of the screen how to use this archive
+Thanks a lot, and sorry for bad english"
+,l0w_rider,2012-02-13T06:28Z,"Thanks for this, however I assume that a new archive must be released every now and then to include any new releases on tpb, am I right?"
+,carabet,2012-02-13T09:24Z,"extract the file and open it with notepad++.
+each line is a magnet link, you can use Tixati to download the magnet links"
+,allisfine,2012-02-13T13:19Z,"haha
+
+I wanted to try to snapshot the website again, with corrected script
+
+and I think piratebay started to detect repeated connections and ban my every IP after about 18000 downloaded torrents
+
+so this is the end of story for this archive. No new updates/corrections, unless piratebay does it itself. (I am not able to switch IPs after every 20000 torrents, sorry)"
+[V],maximersk,2012-02-13T21:25Z,"Guys, we are winner ! ACTA MUST FUCKING DIE !!!!
+Thanks everyone ! Thanks A LOT OF THIS !!!"
+,pksgenije,2012-02-13T22:55Z,TNX carabe
+,pksgenije,2012-02-13T22:56Z,tnx carabet
+,Blu_Macaw,2012-02-14T23:20Z,Dunno for you but I was starting dowloading whole internet
+,ptrvcptr,2012-02-14T23:35Z,"Don' get it.I've downloaded the file,and what should i do with it? I can't open it."
+,rakooo,2012-02-15T02:36Z,"Guys you are all fantastic.
+
+I imported the whole file in a couchdb DB. When I've checked for errors, I will share it, so that anyone can use a standard couchdb instance and have the whole data at hand.
+
+What's the point, you ask ? Having a search engine embedded in the application, accessible thru any browser, on any device (yes, even on your iPad), and easily updatable and shareable with the little pirates out there."
+,bitfreak1,2012-02-15T10:24Z,"Here's a little app I made to search through this magnet archive as it is (don't need to export it to a db or anything). It will only work on Windows machines with .NET Framework 2.0 or higher.
+
+http://www.filedropper.com/thelocalbay_1
+"
+,bitfreak1,2012-02-15T10:30Z,"I should also mention that due to the way I coded it, the more words that you include in the search, the longer it will take to complete the search - although it will list every single torrent that has even one matching word.
+
+Here are some rough estimations on how long the searches should takes, based on how long it was taking for me. If you have an old computer these times may be a bit longer.
+
+2 words - 5 to 30 seconds
+3 words - .5 to 2 minutes
+4 words - 1 to 5 minutes
+5 words - 2 to 10 minutes "
+,taki99,2012-02-15T11:43Z,"Converted to Sqlite, added 18kk magnet from BitSnoop lists and indexed - all takes 4.5Gb on hdd,
+
+but search is FAST."
+,akbar48,2012-02-15T12:35Z,"bitfreak1 at 2012-02-15 10:24 CET:
+Here's a little app I made to search through this magnet archive as it is (don't need to export it to a db or anything). It will only work on Windows machines with .NET Framework 2.0 or higher.
+
+http://www.filedropper.com/thelocalbay_1
+
+
+thanks for bitfreak1/ for this wonderful software"
+,Bodhi2010,2012-02-16T03:11Z,you can find tracker sources for it on www.bvlist.com 
+,Bodhi2010,2012-02-16T03:11Z,go to http://www.bvlist.com for tracker sources !
+,allisfine,2012-02-16T04:35Z,wow guys.... its amazing what you are doing on my little experiment. mad props to you.
+,quicksilver00,2012-02-16T13:58Z,"""bitfreak1 at 2012-02-15 10:24 CET:
+http://www.filedropper.com/thelocalbay_1""
+
+@bitfreak1, i think it will be much better that the software automatically converts the bytes in megabytes, or gigabytes, depending on file size. It is much more readable. What do you think?"
+,bitfreak1,2012-02-16T17:45Z,"@quicksilver00
+
+I thought about that when I was making it, but I decided to leave out anything that wasn't absolutely necessary, just to make it as fast as possible. But I don't think it will make much difference anyway, so I ended up adding that feature:
+
+http://www.filedropper.com/thelocalbay_2"
+,imjustwow,2012-02-16T19:55Z,"@allisfine....take a bow :)
+
+@bitfreak1....awesome work...thanks a ton :)"
+,ram19890,2012-02-17T00:00Z,Thanks A Quadrillion Times
+,PhantasyMan,2012-02-17T09:34Z,"I'm ripping Tpb and uploading to Tribler MNR channel NOW (10000+ done), in real time!!!! Let's go!!!!
+
+http://www.dailymail.co.uk/sciencetech/article-2098759/Tribler-New-file-sharing-technology-IMMUNE-government-attacks.html
+
+"
+,fiekert,2012-02-17T12:41Z,"just look at the number of seeds it has:
+1337. hahahahahaha xD"
+,josh555,2012-02-17T14:46Z,"I am considering making a magnet search site using this data. The only problem is, how would I keep it up-to-date? Crawling TPB daily for new links would be a big task. It would be great if TPB could release a daily dump like this."
+,PhantasyMan,2012-02-18T00:49Z,"http://rt.com/usa/news/internet-war-new-tribler-941/
+
+The new software called â&#x20AC;&#x153;Triblerâ&#x20AC;? is the new weapon in the battle for Internet liberty and does not need a website to track users sharing torrent files.
+
+Join!!!
+"
+,Specter141,2012-02-19T00:08Z,guys I lurked a bit and there is a software called Large text viewer check it it opens the file with no lags however the searching is still laggish   
+,Specter141,2012-02-19T00:10Z,"large text file viewer
+http://www.swiftgear.com/ltfviewer/features.html"
+,IgginsTheCat,2012-02-19T07:11Z,"Is anyone else having issues with the links in uTorrent? Every time I try to paste one in (and yes, I've followed all the directions; I put the magnet:?xt=urn:btih: at the beginning and it still won't work.), it just says that it ""can't parse magnet URI"". What am I doing wrong here?"
+,matty95,2012-02-20T19:30Z,"Hey, Ive just made a viewer for this archive:
+http://thepiratebay.se/torrent/7046494
+
+Screenshot:
+http://img.matttt.me/February-20,2012,11:29am_6804c.png"
+[V],bubanee,2012-02-20T22:10Z,"This is all you need... to view... (windows)
+http://www.filedropper.com/thelocalbay_1 
+~ 
+bitfreak1 if your reading this, i need you to contact me at kickass torrents please... 
+or if anyone knows bitfreak1 and how to contact him could you pass the message.. 
+I GOT A PROPOSITION FOR YOU! well worth it.. "
+,bodyremover,2012-02-24T02:46Z,"This is AWESOME! Magnets, USB stick-sized torrent backups & Tribler will surely be the straw that breaks the MPAA camel's back? :)"
+,chabosun4,2012-02-29T07:02Z,"Great idea, thanks!"
+,jonessoda1,2012-03-01T06:46Z,Is there any way to dowload these en masse? Its shitty copying and pasting every single one in when most of them dont have the proper seeds.
+,snakeroom,2012-03-01T18:59Z,"nice work allisfine!, pairs nice with matty95's viewer 
+
+Good job Matty!... viewer works pretty good. "
+[V],bubanee,2012-03-07T02:54Z,"use this for the archive... 
+http://thepiratebay.se/torrent/7076612/TheLocalBay_Desktop_KAT_and_TPB_Archives_Search__[Bubanee]"
+,Ohd3ar,2012-03-07T16:47Z,lol
+,nisarg95,2012-03-14T11:13Z,Figging great work here. Keep it up!
+,Oldiesel,2012-03-20T22:42Z,hahahya Do you are insane!!
+,bolt1909,2012-03-28T10:08Z,Guys im new in this.. how can i open this complete.gz file.. (step by step please)
+,TLegenden,2012-05-02T11:09Z,"@allisfine
+I have tried to install curl but its not working.. its just curl i have problem with. maybe i do something wrong, I am completely new to perl.. Can you tell me how to do?"
+,grassflow,2012-05-28T13:57Z,"Very good idea allisfine! :)
+It will help me searching torrents when tpb site will be off due unexpectedly reason.
+
+Can you make an update any month or season? Or tell me how can I do it by myself?"
+,TheH4ck,2012-06-13T11:56Z,Any one a text viewer for this for mac os x lion?
+,kerenskyy,2012-06-27T13:03Z,"wouldn't publishing this data themselves, in a similar way, be an admission that TPB is not the world's most resilient Bittorrent site? "
+,kerenskyy,2012-06-28T03:01Z,@PhantasyMan how do i import magnet links such as these into tribler?
+,CatMan100,2012-08-18T03:44Z,The Piratebay will survive forever !!!
+,jfkhooi,2012-09-27T02:55Z,yo dawg i heard you like magnets so i put a magnet in your magnet...
+,Apollo_24,2012-09-27T05:56Z,"downloaded and not sure what to do with it or what it does, can someone help"
+,Anderseta,2012-09-28T22:32Z,"You don't know what to do with it?
+
+This is an example of a magnet link hash:
+f9a49716e72df43b0f9d62570cc3c9ee19afc40f
+
+To create a magnet link do this in your browser's url:
+magnet:?xt=urn:btih:f9a49716e72df43b0f9d62570cc3c9ee19afc40f
+
+And if you want to add trackers to it use ""tr="" like this:
+magnet:?xt=urn:btih:f9a49716e72df43b0f9d62570cc3c9ee19afc40f&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.ccc.de:80&tr=udp://tracker.istole.it:80"

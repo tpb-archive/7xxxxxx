@@ -1,0 +1,16 @@
+Here is an unofficial build of Arx Libertatis, the Linux source-port of Arx Fatalis version 1.21 (recently made open source), which I threw together from the instructions at http://arx.parpg.net/Downloading_and_Compiling_under_Linux using their git repository and following their instructions on creating the build environment and compiling and making the binary, plus the Arx Libertatis source code and the data from the 1.21 version of Arx Fatalis which I used to build the binary on my x86-64 bit Ubuntu box.  The build may not work on your distribution of Linux, but you should be able to use the instructions at that web site and and the source, and the data, to make a working copy of the game on your machine.  It works fine on my computer so far!  There is no official binary yet (as of March 1, 2012) for Arx Libertatis for any system hence I have christened this build v0000.  
+
+Here is a brief summary of the instructions for building:
+
+For the build environment on an apt-based Linux distro you will need to issue the following command to download the libraries you need or just download them individually:
+
+sudo apt-get install git cmake g++ zlib1g-dev libfreetype6-dev libdevil1c2 libdevil-dev libopenal1 libopenal-dev mesa-common-dev libgl1-mesa-dev libboost-all-dev libsdl-dev libglew-dev
+
+Then you will need to clone the source code (provided) and run 'cmake' in the ArxLibertatis directory and then 'make' or 'make install'.  To run the game you will need to copy the provided data files data.pak, data2.pak, loc.pak, sfx.pak, speech.pak and the directory 'misc' with the files arx.ttf and logo.bmp into the data directory for ArxLibertatis, which can be any directory if you are going to run the binary 'arx' in that directory or one of the data directories listed in the README.md file if you 'make install' a system-wide installation.  You might also want to create a file 'cfg.ini' file in the data directory with the following lines or else the game will prompt you to do so:
+
+[misc]
+migration=1
+
+If you followed all the instructions you should be able to run Arx Fatalis natively under Linux! :-)
+
+- FluxCapacitor

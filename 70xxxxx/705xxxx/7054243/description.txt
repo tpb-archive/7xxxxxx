@@ -1,0 +1,45 @@
+Alan Wake v1.02.16.4261 Update info:
+
+
+
+- Fixed problems of game not moving forward and gameplay not triggering properly after videos. 
+
+- Fixed flickering trees on Nvidia
+
+- Real Traditional Chinese translation for added PC strings. 
+
+- Fix that the Developer Video Commentary volume is more sensible 
+
+- Fix that Localized cinematic audio volume is at correct volume and adjustable 
+
+- Fix that controller vibration works (note that it's disabled by default) 
+
+- Fix that blur occasionally got re-enabled even if -noblur command line option was specified 
+
+- Added "-rigidcamera" command line option for those who are sensitive to the default mouse/camera controls.
+
+- Added possibility to bind mouse buttons 4 and 5
+
+- Unofficial support for running the game in lower resolutions than 1024x768 using command line options 
+
+- Prevent binding controller keys to keyboard actions (prevents odd problems) 
+
+- Better CPU thread assignment for 3-Core AMD machines (smoother gameplay) 
+
+- Big thanks for the PC fans out there! We are constantly working on improving the game based on your feedback, please keep it coming!
+
+- See our forum for up to date troubleshooting and patch information: http://forum.alanwake.com/showthread.php?t=7759
+
+
+
+Installation :
+
+
+
+1. Run Alan.Wake.v1.02.16.4261.Update.exe
+
+2. Install (remember to located the right install location)
+
+3. Play the game
+
+4. Support the companies, which software you actually enjoy!

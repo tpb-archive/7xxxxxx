@@ -1,0 +1,50 @@
+General
+Complete name                    : Immortals BluRay 1080p
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 2.16 GiB
+Duration                         : 1h 50mn
+Overall bit rate                 : 2 799 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 50mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 634 Kbps
+Nominal bit rate                 : 2 661 Kbps
+Width                            : 1 920 pixels
+Height                           : 1 000 pixels
+Display aspect ratio             : 1.920
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 23.810 fps
+Maximum frame rate               : 24.390 fps
+Resolution                       : 24 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.057
+Stream size                      : 2.03 GiB (94%)
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : 40
+Duration                         : 1h 50mn
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 292 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 48.0 KHz

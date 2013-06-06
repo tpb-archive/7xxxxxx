@@ -1,0 +1,78 @@
+﻿Filename,Size,Unit
+"1. Routing Fundamentals and Static Routes/1. Distance Vector Fundamentals, RIP EIGRP Comparison and AD.mp4",18.32,M
+1. Routing Fundamentals and Static Routes/2. Static Routes.mp4,34.06,M
+1. Routing Fundamentals and Static Routes/3. Floating Static Routes.mp4,30.85,M
+1. Routing Fundamentals and Static Routes/IP Routing Fundamentals.pdf,518.33,K
+2. EIGRP Fundamentals/1. Theory Review and Configuring EIGRP on a Hub and Spoke Network.mp4,27.46,M
+2. EIGRP Fundamentals/2. The Variance Command (and more).mp4,22.29,M
+2. EIGRP Fundamentals/3. Autosummarization.mp4,19.85,M
+2. EIGRP Fundamentals/EIGRP Fundamentals.pdf,568.41,K
+3. EIGRP Advanced Concepts/1. EIGRP Fundamentals neighbor relationship review.mp4,43.42,M
+3. EIGRP Advanced Concepts/2. EIGRP Hello packets and secondary addresses.mp4,26.34,M
+3. EIGRP Advanced Concepts/3. Successors and Feasible successors.MP4,50.55,M
+3. EIGRP Advanced Concepts/4. EIGRP Administrative Distances and Autosummarization theory.mp4,41.34,M
+3. EIGRP Advanced Concepts/5. Autosummarization and manual route summarization.mp4,44.42,M
+3. EIGRP Advanced Concepts/6. Design tips and Recommendations.mp4,32.41,M
+"3. EIGRP Advanced Concepts/7. Passive Interface, default route propagation and EIGRP.mp4",19.38,M
+3. EIGRP Advanced Concepts/8. EIGRP Authentication lab final video.mp4,20.56,M
+3. EIGRP Advanced Concepts/EIGRP Advanced Concepts.pdf,856.89,K
+"4. OSPF Fundamentals/1. Intro to OSPF Theory, designated routers and backup designated routers.mp4",44.28,M
+4. OSPF Fundamentals/3. Configuring OSPF on Broadcast and NBMA Networks.mp4,32.58,M
+4. OSPF Fundamentals/4. Configuring OSPF on a Point-to-Point Network.mp4,23.53,M
+4. OSPF Fundamentals/5. Configuring virtual links and comparing OSPF to RIP.mp4,44.54,M
+4. OSPF Fundamentals/6. Broadcast Network with 3+ Routers.mp4,12.16,M
+4. OSPF Fundamentals/OSPF Fundamentals.pdf,680.79,K
+5. OSPF Advanced Concepts/1. OSPF Design Guidelines and Multi-Area Config.mp4,40.1,M
+5. OSPF Advanced Concepts/2. Stub Area Theory and Configuration.mp4,48,M
+5. OSPF Advanced Concepts/3. Total Stub areas and NSSAs.mp4,40.95,M
+5. OSPF Advanced Concepts/4. Area-Based Route Summarization.mp4,29.04,M
+5. OSPF Advanced Concepts/5. More Redistribution and Summarization.mp4,15.84,M
+5. OSPF Advanced Concepts/6. Neighbor Authentication.mp4,34.31,M
+5. OSPF Advanced Concepts/OSPF Advanced Concepts.pdf,623.49,K
+6. BGP/1. Fundamentals and Neighbor Relationships.mp4,48.79,M
+6. BGP/10. The Joy of Route Reflectors.mp4,32.56,M
+6. BGP/11. Prefix Lists.mp4,31.41,M
+6. BGP/12. Peer Groups and Confederations.mp4,23.56,M
+6. BGP/13. BGP and Your ISP.mp4,17.71,M
+6. BGP/2. Using Loopbacks for Adjecencies.mp4,26.86,M
+6. BGP/3. The Joy of Advertising Routes -- And Attributes.mp4,22.81,M
+6. BGP/4. The Next-Hop-Self Attribute.mp4,29.42,M
+6. BGP/5. The MED and Local Preference Attributes.mp4,14.96,M
+6. BGP/6. Changing the Local Preference Attribute.mp4,13.33,M
+6. BGP/7. Using Route Maps to Change the Local Preference Attribute.mp4,29.71,M
+"6. BGP/9. Route Aggregation Options, Synchronization and Route Reflectors.mp4",42.55,M
+6. BGP/BGP.pdf,1.86,M
+7. Remote Connectivity/1. VPN Theory.mp4,31.55,M
+7. Remote Connectivity/2. VPN Lab Part 1.mp4,27.26,M
+7. Remote Connectivity/3. VPN Lab Part 3.mp4,25.3,M
+7. Remote Connectivity/4. Remote Conn 4 GRE over IPSec.mp4,15.51,M
+7. Remote Connectivity/5. Easy VPN Server Theory and Config with SDM.mp4,21.4,M
+7. Remote Connectivity/6. PPPoE And DSL Flavors.mp4,18.84,M
+7. Remote Connectivity/7. NAT and PAT.mp4,13.74,M
+7. Remote Connectivity/8. PAT and Overloading.mp4,18.06,M
+7. Remote Connectivity/Remote Connectivity Part 1.pdf,2.19,M
+7. Remote Connectivity/Remote Connectivity Part 2.pdf,515.84,K
+8. IPv6/1. Introductory theory and zero compression techniques.mp4,27.44,M
+8. IPv6/2. Anycasts reserved addressess.mp4,21.33,M
+8. IPv6/3. OSPF For IPV6 - Theory.mp4,17.55,M
+8. IPv6/4. OSPF For IPv6 - Lab.mp4,10.4,M
+8. IPv6/5. OSPF For IPv6 - Debugs and Show commands.mp4,20.44,M
+8. IPv6/6. Transitioning from IPV4 to IPV6.mp4,24.23,M
+8. IPv6/IPv6.pdf,480.62,K
+9. Route Manipulation and Manipulating Routes/1. Protocol Rules and EIGRP Lab.mp4,21.99,M
+9. Route Manipulation and Manipulating Routes/10. Passive Interfaces in OSPF.mp4,10.88,M
+9. Route Manipulation and Manipulating Routes/11. Using Distribute Lists to Control Redistribution.mp4,24.82,M
+9. Route Manipulation and Manipulating Routes/12. Pop Quiz.mp4,9.2,M
+"9. Route Manipulation and Manipulating Routes/13. Distribute List Lab, Introduction To Route Maps.mp4",24.93,M
+9. Route Manipulation and Manipulating Routes/14. Route Map LAb.mp4,34.49,M
+9. Route Manipulation and Manipulating Routes/15. Redistribution 15 Tag Lab PBR Theory.mp4,25.74,M
+9. Route Manipulation and Manipulating Routes/16. Policy-Based Routing and a Final Word.mp4,10.73,M
+9. Route Manipulation and Manipulating Routes/2. Redistribution with RIP.mp4,15.8,M
+9. Route Manipulation and Manipulating Routes/3. Redistribution with OSPF.mp4,12.72,M
+9. Route Manipulation and Manipulating Routes/4. Routing Loops and Suboptimal Routing as A Result of Redistribution.mp4,32.03,M
+9. Route Manipulation and Manipulating Routes/5. Changing the Admin Distance with Route Redistribution.mp4,28.98,M
+9. Route Manipulation and Manipulating Routes/6. Changing the AD for One Redistributed Route.mp4,5.32,M
+9. Route Manipulation and Manipulating Routes/7. More EIGRP Redistribution.mp4,18.7,M
+9. Route Manipulation and Manipulating Routes/8. The Default Information Originate Command.mp4,6.98,M
+"9. Route Manipulation and Manipulating Routes/9. Passive Interfaces, RIP and EIGRP.mp4",22.38,M
+"9. Route Manipulation and Manipulating Routes/Route Redistribution, Route Maps and Route Manipulation.pdf",1.23,M

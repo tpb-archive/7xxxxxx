@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,cestpasgagne.org,2012-03-06T14:34Z,"I emailed the dev. : 
+
+Kazsid is a pure Debian live system targeted on kazakh and
+russian speaking users. Its purpose is to provide a full-featured
+desktop Linux version with the Kazakh language.
+
+It is based on Debian sid.
+
+To build it, you should have Debian wheezy/sid box, and
+live-build package (>3.0) installed. Also install
+cdebootstrap package. Note, that this setup is configured to use
+a local apt-proxy-ng installation to reduce network usage.
+
+First, run the download-packages.sh script to get some
+packages to install. We are using them because these packages
+are not in the official Debian repos.
+
+There is firmware package, which has its own licence.
+This licence is autoaccepted during build. Take a look at
+config/preseed directory.
+
+By the way, to reduce the final image size,
+all locales except kk,ru,en are removed with localepurge.
+
+Usually I build it with
+'time sudo lb build 2>&1 | tee build.log' command
+
+Read more on : github.com/crayxt/kazsid
+
+Great thanks for your help, crayxt :)"

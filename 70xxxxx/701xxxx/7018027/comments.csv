@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+[H],HeroMaster,2012-02-08T20:12Z,ENJOY The Elder Scrolls V Skyrim High Texture Pack with DLC New and Exclusive by Reloaded!
+,CuttURface,2012-02-08T21:08Z,Awesome!
+,THANGDL,2012-02-09T03:33Z,Thank so much!...try download this.
+,simolino,2012-02-09T03:42Z,"Does this have the creation kit, answer please!!!"
+,markunt,2012-02-09T13:25Z,"Fuckin leech level is waaay too high. Hopefully this evens out soon because I'm dling at a crawling 22kb/s, where I'm usually at least 500kb to 1MB/s. I'll do my part to seed this one, buuut it may take a while haha"
+,markunt,2012-02-09T15:28Z,"Disregard my previous comment, now I'm getting 500 kB to 1MB/s. Lets hope the hi-res doesn't break the game!"
+,Sivos,2012-02-09T20:21Z,"According to what Bethesda said about this DLC, you will have to have a rig that over exceeds the recommend requirements for the game.  Otherwise, it will not work.  From what I've seen on pictures, it seems that some people only get a bit of the change while a few get the full effect.  I'm mainly seeing people with armor changes and some with landscape changes, so I think it will depend on your rig.  I don't fully know how this DLC will work though."
+,bannoura,2012-02-09T21:01Z,"well i haven't noticed anything different from first glance, maybe i will notice things later. But this won't break your game , not sure if it actually works or not. but I am gonna seed for a while. Enjoy !"
+,simolino,2012-02-09T21:41Z,"ROFL! I just downloaded it, high resolution textures my ass lololol"
+,diamond-optic,2012-02-10T02:03Z,well theyre higher then the dumbed down console port textures they gave us originally.. and i think theres less compression artifacts in some of the stuff.. but i havent really looked thru it extensively since there is already ppl who have investigated it and posted on the beth and nexus forums
+,Jona198102,2012-02-10T07:24Z,"Thank you to Reloaded for this.
+
+Serious improvement for the game. I noticed it right away. Nothing over the top. Rather instead nicely done but sorely needed, IMO.
+
+Had to update Script Dragon and Souls to Perk Points mods but those are minor issues. In my opinion, the game looks a lot better now."
+,piratiinho,2012-02-10T13:24Z,Too slow to download...
+,Dumbbanus,2012-02-10T22:37Z,I can access the Data button in the launcher but the only thin in the window in there is Skyrim.esm. How do I make sure the high res texture pack is loading?
+,StarMatt,2012-02-11T01:43Z,Same issue as Dumbbanus. I added the entry in the ini but there is only skyrim.esm in the window... And I did install whatever I just downloaded :D Maybe because I didn't install Skyrim in the default directory?
+,StarMatt,2012-02-11T01:47Z,"Hm, apparently even when you chose the directory, it still installs the patch in The Elder Scrolls V Skyrim inside the directory where Skyrim is intalled (I hope I'm being clear enough), and all I had to do was copy what was inside The Elder Scrolls V Skyrim in the acutal Skyrim dir."
+,StarMatt,2012-02-11T01:51Z,"Alright so it works, but I found some missing textures..."
+,Browny1309,2012-02-11T02:49Z,So slow im at like 15kb/s is ridiculous
+,Browny1309,2012-02-11T10:59Z,"Its installed but now every time i go to start a new game the game crashes, what do i do!"
+,StarMatt,2012-02-11T12:31Z,"As a reference, here is my rig, the pack runs ok indoors (and in cities), but in the wilderness it's quite laggy. Without the HT Pack, I can run the game in ULTRA without a problem though:
+
+Windows 7 Ultimate Edition (x64) (build 7601) Service Pack 1
+AMD Phenom II X4 960T 3000Mhz
+4Go RAM
+NVIDIA GeForce GTX 560 Ti"
+,daucuskarota,2012-02-13T18:31Z,With which scene release group does this DLC work? Razor1911? KaOs? Black Box?
+,ultrarasengan,2012-02-19T11:39Z,SEED PLEASE!!! I'M HAVING AN AVERAGE SPEED OF 30kbps to 50kbps! SEED!!!!
+,Hot_kool,2012-02-28T09:09Z,"I am not able to store anything to chest and other boxes.
+
+anyone facing this problem after installing this DLC???"
+,bobmarjtinsen,2012-03-02T19:58Z,Trojan in install file?
+,Hot_kool,2012-03-20T22:18Z,Ignore my previous comment.Everything working awesome. +1 frome me
+,Hot_kool,2012-03-20T22:20Z,Works with razor1911........
+,AlbusHD,2012-03-24T03:02Z,Zum รถffnen dlx carte igg ala igg iiiiiiiiiiiig
+,Romin101,2012-04-12T18:42Z,"Hi
+I just updated my skyrim with the 8th update,does this still work ? do I have to do any extra steps ?"
+,asafmiara,2012-04-14T08:49Z,it's crash every time i load the game
+,Sen4lifE,2012-04-28T09:22Z,"Thank you for the torrent but I really have to criticize the installer.  I am assuming you used NSIS.
+
+Next time you should use:
+InstallDirRegKey HKLM ""SOFTWAREBethesda SoftworksSkyrim"" ""Installed Path""
+instead of:
+InstallDir ""C:Program FilesBethesda SoftworksThe Elder Scrolls V Skyrim""
+
+and include in the Section/SectionEnd the command:
+
+WriteINIStr ""$DOCUMENTSMy GamesSkyrimSkyrimPrefs.ini"" Launcher bEnableFileSelection 1
+
+so that it doesn't need to be done manually.
+
+Just a little heads up for next time!"
+,Sen4lifE,2012-04-28T09:23Z,"Sorry for the lack of slashes above, apparently they don't show.. but I think you got the message anyhow. =P"
+,Sen4lifE,2012-04-28T09:24Z,"Also if I'm wrong and you didn't, then you should!"
+,Sephetz,2012-05-06T07:12Z,"This is weird but, after installing this DLC I'm not being able to use Skyrim Script Extender (SKSE), which is required for some mods to work properly. 
+
+When I try to run the game with SKSE enabled, it gives me an error message saying ""Please update to the latest version of Skyrim"". But that's not the real problem since I've already got the latest patch."
+,Aaronius1,2012-05-08T22:08Z,"Is there a way to only install the texture pack and not the updates?  I'm asking because I'm doing a fresh install, and am downloading the Update 8 torrent as well.  The fact that this texture pack ""includes all previous updates"" makes me wonder if installing it last will overwrite the latest update I have already installed.  Any ideas?"
+,Powerzeh,2012-05-12T23:21Z,"Great upload! Know u had to put a hard work on this, Thank you for your effort. +1"
+,hippo2432,2012-05-23T23:49Z,the only problem i'm running into is that i can't click on the data files in the launcher. when i looked to change the value with bEnableFileSelection=1 it was already set that way and i still can't click on data files. i tried making another bEnableFileSelection=1 right under the other one but that didn't work. any help will be appreciated.
+,hippo2432,2012-05-23T23:59Z,nvm i got it. i was doing it wrong.
+,Qualanqui,2012-06-10T04:13Z,Does this go up all the way to update 9? I installed it last night went like a breeze cheers HeroMaster
+,Maimedd,2012-08-07T16:40Z,"Careful when you DL this torrent, i didnt think i would need to use peerblock since this DLC is free to DL from steam, and bam 4 days later got a DMCA email"
+,lolbot321,2012-09-15T15:05Z,"THIS BROKE MY FUCKING GAME
+Now I have to download all the fucking mods all over again."
+,lolbot321,2012-09-15T15:13Z,"Ok so I reinstalled the game, installed this FIRST, then patched and modded, and its all working know.
+My bad, but some info would have been nice."

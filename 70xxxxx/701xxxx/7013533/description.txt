@@ -1,0 +1,42 @@
+Info:
+Android 4.0.3
+Kernel: 2.6.36.3 ( https://github.com/DJSteve/streak7-kernel/tree/ics )
+Using Cyanogenmod build info
+
+What works:
+Bluetooth
+Wifi
+gapps (mostly) 
+audio
+touchscreen
+overclocking
+superuser
+rotation sensors
+Screenshots (Press Power + Volume-) 
+capacitive buttons (home, back, menu)
+Video Acceleration
+GPS
+ADB
+System mounting
+
+
+What doesn't:
+some lag
+3g/4g/gsm radio
+camera
+External SD card
+(temp fix: thanks Dreamer
+1.open file /System/etc/vold.fstab
+2. Find line dev_mount sdcard /mnt/sdcard2 auto /devices/platform/sdhci-tegra.2/mmc_host/mmc1
+3. We need this path /mnt/sdcard2
+4. Chandge it to /mnt/external_sd)
+
+Screen Brightness adjustment
+(temp fix: thanks Dreamer
+ust need edit file /sys/class/backlight/pwm-backlight/brightness
+enter digits from 0 to 255 and save file
+brightness will auto change immediately)
+
+
+
+Unzip (ensure you have NVFlash drivers installed and your device is in NVFLASH mode) and run "Download - ics b4"

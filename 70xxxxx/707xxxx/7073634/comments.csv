@@ -1,0 +1,52 @@
+﻿User Type,Username,Date,Text
+,sittiri,2012-03-03T09:08Z,why cant i get the torrent file??
+[M],Gargravar,2012-03-03T09:12Z,uploads with 10 or more active users are magnets only now.
+,SweRaider,2012-03-03T09:31Z,"I know these magnet links sucks, basically because you can't see or choose what files to download before you're already downloading them.
+
+but.. its the only thing we got now it seems..
+
+@sittiri just download it via magnet link, it wont show information about files or such but that'll come after a few minutes.."
+,SweRaider,2012-03-03T09:33Z,"I'm suprised though, 5000 peers and no comments? ^^
+
+anyhow thanks, this series is just getting more and more epic with each episode.
+
+and now they're preparing season 3 ;D"
+,kosick82,2012-03-03T15:57Z,"I was using firefox and Bit commit didn't work I was going crazy uninstalling and installing new torrent clients no matter what, no program was working for me .. I then change my browser to internet Explorer and it allow me to get the torrent now using U-torrent. It's strange maybe I need to update fire fox was working fine a week ago hope this helps you guys going through what I went through keep Spartacus Coming Thanks!!!"
+,a15457,2012-03-04T03:32Z,"Magnet Links work fine with Firefox and Vuze.
+
+:)"
+,a15457,2012-03-04T03:35Z,"But yes they are stupid ... I'd prefer to nominate where and what I'm downloading. What if I wanted ot get a bunch of torrent files but not have them in my fav torrent app till a week later or something.
+
+Love Piratebay and its supporters but do not understand this change in operations nor reasons why it has happened."
+,skrob,2012-03-04T13:34Z,Thanks
+,Glowyrm,2012-03-06T13:11Z,"Just wait a few seconds for the torrent file to download then pause it.
+
+Then you can choose which files to skip and which ones to download, you can also change the location.
+
+It's only SLIGHTLY less convenient."
+,bluesman2002,2012-03-07T11:55Z,"When you click on the ""Get this Torrent"" link y are prompt to select an application that will open the file, so you choose from the program file folder the Azureus.exe or whatever similar torrent exe u use, Click ""remember my selection"" and u re all done. Bussiness as usual...."
+,ZaClR,2012-03-09T16:47Z,"I couldn't open Magnet links in Chrome until just now, I finally found out how to fix it:
+
+If you happened to check ""Remember my choice"" and clicked ""Do nothing"" when you clicked the magnet link, you have to reset that parameter. Here's how to do just that:
+
+1. Go to start menu > run
+2. type in %LOCALAPPDATA%GoogleChromeUser Data
+3. Double click the Local State file
+4. Select notepad to open it with notepad
+5. Set the read line (the blinking line) to the top by pressing ctrl + home
+6. Search for ""protocol_handler"" by typing in ctrl + f and entering in protocol_handler
+7. find your protocol. it should say ""magnet""
+8. Delete that entire line and nothing else
+9. Restart chrome, and it should be reset. If you saved the file and tried to open the magnet link WITHOUT restarting Chrome, you have to do it all over again. REMEMBER TO RESTART CHROME BEFORE OPENING THE MAGNET LINK.
+
+If that didn't solve your problem, you probably haven't associated the magnet link ""extension"" with your bittorrent client. Here's how to do that in uTorrent:
+
+1. Go to Options > Preferences
+2. In the General-tab, click ""Associate with torrent files""
+3. Click ""Apply"" and ""OK"", and you're done!
+
+Hope this helps, and spread the word so people can stop whining..."
+,ZaClR,2012-03-09T16:51Z,"Oops, step 2 is supposed to say %LOCALAPPDATA%GoogleChromeUser Data
+
+If the text fucks up again, it's a forward slash between % and Google, between Google and Chrome, and between Chrome and User Data. Sry 'bout that"
+,Kalohux,2012-04-16T19:31Z,WARNING!!! THIS IS CULTURAL MARXIST GAY PROPAGANDA INTENDED TO MAKE YOU A FAG!!!

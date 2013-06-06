@@ -1,0 +1,21 @@
+Installation of tTorrent Pro 0.9.4
+-------------------------------------------------------------------------------------
+
+*Root needed!!! Do not ask me how to root your Android device. Google is your friend...
+
+1. Backup and uninstall any previous versions of tTorrent.
+2. Install tTorrent 0.9.4.apk (DonΓÇÖt run!)
+3. Install Lucky-Patcher-v1.0.13-approb.com.apk
+4. Put hu.tagsoft.ttorrent.lite.txt into "/sdcard/LuckyPatcher/" (without quotes). If this directory doesn't exist, then either ensure that LuckyPatcher was installed, or search your device for the LuckyPatcher directory.
+5. Run the LuckyPatcher, allow Superuser access,long press tTorrent, and choose Custom Patch!
+6. Enjoy
+
+What's New in this version
+-------------------------------------------------------------------------------------
+
+-Added EzRss and TorrentReactor search, removed btjunkie as they have closed. The search plugin must be updated.
+-Encryption support.(rc4)
+-Completed files on details view can be opened by tapping on their names.
+-Fixed FCs.
+-Portuguese localization
+-For more information, go to the Android app market.

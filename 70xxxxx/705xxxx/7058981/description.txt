@@ -1,0 +1,13 @@
+This book introduces the concepts and methodologies employed in designing a
+system-on-chip (SoC) based around a microprocessor core and in designing the
+microprocessor core itself. The principles of microprocessor design are made concrete
+by extensive illustrations based upon the ARM.
+The aim of the book is to assist the reader in understanding how SoCs and microprocessors
+are designed and used, and why a modern processor is designed the way
+that it is. The reader who wishes to know only the general principles should find that
+the ARM illustrations add substance to issues which can otherwise appear somewhat
+ethereal; the reader who wishes to understand the design of the ARM should find that
+the general principles illuminate the rationale for the ARM being as it is.
+Other microprocessor architectures are not described in this book. The reader who
+wishes to make a comparative study of architectures will find the required information
+on the ARM here but must look elsewhere for information on other designs.

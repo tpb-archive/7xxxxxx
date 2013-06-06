@@ -1,0 +1,40 @@
+*************************
+      WinRAR 4.11
+*************************
+
+WinRAR is an archiving utility that completely supports RAR and ZIP archives and is able to unpack
+CAB, ARJ, LZH, TAR, GZ, ACE, UUE, BZ2, JAR, ISO, 7Z, Z archives. It consistently makes smaller archives
+than the competition, saving disk space and transmission costs.
+
+WinRAR offers a graphic interactive interface utilizing mouse and menus as well as the command line interface.
+WinRAR is easier to use than many other archivers with the inclusion of a special "Wizard" mode which allows 
+instant access to the basic archiving functions through a simple question and answer procedure.
+
+WinRAR offers you the benefit of industry strength archive encryption using AES (Advanced Encryption Standard)
+with a key of 128 bits. It supports files and archives up to 8,589 billion gigabytes in size. It also offers the 
+ability to create selfextracting and multivolume archives. With recovery record and recovery volumes, you can 
+reconstruct even physically damaged archives.
+
+*************************
+   What's new in 4.11
+*************************
+
+# Bugs fixed:
+- WinRAR did not store NTFS "Compressed" attribute, when creating RAR archives.
+- WinRAR crashed in command line mode if @filelist parameter was present and 'filelist' did not exist. This bug affected only WinRAR.exe, not RAR.exe.
+- if -x*\somefolder\* exclusion mask was specified when archiving and if name of current folder contained 'somefolder', WinRAR excluded all files and stopped creating an archive.
+- GUI self-extracting archives did not work in Windows Preinstallation Environment (Windows PE).
+
+Instructions:
+1)Install WinRAR(Make sure that the 'rarreg' file is in the same folder sa the installer)
+2)Done!
+
+Option 2:
+1)install WinRAR
+2)Copy/Cut 'rarreg' to the WinRAR Program Folder which is located at C:\Program Files\WinRAR
+3)Done!
+
+*************************
+Have a nice day!
+Please leave a comment and seed.
+Thanks! :)

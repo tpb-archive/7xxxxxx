@@ -1,0 +1,216 @@
+The Final Destination [BDRip-1080p-Mkv-Ita/Eng/Esp-Ac3-MultiSub][Nautilus-BT]
+
+
+
+[ About file ]
+
+Name: The Final Destination [BDRip-1080p-MultiLang-MultiSub-Chapters][RiP By MaX].mkv
+Date: Thu, 24 Nov 2011 02:47:40 +0100
+Size: 4,702,308,697 bytes (4484.471032 MiB)
+
+[ Magic ]
+
+File type: data
+
+[ Generic infos ]
+
+Duration: 01:21:50 (4909.952 s)
+Container: matroska
+Production date: Thu, 24 Nov 2011 02:45:33 +0100
+Total tracks: 11
+Track nr. 1: video (V_MPEG4/ISO/AVC) [The Final Destination [BDRip 1080p][RiP By MaX]] {ita}
+Track nr. 2: audio (A_AC3) [Ita Ac3 5.1] {ita}
+Track nr. 3: audio (A_AC3) [Eng Ac3 5.1] {eng}
+Track nr. 4: audio (A_AC3) [Esp Ac3 5.1] {spa}
+Track nr. 5: subtitle (S_VOBSUB) [Sub Ita] {ita}
+Track nr. 6: subtitle (S_VOBSUB) [Sub Eng] {eng}
+Track nr. 7: subtitle (S_VOBSUB) [Sub Fre] {fre}
+Track nr. 8: subtitle (S_VOBSUB) [Sub Deu] {ger}
+Track nr. 9: subtitle (S_VOBSUB) [Sub Ned] {dut}
+Track nr. 10: subtitle (S_VOBSUB) [Sub Kor] {kor}
+Track nr. 11: subtitle (S_VOBSUB) [Sub Esp] {spa}
+Muxing library: libebml v1.2.2 + libmatroska v1.3.0
+Writing application: mkvmerge v5.0.1 ('Es ist Sommer') built on Oct  9 2011 11:55:43
+
+[ Relevant data ]
+
+Resolution: VERY HIGH (1920 x 800)
+Width: multiple of 32 (GOOD)
+Height: multiple of 32 (GOOD)
+Average DRF quality: MEDIUM (24.702811)
+Standard deviation quality: HIGH (0.625248)
+Std. dev. weighted mean: HIGH (0.572375)
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1920 x 800
+Frame aspect ratio: 12:5 = 2.4
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 12:5 = 2.4
+Framerate: 23.976025 fps
+[debug] codec private: 56 bytes
+Stream size: 4,041,182,895 bytes (3853.972335 MiB)
+Duration (bs): 01:21:47 (4906.943551 s)
+Bitrate (bs): 6588.513363 kbps
+Qf: 0.178904
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 235,677,696 bytes (224.759766 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 153,436
+Duration (bs): 01:21:50 (4909.952 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 235,677,696 bytes (224.759766 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 153,436
+Duration (bs): 01:21:50 (4909.952 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 384 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 3 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 157,118,464 bytes (149.839844 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 153,436
+Duration (bs): 01:21:50 (4909.952 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 256 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 119 r2106 07efeb4 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2011 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=3 | deblock=1:0:0 | analyse=0x3:0x133 | me=umh | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=0 | me_range=32 | chroma_me=1
+User data: trellis=2 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=0
+User data: chroma_qp_offset=-2 | threads=12 | sliced_threads=0 | nr=0
+User data: decimate=1 | interlaced=0 | bluray_compat=1 | constrained_intra=0
+User data: bframes=3 | b_pyramid=0 | b_adapt=2 | b_bias=0 | direct=1
+User data: weightb=1 | open_gop=1 | weightp=1 | keyint=240 | keyint_min=23
+User data: scenecut=40 | intra_refresh=0 | rc_lookahead=40 | rc=2pass
+User data: mbtree=1 | bitrate=6589 | ratetol=1.0 | qcomp=0.60 | qpmin=10
+User data: qpmax=51 | qpstep=4 | cplxblur=20.0 | qblur=0.5 | vbv_maxrate=40000
+User data: vbv_bufsize=40000 | nal_hrd=vbr | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+  Profile: High@L4.1
+  Num ref frames: 3
+  Aspect ratio: Square pixels
+  Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+  Entropy coding type: CABAC
+  Weighted prediction: P slices - explicit weighted prediction
+  Weighted bipred idc: B slices - implicit weighted prediction
+  8x8dct: Yes
+Total frames: 117,649
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 48087 ( 40.873 %) ########
+B-slices: 68279 ( 58.036 %) ############
+I-slices:  1283 (  1.091 %)
+SP-slices:     0 (  0.000 %)
+SI-slices:     0 (  0.000 %)
+
+[ DRF analysis ]
+
+average DRF: 24.702811
+standard deviation: 0.625248
+max DRF: 26
+
+DRF<18:     0 (  0.000 %)
+DRF=18:     1 (  0.001 %)
+DRF=19:     0 (  0.000 %)
+DRF=20:    11 (  0.009 %)
+DRF=21:     3 (  0.003 %)
+DRF=22:   903 (  0.768 %)
+DRF=23:   373 (  0.317 %)
+DRF=24: 38914 ( 33.076 %) #######
+DRF=25: 69965 ( 59.469 %) ############
+DRF=26:  7479 (  6.357 %) #
+DRF>26:     0 (  0.000 %)
+
+P-slices average DRF: 24.710753
+P-slices std. deviation: 0.558471
+P-slices max DRF: 26
+
+B-slices average DRF: 24.742102
+B-slices std. deviation: 0.583131
+B-slices max DRF: 26
+
+I-slices average DRF: 22.314108
+I-slices std. deviation: 0.521117
+I-slices max DRF: 25
+
+[ Profile compliancy ]
+
+Selected profile: BDRip 1080p
+Resolution: Ok
+Framerate: Ok
+Buffer underflow: 00:22:53 (frame 32920)
+Buffer underflow: 00:22:54 (frame 32942)
+Buffer underflow: 00:23:15 (frame 33452)
+Buffer underflow: 00:44:05 (frame 63414)
+Buffer underflow: 00:46:34 (frame 67001)
+Buffer underflow: 00:46:38 (frame 67073)
+Buffer underflow: 00:46:52 (frame 67418)
+Buffer underflow: 00:47:36 (frame 68484)
+Buffer underflow: 00:48:26 (frame 69670)
+Buffer underflow: 00:56:31 (frame 81302)
+Buffer underflow: 00:56:32 (frame 81317)
+Buffer underflow: 00:56:32 (frame 81331)
+
+[ Edition entry ]
+
+UID: 573601186
+Hidden: No
+Selected by default: No
+Playlist: No
+Chapters: 
+00:00:00,000-00:04:00,282: Speedway Day {und}
+00:04:00,282-00:06:42,152: Sinister Signs {und}
+00:06:42,152-00:11:29,230: Car Carnage {und}
+00:11:29,230-00:12:57,652: Credits {und}
+00:12:57,652-00:17:40,309: Your Time's Comin' {und}
+00:17:40,309-00:21:32,791: His Own Victim {und}
+00:21:32,791-00:23:36,081: Something In The Room {und}
+00:23:36,081-00:26:50,651: Salon So Late {und}
+00:26:50,651-00:29:12,376: Eye Contact {und}
+00:29:12,376-00:32:49,134: Would It Kill You? {und}
+00:32:49,134-00:36:03,328: Next To Die {und}
+00:36:03,328-00:39:14,978: Not My Turn {und}
+00:39:14,978-00:43:37,198: Wet Threats {und}
+00:43:37,198-00:47:01,027: Awash At The Wash {und}
+00:47:01,027-00:50:05,044: Down The Drain {und}
+00:50:05,044-00:55:22,611: Breaking The Chain {und}
+00:55:22,611-00:59:46,249: Overflow Below {und}
+00:59:46,249-01:01:22,846: DÃ©jÃ  vu {und}
+01:01:22,846-01:05:43,940: At The Movies {und}
+01:05:43,940-01:08:18,094: Bye Bye Suckers {und}
+01:08:18,094-01:09:55,942: Deescalated {und}
+01:09:55,942-01:13:33,701: Damper On Death {und}
+01:13:33,701-01:16:35,049: Death By Caffeine {und}
+01:16:35,049-01:21:49,952: End Credits {und}
+
+This report was created by AVInaptic (18-12-2011) on 11-02-2012 17:20:38

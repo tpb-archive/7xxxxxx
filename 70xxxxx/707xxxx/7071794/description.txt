@@ -1,0 +1,22 @@
+NetbootCD is a GNU/Linux live CD based on Tiny Core Linux. 
+http://www.tinycorelinux.com/
+The live CD allows the user to download and run one of several Linux netboot installers, which can install a full GNU/Linux system with only a hard drive and Internet connection.
+Several of the distributions supported by NetbootCD are prerelease distributions (such as Debian testing) or development distributions (openSUSE Factory, Fedora Rawhide, Debian sid.) Because NetbootCD downloads the latest installer, which in turn downloads the latest system components, you can install a fully up-to-date system without burning a new CD.
+The current version of NetbootCD is version 4.8, available from TuxFamily. It is built on a Core-4.2.1 base, with kexec support added to the kernel. The ISO image can be burned to a CD/DVD or written to a flash drive.
+I have also made available an ISO image with NetbootCD 4.8 and CorePlus 4.2.1. It should work with CDs or USB drives, and includes everything in CorePlus. A new feature lets you boot to the X desktop and then run NetbootCD after exiting to the prompt. 
+http://netbootcd.tuxfamily.org/
+
+Notes (for 4.9)
+    * NetbootCD uses a recompiled Tiny Core Linux kernel with kexec support. The kexec-tools binaries are in the initrd (nbinit4.gz) and, on the NetbootCD + CorePlus ISO, they are also in a kexec.tcz archive on the CD so you can use kexec from within Tiny Core.
+    * In the NetbootCD + CorePlus ISO, you can launch NetbootCD with the CorePlus add-ons. The CorePlus desktop will show up first, and you can run the NetbootCD script by exiting to the command prompt and running 'netboot'.
+    * NetbootCD 4.5+ has a new 'script' option on the main menu. With this option, you can have NetbootCD load and parse a SYSLINUX-formatted boot configuration and do its best to run one of the boot options specified.
+          o Multiple initrds are supported, but they are combined in memory, so the process takes a bit longer.
+          o Kernels other than Linux and GRUB4DOS probably won't work.
+          o You can choose to search for syslinux.cfg, isolinux.cfg, pxelinux.cfg, or nbcd.cfg. The search checks the CD-ROM first, then all disks listed in 'fdisk -l'. 
+http://netbootcd.tuxfamily.org/#Notes
+ 
+http://netbootcd.tuxfamily.org/#Downloads (floppy,...)  
+http://netbootcd.tuxfamily.org/#Supported%20Distributions  
+http://netbootcd.tuxfamily.org/#Licensing
+
+md5sum : c2000b0e417f5c2de13a11c2440f5361  NetbootCD-4.9+CorePlus-4.3.1.iso

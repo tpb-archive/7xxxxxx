@@ -1,0 +1,25 @@
+*Windows Version* aTV Flash is a software program used to free your Apple TV (2nd Gen) from the restrictions Apple places on it. This update:
+
+Added automated firmware signature backups
+Added Danish, Dutch, French, Greek, Italian, Brazilian Portuguese, and Spanish translations
+Added support for advanced (learned) remote commands
+Added support for multiple external subtitles (movie.en.srt, movie.de.srt, etc...)
+Added support for folder based organization/playback
+Added support for embedded DVD chapters
+Added chapters section heading to Playback Menu
+Added global zoom setting
+Improved playback performance for movies with invalid timestamps
+Improved appearance of VobSub subtitles
+Improved metadata fetching for localized file names
+Improved audio track filtering
+Improved playback bar to match native player
+Improved metadata and bulk folder fetching stability
+Improved Media > Settings menu layout
+Resolved issues with folder name changing on metadata fetching
+Resolved issues with buffering
+Resolved rare DVD related crash
+Resolved floating AFP issue that was causing connection issues
+Resolved floating buffer overflow in software decoder
+Minor changes to Grid View appearance
+Minor UI improvements
+Other miscellaneous bug fixes

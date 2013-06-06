@@ -1,0 +1,40 @@
+K-Lite Codec Pack (64-bit) 5.8.0 Codec [Monday February 6th, 2012]
+
+
+Version 5.8.0 ~ 9.4 MB ~ February 6th 2012
+
+
+K-Lite Codec Pack 64-bit
+
+This is a bundle of 64-bit DirectShow filters that can be used together with 64-bit players, such as Windows Media Center.
+
+This 64-bit pack can co-exist without problems with the regular K-Lite Codec Pack. In fact, it is recommended to install both the 32-bit and 64-bit versions of the codec pack. That way you will get proper playback in both 32-bit and 64-bit applications. Many multimedia applications are still 32-bit and will work fine on your 64-bit version of Windows.
+
+
+Contents of version 5.8.0:
+
+    ffdshow [version 1.1.4307]
+    LAV Video [version 0.45 build 2012-02-06]
+    LAV Audio [version 0.45 build 2012-02-06]
+    AC3Filter [version 1.63b]
+    AC3File [version 0.7b]
+    Haali Media Splitter [version 1.11.288.0]
+    LAV Splitter [version 0.45 build 2012-02-06]
+    CDXA Reader [version 1.6.1.4041]
+    DirectVobSub [version 2.40.4041.0]
+    Lagarith [version 1.3.27]
+    Codec Tweak Tool [version 5.1.4]
+    Win7DSFilterTweaker [version 4.7]
+    GraphStudioNext [version 0.4.9.0]
+
+
+Changelog 5.7.0 to 5.8.0 ~ 2012-02-06
+
+    Updated ffdshow to version 1.1.4307
+    Updated LAV Filters to version 0.45 build 2012-02-06
+    Updated Codec Tweak Tool to version 5.1.4
+    Replaced GraphStudio with GraphStudioNext 0.4.9.0
+
+
+
+MD5 95dde4af04d8d4aa8ab91f20dde51ee7

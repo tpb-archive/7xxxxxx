@@ -1,0 +1,16 @@
+AMD Catalyst Application Profiles V12.2  [2/29/2012]
+
+Description:
+This release of AMD CatalystΓäó delivers support for the latest AMD CrossFireXΓäó profiles. A separate executable file ensures users have access to the latest set of profiles installed on their PC.
+                                       
+New profiles added to this release:
+-  Mass Effect 3:  Improves CrossFire performance
+-  Path of Exile ΓÇô Improves CrossFire performance
+-  Darkness 2 ΓÇô Resolves flickering issues on single GPU configurations when Anti-Aliasing is forced on in the Catalyst Control Center
+-  Kingdoms of Amalur: Reckoning ΓÇô Resolves character texture corruption seen using single GPU configurations when Anti-Aliasing is forced on in the Catalyst Control Center
+-  Wargame: European Escalation(DirectX 9 version):  Improves CrossFire performance
+-  Wargame: European Escalation(DirectX 11 version):  Resolves flickering observed when running in CrossFire mode
+-  Mount Blade:  Disables CrossFire to avoid corruption as the title has a capped Frame Rate
+-  L.A. Noire (DirectX 11 Version):  Improves CrossFire performance, and resolves flickering seen in shadows
+ 
+http://sites.amd.com/us/game/downloads/Pages/downloads.aspx

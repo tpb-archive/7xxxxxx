@@ -1,0 +1,15 @@
+. Duration        :: 21 Minutes
+ . Release Size    :: 108MB (84% Compress)
+ . x264 r2146      :: 565 Kbps
+ . AAC 2ch CBR     :: 160 Kbps
+ . Resolution (AR) :: 852x480 (1.775)
+ 
+ Source : The Big Bang Theory S05E15 The Friendship Contraction 720p WEB-DL DD5 1 H 264-CtrlHD : 681MB
+ 
+ raw852x480p 0:0 @ 2500000/104271 fps (cfr)
+ x264profile High, level 4.1
+ x264frame I:436   Avg QP:20.07  size: 40782
+ x264frame P:8793  Avg QP:23.04  size:  5758
+ x264frame B:20380 Avg QP:26.70  size:   996
+ x264consecutive B-frames:  6.3% 10.9% 13.4% 28.2% 31.9%  6.7%  2.5%
+ encoded 29609 frames, 37.48 fps, 574.62 kb/s

@@ -1,0 +1,22 @@
+DOWNLOAD: http://www.appstap.net/
+
+APPS REQUEST: http://www.appstap.net/p/apps-request.html
+
+iFFmpeg is a graphical front-end for FFmpeg, a command-line tool used to convert multimedia files between formats. The command line instructions can be very hard to master/understand, so iFFmpeg does all the hard work for you. This allows you to use FFmpeg without detailed command-line knowledge.
+What's New
+Version 2.9.3:
+
+    Changed preference ΓÇ£Multi CPU Core supportΓÇ¥. You can now select how many Cores you want to use.
+    Fixed issue encoding to Prores and ALAC audio.
+    Improved DNxHD support.
+    Encoding to V410 4:4:4 10bit now works correctly (command line was not correct)
+    Reset demo.
+
+Requirements
+
+    Intel
+    Mac OS X 10.6 or later
+    Working FFmpeg OS X binary
+
+
+APPS REQUEST: http://www.appstap.net/p/apps-request.html

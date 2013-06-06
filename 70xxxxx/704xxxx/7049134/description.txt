@@ -1,0 +1,63 @@
+About the Game
+Play the world\'s number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team\'s success. Your team\'s success affects your role.
+
+FEATURES
+- Release date December 03, 2011
+- 100% Clean Rip from Steam GCFs (Game Cache files)
+- Only ~235MB setup size
+- Latest engine update (1.1.2.6/2.0.0.0 Jun 15 2009 build 4554)
+- Dual Protocol (48 + 47) Client
+- Client could join p47 servers as well as p48
+- Dual Protocol (48 + 47) Dedicated Server is also included
+- Fully working server browser with favorites
+- Compatible with Latest sXe Injected
+- Added latest CZ bots modified for CS
+- Works with Vista/Windows 7
+- Playable on LAN and Internet
+- Using revEmu (v9.8.1 R4)
+- Working Dedicated and Listen server (Steam & Non-Steam)
+- HLTV is also included and works
+- Half-Life (Multiplayer) included
+- Half-Life maps are totally removed
+- Support for unicode input
+- Ingame ads are removed 
+
+
+
+
+FAQs
+Q. My game hang when I click on New Game, Options or Favorites in game menu.
+
+A. Install Microsoft Visual C++ Redistributable Packages and then try video fix \"Counter-Strike\\videofix\\video_fix.reg\". If it don\'t fix the problem then apply this patchthis will definitely solve the problem.
+
+
+
+Q. When I create a listen server my game freezes during map change.
+
+A. Solution#1 Use changelevel command to change the map e.g changelevel de_inferno Or quit the game and create New Game again.
+Solution#2 go to \"Counter-Strike\" folder and open \"rev.ini\" file in notepad, comment \"ClientDLL=steam\\steamclient_orig.dll\" to \"#ClientDLL=steam\\steamclient_orig.dll\"
+This is permanent solution but now no server will show in internet tab. This is a revEmu bug.
+
+
+
+Q. I can\'t able to add server to favorites.
+
+A. This will only occurs when you try to add old protocol 47 server. You can play on protocol 47 server. e.g Server IP : 172.16.100.100:27015 and password : 123. Open game console and use the following commands
+password \"123\"
+connect \"172.16.100.100:27015\"
+
+
+
+CREDITS
+Valve - Counter-Strike
+revCrew - REVOLUTiON Emulator
+steamCooker - CF Toolbox
+SASiO - GCFExplore
+Crock - dproto and Complete unicode pack
+
+Enjoy The Game
+
+
+
+                          PLEASE SEEEEEEEEEEEEDDD !!!!!!!!!!!!!!!!!
+                               

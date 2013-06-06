@@ -1,0 +1,77 @@
+I didn't create this.  This was created by sidxx55 and ps2gamer of http://deioncube.in.  I simply packaged it as an installer and made it available via torrent since it's a hard to find item.  It took me 5 bloody hours to find something that worked for modern encryption.
+
+Enjoy!
+
+
+Readme file contents:
+
+==============================================
+PHP5 DeZenders [NWS & RM] [UPDATED 06.09.2011]
+==============================================
+
+==================
+Based on php 5.2.1
+==================
+
+Includes the following loaders for encoded files:
+ + ionCube PHP Loader v3.1.31 [CRACKED by sidxx55]
+ + NuSphere PhpExpress v3.0.1 [RETAIL]
+ + Zend Optimizer v3.3.3 [PATCHED by ps2gamer]
+
+========================
+Successfully tested with
+========================
+
+ + Ioncubed files   [v6]
+ + NuCoder files    [v2]
+ + Zend Guard files [v5]
+
+============
+Requirements
+============
+
+Microsoft Visual C++ 2008 SP1 Redistributable Package:
+x86: https://www.microsoft.com/download/en/details.aspx?id=5582
+x64: https://www.microsoft.com/download/en/details.aspx?id=2092
+
+Microsoft Visual C++ 2010 SP1 Redistributable Package:
+x86: https://www.microsoft.com/download/en/details.aspx?id=8328
+x64: https://www.microsoft.com/download/en/details.aspx?id=13523
+
+Note: If you are running windows x64, you have to install both x64 and x86 versions.
+
+==========
+How to use
+==========
+
+Decoding a file:
+
+#1: Put dezender in a path without spaces or dots (example C:\dezender)
+
+#2: Drag ioncubed/zended file in DECODE_NWS.bat or DECODE_RM.bat and it should produce a decoded file.
+
+---
+
+Decoding multiple files:
+
+#1: Put dezender in a path without spaces or dots (example C:\dezender)
+
+#2: Put the program that needs dezending in _decode (the whole program is fine),
+    it will only parse php files but it will copy all other files to the decoded folder.
+
+#3: Run DECODE_NWS.bat or DECODE_RM.bat
+
+#4: Sit back, grab another beer, should be done shortly depending on the size of the program
+
+#5: Take a look in _decoded_nws or _decoded_rm (depends on the dezender used)
+
+=========
+Thanks to
+=========
+
+sidxx55
+ps2gamer
+
+===============================
+Visit us at http://deioncube.in
+===============================

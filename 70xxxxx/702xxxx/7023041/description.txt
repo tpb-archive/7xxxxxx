@@ -1,0 +1,73 @@
+NOTE: The patches and language files take FOREVER to load. On my MBP dual quad it took 20 minutes to find the appropriate disk to install  on - so please be patient - it's working - just slowly.
+
+Official Web Site:  http://www.neooffice.org/neojava/en/index.php
+
+NeoOffice is a full-featured set of office applications for MacÂ OSÂ X. Created in 2003 when there was no MacÂ OSÂ X version of OpenOffice.org available, Patrick Luby and Ed Peterlin have devoted their decades of Mac software engineering experience to create an office suite that is adapted to the unique needs of Mac users.
+While OpenOffice.org and LibreOffice now have their own MacÂ OSÂ X versions, Patrick and Ed continually add improvements to NeoOffice that our MacÂ OSÂ X users will not find in OpenOffice.org or LibreOffice such as:
+
+* Open Calc or Impress instead of Writer at launch
+The NeoOffice 
+
+Open at Launch menu allows you to choose which type of document to open when NeoOffice is launched. By default, NeoOffice opens a Writer document when launched. However, many of our users have requested that we provide an easy way to make a different document type such as Calc or Impress open when NeoOffice is launched so we have added the NeoOffice
+
+Open at Launch menu.
+When a user selects one of the document types listed in this menu, NeoOffice will open the selected document type the next time that you launch it. Also, users can select the "-Â NoneÂ -" menu item to only show the MacÂ OSÂ X menubar when NeoOffice is launched. The screen snapshot to the right shows the NeoOffice :: Open at Launch menu with Calc set as the document type to open at launch.
+Open Calc or Impress instead of Writer at launch
+
+The NeoOffice :: Open at Launch menu allows you to choose which type of document to open when NeoOffice is launched. By default, NeoOffice opens a Writer document when launched. However, many of our users have requested that we provide an easy way to make a different document type such as Calc or Impress open when NeoOffice is launched so we have added the NeoOffice :: Open at Launch menu.
+
+When a user selects one of the document types listed in this menu, NeoOffice will open the selected document type the next time that you launch it. Also, users can select the "-Â NoneÂ -" menu item to only show the MacÂ OSÂ X menubar when NeoOffice is launched. The screen snapshot to the right shows the NeoOffice :: Open at Launch menu with Calc set as the document type to open at launch.
+
+* Open Calc or Impress instead of Writer at launch
+  The NeoOffice 
+
+Open at Launch menu allows you to choose which type of document to open when NeoOffice is launched. By default, NeoOffice opens a Writer document when launched. However, many of our users have requested that we provide an easy way to make a different document type such as Calc or Impress open when NeoOffice is launched so we have added the NeoOffice :: Open at Launch menu.
+When a user selects one of the document types listed in this menu, NeoOffice will open the selected document type the next time that you launch it. Also, users can select the "-Â NoneÂ -" menu item to only show the MacÂ OSÂ X menubar when NeoOffice is launched. The screen snapshot to the right shows the NeoOffice :: Open at Launch menu with Calc set as the document type to open at launch.
+
+NeoOffice Mobile
+
+NeoOffice Mobile provides a way to securely share NeoOffice files with other users and other computers. It works by allowing you to "publish" a document from within NeoOffice to the NeoOffice Mobile server using a secure, encrypted connection. Once documents are published, they can be viewed using secure connections from regular web browsers or web-enabled mobile devices. Also, NeoOffice users can open previously published documents directly in NeoOffice.
+Anyone can create a free NeoOffice Mobile account. Free accounts can upload and view documents but they are limited to only 10 megabytes of storage and their documents expire after 7 days. This allows users to try out NeoOffice Mobile and use it for temporary storage. NeoOffice donors, in contrast, have access to the complete set of features
+
+* Expanded font support
+
+â€¨NeoOffice now uses Apple's CoreText text layout and rendering functions. In contrast, OpenOffice.org and LibreOffice use Apple's obsolete ATSUI functions. The CoreText functions are up to twice as fast as the ATSUI functions and the CoreText functions provide improved text layout and rendering for many Windows OpenType fonts.
+
+* Native file locking support
+
+for local and networked volumesâ€¨OpenOffice.org and LibreOffice stopped using native file locking and started using custom, non-native file locking code. Since most office suite applications use native file locking, their custom, non-native code caused frequent problems when users on different machines were editing the same file on a networked volume. We have restored native file locking in NeoOffice and now file locking should work the same as it did in NeoOffice 2.2.6.
+
+* MacÂ OSÂ X Services support
+
+â€¨In NeoOffice, many of the menus within the NeoOffice :: Services menu will be enabled whenever you highlight data in your document. When you select any of the submenus in the NeoOffice :: Services menu, the highlighted data will be sent to the MacÂ OSÂ X application that matches to the Services menu that you select. NeoOffice also supports MacÂ OSÂ X services that change the highlighted data in your document.
+
+* Media Browser support
+
+â€¨Many MacÂ OSÂ X users have found Apple's iLife Media Browser very useful and we have received many requests to include the same feature in NeoOffice. Fortunately, the generous people at Karelia Software have developed the iMedia Browser and we have integrated their iMedia Browser into NeoOffice. Once you open the Media browser by clicking on the Show Media Browser toolbar button or selecting the Tools :: Add-ons :: Show Media Browser menu, a floating window will appear from which you can drag your images, movies, sound files, or links directly into a NeoOffice document.
+
+* Native floating tool windows
+
+â€¨In OpenOffice.org and LibreOffice, many floating tool windows such as the Styles and Formatting and the Color windows look and behave like document windows. Also, other floating tool windows such as the Bullets and Numbering and the Table windows look and behave like Windows floating tool windows. But in NeoOffice, all floating tool windows in NeoOffice will be native floating tool windows. This means that they will look and behave like floating tool windows in most other MacÂ OSÂ X applications. They will have the small window titlebar, all of the floating tool windows will float above the document windows, and when NeoOffice is not the active application, all of the floating tool windows will automatically be hidden until 
+NeoOffice becomes the active application again.
+
+
+* Menus available when no documents are open
+â€¨OpenOffice.org and LibreOffice have only a very minimal set of menu items available if no documents were open. But in NeoOffice, menus are available even when no documents are open. This feature allows users to access some of the frequently used menus such as the Recent Documents and NeoOffice Help menu items that previously were not accessible unless you opened a document first.
+
+* Import images from scanners and cameras
+
+â€¨A menu - Tools :: Add-ons :: Paste Image from Camera or Scanner - has been added. Selecting this menu allows you to directly import images into NeoOffice from any device (such as digital cameras or scanners) that Apple's Image Capture application supports. If you have any devices attached to your machine that Image Capture recognizes, selecting this menu will display the MacÂ OSÂ X Image Capture dialog. Using this dialog, you can import an image from any of the recognized devices into your current document. In addition, the imported image will also be copied to the system clipboard so that you can paste additional copies of the imported image in NeoOffice or any other application.
+
+* Command-clicking on window titlebar
+
+â€¨In most MacÂ OSÂ X applications, whenever a previously saved document is opened, a small icon will appear in the window's titlebar. Command-clicking on this icon will display a popup menu that lists the file name and the folders that the file is in. Clicking on any of these items will open the Finder.
+
+* MacÂ OSÂ X grammar checking support
+
+â€¨In MacÂ OSÂ X 10.5.x, Apple added grammar checking support for a small number of languages. NeoOffice takes advantage of this MacÂ OSÂ X feature and so we have added several menu items in the Tools :: Add-ons menu. These menu items allow you to use MacÂ OSÂ X Leopard's grammar checker to check the grammar and recommend corrections for your document's selected text or your entire document. Please note that at this time, MacÂ OSÂ X's grammar checker only supports English.
+
+System requirements:
+
+UB - OS X.5 and above
+
+--- PLEASE SEED ---

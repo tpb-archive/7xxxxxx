@@ -1,0 +1,23 @@
+Description
+A minimal Debian based Linux system with fully functional bash shell (with GNU coreutils, not BusyBox), TCP/IP networking with DHCP client and APT setup to be able to install any package from the Debian repositories.  
+http://sourceforge.net/projects/bachatalinux/
+
+*.iso files are CD-ROM images with a bootable self-contained installer. Burn on a CD-R disk and boot from it to install on a physical machine, or use directly to install in a virtual machine. *.img files are disk images with a bootable self-contained installer. Write to an USB disk and boot from it to install on a physical machine. Use '486' if you have an i486 or early Intel Pentium CPU. Use '686' if you have an modern Intel or AMD CPU. Use '686-bigmem' if you have an modern Intel or AMD CPU with PAE support and more than 4 GB RAM.  
+http://sourceforge.net/projects/bachatalinux/files/
+ 
+http://www.bachatalinux.net/ 
+http://www.staldal.nu/tech/ (blog)
+
+sha1 + md5 sums : 
+e8ea032e7c91247df7d1e0284ae4897ca90a5f9c  bachatalinux-1.0-i386-486.img
+0759099b4bce11f180b60ec192191d09  bachatalinux-1.0-i386-486.img
+9800e7fe6351e25fd8319c2cea6cfbe13ffd4164  bachatalinux-1.0-i386-486.iso
+e8c087e360b539538af6f848a3d885b7  bachatalinux-1.0-i386-486.iso
+f4ed808c349d305e617a8ec2b8812bac1079a51b  bachatalinux-1.0-i386-686-bigmem.img
+19c844d964704ead12f9f01be24135c7  bachatalinux-1.0-i386-686-bigmem.img
+2e416e6274d8c49538c8bdc4a9d72ed22f35747b  bachatalinux-1.0-i386-686-bigmem.iso
+042c33176a81a500ee79a95da9eb19b8  bachatalinux-1.0-i386-686-bigmem.iso
+c650b21906ccd64e3ea42091e6f336c7f345653c  bachatalinux-1.0-i386-686.img
+6f21f65d30547f7c8b177e53ceaee563  bachatalinux-1.0-i386-686.img
+4ca760f339f4a4ee808089df7d5656bb20452865  bachatalinux-1.0-i386-686.iso
+b259932dc27ef75d4c9e9be162145f2b  bachatalinux-1.0-i386-686.iso

@@ -1,0 +1,88 @@
+I remuxed this with AC3 audio instead of AAC like the other upload here which was created 
+
+with some unknown program. My Blu-Ray won't play aac and possibly others will not either, so 
+
+here is a file that has been tested on a Samsung BR player. It is a few MB larger because 
+
+AC3 has a larger footprint than AAC.		                         			
+
+												
+
+											
+
+Enjoy and please share.                             						
+
+												
+
+												
+
+TTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTL						
+
+												
+
+												
+
+												
+
+Kidnap_And_Ransom_S02_E03.720p.HDTV.x264_REMUX_TTL.mka
+Format                           : Matroska
+File size                        : 944 MiB
+Duration                         : 45mn 31s
+Overall bit rate                 : 2 900 Kbps
+Encoded date                     : UTC 2012-03-10 00:26:11
+Writing application              : mkvmerge v2.4.0 ('Fumbling Towards Ecstasy') built on 
+
+Oct 11 2008 20:13:15
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 2
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Muxing mode                      : Container profile=Unknown@4.1
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 45mn 31s
+Bit rate                         : 2 522 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.109
+Stream size                      : 821 MiB (87%)
+Writing library                  : x264 core 120 r2164 da19765
+Encoding settings                : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / 
+
+me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / 
+
+trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / 
+
+threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / 
+
+constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 
+
+/ open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / 
+
+rc_lookahead=50 / rc=crf / mbtree=1 / crf=19.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 
+
+/ ip_ratio=1.40 / aq=1:1.00
+Language                         : English
+
+Audio
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 45mn 31s
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 104 MiB (11%)
+

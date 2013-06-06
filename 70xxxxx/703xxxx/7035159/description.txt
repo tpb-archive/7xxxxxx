@@ -1,0 +1,93 @@
+Formato                                  : Matroska
+Formato de la versiÃ³n                    : Version 2
+TamaÃ±o del archivo                       : 4,41GIB
+DuraciÃ³n                                 : 1h 40min.
+Tasa de bits total                       : 6 287Kbps
+Fecha de codificaciÃ³n                    : UTC 2012-02-15 10:38:43
+AplicaciÃ³n de codificiÃ³n                 : mkvmerge v5.3.0 ('I could have danced') built on Feb  9 2012 10:38:07
+LibrerÃ­a de codificaciÃ³n                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.0
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 4marcos
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : V_MPEG4/ISO/AVC
+DuraciÃ³n                                 : 1h 40min.
+Tasa de bits                             : 4 800Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 1 040pixeles
+RelaciÃ³n de aspecto                      : 16:9
+Modo de velocidad de cuadro              : Variable
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploraciÃ³n                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.100
+TamaÃ±o de pista                          : 3,27GIB (74%)
+LibrerÃ­a de codificaciÃ³n                 : x264 core 88
+Opciones de codificaciÃ³n                 : cabac=1 
+Idioma                                   : InglÃ©s
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+transfer_characteristics                 : BT.709-5, BT.1361
+matrix_coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1
+ID                                       : 4
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : A_DTS
+DuraciÃ³n                                 : 1h 40min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 755Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+TamaÃ±o de pista                          : 542MB (12%)
+Idioma                                   : EspaÃ±ol
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 5
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : A_DTS
+DuraciÃ³n                                 : 1h 40min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 755Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+TamaÃ±o de pista                          : 542MB (12%)
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 2
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+Idioma                                   : InglÃ©s
+Default                                  : Si
+Forced                                   : No
+
+Texto #2
+ID                                       : 3
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+Idioma                                   : EspaÃ±ol
+Default                                  : No
+Forced                                   : No

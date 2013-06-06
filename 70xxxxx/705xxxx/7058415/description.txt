@@ -1,0 +1,11 @@
+NetbootCD is a GNU/Linux live CD based on Tiny Core Linux. The live CD allows the user to download and run one of several Linux netboot installers, which can install a full GNU/Linux system with only a hard drive and Internet connection.
+Several of the distributions supported by NetbootCD are prerelease distributions (such as Debian testing) or development distributions (openSUSE Factory, Fedora Rawhide, Debian sid.) Because NetbootCD downloads the latest installer, which in turn downloads the latest system components, you can install a fully up-to-date system without burning a new CD.
+The current version of NetbootCD is version 4.8, available from TuxFamily. It is built on a Core-4.2.1 base, with kexec support added to the kernel. The ISO image can be burned to a CD/DVD or written to a flash drive.
+I have also made available an ISO image with NetbootCD 4.8 and CorePlus 4.2.1. It should work with CDs or USB drives, and includes everything in CorePlus. A new feature lets you boot to the X desktop and then run NetbootCD after exiting to the prompt.
+ 
+http://netbootcd.tuxfamily.org/ 
+http://netbootcd.tuxfamily.org/#Downloads (floppy,...) 
+http://netbootcd.tuxfamily.org/#Supported%20Distributions 
+http://netbootcd.tuxfamily.org/#Licensing
+
+md5sum : 7b71933f67a0a521e3605aceed132ad5  NetbootCD-4.8+CorePlus-4.2.1.iso

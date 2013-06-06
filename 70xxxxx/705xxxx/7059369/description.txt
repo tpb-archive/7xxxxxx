@@ -1,0 +1,33 @@
+Official Web Site:  http://c-command.com/dropdmg/
+
+DropDMG allows users to quickly create .dmg archives.
+
+Disk images pack entire folders or disks into a single compressed file, either for transport across the Internet or simply for backup. They are Apple's preferred format for distributing Mac software. Disk images are also the only archive format whose contents you can directly access in the Finder.
+
+DropDMG is the easiest way to create Mac OS X disk images, as well as cross-platform archives. Just drag and drop a folder or file and you're done. Or, you can drag an existing disk image or archive onto DropDMG to convert it to any of the other supported formats or to burn it to CD or DVD.
+
+DropDMG supports advanced options such as encrypted and segmented disk images, WYSIWYG layout with background pictures and custom volume icons, and rich-text license agreements in multiple languages. There are many time-saving features, and it can also be automated via AppleScript, the command-line, and Automator.
+
+WHAT'S NEW
+
+Version 3.1.2:
+
+* Fixed a bug where DropDMG would fail with a permissions error
+  when creating a disk image with a custom icon of a root-owned file, 
+  e.g. a purchase from the Mac App Store.
+
+* Fixed a bug where, in rare cases, DropDMG could not create a disk
+   image if a file with its preferred temporary name already existed.
+
+* Fixed a bug creating images in .cdr format with custom icons or
+   layouts.
+
+* Clarified the description of .cdr disk image format.
+
+* Adjusted the help page titles to fit better in the menu and search results.
+
+System Requirements:
+
+OS version: Mac OS X 10.5 or later
+
+--- PLEASE SEED ---

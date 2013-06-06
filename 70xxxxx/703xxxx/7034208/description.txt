@@ -1,0 +1,17 @@
+
+
+Description:
+
+McAfee AVERT Stinger does not require users to install it on their PC, which comes in quite handy, especially considering that viruses often attempt to block installation of security tools. It is delivered as a stand-alone executable file that can be directly double-clicked for running.
+
+Stinger is a free stand-alone utility used to detect and remove specific viruses.
+
+McAfee AVERT Stinger is not a substitute for the full anti-virus protection, but rather a tool that assists administrators and users when dealing with an infected system.
+
+Stinger utilizes next generation scan engine technology, including process scanning, digitally signed DAT files, and scan performance optimizations.
+
+Note:Windows ME and XP utilize a restore utility that backs up selected files automatically to the C:_Restore folder.
+
+This means that an infected file could be stored there as a backup file, and VirusScan will be unable to delete these files. You must disable the System Restore Utility to remove the infected files from the C:_Restore folder.
+
+

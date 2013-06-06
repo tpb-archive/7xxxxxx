@@ -1,0 +1,18 @@
+"Here is the latest in our new weekly Overgrowth alpha format! David himself took some time to illustrate the traditional changelog in video form.
+
+Don't forget that you can help support us, try out our weekly alphas (such as the one in the video), and chat with other preorderers in the Secret Preorder Forum by preordering Overgrowth.
+
+
+The features highlighted in the above video are as follows (among some extra ones thrown in for good measure):
+
+- Live update for most config settings
+- Live update for window resize (only on Windows for now because of Mac/Linux bugs in SDL)
+- Scripts can execute arbitrary code within each other (with Execute("$ARBITRARY_CODE"))
+- Testing fighting-game camera for two-player versus mode
+- Main menu javascript can save and load files (for mod tools)
+- Fixed problem when live updating main menu
+- Levels can have manually defined weightmap paths in the level xml
+
+Thanks as always for all the support! See you guys in IRC and the forums.
+
+Also, feel free to support us by preordering Overgrowth!"

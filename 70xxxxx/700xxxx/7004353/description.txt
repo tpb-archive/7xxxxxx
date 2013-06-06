@@ -1,0 +1,69 @@
+Official Web Site:  http://peacockmedia.co.uk/scrutiny/
+
+Scrutiny
+website link checker and webmaster tools suite for mac OSX
+
+Improve the quality and search engine ranking of your website by checking your images, your internal and external links, generating an XML sitemap for submission to search engines, validating your html and making essential SEO checks such as page title, headings, meta description and keywords.
+
+Feed Scrutiny your homepage URL and watch it follow internal links to find all of your pages and carry out checks from the same viewpoint as a search engine robot.
+
+Features:
+
+* It will check images, all internal and external links and report the server
+  response code for each
+
+* It will highlight problems with color and tell you which page(s) each
+  bad link appears on
+
+* It will list all of your pages and export this information as an XML
+  sitemap conforming to the standard protocol for submission to search
+  engines and optionally ftp it to your server
+
+* It will use the w3c html validator (or your own instance of that free
+  software) to check your html validity
+
+* It will make essential SEO checks such as page title, headings, meta
+  description and keywords
+
+* It will allow you to manage as many sites as you like with different
+  settings for each
+
+New Features:
+
+* New feature - option to ftp sitemap file to server after generating it.
+
+* Server and authentication details are saved with the config for each site.
+
+* Some related options added to Preferences
+
+* Sendsheader field for every request (other than the starting url)
+ this fixes a very small number of odd bugs
+
+* 'Open local file' is added to the File menu. Functionality to crawl a site
+  locally or import a list of links did exist in previous versions and was
+  documented, but wasn't very accessible as it relied on a drag and drop
+  into the starting url field (which still works and is to be improved in a
+  future version)
+
+* Fixes bug preventing links to w3c being checked properly
+
+* Fixes a small memory leak
+
+* Clears data from flat link view before starting a new crawl
+
+* Fixes bug preventing crawl from finishing properly if user tries to
+  highlight link on page before link has been checked
+
+* Fixes bug preventing date stamp from being written properly every time
+
+* Improves re-check broken links - now correctly uses as many threads as
+  are set in settings and fixes problem preventing it from finishing every
+  time
+
+* Clarifies number of links checked (x of y)
+
+System Requirements:
+
+UB = PPC or Intel Mac, OS X.4.11 or above
+
+--- PLEASE SEED ---

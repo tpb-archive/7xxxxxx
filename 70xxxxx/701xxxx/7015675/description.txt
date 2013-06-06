@@ -1,0 +1,115 @@
+General
+UniqueID/String                          : 193050285696732065855701804204303960963 (0x913C21F20BDFD3C7BF96CE528D05CB83)
+Nombre completo                          : Braveheart.mkv
+Formato                                  : Matroska
+Formato de la versiÃ³n                    : Version 2
+TamaÃ±o del archivo                       : 29,4GIB
+DuraciÃ³n                                 : 2h 57min.
+Modo de tasa de bits                     : Variable
+Tasa de bits total                       : 23,7Mbps
+Fecha de codificaciÃ³n                    : UTC 2010-09-26 12:46:09
+AplicaciÃ³n de codificiÃ³n                 : mkvmerge v4.2.0 ('No Talking') realizado en Jul 29 2010 11:34:44
+LibrerÃ­a de codificaciÃ³n                 : libebml v1.0.0 + libmatroska v1.0.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 3marcos
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : V_MPEG4/ISO/AVC
+DuraciÃ³n                                 : 2h 57min.
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 19,4Mbps
+Tasa de bits mÃ¡xima                      : 40,0Mbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 1 080pixeles
+RelaciÃ³n de aspecto                      : 16:9
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploraciÃ³n                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.391
+TamaÃ±o de pista                          : 24,1GIB (82%)
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : A_DTS
+DuraciÃ³n                                 : 2h 57min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 755Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+Demora del video                         : 3ms
+TamaÃ±o de pista                          : 959MB (3%)
+Idioma                                   : EspaÃ±ol
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Formato del perfil                       : HRA / Core
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : A_DTS
+DuraciÃ³n                                 : 2h 57min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 3 019Kbps / 1 510Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+TamaÃ±o de pista                          : 3,75GIB (13%)
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 4
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+TÃ­tulo                                   : Forzados
+Idioma                                   : EspaÃ±ol
+Default                                  : Si
+Forced                                   : Si
+
+Texto #2
+ID                                       : 5
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+Idioma                                   : EspaÃ±ol
+Default                                  : No
+Forced                                   : No
+
+Texto #3
+ID                                       : 6
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #4
+ID                                       : 7
+Formato                                  : UTF-8
+ID CÃ³dec                                 : S_TEXT/UTF8
+ID CÃ³dec/Info                            : UTF-8 Plain Text
+TÃ­tulo                                   : Comentarios del director
+Idioma                                   : EspaÃ±ol
+Default                                  : No
+Forced                                   : No
+

@@ -1,0 +1,12 @@
+FOR TESTING
+
+SliTaz is an open source and free operating system providing a fully featured desktop or server in less than 30 MB. SliTaz is simple to use, fast and stable. We have an active community and contributors from all over the world making SliTaz finer every day. 
+http://www.slitaz.org/
+
+# 03 Mar 2012 - SliTaz 4.0-RC2 is out
+The Slitaz team is pleased to announce the new SliTaz 4.0-RC2 release candidate. We have done a huge amount of work fixing bugs from RC1 and on end-user home made tools such as TazPKG, TazPanel and TazUSB. Wifi connection is made easier via TazPanel or the new wifibox. TazPKG has better desktop integration and a new notification system.
+This new version comes with a full Xorg package and DRI support as well as the nv, intel, geode and vesa drivers working out-of-the-box. We have also rebuilt all packages once again and saved ~2Mb in the core LiveCD, so we now include Lxrandr, Parcellite and the transmission BiTorrent client.
+We want to thank everyone who tested the first release candidate; this RC2 is close to the upcoming SliTaz 4.0 version planned in 2 weeks. Download the RC2 ISO image from our mirror (35,1 Mb): SliTaz 4.0-RC2 
+http://www.slitaz.org/en/#news
+ 
+http://forum.slitaz.org/topic/slitaz-4-0-rc2-feedback

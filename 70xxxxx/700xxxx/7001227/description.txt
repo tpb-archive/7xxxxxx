@@ -1,0 +1,19 @@
+I didn't see anyone post this yet so..
+
+This the official uTorrent client patched to enable
+using the DHT feature with torrents downloaded that have
+the private flag set to true.
+As far as i am aware this is the last stable non beta version released for the version 2 line of uTorrent builds before v3x was released.
+
+I can't stand version 3 ;)
+
+If anyone is wondering what exactly i did ?
+I used PeExplorer to unpack the program (UPX)
+Then i patched 1 byte of code to enable DHT.
+And then i added my name/date to the inside of the .exe
+Thats it.
+
+Normaly i change the icons but with this release i left them alone. Also official uTorrent versions are normaly packed with the UPX packer but i figured it would be better to share it unpacked to avoid antivirus false positives etc.
+
+Anyways hope someone out there likes this
+and if anyone has any questions let me know

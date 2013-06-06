@@ -1,0 +1,44 @@
+Requirements: for all Android versions, supports App2SD
+Overview: A simple App to Backup and Restore SMS Messages. This is a Paid No-Ads version of the Ad-Supported Free App
+
+
+* Automatic Scheduled Backups.
+* View Backup Contents.
+* Backups created in XML Format on the SD Card.
+* Option to backup selected conversations only.
+* MMS not supported yet.
+* FAQs at
+
+NOTE: There is a known problem with some firmware versions of the Droid X and Droid 2 phones that the restored messages do not get the correct time stamps.
+
+
+This App needs the following permissions to work:
+* Storage - modify/delete SD card contents (android.permission.WRITE_EXTERNAL_STORAGE): To create the xml file on the SD card.
+* Your messages - edit SMS or MMS, read SMS or MMS (android.permission.READ_SMS, android.permission.WRITE_SMS): Needed to read SMS during backups and write them during restore.
+* Your personal information - read contact data (android.permission.READ_CONTACTS): To display and store the contact names in the backup file.
+* System tools - prevent phone from sleeping (android.permission.WAKE_LOCK): To prevent the phone from going to sleep/suspended state while a backup or restore operation is in progress.
+* Hardware controls - control vibrator (android.permission.VIBRATE): To vibrate the phone when the backup or restore operation is completed.
+
+Translations:
+- Finnish - Thanks to Juhana H.
+- Russian - Thanks to Pavel (ÐŸÐ°Ð²ÐµÐ» ÐœÐ¸Ñ€Ð¾Ð½Ð¾Ð²)
+- Spanish - Thanks to Miguel A. Alvarez
+- French - Thanks to Julien Benoist
+
+What's in this version:
+v5.2:
+Added option to only restore messages sent/received since specified date.
+Added Translations:
+- Traditional Chinese - Thanks to Bernie Huang
+- Korean - Thanks to HoeLyn Do (ë„íšŒë¦°)
+- Norwegian - Thanks to Dag JÃ¸ran Hanssen
+- Danish - Thanks to Jeppe Leth Nielsen
+
+MARKET LINK:-
+
+    https://market.android.com/details?id=com.riteshsahu.SMSBackupRestorePro
+
+HEY GUYS ALSO JOIN OUR FACEBOOK PAGE AND BE CONNECTED.
+
+
+

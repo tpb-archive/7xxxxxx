@@ -1,0 +1,147 @@
+﻿User Type,Username,Date,Text
+,FatFredd229,2012-02-27T14:22Z,gr8 work HR... thx :)
+[V],HolyRoses,2012-02-27T16:06Z,"thank you.
+
+You can use this on a PC however you will need the hacked WoW.exe for build 13623 which is readily available.  You will also need the divxbundle.dll and whatever else the actual game client uses.  You can likely find this on any patch site.
+
+Also I have renamed the Data folder and locale folders due to my custom language switcher.  You can only have one LANG folder present at any time else it messes up the binary and it defaults to whatever it finds first, which is pretty weird, it basically ignores your locale cVar if it finds a matching folder, odd.
+
+Anyhow, i'm sure you inspiring hackers will figure it out."
+[V],HolyRoses,2012-02-27T18:39Z,Portuguese Brazil (ptBR) & Portuguese Portugal (ptPT) is in the EU manifest however it requires game client 4.3.0.  You get some sort of key error trying to use one of them and the other is ignored using the 4.0.6a client.
+[V],HolyRoses,2012-02-28T01:26Z,"mmmm, its working :) just finished download this myself, hah.  works good, all 10 lang.  see you in game."
+[V],HolyRoses,2012-02-28T01:29Z,"realize this is preconfigured for Molten wow!
+
+https://www.molten-wow.com/
+
+Modify Logon-Server.txt and run make language if you want to use a different server."
+[V],HolyRoses,2012-02-28T02:21Z,"if you want to get rid of the Game downloading bubble edit this file:
+
+WTF/Account//config-cache.wtf
+
+add this to it:
+
+SET streamStatusMessage ""0"""
+[V],HolyRoses,2012-02-28T02:22Z,"that was supposed to be
+
+WTF/Account/YOURNAMEGOESHERE/config-cache.wtf"
+,FatFredd229,2012-02-28T05:18Z,"dude where u from...?
+awesome work!!!"
+[V],HolyRoses,2012-02-28T06:21Z,I'm from the land of awesome sauce
+,FatFredd229,2012-02-28T07:41Z,"lol..and of awesome sauce...
+have a email where we uploaders friends can tlk..
+u, me, .dude. 
+kindly mail me
+@ fustitpb@gmail.com"
+,iclouds,2012-02-28T07:45Z,"world of warcraft, seriously? new films please."
+,KingAdmires,2012-02-28T10:35Z,Be thankful that she has returned and is well. I'm sure a lot of us want movies but the less we bug her hopefully the sooner she will fully return. Enjoy your break and thanks for all of your great uploads.
+,FatFredd229,2012-02-28T11:13Z,Sorry HR FOR bothering u but it would be really helpful if u could help me no some technical points i know u must have a busy life apart from uploading but really could u mail me on fustitpb@gmail.com an uploader needs a help from another.......
+[V],HolyRoses,2012-02-28T15:42Z,you can chat me on efnet or send me a note at SuprBay
+,FatFredd229,2012-02-28T19:17Z,"well i cnt connect to chat at SuprBay...
+anyways no prob..
+lv it.. 
+enjoy gaming..
+bye.."
+[V],HolyRoses,2012-02-28T19:58Z,"alright, please promote my torrent.  I want it to be alive and kicking for people."
+,FatFredd229,2012-02-29T05:23Z,hey HR why don u have a FB page.. millions wud like and follow u... :D
+,FatFredd229,2012-02-29T07:33Z,sent u pm in suprbay do chk..
+,afg1987,2012-03-04T01:07Z,Can I download this game on window Vista? or its just for Macs.....
+[V],HolyRoses,2012-03-04T03:33Z,it downloads just fine on windows vista.
+[V],HolyRoses,2012-03-04T03:37Z,"I discovered there is a Bug in this torrent.  I didn't test the behavior of the ZIP file in relationship to how Apple handles ZIP files that do not create a folder.
+
+When you double click on the ZIP file it will create a new World.of.Warcraft.Cataclysm.v4.0.6a.Multi.10.Language.MacOS-HR folder.  It wasn't supposed to do that.
+
+open this new folder up.  Delete Data-EU.  Move Data-EU that you downloaded to this new folder.
+
+Run a Make Language command.
+
+I apologize for not testing how this was working.  I assumed Apple would unpack the ZIP file correctly.  Now I am wondering how many people realized that and are playing the game while ignoring all 25 GB of the data they fetched.
+
+fudge!!!"
+,shen6585,2012-03-05T09:50Z,"when i login it tells me i need to download a patch, can you help me out. thanks"
+,iclouds,2012-03-05T16:10Z,who gives a fuck about this? please upload films for apple tv. christ.
+,shen6585,2012-03-05T18:18Z,"to be more correct it says need to download patch, then it minimizes the game window and says patch failed to apply"
+,tobykuntakinte,2012-03-06T03:30Z,probly stupid question but will this work on ipad lol sorry im new to apple 
+,buzzrking,2012-03-07T00:16Z,When will you start uploading movies again? Please let it be soon.
+[V],HolyRoses,2012-03-07T00:57Z,you are likely trying to login with a retail account.
+[V],HolyRoses,2012-03-07T01:00Z,go make an account at molten wow and try that.
+,wdishon,2012-03-07T10:50Z,do you have to pay
+[V],HolyRoses,2012-03-07T14:11Z,no
+,iclouds,2012-03-11T19:57Z,you should have some films uploaded in 1080p for the new Apple TV launch. wishful thinking I suppose.
+,madelynn,2012-03-12T05:02Z,"hey hr just wondering if u will b uploading movies any time soon and if so can u upload TinTin?
+That would b awesome. Thanks."
+,madelynn,2012-03-12T20:35Z,"Hey hr i was wondering if u could upload 2011 documentary movie Bully as well as Tintin?
+Thanks."
+[V],HolyRoses,2012-03-12T23:40Z,maybe.  I did notice the new apple tv.  i think its weird how the 2nd gen will play 1080p movies but not output in 1080p...  so strange.
+,justneustis,2012-03-13T01:29Z,Can you rent movies on apple tv in 1080?
+,texashemi1979,2012-03-14T01:20Z,please upload some more movies you have the best format. just drag and drop into iTunes
+,justneustis,2012-03-17T16:01Z,Any chance you can upload the new Muppets movie? My son would thoroughly enjoy it. Plus its a bit of nostalgia. 
+,asp206,2012-03-17T19:33Z,"so if I choose anything else than eu (like enUS), I will still have to wait for the game to download data?"
+,iclouds,2012-03-20T03:16Z,"the 1080p Apple TV is available now.. I have it, and would like some new films please. please. "
+,mamun777,2012-03-22T01:13Z,"@ justneustis check the following link for your new puppet movie, it is just like HR quality....all the best.
+
+http://thepiratebay.se/user/tr108/"
+,iclouds,2012-03-23T14:30Z,@ justneustis yes you can.
+,Lbg5656,2012-03-26T22:35Z,"Holyroses, 
+If you're feeling patient I was wondering if there was anyway you could take the time to explain to me how you go about converting HD files to MP4 format with no loss of quality or degradation. And what software you use to do this. Thanks so much. Lbg5656@yahoo.com"
+,Katneni143,2012-04-01T12:14Z,"Hi HolyRoses...
+    Have you stopped uploading M4V movies..?? Do you know you are the only one who upload good quality apple movies..? If you can.. Can you please upload some new moviesâ&#x20AC;Ś."
+,justneustis,2012-04-01T16:00Z,@katneni143 - Check out tr108. Same great quality as HR. You won't miss anything.
+,mahdigaga,2012-04-11T00:14Z,Plzz we want the old holyroses that used to upload movies in small sizes in psp ipod convert plzzzzz !!! some of us cant download ur new uploads due to large size of torrents !!! plzz we want new movies in psp ipod format !!! THANKS.
+,Katneni143,2012-04-13T07:18Z,"mahdigaga... Check this guy...
+
+http://thepiratebay.se/user/neon/"
+,Katneni143,2012-04-13T07:19Z,justneustis.. Thank you so much...
+,hdreyes,2012-04-13T16:36Z,"@katneni143
+@justneustis
+
+thanks for the suggestions, those are great users with awesome uploads....!
+
+but holyroses' work is much better quality...
+
+can't wait to start DLing Ur movies again. nothing out there quite the same"
+[T],dabadguy69,2012-04-17T07:03Z,where are the movies?  
+[V],HolyRoses,2012-04-29T23:48Z,sleeping
+,bellokuku,2012-04-30T13:53Z,Hey hr i've been asking so many uploaders to up dexter S06 and community and glee both S03 but no one gives a damn....Please you do it if you can pleaseeeeee....
+,lemoncade,2012-05-03T06:34Z,"Once I saw World of Warcraft uploads I knew the movie uploads would cease. WoW is extremely addicting. No way he would allow his computer to convert large files while putting his gaming fps at risk. WoW has destroyed kids in college forcing them to drop out. It has sent kids to therapy because their parents play all day and ignore them. He's done. You install WoW, you delete your life. /say bye bye HolyRoses. it was a nice ride. See you when you /gquit."
+,lemoncade,2012-05-03T06:36Z,"Oh, just so everyone knows, you can download any high res movie file, drop it in a program called handbrake, select the AppleTV preset, let it go, done. Drop into itunes and it's perfect. If you like the cover art and tags, use a meta program like MetaX and get all the info from IMDB and copy paste. It's easy peezy lemon squeezy "
+,lemoncade,2012-05-03T06:37Z,nice. moderate truth
+,gyngrbred,2012-05-05T23:16Z,We will miss you HolyRoses you are truly a legend ;)
+,physx99,2012-05-11T13:59Z,seed pleaseeee.... so slow..
+,madferitt,2012-05-18T19:26Z,guys seed up please
+,Giuseppe99,2012-05-26T04:36Z,Seed please!!!
+,sparrow321,2012-05-30T14:27Z,"Hi, i seem to be getting this wow error after running the World of Warcraft application file
+
+Assertion Failed!
+
+ App:         /Applications/World of Warcraft.app
+ File:        (unknown)
+ Line:        0
+ Error Code:  0x85100086
+ Time:        2012-05-30 17.56.01 GMT+05:30
+
+ Assertion:   Failed to open archive Dataart.MPQ. Missing or corrupted data.
+
+can u help me out with this please"
+,andrym,2012-06-05T23:15Z,we miss you! no other movies like yours. come back soon!!!
+,volamoot,2012-06-08T12:37Z,after nearly two days of constant downloading and only reaching 43.3% I gave up. I am tired of seeders not seeding.
+,TorrentsAU,2012-06-25T13:02Z,Thanks for this broseph. 1.1% away from it being finished.
+,brian9191,2012-06-25T20:53Z,Please seed mate's!:D
+,TorrentsAU,2012-06-26T04:04Z,"It says there is a patch, and if I click restart to download the patch it says it cannot download Help please? :("
+,jeanpaul_96,2012-07-13T01:56Z,"@HolyRoses
+ when are you coming back? we need you"
+,sem43,2012-07-31T20:58Z,How do i change the server? I went into the logon-server.txt file and changed it to LOGON=set realmlist realm.neverendless-wow.com but it doesn't change the server
+,sem43,2012-07-31T21:00Z,I did the language thing after too
+,MM1819,2012-08-01T16:09Z,"Everythings working fine but when I sign in, it tells me that i have to download the upgrade but it doesn't work, what do I need to do ?? "
+,rogerguy01,2012-08-12T01:18Z,can anybody tell me how to put psp movies into psp i've tried but doesnt work
+,albert2172,2012-08-25T00:43Z,"The Avengers 2012
+
+HolyRoses Version
+
+http://thepiratebay.se/torrent/7565620"
+,titillate,2012-08-25T22:02Z,"Not really commenting on the torrent, but just wanted to write in a response to Lemoncade.
+
+What you have said is complete and utter bullshit, and I think everyone is stupider after having read it. I manage to cap valor every week on 3 85's while still maintaining a healthy social life with my family and friends. Hell, I'm hungover right now from a kegger that I went to last night. 
+
+Honestly, I really don't know anyone that has let their life go to shit over World of Warcraft. It's all about managing your time and not spending countless hours a day on the game doing things that really don't matter in the long run for your toons.. ie. Sitting in trade chat or doing transmog runs.
+
+It's people like you that give WoW a bad name by talking shit about it every time it comes up in conversation. It'd be nice if you didn't generalize because the way you describe the game is NOT how it really is anymore."

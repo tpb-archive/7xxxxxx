@@ -1,0 +1,102 @@
+﻿User Type,Username,Date,Text
+,2ruff,2012-02-08T11:06Z,"Thanks! Could you do the Skyrim HD DLC please!!
+
+Look at the difference!
+
+http://i.imgur.com/YJ3Ty.jpg
+
+http://i.imgur.com/a4mGF.jpg"
+,Sismic44,2012-02-08T11:23Z,"It doesn't work for me with that steam_api.dll, I copied the contents to main folder. Launcher and creationkit crashes, but game is launching with v1.4.21. If i replace steam_api.dll with another original dll(spiral knights), launcher and creation_kit works and game is still 1.4.21 "
+,Sivos,2012-02-08T12:39Z,"It works for me with that steam_api.dll.  I am updated to 1.4.21 as well.  I'd advise everyone to copy over their original steam_api.dll before copying this over in case this new one doesn't work for you like it did with Sismic44.
+
+But I can confirm, this is working perfectly, no crashes."
+,Sismic44,2012-02-08T13:21Z,"I deleted all files of the previous creation kit patch and replaced original files (steam_api.dll...). After that I just copied this content to my game dir. But still crashes. Game is still v1.4.21. @Sivos Your version became 1.4.23 after this patch and you are able to click ""Data Files"" option on the launcher?"
+,spencerx,2012-02-08T13:51Z,"Works fine, i just copy/pasted in TESV.exe's directory and launched. The game works too but it's showing 1.4.21 not .23 I dont care what version it is as long as it works fine, I'm telling that in case someone is interested.
+And it worked with the steam_api.dll provided with it, i didn't need to use another one."
+,spencerx,2012-02-08T13:53Z,"Worked fine with the steam_api.dll provided with it, the game is still at 1.4.21 though but it works fine too."
+,Browny1309,2012-02-08T13:55Z,"Im not sure if this is the case but i cant save my work i do, i click save then i put it into the data directory like it says but after i save it dissapears then when i try and click save again it doesnt do anything plz if anyone has this problem plz let me know."
+,darqsido2,2012-02-08T13:57Z,"I am still using version 1.3.10.
+
+I think the current latest update is the beta and not the final.
+
+Ill just wait it out for the final to be out."
+,Sismic44,2012-02-08T14:39Z,"That's the problem, if you can't update the game to v1.4.23 you can't play levels that you created, you just can create something that you can't test."
+,rebviruyuy,2012-02-08T14:41Z,thanks
+,JDFan,2012-02-08T16:01Z,@Sismic == Another thing - when trying to play the mod you created are you using the TESV.exe or SkyrimLauncher.exe to start the game ?? -- I noticed that if using the TESV.exe file instead of the launcher the game would not load the mods so had to revert to using SkyrimLauncher.exe to launch the game (seems otherwise it does not activate the data files)
+,dark_illusions,2012-02-08T18:39Z,@darqsido2 1.4 is out and has been for like a week official release its out of beta testing and all i dont know about 1.4.23 but 1.4 is out of beta and u should update the new update is on here as well as update 5 if you search skyrim on here
+,Jakeler,2012-02-08T22:17Z,I have the newest update 5 and all but still Creation kit does not work. Running vista.
+,Sismic44,2012-02-08T22:27Z,"@JDFan i'm using launcher, ""data files"" disabled on the launcher. I created unownedcell and added some object and then saved it to data folder. but when i try to load mod from console like in the tutorial, it doesn't open my work, it just opens the default unownedcell. "
+,Jakeler,2012-02-08T22:36Z,it also makes me game not run?
+,spencerx,2012-02-08T22:59Z,@Sismic44 you need to enable the .esp you've created in the launcher
+,Sismic44,2012-02-08T23:28Z,"@spencerx As i'm saying ""data files"" disabled in the launcher"
+,Dloader101,2012-02-08T23:44Z,Thank you this worked !!!!!! :D
+,calj26,2012-02-09T00:05Z,I dropped everything into my main Skyrim directory but when I start up the CK it instantly crashes. Any help?
+,calj26,2012-02-09T00:13Z,I dropped everything in my main Skyrim directory but when I start up the CK it instantly crashes. Any help?
+,Feenzy,2012-02-09T01:09Z,I've tried both your torrents and each time I get the creation kit to open but it just stays on Initializing Windows. Any thoughts?
+,Ziyad13,2012-02-09T06:01Z,"Sismic44
+
+Locate the file C:\Users\{your user name}\Documents\My Games\Skyrim\SkyrimPrefs.ini. Open it and search for the [Launcher] section. Add this line: ""bEnableFileSelection=1"" (without quotes)
+and fiollla work and make sure for anyone turn off ur steam so the creation kit won't crash "
+,Browny1309,2012-02-09T07:28Z,"Everytime i save my work, it acts like it saves but then when i look in the data folder its not there and when  i load the launcher and go to datat files they are not there no matter what i do it doesnt save, is anyone else having this issue plz let me know."
+,Trabbit,2012-02-09T09:20Z,"Thank You Very Much!
+Works like a charm :)
+
+ps. Don't let the whiny noobs scare you away from getting this."
+,OtakuXXI,2012-02-10T04:50Z,"It's working properly. Thanks mate.
+If for you it doesn't, try downloading and installing the last update."
+,alexbnc,2012-02-10T15:44Z,@Browny1309 the same happens to me. The files are saved as protected and hidden .esp files. I have Window 7.
+,Trollolboll,2012-02-10T22:38Z,"@Browny1309 & alexbnc
+I had the same problem. But then i tried running the creation kit as admin and then i could find them and use them. You could maybe try that if you havnt already."
+,A7XGOD,2012-02-11T03:22Z,"Hey When ever i launched the creation kit it says ""AUDIO:Failed to initialize audio platform XAudio2, audio disabled"" than after i click out of that is shuts down if anyone knows how to fix this i would appreciate it"
+,Mijomike,2012-02-11T16:28Z,For all people that crash when you open the CreationKit.exe make sure you follow the clear instructions and exit steam before running!
+,ranno95,2012-02-12T09:11Z,do i have to copy the folder to skyrim main folder or files from the folder??
+,leo230898,2012-02-12T17:05Z,@Mijomike I read instruction hundreds of times and I extracted everything into correct directory. I exit steam and launch creation kit. It still crashes!
+,Peanutt010,2012-02-14T22:04Z,"Working like a charm on win7 64bit
+Using a fully updated skidrow release of skyrim, Combined with the reloaded release of the highress pack. "
+,ranno95,2012-02-15T08:20Z,Does enyone know any good links where i can get mods??? And can i use steam modes with extremzone skyrim game??? Please anwser!!
+,audioman86,2012-02-18T08:09Z,ranno95 skyrim nexus has all the coolest mods you'll ever need and it's a free moding community. you can even learn how to mod there. they mod all bethesda games plus some others at their parent site the nexus. enjoy!
+,audioman86,2012-02-18T08:19Z,By the way thank you very much for the upload darqsido2. It will go to very good use.
+,NecroFile,2012-02-20T10:55Z,"@Mijomike: What clear instructions? There is nothing in the directions that says to quit Steam.
+
+But thanks for pointing out that you need to do that."
+,lordquilton,2012-02-27T01:42Z,"No problems here, thanks to all involved!"
+,la_volpe,2012-02-28T23:43Z,"@Ranno95, go to skyrim.nexusmods.com, they have the best mods and you can get them FREE, but here is some advise 1) never tell ANYONE your game is cracked unless its someone from here or you know them personally, 2) IMPORTANT, before you download ANY mods, DOWNLOAD NEXUS MOD MANAGER, it makes installing mods SO MUCH EASIER, 3) sometimes when you click on skyrim the data file option is grayed out, this is a problem with your .ini file i dont remember the code, but if you need help or anyone who reads this, email me at traegreenwalt@gmail.com"
+,vanisher911,2012-03-04T03:50Z,"So is this a patch to update to 1.4?? My client is still 1.21, and i was looking for a patch torrent. After installing this, my client is still running on 1.21. so is this not a patch? is it just to get the creation kit?"
+,search64,2012-03-05T02:06Z,"There's a new patch, update 6 that's updated to 1.4.27.0. I hope a new release of cracked creation kit comes out :x"
+,itsreason,2012-03-25T23:40Z,Working perfectly on Razor1911 patched with RELOADED update 7. Windows 7 Professional x86_64
+,Twiizter,2012-04-06T16:06Z,The Torrent worked
+,Strzybog,2012-04-26T09:01Z,Works perfectly (win7 x86)
+,malhalla,2012-04-30T15:50Z,"Assume this version don't work with update8, it's crashing for me. Something it did not with update7.
+Thus, I pledge for a up of a newer version, if theres such thing :/"
+,1337chaos,2012-05-04T17:27Z,"I'm having a problem with no mods loading after installing this on update 8. They're all enabled, but they don't do anything within the game."
+,AdrenaLiNv2,2012-05-25T17:08Z,It crashes as soon as I launch it.. Too bad. 
+,Ztifler,2012-05-29T17:27Z,"If it crashes when you start it, just shut down Steam and try again."
+,slapandtickle69,2012-06-01T13:22Z,"###############################
+######### PLEASE READ ############
+###############################
+
+In order to use .ESP (Mods Created in Creation Kit) Mods with a cracked version of Skyrim you need to do the following.
+
+1.  I'm quoting Sismic44
+
+Locate the file C:Users{your user name}DocumentsMy GamesSkyrimSkyrimPrefs.ini. Open it and search for the [Launcher] section. Add this line: ""bEnableFileSelection=1"" (without quotes)
+
+2.Put the .esp mod you created in 
+the ""C://ProgramFilesx86/The Elder Scrolls Skyrim/Data/.espfileyoumade ""
+
+3. Launch the Skyrim Launcher.exe click LoadDataFile and make sure the mod you want to use is and checkbox is ticked. 
+
+Now launch the game.
+
+Please Leave this at the top or Qoute at the end of your post to ensure we all know how to use the Creation kit
+
+Thanks"
+,PineappleStarz,2012-06-24T08:16Z,"watch out when making world mods with this version, the navmesh can be different with the newest CK and patch, so your mod may cause ctds in relation to exterior world navmesh.
+
+@slapandtickle69 - thats how you open mods in ANY CK, nothing to do with cracked or whatever version."
+,el_kricket,2012-07-17T17:21Z,IT LIVES!!!! xD
+,el_kricket,2012-07-18T22:41Z,"@slapandtickle69 I did that and I still cant see the plugin, the only way I can see the master file is using the nexus mod manager"
+,fnog,2012-08-25T01:12Z,Will this work with Dawn Guard? 
+,xXAstrixxXx,2012-09-01T00:45Z,"Works with Razor1911 release, 1.6 update, and at least 20 mods. 
+
+Thanks!"

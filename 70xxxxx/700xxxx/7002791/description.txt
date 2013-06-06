@@ -1,0 +1,81 @@
+FLAC quality of all hatsune miku Project Diva 2nd song
+
+
+
+levan Polkka (tutorial and edit mode only)	Hatsune Miku
+Romeo and Cinderella	Hatsune Miku
+magnet	Hatsune Miku and Megurine Luka
+Love Words (Ai Kotoba)	Hatsune Miku
+Sound	Hatsune Miku
+Heart (Kokoro)	Kagamine Rin
+packaged	Hatsune Miku
+Butterfly on the Right Shoulder (Migikata no Chou)	Kagamine Len with Kagamine Rin (background)
+Marginal	Hatsune Miku
+The secret garden	Hatsune Miku
+Just Be Friends	Megurine Luka
+Strobo Nights	Hatsune Miku
+Cloverâ™£Club	Hatsune Miku
+from Y to Y	Hatsune Miku with Megurine Luka (background)
+Updating Your Love List? (Rabu Risuto Koushinchuu?)	Hatsune Miku
+Yellow	Hatsune Miku
+Song of Life (Inochi no Uta)	Hatsune Miku
+Change Me	MEIKO
+Vegetable Juice (PoPiPo)	Hatsune Miku
+Cantarella	KAITO and Hatsune Miku(back-up)
+When the First Love Ends (Hajimete no Koi ga Owaru Toki)	Hatsune Miku
+Song of Wastelands, Forests, and Magic (Kouya to Mori to Mahou no Uta)	Hatsune Miku
+Dear cocoa girls	Hatsune Miku
+Gigantic Girl (Kyodai Shoujo)	Hatsune Miku
+Dear	Hatsune Miku
+Gemini	Kagamine Rin and Kagamine Len
+VOiCE -DIVA MIX-	Hatsune Miku
+World is Mine	Hatsune Miku
+Miracle Paint	Hatsune Miku
+moon	Hatsune Miku
+Velvet Arabesque (Birodo Arabesuku)	Hatsune Miku
+Innocence	Hatsune Miku
+Meltdown (Roshin Yuukai)	Kagamine Rin
+I Understand the Truth (Honto wa Wakatteru)	Hatsune Miku
+Melt	Hatsune Miku
+Love-colored Ward (Koiiro Byouto)	Hatsune Miku
+Finder (DSLR remixâ€re:edit)	Hatsune Miku
+Promise	Kagamine Rin and Hatsune Miku
+Beware of Miku Miku Bacteriaâ™ª (Mikumiku-kin ni Gochuuiâ™ª)	Hatsune Miku
+First tone (Hajimete no Oto)	Hatsune Miku
+White Dove (Hato)	Hatsune Miku
+Farewell Song (Saihate)	Hatsune Miku
+Look this Way, Baby (Kocchi Muite Baby)	Hatsune Miku
+Colorful x Melody	Hatsune Miku and Kagamine Rin
+Double Lariat	Megurine Luka
+I'll Make You Do the Miku Mikuâ™ª (You'll Do It) (Miku Miku ni Shite Ageruâ™ª (Shite Yanyo))	Hatsune Miku
+The Singing Passion of Hatsune Miku (Hatsune Miku no geki shou)	Hatsune Miku
+Endless Nightmare	Megurine Luka
+Cardioid	Hatsune Miku
+EXtend	Hatsune Miku
+Hometown	MEIKO
+Why? (Nande?)	Kagamine Len
+Hallo World	Kagamine Rin
+I'm Crazy For You	Hatsune Miku
+A Cat Kimi (Neko na Kimi)	Hatsune Miku
+Soft at times, Dark at times (Toki ni wa soft ni, Toki ni wa dark ni)	Hatsune Miku
+The Disappearance of Hatsune Miku (Hatsune Miku no Shoushitsu)	Hatsune Miku
+StargazeR	Hatsune Miku
+GO MY WAY!!	Hatsune Miku
+relations	Kagamine Rin and Megurine Luka
+Golden Holy Night Rotting into the Frost and Snow (Requiem for the Phantasma) (Kogane no Seiya Sousetsu ni Kuchite)	Hatsune Miku
+Butterfly on the Right Shoulder -39's Giving Day Edition- (Migikata no Chou -39's Giving Day Edition-)	Kagamine Len and Kagamine Rin
+Your Diva (Anata no Utahime)	Hatsune Miku
+Stardust Utopia (Hoshikuzu Yuutopia)	Megurine Luka
+Electric Angel	Hatsune Miku
+Time Limit	Hatsune Miku
+
+
+
+
+These songs were ripped directly from the PSP ISO. The original format was ADX which is a LOSSY format. The bitrate for each song is around 370kbps. I couldn't find out how good ADX quality is in general. But at that bitrate I'm sure there wasn't much loss, and it is used by companies like SEGA for video games. And although I would have liked to have kept them in the original format, a plugin is required for winamp just to play them. On top of that there were 2 ADX files for each song. One for background and one for Hatsune Miku singing. So I felt it was necessary to mix the two tracks for each song and then make them into FLAC and keep them lossless to avoid further loss of quality.
+
+This is probably the best quality music from Project Diva to be made available to the public for download. Good quality music from Hatsune Miku is hard to find online for download. Most songs have to be ripped from Nico Nico Douga. There are CDs a person can buy, but they might not have all the songs you want. The only Project Diva soundtrack I found for download was in MP3 format and appeared to be recorded from the PSP. That's when I decided to to look into the ISO and try to rip the music myself. I feel lucky to have been able to do this, because some music isn't as straight forward to rip directly from games, and at times might even be impossible. This is one contribution that I hope can mean a lot, and I hope whoever comes across this can enjoy all the songs as much as I do, and at the best quality possible. 
+
+PSP ISO Ripping Process
+
+WinRAR was used to browse the ISO. These songs were originally contained in an .aix format. All the .aix files were stored in an afs archive. So 3 steps were required just to get the adx files. Extract the aix files from the afs. Then extract adx files from aix. Most aix files had two adx files. One for Hatsune Miku singing, and one for background music. All the songs starting at 33 and after are bonus songs and only have one audio track for singing and background. After getting the adx files I used adx2wav. Then I used Audacity to mix the voice and music to one file for each song. I then named all the songs, and used FLAC to convert them. Since FLAC isn't unicode friendly additional steps were required since the songs use Japanese Characters. After naming, I had to use a program called KRename to rename the whole batch to just track numbers. I then converted to flac. Then I renamed the FLAC songs back to their original names. KRename made it easy by using a simple copy and paste technique. I simply copied the original names and pasted them onto the FLAC files. Although FLAC is capable of tagging, I had to use MP3tag to support the japanese characters.

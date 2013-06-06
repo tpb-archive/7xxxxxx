@@ -1,0 +1,7 @@
+Linux based on Bodhi 1.3.0 
+Here is some information, about what I have done to original Bodhi 1.3.0 before making distribution disk from it. I wanted to make similar distribution like Bodhi, so made it on top of it, but added some software, which allows to do some basic tasks and a bit more. I have not included all E17 themes or Icons packages, because what the point of it. Also here are no packages for printing and scanning, because they simply did not worked with my new hardware, but I have included Bluetooth software. I have chosen light approach at some corners, for example did not installed adobe reader, but used instead of it Envision, it was made this way, because in most cases I need only to read .pdf file, not to edit or copy from it. Light-office was chosen instead of LibreOffice, because there are still some comp-ability issues with MS Office, and simple editors will by enough for basic tasks, also we can use online Live office in case of need.  
+http://sourceforge.net/projects/leafylinux/
+(blog)
+
+sha1sum : f261647e9ec5943e0514a569abbac8f18227faf0  leafy.iso
+md5sum : 9ba4b54af153f67efc1512ff45f57eb8  leafy.iso

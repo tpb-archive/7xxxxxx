@@ -1,0 +1,18 @@
+Description
+CROSS is a heavily trimmed down, IntelÂ® Coreâ„¢ x86_64 optimized Linux distribution, originally based on CRUX, and using its ports system. 
+Features
+    * Installable kernel
+    * Modified system installer
+    * Modified init scripts
+    * Rsyslog
+    * Extlinux
+    * Kmod
+    * HPN-SSH
+    * Intel-ucode
+    * Hybrid ISO/IMG format 
+http://sourceforge.net/projects/crosslinux/?source=directory
+ 
+http://cross.sourceforge.net/
+
+sha1sum : 8329e5e6015f4f5b138451e918e547fbbc9e793d  CROSS-2012.02.iso
+md5sum : fe5befa4ab692a2891a96647846b2623  CROSS-2012.02.iso

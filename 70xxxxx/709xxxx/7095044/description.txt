@@ -1,0 +1,40 @@
+Supported operating systems
+ 
+Windows 7 Ultimate
+Windows 7 Ultimate E
+Windows 7 Professional
+Windows 7 Professional E
+Windows 7 Home Premium
+Windows 7 Home Premium E
+Windows 7 Home Basic
+Windows 7 Starter
+Windows 7 Starter E
+Windows Vista Ultimate
+Windows Vista Business
+Windows Vista Business N
+Windows Vista Home Premium
+Windows Vista Home Basic
+Windows Vista Home Basic N
+Windows Vista Starter
+Windows Server 2008 Enterprise
+Windows Server 2008 Foundation
+Windows Server 2008 Standard
+Windows Small Business Server 2008
+Windows Storage Server 2008 Standard
+Windows Storage Server 2008 R2 Essentials
+Windows Server 2008 R2 Enterprise
+Windows Server 2008 R2 Foundation
+Windows Server 2008 R2 Standard
+Windows Small Business Server 2011 Standard
+Windows Small Business Server 2011 Essentials
+
+
+About
+ 
+This is the loader application that's used by millions of people worldwide, well known for passing Microsoft's WAT (Windows Activation Technologies) and is arguably the safest Windows activation exploit ever created. The application itself injects a SLIC (System Licensed Internal Code) into your system before Windows boots; this is what fools Windows into thinking it's genuine.
+ 
+
+Version 2.1.2 (03/11/2012)
+ * Added a new GRLDR version that fixes 2 bugs
+ * Added support for Windows Small Business Server 2011 Essentials
+ * Added lots of missing Vista serials (Thanks to Ti

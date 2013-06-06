@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,aarque,2012-02-09T10:20Z,"Hey Jim, I think I see you! You use otenet.gr, by chance? Or maybe forthnet.gr..? Guess there's two of you from Greece..."
+,bolkow117,2012-02-09T14:27Z,"This is already uploaded since 06-14 2010
+
+Please upload Aerosoft Bronco v1.10"
+,aarque,2012-02-09T14:48Z,"ya um helicopter guy, did you read the comments, that 'un didn't work. Granted it could be entirely the same file bouncing around the internet, but I tested this version, could find no flaws and asked my peers to do the same. You clearly did not read the comments or torrent description, making you less than helpful and more of a nuisance. I imagine those little squeaking birds with their ""feed me"" beaks wide open. Whyncha do something useful, test this file, then report back. When testing, be kind enough to confirm it does not crash the simulator after 10 or 15 minutes. Thanks so much."
+,wallyworld,2012-02-09T16:43Z,"thank you for the upload AARGUE and thank you to the original cracker.
+flown it for quite a while , no CDC all systems appear to work fine , hud , displays , weapons jettison, radar , ACM does now work I get a ""error 15 ""file missing warning (perhaps i installed wrong ???) very sensative in control (compared to the FSX F18 ) there is the rudder flutter but it's only visuall , airbrakes only deploy below a certain speed but they are visable
+as far as i'm concerned it's a good one , totally flyable , and no I have not read the manual yet .
+
+bolkow , don't be such a twat "
+,doitordie,2012-02-09T17:51Z,THanks aarque!  All's good except for the rudders and speedbrake issues.  No crashes.  The configurator manager isn't cracked though. It's great as far as flying is concerned.
+,Raider1500,2012-02-09T21:30Z,"Thanks!
+
+Req. FSX Flight1 ATR"
+,aarque,2012-02-10T06:45Z,"The config manager, ACM, is in a separate torrent, sorry bout that. "
+,oo6oo,2012-02-10T11:02Z,"please see dsd_axis_control.log in fsx modules folder
+
+[ ERROR]: License File: pp_copycheck: copycheck error 18
+[ ERROR]: 	Location: D:\Microsoft Flight Simulator X\SimObjects\Airplanes\VRS_FA-18E\ACM\VRSFA18EFSX.ini
+[ ERROR]: Pointers: AxisControl Failed"
+,aarque,2012-02-10T15:38Z,"o6o, there are two extra files in the ASM folder after install. You may notice the VRSFA18EFSX1.ini and the dsd_axis_control1.ini. In particular, you may notice the modification date of dsd_axis_control1.ini is different from the others. Experimentation of substituting these files seems to produce different results. However, swapping both VRSFA18EFSX1.ini and dsd_axis_control1.ini (by removing the last numeral 1) seems to have negative results. I can't be sure as I have no instructions, it is trial and error, but I believe the proper combination of these files may produce the desired result."
+,FSKing2,2012-02-10T21:22Z,"I have a big problem: I can install this bird without error and everything appears to be fine. But if i fly after a few seconds a sound appears which says ""flight controls, flight controls"", and the I get a CTD. Please somebody help, this bird is awesome and I would like to fly it. Thanks in advance ..."
+,aarque,2012-02-11T15:45Z,Sounds like you neglected to copy the ACM folder. No one else thus far has experienced or reported that issue.
+,FSKing2,2012-02-11T17:00Z,@aarque: Negativ. I've copied the ACM folder to the Sim Objects --> Airplanes --> VRS FA18 and I overwrote the old one. Also did I try to install as administrator and run fsx as administrator. Do you have any other ideas? Thx
+,SniperBliss,2012-02-12T00:18Z,"I tried switching up some stuff, the AIR file inside this bird, is what causes it to have the bad characteristics...
+About the ACM though,  
+The working one you uploaded, crashes once you save it with some 'Active X' Error. "
+,BigFatAlpha,2012-02-12T11:36Z,"To FSKing2
+
+(Sorry for all caps, only copy/paste)
+
+WHEN INSTALLED COME IN THE AXIS ASSIGNEMENTS SETTINGS OF FS, FLAG ALL REVERSE OF YOUR AXIS (X,Y,Z ECC...), PRESS OK AND CLOSE FS. AFTER RE-OPEN, GO AGAIN AND DEFLAG ALL AXIS REVERSE !!! PRESS AGAIN OK, CLOSE FS AND RE-OPEN. WITH THIS PROCEDURE YOU FORCE THE FSx.CFG SCRIPT. AFTER THIS THE AIRCRAFT WORK. 
+
+Does work!!!"
+,FSKing2,2012-02-12T20:32Z,"@BigFatAlpha: Thanks for your help. I did exactly what you told me, but i still get a CTD :-( I also tried to reset the fsx.cfg, but it's still not working. Any other ideas from your side?"
+,guest1234,2012-03-08T00:09Z,Yea.. like dog shit it's cracked. Buy that JCIPINP crap now. 
+,Taco92,2012-08-21T00:45Z,Thank you aarque!!

@@ -1,0 +1,21 @@
+This is the non-steam ((32-bit, English only)) version of Left 4 Dead. It is the full PC game, and is updated to version 1.0.2.6.
+
+It's compiled using WinRAR 4.11 SFX for ease of installation.
+
+Microsoft Visual C++ 2010 and DirectX 9.0c files are required. These files will install automatically during your installation.
+
+To uninstall the game, just delete the file. You can also manually delete the "Valve" registry entry, or use CCleaner. It works well too. It will not interfere with any programs if left in your registry.
+
+Open the "rev.ini" file in your Left 4 Dead folder and change to your "In Game Name" where is says, "Your-IGN-Here" in both;
+
+"SteamUser = Your-IGN-Here"
+"PlayerName = Your-IGN-Here"
+
+Save and close the "rev.ini" file before playing Left 4 Dead.
+
+You'll need to play on "Custom" servers, which you can find on the "Server Browser". The Custom Servers will also appear on the bottom, right hand side of your Main Menu.
+
+If can click onto "Servers Garnera & Lan", you'll see all Left 4 Dead servers, but you can only play on Non-Steam servers.
+
+Just pick the style of game play you want to join and enjoy...
+Left 4 Dead v1.0.2.6! 

@@ -1,0 +1,27 @@
+J4K Brings You,
+
+Paralells 7.0.15055
+
+
+
+What's New,
+
+Version 7.0.15055:
+
+Support for OS X Mountain Lion (experimental).
+Support for Windows 8 Consumer Preview (experimental).
+Download and install Windows 8 Consumer Preview right from the Parallels Wizard.
+
+Comments,
+
+Make sure hosts file has the latest updated blacklist server!
+use little snitch / modify your /etc/hosts
+
+127.0.0.1 pd6.blist.parallels.com
+127.0.0.1 pd7.blist.parallels.com
+127.0.0.1 pdfm7.blist.parallels.com <-- NEW
+127.0.0.1 registration.parallels.com
+127.0.0.1 parallels.com
+127.0.0.1 update.parallels.com
+
+Enjoy, J4K

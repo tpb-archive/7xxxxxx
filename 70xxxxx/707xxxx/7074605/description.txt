@@ -1,0 +1,50 @@
+General:
+
+Format: MKV
+File size: 7.01 GB
+Duration: 2 hr, 32 min
+Overall bit rate: 6,568 Kbps
+Writing application: mkvmerge v5.3.0
+ 
+
+Video:
+
+Format: AVC
+Format profile: High @ L4.0
+Bit rate: 5,541 Kbps
+Width: 1,920 pixels
+Height: 816 pixels
+Display aspect ratio: 2.35:1
+Frame rate: 23.976 fps
+Scan type: Progressive
+
+
+Audio #1:
+
+Format: AC3
+Bit rate mode: Constant
+Bit rate: 448 Kbps
+Channel(s): 6 channels
+Sampling rate: 48.0 KHz
+Bit depth: 16 bits
+Language: Swedish
+Default: No
+
+
+Audio #2:
+
+Format: AC3
+Bit rate mode: Constant
+Bit rate: 448 Kbps
+Channel(s): 5 channels
+Sampling rate: 48.0 KHz
+Bit depth: 16 bits
+Language: English
+Default: Yes
+
+
+Subs:
+
+Format: PGS
+Language: English
+Default: No

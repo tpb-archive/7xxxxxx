@@ -1,0 +1,33 @@
+This is the original Windows 7 Ultimate 32-bit/64-bit disk, with the RemoveWAT 2.2.6 added onto the disk for easy activation of the operating system.
+
+
+Installation Instructions:
+
+01. Burn .ISO image to a disk.
+
+02. Put disk in tray, and restart computer.
+
+03. Either make sure your BIOS are set to boot from the disk, or press the Boot Menu key and select to Boot from Disk.
+
+04. You will be asked to "Press any key to boot from disk...", press a key, and the Microsoft Windows Setup will begin.
+
+05. Choose your install language configuration, etc. and click "Next".
+
+06. Click "Install Now".
+
+07. Next, choose whether you want to install the x86 (32-bit) or the x64 (64-bit) version of Windows 7 Ultimate, and click "Next".
+
+08. Check the "I accept the license terms", and click "Next".
+
+09. Choose whether you want to "Upgrade" or "Custom" install.
+
+10. Allow time for the install to complete. Your computer will reboot once to finish the installation, and then you will be required to setup a user.
+
+11. Once you have setup a user, copy the "REMOVEWAT/REMOVEWAT.EXE" file from the disk to your C:\Windows\ folder, and run it.
+
+12. Select "Remove WAT", and your computer will restart, and once it does, the activation is taken care of.
+
+13. Enjoy your new Windows 7 Ultimate install.  Don't forget to seed!
+
+
+More torrents at

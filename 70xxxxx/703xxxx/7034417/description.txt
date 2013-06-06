@@ -1,0 +1,52 @@
+In this Pre-Release 5 mojang patches the following that will be available when 
+
+Minecraft 1.2 is Released THIS IS JUST THE PRE-RELEASE.
+
+
+
+1. Added new world file format called â€œAnvilâ€ (256 max height and 4096 block IDs*)
+ 
+2. Multi-player light calculations do no longer cause affected blocks to be 
+
+   transmitted to the clients, instead the clients will recalculate the light on            
+
+   their own.
+
+3. Villagers will repopulate villages based on how many houses there are available.
+
+4. Some nights in villages will be worse than othersâ€¦
+
+5. Added a redstone-controlled light source.
+
+6. Decreased chance for the rare mob drops.
+
+7. All animals use the new AI system now.
+
+8. Crash bug corrupting levels when spawning mobs above the 255th block
+Sheep animation is correct in SMP.
+
+* The game canâ€™t use the full range of IDs yet because there are still some assumptions that IDs above 256 are items.
+
+-----------------------------------------------------------------------------------
+
+INSTALL INTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. change your current .jar file to whatever you like ( Example: minecraft1.1.jar )
+
+4. now just change the current .jar file that you downloaded to minecraft.jar
+
+-----------------------------------------------------------------------------------
+
+
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.			

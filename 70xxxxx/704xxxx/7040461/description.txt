@@ -1,0 +1,6 @@
+MKV ripped from original Madman Australian PAL DVD.  Video is remastered in 16x9.  This is recognized as the best DVD version available.
+
+Handbrake settings used:
+
+# CLI Query:  -i "M:\~Video Temp\STREET_FIGHTER_II_MOVIE\STREET_FIGHTER_II_MOVIE.iso" -t 4 -c 1-16 -o "D:\Street Fighter II MOVIE.mkv"  -f mkv --denoise="strong" --crop 4:4:24:20 --strict-anamorphic  -e x264 -q 17 -a 1,2 -E copy:ac3,copy:ac3 -6 auto,auto -R Auto,Auto -B auto,auto -D 0,0 --subtitle 1,2 --subtitle-default=1 --markers="C:\Users\User\AppData\Local\Temp\Street Fighter II MOVIE-4-chapters.csv" -x b-adapt=2:rc-lookahead=50:ref=5:bframes=4:b-pyramid=strict:me=umh:no-dct-decimate=1:subq=10:analyse=all:trellis=2 --verbose=1
+# User Query: False

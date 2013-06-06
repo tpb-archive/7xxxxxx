@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,Qpakkk,2012-02-13T19:25Z,"I got a message when i try to run it:""Missing File logfile.txt"".What can i do now??"
+,bl00tack,2012-02-15T19:06Z,"That file *should* automatically generate in C:\users\[yourname]\My Documents\Wolfire\Overgrowth and then log important game engine events etc. My guess would be that you don't have the user rights to create a file there, perhaps? Try running as admin, or maybe even just make a logfile.txt in the location above."
+,Qpakkk,2012-02-15T19:47Z,still not working :/
+,bl00tack,2012-02-16T12:47Z,"Have you tried any of the previous alphas, to see if they work?"
+,Qpakkk,2012-02-16T19:34Z,"yes i try all previous alphas,and i always got that message"
+,Nakimesis,2012-02-16T21:00Z,"@Qpakkk - same here... I can't make it run. I've got Windows 7, 64 bits. I tried making logfile.txt in correct path, but it didn't help, as well as running this as administrator."
+,Nakimesis,2012-02-17T14:20Z,"Fixed!
+Try creating logfile.txt in this directory, and then right click at ovegrowth.exe > parameters > compatibility > compatibility with Widows 98 / Widows ME
+Work great for me ;)"
+,Qpakkk,2012-02-17T21:04Z,Yeaaahhh It's work Perfect you're awesome:Dthanks man:D
+,poketisan,2012-02-18T16:41Z,"any1 got the new maps and weapons? cuz i didnt.. everything works fine but i didnt get all the new features(weapons, maps) if any1 knows how to get those please tell :)
+ty"
+,bl00tack,2012-02-18T18:55Z,"The new maps/weapons aren't yet in the interface, annoyingly. I can't seem to get the levels to load, but the weapons are easy enough: press ""esc"" to bring up the editor, hit ""load object"" then press the small folder icon in the top-right of that window. Then browse to the ""Items"" section of the Overgrowth/Data folder. All the relevant files are in there. The cool new multi-bladed throwing knife is under ""rat_weapons"" ;)"
+,SickJoke1,2012-02-19T08:43Z,"this is bullshit, my game crashes when it loads to ""Adding objects into scene"" or something, i deleted the torrent, so i dont remember the sentence exactly, im never getting a torrent from this guy again >."
+,kingsary,2012-07-25T01:27Z,what is logfile.txt

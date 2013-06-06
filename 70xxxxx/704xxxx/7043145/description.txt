@@ -1,0 +1,90 @@
+Here it is also but this time for Mac users for Mac Intel x64 for
+Mac OS X 10.6 & 10.7 from today : February 18,2012
+The official Final version of vlc media player 2.0.0
+
+you can trust and believe me,i don't lie anyway.
+
+Features :
+
+
+Video :
+
+
+â—¦Rewritten video output core and modules, allowing subpicture blending in GPU.
+â—¦Shader support in the OpenGL output, for colorspace conversion, including 10bits.
+â—¦New video outputs for Windows 7, Android, iOS and OS/2.
+â—¦New debanding, grain, denoising and anti-flickering filters.
+â—¦New deinterlacing filter, including an Inverse Telecine algorithm.
+
+
+Audio :
+
+
+â—¦New resamplers for higher quality audio.
+â—¦New dynamic range compressor and karaoke filters.
+â—¦Simplification of the audio core for faster processing.
+â—¦New audio outputs for iOS, Android and OS/2.
+
+
+Formats :
+
+
+â—¦Multi-threaded decoding for H.264, MPEG-4/Xvid and WebM.
+â—¦Support for 10bits codecs, WMV image and some other codecs.
+â—¦Rewritten support for images, including jpeg, png, xcf, bmp...
+â—¦Important changes in RealVideo and Real Format support.
+â—¦CrystalHD cards and Android OpenMAX support for hardware decoding.
+
+
+Input and Devices :
+
+
+â—¦Experimental support for BluRay discs: 
+- Menus are deactivated in this release (will come soon).
+ - AACS and BD+ DRM libraries and keys are not shipped, for legal reasons.
+â—¦Support for SDI capture cards and QTKit devices.
+â—¦Support for new adaptive streaming protocols, like HLS and DASH.
+
+
+For Mac Users :
+
+
+â—¦Completely new, single window interface:
+ - Available in 2 colors: Lion grey and QTX black.
+ - Extensions support and better Lion integration.
+â—¦Support for all QTKit devices through qtcapture and qtsound modules.
+â—¦Continued support for X 10.5 and PPC users (1080p and ProRes on Dual-G5!).
+
+
+For Anime Fans :
+
+
+â—¦Vastly improved MKV demuxer.
+â—¦Rewritten linked segments and ordered chapter files support.
+â—¦Correct support for FLAC, RV and Hi10p in MKV.
+â—¦Rewritten seeking support in cue files.
+â—¦Various ASS subtitles improvements.
+
+
+For professional Users :
+
+
+â—¦Support for ProRes 422 and 4444, AVC/Intra.
+â—¦Support for Jpeg-2000 and DNxHD/VC-3 in 10bits.
+â—¦Support for EBU subtitles (stl) and EIA-608.
+â—¦SDI and HD-SDI card support for input on Linux.
+â—¦New Dirac/VC-2 encoder, faster than the previous one.
+
+
+For Developers :
+
+
+â—¦libVLC, libVLCcore and libcompat have switched from GPL to LGPLv2.1+.
+â—¦New libVLC examples are available: media player, photobooth and mediainfo clones.
+â—¦New JSON requests on the web interface to control running VLC instances.
+â—¦Implementation of the MPRIS2 interface to control media players.
+â—¦VLC's web plugins have been rewritten for better integration and stability in all browsers.
+
+enjoy and have fun :)
+
+kind regards

@@ -1,0 +1,18 @@
+The Core Project, as suggested by our name, is not a turnkey destop disribution. Instead it is just the core Linux delivered is a highly modular X86 based system with community built extensions.
+
+It starts with a recent Linux kernel (3.03), and a 5MB command line core. Core.iso (8MB) is simply the kernel + core.gz - this is the foundation for user created desktops, servers, and or appliances. TinyCore is the kernel + core.gz + Xvesa.tcz|Xorg.tcz + Xprogs +fltk-1.10.tcz + (user's choice of Window Manager) + wbar.tcz
+
+TinyCore is an example of what the Core Project can produce, an 12MB FLTK/FLWM desktop. From which one easily add whatever applications from our repository.
+
+CorePlus ofers a simple way to get started using the Core philosophy with its included community packaged extensions enabling easy embedded frugal or pendrive installation of the user's choice of supported desktop, while maintaining the Core principal of mounted extensions with full package management.
+
+It is not a complete desktop nor is all hardware completely supported. It represents only the core needed to boot into a very minimal X desktop typically with wired internet access.
+
+The user has complete control over which applications and/or additional hardware to have supported, be it for a desktop, a netbook, an appliance, or server, selectable by the user by installing additional applications from online repositories, or easily compiling most anything you desire using tools provided.
+
+The latest version: 4.2.1
+
+ 
+http://distro.ibiblio.org/tinycorelinux/welcome.html
+ 
+http://distro.ibiblio.org/tinycorelinux/downloads.html

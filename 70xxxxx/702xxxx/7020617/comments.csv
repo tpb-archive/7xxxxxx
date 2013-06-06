@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,rhinocort,2012-02-12T11:48Z,keygen is detected as virus by symantec!!!!
+,SveinP,2012-02-13T09:51Z,"WARNING!
+Be very careful with the key generator. It adds the following file into the C: \ Windows \ Microsoft.NET \ Framework \ v2.0.50727 \ CONFIG:
+ ""security.config.cch.new"""
+[V],scene4all,2012-02-16T03:21Z,"lol next time please do some research before posting crap like that. Do you have any idea what the ""security.config.cch.new"" does ? lol i don't think so.
+
+These files are essentially a cache of the CAS (Code Access Security) demands of your application's code. They allow the in-built security system of the CLR to resolve the security demands of your code slightly quicker.
+
+There was a known issue that could arise from this process, ""FIX: Error message when you try to run a Web application that was built by using the .NET Framework 2.0: ""Overwhelming changes have occurred"" however, this applies to .NET Framework 2.0 and may or may not still apply with .NET Framework 3.5 SP1
+
+You should have at least given it a thought why the file was created in the .NET Framework folder."

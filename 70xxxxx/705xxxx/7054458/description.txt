@@ -1,0 +1,76 @@
+This package contains the High builds of Quake Epsilon + Mission pack 1 + Mission pack 2.
+
+
+Quake Epsilon builds are graphically-advanced builds of shareware Quake 1 for Windows/Linux/Mac, able to be upgraded to the full version of Quake along with it's mission packs Scourge of Argamon and Dissolution of Eternity, just by dropping the full-version .pak files in the right directories. They consist of the Darkplaces engine and many, many graphical mods from members of the Quake One forums and elsewhere (these are listed at the bottom of the page). If it were not for these brave troopers, Epsilon would not exist. The builds are legal and do not contain any pirated content. Just simple unzip-and-play stuff, no mucking about.
+www.xpfree.org/epsilon
+
+There are four tiers of builds, low, medium, high, and ultra.
+
+
+Ultra builds - Ultra-high-quality texturing and bump-maps enabled. For excellent machines with excellent graphics cards. 2011-year or upwards graphics card, recent quad-core cpu, 4gb+ ram recommended.
+
+High builds - Recommended for most modern machines. Ultra-high-texturing but no bump-mapping. Half the size & memory usage of the Ultra build. For good machines with good graphics cards. Main difference between this and "Ultra" is there is no support or texturing for bump maps. Geforce 7800 or upwards, dual-core 3ghz & upwards, 2gb ram and upwards recommended.
+
+Medium builds - For medium spec computers and laptops with reasonable onboard 3d chipsets. High-quality texturing, fewer shader effects, no bump-mapping, graphical options optimised for performance. About half the size and memory usage of the "High" build.
+
+Low builds - Uses the QRP texture pack and the old models, which is less gritty and grimy but more like the original quake, and uses less memory yet again. This is a low-spec build for people with older laptops, graphics cards without shader support, and older machines in general. But it's also for those who want more of a "original opengl quake" experience, but with slightly more "HD" texturing.
+
+
+thanks to and sources:
+
+Quake ID1
+
+Darkplaces: http://icculus.org/twilight/darkplaces/index.html
+Seven's Lava mod: http://quakeone.com/forums/quake-mod-releases/finished-works/6113-dp-new-lava-thread.html
+Sky replacement: http://quakeone.com/forums/quake-help/quake-clients/5492-darkplaces-hd-remastering-packs-5.html#post80673
+Mindgrid Audio upgrade: http://quakeone.com/forums/quake-help/general-help/7511-where-mindgrid-audio.html
+Explosive barrels upgrade: http://quakeone.com/forums/quake-mod-releases/finished-works/6313-explosive-barrels.html
+Small mod compilation: http://quakeone.com/forums/quake-mod-releases/finished-works/6076-small-mod-compilation.html
+Environment effects: http://quakeone.com/forums/quake-help/quake-clients/6869-tut-creating-rain-snow-fog-darkplaces.html
+Pretty water: http://quakeone.com/forums/quake-mod-releases/finished-works/6094-dp-pretty-water-update.html
+Reflecting overload: http://quakeone.com/forums/quake-mod-releases/finished-works/7734-quake-animated-reflecting-overload.html
+Reforged (bestiary): http://quakeone.com/reforged/
+Quake shareware: http://www.quakeone.com/q1files/downloads/quake-shareware-setup-beta099a.exe
+Rygel's texturepacks: http://quakeone.com/forums/quake-talk/quake-central/2778-my-texturepack-quake-darkplaces.html
+Diabolipak music replacement: http://quakeone.com/forums/quake-mod-releases/finished-works/7802-diabolipak-alt-music-replacement-pack-quake.html
+Shambler remodel:
+Pentagram remodel: http://quakeone.com/forums/quake-mod-releases/finished-works/7809-pentagram-protection-remodel.html
+Laser remodel: http://quakeone.com/forums/quake-mod-releases/finished-works/6185-laser-remodel-skin.html
+Effect-enabled powerups: http://quakeone.com/forums/quake-mod-releases/finished-works/7365-effect-enabled-powerups.html
+Inkub's RTLights: http://quakeone.com/forums/quake-mod-releases/finished-works/6465-inkub0-new-rtlights.html
+Quake Revitalisation Project textures (low build only): http://qrp.quakeone.com
+
+
+Scourge of Armagon MP1
+
+SOA Quake Revitalisation Project textures and normal maps: http://qrp.quakeone.com
+SOA weapons pack: http://quakeone.com/forums/quake-mod-releases/finished-works/6436-scourge-armagon-weapons-pack.html
+Splitterface's Environment ent's for SOA: http://quakeone.com/forums/quake-mod-releases/works-progress/7646-rain-fog-mp1-soa.html
+Seven's Transperant HUD: http://quakeone.com/forums/quake-mod-releases/finished-works/6138-fully-transparent-hud-menu.html
+Moondrunk Water and slime shader: http://quakeone.com/forums/quake-mod-releases/works-progress/7804-water-slime-shader.html
+Kingennio and Seven lasergun: http://quakeone.com/forums/quake-mod-releases/finished-works/6351-quake-mp1-hipnotic-lasergun.html
+Romi's RTlights for SOA: http://icculus.org/twilight/darkplaces/files/romirtlights_soa.pk3
+Alt-Bestiary Skins: http://quakeone.com/reforged/bestiary.html
+Pre-release SOA Reforged skins: http://quakeone.com/forums/quake-mod-releases/works-progress/4655-quake-reforged-project-98.html#post97942
+Alt Shader-animated Rocketboxes: http://quakeone.com/forums/quake-mod-releases/finished-works/6598-shader-animated-rocketbox-ammo-id1-rogue.html
+
+
+
+Dissolution of Eternity MP2
+
+DOE weapons pack: http://quakeone.com/forums/quake-mod-releases/finished-works/6443-dissolution-eternity-weapons-pack-plasmagun-fix.html
+Inkub's RTLights for DOE: http://quakeone.com/forums/quake-mod-releases/finished-works/6795-inkub0s-rtlights-dissolution-eternity-mp2.html
+Multi-grenade Ogre skin: http://quakeone.com/forums/quake-mod-releases/finished-works/7848-modded-reforged-skin-multi-grenade-ogre.html
+Andrew Joll Shambler: http://quakeone.com/forums/quake-mod-releases/finished-works/6132-shambler-high-poly-model-andrew-joll.html
+Seven's Eel retexture: http://quakeone.com/forums/quake-mod-releases/finished-works/7418-eel-mp2-dissolution-eternity.html
+Lava Supernailgun model: http://quakeone.com/forums/quake-mod-releases/finished-works/6241-quake-mp2-doe-lava-supernailgun-type-1-a.html
+Moondrunk's additional MP2 textures: http://www.box.com/shared/zmd6pz1v9x
+Transperant HUD and different menu graphics: http://quakeone.com/forums/quake-mod-releases/finished-works/6138-fully-transparent-hud-menu.html
+Alt-Bestiary Skins: http://quakeone.com/reforged/bestiary.html
+Alt-Monster skins from Seanstar: http://quakeone.com/forums/quake-mod-releases/works-progress/6798-monster-skins.html
+Arioch Water and slime shader: http://quakeone.com/102391-post158.html
+Seven's Improved sound files: http://quakeone.com/forums/quake-mod-releases/finished-works/7012-improved-sound-files.html
+Pre-release DOE Reforged Skins: http://quakeone.com/forums/quake-mod-releases/works-progress/4655-quake-reforged-project-104.html#post104668
+Alt Shader-animated Rocketboxes: http://quakeone.com/forums/quake-mod-releases/finished-works/6598-shader-animated-rocketbox-ammo-id1-rogue.html
+Tabun's Enforcer: http://quakeone.com/forums/quake-mod-releases/finished-works/6378-generations-mod-tabuns-enforcer.html - with special permission from Tabun
+Dafx's MP2 Environment ent's: http://quakeone.com/forums/quake-mod-releases/works-progress/7995-weather-files-mp2-dissolution-eternity.html

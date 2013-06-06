@@ -1,0 +1,56 @@
+Before you go through the process of installing this for yourself, you should take note that this is only for exploration, there is no NPCs, no mobs, no anything besides the world itself, those things are all run server side, and without the server database it is impossible to get these things.
+
+~Instructions to install and run~
+
+1: Extract the rar to wherever you want it.
+
+2: Find "WoWClient.exe" and make a shortcut to it, place shortcut wherever you want it.
+
+3: Right click the shortcut and hit properties, add -uptodate and -console at the end of the path. http://i.imgur.com/0m7uL.png
+
+4: Go to TheAbyss2 folder in the WoW folder, run Abyss2.
+
+5: Go to the options tab, set where you would like to spawn, note: If you choose to spawn on Azeroth you can only teleport to locations on Azeroth, if you choose to spawn on Kalimdor, you can only teleport to places on Kalimdor.
+
+6: Set IP Adress to localhost.
+
+7: Hit okay, and click start server.
+
+8: Run your WoW shortcut, a box will come up with your computer information, click OK.
+
+9: Click log-in, if you get any type of error message, hit change realm on the right side and you should see your realm right there.
+
+~Teleporting around~
+
+So if you want to teleport around, you have to make sure that you put -console after your shortcut path earlier. Then Follow these steps:
+
+1: Hit "~" in game, this will open the game's command console.
+
+2: Find a place you would like to teleport to from this file: http://pastebin.com/PTtNCjei
+
+3: Enter this exactly "worldport <mapId> <x> <y> <z>"
+   For Example "worldport 0 -12380.3 3400.92 48.865" to teleport to Gilijim's
+   Island.
+   (Note you can only teleport to places on the map ID you are currently on)
+   (mapId 0 = Azeroth, 1 = Kalimdor)
+
+~Other useful commands~
+
+1: Hit "~" in game to bring up the game's command console.
+
+"speed 1-60" - This changes your characters speed, enter a value 1-60 to increase 
+               or decrease it.
+
+"swimspeed 1-60" - This changes your characters swim speed, enter a value 1-60
+                   to increase or decrease it.
+
+"terminalVelocity 1-60" - This changes how fast your characters falls, enter 1
+                          to fly for a very long time or 60 to fall like a rock.
+
+For a full list of all commands visit this thread: http://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-exploits/9645-wow-console-commands-x-post-another-site.html
+
+
+~Final Notes~
+If you have any questions or need help, feel free to e-mail me at burritowow@gmail.com, or just post here.
+
+Thanks for your time and enjoy the exploration.

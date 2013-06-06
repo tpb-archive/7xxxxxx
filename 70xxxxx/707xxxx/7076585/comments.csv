@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+[T],promodsharma,2012-03-04T19:06Z,Thanks for sharing. Works Perfectly. Tested.
+,Ch33534n0Nu72,2012-03-04T19:48Z,"@promodsharma
+No prob."
+,chicken-,2012-03-11T00:23Z,"Instructions say:
+use blocked with FW
+
+Is there something that can be done in hosts file instead?  Wouldn't I be unable to connect to FTP servers if my firewall is blocking the app?"
+,sta64,2012-03-21T12:59Z,You need to block the software _selectively_. Modern firewalls allow you to enter a list of server names/IP addresses which the software is allowed to access (white list) or NOT allowed to access (black list). So you need to configure your firewall to allow this software to access everything EXCEPT its home site.

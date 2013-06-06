@@ -1,0 +1,89 @@
+This is the Ultimate Office and Windows Activator AIO tool. It will activate all Versions of Microsoft Office 2010 including standalone applications like Word, Excel etc and Windows 7 (Pro and Enterprise ONLY!!) via KMS style activation.
+
+
+Requirements:
+Microsoft .NET Framework 4.0
+Office 2010 for Office Support 
+Windows NT 6 era operating system (Vista or later) for Windows Support
+
+
+Microsoft Toolkit Changelog:
+
+2.3 Final
+-Fixed Update check bugs (BETA 9 and earlier will fail to know about this update and will get an error).
+-Now no longer requires .NET 4.
+-Readme is still out of date, and since I'm working on 3.0 for W8/Office 15, I likely won't do much with 2.X.
+-When downloading updates for Office 2010, all updates not on the list that aren't OCT get deleted as they are superseded.
+
+BETA 9
+-Added function to download and integrate all updates in Customize Setup
+-Fixed Product detection issues in Customize Setup
+
+BETA 8
+-Added Permissions Fix during a Restore and Improved Office Rearm Check Success Rate
+-Added Program Update Check on Startup
+-Added support for UDF Office ISO\\\\\\\'s
+-Added Functions to directly Check and Show Keys in the DigitalProductID.
+-Channel Changing does patching via code instead of using xdelta3.exe and no longer needs to write patches to disk
+-Customize Setup disables channel change button if setup.exe is not from Office 2010, so you can use it to integrate Office 2007 Updates/Languages.
+-Enhanced error checking/messages on KMSEmulator failure.
+-Fix MAK Activation Count always failing
+-Fix Restoration of Phone Activation ending up in grace
+-Fixed Scheduled Tasks not running as SYSTEM
+-KMS PID is set before start instead of editing process memory when using manual Activation
+-Preliminary Windows 8 Key Decoding
+-Removed options and unnecessary fixes from EZ-Activator
+-Scheduled tasks now keep the last run time and result
+-Timing of Activation Restore
+-Updating Settings or PID via EZ-Activator will update AutoKMS/AutoRearm. 
+This is because changing settings but not the EXE could cause a INI mismatch so AutoKMS/AutoRearm would revert to default settings.
+-Using ReSharper for automatic code refactoring
+
+Alpha 1 R7
+-Fixed checks that disable functions
+
+Alpha 1 R6
+-Fixed Scheduled task install failure.
+
+Alpha 1 R5
+-Added IR5 detection
+-Added MultiKMS
+-Added Office/Windows Product detection in Main tab
+-AutoKMS and AutoRearm show their version in the log
+-Backups are sorted by OS/Office and show up as a list. Move old backups to new folders to use them.
+-Can install AutoRearm alongside AutoKMS, allowing AutoRearm to be a failsafe.
+-CMID change and Office Repair disabled by default in EZ-Activator. If the PID fix doesn\\\\\\\'t work you probably have an issue that these won\\\\\\\'t help.
+-Disable and check Save/Restore keys in Windows since Windows backup needs this.
+-Fix tokens permissions on restore in case of bad permissions.
+-Key Checker doesn\\\\\\\'t require Office or Windows Vista+ to use.
+-Key Checker gets remaining MAK count if a MAK is checked. Requires Internet connection or will not work.
+-Key Checker is a bit faster.
+-KMS PID\\\\\\\'s coded in the app can be selected in Settings as a list.
+-More products supported/consolidated in Key Checker.
+-Improved AutoRearm detection of activated Office.
+-Improved Windows backup failsafe.
+-Removed Selector UI
+-Scheduled Tasks will be Vista on Vista+ OS instead of XP. XP will still use XP tasks.
+-Silent switches added for MultiKMS, Backup and Restore of Office and Windows, and Windows EZ-Activator. NOTE: /SaveKeys switch on Backup may require user interaction to get the key.
+-UI changed on CID/Key Prompt boxes.
+-Various improvements, bugfixes, and techniques to optimize the apps and minimize AV false positives.
+
+Alpha 1 R4
+-Vista Support Detection
+
+Alpha 1 R3
+-Windows Backup enhancements
+-Reinstall Keys
+
+Alpha 1 R2
+-Windows Volume detection bugfixes
+-Not using .NET Reactor
+-Windows Backup tweaks
+-Reinstall Keys Selected by default
+
+Alpha 1
+-Windows UI/Functions
+
+Dont forget to leave a comment about using my torrent. If you need help, im here to lend a hand
+
+-anarchist9027		

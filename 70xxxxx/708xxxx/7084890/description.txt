@@ -1,0 +1,26 @@
+Description
+SparkyLinux is a distribution created on Debian stable branch with e17 window manager by Linuxiarze.pl team. The project has been moved from ue17r (Ubuntu Enlightenment17 Remix) and is not longer based on it. It's still under development so be careful using our distro.   
+http://sourceforge.net/projects/sparkylinux/
+
+We are pleased to inform you that the cost of publishing SparkyLinux been completed.  The result is a published release candidate RC numbered 1.0, codenamed 'Venus'.
+Stable version soon!
+
+Compared to the previous version 1.0 beta2 were fixed all known bugs, including :
+- The error associated with a lack of keyboard layout
+- The installer has been enhanced with the ability to configure the keyboard layout during installation
+- Moros  
+http://linuxiarze.pl/en/MoroS
+improved styling software on the GTK + libraries, adjusting engine 'aurora'
+- And a few minor amendments affecting the overall look and operation of the system
+
+SparkyLinux 1.0 rc 'venus' PL
+SparkyLinux PL
+
+At the same time with the English-language version released SparkyLinux the default location and layout of the keyboard, 'PL'. The system was up spolszczony, so the installation does not require configuration language. If you want to install SparkyLinux another location and / or different keyboard layout I recommend the English version.
+I encourage you to test SparkyLinux and reporting errors and suggestions in our forum 
+http://linuxiarze.pl/en/forum/dystrybucje-group4/sparky-forum27/
+ 
+http://linuxiarze.pl/sparkylinux
+
+sha1sum : 621ea38cd9d906e1dae8fad885149ea251fe3344 sparkylinux-lite-i686-1.0-rc-pl.iso
+md5sum : daee12bc951434dc90221428a711208b sparkylinux-lite-i686-1.0-rc-pl.iso

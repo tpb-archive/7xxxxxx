@@ -1,0 +1,32 @@
+Updated script logic and adds 1 lang (koKR).
+
+Now uses EU base manifest 15050 for everything instead of seperate 13623 NA/EU/TW bases.
+
+Languages supported are:
+
+deDE German
+enGB English - UK
+enTW Chinese text - English spoken
+enUS English - USA
+esES Spanish - Spain
+esMX Spanish - Mexico
+frFR French - France
+koKR Korean - Korea
+ruRU Russian
+zhTW Chinese - Taiwan
+
+Double click on Make_Language_XXXX.command to switch language.
+
+If you want to use a different server than Molten WoW then modify
+
+Logon-Server.txt
+
+and then run a Make_Language script.
+
+Added new script "Make_Language_scripts.command".  If you want to modify
+the code for the Language scripts then modify enUS and run the Make_Language_scripts.command
+to propagate changes to to other Lang scripts.
+
+A bunch of new WoW.mfil and .mfil files just for saving for future use if needed.
+
+-HR

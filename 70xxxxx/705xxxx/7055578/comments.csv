@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,Astrocin,2012-02-24T18:16Z,"Hi, when I open the WoW icon, it just bounces and says ""Applicatio not responding""
+
+What do I do?"
+[V],HolyRoses,2012-02-24T18:19Z,"When you opened the App did it bring up a window and say initializing data?  It should do that first time and then WoW icon will go to your tray and bounce for a while.  It is loading data.  After bouncing icon your screen will go black, then it will finally show the WoW hand icon, then load menu, etc.   Be patient.  This is only the client.  The game data will be sent to you.  It may take 5-15 min for it to load the menu."
+[V],HolyRoses,2012-02-24T18:31Z,"Please realize guys this is for MacOS.  You can download on windows if you want to analyze what my scripts do and try to build your own multi client installer using vbscript or something.  It will not run on Windows.
+
+This is a streaming game client supporting 9 languages.  The entire game is 14GB and will be sent to you as needed.  It may take a while (many minutes) before you can actually login to your starting zone the first time you play."
+,jcpreacher_mo,2012-02-25T01:27Z,What converter did you use when you made iPod files. I loved your quality and file size.
+,jcpreacher_mo,2012-02-25T01:32Z,What converter did you use for iPod files? I liked the quality and file size.
+,afranc,2012-02-25T01:39Z,welcome back :)
+,afranc,2012-02-25T04:01Z,"hey HR, since you're back in business let me ask you for some help. Ive started encoding using your encode-handheld for atv2 but for some reason sometimes the 2ch aac sound is very low when converted from DTS. I'm using the same sources you usually do for your encodes so I'd like to ask you how do you test the sound volume before you do the encode - as I'm sure you check it before the whole process is complete - and usually what is the adjustment you do / parameters you use? 
+Thanks, looking forward for your torrents."
+[V],HolyRoses,2012-02-25T04:53Z,-t appletv -pbM -o +10
+,afranc,2012-02-25T05:19Z,"thanks, I'll try - interesting you don't use the I option - usually I use -t appletv -pbIM"
+,afranc,2012-02-25T05:24Z,"thanks, I'll try - don't you use the -pbIM ? any reason for not using the I?"
+[V],HolyRoses,2012-02-25T06:13Z,appletv profile sets that automatically i believe.
+,Krisz2011,2012-02-27T20:22Z,how can i set the reamlist?? 
+[V],HolyRoses,2012-02-27T21:05Z,"look at WTF/Config.wtf
+
+I dont use a realmlist.wtf as it isn't necessary."
+[V],HolyRoses,2012-02-27T21:08Z,"the newer package here:
+
+https://thepiratebay.se/torrent/7057820/World.of.Warcraft.Cataclysm.v4.0.6a.Multi.10.Language.MacOS-HR
+
+I created a txt file you can use Logon-Server.txt that you can manipulate.  Otherwise your WTF/Config.wtf will be overwritten anytime you change language, but likely you wont do that very often."
+,ridgley1,2012-04-09T09:13Z,how do i log in with molten WoW cuz if i log in is like  i need to get the patch please help

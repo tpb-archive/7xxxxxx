@@ -1,0 +1,77 @@
+----------------------------------------------------------------
+
+Counter-Strike: 1.6 Patch 36 [Non-Steam]
+
+----------------------------------------------------------------
+
+Build by KloneB@DGuY | www.homedition.ru
+
+----------------------------------------------------------------
+
+Version: 1.6 [Patch 36 / Protocol 47/48]
+Year: 2011
+Genre: Action [Shooter] / FPS [1rd Person]
+Multiplayer: Yes
+Developer: Valve
+Publisher: HomEDition Company
+Localization: Reallite Labs 
+Platform: PC
+Language Text: Russian / English
+Language Voice: Russian / English
+Support OS: Windows 95 / 98 / ME / 2000 / XP / Vista / Seven 
+Support x64: Yes
+
+----------------------------------------------------------------
+
+Recommended system requirements:
+- OS: Windows XP SP3 
+- CPU: Intel Pentium III / Athlon 800 GHz 
+- RAM: 128 Mb 
+- Video-Card: 32 Mb 
+- Sound-Card: Windows-compatible sound card 
+- HDD: 611 Mb 
+- Controls: Keyboard + Mouse 
+- Additional: Geympad [if required] 
+- Online Game: Internet access / LAN
+
+----------------------------------------------------------------
+
+Features Build:
+- Only Full Version / Do not cut
+- Added working MasterServers.vdf for games on the internet] 
+- Added launcher cstrike.exe with support options 
+- Added English language + utility to switch
+- Added the Russification of Reallite Labs 
+- Added voice radio commands from NilS 
+- Added voice radio commands from se7h 
+- Added voice radio commands from the Alligator 
+- Added a useful menu [key H] 
+- New design for main interface
+- Improved quick shopping list 
+- Added New maps 
+- Replaced model knife
+
+----------------------------------------------------------------
+
+Screenshots:  http://www.homedition.ru/logos/games/cs_screens/1_full.jpg  http://www.homedition.ru/logos/games/cs_screens/2_full.jpg  http://www.homedition.ru/logos/games/cs_screens/3_full.jpg  http://www.homedition.ru/logos/games/cs_screens/4_full.jpg
+
+----------------------------------------------------------------
+
+Additional information:
+ To switch language use the utility Lang Changer.
+ How switch to English
+
+ If you have problems with starting the game, then
+ try to run in compatibility mode for Windows 98/XP! 
+
+----------------------------------------------------------------
+
+Additional installer parameters:
+ /S silent install/uninstall game [without dialogues]
+ /D=path specify a folder to install the game*
+ /NCRC disable integrity installer checks
+
+ * always have to write this command only at the end of the line! 
+ sample: setup.exe /S /NCRC /D=C:GamesMy Test Game
+
+----------------------------------------------------------------

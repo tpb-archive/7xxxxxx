@@ -1,0 +1,88 @@
+[img]http://www.resolume.com/gfx/software/r4/Resolume_Avenue_4_930.jpg[/img]
+Resolume Avenue 4 VJ Software
+Resolume Avenue can play multiple layers of full HD without skipping a beat and it can handle multiple live inputs to make it a virtual video mixing desk.
+Audiovisual Playback
+Resolume plays Quicktime and AVI video files, PNG and JPEG images, WAV and AIFF audio files. You can combine any video file with any audio file.
+ 
+Generative Content
+Resolume plays all your interactive Quartz Composition and Flash animations including AS2 and AS3 scripting. Use it to display text input from Resolume and with parameters you can gain even more control over your animations and tweak your content while VJ-ing. Watch the Resolume & Flash Video. Watch the Quartz Composer Video. If you're feeling really adventurous your can even code your own generative content in openGL by compiling FFGL source plugins.
+Audiovisual Effects
+Resolume supports both VST audio effects and FreeFrameGL (FFGL) video effects. Use them separately or combine them to create exciting new audiovisual effects. You can use as many effects as you like on clips, layers, the entire composition and even as adjustment layers. Watch the Resolume 3 Effects Video
+3D OpenGL Accelerated Compositing
+Freely position, scale and rotate your clips and layers or even the entire composition. The entire video engine is running on the video card's GPU so you can use alpha channels and masks and get the fastest performance and best image quality possible.
+Global BPM Tempo
+Everything can be linked to the global (Beats Per Minute) tempo to create a fully synchronized audiovisual performance. Automatically pitch the audio and video and synchronize parameter automation. Use the beat snap function to trigger clips in sync with the beat.
+MIDI & OSC
+Use MIDI from any device or software to control the entire interface. Send MIDI out so your MIDI device will light up pretty buttons or even move motorized faders. Want more precision & flexibility? Resolume can receive OSC (Open Sound Control) messages too! OSC enables you to control resolume from an iPad or iPhone using TouchOSC.
+Auto Pilot
+With the Auto Pilot you can play all clips in a layer sequentially or in random order. You'll find this on the Layer Properties panel and in the clip menu.
+Clip Transitions
+When you're triggering clips in version 3 it always makes a hard cut between the clips. With the clip transitions in version 4 you can automatically fade between clips. It's super nice and easy to use, just set the transition time with the slider on the layer and optionally choose what blend mode or transition you want to use with the dropdownlistbox. This can make your style a lot smoooother.
+Effect Clips
+With Effect Clips you can work with effects like you can with normal clips. This means you can trigger them with the keyboard or midi controller. Sequence with the Auto Pilot and automatically cross-fade with the Clip Transitions. This is a whole new way of working with effects and we love it.
+Clip Reconnect
+If you have moved the media files on your hard drive or even moved the composition and files to a different computer you can now easily point Resolume to the new location of the files and it will fix your composition and decks.
+Native Blackmagic Capture Support
+All Blackmagic Design capture cards are supported right out of the box. All DeckLink, Intensity and UltraStudio capture devices work great with Resolume on Mac OS X and Windows.
+Audio Analysis
+Resolume can do audio FFT analysis to make any parameter bounce to the music. Animate the size, rotation or position of a clip or make effects dance to the beat.
+ 
+Crossfader
+Assign any layer to the A or B bus of the crossfader and mix it just like you do on a DJ mixer but now with audio AND video.
+Output and Preview Monitors
+With the preview monitor you preview a clip or layer and configure it so it looks and sounds just the way you like it before you play it.
+Parlez-vous FranÃ§ais?
+The Resolume interface and help is available in CatalÃ , Deutsch, English, EspaÃ±ol, FranÃ§ais, Haags, Italiano, Magyar, Nederlands, PortuguÃªs. Capisce?
+Resolume Arena 4 Media Server
+Resolume 4 comes in 2 editions. Avenue is the VJ software you know and love, Arena has all the features of Avenue plus features you'd expect from a media server, soft edging, screen warping, DMX input and SMPTE timecode input.
+Screen Warping & Video Mapping Arena
+In the advanced output window you can now create as many slices from your composition and position and transform them to your liking. This is perfect for projection mapping on many surfaces. Your surfaces do not have to be rectangular anymore either, you can warp your video onto curved screens with the advanced bezier transformations.
+ 
+Soft Edge Arena
+With soft edging you can seamlessly project 1 widescreen image with 2 or more projectors. It can even wrap around the composition for 360 degrees seamless projection.
+SMPTE Timecode Input Arena
+With SMPTE Timecode input you can run you clips in sync with anything you want. Lights, lasers, even fireworks! Just not the go-go dancers, but we're working on that.
+DMX Input Arena
+You can control Arena from a lighting desk using DMX. It works similar to MIDI so it's very easy to configure. Input can be done via ArtNet or an Enttec DMX USB Pro.
+Other New Features in Resolume 4
+â€¢ You configure every layer to automatically start the first clip when the composition has loaded. This is very handy for installations where Resolume needs to start playing clips automatically in combination with the Auto Pilot.
+â€¢ Ignore Column Trigger, prevents clip from being triggered when the column triggers are used.
+â€¢ Scale to Fit button for clip now cycles through 4 modes, first it will scale taking into account ratio and fill to the hight or the width, then it will just match the composition size and the fourth time it's back to default, this also works when multiple clips are selected.
+â€¢ Recent compositions menu for quick access to last opened compositions.
+â€¢ New version of DXV Codec (2.2) compresses files faster by utilizing multiple processors.
+â€¢ Invert checkbox for mouse mapped controls.
+â€¢ Type ahead selection in File,Effect and Composition browser.
+â€¢ Position of windowed output is remembered.
+â€¢ Windowed output position can be changed with the arrow keys.
+â€¢ Show Display Info (option in the menu to identify the different displays).
+â€¢ Global Clip Start offset to compensate for clip trigger latency via MIDI or OSC.
+â€¢ Tailored MIDI support for Akai APC Midi controller.
+â€¢ Invert option for masks.
+â€¢ Value editor popup for parameters.
+â€¢ Ease in-out for all parameters.
+â€¢ Drop effect directly on layer thumbnail.
+â€¢ Drag file on video or audio track zone in clip properties panel to replace video or audio track without resetting parameters.
+â€¢ Property panel sizes and layout is remembered.
+Resolume 4 Enhancements
+â€¢ Smaller composition files for quicker loading of decks.
+â€¢ Great reduction of memory usage.
+â€¢ Effect presets are stored in separate files, this makes it easier to import and share user presets.
+â€¢ Improved recording performance.
+â€¢ Preview panel checkerboard backdrop for better transparency viewing.
+â€¢ Faster OSC input.
+â€¢ Flash text field transparency fix on Windows.
+â€¢ Better FFGL Syphon support.
+â€¢ Much faster thumbnailing and analysis of audio clips.
+â€¢ ArtNet DMX fixes.
+â€¢ Improved rendering of odd sized files.
+New Plugins in Resolume 4
+Crop, Delay RGB, Infinite Zoom, Terrain, Line Scape (source), Lines (source), Cut (mixer). Plugin Mixer pack is now included in version 4.
+Minimum System Requirements
+Windows 7 or XP: ATI Radeon 9600 or better. NVIDIA GeForce FX 5200 or better. 2GB RAM.
+Mac OSX 10.4.9 or later. Intel processor. Quartz Extreme graphics card (Resolume is not compatible with integrated Intel graphics processors). 2GB RAM.
+DXV Codec
+Our DXV QuickTime video codec is the fastest codec available for Resolume. It let's you work effortlessly with a lot of layers and high resolution video. Because it does all the playback on the videocard's GPU it's faster than any other codec. 
+
+
+No need to install, it's portable, so just click'n'go!!
+Thnx go to UNION for the crack!

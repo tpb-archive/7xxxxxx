@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,AJARBAS2,2012-02-17T15:53Z,"Para remover o primeiro pop-up após a inicialização do sistema.
+Copie e cole no bloco de notas e salve e depois aplique:
+nopopup.reg
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+
+""Userinit""=""C:\\WINDOWS\\system32\\userinit.exe"""
+,Ofkings,2012-08-08T12:54Z,Me diz oq mais vem nesse windows pra pesa 2.70gb

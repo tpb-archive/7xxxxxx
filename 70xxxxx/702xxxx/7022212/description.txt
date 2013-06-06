@@ -1,0 +1,55 @@
+Requirements: Android 2.1+
+Overview: C4droid is a C compiler for Android.
+
+
+
+Root is not required, but if you have rooted your device or have enough internal memory, you can get C++ support, read further. (some comments about "iostream not found" are fake, their authors just didn't follow installation instructions).
+
+Updating from lower than 3.0 versions:
+WARNING! Uninstall this app before update! Else app will crash. It's well known Android bug (details: http://code.google.com/p/android/issues/detail?id=1227).
+You have been warned!
+
+Result of compilation (binary) is placed in "/data/data/com.n0n3m4.droidc/files/temp", because sdcard doesn't have permission for execution by default.
+
+If you have "Illegal instruction" error, using internal compiler (TCC), install GCC plugin, GCC supports softfloat (by default). Also there are some casting errors in TCC, if you notice them, use GCC.
+
+Long click save button to "save as", long click run to run with arguments.
+C4droid already has almost full C language support, so you don't need to wait when it will be added.
+You can to write your own applications on the Android phone, and run them. This app uses TCC and uClibc, so it has full support of ANSI C and some support of ISO C99. C4droid can be used for educational purposes or to practice in C language.
+Some components of C4droid are LGPL-licensed. You can download used source code of TCC and uClibc on their websites. C4droid includes Android Terminal Emulator so you can to run your application comfortably.
+
+GCC plugin installation instructions:
+1) Download and install GCC plugin for C4droid (search in Android Market).
+2) Select GCC or G++ compiler in preferences.
+
+Tested devices:
+Android Emulator 1.6, QVGA
+Android Emulator 2.2, WVGA
+Acer Liquid 2.2, WVGA
+Herotab C8, WVGA
+
+If you are getting "Fatal: IO error", install busybox.
+
+WARNING! All Telechips and MediaTek based devices are unsupported (Android phones/tablets from china), because of the incompatiblity with EABI. Devices without VFP (VIA) are partially unsupported too (floating point operations).
+C4droid will check license via the Internet.
+First launch may be (very) long due to library unpacking (WAIT PATIENTLY!, unpacking may take up to 10 minutes).
+
+What's in this version:
+3.23:
+Fixed random ICS bugs.
+3.22:
+WARNING! Uninstall app before update! Email me if app won't work.
+Replaced chmod and setExecutable with JNI.
+Compatible with Lenovo Thinkpad Tablet.
+Fixed some ICS Terminal Emulator bugs.
+
+Note: If it does not work, try with Lucky Patcher
+
+
+MARKET LINK:-
+ 
+https://market.android.com/details?id=com.n0n3m4.droidc 
+
+[img]http://th159.photobucket.com/albums/t146/kumarlavan9/th_flagtq7.gif[/img]
+
+[img]http://img408.imageshack.us/img408/3320/6897.gif[/img]

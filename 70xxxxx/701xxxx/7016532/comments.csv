@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,miazilla,2012-02-08T08:14Z,♥
+,juliv,2012-02-08T21:16Z,you're awesome! thanks from brazil
+,livtrue84,2012-02-08T21:16Z,Hi Fishcat please answer my question.  I wanted to know what program/software you used to rip directly from logo.  I've tried countless without success.  Any help in the matter I will be extremely greatful.  Please help!!
+,fishcat,2012-02-09T02:46Z,"Hi livtrue84, it was quite a challenge! With the help of some friends, I had to figure out where the actual stream links are hidden in their playlist system, write my own program to extract them and finally use rtmpdump to save the videos.
+
+My program is very hastily put together and I'm afraid it's not really suitable for the general public at this point. Rest assured I will be uploading the rest of season 4 as it becomes available though! :)
+
+â€¦but in case any other adventurous souls want to give it a shot, here's the gist of it: use your browser's developer tools to look for a configuration.jhtml page as the video loads. In there you will find for each segment of the video a mediaGen.jhtml link, which in turn will contain rtmpe links â€” one for each video quality option, the best being the one with bitrate=3500 â€”Â that you can save using rtmpdump. New versions of rtmpdump may not work; I had to use version 2.1d."
+[T],duranie,2012-02-09T03:31Z,"Hi fishcat, this is AWESOME!!  Thank you so much!   Any chance you can get episode 1 in this same quality?    How about the 'meet the cast' special (which was only available for viewing on logotv.com).  
+I'm not in the USA, so it's all blocked for me.
+Thanks again!!
+"
+,fishcat,2012-02-09T05:40Z,"Hello duranie, I have just uploaded the Meet the Queens special and will upload episode 1 (and untucked) as soon as they finish downloading! :)"
+,nemko5,2012-02-11T16:44Z,"Fishcat, can you please please refrain from stating that these are directly from logo?
+I'm not trying to tell you what to do, but I really don't want logo to eventually wisen up and tighten their security over this. They are very active online, especially when it comes to RPDR. I've been downloading the eps the same way you have for a while and I really think thats why they took the season 1-3 episodes down. I mean, season 1 isn't even on dvd and the eps are down."
+,fishcat,2012-02-14T12:50Z,"nemko5, it's pretty obvious whether I state it or not. If they really want to make things harder for their international fanbase, who have few ways other than P2P to follow the show as it airs, that's their own loss.
+
+But I wouldn't be too concerned about tightened security. If it can be watched, it can be copied in one way or another."

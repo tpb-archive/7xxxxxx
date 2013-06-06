@@ -1,0 +1,41 @@
+Video
+ID                                       : 0
+Formato                                  : MPEG-4 Visual
+Formato del perfil                       : Advanced Simple@L5
+Ajustes del formato, BVOP                : 2
+Ajustes del formato, Qpel                : No
+Ajustes del formato, GMC                 : No warppoints
+Ajustes del formato, Matrix              : Default (MPEG)
+ID Códec                                 : XVID
+ID Códec/Pista                           : XviD
+Duración                                 : 1h 46min.
+Tasa de bits                             : 2 156Kbps
+Ancho                                    : 720pixeles
+Alto                                     : 304pixeles
+Relación de aspecto                      : 2,35:1
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.411
+Tamaño de pista                          : 1,61GIB (82%)
+Librería de codificación                 : XviD 64
+
+Audio
+ID                                       : 1
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+ID Códec                                 : 2000
+Duración                                 : 1h 46min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 448Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+Tamaño de pista                          : 342MB (17%)
+Alineación                               : Dividir a través entrelazado
+Entrelazado, duración                    : 42 ms (1,00fotograma de video)
+Entrelazado, duración de precarga        : 500 ms

@@ -1,0 +1,90 @@
+DriverPacks for Windows 2000/XP/2003/Vista/7 (31.01.2012)[x32-x64][Team Nanban][TPB]
+
+DESCRIPTION:
+
+DriverPacks for Windows 2000/XP/2003/Vista/7 (31.01.2012) is a collection of drivers. Last updated drivers - January 31, 2012. It is not necessary to integrate these drayverpaki in the distribution of Windows, you can also put the driver manually after installing Windows.
+
+Extras. Information:
+
+1) in the properties of the device driver to be installed in the line "device instance ID" search text DEV_ **** (instead of 4 stars - 4 digits or letters).
+
+2) search (eg search in total commander) drayverpakov contents in files *. inf text DEV_ **** (instead of 4 stars - your 4 numbers or letters).
+
+3) The search result will show you which folder / folders are likely to need drivers for this device.
+
+if the line "device instance ID" no text DEV_ ****, you can search for any other text that from this line.
+
+if not, you can intuitively poperebirat several putatively a particular folder, the folder names begin with the same letter, which begins the name of the firm manufacturer of the device.
+
+information about the devices can for example give the program hwinfo32.
+
+
+Windows2000 XP 2003 (x86) Driverpacks
+
+dp bluetooth wnt5 x86-32 910
+dp chipset wnt5 x86-32 1201
+dp cpu wnt5 x86-32 1005
+dp graphics a wnt5 x86-32 1107
+dp graphics b wnt5 x86-32 1107
+dp graphics c wnt5 x86-32 1107
+dp graphics languages â€‹â€‹wnt5 x86-32 1107
+dp graphics physx wnt5 x86-32 1111
+dp hid wnt5 x86-32 1105
+dp lan wnt5 x86-32 1111
+dp lan-ris wnt5 x86-32 1011
+dp massstorage wnt5 x86-32 1201
+dp misc wnt5 x86-32 1201
+dp modem wnt5 x86-32 1101
+dp monitor wnt5 x86-32 1005
+dp runtimes wnt5 x86-32 1107
+dp sound a wnt5 x86-32 1111
+dp sound b wnt5 x86-32 1111
+dp tv wnt5 x86-32 1005
+dp webcam wnt5 x86-32 1107
+dp wlan wnt5 x86-32 1109
+
+
+Windows Vista and Windows 7(x86) Driverpacks
+
+dp amdfilter wnt6-x86 1110
+dp audio wnt6-x86 1111
+dp cablemodem wnt6-x86 1001
+dp cardreaders wnt6-x86 11 041
+dp chipset wnt6-x86 1111
+dp gaming wnt6-x86 1001
+dp graphics a wnt6-x86 1111
+dp graphics b wnt6-x86 1112
+dp graphics mobile wnt6-x86 1111
+dp lan wnt6-x86 1112
+dp massstorage wnt6-x86 1110
+dp misc wnt6-x86 11 051
+dp modem wnt6-x86 1001
+dp monitors wnt6-x86 1001
+dp touchpad mouse wnt6-x86 1110
+dp tvcard wnt6-x86 1001
+dp webcam wnt6-x86 1103
+dp wlan wnt6-x86 1104
+
+
+Windows Vista and Windows 7 (x64) Driverpacks
+
+dp amdfilter wnt6-x64 1110
+dp audio wnt6-x64 1111
+dp cardreaders wnt6-x64 11 041
+dp chipset wnt6-x64 1111
+dp graphics a wnt6-x64 1111
+dp graphics b wnt6-x64 1112
+dp graphics mobile wnt6-x64 1111
+dp lan wnt6-x64 1112
+dp massstorage wnt6-x64 1110
+dp misc wnt6-x64 11 051
+dp touchpad mouse wnt6-x64 1110
+dp webcam wnt6-x64 1103
+dp wlan wnt6-x64 1104
+gaming x64 812
+monitors x64 911
+
+
+PLZ SEED AFTER DOWNLOADING..
+
+"SHARING IS CARING"

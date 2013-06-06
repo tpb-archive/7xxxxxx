@@ -1,0 +1,70 @@
+Android Ice Cream Sandwich 4.0 for Vmware 7/8 (will work on MAC or PC in virtual environment)
+
+This is the result of hard work from the guys at Android X86
+building Live CDs and VM ports for PC and Laptops/
+see their website and google groups for help
+Its not my work but I did customising and get some bits working.
+I thought I share my build to save some time
+
+known bugs in the build.. it times out in 30min and
+you cant unlock the phone (you slide the lock on screen)
+you will have to power of the vmware and reboot if happens
+also rebooting it comes in portrait.. and the mouse is
+reversed also.. makes it a tricky beast.. but move
+up to the rotation locker app and click it and get
+to click LANDSCAPE will fix it in place until
+you reboot or some app somehow undoes it again. it can be fun!
+they are minor issues though
+
+you can experience the full Android 4.0 as if its a real
+phone without the sensors and 3G of course
+and Wifi but it has a special LAN ethernet built
+in which works in Bridge mode or NAT mode
+
+so what works SOUND, VIDEO and Internet and PEER TO
+PEER Tool like AndSMB
+
+has some games pre installed some apps dont work
+as use ARM direct accessing and this OS kernel
+is x86! inTel CPU
+
+also no google market but theres an alternative
+plus you can google and download any direct APKs
+and install them via file manager
+
+I use AndSMB to connect to my NAS system and laptops
+windows shares where I stored my backup of apps.
+
+it flies on a i7 PC :)
+
+how to get it to work
+
+1) first you need to source VMWARE 7.14 or VMware 8.04
+workstation (search p2p for it)
+
+2) Unrar the contents to any drive
+
+3) start vmware and drag the file inside the Android X folder
+ending in .VMZ to the favourites side bar and it will
+simply add it
+
+4) now edit the settings and disable the ISO for cdrom
+i didnt include it as its already installed on this
+hard drive image
+
+5) then just click PLAY and enjoy Android and the
+apps on it
+
+its ROOTED (super usered) also so be careful use snapshots in vmware
+if playing with mods.
+
+enjoy AND HELP ME SEED THIS ! cheers
+
+PS
+you may have to say copied it when starting it
+on a new pc.. it best to force stop as I doubt it start up
+first time. it will hang i bet.. click restart should work then
+but watch out for the portrait and mouse weirdness i said above :)
+and how to get it sorted if happens.
+
+let me know how you get on

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,ScamN2,2012-03-02T03:47Z,"I'm a ""noob"", so let me know if this works."
+,aarque,2012-03-02T04:50Z,"No offense, and thanks for the share, but much research has been done on the subject. Microsoft recommends to not specify threads, or cores, for individual applications, stating that it is better to allow the system to select available cores: http://msdn.microsoft.com/en-us/library/windows/desktop/ms686247%28v=vs.85%29.aspx
+You can see these guys mucked through the subject and failed to come up with anything definitive: http://www.fsdreamteam.com/forum/index.php?topic=3489.0
+Which is consistent with my own research. Then there is always Bojote's tweak.
+http://www.venetubo.com/fsx.html
+ Please, if you encounter otherwise, by all means post results.
+"
+,ScamN2,2012-03-02T05:44Z,"@aarque
+This program is not exclusive to FSX
+I use it with other FSX software that runs in the background, like ""REX"", Multi-Crew Exp, etc.
+By assigning different programs to separate cores, it allows FSX to run exclusively on the threads it normally uses. I've noticed much smoother FPS by assigning background programs to separate cores. Once set up, you no longer have to use task mngr to set priorities and affinities. "
+,aarque,2012-03-02T06:06Z,"cool, maybe I'll try it sometime"
+,dazzibao,2012-03-02T15:46Z,"Thank you!
+
+But the serial is blacklisted!"
+,pumpernickel,2012-03-02T15:53Z,"I have a gadget that shows the load of each of my 4 cores. When running FSX all them are almost equally at maximum. However I remember that this was not the case before the FSX-patch came out.
+
+In my opinion this utility is useless - at least when FSX and X-Plane10 are involved."
+,ScamN2,2012-03-02T18:51Z,"@dazzibao
+Serial Cannot be ""blacklisted"".
+I just purchased this utility and the Serial is good to go.
+I just uninstalled and reinstalled and the program works fine with the serial.
+If anyone else has this problem please post by all means.
+Thanks................ScamN2"
+,flyerhk,2012-03-02T18:52Z,Another FSX placebo effect gimmick... (sigh)
+,ScamN2,2012-03-02T18:57Z,"@pumpernickel
+Did you read the comment I submitted to @aarque?
+If you run FSX with no background FSX utilities, it probably won't affect FSX and frame rates, but if you are using addons such as REX, you can assign REX to other cores/threads, which leaves FSX to run on it's own exclusive threads."
+,pumpernickel,2012-03-03T12:03Z,"@ScamN2 Of course I read the comment you submitted to aarque but I do not agree with you. This is based on my experience even if running programmes like Active Sky, FSC, IVAO or VATSIM in the background whilst using the FSX.
+
+In the early days of FSX or Windows 7 64 this utility might have been very usefull but certainly not any more - at least with my setup here."
+,aarque,2012-03-04T02:32Z,"Pretty much the same results encountered at other threads. For some it works, others not. The thing I have derived the best effect from is a frame rate limiter. FSX tends to try to be an ""overachiever"" and can easily spend too much CPU resource trying to kick out high FPS. If it is limited to something practical, say 20-30 FPS, it is able to render much more smoothly. This can't be properly controlled with ""target frame rate"" within the sim and must be handled by an external limiter. Once set-up (that is the hard part) it is effective and effortless. I get 30-35 consistently with  an i7 950 and target frame rate set to unlimited. My only other tweak is the bojote modified .cfg. Things like REX have no effect, it is a pre-loader and Active Sky uses very little resource, same with MyTraffic. I used FSPS Booster and thought it sucked. In my opinion, of course."
+,irikimoss,2012-03-05T15:26Z,PLZ DELETE THIS CRAPPY TORRENT! fenkz
+,Cpt.Amro,2012-03-19T23:52Z,"i have the same problem with the serial, its not working, its really black listed "
+,evieitas,2012-03-21T01:54Z,"Thanks ScamN2, Pls I have a request:
+FSPS-3D real cockpit efects fsx and
+FSPS-dolby cockpit sounds fsx..
+
+Tks a lot"
+,GDR1944,2012-04-05T00:06Z,"FS2004
+SERIAL DEAD DEAD really DEAD
+A7F4-80B9-63-7560-281F"
+,snake4000,2012-05-19T13:25Z,The serial is blacklisted for me too. I tried blocking the internet check with my firewall but ithe program just shuts itself down when i do that. Please take your shit torrent down its no good.
+,snake4000,2012-05-19T13:32Z,I take that back..I when i restarted the program it worked. 
+,cgkmix,2012-08-27T01:19Z,"Whomever put this up is either really smart - and seeing what kind of response they get - or really stupid!  Serial #'s cannot be used more than when it's put on another system already!  Especially if it's programmed to be used on only one (1) system!  Do us all a favor and keep your crap off these systems!  Oh, and by the way...don't mean to sound so judgemental, I'm not.  But when idiots post things of this nature and expect people to be happy that they posted it, dude, get a life!"
+,cgkmix,2012-08-27T01:20Z,Whomever put this up is either really smart - and seeing what kind of response they get - or really stupid!  Serial #'s cannot be used more than when it's put on another system already!  Especially if it's programmed to be used on only one (1) system!

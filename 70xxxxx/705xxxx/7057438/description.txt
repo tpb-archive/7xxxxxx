@@ -1,0 +1,59 @@
+Orignial arabic language plus french subtitles (not forced).
+
+A group of Lebanese women try to ease religious tensions between Christians and Muslims in their village.
+
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 1h 37mn
+Bit rate mode                  : Variable
+Bit rate                       : 1 700 Kbps
+Width                          : 720 pixels
+Height                         : 436 pixels
+Display aspect ratio           : 2.35:1
+Original display aspect ratio  : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 25.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.217
+Stream size                    : 1.16 GiB (88%)
+Writing library                : x264 core 112
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 1h 37mn
+Bit rate mode                  : Variable
+Bit rate                       : 224 Kbps
+Maximum bit rate               : 290 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 156 MiB (12%)
+Language                       : Arabic
+
+Text #1
+ID                             : 3
+Format                         : mp4s
+Codec ID                       : E0
+Duration                       : 1h 37mn
+Bit rate mode                  : Variable
+Bit rate                       : 4 734 bps
+Maximum bit rate               : 3 802 Mbps
+Stream size                    : 3.31 MiB (0%)
+Language                       : French

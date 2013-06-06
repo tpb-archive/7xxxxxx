@@ -1,0 +1,91 @@
+General
+UniqueID/String                  : 248468520938292631630440992161823843497 (0xBAED4BE58A79AE829B5310AE42B5E4A9)
+Nombre completo                  : J:\BD\TLCDSC\Terminator - Las Cronicas De Sarah Connor 2x04 BDDemux [VC-1 (1920x1080p) Ac3 (Spa-Eng) (Subs Spa)] Por Tato28.mkv
+Formato                          : Matroska
+Formato de la versiÃ³n            : Version 2
+TamaÃ±o del archivo               : 6,06GIB
+DuraciÃ³n                         : 44min.
+Tasa de bits total               : 19,4Mbps
+Fecha de codificaciÃ³n            : UTC 2012-01-09 23:03:17
+AplicaciÃ³n de codificiÃ³n         : mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10
+LibrerÃ­a de codificaciÃ³n         : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Formato                          : VC-1
+Formato del perfil               : AP@L3
+ID CÃ³dec                         : WVC1
+ID CÃ³dec/Pista                   : Microsoft
+DuraciÃ³n                         : 44min.
+Tasa de bits                     : 18,2Mbps
+Ancho                            : 1 920pixeles
+Alto                             : 1 080pixeles
+RelaciÃ³n de aspecto              : 16:9
+Velocidad de cuadro              : 23,976fps
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8bits
+Tipo de exploraciÃ³n              : Progresivo
+Bits/(Pixel*cuadro)              : 0.366
+TamaÃ±o de pista                  : 5,68GIB (94%)
+Default                          : Si
+Forced                           : No
+
+Audio #1
+ID                               : 2
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Formato del perfil               : Dolby Digital
+Format_Settings_ModeExtension    : CM (complete main)
+Modo Muxing                      : Header stripping
+ID CÃ³dec                         : A_AC3
+DuraciÃ³n                         : 44min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 192Kbps
+Canal(es)                        : 2canales
+Posiciones del canal             : Front: L R
+Velocidad de muestreo            : 48,0KHz
+BitDepth/String                  : 16bits
+TamaÃ±o de pista                  : 61,4MB (1%)
+Idioma                           : EspaÃ±ol
+Default                          : Si
+Forced                           : No
+
+Audio #2
+ID                               : 3
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Modo Muxing                      : Header stripping
+ID CÃ³dec                         : A_AC3
+DuraciÃ³n                         : 44min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 640Kbps
+Canal(es)                        : 6canales
+Posiciones del canal             : Front: L C R, Side: L R, LFE
+Velocidad de muestreo            : 48,0KHz
+BitDepth/String                  : 16bits
+TamaÃ±o de pista                  : 205MB (3%)
+Idioma                           : InglÃ©s
+Default                          : No
+Forced                           : No
+
+Texto #1
+ID                               : 4
+Formato                          : PGS
+Modo Muxing                      : zlib
+ID CÃ³dec                         : S_HDMV/PGS
+ID CÃ³dec/Info                    : The same subtitle format used on BDs/HD-DVDs
+Idioma                           : EspaÃ±ol
+Default                          : No
+Forced                           : No
+
+Texto #2
+ID                               : 5
+Formato                          : PGS
+Modo Muxing                      : zlib
+ID CÃ³dec                         : S_HDMV/PGS
+ID CÃ³dec/Info                    : The same subtitle format used on BDs/HD-DVDs
+Idioma                           : EspaÃ±ol
+Default                          : No
+Forced                           : No
+

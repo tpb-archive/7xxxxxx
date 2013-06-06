@@ -1,0 +1,23 @@
+Device Performance Certification*
+Certify the validity and quality of your benchmarks results [Commercial versions ONLY]
+
+What is it? Device Performance Certification validates whether the benchmark result (score) you have obtained upon benchmarking your device is valid (i.e. the device you tested is performing correctly) and how it compares to the scores obtained by other users when testing the same device.
+
+By aggregating the results submitted for each device and performing statistical analysis (e.g. computing mean/average, standard deviation, etc.) we can use statistical tools (e.g. normal distribution, T-distribution, etc.) to work out whether the score is within the expected range (confidence intervals).
+
+Based on the variability of scores you can determine whether the performance of your device is consistent or varies significantly from test to test. A large variability would indicate a problem either with the device or your environment (e.g. OS device drivers, virus checkers, etc.) that should be addressed.
+
+	
+	
+General Processing (GP) benchmarks
+Fully test modern APUs (CPU+GPU) and multiple GPGPUs
+
+Why? Traditional benchmarks either test CPUs or GPUs but not both: as an APU contains both CPU and GPU units some parts may remain unused and untested. Sandra's General Processing (GP) benchmarks (GP Arithmetic, GP Cryptography, GP Memory) harness the full power of OpenCL and run simultaneously on both the CPU and GPU units of an APU, thus using all the processing power available.
+
+The GP benchmarks allocate workload based on the respective processing power of CPU and GPU units of the APU. If a discrete GPU is also installed, regardless of manufacturer, its power is also harnessed (CPU + int GPU + ext GPU).
+
+	
+
+Install using setup
+Use keyGen to register
+Say Thanks

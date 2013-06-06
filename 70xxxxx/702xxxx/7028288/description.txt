@@ -1,0 +1,25 @@
+FOR TESTING
+
+What Is MINIX 3?
+MINIX 3 is a new open-source operating system designed to be highly reliable, flexible, and secure. It is loosely based somewhat on previous versions of MINIX, but is fundamentally different in many key ways. MINIX 1 and 2 were intended as teaching tools; MINIX 3 adds the new goal of being usable as a serious system on resource-limited and embedded computers and for applications requiring high reliability
+This new OS is extremely small, with the part that runs in kernel mode under 6000 lines of executable code. The parts that run in user mode are divided into small modules, well insulated from one another. For example, each device driver runs as a separate user-mode process so a bug in a driver (by far the biggest source of bugs in any operating system), cannot bring down the entire OS. In fact, most of the time when a driver crashes it is automatically replaced without requiring any user intervention, without requiring rebooting, and without affecting running programs. These features, the tiny amount of kernel code, and other aspects greatly enhance system reliability.
+MINIX 3 is initially targeted at the following areas:
+    * Applications where very high reliability is required
+    * Single-chip, small-RAM, low-power, $100 laptops for Third-World children
+    * Embedded systems (e.g., cameras, DVD recorders, cell phones)
+    * Applications where the GPL is too restrictive (MINIX 3 uses a BSD-type license)
+    * Education (e.g., operating systems courses at universities)
+      http://www.minix3.org/
+
+Downloading MINIX 3
+Trying MINIX 3 is easy. You just download the compressed CD image file, decompress it, and burn it to a CD-ROM. This CD is a live CD. You can boot your computer from it and a few seconds later you log in as root. You do not have to install MINIX 3 to the hard disk to test it. If you decide you want to install it, you then have to create a hard disk partition for it (100 MB to 1000 MB will do) start the live CD again and run setup. Proceed as follows:
+    * Read the installation guide.
+      http://www.minix3.org/install
+    * If you do not know how to partition a hard disk, print and read this short   tutorial on disk partitions.
+      http://www.minix3.org/doc/partitions.html
+    * Download a MINIX 3 distribution from the table below.   
+http://www.minix3.org/download/
+  
+http://www.minix3.org/license.html
+
+md5sum : 771afc32f7f5b08e8e4126d26a9a975e minix3_2_0_ide_20120210_35abd4867a.iso.bz2

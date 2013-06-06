@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,candys_lover,2012-03-12T18:21Z,"To remove backlinks :
+
+open file templates/rt_ionosphere/html/com_content/article/default.php.
+
+in it´s source you will find two short coded scripts, example :
+"
+,candys_lover,2012-03-12T18:23Z,"To remove backlinks :
+
+open file templates/rt_ionosphere/html/com_content/article/default.php.
+
+in it´s source you will find two short coded scripts, example :
+
+php $iret =
+'PGRpdiBpZD0ibl9wYyI+CjxhIGhyZWY9Imh0dH
+A6Ly90b3Bob3N0ZXIub3JnIiB0aXRsZT0i0YXQv
+tGB0YLQuNC90LMiIAoKdGFyZ2V0PSJfYmxhbmsi
+PtGF0L7RgdGC0LjQvdCzPC9hPgo8L2Rpdj4=';
+echo base64_decode($iret);?>
+
+remove those, save the file and backlinks are gone."
+,BudaMO,2012-04-17T20:38Z,does anyone have matching phpbb3 style for this theme. Please

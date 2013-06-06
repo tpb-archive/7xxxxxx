@@ -1,0 +1,72 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-02-04T12:44Z,"can find screen snaps and more info how to play on this forum of the 4 working slots 
+http://www.fruitforums.com/vb/showthread.php?26479-Australian-Aristocrat-Poker-Machine-Emulation"
+[V],psspss,2012-02-05T08:00Z,"ok 34 have this now I leave you to seed it as have more new stuff to share
+
+cheers"
+[V],psspss,2012-02-13T08:15Z,"Seems theres a way to play most of the other
+aus pokies as follows.. not sure which mame32 is needed but i guess best to download latest
+====
+
+for the other Aussie games there are only 7 that I managed to get going... unfortunately KGbird wasn't one of them ... you will need the MAMEUI32 emulator to run them... you will have to put each un-extracted .zip into the roms folder within the MAME program file to get them going...
+
+Once there in the roms folder you will need to start MAME select ""File"" and then under that select ""Audit all games""... it will scan all the roms....
+
+once it has scanned the roms you can play them by selecting the Green ""Available"" tab in the column on the left of the MAME screen... this will present all available roms ... the green ones are the ones that work...
+
+double click black rino... when the game comes up type ""OK"" First you will need to do a couple of things in order to play it... the following instructions will work for all the games and you only need to do it once for each game... When your looking at the black rino screen, first hit ether ""J and K"" or if that doesn't work hit ""K and L""... this will highlight the ""Audit key"" and the ""jackpot key"" in the lower left of the screen... it will also bring up the audit screen.... then you are going to want to press ""ZXC"" simultaneously... this will change the value under ""RF/AMT"" (in the column on the right) to ""200"" then press ""J&K"" or ""K&L again to get back to the game screen...
+
+By pressing 5 you will be able to add credits ""Y"" is for maximum bet and ""H"" will spin the reels..."
+[V],psspss,2012-02-13T08:59Z,"ok I check my old mame I had setup
+it was ver 1.38 and indeed it dont work with the rhino etc
+other pokies..
+but as soon as I download the latest 1.45 from 5 2012
+presto..
+ (copy the zips to roms folder.. you dont need to unzip
+them! and it will auto scan).. then click available)
+the screen didnt lock and gives virtual buttons
+at bottom all thats new..
+
+so the guys in a few years got the roms to finally
+work.. 
+
+nice figuring out the audit business..
+
+however it seems w,e,r,t,y, change the Bet amount
+once you got 5 key to insert coins !
+and S= spin
+ESC = quit
+and enter to start. and all the OK business!
+
+im sure theres other keys too
+
+you can find mameiu32 32bit and 64bit here
+http://www.mameui.info/"
+[V],psspss,2012-02-13T09:29Z,"i dont understand it seems to find 16 of the 22 pokie zips
+
+my favourites dont even show up in a list anywhere
+
+but queen of the nile and 3 bags full and kgbird
+
+dont work sadly still.. queen of nile shows up in available
+as red not green icon but the others are missing
+completely
+
+i wonder if theres a missing file for them in the zips?
+
+so yeh only 7 of 22 other rooms will work.. thats
+7 more then used too.. 2 years one some progress
+
+i wonder if anyone is working to get these to work
+
+I read somewhere a coder got queen of the nile
+to run in debug mode or something but he
+never upload his mods 
+
+perhaps do a search of the web and see if anyone
+has taken over his work..?"
+[V],psspss,2012-02-15T05:30Z,"other roms now working.. see this link
+for the package so grab it also if love these
+4 working Aussie pokies
+
+http://thepiratebay.se/torrent/7029700/12_Real_Working_Aussie_Pokies_using_mame32_-_Preset_Up-Configure"

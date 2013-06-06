@@ -1,0 +1,50 @@
+BEFFORE PLAYING PLEASE OPEN THE FILE MORROWIND GOTY AND OVERHAUL README.txt in the Morrowind GOTY FOLDER!
+
+
+---Morrowind GOTY Edition Modded---
+
+-----------
+Description:
+
+This is Morrowind, with both expansions, latest patches, and morrowind overhaul 2.0.
+I also added some more mods to this, the included mods are:
+
+*Tamriel Rebuilt Map 1 and 2
+*Abot\'s Silt Striders (enable this in data files if you want it, currently disabled because it haves some startup errors, it should still work even if you get the errors though)
+*Abot\'s Boats (enable this in data files if you want it, currently disabled because it haves some startup errors, it should still work even if you get the errors though)
+*Abo\'s Where Are All Birds Going?
+*Morrowind Crafting
+*Starfires NPC Additions
+*Antares\'s Creatures: Green Slime, Frost Giant, Trolls, Cecaelia
+*Galsiah\'s Character Development
+*Ravenloft House Mod
+
+
+And if you wish to see what mods morrowind overhaul has see the Modlist_Credits.pdf file in this folder.
+-------------
+Instructions:
+
+1.The first obvious step is to unrar MorrowindGOTY.rar
+
+2.Mount the Morrowind.iso file with daemon tools/power iso, or whatever your favourite software is.
+
+3.Launch the game with Morrowind Launcher.exe
+
+4.In the Morrowind Launcher - Options please do not turn pixel shading on, turn it off. Select what resolution you want.
+
+5.Click play. If the game asks you for CD even after you mounted the ISO just click continue or cancel if continue does not work. It will still load the game anyway.
+
+If you have some problems please open the folder:
+\"Open this in case of problems\"
+
+If you have a very bad performance then do this:
+
+Rename d3d8.dll to d3d8.dll.bak and dinput8.dll to dinput8.dll.bak to disable mge, this will disable some nice effects from MGE but it will lag a lot less.
+
+OR as an alternative go to MGEXEgui.exe and go to the distand lands tab, and lower the distance to 25-50-100. Or whatever distance you want.
+
+You also need netframework 4.0, the latest direct x runtime and all the other runtimes that games usually require so please get those or else
+you will encounter errors.
+
+Have fun! If you wish to thank the developers for their games then buy them.
+--------- 

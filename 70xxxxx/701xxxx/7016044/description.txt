@@ -1,0 +1,75 @@
+Manual de Especificaciones
+IMPRESORA FISCAL
+PROTOCOLO COMPATIBLE
+
+
+La Impresora Fiscal EPSON consta de una impresora EPSON conectada a un Gabinete Fiscal y asegurada mediante un Sello Fiscal.
+
+Esta configuraciÃ³n cumple con los requisitos de la seguridad fiscal, controlando la informaciÃ³n fiscal que se imprime y registrando datos que tienen relaciÃ³n con lo que se imprimiÃ³ y se almacenÃ³ permanentemente en la Memoria Fiscal.
+
+La informaciÃ³n registrada en la Memoria Fiscal puede ser revisada contablemente con posterioridad por las autoridades fiscales y/o el usuario.
+
+Para mayor informaciÃ³n sobre los comandos detallados en el prÃ³ximo capÃ­tulo rogamos obtener el manual de protocolo correspondiente a las impresoras fiscales EPSON.
+
+TABLA DE CONTENIDOS
+CapÃ­tulo 1 - IntroducciÃ³n...................................................1
+1.1 Protocolo del Host......................................................2
+1.1.1 IntroducciÃ³n..........................................................2
+1.1.2 Respuestas desde el Impresor Fiscal...................................4
+1.1.3 RepresentaciÃ³n de Campos de Comandos y respuestas.....................6
+1.1.4 Indicaciones de Estado................................................7
+CapÃ­tulo 2 - Comandos Soportados............................................12
+2.1 Solicitud de Estado.....................................................2
+2.1.1 Respuesta con InformaciÃ³n Normal......................................12
+2.1.2 Respuesta con InformaciÃ³n sobre el Impresor Fiscal....................12.1.3 Respuesta con InformaciÃ³n sobre el Contribuyente............................15
+2.1.4 Respuesta con InformaciÃ³n sobre los Numeradores.......................15
+2.1.5 Respuesta con InformaciÃ³n sobre el Documento en Curso.................17
+2.2 Bloqueo por Software del Impresor Fiscal................................18
+
+2.3 Cierre de la Jornada Fiscal (Cierre â€˜Zâ€™) o Cierre por cambio de Cajero (Cierre â€˜Xâ€™)........................................................................19
+2.4 Reporte de la Memoria Fiscal, Consulta por Fecha........................21
+2.5 Reporte de la Memoria Fiscal, Consulta por NÃºmero de Cierre Z...........22
+2.6 Abrir Comprobante Tique Fiscal..........................................23
+2.7 Imprimir Texto Fiscal en Tique Fiscal...................................24
+2.8 Imprimir Item de LÃ­nea en Tique Fiscal..................................25
+2.9 Subtotal en un Tique Fiscal.............................................26
+2.10 Pagos / Cancelar / Descuentos / Recargos Fijos Globales en Tique.......27
+2.11 Cerrar Comprobante Fiscal Tique........................................28
+2.12 Abrir un Documento No Fiscal (DNF).....................................30
+2.13 Imprimir Texto No Fiscal en un DNF.....................................30
+2.14 Cerrar un Documento No Fiscal..........................................31
+2.15 Comprobante D.N.F.H de Tarjeta de CrÃ©dito..............................32
+2.16 Documento D.N.F.H. exclusivo para Farmacias............................34
+2.17 Repuestas al comando Documentos No Fiscales Homologados................36
+2.18 Documento No Fiscal Homologado Tique-Nota de CrÃ©dito...................36
+2.19 Preferencias del Usuario...............................................37
+2.19.1 Seleccionar Preferencias del Usuario.................................37
+2.19.2 Leer Preferencias del Usuario........................................38
+2.20 Preparar EstaciÃ³n Principal............................................40
+2.21 Comandos de Control de Impresora.......................................41
+2.21.1 Cortar Papel.........................................................41
+2.21.2 Avanzar el Comprobante o Tique / Cinta de AuditorÃ­a / Ambos..........41
+2.21.3 Avanzar Hoja Suelta..................................................42
+2.22 Comandos Generales.....................................................43
+2.22.1 Establecer Fecha y Hora..............................................43
+2.22.2 Obtener Fecha y Hora.................................................43
+2.22.3 Establecer Datos Fijos y CÃ³digos de Barras...........................44
+2.22.4 Obtener Datos Fijos y Obtener CÃ³digos de Barras usado................45
+2.22.5 Abrir el CajÃ³n 1 de Efectivo.........................................45
+2.22.6 Abrir el CajÃ³n 2 de Efectivo.........................................46
+
+2.23 EmisiÃ³n de Factura / Nota de CrÃ©dito / Tique-Factura (TF) / Tique-Nota de CrÃ©dito (TNC)...............................................................46
+
+2.23.1 Abrir una Factura / Nota de CrÃ©dito / TF / TNC tipo A, B, C..........46
+2.23.2 Imprimir Item de LÃ­nea en Factura / Nota de CrÃ©dito / TF / TNC.......51
+2.23.3 Subtotal en Factura / Nota de CrÃ©dito / TF / TNC.....................52
+
+2.23.4 Pagos / Descuentos y Recargos/ Cancelar en Factura / Nota de CrÃ©dito / Tique-Factura / Tique-Nota de CrÃ©dito.......................................54
+
+2.23.5 Percepciones en Factura / Nota de CrÃ©dito / TF / TNC.................55
+2.23.6 Cerrar una Factura / Tique-Factura / NC / TNC........................56
+
+ApÃ©ndice A - Caracteres de CÃ³digos de Barra de 0xE0 a 0xEF..................58
+ApÃ©ndice B - Caracteres de Modalidad de ImpresiÃ³n de 0xF0 a 0xFF............60
+ApÃ©ndice C - Equivalencia de encabezados y colas entre protocolos...........61
+ApÃ©ndice D - Cable de Datos.................................................62

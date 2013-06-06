@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,LegolasDRoger,2012-02-15T01:29Z,I'll seed during the afternoon. At night my connection is pretty slow. 
+,LegolasDRoger,2012-02-15T01:31Z,GMT
+,jpir,2012-02-21T02:31Z,"Hey guys,
+anyone have some librarys for ansys?
+I need some...
+thank you all!! "
+,LegolasDRoger,2012-03-01T01:25Z,Ok... I'll try to find sth
+,barrobas,2012-03-11T13:37Z,can't get the license manager to accept the license given by the calculator (the hostname doesn't match) the mac adress looks right. Any help?  
+,cifuentesemilio2010,2012-03-16T00:18Z,"The workbench worked perfectly the first time and showed all the toolbox applications but since that it does not, what should I do? thanks"
+,max216,2012-03-17T00:14Z,Is this software work? Thanks!
+,LegolasDRoger,2012-03-18T15:41Z,"barrobas: Some times the calculator does some mistakes. But open the cmd.exe and write ipconfig /all and see the hostname and replace in the license.txt. 
+
+Works for me. 
+
+cifuentesemilio2010: it happens because the license file is not running. Just install the license file on License Manager and, probably, everything will be okay.
+
+max216: yeah, it works! o/"
+,LegolasDRoger,2012-03-18T15:46Z,"jpir: I couldn't find any library YET ;) 
+
+could you be more specific? I and my fallows never need libraries. If you give more information, maybe I can find. Now I curious. Danke. "
+,max216,2012-03-21T17:57Z,"Hello,
+
+I have problem following these two steps :
+
+4. Open MAGNITUDE paste in your desktop and run the calculator;
+5. Copy the license file to C:Program FilesANSYS IncShared FilesLicensing;
+
+I do not find the calculator and the license file. What are their names? and where can I find them?
+Many thanks!
+Max"
+,LegolasDRoger,2012-03-27T16:25Z,The calculator is inside the MAGNITUDE file. You can find it when you mount the image. 
+,cifuentesemilio2010,2012-03-27T17:05Z,"@LegolasDRoger: thanks, now it is working great"
+,max216,2012-03-31T19:46Z,ok thanks and where is the license file?
+,ricki1,2012-04-08T19:28Z,"Ok, so I installed by following the instructions (which are terrible, BTW) and Fluent seems to work fine as long as I am not connected to the internet. 
+
+As soon as I dial up to my ISP, I get the error ""Failover feature 'ANSYS ICEM CFD' specified in license preferences is not available. Request name aienv does not exist in the licensing pool."" and Fluent does not work. 
+
+When I disconnect my dial up connection to the internet and restart Workbench and Fluent, everything works again. How do I fix this so that I can use both Ansys and be connected to the internet at the same time?
+"
+,trex930,2012-04-25T00:14Z,"Download worked great! Install was easy if you just follow the instructions. 
+
+Has anyone gotten a simulation to run in parallels?"
+,hstpb,2012-07-01T18:54Z,Thanks for your efforts dude ;-) 

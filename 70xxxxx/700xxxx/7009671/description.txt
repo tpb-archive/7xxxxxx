@@ -1,0 +1,35 @@
+Sinopsis :
+AÃ±o 1215. Cuatro meses despuÃ©s de firmar la Carta Magna, el documento que defiende los derechos del pueblo inglÃ©s, el propio rey John reniega de su palabra reclutando un poderoso ejÃ©rcito de mercenarios para destruir a todos los que firmaron el tratado y hacerse con el control absoluto del paÃ­s. Marshall, un caballero templario, reÃºne rÃ¡pidamente un grupo de veteranos nobles listos para defender los derechos del pueblo y protegidos dentro de los muros del castillo de Rochester esperaran el paso del Rey y sus hombres...
+
+[General]
+Title:                 Templario
+Data source:           DVD
+DVD title number:      1
+Runtime:               01:55:51
+Peso:                  1.78 Gb
+       
+[Video]
+Video format:          PAL
+FPS:                   25
+Size:                  720 x 576
+Video bitrate (kbps):  1912
+Video codec:           XVID MPEG-4
+2-pass-encoded:        yes
+Fast resizing:         no
+Deinterlacer filter:   
+Antialiasing filter:   Sin suavizado de bordes
+
+[Audio 1]
+DVD audio track id:    0
+Language:              espaÃ±ol
+Audio codec:           MPEG 1 Audio, Layer 3 (mp3)
+MP3 quality:           2
+Channels:              2
+Sample rate:           48000 Hz
+Audio bitrate (kbps):  128 Kb/s
+Volume rescaling:      none
+Audio filter:          Ninguno, sÃ³lo reescalar el volumen
+
+[Programs]
+dvd::rip version:      0.98.11
+transcode version:     1.1.5

@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,ElliotDCB1,2012-03-08T20:07Z,the icon just keeps on bouncing for me....
+,Dregon909,2012-03-11T23:16Z,"Yeah, won't launch for me either. On OSX Lion, should it be able to work for me?"
+,Dregon909,2012-03-11T23:28Z,"Found the file inside, ran it, says its not valid on this computer."
+,deathtax,2012-03-12T04:20Z,Does not work with Lion.
+,marinhojr,2012-03-16T03:06Z,"For those with bouncing patch, just Terminal:
+
+chmod 777 ableton.suite.8.2.8-ipatch.app/Contents/MacOS/iPatcher
+
+simple as that!"
+,ssphoto22,2012-03-17T07:24Z,"@marinhojr
+
+When I run the command it says 'no such file or directory'
+
+any advise? "
+,themgmill,2012-03-17T18:30Z,"@ssphoto22
+
+Yeah. what worked for me: I added a directory. exp: if the fie is in your applications folder take: chmod 777 /applications ...."
+,future-dada,2012-03-20T16:35Z,I do not know. Check the permissions.
+,syoukhan,2012-05-10T12:05Z,"don't works, if double click just keeps bouncing, if launch it with terminal...nothing happens"
+,imkid,2012-05-31T15:06Z,"hey guys, I was having the same problem. I solved by... 
+
+1. ""right-click"" the ableton.suite.8.2.8-ipatch.app
+2. choose ""show package contents""
+3. go into ""Contents"" folder
+4. Go into ""MacOS"" folder
+5. ""right-click"" the ""ipatcher"" 
+6. from menu choose ""Copy Path> Terminal Path""
+7. Open Terminal
+8. Type in... 
+
+""chmod 777"" space ""paste terminal path""
+
+*** I copied & pasted the iPatch app into the Live 8.2.8 folder inside of the ""Applications > Live8.2.8"" folder... My terminal path was...
+
+SO if you do the same by simply ""right click"" and ""copy"" the "".app"" then you should be able to use the same terminal url and then just ""copy"" the code + url below and paste it into terminal!
+
+chmod 777 /Applications/Live 8.2.8/ableton.suite.8.2.8-ipatch.app/Contents/MacOS/iPatcher"
+,jllx,2012-06-03T03:16Z,"Okay so I got the patch running but when I have to select the item to update, and I select Live, it tells me ""You can't apply this patch on that file !"".
+
+What am I doing wrong?"
+,gsof,2012-07-08T23:54Z,"Solutions provided by @imkid works perfect, thanks for sharing this."
+,chaostastic,2012-08-25T12:33Z,"mmmfish, why don't you pull this torrent, fix the app and repost? It's like a dead easy thing to do. Stop spreading bad stuff that already is available too!"

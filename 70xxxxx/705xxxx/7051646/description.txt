@@ -1,0 +1,26 @@
+Current Version:1.0.12
+
+Requires Android:1.6 and up
+
+V1.0.12 update:
+
+1. Added language selection, and that confused many Russian.
+2. Completely reworked the algorithm custom patch, now it is much faster â€¦ and even earlier if the patch of the neutron people thought that the device is stuck, in fact it is so long, he patches
+3. In about adding version information.
+4. The templates custom patch appeared identifiers [BEGIN] and [CLASSES], but the algorithm is compatible with older versions without these identifiers. After the [BEGIN] on the next line writes a description of the patch, for what program, etc. [CLASSES] all the templates patch after the next line will be used to patch classes.dex.
+5. [LIB] â€“ now works with the first line in the template (previously it was necessary to press Enter several times to withdraw from the beginning)
+6. Added new function â€œRemove Google Adsâ€, yet in beta version, will operate extremely rare, but may be somebody somehow will help in some way. Applications that can be patched by this function are marked with â€œ~ Google Ads Found! ~â€.
+7. Removed one extra signature for â€œRemove License Verification!â€.
+8. Added patch for Rocking Shortcuts Lite 1.4
+9. Fixed the Russian name of the program in English.
+10. Formatted slightly differently in the text about.
+11. The results of custom patch have become more informative if it fails.
+12. Removed from the list of all system applications.
+
+OverView:
+
+LuckyPatcher is a great tool to bypass Premium Applications License Verification.
+
+Now it can Remove some selected application more applications will add soon.
+
+To use this patcher you need a rooted device.

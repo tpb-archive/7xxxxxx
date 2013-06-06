@@ -1,0 +1,14 @@
+
+1- Instale el programa en modo trial (no coloque serial)
+
+2- Ejecute el fichero batch "RemoveProtexis.cmd" para remover algunos servicios, ejecute como administrador en vista y seven (clic derecho-> ejecutar como administrador).
+
+3- Copie el fichero PsiKey.dll en la carpeta de aplicaciones, ejemplo:
+   C:\Program Files (x86)\Corel\CorelDRAW Graphics Suite X5\Programs\
+
+Listo !!!
+
+It was tested with CorelDRAW X5 in Windows XP SP3, Vista and Windows 7.
+But ofcourse use it at your own risk!
+
+Nota. Analisis en VirusTotal: http://www.vi

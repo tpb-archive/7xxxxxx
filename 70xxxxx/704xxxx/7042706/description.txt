@@ -1,0 +1,82 @@
+Official Web Site:  http://www.pomola.com/products_calcline/
+
+Calcline is a latest generation algebra calculator. Is enough to insert a mathematical expression and Calcline will immediately show the result.
+
+It can work in three way:
+
+As a compact strip window utility providing an area to input and solve mathematical expressions
+
+As a full size window application using variables and constants contained in a table and optionally showing calculations step by step in a log area.
+(Switching from small to full size window is performed with a simple click)
+
+As a service available inside all the other apps you have
+
+It manages two tables with variables and constant values inside, using the table values as in 'y=x+1' with 'x' value contained in the table.
+If you write an expression as 'x= 1+1' calcline will automatically update for you the value of the variable 'x' in the variable table
+Auto-creates new variable in the table. in case the y variable was not present when you typed 'y=x+1', a 'y' variable is created for you with a correct value assigned!
+
+You can manipulate how many variables and constants you like.
+
+Offers a wide range of functions:
+
+sqrt, cbrt, sin, cos, tan, asin, acos, atan, sinh, cosh, tanh, asinh, acosh, atanh, log, log10, exp, exp2, expm1, abs, ceil, floor, power, elevation and factorial.
+
+Manages any nested level of parentheses
+Check your expression syntax in advance signaling errors
+Offers popup menus for fast introduction of any literal values available in the tables (variables and constant) and can change on the fly calculation precision (up to 16 decimals thanks to use of long double calculation)
+Manages unlimited numbers of variables you like in the table.
+
+Constants table is similar to the variables table but constant value can't be assigned via calculation but only typing directly in the constant table (it's a feature, assignment is refused, they are constant!)
+Variables and constants values are retained over different Calcline launches.
+Position of the window is retained over different launches, in the small window way, is often useful to keep Calcline at the very bottom or top of the screen as a compact strip window switching to the full sized window when is required to use the additional functionalities
+
+Calcline can provide also a full report of executed calculations solved step by step.
+
+* When installed it can also be used as a services from other applications
+  via the services menu, to solve algebraic expressions from inside any 
+  other application, you just have to select an equation and select form the
+  service menu 'Calc with Calcline' and the result will be pasted, this inside
+  any application you are using!
+
+* Evaluates mathematical expressions with parentheses, nested functions,
+  variables and constants
+
+* Easy to use and ideal substitute of the old desktop calculator
+
+* The user simply inserts an expression and Calcline displays the result
+
+* Variable creation and reference inside expressions are very easy using
+  an interactive table.
+
+* Constant table with editable values
+
+* Variables and constants values are retained over different runs
+
+* Expressions solved optionally step by step showing all the mathematical
+  passages.
+
+* Uses a very small window, expandable if necessary to show additional
+  details (switch with a simple click).
+
+* Offers calculation service to other Apps, just selecting an expression
+  and choosing 'Calc With Calcline' from the services menu.
+
+* Based on a custom fast calculation engine developed by Tension
+  Software on Mac OS X.
+
+* Uses long double calculation (High precision with up to 16 decimal
+  digit precision)
+
+* Popup for fast introduction of variables and constants in formula
+ 
+* DEG and RAD calculation for trigonometric functions
+
+* Native Help system
+
+*  Embedded PDF user guide
+
+System Requirement:
+
+Intel Mac, OS X.5 or better
+
+--- PLEASE SEED ---

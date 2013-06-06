@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,tipacanoe,2012-02-25T03:52Z,"Thank you for your massive collection of shares!
+
+Please in the future, refrain from the ""mp3"" file name scheme.
+
+FLAC is lossless, will play on your PC and more importantly, media players such as WD Live, ASUS Oplay etc. for achieving 
+
+No need for artist name in file name! 
+
+Improper:
+
+01 - Every Inambition - The Trews
+
+Proper:
+
+01 - Every Inambition
+
+Thanks!!!"
+,tipacanoe,2012-02-25T04:23Z,"Proper EAC Name Scheme:
+
+Under EAC Options - Filename ""tab"", under ""Naming Scheme"" - copy/paste this:
+
+%albumartist%\%albumtitle%\%tracknr2% - %title%
+
+For FLAC with version beta 3 from 29 August 2011, use this command line:
+
+-T ""artist=%artist%"" -T ""title=%title%"" -T ""album=%albumtitle%"" -T ""date=%year%"" -T ""tracknumber=%tracknr%"" -T ""genre=%genre%"" -8 %source% "
+[V],Kitlope,2012-02-25T23:36Z,"ummm no. I like having the artist name, especially for when I throw together a compilation. 
+
+And besides, after over a million downloads your the first to mention it. Democracy rules :)"
+,d_gorn,2012-06-12T02:11Z,"tipacanoe: you need to soak your head. Here's a tip: if yer that fvckin anal, do it yerself....
+
+Kitlope: thanks bro!!"

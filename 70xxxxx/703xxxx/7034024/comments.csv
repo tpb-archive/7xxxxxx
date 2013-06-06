@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,Td2j,2012-02-15T19:35Z,Thanks for the upload but the licence key does not work.
+[V],nikita200,2012-02-15T19:57Z,"@Td2j
+
+Is a .reg file to apply, nothing and work fine."
+,Td2j,2012-02-16T00:44Z,"Thanks for your reply nikita200. I used it as a .reg file and I got a prompt to confirm the registry entry... but when starting the program, it still says it's a trial version and asks for a license key (mail + serial).
+I don't know what's going wrong as I just replaced the previous version by the new one.
+Any idea to help me make it work ?
+Thanks"
+[V],nikita200,2012-02-16T02:01Z,"@Td2j
+
+I think .reg file work fine in 32 bit SO.
+
+In 64 bit SO should be modified the .reg file (Wow6432Node).
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Licenses]
+
+I can't test."
+,Trenchboygun,2012-02-16T15:36Z,"Yes nikita200 for X64 Win 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Licenses] must be edited"

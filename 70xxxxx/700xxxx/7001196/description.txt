@@ -1,0 +1,22 @@
+Description
+Bridge Linux is an Arch derivative that includes a GUI and standard applications. It intends to stick with an Arch base and will not fork.  
+http://sourceforge.net/projects/bridgelinux/
+
+I've noticed a few bugs with Bridge Linux, I thought I would address them before they were an issue. First and most important, pacman gives key errors because of the old pacman.conf file (should sound familiar if you've tried a recent Ubuntu version), here's the fix. Open up /etc/pacman .conf in leafpad as root with 'sudo leafpad /etc/pacman.conf' and replace the file's contents with these from pastebin: http://pastebin.com/LE8dNhAJ Second, on the login screen, the hostname is 'archbang' if you didn't edit /etc/rc.conf during installation. This was just overlooked on my part, just open up /etc/rc.conf 'sudo leafpad /etc/rc.conf' and change the hostname there. Also, you may have noticed the slow performance of pacman downloads. This is due to default mirror selection, all mirrors are uncommented by default. If you want to dramatically speed up pacman, run this command 'reflector -l 5 --sort rate --save /etc/pacman.d/mirrorlist'. It will take a while and might not give any output, so be patient, especially if you have a slow connection. If you notice any more bugs, be sure to get a hold of me. 
+http://sourceforge.net/projects/bridgelinux/files/Xfce/2012.1/
+
+Bridge Linux 2012.1
+
+The latest release of Bridge Linux is now available.
+Changes:
+    * Pacman 4
+    * Kernel 3.2.2
+    * LightDM replaces SLiM
+    * NetworkManager replaces Wicd
+    * The iso is now small enough to fit on CD 
+http://millertechnologies.net/
+ 
+http://millertechnologies.net/forum/
+
+sha1sum : 708ae377e14b2d19f9d370b97865a62cb085e040  bridge-2012.1-i686.iso
+md5sum : f1b2bd4363e0b2a837385e411d1d40ec  bridge-2012.1-i686.iso

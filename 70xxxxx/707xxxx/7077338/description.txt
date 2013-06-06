@@ -1,0 +1,66 @@
+Nav.N.Go.iGO8.Europe.TopMap.2011.03.Map.Update-iPLAY
+2011/05/13
+
+iGO8 R3 LOCAL PROVIDERS 2011.03 Eastern Europe maps
+Requirements: iGO8 R3/R4 navigation software (iGO versions 8.0.x can not be used.)
+Operating System: IGO8.3.x, Amigo, Primo
+Overview: The latest maps, poi and hnr files
+
+Albania_83_Navigo_2011.03_110422.fbl
+BosniaHrz_83_Navigo_2011.03_110422.fbl 
+Bulgaria_83_MMCN_2011.03_110428.fbl
+Croatia_83_Navigo_2011.03_110422.fbl 
+Cyprus_83_Epsilon_2011.03_110422.fbl
+CzechRep_83_CEDA_2011.03_110422.fbl
+Estonia_83_Regio_2011.03_110428.fbl 
+FYROM_83_Navigo_2011.03_110422.fbl
+Greece_83_Epsilon_2011.03_110428.fbl
+Hungary_83_TM_2011.03_110428.fbl
+Latvia_83_Regio_2011.03_110428.fbl
+Lithuania_83_Regio_2011.03_110503.fbl 
+Montenegro_83_Contrast_2011.03_110428.fbl 
+Poland_83_Emapa_2011.03_110428.fbl 
+Romania_83_TM_2011.03_110428.fbl
+Serbia_83_Contrast_2011.03_110422.fbl 
+Slovakia_83_CEDA_2011.03_110422.fbl
+Slovenia_83_Monolit_2011.03_110422.fbl 
+Turkey_83_Basarsoft_2011.03_110502.fbl 
+Ukraine_83_CarteBlanche_2011.03_110428.fbl 
+
+EasternEuropeEasy_2011.03_110504.hnr
+EasternEuropeEconomic_2011.03_110504.hnr 
+EasternEuropeFastest_2011.03_110504.hnr 
+EasternEuropeShortest_2011.03_110504.hnr 
+
+Albania_8_Navigo_2011.03_110505.poi
+Bosnia_and_Herzegovina_8_Navigo_2011.03_110505.poi
+Bulgaria_8_MMCN_2011.03_110505.poi
+Croatia_8_Navigo_2011.03_110505.poi
+Cyprus_8_Epsilon_2011.03_110505.poi
+Czech_Republic_8_CEDA_2011.03_110505.poi
+Estonia_8_Regio_2011.03_110505.poi
+FYROM_8_Navigo_2011.03_110505.poi
+Greece_8_Epsilon_2011.03_110505.poi
+Hungary_8_TM_2011.03_110505.poi
+Latvia_8_Regio_2011.03_110505.poi
+Lithuania_8_Regio_2011.03_110505.poi
+Montenegro_8_Contrast_2011.03_110505.poi
+Poland_8_Emapa_2011.03_110505.poi
+Romania_8_TM_2011.03_110505.poi
+Serbia_8_Contrast_2011.03_110505.poi
+Slovakia_8_CEDA_2011.03_110505.poi
+Slovenia_8_Monolit_2011.03_110505.poi
+Turkey_8_Basarsoft_2011.03_110505.poi
+Ukraine_8_CarteBlanche_2011.03_110505.poi
+
+How to update:
+1. Enter the Storage Card 
+2. Enter the Igo8 directory
+3. Copy the .fbl and .hnr files to the igo8/content/map directory
+4. Copy the .poi files to the igo8/content/poi
+(5. Copy the .3dl files to the igo8/content/building)
+(6. Copy the speedcam.txt file to the igo8/content/speedcam)
+
+Try to remove old maps/files from directories. Use the new ones.
+
+nJ0y!

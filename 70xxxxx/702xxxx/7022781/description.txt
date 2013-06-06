@@ -1,0 +1,70 @@
+Helo and Good Eve everyone!
+
+So taday i brought you one of my favourite games out there Knights of Honor, a truly amazing strategy game with a feel you do not get from any other.
+
+As you all know the other torrent those other cunts have made is not providing the information you need to get this game working, if you like me are one of those whom had problems istalling this game and didn't get it working, well no worries i have got it fixed.
+
+Just make sure you follow my instructions i will try my best to help anyone whom doesn't still get it up. 
+
+But before we go anyfurther, i want to tell you stop downloading the other knights of honor torrents since they either contain virus or is corrupted or the jackass uploader don't know shit about how to get the game working or even know if the game is playable.
+
+And also please leave a comment of appreciation and do fucking seed please!!! :)
+
+------------------------------------------------------------------
+
+First step is to install the game 
+
+
+1. Unrar
+2. Mount with Deamon tools or Alcohol 120%
+3. Install
+4. Put all files from the crack folder in your game folder
+5. Now patch the game with the patch in the folder "Patch 1.05"
+6. now the game is playable!!!
+
+Thou the resolution is not great, and to fix that you have to do the followings.
+
+
+1. go to ( c:\Users\<my name>\AppData\Roaming\Black Sea Studios\Knights Of Honor )  There is a file in the KOH install directory called KOH.in2
+
+2. Now you open it with wordpad
+
+
+3. Find the section called Video.
+
+
+4. Now here you will have to expereiment with the mode value to get the right resolution.
+
+and if you know your own resolution set the Width: value to that number
+
+and height: to it's correct number
+   
+
+Here's what mine looks like:
+
+[video]
+
+fullscreen = 1
+mode = 137
+width = 1920
+height = 1080
+freq = 60
+
+You may have to experiment with the mode= value.
+
+I came across this while re-adjusting the game. When you run KOH for the first time, it gives you the option to pick the video resolution from a drop-down list. It gave me a list of six options, but only 2 of the options were unique values. The others were just repeats. (1024x768 at 50hz, and 1024x768 at 60hz). I picked item number 4, which was the first 1024x768 at 60hz option. This resulted in the mode=137 value.
+
+
+I edited the KOH.in2 file by hand, and put in 1366x768 as my resolution, which my laptop supports. However, KOH does not recognize this value. This caused the select video option to reappear when I ran the game again, just like when I first installed KOH. That is when I picked the 1024x768 at 60hz option, resulting in the settings I listed above.
+
+KOH now fills up the whole 14-inch screen on my stand and lapptop, instead of the "letterbox" display I had before.
+
+I hope this explanation makes some sense.
+
+5. And so thats it now enjoy!!!
+
+------------------------------------------------------------------------------------
+
+
+
+This game is brought to you by POTP! PLEASE SEED AND LEAVE A COMMENT OF APPRICIATION. :)

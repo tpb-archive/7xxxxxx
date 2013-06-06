@@ -1,0 +1,41 @@
+Mp3tag is a powerful and yet easy-to-use tool to edit metadata of common audio formats where it supports ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WMA, Vorbis Comments and APE Tags.
+
+It can rename files based on the tag information, replace characters or words in tags and filenames, import/export tag information, create playlists and more.
+
+Mp3tag supports online database lookups from, e.g., Amazon, discogs, or freedb, allowing you to automatically gather proper tags and cover art for your music library.
+
+Mp3tag supports the following audio formats:
+Advanced Audio Coding (aac)
+Free Lossless Audio Codec (flac)
+Monkey\'s Audio (ape)
+Mpeg Layer 3 (mp3)
+MPEG-4 (mp4 / m4a / m4b / iTunes compatible)
+Musepack (mpc)
+Ogg Vorbis (ogg)
+OptimFROG (ofr)
+OptimFROG DualStream (ofs)
+Speex (spx)
+Tom\'s Audio Kompressor (tak)
+True Audio (tta)
+Windows Media Audio (wma)
+WavPack (wv)
+
+Main features:
+
+Batch Tag Editing: Write ID3v1.1, ID3v2.3, ID3v2.4, MP4, WMA, APEv2 Tags and Vorbis Comments to multiple files at once.
+
+Support for Cover Art: Download and add album covers to your files and make your library even more shiny.
+
+Import from Amazon, discogs, freedb, MusicBrainz: Save typing and import tags from online databases like Amazon, discogs, freedb, MusicBrainz, and more.
+
+Replace characters or words: Replace strings in tags and filenames (with support for Regular Expressions).
+
+Create Playlists automatically: Create and manage playlists automatically while editing.
+
+Rename files from tags: Rename files based on the tag information and import tags from filenames.
+
+Export to HTML, RTF, CSV: Generate nice reports and lists of your collection based on user-defined templates.
+
+Full Unicode Support: User-interface and tagging are fully Unicode compliant.
+
+Besides these main features Mp3tag offers a variety of other functions and features ranging ranging from batch export of embedded album covers, over support for iTunes-specific tags like media type or TV Show settings, to combining multiple actions into groups that can be applied with a single mouse click.

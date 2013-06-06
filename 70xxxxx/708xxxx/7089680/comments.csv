@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,cschrille1,2012-03-09T22:47Z,"Please seed, doing 50kb/s now. Gonna seed for some days when im done."
+,MedianJ,2012-03-23T01:59Z,"Not working, can't load most of the cars , just errors spamming. And only one track seem to be working. Don't bother downloading, it's like the other unlockers that doesn't do the job correctly."
+,MedianJ,2012-03-23T02:01Z,"It seems though, as it could work on 32bit. I'm using 64bit and it could be a 64bit issue as far as I've understood."
+,MedianJ,2012-03-23T02:37Z,"Sorry for the mess above. I found a quick fix for the 64 bit that worked, I'm just gonna paste it.
+
+If you're using 64bit system, then do this:
+
+1. Open up your registry (start>run>regedit).
+
+2. Copy the key from ""HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionProductId""
+
+3. Create a new key (type: string)ďťż in ""HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoft Windows NTCurrentVersionProductId""
+
+4. Paste in the value you copied from the last key. Now, run the unlocker it should work fine!"
+,sgmaxx,2012-05-08T22:27Z,"Unlocker does not work at all.
+I'm always getting some network access error, and I also tried removing any firewalls I have and checked my hosts file. Nothing. And nothing. LFS remains locked. :S"
+,sgmaxx,2012-05-08T22:28Z,MedianJ's instructions made no difference. (I have win7 pro x64)
+,arwiidii,2012-05-27T17:30Z,"Multiplayer dosen't work, why is that ?"
+,arwiidii,2012-05-27T17:34Z,Why multiplayer dosen't work ? Help pls
+,ven.von,2012-08-15T12:48Z,https://www.virustotal.com/file/054abb5e63d94c5d70aaafce649abfc34dae808d7d099a7e23ebe5ae48acfc73/analysis/

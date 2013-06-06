@@ -1,0 +1,198 @@
+﻿User Type,Username,Date,Text
+,cschrille1,2012-03-01T00:33Z,"Gonna DL to check whats inside, seems a little small maybe."
+,mariodz,2012-03-01T00:53Z,"fuck.
+
+multiplayer yah  fuck bots. 
+
+shit! "
+,ShiftFTW,2012-03-01T01:04Z,"its small because its compressed, uncompressed it has 3,7gb"
+,MTeo567,2012-03-01T01:05Z,"And u have only this torrent.!
+
+LOL"
+,cschrille1,2012-03-01T01:32Z,"Well the fact that it says ""Working!"" makes me worried lol. Please seed."
+,zatoeechii,2012-03-01T02:25Z,"""Working!""
+
+LOOL"
+,Sp33Dy56,2012-03-01T07:07Z,"Any word on if its working?!?! 
+i reallllyyyy want to play it but can't afford a virus lol"
+,tibrusjer,2012-03-01T12:18Z,"I know it's never helping, but if this actually is the real deal it would help if you seeded the whole game a couple of times so we others may seed the game with you."
+,seed4life4me,2012-03-01T16:52Z,dosent work !!!!!!
+,cschrille1,2012-03-01T17:19Z,"Hmm, I scanned csgo.exe in virustotal and its clean. Scanned all files with Kaspersky strictest mode and no viruses.
+
+Now we can say its clean. Then I tried to launch it and i got to see background picture and intro, but when menu load it crashes without error. Minidumps were created, gonna debug them soon.
+
+Conclusion: It is by 90% chance legit, but its not working or something is missing."
+,sage1210,2012-03-01T17:25Z,"yeb, not work here too. game crash to desktop after loading main menu.
+
+never saw any one can play it too."
+,shirel.zehava,2012-03-01T17:29Z,"Not working. When you start ""csgo.exe"" and when menu should appear game exits."
+,cschrille1,2012-03-01T17:33Z,"Hmm WinDBG doesnt debug it, I guess we need visual studio to debug it. I wont download it and go through all that, please ShiftFTW, help us lol.
+
+If anyone fixes game please reply :D"
+,tibrusjer,2012-03-01T17:47Z,"I can confirm this seems like the real deal.
+New Valve intro as well as background image and such when you boot it up, but the game crashes and goes back to desktop.
+
+ShiftFTW, please tell us what's wrong.
+Thanks"
+,ShiftFTW,2012-03-01T19:14Z,"it works on my pc, then i tried on another pc and yes, it crashes, i don't know why, i'm trying to solve it!"
+,magoroma,2012-03-01T20:32Z,not working here ... 
+,mati1491,2012-03-01T20:38Z,please say what os you have and 32 or 64 bit
+,mati1491,2012-03-01T20:44Z,im 100 sure we just have to make entry in registry editor
+,ShiftFTW,2012-03-01T21:59Z,"@mati1491 i have 64 bit, i also think is something on registry because everyone who download the game from steam and download this it works"
+,mendeagle,2012-03-01T22:43Z,@ShiftFTW so give us your Registry
+,ShiftFTW,2012-03-02T00:14Z,"Here is my entire valve registry, i tried it on my laptop but it didn't worked but my laptop is 32 bit and i can't be sure if this works or not.
+
+Try it and give some feedback please!
+
+http://www.gamefront.com/files/21386758/Valve.reg"
+,opposingforce,2012-03-02T01:02Z,@ShiftFTW didn't work :( 
+,Sp33Dy56,2012-03-02T01:34Z,Grr been wanting to play for weeks!!
+,mendeagle,2012-03-02T01:39Z,@ShiftFTW my is 64 bits and didnt work
+,cschrille1,2012-03-02T02:42Z,Damn this is such a tease. Someone who wants to debug the dumps?
+,opposingforce,2012-03-02T03:52Z,You do it! You are the fittest for that lol
+,sashu545,2012-03-02T04:53Z,I will seed forever
+,Rhythmus,2012-03-02T16:28Z,"Seed faster!! :D
+This is rly working ?
+Include new maps with new update ?
+Or this is only de_dust and de_dust2 ?"
+,hexorcist89,2012-03-02T18:49Z,"dude , the game  didnt work. "
+,Rhythmus,2012-03-02T19:15Z,"I want de_inferno, de_train and de_nuke
+@ShiftFTW if you have original CSGO please share all csgo folder becouse I know how run maps in Portal 2 ;)"
+,Rhythmus,2012-03-02T19:20Z,"Please someone who have original CSGO
+Share csgo folder with de_train, de_inferno, de_nuke, I know how to run maps in Portal 2"
+,Rhythmus,2012-03-02T19:28Z,"T H A N K
+Y O U
+F O R
+de_nuke
+A N D
+de_inferno
+I 
+L O V E
+Y O U"
+,ShiftFTW,2012-03-02T20:14Z,this is the original csgo folder if you can get this working share with us please!
+,Bakuryu42,2012-03-03T01:35Z,"http://pastebin.com/6S0zdacF
+
+Dump file analyzed someone else can figure out the rest."
+,mati1491,2012-03-03T15:58Z,we dont have gcf files we are fucked
+,Rhythmus,2012-03-03T17:20Z,"@mati1491 there are no gcf files. All required files are in the VPK files.
+@ShiftFTW now I downloading CSGO beta from russians. They used VMWare Player to create virtual machine. Dunno if this works. You may try with this program and with this way because client.dll is for specific machine. Online not works but they said with bots this works"
+,Itbankrock,2012-03-03T17:25Z,"Didn't work even with that .reg file applied on and even my Steam is off. After Intro vids, it goes into a CSGO background and suddenly exits and creates a MDMP file in the directory.
+
+My system(basic information):
+Windows 7 Ultimate SP1 64-bit
+Intel Core i7 2600k 3.4GHz~4.3GHz
+MSI N550GTX-Ti Cyclone II 1GB GDDR5 OC Edition
+8GB RAM
+1TB Hard Drive Western Digital
+GIGABYTE Motherboard, P67A-UD3-B3"
+,shirel.zehava,2012-03-03T19:52Z,"To make it shorter: Game is real, but we need CRACK!!!"
+,mendeagle,2012-03-04T06:14Z,"@ShiftFTW we need the CS:GO GCF  FILES, you can find it on C:Program Files (x86)Steamsteamapps"
+,tymbarkk,2012-03-04T14:30Z,vertexlitgeneric_detailselfilluminatedmaskedenvmapv2.vcs this file cant be extract from the rar its to long they say i think thats the problem.
+,ShiftFTW,2012-03-04T14:47Z,"I installed CS:GO on a pc that has nothing installed and after install CS:GO i only have 2 GCF Files:
+
+sourceinit.gcf
+winui.gcf
+
+I uploaded it here:
+
+http://www.gamefront.com/files/21395349/CSGO_GCF_FILES.rar"
+,ABCnadcompany2,2012-03-04T16:16Z,"ok i downloaded CSGO,valve reg,and GCF-how to install??"
+,mendeagle,2012-03-04T17:00Z,"no, it dont work, dont have any file with the name Counter Strike Global offensive on C:Program Files (x86)Steamsteamapps ?"
+,KILLERKICK,2012-03-05T00:05Z,"Try to start game and it did work to i got to the csgo bacground and then crach and it just came up csgo_assert_201203 4234649_1.mdmp  in the csgo folder what to do ??? 
+
+Sry for bad english.."
+,ShiftFTW,2012-03-05T01:39Z,"@mandeagle I play counter strike source for almost 4 years and i understand everything about gcf, cfg, and any files related to it. i'm giving you all i have we just need someone to debug the dumps :S"
+,mati1491,2012-03-05T09:40Z,"there is already playable in the inet.
+look for global offensive vmware in google"
+,Rhythmus,2012-03-05T10:57Z,"@mati1491 yes, it is, but hard to play"
+,Audisek,2012-03-05T15:33Z,"Windows XP 32bit doesn’t work (Steam dont running) , menu picture>freeze>crash"
+,TaZeRz,2012-03-06T02:45Z,Bots? GHEY!!
+,Itbankrock,2012-03-06T07:17Z,"@TaZeRz
+
+It's a BETA BLEH!!"
+,T-virus23,2012-03-06T12:54Z,originalsteam.dll is missing
+,shirel.zehava,2012-03-07T13:32Z,this torrent should be deleted...
+,shirel.zehava,2012-03-07T22:12Z,"@94nenad94
+Game still crashes... Fix doesn't help..."
+,JaxSparow,2012-03-09T06:12Z,So. . . is this actually working?
+,drakryder,2012-03-09T20:41Z,how can I use the fix?
+,shirel.zehava,2012-03-09T23:59Z,"Read comments, this doesn't work, fix doesn't help..."
+,jonas1113,2012-03-10T18:30Z,The game start and when it shows the background it wait 1 min and it close. pls help.
+,Rldm1012,2012-03-10T20:18Z,"I think it as something to do with the time of your computer... hhhmmm If you open de dump files with a text reader like word pad, word, etc, it gives some decoded information... I will check on that and will post something soon"
+,ExhausTii,2012-03-11T16:51Z,"Try to use this fix for the game!
+It currently works for me!
+
+This is a fix for Counter-Strike: Global offensive beta!
+
+Please be sure to post if this works, as im working with a new crack/fix for the latest patch.
+
+http://pastebin.com/8Sfku1Fh
+
+Thanks again! Hope this works for you guys!"
+,ABCnadcompany2,2012-03-11T16:56Z,ExahausTii you fucked bitch this is FUCKED surveys fuck you this is unlimited surveys NOT complete this is no crack this is shit non-crack you find and I testing-THIS NOT WORK
+,ABCnadcompany2,2012-03-11T17:14Z,not download ExhausTii is fake sh.it not work only surveys and ... fake not use not download i warning you download this is wasted time
+,ExhausTii,2012-03-11T22:04Z,"I can ensure you that you can download the crack from that site, just fill out the survey. If you dont know what to fill out, use fakenamegenerator.com and put in the information the survey need.
+
+Ive downloaded the crack 2 times to 2 different computers. Its working fine for me. I just filled out the survey with some information and then it came up some other stuff and just press some things, bang i got access to the crack.
+
+The game is running very well for me. I promise you that i dont scam you guys, waste of time? Bullshit, this is not waste of time i can tell you guys!
+
+Try it yourselfes, its running fine. And as i posted  before. Feel free to give feedback, it may not work for some people. But im working with a crack for the newest patch right now.
+
+Thanks again, and those comments about this being fake, those comments are fake."
+,ABCnadcompany2,2012-03-11T22:48Z,ok exhaustii upload crack on piratebay or any website without survey
+,Aaron8001,2012-03-11T22:54Z,"I tried to give the benefit of the doubt with the surveys. Although i have tried these sites many times before i have always found the same issue; you are unable to complete the survey with false information as you must send a text to a specified number (which will cost you ridiculous amounts of money)
+
+so im really confused at how you got it to work without being a premium member. i tried 3 or 4 different surveys and all ended with the same results...never prompting me to download"
+,Aaron8001,2012-03-11T22:55Z,i second that....if you have the file then post on the pirate bay please
+,CrAcKeZ,2012-03-12T02:48Z,"Doesn't work for me,
+
+Win7x64SP1
+Latest DRV GPU(Radeon 6950)
+AMD quad at 3.36GHz(On water)
+6GB ram"
+,Sp33Dy56,2012-03-14T22:28Z,Been like 2 months and no one has figured out how to crack it? Go Valve lol
+,jonas1113,2012-03-15T18:25Z,Hard game to crack!!!
+,wakymaky666,2012-03-16T21:16Z,iv it were real why do that gay servay shit and just pass us the crack urself ExhausTii... we aint fukin stupid
+,johnson2012,2012-03-16T23:17Z,"I had to create an account, couse i just can't watch you suffer any more you morons... stop trying to download this shiit from piratebay or anywhere else becouse it just will not work !!
+What you do is write to a friend which actually has CS:GO - im sure most of you have someone like that- you login with his name and password on your steam, download the game, than run it for a moment, close everything, give the guy his account back.
+From now on you can play CS:GO offline with your STEAM APPLICATION CLOSED(don't forget to close it) ! You will not be able to run it with the icon created on your deskop. You have to go to steam/steamapps/common/csgobullshiitlongname/ and there you will find ""csgo.exe"". Run it and have fun."
+,ABCnadcompany2,2012-03-17T10:32Z,johson advise any friend with CSGO
+,mystik04,2012-03-20T18:04Z,"It Worked !!!!!!!!!!!!!
+
+Nah I'm just joking LOL"
+,radwan1234,2012-04-16T16:56Z,you are the best dude
+,radwan1234,2012-04-16T16:57Z,"with its steam isn't
+ it"
+,BataAki,2012-04-18T22:34Z,PLEASE SEED!!!
+,BataAki,2012-04-19T07:23Z,"This is not the working one!!!
+
+I run the game and it's just a picture,not a GAME MENU!!! "
+,BataAki,2012-04-19T07:24Z,AND THEN IT SHUTS DOWN!
+,samhost,2012-04-20T13:35Z,@ShiftFTW i waited 12 hours to download this game and now its not working.menu screen and the game crashes.you better do something.please.
+,veras2,2012-04-23T17:09Z,"Hum, baixei e não funcionou. O jogo roda até o fim das propagandas, até a tela do menu principal, e antes que abram as opções o jogo fecha sozinho.
+Não sei qual o problema."
+,Zone55,2012-04-24T18:39Z,"This beta is not working. Download only you have time to waste and/or you have uncapped bandwidth.
+
+Error: csgo_assert_20120424182303_1.mdmp
+Game screen initialises but crashes and produces a ~15MB dump file.
+
+Deleted."
+,teeny22,2012-04-29T02:33Z,"Unknown error, please try again. If the problem persists, please contact VMware Technical Support and provide C:UsersPC1AppDataLocalTempvmware-PC1ovftool.log.
+
+
+HeLLp!!!"
+,IRdatahackER,2012-05-07T18:53Z,This is obviously the vmware one extracted out which i've tried it doesn't work so don't waste your time the reason it doesn't work?? you need the registry files!
+,Omkar333,2012-05-19T14:48Z,It shows only picture in game menu.Then it shut down.Its waste of time.
+,JMChopperGunnerNL,2012-05-28T16:46Z,It doesnt work.. 
+,VitorCz,2012-07-14T11:41Z,"fake and gay
+it onyl show the menu picture and it shuts down"
+,Sinobali,2012-07-17T15:25Z,FAKE AND FUCKING GAY !!
+,omgitsdiaz,2012-07-23T13:47Z,"This is work, or not?"
+,SpoownTec,2012-08-17T09:55Z,Não funciona galera! Nem tentem
+,Blade1241,2012-08-19T21:45Z,Doe's it works?!?!?!?!
+,zizotheskiller,2012-09-09T19:53Z,"
+friends i got an idea:
+do you remember csgo beta working with vmware workstation
+i think if you had this please put csgo.exe it will works so if a brother have it please do it and report here.
+Tnq"

@@ -1,0 +1,594 @@
+﻿User Type,Username,Date,Text
+,ibtc972,2012-03-03T11:45Z,"First comment. Nice :]
+
+More importantly the download was quick and installed exactly as it should have :]"
+,denny289,2012-03-03T18:47Z,"Super fast dl i peaked at 1.1mb/s
+
+Thank you!! :)"
+,xoScar,2012-03-05T03:21Z,Always good torrents! Dankeschรถn EinDeutschMan! xo
+,subzero97,2012-03-07T06:07Z,I'm sorry... I'm new to this. I download this and get an ISO file for each level. How to I actually use the program?
+,EinDeutschMan,2012-03-07T14:16Z,"@subzero97
+DL the Rosetta Stone program here:
+
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+
+there is a PDF enclosed, it has detailed instructions on how to install program and languages
+
+DO NOT be fooled into needing any serials/keygens
+
+Replace the exe with the one in the crack folder.
+
+EinDeutschMan "
+,J9891,2012-03-07T20:07Z,"i keep getting fatal error or database is out of date and could not be updated. when i try to install, what am i doing wrong?"
+,EinDeutschMan,2012-03-07T22:33Z,"@J9891
+
+Two questions:
+1. Did you try to install Rosetta Stone once before and it failed?
+2. Do you have the internet BLOCKED - if not, do so.
+
+If you had an install fail, you'll have to do a little ""housecleaning"". 
+Go to the ""ProgramDataRosetta Stone"" folder and if there is a tracking.db3 file in that folder, delete it.
+
+Then go to the Rosetta Stone PROGRAM folder, (NOT the folder where the languages are installed) and see if there is the tracking.db3 file in that folder too, if so delete it as well.
+
+The tracking.db3 file tracks your progress through Rosetta Stone, and can sometime get corrupted which can cause the error you have.
+
+If this does NOT solve the problem, then you may have to re-install Rosetta Stone.
+Let me know...
+
+EinDeutschMan"
+,EinDeutschMan,2012-03-07T22:35Z,"Opps... TYPO:
+
+This line should read
+""Go to the ""ProgramDataRosetta Stone"" folder and if there is a tracking.db3 file in that folder, delete it."""
+,EinDeutschMan,2012-03-07T22:50Z,"O.K.,
+Apparently I don't know how to use the ""backslash"" symbol here.
+
+There's supposed to be a ""backslash"" between the word ProgramData and Rosetta Stone"
+,paddyj1956,2012-03-08T00:45Z,"I loaded the V# patch followed all of the instructions and then loaded the level 1 and 2 Spanish (Latin America) language disc with no problem bit, RS won't find level 3-5 disc.  What can I do?"
+,paddyj1956,2012-03-08T01:21Z,Never mind I must have had a brain fart as now 3 and 4 are loaded and I am working on level 5.  Thanks much EinDeutschMan now I can be comfortable when I move to Costa Rica.
+,rufus2012,2012-03-10T20:23Z,"I just downloaded the torrent, but all I am getting is files with .rsd extensions. I can access the lesson manual as a .pdf, but nothing else. Recommendations?"
+,EinDeutschMan,2012-03-11T00:11Z,"@rufus2012,
+
+Have you DL'd the Rosetta Stone PROGRAM?
+You have to have it to run the language packs. 
+Get it here - http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+Read the PDF that is with it, and install it by the directions.
+
+After you set it up, you install these language packs, and you're on your way.
+
+EinDeutschMan"
+,erupe03,2012-03-12T05:08Z,"it says i need an activation code, but i will have limited access to the program which i do.  how do i get the access code so i have full access?"
+,pup123,2012-03-14T04:07Z,I really need help...I don't know how to get the files on to rosetta stone. I've been doing everything the pdf said :/.... how do I do it....I'm so confused. Please help
+,EinDeutschMan,2012-03-17T17:39Z,"@erupe03
+
+DL this ISO, and READ the Read Important.txt file
+
+
+Run the patch in the patch folder.
+The patch will MORE THAN LIKELY set off your AV software -->> IGNORE IT!
+
+(you should not have to install this version of RS)
+
+This will allow you to activate the language packs
+
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+
+EinDeutschMan"
+,EinDeutschMan,2012-03-17T17:53Z,"@pup123,
+
+If you are using the ISO's you must ""mount"" them first, I use PowerISO4.7, just because I'm accustomed to it.
+
+Have you DL'd and installed PowerISO?
+if so, open it, go to ""options"", ""configuration..."",""Virtual drive"", set ""number of virtual drives"" to 1, ""OK""
+(I set the number of drives to 3, so I can mount all 3 language levels at the same time)
+Reboot,
+PowerISO icon should be in the taskbar.
+right click the icon,
+click on ""Mount image to Drive[whatever it says]""
+navigate to where ever you have the language ISO's,
+select language level
+right click on PowerISO icon again,
+you should see something like
+""Mount Image to Drive[E:] D:Downloads Rosetta stone Japanese - Level 1.iso""
+
+(remember, your drive letters & paths are probably different from what I have here, these are just for demonstration.)
+
+If every thing has gone right, go back into Rosetta stone and add the language(s)
+
+EinDeutschMan "
+,azae,2012-03-20T01:42Z,"I need some help here. I used powerISO like usual to mount the drive but Rosetta stone still won't recognize the language file.
+
+I go to add language level but it keeps saying that its not in the CD drive despite it being mounted."
+,pup123,2012-03-20T02:47Z,Ah.. thank you :) it's working now ^_^
+,EinDeutschMan,2012-03-20T16:47Z,"@azae,
+
+Which ones won't mount?
+What version of Rosetta Stone are you using?
+What version of PowerISO are you using?
+
+The first thing you need to do is reboot. 
+Remount them
+After you remount the language packs, browse them, and make sure that they are intact.
+
+Level 1 - 259 files, 4 folders, 407mb
+Level 2 - 259 files, 4 folders, 394mb
+Level 3 - 259 files, 4 folders, 410mb
+Level 4 - 259 files, 4 folders, 402mb
+Level 5 - 259 files, 4 folders, 437mb
+
+If they do not match, then DL them again.
+
+If that doesn't work let me know, but that usually takes care of it.
+
+EinDeutschMan"
+,Justjoni,2012-03-20T19:54Z,"I am not good at this. 
+Where do I find the languages?"
+,Justjoni,2012-03-20T20:19Z,nevermind
+,Serpent1211,2012-03-21T22:31Z,"I've used virtual clone to convert the lessions into Rosetta Stone.
+
+I am on Disk 1 and Lesson 2 but when I go to Lesson 3 or 4 it says I have to active the copy...
+
+Does anyone know how to get around this?
+
+When I click ""Activate Later' it does not let me get access to Lessons 3 and 4. 
+
+If anyone has any tips I'd sure appreciate it. 
+
+Thanks!"
+,EinDeutschMan,2012-03-21T23:42Z,"@serpent1211
+
+See the comment I sent to erupe03 on this page, that should answer you questions.
+
+EinDeutschMan"
+,chesta1975,2012-03-22T08:19Z,I still need help! I mounted the iso but the program says i still need to activate. At this point im lost can someone please help.
+,EinDeutschMan,2012-03-23T02:46Z,"@chesta1975,
+
+DL this ISO, and READ the Read Important.txt file
+
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+
+
+Run the patch in the patch folder.
+The patch will MORE THAN LIKELY set off your AV software -->> IGNORE IT!
+
+(you should not have to install this version of RS)
+
+This will allow you to activate the language packs
+
+
+EinDeutschMan "
+,chesta1975,2012-03-23T12:40Z,"To EinDuetschMan
+
+I going to tell you exactly what I did. After reading your post I Uninstalled v3 reinstalled it and added Lang. Ran the patch. I put I. The xxxxx activation code it asked for a phone activation I put in 11111 response number and it still didn't work. Could it be that I already had v4 rossetta stone? Still lost and confused? Any suggestions?"
+,EinDeutschMan,2012-03-24T19:13Z,"@chesta1975,
+
+Yes, I think that v4 might be the problem. I have not tested any of my Rosetta Stone UL's with v4.
+
+I know it sounds like a pain the A$$, but the only recommendation I can give you is to uninstall all versions of RS, and start from scratch.
+
+Even then, I can't promise that the patch will work with v4.
+
+If you want to wait a day or so, let me know what version you have and where you got it (i.e. TPB or bought @ a store), and I'll test it for you. That's the best I can do right now.
+
+EinDeutschMan"
+,Serpent1211,2012-03-25T04:14Z,"Hi Ein,
+
+Thanks for helping with the activation question.
+
+I did the steps and installed your version with patch.
+
+Unfortunately I am having the exact same error as Chesta1975 has reported.
+
+I've uninstalled previous version 3.4 and installed your version.
+
+I've installed with version, then ran and installed the patch.
+
+I've entered the activation codes as direct in the Read Me!!! folder. Then I entered the activation by phone code.
+
+Still there is an error here.
+
+Any advice in fixing this would be great!
+
+Thanks a bunch!"
+,Serpent1211,2012-03-25T04:18Z,"Hi EinDeutschMan,
+
+Thanks for helping with the activation question.
+
+I did the steps and installed your version with patch.
+
+Unfortunately I am having the exact same error as Chesta1975 has reported.
+
+I've uninstalled previous version 3.4 and installed your version.
+
+I've installed with version, then ran and installed the patch.
+
+I've entered the activation codes as direct in the Read Me!!! folder. Then I entered the activation by phone code.
+
+Still there is an error here.
+
+Any advice in fixing this would be great!
+
+Thanks a bunch!"
+,EinDeutschMan,2012-03-25T05:48Z,"@chesta1975 & serpent1211,
+
+This is perplexing, If you could give me more details, specifically any error #'s, I will dig into this deeper.
+
+I'm sorry that you're having difficulty with this, and I will do what I can to resolve it, but it may take a day or two.
+
+EinDeutschMan"
+,EinDeutschMan,2012-03-26T03:47Z,"@chesta1975 & serpent1211,
+
+I have UL'd this file, read the instructions I have included.
+
+http://thepiratebay.se/torrent/7131858/Spanish-LA-Products.xml
+
+I created this to allow you to bypass the activation process.
+
+Let me know if it works.
+
+EinDeutschMan"
+,Serpent1211,2012-03-26T05:50Z,"EinDeutschMan - thank you so much!
+
+Finally got it to work.
+
+Seemed like I wasn't installing the Patch correctly before. 
+
+Now with you help I've got it all done and activated.
+
+Thank you very much!"
+,Serpent1211,2012-03-26T06:02Z,"EinDeutschMan - thank you so much!
+
+Finally got it to work.
+
+Seemed like I wasn't installing the Patch correctly before. 
+
+Now with you help I've got it all done and activated.
+
+Thank you very much!
+
+P.S. - Sorry for the duplicate messages. This comment section doesn't seem to work well with Internet Explorer."
+,EinDeutschMan,2012-03-26T11:27Z,"@serpent1211,
+
+De Nada!
+
+I'm glad you got it to work. Did you need to use the XML file I UL'd?
+
+Also, after you write a comment, wait 10 minutes, it takes a while for it to appear.
+
+EinDeutschMan"
+,RS45,2012-03-27T07:42Z,I can't get it to install lang 4-5.  I get error 9114.  Any ideas?  Everything else seems to work fine.
+,RS45,2012-03-27T07:43Z,"Oh, and also I checked the file sizes everything seems to be correct.  Just when I go in to try to add language 4 and 5 I get that error 9114."
+,EinDeutschMan,2012-03-27T23:03Z,"@RS45,
+
+What version are you running?
+
+If you are running a version PRIOR to v3.3.7
+Then DL this ISO and install it:
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso.
+
+The first 3 levels will work for any version prior to 3.3.7, but I think levels 4 and 5 are for v3.3.7 or later (don't ask me why...)
+
+EinDeutschMan"
+,astridmhds,2012-04-01T22:46Z,EinDeutschMan. I tried activating the Levels but It wont let me. I uninstalled the whole programs and installed it again and it didnt work. :S
+,EinDeutschMan,2012-04-01T23:59Z,"@astridmhds,
+
+DL this ISO, and READ the Read Important.txt file
+
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+
+This is Rosetta Stone v3
+
+Run the patch in the patch folder.
+The patch will MORE THAN LIKELY set off your AV software -->> IGNORE IT!
+
+This will allow you to activate the language packs
+
+Then DL the Rosetta Stone v3.4.7 program here:
+
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+
+There is a PDF enclosed, it has detailed instructions on how to install program and languages
+
+DO NOT be fooled into needing any serials/keygens.
+
+Replace the exe with the one in the crack folder.
+
+if you have followed these directions, you should not have any problems
+
+EinDeutschMan "
+,bryandkate,2012-04-02T20:01Z,EinDeutschMan you are the BEST!!! Thanks!! Well appreciated!!!
+,astridmhds,2012-04-05T07:37Z,THanks!! i got it working now :)
+,spm201,2012-04-06T02:54Z,Keep getting hit with the activation problem. I've tried patching and using the LA_products file. Anything I might be doing wrong?
+,EinDeutschMan,2012-04-06T11:12Z,"@spm201,
+
+I'm not sure, but if you did the installation in the order you described, you might have done things out of sequence. If you are in doubt, UN-install your current version, and start over. :-(
+
+1. Block internet
+2. Install program (V3), DO NOT run program.
+http://thepiratebay.se/torrent/7035540/Rosetta_Stone_v3__amp_amp__Patch.iso
+3. Copy files (crack program and Licencingdll.DLL) from Crack folder to program folder where Rosetta Stone is installed and run it.
+(if the crack sets off your AV software, IGNORE IT! I've used this same program for over a year without any problems)
+4. Block Rosetta Stone program from internet access.
+5. Set your firewall to ""allow trusted outbound"" ONLY! (or the equivalent.)
+(if you block ALL internet access, you may get a 1117 error, speech component for voice recognition.)
+6. Do NOT update the program!
+7. Install language levels 1, 2 & 3.
+8. Install v3.4.7 in the same folder as v3 
+(overwrite the contents).
+http://thepiratebay.se/torrent/7035678/Rosetta_Stone_v3.4.7_w_Patch.iso
+9. Install language levels 4 & 5.
+
+You SHOULD be set.
+
+Let me know...
+
+EinDeutschMan "
+,EinDeutschMan,2012-04-09T02:20Z,"@GuzonjaG,
+
+Read the comment that I sent to spm201, because you do NOT want to update the program.
+
+You may need to uninstall/reinstall everything
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-11T00:37Z,"TO ALL:
+
+I have been contacted by ""law enforcement"".
+(while I think it was a scare tactic, I can't take that chance).
+
+Therefore, I am, at least for the time being, ending my involvement with TPB.
+(I will still be reading and possibly commenting)
+
+
+If anyone has any advice concerning reliable ISP masking, I would appreciate it greatly.
+
+Auf Wiedersehen,
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-11T00:41Z,"TO ALL:
+
+I have been contacted by ""law enforcement"".
+(while I think it was a scare tactic, I can't take that chance).
+
+Therefore, I am, at least for the time being, ending my involvement with TPB.
+(I will still be reading and possibly commenting)
+
+If anyone has any advice concerning reliable ISP masking, I would appreciate it greatly.
+
+Auf Wiedersehen,
+
+EinDeutschMan"
+,spm201,2012-04-11T09:15Z,Peerblock. Run whenever seeding.
+,pyaaz85,2012-04-11T10:55Z,"Has anyone tried to install Levels 4 and 5 from this torrent?  I was able to DL Levels 1, 2, and 3 from another torrent that gave activation instructions (run a patch, update the software, put in a bunch of X's for the activation code, select phone activation, and then put in a bunch of 1's, etc) for mac, but when I tried to do the same thing for Levels 4 and 5 from this torrent, it didn't work--it keeps saying that I don't have the right activation code whenever I try X's OR when I try the 1's after going through the phone activation option. 
+
+Any suggestions for what I can do to activate Levels 4 and 5???? Please help!!!!"
+,Capper_Man21,2012-04-12T09:14Z,"Excuse me, EinDeutschMan but where do I find myself a Activation Code for all 5 levels? "
+,mizike89,2012-04-15T01:51Z,"-EinDeutschman
+
+I am new to using torrents, but I cannot get the ISO files to run, even when i burn them to a DVD R. I also DL'd the patch but none of the files i have can be read...Can you tell me what i am doing wrong?"
+,EinDeutschMan,2012-04-15T02:38Z,"@Capper_Man21
+
+1. Block internet
+2. Install program (V3), DO NOT run program.
+3. Copy files (crack program and Licencingdll.DLL) from Crack folder to program folder where Rosetta Stone is installed and run it.
+(if the crack sets off your AV software, IGNORE IT! I've used this same program for over a year without any problems)
+4. Block Rosetta Stone program from internet access.
+5. Set your firewall to ""allow trusted outbound"" ONLY! (or the equivalent.)
+(if you block ALL internet access, you may get a 1117 error, speech component for voice recognition.)
+6. Do NOT update the program!
+7. Install language levels 1, 2 & 3.
+8. Install v3.4.7 in the same folder as v3 (overwrite the contents).
+9. Install language levels 4 & 5.
+
+You SHOULD be set.
+
+Let me know...
+
+EinDeutschMan "
+,EinDeutschMan,2012-04-15T02:43Z,"@mizike89,
+
+If you are using the ISO's you must ""mount"" them first, I use PowerISO4.7, just because I'm accustomed to it.
+
+Have you DL'd and installed PowerISO4.7?
+
+http://thepiratebay.se/torrent/6108176/PowerISO_V4.7___License__blaze69_
+
+POWER ISO KEYS;
+
+user EP591-M2ZT5-XD171-SBFBC-N1B6G
+pc 53M9E-BB7QJ-IW4DN-1EFUW-3EC13
+comp J1Q3V-H935B-FVZGJ-GY4WS-W5DQH
+admin 78PKR-2E2EY-KXSPA-I7YG6-IEQCY
+
+if so, open it, go to ""options"", ""configuration..."",""Virtual drive"", set ""number of virtual drives"" to 1, ""OK""
+(I set the number of drives to 5, so I can mount all 5 language levels at the same time)
+Reboot,
+PowerISO icon should be in the taskbar.
+right click the icon,
+click on ""Mount image to Drive[whatever it says]""
+navigate to where ever you have the language ISO's,
+select language level
+right click on PowerISO icon again,
+you should see something like
+""Mount Image to Drive[E:] D:Downloads Rosetta stone Japanese - Level 1.iso""
+
+(remember, your drive letters & paths are probably different from what I have here, these are just for demonstration.)
+
+If every thing has gone right, go back into Rosetta stone and add the language(s)
+
+EinDeutschMan"
+,EinDeutschMan,2012-04-15T02:44Z,"@spm201,
+
+Thanks for the tip, it's just what I was looking for, I'll also be using a VPN soon
+
+EinDeutschMan"
+,mizike89,2012-04-15T03:21Z,"EinDuetschMan
+
+_Thank you so much for your response, I think i am getting it figured out, i have downloaded powerISO and mounted all 5 levels to the appropriate drive. When i go back to the original Rosetta Stone files I DL'd when i attempt to open them it brings me back to powerISO and when i try to open it it gives me this error message * the file does not have a program associated with it for performing this action.*
+also what to i do with the  patch? do I mount that file as well? "
+,EinDeutschMan,2012-04-15T16:52Z,"@mizike89
+
+I have a few questions:
+1. Are you willing to be a ""guinea pig""?
+2. Can you wait a day or so?
+3. What version of Windows are you running, and is it 32 or 64 bit?
+4. What is your native language (I presume English)?
+
+Now, here's why I ask:
+
+1. I am working on a ""pre-installed"" version of Rosetta Stone.
+    (No setup required, just copy the files to the proper folders and you're done).
+2. I'm not done yet, still ""debugging"".
+3. I need to know so that I include the correct files, folders etc.
+4. To streamline the process, I will delete all unnecessary files.
+    (Who needs the files for languages you don't speak)
+
+This is how it will work:
+
+1. DL the Rosetta Stone v3.4.7 ISO 
+    (The updated one I will UL, and identify as ""Preinstalled"")
+2. DL WHATEVER language you want to learn.
+    (Again, the updated one I will UL, and identify as ""Preinstalled"")
+3. Mount both the ISO's, and copy them to the proper folders.
+   (You will have Rosetta Stone v3.4.7 installed, and you will NOT have to ""install"" ANY languages.)
+You can DL as many languages as you want, and they will ALL be ACTIVATED! 
+But they MUST be the ones I UL.
+
+If this works, I plan to create pre-installed versions of all the language packs I have.
+
+Let me know,
+
+EinDeutschman"
+,mizike89,2012-04-15T22:35Z,"EinDuestchMan-
+
+1.Yes
+2.Yes
+3.64 bit
+4.English
+
+also, I have Rosetta Stone v3.4.7 ISO I have already DL'd Latin Ameica Spanish
+ - When you say mount both of the ISO's Do you mean mount the patch and all 5 levels to power ISO?"
+,EinDeutschMan,2012-04-15T23:46Z,"@mizike89,
+
+Disregard any ISO's you already have.
+The ""Preinstalled version"" will be the one you want to use.
+i.e. ""Rosetta Stone v3.4.7 Preinstalled""
+
+The language pack(s) will also be named ""Preinstalled""
+i.e. ""Spanish (Latin America) levels 1-5 Preinstalled""
+
+You will have detailed instructions, but the bottom line is that you will have
+1 ISO for the program, and 1 ISO for EACH language, all levels in 1 ISO ( I hope!)
+
+The ""Rosetta Stone v3.4.7 Preinstalled"" ISO will have two folders in it.
+The 1st folder will be named ""Rosetta Stone"", and gets copied to the C:/ProgramData folder
+The 2nd folder will be named ""Rosetta Stone v3"", and gets copied to the C:/Program Files (x86) folder
+
+The ""Spanish (Latin America) Levels 1-5"" ISO will have one folder in it
+The folder will be named ""Contents"" and will be copied into C:/Program Files (x86)/Rosetta Stone v3 folder you just created.
+
+That's IT! 
+The first time you run the program, you will create your user profile, and set up the program as you want. (Speech recognition, user name, etc.)
+The Language pack(s) will show up as activated, with all X's
+
+Now, suppose you want to learn German as well...
+You simply DL the ""German Levels 1-5 Preinstalled"" ISO
+It will have 1 folder named ""Contents""
+You simply copy it to the C:/Program Files (x86)/Rosetta Stone v3 folder just like you did the Spanish, and now you have German installed AND activated as well!
+
+Now, lets just hope I can get it to work the way I want it to...
+
+I'll let you know soon.
+
+EinDeutschMan"
+,mizike89,2012-04-18T20:28Z,"Eindeutschman...
+
+I keep trying to activate this program but am finding it to be really hard the crack folder does not contain any file named licensingdll.dll the only thing contained in the crack folder is the rosetta stone application and when you try to open it it says fatal application error. Even after i copy the crack folder to location in which rosetta stone is installed... Is there any way to  actually activate this? Thanks in advance
+-mizike"
+,akutarou,2012-04-19T07:46Z,"EinDeutschMan
+
+I all instructions for the patch and then the iso's. Had no problem with installation of all 5 levels or anything. However when I try and run the program after selecting the username and such, I get stuck with a default blank grey rosetta stone screen. Wont go any further. Kinda stuck on what else to do now. Great Torrent"
+,EinDeutschMan,2012-04-19T23:37Z,"TO ALL:
+
+http://thepiratebay.se/torrent/7198939/Rosetta_Stone_v3_Preinstalled.rar
+
+This is a INSTALLED version of Rosetta Stone
+There are 4 files in this RAR file
+
+1. Readme!!.txt
+2. RS_Preinstalled.pdf
+3. RS_Preinstalled.iso
+4. PowerISOSetup.zip
+
+I have included detailed instructions in both the txt file and the PDF.
+I hope this solves a lot of the problems people have been having.
+
+I have UL'd the Spanish (Latin America) Preinstalled.ISO (which has all 5 levels).
+
+http://thepiratebay.se/torrent/7198467/Spanish_LatinAmerica_PreInstalled.rar
+
+Try it out and let me know,
+
+EinDeutschMan		"
+,Carrot_Bottom,2012-04-23T21:21Z,Fucking bullshit
+,EinDeutschMan,2012-04-24T20:02Z,"@carrotbottom,
+Do you care to elaborate, or is that the extent of your vocabulary?
+
+EinDeutschMan"
+,bungunners,2012-04-25T00:07Z,"Thank you very much for these ISO's.  This is not bullshit and it works.  I actually got the main program from http://thepiratebay.se/torrent/5210152/Rosetta_Stone_3.4.5___Crack%28VasiaZozulia%29.  Then I got these ISO's and mounted the first one using DT Pro.  Then I started the program in which it asked me to add a language file.  The ISO was already mounted so the program found it and installed.  I have not updated yet, but I'm taking it all very slow.  If I can avoid updating I will, but it looks like I may have to update when I install 4 and 5, but I will worry about all of that when the time comes.  Great work to the uploader and I thank you once again."
+,jwhufc,2012-04-27T16:06Z,"everything works real well. no complaints.
+
+
+however, I can't get disc's 4 and 5 to work. I also couldnt get them to work on the German and French ISO's that you uploaded... so I'm assuming it's just me.
+
+any way to get them to work?"
+,thtguy,2012-04-29T23:07Z,"@EinDeutschMan
+-I'm new to this whole entire torrent thing and want to download this program to my mac desktop, is that possible and if so how do I do that?
+-thanks"
+,EinDeutschMan,2012-04-30T03:27Z,"@thtguy,
+
+I'm not gonna lie to you, I have NO idea if this will work on a Mac, and if so how to DL it.
+
+Sorry...
+
+Maybe someelse (more knowledgeable) can answer your question.
+
+EinDeutschMan"
+,dingofive,2012-05-10T22:20Z,"@EinDeutschMan
+Is there any way you could get Czech and/or Icelandic and UL them?"
+,SeattleSeed,2012-05-19T04:58Z,"Make sure to download the actual Rosetta Stone Program first, as these are just the language packets. 
+
+I downloaded the program from here http://thepiratebay.se/torrent/5210152/Rosetta_Stone_3.4.5___Crack(VasiaZozulia) The instructions are in the comments.
+
+It's best to have Daemon Tools to mount the iso files (which tricks your computer into thinking it has the CD in it) then download each mounted iso into R.S. so you can later access it all from the program itself.
+
+Good luck and happy Swashbuckling!
+"
+,fscii,2012-05-25T08:54Z,"Is it possible to install these language packs when using the preinstalled 3.4.7 software?  I ask because there's no Spanish (Latin America) version of this 5 pack in the pre-installed flavor.  I manually installed the first 3 but kept getting an error over voice recognition files missing.
+
+The 3.4.7 preinstalled also gives me a 'minor error' every time I start the program - in case that has anything to do with it."
+,doc_penguin,2012-06-05T23:50Z,"Dear @EinDeutschman I did everything that I had to do to get the program and the languages running but something is going on with the speech component. Although I undergo a check of my mic before starting each lesson and it shows that I am speaking, whenever an exercise requires me to repeat a word it never works! Also every single time I start an exercise the program shows me an error message saying "" Rosetta Stone Ltd. executable has encountered a problem and needs to close. We are sorry for the inconvencience"" most times followed by another message saying ""1211 There was an error in the application. ListInputDevicesSpeechMessage"" and asks me to exit the application. I would very much appreciate it if you could help me."
+,rugburn11,2012-06-14T02:56Z,"Please be smart and use PeerGuardian 2 when using The Pirate Bay...
+
+http://phoenixlabs.org/pg2/
+
+Protect yourself...it only takes a sec to get this FREE app...
+
+Use it and hide your IP address from them...
+
+You can also use PEERBLOCK  http://www.peerblock.com/"
+,DrOfDoom,2012-06-21T15:47Z,"@mizike89
+
+I haven't finished downloading this, but what did you do to try and get the iso's to run?
+
+Normally, you would use a program like Daemon Tools Lite or VirtualCloneDrive to mount them as virtual disks, not actually burn them to DVDs. Then once they're mounted as virtual disks, you then run the autorun.exe on them.
+
+Special instructions for installing cracks or doing what EinDeutschMan said then come after install."
+[T],fuckthesystem1,2012-07-28T12:16Z,"First off, I just wanna give a huge thank you to EinDeutschMan. You've clearly put a lot of time into not only helping others obtain Rosetta Stone, but also talking them through their technical troubles with installing and it is very much appreciated. I successfully installed both the French and Spanish Levels 1-5 on Mac OSX Lion, using this (http://thepiratebay.se/torrent/7337333/Rosetta_Stone_v3.4.5_%5BK_ed%5D_for_Mac) as a base, and everything's working perfectly.
+
+Again, thank you Ein. You're awesome. "
+,53R4,2012-08-11T07:04Z,Thanks~
+,clifperrin,2012-09-01T18:02Z,"Works perfectly.  Downloaded iso files, burned individual discs using UltraISO (IMO the best ISO burning program), ran RS v3 and installed each level, and runs like a charm.  Thanks."
+,cuntrol,2012-09-23T11:20Z,Is there a way to extract and save the photos from this? I can't figure out where they're stored. :/
+,cyaoutthere,2012-09-27T23:57Z,"thank you! Works perfectly except for it disables speech recognition and does not allow me to speak. I am sure i probably forgot to do something. using... win 7 home premium, rs 3.4.7 preinstalled, spanish la 12345 installed with power iso (by the way thanks for that too!) everything else except speech recognition works. i want to make sure of my pronunciation. any ideas would be greatly appreciated. Thanks again for all your hard work."
+,cyaoutthere,2012-09-27T23:58Z,"oh yeah, i forgot, there are no pictures on start screen?"

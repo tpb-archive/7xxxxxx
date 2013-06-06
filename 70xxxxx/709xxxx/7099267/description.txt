@@ -1,0 +1,19 @@
+Diablo 3 BETA (Build 8610) server/client installation instructions.
+
+1. Extract the .rar files.
+
+2. Copy all the client files in "Diablo 3 BetaData_D3PCMPQs" to the server folder "Diablo 3AssetsMPQ"
+
+3. Start "HellGateServer.exe" from the server folder.
+
+4. To add an account write "!account add (email) (password) (nickname) owner"
+
+5. Start D3Launcher.exe from the client folder and click "Local Battle.net"
+
+6. Log in with the e-mail and password you made and enjoy.
+
+Credits
+
+HellGate Server
+Mooege
+tibrusjer

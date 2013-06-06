@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,IotIP,2012-02-28T05:57Z,"NOTE: Episode 14 in this torrent, ""The Last Roundup,"" is the original version, before they de-Derpy'd it."
+,organicmtdew,2012-03-04T09:32Z,"Dude, you're breaking TBP; if you address all the things that whiny douche bags complain about, then how will they make themselves feel better about a life that includes as much complaining as they do  about free videos? You jerk. How dare you!"
+,Aikousha,2012-03-11T00:27Z,"^_^  s'casm appreciated... but a dude, I am not...  Though there are people out there trying to make changes to issues like that (and I think most of them live in Japan)."
+,IotIP,2012-04-08T22:43Z,"Been trying to upload the update for quite a while now.  Unfortunately, it's a no-go.  TPB is having a server-hemorrhage of some sort, and all I get is the following response, no matter how I alter the entries:
+=====
+Warning: mysqli::ping(): MySQL server has gone away in /var/data/thepiratebay.org/www/include/library/bay/database.php on line 111
+Unable to fetch dataUnable to fetch dataUnable to fetch dataUnable to fetch data
+Fatal error: Uncaught exception 'Exception' with message 'Unable to execute query' in /var/data/thepiratebay.org/www/include/library/bay/database.php:89 Stack trace: #0 /var/data/thepiratebay.org/www/include/upload/upload.inc.php(182): Bay_Database->execute('INSERT INTO tor...', 'ssisiiiss', '8wQrFiO08wg+rgq...', 'My Little Pony:...', 7568210, 'IotIP', 27, 4069491284, '205', 'member', 'This supersedes...') #1 /var/data/thepiratebay.org/www/upload.php(20): handle_upload() #2 {main} thrown in /var/data/thepiratebay.org/www/include/library/bay/database.php on line 89
+=====
+
+Any help?"
+,DestinyDecade,2012-04-09T23:26Z,@IotIP: Isn't there another way? I really want ot get my hands on them and plus the season finale is coming.
+,IotIP,2012-04-11T19:13Z,Try dem on id.me or kat .ph
+,IotIP,2012-04-11T19:14Z,"Wow, I get a database error if I type in either of the two sites listed above, without the spaces.  That's messed up."
+,DestinyDecade,2012-04-14T18:17Z,Is there anyway I can contact you because I really hope to get the other episodes.
+,IotIP,2012-04-30T20:17Z,"My SO is paranoid, so I don't do real pictures or direct links, e-mail, etc.  Got enough creepy stuff in the past to agree with him.
+However, the final version is complete, and bizarrely got upped quickly and smoothly:
+http://thepiratebay.se/torrent/7230389/My_Little_Pony__Friendship_is_Magic_S2_Complete__480p_XVID"

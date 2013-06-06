@@ -1,0 +1,43 @@
+Official Web Site:  http://manytricks.com/moom/
+
+Description
+
+Moom allows you to easily move and zoom windows to predefined areas of the screen, or to make them full-screen, using either the mouse or the keyboard.
+
+When used via the mouse, all you need to do is hover over the green resize button in any Mac OS X window. Moom's panel appears, and you then click the desired action.
+
+When used via the keyboard, a hot key displays the Moom bezel, and you can then use the arrow and modifier keys to move and resize the windows.
+
+You can also save window layouts, create custom controls with shortcuts that work globally or work only when Moom's keyboard bezel is onscreen.
+
+Release notes
+Moom 2.4 - Feb 28 2012
+- New Features
+
+Custom controls can now be chained together, so they run sequentially with just one Moom invocation.
+
+* Bug Fixes and Improvements
+
+* Reorganized Moom's menu bar menu to put often-used commands
+  near the top.
+
+* Custom Controls that use F-key shortcuts should now properly show
+  in Moom's menus. (Hat tip to Matthias F. for finding this one.)
+
+* Moom now checks if it's hidden at launch, and asks the user to unhide
+  if that's the case.
+
+* Fixed a timing issue related to bringing windows in saved layouts to
+  the foreground. (Hat tip to Boone S. for finding this one.)
+
+* Fixed an issue that affected some windows with attached sheets. (Hat
+  tip to Andy K. for finding this one.)
+
+* Changed the way grid resize and spacing settings interact. (Hat tip to
+  Dominik W. for the suggestion.)
+
+System Requirements:
+
+OS version: Mac OS X 10.6 (Snow Leopard) or higher
+
+--- PLEASE SEED ---

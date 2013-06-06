@@ -1,0 +1,71 @@
+[img]http://img850.imageshack.us/img850/5730/30338433.jpg[/img]
+
+A young lawyer travels to a remote village where he discovers the vengeful ghost of a scorned woman is terrorizing the locals
+ 
+http://www.imdb.com/title/tt1596365/
+
+Source:Our Own
+
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 1.04 GiB
+Duration                         : 1h 29mn
+Overall bit rate                 : 1 668 Kbps
+Writing application              : Lavf51.12.1
+Writing library                  : VirtualDub build 33848/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 29mn
+Bit rate                         : 1 465 Kbps
+Width                            : 720 pixels
+Height                           : 304 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.223
+Stream size                      : 938 MiB (88%)
+Writing library                  : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Mode extension                   : MS Stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 1h 29mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 44.1 KHz
+Stream size                      : 123 MiB (12%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 33 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+
+Workdone:
+We first converted the VOB to avi. After doing so the AR was wrong so we had to fix that first. The CAM was pretty nice but it had motion issues. We tried a few filters but no luck. The CAM also had HC yellow sub on the bottom, so we cropped them off. We also adjusted the levels, saturation, and lightly ran a smoother. Turn out pretty nice for a CAM besides the motion issue.
+
+Audio:
+For the audio it was better then average, We put it threw a denoiser and did some audio enhancement
+
+[img]http://img850.imageshack.us/img850/5730/30338433.jpg[/img]
+[img]http://img856.imageshack.us/img856/3917/85309646.jpg[/img]
+[img]http://img195.imageshack.us/img195/7439/73230021.jpg[/img]
+[img]http://img38.imageshack.us/img38/7876/78358242.jpg[/img]
+[img]http://img4.imageshack.us/img4/3816/55017883.jpg[/img]

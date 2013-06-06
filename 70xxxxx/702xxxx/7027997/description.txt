@@ -1,0 +1,56 @@
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 136 MiB
+Duration                                 : 20mn 52s
+Overall bit rate                         : 908 Kbps
+Writing application                      : MEncoder SVN-r30881(20100311-gcc4.3.3)
+Writing library                          : MPlayer
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 20mn 52s
+Bit rate                                 : 768 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.074
+Stream size                              : 115 MiB (85%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 20mn 52s
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 40ms
+Stream size                              : 19.1 MiB (14%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 26 ms (0.65 video frame)
+Interleave, preload duration             : 522 ms
+Writing library                          : LAME3.98
+

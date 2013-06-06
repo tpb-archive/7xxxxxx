@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,Stryve,2012-02-28T19:07Z,starts up on no$gba and looks fine
+,kitsame,2012-03-01T16:33Z,"@Stryve
+How to start on no$gba?"
+,Kreinster,2012-03-02T08:33Z,"Works perfectly on Desmume. No piracy-safes triggered, which Atlus is so fond of. Thank you very much."
+,Stryve,2012-03-02T09:11Z,"@kitsame
+don't know just did the first time. now my questions
+what happens for you? is yours at start cartridge directly?"
+,BalnazzarBot,2012-03-16T08:45Z,"To make it work on No$GBA download this and place it in the No$GBA main folder. To make the link work remove the = sign between Word and Press.
+http://setya5785.word=press.com/2008/01/02/nds-bios-and-firmware/
+Now open No$Zoomer and go to: ""Options > No$GBA Settings"" and set ""Reset/Startup Entrypoint"" to ""GBA BIOS (Nintendo Logo)""
+Now Save Settings and restart No$Zoomer, that's it."

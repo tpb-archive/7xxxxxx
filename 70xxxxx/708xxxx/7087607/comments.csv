@@ -1,0 +1,119 @@
+﻿User Type,Username,Date,Text
+,mrvaliyev,2012-03-08T22:23Z,seed please!!
+,tmemphist,2012-03-09T20:56Z,Sopcast lets you watch free online TV channels and also you can broadcast your own channels 
+,olinolsen,2012-03-21T21:08Z,Doesn't work on Mountain Lion DP2.
+,keymakh,2012-04-05T16:23Z,Won't work on 10.8!
+,livefortoday6491,2012-04-15T22:48Z,Works on Lion but poor quality and jerky on full screen. but can paste ulr in Sopcast. Need link from Firefox enabled. If you use Mac version of VLC you can go to file> open media and paste http://localhost:8902/tv.asf or http://127.0.0.1:8902 it has a brilliant picture.
+,livefortoday6491,2012-04-16T13:31Z,Hi mrvaliyev I assume you wrote this software and hope you will continue to develop it. I would be willing to help test it if that would help you?
+,mrvaliyev,2012-04-23T01:48Z,"hello livefortoday6491. No I didnt developed this. I found this on russian torrent web site. Actually i use Mplayer OSX instead of vlc player. Vlc drops out every 1 minute or less. For a big screen you have to download Mplayer OSX. Before opening the url that you mention (http://127.0.0.1:8902) you have to change the preferences:
+1. Under the miscellanous you have to click the 'Use cache'
+
+2. under the video & audio there is video out module. you have to choose 'quarz/quicktime""
+
+then open sopcast channel then pause it, then go to Mplayer OSX -->> open location and type 'http://127.0.0.1:8902' or 'mms://127.0.0.1:8902'.
+
+thats it. I used this on Snow Leopard and Lion. Works perfect. 
+
+As it optimized version it sometimes makes error. You need to re-open dmg file and re-drop the sopcast to application folder.
+
+If you have any questions just ask."
+,livefortoday6491,2012-04-23T21:49Z,"I have found VLC drops out with the Windows version not tried it with Mac version. The solution is to click the continuous button (looking at the left set of buttons click the second from the right and then click play). This is the only way I got it to work before reading your post. While Sopcast is open open Mac version of VLC go to file > open network and paste either or these two:
+http://localhost:8902/tv.as
+http://127.0.0.1:8902
+I will try the info you provided above and get back to you."
+,chrispy1324,2012-04-24T03:30Z,"Thanks
+
+livefortoday6491 
+mrvaliyev
+
+Thanks alot this is really helping since i was to happy with how my version with crossover turned out even though i got it to work.
+
+Quick question with this mac version which search engine works best with it? Safari Firefox or Chrome.
+
+Also with livefortoday6491 your comment. So you just paste that and keep sopcast playing in the background right. Then you just click the loop button so it doesnt keep crashing? So all you do is you have to enter that in vlc and its like an auto thing where what ever you were watching on sopcast will go directly to vlc regardless of the channel?
+
+Thanks again guys."
+,chrispy1324,2012-04-24T03:31Z,wasnt happy * :D
+,chrispy1324,2012-04-24T07:23Z,I tried your vlc thing. every minute like the other guy mentioned it crashes for 3 seconds so you can miss alot in 3 seconds. ima try the Mplayer osx now. :) works great though aside from that the VLC. let me know if you have a cure for the VLC problem.
+,chrispy1324,2012-04-24T07:43Z,"mrvaliyev
+
+Cant find the part 2 your talking about. Just downloaded Mplayer os x
+
+2. under the video & audio there is video out module. you have to choose 'quarz/quicktime""
+
+Where do i find this?"
+,livefortoday6491,2012-04-25T14:10Z,Hi Mrvaliyev Cannot find Windows M Player for Mac (the cure for full screen). I have Flip4mac WMV but I don't think that does anything. Can you find me a link please? VLC drops out but returns if you click loop all but VLC Mac version is a better solution.
+,mrvaliyev,2012-04-26T03:01Z,"Guys. Please try this link below to download MplayerOSX
+
+http://www.boxca.com/lmyvkhp4plgf/MPlayer-dev-latest.dmg.html"
+,mrvaliyev,2012-04-26T03:08Z,"And let me know if the link works for you. Also chrispy1324, please try use MplayerOSX that uploaded. Its has that section.
+
+livefortoday6491, could you please tell where i can find 'loop all' thing in vlc player??"
+,livefortoday6491,2012-04-26T14:06Z,"Hi mrvaliyev In VLC mac version, when the video screen is open, there are a set of buttons on the left, click the second from the right, (you may have to click play again), if you hover over it it says repeat. The same happens with the Windows version 1.1 only it says loop one, loop off, when you hover. Windows version 2.2 looks the same as the Mac version but I expect you are trying the Mac version. Thanks for the link to WMP for Mac, I will let you know how I get on. If you want to contact me by email just add @talktalk.net to my user name."
+,livefortoday6491,2012-04-26T18:09Z,"Hi mrvaliyev I downloaded WMPlayer for OSX but it only works for Power PC not Lion. So how do you use it and where do you in stall it?
+This how I get it to work I open Firefox and look for Sopcast link, but as it does not from any Mac browser I click the URL link and copy the result open the Mac version of Sopcast and paste into the address bar. Wait for it to start buffering. Then open VLC Mac version go to file> open network and paste either address below:
+http://localhost:8902/tv.asf
+http://127.0.0.1:8902/
+It should work straight away if not 2nd from right button of the left hand side set. Let me know if that works for you?"
+,mrvaliyev,2012-04-26T20:29Z,"hi livefortoday6491, why do you use WMplayer for OSX?
+
+I said MPlayer OSX (not WMplayer) which you can download through the link i mentioned before. 
+
+Here it is. http://www.boxca.com/lmyvkhp4plgf/MPlayer-dev-latest.dmg.html
+
+Download the dmg file, open it move 'Mplayer OSX' to the application folder. Then open it and follow the steps that i said in my previous comments. 
+
+WMplayer has nothing to do with this. "
+,chrispy1324,2012-04-28T08:31Z,mrvaliyev! just did what you told me too and downloaded your link! works like a charm. vlc a bit clearer but this one doesnt lag or black out. plus i guess it also depends on the feed i think. Thanks alot. Thanks you livefortoday aswell 
+,paranoiaman,2012-04-28T20:47Z,"It keeps crashing for me. I wonder if someone can tell me if I'm doing something wrong. I'm on Mac version 10.7.3.
+
+I open SopCast and paste in the url of the channel I want to watch. I then press the pause button on the SopCast video window on the right-hand side.
+
+I then open MPlayer, where I have changed the cache and quartz/quicktime settings as above, and past in the url given above. The video opens but usually crashes within 30 seconds.
+
+Sometimes the SopCast software doesn't pause.
+
+I've also tried it with VLC, and SopCast usually crashes after a few seconds.
+
+I've tried deleting the SopCast file from the apps folder and replacing it from the DMG file but it didn't seem to improve anything.
+
+Thanks."
+,mrvaIiyev,2012-04-28T21:33Z,dfs
+,mrvaIiyev,2012-04-28T21:34Z,"I could write a comment with my original username, i created another one. 
+
+chrispy1324, you are welcome. 
+
+paranoiaman Please try not to select the sopcast link with quality more than 1680 kbps. and not to choose sopcast link which requires VLC player. 
+
+I always take the football links from www.lifefootball.ws. THis is russian website.
+
+Open Safari, go lifefootball.ws. Choose any football match when it says 'online'. (Click ' podrobnoe'). It will open new pages where there are many links. Choose one, make sure link doesnt require VLC player or quality not more than 1680 kbps. I always choose 1680 kbps ones. Then press 'Smotret'. It will open nothing. It will say ""safari cant open the adress'. its ok. Just Copy the URL adress of the page which is the sopcast link, and paste to the sopcast. 
+
+thats it. "
+,mrvaIiyev,2012-04-28T21:35Z,"chrispy1324, you are welcome. 
+
+paranoiaman Please try not to select the sopcast link with quality more than 1680 kbps. and not to choose sopcast link which requires VLC player. 
+
+I always take the football links from www.lifefootball.ws. THis is russian website.
+
+Open Safari, go lifefootball.ws. Choose any football match when it says 'online'. (Click ' podrobnoe'). It will open new pages where there are many links. Choose one, make sure link doesnt require VLC player or quality not more than 1680 kbps. I always choose 1680 kbps ones. Then press 'Smotret'. It will open nothing. It will say ""safari cant open the adress'. its ok. Just Copy the URL adress of the page which is the sopcast link, and paste to the sopcast. 
+
+thats it. "
+,mrvaIiyev,2012-04-28T21:38Z,And also Sopcast deosnt pause sometimes. Just press 4 times on pause button. It will pause then :)
+,paranoiaman,2012-04-28T21:44Z,"Thanks for the reply mrvaIiyev.
+
+I was watching rugby, but the link I had said the bitrate was 500kbs, but I have a 20 mb connection. I will try again with a different channel to see if it was just a poor connection."
+,paranoiaman,2012-04-28T21:51Z,"Thanks for your reply mrvaIiyev. 
+
+The link I was using was for a rugby match and it was a 500kb bitrate link, but I have a 20 mb connection. I have tried a 1010kb link now for a different channel, just to test, and it seems to be working fine. So maybe the problem was with the channel I was using, maybe it was a poor connection.
+
+Thanks for your help!"
+,livefortoday6491,2012-04-29T16:23Z,"Hi paranolaman I am surprised you have trouble with VLC, are you using the new version 2.2. You need to be patient and use the buttons on the left second from the right, although I don't need to but hit play again. It sometimes starts with a poor picture and after a minute or two it clears."
+,livefortoday6491,2012-04-29T16:29Z,Just had a thought I use Firefox Mac version of course and have not tried Safari but will and report back. Sometimes I get an I Explorer script error which must be a bug in the software. Wish I new the author. Strangely I don't have a problem with high bit rate could that be something to do with Firefox.
+,patriki,2012-05-19T20:04Z,Thank you so very very much!
+,livefortoday6491,2012-07-27T19:42Z,Check Sopcast.org download there is a download file for Sopcast on the Mac but so far it does not have a live link...not sure why?
+,iNiks,2012-08-18T18:41Z,It just bounces in the dock then automatically closes for me. I'm running Mountain Lion. Please help.
+,83mjs,2012-08-18T22:17Z,"just upgraded to Mountain Lion I can confirm it does NOT work on OS X 10.8 but it does work on 10.7 (Lion)
+
+Please update this app! "
+,mrvaliyev,2012-08-26T21:01Z,just search sopcast mac original version in piratebay. 

@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,RecycleBin32,2012-02-23T22:14Z,"Hey Danny, Big fan of yours.
+How do you convert DVD's into separate sections and such small size? I would love to know the thing. I have a hell lot of dvds which I would like to reduce . Thanks :)"
+[T],danny_bull,2012-02-25T16:47Z,"too difficult to explain, but you'll defitely need the following software:
+
+1. DVD Decrypter to copy dvd-files into your hard drive
+2. DGDecode - to create a *.d2v file
+3. Avisynth - to create an *.avs script which will be opened with VirtualDub
+4. XviD - the encoder itself
+5. VirtualDub - to open *.avs file and configure XviD options + to apply some plugins to the video (such as deinterlace / resize)
+
+while configuring XviD - do not use GMC and QPel options, max consecutive B-frames mustn't be more than 1.
+
++ to get separate sections you should add I-frames in the 'zones' menu.
+
+in brief, feel free to experiment and read some articles online"
+,RecycleBin32,2012-02-25T19:51Z,"Yeah, Right. That is so confusing. 
+Though, I've downloaded all the softwares you mentioned. I'll experiment. 
+Thanks anyway. :)"

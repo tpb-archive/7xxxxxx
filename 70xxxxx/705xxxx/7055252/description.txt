@@ -1,0 +1,24 @@
+LPS-Public includes features designed to allow productive use of the Internet and CAC- or PIV-restricted Government websites from home or while traveling. LPS-Public comes preconfigured with a smart card-enabled Firefox web browser with Java and Flash support, Encryption Wizard-Public, a PDF viewer, a file browser, remote desktop software (Citrix, Microsoft or VMware View), SSH client, and the ability to use USB flash drives. This build does not contain any FOUO material or any customized software.
+LPS-Public Deluxe adds OpenOffice software, which is a Microsoft Office-compatible suite of office applications, and Adobe Reader, which allows PDF files to be digitally signed.
+A customized version of LPS, called LPS-Remote Access, is designed primarily for DoD and federal government agencies. It is available by request, and can be customized with additional applications, including VPN and Thin Client software. This allows users to connect directly to corporate or enterprise networks and function as part of the network. Each version of LPS-Remote Access is customized for a particular customer's network.
+As our customers give us additional requirements, we evaluate whether to create a new edition of LPS or to incorporate the features into the roadmap of existing products. If you have specific requirements, we would like to hear from you.  
+http://www.spi.dod.mil/liposeFeatures.htm
+
+LPS Release Notes
+Changes in Version 1.3.2
+Maintenance release, released 16 February 2012
+
+    * Updated Firefox to 10.0.2
+    * Updated DOD Configuration add-on to 1.3.6
+    * Updated Adobe Reader to 9.4.7
+    * Updated Flash to 11.1.102.62
+    * Updated Java to 1.6u31
+    * Updated OpenSSL to 0.9.8t
+    * Updated Encryption Wizard application to 3.2.11
+    * Added virtual keyboard utility
+    * Added zip file support to the file manager
+    * Added support for non-US keyboards
+    * Fixed bug in Java control panel 
+http://spi.dod.mil/CHANGES.html
+
+Md5sum : 9ed5545dd50d606411383c8aec87bb39  LPS-1.3.2_public.iso

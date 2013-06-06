@@ -1,0 +1,55 @@
+Official Web Site:   http://macitbetter.com/version-history/
+
+Features
+
+* Added ΓÇ£Open withΓÇ¥ to the contextual menu and changed the View
+  toolbar button to a drop-down button with ΓÇ£Open withΓÇ¥ functionality.
+
+* You can now specify a custom file extension in save presets.
+
+* Added a menu item to extract all archives in a folder recursively.
+
+* Added an option and menu item to compress each of multiple dropped   
+  items into an individual archive.
+
+* Added Japanese (by Koichi Matsumoto) and Polish (by Mariusz
+  Nicpo┼ä) localizations. Thank you, guys!
+
+* Added the Greenwich localization framework by Whitney Young, 
+
+* FadingRed LLC to allow super easy translation into new languages. 
+
+* Start BetterZip, hold down the Alt/Option key and drop down the Help 
+ menu. ThereΓÇÖs a new menu item ΓÇ£Translate BetterZipΓÇ¥ that will open the
+  translation interface.
+
+Enhancements:
+
+* Increased extraction speed for rar files.
+
+* BetterZip will now display exactly which part of a multi-volume rar
+  archive is missing, if any.
+
+* In the save panel the standard file extension will be appended to the
+  filename.
+
+Bug fixes:
+
+* Fixed a possible crash when quitting BetterZip with the favorites
+  sidebar opened.
+
+* Fixed a few errors in the Russian translation.
+ 
+* The registration window could lead to an infinite loop under certain
+  circumstances.
+
+* Growl will no longer write a warning message to the log.
+
+* Fixed a bug that could lead to files being overwritten when extracting
+  certain tar.gz archives.
+
+System Requrements:
+
+Intel Mac, OS 10.6 or greater
+
+--- PLESE SEED ---

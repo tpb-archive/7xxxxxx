@@ -1,0 +1,157 @@
+Bopup Communication Server version 4.0.8.10176
+Corporate instant messaging server for secure business communications
+========================================================================
+
+[OVERVIEW]
+
+Bopup Communication Server is an instant messaging server for private IM, 
+internal chat and secure collaboration over corporate and business 
+networks. It provides Active Directory support and integration, message 
+and file archiving, offline messaging and document distribution with 
+a strong encryption of transmitted data. The server offers various 
+authentication modes to accept user connections, manages user groups 
+from a single place, supports and handles easy and very effective 
+distribution of documents and important events from the IM server to 
+employees and users.
+
+Since the communication server is designed for business and 
+enterprise-level environments it is intended to install and organize 
+a private and internal chat system and real-time communication platform 
+for companies with no outside access too. Bopup Communication Server is 
+easy and fast to set up which takes about few minutes to get completed. 
+It comes with embedded SQL server to host it's database or can be 
+installed using an existing MS SQL Server software.
+
+The communication server includes a built-in functionality to upgrade 
+IM client software with uploading new versions of the messengers on the 
+server. End-user messaging applications can be also distributed and 
+deployed with pre-installed settings and options that reduces 
+an overall time of software setup. And the IM client branding feature 
+lets upload company's image, logotype on the communication server and 
+show it in the messengers interface. It is highly important for 
+companies and organizations that want to get their messaging software 
+in a single corporate style.
+
+
+Key features:
+
+SEDURE AND PRIVATE COMMUNICATION
+All transmitted messages and files are encrypted with strong encryption 
+algorithms based on the Diffie-Hellman key exchange and CAST-128 
+algorithms. That is the first and primary way to make corporate 
+and business IM safe and secure. 
+
+AUTHENTICATION MODES
+The server supports various modes to authenticate and authorize 
+connected users. Choose the best way for your corporate and business 
+infrastructure from the available authentication modes: Simple, Windows 
+Authentication (SSPI) and Private login/password.
+
+MESSAGING GROUPS
+The centralized management of user groups makes it possible to organize 
+a flexible IM structure with a list of assigned groups and 
+send/receive-only permissions set for each user. 
+
+USER ONLINE STATUS
+Online statuses allow users to see the current status of each user in 
+their Contact List, i.e. Online, Away, Offline/Not available and control 
+their own status. 
+
+CONTACT LIST ACCESS
+Users can organize personal Contact Lists and access them from any 
+workplace and location. Users are informed if there are new contacts 
+available on the IM server and if they can be added to their Contact 
+Lists. 
+
+OFFLINE FILE TRANSFER AND URGENT MESSAGING
+Enable message exchange and file transfer even if some users are 
+currently not available. Offline messages and files are automatically 
+delivered by the IM server to the recipient when the latter goes online. 
+Send urgent messages for high-priority tasks and notifications. 
+
+FILE DISTRIBUTION
+Easy, managed and secure distributing files and directories to client 
+workstations. Important documents can be assigned and delivered to users 
+from the server in a fully automated mode with a set of advanced flags. 
+
+TERMINAL SERVER SUPPORT
+The client software fully supports the Terminal Server, Citrix 
+environments and the Windows XP Fast User Switching feature. Users can 
+communicate even if they are connected to the same server via Terminal 
+Client sessions or have open logon sessions on the same computer 
+simultaneously. 
+
+CONFIRMATION MODE
+Activate the Confirmation Mode which pops up the client messenger when 
+a message is received and keeps it on top of other windows until the 
+user clicks the Confirm Message button. That is the best way to attract 
+users' attention. 
+
+CENTRALIZED NOTIFICATION
+Send notifications and urgent messages and keep users updated on any 
+events and information. These messages are automatically delivered by 
+the server at the scheduled time at the specified intervals. 
+
+MESSAGE AND TRANSFER LOGGING & ARCHIVING
+Browse, search and view the entire message and file transfer archives. 
+Print information for any period and for any person. 
+
+INSTANT IM CLIENT UPDATES
+The messaging clients can be instantly updated from the central IM 
+server. This feature allows to keep IM client versions up-to-date and 
+deploy new software updates and patches in a completely automated way 
+without having to manually install it on all user computers.
+
+ACTIVE DIRECTORY (LDAP) SUPPORT
+Import user accounts from a global catalog and create the local users 
+database on the server within a few seconds. Import accounts by choosing 
+different criterias: by Organizational Units (OU) or by Groups. 
+The server also provides integration options with a directory and can 
+search and import accounts "on-the-fly" when new users connect.
+
+ACCESS FROM A COMMAND LINE INTERFACE
+Control the communication server and send messages directly from 
+a command line interface. Send scheduled and instant messages to users 
+and groups from third-party applications, scripts or batch files.
+
+FAST TO DEPLOY AND EASY TO USE
+Neither experience nor special skills are needed for installing the 
+server. Just go through the steps of the Setup Wizard and get your IM 
+system running in a few minutes. 
+
+
+[SYSTEM REQUIREMENTS]
+
+Bopup Communication Server requires the following minimum system 
+configuration: 
+
+* 1 GHz processor (or higher recommended) 
+* 512 MB RAM 
+* 70 MB free disk space (*) 
+* Microsoft Windows NT 4.0/2000/XP/2003/Vista/2008/7 (**) 
+* Microsoft SQL 2000/2005/2008 Server and higher 
+* Active Directory (LDAP) presence (optional)
+* Network connection configured for TCP/IP protocols
+* Internet connection (optional)
+
+* - Specified disk space is required if the product installed with 
+built-in SQL server.
+** - The built-in MSDE 2000 package that comes with the installation is 
+not supported by Windows Vista and on that system the communication 
+server should be installed using an existing external MS SQL Server. 
+
+Bopup Communication Server requires Windows administrator rights to run 
+the Setup Wizard and install the service. After installation the server 
+can be run and managed under a non-administrator Windows account. 
+
+
+[LIMITATIONS]
+
+This is 45-day trial version! For advanced details and purchasing 
+information please refer B Labs website and product page at  
+http://www.bopup.com/products/server/
+
+
+========================================================================
+Copyright (C) 2000-2012 B Labs. All rights reserved. 
+http://www.bopup.com/

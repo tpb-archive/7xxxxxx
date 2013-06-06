@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,MooTheKoo,2012-02-25T19:59Z,"fails on any DRM file it finds, complaining ""can't find version 301"". Running on latest Snow Leo. 
+
+Does this require an older version of itself or what is it looking for? Any ideas?
+"
+,JHZoidberg,2012-02-26T01:08Z,"Legit.  From http://tag3ulp55xczs3pn.onion/cgi-bin/ssi/index.shtml
+
+MD5 sums:
+
+Mac:  420139e9dd90a2cb3e423aac833ca144
+Win:  8e71ac4aaeb332e82e99b23ddd0c9c14
+Src:  bfa369a59f0a87e73794485f7be1cb96"
+,JHZoidberg,2012-02-26T01:10Z,"From http://tag3ulp55xczs3pn.onion/cgi-bin/ssi/index.shtml
+
+MD5 sums:
+
+Mac: 420139e9dd90a2cb3e423aac833ca144
+Win:  8e71ac4aaeb332e82e99b23ddd0c9c14
+Src:  bfa369a59f0a87e73794485f7be1cb96"
+,TxJag,2012-03-07T18:10Z,@MooTheKoo the reason why your seeing Version 301 is because its a DRM free ePub that even though was downloaded from the iTunes Bookstore is being read by the program as such.

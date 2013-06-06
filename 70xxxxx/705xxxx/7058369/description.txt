@@ -1,0 +1,26 @@
+just run setup only 
+
+already activated
+
+
+
+
+Changes in Version 4.11 :
+ 
+Bugs fixed : 
+
+a) WinRAR did not NTFS â€œCompressedâ€ attribute, when creating RAR archives; 
+
+b) WinRAR crashed in command line mode if @filelist parameter was present and 
+
+â€˜filelistâ€™ did not exist. This bug affected only WinRAR.exe, not RAR.exe; 
+
+c) if -x*\somefolder\* exclusion mask was specified when archiving and if name of
+
+ current folder contained â€˜somefolderâ€™, WinRAR excluded all files and stopped 
+
+creating an archive; 
+
+d) GUI self-extracting archives did not work in Windows Preinstallation Environment
+
+ (Windows PE).

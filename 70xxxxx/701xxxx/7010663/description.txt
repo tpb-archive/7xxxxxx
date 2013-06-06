@@ -1,0 +1,51 @@
+---------------------------------------------------------------------------------
+                                                                                 
+           SSSSSSSSSSSSSSS       444444444                 AAA                   
+         SS:::::::::::::::S     4::::::::4                A:::A                  
+        S:::::SSSSSS::::::S    4:::::::::4               A:::::A                 
+        S:::::S     SSSSSSS   4::::44::::4              A:::::::A                
+        S:::::S              4::::4 4::::4             A:::::::::A               
+        S:::::S             4::::4  4::::4            A:::::A:::::A              
+         S::::SSSS         4::::4   4::::4           A:::::A A:::::A             
+          SS::::::SSSSS   4::::444444::::444        A:::::A   A:::::A            
+            SSS::::::::SS 4::::::::::::::::4       A:::::A     A:::::A           
+               SSSSSS::::S4444444444:::::444      A:::::AAAAAAAAA:::::A          
+                    S:::::S         4::::4       A:::::::::::::::::::::A         
+                    S:::::S         4::::4      A:::::AAAAAAAAAAAAA:::::A        
+        SSSSSSS     S:::::S         4::::4     A:::::A             A:::::A       
+        S::::::SSSSSS:::::S       44::::::44  A:::::A               A:::::A      
+        S:::::::::::::::SS        4::::::::4 A:::::A                 A:::::A     
+         SSSSSSSSSSSSSSS          4444444444AAAAAAA                   AAAAAAA    
+                                                                                 
+                                                                                 
+---------------------------------------------------------------------------------
+
+                                         
+
+---------------------------------------------------------------------------------
+
+Stereoscopic Player is a versatile 3D movie player. It allows you to play stereo
+Â­scopic videos and DVDs (external decoder required) and also allows you to watch
+live video from a capture device. Since it is based on DirectÂ­Show, it can
+handle almost any media format, for example AVI, MPEG, WMV, ASF and MOV. Videos
+can be coded in several different stereoÂ­scopic formats. Please see the feature
+list for supported input and output formats.
+... and a few more details
+
+Why is it necessary to use a special software for 3D movie playback? The reason
+is that there are a lots of different ways to watch stereoscopic content as well
+as different ways to store the content. In the past, it was necessary to encode a
+stereoscopic movie for each viewing method, for example you had to create an
+anaglyph file, a interlaced file for use with shutter glasses and a side-by-side
+for for free-viewing without glasses. Quality was often low. For example, most
+video codecs don't handle interlaced content well or subsample color information
+(reducing color resolution to quarter of original resolution), which reduces
+anaglyph quality significantly.
+
+*Install Notes*
+
+1. Install
+2. Use the serial included in the Serial.txt
+3. Enjoy!!!
+
+---------------------------------------------------------------------------------

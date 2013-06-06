@@ -1,0 +1,14 @@
+Sense And Sensibility (1995) 
+http://www.imdb.com/title/tt0114388/
+
+Just, my _first_ experiment in DVD encoding, but still the smallest rip for that movie: 500 MB.
+
+Possibly interesting for you are the encoding parameters, which usually nobody disclose:
+HandBrake-0.9.6-i686-Win_GUI,mkv,x264,filters off,keep aspects,anamorphic=none,bitrate=427,2pass+turbo,AUDIO:AAC,Dolby surround,22.05,96
+ADVANCED:
+ref=5:deblock=-2,-1:analyse=all:me=umh:subq=5:psy_rd=0.00,0.00:direct=auto:keyint_min=23:aq-mode=2:bframes=16:qpmin=10:qpmax=51:mbtree=0
+
+Feel free to use these options yourself, or improve!
+I actully cloned these options from YIFI torrent "Amelie (2001) [ENG Subs] - 480p 400mb - YIFY", which has the best quality/size, in my opinion .. ;)
+
+eYYe

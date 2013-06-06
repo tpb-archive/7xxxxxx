@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,nastymrx,2012-02-06T01:09Z,"@flsw101 hahaha serial for os x... LOL
+Post your viruses in your ass."
+,ad_aries,2012-02-06T14:30Z,"I am using windows 7 and i have installed Transmac v10.2
+ when i open this image in transmac it says ""Unknows disk Image format""
+how can i burn this image on disk or mount on USB Drive..
+Thanks"
+,angolaguy,2012-02-06T22:56Z,Cannot convert this file to .iso.
+,Chris230291,2012-02-08T15:24Z,you need a mac to create a bootable disk or USB drive. there might be a tool for other OS's but i have no idea.
+,macomaniac,2012-02-09T07:14Z,"@angolaguy -(Supposing you downloaded that .dmg file on a MAC desktop). Open a Terminal window (app. to be found in the 'Utilities' folder of the 'Applications' folder). Type in that window the following command : 
+
+hdiutil convert ~/Desktop/'filename.dmg' -format UDTO -o ~/Desktop/'filename.iso'
+
+where filename is replaced (twice) par the actual name of your .dmg file, here = Mac OSX Lion 10.7.3 Retail
+
+Hit 'Return' key (= 'Enter'), and a .iso.cdr file will be created on your desktop.
+
+Is that converted file recognized on a PC platform?"
+,Daniel_35,2012-02-26T21:57Z,Hi thanks i have confert my dmg to iso and burned in windows 7 it works ;-)
+,tyson63,2012-03-08T12:44Z,"I had the same problem couldnt convert it to .iso...did some research and here is what to do:
+
+1) Open your downloaded .dmg file using 7-zip file manager (winrar doesn't support Xars)
+
+2) Go into the InstallMacOSX.pkg folder
+
+3) Extract the ""InstallESD.dmg"" :)
+
+4) Now you have a valid dmg file
+
+5) Convert this new .dmg with your prefered method to .iso...and enjoy!!
+
+hope this helps you guys, this worked for me!!"
+,pathfx,2012-05-03T21:24Z,"Thanks for sharing ;)
+
+Can anyone confirm that this MAC OSX LION 10.7.3 retail image, here does not have any original buyer information embedded in the image and also that the operating system updates properly without any glitches?
+
+As images downloaded via the Apple App store have buyers info stored in the image and cause problems updating.
+
+Cheers"
+,pathfx,2012-05-08T21:48Z,"Just to confirm this updates via Apple ok.
+
+HOWEVER IN THE FINDER SIDEBAR, 'SHARED' SETTINGS THERE'S TWO NAMES EMBEDDED:
+
+Chris - PC
+David - PC
+
+What other personal details or original buyers settings are hidden in this image?
+
+More so how do you remove them??"

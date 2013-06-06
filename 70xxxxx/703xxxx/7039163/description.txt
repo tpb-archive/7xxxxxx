@@ -1,0 +1,278 @@
+unzip mo tapos copy/paste mo lahat sa gunz folder tapos start mo lng
+
+
+
+
+go to My Computer/C:/Ijji/Gunz/copy and paste files there! or it wont work!
+no need for injector there is injector in the d3d9 and the other d3d9
+Features
+Smoke Grenade Explosion and Flash Bang Explosion effects removed.
+Commands
+------a
+Cheat: Information
+Chat Command: /info
+Description: Display basic character information.
+------
+Cheat: Godmode
+Chat Command: /godmode
+Description: Toggle Godmode.
+------
+Cheat: HP/AP Lock
+Hotkey: ALT + G
+Chat Command: /god
+Description: Toggle HP/AP Lock
+------
+Cheat: Save Location
+Hotkey: HOME
+Description: Save current position.
+------
+Cheat: Instantaneous Transmission
+Hotkey: END
+Description: Teleport to saved position.
+------
+Cheat: Revive
+Hotkey: INSERT
+Chat Command: /revive
+Description: Revive your character.
+------
+Cheat: Stage Leave
+Hotkey: DELETE
+Chat Command: /leave
+Description: Leave the stage youâ€™re in.
+------
+Cheat: Teleport Up / Down
+Hotkeys: PAGE UP and PAGE DOWN
+Description: Teleport up.
+------
+Cheat: Speed Hack
+Hotkeys: ALT + W, A, S, D
+Description: Teleport based on your characterâ€™s direction.
+------
+Cheat: Rejoin
+Chat Command: /rejoin
+Description: Rejoin the stage youâ€™re in.
+------
+Cheat: Lawnmower
+Hotkey: ALT + L
+Chat Command: /lawn
+Description: Toggle lawnmower.
+------
+Cheat: Flipmower
+Hotkey: ALT + F
+Chat Command: /flip
+Description: Toggle flipmower.
+------
+Cheat: Massives
+Hotkey: ALT + M
+Chat Command: /mass
+Description: Toggle massives.
+------
+Cheat: Spawnmower
+Chat Command: /spawn
+Description: Toggle spawnmower.
+------
+Cheat: Butterfly
+Usage: SHIFT
+Chat Command: /bf
+Chat Command: /butterfly
+Description: Toggle butterfly.
+------
+Cheat: Roomrape
+Usage: Right Mouse-Click
+Chat Command: /roomrape
+Description: Toggle roomrape. Training and Team Deathmatch Modes excluded.
+------
+Cheat: Anti-Kick
+Chat Command: /antikick
+Description: Toggle anti-kick.
+------
+Cheat: Wireframe
+Chat Command: /wire
+Description: Toggle wireframe.
+------
+Cheat: Ninja Step
+Usage: Tilde (~) and Middle Mouse-Click
+Chat Command: /nstep
+Chat Command: /ninjastep
+Description: Toggle ninja step. Use tilde (~) to â€œlag outâ€ or leave the void and middle mouse-click to re-enter the visible spectrum.
+------
+Cheat: No Fog
+Chat Command: /nofog
+Description: Toggle no fog.
+------
+Cheat: Chat Spam
+Chat Command: /spam <message>
+Example: /spam Hello World!
+Description: Spam the lobby, game room, or in-game chat with the specified message.
+------
+Cheat: Disable Chat Spam
+Chat Command: /spam
+Description: Turn off chat spam.
+------
+Nuke Weapons:
+1 â€“ Grenade
+2 â€“ Rocket
+3 â€“ Flash Bang
+4 â€“ Smoke Grenade
+6 â€“ Medical Kit
+8 â€“ Adam Grenade
+9 â€“ Canox Grenade
+------
+Cheat: Pulse Nuke
+Usage: Right Mouse-Click
+Chat Command: /pulse <nuke_weapon>
+Description: Enable pulse nuke and select weapon.
+------
+Cheat: Disable Pulse Nuke
+Chat Command: /pulse
+Description: Turn off pulse nuke.
+------
+Cheat: Spectator
+Chat Command: /spec
+Chat Command: /spectate
+Description: Toggle spectator mode.
+------
+Cheat: Respawn
+Chat Command: /respawn
+Description: Respawn on command.
+------
+Cheat: Release
+Chat Command: /killcam
+Chat Command: /release
+Description: Release the observer camera.
+------
+Cheat: Anchor
+Chat Command: /anchor
+Description: Toggle Anchor.
+------
+Cheat: Stage Start
+Chat Command: /start
+Description: Start the current stage youâ€™re in (must be stage master).
+------
+Cheat: Aimbot
+Chat Command: /aimbot
+Description: Toggle Aimbot; locks crosshair on last attacker.
+------
+Cheat: Aimfix
+Chat Command: /aimfix <player_name>
+Example: /aimfix CoolGuy213
+Description: Locks your crosshair the specified player.
+------
+Cheat: Disable Aimfix
+Chat Command: /aimfix
+Description: Turn off aimfix.
+------
+Cheat: Follower
+Chat Command: /attach <player_name>
+Example: /attach CoolGuy213
+Description: Follow the specified player.
+------
+Cheat: Disable Follower
+Chat Command: /attach
+Description: Turn off follower.
+------
+Cheat: Instantaneous Teleportation
+Chat Command: /goto <player_name>
+Description: Teleport to the specified player.
+------
+Cheat: Blast
+Chat Command: /blast
+Description: Outputs remaining ammunition on last attacker (must be within close range).
+------
+Cheat: Create Character
+Chat Command: /create <char_name>
+Example: /create CoolGuy213
+Description: Show timer variable.
+------
+Cheat: Character Attributes
+Chat Command: /char <sex> <hair> <face> <costume>
+Example: /char 0 0 3 5
+Description: Select character attributes for character creation.
+------
+Cheat: Create Clan
+Chat Command: /crclan <clan_name>
+Example: /crclan Cool Guys
+Description: Create a clan with the specified clan name and selected members.
+------
+Cheat: Dodge
+Chat Command: /dodge
+Description: Teleport out of range.
+------
+Cheat: Finish
+Chat Command: /finish
+Description: Finish game.
+------
+Cheat: Show Gametype
+Chat Command: /gametype
+Description: Show current gametype.
+Gametypes:
+0 â€“ Deathmatch
+1 â€“ Team Deathmatch
+2 â€“ Gladiator
+3 â€“ Team Gladiator
+4 â€“ Assassination
+5 â€“ Training
+6 â€“ Survival
+7 â€“ Quest
+8 â€“ Deahmatch + Berserker
+9 â€“ Team Deathmatch + Extreme
+10 â€“ Duel Match
+------
+Cheat: Change Gametype
+Chat Command: /gametype <gametype_id>
+Example: /gametype 5
+Description: Change your gametype to the specified type.
+------
+Cheat: Show Team
+Chat Command: /team
+Description: Show selected team.
+Teams:
+0 â€“ Gold Team
+1 â€“ Invisible Team
+2 â€“ Red Team
+3 â€“ Blue Team
+------
+Cheat: Change Team
+Chat Command: /team <team_id>
+Example: /team 2
+Description: Change current team.
+------
+Cheat: Show Map
+Chat Command: /map
+Description: Show game map and selected map.
+------
+Cheat: Change Map
+Chat Command: /map <map_name>
+Example: /map Battle Arena
+Description: Change map to specified string.
+------
+Cheat: Show Stage State
+Chat Command: /state
+Description: Show stage state variable.
+Stage States:
+0 â€“ Non-Ready
+1 â€“ Ready
+2 â€“ Shop
+3 â€“ Inventory
+------
+Cheat: Change Stage State
+Chat Command: /state <stage_state>
+Example: /state 1
+Description: Change stage state to specified state.
+------
+Cheat: Show Delay
+Chat Command: /delay
+Description: Show delay variable.
+------
+Cheat: Change Delay
+Chat Command: /delay <milliseconds>
+Example: /delay 15
+Description: Change the delay, each hack operates at, to specified value.
+------
+Cheat: Show Time
+Chat Command: /time
+Description: Show current time and date.
+------
+Cheat: Show Help
+Chat Command: /help
+Description: Show help commands.

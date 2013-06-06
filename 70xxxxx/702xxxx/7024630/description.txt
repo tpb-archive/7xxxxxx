@@ -1,0 +1,103 @@
+-------------------------------------------------
+# General Information
+-------------------------------------------------
+Release Date: 26 Sep 2011
+Genre: Action (Shooter) / Strategy (Real-time) / 3D / 1st Person / Online-only
+Developer: InterWave Studios
+Publisher: InterWave Studios
+Text Language: Czech / English / German / Russian
+Sound Language: English
+Publication Type: License / Steam-Rip
+Crack: REVOLUTiON
+
+-------------------------------------------------
+# About the Game
+-------------------------------------------------
+Nuclear Dawn is the first game to offer a full FPS and RTS experience, within a single gameplay model, without crippling or diluting either side of the game.
+
+As a soldier, explore war-torn post-apocalyptic landscapes, modelled on modern cities, and take the fight to your enemies as armoured, assault or stealth infantry, using various weapons across ten distinct load-outs to accomplish your objectives. The first person shooter action in Nuclear Dawn is hard, fast and unforgiving, with weapons that rely on skill and tactics more than on twitch reflexes and map memorization.
+
+Then, take Nuclear Dawn above the action, and play as the commander. Organize your fellow players in squads, and assign them to tactical objectives. Plan the resource routes for your army, and production of your structures for forward deployment. Exploit the terrain and resource point locations to block your enemiesâ€™ advance, and crush their plans in an iron fist. Research and implement new technologies to give your soldiers the edge on the battlefield, and set up forward bases to lead the assault on your enemies, with a full complement of defensive and offensive structures to choose from, to build your perfect fortress.
+
+-------------------------------------------------
+# Features
+-------------------------------------------------
+* Two factions: The Empire and the Consortium have completely separate base-building paradigms.
+
+* RTS commander: Produce structures, research advanced technologies, unleash devastating strikes on the enemy, and lead your team to victory as a RTS commander.
+
+* Four classes: Each faction has four classes with various kit load outs, totalling over three dozen weapons.
+
+* Squad up: Squad-based 32 player full warfare battle mode.
+
+* Six maps: Travel across the largest, most detailed maps built in Source multiplayer to date.
+
+* Advanced Weaponry: As a commander, judiciously dispense healing to your troops, and death to their enemies, by managing your advanced abilities.
+
+* Stats and Unlocks: 60 ranks, 12 unlocks for each weapon, achievements, gizmos and more.
+
+* Source Powered: Based on the L4D2 engine and modified to bring you the ultimate online battle experience.
+
+* Steam Powered: Available for both Mac and PC through Steamplay with Steam Cloud support.
+
+-------------------------------------------------
+# System Requirements
+-------------------------------------------------
+* OS: Windows 7 32/64-bit / Vista 32/64 / XP or higher
+* Processor: Intel Core 2 Duo 2.4GHz or equivalent
+* Memory: 2GB
+* Hard Disk Space: 6GB of free HDD space
+* Video Card: Video card must be 128 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 2.0b (ATI Radeon HD 2900 - NVidia GeForce 8800)
+* Sound: DX 9.0c compatible sound card
+
+-------------------------------------------------
+# Screenshots
+-------------------------------------------------
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/action_1.png
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/action_2.png
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/action_3.png
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/action_4.png
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/action_5.png
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/action_6.png
+* http://www.nucleardawnthegame.com/sites/nucleardawnthegame.com/files/rts_silo.png
+
+-------------------------------------------------
+# No Steam Installation
+-------------------------------------------------
+1. Create game folder in different place.
+
+2. Copy content from nuclear dawn folder, into game folder.
+
+3. Copy content from no steam folder, into game folder with file replacement.
+
+4. Open rev.ini file, from game folder in your favorite text edior.
+
+5. In [Emulator] section, change value of Language variable on your native language (without space after "=").
+[Emulator]
+Language=Czech, English, German or Russian
+
+6. In [SteamClient] section, change value of PlayerName variable on your nickname (without space after "=").
+[SteamClient] 
+PlayerName=Your nickname
+
+7. Save and close rev.ini file.
+
+8. Run revLoader.exe file from game folder.
+
+-------------------------------------------------
+# Steam or Cracked Steam Installation
+-------------------------------------------------
+1. Copy content from .ncf folder, into steamapps subfolder of your Steam client installation folder.
+
+2. Copy nuclear dawn folder into steamapps\common subfolder of your Steam client installation folder.
+
+3. Run game from Steam library.
+
+-------------------------------------------------
+# Dedicated servers
+-------------------------------------------------
+* 1 server: connect 188.168.3.177:27015
+* 2 server: connect 80.252.18.50:27015
+* Status: No Steam
+* Working: 24/7
+* Statistics: http://fps.psychoid.ru

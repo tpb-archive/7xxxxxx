@@ -1,0 +1,38 @@
+Have you ever thought about why even the most expensive CPU hardware sometimes doesn't seem to run very fast?
+
+Well, this is happening because a lot of software is running only on one core of your expensive multi-core CPU. So, if you are running a lot of programs or applications together, then all of this software runs on the first core and the rest of your cores are inactive. That means you can not get the power that you paid for.
+
+This is where, FSPS - MultiCore Environment Advanced comes in. An application written especially for these situations comes to cover the gap and increase your CPU power to the full capacity that you have paid for.
+
+What it actually does is sets the affinity mask for each application and stores it. So, if you have an expensive 2 or 4 or 6 physical core CPU, then you can customize each application to run to a specific core or cores thru the profiles.
+
+For example you can set FSX to run on core #2 with Booster and High priority enabled and a scenery enhancement on core #1 with medium or low priority. That means FSX will be the only one running at this core and the benefit will be FSX to get all the power without any other application to bother it.
+
+You can create up to 10 profiles for any kind of .exe file you want and up to 3 groups.
+
+MultiCore Environment - by Flight Simulator Platform Solutions - is, in other words, an application that increases and expands your PC power to another level.
+
+    All kind of multicore CPU
+    Windows 2000 / XP / Vista 32 / Vista 64 / Win7 (32 bit / 64bit)
+    Computer Network TCP/IP
+    Net Framework 3.5 SP1 (or higher) must be installed on that PC
+
+Extra features of Multicore environment advanced version
+
+    Extra Booster for applications
+    Set task priority
+
+Advanced version offers up to 20% of available extra power to the targeted application.
+
+Features of Multicore environment
+
+    You can minimize the program to tray.
+    Auto check for updates
+    Edit profiles
+    Support up to 12 cores
+    Groups executions
+    Manual update
+    Graphics update
+
+
+For FS2004 and For FSX.

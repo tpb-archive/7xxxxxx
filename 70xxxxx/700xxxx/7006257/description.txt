@@ -1,0 +1,140 @@
+Hard Disk Sentinel Pro v4.00 + Key
+
+.exe File Format (Setup File - Key - Instructions)
+
+***********************************************************************************
+
+Hard Disk Sentinel Pro v4.00
+
+Homepage: http://www.hdsentinel.com
+
+
+Hard Disk Sentinel (HDSentinel) is a multi-OS SSD and HDD monitoring and analysis software. Its goal is to find, test, diagnose and repair hard disk drive problems, report and display SSD and HDD health, performance degradations and failures. Hard Disk Sentinel gives complete textual description, tips and displays/reports the most comprehensive information about the hard disks and solid state disks inside the computer and in external enclosures (USB / e-SATA). Many different alerts and report options are available to ensure maximum safety of your valuable data.
+No need to use separate tools to verify internal hard disks, external hard disks, SSDs, disks in RAID arrays as these are all included in a single software.
+Hard Disk Sentinel monitors hard disk drive / HDD status including health, temperature and all S.M.A.R.T. (Self-Monitoring, Analysis and Reporting Technology) values for all hard disks. Also it measures the disk transfer speed in real time which can be used as a benchmark or to detect possible hard disk failures, performance degradations.
+HDSentinel is the perfect data protection solution: it can be effectively used to prevent HDD failure and SSD / HDD data loss because it has the most sensitive disk health rating system which is extremely sensitive to disk problems. This way even a small HDD problem can't be missed. The Professional version has scheduled and automatic (on-problem) disk backup options to prevent data loss caused by not only failure but by malware or accidental delete also.
+
+HDD Sentinel runs in the background and verifies SSD / HDD health status by inspecting the SMART status of the disk(s). If an error is found or unexpected behaviour is detected, it warns the user about the current situation and also can perform appropriate actions (for example, start an automatic backup).
+Usually, hard disk health status may slowly decline, from day to day. The SMART monitoring technology can predict HDD failure by examining the critical values of the disk drive. Compared to other software, Hard Disk Sentinel detects and reports every disk problem. It is much more sensitive to disk failures and can display better and more detailed information about hard disk expected life and the problems found (if any). This is a more sophisticated way to predict failures than the "traditional" method: checking S.M.A.R.T. attribute thresholds and values only. For more information, please read how hard disk S.M.A.R.T. works and why Hard Disk Sentinel is different.
+The software displays the current hard disk temperature and logs maximum and average HDD temperatures. This may be used to check the maximum temperature under high hard disk load. For the importance of the hard disk operating temperature, see the Frequently Asked Questions. Please click here to see the list of features or our products for hard disk monitoring.
+
+If you are using a computer equipped with at least one hard disk or solid state disk and you want to ensure that your data will be available any time, then the answer is YES. Hard Disk Sentinel is especially designed to you if
+-you are using multiple hard disks / SSDs in your computer (IDE / Serial ATA (S-ATA, e-SATA) / SCSI / SAS / USB) or in an external enclosure
+-(check the hardware compatibility pages for the list of compatible hardware)
+-you are using a mobile / removable rack or enclosure with hard disk inside
+-you are using notebook computer
+-you are using server or desktop computers with high disk load
+-you want to maximize system stability, HDD performance and overall integrity, receive HDD alert on high temperature or low health
+
+-you do not want to lose your sensitive and valuable data, do not want to pay for HDD recovery 
+It is much better to avoid HDD failure than use HDD recovery. Be alerted and prevent HDD data loss with HDSentinel ! Be your HDD life healthy.
+
+Solid state disks do not contain any moving parts. Because of this, they may tolerate physical vibrations and shock better than hard disks. But they have other kind of problems: write cycles wear the electronic parts so lots of delete and write operations may also damage them. Wear leveling feature can help in this situation but the problem is not fully eliminated.
+Current SSD technology also has another problem: solid state disks may "forget" data with time. To prevent this, periodic complete overwrites can refresh the storage device - but because of its nature this also reduces the lifetime of the solid state disk.From the viewpoint of the computer and software, SSD devices act like hard disks. They support many features of hard disks, including S.M.A.R.T. and this allows Hard Disk Sentinel to detect and display health and lifetime also for solid state disks. This is true for most modern SSD devices from Intel, MTron, OCZ, Samsung, etc. Check the Solid State Disk Compatibility for more details.
+Hard Disk Sentinel can detect and display SSD health also. This may help to identify when the SSD needs to be replaced to prevent data loss from it.
+Further SSD support is constantly added to new versions. If you are using any type of solid state disks or hybrid disks, please use the Send test report to developer option. All reports help in future development to display solid state disk health of different type of SSDs also.
+
+
+Features:
+==========
+Easy to use interface:
+-----------------------
+All information are displayed in the main window of the application. Quick controls allow easy navigation to access all hard disks, partitions and different information. Intuitive user interface elements display information by using green/yellow/red color to indicate the level of problem. Detailed text description and context sensitive help guides the user thru the features and options.
+
+1. Install > 2. Configure > 3. Stay protected:
+-----------------------------------------------
+Just install, configure alerts and backup functions and your system is now safe. You'll be notified about the problems - but if everything is correct, Hard Disk Sentinel just sits on tray and displays current status. The data is protected 24 hours daily, 7 days a week.
+
+Disk Management:
+-----------------
+Control Advanced Power Management level and adjust Free Fall Control sensitivity of hard disks to maximise hard disk performance and data safety.
+
+Backup:
+--------
+Wide range of automatic backup methods are available: to backup data to local computer, to a LAN server or to a remote server by transferring files via FTP (or even by e-mail). It is possible to use 3rd party tools to create archives or burn CD/DVD media. Hard Disk Sentinel Professional can manage power status of remote computers in the network, so it is possible to automatically power on and shut down remote computers, for example a backup server.
+
+API Interface For Developers:
+-------------------------------
+With the API it is possible to query detected hard disk information from the software. This way 3rd party software can log, display or otherwise process detected disk information including temperature, health and so.
+
+Remote Monitoring:
+-------------------
+Hard Disk Sentinel Professional offers extensive remote monitoring capabilities. Hard disk status can be checked remotely by a web browser, even by a mobile phone or a PDA.
+
+Instant S.M.A.R.T. analysing:
+------------------------------
+Hard Disk Sentinel can communicate with IDE, Serial ATA, SCSI and most USB HDD and SSD to detect their status and temperature. Disk status are displayed immediately as you launch the application, there is no need to analyse disks for a long period. It displays the current and maximum temperature for the hard disk. It reads all general and vendor-specific attributes and monitor their values. For advanced users, all raw data are displayed also including power-on time and number of read/write errors. Hard Disk Sentinel interprets the performance and fitness related S.M.A.R.T. values and displays the calculated Performance and Health percentage, total power on time and estimated lifetime remaining.
+
+Hard Disk Hardware and Software Tests:
+---------------------------------------
+By using Hard Disk Sentinel, it is possible to start hardware hard disk self tests. These tests can be used to effectively find all hard disk problems because built-in hardware methods are used to verify hard disk components (for example heads, servo, internal buffer in the Short self test). The Extended self test also verifies the complete disk surface, finds and repairs all weak areas and re-allocates the possible bad sectors. This is not possible with the software-based disk surface scan methods (for example, by using scandisk).
+
+Seek Noise Test:
+-----------------
+Seek Test - to verify hard disk noise, seek time performance and temperature. Longer tests can be used as very deep and intensive stress-tests for the disk system and useful to verify if additional cooling is required.
+
+Enhanced Disk Tests:
+---------------------
+Surface Test - to verify hard disk surface with intensive disk testing methods to reveal and fix disk problems. Surface reinitialisation resets all sectors to factory default states. Different destructive and non-destructive tests are available to re-fresh the condition of any hard disks, solid state disks or even your pendrives or memory cards.
+
+Logging:
+---------
+Hard Disk Sentinel logs all degradations in all SMART parameters and issues alerts in such cases to maximise data protection. For example, if a new bad sector is found on your hard disk, you will be notified.
+
+Alerts:
+--------
+Hard Disk Sentinel has wide range of alerts upon different problems. It can send e-mail (with e-mail->SMS gateway it can be SMS warning to your mobile), network message, can play sound alerts and so.It can execute various tasks (automatic panic backup or any configured external applications) in case of a problem.There is an option to send daily emails about current status.
+
+Shutdown:
+----------
+Offers option to shut down the computer on hard disk failure, HDD overheat or health degradation. This option can be used in combination of the alerts to prevent further data loss.
+
+Hard Disk Details:
+-------------------
+Detects and displays every information about the hard disk, from the revision number and buffer size to all features it has. The maximum available and current transfer modes are also displayed.
+
+HDD status in Windows Explorer:
+--------------------------------
+View the current health status and used space in Windows Explorer or in any other application, so you'll always know the amount of used space for each partitions and the disk condition.
+
+Information on demand:
+-----------------------
+Current hard disk temperatures and health are displyed on the system tray and can be displayed in a small status window, the desktop itself or in a sidebar gadget (under Windows Vista or newer operating system). Average and maximum temperatures are logged for all hard disks and these informations are displayed in graphs for statistical purposes.
+
+Hard Disk Performance:
+-----------------------
+Logs how much data were read from or written to the hard disk. Displays current transfer rates for both reading and writing and estimates the maximum available (theoretical) transfer rate for a particular hard disk.
+
+Hard Disk Partitions:
+----------------------
+Displays partitions for each physical hard disks and type and usage informations about them so you cannot run out of space. Hard Disk Sentinel sends this information automatically in alert/status messages.
+
+Acoustic Management:
+---------------------
+Offers option to control the acoustic level of IDE/S-ATA hard disk. It is possible to increase performance or make the disks more silent. Unique feature: control the acoustic level of your external USB hard disk (if your USB enclosure is equipped with proper USB-ATA bridge chip which supports this feature).
+
+Clock Synchronization:
+-----------------------
+It offers option to synchronize the PC clock with an atomic clock via NTP (Network Time Protocol).
+
+
+System Requirements:
+======================
+-Pentium or compatible CPU
+-32 megabytes of system memory
+-15 megabytes of hard disk space
+-Windows operating system (Windows 95, 98, 98SE, ME, NT4, 2000, XP, 2003, 2008, Vista, Windows 7, Windows Home Server) both 32 and 64 bit versions
+-System administrator account (in service mode, it is possible to use without administrator rights and without even user logged in)
+-One or more hard disk or solid state disk with ATA (IDE or Serial ATA/SATA II), SCSI, SAS, USB interface.
+USB hard disk support depends on the USB-ATA bridge chips.
+Other type of external disks (USB or IEEE 1394) are NOT supported because the hard disk controller chip in the external enclosure does not support the detection of S.M.A.R.T. information.
+
+***********************************************************************************
+
+
+Tested And Working...
+Scanned (With Kaspersky) And 100% Clean.
+
+(If You Found Something "Un-Clean" In Any Of My Torrents, Consider That It May Be A False Positive(Alert) And If you Are Sure Please Report It To Me So I Would Remove It)
+
+[Please Leave A Comment Confirming This Pack]

@@ -1,0 +1,344 @@
+﻿User Type,Username,Date,Text
+,BigTaizy,2012-02-14T05:04Z,It just launches to a black screen for me. Anyone know a fix?
+,go6ovei,2012-02-14T09:56Z,Press ENTER or SPACE key
+,alejo2460,2012-02-14T21:54Z,Esta en espa単ol??
+,go6ovei,2012-02-14T22:33Z,"Language
+English
+Deutch
+Espaniol
+Francais
+Russ"
+,mikehouston09,2012-02-15T03:49Z,great torrent work very good in lion thanks
+,mikehouston09,2012-02-15T12:47Z,can u post  a gta vice city
+,overhiself,2012-02-15T15:54Z,"Please help when it launches for me it goes throughout the start game and menus are fine but as soon as i start new game it says ?  Im using a 2week old macbook pro 2.4 GHz Intel Core i5 with 
+4 GB RAM running LION please help !!!!"
+,overhiself,2012-02-15T16:01Z,"IGNORE FIRST COMMENT PLEASE
+
+
+Please help when it launches for me it goes throughout the start game and menus are fine but as soon as i start new game it says error and the graphics are all messed up like being in pre production mode Im using a 2week old macbook pro 2.4 GHz Intel Core i5 with 
+4 GB RAM running LION please help !!!!"
+,ahmadammar15,2012-02-15T17:01Z,"I have mac 1.7.1 i download the , not work why?"
+,go6ovei,2012-02-15T18:33Z,ahmadammar15-what MAC 10.7.1?I play the Game on Hackintosh 10.7.3 without problem
+,ahmadammar15,2012-02-15T23:52Z,"I have version 1,7,1 , don`t work on me mac? why? i click in the program don`t work ? please help me 
+sorry on me engeslih"
+,go6ovei,2012-02-16T00:52Z,"For ahmadammar15 instruction
+first download zip torrent
+two unzip with Archive Utilities
+three put app on Lion hdd/Application folder
+four run game
+five GET 10.7.3 UPDATE FROM APPLE"
+,swordygun,2012-02-16T08:50Z,"@overhiself
+
+hmm.. It may be that since this GTA SA is modded
+u might need to either take out the mods that may be causing the error or u might want to find another torrent.But if u want to take a look at ur mods then rite click GTA SA app, and show package contents/Contents/resources/transgaming/c_drive/rockstar games/GTA SA/and there might be a CLEO file there"
+,go6ovei,2012-02-16T17:06Z,swordygun-Where is problem with Mod?if you want pay game and play without Modded
+,ivoperez,2012-02-17T01:54Z,"stopped workin on the loading screen,  how can i fix this?"
+,ahmadammar15,2012-02-17T14:25Z,Im have gta iv how to by polis mods?  (on mac)
+,s3kahell,2012-02-17T23:33Z,"Working great on 10.7.3.Anybody having problem with game quitting as soon as it launches, just update to 10.7.3.Thanks Uploader."
+,go6ovei,2012-02-18T00:20Z,"This day i run game on 10.8,work great on Beta"
+,unfitcombatliam,2012-02-18T03:28Z,"can people please SEED , desprately needed , "
+,gaspargomez1,2012-02-19T23:26Z,"Hey, 
+
+Thanks for the upload, it seems to be running fine for me, only problem is the res.. its on the most basic res, and when i try to increase it, i get some areas of the screen cut off (i.e res increases but visible area remains at basic size)
+
+any help would be great :)"
+,go6ovei,2012-02-19T23:50Z,"yesterday i tested all my uploaded game in to OS 10.8 beta,every game work like sharm without problem.
+DOWNLOAD GAME AND SEED AFTER"
+,gaspargomez1,2012-02-20T02:23Z,Fixed my earlier problem by going into the wineskin setting and changing the res to full screen
+,alejo2460,2012-02-20T16:41Z,"Hey this is my mistake, someone can help me?
+
+Unhandled exception: page fault on read access to 0x01790000 in 32-bit code (0x005b6a70).
+Register dump:
+ CS:001b SS:0023 DS:0023 ES:0023 FS:1007 GS:000f
+ EIP:005b6a70 ESP:0177f770 EBP:00000001 EFLAGS:00210297(  R- --  I S -A-P-C)
+ EAX:0178ffff EBX:00000000 ECX:00b4e681 EDX:020f4100
+ ESI:00000029 EDI:0177f858
+Stack dump:
+0x0177f770:  003c2da0 00b71848 02113c38 00000000
+0x0177f780:  00000001 00b4e681 003c2dc0 00000003
+0x0177f790:  00000001 00000001 43fb9228 001c90a8
+0x0177f7a0:  0000000a 00000005 0077f7c8 435fee7c
+0x0177f7b0:  00000000 00000000 00000320 00145d88
+0x0177f7c0:  00164c70 00000001 0177f818 43f61feb
+0200: sel=1007 base=7ffc0000 limit=00000fff 32-bit rw-
+Backtrace:
+=>0 0x005b6a70 in gta_sa (+0x1b6a70) (0x00000001)
+0x005b6a70: movb	0x1(%eax),%dl
+Modules:
+Module	Address			Debug info	Name (45 modules)
+ELF	       0-82001000	Stabs           
+PE	  230000-  240dbc	Deferred        vorbishooked
+PE	  250000-  259000	Deferred        ogg
+PE	  260000-  368000	Deferred        vorbis
+PE	  370000-  3a0000	Deferred        eax
+PE	  3a0000-  3eb000	Deferred        cleo.asi
+PE	  3f0000-  3f4000	Deferred        filesystemoperations.cleo
+PE	  400000- 1577000	Deferred        gta_sa
+PE	 1fd0000- 1fd5000	Deferred        inifiles.cleo
+PE	 1fe0000- 1fe4000	Deferred        intoperations.cleo
+PE	10000000-1000206c	Deferred        vorbisfile
+PE	11000000-11055000	Deferred        bass
+PE	401b0000-401bb000	Deferred        winmm
+PE	40590000-40594000	Deferred        advapi32
+PE	40790000-40794000	Deferred        version
+PE	407a0000-407a4000	Deferred        msacm32
+PE	407d0000-407d4000	Deferred        ws2_32
+PE	434a0000-434ce000	Deferred        user32
+PE	435f0000-435f4000	Deferred        gdi32
+PE	436c0000-436c8000	Deferred        ole32
+PE	43800000-43804000	Deferred        rpcrt4
+PE	43920000-43924000	Deferred        winex11
+PE	43af0000-43af4000	Deferred        imm32
+PE	43b30000-43b34000	Deferred        msvcrt
+PE	43e10000-43e14000	Deferred        ddraw
+PE	43e90000-43e94000	Deferred        wined3d
+PE	460b0000-460b4000	Deferred        dsound
+PE	46110000-46113000	Deferred        avicap32
+PE	46130000-46134000	Deferred        mmdevapi
+PE	46170000-46177000	Deferred        oleaut32
+PE	46290000-46293000	Deferred        winecoreaudio
+PE	462c0000-462c4000	Deferred        dinput8
+PE	46580000-46584000	Deferred        dinput
+PE	465c0000-465c4000	Deferred        uxtheme
+PE	46680000-466a0000	Deferred        comctl32
+PE	46780000-46784000	Deferred        d3d9
+PE	467f0000-467f3000	Deferred        msacm32
+PE	47510000-47514000	Deferred        msvfw32
+PE	479d0000-479d6000	Deferred        quartz
+PE	47ac0000-47ac4000	Deferred        shlwapi
+PE	47b40000-47b44000	Deferred        devenum
+PE	47c10000-47c13000	Deferred        midimap
+PE	47c30000-47c33000	Deferred        wineqtdecoder
+PE	7b810000-7b939000	Deferred        kernel32
+PE	7bc10000-7bc14000	Deferred        ntdll
+Threads:
+process  tid      prio (all id:s are in hex)
+00000008 (D) C:\Program Files\GTA San Andreas\gta_sa.exe
+	00000035    0
+	00000034    0
+	00000031    0
+	00000030    0
+	0000002d    0
+	0000002c    0
+	0000002b    0
+	0000002a   15
+	00000029    2
+	00000028   15
+	00000027   15
+	00000025    0
+	00000024    0
+	00000009    0 "
+,RockCityWanker,2012-02-21T11:35Z,"Anyone know how to fix Sound/Audio? all i can hear is the radio stations!
+
+thanks"
+,juploop,2012-02-28T17:58Z,"It won't even launch for me! Before updating to 10.7.3 it would launch, but with the same graphics messed up problem as overhiself. Now, after updating and trying for a little while, it shuts down immediately after I try to launch it. Any help please? :("
+,armank,2012-03-13T13:06Z,"i have same problem with RockCityWanker
+anybody knows how to fix it?"
+,qwrty134,2012-04-02T19:29Z,"got a problem with the camera on foot with keyboard + mouse. keeps spinnig until it faces carl so you can't see or shoot properly. Deleted mods, changed mouse controls etc. Help!
+Otherwise good torrent and runs smoothly with vehicles"
+,ginger123456,2012-04-05T20:16Z,"Downloaded it totally fine, but when I'm opening the .zips all it's doing it opening another .zip which opens the first file again, any ideas?"
+,mrbean1905,2012-04-15T14:09Z,Doesn't work on Lion for me. Menus etc are fine but got the error message and crash like the other users reported.
+,Aldini10,2012-04-19T06:33Z,"Does it work on Snow Leopard (10.6.8)?
+Intel Core 2 Duo, ATI 5760 512 MB"
+,cocodevil23,2012-04-23T09:25Z,"hey i have no sound at all, can u fix the prob ?"
+,Gimmix,2012-05-12T01:18Z,"I have the same sound problem too, all i can hear is the radio . I have Mac OSX 10.7.3 . 
+Please HELP ! i love that game"
+,piuloc,2012-05-12T05:18Z,"hi go6ovei, i've seen u make lots of mac-games... btw i've problem like this : (plz have a look )
+
+Unhandled exception: page fault on read access to 0x01790000 in 32-bit code (0x005b6a70).
+Register dump:
+ CS:001b SS:0023 DS:0023 ES:0023 FS:1007 GS:000f
+ EIP:005b6a70 ESP:0177f770 EBP:00000001 EFLAGS:00210297(  R- --  I S -A-P-C)
+ EAX:0178ffff EBX:00000000 ECX:00b4e681 EDX:020f4100
+ ESI:00000029 EDI:0177f858
+Stack dump:
+0x0177f770:  003c2da0 00b71848 02114418 00000000
+0x0177f780:  00000001 00b4e681 003c2dc0 00000003
+0x0177f790:  00000001 00000001 45086228 001c9548
+0x0177f7a0:  0000000a 00000005 0077f7c8 4071ee7c
+0x0177f7b0:  00000000 00000000 00000320 001462d0
+0x0177f7c0:  00165128 00000001 0177f818 4502efeb
+0200: sel=1007 base=7ffc0000 limit=00000fff 32-bit rw-
+Backtrace:
+=>0 0x005b6a70 in gta_sa (+0x1b6a70) (0x00000001)
+0x005b6a70: movb	0x1(%eax),%dl
+Modules:
+Module	Address			Debug info	Name (45 modules)
+ELF	       0-82001000	Stabs           
+PE	  230000-  240dbc	Deferred        vorbishooked
+PE	  250000-  259000	Deferred        ogg
+PE	  260000-  368000	Deferred        vorbis
+PE	  370000-  3a0000	Deferred        eax
+PE	  3a0000-  3eb000	Deferred        cleo.asi
+PE	  3f0000-  3f4000	Deferred        filesystemoperations.cleo
+PE	  400000- 1577000	Deferred        gta_sa
+PE	 1fd0000- 1fd5000	Deferred        inifiles.cleo
+PE	 1fe0000- 1fe4000	Deferred        intoperations.cleo
+PE	10000000-1000206c	Deferred        vorbisfile
+PE	11000000-11055000	Deferred        bass
+PE	401b0000-401bb000	Deferred        winmm
+PE	40590000-40594000	Deferred        advapi32
+PE	40710000-40714000	Deferred        gdi32
+PE	407e0000-407e4000	Deferred        version
+PE	42310000-42314000	Deferred        rpcrt4
+PE	423a0000-423a4000	Deferred        msacm32
+PE	423c0000-423c4000	Deferred        ws2_32
+PE	427e0000-427e4000	Deferred        imm32
+PE	449b0000-449de000	Deferred        user32
+PE	44b00000-44b08000	Deferred        ole32
+PE	44c40000-44c44000	Deferred        winex11
+PE	44e40000-44e44000	Deferred        msvcrt
+PE	44ed0000-44ed4000	Deferred        ddraw
+PE	44f60000-44f64000	Deferred        wined3d
+PE	46280000-46284000	Deferred        dsound
+PE	462e0000-462e4000	Deferred        mmdevapi
+PE	46390000-46393000	Deferred        winecoreaudio
+PE	463d0000-463d4000	Deferred        dinput8
+PE	46510000-46517000	Deferred        oleaut32
+PE	466a0000-466a4000	Deferred        dinput
+PE	466e0000-466e4000	Deferred        uxtheme
+PE	467a0000-467a4000	Deferred        d3d9
+PE	47110000-47130000	Deferred        comctl32
+PE	47290000-47294000	Deferred        msvfw32
+PE	477e0000-477e3000	Deferred        avicap32
+PE	48630000-48636000	Deferred        quartz
+PE	48720000-48724000	Deferred        shlwapi
+PE	487a0000-487a4000	Deferred        devenum
+PE	488c0000-488c3000	Deferred        msacm32
+PE	488d0000-488d3000	Deferred        midimap
+PE	488f0000-488f3000	Deferred        wineqtdecoder
+PE	7b810000-7b939000	Deferred        kernel32
+PE	7bc10000-7bc14000	Deferred        ntdll
+Threads:
+process  tid      prio (all id:s are in hex)
+00000008 (D) C:Program FilesGTA San Andreasgta_sa.exe
+	00000036    0
+	00000035    0
+	00000032    0
+	00000031    0
+	0000002d    0
+	0000002c    0
+	0000002b    0
+	0000002a   15
+	00000029    2
+	00000028   15
+	00000027   15
+	00000025    0
+	00000024    0
+	00000009    0 "
+,piuloc,2012-05-12T05:21Z,"
+	00000009    0 "
+,piuloc,2012-05-12T05:22Z,	00000009    0 
+,piuloc,2012-05-12T05:23Z,"0000000e services.exe
+	00000020    0
+	0000001f    0
+	00000015    0
+	00000010    0
+	0000000f    0
+00000012 winedevice.exe
+	0000001d    0
+	0000001a    0
+	00000014    0
+	00000013    0
+0000001b plugplay.exe
+	00000021    0
+	0000001e    0
+	0000001c    0
+00000022 explorer.exe
+	00000023    0
+System information:
+    Wine build: wine-1.4-rc3
+    Platform: i386
+    Host system: Darwin
+    Host version: 11.4.0"
+,fips72,2012-07-02T17:41Z,"Game doesnt work on Lion 10.7.4
+What i can do?"
+,aminamye10,2012-07-08T07:52Z,"@piuloc
+There's like five people who would actually be able to help you on this site when you only give shit from terminal about your system failing to run a game and none of them are here. I hate people who post that crap. Bottom line, it's not that complicated. It just doesn't work for you so try another torrent. "
+,booiou,2012-07-09T04:35Z,All the sound is so low when I'm not in a cut scene that i can't hear it. Is there a way to fix this? i tried the sound settings but thats not it.
+,go6ovei,2012-08-22T22:28Z,"piuloc@
+What is this?you send your iOreg from terminal or what?is this?
+Unhandled exception: page fault on read access to 0x01790000 in 32-bit code (0x005b6a70).
+Register dump:
+CS:001b SS:0023 DS:0023 ES:0023 FS:1007 GS:000f
+EIP:005b6a70 ESP:0177f770 EBP:00000001 EFLAGS:00210297( R- -- I S -A-P-C)
+EAX:0178ffff EBX:00000000 ECX:00b4e681 EDX:020f4100
+ESI:00000029 EDI:0177f858
+Stack dump:
+0x0177f770: 003c2da0 00b71848 02114418 00000000
+0x0177f780: 00000001 00b4e681 003c2dc0 00000003
+0x0177f790: 00000001 00000001 45086228 001c9548
+0x0177f7a0: 0000000a 00000005 0077f7c8 4071ee7c
+0x0177f7b0: 00000000 00000000 00000320 001462d0
+0x0177f7c0: 00165128 00000001 0177f818 4502efeb
+0200: sel=1007 base=7ffc0000 limit=00000fff 32-bit rw-
+Backtrace:
+=>0 0x005b6a70 in gta_sa (+0x1b6a70) (0x00000001)
+0x005b6a70: movb 0x1(%eax),%dl
+Modules:
+Module Address Debug info Name (45 modules)
+ELF 0-82001000 Stabs
+PE 230000- 240dbc Deferred vorbishooked
+PE 250000- 259000 Deferred ogg
+PE 260000- 368000 Deferred vorbis
+PE 370000- 3a0000 Deferred eax
+PE 3a0000- 3eb000 Deferred cleo.asi
+PE 3f0000- 3f4000 Deferred filesystemoperations.cleo
+PE 400000- 1577000 Deferred gta_sa
+PE 1fd0000- 1fd5000 Deferred inifiles.cleo
+PE 1fe0000- 1fe4000 Deferred intoperations.cleo
+PE 10000000-1000206c Deferred vorbisfile
+PE 11000000-11055000 Deferred bass
+PE 401b0000-401bb000 Deferred winmm
+PE 40590000-40594000 Deferred advapi32
+PE 40710000-40714000 Deferred gdi32
+PE 407e0000-407e4000 Deferred version
+PE 42310000-42314000 Deferred rpcrt4
+PE 423a0000-423a4000 Deferred msacm32
+PE 423c0000-423c4000 Deferred ws2_32
+PE 427e0000-427e4000 Deferred imm32
+PE 449b0000-449de000 Deferred user32
+PE 44b00000-44b08000 Deferred ole32
+PE 44c40000-44c44000 Deferred winex11
+PE 44e40000-44e44000 Deferred msvcrt
+PE 44ed0000-44ed4000 Deferred ddraw
+PE 44f60000-44f64000 Deferred wined3d
+PE 46280000-46284000 Deferred dsound
+PE 462e0000-462e4000 Deferred mmdevapi
+PE 46390000-46393000 Deferred winecoreaudio
+PE 463d0000-463d4000 Deferred dinput8
+PE 46510000-46517000 Deferred oleaut32
+PE 466a0000-466a4000 Deferred dinput
+PE 466e0000-466e4000 Deferred uxtheme
+PE 467a0000-467a4000 Deferred d3d9
+PE 47110000-47130000 Deferred comctl32
+PE 47290000-47294000 Deferred msvfw32
+PE 477e0000-477e3000 Deferred avicap32
+PE 48630000-48636000 Deferred quartz
+PE 48720000-48724000 Deferred shlwapi
+PE 487a0000-487a4000 Deferred devenum
+PE 488c0000-488c3000 Deferred msacm32
+PE 488d0000-488d3000 Deferred midimap
+PE 488f0000-488f3000 Deferred wineqtdecoder
+PE 7b810000-7b939000 Deferred kernel32
+PE 7bc10000-7bc14000 Deferred ntdll
+Threads:
+process tid prio (all id:s are in hex)
+00000008 (D) C:Program FilesGTA San Andreasgta_sa.exe
+00000036 0
+00000035 0
+00000032 0
+00000031 0
+0000002d 0
+0000002c 0
+0000002b 0
+0000002a 15
+00000029 2
+00000028 15
+00000027 15
+00000025 0
+00000024 0
+
+me not understand line 00000009 0 
+i play this game on 10.8 Puma without problem.
+PS-my PC is Hackintosh,and game run like sharm!"

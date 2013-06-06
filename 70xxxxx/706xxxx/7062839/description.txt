@@ -1,0 +1,36 @@
+A complete Live (GNU/LINUX) distribution for musicians and professionals studios
+Tango Studio is based on Ubuntu Lucid 10.04.4 to provide long term support
+It provide a suite of the best open-source applications available for audio creation.
+An optimized and pre-configured system for wishing zicos produce, create, record without taking the head
+Completely free to use, modify and redistribute... Your only limitation is your imagination Complice
+
+Release Notes 1.2
+
+Now based on Ubuntu Lucid Lynx 10.04.4
+All repository upgrades are included in the new Live DVD
+Kernel is upgraded into 2.6.32-38 lowlatency. 3.0.0 and 2.6.33 kernels are as well available in the repository
+The bug that made ubiquity installer ask for a password has been fixed
+All TS extra repositories are now configured, but inactive by default
+In order to have a cleaner base, a few audio apps are not installed by default anymore : the non* suite, aeolus, freebirth, freecycle, nanonoise, tk707, timidity, lashd, sweep, genpo and rezound ( they remain in the repository, so that you can install what you really need)
+Snd-hrtimer module is now loaded on startup. Sequencers will gain in performance and accuracy
+Loading of firewire module required by some chipsets has been fixed and you now have the ability to automatically switch to the new juju stack
+The swap is now activated when there is more than 10% of RAM
+Volti and Aumix-gtk are replaced by the original gnome-volume-control applet
+Rtkit package is not installed by default, as it is only used by pulseaudio
+Glipper clipboard is replaced by Parcellite
+Asunder CD ripper is replaced by Rubyripper
+Gimp and Gthumb are now installed by default
+New audio and midi tools installed by default : Simplesysexxer, Qrest and Gxtuner
+New score editors installed by default : Tuxguitar and Frescobaldi2
+New tonewheel organs installed by defalut : Foo-yc20 et Azr3-jack
+Kernel 'ondemand' energy management has been disabled. Kernels are now tuned for performance
+'RAR' archives are now handled via tangostudio-restricted-extras meta-package
+Openjdk-6 now replaces sun-java6, in order to comply with new license
+A new gnome taskbar, with the 'show desktop' button, has been added at the bottom of the screen. The Window List applet has been moved to this new taskbar 
+http://tangostudio.tuxfamily.org/en/tangostudio
+ 
+http://tangostudio.tuxfamily.org/en/licence 
+http://tangostudio.tuxfamily.org/forum/
+
+md5sum : ba470c372f5b4c9ed883d2a4e95fb0b3  tangostudio-1.2-desktop-i386.iso
+sha1sum : b4e2c41909f84fac16d0716cca10e980d7884e75  tangostudio-1.2-desktop-i386.iso

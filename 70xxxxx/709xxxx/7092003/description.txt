@@ -1,0 +1,19 @@
+Application for recording all your Phone Calls.
+
+Because of the hardware limitation for some devices it only records voice from one side.
+Please try "Lite Version" to see how it works.
+
+Also provides following features:
+# Play/Delete/Rename recorded files.
+# Send recorded files via email.
+# Manage favorites.
+# Auto recording feature.
+# Password protection.
+# Custom settings.
+
+Permissions required by Call Recorder
+
+Read only access to phone state.
+Write to external storage
+Record audio
+Monitor, modify, or abort outgoing calls.

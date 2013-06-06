@@ -1,0 +1,131 @@
+AirUbuntu v4 [CodeName Orion]
+
+Lista de Programas:
+
+Cracking WEP:
+
+* WEPCrackGUI v0.9.2 2012
+* gelix-wifi-cracker-ng
+* FeedingBottle
+* GrimWepa
+* WEPBuster
+* Airoscript v2.2
+* AiroStorm for MDK3
+* AutoCrack v4.4
+* BashWEP v2.0
+* RocKHounD Wireless
+* SpoonWEP 2
+* WEPCrack
+* WEPPasscreator v1.0
+* Wiffy v1.0
+* WifiJammer v0.1
+* WifiTap v0.4.0
+* Wifite v68
+* Aitoskript-SK v2.0[ESP]
+* Fern Wifi Cracker
+
+Cracking WPA:
+* HashCat-GUI
+* oclHashCat for ATI
+* oclHashCat for Nvidia
+* Inflator v1.0
+* Reaver v1.4
+* Walsh v1.4
+* WPSCrack
+* WPScan
+* WPSpy
+* WPSig
+* Airoscript v2.2
+* coWPAtty v4.6
+* GenPMK v1.1
+* Pyrit v0.4.0
+* SponWPA 2
+* WiFi Honey
+* WPA GUI
+* WPAPasscreator v1.0
+
+
+Brute Force:
+
+* Cewls
+* Diccio
+* SGen v1.3
+* -[ wyd.pl ]-
+* CUPP v3.1
+* Airoscwordlist
+* BruteForge v0.56
+* John the Ripper v1.7.8
+* Giga Wordlist Creator v1.0
+* Word Generator (wg.pl)
+
+
+Cifrados:
+
+* Dec-Sagem
+* mac2wepkey
+* R-WlanXDecrypter
+* tele2dic v0.2
+* WlanReaver v0.5
+* WPAmagickey v0.2.4
+
+
+Configuraciones:
+
+* AirISOv4
+* Alfatools v1.0.0
+* MADWifi-Unload
+* Back|TrackRepo
+
+
+Herramientas:
+
+* Wifi Radar
+* MACChanger-GTK
+* EtterCap
+* Wireshark
+* NmapSI4
+* WeakIVGen
+* pCap-getIV
+* Driftnet
+* Charon v2.0
+* AP-Fucker
+* Ghost Phisher
+* GISKismet
+* Ubuntu Tweak
+
+
+Tutoriales:
+
+* Introduccion y Entorno
+* Cracking WEP
+* Discover ESSID
+* Cracking WPA
+* Construccion Diccionario
+* MAC Spoofing
+* AlfaTools
+* Passcreator
+
+
+Chipset Soportados:
+
+Vamos a hacer una aclaraciÃ³n, no soy mago, tampoco tengo suficiente dinero para comprar multiples placas para darle soporte a chipsets raros, desde mi punto de vista y si te gusta AirUbuntu, no preguntes si el ATHRTLXXXXcubsulse tiene soporte, verificalo tu mismo. Si encuentras que tiene soporte entonces hazlo saber asÃ­ otras personas que busquen lo mismo que te preguntabas podrÃ¡n saberlo y si es que no tiene soporte tambiÃ©n hazlo saber y trataremos de ver como crear un parche para darle soporte a tu chipset; actualmente se verifico soporte para:
+
+
+* RTL8187L (200 datas/s).
+* RTL8187B (200 datas/s).
+* RTL8192se (200 datas/s). [sin driver]
+* AR9271 (700 datas/s). [9k]
+
+
+Posibles soportes:
+
+* Atheros 5k
+* RT3070
+* Integradas.
+
+
+InformaciÃ³n Adicional:
+Gracias al nuevo kernel la DistribuciÃ³n Orion pesa unos 1,7GB, se han agregado aproximadamente 80 programas, mÃ¡s de 2000 librerÃ­as, soporte para varios chipsets, nuevos tutoriales, etc.
+
+Como verÃ¡n algunos de los programas que estaban en las distribuciones anteriores no estÃ¡n en Orion, esto fue por no lograr que estos trabajen correctamente. Por lo tanto se le darÃ¡ soporte mediante actualizaciones si es que este programa puede ser adaptado a AirUbuntu.
+

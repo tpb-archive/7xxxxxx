@@ -1,0 +1,7 @@
+
+
+
+A redistributable package installs the .NET Framework runtime and associated files that are required to run most client applications.
+
+The Microsoft .NET Framework 4 Client Profile provides a subset of features from the .NET Framework 4. The Client Profile is designed to run client applications and to enable the fastest possible deployment for Windows Presentation Foundation (WPF) and Windows Forms technology. Application developers who require features that are not included in the Client Profile should target the full .NET Framework 4 instead of the Client Profile.
+

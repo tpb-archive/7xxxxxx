@@ -1,0 +1,20 @@
+Diskeeper is a file system fragmentation program for Microsoft Windows, developed by Condusiv Technologies formerly Diskeeper Corporation.
+
+With working patch.
+
+Installation notes:
+*******************
+1. Disconnect internet during installation, and/or make sure to BLOCK internet 
+   access for the program (block unwanted traffic by using e.g. a firewall).
+
+2. Select 'I purchased and downloaded the software' -> 'Additional Options 
+   if License file cannot be found' -> 'I cannot find the License File and 
+   want to install Diskeeper as trialware'.
+ 
+2. After installation run the patch (x32 users run Patch, x64 user run setup.exe).
+
+3. Wait until it's finished, and then close the patch.
+
+4. Start Diskeeper.
+
+>> Done! 

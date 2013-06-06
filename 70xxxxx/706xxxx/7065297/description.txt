@@ -1,0 +1,9 @@
+Description
+A minimal Debian based Linux system with fully functional bash shell (with GNU coreutils, not BusyBox), TCP/IP networking with DHCP client and APT setup to be able to install any package from the Debian repositories.   
+http://sourceforge.net/projects/bachatalinux/
+ 
+http://www.bachatalinux.net/  
+http://www.staldal.nu/tech/ (blog)
+
+sha1sum : e2bf61a823066336bbb0f3564423b19251dc98ff  bachatalinux-1.0-amd64.iso
+md5sum : dfd99038aed484063f060717346c3c58  bachatalinux-1.0-amd64.iso

@@ -1,0 +1,251 @@
+﻿User Type,Username,Date,Text
+,tubeamp,2012-03-02T15:47Z,Anyone getting problems installing the max/msp module?  
+,future-dada,2012-03-02T15:59Z,It works quite perfectly.
+,future-dada,2012-03-02T16:03Z,"After installing everything, the modules (MaxforLive) have to stick in every corresponding folder to: Max Instrumentos, Max Audio, Max MIDI effects."
+,tubeamp,2012-03-02T20:33Z,I think my system is all gummed up with previous versions of max/msp and so the installer fails ... I'll try a reboot and then wait and see if max/msp 6.x ever gets released.
+,drspack,2012-03-03T01:53Z,"Does this file contain a crack or other means to use the full version, or is it the demonstration version?"
+,bass01979,2012-03-03T02:22Z,"nooooooooooo
+
+rar corrupted! how can this be? anyone know how to repair it or do i have to re-download everything again?????"
+,ChillReb,2012-03-03T03:24Z,Max For Live.mpkg fails to install.... says contact manufacturer....
+,ChillReb,2012-03-03T03:44Z,First- Max for Live.mpkg fails to install.... Says contact manufacturer.... Then when I open Live8 it options you to use without authorization but saving and exporting is deactivated... Or I can get a free 30 day trial.... Am I missing something or is this just a Demo...
+,future-dada,2012-03-03T09:36Z,"Working perfect (rar)
+
+Look, look & look...
+
+dadalinux wordpress com/
+
+Spaces= . (point)"
+,future-dada,2012-03-03T09:47Z,"What, does it work or not?   To me yes..."
+,nikitriki,2012-03-03T20:13Z,the authorization file is missing us the pdf shows
+,future-dada,2012-03-03T21:01Z,Inside the folder Patch/Contents/MacOS/iPatcher 
+,future-dada,2012-03-03T21:11Z,"Double click and open iPatcher, select Live.app, and a file of authorization will be created.
+Run Authorizelive828.auz."
+,mmmfish,2012-03-03T23:02Z,"I had luck with this patch: http://thepiratebay.se/torrent/7075327
+
+and the official download from:
+http://www.ableton.com/update"
+,nikitriki,2012-03-04T01:19Z,"ok thank you uploader,everything works fine, i just had to open the rar file with stuffit expander and no with other app like unrar e.t.c "
+,tubeamp,2012-03-04T02:18Z,"Works great, max's license manager doesn't like my computer so I can't get that running.  Anyone having troubles needs to take a pirating class.
+
+Arrrrrrrr."
+,nikitriki,2012-03-04T10:14Z,"@tubeamp,i'm trying to figure out,, lol 
+have no skills of pirating  knowlegde so if you find something just let me-us know 
+thanks"
+,vicme3,2012-03-10T10:41Z,"@nikitriki solution, unrar with stuffit expander Worked excellent! Thanks"
+,future-dada,2012-03-10T13:19Z,"Thanks.
+
+
+I hope that as far as possible you should share the torrent.
+
+In brief i will uploading Reaktor v5.6.2 + Skanner + Razor - AU.MAC.OSX
+
+And remember (old slogan of Team H2O) not making money with this Software."
+,chaostastic,2012-03-10T14:14Z,Thanks
+,CityRiot,2012-03-11T01:13Z,"I'm having trouble with this...
+Can someone comment a step-by-step solution for installing Max AND letting saving/exporting be activated as well as having everything authorized?
+I couldn't run the patch either, the icon just bounces up and down..."
+,Dregon909,2012-03-11T23:14Z,"I'm on Lion, and the iPatch opens the terminal, but does nothing at all. Anyone got any idea for a fix?"
+,Dregon909,2012-03-11T23:21Z,Should this work on lion?
+,Dregon909,2012-03-11T23:27Z,"found the patch file inside and ran it, but app says its not valid on this computer."
+,future-dada,2012-03-12T13:40Z,"By logic if you have to work in Lion (remember that Lion in the library of the home folder is hidden).
+
+
+Up to where I know (To me the same thing happened).
+
+I suppose that this happens for having patched bad in the first attempt.
+
+I have done the following:
+
+
+1 º. Erasing Ableton Live's installed folder 8.2.8 (Applications), it is not necessary to have uninstall Max for Live.
+
+
+2 º. To eliminate files of configuration that believe themselves in the folder home/library/preferences/Ableton/*** everything related to Ableton, Live 8.2.8 **** - Not it of other versions -
+
+
+3 º. It returns to install everything in order that the file Live.app has not been modified by the iPatcher and now you repeat the process.
+
+
+I happened several times to me (3.4 o5 times), since he had no instructions of how to operate the iPatcher, but in the end I got it work
+
+
+
+I have installed two versions, v8.2.7 and v8.2.8 and I have no problems."
+,beedoola,2012-03-13T03:32Z,"can I use install Max4live if I already have Live 8.2.6 installed? In so, how is the procedure different?
+
+I'm running Lion 10.7.3"
+,LuzidQ,2012-03-14T19:43Z,What can Lion users do to patch this software??? 
+,WhyPaywhenUcanPirateBay,2012-03-19T00:34Z,"Thanks to future-dada & nikitriki
+
+1) download this torrent
+2) go to the app store and search for stuffit expander.
+3) UNRAR the downloaded torrent.
+4) double tap ""Ableton Suite Live 8.2.8.dmg""
+5) install ""Ableton Suite Live 8.2.8""
+6) once you got that installed go back to the ""Ableton.Suite.v8.2.8. and.Max.for.Live + Modules - MAC.OSX - packet - dada"" folder. go to Patch>Contents>MacOS>iPatcher.
+7) open iPatcher select Live.app & you'll probably have to look for Live like i did. so search in Application>Live 8.2.8. and double tap on ""Live""
+8) once iPatcher finishes go back to ""Live 8.2.8."" folder and double tap ""Authorizelive828.auz""
+9) NOW you can download that Max Instruments shit."
+,npaine12,2012-03-19T18:48Z,"I am stuck... @WhyPaywhenUcanPirateBay, I followed your instructions up to no. 6 however I can't figure out step no. 7.
+
+Once you double-click iPatcher and open Terminal, what do you type in Terminal to find Live.app?
+
+Any help would be greatly appreciated. Thanks!"
+,future-dada,2012-03-19T20:40Z,'npaine12' When you do double clik in iParcher will be the terminal and the window( GUI) of iParcher etc...
+,npaine12,2012-03-20T16:10Z,"@future-dada, when I double click iPatcher, only Terminal opens, not the iPatcher window. How do I get the iPatcher window to open as well?"
+,Newbiejap,2012-03-20T17:59Z,"future-dada ,I have same problem aboutthese things↓
+npaine12 at 2012-03-19 18:48 CET:
+I am stuck... @WhyPaywhenUcanPirateBay, I followed your instructions up to no. 6 however I can't figure out step no. 7.
+I already had ableton live suite is certified.Puechaced it last year,and iinterested in MAX forLIVE. and 30days demo is over,,,any idea??
+MAc os Lion10.7.3
+appreciated. Thanks!Helpme...."
+,Bobroolz,2012-03-21T01:19Z,"http://peeplink.in/26263f287d3c
+
+I did some digging, this link worked for me.
+
+1. open
+2. find your live.app file
+3. open the new Authorizelive828.auz"
+,improvjlo,2012-03-21T02:50Z,"I get all the way to using authorizelive828.auz but when I click it it says ""the authorization file is invalid on this computer"".  I'm using OSX Lion."
+,LuzidQ,2012-03-21T16:30Z,@Bobroolz Thank you! Worked perfectly :) 
+,npaine12,2012-03-21T20:34Z,"@future-dada, @Bobroolz, thanks! I was successfully able to install Live, but when I go to try and install Max it tells me that the installation failed. Any suggestions?"
+,rojoM,2012-03-22T20:47Z,"
+How To Get This Running
+
+1. Open the Ableton Suite Live 8.2.8.dmg and drag the live folder to your apps folder (or app shortcut inside the dog, as instructed).
+
+2. Install Max for Live. I ran into a problem with this. After several attempts, I always end up with an error encountered during the installation process. But, I figured out a solution. Instead of directly running the Max for Live.mpkg, I opened its package contents (right click) and ran the Max5.pkg found in Contents/Resources/Max5.pkg. And voila, installation successful.
+
+3. Was unable to make use of the patch included in the torrent so I used the patch in this link http://peeplink.in/26263f287d3c, worked like a charm. Simply download the patch in that link. Run it, select the live.app, then run the Authorizelive828.auz. That's about it, installation of live will soon follow. Oh, and you will be prompted if you want to install all the max stuff, just click on yes.
+
+Cheers to the uploader!
+
+I'm running Lion 10.7.3"
+,improvjlo,2012-03-23T05:26Z,Still says the Authorization isn't working...dammit
+,foxchants,2012-03-23T05:54Z,"Anyone having problems with opening the Ipatcher file likely had problems with permissions. 
+
+To determine if this is the problem:
+1. open terminal
+2. drag ipatcher file into terminal 
+3. press enter (terminal should respond: permission denied) 
+
+Fix:
+1. open terminal
+2. type ""chmod a+x "" (there is a space after ""x"")
+3. drag file ipatcher file into terminal
+4. press enter (permission should be changed and you should now be able to open the file)
+5. double click ipatcher file
+
+Best!"
+,improvjlo,2012-03-24T22:04Z,"ipatcher works and downloads the patch, but when I click the authorizelive828.auz is comes up with the dialog box that it is an invalid authorization for this computer."
+,cmrntcrk,2012-03-25T19:36Z,"Worked perfectly with instructions people have given in the comments section, cheers."
+,improvjlo,2012-03-26T02:19Z,"yea, I have used those instructions."
+,improvjlo,2012-03-26T04:26Z,"followed the instructions to a T, still isn't working.  Oh well."
+,improvjlo,2012-03-26T04:33Z,"Alright, nevermind, I got it now.  Sweet!"
+,camdare,2012-03-27T23:39Z,@improvjlo how did you get it to work finally??
+,camdare,2012-03-27T23:45Z,how
+,Marcopolo84,2012-03-28T23:42Z,@improvjlo hey could you break it down how you got it to work for us you we all have the same problem (invalid Authorization) lol thank you!1
+,Marcopolo84,2012-03-29T07:51Z,"Everything works good i can run live unauthorized etc. I'm having problems with authorization, when i click on it it says ""this authorization file is invalid on this computer"" somebody help please!1"
+,Marcopolo84,2012-03-29T20:56Z,"wait FUCK YES i got it, if your having trouble authorizing delete live install again and do everything threw stuffit expander and follow what @whypaywhenucanusepiratebay says just don't open it before or without stuffit expander cause then it won't let you authorize "
+,umin3,2012-03-31T01:01Z,"I have tried both patches and it still says
+
+You can't apply the Patch on this File !
+
+Help?"
+,chaostastic,2012-04-03T12:58Z,"The distributed patch is wonky. Someone who knows squat about OS X must have set up this.
+
+If you change the name of ""Patch"" to ""Patch.app"" and run chmod in the terminal: sudo chmod -R a+x [path to Patch.app]
+you will get a runnable application that open like any other app by double clicking.
+
+Anyways, when I run the app and select my Live application it says everything have been set up, but when I start Live by dropping the generated file ""Authorizelive828.auz"" (in the LIve 8.2.8 folder) on the Live icon it says ""this authorization file is not valid on this computer"". 
+It's likely this is because I have a PPC machine and whoever did this didn't bother to make a generation of an auz file for other hardware than Intel.
+
+However, my Max for Live installation also didn't work, though I don't see why authorization should be invalid if Max isn't installed.
+
+Any further advice?
+
+Now you know how to repair the Patch application and how to run the auz-file. Something that was missing from the instructions."
+,chaostastic,2012-04-03T15:29Z,"I verified installing Max doesn't make a difference for me. I did this by opening the Max package and ran only the ""/Contents/Resources/Max5.pkg"" installer as the step ""run preflight script for Interlok Extensions"" failed with ""Max for Live.mpkg"". 
+
+It's possible my previous description with properly renaming the iPatcher and running chmod on it will work fine on an installation of Live 8.2.8 in a Intel OS X machine. "
+,annie42phan,2012-04-04T01:10Z,"For Lion user, use this 
+http://peeplink.in/26263f287d3c
+
+Remember to turn off your wifi before running the auz file"
+,grantjunior,2012-04-04T16:56Z,"Hey chaostastic:
+
+I tried installing and writing the path to the patch.app that I renamed, but it's still only giving me the option to use some trial version when I try to open the app; anything I missed? Open to anyone else who think they can help"
+,future-dada,2012-04-25T12:49Z,"Señores, no se que problemas mas raros tienen.
+Funciona perfecto en OS X 10.5.8 - 10.6.8 - 10.7.3
+
+El .rar está comprimido desde Linux
+
+FUNCIONA PERFECTAMENTE."
+,garcl,2012-05-01T20:56Z,"Future Dada 
+
+Como installastes MAX sin que te diera la version ""Trial""?"
+,gabykorupt,2012-05-08T11:37Z,"For the activation just copy Patch folder to ableton folder, open a terminal, write chmod 777 then drag the ipatcher in terminal next are showed in tutorial."
+,thadisrad,2012-05-09T04:53Z,has anyone gotten this to work with OSX 10.5.8?  I keep getting an invalid authorization message.
+,syoukhan,2012-05-10T11:55Z,"It doesn't work on 10.6.0, 10.6.9 and also 10.7.4.
+
+i quote chaostatic.
+Please update! i really need max but i'm a poor student, i swear i buy it but now i don't have the money"
+,hi5ghost,2012-05-23T07:46Z,How do you get Max for Live to authorize? I have ableton live from another source. I Installed Max for live and everything went well and it works with live but Max is still just a trial.
+,hi5ghost,2012-05-24T04:45Z,"¿Cómo usted consigue Max for Live autorizar?
+
+Triste si esto es una mala traducción."
+,droik,2012-06-04T06:16Z,"future-dada por favor podrías poner las instrucciones de la instalación en español explicando mas a detalle? muchas gracias!  
+
+Saludos :) "
+,future-dada,2012-06-10T01:44Z,"Hi... these days I installed Snow Leopard on a machine and I had to install Plugins, and, guys, not be so surealistas that you have to install problems... All Plugins to the first... Ableton 8.3 (double click, add Live.app, generates the authorization, already!) and like this, Reaktor 5.6.2 + Razor + Skanner, Kontakt 5, Massive PR Punch, Predator, Blue, FXpansion Tremor, MachFive. EZ Drummer all packs, SPL, Sugar Bytes... etc, etc, etc...
+
+En español no. En Castellano, de acuerdo.
+
+Mira las imágenes, no tiene ninguna ciencia.
+
+dadalinux
+.
+wordpress
+.
+com"
+,future-dada,2012-06-10T02:09Z,"Copiar y pegar la carpeta renombrada como tu quieras donde tu quieras, por lógica en Aplicaciones o Utilidades. Abres la carpeta y verás Max for Live, una carpeta que contiene iPartcher y la App Live con su logo.
+Yo empiezo por instalar MaxforLive luego entro en la carpeta del iPartcher y te encontrarás con el parcheadot con el logo en negro y rojo más un archivo (no lo borres) simplemente doble clic en el iPartcher y se abrirá una ventana en la cual tenemos que añadirle la aplicació Live del directorio superior... Esperamos unos segundos y confirmará que ya a generado la autorización. A continuación abrimos la Autorización con la aplicación Ableton (menú contextual... Abrir con) y ya está.
+
+Simplemente hacer esto
+
+Y funciona a la primera...
+
+Otra cosa es que se haya intentado instalar y que no haya salido bién por razones que no vienen al caso ... Si es así al siguiente intento no funcionarŕ ya que en el intento fallido ha generado unos archivos, si no recuerdo mal en el directorio de usuario Librería/Preferences, ahí hay archivos de Ableton,que seran los que impedirán que el nuevo intento no salga bien....."
+,Zenolijo,2012-06-10T15:30Z,"@chaostastic
+
+Worked great the way you did it for me, just turn off your WiFi when you activate it :)
+
+Though did not get Max working :/
+
+I am running Snow Leopard (Feels like lion is worthless if you don't have a laptop lol)"
+,ghostofcrows,2012-07-02T21:23Z,"I can get to the run live.app step but it always says I can't...I have tried all the patch links but none work.
+
+I am on 10.6.8...any ideas on how to get this running?  I've gone through everything mentioned in the comments."
+,gsof,2012-07-08T23:56Z,"Installation of Ableton worked perfectly.  Couldn´t install Max and couldn´t use medicine provided, but there are several additional sources to get this on separate, thanks for sharing."
+,chaostastic,2012-07-17T17:13Z,"Verified on OS X 10.7.4:
+
+1. Install Live to /Applications.
+2. Rename folder ""Patch"" to ""Patch.app""
+3. Repair this patch app with ""sudo chmod -R a+x "" + drag and drop patch app on the terminal window. (No quote marks of course, but keep space at the end)
+4. start patch app, wait until GUI.
+5. Click on ""select Live.app"" and go to ""/Applications/Live 8.2.8/Live.app"". Wait
+6. Double click on ""Authorizelive828.auz"" and let it do its thing.
+7. Install packages as advised
+8. Make music! 
+
+Buy Live if you want to support Ableton."
+,chaostastic,2012-07-17T17:19Z,"Also I installed Little Snitch 2.5.2 before this, but there were no calls to any servers made. Turn off auto updates under ""Licenses Maintainance"" in preferences if active. In my case it's inactive. "
+,chaostastic,2012-07-17T17:20Z,Note that Max is unverified at this point as I have little interest in it currently.
+,dudez0r,2012-08-06T02:26Z,"It's important that you convert the Patch folder that you copied to your desktop to the .app! After this you run the sudo chmod -R a+x [Path of the now Patch.app] For me this would be sudo chmod -R a+x /Users/username/Desktop Then I would hit enter executing the terminal command. After that double click on the converted Patch folder, which is now the Patch.app and the iPatcher will run as it should! Browse to the location of the live.app. It will patch the app. After it's finished run the Authorizelive828.auz which should be in Application/Live 8.2.8 folder. Ableton will open and tell you that it is now authorized and you're on your way to producing the best music the world has yet to hear!"
+,hakintos,2012-08-29T13:38Z,"Hay una carpeta ""MaxForLive - Modules"" que hay que hacer con esta carpeta. 
+Donde se coloca?
+Saludos"
+,jblaec,2012-09-27T06:41Z,"Has anyone got MaxforLive to work?
+
+Think im asking what the previous guy asked in spanish..."

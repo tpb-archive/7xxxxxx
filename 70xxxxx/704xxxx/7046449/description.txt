@@ -1,0 +1,62 @@
+TVersity Pro 1.9.7
+
+Instructions:
+
+1) Install TVersitySetup 1.9.7 Free Edition (TVersitySetup_1_9_7.exe)
+
+
+2) Stop (kill task) the TVersity AND mediaserver service. You can do it in task manager (control+alt+delete) or click the start menu and search services.msc (vista/7)
+
+
+3) Copy ALL the files from \\\\\\\"TVersity 1.9.7 Pro (Copy Me!)\\\\\\\" 
+
+TO
+
+C:\ProgramData\TVersity\Media Server (Default Folder)
+
+
+4) Open TVersity (it may say the server cannot connect but its ok), goto settings and under Media Sharing click \\\\\\\"Restart Sharing\\\\\\\"
+
+-------------------------------------------------------------------------------------
+
+Release Notes
+Version 1.9.7 (July 29, 2011)
+Bug Fixes
+
+Fix regression in indexing time introduced in 1.9.6 and speed indexing up to become faster than it was in 1.9.3 by a factor of 1.5 to 2.
+Windows Media Player is no longer mis-detected as a certain Samsung TV model.
+
+
+Version 1.9.6 (July 15, 2011)
+
+Pro edition: 
+More robust server side web browser with better support for BBC iPlayer.
+
+All editions: 
+Add device profiles for WDTV Live.
+Add device profiles for various Samsung TV models.
+Add device profiles for Android 3.0 tablets (test with Asus Eeepad Transformer TF101). Plase note that trancoding for Android requires the Pro edition, and only Android 3.0 or higher is supported.
+Add user contributed device profile for Logitech Revue.
+Add user contributed device profile for Windows Phone 7.
+Update user contributed device profile for LG BD930.
+Faster thumbnail generaion for photos.
+Better support for MKV and AVI transcoding.
+Support WEBM files (transcoding requires separate installation of WEBM directshow filters available here).
+Installation wizard now allows choosing a friendly computer name to use when discovered by other devices (i.e. this name will be displayed on TV when detected by a game console or other TV connected devices).
+Perform server side buffering for live streams to avoid stutter on devices that cannot deal with such videos properly (like the PS3 that assumes the video on demand scenario only). 
+Run a CPU benchmark after installation to determine optimal transcoding settings for the system.
+Menus created from RSS/ATOM feeds are cleaner (less duplicates, and no unnecessary nesting levels).
+Installation wizard properly configures the system for decoding of MPEG1/2 and DV (assuming proper decoder are installed), and for downmizing of multi-channel audio to stereo so that transcoding can succeed in such cases.
+Media library indexing gives priority to local files and folders (over Internet content).
+Better handling of high bitrate peaks when transcoding such that playback freezes are eliminated or at the very least reduced.
+Installation wizard now configures the Windows firewall on both private and public networks when dealing with Windows 7.
+Move to latest version of ImageMagick which eliminates some rare failures to transcode photos. It also means that we do not need to modify the global ImageMagick registry key and hence we do not interfere with a normal ImageMagick installation.
+Prevent Windows from entering sleep mode when some media is streaming.
+Bug Fixes 
+Return ï¿½â‚¬Å“text/xmlï¿½â‚¬Â as mime type of device description document as required by the UPnP standard.
+Allow pausing playback for up to 4 hours (as opposed to the 2 minute limitation in previous version).
+Server can now gracefully shut down even when something is streaming.
+Fix video indexing by album and by genre.
+Fix server side browse videos to continue streaming without issues even when the audio stops in the middle.
+Fix some rare crashes related to image format conversion, detection of changes in IP addresses assigned to machine, tracking of file/folder changes, enter/exit sleep/hibernation mode and more.
+Various other minor fixes.

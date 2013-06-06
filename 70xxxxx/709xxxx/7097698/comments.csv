@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,mobno1,2012-04-07T20:54Z,Is it problem if ESET warns me that the keygen is a virus?
+,aehsani18,2012-04-26T19:44Z,"I got a virus warning and I've ignored the warn.
+But afterentering SN it wants to activate from net.
+
+How to solve this one?"
+,aehsani18,2012-04-26T19:53Z,"Foud it!
+
+Press the Manually Active, then copy the XML that it generates and paste it into keygen to get a registration code!
+
++1"
+,petabyte1896,2012-06-30T01:28Z,Can't get it to work.
+,mnmlb,2012-08-24T10:54Z,"@aehsani18
+
+Wheres that manually active option? "
+,NikonTheThird,2012-09-08T18:33Z,"This torrent is fine. It even updates to the newest Version v7.6 of Reflector without problems.
+
+Instructions:
+* Download
+* Realize that the Virus warning is of type Win32.keygen (and therefore harmless)
+* Disconnect from the internet (so you will see the ""Manually Activate"" button aehsani18 mentioned
+* Extract Reflector and run Reflector.exe
+* A wild Activation Dialog appears
+* Run the Keygen and select Edition: VS
+* Insert a generated Serial into the Dialog
+* Wait for the online activation to fail
+* Click the ""Manually Activate"" button
+* Copy the XML into the upper Textbox of the Keygen
+* Copy the generated response into the Dialog
+* Activation successful!
+
+After a restart, Reflector said an update was available (v7.6 for free), so I installed it and it works just fine.
+Hope this helps :)"
+,sweaterpuppies1,2012-09-14T04:06Z,Is it safe to re-enable internet connection on that PC after the manual activation?
+,NikonTheThird,2012-09-17T22:48Z,"@sweaterpuppies1: Yep, once it's activated you can do whatever :)"

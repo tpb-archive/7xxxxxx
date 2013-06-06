@@ -1,0 +1,18 @@
+Description
+Kebox is a Debian-based linux distribution. It use Openbox and GTK+ applications. Currently it is offered in French version.
+Kebox est une distribution linux basée sur Debian. Elle utilise Openbox et des applications GTK+. Actuellement elle est offerte en version française. 
+http://sourceforge.net/projects/keboxlinux/
+
+README 
+Kebox k[ ] use Debian testing branch. live-build scripts from Debian Live Project was used to build Kebox Live system image. Here are some examples of boot parameters: locales=fr_CA.UTF-8 keyboard-layouts=ca keyboard-variant=fr timezone=America/Montreal xorg-resolution=1024x768 nox11autologin todo make a bilingual system (english and french) include the debian installer make a 64 bits version make a web site on kebox.org ... 
+---------------- 
+LISEZMOI 
+Kebox k[ ] utilise la branche testing de Debian. Les scripts live-build du projet Debian Live ont été utilisés pour la construction de Kebox. Ici sont des exemples de paramètres d'amorce: locales=fr_CA.UTF-8 keyboard-layouts=ca keyboard-variant=fr timezone=America/Montreal xorg-resolution=1024x768 nox11autologin A faire faire un système bilingue (anglais et français) inclure l'installateur debian faire une version 64 bits faire le site web sur kebox.org ...
+Source: README, updated 2012-03-13 
+http://sourceforge.net/projects/keboxlinux/files/
+
+ 
+http://sourceforge.net/projects/keboxlinux/files/kebox-packages-20120312-i686.txt/download
+
+sha1sum : ca94b23c4a59db481cd33abf3a14828772608bcb  kebox-20120312-i686.iso
+md5sum : 4967332be366cde95398359627ed6f2b  kebox-20120312-i686.iso

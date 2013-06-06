@@ -1,0 +1,67 @@
+Official Web Site:   http://postbox-inc.com/
+
+Description
+
+Postbox is a new email application that helps you organize your work life and get stuff done.
+
+It has all the elegance and simplicity of Apple Mail, but with more power and flexibility to manage even the most demanding workloads.
+
+WHAT'S NEW
+
+┬░Fixed an issue with "Check this folder for new Mail" not working for
+  IMAP
+
+* Fixed an issue with the text cursor disappearing in the compose window
+  when adding an attachment
+
+* Fixed an issue when selecting text in the message pane and copying that
+  text, only the first 150 characters were put in the clipboard
+
+* Fixed an issue on Max OS X where inline date events were not being
+  added to the default calendar in iCal
+
+* Fixed an issue where selecting a smart folder was loading a blank
+  message list pane
+
+* Fixed an issue on Windows where sending a message would fail if
+  background send is turned off or a message is sent without a 3-pane
+  widow open in the background
+
+* Fixed an issue where Run Junk Mail Controls on folder was not
+  working
+
+* Fixed an issue where attachments on Microsoft Exchange IMAP server
+  could not be opened
+
+* Fixed an issue where Summarize would always include sent message
+
+* Fixed an issue where certain special characters (UTF-8) were not
+  displayed correctly
+
+* Improved inline date detection on Mac OS X for non-US regions
+
+* Add support for archiving across multiple servers
+
+* LDAP search was not working when using kerberos authentication
+
+* Evernote should appear in the default toolbar set when Evernote is
+ installed on Mac OS X
+
+* Growl alerts show the wrong messages
+
+* Support CC and BCC and multiple attachments in AppleScript
+
+* Add preference for changing the selection order after deleting a message
+  from the thread pane
+
+[K]racked using terminal command provided by dsorrow (@msj)
+Register with included serial (if required)
+
+
+System Requirements:
+
+OS version: Mac OS X 10.6 or later
+Processor type(s) & speed: Intel-based Mac (x64)
+RAM minimum: 2GB
+
+--- PLEASE SEED ----

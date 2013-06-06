@@ -1,0 +1,350 @@
+windows xp x64 edition with all updates , This included not only framrwork and media player 11
+integrated driver AHCI intel v10.8.0.1003
+integrated chipset intel
+integrated directx march 2010
+tcpip.sys patched to 16777215 connections
+
+High Priority Updates:
+
+
+KB890830 â€” Malicious Software Removal Tool v4.5.5900 (registry entries and stubbed MRT.exe only)
+* KB967715 â€” Windows Shell (AutoRun enforcement)
+* KB968389 â€” Extended Protection for Authentication (EPA)
+* KB2345886 - EPA for Server service
+* KB2641690 - Untrusted Digital Certificate revocations - Cumulative (Crypto API32)
+KB925398 â€” MS06-078 - WMP 6.4 - Windows Media Format
+* KB925902 â€” MS07-017 - GDI
+* KB931261 â€” MS07-019 - UPnP
+* KB932168 â€” MS07-020 - Microsoft Agent
+* KB929123 â€” MS07-034 - Outlook Express - Cumulative
+* KB944653 â€” MS07-067 - Macrovision driver
+* KB941569 â€” MS07-068 - WMP 10 - Windows Media Format
+* KB942831 â€” MS08-005 - IIS - Helper library
+* KB951376 â€” MS08-030 - Bluetooth Stack
+* KB952954 â€” MS08-046 - Windows Image Color Management System
+* KB946648 â€” MS08-050 - Windows Messenger 4.7
+* KB953155 â€” MS08-062 - IIS - Windows Internet Printing service
+* KB952069 â€” MS08-076 - WMP 10 - Windows Media Format
+* KB956572 â€” MS09-012 - Windows Service Isolation
+* KB970483 â€” MS09-020 - IIS - Web DAV Extensions for Windows
+* KB973507 â€” MS09-037 - Active Template Library
+* KB973540 â€” MS09-037 - WMP 10
+* KB973815 â€” MS09-037 - MSWebDVD ActiveX Control
+* KB973869 â€” MS09-037 - HTML Editing Component ActiveX control
+* KB971032 â€” MS09-040 - Message Queuing
+* KB971657 â€” MS09-041 - Workstation service
+* KB960859 â€” MS09-042 - Telnet
+* KB956744 â€” MS09-044 - Remote Desktop Connection
+* KB956844 â€” MS09-046 - HTML Editing Component
+* KB975025 â€” MS09-051 - Audio Compression Manager
+* KB974112 â€” MS09-052 - WMP 6.4 - Windows Media Format
+* KB975254 â€” MS09-053 - IIS - FTP service
+* KB974571 â€” MS09-056 - CryptoAPI
+* KB969059 â€” MS09-057 - Indexing Service
+* KB974392 â€” MS09-069 - Oakley Key Manager
+* KB974318 â€” MS09-071 - Remote Access Point to Point Protocol
+* KB973904 â€” MS09-073 - Microsoft Conversion Library
+* KB972270 â€” MS10-001 - Embedded OpenType Font Engine
+* KB978706 â€” MS10-005 - Microsoft Paint
+* KB975713 â€” MS10-007 - Shell Light-weight Utility Library
+* KB975560 â€” MS10-013 - DirectX
+* KB977914 â€” MS10-013 - AVI File support library and codecs
+* KB978601 â€” MS10-019 - Trust Verification APIs
+* KB979309 â€” MS10-019 - Cabinet File Viewer Shell Extension
+* KB976323 â€” MS10-024 - IIS - SMTP service
+* KB977816 â€” MS10-026 - MPEG Layer-3 codec
+* KB978338 â€” MS10-029 - TCP/IP v6 protocol driver
+* KB978542 â€” MS10-030 - Outlook Express
+* KB978695 â€” MS10-033 - WMP 10 - Windows Media Playback/Authoring DLL
+* KB979482 â€” MS10-033 - COM component (AsyCFilt.dll)
+* KB982666 â€” MS10-040 - IIS - HTTP Protocol Stack and Web Server Core
+* KB2229593 - MS10-042 - Help Center service
+* KB981997 â€” MS10-050 - Windows Movie Maker
+* KB2079403 - MS10-051 - Microsoft XML Core Services 3.0
+* KB2115168 - MS10-052 - MPEG Layer-3 codec
+* KB982665 â€” MS10-055 - Cinepak codec
+KB975558 â€” MS10-062 - WMP 10 - MPEG-4 codec
+* KB981322 â€” MS10-063 - Unicode Script Processor
+* KB2124261 - MS10-065 - IIS - Active Server Pages
+* KB2387149 - MS10-074 - Microsoft Foundation Classes
+* KB982132 â€” MS10-076 - T2Embed Font Embedding
+* KB2296011 - MS10-081 - Common Controls Library
+* KB2378111 - MS10-082 - WMP 10
+* KB979687 â€” MS10-083 - WordPad MFC Application
+* KB2423089 - MS10-096 - Windows Address Book
+* KB2443105 - MS10-097 - Internet Connection Signup Wizard
+* KB2440591 - MS10-099 - NDIS Proxy
+* KB2419635 - MS11-002 - MS Data Access - Remote Data Services
+* KB2478953 - MS11-005 - Net Logon Services DLL
+* KB2483185 - MS11-006 - Windows Shell
+* KB2393802 - MS11-011 - Hardware Abstraction Layer and NT Kernel
+* KB2478971 - MS11-013 - Kerberos Security Package
+* KB2479943 - MS11-015 - Windows Media
+* KB2481109 - MS11-017 - Remote Desktop Connection 6.0
+* KB2508429 - MS11-020 - Server Message Block (SMB) driver
+* KB2491683 - MS11-024 - Fax Cover Page Editor
+* KB2412687 - MS11-029 - GDI+
+* KB2509553 - MS11-030 - Network drivers and services
+* KB2510531 - MS11-031 - VBScript Scripting Engine v5.8
+* KB2510581 - MS11-031 - JScript and VBScript Scripting Engines v5.7
+* KB2507618 - MS11-032 - OpenType/Type 1 font driver
+* KB2485663 - MS11-033 - WordPad text converter
+* KB2544893 - MS11-037 - Internet Messaging API (Outlook Express)
+* KB2476490 - MS11-038 - OLE Automation
+* KB2535512 - MS11-042 - Multiple UNC Provider driver
+* KB2536276 - MS11-043 - SMB client
+* KB2544521 - MS11-052 - Vector Markup Language
+* KB2566454 - MS11-062 - NDIS 3.0 connection wrapper driver
+* KB2570222 - MS11-065 - RDP Terminal Stack driver
+* KB2570947 - MS11-071 - DLL loading fixes (HyperTerminal and Management Console)
+* KB2564958 - MS11-075 - Active Accessibility and Windows Automation API
+* KB2618451 - MS11-090 - ActiveX Kill Bits - Cumulative
+* KB2619339 - MS11-092 - Windows Media
+* KB2624667 - MS11-093 - Object Linking and Embedding (OLE)
+* KB2620712 - MS11-097 - Client/Server Runtime Subsystem
+* KB2644615 - MS12-001 - NT Layer DLL
+* KB2603381 - MS12-002 - Windows Packager
+* KB2646524 - MS12-003 - Windows Server DLL
+* KB2598479 - MS12-004 - Media Control Interface
+* KB2631813 - MS12-004 - DirectShow
+* KB2584146 - MS12-005 - Windows Packager
+* KB2585542 - MS12-006 - Local Security Authority Subsystem Service (LSASS)
+* KB2638806 - MS12-006 - Windows HTTP Services
+* KB2660465 - MS12-008 - Multi-User Win32 driver
+* KB2645640 - MS12-009 - Ancillary Function Driver for WinSock
+* KB2647516 - MS12-010 - Internet Explorer - Cumulative
+
+
+Optional Updates:
+
+
+* KB925876 â€” Remote Desktop Connection 6.0
+* KB971029 â€” AutoPlay
+* KB2492386 - Application Compatibility update (April 2011)
+* KB2632503 - JScript Scripting Engine v5.8
+
+
+Additional Updates:
+
+
+KB282784 â€” QFECheck.exe v6.2.29.0
+* KB915377 â€” NT LAN Manager
+* KB915800 â€” Windows Desktop Search document IFilters (v9)
+* KB918033 â€” Windows Explorer
+* KB919241 â€” Check Disk utility (ChkDsk.exe)
+* KB922498 â€” SCSI Scanner driver
+* KB922757 â€” Application Experience Lookup Service
+* KB923231 â€” Video Port driver
+* KB925066 â€” Volume Shadow Copy
+* KB927169 â€” Certificate Services client
+* KB928646 â€” IPv6 Helper DLL
+* KB929134 â€” Spooler Subsystem DLL
+* KB929161 â€” PnP Disk driver
+* KB930499 â€” File Encryption utility (Cipher.exe)
+KB931125 â€” Microsoft Root Certificates (November 2011)
+* KB931301 â€” Serial Imaging device driver
+* KB931303 â€” Winsock Oriented Net DLL for SQL Clients
+* KB931320 â€” Windows Management Instrumentation (WMI)
+* KB931565 â€” SNMP Trap Service
+* KB932370 â€” WMI Win32 Provider
+* KB932716 â€” Image Mastering API v2.0 (IMAPIv2.0)
+* KB932762 â€” Computer Browser Service
+* KB933717 â€” Application Layer Gateway Service
+* KB933789 â€” ADs Router Layer DLL
+* KB934016 â€” COM+ 1.5 Hotfix Rollup Package 12
+* KB934273 â€” Collaboration Data Objects (CDO)(v2)
+* KB934401 â€” IP Configuration Utility (IPConfig.exe)
+* KB934428 â€” Secure Digital High Capacity (SDHC) card drivers
+* KB934848 â€” SCSI Port driver
+* KB935761 â€” Secondary Logon Service DLL
+* KB935879 â€” Still Image Devices Service
+* KB936087 â€” Windows NT BASE API Server DLL
+* KB936357 â€” Update.sys driver
+* KB937088 â€” RAM Disk driver
+* KB937932 â€” WOW32 emulation DLL
+* KB938135 â€” Windows System Performance Objects DLL
+* KB938380 â€” Folder Redirection Winlogon Extension
+* KB938596 â€” User-mode Plug-and-Play Service
+* KB938907 â€” ACPI driver for NT
+* KB939780 â€” Battery Class driver
+* KB940074 â€” NetBIOS interface driver
+* KB940307 â€” Mount Point Manager
+* KB940526 â€” Windows Command Processor (CMD.exe)
+* KB940848 â€” Microsoft Management Console (MMC)
+* KB940871 â€” Remote Access Connection Manager
+* KB941560 â€” Microsoft Message Queuing 3.0
+* KB941602 â€” VeritasÂ® LDM diagnostic utility
+* KB941838 â€” Processor device driver
+* KB942288 â€” Windows Installer 4.5
+* KB942537 â€” Unimodem Service Provider AT Minidriver
+* KB943509 â€” MS DAO 3.6 Object Library
+* KB943510 â€” WebBrowser Control module
+* KB943669 â€” Volume Shadow Copy
+* KB944043 â€” Windows 2008 read-only domain controller compatibility pack
+* KB944328 â€” Windows NT System Setup DLL
+* KB944829 â€” Find String utility (FindStr.exe)
+* KB946198 â€” Standard TCP/IP Port Monitor Helper DLL
+* KB946504 â€” IO Logging DLL
+* KB946517 â€” IIS - ADs IIS Provider DLL
+* KB946813 â€” IAS NT SAM Provider
+* KB946924 â€” Windows On Windows 64 (WOW64)
+* KB947354 â€” Network Monitor NDIS Network Packet Provider
+* KB947848 â€” Fast FAT File System Driver
+* KB948459 â€” MS Data Access - OLE DB Provider
+* KB948656 â€” Home Networking Configuration Manager
+* KB948698 â€” Registry Console Tool (Reg.exe)
+* KB948700 â€” Network Configuration Objects
+* KB948963 â€” Enhanced Cryptographic Provider
+* KB949459 â€” Hardware Abstraction Layer
+* KB949729 â€” Remote NDIS Miniport
+* KB950037 â€” Network Settings utility (NetSet03.exe)
+* KB950085 â€” Group Policy Object Editor
+* KB950323 â€” Event Log
+* KB950426 â€” SMTP MMC SnapIn DLL
+* KB951347 â€” Fax Server Extended COM Client Interface
+* KB951410 â€” IEEE 1394 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"FireWire\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" driver
+* KB951531 â€” Windows Time Service
+* KB951851 â€” Web DAV Service DLL
+* KB951859 â€” Task Scheduler Engine
+* KB952011 â€” IMAPI update for Blu-Ray
+* KB952813 â€” APC Smart Provider
+* KB953176 â€” Authorization Store Role Provider module
+* KB953675 â€” Remote Access Connection Manager
+* KB953955 â€” Windows Management Instrumentation (WMI)
+* KB954149 â€” Windows Security Configuration Editor Engine
+* KB954193 â€” Jet 4.0 Database Engine
+* KB954913 â€” OLE Filter module
+* KB955360 â€” Windows Script 5.7
+* KB955407 â€” Disk Partitioning application (DiskPart.exe)
+* KB955417 â€” Protected Storage
+* KB955536 â€” C++ runtimes
+* KB955543 â€” NT Disk Manager I/O driver
+* KB955549 â€” Rich Text Edit Control
+* KB955692 â€” Direct3D
+* KB955704 â€” exFAT File System
+* KB956048 â€” Image Color Management
+* KB956114 â€” IIS NT specific library
+* KB956438 â€” Terminal Server driver
+* KB956625 â€” WebBrowser Control module
+* KB957089 â€” COM+ Configuration Catalog
+* KB957271 â€” Logical Disk Manager Administrative service
+* KB957492 â€” OLE 2.0 User Interface Support
+* KB957585 â€” ODBC and MDAC
+* KB957910 â€” Microsoft Storage Port driver
+* KB958246 â€” User Environment Group Policy module
+* KB958353 â€” Sorting Tables for National Language Support (NLS)
+* KB958476 â€” Terminal Server Service
+* KB958910 â€” Internet Print Provider DLL
+* KB959194 â€” Background Intelligent Transfer Service (BITS) 2.5
+* KB959202 â€” Active Directory Users and Computers snap-in
+* KB959998 â€” MS Office file search filter DLL
+* KB960071 â€” SQL Server ODBC driver
+* KB960608 â€” Task Scheduler
+* KB960680 â€” Currency symbol update
+* KB961799 â€” MBT Transport driver
+* KB961974 â€” RDP display driver
+* KB965230 â€” COM+ Services
+* KB967198 â€” Windows Deployment Services
+* KB967587 â€” System Event Notification Service (SENS)
+* KB967663 â€” Thunking Spooler APIS from 32 to 64 Process
+* KB968185 â€” DHCP Monitor DLL
+* KB968225 â€” SAM Server DLL
+* KB968447 â€” Event System
+* KB968686 â€” WMP 10 - Windows Media 9 codecs
+* KB968736 â€” Virtual Disk Service
+* KB968995 â€” Terminal Server MMC Snap-In
+* KB969429 â€” Net Win32 API
+* KB969701 â€” Remote Registry Service
+* KB970413 â€” WMI SDK Provider Framework
+* KB970457 â€” Windows Setup API
+* KB970904 â€” WMI Event Log Provider
+* KB970910 â€” Terminal Server SDK APIs
+* KB971080 â€” Windows NT Logon Application
+* KB971229 â€” Microsoft Trust UI Provider
+* KB971314 â€” Spooler Setup INF
+* KB971345 â€” Profile Quota Manager
+* KB971387 â€” Disk Quota support DLL
+* KB971650 â€” Driver for IBM LTO Tape drives
+* KB972071 â€” NDIS 5.2 wrapper driver
+* KB972189 â€” WMI MSI Provider
+* KB972604 â€” Terminal Services Application Compatibility DLL
+* KB972659 â€” USB Hub driver
+* KB972840 â€” SNMP Service
+* KB972878 â€” QoS Packet Scheduler
+* KB973097 â€” SMB Transport driver
+* KB973125 â€” Windows Backup Utility
+* KB973295 â€” IP Network Address Translator
+* KB973480 â€” Win32 LDAP API DLL
+* KB973502 â€” Key Roaming DIMS Provider DLL
+* KB973570 â€” Authorization Framework
+* KB973573 â€” Services and Controller application
+* KB973597 â€” WMI Provider for VDS
+* KB973618 â€” Microsoft USB Port Drivers
+* KB973678 â€” Microsoft Authentication Package v1.0
+* KB973680 â€” Removable Storage Manager
+KB973685 â€” Microsoft XML Core Services 4.0 SP3
+* KB973870 â€” New Technology File System (NTFS)
+* KB973871 â€” HBA API data interface
+* KB974857 â€” Cluster Resource Utility DLL
+* KB975126 â€” PostScript and PCL Printer drivers
+* KB975470 â€” Japanese Input Method Editor
+* KB975652 â€” Advanced Windows 32 Base API
+* KB975759 â€” Filesystem Filter Manager
+* KB975928 â€” Volume Shadow Copy
+* KB977073 â€” Microsoft Digest Access
+* KB977225 â€” UniDriver Printer driver
+* KB977367 â€” WMP 10 - Windows Media Network Plugin Manager
+* KB977440 â€” Performance Logs and Alerts service
+* KB977629 â€” Terminal Server Service and Registry Configuration APIs
+* KB978155 â€” MS Data Access - OLE DB Cursor Engine
+* KB978334 â€” Win32 Emulation on NT64
+* KB979272 â€” IPSec.sys driver
+* KB979290 â€” ADs LDAP Provider
+* KB979405 â€” Spooler Setup DLL
+* KB979451 â€” ATAPI.sys driver
+* KB979457 â€” Volume Shadow Copy driver
+* KB979522 â€” Remote Desktop Protocol Device redirector
+* KB979550 â€” Disk Defragmenter NTFS Module
+* KB979554 â€” WMI SNMP Provider
+* KB979919 â€” Distributed Transaction Controller (DTC)
+* KB980276 â€” Local Print Spooler
+* KB981212 â€” Crash Dump Disk driver
+* KB981263 â€” Server Database Storage Engine
+* KB981544 â€” Virtual Disk Service
+* KB982051 â€” Group Policy Preference Client Side Extensions
+* KB982316 â€” Windows Telephony Server
+* KB982501 â€” WinSNMP v2.0 Manager API
+KB982847 â€” Microsoft XML Core Services 6.0 SP2
+* KB983169 â€” Redirected Drive Buffering Subsystem driver
+* KB983246 â€” Microsoft Data Access
+KB2015624 - Remote Management registry fix
+KB2015644 - Intersite Replication registry fix (method 1)
+KB2015857 - Selective Suspend registry fix
+KB2021448 - HTTP EventMessageFile registry fix
+* KB2028586 - Windows USER API Client DLL
+* KB2028627 - Discretionary Access Control List utility (ICACLS.exe)
+* KB2028773 - Pragmatic General Multicast (PGM)
+* KB2028919 - Message Queuing device driver
+* KB2257980 - Windows Management Instrumentation (WMI)
+* KB2264107 - NT Layer DLL and WebDAV Mini-Redirector
+* KB2279637 - GDI
+* KB2285736 - NT Domain Service API
+KB2293762 - ConnectRetries registry fix (machine-wide)
+* KB2309312 - TCP/IP protocol driver
+* KB2388997 - Windows Installer
+* KB2401588 - Distributed COM Services
+* KB2404563 - Sockets 2.0 Service Provider
+* KB2404988 - Windows NT BASE API Client DLL
+* KB2456890 - MS General Packet Classifier
+* KB2480093 - Remote Procedure Call (RPC)
+* KB2480118 - Print Spooler service
+* KB2539164 - Local Security Authority (LSA) Server DLL
+KB2575928 - Visual Basic Virtual Machine
+* KB2584577 - Foundation Classes
+* KB2598845 - Compatibility View list update (October 25, 2011)
+KB2607070 - Windows Update Agent 3.0 with Microsoft Update
+* KB2657025 - Time Zone - Cumulative - Update for 2011 calendar history
+Adobe Flash v11.1.102.62 for Internet Explorer (32-bit)
+European Union Expansion Font Update 1.02
+
+install with this serial golden -->

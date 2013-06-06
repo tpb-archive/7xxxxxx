@@ -1,0 +1,66 @@
+This is World of Warcraft 4.0.6a for MacOS!
+
+It has all necessary data files to play on a private server.
+
+It is preconfigured for Molten WoW.
+
+You can create an account here:
+  
+https://www.molten-wow.com/
+
+This release supports multiple languages
+
+By default the language is North American English.
+
+To create other language double click on one of the following files:
+
+NA:
+Make_Language_enUS.command English (United States)
+Make_Language_esMX.command Spanish (Mexico)
+
+EU:
+Make_Language_enGB.command English (United Kingdom)
+Make_Language_deDE.command German (Germany)
+Make_Language_esES.command Spanish (Spain)
+Make_Language_frFR.command French (France)
+Make_Language_ruRU.command Russian
+
+TW:
+Make_Language_enTW.command Chinese menus/text, English spoken
+Make_Language_zhTW.command Chinese (Taiwan), Chinese spoken
+
+This will set your locale to that and download the correct data.
+
+---
+
+Loading the Taiwan data is really slow :) But works fine... :)
+
+Realize it will take a LONG time if you are switching regions for the game to
+initially load the menu.  Just wait.  Takes less time if you are just switching
+languages within same region.
+
+Also realize if you play on a private server that is english based then not everything
+will be in your language.  Quest descriptions will not be in your language.  But items,
+menus, chat stuff, menus, maps, etc will be in your language.
+
+You can switch locale back and forth if you choose.  You will only loose Cache data
+and this is rebuilt automatically.
+
+Sometimes I notice after switching languages it hangs on connecting to realm.  You
+can try to cancel and login again if you see this happen.
+
+Please have patience while data is loaded!  You can monitor your data files and see them grow if you like.
+Or if your geeky you can use tcpdump via terminal: sudo tcpdump | grep http
+
+Tech:
+NA shares base data with enUS esMX
+EU shares base data with deDE enGB esES frFR ruRU
+TW shares base data with zhTW enTW
+KR ... dont have valid mfil ...
+CN ... dont have valid mfil ...
+
+Could likely use a higher mfil for KR and CN and still work but didn't bother finding one.
+If you want to research and find correct CN/KR mfils or compatible ones with client
+build 13623 feel free to give them to me for inclusion. google away!
+
+-HR

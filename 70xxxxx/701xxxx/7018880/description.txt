@@ -1,0 +1,7 @@
+This is a complete version of the latest GGPO program. It contains all of the associated roms for online play.
+
+Unzip and play!
+
+You may have to download Adobe AIR from http://get.adobe.com/air/
+
+You also may have to open UDP ports 6000-6009 (inbound/outbound) and TCP port 7000 (outbound) in your home network. GGPO uses these ports to communicate with the matchmaking server and with other players on the internet. 

@@ -1,0 +1,12 @@
+Changelog:
+- Rolls are less effective at moving up slopes
+- Added invisible forcefield at edge of the world
+- New uniform scale
+- New trackball rotation
+- Added notifications for out-of-date shadows, ao, nav mesh
+- Fixed normal map problem with detail objects
+- Added overbright option to detail objects
+- Added normal_conform detail object parameter
+- Added detail object angle jitter
+- Undo/redo works with sun editor
+- Updated angelscript and added string utilities

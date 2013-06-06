@@ -1,0 +1,61 @@
+SAS 9.2 will work on Windows PC's running XP, Vista (ew), and 7 for x86 and x64 architectures. 
+PIC: http://i1117.photobucket.com/albums/k585/JugzG0nn4G3tY4/sas.jpg
+
+Install SAS 9.2 for Windows XP/Vista
+PURPOSE
+Instructions for installing SAS 9.2 via the UCSF network.
+
+	
+Before You Install
+
+	
+-  You must have Windows administrative rights on your computer, or have your Windows system administrator on site to assist you.
+-  Uninstall any previous versions or evaluation copies of the software.
+-  Close all open applications.
+-  Disable any virus scanning software on your computer.
+-  You must be connected to the UCSF network and confirm that the UCSF DNS is included in your network configuration:
+     1. Right-click on My Network Places and select Properties
+     2. Right-click on Local Area Connections and select Properties
+     3. Click on Internet Protocol (TCP/IP) and select Properties
+     4. Click Advanced and select DNS tab
+     5. Check to see if "ucsf.edu" is listed as a DNS suffix
+     6. If it is not listed, add it and restart your computer as directed
+
+	
+Installation Instructions
+
+	
+Open My Computer and from the Tools menu, select Map Network Drive.
+For folder, enter \\rsl.library.ucsf.edu\sas9.2win
+Click Connect using a different user name.
+For the User name, enter sasuser. For the Password, enter the password you received in an email from RSL (note: these passwords expire every week on Sunday night).
+Click OK, then click Finish.
+The SAS Deployment Wizard will start automatically. You will be prompted to choose a language for your installation.
+At the next screen, choose Install SAS Software and click Next.
+Select the products you want to install. By default, all the modules available under our license (except the advanced modules) are checked. Click Next when you're ready to proceed.
+You will be prompted for a SAS Installation Data File. You do not need to change anything. Just click Next to continue.
+Click Start to begin installing the software. Keep in mind that the installation can take a long time (up to an hour). The installer will first run the System Requirements Wizard, which may need to update your system. After that, you will be prompted if the installer needs any more information from you.
+Once the software has been installed, you will be given the option to send information about your installation to SAS.
+When your installation is complete, launch the SAS application to make sure it was installed properly.
+To disconnect from the download server, open My Computer and from the Tools menu, select Disconnect Network Drive.
+Please contact RSL Help if you have any questions or problems.
+
+Further info: http://www.sas.com/software/sas9/
+ 
+*************************************************************************************
+Instructions:
+
+01. Mount .iso using favorite client.
+02. Disconnect from interwebs.
+03. Set computer date back three years (any time after June 2008 but before June 2009)
+04. Install. (takes a loooooong time)
+05. When asked for SID, use the text file called "ORIGINAL SID (June2009)"
+06. After install is complete, you can now reconnect interwebs and set system date back to original time.
+07. Search for "Renew SAS Software" Run as Administrator. 
+08. Select the "Sept2012" text file.
+09. Done!
+
+Enjoy.
+
+-Doubzstep
+(first torrent!)

@@ -1,0 +1,69 @@
+________________NUME-FILM_________________________
+  
+The.Hike - 2011.By.AltriX   
+                                  
+________________INFO______________________________
+
+IMDB : http://www.imdb.com/title/tt1572194/
+
+INFO VIDEO:
+
+ General
+Nume complet                             : D:\FILME_2\The.Hike - 2011.By.AltriX\The.Hike - 2011.avi
+Format                                   : AVI
+Format/                                  : Audio Video Interleave
+Dimensiunea fisierului                   : 700 MiB
+Duration/String                          : 1h 23mn
+OverallBitRate_Mode/String               : Variable
+BitRate general                          : 1 177 Kbps
+Dezvoltator aplicatie                    : VirtualDubMod 1.5.10.2 (build 2540/release)
+Dezvoltator biblioteci                   : VirtualDubMod build 2540/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format_Profile                           : Advanced Simple@L5
+Format_Settings_BVOP/String              : 2
+Format_Settings_QPel/String              : No
+Format_Settings_GMC/String               : No warppoints
+Format_Settings_Matrix/String            : Default (H.263)
+MuxingMode                               : Packed bitstream
+CodecID                                  : XVID
+/                                        : XviD
+Duration/String                          : 1h 23mn
+BitRate/String                           : 1 034 Kbps
+Latime                                   : 640 pixels
+Inaltime                                 : 272 pixels
+Raport imagine                           : 2.35:1
+Frecventa cadre                          : 25.000 fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8 bits
+ScanType/String                          : Progressive
+Compression_Mode/String                  : Lossy
+Bits-(Pixel*Frame)                       : 0.238
+StreamSize/String                        : 615 MiB (88%)
+Dezvoltator biblioteci                   : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format_Version                           : Version 1
+Format_Profile                           : Layer 3
+Format_Settings_Mode                     : Joint stereo
+Format_Settings_ModeExtension            : MS Stereo
+CodecID                                  : 55
+/                                        : MP3
+Duration/String                          : 1h 23mn
+BitRate_Mode/String                      : Variable
+BitRate/String                           : 130 Kbps
+BitRate_Minimum/String                   : 32.0 Kbps
+Canal(e)                                 : 2 channels
+SamplingRate/String                      : 48.0 KHz
+Compression_Mode/String                  : Lossy
+StreamSize/String                        : 77.1 MiB (11%)
+Alignment/String                         : Aligned on interleaves
+Interleave_Duration/String               : 24 ms (0.60 video frame)
+Interleave_Preload/String                : 142 ms
+Dezvoltator biblioteci                   : LAME3.98r
+Setari codare                            : -m j -V 5 -q 2 -lowpass 16.5 --vbr-new -b 32

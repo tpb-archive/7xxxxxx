@@ -1,0 +1,9 @@
+Changelog:
+- Weapons can stick with multiple blades
+- Detail textures, materials, and detail objects live update from level xml
+- Detail objects have min/max embed and scale values
+- Detail objects have controllable view distance
+- Fixed problem with detail objects in split-screen
+- Fixed missing struggle when choking
+- Fixed crash when deleting attached weapons
+- Fixed problem with weapon sticking

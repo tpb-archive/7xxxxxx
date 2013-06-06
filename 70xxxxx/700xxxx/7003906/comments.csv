@@ -1,0 +1,92 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-02-02T15:37Z,"TESTED ON WINDOWS 7 32bit and 1GIG LAN card
+and i7 4 core.4 threads HP Laptop and a ACER travelmate
+dual core dou (although its much slower on that one
+when playing games but it still works) ideal 1024x700 graphics
+so you wont strain your eyes like watch a phone :)
+remember its a phone running on windows so you treat
+the mouse as if its a finger for dragging sliding and tapping!
+HOME key is for home and ESC is back and cursors
+can move pages and selections and space to select i think
+or was it Enter. special functions like CTL-F1 and F4 dont work
+in this build"
+[V],psspss,2012-02-02T22:38Z,"looks like the seeding stuffed up over night
+while slept.. utorrent slowed it as it reached my
+first data share cap.. should be almost seeded out
+now as given it some more data!
+geeh only 6 hours sleep :* going back to bed :/
+
+
+
+i put some aussie sytle pokers on this image for those australians out there
+they are a bit better then the pc ones I think but may be slow if
+not got fast lappy or pc to run virtualised!
+
+great for testing apps that arent arm specific or needing
+sensors but you can use web based chat soft on it
+thats for android only too"
+[T],Tom_Da_Man,2012-02-02T23:23Z,"Works great on my i7. Tested it on my laptop and what do you know: Works on AMD APU also.
+
+Thnx 4 the up."
+[V],psspss,2012-02-04T08:49Z,"some having net issues will not be this iso 
+but vmware or pc or firewall etc setup
+
+without the net will make it harder and less fun.. you wont be
+able to peer connect to NAS or windows pcs or the host pc or other phones
+via the lan/wifi and grab and share apps :)
+
+shared folder arent working.. but im sure someone will come out with a new iso build with it and more fixes in time but for now this is good
+as gold.
+
+to trouble shoot vmware network try this link
+http://blog.unixwiz.net/2010/09/vmware-workstation-there-are-no-un-bridged-host-network-adapters.html
+
+other useful links
+http://groups.google.com/group/android-x86?pli=1
+
+and
+http://forum.xda-developers.com/showthread.php?t=941654
+
+try their main site ,.. you can get other older isos 2.3 etc
+live cds that work on various old laptops
+outside VM
+http://www.android-x86.org/
+
+but I like vmware as you can run xp and android in vmware at same time
+and use windows 7 for main host like im doing :)
+
+and its still flipping fast as !"
+[V],psspss,2012-02-04T08:53Z,"also check your firewall something simple can stuff things up
+
+for bridge to work remember your need to provide it a ip
+normally your home lan has a router doing that out of the box
+
+nat shares the ip with host pc so both use the same lan card
+that way nat in vmware has its own dhcp setup i normally leave
+it on the defaults.. but you can go to the network prefs
+and do a restore defaults
+
+i find sometimes installing other problems like Virtualbox
+messes it up
+
+and I find virutalbox and vmware arent aware of each other
+both can install their filter drive in each others filter driver
+so check properties and untick it if its listed in vmwares
+bridge driver.
+
+reboot after"
+,ih57452,2012-03-04T21:20Z,"To keep the screen from timing out, check Stay Awake in the Developer Options section. Since it thinks it is always charging, it will not let the screen sleep."
+,shorty19cm,2012-07-18T09:57Z,"can anyone tell me how to install the vmware tools on this ? is this necesary , sa i can access a share folder between the android and my win 7 - 64 bit os x? what can I do to have a share folder?"
+,style89,2012-07-29T13:34Z,works great on core 2 duo .....just increase the setting memory to 2gb and give the  2 cores of processor  
+[V],psspss,2012-09-22T14:29Z,"vmware has banned virtual android and refuse to
+make a sharedfolder tools..
+
+
+someone on the forum may of written a addon hack by now since this is old now
+
+if you read what i said,. you use the apps
+preinstalled to share windows shares
+
+samba as its called.
+
+works same as vmware tools sharing"

@@ -1,0 +1,24 @@
+The unofficial, Overgrowth a171 leaked build is here!
+
+Changelog:
+- Added scriptable HUD images
+- Added versus mode HUD with scripted sound and animation
+- Improved versus camera tilt
+- Improved support for more than one controller
+- Controller settings live update
+- Fixed leg stretching when characters collide
+- Added some 'threat' poses when holding attack key
+- Testing out 'multiple lives' damage model
+- Fixed problem with non-square compressed textures
+- Fixed bug when level resets while one character is standing on another
+- Characters look at defeated enemies
+
+A "leaked build" is when John and I grab the latest SVN build and package it up for you guys. It has a ton of known bugs, so don't worry if it doesn't work for you. It is not condoned by David and Aubrey but we want to keep you guys in the loop and give you stuff to play with regularly!
+
+If you find any bugs, please email a full description along with your system specs to bugs@wolfire.com. We are testing out a new bug system.
+
+*NOTE* Please remember that these are unofficial alphas and they do not represent a finished product. They are not even polished builds, just straight up raw development dumps not intended for public consumption.
+
+
+This is the full version, if you just want the changes from the last alpha to a171 : 
+http://cdn.wolfire.com/alpha/diffs/a171.zip

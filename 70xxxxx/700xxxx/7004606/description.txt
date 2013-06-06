@@ -1,0 +1,48 @@
+By: SP@DE305
+
+This is a VMware ThinApp version of ProxyCap 5.01.6 
+pre-cracked by the "Team ZWT" patch + serial,etc..
+
+
+So this is how to Install ProxyCap and all new versions (when they are released)
+with a "lifetime Activation" and no more "this is not a genuine version" crap.
+
+
+Needs just clean ProxyCap 5.01.6 setup files, 
+because the virtual application was created in a clean virtual machine,
+and it will give an error stating: 
+"this ProxyCap configuration isn't compatible with this machine blah-blah-blah"
+
+________________________________________________________________________________
+3 files includes: ProxyCap.exe, Setup.msi, and ReadMe.txt
+
+*Must extract from compressed 7zip file
+
+Instructions:
+
+1) Remove any Existing Installations of ProxyCap
+2) Run Setup.msi (which is ProxyCap 5.01.6 for what I used for virtualizing)
+3) In Start Menu click "Run" and type "services.msc",
+   then hit enter and find & disable "ProxyCap Service" from starting up.
+3b) In "Run" type "msconfig" and hit enter, 
+    then in the startup tab uncheck "pcapui" and apply changes.
+
+4) Copy "ProxyCap.exe" to Startup folder in Start Menu ---> All Programs
+5) Launch "ProxyCap.exe" to generate "ProxyCap" program folder.
+6) Apply Hidden attribute to "ProxyCap" folder (right-click, and properties)
+_________________________________________________________________________________
+NOTE: for any newer ProxyCap releases you would need to re-virtualize 
+the program yourself and replace the old one in the startup folder, and follow the
+same setup procedures (unless someone else found a better solution).
+
+NOTE#2: Preferences can be saved, I tested it using proxies and saving settings, restarting
+still keeps your settings.
+
+Platforms Tested On: Windows XP, but I'm sure it should be compatible with Windows 7 as well 
+since the directories in XP are pretty much identical to 7, except for the registry... 
+(but since it's a "virtual app" it should work fine)
+
+
+BTW I made VMware ThinApp say "Licensed to Team ZWT", because they should get most of the credit,
+because virtualizing is easy peezy and most of the work is in the crack. The virtualized ProxyCap
+simply isolates itself from being detected as a non-genuine version.

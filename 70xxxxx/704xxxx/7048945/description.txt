@@ -1,0 +1,82 @@
+Launcher 7 - Donate v1.1.6.5
+
+
+The Winphone 7 lookalike launcher, almost like the real thing and in some ways even better!
+
+
+Requires Android: 2.1+
+
+Release Date: February 20, 2012
+
+
+Features:
+
+- 1x1, 2x1 and 1x2 tiles with configurable colors
+- Widgets in a tile! (provided that widget fits)
+- Almost real like tile animation
+- Almost real like tile re-arrange mode
+- Almost real like status bar
+- Animated contacts tile (supports G+ synced contacts)
+- Pinnable contact-tile which animates like the real phone
+- Folder tiles
+- Webpage tiles
+- Filterable application list
+- Stock wp7-like colors and color selection
+
+FAQ:
+
+- Initial setup may be broken depending on your phone manufacturer, you probably need to replace the tiles
+- To add new application to main screen, long press on an application in application drawer and select "pin to home screen"
+- Filtered apps can be restored from the launcher settings fitered apps page
+- Tiles can be made transparent by adjusting the alpha value from the horizontal bar on the color selector
+- All bitmaps must fit inside 48 megabyte heap (high-end phones, lower-end phones even less than that), so don't try to use too many 25 megabyte bitmaps on your tiles or you will see FC.
+- Gmail tile will not work anymore, use Mail tile instead
+- By default WP7 statusbar shows icons only if you touch it. You can adjust the functionality from statusbar options
+- "Smaller tiles" will make 1x1 tile to 172x172 pixels in HDPI resolution. I managed to measure the tiles wrong when I started developing L7 and tiles have been too big ever since. 172x172 tiles seem to be faster too, so I suggest you to try them!
+
+TODO-list:
+- folder of contacts tile
+- revamp the application icon addition (allow text color selection etc)
+- App integration (Twitter, Facebook etc.)
+- two-sided tiles
+- cropping tool to make custom bitmap selection easier
+
+Changelog 
+
+> Version 1.1.5
+- Picture hub is now available
+- Shortcuts can be assigned to tiles [BIG NOTE: you can only add shortcut to an existing app tile, so pin something from app drawer and modify it to contain shortcut]
+- Wp7-style statusbar has been updated
+- fixed an issue with background polling
+- error reporting updated
+- Create default tiles-button will now show only once, L7 settings will let you create the default tiles if you miss the prompt
+
+> 1.1.5.5: enabled large heap on ICS to reduce OOM:s
+- added warning to picture hub
+- OOMing picture hub or contact tile shouldn't block rendering the rest of the tiles (unless they run out of memory too, in which case you are totally out of luck)
+- Data connectivity state is no longer displayed if data connection is off
+- Couple of stupid crashes fixed
+
+> Version 1.1.4
+- rotating tiles have made an epic return
+- orientation lock on the first page will enable / disable real landscape mode, the rotating tiles is back in animation options and will have function ONLY and ONLY if you lock the orientation to portrait
+- sluggish ICS scrolling fixed [really, this time I actually activated the APK :P ]
+- fixed issue where async loader no longer delivered new contact images to contact tiles
+- fixed issue where multiple contact tiles wasted extra memory
+
+What's in this version:
+
+_ application caching added
+> 1.1.6.1 - uninstall crash fixed
+> 1.1.6.2 - stock accent no longer messes up global theme color
+> 1.1.6.4 - some tuning to cache process, attempts to avoid duplicate entries
+> 1.1.6.5 - more tweaks for duplicates while caching
+
+Screenshots
+ 
+http://img864.imageshack.us/img864/1367/001aiq.jpg 
+http://img109.imageshack.us/img109/333/002wfha.jpg 
+http://img13.imageshack.us/img13/1939/003clf.jpg
+
+Enjoy and Please SeeD :)
+

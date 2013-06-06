@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,JUHAX69X,2012-02-17T23:35Z,"English: 
+Just waited this for a month again... THANK YOU..!! How about that .Net 4 framework..? Did You removed KB971033..??? That KB is very seriously..! Hello, MODÂ´s: Give this Guy The Skull..!
+
+Finnish: 
+KIITOS TAAS..! Miten tuo KB971033 ja .Net 4 Framewok..?????? Joko kumpikaan lapasessa..?? KIITOS jokatapauksessa..!! Edelliset uploadaukset pelitti hienosti ja toivottavasti tÃ¤mÃ¤kin. Ota minuun foorumilla yhteyttÃ¤, please... Helou Suomikaverit??: Ladatkaa ja seedatkaa... 
+Lataamatta ja vielÃ¤ kokeilematta, mutta silti uskallan sanoa: KIITOS talisieppo..! PÃ¤Ã¤kalloa ehdotan..."
+,talisieppo,2012-02-18T08:37Z,"http://forums.mydigitallife.info/threads/31537-Will-KB971033-Destroy-Daz-Loader-2-1
+
+Windows Loader v2.1 ohjelmalla aktivointi onnistuu vaikka KB971033 on asennettu, joten KB971033 on integroituna.
+
+.NET Framework 4 versiota en integroi, koska se ei ole Windows Updaten päivitys. Olen integroinut vain Windows Updaten päivitykset (paitsi Malicious Software Removal Tool ja Windows Defender definition)."
+,JUHAX69X,2012-02-20T15:43Z,Kappas. Mullakin oli väärä tieto/luulo tuosta KB971033 päivityksestä. Hyvä kun oikaisit ja annoit tuon MDL-linkin. Kiitoksia uploadauksesta ja tsemppiä jatkoonkin...
+,iwanthelpusually,2012-02-20T19:21Z,does anyone know where i can find an english 32 bit windows--any windows version (except vista)
+,talisieppo,2012-02-21T00:19Z,".NET Framework 4 on sittenkin Windows Updaten päivitys, ilmestyy vain myöhemmin näkyville kuin muut päivitykset.
+
+Mutta .NET 4 versiota ei voi integroida asennusmediaan samalla lailla kuin muita päivityksiä, vaan se pitäisi tehdä niin että .NET 4 (ja .NET 4:n päivitykset) asentuu automaattisesti online asennuksena Windows 7:n asennuksen lopussa.
+
+Toivottavasti .NET 4 on Windows 7 SP2 versiossa valmiina."

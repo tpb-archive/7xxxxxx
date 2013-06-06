@@ -1,0 +1,19 @@
+Kurz-Beschreibung:
+==================
+Mit diesem Tool ist es mÃ¶glich Festnetznummern aus Deutschland, Schweiz
+und Ã–sterreich mit Anrufen zu \\\\\\\"bombadieren\\\\\\\". HeiÃŸt, das Tool ruft
+eine angegebene Nummer beliebig oft an und legt auf nachdem der Angerufene
+das Telefon abnimmt.
+
+Inkl. Status \\\\\\\"Log\\\\\\\" in dem mitverfolgt werden kann wenn der Angerufene das Telefon abgenommen hat.
+
+Anzahl Anrufe: Wie oft die angegebene Nummer angerufen werden soll
+Pause: Die Pause zwischen den Anrufen (mind. 10)
+
+InkompatibilitÃ¤t/Bugs:
+=================
+Funktioniert nicht auf Computern ohne eine aktuelle .NET Framework Version.
+
+
+Hinweis: Solltet ihr eine Nummer wirklich dauerhaft vollbomben, solltet ihr zu aller Sicherheit einen Socks5 oder VPN benutzen.
+Im Grunde kann nix passieren, aber sicher ist sicher! 

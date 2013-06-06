@@ -1,0 +1,29 @@
+In C:\EQMac, right click eqw.exe > Properties > Compatibility Settings > Check Run as Administrator > OK. 
+Run eqw.exe 
+If you cannot get it to work (experience weird error), rerun eqw.exe and check "Fix eqclient.ini". This should fix the problem. 
+IMPORTANT: Edit eqclient.ini NewUI=TRUE instead of NewUI=FALSE (This removes the Classic and Velious UI in favor of the Luclin UI, however, the client is much more stable and actually 100% playable as opposed to playing with the older UIs. My suggestion: try the old UIs for a little bit for nostalgia purposes, but inevitably you should switch to Luclin UI for full game functionality! )
+(Optional): Rename eqtheme.mp3, combattheme1.mp3, combattheme2.mp3, deaththeme.mp3, lavastorm.mp3, guk.mp3, and nektulos.mp3 to have the original classic MIDI versions restored!
+(Optional): Go to eqclient.ini, and change LOADARMOR17 through LOADARMOR23 from =FALSE to =TRUE. Change LoadVeliousArmorsWithLuclin=FALSE to LoadVeliousArmorsWithLuclin=TRUE (This will allow you to see Velious armor skins)
+
+FAQ
+
+What is EQMac, and why is it so special? 
+EQMac's Al`Kabor server is a server trapped in time. It's final patch coincided with an EQPC patch from late 2002. It features the original zones and most of the original models from EverQuest Vanilla through the Planes of Power expansion. Except for a few miscellaneous updates such as changes to encounters in Ragrax, Stronghold of the Twelve's Rathe Council boss encounter, and fixes to Plane of Time, it is exactly how it was back in late 2002.
+
+Is EQMac an emulator? 
+No, it's a live SOE server. It functions very well, and is more functional than traditional "emulated" classic servers. Additionally, most EverQuest emulators force you to use the Trilogy client or later. This allows you to use the classic client that you grew to love from the early days of the game.
+
+How much does EQMac cost to play? 
+Nothing! Account activation is free, and the subscription fee has been removed as of February 14th, 2012. I urge you to e-mail SOE and thank them for making such an amazing server! 
+
+Is this mod illegal to use on the server? 
+Hard question to answer -- although it is very unlikely any action will be taken towards your account. Dozens of people have been using this patch on the server so far with no issues, myself included. I've talked in game face to face with EQMac's only Coder using the client, and didn't get banned. So you should be fine.
+
+Is there any known bugs with this PC EQMac client? 
+Yes, but only if you opt to use the Classic and Velious UIs over the Luclin UI. The ones I've found are as follows: 
+-Cannot buy or sell using Bazaar zone traders. 
+-Cannot link items or see item links. 
+-Cannot talk in raid chat or see the raid window (can still receive raid experience and see others talk in raid)
+-Cannot use 1600x1200 resolution in the Velious UI (reverts to 640x480)
+-Music will often continue looping even if you have left the area it's from (main/character load theme most common) 
+-Some items are invisible on corpses and in your inventory. (Uncommon, only noticed a random PoP quest item doing this so far.)

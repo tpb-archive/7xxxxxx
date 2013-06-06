@@ -1,0 +1,14 @@
+Multi-VM anonymity setup using Tor's Transparent Proxy 
+Description
+TorBOX is a multi-system anonymity setup built around Tor's Transparent Proxy. The basic idea is that Tor and clients using Tor run on two different isolated operating systems. This is the only way we know of that can protect against all client application vulnerabilities and leaks.
+This setup can be implemented either through virtualization or through two dedicated computers instead of VMs.
+Our binary distribution setup uses VirtualBox and Ubuntu as the software platform other software platforms may be used (e.g. VMware and Debian) but this is neither supported nor tested. 
+http://sourceforge.net/projects/torbox/
+
+Initial Alpha Release of Tor-Workstation 
+username: user 
+password: changeme 
+(for people not familiar with openbox: right click on the desktop for the menu) 
+
+sha1sum : 6a5bb3fb44a9b2eba4fb845f9ac684f28978416d  tor-workstation.ova
+md5sum : 4b559b1bf782ae100a003aa058a81f0c  tor-workstation.ova

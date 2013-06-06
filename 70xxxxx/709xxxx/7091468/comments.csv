@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,Darkdragontc,2012-03-10T17:47Z,"**To help you with those who don't understand..
+
+For those of you accustomed to WifiWay and do not wish to have to use the Live CD every time you want to use this wonderful program, here I present version 3.4 already installed on a virtual machine and the ""Guest Additions"" also in place so you just have to, after installing VirtualBox, download the file, unzip it, create a virtual machine ""Other Linux Kernel 2.6"" in VirtualBox and use as a hard disk file ""Wifiway34.vdi"" that you obtained with decompression.
+
+In addition, it also includes a tutorial with which to make future installations of WifiWay in a virtual machine."
+,jimbus80,2012-03-12T19:30Z,"Para aquellos que estén teniendo problemas para usar el .vdi en su VirtualBox, la solución está aquí:
+
+http://archibinario.com/2011/04/cambiar-uuid-vdi-en-virtualbox/"

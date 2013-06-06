@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,Dag0Red,2012-02-18T15:55Z,"Ok, I'm gettin' really angry here. The SKIDROW Crusader Kings II game works fine, but I can't get a singe one of these updates to work.
+
+Every time I try to run the Crusader.Kings.II.Update .EXE file, I get ""The system cannot find the path specified."" error message.
+
+This happened with every single update .EXE file available here, both update 1 and update 2. The game is installed in the default folder. Please help."
+,Dag0Red,2012-02-18T15:58Z,Does it have something to do with my anti-virus protection? How do I fix it? Thanks.
+,Gradimir87,2012-02-18T16:33Z,skidrow you are the best can you please uploaded mortal kombat??
+,dudeness88,2012-02-18T16:48Z,"@Dag0Red
+
+man this is obvious that your windows driver letter is not C.  the installer is trying to locate and install into drive C:\ by default and your hard drive letter is labeled differently.
+
+I would recommend running the setup file on a computer that has drive C, or create one yourself or put usb stick and assaign it C. than you can copy the extracted files to whatever harddrive  your game is installed."
+,Dag0Red,2012-02-18T17:43Z,"Haha thanks man, what a stupid mistake.."
+,tempros123,2012-02-18T20:14Z,"This is the fix i used for the COA DLC go to Crusader kings directory, open the interface folder,  find the coat_of_arms.txt,  Scroll down to 		texture = {
+file = ""gfx\\coats_of_arms\\dynasties.tga""
+size = { x = 16 y = 4 }
+and change the size to 
+size = { x = 51 y = 1 }
+this should fix it.  
+
+
+(It seems to me that paradox updated the dynasties.tga that's why it takes a re-install from GG to download the new dynasties.tga which uses the new size settings in the 1.03 patch)"
+,tempros123,2012-02-18T20:17Z,"This is the fix i used for the COA DLC go to Crusader kings directory, open the interface folder,  find the coat_of_arms.txt,  Scroll down to 		 find the referense to dynasties.tga with the size
+ x = 16 y = 4 
+and change the size to 
+ x = 51 y = 1
+this should fix it.  
+
+
+(It seems to me that paradox updated the dynasties.tga that's why it takes a re-install from GG to download the new dynasties.tga which uses the new size settings in the 1.03 patch)"
+,Dag0Red,2012-02-18T21:59Z,"Doesn't fix it for me. Maybe that fixes some coats of arms, but not the one's I noticed."
+,Dag0Red,2012-02-18T22:08Z,"Excellent work, but the coats-of-arms problem needs fixing guys"
+,Dag0Red,2012-02-18T22:18Z,"Excellent work fellas, but the coats of arms issue is a problem that really should be fixed."
+,Benerfe,2012-03-09T01:14Z,"Where are the Mongols? Before the Skidrow update you get control of them..
+
+Now they don't even show up?"
+,clamschop,2012-04-20T22:00Z,When is update 3 with 1.05c and new dlcs coming up?
+,kcovni,2012-06-30T15:02Z,"For those having problems with coat of arms and mixed-up flags after installing SKIDROW's updates 1&2, the fix is here :
+
+http://thepiratebay.se/torrent/7400740
+(FixForFlags - 10.23MB)"
+,kcovni,2012-06-30T15:14Z,"For those having problems with coat of arms and mixed-up flags after installing SKIDROW's updates 1&2, the fix is here :
+
+http://thepiratebay.se/torrent/7400740
+(FixForFlags - 10.23MB) "

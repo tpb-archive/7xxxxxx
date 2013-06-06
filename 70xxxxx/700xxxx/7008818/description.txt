@@ -1,0 +1,15 @@
+Raise Data Recovery for FAT product is specially designed for lost and deleted files recovery from FAT-formatted removable storages, as well as legacy hard disk partitions with FAT file system. This includes FAT and FAT32 disk partition created with old Windows 9x/ME, most popular flash memory cards, memory sticks and other popular portable storages with FAT or FAT32 file systems.
+
+Raise Data Recovery for NTFS product is specially designed for lost and deleted files recovery from NTFS-formatted storages, created with Windows NT4 and later. This includes Windows NT4, Windows 2000, XP, Vista, Windows 7 and their server editions. Software supports hard disks, removable storages, disk images, virtual disks of virtual machines, created with virtualization software of major vendors. The software mostly targets individual disks or disk volumes, however it supports RAID recovery with RAID Access Plugin - RAID Builder as well.
+
+The key product features include:
+- Host OS: Supported Microsoft Windows 2000, XP, 2003 Server, Vista, 2008 Server. Raise Data Recovery works with Windows 7.
+- Recognized file systems: FAT and NTFS (Windows); HFS+/HFSX and old HFS (Apple Mac OS); Ext2, Ext3, Ext4, XFS, ReiserFS and JFS (Linux); UFS and UFS2 (Unix, BSD, Sun Solaris; both Sparc/Power and x86/x64 editions); traditional NWFS (Novell Netware); vendor customizations to XFS and UFS file systems.
+- Multiple styles of disk partitions layout: Supported all major styles of disk partitions layout used with supported file systems.
+- RAID recovery: only supported with RAID Access Plugin - RAID Builder.
+- Recovery: lost file systems recovery, deleted files recovery (undelete), damaged file systems reconstruction.
+- Localization: Raise Data Recovery identifies localized file names even on non-unicode file systems and recognizes UTF-16, UTF-8 and ASCII with local code pages.
+- Additional features: Save/restore scan results.
+
+Homepage: www.ufsexplorer.com
+OS: Windows: NT4 SP6, 2000, XP, Vista, 7, 2000-2008

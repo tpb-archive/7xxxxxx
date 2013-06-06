@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,mr.playa.ma,2012-02-15T18:37Z,does this include the DLC's ??
+,Valamyr82,2012-02-15T18:51Z,"Thanks a ton. Now we only need the 3 DLCs; music, coats of arms and mongol faces."
+,Valamyr82,2012-02-15T19:02Z,Nevermind! The 2 basic DLCs are in. Its only missing the extra music dlc they threw in last minute.
+,kret11,2012-02-15T19:14Z,"I'm getting error ""Error:access denied"" after 10sec of downloading... any idea why?"
+,tolga00,2012-02-15T19:28Z,Thank you so much! 
+,BrokeRobot,2012-02-15T19:42Z,"lasskke, you beautiful bastard.  teh internets love you"
+,lasskke,2012-02-15T20:18Z,"haha,thx robot, dont mention it.
+This version include 2 DLC:
+1.Dynasty Coat of Arms Pack 1
+2.Mongol Face Pack
+But we all want SKIDROW realise with all dlc's!!!"
+,Valamyr82,2012-02-15T20:18Z,"If someone finds or has Songs of Albion and Songs of Faith, the music DLCs, let us know :)"
+,lasskke,2012-02-15T20:19Z,P.S. SRBIJA!!! :)
+,BrokeRobot,2012-02-15T20:23Z,Just checked and its the proper checksum.  Thanks again lasskke.  
+,jallp7,2012-02-16T08:06Z,"Everything is working great except for the fact that the min levy modifier from low,medium, high or max crown authority isn't working for any of the kingdoms despite working fine for the two empires (HRE and Byzantines)."
+,markofbear,2012-02-16T18:29Z,"Fast download, fast installer, no virus alerts props to you man very nice work!"
+,jallp7,2012-02-17T21:08Z,Can any one explain why the minimum levy modifier is not working for kingdoms?
+,BrokeRobot,2012-02-18T04:03Z,"jallp I'm not sure, the correct checksum suggests to me that there is no problem with this torrent.  try updating to 1.03b from the patcher"
+,riknap,2012-02-18T14:19Z,"Has anyone found out how to disable the COA DLC? Or rather, how to ""uninstall and reinstall"" it? The forum says something about uninstalling from the ingame store, but doing so only shows a ""buy"" option (of course), so... how do we do this?"
+,alvertis4,2012-02-18T23:45Z,"The checksum is also correct after updating to 1.03(just open the launcher, check for update, download and install ;p)
+The dynasty CoAs can be fixed by(copied from a comment on the other release's torrent, solution by tempros123): 
+""This is the fix i used for the COA DLC go to Crusader kings directory, open the interface folder, find the coat_of_arms.txt, Scroll down to texture = {
+file = ""gfx\\coats_of_arms\\dynasties.tga""
+size = { x = 16 y = 4 }
+and change the size to
+size = { x = 51 y = 1 }
+this should fix it. """
+,Ixor779,2012-02-19T05:02Z,No issues unlike the SKIDROW version. Updates fine as well.
+,MP4SS,2012-03-20T02:18Z,"Great find lasskke! You get a + rate from me.
+
+This is what Skidrow has missed with their release, 1.02b! They are using the 1.0 version and none of the updates include 1.02b, unlike this one that can be updated with the latest offical patch. You can download the update from any gaming website.
+
+I'm running this with update 1.04c and get the same checksum as the Paradox release notes on their forum."
+,RedCobra4,2012-04-24T21:26Z,i cant seem to get it to update any idea what i am doing wrong as i update it from the loader in the game

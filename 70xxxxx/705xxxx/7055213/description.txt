@@ -1,0 +1,23 @@
+FOR TESTING
+
+FreeOSX (old Fake OSX)
+Free operating system with a mac equivalent desktop
+
+Description
+FreeOSX is an Ubuntu-based distribution with Gnome by default desktop.
+Also our goal is to reproduce an a-like machintosh desktop.
+Two releases are available, one with Gnome 2 and the second with Gnome 3. More info :
+FreeOSX (old Fake OSX) Web Site 
+# Based on Debian/Ubuntu 11.10
+# Architecture : 64
+# Kernel : Linux 3.0.0-12-Generic
+# Dekstop : Gnome 3.2.1
+# File browser : Nautilus 3.2.1 and Marlin 0.1
+# Web browser : Firefox 10.0.1
+# Ubuntu security updates until april 2013
+ 
+http://sourceforge.net/projects/fakeosx/ 
+http://sourceforge.net/p/fakeosx/wiki/Fake%20home/
+
+sha1sum : ab8aba048ff626ccf9d1e4d2f2f2d273e6896bab  free-osx312.iso
+md5sum : 9f4e40f4cbfda217120f1b9cbaffc59a  free-osx312.iso

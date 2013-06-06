@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,TxJag,2012-03-10T22:17Z,You might be behind cause iTunes just updated to 10.6 the other day.
+,onceuponapirate,2012-03-22T14:48Z,"DO NOT update your itunes to 10.6!!  It breaks requiem.  If you want this app to work to de-DRM your stuff, DON'T UPGRADE ITUNES past 10.5.3."
+,t00b2012,2012-04-26T13:17Z,"Thanks for the upload. This worked nicely. I did have some problems but was able to solve them with this guide:
+http://www.epubor.com/remove-ibooks-drm-read-ibooks-on-pc.html
+
+I reverted to an older version of iTunes, got 32-bit Java, deleted my iTunes folder and re-authorized my PC and then it worked. I have bought the books I'm decrypting and will put them on the Pirate Bay."
+,t00b2012,2012-04-26T14:42Z,"After checking the e-book it appears to be scrambled or empty. I did get a success message from Requiem, but in Calibre the e-book looks scrambled and in Aldiko for android it appears empty. If anyone has tips, let me know."
+,TxJag,2012-06-25T19:22Z,They FINALLY patched it. I've ran this since I downloaded it in March.
+,onceuponapirate,2012-08-06T08:17Z,"This wont work on HD stuff in the new itunes, but it can still work on your SD purchases.  For those of you with an old ipod or iphone here's one workaround:
+1) put the drm'd movie/show on your ipod/iphone (I did it on one running 4.2.1, if you're using something newer YMMV.)
+2) right click on your ipod/iphone in the itunes sidebar and select ""backup""
+3) Delete the movie from your itunes library.
+4) sync the ipod/iphone - a pop-up will say that you have purchased material on your ipod that is not in your library.  Do you want to transfer it?  Click ""yes.""
+5) Once itunes finishes copying the movie back into your itunes library, run Requiem 3.3.5, it should now be able to decrypt your .m4v file."

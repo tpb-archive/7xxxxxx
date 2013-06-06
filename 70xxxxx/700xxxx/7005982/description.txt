@@ -1,0 +1,28 @@
+Rage Update 2 info:
+
+RAGE 1.2 Patch Release Notes
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€“
+This RAGE patch adds some new features and addresses various compatibility and performance issues.
+
+New Functionality
+â€”â€”â€”â€”â€”â€”â€”â€”
+Texture Detail: Enabling Texture Detail will improve up-close texture quality by performing upsampling with adaptive sharpening. This does not update or increase the resolution of the base textures included with the game but improves the perceived resolution and crispness of textures. This is an intensive operation and is only recommended if you have a quad-core CPU or higher. Please disable this feature if you encounter poor performance, stability issues or are given a notification that the game has run out of memory after loading a map. The Texture Detail option can be found in the Settings -> Video Menu.
+
+Transcode Benchmark: A new benchmark has been added that determines how quickly texture data can be translated from the compressed format on your hard drive to a format that can be used by your video card. The higher your score, the faster your PC is able to make higher detail texture data available. This is not a traditional benchmark that runs through a scene of the game and returns a min/max/average framerate based on hardware and video settings. Other than the GPU Transcode option, the score will not be affected by changing any video settings. The Transcode Benchmark option can be found in the Settings -> Video Menu.
+
+Error Messaging: If you attempt to apply video settings on a system that is not capable of handling them, an error may come up stating that your system ran out of memory. You will be allowed to continue, however, it is recommended that you either reduce your video settings until this message no longer occurs or you will be asked to restart the game with lower video settings. If you ignore this error and continue playing without altering your settings you will likely encounter texture corruption and/or system instability.
+
+Automatic Video Settings Fallbacks: When an advanced video setting fails to apply, the setting may be set back to a safe default. Anti-aliasing will fall back to NONE if the allocation of a multi-sampled FBO fails. Texture Cache will fall back to SMALL when the allocation of a large texture cache fails. Texture Detail will fall back to OFF when large page table allocations fail. On failure, these settings will automatically fall back to safe values without the need for user input.
+
+Patch Changes / Fixes
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€“
+- Fixed crash from potentially having stale transcode jobs in flight when switching between texture cache sizes.
+- Fixed crash from using SIMD optimized memcpy with a PBO pointer that is not 16-byte aligned.
+- Fixed GPU transcode option always turning off when restarting the game.
+- Fixed progression in Dead City where player could not advance through sliding door en route to the defibrillator upgrade.
+- Fixed CPU feature detection.
+- Fixed issues with launching MP by using double quotes around path name.
+- Fixed lack of texture detail on parts of the screen at high resolutions due to limited feedback analysis buffer.
+- Fixed thread stack space usage and freed up 700 MB of virtual address space.
+- Re-enabled UBOs.
+- Adjustments to default VDM values for balance.

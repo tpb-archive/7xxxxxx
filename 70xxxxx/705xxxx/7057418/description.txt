@@ -1,0 +1,72 @@
+Designed for direct playback on Apple TV, iPad, iPhone & iPod Touch 4th gen, PS3,                   WDTV, Xbox360,Hour, VLC.
+
+                       Feel The Difference!
+
+Movie Info:
+    
+http://www.imdb.com/title/tt0983193/
+
+Size Of MKV: 2.64GB
+Source: MHD Thanx
+Release Date : 18 November 2011 (Pakistan)
+Genre:   Animation | Action | Adventure
+Film Length: 107 MIN
+Language: English
+Subtitle: Yes English
+Storyline: Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.
+Awards: Nominated for Oscar. Another 10 wins & 22 nominations
+
+Cast:
+
+Jamie Bell, Andy Serkis and Daniel Craig (Voices)
+
+
+Scrren Shots
+ 
+http://www.imagebam.com/image/cceadd176707716
+ 
+http://www.imagebam.com/image/34f92e176707750
+ 
+http://www.imagebam.com/image/a38e86176707772
+ 
+http://www.imagebam.com/image/9694ce176707808
+
+
+Video Specifications:
+
+Format: m4v (Apple Tv 2 Codec)
+Bitrate: 3000 kbps
+Framerate: 23.976 FPS
+Encoder: x264
+Resolution: 1280x544
+Aspect Ratio: 2.35:1
+Advanced Encoding: 2-Pass Encoding
+
+
+Audio 1:
+Codec: AAC Dolby Pro Logic II
+Bitrate: 160 Kbps
+
+Audio 2:
+Codec: Dolby Digital 5.1
+Bitrate: 384 Kbps
+(Apple TV 1st gen use TOSLINK to enable DD, or use WDTV Live, or PS3, or VLC on PC)
+-----------------------------------------------------------------------------------
+
+Xbox360 with Fall 2011 dashboard update will require you to play the video through windows media center and also requires a windows 7 computer. You will need to configure the 360 as an extender and share your movies to it. Your videos will play fine through windows media center on the 360 now.
+
+The other work around to get your video to play via fat32 usb stick or streaming from windows media player would be to remux your video to a plain mp4 container.
+
+This can be accomplished using ffmpeg and the following command line:
+
+ffmpeg -i "my video.m4v" -acodec copy -vcodec copy "my video.mp4"
+
+Otherwise you can attempt to use MP4Box or yamb. Do not re-encode the video and audio streams as they are fine.
+
+WDTV Live user update to at least 1.01.24 firmware.
+
+Apple TV 1st gen user update to 3.0.2 firmware. Use custom iTunes movie sync option "Automatically include the 10 most recent movies along with selected movies."
+
+Apple TV 2nd gen user if you receive Dolby Digital sound via TOSLINK then set Dolby Digital mode to ON setting.
+
+PS3 and WDTV user you may need to rename to .MP4 instead of .M4V (Thanx Holyroses)

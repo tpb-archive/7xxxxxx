@@ -1,0 +1,11 @@
+1) Edit "ad.ini" in NOTEPAD. You can change this strings:
+    
+    TransactorName= Your name - for ex. John Smith
+    TransactorID=   any 6 digits number
+    SerialNumber=   any 7 digits number or let unchanged
+   
+    Save this edited file.
+
+ 2) Run "AltiumDesiger6KEY.exe" and switch to English lang.
+    Click IMPORT INI button and load your "ad9.ini" file.
+    Generate your own license file via EXPORT ALF button.

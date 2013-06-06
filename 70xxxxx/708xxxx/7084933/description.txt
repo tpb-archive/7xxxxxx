@@ -1,0 +1,35 @@
+The purpose of FAN is to supply an installation CD which includes the most-used tools in the Nagios community. The FAN CD-ROM is ISO-certified. It is thus very easy to install. A large number of tools are also being distributed, which makes the implementation of an efficient monitoring platform much easier.
+Linux-based operating system
+
+FAN is based on CentOS. All CentOS packages remain available, so that you can keep all the advantages of CentOS while having the Nagios tools already installed and configured for you.
+
+Integrated tools :
+    * Nagios : core monitoring application;
+
+    * Nagios plug-ins : plug-ins to monitor different equipments;
+    * Centreon : Web interface for Nagios (Centreon is one of the best for this purpose!);
+    * NagVis : advanced mapping (geographical, functional, by servicesΓÇª);
+    * NDOUtils : stores the Nagios data into a MySQL database;
+    * NRPE : makes it possible to monitor the Windows servers (the NRPE daemon is not provided);
+    * NaReTo (Nagios Reporting Tools): reporting tool (availability report). 
+http://www.fullyautomatednagios.org/wordpress/
+
+The Changelog :
+    * Update Nagvis 1.6.3
+    * Update Centreon 2.3.3
+    * Add feature : Manage trap by a poller, see info
+    * Upgrade Centos 5.7
+    * Update fan-backup addon
+    * Fix #3424410 : error adding poller with centreon 2.3
+    * Fix #3453680 : check_snmp_cpfw.pl wrongly handle RRD
+    * Fix #3453695 : typo in dokuwiki start.txt page
+    * Fix #3473370 : Manage Trap by poller
+    * Fix #3474940 : check_nt_service_status
+    * Fix #3474941 : check_manubulon_snmp_process
+    * Fix #3474943 : check_local_swap
+    * Fix #3482140 : ndo2db is not running but subsystem locked 
+http://www.fullyautomatednagios.org/wordpress/changelog-fan-2-3/
+ 
+http://forum.fullyautomatednagios.org/
+
+md5sum : c6c2476b7171b2d7475261410f84fbb2  FAN-2.3-x86_64.iso

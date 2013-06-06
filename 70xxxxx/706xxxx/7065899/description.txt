@@ -1,0 +1,35 @@
+I am pleased to announce the immediate availability of SolusOS Release Candidate 1
+A great many things were fixed in this release, most of them you can get an overview of by clicking the Changelog tab below. Most importantly the kernel was restored to my custom build of 3.0.0-ck1-solusos, which is a desktop optimised kernel using the BFS patch and desktop preemption, giving you the snappiest desktop experience possible. It also uses PAE to allow 32-bit operating systems to see more than 3GB of RAM.
+Your desktop experience is now getting more streamlined with each and every release, this one sees further integration with the Debian backports repository and the PackageKit system, as well as a finer-tuned PulseAudio configuration. We encourage everyone to try this download, and weâ€™re pretty sure youâ€™ll all enjoy it
+FOR TESTING
+
+SolusOS is a modern Linux operating system based on the hugely popular Debian Linux distribution. It works out of the box with great support for all your modern day computing needs. You can enjoy all of the creature comforts of the modern desktop world on an incredibly light system, suitable for old and new computers. 
+
+ChangeLog
+# Switched back to 3.0.0-686-bfs-pae kernel
+# Fixed kernel header issue
+# VirtualBox compilation + guest additions work
+# Further backports integration
+# Installing driver packages now works from repo
+# gnome-packagekit patched (fixes gpk-update-icon)
+# Repository expanded to over 1.3GB (lots of custom builds!)
+# Desktop experience now faster
+# Fixed missing loopback interface issue (thanks to KittyKatt)
+# X-Chat now connects to #SolusOS automatically
+# Firefox and Thunderbird included by default (replacing Chrome)
+# Many base system configuration changes
+# Included fork of mintDesktop tool (solusDesktop)
+# And many more changes that take too long to mention
+ 
+System requirements
+* i686 processor capable of PAE (most modern computers)
+* 512MB RAM
+* 3GB free disk space
+* Display capable of 1024Ã—768 resolution
+* A DVD-RW or USB thumb drive 
+http://solusos.com/
+ 
+http://forums.solusos.com/ 
+http://solusos.com/donations/
+
+md5sum : 01ce3aa0b8516073ea62b2ff4d3b1c77  SolusOS-RC1.iso

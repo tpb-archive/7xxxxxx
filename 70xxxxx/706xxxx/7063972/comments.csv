@@ -1,0 +1,71 @@
+﻿User Type,Username,Date,Text
+,akif_mol,2012-02-28T19:04Z,"thank u so much.
+the best part is when we have guys like u to make it  happen on piratebay"
+,Buelligan826,2012-02-28T21:04Z,"A little while back I had a problem clicking the ""Get This Torrent"" link and was having to click the secondary one.  Now that it is gone I am again having the issue where the torrent doesn't show any files to download.  Anyone have any suggestions on ways to fix this?"
+,Patey,2012-02-28T21:37Z,"@Buelligan826
+
+i had the same issue, even though the files don't show up on torrent start they do once it starts downloading. it randomly started working normally one day but until it did i just didn't download any suspicious torrents."
+,Impavido,2012-02-28T21:44Z,"Buelligan826: Depending on what torrent program you use, try to copi the URL link from the magnet (""get this trorrent"") and simply paste it in to the client (this will work with uTorrent). Or you can try to drag the magnet link in to your torrent client."
+,libertaswv,2012-02-29T05:00Z,@Buelligan826: vuze is magnet-friendly if you're interested in switching things up... ^ Good advice from Patey & Impavido if you're not. 
+,cliftonenrico,2012-02-29T08:26Z,"GODDAMNIT PIRATEBAY!!! ohw well....
+
+magnet link it is then."
+,cindy25,2012-02-29T11:38Z,"thank you; congrats on the pink skull
+
+btw, this is going to be considered episode 110 (with 108-109 next week on tv, this ep not until 3/12)"
+[T],iamgreat,2012-02-29T13:30Z,"Cindy, when i took a look around a few hours ago the only place of any prominence which was claiming this is now the 10th episode is Wikipedia and that can fluctuate quite easily.  iTunes US counts the 2hr premiere as 1 ep and this, when it was available, was ep 7 by their count. A day later and FOX website still has this episode as 8 and 9 for the combo of ""The Ames Brothers"" and ""Sonny Burnett"".
+
+Networks broadcast shows out of their intended order all the time. If you write Alcatraz' sequence as 'broadcast-production' it would be: 1-1, 2-2, 3-3, 4-5, 5-6, 6-8, 7-4, 8-?, 9-?, 10-7, 11-?, 12-?, 13-?. It is however not too often a network broadcasts a show out of the order in which they intended to broadcast it. But FOX did just that with Alcatraz :) 
+
+If FQM or LOL were to release the eps from 5 March as 8 & 9 it will be seriously confusing to many people, especially those who have the 8th ep from here or one of the mkv or mp4 releases of it. It was a last-second thought of that which had me put the episode title title in the file and torrent names. "
+,jbernas,2012-02-29T22:23Z,Can somebody explain me the main difference between the Magnet Link and Get the torrent (that no longer is available)?
+,arildus,2012-03-01T00:05Z,Thanx:)
+[T],whaleoilbeefhooked,2012-03-01T08:48Z,"you now download via magnet
+click the magnet link & open your torrent client as normal-utorrest is very compatible-ALL URL TORRENTS ARE STOPPING 
+CLICK THE MAG LINK 2 DOWNLOAD ITS THE SAME AS B4....JUST BETTER :)"
+,DrMega,2012-03-01T19:08Z,Swesub at addic7ed.com
+,addicted21,2012-03-04T13:49Z,A=?  V=? tnx :)
+,libertaswv,2012-03-05T02:30Z,"To anyone looking for info on the switch to magnet, just about everything was discussed here: http://thepiratebay.se/blog/208
+
+You'll have to scroll through some vitriol, lol... but whatever you're looking for is almost certainly there/linked.
+
+---------
+
+@ addicted21: As grateful as i am to the original encoder, iamgreat, and all s/l's (and i sincerely am), this encode is a bit choppy - at least when encoded/burned w/ convertx. It's almost as if a small percentage of the frames have been removed, or it's playing slow by an almost imperceptible degree. I'm sure someone else could describe it better/more technically, but....in effect, that's what it looks like to me. If you just want to watch the ep, you can probably ignore it, but if you're putting together an omnibus seed or looking for an archive copy, i'd rec you look for a different source. Just my 2Â˘ :)"
+,libertaswv,2012-03-05T02:32Z,Forgot to mention -> eng subs @ addic7ed are solid for this release 
+[T],iamgreat,2012-03-05T16:28Z,"Some people via some means have said there is something screwed up. I offered a release without packed bitstream but the people who complained didn't want to try that so i don't know if that is where the problem lies. I don't see that jitteryness some people say they are getting so troubleshooting is a bit difficult and unless someone can specifically tell me what is wrong i won't be doing any more additional encodings trying to fix a problem i am not seeing. 
+
+If you want to try the non-packed bitstream just ask me for it. "
+,libertaswv,2012-03-06T00:14Z,"I've never seen anything like it, iamgreat - i wish i could offer more constructive troubleshooting. I encoded w/ convertx 3.7.2.188. It isn't awful or anything, like i said, just a bit jittery/choppy. 
+
+Sincerely appreciate your work, regardless of the problems on my end."
+[T],iamgreat,2012-03-06T07:46Z,"Like you say, 'i never encountered anything like this before'.    ... And after tens of thousands have downloaded it it is a bit late to be told there is some glitch that only manifests itself under certain circumstance.  
+
+If you can see the glitch would you have any interest in checking out a couple of alternate encodings and telling me if any of them solve the problem i can't see?   Send me a PM on the forum if you are willing. "
+[T],iamgreat,2012-03-07T15:42Z,"So yeah, after deciding that maybe the rational comments of a couple of people might be of some support to the outrageous claim elsewhere i looked into it again. 
+
+It takes a lot to find something that is incompatible with VLC. That is the premise upon which the software is designed. I have finally replicated the odd claim of 1fps video with audio as it should be. 
+
+When using VirtualDubMod 1.5.10.2, as LOL had done with the previous episodes, use of packed bitstream was completely fine with everything you could play it in.
+
+When using VirtualDubMod 1.5.10.3, as i had, and having packed bitstream enabled it produces a file that is NOT compatible with VLC 2.0 but IS compatible with previous versions of VLC. 
+
+When using VirtualDubMod 1.5.10.3 and NOT enabling packed bitstream it produces a file that IS compatible with VLC 2.0 and previous versions. 
+
+I just had the horrible experience of discovering this on one of the most popular releases in some time. So when i said it played fine for me it really did. I was using VLC 1.1.11, which is from July of 2011. VLC 2.0 came out the last week of February 2012. 
+
+A REPACK is being encoded at this time with VirtualDubMod 1.5.10.2 which should resolve the odd compatibility issues some people have experienced. But with this out to 30 or 40 thousand people via this hash and who knows how many more via other means getting out the fix to those wanting it this late after initial release is not going to be easy.
+
+This issue also affects every single one of my tv rips so far in 2012 and DVDrips at least as far back as ""God's Army"" last December. REPACKS will be made as i have time and where i still have the .ts files but honestly i would have to say this is a fault with the new 2.0 version of VLC. All of these play fine in WMP 12 and VLC 1.1.11 so the fault isn't with me. I don't have the .ts for Sunshine Sketches. "
+[T],iamgreat,2012-03-07T23:06Z,"The ALT encoding w/o packed bitstream:
+
+Alcatraz.s01e08.Clarence.Montgomery.WEB-DL.XviD-Ăž58
+http://thepiratebay.se/torrent/7085245
+
+
+The REPACK w/ Packed bitstream but using the older VDM version:
+
+Alcatraz.s01e08.Clarence.Montgomery.REPACK.WEB-DL.XviD-jAh
+http://thepiratebay.se/torrent/7085254
+
+Both of these should play fine for you in VLC 2.0. "

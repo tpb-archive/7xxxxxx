@@ -1,0 +1,54 @@
+Sallie Ford and the Sound Outside - I Swear [HD] [720p] .mkv
+
+
+Mediainfo:
+
+
+General
+Unique ID                                : 203044464531730867710992669570349313492 (0x98C0F101732AA40420594308893AADD4)
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 77,0MB
+Duration                                 : 3min.
+Overall bit rate                         : 2 969Kbps
+Writing application                      : Lavf52.94.0
+Writing library                          : Lavf52.94.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Si
+Format settings, ReFrames                : 2marcos
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3min.
+Nominal bit rate                         : 2 935Kbps
+Width                                    : 1 280pixeles
+Height                                   : 720pixeles
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23,976fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8bits
+Scan type                                : Progresivo
+Bits/(Pixel*Frame)                       : 0.133
+Writing library                          : x264 core 112 r1834 a51816a
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0 / me=dia / subme=2 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=3 / weightb=0 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=2935 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / ip_ratio=1.41 / aq=1:1.00
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 3min.
+Channel(s)                               : 2canales
+Channel positions                        : Front: L R
+Sampling rate                            : 44,1KHz
+Delay relative to video                  : 70ms
+Default                                  : Si
+Forced                                   : No

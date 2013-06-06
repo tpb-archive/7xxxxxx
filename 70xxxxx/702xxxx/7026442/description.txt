@@ -1,0 +1,9 @@
+Ubuntu Business Desktop Remix is a starting point for large-scale corporate desktop deployments. It is inspired by a review of common changes made by IT departments deploying Ubuntu at scale.
+
+The remix retains all the goodness of Ubuntu and is compatible with all Ubuntu certified hardware, apps and tools, adding business-focused tools from the standard Ubuntu and partner archives and removing home-user oriented apps. There are no modified or enhanced packages in the remix, and the remix gets its security updates from the same place as standard Ubuntu; itâ€™s just a convenient starting point that includes many common changes made by IT administrators deploying Ubuntu in a corporate setting.
+
+This first release includes the Adobe Flash Plugin, VMware View, and the OpenJDK 6 Java run-time environment, while removing social networking and file sharing applications, games and development/sysadmin tools.
+
+The result is a simple base image that can be deployed into your corporate environment or used as a starting point for further customisation. Itâ€™s Ubuntu, Jim, exactly as you know it.
+
+32-bit x86 installation images are available now for free download with registration below. Deployments can be supported through a standard Ubuntu Advantage agreement from Canonical, or unpaid. Management of large scale deployments of this remix or standard Ubuntu Desktop deployments is best achieved with Canonicalâ€™s Landscape management tool. Archives, packages and updates are identical to all other Ubuntu images.

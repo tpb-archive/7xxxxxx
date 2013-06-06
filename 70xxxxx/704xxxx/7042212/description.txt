@@ -1,0 +1,21 @@
+Experience frantic battles in the air with MiniSquadron!
+*** fixed Samsung Galaxy S2 crashes ***
+MiniSquadron is a frantic arcade shooter featuring:
+*Intuitive touch controls
+*Stunning graphics & art
+*Over 50 planes to unlock
+*8 levels of intense combat
+*Local Wi-fi multiplayer
+*Support for Zeemote bluetooth controllers
+Best Action/Arcade Game - Pocket Gamer Awards 2011
+#3 in AppAdvice's "Top 100 iPhone Games of All Time"
+Explanation of permissions:
+ACCESS_NETWORK_STATE - for multiplayer
+ACCESS_WIFI_STATE - for multiplayer
+CHANGE_WIFI_MULTICAST_STATE - for multiplayer
+WAKE_LOCK - to stop the screen dimming/switching off while playing
+INTERNET - for multiplayer and brwoser links to support, and android market.
+WRITE_EXTERNAL_STORAGE - save games are backed up to the SD card
+BLUETOOTH - for Zeemote bluetooth controllers.
+BLUETOOTH_ADMIN - to enable bluetooth for Zeemote bluetooth controllers.
+CHECK_LICENSE - Android Market copy protection

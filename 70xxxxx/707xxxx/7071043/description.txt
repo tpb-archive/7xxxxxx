@@ -1,0 +1,7 @@
+Viliv pulled the drivers off thier site for some dumb reason.  I searched the web and found nothing.  Luckily searching my hard drives I found the drivers.  So here they are.  This should be everything you need for a Viliv S5 Windows 7 or Windows 8 install.  This is for the non 3g version, but I did also include an updated version of the Viliv Manager which may work with the 3g version.
+
+You must install the Viliv system file and the Atom_Io_Control driver first before any other drivers.  The atom driver must be installed as a legacy driver in device manager.  Touch screen should replace ps2 driver in Device manager.
+
+See here for more info:
+ 
+http://forum.pocketables.net/showthread.php?t=2451

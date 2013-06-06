@@ -1,0 +1,28 @@
+This is the US version of the App Version 2.0, packaged with Australian and New Zealand maps the TTS voices are American.
+
+Install notes-
+
+
+
+To block the app from authenticating with Garmin you need to modify the hosts file on your phone /etc/hosts and add the following lines to the bottom with a blank line after it (just hit enter after the last character before you save)
+
+127.0.0.1
+127.0.0.1
+
+
+or
+
+copy the hosts file provided in the torrent over the one in your phone.
+
+or
+
+use your favorite firewall app to block garmin.
+
+
+To fix the time zone problem. 
+Install the Garmin app, then using ifile or similar program. 
+
+Navigate to => /var/mobile/Applications/xxxxxxxx-xxxx-xxxx-xxxxxxxxxxx/garmin-nav.app/storage-usa/.System. There you will find the file named Xgmaptz.img rename it to gmaptz.img then rerun the app.
+ Your map display will disappear but the time zone will now be correct.
+
+To bring the map display back, reverse the above porceedure ie. rename gmaptz.img to Xgmaptz.img, the time zone remains corrected but the display comes back.

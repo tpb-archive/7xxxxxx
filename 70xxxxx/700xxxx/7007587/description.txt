@@ -1,0 +1,16 @@
+This is a 6 megabit AVC file. If your CPU isn't powerful enough, it might stutter or lose a/v sync. Try enabling frame skipping, hardware decoding, and disabling post-processing and deblocking.
+
+If VLC doesn't work, then try GOM Player (my favorite) or KMPlayer. If using players that use external codecs, make sure your codecs and splitters are at least a couple months old.
+
+This can be enjoyed immediately or can be filtered and compressed.
+
+Suggested filtering (for encoders):
+> IVTC (TFF) to replace combed frames with their progressive version, if available.
+> Decimate to step the video down to 23.976fps, its original frame rate.
+> YADIF to remove any remaining combed frames.
+> Crop to remove the small black borders.
+> Resize back to 1080x1920 or shrink to 720x1280.
+> Levels (in low 16, in high 250 RGB or Y) to return pure black/white and proper colors for PC viewing.
+> Minor deblocker.
+> Temporal smoothing to eliminate some hf psychovisual noise.
+> Normalize the audio stream.

@@ -1,0 +1,162 @@
+Warcraft III + The Frozen Throne + DotA + 1.26 Patch. No cd required and perfect for LAN Parties. Easy install.
+
+Install Instructions:
+                                                                               
+1: Install the game 
+
+2: run Warcraft III or Frozen Throne
+
+3: Enjoy 
+
+4: You can play this online with eurobattle or Garena.
+
+Share it with your friends!   
+
+--------------------------------------------------------------------------
+  WARCRAFT III: THE FROZEN THRONE VERSION HISTORY
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+Patch 1.26
+--------------------------------------------------------------------------
+
+FIXES
+
+- Hex will no longer provide a speed boost to a Hero if cast at the end of
+  Metamorphosis or Chemical Rage effects.
+- Reverted the fix "Hex will no longer extend the duration of Metamorphosis."
+- Fixed an issue where some Mac patches could lead to disconnections during
+  Battle.net games. 
+
+--------------------------------------------------------------------------
+Patch 1.25b
+--------------------------------------------------------------------------
+
+FIXES
+
+- Fixed an issue where players were able to ally with opponents when
+  alliances were locked ("share hack").
+- A gold exploit with buildings has been fixed.
+- Widescreen (stretched) resolutions should now be available in the Video options.
+- Scroll of Town Portal will no longer be consumed when casting fails
+  when used at the same time that your Hero is Hexed.
+- You can now purchase items from shops while Hexed.
+- Hex will no longer extend the duration of Metamorphosis.
+- Hex will no longer disable mana or health regeneration of Heroes.
+- Wisps Detonate ability will no longer drain mana from Heroes while under
+  the effects of Potion of Invulnerability.
+- Warcraft III will now write its registry keys on launch.
+
+
+BALANCE CHANGES
+
+Humans
+- Improved Masonry Upgrade health boost decreased from 20% to 10% for all 3 levels
+- Siege Engine Level increased from 2 to 3
+- Rifleman HP increased from 505 to 535
+
+Orcs
+- Blade master Wind Walk duration reduced from 20/40/60 to 20/35/50
+- Raider Ensnare Cooldown increased from 12 to 16
+- Spirit Wolf Rank 1 Wolf Level decreased from 3 to 2
+
+Night Elves
+- Warden Shadow Strike mana cost increased from 65 to 75
+- Druid of the Talon Faerie Fire duration decreased from 120 to 90
+
+Items
+- Ivory Tower gold cost increased from 30 to 40.
+- Tome of Experience now gives Heroes 100 experience points, down from 150
+- Orb of Venom poison duration decreased from 8 to 6
+
+NOTE: Replays are incompatible between major game revisions. (1.24e replays 
+cannot be viewed with the 1.25 version of Warcraft III.)
+
+--------------------------------------------------------------------------
+Patch 1.25 (PTR)
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+Patch 1.24e
+--------------------------------------------------------------------------
+
+FIXES
+
+- Fixed an exploit rendering buildings non-interactable ("tower hack"). 
+- Fixed an exploit allowing a player to bypass a summon ability's 
+cooldown ("summon/cooldown hack"). 
+- Fixed a client crash related to workers failing to build in an 
+unintended way ("new crash hack"). 
+- Fixed an exploit allowing the Blood Mages's Phoenix to be resurrected 
+instantly ("phoenix hack"). 
+- Fixed a bug allowing players to select an invalid matchmaking race 
+resulting in all the player's units and buildings becoming sheep 
+("sheep hack").
+
+--------------------------------------------------------------------------
+Patch 1.24d
+--------------------------------------------------------------------------
+
+FIXES
+
+- Fixed a client crash related to queuing too many invalid build commands
+  ("crash hack").
+
+--------------------------------------------------------------------------
+Patch 1.24c
+--------------------------------------------------------------------------
+
+FIXES
+
+- Fixed a problem with the "Chapter Six: The Culling" human campaign map
+  that was preventing it from loading.
+- Fixed an issue that allowed JASS functions to return incorrect values
+  under certain conditions.
+- Fixed an issue that caused the TriggerEvaluate native to return 
+  incorrect values under certain conditions.
+- Fixed a minor memory leak when using GroupEnum natives.
+- Fixed a crash when using the CreateImage native on PPC Mac.
+- Updated Mac World Editor to work with recent JASS changes.
+
+--------------------------------------------------------------------------
+Patch 1.24b
+--------------------------------------------------------------------------
+
+PC WORLD EDITOR CHANGES
+
+- Increased max map file size from 4 MB to 8 MB.
+- Added the ability to store hashtable handles in a hashtable.
+- Added GetSpellTargetX and GetSpellTargetY natives.
+- Added a new base handle type â€œAgentâ€ of which many types now extend from.
+- Added a SaveAgentHandle native which can be used for saving most handle types.
+- Added a JASS optimization dealing with global variable change events.
+
+FIXES
+
+- Fixed a few false positives caused by the "return bug" fix.
+- Fixed a crash related to hashtable reference counting.
+- â€œShadowingâ€ global variables with local variables no longer is possible.
+- Fixed a type conversion dealing with operators (i.e. adding a handle with an integer).
+
+--------------------------------------------------------------------------
+Patch 1.24
+--------------------------------------------------------------------------
+
+PC WORLD EDITOR CHANGES
+
+- Added new JASS hash table functions to replace the lost functionality from 
+   fixing unsafe type casting.
+   - Hash Table - Save Item Handle
+   - Hash Table - Save Unit Handle
+   - ...
+   - Hash Table - Load Item Handle
+   - Hash Table - Load Unit Handle
+   - ...
+   - Hash Table - Get Handle ID
+
+FIXES   
+
+- Fixed an exploit related to unsafe type casting that allowed users to 
+ execute arbitrary code in maps.
+- Fixed the JASS unsafe type casting exploit ("return bug").
+- Fixed several World Editor crashes.

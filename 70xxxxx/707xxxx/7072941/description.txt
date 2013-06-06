@@ -1,0 +1,55 @@
+
+
+
+IMDB:
+www.imdb.com/title/tt1935929/
+
+Information:
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 1.30 GiB
+Duration                         : 1h 30mn
+Overall bit rate                 : 2 057 Kbps
+Encoded date                     : UTC 2012-03-02 21:30:08
+Writing application              : mkvmerge v5.3.0 ('I could have danced') built on Feb  9 2012 10:38:07
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 6 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 30mn
+Bit rate                         : 1 609 Kbps
+Width                            : 720 pixels
+Height                           : 400 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.233
+Stream size                      : 1 013 MiB (76%)
+Writing library                  : x264 core 120 r2164 da19765
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 30mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 31ms
+Stream size                      : 289 MiB (22%)
+

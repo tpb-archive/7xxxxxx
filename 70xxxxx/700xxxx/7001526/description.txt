@@ -1,0 +1,43 @@
+Book Description
+Clojure in Action is a hands-on tutorial for the working programmer who has written code in a language like Java or Ruby, but has no prior experience with Lisp. It teaches Clojure from the basics to advanced topics using practical, real-world application examples. Blow through the theory and dive into practical matters like unit-testing and environment set-up, all the way through building a scalable web-application using domain-specific languages, Hadoop, HBase, and RabbitMQ.
+
+Clojure is a modern Lisp for the JVM, and it has the strengths youâ€™d expect: first-class functions, macros, support for functional programming, and a Lisp-like, clean programming style.
+
+Clojure in Action is a practical guide focused on applying Clojure to practical programming challenges. Youâ€™ll start with a language tutorial written for readers who already know OOP. Then, youâ€™ll dive into the use cases where Clojure really shines: state management, safe concurrency and multicore programming, first-class code generation, and Java interop. In each chapter, youâ€™ll first explore the unique characteristics of a problem area and then discover how to tackle them using Clojure. Along the way, youâ€™ll explore practical matters like architecture, unit testing, and set-up as you build a scalable web application that includes custom DSLs, Hadoop, HBase, and RabbitMQ.
+
+Whatâ€™s Inside
+
+A fast-paced Clojure tutorial
+Creating web services with Clojure
+Scaling through messaging
+Creating DSLs with Clojureâ€™s macro system
+Test-driven development with Clojure
+Distributed programming with Clojure, and more
+This book assumes youâ€™re familiar with an OO language like Java, C#, or C++ but requires no background in Lisp or Clojure itself.
+
+Table of Contents
+Part 1: Getting started
+Chapter 1. Introduction to Clojure
+Chapter 2. A whirlwind tour
+Chapter 3. Building blocks of Clojure
+Chapter 4. Polymorphism with multimethods
+Chapter 5. Clojure and Java interop
+Chapter 6. State and the concurrent world
+Chapter 7. Evolving Clojure through macros
+
+Part 2: Getting real
+Chapter 8. Test-driven development and more
+Chapter 9. Data storage with Clojure
+Chapter 10. Clojure and the web
+Chapter 11. Scaling through messaging
+Chapter 12. Data processing with Clojure
+Chapter 13. More on functional programming
+Chapter 14. Protocols, records, and types
+Chapter 15. More macros and DSLs
+
+Book Details
+Paperback: 432 pages
+Publisher: Manning Publications (November 2011)
+Language: English
+ISBN-10: 1935182595
+ISBN-13: 978-1935182597

@@ -1,0 +1,5 @@
+﻿User Type,Username,Date,Text
+,georgiqg,2012-03-05T23:05Z,"After installing the program from the ISO, if you get an Error message, that the file ""Current_User.mdb"" is missing.
+To fix that, go to install directory (C:Program Files (x86)McGraw HillBig Yellow German VerbsDatabase), right click on ""User_Records.mdb"" => Copy and then paste it into folder ""C:Users[user]AppDataRoamingMcGrawHill"" and rename it to ""Current_User.mdb"".
+That worked for me."
+,james_mel,2012-04-11T21:32Z,Thanks!

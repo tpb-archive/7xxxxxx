@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,nastymrx,2012-02-15T03:37Z,"Can you provide som info if its retail, unmodified etc. And some sort of identification, like sha1/md5?"
+,ipnik,2012-02-16T13:09Z,mac only OR hakintosh (for PC) ?
+,D4M333,2012-02-16T16:11Z,"HOTiSO is its name, yet delivers an unusable .iso for you downloading on windows.Fucking transmac is shit for burning."
+,ipnik,2012-02-17T15:44Z,this OFFICIAL Apple OR patching os for hakintosh ?
+,PEER1977,2012-03-02T15:30Z,"This is a copy of the apple store download version.
+Not a hackintosh :D   "
+,anon159,2012-03-03T16:02Z,"My md5 checksum is 
+
+18542a8a1a16657257ba0b5263f5b044
+
+could someone verify?"
+,AkhtarKhan,2012-03-14T07:31Z,"not iso its dmg
+doesnt work says unknown disk image format
+help me"
+,AkhtarKhan,2012-03-14T07:32Z,"its not iso its dmg
+doesnt work with transmac says that unknown file format"
+,replaysMike,2012-04-06T09:40Z,"I had the same problem couldnt convert it to .iso...did some research and here is what to do:
+
+1) Open your downloaded .dmg file using 7-zip file manager (winrar doesn't support Xars)
+
+2) Go into the InstallMacOSX.pkg folder
+
+3) Extract the ""InstallESD.dmg"" :)
+
+4) Now you have a valid dmg file
+
+5) Convert this new .dmg with your prefered method to .iso...and enjoy!!
+
+hope this helps you guys, this worked for me!!"
+,replaysMike,2012-04-06T09:43Z,"oh.. to burn the extracted DMG just use UltraISO.. got as far as a burn, one step closer to a hackintosh!"

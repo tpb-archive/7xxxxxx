@@ -1,0 +1,16 @@
+Tribler is an open source BitTorrent-based p2p client that lets you find and share content like video, audio and pictures.
+
+Tribler is a social community that facilitates filesharing through a peer-to-peer (p2p) network. When the Tribler application program is started it will automatically start searching other users that have Tribler running on their computer. When a connection is established it starts exchanging information. First it exchanges personal information (such as your avatar picture, your friends list, download history, etc.) and information about files that are available in the network. These files can be personal, shared files, but also files that one has received from another person. 
+
+The information about the discovered files and persons is available in the Tribler program. By browsing through the files and persons each user can find their prefered files and users. The tribler program helps you by giving extra information about each item (whether it is a file or a person) and also shows what other users think about it. When you find a person you like you can add him as a friend. An interesting file can be downloaded and will be available in your library. When you press download your computer will make an inventory of which computers actually have this file (or a part of it) and then will download the parts from the different computers. 
+
+What makes Tribler different from others? 
+
+Tribler is developed at the Delft University of Technology and the Vrije Universiteit Amsterdam. Fundamental research to network technology, P2P networks, video streaming, user interaction helps us to integrate state-of-the-art knowhow into our software. We aim for an open source, fully decentralized peer-to-peer network, available for everybody, in every part of the world. 
+
+Main features: 
+
+* Search box with suggestions 
+* Anti-spam features 
+* Video-on-demand support 
+* Fully distributed

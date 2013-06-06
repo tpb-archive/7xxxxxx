@@ -1,0 +1,1097 @@
+Windows XP SP3 NEOXP 3.1a Actualizado Enero 6 2012
+
+* OS: Windows XP SP3
+* Nombre: NeoXP
+* Version: 3.1a (Enero 2012)
+* Idioma: EspaÃ±ol
+* Service Pack: 3
+* Arquitectura: 32 Bits x86
+* Formato: ISO
+* Instalador: Auto-Ejecutable, Auto-Instalable
+* Drivers: 227 Mil
+
+
+NeoXP 3.1a
+Creado por Luis Alvarado
+
+El objetivo de NeoXP es crear un cd de instalacion de Windows XP con las ultimas actualizaciones hasta el momento y que incluya ademas la mayoria de los drivers disponibles en Venezuela. Esta es la razon por la cual ocupa un DVD. NeoXP cuenta con mas de 227 mil drivers (Alrededor de 170 Mil mas que otras ), mas de 200 optimizaciones al sistema (110 mas que otras versiones) y mas de 50 actualizaciones hasta la fecha. Adicional incluye la mayoria de los programas mas utilizados tanto en el hogar, en los cybers, en el trabajo, para laptops entre otros. Algunos son Firefox, Messenger Live, Office 2003 o 2007, Libre Office, Skype, Chrome... Ademas cuenta con el Symantec Endpoint para una seguridad maxima no solo contra virus, troyanos y gusanos, sino tambien contra rookits, keyloggers, spyware, tunneling, port scanning, remote viewing y crackers.
+
+No contiene modificaciones de servicios o registro que causen problemas en cualquier tipo de ambiente. Por ejemplo el no poder instalar impresoras o scanners, no poder instalar drivers en general o tener problemas para la creacion de cuentas como en otras versiones de Windows XP que se encuentran en el mercado. Es por esta razon que fue probado en mas de 200 computadoras con casi 500 personas ayudando en el proceso durante mas de 8 meses.
+
+Para facilitarle la vida a los cybers y tecnicos de reparacion, NeoXP cuenta con mas de 200 optimizaciones al registro, servicios, arranque y procesos. De esta forma no es necesario que cambien opciones y pierdan tiempo mientras reparan cualquier PC. En el 90% de los casos tampoco sera necesario instalar drivers adicionales ya que NeoXP cuenta con un arsenal de ellos. Asi salvas tiempo en mantenimiento y reparacion de las PC.
+
+Para el hogar NeoxP incluye varias modificaciones de seguridad, tanto para conexiones de internet como para lan. Adicional la rapidez la podran  notar ya que se realizaron modificaciones en las secciones de memoria, cpu y cache.
+
+Para los jugadores extremos, NeoXP cuenta con 39 optimizaciones para el video y sonido (sin incluir las modificaciones ya realizadas al cpu, memoria, bus y disco duro). Tarjetas de video Nvidia, Ati e Intel recibiran un mejoramiento de hasta un 35%.
+
+En general NeoXP cuenta con varios cambios que protegen al usuario de pantallas azules y programas que bloqueen todo el sistema, ayudan al usuario a una instalacion rapida y facil del Windows, actualiza el sistema lo mas rapido posible, prepara la PC para estar lo mas optima posible y garantiza la estabilidad que el usuario busca para su PC. 
+
+Las siguientes carpetas estan en el DVD por las razones que se mencionan a continuacion:
+
+
+Drivers\Adsl - Esta carpeta esta en el DVD por que existen algunos casos donde los modem por USB no son detectados correctamente. En estos casos el usuario se puede dirigir a esta carpeta e instalar el driver que le corresponda. Este problema es por que Windows no tiene en su ambiente una variable fija que defina a un driver para la instalacion, por esta razon el usuario tiene un porcentaje que funcione o no en su equipo. Tambien se puede seleccionar en la instalacion de los drivers "Buscar en medios extraibles" de esta forma el sistema de instalacion de drivers buscara entre los diferentes modems el driver correspondiente.
+
+Drivers\Video - Esta carpeta esta en el DVD porque tanto Intel, Nvidia y ATi tienen nuevos drivers mas o menos cada mes. Para las personas que no quieren esperar por una nueva version de NeoXP, simplemente sobreescriben la carpeta correspondiente y listo.
+
+Drivers\HP - Esta carpeta esta en el DVD porque existen algunos drivers de Windows XP que no existen para varias laptops. Los drivers encontrados en esta carpeta son los que NeoXP no logro instalar en estas laptops. Tipicamente estas laptops vienen con Windows Vista preinstalado. Si NeoXP no logra instalar estos drivers aqui los tienen ya listos para ser instalados.
+
+NeoGM - Esta carpeta incluye todos los programas a instalar luego de finalizada la instalacion de Windows NeoXP. Por razones de facilitarle al usuario la actualizacion del DVD, los archivos fueron renombrados para que por ejemplo, si sale una nueva version del Firefox, simplemente la puedan copiar a la carpeta y sobreescribir el archivo Firefox.exe que existe alli. De esta forma el usuario puede mantener un DVD actualizado de los programas sin necesidad de codigo complicado.
+
+PERSONALIZA TU NEOXP - Para personalizar tu NeoXP solo es necesario que edites el archivo config.js en la carpeta NeoGM\WPI\WPIScripts. Este archivo contiene la configuracion de cada programa en la post instalacion. De esta forma podras agregar programas adicionales a tu lista o actualizar los ya existentes
+incluyendo personalizar cuales quieres que se instalen por defecto.
+
+NOTA: Para asistencia tecnica, NeoXP incluye en la carpeta Tools varios programas de seguridad, mantenimiento y optimizaciones, asi como asistencia remota para los usuarios. Si deseas obtener asistencia remota controlada envia tu mensaje al foro de neogm.com Algunos de los servicios ofrecidos son:
+
++ Mantenimiento remoto
++ Limpieza remota
++ Reparacion remota
++ Instalacion y optimizaciones remotas
+
+Todos pueden estar controlados por un horario que le sea util al usuario y en el cual el usuario tenga total control de los sucesos mientras se ejecuta el control remoto. Por razones de seguridad winvnc.exe no esta en su modo de instalacion ya que solo puede ser cargado cada vez que hagan doble click en el. Esto garantiza que el usuario siempre tendra control sobre la asistencia remota y que no recibira un mal uso a traves de esta.
+
+
+NOTA: No se garantiza que se detecten todos los drivers de una PC o Laptop pero si se garantiza que tienen un 90% o mas de que se detecten todos los dispositivos y un 100% de que se detecten todos los dispositivos de redes (Ethernet o Wifi). En casi todos los casos se han detectado todos los dispositivos, salvo en algunos casos donde falta un dispositivo. Los ejemplos son algunas asus donde usan tarjeta de video VIA la cual no es detectada (Ya solucionado en la 3.1). Alguna HP Pavillion como por ejemplo la DV9000 que no detectaba antes el sonido. En ambos casos todos los demas dispositivos fueron detectados.
+
+Adicional si instalan alguno de los 3 antivirus, les detectara en el
+sistema de instalacion el cmdos como un virus. Esto es falso ya que el sistema ejecuta varios
+procesos utilizando este programa en el fondo para que no molesten al usuario con preguntas. Simplemente ignoren el supuesto virus que encuentre el antivirus y reinicien la PC al finalizar la instalacion.
+Los supuestos virus son el encargado de limpieza que es un batch en realidad y el link de eBay. Asi
+que basicamente esto esta libre de virus (Que de paso fue desarrollado y probado en Linux ;) )
+
+NOTA - Si encuentran algun problema con la instalacion asegurense de realizar los siguiente puntos:
+
+1. Verificar que el BIOS este correctamente configurado para su disco duro y    el formato de lectura de este.
+2. En la Pre-Instalacion se recomienda BORRAR la particion y volverla a crear    en vez de solo formatear o sobreescribir.
+3. Recuerden tener todo conectado a la PC antes de la instalacion.
+4. Drivers para los modems mas usados se encuentran en el DVD.
+5. Esta version de Windows XP no es ni Colossus, ni Black Edition ni ninguna otra que halla alterado
+   el windows con problemas de deteccion de hardware (El caso de no poder instalar impresoras y scanners),
+   poseer un funcionamiento lento como otras o tener configuracion que compliquen el facil y correcto
+   funcionamiento del Windows XP. NeoXP solo modifica y actualiza lo necesario para las optimizaciones
+   sin perjudicar el funcionamiento del mismo.
+
+
+- NOTAS DEL CREADOR -
+
+Para los que me conocen en Venezuela saben que llevo varios aÃ±os trabajando en una version personalizada y automatizada de Windows XP que incluye todo un sistema completo para el mantenimiento, limpieza y optimizacion del equipo. He continuado, aun siendo usuario de Linux con el desarrollo de este Windows por la demanda de el y por ayudar a varios conocidos y amigos. NeoXP 3.1a fue probado en 214 computadores en 7 Cyber-Cafes y 43 Testers, de los cuales 211 corroboraron que todos sus drivers se habian instalado satisfactoriamente. Los 3 restantes mencionaron faltarles el driver de sonido (De todos los drivers de su PC). Esto nos da un 98.6% de resultados positivos lo cual es mejor que las versiones 2.x que obtuvieron 92.4%. Adicional gracias a las sugerencias de sus usuarios se agregaron nuevas herramientas para el mantenimiento, limpieza, seguridad y administracion de redes. Tambien se optimizo con 5 nuevos tweaks de registros y 1 cambio adicional a los procesos para que los juegos, el internet y el arranque sean mas rapidos.
+
+Por tal razon aqui les dejo la ultima version de NeoXP: NeoXP 3.1a
+
+Esta version cuenta con mas de 200 mil drivers BIEN comprimidos utilizando 7-Zip y la cual podran obtener a traves de el torrente en la pagina de thepiratebay. A diferencia de sus versiones 2.x, la version 3.1 ocupa 4.4GB, incluye alrededor de un 30% mas de drivers y se instala entre un 20% a un 50% mas rapido que sus versiones pasadas (Mas que todo por la tecnica de Pre-Cache. El lado negativo es que se hace mas dificil instalar en PCs con menos de 512 MB de memoria. El minimo ahora es de 512MB en vez de 128MB como antes.). No pude hacerla mas pequeÃ±a por la cantidad de drivers aun cuando hice varias optimizaciones con respecto al espacio.. Como lo dice su LEEME aqui les dejo el contenido y la intencion de NeoXP:
+
+El objetivo de NeoXP es crear un cd de instalacion de Windows XP con las ultimas actualizaciones hasta el momento y que incluya ademas la mayoria de los drivers disponibles en Venezuela. Esta es la razon 
+por la cual ocupa un DVD. NeoXP cuenta con mas de 227 mil drivers, mas de 200 optimizaciones al sistema y mas de 50 actualizaciones hasta la fecha. Adicional incluye la mayoria de los programas mas 
+utilizados tanto en el hogar, en los cybers, en el trabajo, para laptops entre otros. Algunos son Firefox, Messenger Live, Office 2003 o 2007, Libre Office, Skype, Chrome... Ademas cuenta con el Symantec Endpoint para una seguridad maxima no solo contra virus, troyanos y gusanos, sino tambien contra rookits, keyloggers, spyware, tunneling, port scanning, remote viewing y crackers. 
+
+Para facilitarle la vida a los cybers y tecnicos de reparacion, NeoXP cuenta con mas de 200 optimizaciones al registro, servicios, arranque y procesos. De esta forma no es necesario que cambien opciones y pierdan 
+tiempo mientras reparan cualquier PC. En el 97% de los casos tampoco sera necesario instalar drivers adicionales ya que NeoXP cuenta con un arsenal de ellos. Asi salvas tiempo en mantenimiento y reparacion de las PC.
+
+Para el hogar NeoxP incluye varias modificaciones de seguridad, tanto para conexiones de internet como para lan. Adicional la rapidez la podran notar ya que se realizaron modificaciones en las secciones de memoria, cpu, buffer de disco duro y cache.
+
+Para los jugadores extremos, NeoXP cuenta con 39 optimizaciones para el video y sonido (sin incluir las modificaciones ya realizadas al cpu, memoria, bus y disco duro). Tarjetas de video Nvidia, Ati e Intel 
+recibiran un mejoramiento de hasta un 35%.
+
+En general NeoXP cuenta con varios cambios que protegen al usuario de pantallas azules y programas que bloqueen todo el sistema, ayudan al usuario a una instalacion rapida, facil y sencilla del Windows, actualiza el sistema lo mas rapido posible, prepara la PC para estar lo mas optima posible y garantiza la estabilidad que el usuario busca para su PC. 
+
+Windows NeoXP
+Creado por Luis Alvarado (CYREX)
+
+Bienvenido a la version 3.1a de NeoXP. Para no hablar tanta paja les resumo todo lo que 
+contiene esta version:
++ Optimizaciones al registro, servicios, arranque, memoria, visualizacion y procesos.
++ Agregacion de mas de 227000+ Drivers utilizados en Venezuela y paises latinos.
+
+TEAM NeoXP:
+- Fernando Paul (Thecno)
+- Franklin Maldonado (Kangrejo)
+- Jesus Romero (Jekes) 
+- Luis Alvarado (CYREX) Web: ubuntuve.com
+- Maria Soledad Rivas (MarySol)
+- Miguel Alvarado (Exodus)
+- Nerio Alvarado (3DLorD)
+- Richard Barrios (Ribar)
+- Virginia Padilla (Vicky)
+
+PROGRAMAS DISPONIBLES
+
+Browsers
+--------
+Firefox
+Chrome
+Opera
+Internet Explorer
+
+
+Herramientas
+------------
+Daemon Tools
+Fraps
+Frostwire
+KLite
+VLC
+Nero
+InfraRecorder
+InfraView
+Notepad++
+Fox It Reader
+Jre
+.Net Framework
+Thunderbird
+
+
+MSN
+---
+Skype
+aMSN
+MSN Messenger 8.5
+Live Messenger 2009 (Update 2011)
+
+
+Office
+------
+Office 2003 SP3
+LibreOffice
+Office 2007 SP2
+
+
+Antivirus
+---------
+Symantec Endpoint Protection
+AVG
+Microsoft Security Essentials
+
+
+Tweaks
+------
+Mas de 30 programas adicionales para tunning, seguridad, network y tweaks
+
+Changelog
+
+Version 3.1a (6 Enero 2012)
++Eliminacion de Mysql Server (Razones de Espacio)
++Eliminacion de Herramientas para Servidores
++Correcta actualizacion a la ultima version DirectX 9.0c
++Optimizacion ISO para garantizar poder quemar ISO (Problem debido a la cantidad de drivers)
++Optimizacion de Herramientas (Eliminacion de duplicados y carpetas vacias)
++Actualizacion de Firefox 8.0.1 a 9.0.1
++Actualizacion de Klite 8.0 a 8.1
++Actualizacion de TCP Optimizer 2.0.4 a 3.0.8
++Framework .NET 4.x optimizado
++Verificacion de todos los programas por actualizaciones pendientes (Ya estan en la ultima version)
++Reduccion de 300MB para cumplir con el maximo de 4.3GiB en formato DVD-5
+
+Version 3.1 (16 Diciembre 2011)
++Actualizacion del Symantec Update hasta el 16 de Diciembre del 2011
++Actualizacion de TODOS los programas hasta la fecha: 16 Diciembre 2011
++Agregacion de .NET 4.0
++Agregacion y Actualizacion de los drivers (Total 227000+)
+
+Version 3.0 (13 Noviembre 2011)
++Finalizacion de Optimizaciones de paquetes y compresion (1.2GB Total ahorrados de espacio)
++Limpieza de codigos Pre Windows XP SP3 Parte 3 (Al parecer tuve necesidad de una 3ra parte)
++Agregacion de Speed Fan (Para controlar los ventiladores de tu PC)
+
+Version 2.9 (15 Octubre 2011)
++Optimizacion de paquetes y mejor compresion (700MB ahorrados de espacio)
++Limpieza de codigos Pre Windows XP SP3 Parte 2
++Agregacion de Process Explorer
++Agregacion de Windows Media Player 11 (Opcional)
+
+Version 2.8 (29 Septiembre 2011)
++Optimizacion de paquetes y mejor compresion (300MB ahorrados de espacio)
++Limpieza de codigos Pre Windows XP SP3 Parte 1
++Agregacion de CPU-Z
++Agregacion de GPU-Z
+
+Version 2.7 (21 Septiembre 2011)
++Limpieza final del codigo (Hasta un 20% mejor uso de recursos)
++Optimizacion de paquetes de drivers (Pesan hasta 10MB menos)
++Sistema automatico de actualizaciones incorporado (Aplicaciones se auto-actualizan)
++14 Hotfixes agregados para Windows XP (Los ultimos encontrados hasta la fecha)
+
+Version 2.5.1 (7 Junio 2011)
++Limpieza masiva del codigo
++Actualizacion del Symantec Update hasta el 7 de Septiembre del 2011
++Mejor estructura del DVD
++Nuevas aplicaciones instaladas por defectos
+
+version 2.4 Final (25 Abril 2011)
++Actualizacion del Symantec Update hasta el 25 de Abril del 2011
++Actualizacion de Firefox 3.6.13 a 4.0
++Actualizacion de Klite 6.7 a 7.0
++Actualizacion de Chrome 9.0 a 12.0
++Actualizacion de VLC 1.1.5 a 1.1.9
++Actualizacion de CodeBlocks 8.02 a 10.05
++Actualizacion de Flash 10.0.45.2 a 10.3
++Actualizacion de LibreOffice 3.3 a 3.3.2
++Agregacion de NotePad++ 5.9
++Limpieza de Codigo Obsoleto
+
+version 2.4 (25 Febrero 2011)
++Mejoramiento a Symantec Endpoint Protection que incluye los Updates
++Actualizacion de Firefox 3.6.11 a 3.6.13
++Actualizacion de Klite 6.5 a 6.7
++Actualizacion de DirectX 9.0c Agosto 2010 a Febrero 2011
++Actualizacion de VLC 1.1.4 a 1.1.5
++Actualizacion de Chrome 7.0 a Chrome 9.0
++Actualizacion de Opera 10 a Opera 11
++Agregacion y Actualizacion de un drivers (Total 172000+)
++Agregacion de 3 nuevos Tweaks de Registro
++Eliminacion de OpenOffice 3.3
++Agregacion de LibreOffice 3.3 + Spanish Pack
++Instalacion del .NET Completo por Defecto
++Instalacion de symantec Endpoint Protection por Defecto
+
+version 2.3 (20 Octubre 2010)
++Actualizacion de Symantec Endpoint Protection 11.4 a 11.6
++Actualizacion de Firefox 3.6 a 3.6.11
++Actualizacion de Klite 5.6.1 a 6.5
++Actualizacion de DirectX 9.0c Febrero 2010 a Agosto 2010
++Actualizacion de VLC 1.0.5 a 1.1.4
++Actualizacion de Chrome 4.0.249.70 a 7.0.517.41
++Actualizacion de Skype 4.0 a 5.0
++Agregacion y Actualizacion de un drivers (Total 167000+)
++Optimizaciones en la instalacion de programas (Mas compatibilidad en Laptops)
++Mejor deteccion de hardware en la instalacion (Limpieza de Codigos Unicos)
+
+Version 2.2.3 (10 Marzo 2010)
++Actualizacion de Virtualdub a 1.9.8
++Actualizacion de Frostwire 4.18.6 a 4.20.3
++Correccion en la Pre-Instalacion
++Agregacion de 278 Drivers (Video, Sonido, Wifi y Lan)
++Correccion de varios textos incorrectos en la Post-Instalacion
++Mejor mensaje de reinicio en la etapa de Post-Instalacion
+
+Version 2.2 (16 Febrero 2010)
++Agregado HWInfo (Carpeta Tools)
++Agregado UTorrent (Carpeta Tools)
++Actualizacion de Flash a 10.0.45.2
++Actualizacion de OpenOffice 3.1 a 3.2
++Actualizacion de DirectX 9.0c Diciembre 2009 a Febrero 2010
++Actualizacion de VLC 1.0.3 a 1.0.5
++Agregacion de un arsenal de drivers para un total de unos 145000
+
+Version 2.1.3 (27 Enero 2010)
++Actualizacion de Frostwire a 4.18.6
++Actualizacion de Firefox 3.5.6 a 3.6
++Actualizacion de Chrome 3.0.195.42 a 4.0.249.70
++Actualizacion de Opera 9.0 a 10.10
++Actualizacion de JRe a su version 1.6 U18
++Actualizacion de Klite 5.4.4 a 5.6.1
++Agregacion de 1732 Drivers (Sata, Video, Sonido y Red) (124000+)
+
+Version 2.1.2 (11 Diciembre 2009)
++Correccion en la actualizacion del SP2 para el Office 2007
++Actualizacion del Live Messenger a la 14.0.8089.726
++Actualizacion de JRe a su version 1.6 U17
++Actualizacion de Klite 5.4 a 5.4.4
++Actualizacion del sistema completo WPI y Post-instalacion
++Agregacion de Microsoft Security Essentials
++Agregacion de AVG
++Agregacion de CCleaner
++Agregacion de Defraggler
++Agregacion de Recuva a la carpeta Tools
++Agregacion de Thunderbird 3.0
++Algunas reparaciones en la Pre-Instalacion y mejor deteccion SATA
++Algunas correcciones en la post-instalacion con respecto a los tweaks
++Cambios en la seleccion de programas default (Adaptado a los usuarios)
++Agregacion de alrededor 6000+ drivers (121677 Total)
+
+Version 2.1.1 (6 Noviembre 2009)
++Actualizacion de Firefox 3.5.3 a 3.5.5
++Actualizacion de VLC 1.0.2 a 1.0.3
++Actualizacion de Klite 5.2 a 5.4
++Correccion en post-instalacion
++Correccion para CPUs AMD
+
+Version 2.1 (25 Octubre 2009)
++Actualizacion de todos los drivers
++Agregacion de unos 100 drivers mas (115223 Total)
++Optimizacion en la manipulacion del registro
++Correcciones en los nuevos programas a instalar
++OpenOffice 3.1 tiene la extension del diccionario en la carpeta NeoGM\Tools\ (El archivo es dict-es_VE)
++Nero 9
++Correcciones en la deteccion de Sata/Raid
++Correcciones en la limpieza al finalizar el instalador
+
+Version 2.0 (15 Septiembre 2009)
++Actualizacion de todos los drivers
++Cambio total de la forma de instalar los programas
++Mejor seccion para el tipo de programas a instalar
++Combo de programas para servidores, reparacion, diagnostico y recuperacion.
++DirectX 9.0c Agosto 2009 y .NET Framework 3.5 SP1 fueron incorporados
++Optimizacion en el uso de memoria.
++Limpieza de drivers y agrecacion de nuevos (115120 Total)
++Deteccion de los disco duros Sata/Raid para las laptops incluyendo las mas importantes de Acer, Sony y HP.
+
+Version 1.5 (26 Julio 2009)
++Actualizacion de todos los drivers
++Agregacion de nuevos drivers (104240 en total). Mas de 10 aÃ±os de drivers.
++Actualizacion de todos los programas hasta el 20 de Julio.
++Agregacion del Symantec Endpoint Protection 11.
++Eliminacion del Nod32, Avast y Kapersky.
++Integracion de todos los HotFixes utilizados en la Pre-Instalacion. Salva 2-3 Minutos de tiempo.
++Mejor sistema de deteccion de drivers para todo tipo de PCs y Laptops.
++Actualizados Firefox 3.5.1, VLC 1.0, Klite 5.0 y DirectX 9.0c Marzo 2009 entre otros.
+
+Version 1.4 (29 Marzo 2009)
++Agregacion de nuevos drivers (65240 en total). Mas de 10 aÃ±os de drivers.
++Correciones en varios sitios (Pre-instalacion, Instalacion, Post-Instalacion, Back-Instalacion)
++Agregacion para Autologin
++Agregacion para Deteccion de CD/DVD mas rapida
+
+Version 1.3 (2 Marzo 2009)
++Agregacion de los modems mas usados.
++Actualizacion de todos los drivers
++Agregacion de nuevos drivers (45400 en total). Mas de 10 aÃ±os de drivers.
++Agregacion de Live MSN 2009
++Correcciones en varias partes del instalador
++Agregacion de opcion para multiples usuarios
++Agregacion para Logout
++Agregacion de 7 tweaks para acelerar la PC en Intel Core 2 Duo
++Agregacion de 3 Tweaks para acelerar las PC con Nvidia
++Agregacion del Nod32 4.x, Kapersky y Avast.
+
+Version 1.2 (7 Enero 2009)
++Agregacion de los modems mas usados.
++Actualizacion de todos los drivers
++Agregacion de nuevos drivers (12480 en total) (Fusion de DP + Cyrex Pack) 10 aÃ±os de drivers
++Correciones en varios sitios (Pre-instalacion, Instalacion, Post-Instalacion, Back-Instalacion)
++Utilizando QuickCache se ahorra ahora 7 minutos de instalacion.
++Msn Live 8.5
++Actualizacion del Nod3d, Firefox. shockwave y flash.
++Framework 3.5 SP1
++HotFixes hasta el 27 de Diciembre (42 en Total)
++Limpieza de casi 1000 archivos para optimizar espacio (Duplicados y Obsoletos)
++Optimizaciones en la descompresion (Creacion de cache con 128MB)
++Correciones minimas en detalles con el texto, arranque y configuraciones.
++Agregacion de varios mensajes de ayuda para facilitar la instalacion.
++Agregacion de aMSN, Frostwire, OpenOffice 3 y Pidgin
++Agregacion de Regsupreme 1.4 en la seccion de Seguridad
++Agregacion de 100+ Tweaks (Video, Sonido, Bus y Disco Duro)
++Agregacion de WGA Nuevo y Windows Update ultimo.
++Correciones en el WPI con respecto a instalaciones desatendidas.
++Cambios en el huso horario
++Eliminacion de varios servicios obsoletos
+
+Version 1.1 (15 Marzo 2008)
++Cambios en el estilo
++Actualizacion de varios drivers del Cyrex Pack
++Creacion de un sistema de cache para instalaciones mas rapidas.
++Agregacion de todos los drivers que tenia desde 1998. (9840 Drivers Total)
++Agregacion de drivers nuevos para nvidia y ati.
++Actualizacion del DirectX
++Modificaciones al instalador para Multiples nucleos.
+
+Version 1.0 ( 18 Septiembre 2007) (Primera Version de NeoXP basada en SID)
++Primera version luego de la version MSDOS de reparacion SID 1.9.7
++Agregacion del Cyrex Pack (9800+ Drivers desde 1998 hasta 2008)
++Actualizacion a Firefox 2.0.0.16
++Actualizacion de los codecs 4.0.1
++Agregacion de 100 nuevos tweaks al registro, servicios y procesos.
+
+
+-------------------------------------------------------------------------------
+
+
+Version 1.9.7 (August 1 2006) (Ultima Version del SID)
+- Limpieza
+- Agregado NetScan 2.8
+- Agregado BitComet 20060727
+- Actualizado X-SETUP 8.0 a X-SETUP 8.0 FULL
+- Actualizado UltraVNC 1.0 RC 20.3 a 1.02
+- Actualizado Firefox 1.5.0.4 a 1.5.0.5
+
+Version 1.9.6 (July 15 2006)
+- Agregado UltraVNC 1.0 RC 20.3
+- Agregado RemoveWGA 1.1
+- Agregado FollowMeIP
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Sis Ide Drivers
+- Actualizado Sis AGP Drivers
+- Actualizado Sis Sound 7012 Drivers
+- Actualizado Sis Sound 7018 Drivers
+- Actualizado Symantec Antivirus 10.1.0.390 a 10.1.4.400
+- Actualizado Via Accelerator 5.07a a 5.09a
+- Actualizado Java 1.6 a 1.7
+- Actualizado Winrar 3.3 a 3.6
+- Actualizado Windows Malicious Removal tool 1.11 a 1.18
+
+Version 1.9.5 (July 5 2006)
+- Agregado Hex Workshop 4.23
+- Agregado CNET Pro 200 Driver
+- Agregado Shockwave 10.1
+- Agregado Bit Torrent 4.2.0.2
+- Agregado Borland C++ 6
+- Agregado VLC Player 0.8.5
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado CPU-Z 1.33 a 1.35
+- Actualizado Sisoft Sandra 2005 SR3 a 2007 Full
+- Actualizado CDex 1.51 a 1.7
+- Actualizado Limewire Pro 4.10 a 4.12
+- Actualizado Fraps 2.7.3 a 2.7.4
+- Actualizado Ati 6.2 a 6.5
+- Actualizado Everest 2006 Ultimate 2.6 Beta a 3.0 Full
+- Actualizado OpenOffice 2.0 a 2.0.3
+- Actualizado NAV Definitions
+- Actualizado Nvidia 84.21 WHQL a 91.31 WHQL
+- Actualizado Notepad++ 3.5 a 3.7
+- Actualizado Skype 2.0 a 2.5
+- Actualizado VirtualDub 1.6.14 a 1.6.15
+- Actualizado Firefox 1.5.0.3 a 1.5.0.4
+- Actualizado Flash Player 8.5 a 9.0
+- Actualizado Winamp 5.2.1 Full a 5.4 Pro
+
+Version 1.9.4 (May 27 2006)
+- Agregado Camtasia 3.1
+- Agregado Nexxt Network Drivers
+- Inicio CD Version de SID (SIDCD)
+- Inicio Addon Version de SID (SIDADD)
+	+ Windows 2000 SP4 + SP5
+	+ Windows XP SP2
+	+ Windows 98 SE SP2
+	+ Office 2000 SP3
+	+ Office 2003 SP2
+	
+Version 1.9.3 (May 22 2006)
+- Agregado RootKit Hook Analizer
+- Agregado AdSSpy 1.11
+- Agregado HWInfo Msdos Version
+- Agregado BHOList 1.5 (Download Based)
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado NAV AV List
+- Actualizado 7-Zip 4.40 a 4.42
+- Actualizado Unlocker 1.8.1 a 1.8.3
+- Actualizado Klite Codec 1.51 a 1.53
+- Actualizado Fraps 2.7.2 a 2.7.3
+- Actualizado VNC 4.1.1 a 4.1.2
+- Actualizado PsTools 2.03 a 2.33
+
+Version 1.9.2 (May 17 2006)
+- Agregado PHP 5.1.4
+- Agregado Apache 2.0.58
+- Agregado Mysql 5.0.21
+- Agregado Python 2.4.3
+- Actualizado Npad 3.5 a 3.6
+- Actualizado 7-Zip 4.32 a 4.40
+- Actualizado CPU-Z 1.31 a 1.33
+- Actualizado Firefox 1.5.0.2 a 1.5.0.3
+- Actualizado Startup 2.0 a 2.01
+
+Version 1.9.1 (April 14 2006)
+- Agregado Filezilla (FTP Server)
+- Agregado HFS (Quick Web Server)
+- Actualizado Firefox 1.5.0.1 a 1.5.0.2
+
+Version 1.9.0 (April 10 2006)
+- NEW SID Addon (Includes Installing Systems + Updates)
+- Inicio CD Boot System & USB Loading System
+- Cambio de Arquitectura en SID (Carpeta Driver ahora es Soft)
+- Agregado Fox It Reader Pro (Quick PDF Reader/Writer)
+- Agregado Flash Player 8.5
+- Agregado Winzip 8.1
+- Agregado Winrar 3.3
+- Agregado Emule 0.47a
+- Agregado Mirc 6.17
+- Agregado Process Command (Change Programs Properties in memory)
+- Agregado NicSpeed
+- Agregado RadTools
+- Actualizado Nvidia 81.98 WHQL a 84.21 WHQL
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Everest 2005 Ultimate a Everest 2006 Ultimate
+- Actualizado Firefox 1.5.0 a 1.5.0.1
+- Actualizado Winamp 5.2 Full a 5.2.1 Pro
+- Actualizado VirtualDub 1.6.11 a 1.6.14
+
+Version 1.8.2 (March 24 2006)
+- Agregado 4 Symantec Worms
+- Agregado Shareaza
+- Agregado LimeWire Pro
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Notepad++ 3.4 a 3.5
+- Actualizado NERO 6.6.0.15 a 6.6.0.18
+
+Version 1.8.0 (March 7 2006)
+- Agregado X-SETUP 8.0
+- Agregado Skype 2.0
+- Actualizado Unlocker 1.8 a 1.8.1
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Klite Codec 1.50 a 1.51
+- Actualizado Winamp 5.1.12 Full a 5.2 Full
+- Actualizado Ati 5.13 a 6.2
+
+Version 1.7.9 (February 19 2006)
+- Actualizado Symantec Definicion (19/2/2006)
+- Actualizado Java 1.5 a 1.6
+- Actualizado Unlocker 1.7.8 a 1.8
+
+Version 1.7.8 (February 14 2006)
+- Agregado SmartFTP 2.0.994.8
+- Actualizado Stinger 2.59 a 2.60
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Klite Codec 1.49 a 1.50
+
+Version 1.7.7 (February 3 2006)
+- Cleaning Up
+- Agregado New Tweak for Registry (CYREX Registry Tweak)
+- Agregado Net Analyzer
+- Agregado Sisoft Sandra 2005 SR3
+- Agregado 1 Symantec Worm
+- Agregado Ariesremover
+- Agregado CDex 1.51
+- Agregado OpenOffice 2.0
+- Agregado NERO 6.6.0.15
+- Agregado JV16 Powertool 2006
+- Agregado Avast Virus Cleaner 1.0.208 (Exodus)
+- Agregado Unlocker 1.7.8 (Exodus)
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Startup a 2.0
+- Actualizado Klite Codec 1.46 a 1.49
+- Actualizado PsTools 2.01 a 2.03
+
+Version 1.7.4 (January 16 2006)
+- Agregado FRAPS 2.7.2
+- Agregado VirtualDub 1.6.11
+- Agregado Smart Undelete 2.5
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+
+Version 1.7.3 (January 9 2006)
+- Agregado the help for SID (SIDHELP.TXT)
+- Agregado the Command GHOST and GHOSTX (USB)
+- Agregado Symantec Corporate 10
+- Agregado Registry Crawler 4.5
+- Agregado Daemon Tools 4.0.3
+- Actualizado TCPOptimizer a 2.0.3
+- Actualizado VIA Acelerador a 5.0.7a
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+
+Version 1.7.2 (December 23 2005)
+- Actualizado Nvidia 81.85 WHQL a 81.98 WHQL
+- Actualizado Ati 5.12 a 5.13
+- Actualizado Klite Codec 1.45 a 1.46
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado F-Prot Antivirus
+- Actualizado Symantec Worms (3 New)
+- Actualizado AVE32 Antivirus
+- Removed AVG (Not updateable)
+
+Version 1.7.1 (December 21 2005)
+- Actualizado Drivers (Network)
+- Actualizado Drivers (Aceleradores)
+- Actualizado Fixers & HWDetect (Unknown Devices, Ad-Aware, Spybot)
+- Actualizado Windows Malicious Removal tool 1.10 a 1.11
+
+Version 1.7.0 (December 15 2005)
+- Cleaning Up
+- Agregado VNC support
+- Actualizado 7-Zip 4.30 a 4.32
+- Actualizado Unknown Devices
+- Actualizado Ad-Aware
+- Actualizado Spybot
+- Actualizado Klite Codec 1.43 a 1.45
+- Actualizado Ati 5.11 a 5.12
+- Format USB 256 not admitido (Higher than 512)
+
+Version 1.6.9 SE (December 3 2005)
+- Agregado 1 Symantec Worm
+- Actualizado Unknown Devices
+- Actualizado 2 Symantec Worms
+- Actualizado Via Accelerator 5.0.4 a 5.0.6a
+- Actualizado Firefox 1.5.2 rc1 a 1.5.0 Full
+
+Version 1.6.9 (November 23 2005)
+- Actualizado Unknown Devices
+- Actualizado Stinger 2.5.8 a 2.5.9
+- Actualizado Ad-Aware
+- Actualizado Spybot
+- Actualizado Nvidia 81.94 a 81.95 WHQL
+
+Version 1.6.8 (November 18 2005)
+- Agregado WinTools Directory (Essential tools for Windows)
+- Agregado Acrobat Reader 7.0.5
+- Agregado Winamp 5.1.12 Full
+- Agregado VideoLan 0.8.4
+- Actualizado Klite Codec 1.38 a 1.43
+- Actualizado Nvidia 81.85 a 81.94
+- Actualizado Ati 5.10 a 5.11
+- Actualizado CWSShredder 2.18 a 2.19
+- Actualizado Unknown Devices
+- Actualizado Ad-Aware
+- Actualizado Spybot
+- Actualizado 7-Zip 4.30 Alpha 7 a 4.30 Beta
+- Removed Ad-Aware Manager
+
+Version 1.6.7 (November 12 2005)
+- Agregado Symantec Virus (2 Agregado)
+- Actualizado Unknown Devices
+- Actualizado Ad-Aware
+- Actualizado Spybot
+- Actualizado Firefox 1.5 RC3
+- Actualizado Notepad++ 3.2 a 3.3 (USB support)
+
+Version 1.6.6 (November 11 2005)
+- Agregado ShareEnum 1.6 (Network Shared Detection)
+- Agregado RootKit Revealer 1.56 (Advanced Malware Detection)
+- Agregado RMClock (CPU Analizer)
+- Agregado toolBar Cop 3.4
+- Actualizado Unknown Devices
+- Actualizado Unknown Devices Directory Structure
+- Actualizado Klite Codec 1.38 a 1.40
+- Actualizado CPU-Z 1.30 a 1.31
+- Actualizado 7-Zip 4.29 a 4.30 Alpha 7
+- Actualizado Windows Malicious Removal tool 1.9 a 1.10
+
+Version 1.6.5 (November 4 2005)
+- Cleaning Up
+- Agregado Cmos Password Recovery
+- Agregado File Recovery (HDD)
+- Agregado File Recovery (Flash Devices)
+- Agregado Restoration (File Recovery)
+- Agregado Symantec Virus (4 Updates/ 2 Agregado)
+- Agregado CWS Smart Killer
+- Agregado SymbOS Removal tool (Nokia Mobile)
+- Agregado HDD Password Recovery/Remover (ATAPWD)
+- Agregado AVR Antivirus
+- Agregado F-Pro Antivirus
+- Agregado AVG Antivirus
+- Removed Firefox Plugins
+  + FlashGet (Did not pass tests)
+    + GetRight
+  + Admin tools (Did not pass tests)
+- Removed NTFS4DOS Slower Programs
+- Removed Mini Windows X (Did not pass tests)
+- Removed HexWorkshop (Did not pass tests)
+- Removed Registry Crawler 4.5 (Did not pass tests)
+- Removed Easy Recovery Professional 6.03 (Did not pass tests)
+- Actualizado NTFS.bat a reflect NTFS4DOS changes
+- Actualizado Windows Malicious Removal tool 1.8 a 1.9
+- Actualizado Spybot
+- Actualizado Ad-Aware
+- Actualizado AVR Antivirus
+- Actualizado F-Pro Antivirus
+- Actualizado Unknown Devices
+- Actualizado TCP Optimizer 2.0.1 a 2.0.2
+- Actualizado Drivers
+  +Intel Accelerator
+  +Intel Chipset Detection Utility
+  +Actualizado Intel Chipset Drivers
+
+Version 1.6.3 (October 28 2005)
+- Agregado Framework Network 2.0 (.NET)
+- Agregado Ad-Aware Manager
+- Agregado AutoRuns 8.31 (Registry Automatic Executes)
+- Agregado AutoRunsC (Console Version de Autoruns)
+- Actualizado CwsShredder 2.15 a 2.18
+- Actualizado Driver
+  + Nvidia 81.85
+  + Java 1.5.05 Runtime
+
+Version 1.6.2 (October 27 2005)
+- Agregado Firefox 1.5.2 RC1
+- Agregado Firefox Loader
+- Agregado Firefox Plugins
+	+ Flash
+	+ Shockwave
+	+ Flash Get
+	  + GetRight
+	+ Admin tools
+- Agregado Easy Recovery Professional 6.03
+- Agregado UBSF 1.0
+- Agregado 7-Zip Beta 4.29 (Compress/Decompress More/Faster)
+- Agregado 15 New Windows 2003 Commands (Network/Services/Check)
+- Actualizado Ad-Aware
+- Actualizado Spybot
+
+Version 1.6.1 (October 24 2005)
+- PQX & UBS are united. SID is born.
+- New image for PQX with UBS (SID)
+- SID (System Integraded Diagnostic)/(Sistema Integral de Diagnostico)
+- Cleaning Up
+- Agregado 3 BATCH (NTFS, MEMTEST, CDROM) Explicados al Iniciar el SID
+- Agregado MemTest86++ 1.65 (Fixed Memory Start Problems)
+- Agregado Los siguientes programas como prueba de incorporacion: 
+(NOTE: Deben pasar un minimo de 10 de 10 Chequeos)
+	+ Symantec Corporate 10 (Como un Virus Scanner independiente)
+	+ HexWorkShop 4.2 (Verificacion/Modificacion de valores en Hex)
+	+ Mozilla Firefox 1.5.2 (Mejor buscador de internet)
+	+ Registry Crawler 4.5 (Buscador rapido del registro)
+	+ Easy Recovery Professional 6.03 (Excelente herramienta de recuperacion)
+- Actualizado Unknown Devices (16/32/Gui)
+- Verificado Versions Actualizado & Updates Available
+- Actualizado Drivers
+	+ NetWork
+	 + Intel
+	 + Sis
+	 + Via
+	 + Cnet
+	 + Realtek
+	+ Intel Inf
+	+ Via Sound
+- Agregado Drivers
+	+ Network
+	 + IC
+
+- SID Tested on more than 100 Experimental Pcs (Reason why it will be released). Results Are:
+	+Faster than loading a fixing CDROM
+	+Faster than searching for common drivers
+	+Faster at fixing, removing, detecting Worms, viruses, troyans, spybots, adware, hijacks, etc
+	+100% Effective against Windows 98(English SP2)/Windows 2000(All)/Windows XP (All)/Windows 2003 (All) Bugs
+	+Hardware Detection 100% Correct (More than 25.000 Hardware IDs Detected)
+	+System Check Faster than Common formats (Full or High Speed USB)
+	+122 de 122 Pcs Fixed completely with SID (Via Console, Registry, MS-DOS or Windows)
+	+Windows 98 (12 Pcs) 100% (8 Not Able a boot from USB. Not related a SID Results. Still loaded from OS)
+	+Windows 2000 (62 Pcs) 100% (7 Not Able a boot from USB. Not related a SID Results. Still loaded from OS)
+	+Windows XP (30 Pcs) 100% (2 Not Able a boot from USB. Not related a SID Results. Still loaded from OS)
+	+Windows 2003 (18) 100%
+	+Registry clean checks verify after 2 a 10 weeks with minimal a no problems. Only 2 Cases out de 122.
+	+Problem Detection faster, efficient, safer.
+	+Backup de data up a 250MB
+	+Study de 1 Year demostrates effective use de SID. Recommended for use.
+
+Version 1.6.0 (October 20 2005)
+- Agregado CuteMouse Detection (CTMOUSE.exe)
+- Agregado Image CDROM Emulator (SHSUCDHD.EXE)
+- Agregado PSTools
+- Agregado Symantec Adware (24 totals)
+- Agregado Low Level Formar Western Digital
+- Agregado PsTools 2.24 (Testing)
+- Actualizado Unknown Devices (16/32/Gui)
+- Actualizado Spybot
+- Actualizado Ad-Aware
+- Actualizado Ghost 2003 a 8.2
+- Actualizado Directories for Compatibility
+- Cleaning Up
+
+	UBS 1.1 Active
+		LAN Drivers (Agregado)
+		  + Cnet
+		  + Asound
+		  
+Version 1.5.6 (October 15 2005) (Commercial Addon/Release Version 1)
+- Cleaning Up
+- Agregado Unknown Devices DOS
+- Agregado SvrAny (Service Installer)
+- Agregado Instsrv (Installation/Deinstallation de Services)
+- PQX.txt Review + Help
+- Unknown Devices Update
+- Actualizado Ad-Aware Plugins (VX2CLEANER)
+
+	UBS 1.0 Active
+	- LAN Drivers (Most Common)
+		+ Intel
+		+ ADMTek
+		+ Realtek + Giga Drivers
+		+ 3Com
+		+ Via
+		+ D-Link (530/538)
+		+ Genius GF100
+		+ Broadcom
+		+ Davicom
+		+ LG
+		+ NetGear
+		+ Sis
+	-Mini Windows X (Not Available)
+
+Version 1.5.5 (October 10 2005)
+- Agregado PortQurUI 1.0
+- Agregado Notepad++ 3.2
+- Agregado USB Format Utility (usb_format)
+- Actualizado Unknown Devices (692KB)
+- Actualizado 7-zip 4.26 a 4.29
+
+	UBS Beta 1.5 Active
+	- DirectX 9.0c
+	- Intel
+	  + Inf Chipset 7.2.1.1003
+	- Sis
+	  + AGP 1.21
+	  + LAN 1.18
+	  + Sound 7012 1.21.12d
+	- Via
+	  + Chipset Via Hyperion Pro 5.04a
+	  + Audio Vinyl Combo 6.20b
+	- Ati 5.10 2K/xP
+	- Nvidia 81.84
+	- Klite Codec 1.38
+
+Version 1.5.4 (October 7 2005)
+- Agregado Windows Malicious Removal tool 1.8 (WindowsMRT)
+- Actualizado Unknown Devices (690KB)
+- Agregado StartupList
+- Agregado Boot System Win98 (BIN)
+- Agregado CPU-Z 1.30
+- Actualizado Ad-Aware
+- Actualizado Spybot
+- Actualizado Stinger 2.5.6 a 2.5.8
+- Actualizado Memtest++ 1.6.0 a 1.6.5 (Testing with Pure DOS)
+- Cleaning Up
+
+Version 1.5.3 (October 2 2005)
+- Agregado IBProcMan (Process Manager)
+- Agregado Angry Ip Scanner 2.21
+  + Alias Plugin For Angry Ip Scanner
+  + Mac Address Via ARP Plugin For Angry Ip Scanner
+  + FTP Connect Protocol Plugin For Angry Ip Scanner
+  + Share NT 139 Port Plugin For Angry Ip Scanner
+  + Web Detection Plugin For Angry Ip Scanner
+- Agregado TCP Optimizer 2.0.1 (Windows 2003)
+- Agregado NTFS 4 DOS (Datapol)
+- Agregado NTFS 4 DOS (SysInternals)
+- Actualizado Unknown Devices (689KB)
+- Actualizado Spybot
+- Actualizado Ad-aware
+- Ghost Registration Fixed + Cleaning Up
+- Begin UBS Testing (N/A)
+- Begin Memtest++ 1.6.0 Compatibility Test (External Addon)
+
+Version 1.5.1 (September 19 2005)
+- Agregado Pin.bat (Pings a 192.168.0.X address)
+- Agregado IpRe.bat (Releases and Renews an IP)
+- Agregado Tracert
+- Agregado TaskKill (Remove Process in Memmory)
+- Agregado BBIE.EXE (Barts Boot Image Extractor)
+- Actualizado Ping
+- Cleaning Up
+- Agregado 4 Symantec Worms (90 total)
+- Organized for files a compress, Low Level Formats, HW Detection & Fixers
+
+Version 1.5 (September 13 2005) 2 Year BirthDay
+- Reorganizado PQX & Cleaning Up for files
+- Agregado CwShredder 2.15
+- Agregado Brute Force Uninstaller 1.00.6
+- Agregado Symanted Worms Database (September 1 2005)
+- Agregado Stinger 2.5.6
+- Agregado 7z/Rar/PkZip/PkUnZip
+- Agregado Maxtor Low Level Format (MAXLLF.EXE)
+- Agregado Fujitsu Low Level Format (FJDT.EXE)
+- Agregado Samsungs Low level Format (HUTIL.EXE)
+- Agregado Seagate Low Level Format (DWSE.EXE)
+- Agregado MemTest+ 1.6 (Testing)
+- Agregado UnknownDevices 1.2
+- Actualizado PMagic 8.02 a 8.05
+- Actualizado Spybot (September 1 2005)
+- Actualizado Ad-Aware (Septembet 1 2005)
+- Inicio USB Boot System (UBS)
+
+	UBS Details Ver Alpha 1.0 (Not yet available)
+	- Windows 98 Kernel
+	- Common LAN Drivers
+	- Ati & Nvidia Drivers
+	- PQX Fix System
+	- Automatic Cleaning Up & Verifications
+	- For USB Memory 512+ (Full)
+	- For USB Memory 256+ (Less Drivers) (Not All Programs Available)
+
+Version 1.4.1 (August 30 2005)
+- Actualizado Everest 2005 Ultimate a Version 2.20.405
+- Agregado DelSvr (Delete Services on Windows)
+- Agregado MkBt (Copy boot sectors from drives)
+
+Version 1.4 (August 8 2005)
+- Removed CD System
+- Agregado Everest 2005 Ultimate 2.01
+- Agregado Spybot 1.4 (June 30 2005)
+- Agregado Ad-Aware 1.06r1 (June 30 2005)
+- Agregado Hijack this 1.99.1
+- Cleaning Up
+
+Version 1.3 (July 20 2005)
+- Fixed PQX system transfer errors
+- Agregado SPYBOT 1.3 support
+- Agregado Ad-Aware 1.05 support
+- Corrected Missing Files for Ad-Aware 1.05
+- Agregado PM.BAT for pqmagic.exe
+
+Version 1.2.6 (June 10 2005)
+- Agregado PQX.BAT (System Transfer & Verification with command.com copy support)
+- Actualizado Windows 98 Commands (35 total)
+- Agregado NT Commands (15 total)
+- Agregado DELTREE a NT Commands (Valid through Windows 2003)
+
+Version 1.2.5 (May 25 2005)
+- Actualizado Everest a Version 1.51.195 Professional
+- Fixed Windows 98 Commands (3 total)
+
+Version 1.2 (February 18 2005)
+- Actualizado Everest a Version 1.50.187
+- Actualizado PMagic 8.0 a 8.02
+- Agregado CDROM Drivers de MSDOS (OAKCDROM.SYS)
+
+Version 1.1 (October 10 2004)
+- Removed Obsolete Files
+
+Version 1 (September 2 2004) 1 Year BirthDay!!!
+- Inicia funcionamiento de PQX
+- Actualizado Everest a Version 1.10.106
+- Actualizado Aida a version 3.94.2
+- Agregado Extended Windows 98 Commands (35 total)
+- Agregado Ghost 2003
+
+Version 0.8 (August 23 2004)
+- Agregado Everest Home Edition
+- Actualizado Aida 3.8 a 3.92
+
+Version 0.7.1 (April 18 2004)
+- Actualizado Aida 3.5 a 3.8
+
+Version 0.7 (March 17 2004)
+- Agregado Aida32 3.5
+
+Version 0.5 (December 8 2003)
+- Actualizado PMagic 7.0 a PMagic 8.0
+- Agregado Windows 98 Commands (28 Commands total)
+
+Version 0.1 (September 2 2003)
+- Sistema PQX 
+- Primera Version
+- Partition Magic 7.0
+
+PARTITION QUICK XTREME (PQX) UBS MODE
+
+ALGUNOS PROGRAMAS DISPONIBLES:
+
+	PARTITION MAGIC
+	Partitioning, Formatting, Activator. (90/100) 
+
+	AIDA32
+	Hardware Detector, Hardware Analisis. (80/100)
+	
+	Everest
+	Hardware Detector, Hardware Analisis, Benchmark. (95/100)
+	
+	Unknown Devices
+	Hardware Detector, Hardware Analisis. (90/100)
+	
+	Ghost
+	Partition Cloner, Disk Cloner. (85/100)
+	
+	Spybot
+	Gusanos, Hijack, Virus, Troyans Detector. (95/100)
+	
+	Ad-Aware
+	Gusanos, Hijack, Virus, Troyans Detector, Memory Analisis. (95/100)
+
+	HijackThis
+	Startup Analisis, Registry Analisis. (100/100)
+	
+	CWSShredder
+	CWS Worm Remover. (100/100)
+
+	Stinger
+	Mcafee Worm Remover. (95/100)
+	
+	MemTest
+	Memory Error Detector. (100/100)
+	
+	NTFS4DOS/NTFS2DOS
+	NTFS in DOS Reader/Writer/Fixer. (95/100)
+	
+	AngryIP
+	IP Scanner, Port Scanner. (90/100)
+	
+	PorQuery
+	Windows Port Scanner. (90/100)
+	
+	TCPOptimizer
+	TCP Registry Optimizer. (100/100)
+	
+	CPUZ
+	CPU Speed Analizer, Memory Analizer. (100/100)
+	
+	Windows Malicious Removal tool
+	Removes Worms. (80/100)
+	
+	Notepad++
+	Notepad Mejorado. (100/100)
+	
+	Mozilla Firefox
+	Internet Explorer Mejorado. (100/100)
+	
+	VNC
+	Remote Control. (90/100)
+	
+	AMSN
+	Hotmail Messenger Simple. (80/100)
+	
+Programas Agregados hasta the momento (Sin incluir los Drivers):
+
+- Agregado New Tweak for Registry (CYREX Registry Tweak) 
+- Agregado Net Analyzer (Analizador for redes)
+- Agregado Sisoft Sandra (Analizador for hardware)
+- Agregado Ariesremover (Eliminador for un tipo especifico for Worms malignos)
+- Agregado CDex (Copia o transfieres musica for CD a MP3)
+- Agregado OpenOffice (Office completo libre)
+- Agregado NERO (Quemador Nero con support a DVD)
+- Agregado JV16 Powertool (Limpiador for Registry)
+- Agregado Avast Virus Cleaner (Exodus) (Limpiador for Worms)
+- Agregado Unlocker (Exodus) (Detetor for procesos escondidos)
+- Agregado FRAPS (Grabador for video directx o opengl)
+- Agregado VirtualDub (Reparador for videos o codificador)
+- Agregado Smart Undelete (Recuperador for files borrados)
+- Agregado Symantec Corporate (Antivirus poderoso)
+- Agregado Registry Crawler (Buscados for Registry excelente)
+- Agregado Daemon Tools (Emulador for DVD o CD)
+- Agregado VNC support (Control remoto por red)
+- Agregado WinTools Directory (Essential tools for Windows) (Herramientas valiosas para windows)
+- Agregado Acrobat Reader (Lector for documentos PDF)
+- Agregado Winamp Full (Programa excelente para escuchar musica)
+- Agregado VideoLan (Programa corrector and reproductor for video)
+- Agregado ShareEnum  (Network Shared Detection) (Detector for recursos compartidos)
+- Agregado RootKit Revealer (Advanced Malware Detection) (Detector for herramientas malignas especificas)
+- Agregado RMClock (CPU Analizer) (Analizador del reloj del CPU)
+- Agregado ToolBar Cop (Limpiador for BHO del internet explorer)
+- Agregado Cmos Password Recovery (Recuperador for claves del BIOS)
+- Agregado File Recovery (Recuperador for files especificos en HDD o USB)
+- Agregado Restoration (File Recovery) (Recuperador basico for files borrados)
+- Agregado CWS Smart Killer (Eliminador for Worms CWS)
+- Agregado SymbOS Removal tool (Nokia Mobile) (Eliminador for Worms para the Nokia)
+- Agregado HDD Password Recovery/Remover (ATAPWD) (Recuperador for claves para the HDD)
+- Agregado F-Pro Antivirus (Antivirus)
+- Agregado AVG Antivirus (Antivirus)
+- Agregado Frame Network (.NET) (Framework 2.0)
+- Agregado AutoRuns (Registry Automatic Executes) (Detector for programas al inicio)
+- Agregado AutoRunsC (Console Version de Autoruns) (Detector for programas al inicio)
+- Agregado MemTest86++ (Verificador del estado for the memoria)
+- Agregado Mozilla Firefox (Clean Effective Internet Access) (Explorador for internet mejor que the IE)
+- Agregado CuteMouse Detection (CTMOUSE.exe) (Detector del mouse)
+- Agregado Image CDROM Emulator (SHSUCDHD.EXE) (Emulador basico for CD)
+- Agregado PSTools (Herramientas administrativas for verificacion)
+- Agregado Low Level Formar Western Digital
+- Agregado SvrAny (Service Installer) (Instalador for servicios en windows)
+- Agregado Instsrv (Installation/Deinstallation de Services) (Instala and Desinstala servicios en windows)
+- Agregado PortQurUI (Verificador for puertos)
+- Agregado Notepad++ (Excelente lector for texto)
+- Agregado USB Format Utility (usb_format) (Formateador for USB)
+- Agregado StartupList (Verificador for sistema for inicio for windows)
+- Agregado CPU-Z (Verificador del estado del CPU)
+- Agregado IBProcMan (Process Manager) (Manegador for procesos)
+- Agregado Angry Ip Scanner (Verificador for puertos, ips and redes cercanas)
+- Agregado TCP Optimizer (Windows 2003) (Optimizador for conexion)
+- Agregado NTFS 4 DOS (SysInternals) (Lector for Formats NTFS bajo MSDOS)
+- Agregado Pin.bat (Pings a 192.168.0.X address)
+- Agregado IpRe.bat (Releases and Renews an IP)
+- Agregado Tracert (Rastrea un ip determinado)
+- Agregado TaskKill (Remove Process in Memmory)
+- Agregado BBIE.EXE (Barts Boot Image Extractor) (Extractor for sistema boot)
+- Agregado CwShredder (Limpiador for Worms)
+- Agregado Brute Force Uninstaller (Desinstalador for programas)
+- Agregado Stinger (Limpiador for virus and Worms especificos)
+- Agregado 7z/Rar/PkZip/PkUnZip (Compresores and Descompresores)
+- Agregado Maxtor Low Level Format (MAXLLF.EXE)
+- Agregado Fujitsu Low Level Format (FJDT.EXE)
+- Agregado Samsungs Low level Format (HUTIL.EXE)
+- Agregado Seagate Low Level Format (DWSE.EXE)
+- Agregado UnknownDevices (Detector for hardware desconocido)
+- Agregado DelSvr (Delete Services on Windows) (Borra servicios for windows)
+- Agregado MkBt (Copy boot sectors from drives) (Copia sectores for arranque for una unidad)
+- Agregado Hijackthis (Verificado del arranque for windows)
+- Agregado SPYBOT (Limpiador for Worms, virus, etc + tweaks)
+- Agregado Ad-Aware (Limpiador for Worms, virus, etc + detector for procesos)
+- Agregado PM.BAT for pqmagic.exe
+- Agregado PQX.BAT (System Transfer & Verification with command.com copy support)
+- Agregado NT Commands (Comandos for Windows 2000, XP and 2003)
+- Agregado Ghost 2003 (Copia o respalda una imagen for HDD a otro)
+- Agregado Everest (Detector for hardware + test)
+- Agregado Partition Magic (Formatea, Particiona, Corrige, etc)
+- Agregado Aida32 (Detector for hardware)
+- Agregado Windows 98 Commands (Comandos basicos and avanzados for windows 98)

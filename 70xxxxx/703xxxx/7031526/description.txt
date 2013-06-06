@@ -1,0 +1,18 @@
+Lucky Patcher v1.0.10
+Requirements: Rooted devices
+Overview: You can use this patcher to break some apps' Android Market License Verification or other Verifications. 
+
+
+Recent changes:
+Version 1.0.10
+Guys, the manual mode is not a panacea, it does not mean that he's mangled pile sha something, it's just another option for the sample.
+Version 1.0.9 
+has fixed in portrait mode, and there are many glitches with the change of orientation of the screen was well, and has expanded the search to objects, and there are not all found:
+Version 1.0.8
+Renamed some strings.
+Some programs do not appear in the list must now, apart from the system of course.
+to remove the license verification function is added to manual: designed for programs that can not handle the automatic mode. This is not a panacea, but it can help someone in some cases.
+Principle: Application to scan all the objects that can be licensed (such objects may be color table, the table of keystrokes, and so on - they do not need you to patch, but among them to find a license).
+To find the object of a license, act as follows: turn on the internet and do a backup application by clicking on the button in the dialog. Dialog says many found objects, select the first, hit a patch, then run the application, we see that the license requests, click the button to repeat the request if it is in response to the license, if still not found, close the program, click restore and select the next object, and again Consider what would happen. And so, until you find one you want. Then you can write to people what object to choose the right number. Patch need only one object and no more, do not forget to click restore, so that the application returned to its original state. If you forgot to make a backup just reinstall the application.
+
+Thanks to ChelpuS

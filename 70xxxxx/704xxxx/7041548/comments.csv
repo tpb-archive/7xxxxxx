@@ -1,0 +1,121 @@
+﻿User Type,Username,Date,Text
+,FreeMayk,2012-02-18T12:59Z,"Tnx m8!!!
+But all flags and CoA-s are mess up???
+What is problem???"
+,krste_oh,2012-02-18T14:57Z,"The problem is with the CoA DLC.
+This is what the official release says: 
+
+IMPORTANT NOTE:
+
+People who purchased the game from GamersGate should also reinstall DLC #1 - Dynasty Coat of Arms Pack (or they will look garbled in the game.)"
+,Gradimir87,2012-02-18T16:34Z,skidrow you are the best can you please uploaded mortal kombat??
+,dudeness88,2012-02-18T16:54Z,"Ok, I think there is a problem with this release. The official game checksum after 1.03b patch ( which is skidrow update 2) is KUMH. 
+
+Skidrow's release checksum always comes to GTPC. And dynasty coat of arms all stretched, even after i reinstalled all game from start. 
+
+The update 1 had correct checksum with the official release i believe. 
+
+what's the problem?"
+,tempros123,2012-02-18T20:15Z,"This is the fix i used for the COA DLC go to Crusader kings directory, open the interface folder,  find the coat_of_arms.txt,  Scroll down to 		texture = {
+file = ""gfx\\coats_of_arms\\dynasties.tga""
+size = { x = 16 y = 4 }
+and change the size to 
+size = { x = 51 y = 1 }
+this should fix it.  
+
+
+(It seems to me that paradox updated the dynasties.tga that's why it takes a re-install from GG to download the new dynasties.tga which uses the new size settings in the 1.03 patch)"
+,Dag0Red,2012-02-18T21:59Z,"Doesn't fix it for me. Maybe that fixes some coats of arms, but not the one's I noticed."
+,alvertis4,2012-02-18T23:23Z,"tempros123's ""trick"" works fine with the CoAs, I believe you're confusing it with the actual flags. The Coats of Arms are the emblems of each dynasty, the flags which are, well, the flags of nations etc and they're are still messed up, I believe its something to do with the flagfiles cause all the flags seemed to have move 2 spots forward..
+Another thing I noticed is the loading tips are missing :P"
+,Dag0Red,2012-02-19T00:04Z,"Right the flags sry (that look like coats of arms :)). Its not SKIDROW's fault, its Paradox - they're not EA :P.
+
+Can we expect this annoying thing will be fixed soon?"
+,FreeMayk,2012-02-19T01:43Z,"1. Install new game 
+2. Backup landed_titles.txt from common folder. 
+3. Install skidrow update 2 (no need for update 1) 
+4. Copy saved landed_titles.txt file in installation_folder/common 
+
+Then: 
+
+Find the coat_of_arms.txt, 
+Scroll down to texture = { 
+file = ""gfx\\coats_of_arms\\dynasties.tga"" 
+size = { x = 16 y = 4 } 
+
+and change the size to 
+size = { x = 51 y = 1 } 
+
+
+Game should working fine.  
+
+All best"
+,Dag0Red,2012-02-19T11:31Z,"ty, workd great now :)"
+,ironwolf999,2012-02-26T14:52Z,"Hi there.. thanks for upload. But have a problem, I can make the game run, but EVERY COAT of ARMS just looks plain BLACK instead of the corresponding flag. version 1.00
+
+then applied the update 2 but still happens. (i did do the fix that FreeMayk submmited in comments here).
+any idea?"
+,ironwolf999,2012-02-26T15:15Z,when i wrote Coat of Arms i meant FLAGS. all flags show black instead.
+,Benerfe,2012-03-09T00:19Z,"I installed the update and everything else is working, except the Mongols.. They never show up anyone got a fix?"
+,onett_home,2012-03-12T02:58Z,"I paid $40 for this game!
+I beat my wife!"
+,worox,2012-03-14T08:48Z,"Thank you boobsman for uploading this.
+Is there any chance that someone makes the effort to upload the latest patch 1.04 too, or is that more unlikely? Sorry, I am new in here. How are the odds for it? "
+,clamschop,2012-03-20T16:56Z,For all of you who are waiting for an Update 3 (1.04) you can update it manually through the Crusader Kings Launcher. I cant believe it took me a while to figure that out :).
+,halfchaos,2012-03-24T05:23Z,thanks clams :)
+,AchedTeacher,2012-04-05T17:11Z,"God, can anyone upload v1.04c and actually call it that?"
+,AchedTeacher,2012-04-05T18:58Z,Legit updates don't work for me. I'm gonna have to buy this game to play it with my mate...
+,clamschop,2012-04-19T05:36Z,Please upload update 3 with the new dlc items and 1.05b. Please I beg you!
+,Vaisya,2012-06-19T10:25Z," i run it with crossover on mac, the game work fine / but sometime background disappear and finally crash ,  any idea ? is it happening to you guys / Great game anyway"
+,kfisher17,2012-06-24T04:48Z,"Ive installed the game but it wont work. it says ""lua51.dll is missing from your computer"" any suggestions?"
+,Selvec,2012-06-29T12:20Z,"Its essential you install update 1 before update 2. Ignore what the readme says, it's wrong. Update 1 changes the UI and adds elements to the launcher, so you must have update 1 to add these elements, otherwise update 2 and beyond will be bugged.
+
+So to Summarize.
+- Install Update 1: http://thepiratebay.se/torrent/7034744/Crusader_Kings_II_Update_1-SKIDROW
+
+- Download Update 2, Mount and copy the DLC folder from update 2 to the main folder.
+
+- Start the games launcher, and then simply click ""Update blah blah"" it will say something like 1.6 is avaliable, download manually. Download it manually and install it.
+
+- Play the game like the leet bastard you are."
+,Selvec,2012-06-29T12:22Z,"Oh sorry, forgot to add this before you update to 1.6.
+
+- Download the Sword of Islam expansion, copy the DLC folder to the games main folder, click yes when prompted:  http://thepiratebay.se/torrent/7395586/Crusader_Kings_2_Sword_of_Islam_and_1.06"
+,kcovni,2012-06-30T15:05Z,"For those having problems with coat of arms and mixed-up flags after installing SKIDROW's updates 1&2, the fix is here :
+
+http://thepiratebay.se/torrent/7400740
+(FixForFlags - 10.23MB)"
+,kcovni,2012-06-30T15:14Z,"For those having problems with coat of arms and mixed-up flags after installing SKIDROW's updates 1&2, the fix is here :
+
+http://thepiratebay.se/torrent/7400740
+(FixForFlags - 10.23MB) "
+,Elenbor,2012-08-24T16:07Z,"I am happy to report that I have finally figured out the flag issue. I have spent over a day on this and could not find an answer anywhere.
+
+The flag .tga image files in Install-location/gfx/flags for the Timurids, Il-Khanate and Golden Horde are wrongly labelled as kingdoms instead of empires (change the k at the start of the image file name into an e).
+
+After you have done this delete the UserName/Documents/Paradox Interactive/Crusader Kings II/gfx   folder so the flag files are loaded again.
+
+With the .tga files wrongly labelled they weren't a part of the flag cache meaning the 3 empires took flags that weren't theirs and all the flags moved 3 places forward messing it all up.
+
+I am not sure if this is in the original version or caused by any of the updates but I experimented and the error always happened to me."
+,MVultra,2012-09-17T08:20Z,"How to install this game and its updates:
+
+1 - Install new game. Go to the folder called ""common"" and copy the file called ""landed_titles.txt"".
+
+2 - Install Update 1.
+
+3 - Install Update 2.
+
+4 - Copy saved landed_titles.txt file in installation_folder/common.
+
+5 - Open ""interface"" folder, find the coat_of_arms.txt. Scroll down to texture = {
+file = ""gfx\coats_of_arms\dynasties.tga""
+size = { x = 16 y = 4 }
+and change the size to 
+size = { x = 51 y = 1 }.
+
+6 - Download the Sword of Islam expansion, copy the DLC folder to the games main folder, click yes when prompted.
+
+7 - Download the DLC pack for the rest of the DLCs.
+
+Hope this helps."

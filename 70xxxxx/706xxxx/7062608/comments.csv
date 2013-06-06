@@ -1,0 +1,115 @@
+﻿User Type,Username,Date,Text
+,myachav,2012-05-01T18:14Z,thank you great work
+,BigSpence,2012-05-05T23:47Z,"do you have english preinstalled anywhere by chance? the french and spanish work so good, i want to give english to my friend who speaks very little english. thank you for the great job done btw. :)"
+,mowulms,2012-05-07T23:46Z,"Hey, thanks for the upload! Quick, concidering my bad connection here in Bolivia. I was wondering if anyone could help me out. Burned it to a disc, and what I got are a lot of RSD files. Should I download the program somewhere else? All advice is welcome, thanks!  "
+,mowulms,2012-05-07T23:53Z,"Allright I found this file now from you as well: Rosetta_Stone_v3_Preinstalled.rar
+Which I am currently downloading. If there is anything else which I need, please let me know. Thanks for all the effort!!"
+,jokerjaja,2012-05-11T02:20Z,Great work man. I'm having a bit of trouble with the voice recognition? How an i fix that? Any help will be appreciated. Thanks.
+,EinDeutschMan,2012-05-17T13:18Z,"@BigSpence,
+
+Use this :
+http://thepiratebay.se/torrent/7272499/Rosetta_Stone_v3.4.7_Preinstalled.exe
+Read the comment I posted with it, it has the instructions with  it.
+
+I also posted this in another torrent:
+TO ALL:
+
+I don't know why I didn't do this earlier,
+I have created a SELF EXTRACTING version of the ""Rosetta_Stone_v3_Preinstalled.rar""
+
+Rosetta Stone v3.4.7 Preinstalled.exe
+
+It takes out all of the guess work.
+
+DL this file, extract it, allow it to extract to the default location (C:/)
+
+It will create a ""Rosetta Stone"" folder in Program Files (x86) AND C:/ProgramData.
+
+It will then copy all the files needed to run Rosetta Stone.
+
+You will see that ALL language packs that I have are already activated.
+
+DL whichever language pack(s) you want, as many as you want.
+(assuming you have that much free space on your drive)
+
+Extract them, they will copy all of the files needed for that particular language to:
+C:/Program Files (x86)/Rosetta Stone/content
+
+Go to the C:/Program Files (x86)/Rosetta Stone/Rosetta Stone v3 folder.
+
+run the ""RosettaSoneVersion3"" file
+
+Click ""Never register""
+At the activation screen, click ""Continue""
+(you can scroll through the list of languages that are activated if you wish)
+Create User
+
+DONE!
+
+NOTE:
+I have tested this on 3 machines, 2 Vista's, and 1 Win7.
+ALL of the files have been scanned with Vipre 2012, and are clean.
+
+
+Now that TPB is back up, I plan to UL the language packs later today.
+
+EinDeutschMan"
+,EinDeutschMan,2012-05-17T13:40Z,"@jokerjaja,
+
+The error 1117 is USUALLY caused by your firewall, you need to block Rosetta 
+Stone from the ""calling home""
+
+Here's how:
+Go to: C:/Windows/System32/drivers/etc
+There you will find a file named ""Hosts""
+(not Hosts.ini, or Hosts.txt, or anything else, just Hosts)
+
+Open it with notepad.
+It should look something like this:
+
+ Copyright (c) 1993-2006 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+127.0.0.1       localhost
+::1             localhost
+#
+#         Any other entries you had go here (new line no # no space);  
+#
+#		Microsoft Activation
+#
+127.0.0.1                               mpa.one.microsoft.com 
+127.0.0.1                               sls.microsoft.com 
+127.0.0.1                               genuine.microsoft.com
+127.0.0.1                               wat.microsoft.com
+127.0.0.1                               mpa.microsoft.com
+
+127.0.0.1	secure.tune-up.com
+
+
+Now, you see where the last line says:
+127.0.0.1	secure.tune-up.com?, under that line put in:
+
+127.0.0.1  rosettastone.com
+save and close it
+
+THEN, in your firewall software, you have to allow ""trusted outbound"" or the equivalent.
+
+All of this is because for the Rosetta Stone speech component to work right, 
+Rosetta Stone needs to ""talk"" to itself (Done ask me why, cause I dunno :(  sorry"
+,naruto015,2012-06-08T23:08Z,hey does this work on apple products?
+,mikolajf,2012-06-12T20:10Z,"How to install this pack? Please, help. I have downloaded all cd's but I cannot find install file. Shall I copy everthing into C:/ProgramFiles/RosettaStone/Content? I really don'know.... Perheaps it is easier to download and install preinstalled version?"

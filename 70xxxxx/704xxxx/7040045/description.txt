@@ -1,0 +1,74 @@
+Finnish language version of Windows 7 SP1 64-bit (updated February 2012).
+
+SUOMENKIELINEN WINDOWS 7 SP1 64-BITTINEN HELMIKUU 2012
+
+Integroitu Windows Updaten pÃ¤ivitykset (pÃ¤ivitetty helmikuu 2012).
+
+Windows 7:n asennuksessa valitse minkÃ¤ version haluat asentaa.
+- Home Basic
+- Home Premium
+- Professional
+- Ultimate
+
+Jos sinulla ei ole laillista Windows 7:n Product Key -tuotetunnusta (Retail/OEM).
+- Windows 7:n asennuksessa ohita kohta jossa kysytÃ¤Ã¤n Product Key -tuotetunnusta.
+- Suorita aktivointi mukana tulevalla aktivointiohjelmalla (Windows Loader).
+
+Aktivointi onnistuu myÃ¶s laillisella Product Key -tuotetunnuksella, mutta jos tuotetunnus on tarkoitettu esim. Home Premium versiolle, niin silloin tuotetunnuksella voi aktivoida ainoastaan Home Premium version.
+
+--------------------------------------------------------------------------------
+
+Kuinka tehdÃ¤Ã¤n kÃ¤ynnistyvÃ¤ USB-muistitikku Windows 7:n ISO-levykuvasta?
+
+Windows 7 USB/DVD download tool
+www.microsoftstore.com/store/msstore/html/pbPage.Help_Win7_usbdvd_dwnTool
+
+Kytke USB-liittimeen vÃ¤hintÃ¤Ã¤n 4 Gt:n USB-muistitikku.
+
+KÃ¤ynnistÃ¤ "Windows 7 USB/DVD Download Tool".
+- klikkaa "Browse" ja valitse Windows 7:n ISO-levykuva.
+- klikkaa "USB device".
+- klikkaa "Begin copying".
+
+--------------------------------------------------------------------------------
+
+Kuinka poltetaan DVD-levylle Windows 7:n kÃ¤ynnistyvÃ¤ ISO-levykuva?
+
+Windows 7:ssa saa poltettua ISO-levykuvan DVD-levylle valitsemalla ISO-levykuvan hiiren oikealla painikkeella ja valitsemalla "Tallenna levyn nÃ¤kÃ¶istiedosto".
+
+Mutta suositeltavaa on kÃ¤yttÃ¤Ã¤ ohjelmaa jolla voit pienentÃ¤Ã¤ polttonopeutta maksiminopeudesta, esim. polta ISO-levykuva ilmaisella ImgBurn poltto-ohjelmalla.
+
+- valitse "Write image file to disc"-painike.
+- valitse "Browse for a file"-kansiokuvake.
+- valitse ISO-levykuva ja klikkaa "Avaa"-painiketta.
+- laita tyhjÃ¤ DVD-levy asemaan.
+- "Write Speed"-alasvetovalikosta pienennÃ¤ polttonopeutta maksiminopeudesta.
+- valitse "Write"-painike.
+
+--------------------------------------------------------------------------------
+
+Windows 7:n asennus kÃ¤ynnistÃ¤mÃ¤llÃ¤ tietokone Windows 7:n USB-muistitikulta.
+
+Kytke Windows 7:n USB-muistitikku USB-liittimeen ja kÃ¤ynnistÃ¤ tietokone.
+
+Jos asennusohjelma ei kÃ¤ynnisty, niin silloin pitÃ¤Ã¤ asettaa USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+- Jos tietokoneessasi voi vÃ¤littÃ¶mÃ¤sti tietokoneen kÃ¤ynnistyessÃ¤ valita kÃ¤ynnistysvalikon "boot selection popup menu", niin valitse USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi, jolloin ei tarvitse muuttaa BIOS-asetuksia.
+
+- Jos kÃ¤ynnistysvalikkoa ei ole, niin aseta tietokoneen emolevyn BIOS-asetuksissa (esim. Boot > Boot Device Priority) USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi. Joidenkin emolevyjen BIOS-asetuksissa (esim. Boot > Hard Disk Drive) pitÃ¤Ã¤ ensin valita USB-muistitikku ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi kovalevyksi, jolloin vasta saa asetettua USB-muistitikun ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+--------------------------------------------------------------------------------
+
+Windows 7:n asennus kÃ¤ynnistÃ¤mÃ¤llÃ¤ tietokone Windows 7:n DVD-levyltÃ¤.
+
+Aseta Windows 7:n DVD-levy asemaan ja kÃ¤ynnistÃ¤ tietokone uudelleen.
+
+Jos kovalevy on uusi (varaamaton) tai vanhasta kovalevystÃ¤ on poistettu osiot, niin silloin Windows 7:n asennusohjelma kÃ¤ynnistyy automaattisesti.
+
+Jos asennusohjelma ei kÃ¤ynnisty, eikÃ¤ "Press any key to boot from CD or DVD" tekstiÃ¤ ilmesty, niin silloin pitÃ¤Ã¤ asettaa DVD-asema ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+- Jos tietokoneessasi voi vÃ¤littÃ¶mÃ¤sti tietokoneen kÃ¤ynnistyessÃ¤ valita kÃ¤ynnistysvalikon "boot selection popup menu", niin valitse DVD-asema ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi, jolloin ei tarvitse muuttaa BIOS-asetuksia.
+
+- Jos kÃ¤ynnistysvalikkoa ei ole, niin aseta tietokoneen emolevyn BIOS-asetuksissa (esim. Boot > Boot Device Priority) DVD-asema ensimmÃ¤iseksi kÃ¤ynnistyvÃ¤ksi laitteeksi.
+
+Nyt pitÃ¤isi ilmestyÃ¤ "Press any key to boot from CD or DVD", jolloin paina jotain nÃ¤ppÃ¤intÃ¤. Windows 7:n asennusohjelma kÃ¤ynnistyy DVD-levyltÃ¤.

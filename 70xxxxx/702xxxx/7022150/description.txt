@@ -1,0 +1,110 @@
+ http://www.pl32.com/pages/imag/screenenbig.jpg
+
+
+PhotoLine 17
+Powerful image processing doesn't have to be expensive. PhotoLine is proofing that for many years now. Through its steady progress - in near contact to our users - it offers all modern tools needed for enhancing images.
+We simply wish, that you like our application, and are looking forward for your suggestions in our user forum.
+
+General Comments
+Main focus of the new version 17 is image processing.
+In addition, various functions are now faster and many minor improvements have been made.
+
+Common Functions
+Simple Browse
+The Simple Browse window is a simplified variant of the normal Browse window. All parts with the exception of the file list have been omitted. The result is a space efficient panel which can stay open all the time.
+In order to allow navigation, Simple Browse is listing folders in the file list, too. The folder ".." has a special meaning and is used for leaving the current directory. Furthermore the title bar of Simple Browse offers an expandable folder tree.
+Additionally the context menu of the file list provides access to most important commands of the Browse panel.
+
+
+In the menu:
+Layout > Image > Trim Image	Trim Image
+Trim Image removes the transparent edges of an image and thus reduces its size.
+In the menu:
+Tool > Color > Export Color Profile	Export Color Profile
+You can use this function to save the color profile embedded in a document.
+In the menu:
+Tool > Color > Selective Color Correction	Selective Color Correction
+Selective Color Correction is used for adjusting colors in an image. It originally comes from the prepress industry and therefore the correction is limited to the printing colors cyan, magenta, yellow and black. Colors controls which colors will be corrected. You can modify several colors withou leaving the dialog.
+
+
+In the menu:
+Tool > Color > Threshold	Threshold
+The function Threshold converts an image to pure black and white. You can define a threshold value, and the parts of the image brighter than that threshold will become white, and the rest black.
+
+
+Function for "Smart" Removal
+PhotoLine has two tools for "smart" removal:
+the Remove Brush
+You mark the area you want to remove with the Remove Brush. It is mainly used for small areas.
+Remove Object
+Remove Object removes the selection. As it offers additional features to influence the result, it is better suited for large areas.
+If you apply one of these tools, PhotoLine will search for matching image parts in the neighborhood and will insert them instead of the original content. This is a random process, so if you are not satisfied with a result, you can use Retry in the Tool Settings, and you might get a better result.
+
+ 	The Remove Brush
+The Remove Brush is mainly intended for small corrections.
+The Remove Brush can work with multiple layers. If you create a new empty layer with transparency above the one you want to correct, you can paint all corrections directly into this new layer. The original image will not be modified.
+You can use this tool to remove pinples and moles with a single click:
+   
+
+	Remove Object
+Remove Object deletes the selection. Usually you just have to create a selection and apply the function. In more difficult situations you can control, where PhotoLine should search for replacing image parts.
+
+Example 
+
+
+You have found a nice scene, but the gondola and the mast are disturbing.
+
+
+At first you are deleting the gondola with the Remove Brush tool.
+
+
+After that you are deleting the cables the same way. You don't have to delete a whole cable at once. Instead you can remove it piecewise.
+
+
+Because the mast is quite large, it is better to select it using the Free Lasso and to delete it with Remove Object.
+Mission completed!
+In the menu:
+Layer > Scale Layer
+
+
+
+Scale Layer With "Liquid" Mode
+"Liquid" will not scale the image equally, but instead it will try to keep the size of the important parts and to scale only the unimportant ones. You can create a selection to define the important parts by yourself. The quality of Liquid scaling heavily depends on the scene of the photo.
+ 
+
+The original image.
+
+
+The image horizontally scaled by 50% in a "normal" mode.
+
+
+The image horizontally scaled by 50% in "liquid" mode.
+As you can see, with liquid scaling the width of the towers nearly stayed the same. Most of the scaling happened in the place in-between.
+
+New and Enhanced Tools for Creating Cut-Out Masks
+New tools make it easier to create cut-out masks:
+The Mask Brush
+Using the Mask Brush you can directly edit the mask. It is mainly used for fixing minor glitches.
+The Quick Selection
+The Quick Selection is used for semi-automatic creation of cut-out masks.
+The Border Matting Tool
+With the Border Matting tool you can cut-out translucent parts of an object. Usually it is used to post-process an already existing selection.
+Aside from that there are a view helper functions:
+A Magnifier.
+Selections can be copied with automatic removal of color fringes.
+Extract Selection can be used to enhance the edge of a selection.
+ 	The Mask Brush
+The Mask Brush is used to edit an existing mask. You don't have to turn on the mode "Edit Mask" in order to do this.
+The Mask Brush has two subtools. The brush allows editing parts of an image and is adding them to the selection this way. The eraser protects image parts from editing and removes them from the selection. You can access the eraser quickly by holding Alt. You can use the right mouse button, too, if you have configured PhotoLine that way (in the preferences see "Clear with right mouse button").
+
+	
+The Quick Selection Tool
+You use the Quick Selection tool in two steps. First you create a rectangle enclosing the object. PhotoLine will then automatically start computing a first proposal for the selection. In the second step you repeatedly place object and background marks, until you are satisfied with the result.
+
+Install:
+=======
+1. Run Setup
+2. Use CORE keygen to generate license
+3. Say thanks!
+
+

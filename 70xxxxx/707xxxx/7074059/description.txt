@@ -1,0 +1,48 @@
+About
+Turtle Kevux is a Linux system based on gnu software and a linux kernel, all compiled with uclibc instead of the more common glibc.
+It is not fhs or lsb compatible, which is seen as one of the many security enhancements.
+It provides numerous space efficient packages available today.
+It forms a complete but different system to Windows, Mac OS, Solaris, Bsd, or Linux.
+Turtle Kevux is closest to Linux.
+This system partially implements the Featureless Linux Library. 
+http://kevux.org/turtle/about.html
+
+2012 / 03 / 01
+Turtle Kevux 0.9.5
+
+While fixing the installer problems with turtle kevux 0.9.4, I kept finding more problems until an entire month passed.
+I did manage to fix a whole lot of problems and so I release turtle kevux 0.9.5 with a functional installer.
+I also stumbled apon other problems and even managed to solve some really old known issues.
+Claws-mail now works, the latest series of xorg and mesa are now being used, and even the 64-bit cdrom boot issue is resolved.
+Now for the bad parts.
+Modesetting is functional and enabled by default, but I find that my old ati radeon card that worked wonderfully with mesa 7.8 does not perform as well with 7.11. With modesetting enabled, its performance is barely acceptable and with modesetting off it is only acceptable performance. However, the newer video cards work wonderful with modesetting. If you have any trouble with desktop performance, try booting with the option: nomodeset. 
+http://kevux.org/news.html
+
+Turtle Kevux - 0.9.5
+Fixes of Turtle 0.9.4 Problems
+    * A large number of kiwi installation problems have been fixed.
+    * claws-mail now works.
+    * The mpd music server now dmixes properly by default so you can now have more than one program use audio at the same time.
+    * Fixed applications that did not look for the mixer device in /dev/snd/mixer.
+    * /lib/libudev.so and /lib/libgudev-1.0.so had permissions that prevented desktop users from using any application that depended on either of those libraries.
+    * Copy and paste on the desktop now works in xfce.
+    * 64-bit grub cdroms now boot properly.
+    * Fixed boot problems when using software raid.
+New Software
+    * Added libffi
+    * Added vcdimager
+    * Added libblueray
+    * Added libaacs
+Other Changes
+    * Now using xorg-server 1.11.* and Mesa 7.11.*.
+    * Fixed webkit so that SoupSession is in the correct state to allow for pausing and unpausing.
+    * The boot process was reworked. 
+http://kevux.org/turtle/changelog.html
+ 
+http://kevux.org/index.html 
+http://kevux.org/turtle/download.html (others versions) 
+http://kevux.org/turtle/documentation.html 
+http://kevux.org/turtle/plans.html 
+http://freecode.com/projects/kevux
+
+sha256 : daa8aa1f6a45db43c039fccfb90abeeab573f7842b5915933be67695154aa99e  turtle-0.9.5-xo_1-live.iso

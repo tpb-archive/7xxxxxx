@@ -1,0 +1,45 @@
+StorageCraft ShadowProtect Desktop Edition v4.1.5.9340 Recovery Environment Bootable-CD (ISO) 
+
+ENU_ShadowProtect_RE_4.1.5.iso
+
+CRC32: 16606F08
+MD5: E658F2E0596FCAF43234C44ECBB83A7C
+SHA-1: A33394DCAC06BDABF367D5022675B641FE1608DA
+
+Fast and Reliable Disaster Recovery, Data Protection and System Migration for Windows Desktops and Laptops. Avoid System and Data Loss with ShadowProtect Desktop
+
+About StorageCraft Technology Corporation
+
+StorageCraft Technology Corporation is a premier software company focused on helping you backup fast and recover faster. StorageCraft develops innovative disk-based backup, disaster recovery, system migration, data protection and security solutions for servers, desktops and laptops. StorageCraft delivers software products that reduce downtime, improve security and stability for systems and data and lower the total cost of ownership for systems in your computing environment. Located in Draper, Utah, U.S.A., StorageCraft was founded in 2004. 
+
+ShadowProtect Desktop provides the following benefits:
+
+- Rapid recovery from bare metal, to dissimilar hardware or to and from virtual environments.
+- Centralized backup administration from a management console.
+- ShadowProtect ImageManager to automatically consolidate backup image files.
+- Verification and re-verification of backup images.
+- VirtualBoot technology for quick failover to a virtual server.
+- Converter tool to convert to .VHD or .VMDK.
+- Automatic backup of SQL, Exchange and other critical applications.
+- Granular recovery of individual files and folders in moments.
+- Simplified migration to new Windows servers.
+- Scheduler for automatic full and incremental backups.
+
+More info: www.storagecraft.com
+
+Supported File Systems/Disk/Volume Types
+
+ShadowProtect Editions support the following File Systems: FAT16, FAT16X, FAT32, FAT32X, NTFS, MBR Disks, GPT Disks, Basic and Dynamic Volumes and Disks.
+
+Supported Storage Media
+
+ShadowProtect supports the following storage media: Disk drives including network drives, SAN, NAS, iSCSI, SCSI, USB or Firewire, Solid State Disks (SSD), and optical media such as CD/DVD/Blu-Ray.
+
+Changelog (ShadowProtect version 4.1.5):
+
+- Features/Enhancements
+There are no new features for this maintenance release. See section 6 for a description of the fix in this 4.1.5 release. If you are not experiencing any issues with your current ShadowProtect Desktop/Server/SBS Edition 4.1.0 installation, then there is no need for you to upgrade to this 4.1.5 maintenance release.
+- Issues Resolved
+A bug has been fixed which caused high CPU and network utilization if a backup destination object became inaccessible.
+
+

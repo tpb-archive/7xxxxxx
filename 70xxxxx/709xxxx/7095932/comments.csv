@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,Frosax,2012-03-14T16:59Z,just get an error when i try to run the setup.exe in the kamidori.mdf
+,DLord227,2012-03-14T20:52Z,You have to run it under Japanese locale had no problem installing
+,DLord227,2012-03-14T20:59Z,And follow the install notes but before the english patch if you havent before change the install directory to an english title then use the English patch and textfix
+,Frosax,2012-03-14T23:38Z,"okay, thanks :)"
+,CaptainDodo,2012-03-15T16:09Z,"I have no problem until the end but after moving the english patch to the installation folder and trying to run it i get the error ""unable to open archive file"" can anyone help?"
+,CaptainDodo,2012-03-16T02:00Z,"I fixed the archive problem but now the game crashes after it starts it says ""ARCGameEngine stopped running"" help?"
+,chinodog8,2012-03-16T02:15Z,Make sure the game folder is in all English. No Japanese characters at all in order to apply the English patch.
+,chinodog8,2012-03-16T02:15Z,Computer's locale must be set to Japanese. Applocale will not work.
+,CaptainDodo,2012-03-16T03:11Z,oh okay man thanks
+[T],DeathMarine1,2012-03-18T00:58Z,im using windows x64 as well. I installed it just like it says on the install notes. worked perfectly for me. 
+,Genocydalhamster,2012-03-19T16:46Z,"I can't work this out with the directions specified.
+Japanese Locale confirmed.
+Install folder renamed to ""Meow""
+Installed all three Append disks
+Renamed that folder to ""Moo""
+Drag English patch into ""Meow"" and installed
+Says It can't find the three Append disks.
+And dohohoh I just worked it out, I like how bitching about ones problems sometimes solves it, thanks for listening. 
+All I had to do was drag every file from ""Moo"" into ""Meow"". :D"
+,ChubZz,2012-03-19T22:09Z,Is it censored?
+,operacija90,2012-03-20T09:50Z,"can someone help me i have problem with instal 
+http://img10.imageshack.us/img10/2817/62356725.jpg"
+,just.keen,2012-03-30T14:40Z,"Note to everyone who hates the idea of changing Win regional settings back-and-forth:
+---
+You CAN run the game with AppLocale, but in order to do so, you MUST switch Windows to japanese support at least once. First run the game while Windows is switched to japanese, and change game and system text (options -> text) to Arial Unicode. After doing that, you can change Windows language settings back to normal, and just use AppLocale.
+
+PS: You can also do all the setup steps using AppLocale, no problems here."
+,just.keen,2012-03-30T14:43Z,"PPS: Oh, and this game is pretty low on H-content (compared to overall game length), so if you planned to play it *just* for H-content -- don't bother. It's a very nice game by itself, though."
+,kaminasama,2012-04-05T03:40Z,"Works perfectly, thank!"
+,bleakessence,2012-04-26T17:01Z,"For those that have issues with this follow these steps:
+1.Change system locale to Japanese (Applocale works with everything but the English patch, you can change back to English after patching and run through Applocale then)
+2. mount the disc image
+3. run autorun, install
+4. Patch in order: ap01, ap02, 200 (should be moved to game folder first)
+5. Run the English patch from a different folder then the game.
+6. enjoy (everything to this point is a copy-paste from X69fizzy69X over on nyaa)
+7. Before switching back to English on regional settings, run the game once and open the in-game configuration menu.
+8. Click on the ""Text"" button and set font to MS UI Gothic.
+9. Now you can run the game in US English regional settings without getting a runtime error"
+,MitchAllen,2012-04-28T20:24Z,"this looks like a great game but i'm having alot of trouble getting it to run so im done with it. Thanks anyways. and yes i did change my location, mounted it but it would not install even tried to rename the folders, and combine them also NOTHING. thanks DM for upping."
+,MitchAllen,2012-04-28T20:30Z,Decided to try one last time after posting and got it working. (yay me :P ) thanks again DM
+,0untold,2012-06-03T15:31Z,is thr any game walkthrough fr this?
+,zeronero13,2012-07-06T13:51Z,"If you have problem with 'arcengine stopped working' try: system>config> animations: combat:[off], and other: [off]"
+,kdgang,2012-07-15T13:16Z,I get a run time error on BTL.bin I think its the battle animation file.  It works when I turn off animation for combat.  Is there a way to fix this? so I can play with animation for combat on?
+,kdgang,2012-07-23T10:25Z,Got it to work after installing wmp11
+,jcsj,2012-08-09T10:07Z,"Insanely addictive gameplay and crazy game length! H-scenes are just a bonus!
+
+Top torrent too! Thanks DeathMarine!"

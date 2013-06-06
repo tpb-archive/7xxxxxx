@@ -1,0 +1,477 @@
+﻿User Type,Username,Date,Text
+,JohnHolmesII,2012-02-15T16:20Z,"Sorry about that.
+I am back seeding."
+,JohnHolmesII,2012-02-15T23:21Z,It is Healthy now.
+,samoht95,2012-02-16T12:13Z,"It says that I'm missing a file called X3DAudio1_7.dll
+So, it won't start the game. Fix??"
+,JohnHolmesII,2012-02-17T00:26Z,"@samoht95
+http://answers.microsoft.com/en-us/windows/forum/windows_other-gaming/x3daudio17dll/9642f626-804f-4dd6-84d4-78939459b221"
+,labellavienna,2012-02-17T05:03Z,"I just wanted to say thank you first and foremost for taking the time to do this, means so much to me!!! "
+,labellavienna,2012-02-17T06:02Z,"It works fine!!
+
+However...I was wondering, If I wanted to install custom content/mods/hacks etc...how would I go about doing this?"
+,JohnHolmesII,2012-02-17T18:33Z,"@labellavienna
+That depends on which method you chose to use. Using the recommended install, the best thing to do would be to go to http://skyrim.nexusmods.com/.
+This site has thousand of free mods. They also offer a modding tool called the Nexus Mod Manager, found at http://skyrim.nexusmods.com/content/modmanager/."
+,JohnHolmesII,2012-02-17T18:39Z,"This site allows you to download their mods directly through the mod manager, and install them into Skyrim in a managed way. Not much thought is necessary, and the manager handles all file transactions.
+
+If you want to install mods manually, most mods go in ""[Install drive]: [Skyrim install folder] /Data/"" .
+However most mods will simply tell you how they should be installed.
+
+If you were just wondering if mods are okay to use on a cracked copy, the answer is yes, and rest assured no extra steps are necessary compared to a purchased copy of the game.
+
+And really, it was de rien."
+,JohnHolmesII,2012-02-17T18:45Z,"tracker Update for those wondering about torrent health:
+
+
+http://tracker.publicbt.com:80/announce:
+77 Seeds
+90 Peers
+
+Peer Exchange:
+Seeds: 129
+Peers: 195
+
+DHT:
+Seeds: 103
+Peers: 156"
+,labellavienna,2012-02-17T18:53Z,Another quick question....(sorry) has this been updated to the newest patch...1.04? And would i be able to download future patches from Bethesda as well as any DLCs purchased?
+,labellavienna,2012-02-17T23:23Z,BTW..I tried to install mods using Nexus mod manager...however mods do not show up in the game.  Is there a specific place where the game must be installed?
+,JohnHolmesII,2012-02-18T20:47Z,"@labellavienna
+You will not be able to get updates from Bethesda directly, as the only way to do this is through Steam. However, cracked updates are available through the pirate bay, and you can use those updates using what I have here. 
+
+Yes, this is version 1.4 (read the file description)
+
+Open Mod Manager, go to Settings -> Skyrim and make sure the install directory listed is the proper Skyrim game directory.
+
+While still in Mod Manager, go to the Plugins tab and make sure you check all the check boxes and push ""Launch Skyrim"" from the mod manager. This will bring up the Skyrim Launch screen, whereupon you will see an option labelled ""Data Files"". Make sure all are checked here as well.
+
+You will not need to always go through the Mod Manager first, but you should do so after installing a new mod.
+
+If problems persist, please give a more detailed account thereof."
+,skyrimplayer,2012-02-18T22:09Z,"i need some help, ive downloaded the torrent but im confsed on what i have to do next, please could you give simple instructions on what i have to do next as its my first time actually downloading somthing like this."
+,skyrimplayer,2012-02-18T22:52Z,ok i installed it but i get no soun while in game and it doesnt go past a certain point when im on the carriage in helgen. nothing happens. help plz
+,JohnHolmesII,2012-02-19T04:18Z,"@skyrimplayer
+I believe what you are describing is a bug, and I've heard of it before. You may want to try starting a new game.
+
+As to the lack of audio, make sure nothing is muted,   never alt+tab out of the game, and check the ingame audio settings.
+
+If all else fails, try simply reinstalling the game.
+Always recheck the steps listed in the README.
+
+if your problems persist, please give a more detailed account of your problem."
+,SlipQuik,2012-02-19T15:33Z,Im getting an error saying NTI media Maker was installed incorrectly. Im just wondering if this was the program you should run the Skyrim.iso on or not.. Im redownloading Media Maker (I never even knew I had it until now!) Ill let you know how it goes.
+,JohnHolmesII,2012-02-19T20:59Z,"@SlipQuik
+
+That is not the software I used, and I am unaware of its functionality."
+,Jayzamine,2012-02-19T23:18Z,"@JohnHolmesII I had the same problem as Samoht95 but i fixed it now, atm its saying im missing a second file named ""binkw32.dll"" would you know where/what the second update is?"
+,JohnHolmesII,2012-02-20T03:01Z,"@Jayzamine
+
+That file is responsible for decoding Bink! Video files.
+
+binkw32.dll is included in the .iso file I uploaded.
+
+You either:
+
+a) Deleted the file accidentally
+
+b) Didn't extract the file correctly
+
+c) Had a download error
+
+
+Option 1: Download the file directly
+http://www.dll-files.com/dllindex/dll-files.shtml?binkw32
+
+And put it in the Skyrim game directory.
+
+Option 2: Remove the torrent from your downloader and re-add it, set the download location to the same spot (don't override) and do a re-check (Usually a right click menu will have this option).
+If the torrent finishes the re-check and is incomplete, just finish downloading.
+
+If it finishes the re-check and is still at 100%, then simply re-install the game via the README."
+,JohnHolmesII,2012-02-20T03:02Z,"*Make sure you click ""Download ZIP-File"" and not ""Download binkw32 Fixer"""
+,labellavienna,2012-02-20T12:25Z,I don't know you...but you seriously make me want to kiss you a million times for this lol. thanks again 
+,firewind666,2012-02-20T16:54Z,seeeeed please!!!awesome game!!!
+,LostAchilles,2012-02-21T13:26Z,@JohnHolmesII Already bought this on PS3 but wanted to try out a few of the mods I've seen and thanks to you I can without having to go out and spend another ÂŁ40 :p it's highly appreciated. Currently downloading this at 900kB/s on average so it's a great torrent obviously xD I even created this account just to say thanks lol ^ thanks to all the seeders too 
+,Denial182,2012-02-21T20:31Z,"Downloading now, but wanted to say thanks in advance, gotta love an easy install. Plus it's good to see an uploader helping out. Cheers :)"
+,cozalikespie,2012-02-22T00:20Z,Just like to say thanks for this. Even though I have the game on Xbox 360 I wanted to try out the mods and this is perfect for it. Cheers
+,JohnHolmesII,2012-02-22T03:03Z,"Indeed, I too own a copy for the xbox, but was so mired in the wolrd of modding that I couldn't resist stealing a PC copy. At least Bethesda got their money."
+,ultrarasengan,2012-02-22T12:52Z,can i use daemon tools?
+,JohnHolmesII,2012-02-22T16:01Z,"You may use any tools you like.
+I cannot promise functionality, however.
+I believe Daemon tools will work, yes."
+,AgentVance,2012-02-23T04:51Z,it gets up to 0.6% downloaded then it stops and says access denied. can someone help me?
+,Disrupt0r,2012-02-23T05:30Z,"It works fine, but, the FPS is really low. Any fixes?
+Plz get back soon."
+,Disrupt0r,2012-02-23T05:41Z,Also thought I might say that I am running on Windows 64 bit with the required standards listed in the read me.
+,Disrupt0r,2012-02-23T05:48Z,"Nvm, I had it set to ""Ultra"" Detail and max resolution. Thanks for a great game! No homo but ""love"" you for this! "
+,AgentVance,2012-02-23T06:12Z,seriously it keeps saying access denied. can someone please help me? it would be much appreciated.
+,ultrarasengan,2012-02-23T17:19Z,should we always mount it to play the game?
+,jai-1990,2012-02-23T19:20Z,"hi, game works perfect so thank you! but im having trouble with mods, ive looked how to do them and know how, ive used the nexus mod manager and everything and nothing works, and i can't install them manually because on the launcher the data icon is blacked out for some reason so i cant check the esp. files to activate the mods? any ideas? thanks :')"
+,JohnHolmesII,2012-02-23T23:17Z,"@AgentVance
+I have absolutely no idea what is wrong. What software are you using to download this?
+
+@ultrarasengan
+If you choose Option 2, then yes.
+
+@jai-1990
+Go to My Documents -> My Games -> Skyrim
+and open SkyrimPrefs.ini
+Under the section titles [Launcher], find the line:
+bEnableFileSelection
+
+and make sure it is set to 1."
+,titsmcgheeee,2012-02-25T21:01Z,"This is probably a stupid question, but my copy doesnt have any audio. Yours is the second ive tried and unfortunately to no avail."
+,loaddd,2012-02-25T22:48Z,"i open launcher and press play, a box comes up saying ""Failed to initialize renderer. Hardward T&L required but not supported by Adapter"" .... know how to fix it? =( "
+,JohnHolmesII,2012-02-26T00:03Z,"@titsmcgheeee
+You may have audio driver problems.
+
+@loaddd
+Your computer cannot play the game. It is too old."
+,Spanion,2012-02-26T03:26Z,"Alrighty, downloading now. Knowing my 'skills' with pirated games i'll probably have lots of problems :P. It's nice to see an uploader actually helping in the comments. Good on ya mate, two thumbs up."
+,Spanion,2012-02-26T10:11Z,"Well, besides from the slow download it is perfect. Quick and easy installation with easy to understand directions. You can count on me to seed. 10/10 "
+,martinj96,2012-02-26T12:29Z,"My download stopped at 99,7 % plz seed"
+,TerrariaLover1,2012-02-26T13:25Z,Can someone give me a link to the Creation kit that works with this version of the game?
+,TerrariaLover1,2012-02-26T15:08Z,Can someone link me the Creation kit that works with this version?
+,martinj96,2012-02-26T18:48Z,"the health is on zero and download stopped at 99,7%"
+,JohnHolmesII,2012-02-26T19:58Z,"@TerrariaLover1
+https://thepiratebay.se/torrent/7026003/TES_V_Skyrim_Creation_Kit__FIXED_(No-Steam_Steam_Working)_FIXED"
+,kakuzu,2012-02-26T20:11Z,"Okay so I downloaded it did instructions for option 2. When I click it and mount it than click the shortcut it opens up and everything but when I press play nothing happens. the options opens up a random window, and the data files doesn't work or open up like its not connected to anything. Did I do something wrong, am I missed something?"
+,JohnHolmesII,2012-02-27T01:59Z,"@kakuzu
+Yes, something went wrong. Every once in a while the launcher will decide to say ""Fuk the world"" and ignore the .exe file and all the .esp files as well. I seriously recommend simply following Option 1, but hey, we all make our own decisions.
+
+Are you running Win7 or Vista?"
+,kakuzu,2012-02-27T05:07Z,"Sorry kinda new to this, I did try option one and was little confused, I put it in a folder I made and put the shortcut on the desktop but nothing happen. Do I have the wrong program set up to use it with for that option? I have like poweriso and imgburn"
+,kakuzu,2012-02-27T05:25Z,Sorry and its windows vista 64 bit
+,JohnHolmesII,2012-02-27T06:17Z,"@kakuzu
+Try modifying the shortcut on your desktop to run the launcher as an administrator. 
+Also try installing the game to a location other than C:\Program files\
+as this location is raped by UAC.
+
+If all else fails, describe more specifically what happens when you click ""Data Files"" in the Skyrim launcher and we'll do this the fun way."
+,banana-fruit,2012-02-27T15:17Z,"The download was speedy and easy
+
+However, I had trouble extracting the .iso from .rar file using winrar so I tried manually mounting it. It came up with an error saying that im missing the X3DAudio1_7.dll file? What does this mean and how should I fix it? Any tips on how I should mount it or extract it properly?"
+,JohnHolmesII,2012-02-27T15:32Z,"@banana-fruit
+Read my previous posts.
+
+As for the extraction process, make sure winrar is updated if you're having problems."
+,maitkenr,2012-02-28T05:07Z,"Great torrent got it working fine. However, when I go to activate the mods in the data files section of the launcher, none of them appear. Anyway to get the mods to work?"
+,wheresthebeer,2012-02-28T07:07Z,"Hey, everything works great! One problem though.. You know how the camera angle changes, and your character does a cool move to finish off whatever your fighting? Well.. the sound for the slashing cuts off during this. It's kind of annoying because it's looks so epic, but it has no epic sound. It just goes silent. Was wondering if you know how to fix this, or if it's something I have to live with."
+,TerrariaLover1,2012-02-28T08:22Z,"Ack. This is really pissing me off.
+For some reason, everytime I launch the loader, Data Files is already greyed out and I can't access mods. I have downloaded the Nexus Mod manager and that doesn't work either. Please help?"
+,TerrariaLover1,2012-02-28T08:51Z,"This is annoying.
+When I start the laucher, EVERY TIME it starts, the Data Files is greyed out and I can't choose any mods. I have also downloaded the Nexus mod manager and that doesn't seem to work either. Any ideas?"
+,JohnHolmesII,2012-02-28T16:07Z,"@TerrariaLover1
+Go to My Documents -> My Games -> Skyrim
+and open SkyrimPrefs.ini
+Under the section titles [Launcher], find the line:
+bEnableFileSelection
+
+and make sure it is set to 1."
+,kakuzu,2012-02-29T04:04Z,"I was actually having the same problem terraria was having with the greyed out data files and when I pressed play nothing happened. I did what you said though and I just redid the entire process over but now its says missing ""Unable to find INI file Please reinstall skyrim"""
+,JohnHolmesII,2012-02-29T04:37Z,"Re -unrar the files and reinstall Skyrim.
+Make sure you adjust the SkyrimPrefs.ini as I have said.
+
+This selection allows file selection in the launcher. (I even had the same problem.)"
+,JohnHolmesII,2012-02-29T04:43Z,"EVEN IF YOU DON'T USE MODS
+
+Another thing to do is use the ""Launch Skyrim"" button in Nexus Mod Manager.
+>Make sure, in NMM, to go into the ""Plugins"" tab and check all the boxes. This will eliminate the need for file selection in the launcher."
+,Freakygamer_01,2012-02-29T13:42Z,uhh.... why cant i download the torrent :S?
+,b.rey,2012-03-01T01:27Z,im having the same issue as banana-fruit
+,b.rey,2012-03-02T00:13Z,"when i try and open the laucher it says steam_api.dll is missing from your computer please try reinstalling.
+any suggestions"
+,JohnHolmesII,2012-03-02T02:46Z,"@b.rey
+yes...
+reinstall."
+,krt2393,2012-03-02T08:36Z,@JohnHolmesII i looked for your posts and you tell me how to do the X3DAudio1_7.dll bit please
+,krt2393,2012-03-02T08:39Z,@JohnHlmeII can you help me with the X3DAudio1_7.dll thing i lookedfor pervios postbut found none on it
+,JohnHolmesII,2012-03-02T16:06Z,"@krt2393
+http://answers.microsoft.com/en-us/windows/forum/windows_other-gaming/x3daudio17dll-what-is-this-dll-file-and-why-do/9642f626-804f-4dd6-84d4-78939459b221"
+,19341,2012-03-02T21:58Z,when i try to mount the ISO file it just says Error: Can't Open VCD              Idk What to do ....plz help
+,JohnHolmesII,2012-03-02T23:43Z,Reinstall VCD
+,Cain2d5,2012-03-03T05:57Z,"I followed your instructions and un-rar.ed it and put it as a folder on my desktop, but when I click on the launcher, a error pop-up appears and says ""Error: Unable to fin INI file. Please re-install Skyrim."" What should I do? Should I reinstall?"
+,FJonsson,2012-03-03T08:59Z,I have extracted the isofile and when I try to run skyrim launcher it said unable to find an INI file. I changed the skyrimprefs.ini but it didnt make a difference. 
+,JohnHolmesII,2012-03-04T02:46Z,"@FJonsson
+A common enough problem.
+Navigate to the Skyrim install directory and open TESV.exe directly.
+This should remake the .ini files and allow for normal operation."
+,Sopy,2012-03-04T05:09Z,"I can get the game to launch, but I can't get the game itself to run. It says that it failed to initialize the renderer"
+,Toniko7,2012-03-04T09:18Z,"It says im missing the ""steam_api.dll"" "
+,maxpersonal,2012-03-05T04:29Z,"Hey, I downloaded this about 2 weeks ago, and it works like a charm. I would just like to know if it had the HD Texture pack that Bethesda released on Feb. 7th in the torrent. Looking forward to an answer. Thanks!"
+,SrDimas,2012-03-05T06:26Z,"How do you play the game?  I got it to the point where it is in a virtual disk drive, and the file ""Skyrim Launcher"" succesfully opens, and then i click Play, and it acts like something is about to happen, but nothing does."
+,SrDimas,2012-03-05T06:27Z,"thought i might add that neither Play button or  TESV file give error message, but neither wil leither of them actually open"
+,JohnHolmesII,2012-03-05T15:59Z,"@maxpersonal
+No, fuck the bethesda DLC, it was just less shitty files than what they released. 
+
+If you want HD, then Download Skyrim HD
+http://skyrim.nexusmods.com/downloads/file.php?id=607
+
+And install it, then download Skyrim Realistic overhaul
+http://skyrim.nexusmods.com/downloads/file.php?id=5400
+
+and install it on top.
+
+@SrDimas
+Try executing the file TESV.exe directly.
+If it works, then you should try executing SkyrimLauncher.exe again.
+
+If it works this time, then YAY.
+If not, tell me if you have, in the iso, a file named log.txt"
+,SrDimas,2012-03-05T16:33Z,"I have been trying to launch it directly all along, and nothing happens.  again, the hourglass appears near cursor as if loading, and then nothing happens.  I dont see a file in the mounted iso called ""log.txt"""
+,rabj911,2012-03-05T19:46Z,"Hey man, big thanks for the easy setup, really appreciated that since i'm not a genius with computers and all that. There's just one problem though; when I start the game, it sais ""Failed to initialize rendered. ShaderModel3 required but not supported by your video card."" Is there a way to fix it or am i gonna need a new one? Please answer bro :)"
+,JohnHolmesII,2012-03-06T00:31Z,"@SrDimas
+You may want to have task manager open when you click TESV.exe and watch what happens. Might be interesting.
+Well, at this point, seeing as I do not have your computer in front of mine, it would be very difficult to proceed. I must recommend, therefore, that you try Option 1 instead.
+
+If you should thus choose, keep in mind Windows   Â can get very upset if you install into Program Files, so try installing into, say, C:/Games in order to avoid further issues.
+
+
+@rabj911
+Indeed, I'm afraid, you do."
+,SrDimas,2012-03-06T02:00Z,"I already did the task manager thing, and no program opens, but a process begins, and after one or two seconds, closes again.  and I saved it to c drive then mounted to a virtual clone drive"
+,SrDimas,2012-03-06T02:01Z,does the game need to be paired with steam in any way?
+,JohnHolmesII,2012-03-06T03:30Z,"@SrDimas
+Steam: no
+
+I mean extract the files out of the .iso and install them; most problems can therefore be avoided."
+,devilmcdo,2012-03-08T23:27Z,i want to know can we change language 
+,JohnHolmesII,2012-03-09T02:23Z,There is nothing stopping you
+,chrisnonfer,2012-03-11T00:43Z,"When I try to play the game I get the error:
+""TESV.exe - System Error
+The program can't start because X3DAudio1_7.dll is missing from your computer. Try reinstalling the program to fix this problem.""
+What should I do? I tried re-downloading it from you, "
+,Agey1010,2012-03-11T09:39Z,hey dude does the game fit on a 4.7 g dvd-R??
+,JohnHolmesII,2012-03-12T15:07Z,"@chrisnonfer
+Read through all the comments on all the pages here.
+
+@Agey1010
+No."
+,isamayumi_,2012-03-13T00:48Z,"I have the same problem of ""Sr Dimas"", I click play but nothing happens, it just open another window of the Launcher, please help me ):"
+,Scarface.Gr,2012-03-14T01:02Z,"sweet dl right now hope it works without ""extra"" guidance :D"
+,Topgun999,2012-03-14T23:41Z,"Awesome download. Fast, plenty of seeders. Only problem is that I have no sound whatsoever. During the game startup, the Bethesda logo has sound, but the pre-game menu and onward has nothing. I've looked into it, and I'm stumped. Volume is on, all the way. All sound drivers are updated, I've re-extracted the iso multiple times, got the latest version of directx, put in all of the necessary dlls, and just about everything I could get from others with the same problem. I'm using Windows 7, 64 bit. It it's important, I'm using an ASUS N53S laptop."
+,liquerpig,2012-03-15T04:03Z,"Hey man I have a question about the game, when i start it up it works just find except for some reason i cannot use my keyboard in game. If i alt+tab out my keyboard works just fine everywhere else but if i go back into the game it does not. So i cant get past the choosing my characters name. Please help thanks!"
+,JohnHolmesII,2012-03-15T14:59Z,"@Topgun999
+1) Have you tired beta audio drivers? Sometimes they work better.
+
+2)have you tried to change the sound output properties in Windows?
+
+3) Have you checked the sound settings ingame?
+
+4) Have you checked if Windows is muting the game?
+
+
+@liquerpig
+Check SkyrimPrefs.ini for ""bGamepadEnable=1""
+and set it to ""bGamepadEnable=0"".
+
+Or, just update the game."
+,liquerpig,2012-03-16T00:13Z,"Hey sorry about this I'm kinda new to this stuff but, how would i go about updating the game?"
+,JohnHolmesII,2012-03-16T05:01Z,"https://thepiratebay.se/torrent/7083284/The.Elder.Scrolls.V.Skyrim.Update.6-RELOADED_SKSE
+
+This is for version 1.4.27
+
+Just search for Skyrim and look for the next update numbre."
+,JohnHolmesII,2012-03-16T14:53Z,FYI: I will be re-uploading a version of this once version 5 is out of beta.
+,kakuzu,2012-03-17T01:59Z,Hey me again so now I got a full story for you lol. When I removed it from the programs folder and left it in the games folder it just says missing the ini file. When I put it back in the programs folder it pops up but I can't click the data files thing again and it says the stuff about the audio drive. The nexus mod manager says to take it out of the programs folder and throw it in a games folder for it to work again. Its like a big circle. Where am I now? Thanks again for listenin to all my bullshit lol I wish it would just work for me
+,JohnHolmesII,2012-03-17T20:24Z,"@kakuzu
+
+Google this and click on the first video link:
+v=vuOybrZDU0o
+
+Read the comments I posted there. This may help.
+
+Also, seriously consider stealing win7 until win8 comes out, and then turn off UAC, because this eliminates so very many problems."
+,TheMLGgamer11,2012-03-18T02:37Z,"Why cant I click the ""Data Files"" on the launch screen?"
+,Santa_Hat,2012-03-18T21:26Z,"Hey great stuff It downloaded fast and everything but I have a question. Mine runs as a slam window,how do I play in full screen?(btw I had to download the Direct X files)"
+,Santa_Hat,2012-03-19T01:09Z,lol I figured it out but It laggs too much in full screen. How do I put it back into small screen?
+,s0315162,2012-03-19T16:28Z,"@ JohnHolmesII
+
+Appreciate your time spent helping members w/ issues and concerns. If possible, I would like assistance w/ Skyrim Nexus mod installations. Issue with both manual and Nexus Mod Manager (NMM) installation attempts. No signs of mod after install. Currently re-extracting torrent to desktop."
+,JohnHolmesII,2012-03-19T22:51Z,"@s0315162
+Please describe further your situation."
+,cheesepuffking,2012-03-19T23:35Z,So mine keeps saying unable to find an INI file. Please reinstall Skyrim. What have I done wrong?
+,specialk11235,2012-03-20T17:21Z,how can i get this to be fullscreen? it wont let me edit the preferences file
+,JohnHolmesII,2012-03-20T18:35Z,"@specialk11235
+What do you mean it won't let you modify it?"
+,Tarzan98,2012-03-21T03:51Z,when i go to the program but it doesnt let me go to the data files and when i try to play the game it says that its not responding... whats wrong
+,Tarzan98,2012-03-21T03:53Z,when i go to the program but it doesnt let me go to the data files and when i try to play the game it says that its not responding... whats wrong???
+,Tarzan98,2012-03-21T03:55Z,when i go to the program but it doesnt let me go to the data files + when i try to play the game it doesnt respond.whats wrong?
+,kakuzu,2012-03-21T19:02Z,Thanks man an also how do I turn off UAC?
+,JohnHolmesII,2012-03-22T02:35Z,"@kakuzu
+Start->help & Suppourt
+search UAC
+Should be able to turn off.
+Might not be available on vista, though.
+
+
+@Tarzan98
+Seriously? Can you read?"
+,7777X,2012-03-22T20:47Z,"I downloaded it, and had some problems with the launcher.exe but I fixed it. I played the game and saved a bunch of times, after that I quit the game and logged off. I came back later and started up the game again and found that I can't load my saved games! I don't see them in the ""Load"" option, but when I go to my Skyrim folder and go to saves they're there. but I can't load them. please help out, thanks"
+,JohnHolmesII,2012-03-23T01:03Z,"@7777X
+New game?
+
+On another note, I have finished assembling a new torrent and will upload soon."
+,JohnHolmesII,2012-03-23T01:33Z,"YAY! new torrent is live!
+
+https://thepiratebay.se/torrent/7124201"
+,JohnHolmesII,2012-03-23T21:07Z,"This also means I will no longer offer suppourt here, nor will I be seeding this torrent. Au revoir!"
+,JokBot,2012-03-26T11:32Z,If you want Skyrim in small screen Just pres Alt+Enter and there you go!...
+,Tarzan98,2012-03-28T04:46Z,I play for like 5minutes then my computer just shut off completly.. WTH???
+,sidraiz22,2012-03-29T13:59Z,"At the beginning at the execution scene, there is no sound, or subtitles. Secondly, at the point where the carriage carrying prisoners is supposed to stop and everyone get off, the horses keep walking into the wall and we never get off. I have tried several times starting a new game, have not tried any different cracks (yes I did copy the Razor1911 crack folder to the program files properly). Could anyone please give me a link/instructions to fix this?iwant to play this game very badly!! Thank you"
+,JohnHolmesII,2012-03-31T01:27Z,"@sidraiz22
+All right fuck it: Reset your .ini files to their default. Google will provide those for you."
+,pmeaney,2012-04-03T07:13Z,So mine keeps saying unable to find an INI file. Please reinstall Skyrim. What have I done wrong?
+,JohnHolmesII,2012-04-04T00:58Z,"@pmeaney
+You managed to lose the Skyrim_default.ini.
+I've yet to figure out how this is done.
+
+Just re-unrar and you should be fine."
+,ryan871,2012-04-05T02:03Z,i could use some help for some reason when i start the game i cant click on the data file button so i cant make sure the patch is on. Please help
+,JohnHolmesII,2012-04-05T16:33Z,"@ryan871
+
+https://thepiratebay.se/torrent/7136293/Skyrim_Install_Guide.mp4"
+,nickap159,2012-04-06T17:44Z,"the torrent works great, thanks, but there's just one annoying little problem. the game has plays on window mode. i tried to change the skyrimprefs file, but it didn't change anything. is it meant to be like this or can i fix it somehow?"
+,Cain2d5,2012-04-09T02:26Z,Hi again. The game is working perfectly except for some bugs that are impeding some of my quests. I checked the skyrim wiki and most of the bugs I've encountered have been fixed in recent patches. I was wondering where I could find cracked versions of these patches and how I would install them once I've downloaded them.  
+,Sergeant_Mark_IV,2012-04-10T18:36Z,"Somebody help me! It has no sound! The starting Bethesda Logo intro has sound, but after it, nothing else has any sound! The menu, the game, nothing! I already reinstaled the game 3 times, I tryed both windowed and fullscreen modes, changing with SkyrimPrefs file with the different configs that comes in the main folder, but nothing works. I have seen some people having the same damn problem a few pages back, and I tryed all the solutions posted, and nothing worked."
+,JohnHolmesII,2012-04-11T00:52Z,"@Sergeant_Mark_IV
+http://www.mmo-champion.com/threads/1031003-No-sound-in-Skyrim"
+,mps96,2012-04-12T22:27Z,can someone help?.. skyrim launcher works but when i try to launch skyrim itsself it gives the error that skyrim doesnt work anymore... please help?
+,pisidian,2012-04-12T23:57Z,"HELLLLLLPPPPPPP
+
+it ran once but its all messed up
+i mean the colour is all light blue and when it starts loading the scene or when its in the game the screen has a epileptic seizure of blue . . ""stuff""
+
+i need desperate help 
+(i did option 2)"
+,SomSo,2012-04-13T15:25Z,If I click on the skyrim launcher and then click play it does nothing. Help?
+,BataAki,2012-04-15T19:52Z,Please seed or I will be a poor gamer without the game :(
+,Jenkinhimer,2012-04-17T00:50Z,"I'm having the same problem as nickap, it only runs in a small window.
+
+Anyone got the fix for this?"
+,Jenkinhimer,2012-04-17T01:06Z,"Apologies, I tinkered with it a bit and figured it out."
+,Seanguitar90,2012-04-18T02:36Z,Complete Noob and I found this very easy! Nice 1 :D
+,Seanguitar90,2012-04-18T02:38Z,Complete Noob and I found this very easy! Nice 1 :D Thanks man!
+,Coroin123,2012-04-22T14:34Z,"i got the files, and got it to work once, but something happened where i start up skyrim, then i get to the main menu, there's no symbol, i try to load something, then the game crashes HELP!"
+,nacknic,2012-04-23T05:16Z,"im having the same problem as somso
+im getting the start screen but when i hit play it says its loading then does nothing
+i am using option 1"
+,Plagued-Fiction,2012-04-24T18:53Z,Hey guys i just downloaded and i'm having a little trouble i did the everything the way i was suppose to and when i clicked on the skyrimlaucher it said i needed to reinstall Skyrim...so i'm new to this and not really sure how to do it can anyone help? thanks 
+,Diablo47,2012-04-25T14:32Z,"@JohnHolmesII man have u figured out anu way to install this mod ""http://skyrim.nexusmods.com/downloads/file.php?id=13004"" or any other armor mod in skyrim?"
+,elsmmo,2012-04-29T08:39Z,"http://205.196.121.39/ad32hv2jxttg/9jvocq717211dnj/SkyrimLauncher.exe
+download and put this into your ""the elderscrolls"" folder thats in your programfilesx86. then go to your ""my documents"" and then ""my games"" then ""skyrim"" and open ""skyrimprefs.ini"" (make sure you have admin privs on) and find [Launcher]. under that, make sure that ""bEnableFileSelection"" is set to 1. if its not there, make a line and create it. save and exit. start up this file you downloaded and apply mods.  you can also make it fullscreen and tamper with the textures and quality if you like"
+,eternalelena,2012-04-30T20:55Z,download speed at 20kb/s can you seed?
+,OPTICF3AR,2012-05-01T23:35Z,the game works fine but it dosent actually install on my computer so i cant mod any help????
+,JohnHolmesII,2012-05-03T15:35Z,"@eternalelena
+No, I won't, because this torrent is outdated. Click on my name and download the new one.
+
+@OPTICF3AR
+I have to ask, what do you mean?"
+,rademonk,2012-05-04T05:52Z,"its not working for me. im getting 
+
+Failed to initialize renderer.
+Hardware T&L required but not supported by Adapter."
+,rademonk,2012-05-04T05:55Z,when i click play after installing it gives me this little window and an error message. i used option 1.
+,rademonk,2012-05-04T06:03Z,"help!
+
+
+its giving me this error when i try to play,
+
+Renderer unable
+
+blah blah...
+
+is it my pc? i mean it run EQ and WOW fine..."
+,p0niee15,2012-05-05T09:30Z,"i did option 1 and when i try to open the skyrim.exe file it says that ""program cant start because steam_api.dll is missing from your computer""  and when i did option 2 i try to open the file  but it said ""unable to find an INI file please help me"
+,leonblack696,2012-05-07T16:13Z,i used to upload good torrent's like you .... but then i took an arrow in the knee :P
+,JohnHolmesII,2012-05-10T15:51Z,"@rademonk
+You need a better graphics adapter. (A new card)
+
+@p0niee15
+Try harder."
+,JohnHolmesII,2012-05-10T15:52Z,"@leonblack696
+You will fall into a fiery abyss, wherein you will know suffering of the worst kind; may god have mercy on your soul."
+,DirEnGrey,2012-05-15T12:56Z,"Thank you very much for the upload!
+
+Everything went well and I've been able to get everything working just fine, I do however have  a problem that popped up and hope you can help!
+
+
+I've come to the Esbern problem where he has no dialogue/won't interact  properly. I have looked up the various ways to fix this bug but can't implement any of them because for some reason there is no Skyrim directory installed for your version. All the stuff that normally would be in one are held in the mounted .iso, the only files I do have on my computer are my saves and a few .pref files located in the same place.
+
+
+
+
+If you know of a way to fix Esbern with your file, or why in the world there is no program directory, please help! It will mean a ton and be absolutely amazing if anyone can help me fix this!"
+,JohnHolmesII,2012-05-15T16:01Z,"@DirEnGrey
+Ahhh....
+Well, I don't know of a specific fix for that.
+But there is no directory because the ""directory"" is in the iso.
+If you want to take that stuff out, using winrar, then you may, as this would enable you to update."
+,DirEnGrey,2012-05-18T01:36Z,"Yeah, that's what I figured, thank you for responding though! 
+
+How can I modify/update with winrar..? I can't change the .iso unless in any way I know of, so I can't use the various Esbern fixes.
+
+
+Also I noticed you uploaded a different torrent that had the addition of the creation kit and patch number 7, do you know by chance if that patch fixed the Esbern bug? I'm either too tired or too retarded to find out much using google/info/links included. "
+,Cuno99,2012-05-18T10:06Z,What to do after download?
+,JohnHolmesII,2012-05-18T15:50Z,"@DirEnGrey
+It doesn't have any esbern fixes listed...
+it wouldn't hurt to extract the game and update to patch 8.
+
+I think if you open the iso in winrar, then drag and drop files into the window, it will update them.
+
+@Cuno99 
+Follow the README instructions."
+,danielkk82,2012-05-27T05:41Z,where do i go to see the ios and change everything under the first optio?
+,JohnHolmesII,2012-05-28T19:08Z,"@danielkk82
+
+Wat"
+,BeanHunt,2012-06-16T14:58Z,"I installed the game (or atleast it said it did) and a window popped up titled TESV.exe-system error and it says ""The program can't start because X3DAudio1_7.dll is missing from your computer. Try reinstalling the program to fix this problem."" Can somebody please help me? I want this game but not for $60"
+,BeanHunt,2012-06-16T15:03Z,"Oh, and another thing. Do you need Steam for this? because i have an account for Steam and i would just want to know how to get it to work. Please and Thank you."
+,BeanHunt,2012-06-16T15:04Z,"Oh, and do you need Steam for this game? Just wondering."
+,BeanHunt,2012-06-16T19:31Z,Oops! Didn't know it sent it the first time.
+,JohnHolmesII,2012-06-16T20:50Z,"@BeanHunt
+
+No, you don't need steam.
+
+Read the comments for help with your error."
+,BeanHunt,2012-06-17T03:28Z,OK sorry. I didn't look at the very beginning of the comments. Sorry about that.
+,BeanHunt,2012-06-19T22:41Z,Sorry but I just have one more question. Does this run on windows XP? I'm trying to use it on another computer but it wont let me install it. It says there is no audio device and when I try to update directX it doesn't work. I'm sorry I'm just not very good at this.
+,JohnHolmesII,2012-06-21T02:40Z,"@BeanHunt
+
+It should. There's not much I can do if it won't work, though."
+,eda35,2012-06-27T19:57Z,"man i love you!!!
+i've tried to play the razor 1911 file for one 1 but it never worked, than i tried your's once and it works without any problems !!"
+,JohnHolmesII,2012-07-04T05:11Z,"The third release will be accompanied by a Troubleshoot program that should help to fix some common install problems. It is going well, but is unfinished.
+
+Look for the third release (which will be patched to 1.6.89.0, with Creation Kit version 1.6.89.0, the accompanying SKSE, and a more recent Unofficial Patch) sometime after 4 July, and the Troubleshooter after that."
+,aren117,2012-07-16T06:29Z,when i try to play it i get in and start a new game but when the game starts the graphics are fucked up as hell how can i fix it
+,JohnHolmesII,2012-07-21T18:54Z,"Here's the troubleshooter, finally complete!
+
+
+https://thepiratebay.se/torrent/7463128/Skyrim_Troubleshooter_v1.0"
+,Niggraa,2012-08-20T18:49Z,WHAT SHOULD I DO AFTER DOWNLOADING??
+,Niggraa,2012-08-20T18:54Z,"Well i found the read me file,"
+,Niggraa,2012-08-20T20:31Z,It is working perfectly.
+,Batman720,2012-09-14T01:16Z,When I press Play after I open up the Skyrim Launcher it does nothing but reopen the window. PLEASE HELP ME!
+,JohnHolmesII,2012-09-19T01:34Z,"@Batman720
+Read The Comments."
+,N4mb3r5,2012-09-24T21:07Z,"Nobody else had CRC errors while extracting?
+
+Tried with winrar and with 7z. Nothing seems to work.
+
+Is the only solution downloading it all again?"
+,TheBSage,2012-09-26T21:42Z,"ok, is there any reason why the skyrim installer shouldnt work? i can play the game on the TESV file, but that only brings up a small window. anyone know whats going on?"
+,JohnHolmesII,2012-09-28T16:05Z,"@N4mb3r5
+
+If you use utorrent, just right click the file and hit Force Recheck.
+
+If it's still at 100%, and still doesn't extract, you are a wizard. Try updating winrar.
+
+
+
+@TheBSage 
+use SkyrimLauncher.exe, not TESV.exe
+
+Change the resolution in Options."

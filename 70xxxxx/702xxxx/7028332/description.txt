@@ -1,0 +1,12 @@
+Rebecca Black Linux. With the Wayland Display Server. 
+Description
+This is inspired by Linux distributions of the same theme (Hannah Montana Linux, and Justin Beiber Linux) that have appeared in the Linux community, only this is Rebecca Black Linux.
+Oh yeah, it's also meant to be the first Wayland Live CD, and soon it will try to use Wayland instead of using X.
+This distribution is fan made. Yes. I am a fan of Rebecca Black.
+The new ISO is released. It supports Wayland EFL, in addition to the GTK, and QT toolkits that where on the old one, and has many Wayland related fixes, and sort of works on VirtualBox, and has the experimental direct startup to Wayland.  
+http://sourceforge.net/projects/rebeccablackos/?source=directory
+
+sha1sum : fe03e8b02b115cf75fd3193477dad941d559c8da  RebeccaBlackLinux_02-11-2012.iso
+md5sum : 27e55669a2cb51c4d996e87c7d3e569b  RebeccaBlackLinux_02-11-2012.iso
+ 
+http://en.wikipedia.org/wiki/Wayland_(display_server_protocol)

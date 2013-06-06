@@ -1,0 +1,37 @@
+┬░  Many companies use advanced finite element analysis to calculate         ┬░
+ ┬░  design stresses, but the fatigue analysis is often still done by         ┬░
+ ┬░  manually picking stress points for spread-sheet analysis. This is time   ┬░
+ ┬░  consuming and unreliable because itΓÇÖs easy to miss failure locations.    ┬░
+ ┬░  Component validation by fatigue testing a prototype design in the test   ┬░
+ ┬░  lab is time-consuming. If the prototype fails prematurely, a costly,     ┬░
+ ┬░  open-ended cycle of design-test-redesign is required. Project            ┬░
+ ┬░  time-scales slip and delivery is late.                                   ┬░
+ ┬░                                                                           ┬░
+ ┬░  In the automotive industry some 40% of the total development cost is     ┬░
+ ┬░  spent making prototype parts. In the medical industry an unexpected      ┬░
+ ┬░  failure can mean the loss of several months lead-time over               ┬░
+ ┬░  competitors.                                                             ┬░
+ ┬░                                                                           ┬░
+ ┬░  fe-safeΓäó is a highly effective tool for fatigue analysis of Finite       ┬░
+ ┬░  Element models.                                                          ┬░
+ ┬░                                                                           ┬░
+ ┬░  With fe-safeΓäó as an integrated part of your design process, you have     ┬░
+ ┬░  the ability to optimise designs and test programs, reduce prototype      ┬░
+ ┬░  test times product recalls and warranty costs - all with increased       ┬░
+ ┬░  confidence that your product designs pass their test schedules as        ┬░
+ ┬░  ΓÇ£right first timeΓÇ¥.                                                      ┬░
+ ┬░                                                                           ┬░
+ ┬░  fe-safeΓäó                                                                 ┬░
+ ┬░                                                                           ┬░
+ ┬░      calculates fatigue lives at every point on a model, producing        ┬░
+ ┬░  contour plots to reveal fatigue lives and crack sites. Critical points   ┬░
+ ┬░  need not be missed.                                                      ┬░
+ ┬░      determines how much the stresses must be changed in order to         ┬░
+ ┬░  achieve a target design life showing clearly where the component is      ┬░
+ ┬░  under strength, or where material and weight can be saved                ┬░
+ ┬░      estimates warranty claim curves based on probabilities of failure    ┬░
+ ┬░      calculates which parts of the service duty are most damaging and     ┬░
+ ┬░  which could be omitted from a fatigue test                               ┬░
+ ┬░      identifies non-critical loads at significant points on a model. In   ┬░
+ ┬░  prototype testing this could mean tests using fewer loads and            ┬░
+ ┬░  therefore fewer actuators

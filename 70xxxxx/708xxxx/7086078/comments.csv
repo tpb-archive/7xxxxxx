@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,Xenogears10,2012-03-24T17:38Z,"Well it doesn't work for me ...
+I follow all the steps and i get the ""Done! CRC32 is now 0xC3FEE1D1"" ,i lunch the game whit the WSE.exe and stuff but the game doesn't recognize that I am using Warband script enhancer and and still has bugs and crashes as always. 
+
+I tested it in Shogun mod for M&B Warband 1.143."
+,medhathobo,2012-09-08T00:54Z,I hope you release the WSE update for 1.153
+,AnonymousJim,2012-09-24T03:46Z,"Sorry for the late response - this isn't something I've had time to keep tabs with. Thank you for informing me of the update =). Provided that the protection that WSE provides hasn't changed, then all that's necessary is to find the CRC32 (Not SRC32, that was a typo) checksum of the exe provided with the newest (uncracked) patch, and then apply the same steps listed above to whatever crack you have for this patch. The checksum of the current mb_warband.exe is 7F079D05. So basically just follow the steps above, but now use 0x7F079D05. Cheers!"
+,AnonymousJim,2012-09-24T03:49Z,"One last note: The cracks provided in this torrent probably aren't compatible with Warband 1.153, so you will have to download the crack from another torrent, and then download this and use fakecrc on their crack to fool WSE."

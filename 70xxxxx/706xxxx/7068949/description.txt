@@ -1,0 +1,47 @@
+IAR Embedded Workbench for ARM
+
+Integrated development environment and optimizing C/C++ compiler for ARM
+
+Ready-made device configuration files, flash loaders and over 2800 example projects are included. IAR Embedded Workbench is compatible with other ARM EABI compliant compilers and supports the following ARM cores:
+
+Cortex-A9
+Cortex-A8
+Cortex-A5
+Cortex-R4(F)
+Cortex-M4(F)
+Cortex-M3
+Cortex-M1
+Cortex-M0
+ARM11
+ARM9E (ARM926EJ-S, ARM946E-S and ARM966E-S, ARM968E-S)
+ARM9 (ARM9TDMI, ARM920T, ARM922T and ARM940T)
+ARM7 (ARM7TDMI, ARM7TDMI-S and ARM720T)
+ARM7E (ARM7EJ-S)
+SecurCore (SC000, SC100, SC110, SC200, SC210, SC300)
+XScale
+
+Key components:
+
+Integrated development environment with project management tools and editor
+Highly optimizing C and C++ compiler for ARM
+Automatic checking of MISRA C rules (MISRA C:2004)
+ARM EABI and CMSIS compliance
+Extensive HW target system support
+Optional IAR J-Link, IAR J-Trace, and JTAGjet hardware debug probes
+Power debugging to visualize power consumption in correlation with source code
+Run-time libraries including source code
+Relocating ARM assembler
+Linker and librarian tools
+C-SPYÂ® debugger with ARM simulator, JTAG support and support for RTOS-aware debugging on hardware
+RTOS plugins available from IAR Systems and RTOS vendors
+Over 2800 sample projects for evaluation boards from many different manufacturers
+User and reference guides in PDF format
+Context-sensitive online help
+
+Chip-specific support:
+
+Over 2800 example projects for evaluation boards from IAR Systems, Actel, Analog Devices, Aiji Systems, ARM, Atmel, Cirrus Logic, EnergyMicro, Freescale, Fujitsu, Holtek, Keil, LogicPD, Micronas, Nohau, Nuvoton, NXP, OKI, Olimex, ON Semiconductor, Pasat, Phytec, Samsung, ST, Texas Instruments and Toshiba.
+Support for 4 Gbyte applications in ARM and Thumb mode
+Each function can be compiled in ARM or Thumb mode
+VFP Vector Floating Point coprocessor code generation
+Intrinsic NEON support

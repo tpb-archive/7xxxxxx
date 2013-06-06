@@ -1,0 +1,185 @@
+Bopup IM Client SDK version 1.0.0
+========================================================================
+
+
+CONTENTS:
+
+1. Overview
+2. System Requirements
+3. Installation and Using
+
+
+1. Overview
+------------------------------------------------------------------------
+
+Bopup IM Client Software Development Kit (SDK) is a toolkit for Windows 
+platform that provides documentation, samples and COM components for 
+building powerful instant messaging functionality into existing 
+applications, creating and developing a chat messenger software based 
+a client/server architecture. Applications built on this SDK interact 
+and communicate with Bopup Communication Server (IM server software) 
+that must be installed as a server-side part of the instant messaging 
+system. 
+
+Bopup IM Client SDK provides functions for connecting and establishing 
+IM session with the communication server, sending/receiving personal 
+and group instant messages, receiving urgent and high-priority tasks 
+from the server, managing user's contacts, receiving presence status 
+updates within the Contact List. This SDK supports various 
+authentication methods to autorize users on the IM server: Simple, 
+Windows Authentication (SSPI) and using Private login and password 
+credentials entered by a end-user. 
+
+Provided functionality and supported features:
+
+* Secure and Private Communication
+All transmitted messages are encrypted with strong encryption algorithms 
+based on the Diffie-Hellman key exchange and CAST-128 algorithms. That 
+is the first and primary way to make corporate and business IM safe and 
+secure. 
+
+* Authentication Modes 
+Various modes to authenticate and authorize users with the IM server are 
+supported. Choose the best way for your corporate and business 
+infrastructure from the available authentication modes: Simple, Windows 
+Authentication (SSPI) and Private login/password. 
+
+* Messaging Groups 
+The centralized management of user groups makes it possible to organize 
+a flexible IM structure with a list of assigned groups and send / 
+receive-only permissions set for each user. 
+
+* User Presence Status 
+See the current status of each user in your Contact List, i.e. Online, 
+Away, Offline (Not available). Manage your own status. 
+
+* Contact List access 
+Organize your personal Contact List and access it from any workplace and 
+location. 
+
+* Offline and Urgent Messaging 
+Deliver important information to users even if they are currently 
+unavailable and receive such messages. Offline messages are stored on 
+the IM server and automatically delivered to the recipient when he goes 
+online. 
+
+* Centralized Notification 
+Receive notifications and urgent messages from the IM server and stay 
+updated on any events and information. These messages are automatically 
+sent by the server on the scheduled time and at the specified intervals. 
+
+* Message Logging & Archiving 
+Browse, search and view the entire message archives on the IM server. 
+Print information for any period and for any person. 
+
+
+
+2. System Requirements
+------------------------------------------------------------------------
+
+Bopup IM Client SDK requires the following minimum system configuration: 
+
+- 533 MHz processor (or higher recommended) 
+- 64 MB RAM 
+- 3 MB free disk space 
+- Microsoft Windows 98/ME/NT 4.0/2000/XP/2003/Vista/2008/7
+- A C/C++ compiler (Microsoft Visual C++ 6.0 or later) to build samples
+- Network configured for TCP/IP protocol 
+- Internet connection (*)
+
+(*) - Internet connection is optional if the IM server running outside 
+a local area network (LAN).
+
+
+
+3. Installation and Using
+------------------------------------------------------------------------
+
+To install Bopup IM Client SDK: 
+
+- Launch bopupsdk.exe or bopupsdk.msi setup file (*). 
+- Follow all instructions in the Setup Wizard. 
+- After installation you can launch this help file's shortcut from 
+"Start Menu -> Programs -> Bopup IM Client SDK" folder. 
+
+(*) - The filename may have a different name depending on custom 
+installation package or supported platform. 
+
+
+Bopup IM Client SDK contents:
+
+Installation folder of the SDK contains the following folders under the 
+root folder: 
+
+"\" - At the root level, the license agreement (license.txt), 
+information file (readme.txt), contact information (contacts.txt) and 
+this help documentation file (BopupSDK.chm). 
+
+"\com" - Includes COM components and manifest files to build client 
+applications. Files from this folder must be also redistributed with 
+applications that use the SDK. 
+
+"\include" - Includes C++ header files that contain interface and 
+structure definitions. Must be included into client application's source 
+code of Bopup IM Client SDK. 
+
+"\samples" - Sample and tutorial C++ source code and Microsoft Visual 
+C++ 6.0 build projects. 
+
+
+Redistributable components:
+
+Bopup IM Client SDK includes COM redistributable and manifest files that 
+are required to run applications built using this SDK. The COM 
+components and manifest files are located in the \com folder and must be 
+distributed and registered with the client application software on 
+a target computer. The components include: 
+
+"CSClient.dll" - A core module which implements the IServerClient 
+interface that is used to communicate with the IM server. 
+
+"SecPrvdr.dll" - An encryption module that is used by the IServerClient 
+interface for generating encryption session key with the IM server and 
+for encoding/decoding instant messages. This component is used by the 
+IServerClient interface internally. 
+
+"CSClient.X.manifest" - A manifest file for CSClient.dll module which 
+adds a support for deployment of this COM component to a machine without 
+the need to register it. 
+
+"SecPrvdr.X.manifest" - A manifest file for SecPrvdr.dll module which 
+adds a support for deployment of this COM component to a machine without 
+the need to register it. 
+
+
+Registration of the COM components can be done via stardard COM 
+registration with the help of built-in regsvr32.exe Windows tool. Here 
+is a sample of registration of the CSClient.dll and SecPrvdr.dll modules 
+from a command line: 
+
+"regsvr32 csclient.dll" 
+"regsvr32 secprvdr.dll"
+ 
+For more information on the regsvr32 registration tool run it with the 
+/? command line parameter. 
+
+
+The COM components can be used without registration by enabling the 
+Registration-Free COM model. In that way the CSClient.X.manifest and 
+SecPrvdr.X.manifest files must be also distributed with the client 
+application. These files should be copied into the same directory that 
+contains the application's executable and both CSClient.dll and 
+SecPrvdr.dll components. Please note that it is required to create 
+a manifest file for application's executable too and the 
+Registration-Free COM mechanism is available in Windows XP/2003 and 
+later versions of Windows. 
+
+For more information on Registration-Free COM model please refer 
+documentation available on Microsoft's website at Registration-Free 
+Activation of COM Components: A Walkthrough 
+http://msdn.microsoft.com/en-us/library/ms973913.aspx
+
+
+========================================================================
+Copyright (C) 2000-2012 B Labs. All rights reserved. 
+http://www.bopup.com/

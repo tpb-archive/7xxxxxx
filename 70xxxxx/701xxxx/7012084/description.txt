@@ -1,0 +1,62 @@
+Full Game Collections: Game Boy Advance
+=======================================
+
+This torrent is intended for sharing the full collection of GBA roms, compiled
+to match the No-Intro[1] database, dated 2012-01-27.
+
+Contents
+--------
+
+  roms/                  All GBA roms, torrentzip'ed
+  data/                  Files used to build this collection and other info
+    GBA_have.txt         List of games in the collection
+    *.dat                Corresponding No-Intro datfile
+
+Tools used
+----------
+
+  TorrentZip 0.2 [2]
+  ClrMamePro 4.02 [3]
+
+How to update your ROM collection and start seeding at more than 0%
+-------------------------------------------------------------------
+
+  If you already have one or more ROM sets that belong to this collection, it
+  is easy to use this torrent to update your collection, only downloading the
+  files you need, and sharing your previous files from the start.
+
+  First, you need the datfile used to build this collection. This file is
+  included in the "data" folder indexed by this torrent. With a modern
+  BitTorrent client, you can adjust the priority to download this file first.
+
+  Once you have the datfile, verify and fix your collection with the ClrMamePro
+  tool. On the net, there are many good guides on how to use this tool
+  correctly (also see the guide referenced below). For this step, it's better to
+  keep your rom sets unmerged and in zip format. Don't forget to make backups of
+  your files just in case!
+
+  Once you have fixed your previous files, you just need to torrentzip all of
+  them, so they match the files from this torrent. A good general guide about
+  clrmamepro and torrentzip can be found at [4].
+
+  Now you're ready to start updating/sharing your collection efficiently. Place
+  your torrentzip'ed files where your BitTorrent client expects them, force a
+  re-check of the files and your torrent will be joined with all your previous
+  files. Have fun, and seed generously :). Thanks.
+
+References
+----------
+
+[1] http://www.no-intro.org/
+[2] http://sourceforge.net/projects/trrntzip/
+[3] http://mamedev.emulab.it/clrmamepro/
+[4] http://mametitles.co.uk/tz/torrentzip.pdf
+
+Other collections available
+---------------------------
+
+* Nintendo Game Boy
+* Nintendo Game Boy Color
+* Nintendo Entertainment System
+* Super Nintendo Entertainment System
+* Nintendo 64

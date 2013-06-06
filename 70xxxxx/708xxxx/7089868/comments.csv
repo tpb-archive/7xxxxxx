@@ -1,0 +1,90 @@
+﻿User Type,Username,Date,Text
+,gcrgodoy,2012-03-09T22:10Z,"Excellent torrent. Enjoy! 
+
++ seeders, please"
+,mth33454,2012-03-10T00:04Z,Come on seeeed! Why you got to hit and run. Think of others gamers!
+,mth33454,2012-03-10T00:05Z,Oh and thanks for upload
+,earth3,2012-03-10T06:44Z,"if vids are rencoded the isnt gonna work you need to run this fix inside Biogame/movies folder as a bat file
+@echo off
+setlocal EnableDelayedExpansion
+for %%i in (*.bik) do (
+set /a sz=%%~zi*3
+echo !sz!
+fsutil file createnew ""%%~dpni"" !sz!
+move ""%%i"" ""%%i.bak""
+copy /b ""%%i.bak"" +""%%~dpni"" ""%%i""
+del /f /q ""%%~dpni""
+)
+cls
+echo.
+echo.  Done !
+echo.
+echo   -Lyx
+echo.
+pause"
+,earth3,2012-03-10T06:45Z,this movie reencoding was the problem with globe's file anyway thanks to rocky it is fixed
+,ravisethi,2012-03-10T11:29Z,"@gcrgodoy
+dude i m downloading and will seed!!!!"
+,ravisethi,2012-03-10T11:41Z,some one who has dwnloaded it please assure me if this torrent works or not!!!!!!!
+,earth3,2012-03-10T12:10Z,@ravi try globe's portable rip it is almost a 100 MB smaller
+,ravisethi,2012-03-10T13:40Z,"@earth3
+thanx 4 ur suggestion but  i read the comments of globeplus torrent http://thepiratebay.se/torrent/7072118/MASS_EFFECT_3_PORTABLE_GLOBE
+this game rip's is not working!!!!!"
+,ravisethi,2012-03-10T13:44Z,"I think the safer way is download this:
+http://thepiratebay.se/torrent/7080595/Mass_Effect_3-RELOADED
+but size is 4 times of rip!!!! and size does matter!!!"
+,earth3,2012-03-10T14:29Z,@ravi dude i have the globe's game and now im in tuchanka saving some lieutenant it works mate!
+,earth3,2012-03-10T14:30Z,@ravi im just curious you from india?
+,sname192,2012-03-10T18:09Z,it works tnx :) DOWNLOADED it 2 hours :)
+,gcrgodoy,2012-03-10T23:02Z,"Use HJSplit to unpack...
+"
+,MuggY_,2012-03-11T02:06Z,"ok guys
+4 seeders
+233 leechers
+see the problem? dont effing hit and run!"
+,ravisethi,2012-03-11T14:17Z,4 seeders not gonna help anyone com'n help others to download!!!!!please keep this alive!!!!!
+,MigMan27,2012-03-11T16:56Z,"come on people, I have been stuck on 77% all day and not a single seeder showed up since yesterday... I will seed when I am finished but we need someone to seed first!"
+,gcrgodoy,2012-03-12T03:29Z,"I am seeding.
+
+until 02:00 (gmt -3:00)"
+,henrymiz,2012-03-12T19:45Z,"Guys, please seed my download is stuck at 98.3%(64mb left), i restarted all over again, deleting everyting and now its stuck at  99.5%(16mb left), damn, please seed i dont get it.
+Availability is at 0.995, same as my percentage."
+,saran6in,2012-03-13T00:43Z,seed pls just 16mb i will also seeed like forever so just for 10min seed pls
+,laureno94,2012-03-13T05:19Z,"I to not know how to make seed
+as it does?"
+,nagytarek63,2012-03-13T17:56Z,seeds plz 99.5% cant finish download
+,nagytarek63,2012-03-13T17:57Z,"waiting for 2 days cant finish my download 99.5%
+plz seed for even 5 minites so i can finish "
+,nagytarek63,2012-03-13T17:59Z,plz seed for 10 mins
+,nagytarek63,2012-03-13T18:01Z,"how to seed?
+just dont stop the torrent after it finishes"
+,4rtu5,2012-03-14T05:09Z,hey... i can't unrar the files... they appear me with another extension.... just like this: M.E.3.BB.__TheMediaFire__By-LordLuiz.rar.013..... anybody can help me? i'm seeding.....
+,santhoshsk1019,2012-03-14T05:31Z,guys please help this keeps crashing in open screen after showing bioware sign
+,santhoshsk1019,2012-03-14T05:34Z,guys keeps crashing after showing bioware please help
+,wsd7,2012-03-14T13:25Z,"https://download.dm.origin.com/usertest/awc.zip
+fix to launch crash"
+,sname192,2012-03-14T23:18Z,tnx gcrgodoy :) works great :) i had no problem with the download :DDDDDD downloaded in 2 hours tnx again ;)
+,mohnish17,2012-03-15T13:39Z,@santhoshsk1019  dude m getting the same problem.. ny1 have an idea about how to fix this thing??
+,GFXcodking,2012-03-15T16:41Z,hi i can't  unrar the files because they appear like this:M.E.3.BB.__TheMediaFire__By-LordLuiz.rar.013..... anybody can help me? i'm seeding.....
+,GFXcodking,2012-03-15T18:43Z,help plz?
+,Somix,2012-03-15T22:20Z,"if you have black screen, just add on ur ""blah,blah...Mass Effect 3BinariesWin32MassEffect3.exe"" -nomoviestartup"
+,GFXcodking,2012-03-16T09:50Z,just tell me how to install it
+,earth3,2012-03-16T15:17Z,@gfx unrar the first rar file and everything else will follow
+,seal_clubber,2012-03-16T18:55Z,"I get the same black screen after the bioware load.
+
+Somix's comment makes no sense.. please elaborate man."
+,seal_clubber,2012-03-16T19:17Z,doesnt work
+,baronmanca,2012-03-21T00:47Z,"fix for black screen, desktop schortcut , properties . target ""MassEffect3.exe"" - nomoviestartup, just add - nomoviestartup, "
+,ashmatrix,2012-03-22T08:05Z,hey guyz....juz use hjsplit to extract it.....it's quiet simple......it worked for me.....
+,ashmatrix,2012-03-22T08:08Z,could u please give me a link for fixing the start up trouble ???
+,ashmatrix,2012-03-22T08:10Z,"u would get hjsplit easilly......juz go to google and type ""hjsplit free download mediafire""......and surf through the 1st page and u'll get the medaifire link....."
+,ashmatrix,2012-03-22T08:12Z,"""97ud03ardqg7t05"".........u'll get it here.........juz type mediafire and then copy that code.....don't forget the  !!!"
+,ashmatrix,2012-03-22T08:13Z,@wsd7......where should i paste the fix ????
+,megastef,2012-04-20T10:59Z,"Please Seed!
+
+Getting low Speeds! 
+
+D:"
+,Aabir11,2012-04-22T15:53Z,"This game works.Just download ""Vid Fix"" and copy it  to the Mass Effect 3 movie folder....Open the app and wait until it completes.Then start the game from desktop....It really works....enjoy the game...a great game"
+,HNK3909,2012-08-02T15:21Z,"if u get black screen at start u hace to write 
+-nomoviestartup in shotrcut target id this will solve blackscreen problem. but this rip has many more problems than just this it freezes and crashes"

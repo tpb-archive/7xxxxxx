@@ -1,0 +1,27 @@
+1.- Desconecta el Internet
+2.- Copia las direcciones del archivo hosts a tu archivo de hosts (C:\Windows\System32\drivers\etc\hosts)
+	2.1.- Copia el archivo C:\Windows\System32\drivers\etc\hosts a tu Desktop
+	2.2.- Abrelo con Notepad
+	2.3.- Copia todos los hosts (todo lo que no empieza con #) del archivo hosts de este directorio al que tienes en tu Desktop
+	2.4.- Copia y reemplaza el archivo de hosts de tu Desktop por el de C:\Windows\System32\drivers\etc\hosts
+	
+	Es mas, si verificas que tu archivo de hosts C:\Windows\System32\drivers\etc\hosts no posee ningun hosts puedes copiar y reemplazar
+	el de aquÃ­ por el tuyo sin ningÃºn riesgo
+
+	Los hosts son direccion Web las cuales Windows bloquea completamente para que ningun programa pueda conectarse a ellas
+	Lo que estamos haciendo es bloquear las direcciones web a las cuales tus programas de Adobe se conectan para verificar si es original	
+
+3.- Ejecutar Set-up.exe
+4.- Instalar normal,cuando pida el Serial
+	4.1.- Ejecutar Keygen.exe
+	4.2.- Click en Generate
+	4.3.- Introducir el Serial
+5.- Terminar de instalar normal
+6.- En el directorio de aplicacion de cada producto instalado copiar y reemplazar el archivo amtlib.dll
+
+	Por ejemplo si instale photoshop CS5, entonces copio y reemplazo amtlib.dll en C:\Program Files (x86)\Adobe\Adobe Photoshop CS5 
+	o C:\Program Files\Adobe\Adobe Photoshop CS5 si es x86
+
+7.- Disfruta
+
+by Haza

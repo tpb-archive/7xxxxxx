@@ -1,0 +1,26 @@
+What's New
+
+The ThinApp 4.7 release provides ThinApp integration with Horizon Application Manager, which includes the following features:
+
+The ThinApp Setup Capture wizard includes an option to manage with Horizon Application Manager. When the checkbox is selected, ThinApp checks if the Horizon agent is installed natively on the client and is running. If the Horizon agent is found, the ThinApp package reports to the Horizon agent so that it can be controlled by Horizon Application Manager.
+Horizon Application Manager entitlement allows the delivery of ThinApp packaged applications to specified users and groups. The Horizon agent authorizes a ThinApp package to open, based on entitlements.
+ThinApp packages are registered by Horizon Application Manager and delivered to end points.
+The administrator can track usage of ThinApp packages by using Horizon Application Manager monitoring and reporting.
+The administrator can configure an Organizational URL for end points missing the Horizon agent.
+
+The ThinApp 4.7 release resolves these issues:
+
+An error message is displayed in the console when you use non-ASCII characters in application installer subdirectory names. However, the package is built successfully.
+After appsyncing Firefox 3.0 or Firefox 3.6.3, the Mozilla Firefox.ex$ file remains in the application folder on Windows XP 64 bit machines.
+ThinApp Packages are not built if Build.bat is launched from a directory other that its current directory.
+An error is displayed if you insert a Word object into Powerpoint 2007 on Vista and Windows 7 SP1.
+Quicktime throws a shell32.dll error and crashes on a Windows XP SP3 32-bit machine.
+A second session of virtual IE6 crashes when you use a virtual Java plug-in.
+Capture of IE8 and Silverlight crashes IE8 when you access Silverlight content.
+Thinapped Firefox and Java cause Web browsers to freeze on launch and require a restart of Java to proceed.
+
+Install:
+=======
+Run setup.
+Use CORE Keygen to generate valid serial.
+Done!

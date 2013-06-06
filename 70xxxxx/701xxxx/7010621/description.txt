@@ -1,0 +1,54 @@
+Changes in DVDFab 8.1.6.1 Qt (February 4, 2012):
+
+ - New: Updated language files.
+ - New: Some minor changes and improvements.
+ - Fix: Several crash problems in certain cases.
+ - Fix: Lightning-Recoding should not be enabled when GPU encoder is enabled.
+ - Fix: A crash problem when copying â€œFull Discâ€ of DVD and Blu-ray by commandline.
+
+ DVD Copy:
+
+ - Fix: DVD5/DVD9 output setting cannot be saved.
+
+ DVD Ripper:
+
+ - Fix: Multiple subtitles should not be selected for devices like iPod, iPhone and iPad.
+ - Fix: A/V sync problem for MKV/AVI/MP4 file output.
+ - Fix: A freeze problem when converting certain video files.
+
+ Blu-ray Copy:
+
+ - New: Added support for a new BD+ protection as found on Contagion (Region B).
+
+ Blu-ray Ripper:
+
+ - Fix: Multiple subtitles should not be selected for devices like iPod, iPhone and iPad.
+
+ Video Converter:
+
+ - Fix: A freeze problem when converting certain video files.
+ 2D to 3D Converter:
+ - Fix: Right video file cannot be played when â€œTwo separate filesâ€ output is enabled.
+
+ DVD Creator:
+
+ - Fix: A freeze problem when converting certain video files.
+
+ Blu-ray Creator:
+
+ - Fix: A freeze problem when converting certain video files.
+
+preactivated version-silent installation by Master 13...
+Special thanks to him for sharing. 
+Tested and working fine anyway.
+Seed,please ! 
+
+Note :
+libtorrent,Transmission and MediaGet are only allowed for fast peers !
+slow peers must use Ktorrent,ExpressFiles or utorrent 2.2.1 to avoid to make
+huge traffic congestion on my seeds so.
+Ty for understanding
+
+enjoy and have a nice day.
+
+Best regards

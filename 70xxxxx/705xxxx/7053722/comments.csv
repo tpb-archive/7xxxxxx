@@ -1,0 +1,120 @@
+﻿User Type,Username,Date,Text
+,go6ovei,2012-02-23T23:53Z,"Sorry for big game 9 GB,but be worth"
+,mohummudjihaddi,2012-02-24T08:22Z,Multiplayer?
+,hagehun,2012-02-25T17:02Z,1.0 or 1.0.1 ?
+,Grapeflavouredpop,2012-02-26T03:17Z,"Finally finished downloading! 
+Great torrent works perfectly running snow leopard. 
+All DLCs are available. 
+Finally a working borderlands for mac thanks bro
++1"
+,Grapeflavouredpop,2012-02-26T06:32Z,Guess i spoke to soon. half of the instructions in the game are in some other language. any idea how to change it to english?? 
+,rokrz,2012-02-27T06:45Z,"@Grapeflavouredpop
+yeah the game runs smooth, the language is a problem(though the dialogues are in english).. can't seem to read the missions and waypoints..have you found a solution for this? 
+
+btw:i made an account just to ask this!!"
+,rokrz,2012-02-27T06:45Z,"@go6ovei 
+dude.. help us out with the language problem!!!!"
+,d4dav3,2012-02-27T10:33Z,"About the language problem:
+
+I can only repost a comment of Shikozu on a different borderlands torrent thread. I can't test it since I am still downloading. So if you tried please comment if it worked
+
+
+""Shikozu at 2010-06-21 13:04 CET:
+
+Change the language by editing ""BaseEngine.ini"" [Borderlands.app/Contents/Resources/transgaming/c_drive/Program Files/Gearbox Software/Borderlands/Engine/config/]
+(open it with textedit) and modify the line Language=int to DEU, ESN, FRA, or ITA. (or back to INT again)
+
+That will change the entire language of the game.
+you can also replace the corrupt INT files with another localization (DEU worked best for me, since i can manage my way around german.)
+
+go to [Borderlands.app/Contents/Resources/transgaming/c_drive/Program Files/Gearbox Software/Borderlands/WillowGame/Localization/] 
+
+make a backup of the INT folder, copy these files from you language of choice;
+(You'll be replacing the following corrupt files)
+
+(allmost) all the files starting with ""gd_*.INT"" 
+with the exeption of:
+
+gd_Balance_SkillActors.INT
+gd_challanges.INT
+all gd_DLC3_*.INT
+gd_Globals_VS.INT
+gd_grenades.INT
+gd_input.INT up to gd_RegistrationStationList.INT
+gd_SledgeBoss.INT
+gd_Slow.INT
+
+You should be replacing the following files to;
+
+""I1_MissionData.INT"" up to ""i2_missions.INT""
+""Z0_Echos.INT"" up to ""z2_missions.INT""
+
+if you are not sure, just open the files in text edit and check for random text garbage and symbols.
+Those files are corrupt.
+Just replace all files mentioned earlier with the files sharing the same name with your localization of choice and be sure to change the extention to .INT of all the replaced files
+
+Hope that helps!""
+
+"
+,rokrz,2012-02-27T15:05Z,"d4dav3
+
+thanks for the info! it certainly removed the russian..but now am stuck with german(which is actually manageable).. wouldnt it be great if someone shared their /WillowGame/Localization/INT folder?"
+,rokrz,2012-02-27T17:02Z,"and i found it...
+http://thepiratebay.se/torrent/5703302
+dwnd it.. replace INT folder.. enjoy
+
+it works now.."
+,ebears,2012-02-27T20:44Z,"hey there is a virus in the app sophos anti-virus detected it right after i opened borderlands, i removed the virus , then i tried to open borderlands, but then i got this message ""Exception raised"" Unhandled exception 0x80000003 at address 0x02119687"" then it gives me the option to debug it. I click yes and borderlands closes. I click no and it stays the same without loading"
+,go6ovei,2012-02-27T21:45Z,"ebears-you are crazy man?for mac no virus created,this is not windows,but you maybe install antivirus?
+HAHAHAHAHAHAHA
+inside in torrent have TrojanHorse with 3 baby horses"
+,d4dav3,2012-02-28T17:34Z,I can't die in the game. What's goin on?
+,d4dav3,2012-02-28T17:59Z,nevermind! fixed it.
+,Grapeflavouredpop,2012-02-29T01:38Z,Yeah like rokrz said this fixes problem. simple procedure. http://thepiratebay.se/torrent/5703302
+,poccolini,2012-03-01T15:04Z,"To Solve the Dying Issue:
+
+The file that you seek is rather well hidden:
+
+(yourdrive)>users>(yourname)>Library>Preferences>Borderlands Preferences>p_drive>User>My Documents>My games>Borderlands>WillowGame>Config
+
+Here you will find a file called willowcompat.ini
+
+Open this file with ""Textedit"", once inside find the bdemigod line and change it from true to false.
+
+-------
+
+As for the weapon graphics in the inventory I found no solution yet - however after much exhaustive reading i believe it has to do with latest update of the game which gets touchy about showing the graphics if anything is wrong in the code (ref. to modders sites for a better understanding)
+
+If I unravel more i shall keep everyone posted."
+,poccolini,2012-03-01T15:07Z,"correction to above post the file is called ""Willowgame.ini""
+and the line ""bDemiGodMode="""
+,willof,2012-03-08T00:37Z,Hey my games texts are all in russian. Anyone else having these problems? 
+,abx1,2012-03-31T15:11Z,hey i didnt understand very much how to install it please help
+,abx1,2012-03-31T16:31Z,i installed it but does any one know how to use a joystick with it?
+,gmodm1,2012-04-02T09:13Z,"I try to get the DLCs but it said that I needed to update, someone tell me what to do."
+,gmodm1,2012-04-04T02:07Z,never mind
+,xhollywood,2012-05-23T21:10Z,does it work on multiplayer?
+,bingoman2,2012-05-26T01:45Z,Could smb plz seed this stuff? We're all stuck at a 22.2222% Is this a kind of joke? ha...ha
+,nsneto95,2012-06-16T01:11Z,"im using a macbook os 10.6.8 2.4ghz and 2gbram
+
+and i got this, what do i need to do? 
+
+Device does not support 1x32 FP render target format.
+
+Address = 0x7002c8e7 (filename not found) 
+Address = 0x7857dbf9 (filename not found) 
+Address = 0x5ec898   (filename not found) 
+Address = 0x34f52a8  (filename not found) 
+Address = 0x1dfc614  (filename not found) 
+Address = 0x1dfc614  (filename not found) "
+,Nadaluccia,2012-06-18T20:41Z,"Hi everybody ! 
+
+I download the game but they ask for a serial number ... does anyone have had the same problem ? Do you know how I can fix that ?
+
+Thank you !"
+,Nadaluccia,2012-06-18T21:30Z,Never mind ! I found how to do ! :)
+,fact8r,2012-07-08T15:14Z,There is no english file ?
+,fact8r,2012-07-08T15:18Z,I meant to say there is no way i can get the game in english ?
+,arjahn,2012-07-28T23:56Z,Does anybody know how/if we can update this to play online? 
+,Simonvoznesenskiy,2012-08-07T07:44Z,"Guys, please tell me the serial code thingy, or how to play without it, I beg!"
+,pontaa95,2012-09-26T13:38Z,where do you find the serial code? :)

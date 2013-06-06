@@ -1,0 +1,98 @@
+General
+UniqueID/String : 172796686598480332989976494455068012311 (0x81FF6E69BF90828A9E63AC96344BAF17)
+Nombre completo : Resident Evil 4 Ultratumba(by Theghost).mkv
+Formato : Matroska
+Formato de la versión : Version 2
+Tamaño del archivo : 3,89GIB
+Duración : 1h 36min.
+Tasa de bits total : 5 753Kbps
+Fecha de codificación : UTC 2012-03-07 15:55:35
+Aplicación de codifición : mkvmerge v5.3.0 ('I could have danced') built on Feb 9 2012 10:38:07
+Librería de codificación : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID : 1
+Formato : AVC
+Formato/Info : Advanced Video Codec
+Formato del perfil : Main@L4.1
+Ajustes del formato, CABAC : Si
+Ajustes del formato, RefFrames : 2marcos
+ID Códec : V_MPEG4/ISO/AVC
+Duración : 1h 36min.
+Tasa de bits : 4 743Kbps
+Tasa de bits nominal : 5 000Kbps
+Ancho : 1 920pixeles
+Alto : 800pixeles
+Relación de aspecto : 2,40:1
+Modo de velocidad de cuadro : Variable
+Velocidad de cuadro : 24,000fps
+ColorSpace : YUV
+ChromaSubsampling : 4:2:0
+BitDepth/String : 8bits
+Tipo de exploración : Progresivo
+Bits/(Pixel*cuadro) : 0.129
+Tamaño de pista : 3,21GIB (82%)
+Título : Resident Evil Ultratumba (by Theghost)
+Librería de codificación : x264 core 120 r2164
+Opciones de codificación : cabac=1 / ref=2 /
+Idioma : Inglés
+Default : Si
+Forced : No
+
+Audio #1
+ID : 2
+Formato : AC-3
+Formato/Info : Audio Coding 3
+Format_Settings_ModeExtension : CM (complete main)
+ID Códec : A_AC3
+Duración : 1h 36min.
+Tipo de tasa de bits : Constante
+Tasa de bits : 448Kbps
+Canal(es) : 6canales
+Posiciones del canal : Front: L C R, Side: L R, LFE
+Velocidad de muestreo : 48,0KHz
+BitDepth/String : 16bits
+Tamaño de pista : 310MB (8%)
+Título : Español
+Idioma : Español
+Default : Si
+Forced : No
+
+Audio #2
+ID : 5
+Formato : AC-3
+Formato/Info : Audio Coding 3
+Format_Settings_ModeExtension : CM (complete main)
+ID Códec : A_AC3
+Duración : 1h 36min.
+Tipo de tasa de bits : Constante
+Tasa de bits : 448Kbps
+Canal(es) : 6canales
+Posiciones del canal : Front: L C R, Side: L R, LFE
+Velocidad de muestreo : 48,0KHz
+BitDepth/String : 16bits
+Tamaño de pista : 310MB (8%)
+Título : Ingles
+Idioma : Inglés
+Default : No
+Forced : No
+
+Texto #1
+ID : 3
+Formato : UTF-8
+ID Códec : S_TEXT/UTF8
+ID Códec/Info : UTF-8 Plain Text
+Título : Ingles por Theghost
+Idioma : Inglés
+Default : No
+Forced : No
+
+Texto #2
+ID : 4
+Formato : UTF-8
+ID Códec : S_TEXT/UTF8
+ID Códec/Info : UTF-8 Plain Text
+Título : Español por Theghost
+Idioma : Español
+Default : No
+Forced : No

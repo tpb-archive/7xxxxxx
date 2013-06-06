@@ -1,0 +1,103 @@
+Market Unlocker Pro v3.2.2.5
+
+
+*Market Unlocker lets you access paid or restricted apps in Android Market 2.x and 3.x and Amazon Appstore in one click. It's safe, stable, simple and free.*
+
+
+Requires Android: 2.2+ (root)
+ 
+***Get Root permission
+***Have installed Android market
+***Have installed Amazon appstore (optional)
+
+
+Release Date: February 7, 2012
+
+For some apps are just enabled for some specific countries and not available to the other countries,so it is very difficult to download many high quality software. Market Unlocker lets you access paid apps from countries where paid apps are not yet available.
+Features:
+
+***Change provider in one click
+***Change provider automatically on boot or switch to flightmode 
+***Proxy support for market 3.x. It support HTTP, Socks4, Socks5 proxy and user authentication. 
+***Support Amazon Appstore outside USA.
+
+Basic Usage:
+
+Click any list item in "Market" tab to enable Market Unocket. That's all. And you can switch to Home and Proxy table for more functions.
+
+It is not permanent, will be original after reboot or flight mode! So if you want to back to default market,just reboot or reset flight mode, but you can check "Auto Unlock" to fake it automatically. This option is checked by default.
+
++++++ IMPORTANT UPDATE +++++
+You can keep proxy disabled for your market 2.x, only check "Market Unlocker" to enable the function.
+
+To work with new market 3.x, 
+1. Configure a USA (surely you can use other countries ip if they also support to show paid/restriced apps) proxy server and fill into market unlocker. 
+2. Enable proxy 
+3. Choose provider (optional. by default verizon is selected)
+4. Check "Market Unlocker" to enable function. 
+That's all. Open Android market again, paid apps now are back to you. Good luck!
+
++++++ New update since version 3.0.8 +++++ 
+Amazon Appstore is supported. 
+
+Basically Amazon appstore does not allow users to buy paid apps from outside USA, even if users have been registered use US credit card and US address. 
+
+Market Unlocker can also set a USA proxy for Amazon appstore to help you buy daily free apps as well as paid apps. 
+
+To achieve this:
+
+First install Appstore app, otherwise the function checkbox will not be visible.
+1. Go to Proxy tab
+2. Configure Proxy Type, Proxy Host, Proxy Port. Please make sure you're using an effect USA proxy server first.
+3. Check "Involve Amazon Appstore" button
+4. Enable "Enable Proxy" to "ON"
+Then open Appstore again, it should now work for you.
+
+Note: There's no need to enable "Enable Unlocker" for Amazon Appstore.
+
+
+Q&A:
+
+Q:where I can find free USA proxies? and why don't you provide proxies in this app?
+A:search google. one example, http://proxy-ip-list.com/free-usa-proxy-ip.html. As they maybe frequently expire or be blocked, it does not make sense, even if leeching them automatcally somewhere. 
+
+Q:why I need use an USA proxy?
+A:market 3.x is checking your ip address country. fake provider does not work any more. we need make it looks like a us user as well(from usa). 
+
+Q:why I can not connect to Market after enable proxy?
+A:proxy server is broken or not supporting your request. try another proxy or disable proxy for free apps installation.
+
+Q:why I enabled proxy, but still no paid apps visible to me?
+A:you might have used a non-us proxy.
+
+Q:How can I get a working US Amazon account?
+A:Get a US billing adress and creditcard. If you don't have that you should generate the info from a site like this: Fake Name Generator(http://www.fakenamegenerator.com/
+). Keep in mind though that you won't be able to buy anything with it, but you can download the free apps of the day.
+
+Q:Why I cannot see some Apps even if everything looks working fine?
+A:Go to Android Market Setting, change content filter in market to unlimited, then go back to show all and market refresh in US mode. (Thanks Leonardo Gandini for the suggestion)
+
+more can be found at http://mu.evanhe.com
+
+Credits to:
+
+ProxyDroid
+MarketAccess
+
+What's in this version:
+
+- Enhanced market detecting to reduce annonying notifications
+- Removed background phone state service
+- Improved configuring market process
+- Improved to show active GSM operator instead of configured one
+- Introduced new option Google payment for upgrade to pro version
+- Support page:http://mu.evanhe.com/
+
+
+
+Note:
+Modified to pro version. You will get Market Unlocker without any advertisement permanently. And unlimited times to fetch an USA proxy automatically.
+ 
+https://market.android.com/details?id=com.evanhe.marketunlocker
+
+Enjoy and SeeD

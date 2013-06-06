@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,J.Galt,2012-04-17T15:19Z,This have 10GB. But from trailers i can say its worth downloading :)
+,J.Galt,2012-04-18T20:01Z,In home media player clasic and CCP codec pack movie video and audio labs. In Splash pro EX i get green glyphs/blur. :(
+,J.Galt,2012-04-18T20:01Z,In home media player clasic and CCP codec pack movie video and audio lags. In Splash pro EX i get green glyphs/blur. :(
+[T],[D],2012-04-19T12:37Z,"MPC + LAV decoder works fine. As should latest cccp. You must have a slow cpu for it to lag. Any quad should work fine. On 2500k @ 4,5 ghz it takes about 25% cpu at max."
+[T],[D],2012-04-19T12:40Z,"VLC 2.0 also works, but if cccp lags, so should vlc. You could try LAV, not sure if it's supposed to be faster however, but it is definitely the best decoder out there at this moment for compatibility with all sorts."
+,J.Galt,2012-04-19T21:01Z,"Thanks for help!
+lol i have intel e4500. its 2 cores @2.2ghz.
+can't my GPU do the job?"
+[T],[D],2012-04-19T22:59Z,No. Hardware decoders can't decode 10bit. And that cpu will not be sufficient.
+,J.Galt,2012-04-21T21:17Z,"So i will have to watch it in 720p :(
+But thanks for help anyway."
+,w3n0mX,2012-05-01T10:41Z,"Can my PC run this ?Cause its a triple core.
+
+3GB RAM
+AMD Athlon II X3 425   2.70 GHz
+ATI Radeon HD4870
+Windows 7 32-bit
+
+Can anyone answer please i dont wanna download if it isnt gonna work."
+,akumod77,2012-07-10T15:02Z,"Where are the technical data for each movies? I mean source? runtime? resolution? aspect ratio? fps? video codec? container? video bitrate? audio codec? audio channel? audio bitrate? sampling rate? languages?
+
+for example:
+
+A Nightmare on Elm street 2 1985 Freddys Revenge:
+
+Storyline: A teenage boy is haunted in his dreams by Freddy Krueger who is out to possess him to continue his murdering in the real world.
+
+More movie info: http://www.imdb.com/title/tt0089686/
+
+Genre.....: Horror | Mystery
+Actors....: Robert Englund, Mark Patton and Kim Myers
+Source....: Blu-ray 1080p
+Container.: Mp4
+Video.....: AVC x264 1280x720 2100kbps 23.976fs
+Audio.....: English 448kbps 48khZ 16bits 6channel AC-3
+Runtime...: 01:25:37
+Filesize..: 1.50GB
+Subtitle..: English (.srt file)
+
+What is it? Otherwise this is very doubtful, uncertain, questionable, shady, dubious? "

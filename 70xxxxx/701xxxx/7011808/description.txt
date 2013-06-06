@@ -1,0 +1,37 @@
+Inspired by Campanella's Dynamic remaster torrents, I've decided to start uploading my personal Unbrickwalled restored albums. My Process is essentially exactly the same, with my own minor tweaks while trying not to alter or exagerate any details. 
+
+Source is always my own retail CDDA Tracks, otherwise, I use Secure ripped FLAC files from Demonoid user torrents.
+
+First I lower the volume enough to give myself enough headroom to work, then I use Perfect Declipper to reinterpolate clipped peaks to rebuild as close as possible to what the Original unbrickwalled master may have sounded like. Overall, sound quality is improved, and distortion caused by squashed peaks is minimized resulting in increased dynamics and more punchiness to the music. I hope you enjoy, and feedback is more than welcome. 
+
+[img]http://filesmelt.com/dl/AaLcomparison.jpg[/img]
+
+--------------------------------------------------------------------------------
+Analyzed: Animals as Leaders / Animals as Leaders
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR13      -0.01 dB   -15.21 dB      5:24 01-Tempting Time
+DR15      -0.01 dB   -16.29 dB      4:27 02-Soraya
+DR14      -0.01 dB   -15.51 dB      4:02 03-Thoroughly At Home
+DR14      -0.01 dB   -16.20 dB      6:10 04-On Impulse
+DR13      -4.27 dB   -20.21 dB      1:06 05-Tessitura
+DR13      -0.01 dB   -15.08 dB      4:26 06-Behaving Badly
+DR13      -0.01 dB   -15.41 dB      5:32 07-The Price Of Everything And The Value Of Nothing
+DR14      -0.01 dB   -15.08 dB      6:41 08-CAFO
+DR11      -0.74 dB   -14.34 dB      6:08 09-Inamorata
+DR15      -0.01 dB   -18.97 dB      1:44 10-Point To Point
+DR15      -4.21 dB   -21.05 dB      2:07 11-Modern Meat
+DR12      -0.01 dB   -14.57 dB      4:17 12-Song Of Solomon
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR13
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           914 kbps
+Codec:             FLAC
+================================================================================

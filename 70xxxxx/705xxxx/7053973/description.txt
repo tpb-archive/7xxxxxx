@@ -1,0 +1,18 @@
+FOR TESTING
+
+Introduction to the project
+
+SliTaz GNU/Linux is a free operating system working completely in memory from removeable media such as a cdrom or USB key. It is light, speedy and fully installable on a hard drive. SliTaz is distributed in the form of a LiveCD that you can easily burn to a cdrom and boot from. When the system is running you can eject the LiveCD and use your CD drive for other tasks. The Live system provides a fully-featured, working graphical distro and lets you keep your data and personal settings on persistent media. The system can be extended with the Tazpkg package manager and security updates are provided for the cooking and stable versions.
+SliTaz project provides free technical support to users through the Mailing list (i18n list) and the English Forum. You can also contact us for more information, suggestions, or comments, using the list or directly by mail : <devel at slitaz.org>  
+http://www.slitaz.org/en/about/
+ 
+http://www.slitaz.org/en/asso/sponsor.html
+
+23 Feb 2012 - SliTaz 4.0 -RC1 is out
+
+The SliTaz contributor team is pleased to announce the immediate availability of the first release candidate for SliTaz 4.0. SliTaz can boot in 10-12 second on fairly new hardware and with the new 4in1 ISO you can install a full SliTaz desktop with only 48MB of RAM. The 4in1 ISO is able to auto detect the memory and boot SliTaz in text mode, in a minimal X environment or a full desktop.
+SliTaz 4.0 will have more than 3000 well tested packages in it's repository and the RC serie let us track last bugs. From our last Cooking release the packages have all been rebuilt twice to ensure build quality.
+This RC1 ISO will prompt you with a new graphical menu, a graphical language and keyboard set up, a new desktop layout and artwork as well as a new command line installer and a CGI/web interface, accessible via TazPanel. 
+http://www.slitaz.org/en/#news
+
+md5sum : a37a916231b19d47ef4f57d6d964d835  slitaz-4.0-RC1.iso

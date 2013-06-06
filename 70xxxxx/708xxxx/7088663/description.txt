@@ -1,0 +1,23 @@
+release date - English (US) - March 8, 2012
+whats new 
+
+add default option like in utorrent
+
+default option like it will ask you where you downlaod the file
+
+
+like in previous it does not ask download where you want to downlaod file
+
+
+much stable speed  
+
+
+Fix: hashing issues
+
+Fix: peers sending bad data were not being banned correctly
+
+Fix: GUI refresh issues with torrents not updating correctly
+
+Fix: auto-shutdown didn't work
+
+Fix: rtorrent wouldn't load torrents created by us

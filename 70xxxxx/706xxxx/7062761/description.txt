@@ -1,0 +1,14 @@
+This torrent contains the gzipped image of NetBSD-5.1.2 for USB memory sticks. 
+Please use rawr32.exe (on Windows) or dd (on Unix-like OS) to
+copy these images to a USB memory stick. If using dd, you will
+need to gunzip the file first.
+
+== About NetBSD ==
+NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system. It is available for a wide range of platforms, from large-scale servers and powerful desktop systems to handheld and embedded devices. Its clean design and advanced features make it excellent for use in both production and research environments, and the source code is freely available under a business-friendly license. NetBSD is developed and supported by a large and vivid international community. Many applications are readily available through pkgsrc, the NetBSD Packages Collection.
+
+== Torrent details ==
+Contents: 1 file
+ls -alR: i386memstick-5.1.2.fs.gz
+File size: 246698028 bytes
+MD5SUM (i386memstick-5.1.2.fs.gz): ccd3c9805eb342dcd7930f7942c10b5d
+SHA512 (i386memstick-5.1.2.fs.gz): faa2234882ad980b31d21dd9f848df55415490eba9d66541ba4eebe6d063adbe114551ad86d8b487ab22b851ca2f00728bb27d30963357db7d6aaf059cfeb6c6

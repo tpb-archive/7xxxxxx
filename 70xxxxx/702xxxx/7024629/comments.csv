@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,cybertunz,2012-02-15T17:06Z,"Can anyone confirm this DL works with WiiFlow or other usb loaders?
+Have DL'ed this game twice - one version PAL and the other NTSC - but both versions freeze frequently and are unplayable. Read somewhere this has something to do with the way Ubisoft codes the game with hack prevention.
+HobbitGamez has a great assortment of Wii offerings that all seem to work fine, and I see this one has plenty of seeders, so...
+DOES THIS GAME WORK, or is it subject to freezing-up as other DL versions are??
+Please advise! "
+[V],HobbitGamez,2012-02-16T02:20Z,"@cybertunz
+
+It is subject to freezing up as well, but has nothing to do with this specific dump or any specific region of the game. Ubisoft (notorious for absolutely annoying DRM) tested a new type of protection in this game that will periodically cause it to freeze during autosave when running on a USB loader from a hard drive.
+
+That having been said, there are ways to get this game to work without freezing. You can find out how from these links:
+
+http://www.digital-kaos.co.uk/forums/f16/tintin-game-freezes-234888/
+http://www.digital-kaos.co.uk/forums/f16/neek2o-setup-installation-guide-241036/
+http://gbatemp.net/topic/311809-the-adventures-of-tintin-the-secret-of-the-unicorn-freezes/"
+,cybertunz,2012-02-17T17:11Z,"@HobbitGamez
+
+ur response is greatly appreciated...
+Followed these links, but came away a bit confused. First link is all about install of d2x v7_final (I currently have d2x cIOS v7b1d), but don't see comments saying specifically this alone solves TT freeze problems. Other two links are about nand emulator (neek2o) - sounding much more complicated and requiring reformat of HD to FAT32 (presently formatted wbfs with rather large library of games -- reformat and reload of games would be major hassle), but comments say this DOES solve TT freeze problem.
+Nand emulator would probably be too complicated for my kids to figure out - they're used to simplicity of WiiFlow - don't know if I want to go the emulator route.
+So queston is... is full install of updated cIOS via >d2x 7_final< sufficient for solving TT freeze-ups, or is nand emulator (FAT32 reformat and all) the only solution?  "
+[V],HobbitGamez,2012-02-19T01:14Z,"@cybertunz
+
+nand emulator seems to be the only solution besides darkcorp on an older Wii, but I didn't spend that much time looking into it. I see no way that it won't freeze on the major USB loaders (although if you boot your wii straight into the loader it is not that annoying when it freezes, the game is playable).
+
+Anyone is welcome to comment if they find another solution or have a good tutorial for newbies."

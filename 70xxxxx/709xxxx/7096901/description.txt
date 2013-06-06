@@ -1,0 +1,37 @@
+The product family ANSYS nCode DesignLife
+ANSYS nCode DesignLife Standard - the core product to meet the challenges of fatigue durability. Includes assessment methods, depending on the level of stress (stress-life), the deformation and the method of Dang Van.
+
+Features a standard package DesignLife:
+
+Analysis of fatigue life, depending on the level of stress (Stress Life)
+Analysis of the fatigue life design depending on the level of stress. It is possible to interpolate between the curves of the material properties depending on temperature. You can use Python scripts to create new or improve existing methods for assessing the fatigue life. The preliminary decision cycle fatigue curves with control of nominal voltage.
+
+Material models:
+
+Standard SN.
+SN Mean multi-curve.
+SN R-ratio multi-curve.
+SN Haigh multi-curve.
+SN Temperature multi-curve.
+Bastenaire SN.
+
+Typical model SN-based scripting Python.
+Analysis of the fatigue life depending on the strain (Strain Life)
+The possibility of predicting fatigue life based on an analysis of local deformations in the structure. The possibility of interpolating between the curves of the material properties depending on temperature. Suitable for a wide range of problems including low-cycle fatigue with the control of elastic-plastic deformations.
+
+Material models:
+
+Standard EN.
+EN Mean multi-curve.
+EN R-ratio multi-curve.
+EN Temperature multi-curve.
+Correction of secondary stress in the cycle:
+Morrow.
+Smith Watson Topper.
+
+Additional Information:
+
+It can be installed as a standalone (Stand Alone) and integrated into the established ANSYS v12-v13
+
+System Requirements:
+ 1GB + RAM

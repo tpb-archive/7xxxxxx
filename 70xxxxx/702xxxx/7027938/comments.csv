@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,brunomel,2012-02-13T11:22Z,"Here’s another minor update for the previous release – the internet server list should be more stable now.
+
+2.5.2.0:
+It’s recommended for everyone (dedicated server hosts too).
+
+2.5.1.0:
+The 2.5.1.0 version was using a test server which is offline. The can either fix this by editing the “teknogods.ini” file and adding:
+
+[Network]
+MasterServer=kebl.in:27017"
+,cirios83,2012-02-14T18:41Z,Thank you !

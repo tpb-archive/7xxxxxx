@@ -1,0 +1,31 @@
+Official Web Site:  http://www.charlessoft.com
+
+Pacifist is an application for Mac OS X that opens up .pkg installer packages, .dmg disk images, .zip, .tar. tar.gz, .tar.bz2, .pax, and .xar archives and more, and lets you extract or install individual files out of them. This is useful if you need to install just one file out of a package instead of the entire package (for example, if you deleted your Preview application and need to reinstall it, but not the whole operating system), or if you want to inspect a downloaded package to see what it will do before installing it. Pacifist can also load some archive types over HTTP, in case you want to extract just a single file from a large .zip archive without waiting for the entire archive to download. Finally, Pacifist can examine the kernel extensions installed in your system to let you see what installer installed them, and whether the installer was made by Apple or a third-party.
+
+What's New:
+
+* Updated code signature for compatibility with OS X 10.8 ΓÇ£Mountain
+  LionΓÇ¥ and Gatekeeper
+
+* Fixed a crash that could occur if Pacifist was unable to install the
+  QuickLook plug-in
+
+* Added the ability to ask for admin privileges to install the QuickLook
+  plug-in if necessary
+
+* Now automatically checks the default application for .pkg, .mpkg,
+  and .dmg files on startup and sets them back to Installer and
+  DiskImageMounter respectively if they have inadvertently become
+  assigned to Pacifist
+
+* Fixed a bug that caused a few outline-view keyboard shortcuts not to
+  work properly
+
+* Fixed a rare bug that could cause a package to load incorrectly
+
+System Requirements:
+
+PPC or Intel Mac. OS X.4.11 or later
+
+---- PLEASE SEED ----
+

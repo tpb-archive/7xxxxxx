@@ -1,0 +1,55 @@
+
+   SOURCE: WIKI
+   IMDB: http://www.imdb.com/title/tt0458352/
+   
+
+   General
+      Complete name :
+      Format : Matroska
+      File size : 3.07 GiB
+      Duration : 1h 49mn
+      Overall bit rate : 4 021 Kbps
+      Encoded date : UTC 2012-02-19 05:43:10
+      Writing application : mkvmerge v5.3.0 ('I could have danced') built on Feb  9 2012 10:38:07
+      Writing library : libebml v1.2.3 + libmatroska v1.3.0
+   Video #1
+      ID : 1
+      Format : AVC
+      Format/Info : Advanced Video Codec
+      Format profile : High@L3.1
+      Format settings, CABAC : Yes
+      Format settings, ReFrames : 3 frames
+      Muxing mode : Container profile=Unknown@3.1
+      Codec ID : V_MPEG4/ISO/AVC
+      Duration : 1h 49mn
+      Bit rate : 2 432 Kbps
+      Nominal bit rate : 2 618 Kbps
+      Width : 1 280 pixels
+      Height : 544 pixels
+      Display aspect ratio : 2.35:1
+      Frame rate : 23.976 fps
+      Standard : NTSC
+      Resolution : 24 bits
+      Colorimetry : 4:2:0
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.146
+      Stream size : 1.86 GiB (60%)
+      Writing library : x264 core 112
+      Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / slices=1 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=2618 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / vbv_maxrate=2618 / vbv_bufsize=2605 / nal_hrd=cbr / frame-packing=0 / ip_ratio=1.40 / aq=1:1.00
+      colour_primaries : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+      transfer_characteristics : BT.709-5, BT.1361
+      matrix_coefficients : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+   Audio #2
+      ID : 2
+      Format : DTS
+      Format/Info : Digital Theater Systems
+      Codec ID : A_DTS
+      Duration : 1h 49mn
+      Bit rate mode : Constant
+      Bit rate : 1 510 Kbps
+      Channel(s) : 6 channels
+      Channel positions : Front: L C R, Surround: L R, LFE
+      Sampling rate : 48.0 KHz
+      Resolution : 24 bits
+      Stream size : 1.15 GiB (38%)
+      Title : ??

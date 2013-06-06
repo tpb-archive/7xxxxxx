@@ -1,0 +1,119 @@
+﻿User Type,Username,Date,Text
+,Kokotinka,2012-02-13T17:51Z,"Installation instructions: simply copy MGS folder into psp\game\......*
+
+*dots are your downloaded folder
+
+game is working on 100% on any custom firmware...
+
+enjoy and don't forget to seed"
+,W7.6.60,2012-03-19T05:14Z,"Just wanted to give a BIG thanks to Kokotinka. This game works perfect, unlike the psx converted eboots out there. Keep up the good work. ^^"
+,Kokotinka,2012-03-22T21:37Z,glad it works
+,LeoTKO,2012-04-16T10:08Z,can u save the game!!!!!!!!!!!!!!!!!!!!!
+,Kokotinka,2012-04-16T17:52Z,"LeoTKO? what do you mean? you can save your progress by calling Mei Ling, frequency is 140.96 and you just select SAVE GAME. Simple as that. So my advice to you is: don't skip dialogs on first playthrough because you will miss important stuff like this... "
+,Mopsteras,2012-04-19T10:56Z,"Ok now here is the thing
+
+I managed to make the game open after geting 'Data Corrupted' error but the next error im geting after opening the game after the black screen with letters poping is:
+
+' The game could not be started (80010002) '
+
+and then the game turns off.
+
+Im trying to install this game for a week and nothing seems to work everytime I want to open this game error appears 'Corrupted Data' or' The game could not be started (80010002) '. 
+
+I tried to put this game into pspgamefiles and I also tried to put this into the pspgamegamefolderfiles nothing seem to work. PSP software is 6.20 pro B-9. What installed things I need to have on my PSP to play this game? The game folder is Metal Gear Solid right? So whats the right direction to play this game. It should be like: 
+
+pspgamemetal gear solid folderfiles
+or like pspgamethose files
+or like pspmetal gear solid folderfiles
+or pspthose files   ?
+
+Tell me what to do to open this game without error 'Corrupted Data' and most important without this error:
+
+' The game could not be started (80010002) '
+
+Can someone tell my what this error ' The game could not be started (80010002) '  is responsible for? How I can just skip this this error? :(
+I know many people need solution for this problem and help with that so I hope I can find someone who can help us with this issue."
+,Mopsteras,2012-04-19T10:58Z,"Ok now here is the thing
+
+I managed to make the game open after geting 'Data Corrupted' error but the next error im geting after opening the game after the black screen with letters poping is:
+
+' The game could not be started (80010002) '
+
+and then the game turns off.
+
+Im trying to install this game for a week and nothing seems to work everytime I want to open this game error appears 'Corrupted Data' or' The game could not be started (80010002) '. 
+
+I tried to put this game into psp  game  files and I also tried to put this into the psp  game  gamefolder  files nothing seem to work. PSP software is 6.20 pro B-9. What installed things I need to have on my PSP to play this game? The game folder is Metal Gear Solid right? So whats the right direction to play this game. It should be like: 
+
+psp  game  metal gear solid folder  files
+or like psp  game  those files
+or like psp  metal gear solid folder  files
+or psp  those files   ?
+
+Tell me what to do to open this game without error 'Corrupted Data' and most important without this error:
+
+' The game could not be started (80010002) '
+
+Can someone tell my what this error ' The game could not be started (80010002) '  is responsible for? How I can just skip this this error? :(
+I know many people need solution for this problem and help with that so I hope I can find someone who can help us with this issue."
+,Mopsteras,2012-04-19T11:36Z,"I also tried this but it still doesnt work and I dont know what the solution could be :(:
+
+
+This is how I managed to fix the psp error 80020148. Ok I found some program online that works on my 3.40 OE-A and it rips the UMD games for me. but when I went to play them the ""The game could not be started. (80010002)"" message came up. Then I tried to play the original game (UMD DISK) I got this message ""The game could not be started. (80020148)"". So I went online here is what i found...... 
+
+TO FIX THE PROBLEM FOLLOW THESE STEPS:
+
+1. Goto Recovery Menu (turn off then hold R and turn on)
+2. Configuration -> Use NO-UMD (Disable it)
+3. Go all the way back to main menu
+4. Advanced -> Advanced Configuration -> (Disable all of them)
+
+Tell me if this helped................... if not then tell me what the error is and the ######## 
+.....................1. Disabled
+.....................2. Enabled
+.....................3. 1.50 (for Phat but needs 1.5 kernel addon) 3.80 (for Slim)
+.....................4. Disabled
+.....................5. Normal (Needs UMD game to play Isos) if not try Sony Np9660
+.....................6. Disabled
+.....................7. Enabled
+.....................8. Disabled
+.....................9. Enabled
+.....................10. Memory Stick
+.....................11. Enabled
+.....................12. Disabled
+Advanced->
+.................Advanced configuration->
+.................................................. .Disabled
+.................................................. .Disabled
+
+"
+,Mopsteras,2012-04-19T11:53Z,"And by the way the 2 part of the solution doesnt appear in my PSP I dont have such an option:
+
+2. Configuration -> Use NO-UMD
+
+I can't see that, so maybe someone have any idea whats the meaning of that? Whats the solution? Whats the problem?"
+,Kokotinka,2012-04-20T19:07Z,"right, tell me where did you put your game folder exactly?  if you are running on 3.40 CFW it's time to upgrade mate... get 5.50 Gen-D3 or at least 4.00 M33. Your old fw seems to be the problem of game not working... if you are running newer fw like you mentioned 6.20 pro B-9, I cant tell you more about it, cuz I havent tried MGS on it yet. "
+,TheTrout96,2012-05-01T20:14Z,"i tried to start it and got a message saying: 
+
+The copyright protection information is invalid. (8010850E)
+
+how do i fix this?"
+,TheTrout96,2012-05-01T23:01Z,"never mind, ive gotten the firmware and that, lol, such a noob mind, good thing im a quick learner"
+,spidey2033,2012-06-29T05:36Z,can it work on firmware 5.03 gen-c? coz i've been download and cant get it working.. every time i start the game it gave me error..
+,Kokotinka,2012-07-09T18:26Z,"It should work on any custom firmware above 4.00 M33... it's an official PSN release of the game, so it's not converted by me. Therefor it should work without any hickups. Make sure that you put folder at the right place in PSP>GAME>MGS Pbp goes here. It works on 5.50 M33, 5.50 Pro-4, 6.60 and so on... If it doesn't work, upgrade your firmware, 5.03 gen-c sucks nowdays. Get it here: http://www.consolespot.net/uploads/downloads_downloads/xgen-v5-5-50gen-d3-release.zip"
+,GrayFox1080p,2012-07-26T06:33Z,"Hi Kokotinka, i just want u to ask, do I need to use any kind of POPSloader to play this MGS ? 
+and will it work on my PSP FAT CFW 5.50 GEN D3?
+
+PLZ reply. Thank you
+"
+,Kokotinka,2012-07-26T07:27Z,"Hi GrayFox1080p, you don't need any pops loader to play this and yes, it will work with no problem on your CFW mate... "
+,GrayFox1080p,2012-07-26T16:37Z,"Ok, Thank U a LOT Kokatinka its woking 100% :). I was afraid about the voice codec but its working perfect :) Thnx 
+BTW if ur looking for a new friend in PSN my ID is: GrayFox_on-line :) 
+
+Best of luck to u mate."
+,GrayFox1080p,2012-07-27T15:38Z,"Kokotinka can u help with Dino Crisis, coz I found one but it freezes when I try to use the shotgun, tried all popsloader from 3.71 to 4.01 and from the origina flash but still it freezes when I try to use the shotgun... other than that game works fine... so can u please find me a working one or if u know the fix for the shotgun please let me know.
+
+Thank You "
+,Kokotinka,2012-07-28T11:16Z,"GrayFox1080p, ok, I'll upload it for you... "
+,Kokotinka,2012-07-28T11:47Z,here you go GrayFox: http://thepiratebay.se/torrent/7482414
+,GrayFox1080p,2012-07-28T16:56Z,Wow :) Thank YOU brother. I owe u BIG Time Kokotinka

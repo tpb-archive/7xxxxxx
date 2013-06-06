@@ -1,0 +1,73 @@
+The vixens of wrestling are back. Sure Rumble Roses XX delivers the visual "enhancements" that you would expect for a next generation game, but this is more than just another pretty face. Get in the ring and unload submission holds, reversals, and an increased number of other new moves to take down your opponent. Go online and team up with another beauty in the all-new Tag Team mode or compete in a free-for-all to determine who is Queen in the all-new Battle Royal mode. Fight fair or fight dirty - humiliation is the name of the game.
+
+
+
+  -------------------------------------------------------------------------------
+\//\//\//\//  _ |_  _  / /_  _  _  \//\//\//\//\//\//\//\//\//\
+//\//\//\//\ (_||_)(_|/ / _||_ | | //\//\//\//\//\//\//\//\//\//
+
+Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+Checking Game
+     ISO: "ATAPI iHAS124   B AL0S <2011/08/11 10:09> [ATA] (D:)"
+     Layerbreak: 1913760
+     Size: 7834894336 bytes
+     Files in ISO: 81, Folders in ISO: 6
+     Total bytes used: 4935736578 (67.63%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  default.pe
+     Original PE Timestamp: 2006/02/24 10:41:46
+     Min Kernel Required:   v2.0.1861.0
+     Game Name:             Rumble Roses Double X
+     No Avatar Awards
+     Achievements:          43 Achievements totaling 1000 Gamerscore
+     XEX CRC = E794924C
+     XEX Media ID: 2DE581A23096481259380D80-659AEB11
+
+Region Code: 0x00FF0000
+     PAL
+
+Checking SS
+     Timestamp of Authoring: 2006/03/23 00:00:00
+     Timestamp of Mastering: 2006/04/19 15:53:17
+     SS Version: 1
+     SS CRC = 8B129EF9 (RawSS = F6255054)
+     SS Media ID: 2DE581A23096481259380D80-659AEB11 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2006/03/23 00:00:00 (matches SS)
+     DMI CRC = B230096B
+     DMI Media ID: 2DE581A23096481259380D80-659AEB11 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = 739CEAB3
+PFI matches known data (1st Wave)
+
+Video partition found
+     Video CRC = 66D0CB54 (V0 = C506923B, V1 = 1F51DA34)
+Video partition matches known data (1st Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for 8B129EF9E794924C.ini in the online verified database
+     Server file 8B129EF9E794924C.ini no newer than local file - not retrieving
+
+     Using 8B129EF9E794924C.ini (297 bytes)
+     Video CRC matches
+     V0    CRC matches
+     V1    CRC matches
+     PFI   CRC matches
+     DMI   CRC matches
+     SS    CRC matches
+     Xex   CRC matches
+     AnyDVD style corruption was not detected
+     Game CRC = 7FD4D17A (matches)
+
+All CRCs match
+Verification was successful!

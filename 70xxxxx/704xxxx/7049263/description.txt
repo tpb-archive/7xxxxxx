@@ -1,0 +1,385 @@
+All the bugs i noticed have been fixed...Please let me know if you find any !
+
+FAST, SMOOTH and STABLE
+
+
+FULL CHANGE LOG:
+
+Started With: Windows XP Professional SP3
+
+{INTEGRATED / ADDED}
+{drivers}
+	- Lan
+	- Wlan
+	- Chipset
+	- Mass Storage
+	- Miscellaneous
+{Software}
+	- 7zip
+	- Klite Mega Pack + MPC-HC
+{Other}
+	- Registry Tweaks
+	- DNS changed
+	- crazyWGA (wga fix) (updates work and MSE can be installed)
+        - NeoGeniX theme (optional install, run from desktop...)
+
+
+
+
+[REMOVED / DISABLED]
+[Components]
+;# Applications #
+Accessibility Options
+Briefcase
+Charmap
+ClipBook Viewer
+Defragmenter
+Internet Games
+NT Backup
+Pinball
+Screensavers
+;# Drivers #
+Asynchronous Transfer Mode (ATM)
+Cameras and Camcorders
+Display Adapters
+Display Adapters (old)
+Ethernet (LAN)
+IBM PS/2 TrackPoint
+IBM ThinkPad
+ISDN
+Logitech WingMan
+Microsoft SideWinder
+Modems
+Multifunctional
+Portable Audio
+Printers
+Scanners
+SCSI/RAID
+Serial Pen Tablet
+Sony Jog Dial
+Sound Controllers
+Tape drives
+Toshiba DVD decoder card
+Wireless Ethernet (WLAN)
+;# Hardware Support #
+CPU Transmeta Crusoe
+Floppy Support
+Iomega Zip drive
+Modem Support
+Ramdisk
+;# Keyboards #
+Chinese (Simplified) - Microsoft Pinyin IME 3.0 keyboard
+Chinese (Simplified) - NeiMa keyboard
+Chinese (Simplified) - QuanPin keyboard
+Chinese (Simplified) - ShuangPin keyboard
+Chinese (Simplified) - US Keyboard keyboard
+Chinese (Simplified) - ZhengMa keyboard
+Chinese (Traditional) - Alphanumeric keyboard
+Chinese (Traditional) - Array keyboard
+Chinese (Traditional) - Big5 Code keyboard
+Chinese (Traditional) - ChangJie keyboard
+Chinese (Traditional) - DaYi keyboard
+Chinese (Traditional) - New ChangJie keyboard
+Chinese (Traditional) - New Phonetic keyboard
+Chinese (Traditional) - Phonetic keyboard
+Chinese (Traditional) - Quick keyboard
+Chinese (Traditional) - Unicode keyboard
+Chinese (Traditional) - US Keyboard keyboard
+Hebrew keyboard
+Japanese Input System (MS-IME2002) keyboard
+Japanese keyboard
+Thai Pattachote (non-ShiftLock) keyboard
+Thai Pattachote keyboard
+;# Languages #
+;Hebrew
+Hebrew
+;Japanese
+Japanese
+;Simplified Chinese
+Chinese (PRC)
+Chinese (Singapore)
+;Traditional Chinese
+Chinese (Hong Kong S.A.R.)
+Chinese (Macau S.A.R.)
+Chinese (Taiwan)
+;# Multimedia #
+AOL ART Image Format Support
+DirectX diagnostic tool
+Images and Backgrounds
+Intel Indeo codecs
+Luna desktop theme
+Media Center
+Mouse Cursors
+Movie Maker
+Music Samples
+Old CDPlayer and Sound Recorder
+Speech Support
+Tablet PC
+Windows Media Player
+Windows Media Player 6.4
+Windows Sounds
+;# Network #
+Communication tools
+Comtrol Test Terminal Program
+Connection Manager
+FrontPage Extensions
+Internet Connection Wizard
+Internet Information Services (IIS)
+IP Conferencing
+MSN Explorer
+Netmeeting
+Network Diagnostic
+Network Monitor Driver and Tools
+Network Setup Wizard
+Outlook Express
+Peer-to-Peer
+Share Creation Wizard
+Synchronization Manager
+TAPI Application Support
+Vector Graphics Rendering (VML)
+Web Folders
+Windows Messenger
+;# Operating System Options #
+Administrative Templates
+Blaster/Nachi removal tool
+Color Schemes
+Desktop Cleanup Wizard
+Disk Cleanup
+Document Templates
+DR Watson
+Extra Fonts
+FAT to NTFS converter
+File and Settings Wizard
+File System Encryption
+Group Policy Management Console
+Help and Support
+Help Engine
+IExpress Wizard
+Local Security Settings
+MS XML 2.0
+Private Character Editor
+Remote Installation Services (RIS)
+Search Assistant
+Security Center
+Shell Media Handler
+Symbolic Debugger (NTSD)
+Tour
+User account pictures
+Web View
+Zip Folders
+;# Services #
+Alerter
+Application Layer Gateway
+Beep Driver
+Distributed Link Tracking Client
+Error Reporting
+Indexing Service
+Messenger
+Remote Registry
+Removable Storage
+Secondary Logon
+System Restore Service
+TCP/IP NetBIOS Helper
+Telnet
+Terminal Services
+Uninterruptible Power Supply
+Windows Firewall/Internet Connection Sharing (ICS)
+Windows Time
+;# Directories #
+DOCS
+SUPPORT
+VALUEADD
+
+
+
+(CHANGED)
+
+(DNS)
+I changed the DNS to OpenDNS IP's
+as they are better and more secure
+then default. If this causes any
+issues for you...simply change it
+back :).
+
+(Patches)
+TcpIp = 8512
+DoUxTheme
+DoSFC
+
+(Services2)
+ClipSrv,4
+EventSystem,4
+COMSysApp,4
+Browser,3
+CryptSvc,4
+MSDTC,4
+DNSCACHE,2
+Eventlog,2
+HidServ,4
+PolicyAgent,4
+dmserver,4
+SwPrv,3
+NetLogon,3
+NetDDE,4
+NetDDEdsdm,4
+NLA,4
+NtLmSsp,4
+SysmonLog,4
+Spooler,3
+RSVP,4
+RasAuto,4
+RasMan,4
+RpcLocator,4
+RemoteAccess,4
+SamSs,4
+ScardSvr,4
+SSDPSRV,4
+SENS,4
+Schedule,4
+Themes,2
+upnphost,4
+VSS,4
+WebClient,4
+AudioSrv,2
+MSIServer,3
+WmiApSrv,4
+LanmanWorkstation,2
+
+(Tweaks)
+Boot and Shutdown-Auto-End tasks immediately
+Boot and Shutdown-Auto-Kill hung applications immediately
+Boot and Shutdown-Auto-Kill hung services immediately
+Boot and Shutdown-Disable automatic restart on System Failure
+Boot and Shutdown-Disable logging on System Failure
+Boot and Shutdown-Disable saving Last Good state at boot
+Boot and Shutdown-Do not Parse Autoexec.bat
+Boot and Shutdown-Logon Page-Classic
+Boot and Shutdown-Show Administrator on the Welcome Screen
+Boot and Shutdown-Status Messages-Extended
+Desktop-My Computer icon-Show
+Desktop-My Documents icon-Show
+Desktop-My Network Places icon-Hide
+Desktop-Recycle Bin icon-Show
+Explorer-Add (un)register libraries in Context Menu
+Explorer-Add 'Command Prompt' to folder context menu
+Explorer-Advanced Search: preconfigure options
+Explorer-Associate additional file types with Notepad
+Explorer-Classic Control Panel
+Explorer-Disable Beep on errors
+Explorer-Disable Prefix: Shortcut to
+Explorer-Disable shortcut arrow
+Explorer-Disable Web Files and Folders connection
+Explorer-Display the contents of system folders
+Explorer-Launch folder windows in a separate process
+Explorer-Recycle Bin: allow to rename and delete
+Explorer-Recycle Bin: delete files directly
+Explorer-Remove Back Button
+Explorer-Remove Send To on context menu
+Explorer-Restore previous folder windows at logon
+Explorer-Show Drive Letters in front of Drive Names
+Explorer-Show extensions of known file-types
+Explorer-Show hidden files and folders
+Explorer-Show Map Network Drives buttons in Explorer bar
+Explorer-Show protected operating system files
+Explorer-Use small icons in Explorer bar
+Internet Explorer-Disable Download Complete notification
+Internet Explorer-Disable Go Button
+Internet Explorer-Disable information bar when popup is blocked
+Internet Explorer-Disable Internet Explorer link creation
+Internet Explorer-Disable Market Place bookmark
+Internet Explorer-Disable Media Player 6.4 created bookmarks
+Internet Explorer-Disable Password-Caching
+Internet Explorer-Disable sound when popup is blocked
+Internet Explorer-Enable Google URL-Search
+Internet Explorer-Keep IE URL-History for-5 Days
+Internet Explorer-Set Homepage-www.google.com
+Internet Explorer-Set IE-Cache limit to-8 MB
+Internet Explorer-Set Internet Explorer to accept 10 connects at a time
+Internet Explorer-Set popup-blocker to high
+My Computer-Remove Shared Documents
+Network-Allow Network Logins without passwords
+Network-Disable administrative shares
+Network-Disable automatic search for network folders and printers
+Network-Disable DCOM protocol bindings
+Network-Disable DNS failure cache
+Network-Disable extra SMB notify-change traffic
+Network-Disable LAN-Manager from caching passwords
+Network-Disable LM HOSTS lookup
+Network-Disable Microsoft-DS (close port 445 TCP/UDP)
+Network-Disable restoring mapped network drives on logon
+Network-Disable Simple File Sharing
+Network-Remove remote-computer NameSpace
+Network-Set TCP/IP Priority to 1
+Performance-Disable Info Tips on Files and Folders
+Performance-Disable Last accessed Timestamp on files
+Performance-Disable Optimize harddisk when idle
+Performance-Disable paging of kernel and core-os
+Performance-Disable Tracking of Broken Shortcut Links
+Performance-Disable Warn on low disk space
+Performance-Disable WBEM logging
+Performance-Do not cache thumbnails
+Performance-Run 16-bit Windows applications in a separate process
+Performance-Use Windows classic folders / No Tasks Sidepanel
+Privacy-Clear pagefile at shutdown
+Privacy-Disable Driver Update Internet prompt
+Privacy-Disable File MRU-List
+Privacy-Disable Tracking of most used programs
+Privacy-Remove Alexa
+Security-Always show Updates under Software
+Security-Disable DCOM
+Security-Disable Screensaver
+Security-Re-Enable user:pass URLs
+Start Menu-Add Administrative Tools menu
+Start Menu-Clear most recently opened documents list on logoff
+Start Menu-Disable and remove Documents list from the Start Menu
+Start Menu-Disable Highlight newly installed programs
+Start Menu-Do not use Personalized Menus
+Start Menu-My Computer-Display as a link
+Start Menu-My Documents-Display as a link
+Start Menu-My Music-Don't display this item
+Start Menu-My Network Places-Display as a link
+Start Menu-My Pictures-Don't display this item
+Start Menu-Network Connections-Link to Network Connections folder
+Start Menu-Printers and Faxes-Display as a link
+Start Menu-Reduce popup delay
+Start Menu-Remove Search the Internet from Search
+Start Menu-Remove Set Program Access and Defaults
+Start Menu-Remove User name
+Start Menu-Remove Windows Catalog shortcut
+Start Menu-Scroll Programs
+Start Menu-Use small icons in Start Panel
+Taskbar-Disable Balloon Tips
+Taskbar-Disable Group similar Taskbar buttons
+Taskbar-Disable Hide inactive icons
+Taskbar-Disable Language-Bar
+Visual Effects-Active window tracking-Disable
+Visual Effects-Active window tracking speed-Fast
+Visual Effects-Animate windows when minimizing and maximizing-Disable
+Visual Effects-Combo box animation-Disable
+Visual Effects-Cursor shadow-Disable
+Visual Effects-Display mouse pointer trails-Disable
+Visual Effects-Fade out selection-Disable
+Visual Effects-Gradient captions in windows-Disable
+Visual Effects-Keyboard shortcut underline-Disable
+Visual Effects-Menu animation-Disable
+Visual Effects-Menu shadows-Disable
+Visual Effects-Menu style-Flat
+Visual Effects-Show translucent selection rectangle-Disable
+Visual Effects-Show window contents while dragging-Disable
+Visual Effects-Slide taskbar buttons-Disable
+Visual Effects-Smooth edges of screen fonts-Clear Type
+Visual Effects-Smooth-scroll list boxes-Disable
+Visual Effects-Tooltip animation-Disable
+Visual Effects-Use a background image for each folder type-Disable
+Visual Effects-Use drop shadows for icon labels on the desktop-Enable
+
+
+HASH: 958DD9157EACDC581CCD02686E3B2FEC10A46375
+
+scanned with: F-Secure, Kaspersky , Malwarebytes, MSE
+
+enjoy
+         scuba-doo
+
+
+PS: Full list of what has been done will be added via pastebin link in comments...i was very tired when i finished this and accidently deleted the file :D :D.	

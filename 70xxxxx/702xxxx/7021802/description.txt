@@ -1,0 +1,47 @@
+Format                                   : Matroska
+Format version                           : Version 1
+File size                                : 120 MiB
+Duration                                 : 44mn 13s
+Overall bit rate                         : 379 Kbps
+Encoded date                             : UTC 2009-03-08 23:19:05
+Writing application                      : mkvmerge v2.4.2 ('Oh My God') built on Jan 18 2009 17:30:28
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 44mn 13s
+Nominal bit rate                         : 340 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.063
+Writing library                          : x264 core 60 r900 a9af942
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 44mn 13s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No

@@ -1,0 +1,62 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 143 MiB
+Duration                                 : 21mn 0s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 953 Kbps
+Encoded date                             : UTC 2012-02-10 18:51:39
+Tagged date                              : UTC 2012-02-10 18:52:15
+Writing application                      : mp4creator 1.6.1d
+
+Video
+ID                                       : 1
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L1
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : 20
+Duration                                 : 21mn 0s
+Bit rate mode                            : Variable
+Bit rate                                 : 825 Kbps
+Maximum bit rate                         : 8 294 Kbps
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.080
+Stream size                              : 124 MiB (87%)
+Language                                 : English
+Encoded date                             : UTC 2012-02-10 18:51:39
+Tagged date                              : UTC 2012-02-10 18:52:12
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 20mn 59s
+Bit rate mode                            : Variable
+Bit rate                                 : 126 Kbps
+Maximum bit rate                         : 191 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 18.9 MiB (13%)
+Language                                 : English
+Encoded date                             : UTC 2012-02-10 18:52:14
+Tagged date                              : UTC 2012-02-10 18:52:15
+Material_Duration                        : 1260170
+Material_StreamSize                      : 19782433
+

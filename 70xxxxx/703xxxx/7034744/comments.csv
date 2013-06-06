@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,MISTERWEB,2012-02-15T22:40Z,"can you plz seed catherine 360 pal 73 seeders but 
+down speed 5.8 kbs  wil take forever "
+[V],boobsman,2012-02-15T23:23Z,"Still seeding that mate but cannot give good speeds to everyone, to many hit n runners!"
+,_Necross_,2012-02-16T21:59Z,"This works, thank you!
+However there us nothing written in the changelog. Could you write what is new in this update? Thanks"
+,Wozzle90,2012-02-17T02:02Z,"So, I copied the contents of the Skidrow folder to the install location of CK2 (Program Files x86/Paradox Interactive/Crusader Kings II) and yet when I try to launch CK2 I get the error ""The program can't start because lua51.dll is missing from your computer. Try reinstalling the program to fix this problem"". 
+
+What'd I do wrong? I'm new to this -_-"
+,khardankov,2012-02-17T06:00Z,So does this update to 1.02b? Is this the release-day patch?
+,Afatguywithglasses,2012-02-18T10:40Z,"It is the 1.02b version, yes. 
+
+I could use the ""check for update"" button to update to 1.03b after installing this tho, while I couldn't before, nice!"
+,kcovni,2012-06-30T15:02Z,"For those having problems with coat of arms and mixed-up flags after installing SKIDROW's updates 1&2, the fix is here :
+
+http://thepiratebay.se/torrent/7400740
+(FixForFlags - 10.23MB)"
+,Elenbor,2012-08-24T16:07Z,"I am happy to report that I have finally figured out the flag issue. I have spent over a day on this and could not find an answer anywhere.
+
+The flag .tga image files in Install-location/gfx/flags for the Timurids, Il-Khanate and Golden Horde are wrongly labelled as kingdoms instead of empires (change the k at the start of the image file name into an e).
+
+After you have done this delete the UserName/Documents/Paradox Interactive/Crusader Kings II/gfx   folder so the flag files are loaded again.
+
+With the .tga files wrongly labelled they weren't a part of the flag cache meaning the 3 empires took flags that weren't theirs and all the flags moved 3 places forward messing it all up.
+
+I am not sure if this is in the original version or caused by any of the updates but I experimented and the error always happened to me."

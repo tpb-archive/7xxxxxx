@@ -1,0 +1,19 @@
+ESET NOD32 Offline Update 6925 (29-02-2012)
+Update your NOD32 without internet connection.
+
+Compatible with:
+- NOD32 Smart Security (all versions)
+- NOD32 Antivirus (all versions)
+
+Steps To Offline Update:
+- Extract to any folder. You should get a folder called "eset_upd" along with the update files inside.
+- Move that folder to the C:. (You should have "c:eset_upd")
+- Open up the NOD32 Control Center by clicking on the system tray icon.
+- Open the "Update" screen and click on "Setup"
+- In the "Server" dropdown list, choose the last item which should point to C:eset_upd.
+- Click OK to close the update setup window.
+- Back at the update screen, click "Update now"
+
+Seed to Share...............
+
+Please do Comment and Feedbacks would really help..........................

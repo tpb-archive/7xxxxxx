@@ -1,0 +1,52 @@
+---------------------------------------------------------------------------------
+                                                                                 
+           SSSSSSSSSSSSSSS       444444444                 AAA                   
+         SS:::::::::::::::S     4::::::::4                A:::A                  
+        S:::::SSSSSS::::::S    4:::::::::4               A:::::A                 
+        S:::::S     SSSSSSS   4::::44::::4              A:::::::A                
+        S:::::S              4::::4 4::::4             A:::::::::A               
+        S:::::S             4::::4  4::::4            A:::::A:::::A              
+         S::::SSSS         4::::4   4::::4           A:::::A A:::::A             
+          SS::::::SSSSS   4::::444444::::444        A:::::A   A:::::A            
+            SSS::::::::SS 4::::::::::::::::4       A:::::A     A:::::A           
+               SSSSSS::::S4444444444:::::444      A:::::AAAAAAAAA:::::A          
+                    S:::::S         4::::4       A:::::::::::::::::::::A         
+                    S:::::S         4::::4      A:::::AAAAAAAAAAAAA:::::A        
+        SSSSSSS     S:::::S         4::::4     A:::::A             A:::::A       
+        S::::::SSSSSS:::::S       44::::::44  A:::::A               A:::::A      
+        S:::::::::::::::SS        4::::::::4 A:::::A                 A:::::A     
+         SSSSSSSSSSSSSSS          4444444444AAAAAAA                   AAAAAAA    
+                                                                                 
+                                                                                 
+---------------------------------------------------------------------------------
+
+                            Windows.Loader.v2.1.2-Daz                            
+
+---------------------------------------------------------------------------------
+
+This is the loader application that's used by millions of people worldwide, well
+known for passing Microsoft's WAT (Windows Activation Technologies) and is
+arguably the safest Windows activation exploit ever created. The application
+itself injects a SLIC (System Licensed Internal Code) into your system before
+Windows boots; this is what fools Windows into thinking it's genuine.
+
+Features of Windows 7 Loader By Daz:
+* Checks the version of Windows
+* Automatically detects the active boot partition
+* Works in all languages
+* Works with hidden partition
+* Works on Windows 7, Vista and Server 2008 and other
+* Support BIOS mod users
+* Argument support automatic installations
+* You can use this tool to activate Windows 7/Vista ISO, editing SetupComplete.cmd
+* Improves Windows 7 boot Mac
+
+Version 2.1.2 (03/11/2012)
+* Added a new GRLDR version that fixes 2 bugs
+* Added support for Windows Small Business Server 2011 Essentials
+* Added lots of missing Vista serials (Thanks to Tito)
+
+MD5: 2fa16bc885c5a78754bcb2e546fae368
+SHA-1: e1b0ba14dc395593a795caa6805ac6253f9fc747
+
+---------------------------------------------------------------------------------

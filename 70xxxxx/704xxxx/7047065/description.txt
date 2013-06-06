@@ -1,0 +1,21 @@
+GeekBench v.2.2.7 with SK patch - MAC
+
+Official Web Site:  http://www.primatelabs.ca/geekbench/
+
+Description
+
+Geekbench provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance. Designed to make benchmarks easy to run and easy to understand, Geekbench takes the guesswork out of producing robust and reliable benchmark results.
+
+What\'s New
+Version 2.2.7:
+
+    Fixed an unhandled exception on OS X 10.8 (Mountain Lion).
+    Fixed a bug that prevented \"Check for Updates...\" from working properly.
+    Fixed a bug that misidentified the iPhone 4 (CDMA).
+    Improved processor frequency detection on Windows.
+    Improved processor detection on Linux.
+
+Requirements
+PPC / Intel, Mac OS X 10.4 or later 
+
+--- PLEASE SEED ---

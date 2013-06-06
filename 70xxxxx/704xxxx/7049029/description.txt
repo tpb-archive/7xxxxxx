@@ -1,0 +1,128 @@
+eneral
+UniqueID/String                          : 215475065668491209989246077309693239695 (0xA21AFCF5B15E6C39AADB85C44080A18F)
+Nombre completo                          : E:\Descargas\Braveheart.MHD.1080p.AC3.dual.bluray.1995.mkv
+Formato                                  : Matroska
+Formato de la versiÃ³n                    : Version 2
+TamaÃ±o del archivo                       : 7,62GIB
+DuraciÃ³n                                 : 2h 57min.
+Modo de tasa de bits                     : Variable
+Tasa de bits total                       : 6 139Kbps
+PelÃ­cula                                 : Braveheart by Ricjosep
+Fecha de codificaciÃ³n                    : UTC 2011-04-05 21:04:58
+AplicaciÃ³n de codificiÃ³n                 : mkvmerge v4.5.0 ('Speed of Light') creado el Feb  1 2011 02:10:32
+LibrerÃ­a de codificaciÃ³n                 : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 3marcos
+Format_Settings_GOP                      : M=3, N=23
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : V_MPEG4/ISO/AVC
+DuraciÃ³n                                 : 2h 57min.
+Tipo de tasa de bits                     : Variable
+Tasa de bits                             : 4 993Kbps
+Tasa de bits mÃ¡xima                      : 35,0Mbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 1 080pixeles
+RelaciÃ³n de aspecto                      : 16:9
+Velocidad de cuadro                      : 23,976fps
+EstÃ¡ndar                                 : NTSC
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploraciÃ³n                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.100
+TamaÃ±o de pista                          : 6,20GIB (81%)
+Default                                  : Si
+Forced                                   : No
+colour_primaries                         : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+transfer_characteristics                 : BT.709-5, BT.1361
+matrix_coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1
+ID                                       : 2
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : A_AC3
+DuraciÃ³n                                 : 2h 57min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 384Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+TamaÃ±o de pista                          : 488MB (6%)
+TÃ­tulo                                   : Castellano
+Idioma                                   : EspaÃ±ol
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Modo Muxing                              : Header stripping
+ID CÃ³dec                                 : A_AC3
+DuraciÃ³n                                 : 2h 57min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 640Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 16bits
+TamaÃ±o de pista                          : 814MB (10%)
+TÃ­tulo                                   : Ingles
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 4
+Formato                                  : PGS
+Modo Muxing                              : zlib
+ID CÃ³dec                                 : S_HDMV/PGS
+ID CÃ³dec/Info                            : The same subtitle format used on BDs/HD-DVDs
+TÃ­tulo                                   : EspaÃ±ol Forxados
+Idioma                                   : EspaÃ±ol
+Default                                  : Si
+Forced                                   : No
+
+Texto #2
+ID                                       : 5
+Formato                                  : PGS
+Modo Muxing                              : zlib
+ID CÃ³dec                                 : S_HDMV/PGS
+ID CÃ³dec/Info                            : The same subtitle format used on BDs/HD-DVDs
+TÃ­tulo                                   : EspaÃ±ol
+Idioma                                   : EspaÃ±ol
+Default                                  : No
+Forced                                   : No
+
+Texto #3
+ID                                       : 6
+Formato                                  : PGS
+Modo Muxing                              : zlib
+ID CÃ³dec                                 : S_HDMV/PGS
+ID CÃ³dec/Info                            : The same subtitle format used on BDs/HD-DVDs
+TÃ­tulo                                   : Ingles
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No
+
+Texto #4
+ID                                       : 7
+Formato                                  : PGS
+Modo Muxing                              : zlib
+ID CÃ³dec                                 : S_HDMV/PGS
+ID CÃ³dec/Info                            : The same subtitle format used on BDs/HD-DVDs
+TÃ­tulo                                   : Ingles
+Idioma                                   : InglÃ©s
+Default                                  : No
+Forced                                   : No

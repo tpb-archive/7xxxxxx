@@ -1,0 +1,45 @@
+Cisco IOS Quick Reference Cheat Sheet 2.0 [ MrCambron ]
+
+Posted on Apr 1, 2011 2:43PM / Updated on Mar 4, 2012
+This document is restored from some notes I took while studying for CompTIA A+ and Cisco CCNA certifications when I was enrolled in Columbia Basin Job Corps from Feb 2007 to Jan 2009.
+
+My original goal of this document was to fit this on one sheet of paper by changing to landscape view and printing two pages per side with the duplex option.
+
+-----------
+
+Router Modes
+
+R> (User-mode prompt)
+R# (Privileged-mode prompt)
+
+R(config)# (Global configuration mode)
+R(config-if)# (Interface mode)
+R(config-subif)# (Subinterface mode)
+R(config-line)# (Line mode)
+R(config-router)# (Router configuration mode)
+
+Quick Start
+
+R> enable
+R# config terminal
+R(config)# hostname [Router1]
+R(config)# exit
+R#
+R# ? (Help with commands)
+
+Restrict Access to Router
+
+Privileged-mode
+
+R(config)# enable password [password] (Plain Text)
+R(config)# enable secret [password] (Hashed)
+
+User-mode
+
+(Select a line) R(config)# line console 0
+R(config)# line vty 0 4
+R(config)# line aux 0
+
+R(config)# password [password]
+R(config)# login
+R(config)# exec-timeout [10] [0] (M, S)

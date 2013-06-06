@@ -1,0 +1,40 @@
+PhotoshopPortable 12.1 Multilingual (PortableApps.com Format)
+============================================================
+Yes.. i know i have posted Photoshop already. 
+What can i say? im a perfectionist.
+If i keep finding things i can improve, i will continue.
+This release is quite a significant improvement.
+
+Most notably: "File Info" module, which is Photoshop's metadata.
+You can access this by clicking "File" > "File Info". 
+http://www.photometadata.org/node/73
+
+Another dramatic improvement is Java support.
+I've added support for jPortable.
+Simply install into "CommonFiles" and PhotoshopPortable can use it.
+
+If people appreciate these releases, i will continue to update and
+release the rest in the coming weeks...
+
+---------
+Changelog
+---------
+â€¢ includes: GraphicRiver 3D That! action
+â€¢ includes: GraphicRiver Dimensions vol.1 & 2
+â€¢ includes: PhotoshopPortable style
+â€¢ includes: Zaxwerks 3D Invigorator
+â€¢ includes: 'Pimp my Image Processor' which enables PNG and CMYK
+â€¢ PDF Presets added/enabled
+â€¢ CameraRaw 6.6 Enabled: additional plug-ins available
+â€¢ 'File Info' Support: http://www.photometadata.org/node/73
+â€¢ Java Supported: http://portableapps.com/apps/utilities/java_portable
+
+----------------------
+Portable Specification
+----------------------
+Version: 12.1 (CS5.1)
+Format: PortableApps.com Format (PAF)
+Stealth: Yes
+Language: Multilingual
+Dependencies: Admin rights, Visual C++
+Requirements: WinAll, 32/64

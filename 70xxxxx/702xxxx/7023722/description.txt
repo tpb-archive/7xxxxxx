@@ -1,0 +1,16 @@
+Book Description
+Concurrent programming has become a required discipline for all programmers. Multi-core processors and the increasing demand for maximum performance and scalability in mission-critical applications have renewed interest in functional languages like Erlang that are designed to handle concurrent programming. Erlang, and the OTP platform, make it possible to deliver more robust applications that satisfy rigorous uptime and performance requirements.
+
+Erlang and OTP in Action teaches you to apply Erlangâ€™s message passing model for concurrent programmingâ€“a completely different way of tackling the problem of parallel programming from the more common multi-threaded approach. This book walks you through the practical considerations and steps of building systems in Erlang and integrating them with real-world C/C++, Java, and .NET applications. Unlike other books on the market, Erlang and OTP in Action offers a comprehensive view of how concurrency relates to SOA and web technologies.
+
+This hands-on guide is perfect for readers just learning Erlang or for those who want to apply their theoretical knowledge of this powerful language. Youâ€™ll delve into the Erlang language and OTP runtime by building several progressively more interesting real-world distributed applications. Once you are competent in the fundamentals of Erlang, the book takes you on a deep dive into the process of designing complex software systems in Erlang.
+
+About the Author
+Martin Logan is a leading Erlang developer, a frequent conference presenter, and the primary developer of the Faxien OTP/Erlang package management system.Currently he works for Orbitz Worldwide, developing solutions for their large scale distributed service-based infrastructure. Richard Carlsson was an original member of the High-Performance Erlang groupat Uppsala University, and has contributed to many parts of the standard libraries, the Erlang compiler, runtime system, and the language itself. Eric Merrit specializes in concurrent languages and distributed systems. Heâ€™s a core developer for the Erlware family of open-source products.
+
+Book Details
+Paperback: 500 pages
+Publisher: Manning Publications (November, 2010)
+Language: English
+ISBN-10: 1933988789
+ISBN-13: 978-1933988788

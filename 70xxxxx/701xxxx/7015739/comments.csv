@@ -1,0 +1,131 @@
+﻿User Type,Username,Date,Text
+,evilpalmer,2012-02-07T21:56Z,just tryed it couldnt get it to even start i followed the instructions not saying it dosnt work but it didnt work 4 me
+,r912525,2012-02-07T21:59Z,how do you install this without steam i put it into my skyrim directory and it starts but it stops working right away
+,Shadow45X,2012-02-07T22:07Z,"Seems to start up fine, then crashes immediately."
+,ediablom,2012-02-07T22:07Z,when i run it it just says that it stopped working
+,Lousaydus,2012-02-07T22:16Z,"Doesn't work for me. I just instantly get ""creation kit as stopped working"" after it loads up. The only thing i could think of if it's a version mismatch but that doesnt make sense because it came out with 1.4. Any ideas? Also im using the non-steam version of the game."
+,mrlonewolfgreece,2012-02-07T22:19Z,"It partially works, the program crashes as soon as it loads... any solutions..."
+,r912525,2012-02-07T22:20Z,Thank you this is sweet (if i can get it to work but the idea that you put it up is awesome)
+,Siks4545,2012-02-07T22:22Z,One it finished opening it stops working wtf?
+,jnuke,2012-02-07T22:23Z,"installed it and it starts up fine, but immediately crashes after loading up. i dont have the game installed in my steam dir though, perhaps that has something to do with it?"
+,jnuke,2012-02-07T22:23Z,"ah, now everyone else's comments are showing up. glad im not the only one with the issue."
+,vastin34,2012-02-07T22:25Z, crashes right after loading all windows
+,Valamyr82,2012-02-07T22:25Z,"Does this require a steamapps directory per se? 
+
+Like most others here my Skyrim is cracked and theres no trace of Steam on my box."
+,Siks4545,2012-02-07T22:26Z,
+,Siks4545,2012-02-07T22:29Z,"It shouldn't need steamapps but when I put it in there and tried to open from steamapps it just said missing file ""steam_apll.dll"""
+,HeReS,2012-02-07T22:31Z,"Crappy piece. 
+I did like instructed, but prog just goes to loop and  initializes like forever. 
+Or...is there something else that should know installing this?!"
+,ediablom,2012-02-07T22:32Z,"valamyr82, if anybody is looking at this then they have a cracked skyrim"
+,Feebaroo,2012-02-07T22:41Z,"Crashes after startup and for the users that it didn't initially start up, there has to be a steam api.dll in the folder. I just used Skyrim's from Razor as a test, however it still loaded the initial interfaces, then stopped responding shortly after.
+
+Hopefully the uploader can fix this."
+,tugita,2012-02-07T22:43Z,show me comments
+,r912525,2012-02-07T22:46Z,for some reason i cant see any posts unless i post anybody know why that is?
+,GObonzo,2012-02-07T22:50Z,
+,GObonzo,2012-02-07T22:50Z,not cracked. have to have steam/skyrim installed
+,Siks4545,2012-02-07T22:55Z,anyone figure it out yet?
+,GsusKryst,2012-02-07T22:57Z,"looking at the latest update 5 here on the bay,once extracted you can see that the version is 1.4.21.0 when you right click TESV and check properties/details...now when doing the same right clicking this Creation kit exe....in properties and checking details...version is 1.4.23.0...so I am guessing that an Update 6 may be required for this to work."
+,Sivos,2012-02-07T22:57Z,"Don't install it in your steamapps directory unless that's where you have Skyrim installed (of course if that's the case then just download it from Steam itself).  I don't know where the .ncf goes, but the stuff in the Skyrim folder goes in your Skyrim directory folder (for me it's Program Files(x86)/Bethesda/Skyrim).  I think the crashing is due to a misplace of the .ncf file.  Also, where is the .ini files?  The GECK required some .ini files.  I remember it crashed for me because I didn't have them in the right spot."
+,ifran03tr,2012-02-07T23:01Z,"it crash immediately, the problem could be because of ''Steam''"
+,tugita,2012-02-07T23:07Z,"for me starts opening just fine then suddenly it crashes, I believe it's missing an update of sorts."
+,Feebaroo,2012-02-07T23:07Z,"@GObonzo: That's my thought as well. Looking at some of the comments, especially about the steam api.dll and the freezing, it also threw up the Windows Firewall for me. It didn't feel like a full crack. Ah well. I guess I'll wait until it is."
+,Necron282,2012-02-07T23:12Z,i believe the ini files are created in the same folder look in where you extracted the rar they should be called skyrimeditor.ini and skyrimeditorprefs.ini if this helps got it run just crashes at main screen
+,walkerion,2012-02-07T23:13Z,"Exactly what Sivos said. It works. Just copy the contents within the folder CreationKit\creationkit main.v12\common\skyrim  (in which you downloaded) and put it in your skyrim installation directory. In my case, it is C:\Program Files (x86)\The Elder Scrolls V Skyrim\
+
+Then copy the cracked creationkit.exe over the one the one you copied over. now it should work just fine. 
+
+Good luck and happy modding
+"
+,JDFan,2012-02-07T23:15Z,@Sivos  -- The ini files are there they are named  SkyrimEditor.ini and SkyrimeditorPrefs.ini
+,r12247,2012-02-07T23:20Z,IF YOU WANT THE CREATION KIT DOWNLOAD IT FROM HERE:
+,anon591,2012-02-07T23:22Z,"if you use pirated skyrim you can try:
+3. copy your game to \steamapps\common\skyrim
+4. copy steam_api.dll from spiral knights to \steamapps\common\skyrim
+it may end the crashes when u run CreationKit.exe"
+,ZeroCus,2012-02-07T23:31Z,"guys I found a solution that worked for me, and I have the same problem as you guys. Put a steam_api.dll from a game you bought on steam and replace it with the pirated version you currently have... For example I replaced the steam_api.dll from the skyrim directory with the terraria directory and tried again and it worked."
+,hashashh,2012-02-07T23:39Z,can some1 upload a steam_api.dll that works with this please? 
+,hashashh,2012-02-07T23:54Z,"show me comments, damnit"
+,hashashh,2012-02-07T23:58Z,grr
+,BurningKy,2012-02-07T23:59Z,"Okay, let me get this straight.  Everything within the file Common/Skyrim goes straight into the actual folder in which you installed Skyrim correct?
+
+This means that the Creation Kit's ""Data File"" will also replace the Skyrim Game Data file too am I right?
+
+I need to make sure this is correct before I do this so as not to get things all mixed up."
+,hashashh,2012-02-08T00:00Z,"ha! i got it to work, i used a modern warfare 2 cracked steam_api.dll and placed it in my skyrim folder with this download."
+,STUNTDEVIL44,2012-02-08T00:00Z,I had the same idea ZeroCus had worked for me as well
+,hashashh,2012-02-08T00:02Z,"used the steam_api.dll from this torrent
+http://thepiratebay.se/torrent/5165827"
+,Lousaydus,2012-02-08T00:03Z,"If it crashes at startup, (stopped working), then copy the steam_api.dll from another steam game into your directory. You might be able to find it online if you don't have any steam games."
+,Jakeler,2012-02-08T00:06Z,Anyone else get this to work? Also anyone know where to download the re textured pack? considering we cant download it from steam
+,ifran03tr,2012-02-08T00:15Z,@ZeroCus it worked! thx dude just listen what he saying and it will work.
+,GsusKryst,2012-02-08T00:15Z,thanks hashhashh! worked like a charm=)
+,ifran03tr,2012-02-08T00:17Z,the only problem is that u can't get steam workshop mod ;( not unless you have skyrim steam.
+,Necron282,2012-02-08T00:18Z,Has anyone got this running properly yet?? mine still crashes
+,YHKK,2012-02-08T00:24Z,"rghost.net/36401800
+Here you go, steam api from different game. Extract it into skyrim folder. Running game or CK will pop-up an error, just click OK and it will work. Adding an .ini file, that defines SteamID removes that error, but CK would crash again (game works though)."
+,ediablom,2012-02-08T00:26Z,it needs the construction set.ini to work
+,ediablom,2012-02-08T00:30Z,nvm just do ZeroCus says
+,YHKK,2012-02-08T00:32Z,steam api file from here: thepiratebay.se/torrent/5165827  works best.
+,vastin34,2012-02-08T00:37Z,ZeroCus right. its working! thanks man
+,Siks4545,2012-02-08T00:57Z,Hashashh's torrent works for me after I did what Sivos said about putting the content with wherever you put Skyrim
+,Surenas,2012-02-08T00:57Z,"Well, it has to work. All you have to do is to overwrite the existing non-signed  steam_api.dll with a signed (!) in your /skyrim game folder, for example the signed dll of the cracked FA:NV "
+,GsusKryst,2012-02-08T00:59Z,well shit still getting errors when loading skyrim main esm....then crashing trying to load references..oh well I have waited this long so a few more days for a proper fix or with income tax maybe I'll just go buy the fucker....just hate steam!
+,Necron282,2012-02-08T01:14Z,Any chance you could upload the hi-res texture pack aswell??
+,hashashh,2012-02-08T01:53Z,"i copied the files to skyrim folder
+used this steam_api.dll http://thepiratebay.se/torrent/5165827
+...
+then, i believe when loading skyrim.esm it will always give some error, you just say yes to all...
+not positive... but i remember when modding both morrowind and oblivion i would always get that error."
+,mdnpascual,2012-02-08T02:07Z,@Necron282 not worth releasing since nexus mods are better
+,OMGYourMom,2012-02-08T02:11Z,HD Texture Pack please.
+,SkaJump,2012-02-08T02:54Z,Unpacking inside the Skyrim dir and using the steam_api.dll from http://thepiratebay.se/torrent/5165827 worked for me.. just my 2c
+,Valamyr82,2012-02-08T03:32Z,"Worked for me after extracting in a way that ensured the ck exe was in the main skyrim directory, applying crack, and applying the steamdll posted above in the comments."
+,Dloader101,2012-02-08T03:52Z,"I installed the steam_api.dll file and now the program opens up but it gets a popup that says ""MODELS: Could not find model Meshes\sky\clouds.nif""
+And
+""Yes to all"" will disable all Warnings for this context."" 
+
+What do i do? please help guys i want to make some mods!"
+,JDFan,2012-02-08T04:26Z,"Was able to get it working now (by following some of the advice here and also moving my install into the location Steam sets by default) but am getting several errors while it loads (Mostly similar to this one : ""MASTERFILE: Automatic door 'WRShackDoorMinUse01' (0006767F) [48 units] in cell 'WhiterunExterior10' has its teleport marker too close to the linked door."") -- SO might just be that BETH set the teleport markers up wrong -- IS anyone else getting these type errors ?"
+,JDFan,2012-02-08T04:31Z,Also FYI  seems that I now need to launch the game using the SkyrimLauncher.exe instead of TESV.exe or the mod esps will not load (made a couple quick changes to test saving an esp and checking for the items in game to test)
+,STUNTDEVIL44,2012-02-08T04:38Z,"@ JDFan from my research you should be fine  just hit ""Yes to all"" "
+,Ultimaniac,2012-02-08T04:49Z,any chance of someone uploading the hi res texture pack that came out?
+,JDFan,2012-02-08T06:34Z,"@STUNTDEVIL44 -- Yea I figured as much -- Also found out that legit users are getting the same errors when launching the CK so guess it is just some errors in the Main file.
+
+@Ultimaniac -- Give it some time seeing that it is over 3GB in size it will prbably take awhile for anyone to download and then upload here.
+"
+,mdnpascual,2012-02-08T07:34Z,I havea seen someone upload the High-res tex pack but it disappeared when I checked again
+,diamond-optic,2012-02-08T07:40Z,"works for me, i get a few missing texture errors at startup but ignoring them hasnt seemed to make a difference for me yet"
+,ApesGrandson,2012-02-08T08:53Z,"Yea, Installed into Skyrim root, then used steam_api.ddl linked by hashashh "
+,Olathural,2012-02-08T09:56Z,"It works woots.. now if only i knew how to use it... :x 
+
+
+P.S.... Any chance of getting the High Res pack uploaded for us.. Non Steam users?"
+,r3yh4nd,2012-02-08T10:26Z,"Installation Guide :
+1.download this torrent + http://thepiratebay.se/torrent/5165827
+(thanks to hashashh for this link)
+2.Extract the file from common/skyrim to your Skyrim Installation Folder + the creation kit main.ncf
+3.Extract the steam api.dll from hashashh link + copy the non steam fix creation kit.exe to your Installation Folder 
+4.Voila Works Like Charms :) 
+reminder: when you load skyrim main.esm there should be error just press yes to all and it's all good :)"
+,dlsnrk,2012-02-08T11:14Z,"Now this may seem a little cheeky, but might there be any way to actually access Steam with a pirated version of Skyrim? 
+
+Well I hope all worthwhile mods will be available on other sites too, and that someone will also upload the high rez texture pack to the PB."
+,Trollolboll,2012-02-08T15:04Z,I cant get this to work. I followed r3yh4nd's instructions but it just says Creation Kit has stopped working. And now it also says the same when i try to launch the game. I followed the instructions to the letter. Anyone else having this problem or is it just me that have fucked it up?
+,Trollolboll,2012-02-08T15:15Z,"Ok I fixed the game so now I can atleast play... But the Creation Kit freezes my computer when it says ""Initializing Windows"" in the bottom left corner. Anyone knows why? Any help would be very appreciated =)"
+,Trollolboll,2012-02-08T15:26Z,Oh now it works fine. Didnt work cause i was logged into my steam acc. Just logged out and it worked lika a charm. Thanks for the upload! And thanks for instructions from r3yh4nd =D
+,dalm1988,2012-02-08T16:06Z,"Followed the instructions, the creation kit seems to be working just fine, but the game crashes when entering the opening screen..."
+,ZaxvicMonster,2012-02-09T10:26Z,"The solution for the Creation Kit:
+
+Download this torrent: https://thepiratebay.se/torrent/6807863/The.Elder.Scrolls.V.Skyrim-[CRACK.ONLY]_-_Ali213
+
+Get the steam_api.dll
+            steamclient.dll
+
+Pop it in you installation folder with you Creation Kit and It must work, although it gives you an error when you launch either Creation Kit or Skyrim It still works. (just ignore the warning) "
+,RGVC,2012-02-11T20:30Z,"I don't get it, I did everything like the install instructions said yet it crashes when I open it...I open the kit and it stops working, prompting me to close the program"
+,Dalton2264,2012-03-12T22:31Z,This worked awesome. I had no problems and it worked better than the others i tried. Thanks
+,aleksel,2012-03-19T14:55Z,r3yh4nd - worked perfect for me!
+,dmandork,2012-05-07T09:00Z,"Thanks so much with the steam_api.dll. I was really frustrated i couldnt get it to work, thanks!"
