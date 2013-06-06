@@ -1,0 +1,28 @@
+DVDFab is all you need to backup DVDs. DVDFab Platinum 3 is brand new, is completely rewritten, is based on 5 years of DVD copy software development. DVDFab is simply the easiest way to copy a DVD movie. Just insert the movie and a blank DVD then press Start. Your entire movie - including menus, trailers and special features - is copied to a single DVD with just one click, and everything happens automatically. Backup your entire DVD - including menus, trailers, and special features - onto one or multiple discs.
+
+DVDFab 8.1.8.5 Qt Updated!
+- New: Updated language files.
+- Fix: DVDFab burning engine cannot be used when any DVDFab option is expired.
+DVD Copy: 
+- Fix: A wrong expired warning dialog for Gold lifetime user.
+DVD ripper: 
+- Fix: No choice of 5.1 multi-channels when using iPad.h264.multichannel profile.
+- Fix: A crash problem when clicking "Conversion Settings" button in "Task Queue" window in certain cases.
+Blu-ray Copy: 
+- New: Updated server to support new BD+ protection.
+- New: Added support for new Java-based protection.
+- Fix: A black screen playback problem when copying "Full Disc". 
+- Fix: A problem that some special discs cannot be opened.
+- Fix: A problem that some BDAV discs cannot be opened.
+Blu-ray ripper: 
+- New: Added support that forced subtitle information will be shown if detected when converting.
+Blu-ray 3D Ripper: 
+- New: Added support that forced subtitle information will be shown if detected when converting.
+Blu-ray to DVD: 
+- New: Added support that forced subtitle information will be shown if detected when converting.
+Video Converter: 
+- Fix: A 502.12.7 problem when converting with avi.xvid.audiocopy profiles.
+- Fix: A 504.00.12 problem when converting with most of mkv and mp4 profiles.
+- Fix: A freeze problem when converting with audio.copy profiles.
+
+Home Page: www.dvdfab.com

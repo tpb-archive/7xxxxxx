@@ -1,0 +1,24 @@
+WinOnX lets you run your Windows applications on OSX without the need of buying a Windows license.
+
+Well, you even do not need to install Windows.
+Just download WinOnX and you are ready to go within 2 minutes.
+No need to install Windows or a virtual machine.
+
+
+Please note:
+
+WinOnX should only be used for applications which are not available for OSX. Whenever an application is available for OSX, we strongly recommend to use this version.
+
+WinOnX is based on the open source Wine project. It is a layer which redirects the communication between an application and Windows to OSX. As a result not all applications are fully compatible. Most applications run fine, some run even faster but also some run slower or even crash.
+
+You can look at http://appdb.winehq.org/ to get some information how good your application might work with WinOnX which is an ongoing project. In case your Windows application does not work at the moment, there is a good chance that it will work after one of the next updates.
+
+Currently full screen applications (especially games) are only limited supported. We are currently working on a version which will support both full screen for Snow Leopard as well as for Lion.
+
+WHATΓÇÖS NEW
+
+Version 1.4:
+
+You can install programs completely separate from each other.
+Programs can be launched with different system settings.
+Instead of deinstalling programs, you can just delete the appropriate VM.

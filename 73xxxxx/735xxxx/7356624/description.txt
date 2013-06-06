@@ -1,0 +1,35 @@
+Application: Minecraft Multi-Version Installer
+
+Description: 
+Java based Minecraft installer that includes all versions of Minecraft since Indev 2.23.10. 
+
+Platform Supported: Windows
+Java Version: 1.6+
+Minecraft Versions: Indev 2.23.10 - Snapshot 12w24a
+
+New in this version: 
+
+Minecraft Snapshot 12w24a
+
+Application Features:
+
+Extensible module system allows Minecraft versions to be added or removed from the builds folder.
+
+Allows you to install a different version of Minecraft on-the-fly. Good for visiting servers of different versions.
+
+Automatically backs up and recovers worlds when installing new version.
+
+Backup button clones worlds to ΓÇ£C:Minecraft World BackupΓÇ¥.
+
+Ctrl+Click ΓÇ£Install GameΓÇ¥ Deletes Minecraft directory. (Fresh install)
+
+---------------------------------------------------------------------------
+Instructions:
+1. Run "Minecraft Multi-Version Installer"
+2. Select version of Minecaft you would like to install from combo box
+3. Click "install Game"
+4. Click "Install Launcher" (Places shortcut on desktop)
+5. Play!
+---------------------------------------------------------------------------
+
+As always, please leave feedback!

@@ -1,0 +1,23 @@
+Version 2.1.4:
+* Fixed a bug that would cause some systems to fail to boot
+* Fixed a bug where an unsupported OS would fail to have it's status set to unsupported
+* Added Qbex SLIC and certificate
+* Other minor tweaks and fixe
+
+WAT Fix will:
+Uninstall RemoveWAT (or similar)
+Uninstall HAL7600
+Uninstall Chew7
+Uninstall uODIN
+Correct file permissions
+Correct important system files
+Correct services required for activation
+Correct VBS file associations
+Remove Microsoft entries from the HOSTS file
+
+Usage:
+Run WAT Fix
+Install Windows Loader
+If required visit the following website to revalidate Windows: www.microsoft.com/genuine/validate/ (Use Internet Explorer)
+
+Warning: Do not close WAT Fix while it's running.

@@ -1,0 +1,12 @@
+This is the loader application that's used by millions of people worldwide, well known for passing Microsoft's WAT (Windows Activation Technologies) and is arguably the safest Windows activation exploit ever created. The application itself injects a SLIC (System Licensed Internal Code) into your system before Windows boots; this is what fools Windows into thinking it's genuine.
+
+Version 2.1.4 (06/02/2012)
+- Fixed a bug that would cause some systems to fail to boot
+- Fixed a bug where an unsupported OS would fail to have it's status set to unsupported
+- Added Qbex SLIC and certificate
+- Other minor tweaks and fixes
+
+MD5: a0b252f6531de7403b7b2f94bc7b6171
+SHA-1: 5a5350a5fd280b59f5694b99b638775c4548587e
+
+Note: The hashes are for the executable file.

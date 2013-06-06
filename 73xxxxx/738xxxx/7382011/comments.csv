@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,D255,2012-06-30T16:25Z,it's a dup from XxFukenGruvenxX
+,vanush,2012-06-30T16:59Z,So what !?
+,D255,2012-07-01T18:49Z,dont you have your own?
+,vanush,2012-07-02T14:44Z,"HEHEY
+It's a torrent tracker :D"
+,crissk8,2012-07-09T03:47Z,"Hi, I did everything as noted, how do I know it is NOD32 is active? I can see it says product activated but, it says -license type: No license- is that ok?"
+,crissk8,2012-07-09T03:55Z,"Hey I followed everything as stated and it seems to work but, I have one question. It says that product is activated but, under that it says -License type: No License- is that ok?"
+,vanush,2012-07-09T13:47Z,"YES, it's ok, as you can see, your antivirus will update his virus recognition databases and notify you if there will be an alert, it 100% works ;)"
+,dannie7832,2012-07-31T03:28Z,good combination of smart security and antivirus. 32 bit and 64 bit. good work!!!
+,dontmindmeplz,2012-08-01T19:08Z,how do i boot into safe mode?
+,zebandido,2012-08-06T18:17Z,@dontmindmeplz press F8 on boot-up
+,completeretard,2012-08-11T19:49Z,"Hey, do u have a fix for x64? I have win2008 at home and can't install any free anivirus, so I'm trying to find x246 business version that supposed to run on win2008"
+,vanush,2012-08-14T16:40Z,"@completeretard, sorry but this is all that i have :("
+,gazmakka,2012-08-20T23:10Z,"Problem: installed as instructed, go to update virus database and it fails. Requests User name and password be entered to enable virus signature database. So, basically, this program is useless if it runs on an out of date virus database. Have you , or anyone got a user name and password that was sent by email to the user of this Internet Security program?"
+,gazmakka,2012-08-21T01:13Z,"@completeretard....why the hell can't you instal any ""free antivirus on win2008""? Silly question I guess because if you knew then you wouldn't be asking your question Can you instal a PAID for antivirus? Maybe you don't have Administrator FULL rights to instal, uninstall and alter programs...basically you only have a Standard User Account. Very limited. Go into Control Panel, click User Accounts and create yourself a new account as Administrator. Reboot computer and log into that new account when you get the Windows log in screen, then instal this Eset Security Suite.
+If you can't do that then you have a problem beyond me."
+,gazmakka,2012-08-21T01:17Z,"@completeretard..... there's a business version here at this link:
+
+http://thepiratebay.se/torrent/6274029/ESET_NOD32_Antivirus_Business_Edition_4.0_with_crack_%28updates_fo
+
+Its version 4, not 5 and its 32 and 64 Bit.
+ Try this one."
+,gazmakka,2012-08-21T02:19Z,"@completeretard, I could be the complete retard because I don't know the Operating System Widows 8 at all. I'm a 7 x 64 Bit Ultimate user.
+I thinking I'll get a nise RTM of 8 and try it out. I don't have the touch screen technology of Tablets at my fingertips so I get one that will run on my PC.
+Perhaps the problem with your not being able to instal an antivirus is that the Win8 on your computer(Tablet?) isn't compatible with the Eset program you are tyring to instal. Info here:
+
+For most people buying an operating system for a traditional desktop or laptop, the choice will be between just two versions. The version called simply ""Windows 8"" is designed for home users. ""Windows 8 Pro"" is for business users and includes features for encrypting a file system, virtualization, and domain management.
+
+""Windows RT"" is the new name for what had been called Windows on ARM. You won't be able to purchase it on its own; it'll come preinstalled on PCs and tablets that run ARM processors. Windows RT won't be able to run traditional X86/64 desktop software. Instead, it'll run touch-oriented apps based on Windows Runtime (or WinRT), Microsoft's programming model for mobile apps. Apps for the touch-oriented Metro interface are built using Windows Runtime.""""
+
+From this web page:
+
+http://www.pcworld.com/article/253919/windows_8_will_come_in_four_versions.html"
+,PlunderinLass,2012-08-24T13:55Z,"I'm pretty sure this is the one I dl the other day. It's kind of hard to figure out things when you can't match up filenames or people name stuff weird things. But that not important.
+
+What I wanted to say was that I literally could NOT boot up into safe mode because either my ATI graphics card or version of windows was telling the monitor to be 700x400 and it would give an error message of ""Input signal out of range."" I tried a number of things and found out what will work, in case someone else has this problem, too.
+
+Boot onto another drive if you have one (or put your hard drive into a caddy and hook up to laptop, friend's computer, etc.). Then go into your Program Files and find ESET. Leave that directory alone but click on it. Then you see the subdirectory for the product you have installed. Rename that to something like ESET BLAHBLAH and remember to *save the original directory name* in a text file. So your path should look like C:Program FilesESETESET BLAHBLAH.
+
+Go back and boot on your normal drive in regular mode. The program probably will not be able to run but I didn't wait for it. I immediately applied the patch and it was successful. I then could rename the directory back to its normal name of C:Program FilesESETESET NOD32 Antivirus.  Reboot and enjoy!"
+,PlunderinLass,2012-08-24T13:57Z,"Oh crap how do we post a path?
+
+C: Program Files  ESET  ESET BLAHBLAH
+
+hmmm."
+,PlunderinLass,2012-08-24T14:00Z,"I just wrote a long comment and now it's gone.
+
+If you can't boot into safe mode, boot from another drive and edit the directory to be
+
+C: | Program Files | ESET | ESET BLAHBLAH
+
+Go back and boot on your normal drive in regular mode. The program probably will not be able to run but don't wait for it. Immediately apply the patch and it will be successful. 
+
+Then rename the directory back to its normal name of 
+
+C: | Program Files | ESET | ESET NOD32 Antivirus
+
+~ Reboot and enjoy! "
+,MISFIT---420,2012-08-29T03:40Z,"works as described. HOWEVER I installed them both, applied patch rebooted normal but now it only shows me as having only Smart Security not both. My question is this... Do both programs merge into one program OR did I fuck up somehow tho I installed as described. OS Win. 8"
+,haquma,2012-09-06T02:47Z,works wonderful Gracias
+,MISFIT---420,2012-09-06T15:55Z,was curious to how good this is as i have read many bad things.well lets just say avg free pickedup on 5 out of 5 trojans/worms and this only pickedup on 3. free is great but if you ever decide to buy an antivirus/malware remover i highly recommend NOT buying this.
+,Tanlic,2012-09-12T18:35Z,Everything working great until yesterday. Seems like they have found us out guys.....Now getting that cunt of a thing we all dread....Invalid Username or Password :0) Any ideas Vanus? Apart from buying it that is
+,edushreds,2012-09-16T03:12Z,"did everything as noted, but it still says that i have not activated it, though it seems to be working right, is that ok?"
+,lTazzl,2012-09-16T11:13Z,"When I try to run ESET.PureFix.V2b, my pc does not know which program to run it in.. What do I need to run it in ? I hope someone knows :)"
+,SamStone,2012-09-17T11:59Z,"Thanks, it works great."
+,anni1994,2012-09-18T23:40Z,thanks a lot it works perfectly. yuo are the number one

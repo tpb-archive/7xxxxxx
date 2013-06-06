@@ -1,0 +1,55 @@
+THIS IS NOT THE ITUNES RELEASE SO NO ICLOUD SUPPORT
+
+More info about Coda 2 at http://www.panic.com/coda/
+
+Improvements:
+
+A "Search" filter has been added to the Files tab
+Improved autocompletion for HTML, CSS, Javascript, and PHP
+The path bar is now truncated to your local / remote root path
+Port, User, and IdentityFile in ~/.ssh/config are now parsed for SFTP connections
+Option+Return will now open files in the active tab/split via keyboard
+Added Japanese localization
+Added a LESS mode. (If you installed a third-party mode, you might wish to delete it.)
+
+Bug Fixes:
+
+Significantly improved stability on Mac OS X 10.6
+Hopefully improved the reliability of iCloud
+Improved the reliability of AirPreview
+Improved private key reliability for SFTP connections
+Web preview more reliably catches external CSS changes
+PHP rendering will no longer break after saving in some circumstances
+Fixed an issue where the location of the document cannot be determined
+Fixed an exception when attempting to clone a Git repository
+Fixed issues with code folding
+Now possible again to add/edit a search URL for a custom book
+No auto-mark for publishing after ejecting site
+Save As no longer also saves to FTP in some circumstances
+Git push/pull buttons are no longer gone after a commit
+Fixed a Git error when trying to clone a site to a non-existent directory
+Checkout to Revision now works more reliably for Git
+Code validation improved when collapsed
+Improved nested Javascript syntax coloring
+New Tab and New Split subitems now have unique names so shortcuts can be assigned
+SSH key selector button now shows hidden files
+The connect button in Sharing is now active
+Clips can no longer lock up when moving them into a group
+Right-clicking in icon view no longer clears the selection
+Javascript hints now function properly
+Using the keyboard to navigate through tabs now properly scrolls the tabs
+Worked around mod_sftp server issue where permissions would be set to 000 when opening
+Fixed a situation where named placeholders could not be named properly
+The mysterious iCloud panel is now disabled on Mac OS X 10.8
+SCM operations now update the publishing queue
+"Refresh" menu item and keyboard shortcut now works in SQL view
+CMD-F now properly focuses filter boxes
+Viewing page source while previewing in iPad/iPhone frames now renders correctly
+The Color pop is now shown for "border-color"
+Dragging a remote file tab is now more useful
+SCM operations when offline no longer create a string of errors
+Invisible files now show up in Find Files results
+The "Port" is now saved properly in SQL site configurations
+Custom book images no longer get stretched in the toolbar icon
+Fixed an issue where the Clips editor window could appear far offscreen
+Fixed various crashes, exceptions, and annoyances!

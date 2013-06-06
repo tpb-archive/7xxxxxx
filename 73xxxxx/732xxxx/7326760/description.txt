@@ -1,0 +1,8 @@
+JavaScript Design Patterns
+==========================
+
+Useful design patterns for JavaScript development
+ 
+http://www.pluralsight-training.net/microsoft/Courses/TableOfContents?courseName=javascript-design-patterns
+
+JavaScript should be treated like any programming language when it comes to designing your code structure. Throughout this course we'll look at a number of different design patterns which are useful when writing JavaScript centric applications. The course starts with several common patterns, including function argument patterns, chaining, and observable properties. We continue with a look at patterns using timers, including asynchronous execution and recursive setTimeout. Finally we review module patterns, pub-sub patterns, and the promise pattern.

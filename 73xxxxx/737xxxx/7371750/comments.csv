@@ -1,0 +1,71 @@
+﻿User Type,Username,Date,Text
+,baco1000,2012-06-21T04:30Z,"General
+UniqueID/String                          : 
+Nombre completo                          : ERAGON_[2006][720p][DUAL][spanish_english][sub_esp_eng].mkv
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 7,04GIB
+Duración                                 : 1h 39min.
+Tasa de bits total                       : 10,1Mbps
+Fecha de codificación                    : UTC 2012-06-03 17:14:36
+Aplicación de codifición                 : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04
+Librería de codificación                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : Main@L3.2
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 2marcos
+Modo Muxing                              : Header stripping
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 1h 39min.
+Tasa de bits                             : 9 000Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 1,85:1
+DisplayAspectRatio_Original/String       : 16:9
+Modo de velocidad de cuadro              : Variable
+Velocidad de cuadro                      : 25,000fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.391
+Tamaño de pista                          : 6,06GIB (86%)
+Librería de codificación                 : x264 core 112 r1834 a51816a
+Opciones de codificación                 : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0 / me=dia / subme=2 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=3 / weightb=0 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=9000 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / ip_ratio=1.41 / aq=1:1.00
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_DTS
+Duración                                 : 1h 39min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 755Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+Tamaño de pista                          : 538MB (7%)
+Título                                   : 3/2+1
+Idioma                                   : Español(Castellano)
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AC-3
+Formato/Info                             : Audio Coding 3
+Format_Settings_ModeExtension            : CM (complete main)
+Ajustes del formato, Endianness          : Big
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_AC3
+Duración                                 : 1h 39min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                      "

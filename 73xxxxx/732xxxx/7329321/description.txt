@@ -1,0 +1,30 @@
+Description
+FreeFileSync is a folder comparison and synchronization tool providing highly optimized performance and usability without needless user interface complexity.
+
+Features
+Detect moved and renamed files and folders
+Copy locked files (Volume Shadow Copy Service)
+Detect conflicts and propagate deletions
+Binary comparison
+Full support for Symbolic Links
+Automate sync as a batch job
+Multiple folder pairs
+Copy NTFS extended attributes (compressed, encrypted, sparse)
+Copy NTFS security permissions
+Support long path names > 260 characters
+Fail-safe file copy
+Cross-platform: Windows/Linux
+Expand environment variables like %USERPROFILE%
+Access variable drive letters by volume name (USB sticks)
+Native 32 and 64-bit builds
+Keep versions of deleted/updated files
+Optimal sync sequence prevents disc space bottlenecks
+Full unicode support
+Highly optimized performance
+Include/exclude files via filter
+Local and portable installation
+Handle daylight saving time changes on FAT/FAT32
+Use macros %time%, %date%, et al. for recurring backups
+Case sensitive synchronization
+Built-in locking serializes multiple jobs running against the same network share
+

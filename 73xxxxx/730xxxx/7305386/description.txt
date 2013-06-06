@@ -1,0 +1,48 @@
+Eurovision Song Contest 2012 Sweden Loreen Euphoria 1080p x264 10Mbps [mixman].mkv
+  
+    Format : Matroska
+    Format version : Version 2
+    File size : 216 MiB
+    Duration : 3mn 11s
+    Overall bit rate : 9 449 Kbps
+    Encoded date : UTC 2012-05-28 02:19:04
+    Writing application : mkvmerge v5.5.0 ('Healer') built on Apr  6 2012 21:43:24
+    Writing library : libebml v1.2.3 + libmatroska v1.3.0
+ 
+ Video #1
+    ID : 1
+    Format : AVC
+    Format/Info : Advanced Video Codec
+    Format profile : High@L4.1
+    Format settings, CABAC : Yes
+    Format settings, ReFrames : 4 frames
+    Muxing mode : Header stripping
+    Codec ID : V_MPEG4/ISO/AVC
+    Duration : 3mn 11s
+    Width : 1 920 pixels
+    Height : 1 080 pixels
+    Display aspect ratio : 16:9
+    Frame rate : 50.000 fps
+    Color space : YUV
+    Chroma subsampling : 4:2:0
+    Bit depth : 8 bits
+    Scan type : Progressive
+    Writing library : x264 core 122 r2184bm 5c85e0a
+    Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+    Default : Yes
+    Forced : No
+ 
+ Audio #2
+    ID : 2
+    Format : AAC
+    Format/Info : Advanced Audio Codec
+    Format profile : LC
+    Codec ID : A_AAC
+    Duration : 3mn 11s
+    Channel(s) : 2 channels
+    Channel positions : Front: L R
+    Sampling rate : 48.0 KHz
+    Compression mode : Lossy
+    Delay relative to video : 9ms
+    Default : Yes
+    Forced : No

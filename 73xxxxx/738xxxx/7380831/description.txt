@@ -1,0 +1,93 @@
+Ministry - Psalm 69 : The Way To Succeed And The Way To Suck Eggs - CD remaster by MC Lurken (a.k.a. Beavis 39)
+
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+
+1 - N.W.O.
+2 - Just One Fix
+3 - TV II
+4 - Hero
+5 - Jesus Built My Hotrod
+6 - Scare Crow
+7 - Psalm 69
+8 - Corrosion
+9 - Grace
+
+
+
+
+Setup
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = 20, Peak = 0.002db
+-Final Recording - Apparent Bit Resolution = 37, Peak = 0.517db
+
+-Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+*this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies
+
+Settings in Weiss Saracon:
+-Modulator Type - CRFB 10th Order
+-Sample Rate - 5.6448MHz
+-Gain (db SACD) - 0db
+-Stabilizer - off
+-Dither - off
+
+-Convert newly created DSD file to 24-bit/96kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+-Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - Medium, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+*DSD -> PCM = -6db
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-06-23 16:53:29
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -0.44 dB   -12.62 dB      5:31 ?-01 - N.W.O.
+DR10      -0.07 dB   -10.91 dB      5:11 ?-02 - Just One Fix
+DR11      -0.07 dB   -13.66 dB      3:05 ?-03 - TV II
+DR9       -0.07 dB   -10.92 dB      4:13 ?-04 - Hero
+DR9       -0.07 dB   -10.73 dB      4:52 ?-05 - Jesus Built My Hotrod
+DR12      -0.07 dB   -13.08 dB      8:22 ?-06 - Scare Crow
+DR11      -0.17 dB   -14.45 dB      5:30 ?-07 - Psalm 69
+DR10      -0.35 dB   -12.54 dB      4:56 ?-08 - Corrosion
+DR9       -0.07 dB   -11.59 dB      3:06 ?-09 - Grace
+--------------------------------------------------------------------------------
+
+Number of tracks:  9
+Official DR value: DR10
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

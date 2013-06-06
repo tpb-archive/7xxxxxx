@@ -1,0 +1,20 @@
+Fiddler 2.3.9.9 | 708 KB
+
+Fiddler is a Web Debugging Proxy which logs all HTTP(S) traffic between your computer and the Internet. Fiddler allows you to inspect traffic, set breakpoints, and "fiddle" with incoming or outgoing data. Fiddler includes a powerful event-based scripting subsystem, and can be extended using any .NET language.
+
+Fiddler is freeware and can debug traffic from virtually any application that supports a proxy, including Internet Explorer, Google Chrome, Apple Safari, Mozilla Firefox, Opera, and thousands more. You can also debug traffic from popular devices like Windows Phone, iPod/iPad, and others. 
+
+
+
+
+
+
+Version 2.3.9.9 - Released 6/3/2012
+
+Implement HTTP->FTP Gateway
+Improved Authentication support 
+Improved request encoding support 
+Improved HAR import 
+Enhanced AutoResponder 
+Improved WebSocket support 
+Various bugfixes

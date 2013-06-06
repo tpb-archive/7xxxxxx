@@ -1,0 +1,19 @@
+Pro ASP.NET 4 CMS
+Advanced Techniques for C# Developers Using the .NET 4 Framework
+
+This book will immerse you in a variety of advanced topics, including architecting different application data tiers, memory caching paradigms, data mining, and search engine optimization. Working through step-by-step exercises using P/LINQ, DLR, MEF, MVC, IronPython, Axum, and Ajax, you will learn a variety of approaches to building each of the key application tiers common to all web solutions.
+
+Using a proven technique of illustrating advanced concepts with functional solutions, all topics in the book are modeled on a fully operational content management system (CMS), built from the ground up. This ensures that youΓÇÖll be introduced to real-world examples that demonstrate the full functionality of the .NET 4 Framework for ASP.NET, and that youΓÇÖll be able to apply your new skills to any web development situation.
+
+What youΓÇÖll learn
+
+- How to use the new functionality of Visual Studio 2010 of interest to ASP.NET developer
+- What is new within the .NET 4 framework and how it impacts ASP.NET development
+- All about different application tiers using P/LINQ, the Entity Framework, DLR, MEF, MVC, and AJAX
+- When to use advanced caching techniques Memcached and Velocity
+- How to optimize the content that the user sees to reduce server loads and response times
+- How to develop highly scalable & concurrent approaches to data mining using IronPython and the Axium languages
+
+Who this book is for
+
+Intermediate and advanced developers alike will find comprehensive information about how Visual Studio 2010 and the .NET 4 framework impact ASP.NET development.  Centered around a full CMS implementation, readers will find a vast array of tailored discussions, exercises, and solutions that will enable them to quickly upgrade their skills from previous versions of the .NET framework.

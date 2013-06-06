@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,bladexdsl,2012-06-23T08:10Z,"ok so to use this 1st you download 
+Sid Meiers Civilization V Gods and Kings GOTY REVOLT
+
+than extract this and replace all files and it should work right?"
+,Shiva45,2012-06-23T09:31Z,Working great with these extra files. No problem with Babylon now. Windows 7 64bit i5
+,Bijuu,2012-06-23T10:22Z,"Great to see this uploaded here, seeing as all the freeshare site links to it were used up. Thanks for this."
+,2230411,2012-06-23T16:10Z,"Can someone confirm that its working? Coz i suspect somethings fishy when i see Anonymous uploader, and sudden horde of praising commenters"
+,Aredyn,2012-06-23T19:03Z,"Confirming that this work as intended, it fixes REVOLT issues with Babylon,etc."
+,bladexdsl,2012-06-24T03:08Z,so you need the Civilization V Gods and Kings GOTY REVOLT release for it to work?
+,pilo14de,2012-06-24T10:07Z,Thank you so much.Revolt did a great job with his installer.But with this patch it works great
+,ShockWave91,2012-06-27T20:23Z,"Working fine but i have one problem, in DLC and normal version of game... Why ALWAYS when i choose Large, Huge map, game load small map? All patches dont working... i dont know what to do help! how to fix it...?"
+,sirjonos,2012-06-29T14:01Z,"I got Unable to load texture [CivSymbolWhite32bla bla bla 
+Before starting a game a few times and in a game every turn at least 8 times. 
+
+I'm guessing the torrent didn't download correctly for me? if not what didn't i do?
+(note the original Civ5 game was also a crack for me)"
+,dickley,2012-06-30T15:18Z,"CivilizationV_DX11.exe contains a virus known as Sirefef, seemingly undetectable by anything I've tried scanning with.
+
+Once your PC is exposed to this virus, pretty much the only thing that will help you is a full reinstall of Windows.
+
+I just finished reinstalling thanks to this piece of shit 'fix'.
+
+Save yourself the trouble and avoid at all costs."
+,pedropatatas,2012-08-21T16:05Z,"It isn't true. CivilizationV_DX11.exe started, computer rebooted, scanned with kaspersky, malwarebytes, RootkitRemover, ESETSirefefRemover etc.. and there is No sign of the ""Sirefef"" virus."
+,knightmare13,2012-08-22T03:36Z,"Civilization v patch v.1.0.1.705
+minor Fixes:
+[PREVIOUS SAVES]
+
+Older saves with DLC leaders (including Genghis) will no longer ""shift"" when loaded into the patched game.
+[CRASH FIXES]
+
+If a user does not have a religion, and receives a religion from another Civ, setting the ""automated faith purchase"" option could previously cause a crash when the purchase tries to fire for either the player, or the AI. This has been corrected.
+Fixed an issue where a user could click on a city banner during the AI turn, and the game could crash depending what AI process is happening at the time of the ""click.""
+Into the Renaissance - If an AI player has open borders and a friendly relationship with another Civ, they would sometimes send a Great Admiral to park in their city. If the city tries to purchase a civilian unit while the Great Admiral is parked there, the game could crash. This is corrected.
+Scenario hang - There was a chance that when you won a scenario, the game could hang. This has been corrected.
+Fixed an issue where any user with special characters in their Windows name will be unable to load saves.
+If a player has Steam in ""offline mode"", and clicks on Mods, into the modding area and then backs out, the game could crash. This is now corrected.
+Game Hang on turn 0 - After patching, many have reported being unable to interact with units or end the first turn. This is now corrected.
+Game could previously hang on ""Unit Needs Orders"" after the player clicks next turn. This has been corrected, and the camera snap has been fixed.
+A crash that could occur in Hot Seat if the game core threading had been disabled is fixed.
+[BUG FIXES]
+
+Fall of Rome Scenario - Golden Ages were switched to providing bonus culture earlier in project. We've removed the culture bonus from Golden Ages for the scenario.
+Open Borders that do not exist - If the AI is trying to renew an open borders agreement, but has something more important to talk about in the queue, the system would still record the Open Borders agreement as being active (even though it is not actually in place). This has been corrected.
+Military Caste (+2 culture from garrison) was not working correctly. Whenever a civilian unit embarks, bulbs, or is deleted, it subtracted 2 culture, and kept adding up each time this happened, leaving the city at permanent negative culture. This has been corrected.
+The ""Peace Loving"" belief was not functioning. This has been corrected.
+When cities bombard attacking units, death animations would now play correctly.
+
+http://thepiratebay.se/torrent/7513350/Civilization_v_patch_v._1.0.1.705"

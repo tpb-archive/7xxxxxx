@@ -1,0 +1,20 @@
+Practical Packet Analysis
+
+Author: Chris Sanders
+Publisher: No Starch Press May 2007
+Pages: 172
+ISBN: 978-1-59327-149-7
+
+It's easy enough to install Wireshark and begin capturing packets off the wire--or from the air. But how do you interpret those packets once you've captured them? And how can those packets help you to better understand what's going on under the hood of your network? Practical Packet Analysis shows how to use Wireshark to capture and then analyze packets as you take an indepth look at real-world packet analysis and network troubleshooting. The way the pros do it.
+
+Wireshark (derived from the Ethereal project), has become the world's most popular network sniffing application. But while Wireshark comes with documentation, there's not a whole lot of information to show you how to use it in real-world scenarios. Practical Packet Analysis shows you how to:
+
+Use packet analysis to tackle common network problems, such as loss of connectivity, slow networks, malware infections, and more
+Build customized capture and display filters
+Tap into live network communication
+Graph traffic patterns to visualize the data flowing across your network
+Use advanced Wireshark features to understand confusing packets
+Build statistics and reports to help you better explain technical network information to non-technical users
+Because net-centric computing requires a deep understanding of network communication at the packet level, Practical Packet Analysis is a must have for any network technician, administrator, or engineer troubleshooting network problems of any kind.
+
+Technical review by Gerald Combs, creator of Wireshark.

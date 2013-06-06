@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,mrmassin,2012-06-27T12:51Z,How can i lunch the game? plz help
+,wirama,2012-06-27T16:46Z,"it doesn't work at all... if anyone has the knowledge about getting it started, let me know"
+,tol9411,2012-06-28T01:31Z,I could open the game there was a Modern Combat folder inside the company of heroes folder. Extract to that folder and it should work.
+,junyo21,2012-07-23T11:01Z,"hey darkyan.... how this game work?? im alone in all maps, there is no enemy in the map. pls give instructions how to play this game. tnx!"
+,Levy_NR,2012-09-04T14:30Z,"Here's quick instructions how to install this mod. I hope this will help someone.
+
+Step 1)
+Run the downloaded ModernCombat.exe as an Administrator. If you aren't sure whether or not you have administrator rights on your PC, you can forcibly run the program as an administrator by right-clicking on the file and clicking ""Run as administrator"".
+
+Step 2)
+A new window will pop up, asking you where to extract the files to. You will have to choose the Company of heroes installation root folder.
+For steam installations this usually is:
+""C:program filessteamsteamappscommoncompany of heroes"".
+For regular installations this usually is:
+""C:Program Files (x86)THQCompany of Heroes""
+
+!!! Confirm to overwrite ""LuaExtCore.dll"" and ""lua-io.dll"" if they already exist !!!
+
+Step 3)
+Once you extracted all the files you will find the Modern Combat launcher under ""...Company of HeroesModern CombatModernCombat.exe"". This also has to be run as administrator! Create shortcuts if you want (rightclick on ModernCombat.exe->send to->Desktop)
+
+!!! Make sure that your firewall doesn't block the launcher !!!"

@@ -1,0 +1,97 @@
+Alice In Chains - Unplugged - DVD Soundtrack remastered by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Nutshell
+2 - Brother
+3 - No Excuses
+4 - Sludge Factory
+5 - Down in a Hole
+6 - Angry Chair
+7 - Rooster
+8 - Got Me Wrong
+9 - Heaven beside you
+10 - Would
+11 - Frogs
+12 - Over Now
+13 - The Killer Is Me
+
+
+
+Setup
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process
+-16-bit/48kHz LPCM track ripped from DVD
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = 19, Peak = 0db
+-Final Recording - Apparent Bit Resolution = 39, Peak = 0.313db
+
+-Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+*this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies
+
+Settings in Weiss Saracon:
+-Modulator Type - CRFB 10th Order
+-Sample Rate - 5.6448MHz
+-Gain (db SACD) - 0db
+-Stabilizer - off
+-Dither - off
+
+-Convert newly created DSD file to 24-bit/96kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+-Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - Light, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+*DSD -> PCM = -6db
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-06-27 07:53:13
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR13      -2.46 dB   -18.10 dB      4:24 ?-01 - Nutshell
+DR14      -1.84 dB   -17.88 dB      5:39 ?-02 - Brother
+DR14      -0.07 dB   -17.51 dB      6:33 ?-03 - No Excuses
+DR15      -1.53 dB   -18.63 dB      4:55 ?-04 - Sludge Factory
+DR13      -0.20 dB   -16.90 dB      6:54 ?-05 - Down in a Hole
+DR15      -0.07 dB   -17.22 dB      4:41 ?-06 - Angry Chair
+DR14      -1.04 dB   -18.11 dB      6:22 ?-07 - Rooster
+DR15      -0.59 dB   -16.99 dB      4:27 ?-08 - Got Me Wrong
+DR16      -0.07 dB   -17.78 dB      5:13 ?-09 - Heaven beside you
+DR14      -0.07 dB   -16.54 dB      4:08 ?-10 - Would
+DR15      -0.92 dB   -18.63 dB      7:20 ?-11 - Frogs
+DR15      -0.62 dB   -18.38 dB      6:55 ?-12 - Over Now
+DR14      -0.35 dB   -17.53 dB      5:24 ?-13 - The Killer Is Me
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR14
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

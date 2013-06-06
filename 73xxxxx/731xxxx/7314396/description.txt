@@ -1,0 +1,14 @@
+Python is fast becoming the programming language of choice for hackers, reverse engineers, and software testers because it's easy to write quickly, and it has the low-level support and libraries that make hackers happy. But until now, there has been no real manual on how to use Python for a variety of hacking tasks. You had to dig through forum posts and man pages, endlessly tweaking your own code to get everything working. Not anymore.
+
+Gray Hat Python explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools - and how to build your own when the pre-built ones won't cut it.
+
+You'll learn how to:
+
+Automate tedious reversing and security tasks
+Design and program your own debugger
+Learn how to fuzz Windows drivers and create powerful fuzzers from scratch
+Have fun with code and library injection, soft and hard hooking techniques, and other software trickery
+Sniff secure traffic out of an encrypted web browser session
+Use PyDBG, Immunity Debugger, Sulley, IDAPython, PyEMU, and more
+
+

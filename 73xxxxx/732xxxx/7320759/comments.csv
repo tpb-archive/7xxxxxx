@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,YodaBoy44,2012-06-07T14:57Z,"When you have an opportunity, would you kindly upload Tagalog (Philippines) in the exe format? It installs so nicely!! Thanks so much!!"
+,toferk,2012-06-08T00:33Z,"Maybe I'm just an idiot, but I can't for the life of me, get any of this to work... I've tried and failed several times."
+,kcharris,2012-06-08T04:08Z,"Hey man, I too (along with YodaBoy44) would like to request that you upload Tagalog in the exe format. I'm going there in a month and I'd like to brush up a bit. Thanks!"
+,EinDeutschMan,2012-06-09T04:01Z,"@YodaBoy44
+I hope to have them done some time this weekend"
+,EinDeutschMan,2012-06-09T04:28Z,"@toferk,
+
+DL this torrent, and extract, it will put all the files where they need to be:
+http://thepiratebay.se/torrent/7272499/Rosetta_Stone_v3.4.7_Preinstalled.exe
+
+it will create these folders:
+C:/Programfiles (x86)/Rosetta Stone/Rosetta Stone v3
+In the Rosetta Stone v3 folder, you will find the file ""RosettaStoneVersion3""
+That's the Rosetta Stone program  file.
+
+In the C:/ProgramData/Rosetta Stone folder, 
+you will see two XML files, these tell Rosetta Stone where the language pack(s) are
+And which ones are activated (they ALL are)
+
+Then DL the language pack(s) you want, 
+BE SURE that they have both ""Speech"" and ""Preinstalled"" somewhere in the name.
+
+Extract them, the language packs are rather large (+/- 2 gb) so it takes a while to extract those.
+make a shortcut for the RosettaStoneVersion3.exe file where ever you want it, and you're done"
+,R0GUEL0KI,2012-06-12T07:45Z,"First, nice job on this really simple set up. I'm sure it's much appreciated. However, I'm having problems. Every time I try to load up this language it says error 4112 and closes. From my google search, most people just say to clear the products.xml, reinstall and good to go. No such luck with this way. When I clear the products.xml Rosetta asks me to install new language, then instead i close, run this French preinstall, and no good. I had this same issue on one I had before that wasnt your preinstall version. What I understand from my searching is there is might be an issue with Rosetta not recognizing the version number on the language as compatible, This says Rosetta version 3.4.7 but the languages say 3.7.1+ Is there supposed to be a newer version, or are these languages just updates? Long winded I know, but I want to clear this up and be moving on into it."
+,R0GUEL0KI,2012-06-12T07:57Z,"*Fixed
+
+Uninstalling doesn't delete everything. Make sure to delete all the programdata stuff AND the full Rosetta Stone folder. Then reinstall, went straight to install language and worked without issues this time."
+,junipersunshine,2012-07-10T09:31Z,"Downloaded the ""v3.4.7Preinstalled.exe"" file, and I downloaded this, too. Moved the .rsi files to their perspectice folders, got error 4112. Moved them elsewhere, 4112 again. I've moved them everywhere I can think of, but I keep getting error 4112. I'm lost. (Also, disregard the past comment. I figured out the torrent problem.) Thanks so much!"
+,BKOBES,2012-07-19T16:21Z,"@EinDeutschMan
+I downloaded your earlier .rar french file, will this not work as well as this newer one (that included 'speech and preinstalled"" in the name?
+also, in the instructions you say to mount it, 
+I have no idea what this means...
+thanks for any help! I really need to learn French!
+:D"
+,tee_bee,2012-07-20T02:03Z,"Got it to work on my windows 7 64 bit, had to use the rosetta stone preinstalled.exe file, and let it install to default (in this case it went to program files 86) and then installed the rosetta stone french and speech preinstalled to default (if for some reason it doesn't work right, look for the CONTENT folder and copy it into the Rosetta Stone folder in program files (86).  I am listening to the guy talking in the program right now!"
+,rayquest9,2012-08-18T08:05Z,"does it have all 5 disk 
+for french 
+all five level in me
+can u do Italian ?
+please do mention the levels in your torrent
+tthanks 
+you r awesome
+love ya"
+,ColemanSWE,2012-08-28T06:29Z,"I hate to ask more questions, but I don't have the option to ""activate later.""
+
+Any help? Can't get passed lesson 2. "
+,taylor826,2012-09-08T17:32Z,"So far all working, but got CRC errors when extracting. Message stated files are corrupt."

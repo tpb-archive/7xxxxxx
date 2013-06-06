@@ -1,0 +1,22 @@
+Changes in Adobe Photoshop Lightroom 4.1:
+New Camera Support:
+* Canon EOS 5D Mark III
+Fixed Issues:
+* Lightroom 4 did not properly open external applications when using the “Edit In” functionality.
+* Point Curve adjustments made in Lightroom 3 have been restored.
+* Addressed performance issues in Lightroom 4, particularly when loading GPS track logs, using a secondary monitor, and the controls within the Develop module.
+* Ability to update DNG previews and metadata for more than 100 photos has been restored.
+* This update allows for improved viewing of subfolders and stacks in folders with a large number of photos.
+* It was possible that a layout of a saved book could be lost after quitting Lightroom 4.
+
+System requirements Windows
+•Intel® Pentium® 4 or AMD Athlon® 64 processor
+•Microsoft® Windows Vista® with Service Pack 2 or Windows® 7 with Service Pack 1
+•2GB of RAM
+•1GB of available hard-disk space
+•1024x768 display
+•DVD-ROM drive
+•Internet connection required for Internet-based services
+
+Language versions
+Deutsch, English, Español, Français, Italiano, Nederlands, Português (Brasil), Svenska, 日本語, 简体中文, 繁體中文, 한국어

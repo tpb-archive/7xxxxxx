@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,Liarize,2012-06-16T13:04Z,Thank you! It also works after the Service Pack 1 have installed a long while. :)
+,GreenDiary,2012-07-02T12:33Z,"Some error shows up saying ""It is not Compatible with my System."""
+,aaleeaa,2012-07-05T21:14Z,"WTF!!!!!!!!!!!!!!!!!!!!
+my system is restarting on boot time"
+,Q__boii,2012-07-07T17:37Z,"This is the best thing in years! Tried it with my W7 Ultimate x86 SP1 and it worked flawlessly. Then, I reinstalled Vista Ultimate x86 at my quad-core desktop machine, but I didn't have Internet access at that time, so I tried this. Guess what? It worked with Vista too! 
+Gotta love solutions like this, while XP required at least 10 different cracks, before I could find anything useful.."
+,Q__boii,2012-07-07T17:38Z,@ GreenDiary: maybe you're using a 64-bit version of Windows?
+,ldangerx,2012-07-11T17:29Z,I love you for this.  I am using a version of windows 7 pro 64bit i received from my school on all my home computers and i have lent my serial out to some friends trying to see how many computers i can install it on.  i am running a small scale corporate network at my home as a project for school so i need professional for joining domains.   then my laptop all of sudden refused to activate.  this worked like a charm!!!  OP i will marry you for this. thanks!
+,exarh,2012-07-12T02:41Z,installed this crap and it totally fucked my boot sector and the laptop was keeping restarting just when initializing the booting process. 
+,Fille948,2012-07-14T01:56Z,"Please help, installed this and now my computer is restarting on bootup, it never starts! How can i get my computer to start!? My parents are asleep right now so i can't ask my dad right now, can i get a respond fast please? How did you guys that also had the reboot problem fix it!?? :("
+,realg4life,2012-07-19T13:45Z,"WOW!! This is awsome it really worked, Thanks Jules..."
+,tamerlan_1984,2012-07-20T21:24Z,Thank you very much
+,sunstate,2012-07-27T08:29Z,"Thank you Jules, worked great "
+,TealcLOL,2012-07-28T23:21Z,"As others have stated, my computer no longer boots.  DO NO USE."
+,FredChopin,2012-07-29T23:59Z,"!!! DO NOT USE !!!
+
+Does not work, system will never boot again.
+I had to reinstall Windows 7.
+
+"
+,unXpected,2012-07-30T19:36Z,"Is Windows failing to boot after you installed the loader? Just do the following.
+
+* Boot up the PC from your Windows installation disk
+* Select the ""Repair your computer"" option
+* Select ""Command Prompt""
+* Input ""bootsect.exe /nt60 SYS /force"" (without quotes)
+* Restart the PC
+
+Note: If the above doesn't fix your boot issue then use the command ""bootsect.exe /nt60 ALL /force"" instead. Just make sure you remove all USB flash drives before you use the command."
+,bellonik,2012-07-31T04:31Z,"Why man.. Why u upload a file just to fuck up the people?? now my pc doesn's start, doesn't boot from cd or usb. u just fucked my pc bro. 
+Happy?"
+,bellonik,2012-07-31T04:47Z,"You MOTHAFU!*(%@W..
+thank you for fu@#ked my pc. 
+Happy?"
+,bellonik,2012-07-31T06:42Z,i swear to god man.. if I saw you now I'd kill you.
+,altorrez3,2012-07-31T17:01Z,"its a good thing i had a windows installation disk, its a good.thing your identities protected,,i bet your a fat nerd with a small phallus "
+,cheprer,2012-08-07T20:54Z,"Hi, I believe it works but I got a problem after I click an install button an error occurs: ""An error has been logged to the system's event log."" please anyway has a solotion ? ty"
+,MyssAngel,2012-08-16T11:27Z,"Well it will fix of fux ur machine, it's a MAJOR pain in the arse to recover the boot sector AND after recovery it still needs the activation. You decide, is it worth the risk?!?! I am pissed."
+,MyssAngel,2012-08-16T11:30Z,"Maybe this will help, I use Winblows 7, 64 bit. It did NOT work!"
+,JamesTuttle,2012-08-16T19:19Z,"Jules- Ur the shit!!!  It worked as promised- and AFTER I installed Ultimate SP1 64 AND ran all available windows updates.  This is PERFECT.
+
+Thanks man!!!!  :)"
+,akash2008,2012-08-24T08:12Z,"***WARNING***
+This will work but you must repair the bootsector for you computer to work after the restart (in 50% of cases). Before restarting goto the start menu, type cmd and enter the following: bootsect.exe /nt60 SYS /force
+then restart your computer. If it still doesn't work and gives you the boot compressed error you will need an install cd of windows or another way to access the dos prompt to continue.
+
+Is Windows failing to boot after you installed the loader? Just do the following.
+
+* Boot up the PC from your Windows installation disk
+* Select the ""Repair your computer"" option
+* Select ""Command Prompt""
+* If command prompt is not an option goto recover then cancel and it should pop up as an option
+* Input ""bootsect.exe /nt60 SYS /force"" (without quotes)
+* Restart the PC"
+,jar9,2012-08-25T17:52Z,"thanks,work great.can go online with no problems"
+,nielm777,2012-09-07T16:10Z,"Thankz Dude !!
+Worked just fine !!!! "
+,stinkyKuntz,2012-09-11T09:11Z,"DUDE,DUDE IF I COULD FIND YOU I WOULD MAKE MY SISTER KISS YOU WITH SOME TONGUE ,IT WORKED AFTER ALL THE BULLSHIT YOURS WORKED JUST LIKE THE DIRECTIONS ,THANKS MAN GOOD UPLOAD O YEA i HAVE 64 BIT AND WORKED THE FIRST TIME"
+,stinkyKuntz,2012-09-11T11:19Z,if I could get my hands on you I would hold you down and make my sister kiss you with tongue hahahah you saved 236.99 thanx DUDE it works with x64bit
+,stinkyKuntz,2012-09-13T00:28Z,"Reboot of the hard drive in  bios ,enter del button and check boot sequence hard drive first ,unplug zip drives and other hard drives except main one and make that first ,have activator on desktop and follow directions ,it holds crack until asked for and Bam your in and Gates gets fucked out of 236.99"
+,stinkyKuntz,2012-09-15T09:39Z,"if people are having to reinstall from 7 disc What did you need the activator for,I bought a 7 ultimate from garage sale it was update from vista,when installed the code was invalid,after i downloaded activator to desk and reran 7 update, code was accepted,dont panic if it wont boot,in bios you should be able to fix anything about boot sequence,unplug your usb keyboard and get the old style purple pin plug for keyboard,no zips and 1 hard drive c,"

@@ -1,0 +1,132 @@
+﻿User Type,Username,Date,Text
+,Conan_513,2012-06-29T16:41Z,"Character sync between servers has comming soon!
+
+I'm working on a character sync system and it's under testing now.
+In the next few days I release the open beta version.
+
+Don't worry the servers save to offline first and the characters data syncing with a global database. So if you changing server, you can continue playing with your character from the previous server.
+
+But first I need to find a 24/7 MySQL server. "
+,toaster23,2012-06-29T21:42Z,"hey conan,
+
+global hive data was exactly what i was looking for, after testing your great cracked version. thumbs up on an internet-enabled version of the dayz server. i really dislike the official policy on this.
+
+anyway, if i can help you in any way to achieve the goal, tell me. i have access to various root servers and a mysql is no problem.
+
+only problem i see: how to get in contact. i dont wanna post any real contact data here.
+
+hope to here from you and be of some help
+
+your local toaster!"
+,toaster23,2012-06-29T21:44Z,testtest - comments not working or just delayed?
+,Mass_Magic,2012-06-29T22:08Z,"Hey Conan, Havent found a vehicle we used the vehicle reset.bat but not seeing anything?? are you sure it works"
+,xXDante,2012-06-29T22:08Z,"Hey there conan_513, me and my friend have been hosting a server together for our squad to get set-up and it works great- kudos on that.
+
+However there is one issue, the vehicles don't seem to be spawning (Or at least I haven't seen one) But the reset vehicles and the view vehicles lists off some of them, any ideas?"
+,Conan_513,2012-06-30T06:49Z,"Database update available on tunngle site:
+/community/topic/77721-dayz-all-in-one/page__view__findpost__p__598041"
+,vragoslav,2012-07-01T15:29Z,So how can i update the dayz mod trayed loats of things but its still version: 1.60. 94103
+,Conan_513,2012-07-01T21:54Z,vragoslav its the game version not dayz :)
+,timothyormoss,2012-07-01T22:52Z,how do i login as admin to kick people? 
+,Mass_Magic,2012-07-02T00:23Z,Hey conan how do you change the time?
+,DeltaVI,2012-07-02T03:36Z,i am also having the no vehicle spawning issue... does anyone know of a fix?
+,RedneckZ,2012-07-02T06:08Z,"I get the ""server is running an incorrect version of the server side application"" error, what can I do to fix this?
+
+Yes I am trying to host and play on the server."
+,jirihood,2012-07-02T09:25Z,"Hi! Thanks for upload , but i have some questions .. I started the Dayt_server.bat , and someone connected, then i started the dayz_game.bat , the game started, but i dont know where i have to connect. So i tried normal DayZ server in internet, but every server is saying : ""Invalid CD key"" .. please, what i have to do ?"
+,DeadofPool,2012-07-02T16:38Z,"I'm having the wrong server thing too, any fixes?
+Please help? D:"
+,toaster23,2012-07-02T21:49Z,"for wrong server version:
+
+in cfgdayz dir, edit server.cfg and enter the latest version/version you are using to requiredBuild
+
+right now, it contains 94209 for me, and i can connect with latest version."
+,openarena,2012-07-03T17:01Z,"does not work for me...
+
+no entry profile path default"
+,adik3869,2012-07-03T18:24Z,When I destroy car this car respawn in this same pleace but when I destroy Helicopter then don't resp... I do not want reset vechicle list because I lost tent and cars... How spawn helicopter without vehicle reset ??
+,IKShadow,2012-07-04T00:33Z,Conan can you contact me on ikshadow@gmail.com
+,Night19,2012-07-04T01:19Z,"Everything works great up to the point of joining, I get stuck at ""Waiting for host"" for some reason. What do I do?"
+,Night19,2012-07-04T01:22Z,"Getting ""Waiting for host"". How do I resolve this?"
+,adik3869,2012-07-04T02:04Z,"Night19
+Whait moment... When write ""Waiting for host"" then map is load and spawn zombie, this is loading. Whait moment only."
+,adik3869,2012-07-04T02:06Z,When I destroy car this car respawn in this same pleace but when I destroy Helicopter then don't resp... I do not want reset vechicle list because I lost tent and cars... How spawn helicopter without vehicle reset ?? If i can reset spawn vehiclen I can also set spawn vehicles but how without reset ??
+,Night19,2012-07-04T02:27Z,Shouldn't take 30 mins to load everything..
+,adik3869,2012-07-04T23:01Z,"Conan can you create ""reset_vehicle.bat"" which will reset only vehicle without tent, tank trip, barbed wire. Only reset spawn vehicle and all vehicle. This reset_vehicle reset only 10 vehicles and there are many more."
+,vragoslav,2012-07-05T19:44Z,"If you Getting ""Waiting for host"" message.
+
+tray to turn of your fire wall "
+,wegwerfemail,2012-07-05T23:25Z,"How to fix ""Invalid key "" issue?
+plsss"
+,Bragoon10,2012-07-06T02:08Z,"When I try and join my server all I get is a black screen with the loading at 100% and I'm stuck there. And when I try and install the patch build I get this message ""ArmA2 OA is not installed on your computer or installation is corrupted"", how do I fix these problems?"
+,MattDent,2012-07-06T10:09Z,"Hey bro it still says this server application is incompatible and i've updated to 9444 and changed my cd keys and ive edited the cfg to update it to 9444. Please help me fix this, i've spent 2 days trying to work something out but I think you need a new server batch file or something."
+,chazaka,2012-07-06T11:49Z,so everything works fine when using the batch files but id like to be able to set a password and be admin and whatnot which the batch files dont allow u to do. any way for this?
+,chazaka,2012-07-06T12:22Z,also seem to be stuck at waiting for host
+,tommymac23,2012-07-07T01:00Z,cheers mate works fine..:)
+,Germies,2012-07-08T01:47Z,"When starting the server it says Error no entry profile path default or something like that.  
+
+I am running ArmA 2 Combined Operations 1.60 (repack full) (LAN) 3xDVD5, with the beta patch from this torrent.  It lets me into ArmA2, and the server loads despite this error, but then upon trying to join it says I have keys that aren't signed by the server.
+
+Any suggestions?"
+,vragoslav,2012-07-08T12:19Z,"@Bragoon10 dont cnow whic arma 2 you downloaded but i shure this will fix your problem, you need to reinstal the game but before you start instaling new one you need to do this:
+
+
+
+if you are running as an Administrator go to Menu Start -> Run, type cmd and press ENTER
+if not go to Menu Start -> Programs -> Accessories, press RMB on Command Prompt and select Run as Administrator
+in Command Prompt type ""bcdedit /set IncreaseUserVA 2990"" without quotes and press ENTER
+reboot "
+,vragoslav,2012-07-08T12:28Z,"@chazaka you need to edit the server.cfg file its in cfgdayz file to be admin,set pass,change server name....."
+,vragoslav,2012-07-08T12:35Z,"@MattDent whic arma2 and arma oa you downloaded? Wos the instalation proces in the cmd screen(black winow) Did the instalation stoped on 35% and you needed to pres enter to continue?
+If yes then do what i sed to the Bragoon10 and it shuld work."
+,erkkiperkki,2012-07-08T14:29Z,"Can you make it so it would run under linux? The server..?
+
+And do you mean to say, that you are making your own hive?"
+,envirox,2012-07-09T08:53Z,"So umm, can you use this with a pirated version of ArmA 2?"
+,Heutch,2012-07-09T11:49Z,"I have the same probleme ""Waiting for host"" please help me :D"
+,vragoslav,2012-07-09T22:00Z,"Cant find any vehicles, when i run the server i noticed 2 errors but they show fast and server just starts, one of error wos mysql something
+
+Is this normal or?"
+,Germies,2012-07-10T04:31Z,"Still having the .profilepathdefault error when loading the server (even though it continues on to load the server), and the keys not signed correctly error when trying to enter the game, for several files in the Expansion folder."
+,Snipe76,2012-07-10T21:05Z,"stuck on waiting for host... and i did login as admin
+with #login *password here*"
+,kirAldk,2012-07-11T12:13Z,"Hi, i got a problem with all these dayz server stuff, i tried the lan version with tunngle, it worked with some servers but now there aren't any server that ban me. So i tried your way and it told me an mysql error which I can't understand...
+That's not the first time, plz if you could help me."
+,Monah089,2012-07-11T16:05Z,Does this have to be installed on Combined Ops or can I get the regular Arma 2 release?
+,vragoslav,2012-07-11T21:42Z,"@Monah089
+yes you need co"
+,MisterFurocity,2012-07-12T03:29Z,is there a save file problem. just had an attempt at playing again today and i had to restart?
+,dunderpuffran,2012-07-14T01:15Z,does loot spawn work?
+,tommymac23,2012-07-15T01:13Z,hi conan thanks again but just wanted to know if i can upgrade this to a 9444 version thanks
+,vragoslav,2012-07-17T14:43Z,"@adik3869 so what did you instaled to get vehices?
+and from wheare?"
+,VirreR123,2012-07-17T21:40Z,Can i add a password to my server i am playing on hamachi through lan still people with legit copies get into my game!? Can i add password or ban users someway?
+,alramd,2012-07-19T08:57Z,is there crosshair in this one?
+,alramd,2012-07-19T12:53Z,how do i turn the difficulty down? i want crosshair ?
+,Azzlanoo,2012-07-20T19:50Z,"It says ""Invalid CD-key"" when ever I try to join any server... is there any way of fixing this?"
+,GoldDigger123,2012-07-20T19:50Z,"Wait so this works for cracked version of the arma game, can someone please tell me im new :)"
+,ljdust,2012-07-24T16:00Z,Is there a mac version of this game ??
+,isakoli,2012-07-24T17:47Z,"Is there anyway to modify the loadout in this? I've been searching for the database, so that I can modify it using workbench, but I can't find it."
+,isakoli,2012-07-25T04:28Z,"Nevermind, I found the databases. However, I can't seem to locate where to change the default loadout."
+,Henry2o9,2012-07-26T23:21Z,"@Azzlanoo 
+
+Apparently you have a cracked version of the game so you cannot join any official servers. You can only join cracked servers. "
+,NoZart,2012-07-28T01:43Z,"I setup everything like you said, but upon connection i always get ""waiting for host""....
+
+Any ideas?"
+,ViperzTheman,2012-07-28T04:51Z,How do i find cracked servers?
+,jcr4990,2012-07-31T00:28Z,"How come every time I try to join a DayZ server using Tunngle it says ""Connecting Failed"" I've tried tons of different servers."
+,iVikD,2012-08-07T01:18Z,"I'm getting the ""incorrect server side version"" error. Have tried changing the cfg file, but to no avail =["
+,Chino_Cudeiro,2012-08-10T05:37Z,I have found 2 virus in this 
+,trexor7,2012-08-10T18:27Z,***VIRUS*** DONT DOWNLOAD
+,XeNoise,2012-08-11T18:53Z,Is it possible to spawn vehicles and weapons as an admin?
+,avni462,2012-08-14T00:04Z,Stuck at loading screen after making room in LAN. Does anyone know how to get past the loading screen?
+,LStryker,2012-08-20T23:47Z,"Thanks a lot Conan! I've been looking to play DayZ and now I found this, tried it and works perfectly :) Well, there's no vehicles though... And can we modify our default loadout please? There's no comment answering that :("
+,Jiacovino,2012-08-21T04:49Z,I cant get this to work when ever i try to go online it never works. can someone give me a noob friendly tutorial?
+,lainiwaku,2012-08-25T21:22Z,can i update to 1.62 ??
+,sebdhaese,2012-08-31T00:29Z,"I can't play on my server, I can connect to it, login as admin, set the map and dayz mission and start up. But as soon as I want to go in the game, I get an error saying that the server version and the game version don't work together.
+I checked the server settings: the required version is a match with the game.
+There is no problem connecting to other cracked servers.
+I used jimbos cracked version of ArmA2.
+Please help!"
+,Tom3511,2012-09-02T07:05Z,"When I try and join my own server, there is a black background with the words ""Wait for host"" on it. Top right shows my ping. How do I fix this?"

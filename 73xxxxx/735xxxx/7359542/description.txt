@@ -1,0 +1,47 @@
+* * * MediaInfo Mac 0.7.36.0 file analysis report.
+* * * MediaInfo Mac is ┬⌐2010 by Diego Massanti - http://mediainfo.massanti.com
+* * * MediaInfoLib by Jerome Martinez - http://mediainfo.sourceforge.net
+Created on: 16 juin 2012 15:49:20 UTC-10:00
+Report for file: Wonder_Girls_-_The_Dj_Is_Mine_(Samsung_Demo).mp4
+
+General / Container Stream #1
+	Total Video Streams for this File.................1
+	Total Audio Streams for this File.................1
+	Video Codecs Used.................................AVC
+	Audio Codecs Used.................................AAC LC
+	File Format.......................................MPEG-4
+	Play Time.........................................4mn 8s
+	Total File Size...................................292 MiB
+	Total Stream BitRate..............................9 861 Kbps
+Video Stream #1
+	Codec (Human Name)................................AVC
+	Codec (FourCC)....................................avc1
+	Codec Profile.....................................Baseline@L5.0
+	Frame Width.......................................1 920 pixels
+	Frame Height......................................1 080 pixels
+	Frame Rate........................................30.000 fps
+	Total Frames......................................7448
+	Display Aspect Ratio..............................16:9
+	Scan Type.........................................Progressive
+	Color Space.......................................YUV
+	Codec Settings (Summary)..........................1 Ref Frames
+	QF (like Gordian Knot)............................0.157
+	Codec Settings (CABAC)............................No
+	Codec Settings (Reference Frames).................1
+	Video Stream Length...............................4mn 8s 266ms
+	Video Stream BitRate..............................9 748 Kbps
+	Video Stream BitRate Mode.........................VBR
+	Bit Depth.........................................8 bits
+	Video Stream Size.................................288 MiB (99%)
+	Video Stream Language.............................English
+Audio Stream #1
+	Codec.............................................AAC
+	Codec (FourCC)....................................40
+	Audio Stream Length...............................4mn 8s 290ms
+	Audio Stream BitRate..............................108 Kbps
+	Audio Stream BitRate Mode.........................CBR
+	Number of Audio Channels..........................2
+	Audio Channel's Positions.........................Front: L R
+	Sampling Rate.....................................44.1 KHz
+	Audio Stream Size.................................3.19 MiB (1%)
+	Audio Stream Language.............................English

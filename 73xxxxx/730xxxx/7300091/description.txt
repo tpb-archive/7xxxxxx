@@ -1,0 +1,17 @@
+All the torrents available for this are either very few in number, fake or buggy. I have managed to discover a fix for this game. The main issue with all other torrents is that when the game clock hits 10 minutes of gameplay exactly, all of your characters die for no reason, this seems to be a very old technique to stop pirates. In order to play the game and not experience this bug, perform the following instructions to the letter.
+
+1. Extract the 'EI' game files folder from the ISO.
+
+2. Within the EI folder open the file 'EI.cfg' with notepad.
+
+3. Go to the part that says 'cdDir = ?:EI' change the '?' to the drive letter you are going to mount the ISO to and save the file.
+
+4. Mount the ISO to the drive which letter matches the one you put in the config file.
+
+5. Run 'EI.exe' from the folder you initially extracted.
+
+6. Play the game.
+
+The instructions must be followed exactly otherwise you will fall victim to your characters automatically dying after 10 minutes. The only downfall of this is that the ISO must always be mounted while you play, and must be mounted to the drive letter that you specified. I did not create the files within this torrent and I did not come up with the fix, I have just uploaded this here as this is a great and memorable game that I am sure people will be very happy to play again as it is impossible to find.
+
+Enjoy.

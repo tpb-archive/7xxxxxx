@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,l.flynt,2012-06-15T23:49Z,"Hey thnx for this uload bro, I'm realy concidering switchin 2 this w7, jst need 2 know if it has latest updates nd won't windows try 2 dload those removed components again? nd lastly does it have aero:)"
+,nileshtambe,2012-06-16T02:11Z,"yes it does have aero
+for update do for driver install only
+otherwise 
+Windows update doesn't like if you touch WinSxS. It will just install the system update readiness tool, which will re-install a bunch of shit into WinSxS, and then updates will fail because they attempt to update stuff that doesn't exist.
+
+Some updates will install, others will not. Generally, the ones that will not install is due to stuff being removed, and it can't update what isn't there. "
+,nileshtambe,2012-06-17T15:57Z,"[URL=http://imageshack.us/photo/my-images/213/v101.jpg/][IMG]http://img213.imageshack.us/img213/203/v101.th.jpg[/IMG][/URL]
+[URL=http://imageshack.us/photo/my-images/694/v102w.jpg/][IMG]http://img694.imageshack.us/img694/2520/v102w.th.jpg[/IMG][/URL]"
+,TestSmith,2012-06-18T04:56Z,This contains malware in particular the KMS-Tr3bivatoR
+,nileshtambe,2012-06-18T15:17Z,"KMS-Tr3bivatoR is activator like windows loader
+its in separate folder not in iso file if u dont like u can delete it, use ur own key or activaton method to activate, windows loader sometimes doesnt work on professional so given this activator which perfectly works 100%."
+,TestSmith,2012-06-18T22:37Z,I tried to install this however it freezes on me after the installation files have loaded. I also tried to do a install from inside windows and i get the following error. Windows could not load required file winsetup.dll. The file may be corrupt. I assume this what caused the installation to freeze. Any ideas how to fix this.
+,nileshtambe,2012-06-18T22:54Z,format the drive and do fresh install u should not get install error iso is thoroughly tested for error
+,TestSmith,2012-06-18T23:10Z,For me to format the drive i will need to install the window files to do a clean install and since this freezes on me i cant do the format.
+,l.flynt,2012-06-19T01:02Z,"Finaly finished dload (shame on u seeders), installed it nd everything goin well so far except my av did also give a detection on the activator nd moved it to quarantine so I couldn't use that but 7loader worked gr8, otherwise nice work nileshtambe"
+,TestSmith,2012-06-19T13:29Z,"I found what the problem was it was the Logitech keyboard wireless and wireless mouse. They don't work with installs. However i did have a spare mouse and keyboard which so happen to be wireless but they both work. The install was great and the KMS-Tr3bivatoR worked.
+
+However i did find the modifications that you made were to restrictive. I needed the MS Frame work which i could not install. Perhaps you can do another version with the MS network."

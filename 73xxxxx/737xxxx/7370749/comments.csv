@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,pjp_76,2012-06-20T20:40Z,"I will seed as long as possible - but here again - please do SEED once you have it, this item is quite useful when it is available to everyone and I cannot be the only seeder forever."
+,pir8s007,2012-06-20T21:11Z,"@pjp_76
+
+Seed Man. I can't be Leechers forever!!!!"
+,pjp_76,2012-06-20T21:29Z,@pir8s007 I can only seed as fast as my connection lets me to LOL ... even at full speed (I can no longer browse the web then) I get 130 KB/s at most ...
+,pjp_76,2012-06-20T22:12Z,"TRust there is no need for me to mention that this is the Vanilla OS X 10.7.3 with the tonymacx86 boot loader - you will only be able to boot / install this if you have a Core 2 Duo or higher (preferably Core i3, i5 or i7) processor - you also may be able to install this on an Atom type CPU if you find a patched kernel for 10.7.3 ... I may decide to release one ... when I have the spare time."
+,pjp_76,2012-06-20T22:52Z,"Beware and be cautious downloading shared data related to this torrent from this IP -> 82.72.158.126.
+
+It showed a sudden increase of downloaded data of 21 % (supposedly) downloaded (from me) although my system shows an approximate distribution of only around 11 % ... he may have added or altered something so I dropkicked him for everyones sake and safety"
+,squirrelbob2,2012-06-21T00:54Z,Thanks. Have myt upload set to 50k to seed this back.
+,pjp_76,2012-06-21T17:33Z,"Alright boys and girls ... since quite a few already managed to complete the download I am throttling down, need my bandwidth to do some work here. I wish everyone here happy hackintoshing and a lot of fun with a new, shiny and reliable OS :) If u gotz questions or issues just ask."
+,sumitbodele,2012-06-21T20:07Z,"Guys please install n give ur valuable feedback..
+its matters a lot...
+thanks"
+,RicMar,2012-06-21T23:33Z,"Vou escrever em Português para Brasileiros e Portugueses...consegui preparar o pendrive e configurar a bios para se iniciar pelo USB. Ninguém falou, mas se deve também configurar a SATA para AHCI. Mesmo assim o boot está travando e nem chega ao início da instalação. Meu processador é um Intel Atom, que deveria funcionar."
+,pjp_76,2012-06-22T00:06Z,Could someone translate for me? ... I don't quite understand what RicMar is trying to say ... some of it I understand but not the context of it ....
+,pjp_76,2012-06-22T00:11Z,"Esta é a versão Vanilla do OS X 10.7.3 ... você precisa de um Kernel Atom especial, compilada por ele para arrancar. Tanto quanto eu sei que há um Kernel Atom para 10.7.1 feita por Nawcom em http://blog.nawcom.com, porém eu não tenho certeza se ele irá trabalhar com 10.7.3 ...."
+,skicam16,2012-06-22T10:13Z,Is there any way to copy the image to a portable hard drive instead of a USB stick?
+,sumitbodele,2012-06-22T11:42Z,"RicMar translation
+
+I write in Portuguese for Brazilians and Portuguese ... could prepare the USB stick and set the bios to boot from USB. Nobody spoke, but should also set the SATA to AHCI. Even so, the boot is locked in and not even the beginning of the installation. My processor is an Intel Atom, which should work."
+,sumitbodele,2012-06-22T11:52Z,Guys Seed plzzzzz
+,pjp_76,2012-06-22T19:04Z,"You may use DD for Windows or just DD if you are using Linux, this should enable you to block copy it to any type of media. Please be aware that it will shred any existing data on the disk you are writing it to so remember - always backup first."
+,mrjack511,2012-06-25T22:38Z,"C'mon guys 0,6kB/s really?"
+,beyondtool,2012-06-26T15:04Z,A few issues with this USB stick creator. Firstly you need an 8 GB USB stick or greater. You can't use an external USB HDD as it doesn't detect and from the looks of it you (I tried multiple other apps) can't just make an ISO boot from a regular usb HDD only a USB pen drive. You could just burn the ISO but it is over 5 GBs so you will need a dual layer disc. Mine is currently installing will post later if it actually works..
+,pjp_76,2012-06-27T21:56Z,"@beyondtool: Have you tried using the command line utility 'dd' to transfer the ISO to an USB hard drive in block copy mode? Altho it as a Linux tool, you can get a port of the dd utility for windows os ... just a suggestion."
+,sumitbodele,2012-06-28T11:33Z,Is it 32 bit or 64 bit ??
+,pjp_76,2012-06-28T15:58Z,64-Bit ... pointless really running it in 32-Bit (altho possible) since the Finder is 64-Bit only.
+,Ertavarez,2012-07-24T17:39Z,WOrk like a charm Thanks Buddy!
+,CX2118,2012-07-25T01:32Z,"pjp_76, do you know if Unibeast works if I download ""Install Mac OS X Lion.app"" from TPB and drag it into the ""Applications"" folder?"
+,pjp_76,2012-08-05T22:09Z,The last to me known version of UniBeast was 1.4.0 for Lion .. however the 1.5.0 / 1.5.2 for Lion / Mountain Lion cause my machine to stop with a blue screen before the installer even starts. The only Mac Boot STick creator so far which has worked for me and I would recommend is myHack 3 ... you can find out more on my site or ask if you need help with something http://www.mlosx86.com
+,khopper,2012-08-12T09:54Z,Got my seedbox on this torrent. Hopefully it helps people.
+,m1ndhack,2012-08-13T00:49Z,Hi Mr.pjp i was wondering if this would work on the hp probook 4530s. When it boots the apple logo loads for a while then freezes. Appreciate any support.
+,nnborii,2012-08-17T09:20Z,"Hey pjp, 
+I did every single step you gave in the description.. But When I choose Lion 86x on the boot options, the computer suddenly loads on a black screen, then load the white screen with the apple logo...
+But the problem is when it loads the white screen it just shuts my laptop down and restarts booting to windows... Do you have any Idea what could be wrong?  "

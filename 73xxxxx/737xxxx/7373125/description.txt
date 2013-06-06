@@ -1,0 +1,48 @@
+What is new in version 5.0.3256 
+
+ΓÇóAdded new details about slide contents to the Slide Inspector pane ?Number of unique replaceable photos/videos
+Number of non-replaceable photos/videos
+Number of solid color/gradient layers
+Number of masks
+Number of adjustment layers
+
+ΓÇóImproved support for GPU acceleration with certain integrated video solutions
+ΓÇóFixed audio fading issues affecting the main soundtrack
+ΓÇóFixed layer aspect ratio setting for tilted layers
+ΓÇóFixed layer sharpening under GPU acceleration
+ΓÇóFixed crash that could occur when selecting a layer / caption from Slide Options
+ΓÇóFixed installation failure caused by menu themes with missing fonts
+ΓÇóFixed startup failure caused by menu themes with missing fonts
+ΓÇóFixed preview of applied slide style in Slide Options navigation panel
+ΓÇóFixed effect from Adjustment Layers under GPU acceleration
+ΓÇóFixed problems with automatic update of show thumbnail
+ΓÇóFixed issue where certain complex shows could fail to load
+ΓÇóFixed intermittent crash caused by playing multiple web shows in sequence
+ΓÇóFixed several issues that could cause large shows to crash during output
+ΓÇóFixed crash caused by show pause during caption fly-out
+ΓÇóFixed crash under GPU acceleration related to playback controls
+ΓÇóFixed limited display area in output for some older shows
+ΓÇóFixed default Slide Options size for certain display resolutions
+ΓÇóFixed issue with keyframes appearing in the wrong Slide Options preview area
+ΓÇóFixed issue where some videos could import at the wrong aspect ratio
+ΓÇóFixed the Open Recent list to include projects saved to a new filename
+ΓÇóFixed issue where some video layers could have incorrect trim in output
+ΓÇóFixed the captions list in Customize Menu to show correct caption states
+
+Minimum Requirements:
+
+ΓÇóWindows XP, Vista or 7
+ΓÇó1024 x 768 display
+ΓÇó1GHz+ processor
+ΓÇó1GB system memory; (2 GB recommended)
+ΓÇóAccelerated 3D graphics ΓÇô 64MB ram
+ΓÇóDirectX 8.0 or better
+ΓÇóDVD+R/RW/-R/RW writer
+ΓÇó70 MB hard drive space
+
+Supported Media Types:
+
+DVD+R, DVD+RW, DVD+R DL, DVD-R, DVD-RW,
+DVD-R DL, CD-R, CD-RW, BD-R, BD-RE
+
+* NOD32 McAfee and BitDefender may detect trojan or hacktool. Don't worry, it is false positive.

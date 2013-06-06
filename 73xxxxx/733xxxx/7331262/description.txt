@@ -1,0 +1,50 @@
+This is NOT my work, this is a mirror for XDA-Developers posted in this thread: http://forum.xda-developers.com/showthread.php?t=1416058
+
+Android Version.........................2.3.6
+Carrier.................................Verizon US	
+Build Number............................6.5.1-167_DHD-14_M3-8
+System Version..........................Blur_Version.6.12.181.XT912.Verizon.en.US	Build Date..............................Thu Mar 8 12:33:02 CST 2012
+Bootloader Version......................Display: 0A.6C  Secure: 01
+Secure Versions.........................Main: 02 Details Below
+Size....................................1.13 GiB
+MD5.....................................202566F2536FF19FDFB5C3FCDE72AC7F
+
+
+
+Once you flash this firmware, you cannot flash another with lower Main Secure Version (results stuck at mbm).
+Main Secure Version (secure version of cdt.bin) is written to eFuse.
+
+This firmware requires following secure versions to boot. Partitions marked as "checked once" are checked 
+only after being flashed with fastboot (or RSD Lite).
+
+Main Secure Version: 02
+
+Codegroup 
+Number:	Partition:	Size:	        Signed:	      Secure Version
+64	mbr	        128.0 KiB	Signed  	00
+63	mbmloader	128.0 KiB	Not Signed	N/A
+30	mbm	        512.0 KiB	Not Signed	N/A
+55	mbmbackup	512.0 KiB	Not Signed	N/A
+65	ebr	        512.0 KiB	Signed  	00
+56	bploader	512.0 KiB	Not Signed	N/A
+31	cdt.bin	        512.0 KiB	Signed  	02
+38	pds	        4.0 MB  	Not Signed	N/A
+52	utags	        512.0 KiB	Not Signed	N/A
+42	logo.bin	1024.0 KiB	Not Signed	N/A
+41	sp	        2.0 MiB  	Not Signed	N/A
+61	devtree  	512.0 KiB	Sned   	02
+62	devtree_backup	512.0 KiB	Signed  	02
+45	bpsw	        4.0 MiB 	Signed (BP)	00
+35	boot	        8.0 MiB 	Signed   	02
+47	recovery	9.0 MiB 	Signed   	02
+33	cdrom	        212.0 MiB	Signed  	02
+44	misc	        512.0 KiB	Not Signed	N/A
+43	cid	        512.0 KiB	Not Signed	N/A
+53	kpanic	        4.0 MiB 	Not Signed	N/A
+39	system	        640.0 MiB	Signed  	02
+40	cache	        1024.0 MiB	Not Signed	N/A
+66	preinstall	608.0 MiB	Not Signed	N/A
+68	webtop	        1.3 GiB 	Signed  	02
+37	userdata	3.1 GiB	        Not Signed	N/A
+67	emstorage	12.9 MiB	Not Signed	N/A
+69	sgpt    	128.0 KiB	Not Signed	N/A

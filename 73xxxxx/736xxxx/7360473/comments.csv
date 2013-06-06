@@ -1,0 +1,95 @@
+﻿User Type,Username,Date,Text
+[T],Tyr3ll,2012-06-17T15:16Z,"Principal changes:
+updated 23,97 fps playback to 30 fps playback due to a synchronisation's problem
+between video and sound due to the true High Bitrate of our DTS 5.1 reaching
+4096 kbps speed real...
+For Orginal 23,97 fps playback,movie got too much lag anyway.
+So we made a new release in 25 fps playback that was slightly better than the previous one already.
+However we finaly decided to make again an ultimate release in 30 fps playback for get maximum smoothness/flexibility/flow between dialog time/sound delay with the actors/scenes,ect... during movie playback so.
+And we decided so to bring and give you this last one.
+We get now our first true PreRC1 stage 5 DTS-5.1.720p of our project then.
+...
+For this seed it will be like this :
+BrDrip.720p/30 fps playback/US language only with no sub
+complete dialog (and not with Deckard voice over anyway.)
+Video codec :
+HD Mkv h.264 (MPEG-4 AVC H.264)
+2-pass as first pass= fast pass average Bitrate/second pass= Quality based
+...
+Audio codec :
+DTS 5.1/6-channels/48 khz/16 bits/cbr called as :
+A_DTS 5.1 1411,2 kbps with a true Bitrate running over 4000 kbps speed.
+It's a kind of DTS as hybrid so.
+...
+But it works,that's all :)
+...
+More details right here :
+
+General :
+
+Complete name  :
+Blade_Runner.(1982).(I).Theatrical.Cut-(Remastered.edition.HD.720p@30 fps)@DTS-5.1-Hybrid-Experiment-(PreRC1-Stage5)-(US).mkv
+
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 18.4 GiB
+Duration                       : 1h 57mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 22.5 Mbps
+Writing application            : Lavf51.12.1
+Writing library                : Lavf51.12.1
+
+Video :
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Baseline@L4.1
+Format settings, CABAC         : No
+Format settings, ReFrames      : 1 frame
+Format settings, GOP           : M=1, N=12
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1h 57mn
+Bit rate mode                  : Variable
+Bit rate                       : 20.6 Mbps
+Maximum bit rate               : 22.5 Mbps
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 30.000 fps
+Original frame rate            : 24.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.746
+Stream size                    : 16.9 GiB (92%)
+Default                        : Yes
+Forced                         : No
+
+Audio :
+ID                             : 2-(US) english
+Format                         : DTS
+Format/Info                    : Digital Theater Systems
+Codec ID                       : A_DTS
+Duration                       : 1h 57mn
+Bit rate mode                  : Constant
+Bit rate                       : 1 411.2 Kbps/4068 kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 1.16 GiB (6%)
+Default                        : Yes
+Forced                         : No
+
+Final thoughts :
+good release anyway with a very acceptable quality between video and sound then.(possible micro pixelation but no more anyway) 
+This way we wish you have a good film so ;)
+enjoy and have fun
+Seed,please as long as you can
+asap so."
+[T],Tyr3ll,2012-06-17T18:06Z,"Be patient :
+2 other seeds are on the way...
+ty for your understanding as well as for your patience.
+cheers ;)"

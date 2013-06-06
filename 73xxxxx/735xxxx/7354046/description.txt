@@ -1,0 +1,47 @@
+Snapshot Time! 
+
+1. You can now use "/publish" to open your single-player game for LAN friends to 
+
+join. This is still very much work in progress, so it lacks some necessary settings 
+
+such as what game mode your friends will get, and if they should be able to use 
+
+cheats or not. Also, the "/publish" command is temporary, you can't even access it if 
+
+you haven't enabled cheats =)
+
+
+
+2. The Ender Chest has been changed to have an inventory per player and not per 
+
+world. Also, knocking down the chest will break it into 8 obsidian, unless you have 
+
+Silk Touch.
+
+
+
+3. The texture pack folder button now works on Mac
+
+4. A lot of smaller changes and fixes
+
+---------------------------------------------------------
+
+INSTALL INTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. Drag/Copy the new minecraft.jar file into /bin folder and replace it.
+
+4. Make a new folder named "server" .minecraft/server in that folder drag/copy the minecraft_server.jar file 
+
+-----------------------------------------------------------------------------------
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.	

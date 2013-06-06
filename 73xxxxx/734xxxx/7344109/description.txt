@@ -1,0 +1,30 @@
+Goto Z4cellforums
+Google it for help.
+
+
+Starting off: 
+
+Install Vmware
+Input serial
+Load Vmware workstation
+File open, 
+Find the bt5 img
+Then for network adapter choose Bridged
+Power on this virtual machine 
+Goto VM menu at the top
+Goto Removeable Devices
+Choose your wireless card.
+
+
+BackTrack 5 login:
+
+bt Login: root
+password (will not show up):toor
+type startx at root@:~#
+
+
+Included in download:
+BT5R2-GNOME-VM-64
+hjsplit
+Vmware 8.0
+Wep Cracking TEXT

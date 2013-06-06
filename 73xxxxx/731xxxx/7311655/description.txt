@@ -1,0 +1,15 @@
+This is the /i/Kit, or /i/nvasions Kit, which is a collection of useful programs for use by Anonymous (or anyone who likes this kind of stuff).  The name comes from 4chan's /i/ board, which Fox News mistakenly called the "Invasion" board in their infamous (and rather retarded) report on the Anonymous hacktavist group.  /i/ is the Oekaki board, fyi, which is basically drawing, and has absolutely nothing to do with hacking, invasions, or Anonymous.
+
+This is the original, so it is kind of outdated.  As such, be careful when using some of the older tools, especially LOIC.  LOIC, or Low-Orbit Ion Cannon, is an old DDoS tool that was once quite popular with Anonymous.  However, Anon abandoned it after finding out that it's not very secure, and can leak the IP address of the user even if behind a VPN.  Because of that, I strongly recommend you DON'T use that program on any site other than your own.  If you would like to use newer (and more efficient) DDoS tools, ask around on AnonOps IRC (channel #setup on irc://irc.anonops.com).
+
+There are many tools in this kit, so I compressed it into a single self-extracting .exe file.  It was compressed with 7-Zip and uses the LZMA compression format.  I did this both because that's how the original /i/Kit came, and also because not everyone has 7-Zip software to extract what otherwise would be a .7z file.  I know it seems a little suspicious, but if you don't trust it just don't download it.  If you do choose to download this, just move the .exe file to the directory you want the /i/Kit to be and double-click it.  It should then uncompress and extract itself.  It's small enough to fit on a flash drive, which is what it is optimized for.
+
+Remember, this kit is OUTDATED.  I put this here because I couldn't find it anywhere else, so it is here for legacy reasons only.  If you are looking for new tools for DDoSing, pen-testing, etc I suggest you look up BackTrack Linux instead (it's 100% free and has a huge amount of pre-installed tools for such things).
+
+Here's an important note: DON'T trust just any software just because it says it's "made by Anonymous".  I can assure you this specific torrent is not fake you shouldn't trust me 100% either.  If I were malicious I would say the same thing to try to get you to trust me.  Download this only if you trust me and you know what you're doing.
+
+And to everyone who reads the above warning, downloads the torrent, and is alerted by their antivirus software of a possible infection, PLEASE look up the "infection" because it is probably just a keygen.
+
+I hope you enjoy this torrent!
+
+I suggest you read the README, which I've uploaded to http://pastehtml.com/raw/bzs08uvj1.txt (or alternatively http://www.pastebay.net/1062072)

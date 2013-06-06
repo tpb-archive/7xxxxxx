@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,kamo11kamo,2012-06-15T19:35Z,"hey how are you people??
+Plz can someone answer me ...
+I download this file and i saw "" tcl "" file inside it ... can someone tells me how to use it and where??
+i think it is linux code but how use it i do not know.. can you tell me??? i am waiting some answers from you ....Thanks for all here. "
+,phakew0rd,2012-07-01T17:15Z,"kamo11kamo:
+Yes, .tcl extensions represent a script-language called ""TCL"" which is made for unix/linux platforms. However, do some research and I think you will find TCL software that supports windows. Be aware though, if a program is made for unix/linux, there are rather big possibilities that it won't work on windows, even though you might have installed the language. Same goes with .py (pyton) and .pl (perl).  "

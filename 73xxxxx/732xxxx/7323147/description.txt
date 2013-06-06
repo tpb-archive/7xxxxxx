@@ -1,0 +1,55 @@
+The Legend of Korra, Season 1/Episode 8 - "When Extremes Meet."
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 566 MiB
+Duration                                 : 23mn 7s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 422 Kbps
+Encoded date                             : UTC 2012-06-02 20:35:23
+Writing application                      : mkvmerge v5.2.0 ('I can't explain') built on Dec 29 2011 19:29:57
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=4, N=32
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 23mn 7s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 20.0 Mbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 59.940 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 23mn 7s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 9ms
+Default                                  : Yes
+Forced                                   : No

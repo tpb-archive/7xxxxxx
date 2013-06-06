@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+,precursor1188,2012-06-22T09:56Z,Thank You very much
+,flyc,2012-06-22T15:03Z,Thanks man!!!!
+,glounk,2012-06-22T17:22Z,thank you mate .
+,mlpilot,2012-06-22T19:28Z,thanks good job... do you have the complete airportlist.bin with 890kb
+,fernandodunha,2012-06-22T20:38Z,"@mlpilot No, I don't have it, sorry. Maybe someone here can help you."
+,sgamd87,2012-06-22T21:11Z,"airportlist.bin with vfr 
+http://thepiratebay.se/torrent/7376631"
+,glounk,2012-06-22T22:40Z,1213??????????????????????? please for pc.
+,usapilot,2012-06-23T01:25Z,fernandodunha Please could you upload the Jeppview Cycle 1312 for IPAD
+,usapilot,2012-06-23T01:28Z,"fernandodunha Could you Upload Jeppview Cycle 1312 for IPAD Please!!!!!
+"
+,fernandodunha,2012-06-23T02:55Z,@usapilot Give me some time and I'll try to put it here.
+,usapilot,2012-06-23T03:41Z,"fernandodunha thank you so much You are awesome.
+
+some body could explain, about airportlist.bin and how to install it
+"
+,edwared,2012-06-23T04:55Z,thanksssss
+,a380800,2012-06-23T12:35Z,"Thank you so much , But can you give me the serial number ? "
+,precursor1188,2012-06-23T17:32Z,"@usapilot
+The airportlist.bin file is needed for the ipad only. If you download the ipad data, the file is already there. However the ipad data did not have the VFR charts that some of us needed. We can copy those charts from the PC data into ipad but then you need the airportlist.bin generated from the PC data. Otherwise you will still not see the VFR charts in the ipad."
+,Eramai,2012-06-23T17:51Z,"How do you get it to work in FliteMap ?
+
+It updated Jeppesen NavData but not JeppesenTerminal Charts Data"
+,rafaelesp,2012-06-23T18:18Z,"Thank you very very much, Fernando.
+Your job is excellent.
+
+Greetings from Spain.
+"
+,precursor1188,2012-06-23T18:23Z,"@eramai
+you talking/refering to VFR charts?
+
+Somehow the install/update does not copy the VFR charts to the hard disk. You have to manually copy them over.i.e. after mount the iso, in the Charts folder there are 5 file named VFR*.*. copy them to c:programdatajeppesencommanterminalcharts You have to show hidden files/folder to see programdata folder."
+,Eramai,2012-06-23T20:18Z,"Hi,
+
+No,
+Actually the process changed since the 2-CD time and is much more easier. 
+I was using only flitemap and the process was CD1: Terminal Charts, CD2 - change label then install - : Enroute data
+
+I was supprised not having uptodate Terminal Charts but actually I just had to install jeppview to make it work.
+
+And I am much more suprised of the new version which is great. This soft had almost no updates in 15 years, this is very welcomed !"
+,fernandodunha,2012-06-24T08:09Z,"Hey Guys, 1213 [IPAD] Available! http://thepiratebay.se/torrent/7381703"
+,JWRBlack,2012-06-24T21:37Z,"For PC users who can't wait for the 1213 update: There is a way to use files from the IPAD to partially update the PC version.
+Out of the latest IPAD torrent take the files airports.dbf, charts.ini charts.bin (-Documents-Data-Termcharts).
+Rename airports.dbf to Airports.dbf and charts.bin to Charts.bin.
+Copy these 3 files to your Jeppesen-Common-TerminalCharts folder on your PC to replace the older versions.
+This will already update the terminal charts to the current version while we wait for the full PC update."
+,DAviator,2012-06-26T21:06Z,1312 PC codes anyone????????
+,Beloth,2012-06-28T02:01Z,Any news on 1213?
+,Beloth,2012-06-28T02:02Z,Any news on 1213 PC?
+,fernandodunha,2012-06-28T18:04Z,"@Beloth Not yet, maybe in a few days..."
+,carcarah1,2012-06-30T18:41Z,"1213 for PC
+http://thepiratebay.se/torrent/7401257/1213JEPC"
+,FSallATP-2,2012-08-01T13:35Z,"
+instructions for JV, FS
+
+regarding JV/FS installation please note:
+assuming your operating system is M$ Windoze 32bit..
+a. no need to format/re-format  HDD ! (as I read elsewhere...) just uninstall the Jepp products.
+b. use REGEDIT (from START>RUN etc.) to go to registry and [u]delete all JEPPESEN entries.[/u] (uninstall does leave traces...)
+c. set computer date/time to 05 Jan 2009
+d. install JV and/or FS normally ( codes in this forum and TPB ) 
+e. use cycle 25/2008 0r 01/2009 for navdata update
+f. run JV and activate via phone ( site code R00D-KCAB will work ! )
+g. run FS and activate via phone ( site code R00D-KCAB will work ! )
+h. set computer date/time back to TODAY's date
+i. install the more recent cycle...DONE ! 
+j. above for Jeppview 3.xx and Flitestar/Map v9.xx, for the newest ""Jeppview for Windoze"" check this forum for instructions (Jan-Feb posts).
+
+regrds
+
+FSallATP and 2"

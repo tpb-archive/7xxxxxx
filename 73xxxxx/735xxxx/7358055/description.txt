@@ -1,0 +1,22 @@
+
+General
+
+format                : matroska
+file size             : 500mb
+duration              : 1h 34mn
+overall bitrate       : 742 kbps
+
+Video
+
+format                : avc
+format/info           : advance video codec
+width                 : 720p
+height                : 480p
+frame rate            : 23,976 fps
+writing library       : x264 core
+
+Audio
+
+format                : aac
+format/info           : advance audio codec
+channel               : 2

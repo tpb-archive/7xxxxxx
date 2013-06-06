@@ -1,0 +1,46 @@
+Fatal Frame IV [R4ZJ01][U][EnglishHardPatch]
+
+Hello.
+
+With this, you do NOT have to use the original disc to play the translated game. You do not need the translation files at all.
+
+
+With this, you CAN run the ISO in USB Loader GX, Neogamma, or Wiiflow; and it will play in the translated English done by Tempus and his wonderful team.
+---
+What is this?
+
+R4ZJ01 (Japanese Everything) -> *Region set to USA, Update Partition Removed, Fully Translated English Text*
+
+
+I have taken the liberty to hard-patch the translation into the Japanese iso.
+So it does not need to read the translation patch files from SD card.
+
+The game has been RegionFrii'd from 00(JAP) to 01(USA).
+There is no need to BrickBlock, there is not an update partition anymore.
+
+Translation was compiled into the ISO directly using PartitionBuilder and WiiScrubber140Multiboot.
+
+
+Running the iso through RegionFrii will display gamecode mismatch.
+---
+Notes:
+
+* For USB Loaders, your game has a high chance of freezing in the first locked room in-game unless you install every wad that I have included in this torrent.*
+
+I have included WAD Manager 1.7.
+
+Install the WAD files using WAD Manager 1.7.
+
+I recommend USB Loader GX as a great backup loader.
+---
+If you need:
+
+Homebrew Channel
+USB Loader GX
+Or any missing IOS...
+
+Then use Google to find it. Simple as that.
+---
+My personal recommendation:
+
+* Do NOT update your system menu past 4.1. *

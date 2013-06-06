@@ -1,0 +1,24 @@
+This tool allows you to make a flash drive for Windows 8. To create an ISO file flash need to install Windows. Run it and specify the file. After graduating from the program you can install Windows 8 directly from the stick.
+
+Implementation process has three stages
+A. Formatting your flash format NTFS (required)
+Two. Extract all the files on a USB-drive (this may take a long time! VERY long time)
+Three. MBR is a bootable USB
+
+Requirements:
+- Windows Vista or later
+- Administrator rights in order for that to write USB boot code
+- USB flash drive for at least 4 GB
+- ISO image of Windows 8
+- Patience
+
+Information about the program:
+Name: Windows 8 USB Installer Maker 1.0
+Release released: 2012
+Platform: Windows Vista / 7
+Language: English
+License: Freeware
+
+Screenshots:
+ 
+http://img442.imageshack.us/img442/5247/4859501j.png

@@ -1,0 +1,161 @@
+﻿User Type,Username,Date,Text
+,DreamSauce,2012-06-22T20:36Z,"Was waiting for this since release, thanks guys :)"
+,DerpingtonHooves,2012-06-22T20:51Z,"Thanks for the release!
+
+but
+
+Im Derping real hard with this install for some reason
+what do i do with the bin file?"
+,remiall,2012-06-22T20:54Z,Where do I put the skidrow files?
+,nipunb,2012-06-22T21:25Z,"anybody has any idea, whats the difference between this and the previous Theta release, it can't be just different crack as this one is bigger...."
+,remiall,2012-06-22T22:00Z,"I'm Still trying to figure this out. I keep getting some kind of steam error. I installed under program files, didn't work, and so far installing under steamapps isn't working either. Has anyone gotten this to work yet?"
+,wayner52,2012-06-22T23:02Z,This works fine. Install the game and copy the files from the Skidrow folder to the ...Quantum Conundrum/Binaries/Win32 folder. I'm running win7 64-bit and no problems.
+,remiall,2012-06-22T23:31Z,@wayner52 Thanks. I have 64 bit too but I was putting it in the 64 bit folder.
+,Mdahaka,2012-06-23T00:03Z,"When I try to start it, it just crashes. doesn't work for me"
+,Plasros,2012-06-23T01:12Z,"Mine crashes on startup just like Mdahaka, any fix for this?.. I followed all the instructions to no avail because it just crashes, I have a 64 bit os."
+,Qrunk,2012-06-23T04:54Z,"For those of you who want to know where to put the skidrow files, just go to the icon that it installed on you desktop, right click it, click ""Open file location"" and then just copy and paste the contents from skidrow into that folder. If it asks you if you want to replace the files click yes"
+,Cerebral222,2012-06-23T05:19Z,"Stop giving this torrent a bad wrap people!!!, copy everything from the SKIDROW folder to:
+C:-Program Files-SQUARE ENIX-Quantum Conundrum-Binaries-Win32 folder and overwrite the originals; game kicks over firstime on a simple rig. Thanks for the upload DibyaTPB, nice, clean torrent, +1 from me, cheers."
+,welldone89,2012-06-23T12:14Z,"How change settings? the game works, yeeeea! but it is to slow i have to lower down the graphycs so where is the DAMN settings?????????"
+,Cerebral222,2012-06-23T12:34Z,"@welldone89, are you kidding?!
+Video settings here:
+
+http://bayimg.com/FaPkpaadE"
+,welldone89,2012-06-23T13:13Z,"Cerebral222 i know that smartass! but there is only the resolution change and brightness optimization, there is nothing more, absolutle nothing where lower the graphics, and thats exactly what i need to do! i need to lower something, customize myself the  graphics but where the hell is the ""VIDEOSETTINGS"" file or somthing?"
+,cedicool,2012-06-23T14:10Z,"Doesn't work for me. I installed it on my ext hard drive, copied everything in skidrow folder into the win32 folder and it froze."
+,Cerebral222,2012-06-23T14:30Z,"@welldone89, dropping the res should give you some speedup, but the config files are in the;
+My Documents-My Games-UnrealEngine3-TryGame-Config folder, but there's alot of scrolling involved, god luck with that.
+
+@cedicool, try the default solution, update C++, DirectX, and your graphics card drivers, best of luck."
+,Cerebral222,2012-06-23T15:04Z,"If you need to tinker with the settings, go to the TryEngine file and open it. To save scrolling, open the file and click anywhere, then hold Ctrl and press F, type in the first part of your games res, you will see details of your games config.
+
+http://bayimg.com/MaPKMAadE
+
+I would back-up the file first, then alter the settings, might give you better frame rates etc."
+,cedicool,2012-06-23T15:58Z,@Cerebral222 I already updated all of them (except for the AMD CPU stuff)
+,welldone89,2012-06-23T17:03Z,"Cerebral222 thank you, that is what i was hoping for, i go try it now, and yes, dropping the resolution it helps almost allways in every game, but for some reason it dosent seem to help with this one..but i manage myself to customize it a litlle bit so i get almost 30 fps, so i will say its pretty playable, sometimes goes 20fps thats sucks, but its not very often but thanks for the help and of course i thank the uploader for fantastic job with this, skidrow uploads have never let me down ;)"
+,cedicool,2012-06-23T17:16Z,"Nvm, I always replaced the files. First deleting them and then adding the skidrow files fixed it :D"
+,inerax,2012-06-23T18:18Z,"for anyone having problems.
+
+Install the crack in ""C:Program Files (x86)SQUARE ENIXQuantum ConundrumBinariesWin32""
+
+Then after that launch the game from the start menu or desktop icon. Do not click on anything in the directory folder.                                                                                       "
+,Aremihc,2012-06-23T20:11Z,"I too cannot get it to run.  It installs correctly, files go into Win32 binaries folder, deleted originals first even.  Updates on everything, but when I try to run the program, I get the alert beep, and nothing happens.  Then, about 5 seconds later, a ""Stopped Working"" dialogue pops up, and clicking more details say ""Files that help describe the problem:
+  C:UsersAremihcAppDataLocalTempWER52FF.tmp.WERInternalMetadata.xml
+  C:UsersAremihcAppDataLocalTempWER67F6.tmp.appcompat.txt
+  C:UsersAremihcAppDataLocalTempWER695E.tmp.mdmp"" 
+
+Any advice?"
+,wayner52,2012-06-23T21:39Z,"If the game is crashing or not starting, make sure you install the apps shown on the last dialog of the installer -- the visual studio restributions, etc. There are several things you can install but by default none (at least on my install) are checked. Install them all except the AMD CPU upgrade if you don't have an AMD CPU. Hopefully this helps. And thanks to DibyaTPB for a great torrent. I'm having a blast with the game."
+,OreoDragon,2012-06-23T21:59Z,"Those of you having trouble with the game crashing on start: Make sure you're copying the files to the appropriate location (BinariesWin32) and DO NOT put your name in SKIDROW.ini. When I put my name in SKIDROW.ini, it wouldn't start, but when I took it back out, it worked."
+,se3noevil,2012-06-24T09:23Z,I try to start it but it says that XINPUT1_3.dll is missing. How do I fix this??
+,13ip0lar,2012-06-24T10:06Z,Hey so I just got a new comp and haven't installed any cracked games in years. What would you guys recommend for mounting? Is Daemon Tools still good?
+,GoodGravy,2012-06-24T11:14Z,"@se3noevil, update DirectX, if that won't do the job, just google the dll file name and download it, then extract it, then copy and paste it into your Windows-System32 folder, should do the job."
+,Mr.Rowboat,2012-06-25T09:51Z,"Thanks so much guys :D 
+i shall seed for a while ^-^"
+,javiersebastiandemaio,2012-06-25T23:04Z,"are in spanish??
+please answerme, thankyou!!!"
+,Gavinjj96,2012-06-25T23:45Z,Am I the only one who didn't get a crack folder with this torrent?
+,p4tc0t,2012-06-26T01:01Z,@13ip0lar Daemon Tools or Poweriso are still the best tbqh :)
+,keithmadden,2012-06-26T02:49Z,"Doesnt seem to be working for me.
+
+Dropped all the files like normal,
+
+Just a Small windowed box shows up, and then after 5 seconds comes up saying This program is not responding..
+
+Im not retarded and i do know how to crack games, i have been doing it for over 3 years now and this is the first game to do this on me"
+,Gigelew,2012-06-26T05:17Z,"It says i need to log into steam to get the full version, How do i fix that?"
+,ffhighwind,2012-06-26T07:23Z,"Got it working!!! 
+
+@keithmadden Had the same issue as you until I did a few things. I installed the redistributables, rebooted, and closed Steam while running the game.
+
+C:Program Files (x86)Quantum ConundrumBinariesRedistUE3Redist"
+,Nawn1994,2012-06-26T10:02Z,"How do i fix the error: ""The procedure entry point ogg_stream_reset_serialno could not be located in the dynamic link library ogg.dll"""
+,Lijughy,2012-06-26T10:29Z,"I have the same problem as Nawn1994: ""ogg_stream_reset_serialno startpunktet for prosedyren fantes ikke i biblioteket for dynamiske koblinger, ogg.dll."" (Norwegian)
+English: ""ogg_stream_reset_serialno starting point for the procedure was not in the dynamic link library, ogg.dll"" (Sorry if it is badly translated, I used Google, haha)."
+,Lijughy,2012-06-26T10:33Z,"I got it working! Yeah! Can't wait to start playing it! :) I had installed the SKIDROW files wrong, which explained everything. Thanks comments!"
+,TiznaraN,2012-06-26T11:00Z,"""Failed to create the D3D9 device, this can happen when the desktop is locked.  Exiting..."" This is a new one ;)"
+,ag_orange,2012-06-26T17:38Z,"@se3noevil,
+
+Try this 1....http://www.dll-files.com/dllindex/dll-files.shtml?xinput1_3"
+,sneakle,2012-06-27T14:56Z,"Hi there guys, i have a problem, when i start the game from the desktop icon it give me a message that says ""Failed to create the D3D9 Device! This can happen if the desktop is locked. Exiting..."", I press ""Ok"" and it crashes. Iv updated the DirectX but nothing, don't know what to do, pls help :( 
+Btw, thnks for uploading the game ! ^^"
+,cfulla94,2012-06-27T17:07Z,"I've tried Daemon tools, I'm not a huge fan. I use poweriso. Its simple, and it gets the job done."
+,keithmadden,2012-06-27T20:36Z,"I have the game working but there doesnt seem to be sound coming from the ""Voice"" in the room! any help"
+,Zadwarris,2012-06-28T00:16Z,"I have the same problem as @sneakle and @TiznaraN, please comment a solution as soon as possible."
+,hell911,2012-06-28T09:12Z,"100% Working
+No Problems
+Idiot who give negative to this torrent.
+..l.. Haters.
+
+This game is perfect, 1GB only, nice."
+,hell911,2012-06-28T14:38Z,"D3D9 Error:
+Solution : http://na.square-enix.com/go/thread/view/139345/29192977/Failed_to_create_the_D3D9_device
+
+Might work, just try it."
+,deathdrum666,2012-06-29T15:45Z,there doesnt seem to be a Skidrow Folder of any sort.  maybe im just retarded :(
+,deathdrum666,2012-06-29T15:48Z,nvm i really am retarded
+,VegitoDBZ,2012-06-29T21:19Z,I want to know which motherfucker fro mthe company that made this game thought that it would be a fun idea to build towers fro mthe fucking always collapsing furniture in order to advance! WHAT THE FUCK WERE THEY THINKING
+,free3dom,2012-07-01T20:01Z,"Another fix for crashing at startup...
+
+The game MUST be launched with a BUNCH of arguments. Running with just the EXE file results in nothing happening at startup (or a crash).
+
+The desktop and start menu shortcuts already include this...but if trying to run it from a launcher use the following command line:
+""BinariesWin32TryGame-Win32-Shipping.exe"" try_mainmenu -noscreenmessages -disabledebugoutputdevice -fullscreen -vsync -norc -seekfreeloadingpcconsole"
+,oneneo,2012-07-04T02:39Z,"Hey guys: does anyone know where the savegame files are located? I've looked everywhere on my pc, and I can't find them.
+
+I had to get a new pc, so I'd love to transfer the save files over. I got pretty far in the game and would hate to have to do this all over again."
+,Lobotomite,2012-07-04T20:51Z,SELECT ALL THE THINGS IN THE SKIDROW FOLDER AND MOVE THEM TO WIN 32 DONT JUST COPY AND PASTE THE FOLDER 
+,sakthi17,2012-07-06T05:09Z,dont download by wasting your time......DOESNT WORK..... application doesnt starts ERROR
+,leodante,2012-07-07T21:11Z,"Good game, had little trouble playing the intro. A little laggy at times but that might be the game itself."
+,yazz000,2012-07-16T03:12Z,"@leodante the game is ""laggy"" while opening doors to new areas, when loading new bits. Note that there are no loading screens. Somewhat like the elevator sequences in Portal."
+,kwanton,2012-07-21T23:41Z,do u have to have directx to play it
+,ffejrxx,2012-07-24T08:13Z,"works perfect
+
+copy the files from skidrow
+to Quantum ConundrumBinariesWin32"
+,AustinH69,2012-07-25T19:04Z,"If you don't know how to install .iso files, THEN DON'T FUCKING TORRENT! But because I'm in a good mood, I will walk the newbs through it.
+
+1. Download PowerIso.
+
+2. Download torrent of choice.
+
+3. When download is done, right click on .iso file, go down to PowerIso, click 'mount to drive ' then open that drive, click setup.exe, and wait for it to finish.
+
+4. After that is done, go back to the drive and open the skidrow folder. Highlight everything in there, and open the install directory in another folder.
+
+5. Drag over everything in Skidrow folder to , Quantum Conundrum/Binaries/Win32. 
+
+6. ???
+
+7. PROFIT!"
+,AustinH69,2012-07-25T19:56Z,You know how you know a torrent is gonna be good? .. It says SKIDROW on it.
+,SMSFF7,2012-07-26T09:44Z,"This SKIDROW release is not working for me. I placed the files where they needed to go, but the game just crashes on before it can start up"
+,MoviemMRZ,2012-07-26T19:19Z,"You forgot one thing: HOW TO START THE GAME. 
+
+ANSWER IS:
+
+Copy the files as told and start the game with the shortcut the game created under the installation."
+,brianxxx,2012-07-27T01:19Z,"@AustinH69
+LOL!!!!!!"
+,pangtprb,2012-07-30T06:19Z,thank you
+,Blaz3aTrail420,2012-08-04T23:04Z,http://thepiratebay.se/torrent/7446649/Quantum_Conundrum_%282012%29_%5BPCDVD%5D%5BMULTi6%5D download that one if you cant get this one to work no need to crack this one
+,IAmTorrenter,2012-08-05T07:35Z,"downloaded, installed, copied contents from skidrow into binaries/win32
+wont work,
+
+my guess is that it wont work for 64bit OS?
+
+anyone have 64bit and get it working?"
+,lab47,2012-08-05T09:06Z,"A nice game. credit to skidrow. 
+
+Does anyone know where can I find the save files?"
+,piccina808,2012-08-05T11:40Z,"I also can't get it to work. Windows 7 64bit, Toshiba Qosmio :/"
+,piccina808,2012-08-05T11:41Z,"Forgot to add, copied the crack to the right folder, but when I double click or select Run as Administrator, nothing happens :P"
+,piccina808,2012-08-05T12:24Z,"Me again, got it working now after reinstallation :)"
+,kilipeti,2012-08-07T18:58Z,"Do anyone know where can I find the save files for this? I've serached all the AppData, the My Documents, the installed directory, but nothing... What the heck!"
+,kilipeti,2012-08-07T19:06Z,I found it! Username/AppData/Local/Skidrow/200010. You're welcome :)
+,Patman64,2012-08-10T20:41Z,"For anyone who can't get it to start, try making a shortcut with the following target:
+
+""C:Program Files (x86)SQUARE ENIXQuantum ConundrumBinariesWin32TryGame-Win32-Shipping.exe"" try_mainmenu -noscreenmessages -disabledebugoutputdevice -fullscreen -vsync -norc -seekfreeloadingpcconsole"
+,Dolakohs,2012-08-13T12:55Z,"So, i'm retarded, and the skidrow 'folder' is just a notepad file with a bunch of garbled info in it. somehow i fucked up this incredibly easy installation. If anyone could help, I'd love you till the end of time."
+,Dolakohs,2012-08-13T13:06Z,Holy crap i'm so stupid i forgot that I needed to open the actual image after mounting not the file. Gosh.

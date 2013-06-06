@@ -1,0 +1,16 @@
+[u][i][b]Sandboxie 3.72 Final (x86) {BLOVES}[/b][/i][/u]
+
+
+[i][b]Sandboxie 3.72 Final (x86) {BLOVES}[/b][/i]
+
+[i]
+Sandboxie is a proprietary sandbox-based isolation program developed by Ronen Tzur, for 32-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying the local or mapped drive. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.Sandboxie runs your programs in an isolated space which prevents them from making permanent changes to other programs and data in your computer. When you run a program on your computer, data flows from the hard disk to the program via read operations. The data is then processed and displayed, and finally flows back from the progam to the hard disk via write operations. Sandboxie changes the rules such that write operations do not make it back to your hard disk.
+The main function performed by this program - the protection and preservation of your computer in working condition. This is achieved by creating a system of "temporary storage", similar to the cache. All activities on the Internet by individual users, all the processes to install the software does not use a permanent change of system parameters, and temporary storage Sandboxie. With this you can quite easily do a "rollback". The program is configured to use any browsers supported email client, but only one - Outlook Express. The target audience of the program Sandboxie is large enough, from the people testing the software to private users who use the Internet, or simply do not want to harm your computer unknown program.
+
+Changes in Sandboxie 3.72 Final:
+- The changes to Sandboxie since version 3.70 focus primarily on improving compatibility with Flash version 11.3.
+- Upgrade Sandboxie to fix audio loss issues and crashes when viewing Flash content in a browser running under Sandboxie.
+- If you use Firefox, please also make sure to upgrade to Firefox version 13.1.
+
+[/i]
+

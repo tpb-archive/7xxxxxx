@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,Cracker_Jak,2012-06-06T21:26Z,"Thanks scene4all. Installed easily. Followed instructions, included the host file as well as blocking the various auto updates and what not with my Norton. To register with Keygen I used sandboxie, and ran the keygen sand-boxed. You can get that program free. Also, as for adding to the host file windows does it, or a great program to do this and hundreds of other tweaks and optimization's, is Windows 7 Manager from Yamicsoft. Pretty sure scene4all has the most recent versions. Yamicsoft also has the same program for XP and Vista. Hopefully this helps people out. 
+ Thanks again for the great work, time and effort. "
+,FineTune,2012-06-08T07:28Z,"Okay, so I have the previous version v12.0.3500 and did everything that was stated in the read files including change the host file, I even blocked all programs in the Tuneup folder in my firewall and it still makes me reregister every few days, does anybody have suggestions for me? It is pretttty annoying and I have done some research and it seems to be a pretty wide spread thing. Is there a fix? I have it down to a science in regards to deleting the registry file that affects this program but it is still a pain in the assss. Help...Please...Thanks."
+,FineTune,2012-06-08T23:54Z,Nobodys got anything eh? Not a good sign atall...
+,Deafeated,2012-06-12T08:05Z,"Thank you scene4all this one work perfectly for me. Thanks bro, your the one!."
+,rakib.BD,2012-06-15T15:53Z,"Naah! The product key works but after some time it says  ""Not a genuine key""."
+,beeriz,2012-06-21T13:07Z,"Try this for those who got blacklisted.
+
+First, to avoid the online check, block the app either with a firewall (recommended) or add the following line to your hosts file (located in Windows/System32/drivers/etc) :
+
+127.0.0.1 secure.tune-up.com
+
+Then use keymaker to register the application!
+
+If you've already accidentally let the app phone home and got yourself blacklisted, delete the following key from your registry and use another key from the keygen.
+
+x86:
+[HKEY_LOCAL_MACHINESOFTWAREClasses
+CLSID{64A3D41B-61A5-4834-9A42-FDE1C37B0009}]
+
+x64:
+[HKEY_LOCAL_MACHINESOFTWAREClasses
+Wow6432NodeCLSID{64A3D41B-61A5-4834-9A42-FDE1C37B0009}] "
+,cacawachi,2012-06-23T14:57Z,this must give you vipÂ˛ for this you are a very rar piece 
+,Ryzaar,2012-06-24T03:50Z,"Would just like to point out that TuneUp auto-patched despite altering my hosts file with '127.0.0.1 secure.tune-up.com'
+
+The RegFix + reinstall worked, however. Thanks for your help."
+,subauser,2012-06-28T18:38Z,"to completely disable update, rename all files with the word ""update"" on it. Silentupdater.exe, Updatewizard.exe, and TUAutoUpdateCheck.exe. even if you don't patch host file, you have no firewall,  this trick works for me. Also disable automatic update on Preferences. That way it won't bother you with ""File missing."" "
+,Sholaska18,2012-07-07T00:40Z,"Yeah, I did exactly as above and didn't work, black listed me."
+,4malthea,2012-07-11T21:33Z,Worked for me. Thanks!
+,GamingFly312,2012-07-26T18:41Z,Thx worked great.
+,4malthea,2012-07-27T20:50Z,"Nvm, it worked for a week or two, then said I had an invalid key, even though firewall was blocking it and I edited the hosts file. 
+I followed everyones' suggestions here, ie deleting key from registry and changing all files containing the word update and it seems to be working now."
+,Red_Mars,2012-08-20T03:51Z,"Deleting the reg key helped, thanks!"

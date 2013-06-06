@@ -1,0 +1,25 @@
+from http://www.bbvforums.org/forums/messages/7659/82111.html, this contains the two files mentioned.
+
+--
+
+This is an installation kit which contains the software; it also has the installation instructions, and a text file explaining how to set it up on a standalone machine if you aren't on a network.
+
+This voter registration and voter history system has been widely criticized -- in Colorado, where it reportedly assigned voters who are Republicans as Democrats, and vice versa, and in Tennessee where it has been proven to lose voter histories.
+
+Now you can examine it yourself.
+
+The MS Access files contain quite a bit of source code. This set is circa 2004.
+
+The file is quite large, so allow a LONG time for it to download.
+ 
+http://www.bbvdocs.org/Accenture/ESM_2.0_8-23-04.zip
+323,592 KB
+
+Also perhaps of interest is this set of notes:
+ 
+http://www.bbvdocs.org/Accenture/Accenture_Wrap_up.zip
+2305 KB
+
+Note that one of the service items reveals that it was tripling votes for "random" voters in the 2004 primary. Files I have obtained show that it doubled or tripled votes in the 2008 primary, and also in the May 2010 and Aug 2010 primaries in Tennessee. However: It is not random. It only appears to be random when voters are sorted by fields other than precinct/voter ID. In fact, it is doubling and tripling recorded votes in white Republican suburbs.
+
+Now you can examine some of the logic (or lack of) in the programs yourself.

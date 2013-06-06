@@ -1,0 +1,97 @@
+ [center][b]Nine Inch Nails - Broken CD remaster by MC Lurken[/b][/center]
+
+
+
+
+[center][IMG]http://i1258.photobucket.com/albums/ii540/beavis5706/front-5.jpg[/IMG][/center]
+
+
+
+[center][b]
+1 - Pinion
+2 - Wish
+3 - Last
+4 - Help Me I Am In Hell
+5 - Happiness In Slavery
+6 - Gave Up
+98 - Physical (You're So)
+99 - Suck
+[/b][/center]
+
+
+[u][b]Setup[/b][/u]
+[list]
+[#]HP G72-250US
+[#]Intel Core i3 M350 2.27GHz
+[#]8Gb PC3-10700 RAM
+[#]Win7 64-bit SP1
+[#]SB X-Fi Surround 5.1
+[/list]
+[u][b]Process[/b][/u]
+[list]
+[#]Original 16/44.1 files joined in Wavelab 6
+[#]DC offset removed, this will yield a file with a bit depth of 18-24 bits
+[#]Re-sample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+[#]Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+[/list]
+[b]As reported in Wavelab:[/b][list]
+[#]Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.477db
+[#]DC Offset Removed - Apparent Bit Resolution = 20 , Peak = -0.476db
+[#]Final Recording - Apparent Bit Resolution = 40, Peak = 1.573db
+[/list]
+[list]
+[#]Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+* this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies[/list][b]Settings in Weiss Saracon:[/b]
+[list]
+[#]Modulator Type - CRFB 10th Order
+[#]Sample Rate - 5.6448MHz
+[#]Gain (db SACD) - 0db
+[#]Stabilizer - off
+[#]Dither - off
+[/list]
+[list]
+[#]Convert newly created DSD file to 16-bit/44.1kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+[#]Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - High, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+*DSD->PCM = -6db
+[#]Flac encode level 0 with Trader's Little Helper
+[#]Tag and pic with xrecode II
+[/list]
+
+
+
+[center]
+foobar2000 1.1.11 / Dynamic Range Meter 1.1.1
+log date: 2012-06-17 05:33:31
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10     -13.80 dB   -30.37 dB      1:02 ?-01 - Pinion
+DR9       -0.11 dB   -10.99 dB      3:47 ?-02 - Wish
+DR9       -0.07 dB    -9.91 dB      4:45 ?-03 - Last
+DR11      -4.69 dB   -20.48 dB      1:56 ?-04 - Help Me I Am In Hell
+DR8       -0.07 dB   -10.46 dB      5:21 ?-05 - Happiness In Slavery
+DR8       -0.07 dB   -11.45 dB      4:08 ?-06 - Gave Up
+DR10      -0.07 dB   -11.26 dB      5:30 ?-98 - Physical
+DR7       -0.07 dB   -12.35 dB      5:07 ?-99 - Suck
+--------------------------------------------------------------------------------
+
+Number of tracks:  8
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM[/center]
+
+
+
+[center][IMG]http://i1258.photobucket.com/albums/ii540/beavis5706/dr9.jpg[/IMG][/center]
+[center]DR increased from 8 to 9[/center]
+
+
+[center]enjoy ;D [/center] 

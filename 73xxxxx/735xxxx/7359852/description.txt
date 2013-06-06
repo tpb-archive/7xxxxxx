@@ -1,0 +1,19 @@
+Double Trouble & The Rebel MC - Street Tuff (1989)
+
+Video:
+
+Source: DVD
+FFMpeg (Debian): generate rawvideo
+AviDemux (Win7): crop, remove deinterlacing
+HandBrake (Debian): make mp4
+
+Audio:
+
+AudioKonverter (Debian): generate 44,1kHz pcm sound
+WaveLab (Win7): vst-filters, dc-bias
+Adobe Audition (Win7): equalizer, soften pitches
+Audacity (Debian): bring back bassboost
+
+VIDEO: Mpeg-4 AVC x264 25 fps PAL 768x576 (4:3) ~ 4700 kbps
+AUDIO: Mpeg-4 AAC LC 44100 Hz Stereo 320 kbps
+DUREE: 00:03:29 (h:m:s)

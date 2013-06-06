@@ -1,0 +1,80 @@
+.
+..............................Site Info...........................
+
+ -   http://www.scenetime.com  *_*   
+
+
+Scenetime .Always on time . friendly online private torrent community ..
+
+     We care to share . Join us on  http://www.scenetime.com 
+
+    Be the first to get new release at  http://www.scenetime.com
+
+        Seed back for speed
+
+
+...................................NFO:.................................................<?xml version="1.0" encoding="UTF-8"?>
+<Mediainfo version="0.7.57">
+<File>
+<track type="General">
+<CompleteName>Audience.of.One.2007Audience.of.One.2007.avi</CompleteName>
+<Format>AVI</Format>
+<Format_Info>Audio Video Interleave</Format_Info>
+<FileSize_String>686 MiB</FileSize_String>
+<Duration_String>1h 28mn</Duration_String>
+<OverallBitRate_Mode_String>Variable</OverallBitRate_Mode_String>
+<OverallBitRate_String>1 078 Kbps</OverallBitRate_String>
+<Encoded_Application>MEncoder SVN-r29237-4.4.1</Encoded_Application>
+<Encoded_Library_String>MPlayer</Encoded_Library_String>
+</track>
+
+<track type="Video">
+<ID_String>0</ID_String>
+<Format>MPEG-4 Visual</Format>
+<Format_Profile>Advanced Simple@L5</Format_Profile>
+<Format_Settings_BVOP_String>2</Format_Settings_BVOP_String>
+<Format_Settings_QPel_String>No</Format_Settings_QPel_String>
+<Format_Settings_GMC_String>No warppoints</Format_Settings_GMC_String>
+<Format_Settings_Matrix_String>Default (H.263)</Format_Settings_Matrix_String>
+<CodecID>XVID</CodecID>
+<CodecID_Hint>XviD</CodecID_Hint>
+<Duration_String>1h 28mn</Duration_String>
+<BitRate_String>944 Kbps</BitRate_String>
+<Width_String>720 pixels</Width_String>
+<Height_String>480 pixels</Height_String>
+<DisplayAspectRatio_String>4:3</DisplayAspectRatio_String>
+<FrameRate_String>29.970 fps</FrameRate_String>
+<Standard>NTSC</Standard>
+<ColorSpace>YUV</ColorSpace>
+<ChromaSubsampling>4:2:0</ChromaSubsampling>
+<BitDepth_String>8 bits</BitDepth_String>
+<ScanType_String>Progressive</ScanType_String>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<Bits_Pixel_Frame_>0.091</Bits_Pixel_Frame_>
+<StreamSize_String>600 MiB (88%)</StreamSize_String>
+<Encoded_Library_String>XviD 1.1.2 (UTC 2006-11-01)</Encoded_Library_String>
+</track>
+
+<track type="Audio">
+<ID_String>1</ID_String>
+<Format>MPEG Audio</Format>
+<Format_Version>Version 1</Format_Version>
+<Format_Profile>Layer 3</Format_Profile>
+<Format_Settings_Mode>Joint stereo</Format_Settings_Mode>
+<Format_Settings_ModeExtension>MS Stereo</Format_Settings_ModeExtension>
+<CodecID>55</CodecID>
+<CodecID_Hint>MP3</CodecID_Hint>
+<Duration_String>1h 28mn</Duration_String>
+<BitRate_Mode_String>Variable</BitRate_Mode_String>
+<BitRate_String>120 Kbps</BitRate_String>
+<Channel_s__String>2 channels</Channel_s__String>
+<SamplingRate_String>48.0 KHz</SamplingRate_String>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<StreamSize_String>76.4 MiB (11%)</StreamSize_String>
+<Alignment_String>Aligned on interleaves</Alignment_String>
+<Interleave_Duration_String>24 ms (0.72 video frame)</Interleave_Duration_String>
+<Interleave_Preload_String>520 ms</Interleave_Preload_String>
+</track>
+
+</File>
+</Mediainfo>

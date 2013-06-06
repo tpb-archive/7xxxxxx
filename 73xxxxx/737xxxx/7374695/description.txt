@@ -1,0 +1,16 @@
+Wolfram mathematica for UNIX & GNU/Linux systems.
+This package include:
+
+* Wolfram (trial) installator (in sh script)
+* Keygen (.exe) for Wolfram Mathematica from AGAiN team
+
+
+For ArchLinux user:
+
+In Archlinux "hostname" command is not found, to solve this, install (temporally) inetutils, to do this, type: pacman -S inetutils.
+
+
+
+For run the Keygen, you must install Wine with vcrun2010 (from winetricks).
+
+For activate it, run and select the option "other way to activate" and "manual activation," copy and paste into Keygen the MathID and press Generate, copy activation and request code into Wolfram Mathematica and press OK. Finally... Enjoy It!

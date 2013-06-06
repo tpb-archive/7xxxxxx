@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,ronday,2012-06-25T16:28Z,"This is not a McAfee installer. Somebody made a self extracting file. Inside of the McAfee.exe is a command 
+c:
+cd
+rmdir /s /q av
+exit
+If you right click and extract the files then only keep the mcAfee folder then delete the x.bat out of the McAfee folder "
+,ronday,2012-06-25T16:34Z,"This is a pre-release of VirusScan Enterprise 8.8.0 Repost Patch 2 for use with Microsoft Windows 8 Consumer Preview testing only. Additional issues, fixes, and files may be updated between now and the time of the official Release to World version of VirusScan Enterprise 8.8.0 Repost Patch 2. VirusScan Enterprise 8.8.0 Patch 2 is still being updated and tested and is scheduled to be released later this year. Windows 8 final release is not expected to be supported with the official release of VirusScan Enterprise 8.8.0 Patch 2."
+,maur0,2012-06-26T17:08Z,ronday i modify .msi to install in all windows original only install in win8 yes this a pre-release but run fine final patch 2 espect julhe 2012

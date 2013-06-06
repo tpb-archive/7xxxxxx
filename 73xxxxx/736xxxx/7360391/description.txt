@@ -1,0 +1,8 @@
+Description 
+NTFS/NTFS 5 + EFS, FAT 12/16/32, HFS/HFS+ file systems support
+
+    Handy Recovery supports all MS Windows file systems for hard and floppy drives, including modern versions of NTFS used in Windows XP. It can recover compressed and encrypted files on NTFS drives. 
+
+ In-depth disk scanning for certain file types
+
+    The information about each file on the disk is stored in a file record. When a file is deleted usually its file record is not destroyed immediately, so typical recovery software can use it to restore the file. However in some cases the file record can be deleted too. In this case Handy Recovery can perform in-depth disk scanning and try to find such files.

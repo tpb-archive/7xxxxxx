@@ -1,0 +1,82 @@
+Adobe.PhotoshopXPortable.CS6.Extended.Multilingual-PortableApps.comFormat
+
+Website: http://www.adobe.com/products/photoshop.html
+Category: Graphics & Pictures
+License: $999.00 USD
+Writes Settings to: Application Folder
+Stealth: Yes (http://www.portablefreeware.com/faq.php#stealth)
+Portable Format: PAF (http://portableapps.com)
+Dependencies: Administrative Rights
+System Requirements: WinXP SP3 and later, 32/64 
+Test Platform: WinXP/Vanilla, Win7 32/64/Vanilla.
+
+Synopsis: this release is a multilingual update... i've cleaned up the code..
+i've re-written a few code for better performance.. and removed Bridge to 
+reduce the size... Photoshop is up-to-date as of June 7th, 2012. 
+There were 2 updates: CameraRaw 7.1 and CSXS. I also configured Photoshop in a 
+special way to reduce load time while keeping as many features as possible. 
+This is probably the hardest.. we all use Photoshop differently.. so what
+i need.. you may not.. etc. I did my best to keep the general public in mind.
+
+How to Install: launch PAF installer, select your language, extract to desired 
+location, launch "PhotoshopXPortable".
+
+How to Change Language: simply re-run the installer. Your settings will be
+maintained, along with your presets, and any changes to your plugins.
+
+-------------------
+Brief Features List
+-------------------
+File Info (Adobe's Metadata)
+Contact Sheet II
+Image Processor
+Batch Converter
+3D, Liquify, etc
+Photomerge aka Panorama or Stitching
+PDF Presentation
+HDR
+Droplets
+Scripts
+CameraRaw 7.1 
+*CameraProfiles/LensProfiles available as separate plugins
+etc
+
+* CameraProfiles/LensProfiles are large files, and will extend the load time.
+Only install it if you truly need it.
+
+---------------------
+Removed Features List
+---------------------
+Service Manager
+Switchboard
+DynamicLink
+Linguistics
+etc
+* basically anything that requires installation, background services, or is
+extremely large in size has been removed.
+
+----------------------
+PortableApps.comFormat
+---------------------- 
+- runs naturally on your computer, as if installed.
+- able to use your computer's resources: i.e. RAM, GPU.
+- leaves no trash behind.
+* most beneficial for minimalists who use strictly portable apps. on their PC.
+
+----------------------
+Windows XP Limitations
+----------------------
+* Not all 3D features are unavailable on Windows XP
+* You must have a compatible Graphics Card for 3D/High-intensive plug-ins  
+http://forums.adobe.com/thread/979969
+
+---------
+Languages
+--------- 
+*ARABIC, CZECH, DANISH, DUTCH, ENGLISH, FINNISH, FRENCH, GERMAN, *HEBREW,
+HUNGARIAN, ITALIAN, JAPANESE, KOREAN, NORWEGIAN, POLISH, PORTUGUESEBR, RUSSIAN,
+SIMPCHINESE, SPANISH, SPANISHINTERNATIONAL, SWEDISH, TRADCHINESE, TURKISH,
+UKRAINIAN
+
+* Arabic & Hebrew are special language packs.. read here: 
+http://helpx.adobe.com/mena/using/arabic-hebrew.html

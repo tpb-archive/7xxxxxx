@@ -1,0 +1,37 @@
+ http://piratelinux.org/
+
+32 bits
+
+copyleft
+
+
+Firefox addons: AdBlock Plus, Bloody Vikings, Download Helper, Ghostery, HTTPS-Everywhere (silent install for your current firefox).
+Pidgin with OTR.
+Vidalia Control Panel & Tor automatically running in background.
+Tor Web Browser that uses your default Firefox (Contains the addons Bloody Vikings, HTTPS-Everywhere, NoScript, Torbutton, websocket disabled).
+Tor IRC (pidgin with OTR connected to Tor with a random username and some relevant chat rooms added to the list).
+Seahorse-Nautilus for easy encryption/decryption of files (optional).
+Network Manager with the Openvpn plugin for easy access to the PPCA VPN Service (optional).
+aMule P2P client (optional).
+Ubuntu restricted extras (suggested).
+Virtual keyboard to prevent keylogging (optional).
+Desktop theme.
+GUI controller.
+All executable binaries that are not from the standard Ubuntu repositories are automatically compiled from source on installation. What you see is what you get.
+Full (source) package automatically creates a binary package while installing, and this binary package can be shared with those who trust you. You are not just a consumer, but also a distributor.
+Bitcoin client (graphical & command-line).
+Cwallet ΓÇô Paper Wallet Backup Creator (graphical & command-line).
+Custom Google Homepage.
+Phatch Image Inspector & Batch Processor (optional).
+GIMP (optional).
+Linphone (optional).
+lm-sensors (optional).
+Automatic updates implemented by adding the Pirate Linux repository to the Aptitude sources list. The Ubuntu/Debian update manager will automatically install the newest PiratePack.
+Helper programs: ffmpeg, qrencode, imagemagick, polipo.
+I2P Browser.
+I2P IRC (pidgin with OTR connected to the standard I2P IRC network with some common chat rooms added to the list).
+Thunderbird + Enigmail (optional).
+MAC address generator (optional).
+OpenNIC DNS option.
+Easily create multiple Tor (Vidalia) instances.
+Firefox Profile Manager ΓÇô easy access (also adds the WhoAmI Firefox addon).

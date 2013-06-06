@@ -1,0 +1,56 @@
+StressLinux is a minimal live Linux distribution for simulating extremely high-load situations on computers.  During these stress tests and benchmarks, StressLinux monitors the health of the hardware.  It is a live distro, so all you have to do is burn the .iso file to a CD or DVD and boot from it.  It does not have a GUI so you have to be at least a little familiar with command-line.
+
+This is good for people who are overclocking their computers, or want to test unstable software.  If a computer can handle the load forced upon it while running StressLinux, it will be able to handle anything on its native OS.  This runs on 64-bit computers only.
+
+
+
+SOFTWARE INCLUDED IN STRESSLINUX:
+
+----------------------------------------------------------------
+
+ BASIS DISTRIBUTION:
+
+  busybox
+  supportutils (modified version for stresslinux)
+
+
+ TESTING AND MONITORING:
+
+  stress
+  stressapptest
+  CPU burn
+  nbench
+  tiobench
+  mprime
+  hddtemp
+  lm_sensors
+  lshw
+  bonnie++
+  netio
+  nepim
+  netperf
+  iperf
+  smartmontools
+  x86info
+  memtester
+  bandwidth
+  memtest86
+  memtest86+
+  ramspeed
+  y-cruncher
+  tw_cli
+  arecacli
+  hpacucli
+  megacli
+  mpt-status
+  lsiutil
+  sas2ircu
+
+
+ RESCUE AND RECOVERY:
+
+  dd
+  dd_rescue
+  pcopy
+
+----------------------------------------------------------------

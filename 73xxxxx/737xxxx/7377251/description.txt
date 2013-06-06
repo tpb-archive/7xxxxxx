@@ -1,0 +1,2 @@
+encoded with Lame 3.99.2.5
+-V 0 --vbr-new --ta "%artist%" --tt "%title%" --tl "%albumtitle%" --tg "%genre%" --ty "%year%" --tn "%tracknr%" --tc "%comment%" %source% %dest%

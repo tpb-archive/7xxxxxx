@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-06-09T12:43Z,"reduced from what ?
+the official release is 500mb
+
+I'm guessing that ""Restored"" means
+that pirated versions of apps are replacing the free versions ?
+
+I've used this off and on for like 8 years or something and i never have any use for anything but the freeware tools.. Such as the hard drive tools
+Although Gibsons Spinrite HDD tool was handy for me recently..
+I added it to the iso and then created a bootable usb drive copied the 500mb of hirens data using ultraiso then used my cellphones microsd card to boot my machine and then opened the DOS option in the menu hit,
+c:
+to change to C drive
+and typed in ""spinrite""
+done :)
+
+adding a custom program and launching it using a cell phone to boot is easy ;)
+Note: my mp3 has a microsd slot too so i could have booted my pc with my Sansa Fuze+ Mp3 player lol"
+,ThaNewTeam,2012-06-11T13:17Z,"@zpmule
+This was recuced in size compare to V1 of the restored version and includes both free and premium software."
+,MhrBhr,2012-07-28T20:58Z,"Filename: Hirens.BootCD.15.1.zip
+Filesize: 498.36 MB (522565534 bytes)
+ISO MD5: B5DE7A10DD1586D47535372EA1AD9BED
+ZIP MD5: 5B8E9240AE8CF74939B60AD872CBBABA
+
+http://www.hirensbootcd.org/files/Hirens.BootCD.15.1.zip"
+,elarithon,2012-09-17T09:34Z,"The instructions on adding tails to the boot dvd are incorrect, or at least vague. I tried it several times (using an image and a virtual machine) and it just couldn't find the files. Although I did find a way. Does it make a difference that I was trying to boot it on a VM?"

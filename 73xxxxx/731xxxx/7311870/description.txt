@@ -1,0 +1,84 @@
+PES 2012 SMoKE Patch 4.7.3 BLACK
+
+---------------------------------------------------------------------------------
+Features:
+
+Konami:
+- includes latest konami data pack (DLC 4.0/EXE 1.06)
+- unlocked all extra with max GP points
+- disabled blur
+
+Leagues:
+- correct leagues names
+- bundesliga replaces fake konami league
+- correct emblems and league patchs
+- more libertadores teams available in all modes
+- complete real second division teams replace fake teams choices:
+(nPower, Liga adelante, 2.nd Bundesliga, serie B, Ligue 2, Eerste Divisie, Liga Orangina)
+- Complete 32 champions league teams
+- correct leagues balls
+
+Teams:
+- added 27 new clubs (all available in ML mode) (details)
+- added 12 new national teams (cannot be used in BAL mode)
+- Added new teams for copa Libertadores
+- correct kits in GDB format
+- correct logo
+- correct and updated squads
+- correct map locations (including all 2D teams)
+- second division teams are completely modifiable
+- correct team ranking ML and BAL
+- all teams have correct home stadium names
+- national teams squads for EURO 2012
+
+Players:
+- revised stats for most players (SMoKE rating system)
+- more than 1000 real faces
+(+850 in faceserver, 150 in cv0c.img)
+- added more than 2000 new players
+- correct personal attributes
+- removed duplicated and fake players
+
+Stadiums:
+- correct names for all stadiums
+- added 3 stadiums (Etihad stadium, Stamford bridge, Anfield Stadium) with correct preview
+- add 20 various stadiums with game stadium editor
+- all teams have correct stadium names
+- new HD turfs
+- new enhanced adboards
+- new enhanced banners
+
+Others:
+- 11 scoreboard style to choose from.
+- added and updated all boots (removed fake konami boots)
+- added and updated all balls (49 balls)
+- includes latest kitserver files (12.2.3.1)
+- updated referee kits
+- correct trophies and cups
+- real sponsors with logos
+- new graphics
+- a lot of small enhancements
+
+---------------------------------------------------------------------------------
+Installation:
+1. Unrar files
+2. run (Setup 4.7.3.exe) and choose Install
+3. follow all installer steps
+4. download and install latest smoke update
+
+
+Known Issues: 
+* do not update from konami, the patch include the latest official updates
+* install on a fresh copy of PES (highly recommended)
+* running the game as admin might be required
+* some flags doesnt show when choosing a nationality
+* starting a new saves is highly recommended due to new system files and stuff
+ 
+
+---------------------------------------------------------------------------------
+
+Tested on:
+- Windows XP SP2
+- Windows XP SP3
+- Windows Vista 32/64 bit
+- Windows 7 32/64 bit

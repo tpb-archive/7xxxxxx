@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,eyeonus,2012-06-06T09:47Z,"You still have to add the line +ChallengeMapList=Row=""Combat"",Name=""DLCBatCave"", ID=57, SID=31, PackId=5, bPredator=true, ScriptRef=""GFxUI.Challenge.C57"", Start=""BatCave,BatCave_B1?Flags=Challenge,Challenge_Normal,Pred?NoFadeIn"")
+
+to ""PCGame.ini"" yourself, though, mainly because if I just uploaded my copy of the file, anyone who didn't have the same DLC I have would get errors when their game tried to load DLC they don't have.
+
+The ""Harley Quinn"" DLC torrent does /not/ have this line in that file, so you'd have to manually add it anyway."
+,necrovamp,2012-06-06T15:55Z,"Currently downloading, will post if this works, hope it does and my week of waiting for not for nothing, lol"
+,necrovamp,2012-06-06T19:28Z,"worked, thnx :)"
+,Ihelpu,2012-06-06T23:11Z,i dont understand i extracted files to game and add the thing to the line like you said and when i install its going to overwrite all the files you gave. Please Help Me
+,nirgg,2012-06-07T16:24Z,"hi,
+I installed this files and now I can't enter to riddler challenge because it is locked (of course before putting this files, it was't lockd).
+please your help."
+,nirgg,2012-06-07T16:25Z,"hi,
+I installed this files and now I can't enter to riddler challenge because it is locked (of course before putting this files, it was't lockd).
+please your help."
+,welldone89,2012-06-16T19:38Z,"Thank you very much, u sir are a life saver! :)"
+,Damien_Hexicola,2012-06-19T12:52Z,Ok where exactly am i suppost to add this line?
+,archerdrake287,2012-08-31T09:35Z,"hahaha...i got a damn weird problem...installed all the dlc to the proper locations, added the missing lines, but i got a locked Batcave map...but the Batman Inc skin is still there lol.:DD"
+,archerdrake287,2012-08-31T09:40Z,please help!!!i got a locked Batcave map!!!HELP!!i somehow can't unlock it even if i downloaded all the files and added the missing file it's still locked..lol.:DD
+,archerdrake287,2012-08-31T10:56Z,"never mind..found it..u should add +DLCBundlesInstalled=""VilBundle"" and add a ""("" in the missing line..but why does the Batcomputer doesn't say anything at the start of the challenge??it just skips!!"
+,archerdrake287,2012-08-31T11:15Z,please upload the missing wad files!!!!

@@ -1,0 +1,60 @@
+﻿User Type,Username,Date,Text
+,marble75,2012-06-10T11:19Z,"Funkar klockrent! Mycket enkel installation.
+
+1. packa upp filen ""gimgunlock.zip"" vilket ger två nya filer.
+2. Dra valfri kartfil (t.ex. ""Gotalandv3.img"") och släpp den på filen ""gimgunlock.exe"". Själva upplåsningen tar endast några få sekunder.
+3. Kopiera in den numera upplåsta kartfilen till antingen din enhet eller SD.kort. Tänk på att den måste ligga i en mapp som heter ""garmin"" i en rotenhet.
+
+Upprepa processen för att lägga till fler kartor.
+
+Kartan kommer dyka upp i din enhet som ""aktiverad"".
+
+Har kört igång den i två enheter: Oregon 550 och eTrex 30. 
+
+Tack för UL!"
+,Tstart,2012-06-15T12:48Z,:D
+,ellsa,2012-06-18T18:41Z,Tusen tack fungerar klockret
+,anderzon10,2012-06-19T21:01Z,"Kanske låter som en fantastisk idiot nu men, vad är rotenhet?"
+,Tstart,2012-06-20T06:25Z,"Finns inga dumma frågor, bara dumma svar
+
+med rotenhet menas direkt på sd-kortet, alltså där du hamnar när du öppnar kortet i utforskeren (om du har windows)
+
+om sd-kortet är H: ska mappen synas som  H:Garmin om du gjort rätt"
+,partyjocke,2012-06-20T08:58Z,"Jag sliter mitt hår...
+Har lagt det upplåsta filen/filerna i en Garmin mapp på Sd-kortet.
+Men inga kartor dyker upp i min "" Garmin Gpsmap 60CSx""
+HJÄLP!!"
+,Tstart,2012-06-21T07:16Z,testa att döpa om kartfilen du vill använda till gmapsupp.img
+,partyjocke,2012-06-21T11:13Z,Nope... inget händer i Gps:en!!
+,Tstart,2012-06-22T16:48Z,"""GPSMAP® 60C"" och ""GPSMAP® 60CS"" är listade som kompatibla, men ser inget om CSx :/"
+,partyjocke,2012-06-25T19:57Z,"Nu fick jag det att funka.
+Döpte om filen till:
+""gmapsupp"" i en ""garmin"" mapp.
+
+Men hur får jag in fler filer??
+
+Tack på förhand!"
+,Tstart,2012-06-25T21:14Z,"
+GMapTool v.0.7.158 of 20.5.2012
+
+Program for joining and splitting maps in Garmin img format. 
+
+
+Aldrig testat det."
+,gyllenpalm,2012-06-27T07:24Z,Får inte denna att fungera på min Astro 320. När jag startar GPS står det att kartan inte går att låsa upp.
+,Tstart,2012-06-27T09:52Z,"och du har låst upp den karta du vill ha genom att dra den och släppa den på gimgunlock.exe?
+
+ett dosfönster ska öppnas under en sekund"
+,gyllenpalm,2012-06-27T10:38Z,"Ja det har jag gjort och jag har sett dosfönstret fladdra upp. Därefter har jag dragit in ""kartmappen"" jag vill ha på minneskortet jag vill ha det på i en mapp som heter garmin. Jag har också testat att döpa om kartfilen till gmapsupp och gmappsupp.img utan bättre resultat."
+,Tstart,2012-06-27T12:16Z,"""Därefter har jag dragit in ""kartmappen"" jag vill ha på minneskortet jag vill ha det på i en mapp som heter garmin. ""
+
+bara kartfilen, inte hela mappen"
+,gyllenpalm,2012-06-27T12:57Z,Jag uttryckte mig otydligt. Det är bara kartfilen jag har dragit in i mappen som heter Garmin.
+,gyllenpalm,2012-06-27T13:14Z,Jag uttryckte mig slarvigt. Det är bara kartfilen jag har lagt in på garmin mappen.
+,Tstart,2012-06-27T18:24Z,"då vet jag inte vad som är fel :/
+
+Astro 320 är listad som kompatibel på Garmins hemsida"
+,Jerrka_80,2012-07-24T14:07Z,"Jag ser att commandoförnstret bläddras några sekunder så de bör vara upplåsta kartor som jag lagt in under garminmappen på c:  Men de går inte att öppna i varken mapsourse eller basecamp ?  Och ser även att mellersta norrland v3 är på många mer kb än de .img filerna som version 2 av mellersta norrland är(som ligger i en undermapp i garminmappen som heter fripro..ska man ha med unlockprogramen i garminmappen ? Får det inte att funka heller trots namnbytet till ""gmapsupp"" :("
+,Tstart,2012-07-25T16:26Z,"ta denna hopslagna upplåsta karta då, samma 4 som ingår
+
+http://thepiratebay.se/torrent/7448106/TOPO_Sweden_v3_-_Friluftskartan_Pro_v3_All_in_one_-_UNLOCKED"

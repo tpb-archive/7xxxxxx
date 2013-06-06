@@ -1,0 +1,121 @@
+New Age.
+
+Music composed by Gerd Bessler.
+
+Chrystalia Ensemble - Angels of Healing - 2000.
+
+FLAC (*.flac) tracks + .cue, lossless
+
+Aquamarin Verlag GmbH
+ISMN M-50058-029-5
+
+With album cover art scans.
+
+
+================================================================
+
+TRACKLIST:
+
+01. Chrystalia Ensemble / Angels of Healing I [0:25:45.52]
+02. Chrystalia Ensemble / Angels of Healing II [0:26:07.73]
+
+
+================================================================
+
+LOG:
+
+
+Exact Audio Copy V1.0 beta 2 from 29. April 2011
+
+EAC extraction logfile from 10. August 2011, 18:02
+
+Chrystalia / Angels Of Healing
+
+Used drive  : Optiarc DVD RW AD-7263S   Adapter: 6  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:Program Files (x86)Exact Audio CopyFlacflac.exe
+Additional command line options : --verify --tag=ARTIST="%artist%" --tag=ALBUM="%albumtitle%" --tag=DATE="%year%" --tag=TITLE="%title%" --tag=TRACKNUMBER="%tracknr%" --tag=GENRE="%genre%" --tag=COMMENT="FLAC --compression-level-8" --compression-level-8 %sou
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector
+    ---------------------------------------------------------
+        1  |  0:00.00 | 25:45.52 |         0    |   115926
+        2  | 25:45.52 | 26:07.73 |    115927    |   233524
+
+Track  1
+
+     Filename C:Temp 1 - Chrystalia Ensemble - Angels of Healing I.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 71.7 %
+     Extraction speed 3.2 X
+     Track quality 100.0 %
+     Test CRC 271A9FD7
+     Copy CRC 271A9FD7
+     Copy OK
+
+Track  2
+
+     Filename C:Temp 2 - Chrystalia Ensemble - Angels of Healing II.wav
+
+     Pre-gap length  0:00:09.25
+
+     Peak level 78.8 %
+     Extraction speed 4.5 X
+     Track quality 100.0 %
+     Test CRC FA00FE30
+     Copy CRC FA00FE30
+     Copy OK
+
+No errors occurred
+
+End of status report
+
+==== Log checksum EDC66BEE14E0B0F1F083BC1786548700B2DD363ADD3ADFAE0BCAF39BB6EF8F28 ====
+
+
+
+==============================================================================
+
+.CUE:
+
+
+REM GENRE "New Age"
+REM DATE 2000
+REM DISCID 130C2902
+REM COMMENT "ExactAudioCopy v1.0b2"
+CATALOG 0352910000008
+PERFORMER "Chrystalia"
+TITLE "Angels Of Healing"
+FILE "01 - Chrystalia Ensemble - Angels of Healing I.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "Angels of Healing I"
+    PERFORMER "Chrystalia Ensemble"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Angels of Healing II"
+    PERFORMER "Chrystalia Ensemble"
+    INDEX 00 25:36:27
+FILE "02 - Chrystalia Ensemble - Angels of Healing II.wav" WAVE
+    INDEX 01 00:00:00
+
+===============================================================================

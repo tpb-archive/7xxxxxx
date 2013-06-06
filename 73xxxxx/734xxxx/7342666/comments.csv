@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,YodaBoy44,2012-06-10T06:07Z,Thank you so very much!!!
+,lightrain,2012-06-10T14:44Z,"Sorry for bothering you guys but I followed all instructions and couldn't manage to run it. 
+First:on c installed Rosetta Stone v3.4.7 Preinstalled
+Second: DL and installed Rosetta Stone v3 Tagalog & Speech Preinstalled
+Third: went to C:/Programfiles (x86)/Rosetta Stone/Rosetta Stone v3 and double clicked on RosettaStoneVersion3. after I did this a new window opened but no start buton available
+
+Sorry once again if I miss something very obvious"
+,EinDeutschMan,2012-06-10T20:21Z,"@lightrain,
+
+Does the Product Activation screen come up?
+or was it just a blank gray screen with a black bar across the top?
+
+Do this:
+go to C:/Programfiles (x86)/Rosetta Stone/Rosetta Stone v3 and there is a HIDDEN file:
+Tracking.db3 - delete it.
+Run Rosetta Stone.
+A window should come up saying it's not registered, click ""Never Register""
+If this happens, you should be good to go
+
+If it still doesn't work, TEMPORARILY DISABLE your Fire/AV software,
+Run it again,
+
+I have been plagued with this and various language packs, and haven't been able to track it down.
+
+Let me know..."
+,lightrain,2012-06-11T10:21Z,Unfortunately I can't allocate Tracking.db3 file anywhere.
+,lightrain,2012-06-11T10:22Z,"Unfortunately I can't allocate Tracking.db3 file anywhere. Sorry, I meant locate. "
+,lightrain,2012-06-11T10:26Z,"Unfortunately I can't allocate Tracking.db3 file anywhere. Sorry, I meant locate. I turned off the AV and tried. It didn't work."
+,lightrain,2012-06-11T12:09Z,When I try to start the program I get only blank grey screen. Can I instal more than one language course at a time?
+,EinDeutschMan,2012-06-11T16:13Z,"@lightrain,
+
+This may sound like a silly question,but what is your NATIVE language?"
+,lightrain,2012-06-11T21:20Z,bulgarian. why?
+,EinDeutschMan,2012-06-12T04:08Z,"I have set default language in the products and dynamicstoredpaths xml file as English, and I just wonder if the English default might be screwing up the install. Just a hunch.
+
+Go to C:/Program files (x86)/Rosetta Stone and delete both of the folders and their contents
+the Rosetta Stone v3 AND content folders
+
+Then go to C:/ProgramData and delete the Rosetta Stone folder, there are two xml files.
+
+Make sure you use this file:
+http://thepiratebay.se/torrent/7272499/Rosetta_Stone_v3.4.7_Preinstalled.exe
+
+Then DL another language (Hebrew is the smallest) and see if it installs correctly.
+
+If it does, then I know it's the Tagalog language pack,
+
+Lt me know..."
+,lightrain,2012-06-12T08:26Z,All works now. THANK YOU VERY MUCH!
+,lightrain,2012-06-20T14:50Z,@EinDeutschMan: Thank you once again for the Tagalog torrent. Can you upload by any chance Bulgarian please?

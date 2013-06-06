@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,mupelo,2012-08-06T12:08Z,"Hey, can you please tell me should I check these boxes during the install:
+
+Register V-Ray menus
+
+Install WIBU key drivers
+Register the Vray license service
+
+I'm afraid that I do something wrong in the start and Vray doesn't install right. I have 3ds Max 2013.
+
+Thanks!"
+,odafos,2012-08-07T16:38Z,"This is ONLY for MAX 2012, it does not work in 2013!"
+,mupelo,2012-08-15T10:40Z,"Are you sure?
+
+Could you SomeRain please comment this and my last questions?"
+,ZombiKemist,2012-08-27T19:05Z,"I have this working just fine for 2013. When installing:
+
+Install workstation
+
+Local V-Ray license
+
+you can leave Register V-Ray Menus checked
+
+uncheck Install WIBU key drivers and Register V-Ray license service
+
+Make sure you copy over the dll's from crack to your 3ds max folder after."

@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,gotpapers,2012-06-24T21:12Z,"I recommend you enable software rendering for this one, fix enemies appearing as black rectangles, also smoother gfx rendering.
+Here's how:
+1. Copy the data folder you downloaded to sdcard/Android/data
+ so it looks like this:
+ /Android/data/com.sony.playstation.SLUS_00619/
+2. copy the apk to your phone and install it.
+3. open in a text editor ""/Android/data/com.sony.playstation.SLUS_00619/files/ucc/.../preferences.xml""
+4. Change ""SW-render"" value=""false"" to ""true"""
+,xhawin,2012-06-26T15:01Z,"can someone help me? i have followed your instructions. but i don't see this file on my xperia ""Android/data/com.sony.playstation.SLUS_00619/files/ucc/.../preferences.xml""... i mean i don't see the ""ucc"" folder in my phone."
+,VIVGCiconia,2012-06-27T23:07Z,Hej skulle du kunna ladda upp spyro spelen också jag har försökt fixa dem själv men jag får det inte att funka. Tack för denna btw ;)
+,VIVGCiconia,2012-06-28T11:11Z,I installed it prperly but i only get to the health warning screen the it shuts of. Help? i have an r800i and android 2.3.2
+,xhawin,2012-06-29T10:02Z,@VIVGCiconia we have the same model and the same OS for android. and we have also the same problem. i only see the warning sign and suddenly it's closed.
+,axinte,2012-07-01T11:06Z,"I got tired of fake cracks and I looked for an alternative.
+
+I found this http://www.drakensang.com/?&aid=3546&invID=xbdebbdbjdjxcdebjjijixbaajfecxibgxbgdhxbaa
+
+It is a great game, and is free, even more, it can be played in a browser.
+
+It cooled my thirst of killing monsters.
+I played for a month with my old graphic card, and the refresh was kind of slow, and I decided to get a new card. I HAD A BIG SURPRISE. tHE GAME IT IS 3D. it has a great scenery, especially in north with those waterfalls or blizzards. I suppose that diablo is 3d too, since it has the same hardware requirements.
+
+Anyway, drakensang is a very good alternative for diablo. Maybe is better. I will know in a year when diablo will be cracked.
+
+I would liked to pay for diablo, blizard has done good job and deserve to be payed, I promised that after I played for free diablo 1 and two, I will pay for the third, but the price is not affordable for me. It matches my income for a month. I can afford to get hungry for a month reducing with a third my expenses, but I cannot afford to postpone my bills. "
+,warm_brown_fingers,2012-07-02T05:09Z,"Hey gotpapers,
+
+When i look into my preferences.xml I don't see SW-Render,  I only get this.....
+
+
+- 
+  Electronic Arts 
+  Blizzard 
+  PS1 Settings 
+
+  com.sony.playstation.SLUS_00619 
+- 
+  0.97.0 
+  0.0.0 
+
+
+
+Can you offer me any guidance?  Thanks"
+,warm_brown_fingers,2012-07-02T05:11Z,"Ugh, my copy paste didn't work so no example sorry.  Any hints would still be appreciated."

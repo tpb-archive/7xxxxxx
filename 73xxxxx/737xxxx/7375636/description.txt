@@ -1,0 +1,35 @@
+Video
+ID                               : 2
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 4mn 52s
+Bit rate mode                    : Constant
+Nominal bit rate                 : 4 000 Kbps / 4 000 Kbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : MBAFF
+Bits/(Pixel*Frame)               : 0.064
+Writing library                  : x264 core 112
+Encoding settings                : cabac=1
+
+Audio
+ID                               : 1
+Format                           : PCM
+Codec ID                         : A_PCM/INT/LIT
+Duration                         : 4mn 52s
+Bit rate mode                    : Constant
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Default                          : Yes
+Forced                           : No

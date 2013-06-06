@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,Jayzen_Freeze,2012-06-13T02:41Z,what do you mean run multi version installer it is a rar without any executable files 
+,Jayzen_Freeze,2012-06-13T02:55Z,when i open it with java it says splash recv failed newest java installed. 
+,NexiumCore,2012-06-13T04:39Z,"When you are dealing with Java apps, jar files are the equivalent of an executable file. Just uninstall whatever you believe is Java and install the JRE from Oracle, and I promise you it will work with no issue. "
+,Jayzen_Freeze,2012-06-13T05:04Z,it is the same thing i have been playing minecraft for years
+,Jayzen_Freeze,2012-06-13T05:18Z,a link would be good since I uninstalled all java and installed what you said and I get a application error unable to start app win 7 x64
+,NexiumCore,2012-06-13T06:55Z,http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1637588.html
+,NexiumCore,2012-06-13T07:07Z,"Now that I am thinking about it, in your first post you said something about there being a rar file. I stopped packaging the installer in rar files with the last release. In that case I think you may have an older version which will have to be extracted with either 7zip or Winrar before running."
+,Jayzen_Freeze,2012-06-13T07:46Z,"I meant jar executable, and the file java  I downloaded it says I already have it installed I even uninstalled and re installed it. hmm?"
+,Jayzen_Freeze,2012-06-13T08:05Z,I really want to use this and my pc is pissing me off but now it shows java 7 then says unable to load app
+,NexiumCore,2012-06-13T08:50Z,"I would suggest completely reinstalling Windows. Not just to use this installer, but because your environment seems to really have some issues. "
+,Jayzen_Freeze,2012-06-14T01:21Z,that is one thing I cannot do It is a 2tb all most full with no way to transfer data 
+,Jayzen_Freeze,2012-06-14T01:49Z,"i was reading about java problems  and it was because when i installed the newer java's it did not include a file needed to use this as well as adventure craft it was a swt.jar file that was not included now it works, I KNEW IT WOULD THAT IS WHY I NEVER VOTED BAD +1"
+,NexiumCore,2012-06-14T05:03Z,Well I hope you find the application worth the trouble. 
+,Jayzen_Freeze,2012-06-14T06:24Z,how do you install multiple versions without deleting the other can I have different versions installed at the same time?
+,NexiumCore,2012-06-14T22:37Z,I honestly couldn't help you with that.
+,NexiumCore,2012-06-14T22:43Z,"Just to let everybody know, once the next full version is out I plan on distributing the snapshots separately.  I feel like they are cluttering the combo box. The same goes for pre-releases and non-stable releases."
+,NexiumCore,2012-06-14T22:47Z,"@Jayzen_Freeze Why would you need to install several versions? This application only takes .2 seconds to install any version available, and carries your saves over to the new install."

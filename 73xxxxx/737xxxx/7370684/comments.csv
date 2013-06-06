@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+[T],mrriser007,2012-06-21T11:24Z,rate.comment.seed
+,philipjayfry,2012-06-22T22:23Z,"patch keeps telling me that the patching failed. :o( tried putting it in the install dir and just about any subdir. am i missing anything? also, it seems awfully large for a patch (3 MB) and the installer seems awfully small (7 MB). didn't ruin the vm i've been testing it in though.
+
+could you maybe provide the patched files? or does the patcher use any machine specific information like mac addresses?"
+,toecap,2012-06-26T14:11Z,same problem here
+[T],mrriser007,2012-06-27T21:05Z,"@philipjayfry
+@toecap
+1.install application
+2.after installation exit application if its open
+3.thn apply patch
+done"
+,philipjayfry,2012-07-01T19:55Z,"hey mrriser,
+thanks for the response, but i did of course made sure that the application is closed while attempting to patch. i even tried installing it in different languages (which apparently just changes an .ini file entry) and on several different systems (xp 32, 7 64...).
+
+pleeease just upload the patched installation folder, that should be the most simple workaround."
+,fridens,2012-07-04T14:34Z,:::::::::::::::::error::::::::::::::
+,fridens,2012-07-05T09:10Z,"Install & Activate:
+
+Make sure that whether x86 or x64, the install dir is:
+
+C:Program FilesKroll OntrackOntrack EasyRecovery10 Professional
+
+DO NOT INSTALL TO:
+
+C:Program Files (x86)
+or
+C:ProgramKroll Ontrack
+
+... will cause patch to fail."
+,fridens,2012-07-05T09:14Z,"Install & Activate:
+
+Make sure that whether x86 or x64, the install dir is:
+
+C:Program FilesKroll OntrackOntrack EasyRecovery10 Professional
+
+DO NOT INSTALL TO:
+
+C:Program Files (x86)
+or
+C:ProgramKroll Ontrack
+
+... will cause patch to fail"
+,rhalls28,2012-07-12T17:47Z,"Just follow what @fridens  said and will do the job.
+Thanks mate!"
+,philipjayfry,2012-07-20T19:46Z,"kudos to fridens for figuring that one out!
+
+alas, my xp 32 is a german version, so the %programfiles% dir is called programme and it didn't work there either.
+
+somewhat poor design on the patch being hardcoded to a specific folder, but hey, its free..."
+,thereasonifailed,2012-08-09T04:10Z,"Simple Fix; let it install where it wants.  Once done installing to somewhere other than C:Program Files; copy the ""Kroll Ontrack"" folder to C:Program Files; run the patch and then CUT the ""Kroll Ontrack"" folder from C:Program Files back to it's original location.  Done and Done!"

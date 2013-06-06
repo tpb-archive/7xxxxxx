@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,ghost0,2012-06-18T08:19Z,fuck everyone who didn't seed thank you burn in hell   please seed 
+,AVC-33,2012-06-18T15:09Z,"Audio is now perfect. But whining continues... please be patient... :D
+
+Video is still repacked (by cap, I quess) to AVC. Original airing format is MPEG2. 
+Lossy packing (AVC) after another lossy packing (MPEG2) causes clear detail loss when watched in big screen, even when AVC is very good packer. Best quality would be achieved without any re-packings:
+
+Video: 1920 x 1080, interlaced MPEG2, 29.97 fps (24.00 fps Telecine)
+
+Audio: AC3, 6 channels, 384 kbps (check, this is already OK)
+
+
+Check your caps settings. Is there really no hands-off -recording mode?    
+
+
+
+Take this for reference:
+
+http://thepiratebay.se/torrent/7285990/Game.of.Thrones.S02E08.1080i.HDTV.DD5.1.MPEG2-PublicHD
+
+
+This is the text book example how raw 1080i TS should be handled.
+
+
+P.S. Appreciate a lot your efforts despite all this whining. :)"
+,parrumies,2012-06-18T20:59Z,"If he wanted to distribute .TS, I'm sure he'd be perfectly capable of it. I think this should be deinterlaced and de-telecined, probably the video compresses better that way too. The show is shot at 1080p23.976, 60Hz interlaced is just telecined. 
+
+A lot of rips get it wrong, though. Probably they don't produce 23.976fps but 24fps which produces occasional but irritating jerkyness. "
+,AVC-33,2012-06-18T22:49Z,"There is now severe confusion what is originally aired  and what is not.  
+They don´t air it deinterlaced and de-telecined. I´m asking raw, UNALTERED i.e un-messed i.e exactly like aired by HBO -rip. 
+Seems that our diploma-rippers, for example those who ripped this year´s season of Game of Thrones 1080i TS -releases, don´t care this show.
+"
+[T],SecTPB,2012-06-19T01:31Z,"I don't feel like typing, so I'll just copy and paste this information from a website.
+
+MPEG-2 and MPEG-4 both allocate the most bits to complex, fast-moving video information. But MPEG-4 is more intelligent, more adaptive, and takes better advantage of increased processing power. It provides a set of tools and algorithms for coding, scaling, and compressing numerous objects. MPEG-4 can compress video, audio, animation, still images, textures, meshes, and buttons. It's more sophisticated at handling shape and motion than MPEG-2, and, when MPEG-4 detects errors in the bit stream, it can resync the decoder, recover data, and conceal errors.
+
+Until now, the consensus has been that MPEG-2 looks better at high data rates, while MPEG-4 looks better at low data rates. That's what has driven the growth of MPEG-4 in videoconferencing, streaming, downloads, and mobile devices. Older versions of MPEG-4 are all over the PC world. You can find them in software-based applications like Nero, the RealOne player, and QuickTime.
+
+However, MPEG-4 is now available in a new flavor—known variously as Layer 10, H.264, or AVC—and it's likely to surpass MPEG-2 in quality-critical applications. According to Rob Koenen, who chairs the MPEG Requirements Group and founded the MPEG Industry Forum, ""MPEG-4 AVC is a higher-quality codec, both in the sense that it will deliver more quality for the same amount of bits and in the sense that it will be used in very high-end applications.""
+
+Coming to a Big Screen Near You 
+MPEG-4 AVC has made its first major conquests in satellite video delivery. DirecTV has adopted AVC as the future codec for HD broadcast channels starting in Atlanta, Boston, Chicago, Dallas, Detroit, Houston, Los Angeles, New York, Philadelphia, San Francisco, Tampa, and Washington, D.C. Eventually, all of DirecTV's HD channels will use AVC, although SD channels will continue to use MPEG-2.
+
+EchoStar is also planning to make the transition from MPEG-2 to MPEG-4 AVC on DISH Network sometime in 2006. The same need to fit more channels into limited bandwidth has telecom giants like Bell Canada, BellSouth, and Southwestern Bell interested in using AVC for video-over-DSL services. Even the cable industry is quietly eyeballing the new codec.
+
+Both of the forthcoming high-definition DVD formats, Blu-ray and HD-DVD, have adopted AVC, although not exclusively. They'll also support the Microsoft/SMPTE VC-1 codec and MPEG-2, which remains the industry standard in terrestrial DTV broadcasting and standard-definition DVD-Video."
+,parrumies,2012-06-22T22:09Z,"Originally aired is not what is originally shot. When you buy the BD season box, do you get 1080i60 material? NO! You get 1080p23.976!
+
+HBO shoots it's series on actual film. So deinterlace + reverse telecine RETURNS the aired material to the original format. 
+
+1080i would be better if that was how it was shot."

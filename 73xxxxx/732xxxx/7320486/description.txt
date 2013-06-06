@@ -1,0 +1,41 @@
+God Of War 2 + Emulator 
+
+this is a highly compressed version of god of war 2 for pc
+
+
+
+NOTE
+====
+1.choose grphcs,keyboard n audio settings from config.
+
+2.for increasing fps,do the following(sound might get crappy,settings are as per my own experience):
+A.go to config choose: 
+native
+allow 8-bit,
+wait v-sync,
+enable output merger,
+log z
+alpha correction,
+windowed(ur wish)
+renderer(hardware)
+interfacing(weave tff)
+aspect:stretch
+
+B.goto config:system settings
+
+i.select ee/iop,choose
+emotionengine(recompiler)
+iop(recompiler)
+roundmode(chop/zero),clamping(normal),flush to zero,denormals are zero.
+
+ii.choose vus
+vu0:supervu,vu1:supervu,round(zero),clamping(normal),flush zero and denormals zero.
+
+iii.choose GS
+disable frame skipping,slow mode adjustment:33%
+
+iv.choose speedhacks:
+drag eecycle to 3,vu cycle to 3,enable all 5 options.
+choose ok and run!
+(in default settings i got 10-20 fps,using above tweaks i paly at 45+ fps ;)
+please rate the torrent and leave thanks! 		

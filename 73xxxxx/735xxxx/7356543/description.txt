@@ -1,0 +1,54 @@
+General
+
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 50.9 MiB
+Duration                         : 3mn 45s
+Overall bit rate                 : 1 889 Kbps
+Encoded date                     : UTC 2012-06-15 00:55:10
+Tagged date                      : UTC 2012-06-15 00:55:10
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 3mn 45s
+Bit rate mode                    : Variable
+Bit rate                         : 1 797 Kbps
+Maximum bit rate                 : 4 120 Kbps
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 16:9
+Original display aspect ratio    : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 23.976 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.217
+Stream size                      : 48.9 MiB (96%)
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 3mn 45s
+Bit rate mode                    : Variable
+Bit rate                         : 66.15 Kbps
+Maximum bit rate                 : 83.5 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy
+Stream size                      : 1.79 MiB (4%)

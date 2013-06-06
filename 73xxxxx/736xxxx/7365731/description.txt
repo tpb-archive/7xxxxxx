@@ -1,0 +1,32 @@
+PLEASE NOTE-Nexus 2.3.4 CANNOT use any Expansions until someone decides to fix the bug's with it. (If you have fixed the bugs, Contact me)
+
+Nexus 2.3.4 ONLY works with its default sounds (Excluding Club Sounds Vol.1)
+You are better off using Nexus 2.20 if you want to use any expansions at all!
+
+
+-How to Install Nexus 2.3.4-
+Step 1:Download FruityWrapper.dll
+Step 2:Replace exisiting FruityWrapper.dll with new one (The one you downloaded)
+Step 3:Download ReFX Nexus 2.3.4 Setup
+Step 4:Install the Setup to your VST Plugins Folder
+Step 5:Download ReFX Nexus Content
+Step 6:Mount ISO Image and extract "Nexus Content"
+Step 7:Place on DESKTOP and rename to "Nexus Content" if it has a different name other than that
+Step 8:(Important)RENAME ANY OTHER OLD NEXUS CONTENT FOLDER'S TO SOMETHING OTHER THAN "Nexus Content" YOU ONLY NEED THE NEW ONE ON YOUR DEKSTOP IF YOU TRY TO USE THE OLD CONTENT IT WILL NOT WORK!
+Step 9:Delete any old Synso Protection (If you attempted to install any Nexus other than this, Remove whatever it added to System32 (32 Bit) or SysWOW64 (64 Bit) Usually its something like SYNSOACC.dll, SYNSOEMU,dll, NEXUSCRACK.dll. If you CANNOT find any of these it should work just fine hopefully
+Step 10:Run your DAW, Import nexus via Channel>Add One, Have fun!
+
+-NEXUS 2.3.4 BUGS-
+-Display may sometimes overlap if switching from "Library" to "Sys"
+-Display dosent always overlap if switching from "Library" to "Sys"
+-Display sometime's overlaps if you switch to any other tab besides Library
+-Playing preset's from "Club Sounds Vol.1" and any other expansion fails
+-Playing preset's from any expansion SOMETIMES but rarely works
+-If playing preset's from expansions work, Some sounds dont work and give a error
+-When launching nexus it VERY RARELY gives a access violation error (But works on the 2nd try of opening it)
+-Sometimes sound dosent play (Rare, Only on some special occasions)
+
+If any above links dont work contact me ill try to upload one
+~Credit to "Team ULTiMATE and Metonator~
+
+-----------------------------------------------------------------------------------------------------------------------------

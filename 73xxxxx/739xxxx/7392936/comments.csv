@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+[T],mrriser007,2012-06-27T21:54Z,"About 64-bit of Office 2010
+
+Current editions of Classic Menu for Office 2010 Suites (for Enterprise, Professional Plus, Professional, Home and Business) work fine with 32-bit version of Office 2010, but don't support 64-bit of Office 2010.
+The 64-bit editions is in developing and will be released in Oct, 2010. It will be free for customers who have purchased 32-bit editions.
+Which is suit for you, 32-bit or 64-bit?
+
+There are few software and add-ins designed for 64-bit versions of Office 2010. Microsoft recommends most users to install 32-bit version of Office 2010 but not 64-bit version at following pages:
+
+""This product includes both 32- and 64-bit versions for a single computer. We recommend the 32-bit version, which runs great on both 32- and 64-bit versions of Windows. People who routinely use very large documents or spreadsheets that need more than 2 GB of memory may want to run the 64-bit version, but many common add-ins for Office don't run correctly in the 64-bit edition.""
+
+We recommend you to install the 32-bit version of Office 2010 and you will enjoy the full features interface with Classic Menu for Office 2010.
+What should I do if I have to use 64-bit of Office 2010 now?
+
+If you have to use 64-bit of Office 2010 now because of some reasons, please donâ&#x20AC;&#x2122;t worry about it. We have released new software Classic Menu for Office 2010 Starter which supports 64-bit of Office 2010. It is free for our customers who have purchased 2010 suites. It is also free for customers who have purchased Classic Menu for Office 2007 after Jan 1, 2010.
+
+The limitation of Classic Menu for Office 2010 Starter is including Classic Menu for Word, Excel and PowerPoint 2010 only. If users need Classic Menu for Outlook, Access, InfoPath, Publisher, Visio and Project 2010, they need to download and install Classic Menu for Office 2010 Suites (they supports 32-bit of Office 2010 now) at
+.
+Why does the Starter support 64-bit but other (Enterprise, Professional Plusâ&#x20AC;Ś) don't?
+
+Because the Starter only includes Classic Menu for Word, Excel and PowerPoint, developers can build these menus without using Com Add-ins Technology. But developers have to build Classic Menu for Access, Outlook, InfoPath, Publisher, Visio and Project with Com Add-in Technology. The 64-bit of Com Add-in Technology is difficult and we have to spend more time to bring it to our products."

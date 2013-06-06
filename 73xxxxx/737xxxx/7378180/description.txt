@@ -1,0 +1,17 @@
+Instructions
+1. Extract the rar file and place mkvdts2ac3.exe where you wish to keep it.
+2. Drag the MKV file onTO the .exe file (Do not open .exe manually)
+3. First thing it will ask is what bitrate you would like your AC3 audio to be.
+If you are not sure just push enter.
+4. Next it will ask you if you want to split the file into 3.7GB parts. If you
+have a FAT32 device you will need to press Y. Default is set to No.
+5. It will display all the streams of the MKV. Select the audio stream track ID
+you wish to use. If you are unsure you can view the video file with
+MediaInfo.
+New file will have _AC3 on the end of the original filename!
+*If you chose to split the file(s) will be labled -001,002 etc...
+
+Notes
+-Tested in Windows 7 and XP
+-Some Antivirus apps may give false warnings due to embedded
+files in .exe file needed for demuxing and conversion....

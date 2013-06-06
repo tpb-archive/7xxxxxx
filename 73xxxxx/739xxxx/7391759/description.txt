@@ -1,0 +1,14 @@
+Advanced Installer is a Windows Installer authoring tool which enables developers and system administrators to easily build reliable MSI packages. Advanced Installer is a useful tool for administrators and developers which allows them to create reliable MSI packages.Windows Installer is becoming the "de facto" software installation technology on Windows. Being preinstalled on the latest Microsoft operating systems, and also bundled with the most popular productivity packages (Office, etc.) this software installer provides a significant number of power features that improve application management and administration.
+
+This power doesn't come without pitfalls, and the most important of them all is the complexity. Creating an MSI file requires careful planning and editing of dozens of database tables.
+
+Hundreds of pages of documentation must be read, countless lists of rules must be followed. Building a Windows Installer package may take days or even weeks. This is where a MSI creation tool comes to help.
+
+*Advanced Installer makes MSI creation a snap
+*Advanced Installer integrates in automated build tools
+*Install and register the resources composing your application
+*Search, download and install Prerequisites
+*Organize your application in modules and components
+*Secure and choose your package's presentations
+*Extend the installation process with Custom Actions
+*Customize the installation User Interface

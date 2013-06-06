@@ -1,0 +1,40 @@
+COMPATIBLE WITH ALL GALAXY NEXUS VARIANTS (as long as its sporting 4.0.3 or 4.0.4) AND NOW IT SUPPORTS THE HTC ONE X (international version with the Tegra 3 only).
+franco.Kernel updater app features:
+HTC One X:
+* Downloads boot.img and modules directly from the FTP
+* CPU tools with the ability to change governor parameters and mess with the default governor and CPU frequencies
+* Full control over the 4 cores - you can chose how many cores you want your device to use
+* Live watch over the 4 cores by the second - you can see the device turning on/off the cores live
+Galaxy Nexus:
+* Downloads the kernel directly from the ftp
+* Checks for updates directly from the ftp
+* Checks and downloads Imoseyon's kernel (new feature)
+* Kernel auto-flash
+* Cpu frequencies changer
+* Governor changer
+* Voltage control interface
+* Kernel settings:
+* Hotplug enabler
+* Color Control - You're able to change GAMMA values and Color Multipliers to achieve the best color profile
+* Sound Control - Increase the max volume of your device
+* Download special franco.Kernel boot animation
+* Wi-fi special mode to boost signal during streaming while on screen off
+* Custom download path
+* Live calibrated voltages panel
+* Disable logger
+* SQlite defrag on boot
+* Dedicated milestone and nightly kernels changelogs
+* A widget with pertinent information
+* Power Modes in prebuilt presets for maximum flexibility
+
+This kernel gives your phone the best performance you've ever seen, with the best battery life as can be seen by the following comments:
+"I've been running AOKP with Franco's 7.1 and its amazing.
+Thank you for your hard work."
+"This kernel + AOKP = Pure awesomeness. 
+Pretty much the best performance I've ever had on any device as of yet.
+Thanks so much for your continued effort "
+"Cracked it Franco , well done. Screen-off efficiency it better than stock for me! Went to bed at 65% woke up over 10 hours later and it was 64%!"
+
+This application and kernel will ONLY work with Ice Cream Sandwich 4.0.3/4.0.4 and you need root and a custom recovery to flash the .zip. If you don't have root or a custom recovery please check this fabulous tool: http://forum.xda-developers.com/showthread.php?t=1392310
+Main tester of this app and kernel:
+Christian Göllner - get his app here: https://market.android.com/details?id=com.cgollner.benchmark

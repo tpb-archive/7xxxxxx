@@ -1,0 +1,139 @@
+﻿User Type,Username,Date,Text
+,mushi007,2012-05-28T16:52Z,thanx dear ; efforts would highly be appreciated for PC version ; v all are standing by for PC version
+,tcas76,2012-05-28T17:14Z,"Thank you very much as well, appreciate your efforts."
+,airbusflyer,2012-05-28T17:42Z,"Thanks very much...and very fast!! If someone will have the airportlist.bin after the release of the PC version would be nice to share it. To use VFR charts :)
+
+Thanks again...continue with that!"
+,flightboy75,2012-05-28T18:24Z,"Could someone create a clear, step by step, guide or tutorial of how to install into iPad?. I had JeppFD and JeppTC both working up to Cycle 1205, and then I upgraded to iOS 5.1.1 and now I am not able to make any of them work anymore, it seems like the data files or folders have changed and even thought I follow the steps I read in pirates bay I keep getting the message ""The selected chart is not found in the library"" Thank you very much, I appreciate your time."
+,sgamd87,2012-05-28T20:05Z,"@airbusflyer
+Will upload airporlist as soon as I get the pc version.
+
+@flightboy75
+To install this cycle on your JeppFD. Download iExplorer, then navigate to Your_iPad_Name/Apps/JeppFD/Documents
+Replace the data folder with the ""data"" folder provided in this torrent.
+To have VFR charts you´ll need to wait for the PC version."
+,sgamd87,2012-05-28T20:09Z,"@flightboy75
+1 download iExplorer
+2 replace the ""data"" folder in Your_iPad_Name/Apps/JeppFD/Documents/data
+with the ""data"" from this torrent
+3 to have VFR charts you need to wait for the PC version to be released
+
+@airbusflyer
+I´ll upload the airportlist as soon as I the PC is out"
+,airbusflyer,2012-05-28T21:24Z,"@sgamd87
+thanks :)
+I also have the airportlist from the last cycle, and if you don't change these you still have the VFR charts.
+So, take your time :)"
+,precursor1188,2012-05-29T08:46Z,Very Timely. Thank You very much. Awaiting PC version.
+,glounk,2012-05-29T20:57Z,"hello folks;
+for windows PC's if possible?
+thanks."
+,fernandodunha,2012-05-29T21:09Z,PC Version! http://thepiratebay.se/torrent/7310388
+,Capt_Nemo,2012-05-30T10:42Z,"Airportlist.bin for this cycle:
+http://www.embedupload.com/?d=1JRLAZKDUV"
+,icepilots,2012-05-30T13:26Z,"Guys: While I love the release of this - PLEASE consider compressing the info first. If you compress it with 7z, the size reduces to 848,597,823 bytes - even when creating a self-extracting 7z image.
+
+This cuts over 300Mb from the download size!"
+,disagreeable,2012-06-02T15:30Z,"Thanks for the release!
+
+Question:
+I search for an airport and when I select a chart from that airport it says:
+
+Chart Library Problem; requested chart is not in the library; Contact Jepp support.
+
+Any ideas on how to fix?
+
+I have a JB 5.1.1 Ipad3.
+I have replaced the airportlist.bin in the TermCharts file with what looked like an updated one from comment below and it still does not work."
+,jeromepp,2012-06-03T11:25Z,"Thanks Fernand, great job.
+I still have a problem with VFR charts. I downloaded the updated airportlist.bin, and also did one myself from the PC version.
+However I can't find any VFR charts in the iPad. When I search a VFR airports as LFPN, it found the airport but doesn't show any map. And for IFR fields, it shows only the IFR charts even if the PC version has the VFR ones...
+Does someone have an idea?"
+,jeromepp,2012-06-03T11:37Z,"Finally I found how to do it: in the DATA directory, there are 5 files missing (vfr*). I just copied these 5 files from the PC version to the iPad termchart directory. And it works now.
+It would be great of course if the IPAD Cycle could contain these 5 vfr* files and the complete airportlist.bin ... Dreaming!
+Thanks anyway."
+,makoon,2012-06-04T21:03Z,"Why submit a torrent without a proper installation instruction included? There are so many people here asking the same question. I also have the problem with the error message: ""The selected chart is not found in the library"".
+
+Did the following:
+1. Copied the contents of data/TermCharts provided in this torrent to Apps/com.jeppesen.jepptc/Documents using iExplorer (http://www.macroplant.com/iexplorer/). Not the folders, just the files.
+2. Copied the 5 files vfrapts.dbf, VFRCharts.bin, vfrchrts.dbs, vfrntms.dbf and vfrntms.dbt from C:ProgramDataJeppesenCommonTerminalCharts to the folder on the ipad in step 1
+3. Replaced airportlist.bin on the ipad folder with the following torrent:
+http://thepiratebay.se/torrent/7287186/airportlist_jepp1210 (I downloaded cycle 1210, not 1211)
+
+What am I missing here?
+
+When opening Jeppesen TC I choose the Demo as I do not have a working serial. Could this be the problem?
+
+Should I copy any of the files in C:ProgramDataJeppesenCommonTextdatabase? Could that be the reason for the library error?
+
+Any suggestions would help. And do remember to write the full path of any folder location. It's difficult to guess where to put or find files. Thank you!"
+,jeromepp,2012-06-04T22:26Z,"Hi Makkon.
+I do more or less the same as you did, and it works for me.
+Personnaly, I first delete in the iPad the entire directory 'data'. And then I copy the new data directory (and the vfr and airportlist).
+Maybe you should try to delete the app, reinstall it, and, very important, run it once in demo mode (you get only a small region in the US). Then delete and copy 'data'
+Good luck
+J
+
+PS You will find more instructions visiting older cycles. They can't recopy each time all these instructions"
+,jeromepp,2012-06-04T22:27Z,"...
+Which airport are you searching which gives this error message?
+
+And did you try this bin:
+Airportlist.bin for this cycle:
+http://www.embedupload.com/?d=1JRLAZKDUV"
+,precursor1188,2012-06-05T10:21Z,"@makoon
+1. noted that you use TC. what u did is correct. If you copy from Ipad data, the airportlist.bin from the data is correct. No VFR charts.
+2. If u copy from the PC iso data, then the airportlist.bin if wrong. U need somebody here to post the airportlist.bin for that dvd.
+If u need vfr charts, copy all the vfr*.* from the PC dvd. Again u need the airportlist.bin from 2."
+,sgamd87,2012-06-05T22:56Z,"@makoon
+download this airportlist.bin for 1211
+http://thepiratebay.se/torrent/7332037/airportlist_jepp1211"
+,scademir,2012-06-07T15:39Z,"After several tests I have it working on my iPAD
+
+I did all steps above but still not working, so
+1. Remove JeepFD and recycled iPad
+2. Install it again, and click DEMO just to make sure it was working
+3. Copied the contents of data/TermCharts provided in this torrent to Apps/com.jeppesen.jepptc/Documents
+4. From the PC version I copied all vfr*.* to data/TermCharts in your iPad
+5. I do not need to copy the new airportlist, I am using the same that comes with this torrent data_1211
+6. Recycle iPad again.
+
+I hope this help, as I it was not working in the past, I do not know if we need to remove it all the time, I do not think so, as the JeepTC is updated and I do not need to remove it. Let´s wait the next cycle :)"
+,vfmontes,2012-06-07T21:09Z,Hello when did you laung que new Cycle 12-2012?? thanks
+,precursor1188,2012-06-09T04:02Z,"@scademir
+since you did not use the airportlist.bin from the PC data, can you check if you can see the vfr charts on the ipad? e.g. EDTU"
+,disagreeable,2012-06-11T07:55Z,"Thanks for the instructions guys, but I am confused about is this for JeppFD or JeppTC?????
+"
+,disagreeable,2012-06-12T10:09Z,"Guys,
+
+I have done all the steps to install/place into the folders described, YET, none are working. 
+
+Still getting ""chart not found in library"" message, even though it finds the airports and displays the charts list !
+
+There has to be something else missing!?
+Do you also need to update JeppTC files???
+
+Can somebody make a definative how to!! better if it was the uploader! Thanks in advance"
+,disagreeable,2012-06-14T08:38Z,"UPDATE:
+
+Got is working by:
+
+1) uninstalling JeppFD (i must have had a corrupt file somewhere)
+2) rebooting, and then installing JeppFD again from appstore.
+3) DONT start program; go to:
+com.jeppesen.FD/Documents/
+
+there should be nothing there.
+4) now use iexplorer or ifile and place the ""Data"" folder in.
+restart and enjoy.
+
+Ps - I dont think you have to uninstall every time but if you are getting the chart library problem then this is how i solved it.
+
+as sgamd87 said, just delete the ""Data"" folder and place the new one in!
+
+Wow, finally."
+,MrBiggs1056,2012-07-24T11:56Z,"Just a little note if you're suffering from the ""The selected chart is not found in the library"" error:
+
+This WILL happen if you try to update Jepp FD/TC with an out-of-date chart cycle. e.g. you're a new iPad owner and for you the 1215 cycle isn't available at TPB yet so you have to use 1214.
+
+The only way to fix this is to rewind the iPad system clock back to the period when the cycle is active and then install the cycle."

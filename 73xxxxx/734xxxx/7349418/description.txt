@@ -1,0 +1,36 @@
+This is the Transport Stream of S05E01 of True Blood. It's a completely(almost) untouched, raw, full quality rip as seen in HDTV. Mostly used for encoders but used to watch the episode exactly how it aired. I cut out the ads in the streams before the show, and before the ending preview using H.264 TS Cutter to save time for encoders finding and cutting out frames(Still may need a few cuts here and there as H.264 TS Cutter isn't perfect). Enjoy.
+
+
+[VIDEO]
+Width: 1920 pixels
+Height: 1080 pixels
+Aspect ratio: 16:9
+Frame rate: 29.970 fps
+Duration: 56mn 15s
+Bit rate mode: Variable
+Bit rate: 8,767 Kbps
+Maximum bit rate: 20.0 Mbps
+Video Format: AVC (Advanced Video Codec)
+Video profile: H.264 Main@L4.0
+Scan type: Interlaced
+Scan order: Top Field First
+Format settings, CABAC: Yes
+Format settings, ReFrames: 4 frames
+Format settings, GOP: M=4, N=32
+Chroma subsampling: 4:2:0
+
+
+
+[AUDIO]
+Format: AAC-LC (Advanced Audio Codec)
+Duration: 56mn 16s
+Bit rate mode: Constant / Variable / Variable
+Bit rate: 128 Kbps
+Minimum bit rate: 119 Kbps
+Maximum bit rate: 169 Kbps
+Sampling rate: 48.0 KHz
+Channels: 2 channels (Left + Right)
+Compression mode: Lossy
+Delay relative to video: 3ms
+Muxing mode: ADTS
+Language: English

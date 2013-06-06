@@ -1,0 +1,108 @@
+﻿User Type,Username,Date,Text
+,CrankyAVM,2012-06-20T23:25Z,Dibya - I'm confused by the double installation notes. Does anyone have a definitive guide to installing this?
+,CrankyAVM,2012-06-21T00:23Z,"Update: just got it running, here's the definitive guide. I'm posting this on all the Lego Batman 2 torrents I can find, keep reposting for the idiots that don't check page 1.
+
+1. Download, obviously
+
+2. Install Alcohol, either from the trial or pirate the full version elsewhere. I had Daemon Tools lite but to play this you need a utility called A.C.I.D. that is installed when you install Alcohol 120%. MAKE SURE TO SELECT the option to install A.C.I.D. when installing Alcohol!! I went ahead and did the whole thing with Alcohol and it worked fine. I'm sure you could do it with DT Lite and then A.C.I.D. though
+
+3. Might have to reboot after installing Alcohol, do that and then mount the mdf file with Alcohol/DT. 
+
+4. Launch A.C.I.D. from the start menu, hit ""cloak"" and wait for some kind of confirmation message in the log.
+
+5. Run the installer from the mounted image, install as usual. 
+
+6. Play. NOTE: Because of securom the image has to be mounted and ""cloaked"" with ACID whenever you want to play, not just when you're installing. Otherwise you'll get a message telling you to insert the disc whenever you try to play.
+
+Keep reposting this"
+,0rochimaru,2012-06-21T01:59Z,"Kinda dumb to entitle the torrent ""+ Crack"" when it's clearly more a work-around for the Securom.
+
+Will wait for full CRACKED version."
+,rosumparat,2012-06-21T03:32Z,"So here's the A.C.I.D. log:
+
+""04:04:26 A.C.I.D v1.2.10090 started...!
+04:04:26 Alcohol 120% v2.0.2.3931
+04:04:26 Windows 7 Ultimate v6.1 (Build 7600)
+04:04:26 Locale: English (United States)
+04:04:26 Detected 2 optical device(s), 0 physical & 2 virtual device(s)
+04:04:26 Alcohol Soft Customer Release
+
+04:04:36 * Cloaking procedure started.
+04:04:36 2 device(s) successfully cloaked from SafeDisc 4.xx:
+04:04:36  [ K: ] Status = Successful
+04:04:36  [ I: ] Status = Successful
+04:04:36 2 device(s) successfully cloaked from SecuROM 7.xx:
+04:04:36  [ K: ] Status = Successful
+04:04:36  [ I: ] Status = Successful
+04:04:36 * Cloaking procedure completed.""
+
+But after launching the game I got this:
+""Please insert the original disk instead of a backup (1000)""
+
+Well, I think I'll wait for a CRACK."
+,fogLx,2012-06-21T06:46Z,@CrankyAVM thank you for you kindness :)
+,CrankyAVM,2012-06-21T15:33Z,"@rosumparat:
+
+You might be playing from the launcher; i forgot to mention, launch the game from the install directory and not from the launcher that pops up when you mount the image. The game should create a desktop shortcut for this purpose but if not just create one from the install directory. Also make sure the image is still mounted and cloaked whenever you play the game. That might fix your error. "
+,4454,2012-06-21T16:33Z,"Please help!?
+When I've cloaked in a.c.i.d and want to exit the program it says: Terminating A.C.I.D will also disable its device cloaking features.
+
+So what to do? I can't install the game either in the installer?? "
+,CrankyAVM,2012-06-21T17:05Z,"@4454 
+
+Yeah I got that too. Just minimize the program instead of closing it, that should minimize it to the notification area (it needs to be running in the background)"
+,4454,2012-06-21T17:28Z,"And when I try to install the game from the windows installer it says it's not a valid product!? 
+@CrankyAVM: That's exactly what I do but still it won't work?"
+,CrankyAVM,2012-06-21T19:01Z,"@4454
+
+Did you try turning it off and then back on?
+
+kidding, did you get a ""status=succesfull"" confirmation from a.c.i.d. like rosumparat above? Make sure you got one for each drive INCLUDING the virtual one that the image is mounted on. The order to do things in is: Mount, cloak, minimize acid, run installer, create shortcut from install directory which is in C:/Program Files/WB interactive or something, launch shortcut to play game, finish playing, uncloak from acid, unmount. 
+
+Personally i keep it mounted and just run acid whenever i want to play"
+,4454,2012-06-21T20:04Z,"@CrankyAVM: Yes, they were all successfull, but when I try to cloak again it say's that nothing could be updated but I don't know if that's a problem? Which file is it I'm going to mount, isn't it the legobat2 MDF file?"
+,4454,2012-06-21T20:06Z,"I'm pretty sure I'm doing the right thing, but it won't work? "
+,4454,2012-06-21T20:12Z,"@CrankyAVM: I get this message but in swedish so I translated it on google translate haha!;
+This installation package could not be opened. Contact the application vendor to verify that it is a valid package for windows installer"
+,rosumparat,2012-06-21T23:52Z,"@CrankyAVM  Nope still not working. Gives the same error and I did all the steps you told me about.
+I guess I'll wait for a proper crack."
+,Spyn3r1341,2012-06-22T08:50Z,this game works bu when i unlock free roam it often shut down my game with no error what should i do ? 
+,CrankyAVM,2012-06-22T16:15Z,"@everyone
+
+Hey guys, sorry to hear about your errors. Not sure I can offer much more help, I would just wait for a more straightforward crack. But yes, 4454, you're mounting the MDF file. The MDS file is just metadata. And rosumparat, sorry dude, good luck. The game's pretty cool, definitely a ton of replay value and the acting is spot on."
+,crisman999,2012-06-22T18:36Z,Trae espa単ol? Spanish?
+,Ames222,2012-06-22T20:06Z,I am in lvl 3 and there i need to destroy something with rocket but there arent no rockets (at a car)please help me someone
+,marcshields,2012-06-23T03:57Z,"Too much leechers, please seed."
+,PleaseDontBanMe,2012-06-23T07:50Z,"@everyone
+
+This torrent is 100% working and sick!
+
+Follow CrankyAVM's instructions above. The only thing I wanted to add is if you use Daemon Tools Lite to mount the MDF, make sure you use the [SCSI-0] (H:) and not the [DT-0] (F:) otherwise you will get errors and crashes. Enjoy"
+,N4RWHAL,2012-06-23T10:47Z,Can someone seed please :)
+,kimiki88,2012-06-23T16:16Z,"I follow the instruction above but then when i start game the massage appears that said that i need to put original cd, what should i do?"
+,4454,2012-06-23T18:20Z,It works fine for me now. I downloaded this torrent instead of azaq318 and followed CrankvAVM's instruction and everything works! Thanks a lot!!!
+,seanharm,2012-06-23T19:34Z,"I finally got it to install but mine is crashing after starting the 3rd level (parking lot, supposed to be blowing up statues)."
+,elglavio,2012-06-24T07:33Z,What is the password for the archive please. Thanks
+,Hokrollo,2012-06-24T12:28Z,"Alchohol says I need to reboot every time I install it. When I then do it, it asks again and again and so on, but won't finish the install. "
+,VirtualVERTIG0,2012-06-24T14:33Z,I get a virus called Heur in LegoBatman2.exe 
+,Threule,2012-06-24T23:18Z,so anyone will upload the dlc?
+,ZombieHadouken,2012-06-25T20:34Z,"I had trouble installing....
+
+Midway through install process, my PC froze up and had to be restarted.
+Batman was not installed. now when i start the installer it says
+Setup Wizard Ended Prematurely
+I cannot install now!
+I ran registry cleaner and it didnt help.
+
+help a brotha out"
+,tomgam75,2012-06-27T15:32Z,"http://gameinfocenter.com/pc-games/system-requirements/LEGO-Batman-2-DC-Super-Heroes.html
+
+Minimum system requirements
+
+OS: Windows XP, Windows Vista or Windows 7
+CPU: Intel Core 2 Duo @ 2GHz or AMD Athlon 64 X2 3800+ - 2 * 2000 Mhz
+Memory: 1GB RAM
+Graphics Card: NVIDIA 7600, 7800, 8xxx or better, ATI 1950 or better
+Sound Card: 100% DirectX 9.0c compatible Audio Device
+Hard disk space: Installation requires 10GB of free hard disk space.
+Microsoft DirectX 9.0c (March 2009) is installed together with the game unless this or a more up to date version is already installed."

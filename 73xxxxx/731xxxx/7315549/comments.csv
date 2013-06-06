@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,harke1983,2012-05-31T17:06Z,"Super Share Bro , THanks"
+,nileshtambe,2012-05-31T17:33Z,"u r welcome
+
+what about ur os u have made how its running?"
+,harke1983,2012-05-31T17:46Z,"rUNNING gREAT brO , aLL tHAnKs tO yOu"
+,razeke,2012-06-01T07:40Z,Can this complete a WEI test? Can it update properly? Does it show preview thumbnails?
+,nileshtambe,2012-06-01T10:18Z,"WEI test is not possible windows media player and codec with winsat removed
+
+no update as winsxs reduced to 210 mb by vlite it breaks update
+
+it does have preview thumbnails
+in previous version 1,2,3 i removed it not in this one"
+,razeke,2012-06-02T12:00Z,"Some suggestions:
+
+Maintain WEI. This allows the system to recognise you have a SSD.
+
+Integrate key performance post-SP1 updates. Such as KB 2581464. Maybe even a completely updated version. (I think you have to apply updates before removing any components)
+
+Integrate redistributables needed on pretty much every single system. Such as visual c++ 2005, 2008, 2010 SP1, Direct X, slim .NET 4, Flash, Shockwave, Silverlight. (extra ~70mb)
+
+Make your ISO UEFI/GPT bootable. Copy efi/microsoft/boot contents into efi/boot and extract bootmgfw.efi from install.wim and also put that into efi/boot and rename it to bootx64.efi (extra 4.5mb)"
+,Czaee,2012-06-04T05:27Z,"Hello,
+Thank you so much for this!!!
+I am sorry am bit of an amateur at these things. But will you please let me know where I can find the activation code? Thanks!"
+,emil50,2012-06-04T05:59Z,"Czaee
+    Windows Loader v2.1.4 Daz "
+,razeke,2012-06-05T05:46Z,"My volume is seriously low on this OS. Didn't have this problem on v3. Checked all playback, mixer, balance, etc options, everything is at 100. It's as if that communication tab is stuck on reduce volume of other sounds by 50% even though it'
+s on do nothing. "
+,razeke,2012-06-05T05:51Z,I know this because I have to use a replay gain of +10db now instead of 5db and I have to turn speakers right up for skyrim now when before it will only be turned up a few bars.
+,nileshtambe,2012-06-05T11:33Z,do u on stock microsoft drivers or u install ur particular drivers ??
+,jaynsusan,2012-06-07T06:27Z,Everything downloaded fine but I lost all my programs and files...how can I get them back?
+,nileshtambe,2012-07-08T14:59Z,"its not upgradable
+u lose things if u install on ur exiting system as its can not perform upgrade, if u have something imp on c drive back it up safe place to install as main os"
+,razeke,2012-08-07T11:32Z,Can't turn on pagefile on this version. So Ghost Recon and Prototype 2 don't work.
+,nileshtambe,2012-08-15T15:44Z,"@razeke
+what u want to say is that, u can not enable page file , is that correct?"

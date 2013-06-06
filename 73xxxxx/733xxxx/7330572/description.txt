@@ -1,0 +1,47 @@
+Expedicion Lobo Cap.2 [BBC][2012].avi 
+Formato : AVI 
+Formato/Info : Audio Video Interleave 
+Formato del perfil : OpenDML 
+Tamaño del archivo : 1,64GIB 
+Duración : 52min. 
+Tasa de bits total : 4 519Kbps 
+Aplicación de codifición : Lavf52.94.0 
+
+Video 
+ID : 0 
+Formato : AVC 
+Formato/Info : Advanced Video Codec 
+Formato del perfil : Main@L4.0 
+Ajustes del formato, CABAC : Si 
+Ajustes del formato, RefFrames : 2marcos 
+ID Códec : H264 
+Duración : 52min. 
+Tasa de bits : 4 200Kbps 
+Ancho : 1 920pixeles 
+Alto : 1 080pixeles 
+Relación de aspecto : 16:9 
+Modo de velocidad de cuadro : Variable 
+Velocidad de cuadro : 25,000fps 
+ColorSpace : YUV 
+ChromaSubsampling : 4:2:0 
+BitDepth/String : 8bits 
+Tipo de exploración : Progresivo 
+Bits/(Pixel*cuadro) : 0.081 
+Tamaño de pista : 1,52GIB (93%) 
+Librería de codificación : x264 core 112 r1834 a51816a 
+Opciones de codificación : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0 / me=dia / subme=2 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=3 / weightb=0 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=4200 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / ip_ratio=1.41 / aq=1:1.00 
+
+Audio 
+ID : 1 
+Formato : AC-3 
+Formato/Info : Audio Coding 3 
+ID Códec : 00001000-0000-0020-8000-00AA00389B71 
+Duración : 52min. 
+Tasa de bits : 320Kbps 
+Canal(es) : 6canales 
+Posiciones del canal : Front: L C R, Side: L R, LFE 
+Velocidad de muestreo : 48,0KHz 
+BitDepth/String : 16bits 
+Tamaño de pista : 119MB (7%) 
+Entrelazado, duración : 32 ms (0,80fotograma de video) 
+

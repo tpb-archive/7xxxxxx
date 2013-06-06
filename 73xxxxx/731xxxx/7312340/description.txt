@@ -1,0 +1,9 @@
+Changelog
+
+Fraps 3.5.3 - 27th May, 2012
+
+- Fixed micro-stutter in recorded video after temporary framerate drop 
+
+- Fixed missing video frames in some games after rendering paused
+
+- Fixed bug causing error message on startup for some users

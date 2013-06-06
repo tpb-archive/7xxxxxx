@@ -1,0 +1,67 @@
+Formato                                  : Matroska
+Versão do Formato                        : Version 2
+Duração                                  : 1h 1mn
+Taxa de Bits Total, Modo                 : Variável
+Taxa de Bits Total                       : 3 475 Kbps
+Nome do Vídeo                            : Game of Thrones (2011) - Ep 01
+Data da codificação                      : UTC 2012-06-15 17:00:45
+Programa usado                           : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04
+Biblioteca usada                         : libebml v1.2.3 + libmatroska v1.3.0
+Attachment                               : Yes / Yes / Yes
+
+Vídeo
+ID                                       : 1
+Formato                                  : AVC
+Formato/Informações                      : Advanced Video Codec
+Perfil do Formato                        : High@L4.1
+Conf do Formato, CABAC                   : Sim
+Conf do Formato, Quadros de Ref.         : 3 quadros
+Modo de Multiplexação                    : Header stripping
+ID do Codec                              : V_MPEG4/ISO/AVC
+Duração                                  : 1h 1mn
+Modo da taxa de bits                     : Variável
+Taxa de bits nominal                     : 3 000 Kbps
+Taxa de bits máxima                      : 62.5 Mbps
+Largura                                  : 1 920 pixels
+Altura                                   : 1 080 pixels
+Proporção da imagem                      : 16:9
+Taxa de quadros                          : 23.976 fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8 bits
+Tipo de Scan                             : Progressivo
+Bits/(Pixels*Quadros)                    : 0.060
+Coming - Dual Audio by Belex
+Biblioteca usada                         : x264 core 120 r2120 0c7dab9
+Default                                  : Sim
+Forced                                   : Não
+
+Áudio #1
+ID                                       : 2
+Formato                                  : AAC
+Formato/Informações                      : Advanced Audio Codec
+Perfil do Formato                        : LC
+ID do Codec                              : A_AAC
+Duração                                  : 1h 1mn
+Nº de canais                             : 2 canais
+Posições dos canais                      : Front: L R
+Taxa de amostragem                       : 44.1 KHz
+Título                                   : Audio Português AAC 2.0
+Idioma                                   : Português
+Default                                  : Sim
+Forced                                   : Não
+
+Áudio #2
+ID                                       : 3
+Formato                                  : AAC
+Formato/Informações                      : Advanced Audio Codec
+Perfil do Formato                        : LC
+ID do Codec                              : A_AAC
+Duração                                  : 1h 1mn
+Nº de canais                             : 6 canais
+Posições dos canais                      : Front: L C R, Side: L R, LFE
+Taxa de amostragem                       : 48.0 KHz
+Título                                   : English AAC 5.1
+Idioma                                   : Inglês
+Default                                  : Não
+Forced                                   : Não

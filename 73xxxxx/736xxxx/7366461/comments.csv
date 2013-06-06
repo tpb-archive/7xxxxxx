@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+,User264,2012-06-19T16:37Z,"Ok, hope someone will bother to help me. I am using Razor's rzr-skrm as base install and then applying Reloaded updates, but my mods installed via Nexus Mod Manager won't start; even when I try just one mod, SkyRe. Is it some incompatibility between Razor release and Reloaded updates and if it is, which install to get? If not, what might be the problem?"
+,User264,2012-06-19T16:50Z,"To make it clear, game works fine, but it's vanilla. So I need help with why mods do not work."
+,Puff3r,2012-06-19T17:32Z,@User264 try updating SKSE
+,User264,2012-06-19T17:38Z,"I figured it out: all that was needed was to add
+[Launcher]
+bEnableFileSelection=1
+to SkyrimPrefs.ini file and it fixed the problem. Hope it helps others as well."
+,driftburger,2012-06-19T19:17Z,question my last patch is v1.3 do i need to uninstall it and install this new version or i can just overwrite the files?
+,ztpthq,2012-06-19T22:55Z,"@driftburger
+You can Overwrite, RELOADED updates are cumulative."
+,butthead699,2012-06-20T01:05Z,"AOK !!
+
+Buck"
+,Yali88,2012-06-20T13:02Z,"NEW FEATURES
+
+Mounted Combat - Skyrim now allows you to do melee and ranged combat while riding a horse
+
+BUG FIXES
+
+General stability and memory optimizations
+General AI pathfinding optimizations and bug fixes
+Optimizations and crash fixes for data leaks
+Fixed rare crash with lighting
+Fixed crashes related to loading and saving games
+Fixed crash with summoned creatures/NPCs
+Fixed rare issue where saves would be corrupted
+Improved logic for when ranged kill cams are played
+Fixed issue with ranged kill cams while killing a dragon
+Fixed rare issue with certain ranged kill cams not playing properly
+Fixed issue with nirnroot lighting not properly cleaning up
+Fixed issue where bow damage was being calculated incorrectly
+Fixed rare problem with werewolf kill moves would not finish animating properly
+In ""The Break of Dawn"" fixed rare issue where Meridia's Beacon would disappear from player's inventory
+Fixed occasional issue where followers would disappear after player pays off a bounty after committing a crime
+Fixed issue where certain creatures and NPCs would fail to respawn properly
+Fixed rare issue with dialogue subtitles not displaying properly
+Fixed issue with water appearing blurry when loading a saved game after creating a save underwater
+Fixed issue where map cursor would occasionally disappear after closing a message box with Kinect enabled (Xbox 360)
+Fixed rare issue with shouts only performing the first level and not other unlocked levels with Kinect enabled (Xbox 360)
+Fixed issue where the shout buttons would stop working properly if users mashed LB and RB during cooldown with Kinect enabled (Xbox 360)
+
+Install notes:
+
+Extract  the archive contents to your Skyrim install directory."

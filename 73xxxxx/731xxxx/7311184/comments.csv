@@ -1,0 +1,58 @@
+﻿User Type,Username,Date,Text
+,Animby,2012-05-30T04:47Z,Thanx much. Got Thai???
+,SigFan80,2012-06-01T03:22Z,"Hey man,
+
+Sooo.... Okay here is my problem. How do I get it to recognize the new Languages? I see they are all in the list but when I try to select something other than the language I started with (German) it gives the following pop error: 
+
+4112 
+There was an error in the application.
+b1baecffd85f0337ef732e9b6a7b672258bedd78
+X Exit the Application
+
+I am not sure how to get around it or why it is happening. Perhaps something didn't install right, but I surely need help at this point. "
+,EinDeutschMan,2012-06-05T19:40Z,"@sigfan80,
+
+The 4112 error means that Rosetta Stone can't find the language pack(s) or it could be corrupt.
+Just because the languages are LISTED as being activated, 
+you still have to DL that particular language pack.
+
+That really long string of numbers/letters is just the name of one of the files it can't find, so don't sweat it.
+
+Go to C:/Program Files/Rosetta Stone/Content, 
+and see if you see the language pack you're trying to run:
+
+For example:
+SK-FRA-L1-NA-PE-NA-NA-Y-3.rsi
+SK-FRA-L2-NA-PE-NA-NA-Y-3.rsi
+SK-FRA-L3-NA-PE-NA-NA-Y-3.rsi
+SK-FRA-L4-NA-PE-NA-NA-Y-3.rsi
+SK-FRA-L5-NA-PE-NA-NA-Y-3.rsi
+
+This is what you should see if you're trying to run French
+The ""FRA-L1"" means French Level 1,The ""FRA-L2"" means French Level 2 and so on
+
+Now if you are ALSO trying to run German, you should ALSO see:
+SK-DEU-L1-NA-PE-NA-NA-Y-3.rsi
+SK-DEU-L2-NA-PE-NA-NA-Y-3.rsi
+SK-DEU-L3-NA-PE-NA-NA-Y-3.rsi
+SK-DEU-L4-NA-PE-NA-NA-Y-3.rsi
+SK-DEU-L5-NA-PE-NA-NA-Y-3.rsi
+
+If you do NOT see these files along with these four folders:
+Data, Documentation, Languages and Speech,
+here: C:/Program Files (x86)/Rosetta Stone/Content
+
+then search your drive for the ""Content"" folder and and move them there
+
+Let me know,"
+,SigFan80,2012-06-06T01:43Z,"Aight, I figured out the issue. It's only with the Hebrew. I have downloaded it adn tried installing three separate times and it is not working. I have Latin and German working now but no go on Hebrew."
+,SigFan80,2012-06-08T03:36Z,"Also, How soon might we expect a new Spanish (Latin America) with speech?"
+,EinDeutschMan,2012-06-10T06:58Z,"@SigFan80,
+Two things, I have re UL'd the Hebrew, on the 9th try it, and I'll get the Spanish (LA) by Monday"
+,SigFan80,2012-06-11T03:39Z,"Yeah. I just dnl the Hebrew and the Russian and they both come out as an unreadable file. I am not sure why.
+
+I am trying to install greek now. and am dnl the Spanish LA as I type this.
+
+So as of now I have German and Latin and am working on Greek but the new Russian and Hebrew both failed in the dwnl process.
+
+Thanks for all the hard work!!"

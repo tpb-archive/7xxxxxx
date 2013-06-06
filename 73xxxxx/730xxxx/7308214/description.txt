@@ -1,0 +1,28 @@
+-----------------------------------------
+Red Alert 2 YuriΓÇÖs Revenge
+-This is last version 1.001 no rip,
+-already full portable,
+-full support network playing
+-----------------------------------------
+
+Frequently asked questions:
+
+(I) How to Start
+1.Extract RAR file
+2.Run Yuri.exe to play
+
+(II) How to Change screen resolution
+1.Open and Edit with Notepad
+RA2MD.INI
+to change your screen resolution
+
+[Video]
+ScreenWidth=
+ScreenHeight=
+
+or start game with
+YuriScreenResolution.exe
+
+(III) How to network playing
+Install Hamachi
+and play online with your friends 

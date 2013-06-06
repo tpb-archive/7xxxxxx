@@ -1,0 +1,47 @@
+* * * MediaInfo Mac 0.7.36.0 file analysis report.
+* * * MediaInfo Mac is ┬⌐2010 by Diego Massanti - http://mediainfo.massanti.com
+* * * MediaInfoLib by Jerome Martinez - http://mediainfo.sourceforge.net
+Created on: 1 juin 2012 23:59:35 UTC-10:00
+Report for file: [MV 1080p] Britney Spears - Lucky.mp4
+
+General / Container Stream #1
+	Total Video Streams for this File.................1
+	Total Audio Streams for this File.................1
+	Video Codecs Used.................................AVC
+	Audio Codecs Used.................................AAC LC
+	File Format.......................................MPEG-4
+	Play Time.........................................4mn 9s
+	Total File Size...................................301 MiB
+	Total Stream BitRate..............................10.1 Mbps
+Video Stream #1
+	Codec (Human Name)................................AVC
+	Codec (FourCC)....................................avc1
+	Codec Profile.....................................Baseline@L5.0
+	Frame Width.......................................1 920 pixels
+	Frame Height......................................1 080 pixels
+	Frame Rate........................................30.000 fps
+	Total Frames......................................7477
+	Display Aspect Ratio..............................16:9
+	Scan Type.........................................Progressive
+	Color Space.......................................YUV
+	Codec Settings (Summary)..........................1 Ref Frames
+	QF (like Gordian Knot)............................0.160
+	Codec Settings (CABAC)............................No
+	Codec Settings (Reference Frames).................1
+	Video Stream Length...............................4mn 9s 233ms
+	Video Stream BitRate..............................9 965 Kbps
+	Video Stream BitRate Mode.........................VBR
+	Bit Depth.........................................8 bits
+	Video Stream Size.................................296 MiB (98%)
+	Video Stream Language.............................English
+Audio Stream #1
+	Codec.............................................AAC
+	Codec (FourCC)....................................40
+	Audio Stream Length...............................4mn 9s 266ms
+	Audio Stream BitRate..............................151 Kbps
+	Audio Stream BitRate Mode.........................CBR
+	Number of Audio Channels..........................2
+	Audio Channel's Positions.........................Front: L R
+	Sampling Rate.....................................44.1 KHz
+	Audio Stream Size.................................4.48 MiB (1%)
+	Audio Stream Language.............................English

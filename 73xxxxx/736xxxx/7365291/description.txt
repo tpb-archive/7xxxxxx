@@ -1,0 +1,17 @@
+Installation:
+=============
+1. Install Yourself! Fitness
+2. Apply the official patch (YFPatch.exe)
+3. Copy new executable over the old one (make a backup before)
+
+
+Change made:
+============
+1. The official patch removed the Safedisc protection from the application and used a CD check instead.  The CD check has been removed.
+
+2. The application had a problem when running on Vista on a PC with 4GB of memory and a graphic card with a lot of memory on it (nVidia 8800 GTS 640 MB for example).  The application refused to start stating that the graphic card did not have enough memory.  This has been corrected as well.
+
+    * Install the game - Full Installation.
+    * Apply the official Yourself!Fitness v1.1 Patch.
+    * Replace the original FITNESS_PC.EXE file with the one from the File Archive.
+    * Play the Game!

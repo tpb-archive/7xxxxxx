@@ -1,0 +1,96 @@
+ http://unetbootin.sourceforge.net/
+
+
+UNetbootin allows you to create bootable Live USB drives for Ubuntu, Fedora, and other Linux distributions without burning a CD. It runs on Windows, Linux, and Mac OS X. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file if you've already downloaded one or your preferred distribution isn't on the list.
+Requirements
+
+    Microsoft Windows 2000/XP/Vista/7, or Linux, or Mac OS X 10.5+. Note that resulting USB drives are bootable only on PCs (not on Macs).
+    Internet access for downloading a distro to install, or a pre-downloaded ISO file
+
+Features
+
+UNetbootin can create a bootable Live USB drive, or it can make a "frugal install" on your local hard disk if you don't have a USB drive. It loads distributions either by downloading a ISO (CD image) files for you, or by using an ISO file you've already downloaded. 
+
+
+    Ubuntu (and official derivatives)
+        10.04 LTS
+        11.04
+        11.10
+        12.04 LTS
+        Daily CD Images
+    Debian
+        Stable/Squeeze
+        Testing/Wheezy
+        Unstable/Sid
+    Linux Mint
+        7
+        8
+        9
+        10
+    openSUSE
+        10.2
+        10.3
+        11.0
+        11.1
+        Factory
+    Arch Linux
+        2010.05
+    Damn Small Linux
+        4.4
+    SliTaz
+        Stable
+        Cooking
+    Puppy Linux
+        4.00
+    gNewSense
+        deltah-2.1
+    FreeBSD
+        6.3
+        7.0
+        7.2
+        8.0
+    NetBSD
+        4.0
+
+    Fedora
+        10
+        11
+        12
+        13
+        14
+        15
+        Rawhide
+    PCLinuxOS
+        2010
+    Sabayon Linux
+        5.1
+        5.2
+    Gentoo
+        2007.0
+        2008.0
+    MEPIS
+        SimplyMEPIS 8
+        AntiX 8
+    Zenwalk
+        5.2
+    Slax
+        6
+    Dreamlinux
+        3.2
+    Elive
+        Development
+    CentOS
+        4
+        5
+    Mandriva
+        2007.1
+        2008.0
+        2008.1
+    LinuxConsole
+        1.0.2009
+    Frugalware Linux
+        Stable
+        Testing
+        Current
+    xPUD
+        0.9.2

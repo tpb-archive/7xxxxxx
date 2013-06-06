@@ -1,0 +1,22 @@
+Raxco Software, the leader in disk defragmentation, now provides the power of enterprise defragmentation for desktop and laptop users with PerfectDisk. PerfectDisk's easy to use interface and powerful defrag engine were designed for users who do not require the capabilities of network defragmentation and advanced features for the enterprise. PerfectDisk is a software that helps you to defrag disks. If you want to optimize your computer to run faster and perform better so you can do more ΓÇô whether work or surfing the Web ΓÇô and don't run in a networked environment like many companies, then PerfectDisk is for you.
+
+What's new in PerfectDisk 12.5 (Build 311)
+Fixed a bug in handling of missed schedules. 
+Fixed a bug causing significant CPU consumption in the PDAgent service. 
+Improved identification of snapshots and other virtual machine properties in vSphere virtual guest. 
+Updated Group Policy files, including options for reclaiming free space before defragmentation (deleting temp files and emptying recycle bin) in scheduled defrags. 
+OptiWrite and Auto-Optimization are now by default disabled for new drives. 
+Fixed inconsistent setting of Auto-Optimization Disk I/O threshold across different PerfectDisk clients. 
+Fixed incorrect enabling of boot time defragmentation and Auto-Optimization on drives set as excluded via drive options in global settings. 
+Reclaiming free space (deleting temp files, emptying recycle bin) before defragmentation has been enabled as an option in config.ini. 
+Changed handling of the drives not present in a VM in virtual guest. 
+
+Operating System:
+- Windows XP Professional
+- Windows XP Home
+- Windows Vista - All Editions
+- Windows 7 - All Editions
+- Windows Server 2008
+- Windows Server 2003
+
+Home Page: www.perfectdisk.com

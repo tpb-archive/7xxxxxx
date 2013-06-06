@@ -1,0 +1,22 @@
+When you start to install Knoll Light plugin, start with Knoll Light Factory 3.2 --bit.exe then Effects Suite 10.0.2 --bit.exe .This order will give you the maximum presets available = 129.You can install only one if you want but you may not get maximum presets available.
+When you start to install Knoll Light Factory 3.2 --bit.exe click the "here" while install to confirm an offline registration.
+
+=====    If you have Adobe CS6   ============
+
+1. Install first Knoll Light Factory 3.2 --bit.exe check adobe CS5 option from installer even if you don't have CS5 on your computer.The installer will tell you the size and create a new folder in D or E or C , called "PSCS5PLUGINPATH32BIT" (in 32bit system) with another folder inside named "Knoll Software" with the plugin (you can delete that newly .txt file created in that folder).Take this folder "Knoll Software" and move it in x:...Adobe Photoshop CS6Plug-ins folder.Delete "PSCS5PLUGINPATH32BIT" the remaining folder.
+
+2. Install the Effect Suite with copy and paste same serial for Knoll Light.This time check the CS6 option.This additional installer will overwrite the "LightFactory.8bf" in CS6 and will add additional preset content to the folder C:Documents and SettingsAll UsersShared DocumentsKnoll SoftwareKnoll Light FactoryCustom Lenses . At the end you must have 129 presets ready to use in Adobe.
+
+Copy and paste the serial provided for Knoll Light Factory 3.2 on the Effects Suite installer for additional content. (from 53 or 76 to 129 presets)
+
+Compatibility and requirments 
+
+Plugs into Photoshop CS3, CS4, CS5, CS6, Photoshop Elements 7.0 & 8.0
+Support for 16-bit color rendering
+Works on 32- and 64-bit Vista and Windows 7 systems, Windows XP
+
+read the instruction text before installing.
+Tested on Win XP SP3 32bit.
+Seed at least 1:1 ratio.
+If you like the software, buy it.
+Enjoy

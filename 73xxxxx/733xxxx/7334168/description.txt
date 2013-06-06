@@ -1,0 +1,5 @@
+This is the list that is being passed around. It's just SHA1, not usernames or plaintext. Look for yours fairly easily:
+php -r 'echo sha1("password") . "n";'
+grep sha1_from_php thisfile.txt
+
+There's also http://leakedin.org/ but it's slow.

@@ -1,0 +1,9 @@
+ http://www.sarducd.it/USB
+
+Make a Multi Boot USB is very easy, after conneting the media (pen drive or all removable are supported), you have to press the button "Search USB". Will look for all devices with FAT32. Default this combo is disabled (gray), is activated only when it finds one (or more) device/s. In tab sheet 'Report' you can be found all about the selected USB: Type (Removable or Hard Disk), Serial, Label, Space used and free.
+
+Unit USB drive selection can be done by going into ComboBox 'USB'. When change the unit, the table report change in real time the values of support. SARDU don't format anything but write/overwrite data. Pressing the button with the USB icon, asks us if we are sure to copy SARDU on USB, the software extract an ISO image at time the needed files, copy file fo file in USB support, after a careful examination builds the menu and make a multibootable media.
+All this in one step only with all with all your ISOs previously selected, without questions or any intervention and knowledge of the user.
+SARDU on USB is incremental, later you can add other or manually delete old software. The menu creation is done by checking the USB support.
+The incremental function can be activated either by going to the icon button USB to USB -> Update USB. If the menu of SARDU is damaged or if the media is not bootable going to USB --> Update only SARDU's menu.
+WARNING: The copy from a ISO (CD/DVD) to a media USB can not work because the behavior of the software is different between CD and USB.

@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,insane357,2012-06-29T08:10Z,Works Fine...
+,rahulroy9202,2012-06-29T08:56Z,what's new??
+,insane357,2012-06-29T09:14Z,Theres a readme.txt inside that explains the changes up to 15.2
+,rahulroy9202,2012-06-29T12:37Z,"v0.15.2
+
+Released 1st June, 2012
+Bug Fixes and Tweaks:
+Fixed an issue with part-to-part collisions that caused unphysical forces and caused some designs to break apart.
+
+
+
+
+
+v0.15.1
+
+Released 31st May, 2012
+Bug Fixes and Tweaks:
+Fixed a couple of issues with the parts action UI popups and their code bindings.
+Tweaked the time warp altitude limits. It is now possible to warp fast at low orbits around Minmus and the Mun.
+Tweaked the rotating reference frame thresholds when nearing planets, to reduce terrain mesh jitter.
+Fixed the 'Sierpinski' Terrain' issue, where the terrain mesh would break up when approaching a planet after travelling very far.
+Fixed an issue with the patched conic solver failing on some escape trajectories.
+Fixed the normal maps on several parts.
+It is now possible to set the persistent debris budget to zero, to disable saving debris completely."

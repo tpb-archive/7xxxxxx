@@ -1,0 +1,64 @@
+The second major release of Apartheid Linux 14, codenamed ┬½Houston Stewart Chamberlain┬╗ is now available for download.
+
+AL14 differs from most distributions of GNU/linux out there. Like Arch and Gentoo it does not have fixed releases, but can be continually upgraded. And unlike Arch or Gentoo, AL14 can be run by users with little or no prior experience with GNU/Linux.
+
+It can be booted from a CD and tested without touching your hard drive.
+
+AL14 is optimized to run on as much hardware as possible. It features the LXDE desktop environment and the Faenza icon theme.
+
+Included in the iso is among other applications:
+
+Transmission - torrent client
+VLC Media Player - video player
+Abiword -word processor
+Gpicview - image viewer
+bleachbit ΓÇô system cleaning program
+evince ΓÇô PDF viewing client
+Chromium Web Browser
+flash-player-plugin ΓÇô flash support
+libdvdcss2 - DVD support
+kernel-2.6.38.8-pclos1.bfs-1 ΓÇô BFS kernel for maximum desktop performance
+leafpad ΓÇô text editor
+lxdecc ΓÇô LXDE Control Center
+LiveUSB Creator ΓÇô Put AL14 on USB key disk
+DeadBeef- Music Players
+nano ΓÇô Console Text Editor
+pcmanfm- File Manager
+Partimage - backup tool
+Tor browser bundle - anonymous web browsing with Vidalia, Tor and Firefox 
+
+
+Always remember to do the following prior to installing anything and to keep your system up to date with the latest upgrades:
+
+
+1: Reload
+2: Mark All Upgrades
+3: Apply
+
+
+File Name : AL14.May.2012.Houston.S.Chamberlain.i586.iso
+Size : 537.3 MB bytes
+
+
+MD5sum:
+60cccc3e62fb8b377084324b02100e3d AL14.May.2012.Houston.S.Chamberlain.i586.iso
+
+
+Login on the live-cd: guest
+Password on the live-cd: guest
+Rootpassword: root
+
+Roadmap:
+
+
+I'll try to keep AL14 alive and release new isos every few months. Since AL14 is a rolling release, keeping the system properly upgraded will make sure you always have the latest version, hence there is no need to reinstall.
+
+
+If there is anything you can do to help this project, let me know. I am especially interested in getting in touch with people who know how to make remasters or would like to learn how to.
+
+
+Credits:
+
+
+Thanks to the following: mire88 (wallpaper, Grub, GDM background and installation images).
+Strafciger (icons).

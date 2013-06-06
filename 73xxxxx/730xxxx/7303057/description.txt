@@ -1,0 +1,65 @@
+Capture: http://bayimg.com/CAOFIAadn
+
+Recorded from the Spanish TV broadcaster TVE HD. AVC 720p. E-AC3 5.1 320kbps.
+
+File properties:
+
+General
+Unique ID                        : 247853269603660609117674561684182079290 (0xBA76CDA9F1CAB28E9A359E1A0417173A)
+Complete name                    : Eurovision Song Contest 2012 Final 26-05-2012 720p.mkv
+Format                           : Matroska
+File size                        : 10.9 GiB
+Duration                         : 3h 24mn
+Overall bit rate                 : 7 671 Kbps
+Encoded date                     : UTC 2012-05-27 02:43:50
+Writing application              : mkvmerge v5.5.0 ('Healer') built on Apr  6 2012 21:43:24
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 6 frames
+Format settings, GOP             : M=4, N=60
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 3h 24mn
+Bit rate mode                    : Variable
+Bit rate                         : 7 199 Kbps
+Maximum bit rate                 : 40.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 50.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.156
+Stream size                      : 10.3 GiB (94%)
+Title                            : Vídeo
+Language                         : Spanish
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : E-AC-3
+Format/Info                      : Audio Coding 3
+Muxing mode                      : Header stripping
+Codec ID                         : A_EAC3
+Duration                         : 3h 24mn
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Delay relative to video          : -97ms
+Stream size                      : 468 MiB (4%)
+Title                            : Audio
+Language                         : Spanish
+

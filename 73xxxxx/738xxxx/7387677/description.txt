@@ -1,0 +1,57 @@
+Formato                          : Matroska
+Tamaño del archivo               : 2,56GIB
+Duración                         : 1h 5min.
+Tasa de bits total               : 5 606Kbps
+Película                         : Juego de tronos 2x10 - Valar Morghulis
+Fecha de codificación            : UTC 2012-06-26 01:55:43
+Aplicación de codifición         : mkvmerge v2.1.0 ('Another Place To Fall') built on Aug 19 2007 13:40:07
+Librería de codificación         : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Formato                          : AVC
+Formato/Info                     : Advanced Video Codec
+Formato del perfil               : High@L4.1
+Ajustes del formato, CABAC       : Si
+Ajustes del formato, RefFrames   : 9marcos
+Modo Muxing                      : Container profile=Unknown@4.1
+ID Códec                         : V_MPEG4/ISO/AVC
+Duración                         : 1h 5min.
+Tasa de bits                     : 5 302Kbps
+Ancho                            : 1 280pixeles
+Alto                             : 714pixeles
+Relación de aspecto              : 16:9
+Velocidad de cuadro              : 23,976fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8bits
+Tipo de exploración              : Progresivo
+Bits/(Pixel*cuadro)              : 0.242
+Tamaño de pista                  : 2,43GIB (95%)
+Título                           : Juego de tronos 2x10 - Valar Morghulis
+Librería de codificación         : x264 core 125 r2200 999b753
+Opciones de codificación         : cabac=1 / ref=9 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=esa / subme=11 / psy=1 / psy_rd=0.90:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=9 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=15.7 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.80
+Idioma                           : Inglés
+matrix_coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+ID Códec                         : A_AC3
+Duración                         : 1h 5min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 192Kbps
+Canal(es)                        : 2canales
+Posiciones del canal             : Front: L R
+Velocidad de muestreo            : 48,0KHz
+Tamaño de pista                  : 89,9MB (3%)
+Título                           : Juego de tronos 2x10 - Valar Morghulis
+
+Texto
+ID                               : 3
+Formato                          : SSA
+ID Códec                         : S_TEXT/SSA
+ID Códec/Info                    : Sub Station Alpha
+

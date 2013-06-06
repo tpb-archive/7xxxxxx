@@ -1,0 +1,15 @@
+Newest version of Receiver.
+
+Changelog:
+- Fixed problem with falling through the floor in one of the rooms
+- You can now remove rounds from a magazine with 'r' when gun is holstered (e.g. to combine two half-full magazines)
+- Made hover bots louder so they are easier to detect
+- Added a restart-game button in case you get stuck (hold 'L')
+- Fixed problem inability to run when gun is holstered
+- Disabled gun shadow (players report that it is weird to see a gun shadow without a body shadow)
+- Mouse cursor disappears automatically when alt-tabbing into the game
+- Splash screen correctly fades to black when starting new game
+- More descriptive input names in configuration window
+- Brighter muzzle flash illumination
+
+Enjoy.

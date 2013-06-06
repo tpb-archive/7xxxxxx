@@ -1,0 +1,11 @@
+to bypass critical error 
+
+replace your hosts file with this one or edit yours and add the two lines that are in it
+
+you can edit the hosts file with Notepad
+
+the hosts file is located on C:Windowssystem32driversetchosts
+
+you must rename it like hosts.bak or move the file before to be able to replace it
+
+restart your computer

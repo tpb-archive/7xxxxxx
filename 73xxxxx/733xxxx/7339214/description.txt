@@ -1,0 +1,8 @@
+OSForensics is a new digital investigation tool which lets you extract forensic data or uncover hidden information from computers. OSForensics has a number of unique features which make the discovery of relevant forensic data even faster, such as high-performance deep file searching and indexing, e-mail and e-mail archive searching and the ability to analyze recent system activity and active memory. OSForensics can build and let you view an events timeline which shows you the context and time of activities. You can even recover data and files that have been deleted by users. OSForensics comes with a built-in file viewer which lets you examine a file contents, properties and meta-data, as well as an e-mail viewer which is compatible with most popular mail client formats.
+
+What is new in v1.1.1002
+- Addressed problems with indexing many EML Email files. Code for the handling of EML files was completely re-written to be 80% more memory efficient. This can prevent crashes due to lack of memory when indexing large numbers of E-mails.
+- Fixed a bug in the Windows Login Passwords function preventing the help page opening correctly.
+- Fixed a crash bug when retrieving IE cookies on some systems. This correction was in common code used by several modules and so might correct other (unknown) issue.
+
+Home Page: http://www.osforensics.com

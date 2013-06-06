@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,barnchad,2012-06-12T07:49Z,Thanks for all the downloads. You have became my favorite stop!!
+,rbtpbu,2012-09-05T03:49Z,"This download has a slight bug. After installing and patching you need to edit file:
+C:Program Files (x86)MSBuildCodeSmithCodeSmith.targets
+
+change line:
+CodeSmith.MSBuild.v4.0, Version=6.0.4.0, Culture=neutral, PublicKeyToken=9fd61cdb91609a7a
+
+to:
+CodeSmith.MSBuild.v4.0, Version=6.0.4.0, Culture=neutral, PublicKeyToken=940cfcde86f32efd
+
+After this ""generate on build"" functions will work as expected."
+,rbtpbu,2012-09-05T03:56Z,"To make this work properly you have to edit the CodeSmith.targets file located in your:
+Program Files (x86).MSBuild.CodeSmith folder 
+(dots are backslashes, TPB is filtering them)
+
+change the PublicKeyToken that says:
+CodeSmith.MSBuild.v4.0, Version=6.0.4.0, Culture=neutral, PublicKeyToken=9fd61cdb91609a7a
+
+to:
+CodeSmith.MSBuild.v4.0, Version=6.0.4.0, Culture=neutral, PublicKeyToken=940cfcde86f32efd"

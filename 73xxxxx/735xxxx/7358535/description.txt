@@ -1,0 +1,31 @@
+General
+
+format               : mpeg4
+codec id             : mp4
+file size            : 689mb
+duration             : 2h 1mn
+overall bitrate      : 793 kbps
+subtitle             : english
+
+Video
+
+format               : avc
+format/info          : advance video codec
+reframes             : 6 frames
+codec id             : avc1
+bitrate              : 689 kbps
+width                : 640 pixels
+height               : 272 pixels
+display aspect ratio : 2:2:1
+frame rate           : 23.976 fps
+stream size          : 599 mb
+writing library      : x264 core 120
+
+Audio
+
+format               : aac
+format/info          : advance video codec
+bitrate              : 96 kbps
+channel              : 2 channel
+stream size          : 83.4 mb
+language             : english

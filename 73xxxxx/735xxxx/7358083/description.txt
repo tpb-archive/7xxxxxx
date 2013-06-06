@@ -1,0 +1,72 @@
+			I Hear U (IHU) Project
+
+		Copyright (C) 2003-2008 Matteo Trotta
+
+	Visit http://ihu.sourceforge.net for latest release!
+
+         Qt VoIP softphone with an own, encrypted protocol.
+
+
+RESOURCES
+
+Homepage:     http://ihu.sf.net/
+KDE-Apps.org: http://kde-apps.org/content/show.php/I+Hear+U?content=30097
+SF Page:      http://sourceforge.net/projects/ihu/
+Screenshots:  http://ihu.sourceforge.net/screenshots.html
+              http://screenshots.debian.net/package/ihu
+
+
+CONTENTS
+
+Archive:  IHU website http://ihu.sourceforge.net/
+Script:   portable.sh
+Software: IHU versions 0.5.7 and 0.6.0
+
+
+SYNOPSIS
+
+IHU is a Voice over IP (VoIP) application for Linux (using Qt), that
+creates an audio stream between two computers easily and with the
+minimal traffic on the network.
+
+The main features are:
+
+* Peer-to-Peer: the communication takes place directly between the
+  computers (UDP and TCP both supported), without need of session
+  protocols (such as SIP or H323) or other servers in the middle.
+
+* Good audio performance: IHU was born to give the best audio
+  performance, low latency above all. For this purpose IHU is
+  compatible with ALSA, now the default Linux sound architecture,
+  but also with JACK, a low latency sound server. For the audio
+  compression, IHU uses Speex, a codec optimized for speech (and
+  completely free and open source).
+
+* Crypted stream: you have also the possibility to Encrypt/Decrypt
+  the stream using a fast hybrid cryptographic system
+  (RSA + Blowfish).
+
+* Command-line support: the GUI is not strictly necessary, you can
+  run also a textual IHU from command-line (for example if you need
+  to run the program on remote computers).
+
+* Free and Open Source: IHU is totally free and distributed under
+  the terms of GNU General Public License.
+
+The possibilities of use of IHU are endless, for example you can use
+it like a phone to talk with your friends all around the world, or
+at home/work, to talk between computers in the LAN (talkback), etc.
+
+
+AUTHORS
+
+Matteo Trotta 
+Author will be pleased to receive any comments, bugs, advices.
+
+
+WINDOWS
+
+IHU on Windows? It's possible! Please read this article
+
+
+Have fun!

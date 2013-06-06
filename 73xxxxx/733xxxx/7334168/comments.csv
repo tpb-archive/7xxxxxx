@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,uberlol,2012-06-07T07:08Z,"Don't think greping for you hashed password works, because they contain salt, and the salt is not there."
+,666Gott,2012-06-07T13:20Z,"uberlol,
+""Don't think greping for you hashed password works, because they contain salt, and the salt is not there.""
+
+How about this info:
+""The hashes were unsalted SHA-1 hashes"".
+
+"
+,saintly9000,2012-06-07T20:27Z,"For greppers, about 3 million passwords have had the first 5-10 characters replaced with 0s.  Only 3 passwords have 10 '0's, most have only 5"
+,uberlol,2012-06-07T21:36Z,"@666Gott Yes, so they say. But if that was the case, greping for the hash from ""password1"" would certainly return some results. uniq -d SHA1.txt shows that no two lines are the same. Don't you think two users would have the same pass? Or have I seriously misunderstood something here."
+,Kickstand,2012-06-10T07:50Z,"I don't know if more information has come out, but I imagine whoever released this did some processing on it. Perhaps they removed duplicates?
+
+I did find '000001e4c9b93f3f0682250b6cf8331b7ee68fd8' which is the SHA1 of 'password' with the first 5 characters removed. A bit disappointed my pass wasn't in here."

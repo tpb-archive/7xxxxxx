@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,highlander21,2012-06-24T00:02Z,black screen using USB Loader GX... help needed
+,paocer95,2012-06-25T02:57Z,does not work
+,K4HLU4,2012-07-03T11:21Z,"It does work. I play it. If you are having trouble then I don't know what you're missing, but you need to probably run PimpMyWii and install the additional IOS's located in my Fatal Frame torrent. If you are missing the required IOS for this game, then chances are, you're going to run into black screen problems, etc.
+
+Make sure you are running with 4.2U system menu and have the latest version of your loaders. I've played through all of the stages with no problems."
+,Anteara,2012-07-06T11:05Z,"You replaced the .dol incorrectly, K4HLU4. When i downloaded this; it did NOT work. However, I fixed the .dol and it now works.
+
+Here's how to fix it:
+1) Open the .iso in Wii Scrubber.
+2) In Partition X (for me it's Partition 0), find ssx.dol, right click it and extract it to your desktop.
+3) Rename the extracted ssx.dol, and rename it to main.dol
+4) Right click main.dol, and replace it with the main.dol on your desktop.
+5) The game will now work.
+
+If it does NOT work, download IOS Version Patcher and patch the iso to IOS 249."
+,K4HLU4,2012-07-11T00:51Z,"Anteara: 
+
+  Strange... but cool that you got it to work. 'Coulda swore I replaced that .dol... I did it exactly like you said, I even deleted the update partition. 
+
+  Thanks for helping these guys out."
+,hexrider2,2012-08-13T05:44Z,anyone know how to get it working with Dolphin 3.x?

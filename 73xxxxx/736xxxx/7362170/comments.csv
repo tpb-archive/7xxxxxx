@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,AngeloCardesteus,2012-06-18T15:19Z,been waiting for someone to upload this. will try it both on xbox and PC too see if it is working.
+,AngeloCardesteus,2012-06-18T18:00Z,I couldn't get the PC one to work. trying the xbox one now
+,tmhjoselt,2012-06-18T19:01Z,"It does work for the pc. Just checked it. Make sure your putting the correct files into the ""Data"" folder. Then make sure you check off the dawnguard.esm within the ""Data Files"". Use nexus mod manger or just click ""Data Files"" when the skyrim pop-up comes up"
+,AngeloCardesteus,2012-06-18T19:53Z,It works on xbox. let me know if anyone can find a way to get it to work on PC
+,AngeloCardesteus,2012-06-18T19:54Z,Did that but idk. might just be a problem for me. Will work on it later. 
+,AngeloCardesteus,2012-06-18T20:02Z,maybe because I have beta files from steam? that is my guess. but I thought the new patch was official already. Does your game have horse combat?
+,CasualJacob,2012-06-18T22:00Z,Can sombody please tell me how I install this on xbox. thanks.
+,CasualJacob,2012-06-18T22:02Z,Instructions on how to install this on xbox would be great.
+,VigilantofStendarr,2012-06-18T23:34Z,"It's legit. Unfortunately, you need a JTAG'd XBox to use it. The PC files don't work either because the textures are in a different format (.ddx vs .dds). You can add it to your Data folder and launch Skyrim, but the moment you encounter anything Dawnguard related the game will probably crash. Oh well. At least it's the real deal."
+,MrSinclair,2012-06-19T03:10Z,"I knew somebody would upload this. Hell, I would have done it myself if I had received the beta. Good work."
+,MrSinclair,2012-06-19T10:04Z,"It looks like it won't work on the PC, unless you want to spend a day or five decoding each individual ddx file. The game crashes if you even move the map over the location where the main fort is located. 
+
+From what I've found  ddx files are actually two dds files combined and with a strange form of compression, just in case anyone from the Bay wants to contribute to the great crusade to piss off Micro$oft by writing a program to convert them."
+,Ahtan137,2012-06-19T11:10Z,"It's not just the .ddx files.  The .nif files are also slightly different. There's a bit of a discussion about possible solutions going on on another site.  
+
+I've only found one guide on hex editing a ddx into 2 dds', but the ddx files that person was using are formatted differently than these ones are, so it's of minimal help."
+,Ahtan137,2012-06-19T11:14Z,"Oh, and the Music/Ambient sounds are xma, but those can be converted easily enough."
+,MrSinclair,2012-06-19T11:43Z,"Could always sift through the game files on the console version, see how it decodes the files >.>
+
+Using my 0% failing grade in Programming 1, of course."
+,eternal666,2012-06-20T03:23Z,"i used horizon for this and it said corrupted ??
+on my xbox why is this??"
+,maitai12692,2012-06-20T14:52Z,It will say corrupted unless you have the latest update. Make sure you rehash and resign.
+,eternal666,2012-06-21T00:39Z,@maitai12692 hey do i need a jtag for this ???
+,eternal666,2012-06-21T00:44Z,"@maitai12692 when i rehash it says
+not a valid con stfs package ??? whats that mean??"
+,Gandolf828,2012-06-21T23:45Z,Any news on porting this to pc
+,Raymend,2012-06-23T01:32Z,"Can anyone help me with dawnguard ? Once I put it onto my console it says ""corrupted content"" .. Pleaseeee help!"
+,VigilantofStendarr,2012-06-25T18:39Z,"Make sure you have the latest title update, otherwise it won't work."
+,Valamyr82,2012-06-25T19:25Z,"This thread has relevant info on DDS/DDX/NIF issues and workarounds for previous Gamebryo games. Might be interesting to anyone trying to make something of this.
+
+http://forums.nexusmods.com/index.php?/topic/212431-how-to-convert-dds-to-nif-format/"
+,MrSinclair,2012-06-25T20:49Z,"@Valamyr82
+
+If that thread were made anywhere but the nexus forums, it might have been readable. I always forget how retarded most of them are."
+,QbertTK,2012-06-26T18:33Z,It's being released on PC today apparently. Matter of time till a reliable working version goes up.
+,Stradisap,2012-06-26T21:08Z,@QbertTK ehm no? Where did you get that info?
+,BREEMO512,2012-06-27T02:54Z,pc is not working !!!!!!!!
+,chandl3r,2012-06-27T04:48Z,"@QbertTK
+ You're thinking of the scheduled release for xbox... learn to read"
+,gugn1r,2012-06-27T05:32Z,So any luck with a PC fix?  I have a feeling us PC folks might be waiting till august/september after the 30 days are up from micro$oft
+,Stradisap,2012-06-27T08:25Z,"Microsofts bullshit I say! They want to sell their console. I get it. But why they are favorising a much worse platform? And if anyone is starting to extract these files, it'a tedious job. Everytime i want to remove the ddx header the files go for a big corruption. "
+,Crisis623,2012-06-27T19:15Z,"Will seed, also working on that conversion, what format do the nifs need to be in? "
+,Stradisap,2012-06-27T21:21Z,"That is the thing they are nifs on xbox and pc alike. But these one xbox are totally diffrent or have something strapped on, and Nifscope does not recogize it. "
+,xmorthias12,2012-06-27T23:05Z,"It kinda sucks that the pc one doesnt work. I hope someone dedicated could work out the problem with the dds, nifs and sound files."
+,OppaOppa,2012-06-29T20:33Z,"wow thanks man it works great :)
+to get this dlc
+update ur skyrim to patch 1.6
+put dawnguard.esm and dawnguard.bsa into
+your skyrim data folder and play the game :)"
+,OppaOppa,2012-06-29T20:37Z,"Thanks it works great :)
+to get the Dlc to work follow these steps
+Step 1.Update Skyrim To Patch 1.6
+Step 2.Copy the Dawguard.esm and Dawnguard.bsa
+into your Skyrim data folder then play the game :)"
+,Crisis623,2012-06-29T21:12Z,"I have 1.6, it does not work with the PC beta found here. "
+,Stradisap,2012-06-30T00:40Z,"@OppaOppa Working = playing correctly,that does not mean showing on your mod list...idiots this days."
+,mooFTW,2012-06-30T04:47Z,pc version plays until i open my map then it crashes
+,mooFTW,2012-06-30T05:15Z,yeah pc version crashes if you open your map or play for 5 minutes
+,OppaOppa,2012-07-01T12:37Z,yea sry after i played a while the game crashed to desktop haha well i hope a good version comes out soon :P
+,New_Tab,2012-07-15T22:23Z,"It's pretty easy to move the dawnguard.bsa and .esm into the Skyrim Data folder, but I can only play for a short while in-game until Skyrim crashes! Please fix!"
+,Death-Coming,2012-07-23T00:49Z,"If you look at console, the files of ""pc"" version load right, but when you try to use something new, e game CTD, I think it's because of the game itself aren't ""ready"" for the dlc, put the files, activate, and search for something related to the dlc on console, and everything is loaded, the .esm and .bsa file have no problem at all.
+Can be because it's missings the .esp files, or because needs a new update to the game to be ready for dlc.
+Sorry for bad English."
+,fambro,2012-07-26T11:12Z,the stupid magnet link has no files
+,penguinsftw,2012-08-16T19:18Z,"guys, does anybody know how to make it work on an xbox? Because when I just transferred it to a usb through horizon, skyrim still didn't show any dlc"

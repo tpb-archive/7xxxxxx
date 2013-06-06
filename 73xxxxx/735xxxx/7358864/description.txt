@@ -1,0 +1,17 @@
+Improvements
+
+- Improved performance and stability for the following graphics cards:ΓÇ¿Intel GMA 950, Intel GMA X3000, Intel GMA X3100, ATI Radeon HD 2600, and ATI Radeon X1600
+- Adds the ability to turn off default document opening in PXM format by typing the following command in the Terminal:
+
+defaults write com.pixelmatorteam.pixelmator alwaysUseNativeFormat -bool no
+
+
+Other issues
+
+- Resolves an issue that prevented using Pixelmator as an external editor in iPhoto and Aperture
+- Addresses a problem that sometimes caused an inability to save or export files
+- Addresses an issue that allowed images opened from the Photo Browser to be misplaced
+- Fixes a problem that caused different file names to appear in the Save dialog
+- Resolves an issue that caused brush strokes to perform incorrectly when using some brush presets
+- Resolves an issue that caused the Transform constrain proportion option to work incorrectly
+- Fixes an issue that caused incorrect Paste command behavior when using the Clipboard with content from Snapz Pro

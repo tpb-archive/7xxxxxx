@@ -1,0 +1,53 @@
+Hi everyone!
+
+This is Realms of Arkania III: Shadows over Riva.
+
+This game is certanly translated to Spanish, but I believe you can choose to install it in English... not sure, though.
+
+This torrent includes:
+
+Riva.mdf
+Riva.mds
+Manual.pdf
+
+The manual is in English, sorry.
+
+Installation guide:
+
+*You will need to install DosBox to run/install this game*
+
+1. Mount/burn image into -for example- drive D:
+
+2. Run DosBox and write the following:
+
+mount c c:...   (where "..." is the desired install directory)
+
+mount d d: -t cdrom   (remember, we mounted the image into D:)
+
+d:
+
+install      (now follow the intructions and install the game into C:)
+
+c:
+
+riva         (now, enjoy the game)
+
+
+**Important note:
+
+From now on, to play the game you will need to use DosBox. So, open the program and write the following:
+
+mount c c:...   (where "..." is the directory containing the game)
+
+mount d d: -t cdrom   (remember, we mounted the image into D:)
+
+c:
+
+riva
+
+
+
+If there are any questions, please describe thoroughly what you've done and the error message, if it appears.
+
+Have fun. ;-)
+

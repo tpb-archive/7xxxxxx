@@ -1,0 +1,15 @@
+...the grim nightmare of the far future, where there is only war and the galaxy's alight and everyone's got a headache...
+
+Play as one of either 9 races in a war for domination set in the Warhammer 40k Universe. 
+
+-------------------------------------------------------------------------------------
+
+Notes: 
+
+1. This is a WineSkin Port. I am not a porting professional so do not expect this to be a perfect port. There may be some bugs but the game is, overall, playable.
+
+2. For speed burst, use DirectX9 Winetricks.
+
+3. If the game plays in windowed mode, just restart the game. If windowed mode persists then try changing the screen options in Wineskin itself (DawnOfWar-SoulStorm -> Show package contents -> Wineskin -> Set Screen Options) then click Override, then choose Fullscreen.
+
+4. I tested this game on a MacBook Air 11" late 2010 model. I just finished the Sisters of Battle Campaign, played a Skirmish game but haven't tried Multiplayer yet. So far, there were no bugs, aside from the game opening in window mode sometimes.

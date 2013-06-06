@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+[T],SecTPB,2012-06-13T09:36Z,"For those using this as a source to actually watch it, follow these instructions.
+
+[VLC Player]
+Right click the video when it opens.
+Go to Video>Deinterlace>On.
+Then, Video>Deinterlace Mode>Yadif
+
+[Media Player Classic Home Cinema]
+Should not require anything. Deinterlaces on its own. Preferred choice over VLC."
+,AVC-33,2012-06-14T01:36Z,"Good progress. Video is now in its original state. 
+
+This time you only messed up audio. Original audio is 6 channel Dolby Digital 384 kbps. You encoded it to stereo AAC. 
+
+Please donÂ´t encode anything. Leave both audio and video their original forms. "
+[T],SecTPB,2012-06-14T02:38Z,"The description tells you it is untouched.
+
+I don't encode. I just rip. In order to record with 5+ channels I'd need an Optical In wire. Which I do have, but choose not to use since most of the analog streams I cap don't support 5+ channels.
+
+The cap records the audio according to the levels emulated in the stream being produced during broadcast at a variable bit rate. I can only choose formats(AAC-LC or AC3), therefore, the audio bit rate cannot change and simply emulates the exact quality of the stream.
+
+Same goes for video(running on a variable rate to emulate analog broadcast), but with a few added options. I can choose the resolution, bit rate, chroma/luma subsampling, colors, and container(.TS, .M2TS, .MP4).
+
+The maximum bit rate needed to emulate the audio of the stereo stream was 169 kbps, according to the capture box. If I set my box to support 5+ channels with Optical In cable, you'd expect the set, minimum, and maximum bit rate to rise, but will not be predetermined to 384 kbps."
+[T],SecTPB,2012-06-17T12:27Z,"Found my Optical SPDIF cable. Looks like we're getting that 5.1 channel AC3 SRS. I'm going to leave the ripping of normal encodes and rips to other users. I'm going to upload only the raw 1080i TS after airing from now on. I may do smaller 720p encodes later on(with the correct profile, unlike the wrong one I accidentally used fir 1080p)."
+,ratliff33,2012-07-02T04:33Z,Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-Fake-

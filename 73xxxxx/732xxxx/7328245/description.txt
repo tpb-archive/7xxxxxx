@@ -1,0 +1,33 @@
+ http://www.winrar.co.nz/files/1890723/uploaded/winrar-za.jpg
+
+
+WinRAR - What's new in the latest version
+
+
+Version 4.20 beta 3
+
+1. "Estimate" function in WinRAR "Info" command is adjusted to
+faster WinRAR 4.20 compression when calculating the expected
+compression time.
+
+2. GUI SFX module -sp switch passes parameters to setup application
+only if no other parameters were specified in "Setup" command
+in SFX script. So "Setup" command has a higher priority than -sp.
+
+Regardless of -sp presence, setup application can read 
+the full SFX command line from sfxcmd environment variable.
+
+3. "Save current settings" button in "Advanced SFX options" dialog
+is now available only when converting an existing archive to SFX.
+Options saved with this button are applied only to convert to SFX
+operation.
+
+If you create or update SFX archive, only SFX options stored
+in default compression profile are used. Options saved
+in "Advanced SFX options" dialog are ignored for these operations.
+
+virus total reports
+ 
+https://www.virustotal.com/file/be073e6a0c7793de9362f6b3278f31e5a916e48ef6354529760f38c2684cd434/analysis/1338821283/
+ 
+https://www.virustotal.com/file/ef32da03d2dc3d6d255fef34f8139fb911afa9cdbb9cc2036349e15dd1de74f0/analysis/1338821304/

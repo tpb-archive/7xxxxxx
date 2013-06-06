@@ -1,0 +1,34 @@
+VLC for Android beta
+VLC for Android is in beta stage.
+Packages on the Play Store should be available in the next few days.
+
+Features
+Plays all files, in all formats, like the classic VLC.
+Audio and video media library, with full search.
+Support for network streams, including HLS.
+Supports Android from version 2.1 (platform-7).
+Supports ARMv6, ARMv7 and ARMv7+NEON.
+Subtitles support, embedded and external, including ASS and DVD subtitles.
+Multi audio or subtitles tracks selection.
+Multi-core decoding, for Cortex-A7 A9 and A15 chips.
+Experimental hardware decoding.
+Gestures, headphones control.
+
+Software performance on phones for H.264
+This table is a rough idea of what one can hope to play with VLC on Android, for now, using the software decoder.
+Performance is likely to improve in the future.
+Name	480p	576p	720p	MKV 720p + ASS
+HTC One X	
+Samsung Galaxy S3	
+Galaxy Nexus	
+Samsung Galaxy S2	
+HTC Desire HD	
+Nexus One	
+
+Recommended phones
+Galaxy Nexus; (OMAP 4460)
+HTC One X; (Tegra 3)
+Samsung Galaxy S3; (Exynos 4 Quad)
+Motorola Defy; (OMAP 3610)
+HTC Desire; (QSD8250 Snapdragon)
+Nexus one. (QSD8250 Snapdragon)

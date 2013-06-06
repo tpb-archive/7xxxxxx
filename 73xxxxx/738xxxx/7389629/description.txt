@@ -1,0 +1,13 @@
+This is the TVersity media server and a program called iTunes Export which is used to export iTunes playlists in M3U format. iTunes Export requires Adobe AIR to run and you can get it by searching "Adobe AIR" on Google.
+
+1.	Disconnect your computer from the internet and run the tversity installer.
+2.	Use the email and product key provided. 
+3.	After setup is completed, unselect "Start the TVersity Media Server Pro".
+4.	Restart "TVersity Pro 1.9.7".
+5.	Click on the top-right Help icon -> "About TVersity Media Server...".
+6.	Make sure it says "TVersity Media Server (pro edition)".
+7.	Reconnect your computer to the internet and install the latest version. 
+        (The licence will automatically transfer)
+
+TVersity can only read certain formats of playlist information and you have to convert iTunes playlists to M3U format using iTunes Export. Simply run the program and choose which iTunes playlist to convert. Then choose where to save the converted
+playlist (I recomend saving it in you "My Music" directory since TVersity automatically scans there for audio). Once that is done, you open TVersity and click on "Library" on the top bar. Then, under "Sources" in the side bar, choose "File System" and then "Files". Click on "+ Add Item" and hit "Browse". Find your converted playlist and open it. TVersity will then scan that playlist file and add it to the server for you to listen to on other devices.

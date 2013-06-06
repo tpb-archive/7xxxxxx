@@ -1,0 +1,64 @@
+HDsatrip
+
+RUS only
+
+
+      Complete name : ╨╜╨╛╤ç╤î ╤ü╤é╤Ç╨░╤à╨░.mkv
+      Format : Matroska
+      Format version : Version 2
+      File size : 4.23 GiB
+      Duration : 1h 41mn
+      Overall bit rate : 5 967 Kbps
+      Encoded date : UTC 2012-06-27 21:10:13
+      Writing application : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04
+      Writing library : libebml v1.2.3 + libmatroska v1.3.0
+   Video #1
+      ID : 1
+      Format : AVC
+      Format/Info : Advanced Video Codec
+      Format profile : Main@L4.0
+      Format settings, CABAC : Yes
+      Format settings, ReFrames : 4 frames
+      Format settings, GOP : M=4, N=32
+      Muxing mode : Header stripping
+      Codec ID : V_MPEG4/ISO/AVC
+      Duration : 1h 41mn
+      Bit rate : 5 400 Kbps
+      Width : 1 920 pixels
+      Height : 1 080 pixels
+      Display aspect ratio : 16:9
+      Frame rate : 50.000 fps
+      Original frame rate : 25.000 fps
+      Standard : Component
+      Color space : YUV
+      Chroma subsampling : 4:2:0
+      Bit depth : 8 bits
+      Scan type : Interlaced
+      Scan order : Top Field First
+      Bits/(Pixel*Frame) : 0.052
+      Stream size : 3.83 GiB (91%)
+      Default : Yes
+      Forced : No
+      Color primaries : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+      Transfer characteristics : BT.709-5, BT.1361
+      Matrix coefficients : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+   Audio #2
+      ID : 2
+      Format : AC-3
+      Format/Info : Audio Coding 3
+      Mode extension : CM (complete main)
+      Muxing mode : Header stripping
+      Codec ID : A_AC3
+      Duration : 1h 41mn
+      Bit rate mode : Constant
+      Bit rate : 448 Kbps
+      Channel(s) : 6 channels
+      Channel positions : Front: L C R, Side: L R, LFE
+      Sampling rate : 48.0 KHz
+      Bit depth : 16 bits
+      Compression mode : Lossy
+      Delay relative to video : 30ms
+      Stream size : 325 MiB (8%)
+      Language : Russian
+      Default : Yes
+      Forced : No

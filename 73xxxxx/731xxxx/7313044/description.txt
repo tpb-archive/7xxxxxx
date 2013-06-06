@@ -1,0 +1,21 @@
+Hello there!
+
+
+This is just two folders from original Pack:
+
+
+1.__metadata;
+
+2.DLC_CON_MP2.
+
+JUST for your modding experiments.
+
+BUT YOU CAN'T ADD WEAPONS in single player. It's worked with Resurgence Pack, but don't work with Rebellion Pack. Don't know why. Community already thinking about how to fix it.
+
+Here is code lines for weapons:
+
+SFXGameContentDLC_CON_MP2.SFXWeapon_AssaultRifle_Cerberus (Cerberus Harrier)
+SFXGameContentDLC_CON_MP2.SFXWeapon_Shotgun_Quarian (Reegar Carbine)
+SFXGameContentDLC_CON_MP2.SFXWeapon_SniperRifle_Turian (Krysae)
+
+Best Regards.

@@ -1,0 +1,186 @@
+﻿User Type,Username,Date,Text
+,zer0sec,2012-06-29T13:57Z,"nice 1 mate!
+
+Keep it up."
+,Smallz94,2012-06-29T14:56Z,Well i saw the trailer it was actually pretty good but it just an add on. WEIRD!!!!! lol but thanks 
+,Firoz0143,2012-06-29T16:44Z,I Think Its A First Person Game Na....!
+,zer0sec,2012-06-29T23:38Z,"ohoh fellas. attention!
+
+i just saw that this has been nuked!!
+
+http://nforush.net/nfo.html?rls=Dead_Island_Game_Of_The_Year_Edition_RF_XBOX360-ZRY&nfo=51158
+
+A repack has been releases:
+
+Dead_Island_Game_Of_The_Year_Edition_RF_REPACK_XBOX360-ZRY
+
+http://nforush.net/nfo.html?rls=Dead_Island_Game_Of_The_Year_Edition_RF_REPACK_XBOX360-ZRY&nfo=51166
+
+Better not download it! I dont know the exact reason but that source is quite reliable."
+,zer0sec,2012-06-29T23:47Z,"sorry, it was the other way around.
+
+yours boobsman is fine! the repack has been nuked.
+
+reason: self.dupe.2012-06-29_iso.contents.are.identical_repack.unnecessary
+
+just wanted to help out and make sure no one is frustrated at level X when game freezes :P sorry"
+,Hyades666,2012-06-30T00:15Z,"Hey...I just donwnloaded the game, I used ABGX on the ISO...and it's saying video L1 is smaller...can anyone confirm me that this is actually working??? thanks guys"
+,Biggems22,2012-06-30T00:43Z,its not working i follow all steps i have ihas b and it just goes to black screen HELP............
+,Hyades666,2012-06-30T03:04Z,Usually all XGD2 games are 7.3gb and this one is 7.05gb...I don't think it will work...
+[V],boobsman,2012-06-30T09:23Z,"To all those having issues with this you need the latest 15th video wave for abgx or when you run through you'll get an error!
+
+I really do wish people would ask rather than jumpint to conclusions that it doesn't work!!!"
+,zer0sec,2012-06-30T11:03Z,"well, in my case, it was a bit confusing, hardly see repacks beeing nuked...
+
+game should work, just like clarified above.
+
+keep up the good work boobsman."
+[V],boobsman,2012-06-30T11:38Z,"The original release was nuked for having incorrect file name (scene rules), they then made a repack but the contents were identical to those they put out previously so that was nuked for being a duplicate of there own work. This is the first release, it works 100% so long as you install wave 15 before patching :)"
+,Biggems22,2012-06-30T17:36Z,well for the people who got it to work how about providing links and steps instead of blasting people who dont kno please just explain its not hard to help especially if you got it working
+,bossbacon,2012-06-30T20:00Z,i agree please boobsman or some one please give steps to patch this game pleaseeee
+,bossbacon,2012-06-30T20:01Z,i agree please boobsman or some one please give steps to patch this game pleaseeee i downloaded the wave 15 patch and  i still cant get it to work im lost HELP
+[V],boobsman,2012-07-01T09:06Z,"@ Biggems22 its simple, download the waves from the abgx site, install using the instructions they provide, waves 1-13 have an installer but the others need to be done manually, then run the iso through as you would any other game. If your not on abgx 1.0.6 then you should update + make sure you have all waves (which you should have any way).
+
+TPB will not let me add the link but just Google search abgx360 downloads get the 'Entire Video ISO archive' plus wave 15 from the bottom of the page, you only need 15 for this but its better to have all installed anyway."
+[V],boobsman,2012-07-01T09:38Z,"If the above still does not work then you can patch the L1 video manually:
+
+Make sure autofix is set to Level 3 Threshold
+
+Then, click on the Manually Patch or Extract Files
+Click the Patch Video. Browse to Video_F0420AFA.iso.
+
+Run ABGX. Padding L0 Video will begin
+Padding L1 Video Will begin
+
+Abgx will finish, the game will still be unverified but the video will be fixed."
+,lastjedi,2012-07-01T10:20Z,this game is ss1 not ss2 which is not safe to play on xbox.also this game isnt in the abgx database so it's not verified.there is a dead island game in abgx but it's not this one.this one comes up as different number and the one on abgx uses 12wave.not 15 wave like this one.so there is no way to get this particular one verified by abgx.plus this fails to autofix and fails to stealth check.cannot check l1 padding since iso is too small.keep in mind i have all the latest updates and have downloaded other games from boobsman with no problems.but this one comes up as a big problem.i have read what boobsman has said on here and he makes no sense.i8 have wave 15 installed on my stealth folders and it doesnt matter this game still will no verifiy  since it isnt in the abgx database.
+[V],boobsman,2012-07-01T11:17Z,"@ lastjedi the info i have given above is for you to fix the L1 video file once you have wave 15 installed, for some reason some people are having trouble with patching this game since its a new wave format.
+
+As for the game verification this is a new release and there is no verified copy in the abgx database, its NOT the same as the version already there so how can it be verified before its released in the shops? You'll need to wait until the game has been released and there's a shop brought copy in the database for abgx to verify against!"
+,Biggems22,2012-07-01T17:30Z,thanks @boobsman after patch video with 15 wave worked perfect
+,slapdownhos,2012-07-01T22:59Z,"Works great . If your appdata file is hidden while you are browsing go to computer,organize,folder and search options, then in folder options click on small box View and choose Show Hidden files,folders,or drives. Thanks Boobsman. Thanks alot"
+,Browny1309,2012-07-02T11:47Z,"Hey my names Jake and im 17 years old and I was wondering if anyone would be able to guide me in getting my xbox360 to play games of an external hard drive, and tell me the precautions i would have to take in doing so for example not using xbox live anymore. I would really appreciate anyones help because I am really stuck. Thanks"
+[V],boobsman,2012-07-02T18:33Z,"@ there are only 2 ways  to play games from a hard drive, either have a jtagged / RGH modded console so that you can play games from the xbox360's own hard drive or buy the x360 key and play the game iso's i upload from an external hard drive. Jtag or RGH modded consoles are not xbox live safe so you will not be able to play online, however with the x360 key you can use abgx360 to patch for online play, still not 100% safe but no worse than burning games to disc."
+,lastjedi,2012-07-03T02:10Z,could not get this to manually patch since i couldnt find no video f04 iso anywhere.
+[V],boobsman,2012-07-03T17:57Z,@ lastjedi have you installed wave 15?
+,Smallz94,2012-07-04T04:01Z,"From LTJBukem (Demonoid) 
+
+For ppl who are are still having problems patching with ABGX
+
+Do this if ABGX is not finding the video partition on its own.... you can still select the video iso by using the method below
+
+Make sure autofix is set to Level 3 Threshold
+
+Then, click on the Manually Patch or Extract Files
+Click the Patch Video. Browse to Video_F0420AFA.iso. (pending you read my earlier post and downloaded it - From the abgx360 site- download (very last file on the bottom)
+
+Run ABGX. Padding L0 Video will begin
+Padding L1 Video Will begin
+
+Patch Successful and Play. Pretty straight forward. 
+
+ABGX Report After Manual Patching
+
+/Volumes/anonymous/Games/Dead Island GOTY/XGD2DVD_NTSC.dvd is valid
+
+Checking Game
+ISO: ""/Volumes/Fire 500gb/NEW GAMES FOR EVERYTHING/Dead Island GOTY/XGD2DVD_NTSC.iso""
+Size: 7838695424 bytes
+Files in ISO: 216, Folders in ISO: 7
+Total bytes used: 6131451212 (84.01%)
+Game appears to have random padding
+
+Checking default.xex
+Original PE Filename: DeadIslandGame_rwdi.exe
+Original PE Timestamp: 2012/04/26 14:44:03
+Min Kernel Required: v2.0.14719.0
+Game Name: Dead Island
+No Avatar Awards
+Achievements: 58 Achievements totaling 1250 Gamerscore
+XEX CRC = C88139FC
+XEX Media ID: 64125D30456DFAA17FF2EEA0-02C977C2
+
+Region Code: 0xFFFFFFFF
+Region Free!
+
+Checking SS
+Timestamp of Authoring: 2012/05/03 00:00:00
+Timestamp of Mastering: 2012/06/13 13:32:08
+SS Version: 1
+SS CRC = C8B3B95F (RawSS = 0A4F5E37)
+SS Media ID: 64125D30456DFAA17FF2EEA0-02C977C2 (matches game)
+SS looks valid
+
+Checking DMI
+Timestamp of Authoring: 2012/05/03 00:00:00 (matches SS)
+DMI CRC = F8A40DDC
+DMI Media ID: 64125D30456DFAA17FF2EEA0-02C977C2 (matches game)
+DMI looks valid
+
+Checking PFI
+PFI CRC = 23A198FC
+PFI matches known data (14th - 15th Wave)
+
+Video partition found
+Video CRC = F0420AFA (V0 = 399B7D77, V1 = 4B46A121)
+Video partition matches known data (15th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+Looking for C8B3B95FC88139FC.ini in the online verified database
+There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Attempting to at least verify the PFI, Video and game data
+Looking for Xex_C88139FC.ini in the online verified database
+There is no verified rip of Xex CRC C88139FC in the online database
+Failed to find a verified ini file for this Xex
+Verification failed
+
+Credits go to LTJBukem.. Thanks :)"
+,abdul86,2012-07-05T01:12Z,"ISO size is too small to contain the L1 Video! Video CRC check was aborted
+
+Stealth check failed!"
+,Elle-Ella,2012-07-05T08:23Z,"Smallz94 Dont be STUPID!
+You download another file!
+You have Dead Island GOTY/XGD2DVD_NTSC.iso
+
+This file from boobsman is  XBOX360-ZRYzry-di.iso
+
+This is the error
+Cannot check L1 Video padding because the ISO size is too small to contain it
+ISO size is too small to contain the L1 Video! Video CRC check was aborted
+
+Stealth check failed!"
+,Elle-Ella,2012-07-05T08:28Z,"DONT Download this!
+Dont waste your time!"
+,lastjedi,2012-07-05T17:53Z,boobsman i have had wave 15 installed a long time now.and i still can't patch this manually.
+,Smallz94,2012-07-06T02:04Z,"@ELLA ELLA
+
+LOL!!!! it doesnt matter!!!!!!! It matters if you follow the steps and you wont get that problem again. IDIOT!!!!!! 
+
+also Can somebody tell is this game ok to play online??? I see in ABGX360 that the game is not verify please tell if it is.. THANKS!! ASAP please   "
+,DdOs06,2012-07-06T02:18Z,"I really wish stupid people would READ the comments boobsman has posted. They CLEARLY explain how to manually patch the file with abgx... if that is too complicated for you, go BUY the damn game!!! This game works AFTER MANUAL patch. "
+,DdOs06,2012-07-06T02:21Z,"I really wish stupid people would READ the comments boobsman has posted. They CLEARLY explain how to manually patch the file with abgx... if that is too complicated for you, go BUY the damn game!!! This game works AFTER MANUAL patch. "
+,Elle-Ella,2012-07-06T06:14Z,"Starting Verification
+Looking for C8B3B95FC88139FC.ini in the online verified database
+There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Attempting to at least verify the PFI, Video and game data
+Looking for Xex_C88139FC.ini in the online verified database
+There is no verified rip of Xex CRC C88139FC in the online database
+Failed to find a verified ini file for this Xex
+Verification failed"
+,omegaviper,2012-07-08T01:53Z,why was this uploaded before patching the video in the first place?
+,Smallz94,2012-07-10T22:36Z,Just saying but this game is going to be verify.
+,JSusie,2012-07-11T15:22Z,"First time I ever had to manually patch a video file into the game, and it worked fine afterwards.   I've even played it online and have not been banned.  It is also now verified on abgx."
+,chaosmetroid,2012-07-15T21:56Z,Hey I DID EVERYTHING... but i got a problem. i put the game and it says i need to do a update should i do it? or not? i dont want my xbox to be DEHACKED. .-.
+,chaosmetroid,2012-07-15T22:08Z,This game is asking me for a Update.... Should i do it? will my xbox be dehacked?
+,ownerofalonelyheart,2012-09-02T16:51Z,to everyone complaining: download the wave 15 patch file... just read the uploader's comments.
+,powerofthemonk,2012-09-07T02:33Z,"Boobsman! Great torrent! one problem :( I can't download wave 15 from abgx. It says file temporary unavailable. Can you please upload it as a torrent because you love me!
+
+If this helps... this is the file name from abgx
+
+15th Wave (2.0.14719.0) - Video_F0420AFA.rar"
+,Pink_Taco,2012-09-18T08:47Z,did everything with abgx 360 and am no where near a noob with this stuff but even doing it all I get a 50% error verifying every time just got borderlands 2 working fine.
+,Pink_Taco,2012-09-18T08:48Z,P.S. used 5 disks now both good verbatum at 2.4x and a memorex at 4.0x kind that works well and is playing borderlands 

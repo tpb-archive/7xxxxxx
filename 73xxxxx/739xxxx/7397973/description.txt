@@ -1,0 +1,33 @@
+Hey guys, I made an updater for Counter-Strike 1.6. If your Counter-Strike game is broken, or outdated you can update it with this tool. 
+
+Usage: 
+
+1. Place CS_upadate.exe near cstrike folder (e.g. C:Program FilesValve)
+2. Run it. 
+
+Tested on 32-bit Windows 7 Ultimate SP1 and it works as it should be. 
+
+Here's a virus scan:
+ 
+https://www.virustotal.com/file/9014999da210153ea7e06835117d2c8f9763fcd4f3edd48bf530b74e62b43eee/analysis/1340971048/
+
+SHA256:	9014999da210153ea7e06835117d2c8f9763fcd4f3edd48bf530b74e62b43eee
+File name:	CS_update.exe
+Detection ratio:	1 / 42
+Analysis date:	 2012-06-29 11:57:28 UTC ( 19 minutes ago )
+
+1 detection (TR/Downloader.Gen): Why? because it downloads files to update your counter-strike to v43.
+
+Also, I have uploaded it to my vps. so here's the direct link: http://77.241.199.69/CS_update.exe
+
+And of course if you have any questions feel free to ask.
+
+
+File size: 371KB
+
+
+And here are some screenshots of updater:
+ 
+http://trl.lt/di-8XT7BHS5.png 
+http://trl.lt/di-TDYI.png 
+http://trl.lt/di-FTHH.png

@@ -1,0 +1,28 @@
+Qu'est-ce que ce livre vous propose ?
+Bien des années se sont écoulées depuis la rédaction des premiers cours. Dans cet intervalle
+de temps, j'ai suivi des études d'ingénieur en informatique puis j'ai été professeur
+de langage C dans l'enseignement supérieur.
+Tout ceci m'a amené à construire un plan de cours adapté aux débutants, progressif et
+concret. Celui-ci est constitué de quatre parties que vous retrouverez dans cet ouvrage :
+1. Les bases de la programmation en C : nous démarrerons en douceur en
+découvrant ce qu'est la programmation et à quoi sert le langage C qui fait l'objet
+de ce livre. Nous installerons les outils nécessaires au programmeur adaptés à
+votre système d'exploitation : Windows, Mac OS X ou Linux. Nous réaliserons
+nos premiers programmes simples et pourrons pratiquer en réalisant un petit jeu
+dès la n de cette partie.
+2. Techniques  avancées  du langage C : nous étudierons des concepts plus
+avancés et plus complexes du C. Ceux-ci, bien que d'un niveau plus élevé, sont
+indispensables à la bonne compréhension du langage : pointeurs, tableaux, structures,
+chaînes de caractères, etc. Le niveau reste progressif mais le cours demandera
+plus d'attention de votre part à partir de cette seconde partie, soyez-en
+simplement prévenus.
+3. Création de jeux 2D en SDL : après avoir acquis l'essentiel des connaissances
+nécessaires pour programmer en C, il nous sera possible de nous amuser en créant
+nous-mêmes des programmes complets tels que des jeux et des lecteurs audio.
+Pour y parvenir, nous utiliserons une  extension  du langage C que l'on appelle
+la SDL.
+4. Les structures de données : pour aller plus loin, nous découvrirons des mé-
+thodes de programmation spéciques dans cette dernière partie. Nous manipulerons
+des données en mémoire à l'aide de structures personnalisées et intelligentes,
+ce qui vous permettra d'augmenter en ecacité lorsque vous réaliserez vos futurs
+programmes.

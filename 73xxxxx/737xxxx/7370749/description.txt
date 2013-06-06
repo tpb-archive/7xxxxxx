@@ -1,0 +1,15 @@
+The title says it all: This torrent was created for only one purpose and that is to create a USB installer stick for OSX lion from within windows or linux (for example if you had osx running on a HDD and it crashed while you had no backup of your USB installer somewhere on a usb stick - or you would like to try OSX, however you have no access to a Mac / AppleStore and even if you would like to purchase it and/or create the USB stick you are unable to do so because the right hardware is not at hand). So - this torrent is the answer to your prayers.
+
+Requirements: A 8 GB USB Stick
+
+Instructions:
+
+Torrent contains 2 files - lion.iso and ImageWriter.exe
+
+Launch ImageWriter.exe ... on the bottom it will probably already have recognized and selected your USB stick, hit select ... now the "hard part" lol - it allows you to select only files with the extension ".RAW" ... either rename lion.iso to lion.raw or - easier just type in the select field *.iso ... this will allow you to select the lion.iso as it is (recommended) 
+
+Now wait until the write process is finished ... after that you can reboot your system and select the USB stick and just boot from it.
+
+WHat I have posted here has been tested on Windows 7 with an entirely empty USB stick ... write completed perfectly ... reboot was fine as was the installation from the USB stick. If you guys have any problems and/or questions - ask. Cheers.
+
+Pete

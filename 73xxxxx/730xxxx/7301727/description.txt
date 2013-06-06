@@ -1,0 +1,9 @@
+Latest release of Mac OS X Lion 10.7.4 bundles into a VMware image. Mostly stock, with a few drivers modified by myself. Boots on my machine with 1GB RAM in around 40 seconds. Recommended you watch the setup video contained in the download to get it working properly (sorting out sound cards, graphics drivers etc.). 
+
+Fully updated as of 24/05/2012. XCode can be installed via the App Store, as it functions *perfectly* as a Mac. AMD users should consult the setup guide beforehand as only certain models work so its your call if you want to try it or not, however for 3.92GB its worth a shot.
+
+The .exe is an SFX archive, double-click to extract. When extracted it's around 7GB. Works with Player, Workstation and Fusion, both old and new versions.  Watch the guide to set it up properly, without it you'll most likely get stuck.
+
+Please note: The Hardware Bypasser included was created using Tola's Patching Engine 2.03b and packages using UPX 3.07, which results in false reports from certainly virus scanners. All it does is reconstruct the vmware-vmx.exe file. If it bothers you just delete it from within the archive before you extract it.
+
+If you wanna follow my.work/releases follow us at http://souldevteam.net/blog.

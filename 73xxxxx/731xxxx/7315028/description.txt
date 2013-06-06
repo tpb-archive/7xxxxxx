@@ -1,0 +1,8 @@
+This is the tool required for flashing nokia or changing firmware.
+
+steps to flash through jaf tool here:
+ 
+http://www.smartphonecity.in/2012/01/custom-firmware-cfw-flashing-through.html
+
+
+i have not added ini file bcoz in my case its not running so click on dead usb,manual flash and unclick normal mode,crt dont use ini option now click on mcu green button wait 8 sec it will open explorer from there click on .cor file next click on ppm and select rof2.vxx file click on cnt and use .fpsx 1 file at last click ape variant and select 3 .fpsx file now click flash and select yes u r done.read the article on smartphonecity.in carefully plz if u do mistake contact me on this torrent.

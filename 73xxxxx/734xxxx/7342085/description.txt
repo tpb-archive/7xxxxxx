@@ -1,0 +1,31 @@
+Worms Reloaded G.O.T.Y. online/offline
+--------------
+
+
+Features of this edition: 
+--------
+
+- Updated to version 1.0.0.478.
+- The game can be played online (using SmartSteam or GreenLuma) and offline.
+- Reduced installer.
+- Multilanguage.
+- A guide about how to play online is included.
+- The needed libraries to play are included, and also Steam, SmartSteam and GreenLuma (this one may need to be updated in the future with newer releases).
+- Nothing has been deleted.
+
+
+Note: You can change the language of the game inside the game, at "options" menu.
+
+
+Steps to play online:
+--------------------
+
+1. Install the game and choose the Steam version.
+2. Install SmartSteam + Steam fix or GreenLuma (you can find them at the folder "#JIMBO" or you can do it from the installer), but not both of them.
+3. Make sure every computer which are going to play together has the same appid number ("steam_appid.txt" at destination folder, if we are going to use GreenLuma; "SmartSteam.ini" -line "22600 = "- if we are going to use SmartSteam).
+4. Start Steam with SmartSteam or GreenLuma (depending on which one you installed).
+5. Start the game from "WormsReloaded.exe", NOT from Steam.
+6. Create a lobby and invite your Steam friends.
+
+
+It is highly recommended to use "options.cmd" to launch the game and to change the appid.

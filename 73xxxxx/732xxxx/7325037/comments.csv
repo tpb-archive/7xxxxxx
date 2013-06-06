@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,raidenz,2012-06-03T13:40Z,"There is a sound problem beginning at 8:10, small offset on it."
+,braasmonkey,2012-06-03T15:04Z,Seconded. A bit of shame. Will wait for the 720p release.
+,drkmagic5,2012-06-03T16:46Z,"fixing offset audio isn't really that big of an issue, its better than the 4:3 cropped to 16:9 issue (which is unresolvable post-produciton)"
+,samrm,2012-06-03T18:14Z,"@drkmagic5: I googled how to fix the offset, and it seems easy enough. Can you tell me how many milliseconds you adjusted it by to correct the offset? Please and thanks"
+,drkmagic5,2012-06-03T20:04Z,"@samm:
+
+originally it was just a -500, then a -5000, by 12 min it was a -120000 (and literally just unwatchable).
+
+the 720p rip is usually posted by sunday evening as well as a 480 from the same source.  we will just have to wait..."
+,greylion,2012-06-03T20:31Z,"Looks like the offset is increasing after it starts.
+I tried setting 2100 ms (mplayer on linux), and it fit at first, then it didn't just half a minute later.
+
+Audio is SO broken."
+,seemovies,2012-06-04T13:41Z,"why doesnt anybody release a good xvid copy for this show, im not talking about this week..... its missed out every week"

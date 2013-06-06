@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,LJUSALF,2012-05-30T05:45Z,Whats the differens between this and the other one??
+,cris11,2012-05-30T06:05Z,"on this torrent , the Effect Suite is v10.0.2 , and updated installer menu with the option check for Adobe CS6.
+On the other one the effect suite is 10.0.1 without a box menu for CS6.
+About the content , i dont think its something new.I didnt checked all those 129 names to compare .
+If you have the other (3.2) installed on a CS5 or managed to install on a CS6 then you can keep that.The difference is just the compatibility installer with Adobe CS6 ."
+,LJUSALF,2012-05-30T06:10Z,"Starfilter doesnt install on cs6,can I do something that will make it work?
+
+And will this one work in cs6 wehn I have it on cs5.1 already?"
+,cris11,2012-05-30T06:45Z,"I had CS5.1 and uninstalled (with Revo Uninstaller ) to make a clean install for CS6 .Star Filters and this plugin were reinstalled on CS6 and working perfectly on XP 32bit.
+If you have 2 Adobe CS installed on same machine or made an ""overinstall"" of CS 5 with CS6 then i do not guarantee these plugins will work.My suggestion is to keep only 1 adobe CS clean and dont mess the installations.If you read the comments on star filters you'll see that  someone confirmed perfectly working on CS6 Extended.When you move from CS5 to CS6 i suggest you to uninstall cs5 and make a clean install of CS6.If you need CS6 try the thethingy version and if you need Revo Uninstaller look for it on my torrents."
+,cris11,2012-05-30T06:47Z,"oh and most important , BEFORE to uninstall an Adobe CS version, first uninstall the plugins, THEN the CS"
+,cris11,2012-05-30T06:51Z,if you dont want to use Revo uninstaller then uninstall CS from add or remove programs list but having the original Setup (bootstrapper) will help Windows to remove better all the registry entries.
+,cris11,2012-05-30T07:06Z,"however feel free to explore your adobe cs version, the Plug-ins folder , see what plugins subfolders you have (with .8bf or .8bA files) and copy and paste those subfolders to the 2nd Adobe CS Plug-ins folder.This might do the trick."
+,cris11,2012-05-30T07:16Z,"when you install a plugin , make sure its the same bit-version with Adobe.Photoshop 64-bit is not able to run 32-bit plugins. It can only run 64-bit plugins. 32-bit plugins need to be executed in Photoshop 32-bit or other 32-bit application that supports Photoshop plugins.
+Star Filters and this knoll plugin are uploaded in 2 version ;32 and 64 bit .So must work as long as you have a clean adobe cs installed and didnt messed up with another cs."
+,LJUSALF,2012-05-30T07:17Z,"I have cs5.1 and cs6 on the same computer (win7x64) and knoll works perfectly now on both versions.
+
+Thank you so very much.
+
+Ps. starfilter however, doesnt work on cs6, but very well on cs5.1 Ds."
+,cris11,2012-05-30T07:43Z,"cool i'm glad you did it with the knoll plugin.
+Did you tried to copy and paste the plugin subfolder ""ProDigitalSoftware"" to your 2nd CS into the Plug-ins folder ? If this still not working then uninstall and/or keep it to your most CS used version.
+in my opinion cs 5.1 is way better than cs6 im thinking to revert to 5.1 cuz im still on a 32bit system.I had to uninstal cs5.1 due to a crashing error.A clean install will always fix things on many ways :)))"
+,cris11,2012-05-30T07:46Z,cs6 is some kind of hybrid between 32 and 64 bit...i bet cs7 will be only for 64 bit..:(
+,LJUSALF,2012-05-30T08:03Z,How do I extract the subolder from the exe-file??
+,LJUSALF,2012-05-30T08:33Z,I see now that knoll contains starfilter
+,cris11,2012-05-30T12:32Z,"you cant extract content from exe files and if you do ,it wont work cuz when you install a plugin it installs some other files / settings to system.
+If you see now starfilter in knoll , you can leave it like this or go to ""Knoll Software"" folder and you'll find another folder named ""ProDigitalSoftware"" .Copy and paste the ""ProDigitalSoftware"" folder from there to Plug-ins folder from adobe...its like you you pull outside the folder ..and delete that one from knoll software.Its the basics to move around ,files and folder in Windows..I guess you know how to move files and folders in Windows, right ?"
+,macha,2012-09-21T05:24Z,Thanks a lot cris11. Followed your instructions. Works great on my PS CS6. Cheers pal

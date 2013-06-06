@@ -1,0 +1,63 @@
+This is real emulator server by D3EM
+
+
+- D3Emu support retail client with 1.02.9991 version.
+
+- Download the Diablo 3 from here, update it by open the launcher.
+- Download Visual C# Express Edition and install it.
+- Download emulator and extract it on C:
+- Download SqlLite: (Even if youΓÇÖre on x64, use x86 library) and install it.
+- Download NET Framework 4 and install it.
+- Download D3Emu V2.
+- Go to where you have install the game then go to Data_D3PCMPQs
+- Copy this folders ΓÇ£baseΓÇ¥ and ΓÇ£enGBΓÇ¥ and past them in C:D3EmuAssetsMPQ then go back to Data_D3PCMPQs
+- Copy this files ΓÇ£ClientData.mpqΓÇ¥ and ΓÇ£CoreData.mpqΓÇ¥ and past them in C:D3EmuAssetsMPQ
+- Then go where you install the game, make shortcut for Diablo III.exe and add this extension ΓÇ£-launchΓÇ¥
+
+NOTE: When you update client to 1.02.9991 do not update it anymore.
+
+Tutorial to connect to server:
+
+- Go to c:WindowsSystem32driversetc and open hosts in notepad
+- Add this lines botton
+127.0.0.1 eu.actual.battle.net
+127.0.0.1 us.actual.battle.net
+- Download PonyPatcher extract it, do not open.
+- Open D3Emu then open Diablo III Shortcut with -launch extension in game press ALT+TAB and open PonyPatcher
+- PonyPatch should say the game is runing and press Patch button.
+- In game type ΓÇ£test@ΓÇ¥ and password ΓÇ£123456ΓÇ│ and you are ready to connect.
+
+Tutorial to update your server:
+
+- Here is simple, just download D3Emu and replace the old one.
+- If some times will require new files I will write.
+
+HOW TO PLAY LAN:
+
+To play on LAN run the madcow emulator.
+
+SERVER:
+
+- go to Server Control TAB
+- Edit Public Server IP: ie. 192.168.254.100
+- Check NAT Enabled
+- Launch Server Only
+
+CLIENT:
+
+- Go to c:WindowsSystem32driversetc and open hosts in notepad
+- Add this lines server ip ie. 192.168.254.100 eu.actual.battle.net and server ip ie. 192.168.254.100 us.actual.battle.net
+
+- Execute Bnet.Patcher.exe in binMadCowDebugBnetPatcher
+- Run the emulator MADCOW, go to Remote Server TAB, Change Remote Host ip to SERVERΓÇÖs ip ie. 192.168.254.100
+- CLICK Play on Remote Server
+
+NOTE: Your SERVERΓÇÖs ip may differ from the given example.
+
+To add account: IN MOOEGE WINDOW
+
+TYPE !account add username@ password(8 chars.) usernick admin
+
+i donwload this fromsite,try if working,and enyoj
+
+NOTE: ADMINS PLS DONT BLAME ME,AND DONT REMOVE OUR ACC,BEACUSE ISN NOT FAKE!

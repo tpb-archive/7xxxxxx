@@ -1,0 +1,253 @@
+﻿User Type,Username,Date,Text
+[H],HeroMaster,2012-06-15T05:04Z,ENJOY Diablo 3 New Emulator Server for which we all were waiting for by MADCOW!
+,xasti,2012-06-15T05:21Z,"I see that the author has created a lot of torrents, but still wait for entry on the scene"
+,xasti,2012-06-15T05:25Z,"fake. ""Current version of Mooege Emulator doesn't support Diablo III release version"""
+,dubai1991,2012-06-15T05:31Z,working???
+,cschrille1,2012-06-15T05:38Z,"Well i normally trust HM, but whenever its D3 i get suspicious. Gonna DL and try."
+,CrankyAVM,2012-06-15T06:02Z,Hero I love you but I'm confused - the readme file for this emulator says that it doesn't work with the release version yet. Think i'll wait it out but people more tech savvy than me are free to try.
+,Kisogo,2012-06-15T06:08Z,... Does this mean we can finally play the freakin game?
+,geriatre,2012-06-15T06:14Z,"I compiled and followed the instructions, no errors in the log, the game is launching but when i log in with ""test@"" and pass ""123456"" it gives me the ""wrong login information"" error as if I wasn't connecting to the server.
+This thing looks like it might be working, but not for me."
+,Redistrust,2012-06-15T06:15Z,"It's real - it was released officially by Skidrow. There are some bugs, but it's real. Just registered for this purpose aha."
+,dubai1991,2012-06-15T06:26Z,not working for me....!!!
+,dubai1991,2012-06-15T06:29Z,do i need the diablo 3 updated version????
+,Redistrust,2012-06-15T06:30Z,"After trying it out, I can say that there are way too many bugs. First quest gate is bugged - zombies don't get up for the 'attack' on the city, and you can just open the city gates. After that, if you talk to the first person you see, it says ""Cannot find actor, using player instead"", to which it then crashes.
+
+Though it does somewhat emulate a server, you should wait until some of the bugs are worked out before seriously trying to play."
+,bigdaddy153,2012-06-15T07:24Z,call me a noob but it keeps saying login information incorrect.. please help someone 
+,toureyaya,2012-06-15T07:50Z,"This works, but only works 30%"
+,toureyaya,2012-06-15T08:12Z,"this is easy:
+
+1: update diablo 3 to 1.0.2.9991
+2: download : http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express  (with SqL librery)
+3: .NET framework 4: http://www.microsoft.com/download/en/details.aspx?id=17851
+4: copy  MADCOW folder to destop
+5: Start Visual Basic 10 as ROOT (win 7)
+5: press ""open project"" and find in the folder madcow the file ""MadCow.csproj"" and press F5 (It will open the program MADCOW)
+6: Select a Repository
+7: Press ""Validate Repository"" Button.
+8: Press ""Update Mooege"" Button.
+9: Press ""Find Diablo3"" Button, select diablo 3.exe.
+10: Press ""Copy MPQ's"" Button.
+11: Press ""Play Diablo (Local)"" Button,
+12: In Diablo -> User: test@ Pass: 123456
+Finally: create a character"
+,dubai1991,2012-06-15T08:39Z,whenever am trying to copy the mpq files t says corrupt or file missing base mpq file 9991
+,ShockWave91,2012-06-15T08:40Z,"Working fine, yesterday i saw emulator on skidrow homepage, you can create character, enter the game but quest, drop etc is still fuc*** up. Its 50%, whey will be work on database for now, its took few days so be patiens, expect full emulator in first part of next month."
+,ShockWave91,2012-06-15T08:42Z,Btw. You can always update MadCow so w8 for updates
+,pairet89,2012-06-15T08:43Z,It works but it has lots of bugs. I hope they update their server soon.
+,dubai1991,2012-06-15T08:45Z,please help..!
+,Azu5s,2012-06-15T08:49Z,It's only a Beta...Got play this game after 1 year without any problem : )
+,dubai1991,2012-06-15T09:01Z,.
+,dubai1991,2012-06-15T09:01Z,help
+,iohannf,2012-06-15T09:30Z,"is working ...stop flaming with fake shit ... is not complete but is working.
+for those who have error on login window, add those lines ""127.0.0.1 eu.actual.battle.net"" and ""127.0.0.1 us.actual.battle.net"" in host file ..."
+,dubai1991,2012-06-15T09:56Z,finally got it to work....but has bugs....sometimes crashes and error pops up no hero available..!!
+,Dimmis80,2012-06-15T10:39Z,"I can't find the ""select a Repository"" thing.Where is this inside MV C2010 Express.!?And i open MadCow2011 but i can't find it.!!???"
+,mkoko,2012-06-15T11:10Z,"Is this ever gonna work with mac? If yes, how?"
+,tiboka,2012-06-15T11:27Z,"@maxi45rl
+
+Then use, that one. Stop bitchin' here with your trojan... "
+,mkoko,2012-06-15T11:28Z,Is there any way this will be possible on mac?
+,Lefty85,2012-06-15T12:04Z,cool but well when it has errors it sucks....
+,evan1991,2012-06-15T12:46Z,will i be able to play single player without any problem? 
+,Sslesar,2012-06-15T12:49Z,"for those who have error on login window, add those lines ""127.0.0.1 eu.actual.battle.net"" and ""127.0.0.1 us.actual.battle.net"" in host file
+
+Thanks this WORK"
+,corcodicius,2012-06-15T13:24Z,"Yes it does, but this emulator is so stupid. is bullshit, no quest, legendary objects fall from the first mob :). can be said about it the more it is a free-roaming, the only walk in the park. will require a long time before a real emulator to appear on the market and we can play this game properly. at this point, is just graphics"
+,sotos1992,2012-06-15T13:39Z,thank you
+,LordMerkadis,2012-06-15T14:16Z,"I guess this emulator requires internet too, right?"
+,Dimmis80,2012-06-15T14:36Z,"Hey guys.If any of u guys that managed to make this work can help me or others that could not make this work it would be fine..!:-/I follow @toureyaya solution and first what does he mean ""Start Visual basic 10 as Root Win7"".?I have Win 7 and i run from my desctop Visual Basik 10 but i can't find nowhere the ""Select a Repository"" thing.I just run it and i can open with ""Open Project"" thing the Madcow folder and and i get some files in the right but F5 button won't work and again i could not find the Repository order.!!So finaly any help it would be much apreciated for me and for the people that have not make this work and we want to see the game and play it to..!Little help guys not just download make it work and run but help for the others...Thanks in advance.:-("
+,supersonic5000,2012-06-15T14:48Z,please tell me why dont working quests?
+,yxcvasdf,2012-06-15T14:50Z,"it´s nice to see a progress in diablo 3 cracking. i have just tried the emulator and i can confirm that it works. on the other hand, it works only to a certain point and than i get an error and the game crashes. neverthless, it is a good start :)"
+,derekabril,2012-06-15T16:23Z,"@Sselar, what and where is the host file? Thanks! "
+,electro cute,2012-06-15T16:33Z,"can't connect, login information incorect. 
+went to the windows/system32/drivers/etc but i don't have HOSTS file. i have LMHOSTS that i've opened in notepad and just added two lines specified in the tutorial and saved the file. still can't login. can anybody help?"
+,Dimmis80,2012-06-15T16:36Z,"What about our problems to not making the emulator-game work..If someone who cares about an another pesron and finally will help so i and so much others could finaly see and play this damn game.WTF don't go just hit and run,download and no seed and run or play and run and don't help other people who is waiting this damn game for a month to play and now they could not.!!Btw it seems to me like bad instructions..!:-/"
+,Xndo,2012-06-15T18:03Z,"@electro cute | if you do not have a hosts file create one. open notepad add this in it
+
+127.0.0.1 localhost
+
+type in ""hosts"" and save
+
+127.0.0.1 eu.actual.battle.net us.actual.battle.net
+
+you have to restart for the changes to take effect.  
+
+@Dimmis80 | you need to install visual C# studio download all the files it needs, then double click on the complie.bat file. then it will build it, go into the /bin/ dir inside madcow and you'll find your program from there.  "
+,ileumfour,2012-06-15T18:19Z,"Works pretty much as good as the blizzard release, lol.."
+,AdrenaLiNv2,2012-06-15T18:41Z,"To all pessimists who said ""There will be no crack for this game"", in your face."
+,ileumfour,2012-06-15T19:15Z,"its a server emulator, not a crack"
+,Pimbax,2012-06-15T19:25Z,Finnaly!
+,GObonzo,2012-06-15T20:05Z,get it running okay but no audio ?
+,Dimmis80,2012-06-15T20:06Z,"@Xndo i have installed Microsoft visual c 2010 express in Program filesx86 but i can't find the file u talking about ""Complie.bat.file"".Can u tell me where exactly is please mate.???"
+,Tsuzuriko,2012-06-15T20:17Z,"I don't know if it just happened with me, but for those having problems on Validating Repository, check your local IP configuration and see if your DNS has changed. I use a static local IP and everytime the Madcow emulator starts my dns changes to a random one and i lose internet connection. After Mooege starts I just put the old DNS back and everything is good to go. Hope it helps. :)"
+,Shagohodcoldwar,2012-06-15T20:22Z,its working!!!! it has bugs but still VERY GOOD JOB FROM SKIDROW-MADCOW. Plus your account will never be hacked XD
+,assanti,2012-06-15T20:33Z,"it's work but with many many bug(can't sell anything,quest not work,legendary drop at first moob and many more) .after you start madcow and put username and pasword let 1 min to pass and then login.this emulator is the first and at begining is normal to not work fine.in time i'l work but after 2-3 month.i just say thanks to SKIDROW(this guy release this) AND HEROMASTER(when see that name don;t ask if work or it's fake, trust because click on man history and see)"
+,eugenen,2012-06-15T22:00Z,"I confirm that its working, but as mentioned - bugs everywhere. Hope to see an update! great job anyway!"
+,dsoul81bc,2012-06-15T23:27Z,"its working and its easy to install, just follow instructions. but with many bugs. 
+
+great job every one involded in making emulator. 
+suck on this blizzard. ;)"
+,axinte,2012-06-15T23:29Z,"I got tired of waiting and dlding fake cracks so I choosed to play something free. I found http://www.drakensang.com/?&aid=3546&invID=xbddjhjecajxccieejjfcxigjgcbxibgxbgdhxbaa and cooled my thirst of hacking monsters.
+
+You can try too. It's free... but addictive :)"
+,Xndo,2012-06-16T01:02Z,"for people that have issues building this version, sidrow has a pre-compiled version of it, just use it, its the same time, just a few other steps needed, but it works also"
+,electro cute,2012-06-16T01:13Z,"still can't login.
+i've created a new hosts file, entered:
+127.0.0.1 localhost
+
+::1 localhost 
+
+127.0.0.1 eu.actual.battle.net
+
+127.0.0.1 us.actual.battle.net
+
+and saved
+and still nothing. can anyone help?"
+,electro cute,2012-06-16T01:41Z,"ok, got a hosts file from my girlfriend but i still get a error message. this time it's error 3003 - unabele to connect to the service or connection was interupted. i'm so bummed right now :("
+,GObonzo,2012-06-16T02:14Z,"everything is working maybe 1 out of 5 times i try it. sometimes no audio, sometimes blueish colored screen with only UI showing, sometimes items cannot be removed from inventory, etc. but sometimes it works!"
+,hAWK_22,2012-06-16T02:38Z,"when i got the the two cmds one of them says ""failed battle.net.dllProcess found"" then diablo starts after minites i got a pop up that says unable to validate core files. can anyone help?"
+,mkoko,2012-06-16T02:39Z,Help Please!! Im on a mac :( what can I do??
+,hAWK_22,2012-06-16T02:40Z,oh yea for those who have problems try this patch http://patchup.info/d3/manual-update/1-0-2c/ read it to bottom download the mpqs.
+,hAWK_22,2012-06-16T02:41Z,mkoko ^ this helps
+,Dimmis80,2012-06-16T02:55Z,"Well i finaly did it and i manage to play it.I first got the errors but then i change the server location to Americas and i got to log in and stuff.So u guys with error problems u might try to change the server location.It worked for me.Now about this emulator its very bugy with a lot of problems and bad stuff..U can't play quests,sell things u get very fast thousands of money,u can't craft anything some creatures attack u other don't bother and a lot of stuff that don't work the way it should work..Or the way i playied in the betta.But its a start it took those great guys a month and they deliver something.It might take time who knows another month or even 2 or 3 but now that they start it i am quite sure that they will emulate the whole game and they will crack it properly.Ok its a very good game especialy for people like me that have not play D1 or D2 and if u start despite the problems u can't stop but i don't think that deserves the price of 50-60 Euros..So u guys give this emulator a try kill some Jombies see some of its world and then wait patienly for the real deal to come in some time.And my man @HeroMaster thanks a lot about this upload.Cheers."
+,bananaman89,2012-06-16T08:36Z,"First time comment, THANK YOU< THANK YOU! I appreciate this download more than you can imagine! : ) Followed steps and am playing , works great! Thanks again!"
+,electro cute,2012-06-16T16:04Z,"still can't connect. fixed the hostst file, patched it with hawk_22 fixes and nothing. could probles arise from the fact that i'm using collectors edition of the game?"
+,marl10796,2012-06-16T17:10Z,"nice! but have many bugs.
+we need to wait till a bug-free emulator server comes out"
+,ahoi1,2012-06-16T17:42Z,"No orlydb entry, nor rlslog.
+
+Anyway, let's hope this isn't just the beta emulator renamed. In this case, gj madcow.
+
+If not, fu.
+
+I don't expect getting proper answer here but anyway: Is it possible to manipulate the game then? (like fixing drops?)."
+,DiegoForlan20,2012-06-16T17:59Z,"hi i have problem when i launch with all steps:
+in the emulator is write MooNet-Server is listening 0.0.0.0:1119 what to do? and this stop on this"
+,DiegoForlan20,2012-06-16T18:00Z,MooNet-Server is listening on 0.0.0.0:1119...
+,DiegoForlan20,2012-06-16T18:25Z,now is working ;]
+,snowstone,2012-06-16T19:14Z,nice and complex setup
+,snowstone,2012-06-16T20:53Z,game works a lot of bugs tho just watch out who u talk to or it might crash lol but at least im happy to be able to test the game before i think about buying
+,snowstone,2012-06-16T21:38Z,most of the map broken same with all the quests your better off just waiting for a better emulator
+,Assassinprofessor,2012-06-16T21:52Z," Download the Diablo 3 from here, update it by open the launcher.
+* Download Visual C# Express Edition and install it.
+* Download emulator and extract it on C:
+* Download SqlLite: (Even if youΓÇÖre on x64, use x86 library) and install it.
+* Download NET Framework 4 and install it.
+
+
+all these should be found on Google or...? can someone help regarding the tutorial"
+,hAWK_22,2012-06-17T00:37Z,yo electro cute did u updated the game with the launcher?? thats the reason most who patched it didnt totally got patched
+,hAWK_22,2012-06-17T00:43Z,let me explain the patching for all those who are having probs... first go here http://patchup.info/d3/manual-update/1-0-2c/ then download the main patch and the mpqs at the bottom of the site9(mpqs must be ur own choices either mac or windows). After that place all them on their respective places(instructions above them)then once they are all placed in their places. DONT FORGET TO UPDATE THEM BY THE LAUNCHER.... click the laucnher then it will show setup files like that and ur good to go....
+,Chimpin14,2012-06-17T04:58Z,"Could not find a part of the path 'C:MadcowbinMadCowDebugRepositoriesmooege-mooege-e7b78c3srcMooegebinDebugconfig.ini
+
+I get this every single time I try to check the repository, after clicking 'Play Diablo (Local)
+
+Anyone know why? I have checked the path, and it seems that the path ends at srcmooege - so, the second 'bin' folder is not there. I've tried the whole process several times, but can't seem to get around this.  It also happens if i select a different repository.  Any help?"
+,Sonixian,2012-06-17T07:57Z,"Hey plizz help me i added the 127.0.0.1 eu.actual.battle.net"" and ""127.0.0.1 us.actual.battle.net"" in host file but
+It says error code 6 plizz help"
+,kureto1243,2012-06-17T09:58Z,well it worck but ther are alot of bugs beter w8 for beter emulator ;Du can enter the can but it is like funn surver in WoW :D 28 for beter emulator or surver
+,yesyesyesyo,2012-06-17T13:04Z,"when I press Copy MPQs, it says:
+Copying MPQ files...
+Skipped: base-Win.mpq
+Copied: d3-update-base-9558.MPQ
+Copied: d3-update-base-9749.MPQ
+Copied: d3-update-base-9858.MPQ
+Copied: d3-update-base-9950.MPQ
+Copied: d3-update-base-9991.MPQ
+Skipped: base-Win.mpq
+Skipped: Cache
+[ERROR] Unable to copy MPQ files. (MPQprocedures.cs)
+When I want to play, after I try to log in, ot says it can't connect to the server and I see 2 more errors in the dos box: [Error] [MPQPatchChain]: Cannot find base MPQ file: CoreData.mpg; 
+[Fatal] [Program]: Cannot Run Servers as MPQStorage failed initialisation."
+,Dimmis80,2012-06-17T14:13Z,@HeroMaster do u have an idea when we will have an 100% free of bugs server like the original game that it will work the way the original works.Another 1 month 2 months any ideas mate.???
+,SnkByte,2012-06-17T14:38Z,"Dimmis80 @HeroMaster do u have an idea when we will have an 100% free of bugs server like the original game that it will work the way the original works.Another 1 month 2 months any ideas mate.???
+
+There will be NEVER EVER 100% working game like official servers. The best we can hope is for something more or less decently working - like private WOW server for example. And I really hope it will take them no more then around 6 months to reach that level. I could be easily wrong but thats what i thinks as realistic."
+,Dimmis80,2012-06-17T18:41Z,"@SnkByte mate i hope u will be wrong because it would be very,very desapointing if those guys will not manage to crack it,make an emulator that works 100% like the original game servers and stuff..From my point of view i will like to say to u and all of the people not to be pessimistic be patient and remember that almost all of the games cracked and hacked the rate is very high and that the guys that work in those teams have a lot of talent and patience.Lets all hope for the best and at the end they will do it."
+,edrocks921,2012-06-17T23:08Z,"still getting error 3003.. already pasted the 127.0.0.1 eu.actual.battle.net
+127.0.0.1 us.actual.battle.net
+ in the hosts file.
+
+PLEASE HELP"
+,darkdodge,2012-06-18T01:36Z,"I'm getting 315300 error...did everything like in tutorial...madcow works,updated,launching game just fine via madcow,just this error...
+did the host like @edrocks921...?
+suggestions?"
+,DiegoForlan20,2012-06-18T09:00Z,"this is very bad copy because when i was play i had error and my game close ""The application encountered an unexpected error.."
+,DiegoForlan20,2012-06-18T09:01Z,"warn conversation:actor not found,using player actor instead i was have write this in emulator"
+,DiegoForlan20,2012-06-18T09:09Z,"SHit CLIENT DISCONECTED NO SOCKET UNEXPECTEDLY CLOSED CONNECTION, CLIENT IS NO PATCHED WTF??"
+,drmicael1011,2012-06-18T10:44Z,Does this work with Revolt's Collectors' Edition?
+,pairet89,2012-06-18T11:59Z,jUST wait next week when they'll release new version of the emulator!
+,Minsc_Boo,2012-06-18T18:11Z,"ITS WORKS!
+
+just follow the ""toureyaya"" tutorial:
+
+1: update diablo 3 to 1.0.2.9991
+2: download : http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express (with SqL librery)
+3: .NET framework 4: http://www.microsoft.com/download/en/details.aspx?id=17851
+4: copy MADCOW folder to destop
+5: Start Visual Basic 10 as ROOT (win 7)
+5: press ""open project"" and find in the folder madcow the file ""MadCow.csproj"" and press F5 (It will open the program MADCOW)
+6: Select a Repository
+7: Press ""Validate Repository"" Button.
+8: Press ""Update Mooege"" Button.
+9: Press ""Find Diablo3"" Button, select diablo 3.exe.
+10: Press ""Copy MPQ's"" Button.
+11: Press ""Play Diablo (Local)"" Button,
+12: In Diablo -> User: test@ Pass: 123456
+Finally: create a character
+
+I've downloaded the Revolt's Collectors' Edition and use this emulator!
+
+The game is not ready yet, but works!
+
+parabéns madcow!"
+,yougot404d,2012-06-18T18:46Z,And they said we'd have to wait at least a year. Thanks for showing the cynics wrong!
+,subtemp11,2012-06-18T20:58Z,"I've tried User: 'test@' Pass: '123456'
+
+but gives me this:
+""Your Login information was incorrect, Please try again"" (Error: 315300)
+
+Did i miss something? It's not logging in. please help. Thanks!"
+,Rooxik,2012-06-18T21:47Z,"Works, thank you!!"
+,mkoko,2012-06-19T06:16Z,"Hey I'm on a mac. Help? Is there anyway I can manually copy the MPQ's? If so, where can I download them from?
+Thanks!!"
+,Xndo,2012-06-19T10:00Z,"@Error: 315300) ... | check your server window, does it say binding ip address 0.0.0.0.0 ???? if so that can be an issue.  or did you add the -launch in the shortcut ??? the battlenet patcher isn't picking up on it.  ponypacher seems to work, just download that and run your game, then run ponypacher then login.. poof no more login errors"
+,darkdodge,2012-06-19T13:01Z,"OK,yesterday repository updated and now when I launch the game,mooege.exe (server process) at task manager takes 100% cpu power and increasingly eats a lot of memory (and doesen't STOPS)! game is not playable due to this!! And today I get error 3003 at login? WTF??? Everything worked just fine YESTERDAY!!!! "
+,darkdodge,2012-06-19T14:47Z,"i got one question...whe i launch ""server only"" at the screen it says ""info:reading mpq assets"" and mooege.exe takes 100%cpu at tm...maybe there is a problem with assets...anybody something to say? an advice?"
+,DiegoForlan20,2012-06-19T14:49Z,This is very good piece of shit at the all map are debugs wtf can't play on it
+,Garfield123321,2012-06-19T15:34Z,I have the same problem like subtemp11 :(( Can someone help ???:(
+,hk81,2012-06-19T16:15Z,All of you complaining seem retarded. Emulator is still work in progress so expect an increasing number of bugs as development goes on.
+,Garfield123321,2012-06-19T19:28Z,"When i click start game, on the loading screen it shows ''The game connection has been lost: your client has been disconnected from the server'' HELP :(("
+,John_Bonham,2012-06-20T16:50Z,"This release is still in it's alpha stages, meaning it's buggy as hell. people are still working on it tnc god so just wait for a more stable update with lesser bugs."
+,good_wind,2012-06-20T18:11Z,"you all witch are saying some crap on this torrent page, you were request a clue from these guys who trying to crack down this game. And now you got what you want and giving some f@#ks on this? 
+
+Stop it, you sucker! Because they are working without any supports or donations of you! 
+
+Again this is not an official version, and even not an alpha verson. Cause when you download it, it just an project with all source code.
+
+One more info for you all. This server emulator is a very very VERY BIG project.  I saw one before, its a private server project of Silk Road Online. This thing cost them over a year to complete it. And of couse with a lot of help all over the world when they given their source code and request for some help.
+
+Back to this d3 server. When this thing complete over, it will containt around 20~50Mb source code. A simple imagining, just open a Note Pad and try to fill it will 20Mb letter.... hm... crazy eh?   NO there are some guys trying to fill this server emulator more than 20mb text, and of couse its all have themselves logistic.
+
+Back to me. Who the f@#k i am, why the f@#k i'm saying this. Ok im a stupid asshole programer, and i can't even help them with my stupid programing skill. But at least i don't give a f@#k on their trying."
+,klord2010,2012-06-22T08:50Z,This project officially discontinued.
+,ljuljaj1991,2012-06-22T12:05Z,@Minsc_Boo how to update diablo 3 to 1.0.2.9991?
+,Minsc_Boo,2012-06-22T13:44Z,"@ljuljaj1991 to update I simple open the diablo3 game and wait for it update :)
+
+Then I do the Tutorial, and play!
+
+@good_wind I'm with you!
+
+*I'm also a programmer, and don't have the skills to help tp help this guys...."
+,ljuljaj1991,2012-06-22T16:22Z,when i press Validate Repository...it say incorrect repository entry(i selected mooege/mooege)  
+,ljuljaj1991,2012-06-22T16:30Z,when i select mooege/mooege and press Validate Repository it say wrong repository selected...any help?
+,nikolabolec,2012-06-22T17:56Z,@ljuljaj1991 i get this error too pls help
+,John_Bonham,2012-06-23T08:59Z,seems all cracker and emulator devs have been shut down. their site are dead. blizzard is killing them.
+,hey4769,2012-06-24T08:25Z,"How can you update Diablo III to version 1.0.2.9991 ? If I just open Diablo III and update it, it’s going to update it to a much newer version than 1.0.2.9991"
+,Robe17,2012-07-13T00:44Z,hmm i follow the MadCow setup how it must be done but hen you select https://github.com/mooege/mooege    it sows its wrong end i need to chose another one .. wtf?   any ideas ??? please help 
+,Robe17,2012-07-13T00:48Z,then is other problem with MPQ IT FAIL end star sipe files .. doh any other Rapository's are down it showes that it's valid but hub is down . doh no play unles you pay 
+,tedwu,2012-07-15T21:53Z,"I will wait a year if I must. I put my faith in TBP crews and it's hard working crackers.
+Thank you for your continuous dedication making the this possible for the rest of us.
+Devalued money, horrible economy just does not give me much room to put out the price towards developer. Many times their product shows they don't care for their consumers, sad really."

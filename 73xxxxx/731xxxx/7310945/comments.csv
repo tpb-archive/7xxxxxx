@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,710065,2012-05-30T18:02Z,"I have been watching the film.MKV file that you can completely finished playing.
+But MKV files to the previous period can choose the time line, and the rest can not choose the timeline.
+Other people have this problem?
+(use google translate)"
+[T],HighCode,2012-05-30T20:57Z,"USE MPC. DON'T use vlc.
+VLC is the worst player for playing mkv-s, especially very high-settings-encoded mkv-s.
+I suppose you used vlc."
+,710065,2012-05-31T08:29Z,"I know why.I tyied MPC-HC.1.6.2.4902.x64,MPC-HC.1.6.2.4902.x86,smplayer-portable-0.8.0,splayer,UMPlayer.
+At last,i find that mkv file have 19:20:43(19hours in timeline),the flim only have 01:31:19,so this is why can not choose to start playing in the middle of 2 hours or 4hours.
+thank you share this."
+[T],HighCode,2012-05-31T11:45Z,"subtitles can cause it too.
+ See if any change with the mkv re-muxed without some subs.
+An other reason is that you got some extra stuff installed on pc that interferes with your media players. Too many players installed cause rendering mismatch.
+Uninstall and re-install MPC and it should tell you if some reg-keys need to be removed or ffmpeg, VobSub etc ininstalled.... 
+I personally don't have that issues with the file, I can drag to any time I like while playing."
+,710065,2012-05-31T15:07Z,"Do I send the wrong place?I just re-add resources, suggesting that the seeds already exists in the task list.
+Reason not subtitles, even if I did not join the other subtitles, turn off the subtitles of MKV files. This situation will appear.
+Other movies I have downloaded. the MKV file is no such problem. Like High School Musical movies,or (This.Means.War.2012.UNRATED.720p.BluRay.x264-SPARKS [PublicHD])
+This delay your time to deeply apologize. Thank you for answer my question. Do not have to spend too much on this issue. I wish you a happy day."
+[T],HighCode,2012-06-04T00:42Z,"sample (24.8 MB):   
+http://bayfiles.com/file/bU29/a2hVZb/Iron_Sky_2012_BDRip_720p_DTS_multisub_HighCode-PublicHD_-sample.mkv
+
+it is the exact same scene (1 minute) as the sample of 
+Iron Sky 2012 BluRay 720p DTS x264-3Li 
+
+The only difference you'll see is the size ;-) 
+and subtitles."
+,Golp,2012-06-05T17:13Z,"Hi!
+
+Thanks for sharing this, but a question for you. How is this on home cinema? Got a screen over 100"" so how is it? The bit rate is only 3000 and display 2.35:1?
+
+Thanks!"

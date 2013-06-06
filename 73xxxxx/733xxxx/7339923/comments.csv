@@ -1,0 +1,87 @@
+﻿User Type,Username,Date,Text
+,paul2office,2012-06-08T23:44Z,Many thanks!
+,karunnt,2012-06-09T05:46Z,Thank you.
+,paul2office,2012-06-10T07:44Z,"
+Errata as of 11/26/2011
+---------------------------------------------------------------------------------
+THINGS THAT ARE WRONG OR MAY BE CONFUSING
+Page Location        Description
+---------------------------------------------------------------------------------
+75   Ex. 2.8(b,d)    Make no sense since they would produce negative results. 
+76   Ex. 2.17        ""decimal"" --> ""signed-magnitude""         
+126  ln 4 equation   ""ns"" --> ""s""      
+155  Sec. 3.9.5 ln 8 ""higher"" --> ""lower""        
+176  Ex. 3.22        ""seven"" --> ""twelve""
+261  Tbl 5-18, ln 2,3  Insert keyword ""range"" after ""type-name""
+301  box, ln 6-7     ""after"" --> ""before""; ""8'bs11111111"" --> ""8'sb11111111""
+375  lns -10, -4     ""output-control"" --> ""output-enable""
+387  lns -2, -1      ""the enable input"" --> ""two enable inputs""
+431  ln 1, Tbl 6-39 title & ln 1  ""74x540"" --> ""74x541""
+432  Tbl 6-41 title  ""2-bit"" --> ""8-bit""
+433  ln 2 (equation) ""Y"" --> ""iY"";  ""iD"" --> ""iDj""
+440  Sec. 6.7.4 ln 2 ""4-input, 2-bit"" --> ""2-input, 4-bit""
+445  Tbl 6-50 ln 13  delete -- variable i is not needed
+460  ln 10           ""Tbl 6-56"" --> ""Tbl 6-60""
+471  ln -5           Delete ""to 0""
+510  Ex 6.23 ln 6    ""available"" --> ""available to replace the '20""
+602  box, ln -1      ""six"" --> ""three""
+725  ln -1           ""posedge CLR_L"" --> ""negedge CLR_L""
+782  ln 11           ""NEWBYTE"" --> ""SLOAD""
+---------------------------------------------------------------------------------
+FAIRLY HARMLESS STUFF
+Page Location        Description
+---------------------------------------------------------------------------------
+37   ln 16           Superscript ""2"" should be subscript (two places)
+71   ln -12          Delete the first ""than""
+72   box, line -3    Sentence should end with a period, not comma
+107  ln -6           ""transistor""-->""transistor (or series transistors in a
+                     multi-input gate)""; ""it""-->""it (them)""
+271  ln -6           ""5.3.8"" --> ""5.3.9""
+274  Tbl 5-32 ln 10  ""generate"" should be in color
+275  Tbl 5-34 ln 11  ""generate"" should be in color
+281  ln -1           ""STD_LOGIC VECTOR"" --> ""STD_LOGIC_VECTOR""
+287  box, para. 2, ln 2  ""the the"" --> ""the""
+314  box, para. 4, ln 3  ""errors give"" --> ""errors and give""
+338  Ex. 5.16 ln 1   ""one the"" --> ""one of the""
+378  ln 9            ""XOR's"" --> ""XOR's inputs""
+409  Tbl 6-26 ln 7   ""or"" should be in color (4 places)
+428  Tbl 6-36 ln -5  ""RANGE"" should be in color
+429  Tbl 6-37 ln -6, -8  Apostrophes should not be in color
+455  Tbl 6-58 ln -3  ""end if"" should be in color
+456  Tbl 6-60 ln -5  ""else p = p"" should be indented
+467  ln -3, -4       ""NATURAL"" should not be in color
+473  Tbl 6-69 ln 3   ""AGTBIN"" should not be in color
+485  ln -8           ""c"" should not be in color
+498  ln 21,24,28,29  ""loop"", ""loop"", ""in"", ""for"" should be in color
+501  Tbl 6-81 ln -19 ""for"" should be in color
+510  Ex 6.23 ln 6    ""available"" --> ""available to replace the '20""
+511  Ex. 6.29, ln 1  ""forth"" --> ""fourth""
+628  Tbl 7-36 ln -1  ""end;"" --> ""end process;""
+629  Fig 7-97        ""Zn"" --> ""Z""
+638  Tbl 7-47 ln -8  ""if"" should be in color
+638  ln 4            ""we can"" --> ""we can use""
+645  ln 9            ""5.3.8"" --> ""5.3.9""
+647  Tbl 7-55 ln 5,13  ""posedge"" should be in color
+652  ln 3            ""assigned"" --> ""assigned to""
+653  Tbl 7-59 ln 5   ""or"" should be in color
+659  ln 4            ""five"" --> ""four""
+659  ln 5            ""entity"" --> ""module"" (2 places)
+659  ln 7            ""Component declaration"" --> ""Instantiation""
+659  ln 9 (step 3)   Delete
+659  ln 10,11        Renumber to be steps 3 and 4
+687  ln -3           ""package (DIP)"" --> ""pin (DIP) package""
+696  ln 4,-4         ""Exercise"" --> ""Drill""
+725  Tbl 8-19 ln -5  ""in"" should be in color
+751  Tbl 8-38 ln -6  ""if"" should be in color
+778  Sec 8.9.7 ln 3  ""between"" --> ""between a""
+791  Ex 8.16         ""0001"" --> ""00001""
+811  ln 7            ""EPROMS"" --> ""EPROMs""
+815  ln -5           ""OE_L""-->""OE"", ""CS_L""-->""CS"" (for consistency)
+826  ln 13           ""OE_L""-->""OE"", ""CS_L""-->""CS"" (for consistency)
+831  ln -14          ""that sampled""-->""that is sampled""
+---------------------------------------"
+,qazpooo,2012-06-18T14:14Z,"Hi,
+
+Does anyone have the supplementary material(source file, student problem solution,....)?
+
+That would be great if someone can upload it."

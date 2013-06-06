@@ -1,0 +1,27 @@
+About Rom 
+
+- Based on STOCK I9300XXALEF 4.0.4
+
+- Kernel - XXLEF Insecure Kernel
+- Multi Language
+- Very fast
+- Ext4 tweak
+- Kernel tweak
+- Network and internet tweak
+- Battery tweak
+- I/O sdcard (3072)
+- RAM optimizations
+- GPU Acceleration
+- Battery calibration (autobattery calibration when battery if charged to 100%)
+- Wifi tweak
+- Dalvik to cache tweak
+- Zipaligned with sdk r19
+- Unsecured boot.img
+- Data app enabled
+- Busybox 1.20.0
+- Init.d busybox run-parts 
+- Tweaked build.prop
+- SQLlite3
+- Zipaligns apk's at boot
+- Bravia engine
+- And more

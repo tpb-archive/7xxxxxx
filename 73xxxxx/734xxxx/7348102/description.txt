@@ -1,0 +1,12 @@
+ArtMoney PRO v7.29.1
+
+ArtMoney is a cheating program you can use for all games. ArtMoney can make a troublesome game easier to
+win by helping you find the memory address where a desired quantity (like amount of money) is located
+so you can change that quantity. In spite of its title, ArtMoney actually allows you to change any quantity
+specified in a game, whether it be dollars, bullets, swords, or health points. The program finds a hex address
+based on the input parameters you set and prints these addresses with their corresponding values. For example
+if your character has 1,431 dollars, ArtMoney searches and displays all memory addresses containing the value of 1431.
+Of course, as there can be hundreds of memory addresses displayed after a simple search, you will need to filter
+these addresses. ArtMoney is not intended for multiplayer or online games, but sometimes it can work.
+
+Happy GameHacking:p

@@ -1,0 +1,55 @@
+Général
+Nom complet                      : Topaze - 1931 - Louis Gasnier D'apres Pagnol - Louis Jouvet, Edwige Feuillere.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+Taille du fichier                : 701 Mio
+Durée                            : 1h 24mn
+Débit global moyen               : 1 155 Kbps
+Application utilisée             : VirtualDubMod 1.5.10.1 (build 2439/release)
+
+Vidéo
+ID                               : 0
+Format                           : MPEG-4 Visual
+Paramètres du format, BVOP       : 1
+Paramètres du format, QPel       : Non
+Paramètres du format, GMC        : Pas de warppoints
+Paramètres du format, Matrice    : Default (H.263)
+Type de muxing                   : Packed bitstream
+Identifiant du codec             : DX50
+Identifiant du codec/Suggestion  : DivX 5
+Durée                            : 1h 24mn
+Débit                            : 1 021 Kbps
+Largeur                          : 416 pixels
+Hauteur                          : 320 pixels
+Format à l'écran                 : 1,300
+Images par seconde               : 25,000 Im/s
+Espace de couleurs               : YUV
+Sous-échantillonnage de la chrom : 4:2:0
+Profondeur des couleurs          : 8 bits
+Type d'image                     : Progressif
+Mode de compression              : Avec perte
+Bits/(Pixel*Image)               : 0.307
+Taille du flux                   : 619 Mio (88%)
+Bibliothèque utilisée            : DivX 5.1.1 (Maupiti) (UTC 2003-11-19)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Version du format                : Version 1
+Profil du format                 : Layer 3
+Paramètres du format, Mode       : Joint stereo
+Identifiant du codec             : 55
+Identifiant du codec/Suggestion  : MP3
+Durée                            : 1h 24mn
+Type de débit                    : Variable
+Débit                            : 122 Kbps
+Débit nominal                    : 128 Kbps
+Canaux                           : 2 canaux
+Echantillonnage                  : 48,0 KHz
+Mode de compression              : Avec perte
+Taille du flux                   : 73,8 Mio (11%)
+Alignement                       : Alignée sur les interleaves
+Imbrication, durée               : 24 ms (0,60 image vidéo)
+Imbrication, d. de pré-chargemen : 564 ms
+Bibliothèque utilisée            : LAME3.90.
+Paramètres d'encodage            : -m j -V 4 -q 2 -lowpass 17.6 --abr 128

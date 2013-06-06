@@ -1,0 +1,18 @@
+pan.do/ra a free, open source media archive
+
+To use this disk image in VirtualBox:
+- create a new VM
+- selet Ubuntu as OS
+- minimum of 512Mb RAM
+- attach pandora.vdi as primary disk
+- go to Settings->Network->Adapter 1: configure as bridged adapter
+
+Once its booted up you can access it via  http://pandora.local/
+or look in the VirtualBox window for the IP.
+
+To get admin access login as "pandora" with password "pandora".
+
+There is also ssh access to the virtual machine,
+username and password are "pandora" too.
+
+more information at http://pan.do/ra

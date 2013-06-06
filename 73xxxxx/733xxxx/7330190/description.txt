@@ -1,0 +1,30 @@
+is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. Users can start, stop or pause downloads, set bandwith limitations, auto-extract archives and much more. It's an easy-to-extend framework that can save hours of your valuable time every day! 
+
+It was fun putting this JDownloaderPortable together. It was a learning process for me.
+my added Features:
+==================
+1.Back up your database.zip folder so that your links will be safe even if you change Java versions. (if you loose links just go into the "JDownloaderPortableDataBackup" folder and delete the database.zip then rename your most recent database_date.zip to database.zip and you should be fine)
+
+2.Added captchatrader plug-in for auto-downloading all your downloads.
+--a: To set it up go to "http://captchatrader.com/users/refer/dekdeck/" without quotes.
+--b: Create an account. IT'S FREE! (Please use dekdeck as refer your way to thank me for my hard work :).
+--c: Then go to "JDownloaderPortapleDatacaptchatrader" folder.
+--d: Edit "captchatrader.properties" with notepad (drag it and drop it on an open notepad window) and enter "username=yourUsername" and "password=yourPassword" all without the quotes(from the account you just made).
+--e: Save the file and you're done.
+Then in your spare time fill out some captures on the site to earn credits, then when using jdownloader the credits will be used to auto download your files. So you can earn credits while you're home and put stuff to download when you're not. You can learn more about the plugin on the site. If for whatever reason you don't want to use the plug-in, go to jdownloader SettingsAntiCaptcha and check "Disable automatic CAPTCHA".
+
+3.Will register .ccf, .dlc, .jdc, .metalink and .rsdf file types when jDownloaderPortable is open and un-register them when it is closed.
+
+This was portable version was made by me so please no mirrors and don't spread. Allows us to have exclusive stuff.
+
+Let me know how it works.
+
+JDownloaderPortable_0.9.581_English.paf.exe
+MD5 Sum: c0420bc8d3d46e3e844a8c0ff7c2c96d
+USB Friendly: Yes
+Writes Settings to: Application Folder
+Stealth: Yes [url]http://www.portablefreeware.com/faq.php#stealth[/url]
+Portable Format: PAF [url]http://portableapps.com/about/what_is_a_portable_app[/url]
+Dependencies: Java
+System Requirements: WinAll, 32/64
+Size: 26mb.

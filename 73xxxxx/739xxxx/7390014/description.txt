@@ -1,0 +1,28 @@
+Steps To Install Mac OS X Lion On Computer Using USB
+
+Who said you need to dust off $1200 to work on Mac?
+
+Pre ΓÇô requisites
+	ΓÇó	First thing you need is a bootable USB which needs to be created on Mac machine
+	ΓÇó	Storage device or pen drive
+	ΓÇó	Installation files for Mac OS X Lion. (Either get it from App Store or buy its installation USB drive)
+Create Bootable USB Drive
+	ΓÇó	Plug in the storage device or pen drive into the Mac machine and launch its Disk Utility by navigating as Applications > Utilities
+	ΓÇó	We need to creation partitions on the pen drive now. So, choose the pen drive from the panel on left hand side and click on Partition. Now click on Current and choose 1 Partition
+	ΓÇó	Now name it the way you want (lets say BootME) and then click on Options and choose Master Boot Record
+	ΓÇó	You need to choose the format type now. Click on Format tab and then click on Mac OS Extended (Journaled) , and then to save it, click on Apply and Partition
+Use UniBeast
+	ΓÇó	For the below steps, make sure your Mac OS X Lion Installation USB is mounted, and if you want to install the same from Mac App Store, then ensure that its available in Applications folder
+	ΓÇó	Since we are good to go ahead, download and install UniBeast. This would also require you to complete some registration
+	ΓÇó	Run UniBeast and when it asks to choose a destination, choose the USB drive that you have formatted in the above steps
+	ΓÇó	Now choose the installation type, and then choose the third option too if you are installing Mac OS X Lion on laptops
+Setup Your Computer
+	ΓÇó	Like every other OS installation, you need to do some tweaking with the BIOS settings
+	ΓÇó	Press F10, F12 or DEL (whatever works on your computer), to enter into BIOS settings
+	ΓÇó	Set USB-HDD in the highest order or boot priority sequence
+	ΓÇó	And also set HDD SATA mode to AHCI, ACPI to S3 and Xtreme hard drive to Disabled
+	ΓÇó	Now when you restart your computer, Chimera boot screen would pop up. But this will happen only if bootable USB drive is plugged in. And to start the installer, you can use the below options:
+	Γùª	For AMD Radeon 6670 type, PCIRootUID=0 (Nvidia cards are supported by default) and for any other graphics support, type GraphicsEnabler=No
+	Γùª	Single User mode, type -s
+	Γùª	Verbose mode, type -v (use for troubleshooting as it gives detailed description of problems)
+	Γùª	Sage mode, type -x (use this if you fail to boot into installer)

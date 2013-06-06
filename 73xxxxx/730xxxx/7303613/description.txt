@@ -1,0 +1,56 @@
+Recorded from the Swedish broadcaster SVT1.
+
+Media file properties:
+ 
+General
+ID                               : 1 (0x1)
+Complete name                    : Eurovision Song Contest 2012 720p HDTV H264.ts
+Format                           : MPEG-TS
+File size                        : 20.4 GiB
+Duration                         : 3h 30mn
+Overall bit rate                 : 13.9 Mbps
+
+Video
+ID                               : 512 (0x200)
+Menu ID                          : 1 (0x1)
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=3, N=12
+Codec ID                         : 27
+Duration                         : 3h 30mn
+Bit rate                         : 12.7 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 50.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.277
+Stream size                      : 18.7 GiB (92%)
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 641 (0x281)
+Menu ID                          : 1 (0x1)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 6
+Duration                         : 3h 30mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 673 MiB (3%)
+Language                         : Swedish
+

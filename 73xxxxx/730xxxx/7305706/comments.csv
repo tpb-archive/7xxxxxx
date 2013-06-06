@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,cris11,2012-05-28T07:10Z,"Bug fixes in 2.5.1.79:
+-Scultpie primitive creation tools have been added to the Second Life menu.
+-The registration dialog has been removed as it is no longer a required feature.
+-To reduce the installer size, documentation and video tutorials have been moved to an online source and the help option will launch the URL.
+-Removal of multiple listings of Taper tool in the Tools menu.
+-Version number has been changed to a four number format: i.e., 2.5.0.1.
+-Fixed an issue where popup menus could appear off the screen when the menu was initiated near the edge of the application.
+General:
+-Issues with DAZ Studio 1.7 and C++ run time library: Since the new release of DAZ Studio (1.8+) the C++ run time library error has been corrected.
+-Added more appropriate warning to the smoothing operation to indicate when the operation may be too intensive.
+-Found several cases where un-initialized values were being used which would cause internal errors. This should make the application more stable.
+3D Camera:
+-Resolved an issue where the camera could be zoomed in too far which would cause the direction vector to be undefined and control of the camera would be lost.
+File Loading:
+-Improved 3DS file loading to handle materials.
+-Updated 3DS loading file library to a more recent release.
+-Improved OBJ file loading in how it handles materials.
+-Attempts at using un-initialized variables no longer causing internal errors when loading some files.
+Tesselation:
+-Resolved an issue where subdivision could use an unreferenced variable which would cause an internal error."

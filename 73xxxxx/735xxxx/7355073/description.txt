@@ -1,0 +1,62 @@
+Changelog version 2:
+
+* Corrected mpqdata.db file.
+* Dynamic loading of scenes from db now supported.
+* Currently using Persistent storage to read old beta data from db.
+* All World data is in db except default SubSceneGroup for each SceneCluster.
+* Hardcoded scene removed.
+* PonyPatcher & LibPony in!
+* Documented the PonyLib API.
+* Fixed invalid handle bug in LibPony.
+* LibPony will also watch for win32 api errors now.
+* Updated LibPony for 9991.
+
+Tutorial
+
+* Download the Diablo 3 from here, update it by open the launcher.
+* Download Visual C# Express Edition and install it.
+* Download emulator and extract it on C:
+* Download SqlLite: (Even if youΓÇÖre on x64, use x86 library) and install it.
+* Download NET Framework 4 and install it.
+* Go to C:MadCow and open MadCow2011 with VisualC#
+
+* There press F5 and wait for the software to open
+* 1. At repository selection, select mooege/mooege (first link)
+* .. Press Validate Repository
+* 2. Press Update/Download and wait for the message [Process Complete!]
+* 3. Select Diablo 3.exe from your game folder
+* 4. Press Copy MPQΓÇÖs and wait for the message ΓÇ£Copying MPQ files completed.ΓÇ¥
+* .. Press Play Diablo (Local), select little square near mooege and press Launch 
+
+Diablo 3
+
+* Wait 1 to 5 minutes until the server is fully loaded and login with username ΓÇ£test@ΓÇ¥ and password ΓÇ£123456?
+* Enjoy
+
+NOTE: When you update client to 9991 do not update it anymore, if you update the client the server will not work anymore.
+
+Tutorial to update your server:
+
+* Open MadCow from your desktop if is there, sometimes will require to download 
+new MadCow, I will tell when.
+* Select http://github.com/mooege/mooege then click Validate Repository.
+* Click Update/Download
+* Then play as normal
+
+NOTE: Sometime will require new MPQ files that meens you need to copy new MPQ 
+files from client, when the server will require that I will tell.
+
+Fix if you cannot connect to server
+* Go to c:WindowsSystem32driversetc and open hosts in notepad
+* Add this lines 127.0.0.1 eu.actual.battle.net and 127.0.0.1 us.actual.battle.net
+* Then connect to server
+
+Bender, Mooege, Madcow.
+
+Support the companies, which software you actually enjoy
+
+GREETINGS
+
+To all friends of the family and honorable rival groups
+
+ENJOY!

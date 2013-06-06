@@ -1,0 +1,51 @@
+I filtered and encoded it using stuff like Fast Fourier transformation to deblock and denoise the DVD source. You need advanced software players like LAV video or VLC nightly to play it. Enjoy.
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High 10@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 16 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 28mn
+Bit rate                                 : 427 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 3:2
+Frame rate                               : 23.976 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.051
+Stream size                              : 271 MiB (60%)
+Title                                    : x264 10-bit
+Writing library                          : x264 core 125 r2200 999b753
+Encoding settings                        : cabac=1 / ref=16 / deblock=1:1:1 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=0.40:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=10 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=81 / qpstep=4 / ip_ratio=1.40 / aq=1:0.60
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : Vorbis
+Format settings, Floor                   : 1 / 16898
+Codec ID                                 : A_VORBIS
+Duration                                 : 1h 28mn
+Bit rate mode                            : Variable
+Bit rate                                 : 275 Kbps
+Channel(s)                               : 6 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 175 MiB (38%)
+Title                                    : Vorbis 5.1
+Writing library                          : aoTuV 20110424 (UTC 2011-04-24)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

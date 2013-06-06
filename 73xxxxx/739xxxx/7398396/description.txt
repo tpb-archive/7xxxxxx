@@ -1,0 +1,94 @@
+Alice In Chains - Black Gives Way To Blue - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+1 - All Secrets Known
+2 - Check My Brain
+3 - Last Of My Kind
+4 - Your Decision
+5 - A Looking In View
+6 - When The Sun Rose Again
+7 - Acid Bubble
+8 - Lesson Learned
+9 - Take Her Out
+10 - Private Hell
+11 - Black Gives Way To Blue
+
+
+Setup
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.195db
+-DC Offset Removed - Apparent Bit Resolution = 21, Peak = -0.194db
+-Final Recording - Apparent Bit Resolution = 40, Peak = 4.148db
+
+-Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+*this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies
+
+Settings in Weiss Saracon:
+-Modulator Type - CRFB 10th Order
+-Sample Rate - 5.6448MHz
+-Gain (db SACD) = -0.948db*
+*max. SACD input level = 3.2db
+-Stabilizer - off
+-Dither - off
+
+-Convert newly created DSD file to 24-bit/96kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+-Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - Medium, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+*DSD -> PCM = -6db
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-06-29 09:17:03
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.07 dB    -7.31 dB      4:43 ?-01 - All Secrets Known
+DR5       -0.07 dB    -6.19 dB      3:58 ?-02 - Check My Brain
+DR5       -0.07 dB    -6.42 dB      5:53 ?-03 - Last Of My Kind
+DR7       -0.07 dB    -8.54 dB      4:43 ?-04 - Your Decision
+DR5       -0.07 dB    -6.43 dB      7:06 ?-05 - A Looking In View
+DR8       -0.07 dB    -9.40 dB      4:00 ?-06 - When The Sun Rose Again
+DR5       -0.07 dB    -6.83 dB      6:56 ?-07 - Acid Bubble
+DR6       -0.07 dB    -6.46 dB      4:17 ?-08 - Lesson Learned
+DR6       -0.07 dB    -6.88 dB      4:00 ?-09 - Take Her Out
+DR5       -0.07 dB    -7.05 dB      5:38 ?-10 - Private Hell
+DR9       -0.52 dB   -11.06 dB      3:04 ?-11 - Black Gives Way To Blue
+--------------------------------------------------------------------------------
+
+Number of tracks:  11
+Official DR value: DR6
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)
+
+
+

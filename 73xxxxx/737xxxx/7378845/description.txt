@@ -1,0 +1,104 @@
+Ministry - Filth Pig - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Reload
+2 - Filth Pig
+3 - Lava
+4 - Crumbs
+5 - Useless
+6 - Dead Guy
+7 - Game Show
+8 - The Fall
+9 - Lay Lady Lay
+10 - Brick Windows
+
+
+
+Setup
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = no offset(16), Peak = 0db
+-Final Recording - Apparent Bit Resolution = 40, Peak = 1.268db
+
+-Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+*this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies
+
+Settings in Weiss Saracon:
+-Modulator Type - CRFB 10th Order
+-Sample Rate - 5.6448MHz
+-Gain (db SACD) - 0db
+-Stabilizer - off
+-Dither - off
+
+-Convert newly created DSD file to 24-bit/96kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+-Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - Light, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+*DSD -> PCM = -6db
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+
+foobar2000 1.1.11 / Dynamic Range Meter 1.1.1
+log date: 2012-06-22 19:47:39
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8       -0.07 dB    -9.24 dB      2:26 ?-01 - Reload
+DR8       -0.07 dB    -9.55 dB      6:20 ?-02 - Filth Pig
+DR8       -0.07 dB    -8.59 dB      6:30 ?-03 - Lava
+DR8       -0.07 dB    -9.17 dB      4:15 ?-04 - Crumbs
+DR8       -0.07 dB    -9.51 dB      5:56 ?-05 - Useless
+DR7       -0.07 dB    -8.82 dB      5:16 ?-06 - Dead Guy
+DR9       -0.07 dB   -10.52 dB      7:46 ?-07 - Game Show
+DR8       -0.07 dB    -9.90 dB      4:55 ?-08 - The Fall
+DR7       -0.07 dB    -8.96 dB      5:44 ?-09 - Lay Lady Lay
+DR7       -0.07 dB    -8.66 dB      5:23 ?-10 - Brick Windows
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR8
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)
+
+
+
+
+
+
+
+
+
+
+
+

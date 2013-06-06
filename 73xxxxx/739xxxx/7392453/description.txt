@@ -1,0 +1,19 @@
+As the computer industry retools to leverage massively parallel graphics processing units (GPUs), this book is designed to meet the needs of working software developers who need to understand GPU programming with CUDA and increase efficiency in their projects. CUDA Application Design and Development starts with an introduction to parallel computing concepts for readers with no previous parallel experience, and focuses on issues of immediate importance to working software developers: achieving high performance, maintaining competitiveness, analyzing CUDA benefits versus costs, and determining application lifespan.
+
+The book then details the thought behind CUDA and teaches how to create, analyze, and debug CUDA applications. Throughout, the focus is on software engineering issues: how to use CUDA in the context of existing application code, with existing compilers, languages, software tools, and industry-standard API libraries.
+
+Using an approach refined in a series of well-received articles at Dr Dobb's Journal, author Rob Farber takes the reader step-by-step from fundamentals to implementation, moving from language theory to practical coding.
+
+    * Includes multiple examples building from simple to more complex applications in four key areas: machine learning, visualization, vision recognition, and mobile computing
+    * Addresses the foundational issues for CUDA development: multi-threaded programming and the different memory hierarchy
+    * Includes teaching chapters designed to give a full understanding of CUDA tools, techniques and structure.
+    * Presents CUDA techniques in the context of the hardware they are implemented on as well as other styles of programming that will help readers bridge into the new material
+
+
+
+
+# Paperback: 336 pages
+# Publisher: Morgan Kaufmann; 1 edition (November 14, 2011)
+# Language: English
+# ISBN-10: 0123884268
+# ISBN-13: 978-0123884268

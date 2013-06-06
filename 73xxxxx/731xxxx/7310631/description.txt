@@ -1,0 +1,31 @@
+Simba is a program used to repeat certain (complicated) tasks. Typically these tasks involve using the mouse and keyboard. Simba is programmable, which means you can design your own logic and steps that Simba will follow, based upon certain input.
+
+This ΓÇ£inputΓÇ¥ can vary greatly; from data in files to colors and text on the screen.
+
+Simba can:
+
+- Find and read colours on the screen.
+- Click or move the mouse to a specific position on the screen. Typically this is the -position of a found color or bitmap.
+- Read text on the screen and turn it into actual text. (Optical Character Recognition)
+- Capture and analyse images on the screen.
+- Read and write files.
+- Connect to the internet to read websites and post data to them.
+- Run pascal programs for you. If youΓÇÖre a bit creative you can have a lot of fun stuff with Simba, you could even make a game in it!
+
+Simba is being updated almost every day. To see changes as they are added, view https://github.com/MerlijnWajer/Simba
+
+
+How to install Simba:
+
+Simply run the installer, SimbaInstaller.exe, follow the steps and please make notice of the following note:
+Simba will install to C:/ by default; if you want to install it somewhere else, make sure you select a different location! If you are running Windows Vista or Windows 7, then you will probably want to install it to C:/ or another place; as long as writing in the actual directory does not require administrator permissions. C:/ is a safe bet.
+You can install Simba to your Program Files directory, but you will have to run Simba as administrator in that case.
+Simba will probably tell you there is an update available. In this case, an update button will appear. Click it and the Simba Updater will show up. Alternatively you can update Simba using Tools -> Update which will update Simba if there is a new update available.
+
+Note 1:
+Updating Simba as soon as an update is released is recommended.
+
+
+
+
+- [Melvintjuh]

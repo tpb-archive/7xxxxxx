@@ -1,0 +1,5 @@
+Changelog:
+- Added 'case error' alert toggle to config (off by default)
+- Added 'process pool' toggle to config (off by default)
+- Initial per-level award tracking
+- Progress on savegame file saving and loading (not exposed yet)

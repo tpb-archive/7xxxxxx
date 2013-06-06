@@ -1,0 +1,56 @@
+[VIDA] Operation Manual
+
+Systems Requirements: Based on WINDOWS XP SP3, IE8, 2GRAM, Over 20GB HDD; Windows 7 64&32 bit.
+(Windows 7 Home is not supported)
+
+
+
+1. Run the CD-ROM, choose the languages:[EN-GB...], install it to  list, till all installations finished, then restart the computer.
+
+
+
+2. After restarted, once the service icon (The bottom of the right corner) is available (VIDA Status: Running) but we have a bad news: Volvo changed the security settings so the traditional patch is not working.....
+
+
+Patching steps:
+	1. copy "license" file to the C:     (root folder)
+	2. download and install Microsoft SQL Server Management Studio
+ 	http://www.microsoft.com/en-us/download/details.aspx?id=8961
+		OR
+		"MS SQL Studio" folder
+	3. After installation run SQL Server Management Studio Express console. Login parameters:
+		Servername: localhostVIDA
+		Authentication: Windows Authentication
+	4. Try to open Databases -> AccessServer. If you receive error message you need to delegate access to these databases (Google is your friend, or ask an SQL admin)
+	5. open "filldb.sql" 
+	6. run query
+	7. copy VIDA2012A_patchVIDA content to you VIDA folder (default install path: C:VIDA and overwrite all files)
+
+
+
+I hope we can provide automatic tool to patch the system :(
+
+
+User Name: "admin" or "1"
+
+
+Checked and working!
+
+
+
+
+If you want to read your car's status then you can order DiCE device with 1 year warranty from here: 
+http://webshop.volvowiw.hu/hu/szerviz-eszkozok/19-volvo-dice.html
+
+I wrote to the shop owners to set up english language too.
+
+
+
+
+FAQ
+
+Q: I installed the application without error, but I can't login
+A: You need to modify the system - see install steps
+
+Q: I patched the system but the login page is not working (username field is grey)
+A: The traditional patch method is not working yet. To develop automatic solution is in progress.

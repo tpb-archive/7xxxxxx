@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------------------
+GOOGLE TRANSLATE from RUSSIA
+--------------------------------------------------------------------------------------------
+
+The image section rekoveri laptop HP Pavilion dv7-6b50er
+The image was shot in the program Acronis True Image Home 2012 Plus Pack build 6151
+Maximum compression, smashed to pieces on the 1.45gb (9 parts), created as a new image.
+
+The image contains three sections:
+The volume of the screw 465.7gb (976773168 sectors)
+first:
+Section Name - HP_TOOLS
+file system - FAT32
+The partition type - 0hOC
+The size of the partition - ~ 103mb (210992 sectors)
+position of the section - at the end of the disc (LBA 976,560,128 - 976,771,119)
+
+second:
+Section Name - RECOVERY
+file system - NTFS (normal, we see in the system)
+The partition type - 0h07
+The size of the partition - ~ 16.7gb (35155968 sectors),
+position of the section - the penultimate section (LBA 941,404,160 - 976,560,127)
+
+Three:
+Section Name - SYSTEM
+file system - NTFS
+The partition type - 0h07
+The size of the partition - ~ 200MB (407,552 sector)
+position of the section - in the beginning of the disk (LBA 2048 - 409,599)
+
+The idea section SYSTEM is not needed, is the section that is created when you install Windows. The image is 20mb.
+Also, the image is the correct MBR, which allows you to enter the rekoveri by pressing esc-> recovery

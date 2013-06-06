@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,niecht,2012-06-27T00:07Z,Invalid serial key
+,h4xanon4,2012-06-27T00:29Z," 1. Close your internet connection and install the application.
+
+  2. Open the program (It may take time to open the program first time)
+     click on settings and uncheck ""Check for updates"" and never update.
+
+  3. Click on key button (upper right hand site), click on the Activate
+     button (lower right hand side) and enter any name and the
+     Serial : eHswY-@ziLG-8MhER-7J29i-7RqOC-kGh5j
+
+  4. IMPORTANT : Use firewall to stop internet connection of application.
+     Otherwise your serial will be blacklisted and application will not
+     run as registered.
+
+
+FAKE"
+,boyznacne,2012-06-27T03:50Z,"worked for me
+
+thank you
+
+for everyone else i guess its blacklisted already"
+[T],Ching_Liu,2012-06-27T04:01Z,"@niecht - Possibly you used older versions of the application and old serial is still on your registry. Please uninstall and clean your registry. Try again.
+@h4xanon4 - What is that in your comment? ""FAKE"""
+,niecht,2012-06-27T19:13Z,"yes I had version 1.4.0 before I uninstall I put a shot but i ccleaner
+but it must remain registry because when I install it myself di version I tested is finished between the serial key to activate its di me but when I close the program reopens its says the key is invalid. it must remain in the registry but has not yet found in regedit I was simply remove it but must remain in a thank you even when the uploader, if any has a walkthrough thank you."
+,wannabemixer,2012-06-28T22:59Z,key is black listed
+,Ehiko,2012-06-30T04:32Z,Key not work :(
+,xXNeoREXx,2012-07-02T17:51Z,"The key doesn't work, does anyone else has another key?"
+,loraine57,2012-07-03T10:08Z,"1. Disconnect internet:
+  Control Panel> Network and Sharing Center> Local Area Connection
+2. Install with action_1_5_0_setup.exe
+3. Do not open action add to the Windows firewall to ban Web Action
+1. To add rules to the firewall into the Windows 7 Start then Control Panel and then ""Windows Firewall"".
+    On the left is an option called ""Advanced Settings"" to enter is click opens a window
+    On the left click ""Outbound Rule""
+2. Now, click ""New Rule"" and select ""Program"" is click next
+    Program with the path click ""Browse"" to choose the location ""action.exe""
+    C: Program Files (x86) Mirillis Action Action.exe
+  Click Next and then Select Block the connection and then click Next check domain, private, public
+  Click Next and then give a name to the rule ""Mirillis Action1.4.0"" then click ""Finish""
+    Done the same with ""ActionPlayer.exe"" located in
+         C: Program Files (x86) Mirillis Action ActionPlayer.exe
+
+4.Can activate with the serial provided in the file Txt"
+[T],Ching_Liu,2012-07-03T12:01Z,"If your key is blacklisted : Find ""ico_update.png"" and delete it. It is generally C: Users - User - AppData - Local - Mirillis (for Win 7)"
+,h4xanon4,2012-07-08T09:27Z,THX @ Ching_Liu
+,Hojjen,2012-07-21T15:59Z,"Can't get this to work.
+
+Key Blacklisted and i dont have a file called ico_update.png."

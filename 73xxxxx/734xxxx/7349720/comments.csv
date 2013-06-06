@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,hini29,2012-06-13T15:20Z,"Please seed! I'm stuck at 54,3% and I have been for three hours..."
+,peacerock,2012-06-14T00:57Z,Thank you mate
+,dash8captain,2012-06-14T02:12Z,"Only two serials in this torrent work, therefore you will only have 20 credits once you install this version. Take note before you un-install your older version which may have more credit."
+,Juauzynhu_FSX,2012-06-15T00:18Z,thanks the warning dash8!
+,airbusflyer,2012-06-17T18:57Z,"Does someone know how to install AES when allready AES 2.21 installed (with not legal serials)? I always get an error and it say I have to contact Aerosoft, which is of course a trick to find pirates.
+Someone has a idea?
+Or someone know how to get the new airports in version 2.21 working so we don't need to install a new version?"
+,Juauzynhu_FSX,2012-06-17T23:45Z,i install 2.3 about 2.21 without problems... Reinstall 2.21 and install 2.3
+,piekarnia,2012-06-22T11:47Z,"All is working great, only 2 serials works but that's ok. Man you are awsome! :D
+If someone have problems with old serials and now AES says it had detected illegal serials post here so i will make a tutorial how complete uninstall AES. ;]"
+,sinsnowman,2012-06-22T16:43Z,More serials plz!!!
+,kanoon1774,2012-07-15T09:18Z,Seed Plz..!! Thanks Man
+,kanoon1774,2012-07-15T09:23Z,"I have uninstall tutorial to FULLY delete AES Cr;aa928
+
+For all those of you who are trying to figure out how to completely uninstall AES on Windows 7:
+
+1. Go to the Aerosoft folder in the main FS9 folder and delete the remaining AES folder in FS9/Aerosoft/AES and also delete AES from the scenery.cfg.
+2. go to the start menu click Run, and type Regedit.exe.
+3. When the folder opens click HKEY_LOCAL_MACHINESOFTWAREWow6432NodeAerosoft{D48E210F-8F8C-404e-B3D7-F4BF6881F193}
+Delete this file
+4. Then click HKEY_LOCAL_MACHINESOFTWAREWow6432NodeaerosoftAES-Basepack&&AirportPack
+Delete this file
+5. Then click HKEY_LOCAL_MACHINESOFTWAREWow6432NodeaerosoftAirport Enhancement Services
+Delete this file
+6. Then go to HKEY_USERSS-1-5-21-1214440339-1450960922-839522115-1004SoftwareVB an VBA Program Settings{D48E210F-8F8C-404e-B3D7-F4BF6881F193}
+Delete this file aswell"

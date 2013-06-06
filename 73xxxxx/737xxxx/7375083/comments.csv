@@ -1,0 +1,77 @@
+﻿User Type,Username,Date,Text
+,ACTIVEzz,2012-06-22T04:32Z,Why does no one seed?!?!
+,oasisfleeting,2012-06-22T06:52Z,"Trojan: Win32/Sirefef.P
+
+Category: Trojan
+
+Description: This program is dangerous and executes commands from an attacker.
+
+Recommended action: Remove this software immediately.
+
+Items: 
+containerfile:C:trntsSid_Meiers_Civilization_V_Gods_and_Kings-FLTflt-cgakflt-cgak.iso
+file:C:trntsSid_Meiers_Civilization_V_Gods_and_Kings-FLTflt-cgakflt-cgak.iso->setup.exe->(nsis-6-$(PLUGINSDIR)IC.exe)->[Obfuscator.PN]
+
+Aliases
+Win32/Sirefef.DK (ESET)
+Trojan.Win32.Jorik.ZAccess.qe (Kaspersky)
+FakeAlert-GA.gen.r (McAfee)
+Trojan.Gen.2 (Symantec)
+Cryp_FakeAV-56 (Trend Micro)
+
+Trojan:Win32/Sirefef.P is a trojan compoent of Win32/Sirefef - a multi-component family of malware that moderates an affected user's Internet experience by modifying search results, and generates pay-per-click advertising revenue for its controllers. The family consists of multiple parts that perform different functions, such as downloading updates and additional components, hiding existing components, or executing payload routines.
+
+http://www.microsoft.com/security/portal/Threat/Encyclopedia/Entry.aspx?name=Trojan%3aWin32%2fSirefef.P&threatid=2147651154
+"
+,bixxi3,2012-06-22T06:57Z,"Is this the same one that seems to have been taken down http://thepiratebay.se/torrent/7374612/Sid_Meiers_Civilization_V_Gods_and_Kings-FLTsg%3DAFQjCNGHtPnTWB1IYDsQvVXMEabHTSKOvg&cad%3Drja
+
+If so then it has a tro and it doesn't install correctly :( looks like im not going to find one compatible with skidrows release damn revolt didn't work with skidrows to :/
+unless of course im wrong then please prove it"
+,bixxi3,2012-06-22T06:59Z,someone beat me to it
+[V],DibyaTPB,2012-06-22T07:00Z,Its seeded.
+,tinygiantz,2012-06-22T07:55Z,Trojan and doesn't download.
+,Kwadz,2012-06-22T10:57Z,So this release has a trojan ? thanks for the warning.
+,gshock0680,2012-06-22T15:04Z,Trojan! Fuck you uploader!
+,dedecou,2012-06-22T20:41Z,"DibyaTPB is VIP, so we can trust him."
+,Orbdamu,2012-06-22T22:07Z,"I didn't see any Virus, but got a failed install due to errors with Babylon files. "
+,Arminan,2012-06-23T00:05Z,Totally bogus. Doesn't work at all and took forever to download the torrent. 
+,ChiliBeef,2012-06-23T03:33Z,"Installed okay (after I renamed the new folder to just ""Gods and Kings"") but when I start the game, it'll play the intro and then crash to desktop."
+,oasisfleeting,2012-06-24T00:04Z,hilarious that people are still installing this after the trojan posts.
+,integralcalculation,2012-06-24T22:59Z,"It's clearly a false positive (why would a VIP member put a trojan in a torrent).
+
+This torrent works perfectly, and you don't get all the random errors like with the Revolt release. However, it's missing a bunch of DLC. Anyone got a link for everything up to Korea?"
+,TheMadBro,2012-06-26T17:16Z,The install instructions clearly state you should be using the skidrow releases. I'm good there. But I am getting the error in the same place everyone else is.
+,macpsycho,2012-07-02T09:22Z,"The trojan is a false positive, there is no virus. There is an issue however when trying to install. It keeps crashing at the install and when it does properly install, it crashes at start up."
+,darklord22,2012-07-03T18:25Z,"i get error at the middle of the install :
+""An error occured while trying to rename a file in the destination directory:
+Move file failed; code 3
+The system cannot find the path specified""
+i followed the instructions...
+any ideas?
+Thx"
+,StrangersWithCandy,2012-07-13T05:23Z,"I still have the same problems..anyone figure it out yet? This error:
+""An error occured while trying to rename a file in the destination directory:
+Move file failed; code 3
+The system cannot find the path specified""
+thank you."
+,Mingfang47,2012-07-26T16:13Z,I'm not convinced about this release. I'll wait for skidrow to release.
+,spazzydude,2012-09-09T01:44Z,"This release is fucked, at least on Win 7 Home Edition.
+
+Installed exactly as specified in the nfo, using the exact SR releases specified.
+
+Errors on install related to not finding folders ( movefile failed code 3 ), and other errors on install.
+
+First time I've had trouble getting a scene release to install since the early 2000's.
+
+This shit should be nuked, fuck knows why it hasn't been yet."
+,spazzydude,2012-09-09T14:02Z,"OK, I got this sort of working.
+
+First of all, I created a folder called 'civ5' on the root of my c: drive.
+
+Into this folder I installed the original skidrow release, and the skidrow update, including the crack files.
+
+I then created a folder called civ5gk on the root of my c: drive, and installed this expansion into that, including the crack files.
+
+I copied everything from the 'civ5gk' folder into the 'civ5' folder, overwriting anything which was previously present.
+
+It executes fine, although there may be other issues I haven't yet discovered."

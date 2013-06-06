@@ -1,0 +1,11 @@
+Full release notes can be found in this post:
+
+Updated Mountain Lion Developer Preview VMware Image. Completely Vanilla, all drivers are originally Apple's (although some are heavilty modified). Boots on average around 1m 15 seconds. Recommended you watch the setup video contained in the download to get it working properly, anything covered in that won't be addressed in the comments.
+
+Latest release of the Previews as of 16/06/2012. XCode can be installed via the App Store, as it functions *perfectly* as a Mac. AMD users should consult the setup guide beforehand as only certain models work so it's your call if you want to try it or not, however for it's always worth a shot.
+
+Unlike previous downloads, it's a .7z (too big to fit in an SFX), so extract with 7zip or WinRAR to about 6GB when extracted. Works with Player, Workstation and Fusion, both old and new versions. Watch the Setup Guide to set it all up properly (it'll help you to no end). Without following the setup guide it's more than likely you'll have no luck.
+
+Please note: The Hardware Bypasser included was created using Tola's Patching Engine 2.03b and packaged using UPX 3.07, which results in false reports from certain virus scanners. All it does is reconstruct the vmware-vmx.exe file in the VMware Program Files folder when run. If you're unwilling to take my word for it, just open the archive in 7zip (before you extract) and delete "vmware-vmx-patch.exe", which will remove it. 
+
+If you wanna follow my work/releases follow us at http://souldevteam.net/blog.

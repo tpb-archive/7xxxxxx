@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,nileshtambe,2012-06-10T16:46Z,"no need to burn on cd or copy on usb
+
+u can just add entry in boot menu of windows 7 with the help of easy bcd
+
+it will create new boot entry  u can name it anything like emergency boot /win 7 pe
+
+whenever ur main os fails to load  u can boot from that entry
+
+  i do have portable (firefox , mini partition wizard ,norton ghost) on my data drive apart from my 2-3 windows installation drive.
+
+i can use them to partition hdd, restore ghost image ,do ghost backup, "
+,RinTosaka,2012-06-23T07:12Z,"Do you think you could maybe also add in the ""Link Shell Extension""?
+http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html
+
+This would be great for if you need to move something like the ""Users"" folder due to low disk space, and then create a symbolic link pointing to the original location so that the OS doesn't freak out when you boot back into it."

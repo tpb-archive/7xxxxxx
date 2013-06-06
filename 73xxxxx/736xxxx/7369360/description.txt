@@ -1,0 +1,5 @@
+$ tar -jxvf zomboid_0.2.0q.tar.bz2
+$ cd zomboid_0.2.0q/
+$ ./zomboid_low.sh
+
+Tested on Debian unstable. OpenJDK 7 must be installed (sudo apt-get install openjdk-7-jre).

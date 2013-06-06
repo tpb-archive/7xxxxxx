@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,eyeonus,2012-06-04T21:02Z,"Apparently there's still something missing, because the name for the Batcave map is some weird thing, and trying to load it causes a crash.
+
+When starting the game again after the crash, everything still works, but the Iceberg Lounge, Batcave, and Joker's Carnival maps no longer show up.
+
+I have no idea what's causing this behaviour, and I'm not one of the scene people, so I couldn't begin to know how to find out, but the good news is, there's no more crashing."
+,eyeonus,2012-06-04T21:06Z,"Sorry, no. The maps still appear. I was looking in the wrong place.
+
+Regardless, until someone with better understanding figures out what's going on, DO NOT try to do the Batcave challenge."
+,SelenaKyle,2012-06-05T06:29Z,"thanks, downloading. always wanted Batcave map separately, as I have version 1 DLCs..."
+,SelenaKyle,2012-06-05T06:34Z,You need BmGame/Localization/INT/DLCChallenge5.int and other localizations. That's where the names of maps are... :)
+,SelenaKyle,2012-06-05T07:52Z,"add following under [BmGame.RGameInfo] at Config/PC/PCGame.ini to get BatCave map, but it doesn't work, please fix
+
++ChallengeMapList=(Row=""Combat"",Name=""DLCBatCave"", ID=57, SID=31, PackId=5, bPredator=true, ScriptRef=""GFxUI.Challenge.C57"", Start=""BatCave,BatCave_B1?Flags=Challenge,Challenge_Normal,Pred?NoFadeIn"")"
+,SelenaKyle,2012-06-06T06:54Z,"anyway, i download full v3 dlc pack and now batcave map came with it working :) thanks btw..."
+,eyeonus,2012-06-06T08:28Z,Thanks for the info. I'll get those files and re-do this.
+,eyeonus,2012-06-06T09:11Z,It seems there's some wad files that are missing as well.
+,eyeonus,2012-06-06T09:47Z,"Okay, I found most of the missing files, and put them up at http://thepiratebay.se/torrent/7333016
+
+You still have to add the line +ChallengeMapList=Row=""Combat"",Name=""DLCBatCave"", ID=57, SID=31, PackId=5, bPredator=true, ScriptRef=""GFxUI.Challenge.C57"", Start=""BatCave,BatCave_B1?Flags=Challenge,Challenge_Normal,Pred?NoFadeIn"")
+
+to ""PCGame.ini"" yourself, though, mainly because if I just uploaded my copy of the file, anyone who didn't have the same DLC I have would get errors when their game tried to load DLC they don't have.
+
+The ""Harley Quinn"" DLC torrent does /not/ have this line in that file, so you'd have to manually add it anyway."
+,archerdrake287,2012-08-31T11:14Z,can anyone upload the missing sfx or bnk. file??there are no Batcomputer speech in the start of the challenge...

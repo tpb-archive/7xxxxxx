@@ -1,0 +1,55 @@
+
+xLiveless MOD by .cue
+---------------------
+A small replacement of the xlive.dll 
+http://www.gtaforums.com/index.php?act=ST&f=58&t=512026
+
+
+Based on xLiveless by listener
+------------------------------
+Last Update: version 0.999-beta7 (29/May/2010) 
+http://www.gtaforums.com/index.php?showtopic=388658&st=0
+
+
+New features / Changes
+----------------------
+- Improved .log file output
+- New Console Output option
+- New Config file support
+- New Disable plugins loading option
+- New added plugin location "plugins"
+- New Force offline option (only in newest EFLC)
+- New Restore original save game folder option
+- New Custom save game folder support
+
+Notes
+-----
+Online multiplayer is NOT supported.
+
+Plugins can be stored / used in the "Plugins" folder
+but you must create the directory yourself.
+An example path..
+C:Program Files (x86)Rockstar GamesGrand Theft Auto IVPlugins
+Some plugins may not work properly unless
+they are in the root folder of the game though.
+
+The patch routines are the same as Listeners version
+so this MOD will support all versions of GTA IV and EFLC etc..
+Although the new added ForceOfflineMode config option
+is currently only working for EFLC 1.1.2.0 (patch 2)
+
+If "ConfigVersion" is changed in xLive.cfg a message
+will pop up asking you if you want to recreate the config file.
+Also if the config file is missing a default one will be created.
+
+
+Put the .dll in your games root folder and play :)
+
+
+And thanks Listener you rock !
+
+Direct Download Link:
+xLiveless-MOD-By.cue-v0.999.B7.23.rar (15.65KB)
+MD5: fb10c8e843504689b8348e9c64b59db7
+
+I know this is clean because i coded it myself with Visual Studio ;)

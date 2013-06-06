@@ -1,0 +1,55 @@
+Barter Kings S01E01 - No Cash No Problem
+
+Entrepreneurs carry out strings of cashless trades in order to obtain items of increasingly greater value. In the series opener, a speedboat is desired by a trader who starts out with Elvis memorabilia, and a used laptop computer is bartered in an attempt to obtain a pickup truck.
+
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 198 MiB
+Duration                                 : 21mn 4s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 314 Kbps
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 21mn 4s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 197 Kbps / 1 197 Kbps
+Width                                    : 720 pixels
+Height                                   : 404 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 59.940 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.069
+Stream size                              : 178 MiB (90%)
+Writing library                          : x264 core 114
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 21mn 4s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 576 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 19.3 MiB (10%)

@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,nahtnas,2012-05-28T11:22Z,"Screens:
+
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap1.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap2.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap3.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap4.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap5.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap6.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap7.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap8.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap9.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap10.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap11.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap12.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap13.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap14.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap15.jpg
+http://i1054.photobucket.com/albums/s482/santhan123/avatar/VLC_Snap16.jpg
+
+Enjoy :) and pls do comment regarding the quality :)"
+,minku99,2012-05-31T18:21Z,nahtnas can u please tell me how to streach the audio 
+,nahtnas,2012-06-01T16:48Z,"2 methods:
+1st - u kno the source and destination video FR.
+then change the  audio FR using any standard audio converter like behappy
+2nd - u don't kno the xact FR of source and destination. then calculate the Run time of the source and dest audio in ms. stretch it using tool like mkvmerge (destination time in ms divided by source time in ms)"
+,minku99,2012-06-02T18:34Z,Thanx yaar thank you very much...

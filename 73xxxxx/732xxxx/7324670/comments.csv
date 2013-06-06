@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,Nitsus,2012-09-11T16:23Z,"There are a couple of things wrong with this torrent:
+1) The 2.8224 MHz 1-bit PDM source has been converted to 176kHz 24-bit PCM. *THIS IS NOT LOSSLESS* below ~600Hz, and ensures poor compression because of the extreme quantization noise above 20kHz that SACDs suffer from. It also may damage speakers in extreme cases. Next time use 44.1kHz 32-bit PCM (this still is not lossless, but the lost information is well below human hearing range) or leave the input as is.
+2) It should be placed in Audo > FLAC, otherwise it's very hard to find.
+3) There's a LOT of space (and thus time) wasted in padding. Disable it between tracks of the same album if possible, or altogehter if not.
+
+Otherwise this is a great torrent. Thanks."

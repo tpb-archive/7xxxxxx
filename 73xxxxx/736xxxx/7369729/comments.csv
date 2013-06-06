@@ -1,0 +1,117 @@
+﻿User Type,Username,Date,Text
+,kispaci,2012-06-23T13:40Z,If you don't seed back 100% of this torrent I NEVER will publish here the newest VIDA!
+,hstpb,2012-07-01T18:50Z,Thanks for your efforts dude ;-) 
+,notopen,2012-07-08T13:00Z,"Information on how to change your default partner group (EUR, NOR, INT, AME) follow these steps:
+
+Using the SQL Server Management Studio browse to  ->  -> 
+
+Right click on  and select 
+
+For UserID admin and 1 please paste into the field  as follow:
+
+EUR market: ""7c2c8b27-4810-11d8-84f4-f09eeb920af1""
+NOR market: ""7c2f9869-4810-11d8-84f4-f09eeb920af1""
+INT market: ""7c2e11c8-4810-11d8-84f4-f09eeb920af1"" (This is the standard, no need to change unless you want to change back later)
+AME market: ""7c297de6-4810-11d8-84f4-f09eeb920af1""
+
+Close all windows. No need to ""save"" as changes are made to the database in realtime.
+
+Regards."
+,notopen,2012-07-08T13:15Z,"Information on how to change the default Partnergroup displayed (EUR, NOR, INT og AME):
+
+Using SQL server management alter the database as follow:
+
+Navigate to Databases -> AccessServer -> Tables and right click on database Users. Select Open Table.
+
+For UserID admin and 1, paste into the fkPartnerGroup field as followed:
+
+For EUR market, ""7c2c8b27-4810-11d8-84f4-f09eeb920af1""
+For NOR market, ""7c2f9869-4810-11d8-84f4-f09eeb920af1""
+For INT market, ""7c2e11c8-4810-11d8-84f4-f09eeb920af1""
+For AME market, ""7c297de6-4810-11d8-84f4-f09eeb920af1""
+
+The INT market is standard, so you don't have to change this unless you want to change it back later.
+
+Close, there is no need to save the information. The changes are made to the database in real time.
+
+Restart VIDA richt clicking on the system tray icon.
+
+Regards!"
+,kispaci,2012-07-18T15:41Z,THX Notopen! :)
+,manolid,2012-07-28T00:41Z,Thank you very much for this. All of your work is appreciated.
+,aeshj01,2012-08-06T11:38Z,"CanÂ´t get access to db, help annyone?"
+,kispaci,2012-08-07T21:21Z,@aeshj01 what is your type of OS? Windows 7? Windows XP or etc?
+,aeshj01,2012-08-07T23:11Z,windows 7 Enterpise 32 bit
+,kispaci,2012-08-08T09:32Z,"@aeshj01
+enable and reset ""Administrator"" user, logon with this username.
+The Administrator has access to all DB"
+,kispaci,2012-08-08T09:56Z,rest -> reset password
+,aeshj01,2012-08-08T18:34Z,Administrator in the database or in windows? have been using administrator account in windows
+,kispaci,2012-08-08T23:01Z,"@aeshj01 the operating system of ""Administrator"".
+
+I tried this method on two computer and worked. Very important that not enough that your user is in ""Administrators"" group. You need to use the real  Administrator user.
+
+Don't reset the SQL administrator's password (""sa"" user)"
+,aeshj01,2012-08-09T23:19Z,Thanx a bunch. it worked like a charm.
+,NorbaggenV70,2012-08-10T12:53Z,"The iso file dont fit on a CD-rom, it is 5,7 GB, help pl"
+,NorbaggenV70,2012-08-10T13:01Z,"Can I use DVD Double Layer 8,5GB?"
+,kispaci,2012-08-10T16:28Z,"@aeshj01: Great! :)
+
+@NorbaggenV70: sure, you can use DL DVD, or you can store on USB. USB is faster.
+
+To install VIDA you don't need to write DVD. "
+,kispaci,2012-08-20T20:20Z,"Patch is available.
+You can download from here:
+
+http://thepiratebay.se/torrent/7551558/VIDA_2012B_patch_only"
+,kispaci,2012-08-20T20:27Z,"Patch is available! :)
+
+
+search string: VIDA 2012B
+Torrent name: ""VIDA 2012B patch only"""
+,ajschot,2012-08-28T17:52Z,"i can't get in installed!
+Not on XP SP3, not on Windows 7 Ultimate x64.
+
+Even on a fresh clean Windows Xp SP3... get at the end a dialog with:
+
+Windows 31 installer OK
+
+.....   OK
+
+..... OK
+
+VIDA NOT OK
+
+really strange... can't get it work.... what am i doing wrong?
+
+somebody had the same?"
+,kispaci,2012-08-29T09:23Z,"@ajschot: a lot of issue can occur this. Check the install log files in VIDA folder
+
+
+
+Is  .NET 3.5 installed? 
+
+"
+,ajschot,2012-08-30T17:17Z,"@kispaci found the problem, after deleting/uninstalling all SQL programs and services i could install Vida2012B, thanks! 
+Does somebody know how and if I can upgrade the firmware of a chineese DiCE cloon?
+I tried to download the latest version and it doesn't work... i it gives me an error every time and then i have to reinstall de DiCE drivers.
+"
+,ajschot,2012-08-30T17:18Z,"@kispaci found the problem, after deleting/uninstalling all SQL programs and services i could install Vida2012B, thanks! 
+
+Does somebody know how and if I can upgrade the firmware of a chineese DiCE cloon?
+I tried to download the latest version and it doesn't work... i it gives me an error every time and then i have to reinstall de DiCE drivers.
+"
+,ajschot,2012-08-30T17:21Z,"@kispaci found the problem, after deleting/uninstalling all SQL programs and services i could install Vida2012B, thanks! 
+
+Does somebody know how and if I can upgrade the firmware of a chineese DiCE cloon?
+I tried to download the latest version and it doesn't work... i it gives me an error every time and then i have to reinstall de DiCE drivers."
+,ajschot,2012-08-30T17:22Z,sorry! putted there so many times...
+,kispaci,2012-09-03T20:18Z,"ajschot: the webshop version is upgradable. 
+The E-bay DiCE clone usage is very risky."
+,mj02x,2012-09-11T07:06Z,"Kispaci. First, thanks for the up! My problem is trying to install. Even if I delete all sql and all volvo folders etc, it still wont install properly. Any suggestions???"
+,kispaci,2012-09-16T17:58Z,mj02x: no idea :( . I installed a lot of compter without problem.
+,mj02x,2012-09-17T02:30Z,"kispaci. I finally got it to install. But I dont know how I did it :-( My question is when installing this new version do you  have to totally uninstall the previous version including all sql server files etc.
+Does the new crack/patch take care of everything or am I missing a step. Thanks in advance"
+,kispaci,2012-09-21T15:09Z,"mj02x: You need to uninstall totally the previous version.
+
+You need to run the patch after successfully installation. The patch do the changes in newly installed DB."

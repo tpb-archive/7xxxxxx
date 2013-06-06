@@ -1,0 +1,86 @@
+﻿User Type,Username,Date,Text
+[V],gansuk,2012-06-24T23:38Z,install the game to some were like c:games or c:temp as long folder names have been reported to cause rebuild issues on this one.
+[V],gansuk,2012-06-24T23:39Z,the installer default location is fine.
+,ACTIVEzz,2012-06-24T23:44Z,Can anyone other than upload confirm this works?
+,2230411,2012-06-25T02:12Z,"I can confirm that it works. But Babylon civilization is missing, and its not possible to select it from DLC menu. It would be great if you provide insight how to turn it on.
+Otherwise seems good. However Norton Antivirus spotted heurestic threat when you try to run Install.exe but i guess its only because it tries to run in background. Manual unpacking was no problem"
+,Katashs,2012-06-25T03:00Z,"Singleplayer works,
+Multiplayer (LAN, Tunngle) with 2 people works.
+Multiplayer (LAN, Tunngle) with 3+ people NOT working! Same problem as all other uploads. (Hosting and joining no problems, but actually starting not working.)
+
+DLC's not available:
+(Might be possible to copy from other sources into .../assets/DLC/... but not tried yet.)
+-Polynesia
+-Denmark
+-Korea
+-Ancient Wonders
+-*Babylon
+(So it contains 30 out of 38 leaders/countries
+*Babylon ""exists"" but can't be selected - Soundtrack folder missing, might be easy fix.)
+
+Overrall this one is more hassle than it's worth as it is currently. There are better out. Sorry."
+,Katashs,2012-06-25T03:10Z,"Addition:
+Copying over the folders makes them visible, but still can't be selected. So it seems to require more indepth knowledge."
+,Katashs,2012-06-25T03:15Z,"Singleplayer works,
+Multiplayer with 2 players work,
+Multiplayer with +3 players DO NOT work.
+
+DLCs not included:
+-Polynesia
+-Denmark
+-Korea
+-Ancient Wonders
+-*Babylon
+(*Included but doesn't work to select.)
+
+Total leaders: 30/38"
+,Katashs,2012-06-25T03:17Z,"Oh nuts... Sorry for spam :(
+(And even more with this, lol)
+
+Posted and it didn't show any comment, so thought something was wrong, so re-posted. :D"
+,FunkFarm,2012-06-25T03:44Z,"@Katashs
+
+Thank you for the feedback, definitely saved me some trouble."
+[V],gansuk,2012-06-25T11:59Z,this rip was made specifically for the gods and kings expansion which works fine.
+,suljo1990,2012-06-25T13:21Z,"do i need to have instaled Sid.Meiers.Civilization.V
+
+before i use this dlc?"
+,2230411,2012-06-25T13:42Z,"@suljo1990
+No you don't"
+,Katashs,2012-06-25T14:41Z,"@ gansuk
+It works yes, but with flaws unfortunately. It claims to contain all DLCs but it far from does. However if for some reason the other releases out there isn't working, then this is definetely a viable choice.
+
+I just wish someone knew how to fix the +3 player issue. :/ Fix that, and yours will be the best :D"
+,firewingV,2012-06-25T18:19Z,"It works great... It was 1H35 to unpack, but I was working on the laptop...
+
+I have tried otherÂ´s but the game was crashing...
+
+Thanks to the TEAM that put this together. "
+,Ravenduz,2012-06-25T23:23Z,"hello everyone, I have a problem, and would appreciate if you can help me out, I can start the game, and all is good...but the problem is: after turn 25, the game starts to freeze whenever I press ""next turn"", the music keeps playing, the loading mouse pointer (globe) keeps loading, but the game won't respond anymore,  I was wondering if anyone else is facing the same problem!!!"
+,genocide44,2012-06-26T03:26Z,"install and unpack corrupted missing files unable to install,waste of a download avoid."
+,BoneyX,2012-06-26T05:29Z,where do I find fakesteamconfig.exe??
+,jmcg812,2012-06-27T01:29Z,"installs fine, no errors, but then when you start a new game, you cant move either unit or settle with your settler, the 4 or 5 button menu on the left side for unit actions is gone, and none of the menus work except for the main menu and diplomacy.  think i had the same problem with the revolt version too... regular skidrow civ 5 plays fine on my system... anybody know the issue?"
+,Ryabe_Shaqe,2012-06-28T23:30Z,Can anyone tell me where to locate the fakesteamconfig.exe is located. I can not seem to find it.
+,EdwardRech,2012-07-01T17:15Z,"Why am I missing textures, speech sounds, and ocean is red/mising texture? Some icons are red blocks. Any ideas how to fix this"
+,EdwardRech,2012-07-01T21:25Z,Texture thing solved itself by reinstalling. The speech did not. Why is it saying incorrect path specified? Should I try a reinstall again? (I have lots of hard drive space)
+,In_Da_Club,2012-07-01T21:50Z,"I like your torrents very much gansuk, however, while i understand that most of the games you upload are heavily compressed they take WAY longer time to install then the previous installments you had during past years. This game with size of 1.55GB took like 1 and half hour to de-compress on quad core CPU which is IMO too long, i'd rather download the longer version instead :D
+
+No disrespect what so ever, i love your torrents otherwise."
+,Harbinger_of_Aids,2012-07-04T07:40Z,"If I own the base game (Through steam, maybe) Is it possible to apply cracked DLC and still play via internet games or do I need to cash out another $30+ and buy it?"
+,Siopa101,2012-07-06T23:07Z,"for those who cannot move units or accesing interface here is a solution that worked for me:
+
+
+Open up your config.ini (My Documents/My Games/Sid Meier's Civilization V/)
+Look for the following line: EnableGameCoreThreading = 1
+Change it to: EnableGameCoreThreading = 0 "
+,Majido,2012-07-09T12:49Z,"PLEASE HELP!
+When I play the game at the point where it says the story of the character, the game closes automatically, I tried different civilization it doesn't work!!!"
+,Majido,2012-07-09T12:50Z,"PLEASE HELP!
+When I play the game at the point where it says the story of the civilization, the game closes automatically, I tried different civilization it doesn't work!!!"
+,Majido,2012-07-09T12:51Z,sorry for spam
+,illizit,2012-07-21T20:05Z,"quad core doesnt really matter.. 
+oggenc2 takes longest and its single threaded"
+,Ziwdon,2012-07-29T21:54Z,"Works great, thanks for the upload.
+Only the Inca civilization seems a little messed up with the leader screen appearing grey."
+,adawadawada,2012-08-05T17:48Z,"Works just fine -- installation took a little under an hour, everything's going great. Thanks!"
+,Aesawe,2012-08-26T18:32Z,"It works like a charm,i have no idea why people rated it - ,propably because they didn't read your first comment which said that you should install it in a simple direction ,i installed it twice in program files etc. and it didn't work,when i installed it in D: Games it worked ,thanks man,love from Serbia !"

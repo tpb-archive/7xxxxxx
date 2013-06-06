@@ -1,0 +1,11 @@
+With Delcam Exchange you can look at customer's CAD files without having the same CAD system and translate them to a variety of formats. View CAD files from any source, such as CATIA, Pro-E, SolidWorks, and Rhino. Pay-per-use translation to a wide variety of export formats including Parasolid and Rhino.
+What's new in this version: New in Exchange 2012 R4:
+Added support for reading SolidWorks helix curves and spirals.
+Preserve curve and sub-curve structure when converting IGES to VDA.
+There is a new resource 'Display details of processed entities' under 'Advanced->Entity Control' which can be ticked to print the names of entities while translating.
+Improvements to the Rhino interface for texture mapping.
+Added support for 3Shape assemblies.
+Added initial support for processing workplanes in 3sh
+
+
+Read more: Delcam Exchange 2012 R4 - CNEThttp://download.cnet.com/Delcam-Exchange-2012-R4/3000-6677_4-10810782.html#ixzz1wFr08kEF

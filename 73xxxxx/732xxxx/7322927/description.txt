@@ -1,0 +1,13 @@
+ http://www.isotousb.com/
+
+
+ISO to USB is a free and small software that can burn the ISO image file directly to the USB drives, these USB drives include USB flash drives, memory sticks and other USB storage devices, it also supports to create a bootable USB disk with Windows operating systems. Freeware.
+
+
+The ISO image file is a popular image of the CD/DVD discs, an ISO file can include all the content on the disc, this software can easily burn these ISO files to a USB flash disk, makes it easy to carry and use. The program's interface is very simple, you only need select the ISO file you want to burn and the target USB drive, then click "Burn" button, an USB disk that includes all ISO image data will be created. There do not have any complicated settings, it is easy to use very much.
+
+Bootable USB flash disks
+
+This software currently only support Windows bootable disk, can work with both BOOTMGR and NTLDR boot mode, can create USB disk with FAT, FAT32, exFAT or NTFS file system. (When you are making a bootable USB disk, suggest you choose the FAT32 file system.)
+
+This program have be tested with WinXP, Win7 PE and WinXP PE bootable ISO image files, it can work fine, the generated USB disk can normally boot the computers. Only a small part of the machines can boot Win7, but can not boot WinXP, these machines will display "NTLDR is missing", for this problem there is no good solution currently.

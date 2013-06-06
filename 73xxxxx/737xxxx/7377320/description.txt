@@ -1,0 +1,48 @@
+Application: Minecraft Multi-Version Installer
+
+Description: 
+Java based Minecraft installer that includes all versions of Minecraft since Indev 2.23.10. 
+
+Platform Supported: Windows
+Java Version: 1.6+
+Minecraft Versions: Indev 2.23.10 - Snapshot 12w25a
+
+New in this version: 
+
+- Minecraft Snapshot 12w25a
+
+New in this version of Minecraft:
+
+- Added an "Open to LAN" menu in the in-game menu, which allows players to open their world to other players. In the menu, the player can choose to turn cheats on or off, and choose the game mode.
+- The multiplayer menu now scans for LAN servers (singleplayer worlds which are on the same LAN and have been published with the /publish command).
+- Villagers may remove a trade option after it has been used at least 3 times.
+- Added wooden stairs for the remaining three wood types (spruce, birch and jungle).
+- Redstone (including repeaters, torches, levers, and pressure plates) and Rails can now be placed on slabs and stairs positioned upside down.
+- Removed the downwards knockback while drowning.
+- Pigs now drop 1-3 Porkchops instead of 0-2.
+- Potentially improved memory usage.[2]
+- A lot of smaller changes and fixes.
+- The /tp command now allows teleporting to specified coordinates.
+- The syntax for this is /tp [target player] <x> <y> <z>.
+- The other functionality of the /tp command is still there. 
+- The "sky" in the end has changed, and is now purple instead of greenish. 
+
+Application Features:
+
+- Extensible module system allows Minecraft versions to be added or removed from the builds folder.
+- Allows you to install a different version of Minecraft on-the-fly. Good for visiting servers of different versions.
+- Automatically backs up and recovers worlds when installing new version.
+- Backup button clones worlds to ΓÇ£C:Minecraft World BackupΓÇ¥.
+- Ctrl+Click ΓÇ£Install GameΓÇ¥ Deletes Minecraft directory. (Fresh install)
+
+---------------------------------------------------------------------------
+Instructions:
+
+1. Run "Minecraft Multi-Version Installer"
+2. Select version of Minecaft you would like to install from combo box
+3. Click "install Game"
+4. Click "Install Launcher" (Places shortcut on desktop)
+5. Play!
+---------------------------------------------------------------------------
+
+As always, please leave feedback!

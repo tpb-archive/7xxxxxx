@@ -1,0 +1,28 @@
+General 
+
+format           : mpeg 4
+codec id         : mp42
+file size        : 384 mb
+duration         : 1h 32mn
+overall bitrate  : 579 kbps
+subtitle         : english
+
+Video
+
+format           : avc
+info             : advance video codec
+reframes         : 4 frames
+bitrate          : 478 kbps
+width            : 1280 p
+height           : 528 p
+frame rate       : 23.976
+stream size      : 317 mb
+writing library  : x264 core 120
+
+Audio
+
+format           : aac
+bitrate          : 96kbps - 163kbps
+channel          : 2 channel
+stream size      : 63.7 mb
+

@@ -1,0 +1,11 @@
+GPUShark 0.6.3 + Portable | 1.23/1.26 Mb
+
+GPUShark is a GPU monitoring tool for GeForce and Radeon based graphics cards and allows to see all GPUs in a single window. In simplified mode (default), only the essential hardware information is displayed: graphics card name, temperatures (GPU, PCB) and clocks (GPU, memory and shader). When accessing the detailed mode, you will be able to view more information, including the GPU codename, driver and BIOS versions, or the device ID.
+
+The main feature of GPU-Shark is to monitor all available GPUs and visualize them all in a single window. ThatΓÇÖs the fundamental difference with GPU Caps Viewer. Indeed GPU Caps is focused on the main graphics card, the one that can run OpenGL and Direct3D apps.
+
+With GPU Caps, you canΓÇÖt have access to the information of secondary cards. WhatΓÇÖs more, GPU Caps has many other features like OpenCL or CUDA data and has several real time 3D demos (OpenGL and OpenCL). All these features have a drawback: GPU Caps comes with several files (DLLs and demos data).
+
+ozone3d.net
+
+Enjoy!

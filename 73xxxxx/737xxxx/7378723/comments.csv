@@ -1,0 +1,147 @@
+﻿User Type,Username,Date,Text
+,Whimsic,2012-06-23T13:29Z,"Hi, this doesn't work for me.
+
+When I join server I get stuck at ""wait for host"" message.
+
+If anyone has an idea how to get around this, feel free to share."
+,Conan_513,2012-06-23T13:38Z,wait for the server to load the mission :)
+,Whimsic,2012-06-23T14:07Z,"Thanks for the reply Conan, how long does it take for you?
+I left it sitting there for 20 minutes and nothing happened"
+,Conan_513,2012-06-23T14:25Z,"ohm o.O
+on my amd x2 5000+ 4gb ram pc its only 1-2 minute"
+,Whimsic,2012-06-23T14:30Z,"As an update, I can join online servers without any problems"
+,Whimsic,2012-06-23T14:46Z,"Also I can logon as admin and change map/mission on the server, and it will load and play OK. Only seems to be DayZ thats failing for me"
+,Conan_513,2012-06-23T15:18Z,Whimsic you have steam version of arma 2 or you have the jimbus's Combined Operations?
+,usasoldier52,2012-06-23T15:21Z,"conan ur my hero, will try now and post the results"
+,usasoldier52,2012-06-23T15:25Z,"If u get stuck with waiting for host thing and get kicked all the time, just use the default character. If u make others it will fail"
+,Whimsic,2012-06-23T15:56Z,"Hi Conan,
+
+I have the steam version.
+
+I just want to be able to play offline.
+Also, I forgot to mention, when I run either of the cmds i get a couple of error messages, CABuildingParts and a citizenscope1.
+
+Did some research and seems to have something to do with it needing to be run in Combined Operations? Do I need to download jimbus's CO?"
+,usasoldier52,2012-06-23T16:00Z,"It does not save, i went into a 1.7 game and used a bandage then aborted reconnected and i had a new one, should i join the no cheat, no cd key servers?
+those are 1.6 so im not sure. Could u give a more clear instruction after the instalation?"
+,usasoldier52,2012-06-23T16:35Z,"Whimsic, if u just wanna play offline then download the dayz sp, google it and u will find it. It comes with cheats as well for example u can spawn a heli or guns. And conan, I cant use this torrent I tried like 8 servers and I cant save. pls help."
+,Conan_513,2012-06-23T16:36Z,"Whimsic it's looks like doesn't work with the steam version
+try create a new folder and copy in the arma 2 and the OA then this server files or download the jimbus CO 
+
+if the server start you can join with the steam version and can start a server online"
+,usasoldier52,2012-06-23T18:13Z,"It does not save,Could u give a more clear instruction"
+,segata_66,2012-06-23T21:07Z,"works perfectly, thank you Conan_513.
+
+Im using steam version."
+,adik3869,2012-06-23T21:17Z,"In work, thanks :D Allsave work :D One question, how edit mp mision file ?? I whant change time, difficult, weapon"
+,Persnoody,2012-06-23T21:38Z,"Working great for me, been hosting a server for about half the day now and still going, I personally haven't had any problems. Although, I have had many people complain saying that their character is invisible and can't see any zombies, most of the people I ran into I could see, but there was one person who really was invisible. I am guessing it is a problem on his end since it isn't happening to everyone, any thoughts?"
+,Persnoody,2012-06-23T21:40Z,"P.S. do you know how to turn voice chat on for the mission? it appears to be coded off, I did notice there was no radio in the map screen, that must be it, any help would be great."
+,segata_66,2012-06-23T23:21Z,"@Persnoody
+If someone is invisible they didnt install arma beta patch"
+,360R8D,2012-06-23T23:26Z,"Games you need 
+
+youtube
+
+
+""ARMA 2: DayZ Mod Installation!""
+
+
+"
+,360R8D,2012-06-23T23:28Z,"FREE  arma 2 game  install
+
+YouTube
+
+How to install and play DayZ with Arma 2: Free "
+,ExoCore,2012-06-24T03:23Z,Do vehicles and helicopters spawn?
+,milanesa3,2012-06-24T04:34Z,"It show this when i try to join my own server: ""This server is running an incorrect version of the server side application. You cannot play on this server...""
+but i can join other servers..."
+,milanesa3,2012-06-24T04:39Z,"""This server is running an incorrect version of the server side application. You cannot play on this server..."" when i try to join my own server, but can join to others"
+,Persnoody,2012-06-24T04:49Z,"Hmm yeah that is what I was thinking, more info on it, one player had that happen, then figured out he didn't launch the game from the right exe, leading me to believe that the one he tried first didn't have the link to the beta patch, at least this way it will be easy to explain. I might want to set a script up to kick people who don't have the same files as me, like the patch and everything.
+
+Oh and about the in game voice, found it, it was in the servercfg file."
+,anon86753,2012-06-24T06:39Z,i can join dayz games but when i try to host one it 'come up as one of the missions . did i do something wrong?
+,Conan_513,2012-06-24T08:14Z,"Updates on tunngle site
+/community/topic/77721-dayz-all-in-one/"
+,vragoslav,2012-06-25T00:23Z,"Combined this with Arma II CO + OA 1.60 - DayzMod Online 100% [Joe Smith-BR] and ewrithing works i think. But when i join the game its always the night time, im sick of, i dont see nothing cant go anywhere, how to fix this?
+Time on the server?????"
+,vragoslav,2012-06-25T00:40Z,"So i need to wait whole night to start playing on server i read somewhere dath game features realistic day-night cycles.
+Help please, and great work Conan.."
+,vragoslav,2012-06-25T01:55Z,"Lol sory for spaming i actualy fixed problem with night time whic i had, the server takes the time from pc on whic is server. I trayed to play the game in 23:00 so each time i loged in wos night. So i changed time on pc where wos the server and fixed the problem XD
+
+Tho did not trayed to play LAN whic wos my actual plan but i think it will work.
+
+Hire is what i did to make it work.
+1. dowloaded and instaled the Joe Smith iso images
+2. downloaded files on this torent extracted files and folders into arma2 
+3. Start the server with server.bat
+4. Start the game with dayz_game.bat
+
+And all works perfectly thank you so much conan now the poor people can play best mod ever made..
+
+:* "
+,Conan_513,2012-06-25T13:25Z,vragoslav change the time in windows then start the server :)
+,SMan_02,2012-06-25T15:45Z,"Works Brilliantly, thanks a lot. 
+some things seem to disappear though like wire fencing when the server is restarted. 
+oh and do vehicles spawn still haven't found one,
+
+again thanks man works brilliantly "
+,adik3869,2012-06-25T17:40Z,"Conan_513
+How change difficult ?? On vehicle ?? "
+,adik3869,2012-06-25T18:55Z,"Conan_513
+And how set a password on server and change name server ?? Please answer fast"
+,Conan_513,2012-06-25T19:59Z, adik3869 edit cfgdayzserver.cfg
+,Conan_513,2012-06-25T19:59Z,adik3869 edit server.cfg in cdgdayz folder
+,adik3869,2012-06-25T21:15Z,Thanks bro. And how turn on vehicle on game ?? I play to long and I don't see any vehicle.
+,Szymi12,2012-06-26T00:01Z,"Guys, I need your help. When I create the server I have loading at all time. How can I fix it? Please help."
+,vragoslav,2012-06-26T01:35Z,adik3869 you culd use online map to locate vehicles i think(if it works).. And i think you need to fix them and get gass to drive them.
+,Masterkush13,2012-06-26T08:08Z,"I also have this problem.
+
+""Szymi12 at 2012-06-26 00:01 CET:
+Guys, I need your help. When I create the server I have loading at all time. How can I fix it? Please help.""
+
+ Could someone point out, when selecting the dayZ mod from the main menu what is the order I ""should"" be selecting. "
+,frajer990,2012-06-26T08:45Z,"Conan it works well, thanks.
+But I think that saves should be saved on local computer of every player. Because when you switch server, you must start from the beginning :("
+,Conan_513,2012-06-26T13:05Z,frajer990 your right it save for local because it's a lan server :D
+,k4m1k4z3_pt,2012-06-26T14:17Z,"To anyone who still has problems playin singleplayer...
+first u start the server with server.bat (should b in ur main game folder,as is the next file), the server starts in window and then u start another game session with dayzgame.bat file, go to multiplayer, change to lan sumwhere down left, u should now see the server in the list, good luck. Make sure u turn mysqld (and any dayz related exe's) off in windows firewall. 
+Thanks Conan. Works perfect."
+,vadzimka,2012-06-26T16:58Z,It works great just I want to ask how to enable vehicles in my  server. I checked locations where they should be but didn't find any for 2 days already.
+,SMan_02,2012-06-26T17:03Z,"wait so has anyone actually found any vehicles yet, do i need to let my server run for a while to let them spawn,"
+,Szymi12,2012-06-26T19:07Z,There are no vehicles on this mission.
+,adik3869,2012-06-26T22:29Z,I do search vechicle and i not found any vehicle to spawn pleace
+,Conan_513,2012-06-27T08:15Z,"vehicles spawn fixed
+you can download it from tunngle forum
+
+/community/topic/77721-dayz-all-in-one/"
+,frajer990,2012-06-27T09:34Z,Conan i mean that server should download from player his save in Tunngle server :)
+,Szymi12,2012-06-27T13:20Z,Thanks for info about vehicles :)
+,vragoslav,2012-06-27T22:57Z,"Is there any hack for dayz like mini map or something so you can see where is your friends?
+Played with my brother and we searched each other like 2h"
+,mac2810,2012-06-28T07:50Z,"Hey soo ive followed all the instructions 100% right!, when i join 1 of the 2 servers it says something like Cannot join because you have wrong version"" or w.e, so then i got the update form the tunngle site, did the same thing and its still saying that its the wrong version please help me! u can contact me best at my skype which is mac2810"
+,Conan_513,2012-06-28T17:32Z,"here is the new 1.7.1.5 cracked server
+http://thepiratebay.se/torrent/7395476"
+,speedaxter,2012-06-29T21:11Z,"dayz_server tell me that i need arma2oaserver_modified, where is it ?"
+,Conan_513,2012-07-01T08:22Z,"here is the fixed version
+http://thepiratebay.se/torrent/7397946/ArmA_2_-_DayZ_1.7.1.5_Cracked_Server__FIXED_"
+,vragoslav,2012-07-13T21:28Z,"So can somebody who managed to get vhiacles spawn in the game tell me where and what he downloaded. Whic arma2 and dayz mod torrent and what he did to make it work. PLEASE
+
+I just want to pay lan game dont want to play with Tunngle"
+,TheMoo78,2012-07-13T23:02Z,Hey does this work if you only have Arma 2 Free and Operation Arrowhead Demo? I really wanna get this mod! 
+,dunderpuffran,2012-07-14T02:16Z,i dont get any loot spawn :S
+,alramd,2012-07-18T11:10Z,is this the actual dayz mod or just for getting lan to work?
+,filip989,2012-07-21T17:39Z,"Can anyone tell me how to save my character and use it again later? I always get different gear, start at different places, like I'm always starting a new game. (using tunngle) Thanks!"
+,igor24kobe24,2012-07-23T08:57Z,can some1 make guide for changing cd-key when ever i change cd-key it says bad cd-key and it says that the bad cd-key is given in setup nay can help ??
+,tylerhw,2012-08-01T02:29Z,Having the bad cd key issue no matter which one I put in.
+,xXBlaze123Xx,2012-08-03T00:31Z,VIRUS! MY INNTERNET STOPPED WORKING AND I HAD TO  DELETE IT!
+,xXBlaze123Xx,2012-08-03T00:50Z,"Hey, you son of a bitch, why did you put a virus in your torrent? "
+,palleps,2012-08-03T12:26Z,"Still stuck on loading screen after i create a map for myself, what to do?"
+,SolidShakeGO,2012-08-09T09:50Z,this game is only 30 dollars..and it works perfectly when you buy it.....
+,LunchBoxBTB420,2012-08-10T03:09Z,Every time i try to start dayz_game.bat it doesnt start
+,trexor7,2012-08-10T18:27Z,***VIRUS*** DONT DOWNLOAD
+,setzerfoxclaw,2012-08-11T07:55Z,"few quick notes, although im a pirater myself, for only 30 dollars this is COMPLETELY worth the purchase, just get the days combined operations off steam and go to dayzmod.com for the mod.  Keep in mind this ""dayz"" mod is still in alpha stage and it has been officially bought by the creaters of Arma who are now developing a stand alone Dayz game."
+,likeitis69,2012-08-12T04:30Z,"@""It's only $30""
+It's only the 2nd Great Depression with record corporate profits..."
+,TechnoJoy,2012-08-12T23:09Z,"How do I connect to my server? It doesn't show up on my server list (LAN or Internet!), but people who aren't even in my local area network are able to log on according to the server log!"
+,Tom3511,2012-09-02T06:46Z,"I'm getting this message when starting the server or game ""Addon 'dayz_code' requires addon 'CABuildingParts"". Any fix? Does with message mean anything? Can I just ignore it?"
+,TheWayneB,2012-09-06T00:55Z,Do you need arma 2 and arma 2 operation arrowhead instaled? please explain to me *.*

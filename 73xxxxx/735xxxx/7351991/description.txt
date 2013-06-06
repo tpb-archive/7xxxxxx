@@ -1,0 +1,9 @@
+This is Metasploitable2 (Linux) Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques. 
+
+The default login and password is msfadmin:msfadmin. 
+
+Never expose this VM to an untrusted network (use NAT or Host-only mode if you have any questions what that means). 
+
+To contact the developers, please send email to msfdev@metasploit.com 
+
+For more information please see the following URL: - https://community.rapid7.com/docs/DOC-1875

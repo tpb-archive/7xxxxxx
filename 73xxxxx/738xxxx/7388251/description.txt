@@ -1,0 +1,26 @@
+Version 2.1.5:
+* Added a new GRLDR version
+* Added Jetway Home Premium, Home Basic and Starter serials
+* Added Jetway SLIC and certificate
+* Fixed a bug that caused the unsupported status to be set for every type of issue
+* Highlighted the status line so that people understand that Windows 7 Enterprise is an unsupported operating system
+* Other minor tweaks and fixes
+
+
+WAT Fix will:
+Uninstall RemoveWAT (or similar)
+Uninstall HAL7600
+Uninstall Chew7
+Uninstall uODIN
+Correct file permissions
+Correct important system files
+Correct services required for activation
+Correct VBS file associations
+Remove Microsoft entries from the HOSTS file
+
+Usage:
+Run WAT Fix
+Install Windows Loader
+If required visit the following website to revalidate Windows: www.microsoft.com/genuine/validate/ (Use Internet Explorer)
+
+Warning: Do not close WAT Fix while it's running.

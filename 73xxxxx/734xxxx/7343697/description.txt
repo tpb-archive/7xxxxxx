@@ -1,0 +1,91 @@
+
+---------------------------------------------------------------
+-----------------
+Studio One 2.0.6 Release Notes
+
+Special Note: 
+We have changed the communication between Melodyne and Studio One significantly. 
+As a result, you must update Melodyne to version 2.1 in order to use the Melodyne integration!
+
+
+The Studio One 2.0.6 update has the following enhancements:
+
+- [OS X] Full-screen support
+- [Control]/[Cmd]+Drag to reorder Macro Toolbar buttons/groups
+- Add new bus from Folder track uses track color for bus
+
+The Studio One 2.0.6 update fixes the following issues:
+
+- Preview player resampling performance issue
+- Merging audio parts does not crop events
+- MIDI file export can be corrupt when negative times are used
+- Tempo changes not applied to audio recording
+- Song end not visible in arrangement after tempo change
+- [IR Maker] IRs can have too much room sound
+- [Open AIR] Restore length was incorrect when resampling was active; improved overall performance
+- Splitting folder events cannot be undone
+- Insert silence (via dialog) does not always move markers and signature changes
+- Tuner calibration after loading preset
+- Delay-compensation issue with ReWire
+- Merge audio events that were already in a part
+- Bypass buttons do not have enabled state after song reload
+- Audio Loop recordings with tempo changes are not correctly stretched
+- Edit with Melodyne bounced event, even though Melodyne had already been used
+- [Project] Image export adds silence at end
+- [Project] Spectrum meter only processes left channel
+- [OS X] VSL Ensemble VST3 has no GUI
+- [OS X] Video Offset issue
+
+MAC OS┬« X 10.6.8 OR HIGHER
+
+Hardware Minimum
+
+    Intel┬« CoreΓäó Duo processor
+    2 GB RAM
+
+Hardware Recommended
+
+    Intel Core 2 Duo or Intel Xeon┬« processor or better
+    4 GB RAM
+
+WINDOWS┬« XP, VISTA┬«, 7 (32- OR 64-BIT)
+
+Hardware Minimum
+
+    Intel Core Duo or AMD Athlon┬« X2 processor
+    2 GB RAM
+
+Hardware Recommended
+
+    Intel Core 2 Quad or AMD Athlon X4 or better
+    4 GB RAM
+
+OTHER REQUIREMENTS
+
+    Internet connection (not required on machine where Studio One is installed but needed for activation)
+    DVD-ROM drive
+    A monitor resolution no lower than 1280 x 768 pixels
+    20 GB hard-drive space
+
+Installation:
+-------------
+
+Unpack and Install 
+
+Launch Studio One, select "full Version", choose "Offline Activation" and copy the activation code
+
+Start keygen and paste activation code into (Machine Id) field
+and generate a 'Studio One 2 Professional.license' key
+
+Drag newly created file into Studio One activation window.
+
+Notes:
+------
+
+As extra we included the Studio One Extensions available for registered users only
+
+The Keygen will only work with the binaries provided with this release
+
+If your Antivirus flags on runnnig the keygen don't worry ... It's safe !!!
+
+Have Phun!

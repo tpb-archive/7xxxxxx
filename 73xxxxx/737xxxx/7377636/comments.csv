@@ -1,0 +1,216 @@
+﻿User Type,Username,Date,Text
+[V],DibyaTPB,2012-06-22T22:43Z,Sometimes RAR is good. :P
+,nicklas1015,2012-06-22T22:50Z,"So it doesnt fix the ""nvlddmkm stopped responding and has recovered""
+and ""device is hung: device is hung due to badly formed commands""?"
+,maor231,2012-06-22T23:03Z,doas anyone get poor performance on any resolution its luggy on 1920x1080 low settings and its luggy on 800x600 low settings plis help 
+,brutal_product,2012-06-22T23:52Z,"got it working with this. win7 x64, hd6870, amd2.8ghzx4, 8gig ram. performance is fine @1920x1080 maxed with dx11."
+,Jigure,2012-06-23T00:29Z,"I get an error when trying to use Launcher.exe:
+
+System error:
+The system cannot find the file specified.
+(2)
+CreateProcess failed.
+
+If I use any of the other executables in the folder nothing happens."
+,tt_green,2012-06-23T01:45Z,"@Jigure
+
+Yup same problem , if you fix it please write down what you did in the comments :>"
+,sage1210,2012-06-23T03:35Z,if you can play before. don't use this fix !!! it will damage the whole files.
+,NeoHybridSt,2012-06-23T14:38Z,works but has a crash issue little after the beggining at the extraction of some Paez dude. any1 else with same issue?
+,lightsR,2012-06-23T16:08Z,"didn't work for me - 
+This application has failed to start because dxgi.dll was not found. (When i copy dxgi.dll file in the game folder then this error appears)
+
+''The procedure entry point _except_handler4_common could not be located in the dynamic link library msvcrt.dll
+
+On other launchers: System error:
+The system cannot find the file specified.
+(2)
+CreateProcess failed.
+"
+,lightsR,2012-06-23T16:09Z,Heelp! QQ
+,lightsR,2012-06-23T16:10Z,"didn't work for me -
+This application has failed to start because dxgi.dll was not found. (When i copy dxgi.dll file in the game folder then this error appears)
+
+''The procedure entry point _except_handler4_common could not be located in the dynamic link library msvcrt.dll
+
+On other launchers: System error:
+The system cannot find the file specified.
+(2)
+CreateProcess failed.
+
+Help please! qq"
+,lightsR,2012-06-23T16:10Z,"Sry for double comment, well now triple "
+,Jigure,2012-06-23T18:33Z,"I managed to get the game to work by using Future Soldier.exe instead of launcher. The launchpad that you have to put username and password into I had to put the X in remember me before typing anything in or it would crash. The rest of the instructions worked and I got into the game but then I couldn't get my mouse to work properly. I've read some comments about a gamepad needing to be unplugged. I have no gamepad for my PC so I don't know wtf is going on. Mouse works fine in menus, buttons work in game, just can't turn around...fixed direction. If anyone knows how to solve this little issue I'm all ears."
+,biglou1204,2012-06-23T19:52Z,Have same problem as NeoHybridSt. Get game freeze right when truck crashes into the door during the first mission
+,D4M333,2012-06-23T20:32Z,"For everyone having trouble launching the game, launch FutureSoldier.exe and go to settings located at the bottom, and tick Offline Mode.You'll be presented afterwards with a Play button, which will allow you to play the game."
+,lightsR,2012-06-23T21:34Z,"@D4M333
+it doesn't work, i get error when try to launch it"
+,Seancpconn,2012-06-23T22:06Z,"Hey guys!
+
+Just logged in just to help everyone out!
+
+Here's what you do to bypass the launcher issue when everything is installed correctly and the steps are followed.
+
+1. Start the game – the Ubisoft autopatch will update it automatically, and you should let it do it
+2. The Ubisoft Game Launcher screen comes up.
+3. Click on Settings. Check Force Offline. Exit the window.
+4. Go to your crack folder, open the orbit folder: copy & paste the contents of the orbit folder to the Ubisoft Game Launcher folder in:
+(C:Program Files (x86)UbisoftUbisoft Game Launcher) for x64 based systems
+(C:Program FilesUbisoftUbisoft Game Launcher) for X86 Based Systems
+*You may want to disable your anti-virus on this step just in case*
+5. Open Futuresoldier.exe. Notice that the username SKiDROW is already there. Leave it.
+6. Make a password 6-8 characters long. Check Remember Me
+*Make sure the Force Offline mode is checked – Hit Apply*
+7. Click Log in.
+8. You will get a screen saying: “The Uplay Launcher is in offline mode. You can play the game, but other Uplay features are not available offline”. Ignore. Hit PLAY!"
+,6rdjp8,2012-06-23T23:49Z,guys plz hep me whenever i try to play the game i lunch from future soilder.exe then tick offinline and e clicked play nothing happens plz help help helpp ehpp me plz i wanted to plz this games from long time
+,6rdjp8,2012-06-23T23:55Z,guys plz help when i click future soilder .exe the ubisoft luncher opens and i click plz nothing happens
+,opaleg,2012-06-24T02:06Z,"""Future technology is the key to winning an
+asymmetric battle.""
+
+LOL... history tells us otherwise. Plus that makes no sense. It's like saying scissors is the key to beating rock."
+,Mehrdadft94,2012-06-24T09:42Z,"my mouse is not working in the game too...
+its working in the menu...weird!!!"
+,NeoHybridSt,2012-06-24T10:06Z,@biglou1204 yeah truck crashes into house and it kicks me out like i'm having memory leak or smtg coz windows then ask me that if i want to lower some stuff to get a performance boost. i mean wtf? well maybe this fix needs a fix
+,thegh0sts,2012-06-24T10:12Z,anyone getting the device is hung error?
+,o2kool9292,2012-06-24T16:24Z,"@Jigure
+
+For those having MOUSE PROBLEMS, this is due to other gamepads or controller such as the Razer NOSTROMO being installed.  Even if the gamepad is NOT plugged in, you may still have the issue of not being able to look around with the mouse, but mouse in menus work fine.
+
+My problem was having the NOSTROMO installed on win7 x64.  TO FIX:
+
+
+1. Go to START MENU-CONTROL PANELS-DEVICE MANAGER
+
+
+
+2. Click on HUMAN INTERFACE DEVICES
+
+
+
+3.  Look for RAZER NOSTROMO or any other gamepad driver, [Right Click], and DISABLE.
+
+
+
+4.  Start GRFS
+
+Menus should now show PC keyboard buttons instead of Xbox controller buttons.
+
+
+
+At least for the RAZER NOSTROMO, it is not necessary to re-enable the driver in device manager while playing.  I've been able to run the NOSTROMO CONFIGURATOR and play other games using the Razer Nostromo without having to re-enable the driver.
+
+
+
+Hope this helps anyone with the mouse problem."
+,Zipgun,2012-06-24T17:01Z,"1st off I didnt download it here I never use PUBLIC trackers. Too damn slow. But anyway game works fine for me Win 7 64 bit. But my problem is on the precious cargo mission there seems to be a bug. When ya hit the key for the quicktime event. You just get the player killed screen. Anyone else got this bug? Tried the mission about a dozen times and always does the same shit.
+
+ I'll reinstall the game and try again but if it does not work its gotta be the crack and besides this game freaking sucks it baby sits you through the whole game. Your barely involved at all its like its playing itself. Man glad I cancelled my per-order then again I had the feeling it was going to suck."
+,crazelunatic,2012-06-24T18:27Z,"@thegh0sts I get the same error and it seems alot of people are experiencing it too but for some reason most people just ignore it..... Its the  ""device is hung due to badly formed commands"" error.... I have a gtx 590/10gig ddr3 ram/ win 7 64bit sp1... any suggestions any1?"
+,SergioFCPorto,2012-06-24T20:27Z,thanks
+,ahoi1,2012-06-24T21:37Z,"When I click on ""play"", it loads ~10 seconds and the launcher window pops up again.
+
+So, doesn't work for me. Anyone knows of a workaround?"
+,Ravenduz,2012-06-25T00:02Z,"People! we can run the game and everything runs smoothly, but the game keeps crashing or freezing occasionally, (device is hang) problem, and it seems only the cracked copies have this problem, I've been searching the whole afternoon for a way to fix it, trying new drivers, cmd commands, but so far no luck, apparently it has nothing to do with the system specs, tried all settings from low end to high end (DX11 enabled), still the same, in my opinion the cracked copies has a fatal bug, appreciate your help reallyt..."
+,JohnnyGhost,2012-06-25T05:55Z,"After 3 installs totally got this crack working.
+Win 7, 64 bit
+
+1. Internet on - Norton OFF (Firewall and Auto Protect)
+2. Install game (used skidrows first 13 gig upload)
+3. Started game  with start menu icon.
+4. Game patched self = good
+5. Ubisoft Sign in screen - Settings - ""Offline Mode""
+6. Shut everything down
+7. Copy Skidrows 3 folders to Ghost Recon Future Soldier (not Orbit)
+8. Copy the folders inside the Orbit folder to the Ubisoft Game Launcher folder (replace - yes) 
+9. ok this was weird, i then took everything in the Orbit Folder, and copied it AGAIN into the Ghost Recon Future Soldier folder... it actually reaplaced 1 folder.
+10. started game again (run as apministrator), set force offline mode in settings, made a password 6 - 8 characters, remember me checked,  and the game fired right up 
+
+After 3 installs i can't explain why it kept failing, but now it's running like a champ.
+=JG="
+,Cleric2011,2012-06-25T09:25Z,Anyone else have an issue with gunsmith allowing you to change gun components? I can do random but the arrows for each part do nothing.
+,aigaleo12,2012-06-25T13:21Z,has anyone issue with gunsmith i can not edit my guns cant put silencer or paint it does not save the changes
+,DrChrib,2012-06-25T23:48Z,Shiiiit....have massive lags in the black-hawk-mission 
+,shmickley,2012-06-26T12:22Z,my game keeps randomly crashing and im not getting a error message is it the game or crack problem?
+,Hp_Prince,2012-06-26T14:25Z,"Those who're having errors regarding MOUSE ..!!
+Its better to disable the driver of any gamepad installed. Device manager->human interface devices -> right click on the installed gamepad-> disable 
+
+Those who've the error ""DEVICE HUNG ..."" error.. you MUST overvolt your GPU.. For more details.. Google it ... its been reported a lot from the users having 5xx GTX cards.. 
+
+Those who have launcher crasher error.. Sorry for the error.. Try again.. Follow each instruction carefully.. you must first UPDATE the program .. and then block it in the firewall..
+
+1.Install the game
+2.Run the game
+3.Let it update ( Turn ON your network Connection )
+4.After update .. the launcher will pop up.. leave the username as it is and type anything for the password and check remember me and then select forced offline
+5. You must/should be able to do this only once."
+,crazelunatic,2012-06-26T19:30Z,even with an overclocked gtx 590 gpu (voltage switched to max!) the game will still hang on me/ overclocked under clocked over volt under volt doesnt matter...... guess ill just have to wait for a patch that fixes this issue.....
+,Dimmis80,2012-06-27T23:43Z,Hey guys.I have a question.I play the game in a 22' TFT/LCD-Wide screen Samsung monitor.1680x1050 32 bit.Like all games i want to play this game full screen but its just with black spaces up and down like its not 16/10 mode but 16/9 or something and in options menu its not any option to correct this.!All my other games plays in Full Screen/Widescreen.So do u guys have the same problem and is there a solution about it.??Thanks in advance dudes.
+,NewUser2020,2012-06-28T02:10Z,"plz guys i need ur help 
+
+first game works fine with me but i cannot see the keyboard buttons while playing it is invisible also invisible in options menu i have uploaded pics for the issue . also i have tried all cracks and every thing but nothing worked 
+
+http://imageshack.us/photo/my-images/233/ubis3.jpg/
+
+http://imageshack.us/photo/my-images/834/ubisof1.jpg/
+
+http://imageshack.us/photo/my-images/24/ubiso2.jpg/"
+,ljuljaj1991,2012-06-28T23:50Z,i have a problem...future soldier exe-unable to locate component...help please!!!!!!!!
+,Alejandroe84,2012-06-30T03:20Z,"@LightsR - I am having ALL the exact same errors as you. No joke. So...
+
+Anybody...
+
+I was able to install successfully on to hardrive and successful installation on external hardrive..
+
+Though whenever I install either two patches, I get this error:
+
+""This application has failed to start because DXGI.DLL was not found. Reinstalling this application may fix this problem""
+
+Some specs:
+Dell XPS 720 Duel Core
+Windows XP service pack 3.
+
+Any ideas on how to fix this error - the game will not start, not even load.
+
+Also, I had made a UBISOFT folder for installation in my external and D hard drive.
+
+Thanks much "
+,Supun,2012-07-02T06:31Z,"Seancpconn
+
+Thanks man your method helped me out.every one who got trouble with launcher follow his method.works 100%"
+,Kirky7531,2012-07-06T03:08Z,"Any and all suggestions appreciated; I got it working perfectly with the fix and all. (I updated with the first patch and it made the graphics not work to the best they could. Everything was a lot brighter and some of the whites/smoke turned a light pixelated blue) Anyway, reinstalled without updating the patch and worked great. I get about a dozen or so scenes into the first mission and it crashes. It goes into the cut scene where the truck drives down the alley and the ghosts break the wall and jump out of the way. The truck crashes in front of the building and then the game crashes. Tried uninstalling and reinstalling, didn't work. Tried just using without the patch and that didn't work either. Anyone have a thought/suggestion I can try to get a fix? I love guerrilla mode but the campaign seems to be calling haha. Thanks "
+,Surreal419,2012-07-12T23:10Z,"ULTIMATE MOUSE FIX--------
+
+For all of you having mouse problems.
+Symptoms:  Can't aim, Can't shoot.  Menu buttons are all game controller buttons. (A,B, etc)
+
+HOW TO FIX.
+Goto Control Panel -> Device Manager -> Human Interface Devices.
+STOP - Check for any game controller drivers installed. If you have one. right click -> disable
+
+If you don't. Download Razer Nostromo Driver 2.0 HERE http://www.razersupport.com/index.php?_m=downloads&_a=viewdownload&downloaditemid=593
+
+After install. Restart PC.  Go back to your device manager, find the Human Interface Device tab, open it. Right click your newly installed Razer Nostromo Driver, click disable. Play the game!"
+,f4csimil3,2012-07-23T22:07Z,"U get the Uplay window!
+ANd it asks for a serial key?
+any ideas??"
+,Unknown16,2012-07-25T14:27Z,"The crack and overall game is terrible. Ubisoft fucked up. But now since I've got this game installed, the game launcher won't let me on Assassin's Creed II. Since it requires the launcher to be reinstalled. Meh. "
+,neverfindme,2012-07-26T16:56Z,"@Alejandroe84 @LightsR and those who use Windows Xp SP 3. Hence the system requirements shows it will support Windows XP. But its wrong! As relief, a windows Xp patch is coming for GR FS but ETA havn't announced it! 
+
+For getting more details, please do a search with ""Ghost Recon Future Soldier Windows XP patch"" on google :P"
+,Spartan191,2012-07-28T00:08Z,so I get to the enter password window and i type in a password that I'd normally use like it tells you to do but it says login error
+,Quasi93,2012-08-25T13:02Z,"Hey guys! I have found the solution how to fix your problems and errors with Ghost Recon Future Soldier. 
+1. Copy the crack into game folder.
+2. (When u try to run the game, most of the people are getting error.) All u should is right click on game shortcut and run as administrator.
+3. As u run it as administrator, the ubisoft log in tab will pop up. First of all click on settings, and tick the box ""start the launcher in offline mode and click apply.
+4. Then type in anything in some random crap in username and password, tick remember me box below and click log in
+5.Then the error will come up ""Cannot play in offline mode blah blah blah, just click ""PLAY!"" and the game will start.
+Tell me if it works for u 
+Enjoy!!!"
+,jthm420,2012-08-27T16:54Z,"Hey guys, i was having the same issue with the 'System error:
+ The system cannot find the file specified.
+ (2)
+ CreateProcess failed.' popping up. was just about to try to re-install it, and i tried copying the orbit folder into the game install directory, tried running futuresoldier.exe in admin mode and it works fine now :D
+
+All I did was follow JohnnyGhost's instructions (didn't think step 9 was important, but it turns out it is critical.) 
+ Happy playing folks, hopefully your computer can handle it too ;]"

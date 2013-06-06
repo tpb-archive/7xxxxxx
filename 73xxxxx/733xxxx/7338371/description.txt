@@ -1,0 +1,51 @@
+Enjoy and happy seeding :)
+
+
+Format                                   : MPEG-PS
+File size                                : 492 MiB
+Duration                                 : 7mn 4s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 9 724 Kbps
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=2, N=15
+Duration                                 : 7mn 4s
+Bit rate mode                            : Variable
+Bit rate                                 : 7 995 Kbps
+Maximum bit rate                         : 9 800 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.772
+Stream size                              : 404 MiB (82%)
+
+Audio
+ID                                       : 189 (0xBD)-160 (0xA0)
+Format                                   : PCM
+Format settings, Endianness              : Big
+Format settings, Sign                    : Signed
+Muxing mode                              : DVD-Video
+Duration                                 : 7mn 4s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Stream size                              : 77.7 MiB (16%)
+
+
+side note: If you're looking for cassis in flac here is your chance. Find a program to extract the audio to flac there you have it. Cheers :) 

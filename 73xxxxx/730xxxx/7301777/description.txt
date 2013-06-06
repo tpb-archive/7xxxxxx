@@ -1,0 +1,11 @@
+DBAN is a very efficient data wipe-out tool that completely removes your data on a hard drive you are about to dispose. ItΓÇÖs a self-contained boot disk that boots up your computer and wipes out the data it finds on the hard drive. 
+
+
+1.run Universal USB Installer
+
+2.select DBAN 2.2.6 from the drop down list and follow the onscreen instructions
+
+3.Once the installation to USB is complete, restart your PC and set your BIOS or Boot Menu to boot from the USB device, save your changes and reboot
+
+If all went well, you should be booting from your DBAN USB.
+

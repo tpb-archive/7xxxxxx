@@ -1,0 +1,46 @@
+The_View_Mayim Bialik_720p.HDTV,x264_2012-03-06_TTL.mkv
+Format                           : Matroska
+File size                        : 186 MiB
+Duration                         : 9mn 17s
+Overall bit rate                 : 2 805 Kbps
+Writing application              : HandBrake 0.9.5
+Writing library                  : libmkv 0.6.4.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.2
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Container profile=Unknown@3.2
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 9mn 16s
+Bit rate                         : 2 525 Kbps
+Nominal bit rate                 : 2 572 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 59.940 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.046
+Stream size                      : 168 MiB (90%)
+Writing library                  : x264 core 112
+ficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 9mn 17s
+Bit rate mode                    : Constant
+Bit rate                         : 224 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 14.9 MiB (8%)
+

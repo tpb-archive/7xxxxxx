@@ -1,0 +1,49 @@
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=4, N=32
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 46mn 41s
+Bit rate mode                            : Variable
+Bit rate                                 : 3 916 Kbps
+Maximum bit rate                         : 20.0 Mbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 50.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.085
+Stream size                              : 1.28 GiB (89%)
+Default                                  : No
+Forced                                   : No
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 46mn 41s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 4ms
+Stream size                              : 128 MiB (9%)
+Default                                  : No
+Forced                                   : No
+

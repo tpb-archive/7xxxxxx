@@ -1,0 +1,32 @@
+~-~-~-~~-~-~-~~-~-~-~~-~-~-~~-~-~-~~-~-~-~~-~-~-~~-~-~-~~-~-
+##  # # ##                  ###                           # 
+# # # # # # ### ### # # # #  #  ### ### ### ### # # ### ### 
+##  ### ##  #   # #  #  ###  #  ### # # #   # # # # ##  # # 
+#   # # #   #   ### # #   #  #  # # ### #   ###  #  ### ### 
+#   # # #               ### ###     #                       
+-~-~-~--~-~-~--~-~-~--~-~-~--~-~-~--~-~-~--~-~-~--~-~-~--~-~
+
+RELEASE NOTES
+
+PHProxyImproved is based off the original PHProxy beta 2 to offer a free open source script to proxy webmasters everywhere. PHP 5 is required to run this proxy script.
+
+
+FEATURES
+It's free and open source code allows for proxy webmasters to easily make adjustments to their own liking. Bugs, Fixes and suggestions to the project can be posted on: http://www.proxyhelp.org/mybb.
+
+All files can be easily uploaded via FTP, and can be setup almost instantly. Run install.php to begin the installation of your proxy.
+
+User friendly Admin Module for simple proxy management. It allows for logging, file size control, banning by IP, on-site ADS. Google Translate widget enables language accessibility for international users where a users native language may not be English.
+
+Plugins are user scripted, which can provide access to a greater range of websites such as YouTube. Main proxy fully supports The Pirate Bay with both torrents and magnet links.
+
+TIPS
+
+Proxy webmasters are STRONGLY recommended to change the default authentication details to avoid proxy hijacks.
+
+Your can increase your proxies lifespan by 10x by removing all backlinks. This will help fight against automated blocking.
+
+If your web hosting allows php5-gd usage, enable the homepage image in the "Theme" tab. This will also fight against automated blocking.
+
+BUGS FIXED
+Removed YouTube plugin because it became broken.

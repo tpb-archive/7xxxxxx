@@ -1,0 +1,18 @@
+Counter-Strike Source Patch Full From Version 1.0.0.70 To Version 1.0.0.71 FIXED
+
+Counter-Strike: Source Update Released
+
+
+Fixed a client crash related to dynamic model loading
+Fixed dedicated server not receiving restart requests when updates are released
+Fixed IP bans not applying to RCON access
+Fixed server crash exploit related to audio buffer overruns
+Fixed server crash caused by using changelevel2
+Updated console logging system to minimize opening and closing of files, greatly improving performance under certain conditions
+Additional improvements for client/server stability
+Fixed a problem that allowed malicious clients to disable the "ping" and "status" commands for other connected clients
+Fatal engine errors are now written to the server log file
+Added sv_lowedict_threshold and sv_lowedict_action which allow the engine to take action before running out of free edicts
+Possible values for sv_lowedict_action are: 0 - no action, 1 - warn to log file, 2 - attempt to restart the game, if applicable, 3 - restart the map, 4 - go to the next map in the map cycle
+Added changelevel_next server command which changes to the next map in the map cycle
+Added mp_restartgame_immediate ConVar which has the same effect as mp_restartgame without a delay

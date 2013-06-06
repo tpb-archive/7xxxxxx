@@ -1,0 +1,82 @@
+Nine Inch Nails - Broken CD remaster by MC Lurken
+
+
+
+1 - Pinion
+2 - Wish
+3 - Last
+4 - Help Me I Am In Hell
+5 - Happiness In Slavery
+6 - Gave Up
+98 - Physical (You're So)
+99 - Suck
+
+
+
+Setup
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Re-sample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.477db
+-DC Offset Removed - Apparent Bit Resolution = 20 , Peak = -0.476db
+-Final Recording - Apparent Bit Resolution = 40, Peak = 1.573db
+
+-Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+ *this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies
+
+Settings in Weiss Saracon:
+-Modulator Type - CRFB 10th Order
+-Sample Rate - 5.6448MHz
+-Gain (db SACD) - 0db
+-Stabilizer - off
+-Dither - off
+
+-Convert newly created DSD file to 16-bit/44.1kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+-Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - High, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+ *DSD->PCM = -6db
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+
+foobar2000 1.1.11 / Dynamic Range Meter 1.1.1
+log date: 2012-06-17 04:59:03
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10     -13.82 dB   -30.38 dB      1:02 ?-01 - Pinion
+DR8       -0.81 dB   -11.00 dB      3:47 ?-02 - Wish
+DR8       -0.71 dB    -9.92 dB      4:45 ?-03 - Last
+DR11      -4.70 dB   -20.49 dB      1:56 ?-04 - Help Me I Am In Hell
+DR8       -0.66 dB   -10.47 dB      5:21 ?-05 - Happiness In Slavery
+DR8       -0.78 dB   -11.46 dB      4:08 ?-06 - Gave Up
+DR9       -0.65 dB   -11.27 dB      5:30 ?-98 - Physical
+DR7       -0.70 dB   -12.37 dB      5:07 ?-99 - Suck
+--------------------------------------------------------------------------------
+
+Number of tracks:  8
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

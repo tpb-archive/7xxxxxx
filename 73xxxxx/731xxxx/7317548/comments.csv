@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,harke1983,2012-06-02T06:05Z,"nice Share bro , u rock"
+,sharky376,2012-06-12T15:41Z,"Thanks a lot for this share ... Its exactly what I was looking for ... One small remark: ""Unknown error 0x00000154"" on full sharing disk try ..."
+,kunee51,2012-06-26T07:56Z,"Hey Nil..ive installed it but on local session manager start up setting asking for user name and password,
+then im stuck..pls provide it... many thanks.."
+,nileshtambe,2012-06-28T13:50Z,"hey kunee51 
+do fresh install on newly formatted drive
+and pay attention during setup
+i have not put any passwords or username
+
+setup will ask to create one at time of installation
+do use ur own username and password"
+,nileshtambe,2012-07-12T10:04Z,"@sharky376 
+HERE IS SOLUTION FOR UR FOLDER SHARING 
+its found by rintosaka thanks to him
+
+RinTosaka at 2012-07-11 23:13 CET:
+Ha, I figured it out! Turns out there's a virus around that screws up the Windows Firewall, so you can use the same techniques for fixing it to re-enable it in your Win7 lite distros.
+
+To re-enable Windows Firewall, download and run/add this to the registry:
+http://download.bleepingcomputer.com/win-services/7/MpsSvc.reg
+
+After restarting, if it STILL isn't working, download and install Microsoft Security Essentials, and restart the PC again.
+
+
+Interestingly enough, once it is working, you can actually disable Windows Firewall and uninstall MSE; you'll still be able to create new network-shared folders and stuff.
+
+Note that, by default, the sharing permissions might not be set-up correctly, so you may have to go through this process:
+http://www.sevenforums.com/tutorials/24232-sharing-permissions.html"

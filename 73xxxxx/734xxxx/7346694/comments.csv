@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+,operator1101,2012-06-11T20:23Z,I uploaded this because waiting for the Microsoft download tool blows.
+,operator1101,2012-06-12T00:46Z,"Please note, this is a RELEASE CANDIDATE. Like all MS RC applications it has a kill date."
+,xpmule,2012-06-12T11:25Z,"I'm sure every business in the world is waiting to get their hands on the final version.
+
+I wonder how many thing you would need to customize on this on a fresh install..
+#1 = Kill the start screen crap.
+#1b = Hack / remove the retarded ribbon crap.
+#2 = Kill not needed services.
+#3 = Kill unwanted tasks.
+#4 = Kill un wanted start up registry entries.
+#5 = Remove un wanted integrated features / components.
+#6 = Modify user / security settings
+#7 = Modify file / folder view settings.
+
+This is getting about as tiring as having to modify all that crap..
+
+Microbloat is getting ridiculous !
+I bet they have a formula for hardware requirements..
+
+if ( WindowsVersion == NEW )
+do
+{
+increaseSystemRequirements * 8;
+while ( addingNothingUsefull( pos ) )
+        pos++;
+}
+
+This version and all its sku's will end up
+being regarded as the worst version of windows ever. (worst than ME and Vista)
+And will push more people to mac's and Linux."
+,operator1101,2012-06-12T20:02Z,"I've been testing this on hardware for a few days now and I'm actually digging the new setup. I especially like that 2012 Server installs as CORE by default. That is a huge step for MS in the right direction.
+Can't wait to see how this thing handles a real corporate environment and not just a test lab."
+,ITWorldZ,2012-08-01T12:35Z,"Yeah the MS Programming Guide Schema is thus:
+
+dim object WindowsNew 
+dim object WindowsOS
+
+pivate sub WindowsNew (ByVal as SystemMicrosoftWindows) New=OS
+
+If 
+  (WindowsOS == XP, Vista, 7;
+
+Then
+
+    {WindowsNew == Upgrade;
+
+     Upgrade   = OS;
+
+     OS = 8}
+)
+
+If
+   OS = 8 
+do
+{
+increaseSystemRequirements * 8;
+
+while 
+
+( addingNothingUsefull( pos ) )
+
+pos++;
+}"

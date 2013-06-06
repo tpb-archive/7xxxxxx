@@ -1,0 +1,210 @@
+﻿User Type,Username,Date,Text
+,meroo09,2012-06-30T05:35Z,how many languages ?
+[V],scene4all,2012-06-30T20:19Z,ENGLISH - ENGLISH INT - JAPANESE
+,milkofee,2012-07-01T09:19Z,How do I install it on my mac?
+,puunjab,2012-07-02T18:12Z,"It is imperative you do not add these two lines below to your hosts file until after you have completed & activated ADOBE CS6.  If you add these lines first, the adobe installer will not accept any of the numbers the Keygen generates.
+
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+
+1) Disconnect from the internet completely
+2) FOLLOW ALL THE INSTRUCTIONS IN THE TORRENT FILE EXACTLY AS WRITTEN until CS6 is activated
+3) Add those two lines to your hosts file manually or run the provided program.
+4) Re-connect to the internet."
+,oboynelly,2012-07-02T19:40Z,"Firt of all, thanks a lot for this torrent.
+
+I need help though. What file is the hosts file where I can put in the two lines?"
+,LaTraviata,2012-07-03T17:34Z,"Hi, I do not open, yet, the file but I am thankful it informs me if I can install over CS5.5, or if I should uninstall before all items related to cs5.5. 
+Thank you for the work."
+,Viktorlsn,2012-07-04T21:05Z,"same question as @LaTraviata... anyone ? my settings are very important, but more important are the functionality of the programs."
+,iNoKorean,2012-07-05T07:32Z,@LaTraviata @Victorlsn i believe it is the same as windows and will just install it as a separate application and wont affect your current installation of cs5 
+,oyvrem,2012-07-06T00:12Z,Hey. I'm currently at step 4/5. I don't get any request codes. HELP.
+,jkahan,2012-07-10T05:13Z,"When I put in the HOST FILE stuff- is there something I'm supposed to do to save it or activate it or does it do this automatically from just typing it in? I'm new. Sorry! =) 
+
+I installed it fine before, but I opened up the ds-program thing for the terminal file host before activating-- before getting a request code, and it didn't work. So now I've tried to uninstall everything and here goes my 2nd attempt. Any advice is welcome! Thanks guys.
+
+-J"
+,jkahan,2012-07-11T02:48Z,"I got everything to work properly. Downloaded.. got  it working, can use the programs-- BUT.. it still prompts me when I open it saying,  ""License this software or continue trial"" -- What did I do wrong? lol"
+,Steezy5,2012-07-12T01:44Z,"Awesome works 100% perfect!
+Thanks for the up! will seed for as long as possible"
+,tinan1969,2012-07-14T17:08Z,"Hi, I am new to using torrent and I have downloaded the software but I need to know where to find the key generator.  Thanks"
+,beachrose,2012-07-16T19:07Z,"I followed the instructions exactly, but can not get the activation code to be accepted no matter how may times I tried with new request codes and the correct serial #.
+I was off line and reinstalled the full package, same result. If someone has had success, please post clear steps for activating the software.
+Thanks"
+,bigmousedog,2012-07-19T04:13Z,"Hey, Thanks so much! I have a problem PLEASE HELP!
+I'm running on Lion and it doesn't allow me to change the Host file at all. Says I don't have permission. Typing into Terminal isn't working either???
+Could someone list more simple, detailed instructions about how to do this:
+7. Run Osx/disable_activation_osx as root
+   if you dont know how to do that, open a terminal window
+   then issue sudo -s, a root shell will open
+   then simply do ""sh disable_activation_osx""  w/o the """"
+   or ./disable_activation_osx( make it executable chmod 755 disable_activation_osx 
+   you do that from the folder where disable_activation_osx is. (just copy it anywhere on your hdd) 
+
+**Not sure how or where to do the copying to HDD??**
+
+   Or do it manually
+   Add the text below to the bottom of your hosts file. (/private/etc/hosts /et/hosts)
+
+# (I DIDN'T PASTE THIS INFO IN)
+
+Sorry if i'm being annoying but I usually can work things out, but can't seem to do this one.
+Cheers"
+,bigmousedog,2012-07-19T04:14Z,BTW Everything worked perfectly up until I had to do the host file/terminal thingy
+,bigmousedog,2012-07-19T04:16Z,"@Steezy5
+Are you running lion? Did you paste the two lines into Host file?"
+,leighmontague,2012-07-19T08:37Z,New to this...how do I download? Everytime I try it ends up saying error: permission denied. Please help
+,sameerlko,2012-07-20T14:39Z,i need Adobe Creative Suite for 64bit win7
+,gnar_dude,2012-07-27T20:38Z,"hello all. first off, thanks for the torrent. i am however having an issue. the install went well, but i opened illustrator today to work on a project and received a message saying my serial number had been revoked!! please please please help me out here...i need illustrator today! it's also asking me to create and sign in with my adobe id...which i do not have, nor do i think i want to set up. thanks in advance!"
+,grecy,2012-07-28T20:11Z,Does anyone know if the installer will let me install only some of the Applications?
+,RedLabit,2012-07-29T12:35Z,I can't install this in Mountain Lion. Anyone had success?
+,jimibelle,2012-07-31T06:24Z,"@RedLabit, I just installed on Mountain Lion following the instructions. So far so good. Let me know if you have issues working with terminal and your host files."
+,thewalkingdead1972,2012-08-02T11:04Z,"this is the worst explanation i have ever witnessed...what kind of an asshole wrote these instructions! 
+
+7. Run Osx/disable_activation_osx as root
+if you dont know how to do that, open a terminal window
+then issue sudo -s, a root shell will open
+then simply do ""sh disable_activation_osx"" w/o the """"
+or ./disable_activation_osx( make it executable chmod 755 disable_activation_osx
+you do that from the folder where disable_activation_osx is. (just copy it anywhere on your hdd)
+
+**Not sure how or where to do the copying to HDD??**
+
+Or do it manually
+Add the text below to the bottom of your hosts file. (/private/etc/hosts /et/hosts)
+
+# (I DIDN'T PASTE THIS INFO IN)
+
+WTF DUDE!???? "
+,thewalkingdead1972,2012-08-02T11:46Z,FUCK!
+,jd1511,2012-08-06T20:39Z,"jesus christ mac users are retarded. Thankfully you all buy these things used at a premium to keep me making the greenbacks.
+1. go to utilities, terminal
+2. Type sudo nano private/etc/hosts and press enter
+3.copy this list
+127.0.0.1 3dns.adobe.com
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 activate.wip.adobe.com
+127.0.0.1 activate.wip1.adobe.com
+127.0.0.1 activate.wip2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-1.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns-4.adobe.com
+127.0.0.1 adobeereg.com
+127.0.0.1 practivate.adobe
+127.0.0.1 practivate.adobe.com
+127.0.0.1 practivate.adobe.newoa
+127.0.0.1 practivate.adobe.ntp
+127.0.0.1 practivate.adobe.ipp
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 wip.adobe.com
+127.0.0.1 wip1.adobe.com
+127.0.0.1 wip2.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wip4.adobe.com
+127.0.0.1 www.adobeereg.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 www.wip.adobe.com
+127.0.0.1 www.wip1.adobe.com
+127.0.0.1 www.wip2.adobe.com
+127.0.0.1 www.wip3.adobe.com
+127.0.0.1 www.wip4.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 crl.verisign.net
+127.0.0.1 CRL.VERISIGN.NET
+127.0.0.1 ood.opsource.net
+4. Paste this lists in terminal
+5. Press cntrl+o
+6. Press Cntrl+x
+7. Done"
+,jd1511,2012-08-06T21:26Z,"btw, this is for lion. Snow leopard, I think u access hosts differently. Works in mtn lion as well."
+,jsrg1,2012-08-15T20:50Z,"Thank you jd1511, that took me a step further but my comeputer gives me a message that says: Error writting private/etc/host: no such file or directory. Im running mountain lion I hope you can help Thanks"
+,jennaroo,2012-08-16T21:16Z,"i think i have everything installed right and as long as I am not on the internet it works fine, however every serial number x force creates says that it is invalid. Not sure what i am doing wrong. Thanks for any help! "
+,rmearns,2012-08-19T00:13Z,"@jsrg1 i pulled this from another forum to get around the ""Error writting private/etc/host: no such file or directory"" security issue with Mountain Lion, expanding on @jd1511's instructions:
+
+Go to utilities, terminal
+
+enter sudo vi /etc/hosts
+
+(Keyboard only....)
+
+Press i (this will enter insert mode).
+
+Make your changes / add your ip's hosts etc.
+
+Then press escape to come out of insert mode.
+
+Then type (you will see at the bottom):
+
+:wq 
+
+^that will write and quit the file
+
+to quite without saving its, :q!
+
+to write it's just :w"
+,PhaniP,2012-08-21T00:35Z,"thank you it works :D
+but is it possible to open adobe.com?"
+,oisee33,2012-08-24T10:41Z,"I had troubles with the keygen. it said invalid request code. heres how I fixed it:
+
+-uninstall all your adobe programs with adobe's uninstaller (Programms->Utilities->Adobe Installers)
+
+-download Adobe Cleaner Tool from Adobe and run it.
+
+-as already mentioned in the instructions make sure your hosts file is clean of all adobe blocked domains.
+
+-manually delete these folders/files:
+
+Library/Application Support/Adobe/SLCache
+Library/Application Support/Adobe/SLStore
+
+Macintosh HD/Library/Application Support/Adobe 
+Macintosh HD/Library/Preferences (only Adobe files!)
+Macintosh HD/Library/Application Support/regid.1986-12.com.adobe
+Macintosh HD/Users/MeinName/Library/Application Support/Adobe
+Macintosh HD/Users/MeinName/Library/Preferences (only Adobe files!)
+Macintosh HD/private/var/db/receipts (only Adobe files! (bom+plist files))
+
+now it works like a charm :)"
+,escozul,2012-08-25T11:56Z,"Guys this torrent is excelent. It works 100% and you get updates as well.
+
+All you need to do is follow the instructions EXACTLY AS THEY ARE WRITTEN. I believe the only problem is people not following instructions. I made it work and update on mountain lion without any problem.
+
+Thank you for sharing."
+,tdl1616,2012-08-27T20:37Z,"Thanks scene4all, i approve this torrent 100 percent working. Although i got some problems with following the instructions and installing but i got it it installed right ( Make sure that your host file doesn't have the ""two"" lines mentioned in the instructions and don't forget to disconnect ur internet)"
+,Jbharrison355,2012-08-29T03:15Z,"Everything works great thanks to not only scene4all but also jd1511 and rmearns, thanks guys! (although, jd, it really wasn't necessary to insult us. I have never worked with any sort of coding or programing before.) Anyway, thank you!"
+,jennaroo,2012-08-31T21:38Z,Thank you olsee33 for your help! I got everything installed and validated finally. Now i am getting a response that my serial number has been revoked? Has anyone else had this happen?
+,marvtheman,2012-09-10T09:58Z,Ok I feel like my main problem is that I cant copy and paste into and out of X-force. Any help on that? Command C and V don't work. I finally managed to get the activation code to generate by changed Capital i's and ls around (that was a bitch) but am having no luck getting the activation code to work in the Response code Box in the Offline activation window. I think its because I must be manually copying it over incorrectly. Is there some secret to copying and pasting out of X-force? Thanks. 
+,KILLAH_CAM,2012-09-11T00:46Z,"Torrent worked perfectly, follow the instructions and make sure you've cleared out your host file and you should be fine!"
+,KILLAH_CAM,2012-09-11T00:46Z,"@marvtheman Right Click - Copy, Right Click - Paste"
+,oshumuta,2012-09-11T17:01Z,try to unhide your hidden files
+,the0chimp,2012-09-14T23:12Z,"Hi, I just installed everything and i think i managed the terminal procedures an the programs open, but is there a way to check it will work after one week, cause it said i have one week to finish my validation?"
+,the0chimp,2012-09-15T15:58Z,"Hi, I've done everything according the instructions, I had no errors, but when i turn my internet on, it says my serial code has been revoked. I've tried to redo the process, but everytime i have the same message. Is it still making connection with adobe in some way? Pleeeeeasee help. Any tip or instruction is welcome. "
+,karloveman,2012-09-16T12:41Z,"Huge thanks to the uploader (scene4all) and those trying to help people here with the installation! (The instructions could be better, but I'm not complaining.)
+
+I have a question, though:
+In step 7 in the Install Instructions we are asked to add the following two lines (Adobe Blocker):
+
+""
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+""
+
+However, the user jd1511 includes (Comments, page 2) a long list with 47 lines! And BTW, none of them include the two lines mentioned in the uploader's instructions. Hmmm ...
+
+Could someone please clarify this important step? Thanks :)"

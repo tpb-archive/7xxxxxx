@@ -1,0 +1,22 @@
+Slacko Puppy (Slackware-Compatible Build)
+
+The new Slacko Puppy 5.3.3:
+
+    has Linux kernel 3.1.10 made with Aufs (file layer for the use of sfs add-ons);
+    is compatible with the binary packages of Slackware 13.37, accessible through the Package Manager (note that native Puppy Linux packages are called PETs);
+    has Mozilla browser in the latest Seamonkey 2.9.1 suite that also includes email/news client and html editor;
+    runs first-boot wizard that takes care of your desktop settings and connections;
+    includes support for many wired and wireless connections including 3G modems;
+    has Slickpet for adding popular programs to your setup;
+    has excellent multimedia support;
+    has alternative build (PAE HighMem ISO) for machines with high memory.
+
+
+Release files:
+ 
+http://distro.ibiblio.org/pub/linux/distributions/puppylinux/puppy-5.3.3/
+
+
+MD5:
+
+a1d5bbe8c93b121a6a90ad543ad7f1aa  slacko-5.3.3-4g-SCSI.iso

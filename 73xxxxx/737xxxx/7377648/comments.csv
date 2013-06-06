@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,The012Freak,2012-06-22T23:14Z,"@DibyaTPB
+
+is this fix, for the error for win 7 64 bit users..?"
+,castielq,2012-06-23T23:09Z,"**NOTE**
+This fix is for users having problems getting the game to start cause
+of admin rights on windows, copy over new crack and make sure all Game
+and Ubisoft Launcher processes are blocked on firewall.		"
+,Cleric2011,2012-06-25T09:24Z,Anyone else have an issue with gunsmith allowing you to change gun components? I can do random but the arrows for each part do nothing.
+,Hp_Prince,2012-06-26T14:39Z,"Those who have MOUSE problems even after DISABLING the driver.. Follow the following steps 
+
+MOUSE: documentsUbisoftTom Clancy`sProfilename user61546 (my case)controls.ini
+
+find this part of the file:
+
+[eActionLookUpDownPC]
+key=MousePosY
+behavior=
+customSens=1.000000
+[eActionLookLeftRightPC]
+key=MousePosX
+behavior=
+customSens=1.000000
+
+and complete whith: Pressed
+
+[eActionLookUpDownPC]
+key=MousePosY
+behavior=Pressed
+customSens=1.000000
+[eActionLookLeftRightPC]
+key=MousePosX
+behavior=Pressed
+customSens=1.000000"
+,aj3555,2012-06-27T16:29Z,"hello everyone, i have just  scope MWB problem, i can aim but not scope, any suggestions people????"
+,Dimmis80,2012-06-28T11:04Z,Hey guys.I have a question.I play the game in a 22' TFT/LCD-Wide screen Samsung monitor.1680x1050 32 bit.Like all games i want to play this game full screen but its just with black spaces up and down like its not 16/10 mode but 16/9 or something and in options menu its not any option to correct this.!All my other games plays in Full Screen/Widescreen.So do u guys have the same problem and is there a solution about it.??Thanks in advance dudes. 
+,attak79,2012-07-01T09:02Z,"Hey,my pretty is working nice on win7 x64!
+Thx bro!"
+,ts0k_14,2012-07-02T20:29Z,"@Cleric2011
+hello my friend i have the same problem..if u fix it tell me too about what i must to do..thank u.."
+,thcfreak666,2012-07-05T22:12Z,This is Crap ! i have deletet this hit ! Fuck you Ubisoft!
+,Jopa74,2012-07-18T21:49Z,"attak79 
+Hey, is working nice on win7 x64!
+
+I have olso win 7, but i fuck up someting, thay ask me f CD key on start, but i don`t have it.
+
+Can you help me m8?
+Thx bro!"
+,jay565,2012-07-29T23:20Z,"The uplay launcher is in offline mode. you can play the game, but  the other uplay features are not availible offline... wtff"

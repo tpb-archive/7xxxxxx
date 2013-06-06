@@ -1,0 +1,29 @@
+Names : iPhone2,1_5.1.1_9B206_Custom_Restore_Activated_iPAd-BaseBand-6.15.ipsw
+iDevice : iPhone3Gs
+iOS : 5.1.1
+Version : 9B206
+Custom : yes
+Jailbreaked : yes
+BaseBand : Upgraded to 6.15 for Unlock with Ultrasn0w
+Cydia : yes installed (v1.1.6)
+
+Warning : 
+
+New iPhone 3GS 8GB Uses New Chip ThatΓÇÖs Not Compatible with iPad Baseband 6.15.00
+
+
+If you attempt to flash it using iPad baseband 6.15.00 there is a risk of bricking your phone! Take this as a warning!
+
+The typical symptoms of a corrupted baseband NOR chip are:
+
+    No WiFi
+    No ECID
+    No IMEI
+    No Bluetooth
+    Restarts itself every few minutes or so
+
+Please take note of serial number of up to XXX109XXX may or may NOT be compatible with the iPad baseband. See example below:
+
+    XX109XX = 1 is the year of 2011 and 09 is week 9 of 1 year
+
+If the serial number is XX931XXX that means it was produced in 2009 in week 31. Thus, itΓÇÖs safe to flash it with the iPad baseband. If youΓÇÖre already encountered with the errors above, consider having your logic board fixed .	

@@ -1,0 +1,17 @@
+Plateforme: Windows XP/Vista/7 (32/64 bits)
+Langue: Multi
+
+Configuration requise:
+Windows XP/Vista/7
+Processeur Pentium IV 500 Mhz ou plus
+512 MB RAM
+
+Internet Download Manager peut accroître jusqu’à 500% la vitesse de vos téléchargements. Il permet en outre de planifier les opérations de transfert et de reprendre celles interrompues à la suite de pertes de connexion, problèmes de réseau, arrêts d’ordinateur ou coupures d’alimentation électrique. Internet Download Manager met en œuvre une segmentation dynamique des fichiers et un téléchargement par morceaux. Il optimise la vitesse de téléchargement en adaptant dynamiquement vos paramètres de connexion. Files d’attente de téléchargements, pare-feu, serveurs proxy et miroirs, redirections, mouchards, répertoires à accès restreint sont supportés par Internet Download Manager. Sans oublier un grand nombre de différentes plateformes de serveurs. S’intégrant parfaitement à Internet Explorer, Netscape, Opera et Mozilla, Internet Download Manager améliore considérablement les téléchargements.
+
+Installation:
+
+Installez le logiciel. Fermez les notifications et assurez vous que IDM est fermé(barre des taches)
+
+Copiez/collez "IDMan.exe" dans le dossier d'installation. Remplacez le fichier.
+C: Program Files*86/ Internet Download Manager]
+Executez "RegKey.reg" ou "RegKey_x64.reg" selon votre système
