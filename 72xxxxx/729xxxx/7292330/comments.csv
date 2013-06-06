@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+[T],mrriser007,2012-05-23T13:41Z,"Direct Spectral Editing (NEW)
+Diamond Cut's new Direct Spectral Editing mode allows you to directly manipulate your music files in the frequency domain. This works like a paintbrush on the sound. You can attenuate (erase) or amplify (highlight) selected areas of a file to eliminate things like coughs or squeaks without affecting the entire frequency range. For example, you could highlight just the 2000-3000Hz area of one word of a vocal performance to bring out the articulation of that word.
+
+You can also use the DSE mode to interpolate selected frequency ranges or the entire spectrum using our new Frequency Domain Interpolation algorithm. This interpolation technique allows you to do much longer replacement than previously possible.
+
+Big Click Filter (NEW)
+The Big Click filter automatically detects and repairs clicks lasting much longer than the standard click algorithm. Clicks lasting 100's of milliseconds can now be effectively found and repaired automatically. The big click filter uses our new spectral interpolation algorithm for a dramatically better repair than you ever thought possible.
+
+Overtone Synthesizer (NEW)
+The Overtone Synthesizer Filter generates an octave higher harmonics to add life to ""dull"" or limited bandwidth recordings. This effect is different and complementary to our VVA harmonic enhancer. See below for an example of what it can do:
+
+Sub Harmonic Synthesizer (NEW)
+The Sub Harmonic Synthesizer adds bass or sub-bass an octave below the exiting low frequencies. You can use it to add impact to almost any recording or to re-construct a lower octave that may have been missing in a restored original.
+
+To see what can be done to an old cassette recording, listen to the following before and after recordings.
+Paramount Organ and Piano Recital Before
+Paramount Organ and Piano Recital After processing with the Overtone and Sub Harmonic Synths
+
+DVD Burner (NEW)
+DC8 Includes a DVD burner so you can burn CD's, DVD's or Blu-Ray disks to backup your work. The data burner works with ISO9660 or Joliet file systems and can burn Track-At-Once or Disk-At-Once modes with single or multi session disks.
+
+Continuous Noise Filter with artifact suppression
+The Continuous Noise filter is used for getting rid of constant background noise such as hiss and surface noise.
+Our new technology reduces the aliasing and artifacting that sometimes affects the quality of the sound when you're pushing the Continuous Noise Filter to its limits. As you increase the power and amount of filtering on a tough file, in the past, you could generate new noise called artifacting. This machine-like ghosting was quite annoying and we'll be very happy to see it showing up much less in our restorations. Artifact suppression mode helps you push the Continuous Noise Filter harder without yielding these disturbing results!
+
+The CNF filter also features an adaptive mode, This intelligent filter adapts itself to the changing nature of the noise in your file. As it gets smarter, your noise disappears."

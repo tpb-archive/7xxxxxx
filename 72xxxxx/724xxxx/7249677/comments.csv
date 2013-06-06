@@ -1,0 +1,113 @@
+﻿User Type,Username,Date,Text
+,NickeNyfiken66,2012-05-07T22:19Z,Thanks Dude :)
+,NickeNyfiken66,2012-05-08T14:40Z,"On which garmin units does 2013 works on? 
+Becuse tested on a older one and I was driving off road instead."
+,Ipmark,2012-05-08T15:09Z,"This release works on all Garmin models that support NT technology.
+On a Garmin Nuvi 200 these maps works perfect."
+,NickeNyfiken66,2012-05-09T22:59Z,Thanks it worked better when I created the maps and sended to my unit with mapsource.
+,belcore,2012-05-10T07:09Z,"Dear Ipmark,thanks for the great work
+2 questions
+How can I see these maps in Basecamp for Mac
+Do you have a Topo Map for Austria?
+thanks a lot"
+,belcore,2012-05-10T07:15Z,"Hi Ipmark and thanks
+How can I see these maps in Basecamp for MAc
+and do you by chance have a Topo map for Austria?
+
+thanks in advance"
+,Ipmark,2012-05-10T19:02Z,"Load the map in Gmaptool, go to Write section, tick on ""Set version in header"", set the MS flag to ""0"" (zero), click on Write Selected.
+
+Now the map can be viewed on Basecamp. ;)
+
+I have the Austria Topo v2 for Mapsource on my PC, I will upload it on somewhere, e-mail for links?"
+,belcore,2012-05-11T08:03Z,"Great,thanks,could I use topo map for my garmin etrex30 or mapsource only
+(I know stupid question....)
+kalmanpetike(at)gmail.com
+
+thanks again"
+,belcore,2012-05-11T08:09Z,"Sorry for being stupid...
+Is there a mac version of gmaptool?
+Tnx"
+,av_andrei,2012-05-11T22:04Z,"I receive ""Memory full"" on my nuvi 250.
+i have space but this is the messages after map install and start the device. How can i resolve ?"
+,Ipmark,2012-05-11T23:40Z,"You have to perform an hard reset to clear all data in the device and restore your unit to the default factory settings.
+A master reset will erase all waypoints or Favorites.
+1.Start with the unit OFF and unplugged from power
+2.Touch and hold the lower right corner of the screen with an index finger or the eraser end of a pencil
+3.Continue touching and holding the lower right hand corner of the screen then power the unit ON
+4.Release the power button when the device powers ON. You will see a new message: Do you really want to erase all user data?
+5.Remove your finger from the touchscreen when this message displays
+6.Touch Yes
+The device will automatically reset.
+Follow the on screen prompts then place your device in an area with a clear view of the sky until it acquires satellites."
+,av_andrei,2012-05-12T08:15Z,"And i lost all my data ?? favorites, etc ??
+And after this i will put CNE 2013.1 and will work  ? I receive this error after i compiled ROAD 2008 with parts of CNE 2013.1.
+Try to Unlocker new map but nothing."
+,av_andrei,2012-05-12T10:24Z,"I restore your unit to the default factory settings, put compilation of ROAD 2008 with CNE 2013 and receive ""Can`t Unlock Maps"" !!!"
+,Ipmark,2012-05-13T08:19Z,"Unlock the map with Fast IMG Unlocked v2.1
+h_t_t_p:_/_/_w_w_w_1_._z_i_p_p_y_s_h_a_r_e_._c_o_m_/_v_/_5_0_7_9_8_5_1_/_f_i_l_e_._h_t_m_l_"
+,pop_it,2012-05-27T20:36Z,"Many thanks. I updated my Nuvi 200 with out issue and also my 1410. Just a question. What do I do with the junction view file. I can not find a file on the 1410 to replace it with and I know it has got junction view it. I have also selected to show all files in the folder settings.
+
+Thanks again."
+,Ipmark,2012-05-27T23:52Z,"On Nuvi 1410 the preinstalled map is in the .System folder (note the dot before System), you have to unhide hidden and system folder on the PC to see it with Explorer"
+,pop_it,2012-05-28T11:47Z,"@Ipmark.
+Thanks for your reply. I have done that but I still cannot find the folder. I can see the map folder and the garmin folder but cannot see the .System folder. Is it a subfolder or a main folder? Does the the .JCV file install as part of the map install?
+Thanks again."
+,NickeNyfiken66,2012-05-28T14:55Z,Can wait for v2013.20 to v2013.40
+,pop_it,2012-05-28T15:34Z,"@NickeNyfiken66 
+
+Sorry not sure if that was directed at me or not but if it was, I am only trying to make sure my unit has junction view as it had it previously. I have tried several times to find the .System folder and have unhidden, hidden files and folders. The only thing I can think of is that I done a free upgrade of the maps shortly after buying it. Also when I go into the map info on the unit itself it is still showing the older mapset as well as the new one. I can turn off the old one and use the new one and vice a versa but as I cannot find the .system folder I cannot delete the old mapset. Thanks for all yer help. "
+,NickeNyfiken66,2012-06-02T07:27Z,"@pop_it
+
+When you uhide files and folder on your pc with the device connected it must be with the option
+unhide protected operating system files or it wont work, now you can see the system folder on the device."
+,NickeNyfiken66,2012-06-02T07:28Z,"@pop_it
+
+And now you can delete the older maps :)"
+,ahmed2013,2012-06-14T12:55Z,"thanks ipmark for you help 
+i download img europe full work perfect
+
+could you please explain  how i can get junction view  and 3d building  in my garmin 1490t
+
+from sd cart  or  on garmin  thanks  "
+,Ipmark,2012-06-15T11:44Z,"Copy the JCV file in MapJCV folder (Nuvi internal memory) or GarminJCV folder (SD).
+Your 1490t doesn't support 3D Buildings file."
+,s2341,2012-06-24T11:58Z,Could someone please explain to me how i should install this on my Garmin N端link 2390?
+,edmitchell,2012-06-24T17:16Z,"I do not have a garmin device, I just want to be able to view the maps using mapsoource or basecamp ( it doesn't really matter which.)I'm just looking for an offline mapquest sort of thing here. Anyways, I have downloaded this torrent and am unable to view the maps in mapsource or basecamp. I have already installed both programs and have put in the patched exe's. I have ran the mapset toolkit with cgpsmapper and keep getting the error: E032 Layer 0 cannot be empty. What does this mean?? I have also tried splitting the gmapsupp.img files with Gmaptool and then tried to load each of those files, but have had no success. I have already tried everything posted in this and other torrents' comment areas with similiar luck. Any help would be greatly appreciated. Thanks."
+,s2341,2012-06-28T15:04Z,"Could someone please explain to me how i should install this on my Garmin N端link 2390? 
+ Please!"
+,ahmed2013,2012-06-29T13:52Z,"thanks you very much ipmark for your help 
+
+sorry  i download alrady  you unlocked  map europe full 2013  yes i  rename garmin for the file i create 
+
+and i need the inside this file called Garmin open new folder and rename  JCV or just copy 2 file jcv  directly with out  rename folder  
+
+
+also  i have another quation which  best gps for your experience  tomtom or garmin  or defrent brand  for update and easy to use  thanks you  very much for your help   "
+,ahmed2013,2012-06-29T13:54Z,"thanks you very much ipmark for your help
+
+sorry i download already you unlocked map Europe full 2013 yes i rename Garmin for the file i create  on the sd cart  i never used internal memory 
+
+and i need the inside this file called Garmin open new folder and rename JCV or just copy 2 file jcv directly with out rename folder
+
+
+also i have another equation which best gps for your experience tomtom or Garmin or def rent brand for update and easy to use thanks you very much for your help "
+,ahmed2013,2012-06-29T13:57Z,"thanks you very much ipmark for your help
+
+sorry i download alrady you unlocked map europe full 2013 yes i rename garmin for the file i create
+
+and i need the inside this file called Garmin open new folder and rename JCV or just copy 2 file jcv directly with out rename folder i talk about sd cart  i never used internal memory
+
+
+also i have another quation which best gps for your experience tomtom or garmin or defrent brand for update and easy to use thanks you very much for your help "
+,s2341,2012-07-01T13:59Z,"Could someone please explain to me how i should install this on my Garmin N端link 2390? The original maps are on an internal hard drive.
+Please i really need it soon!"
+,NickeNyfiken66,2012-07-16T16:17Z,Does anyone have Garmin Prime or Garmin Topo for scandinavia (Nordic) ???
+,V_Yuron,2012-07-28T13:25Z,"Hi everyone. I have installed the maps and at least in MapSource everything works fine. 
+But I found a problem. Let's say I am looking at Belarus/Minsk. At the distance of 70 km you can see plenty of details (roads and points). But if you zoom closer all previous details dissappear and only few major roads remain. 
+Any ideas how to solve this problem?"
+,Ipmark,2012-07-28T17:55Z,"From the info in Garmin site:
+
+Belarus: Major roads only"
+,V_Yuron,2012-08-03T15:26Z,"Yeah, I know. There is just different data available on different magnification levels. I just wanted to know if somebody knows about this and could make some explanations.
+If data of those roads and cities/vilages exists, why we cannot use it?"

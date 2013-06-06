@@ -1,0 +1,100 @@
+﻿User Type,Username,Date,Text
+,fscii,2012-05-19T22:20Z,"I'm a bit confused.  I go to install this and the installer says it must be used WITH and gives its own filename.  hmmm ok.
+
+Then I see there is also: Rosetta_Stone_Latin_Preinstalled.rar
+
+floating out there.  I installed both as directed yet neither have an .exe file?  How am I supposed to run the program then?
+
+I also have the 5 iso language files but none of them has an .exe file either.
+
+So how exactly do I launch this program and use it?"
+,EinDeutschMan,2012-05-20T05:50Z,"@fscii,
+
+You need to read the comments again: 
+""You MUST use it with the ""Rosetta Stone v3.4.7 Preinstalled.exe"" file I have UL'd
+If you don't, the activation process may not work right (or at all!)""
+
+This is the comment that I included with THIS, and ALL OTHER language packs I have recently UL'd:
+""This will create the following folder:
+C:Program Files (x86)Rosetta StoneContent
+it will install ALL necessary files to run this language pack.
+You MUST use this with this file: Rosetta Stone v3.4.7 Preinstalled.exe to ensure that the activation works properly.
+LEARN!""
+
+all of the files that have ""preinstalled.exe"" in their name are the ones you need to use.
+
+The ""Rosetta Stone v3.4.7 Preinstalled.exe"" is the actual PROGRAM file, 
+it is needed to run ""Rosetta Stone Spanish (Spain) Preinstalled.exe""
+which is ONLY the language file.
+
+DL this:
+http://thepiratebay.se/torrent/7272499/Rosetta_Stone_v3.4.7_Preinstalled.exe
+
+it is a self extracting file, let it extract to the default - C:/,
+do NOT use any of the Rar files,
+DL the language pack(s) you want, just be sure that it has ""Preinstalled.exe"" in it's name."
+,ramazone2,2012-05-20T14:13Z,We need more people seeding this one! Thanks
+,eXPerience94,2012-05-23T20:08Z,How many levels does this torrent have? I installed it but I'm asking because I feel like kinda I f**ked up something while trying to save my progress by copying my Application Data from 3.3.5. 
+,hellmell,2012-05-23T21:34Z,"This seems to work fine, but the speech recognition doesn't work, is anyone else having this problem?"
+,eXPerience94,2012-05-23T23:59Z,I succeeded to fix my problem. It was all my fault about it. Improvisations like mine in the installation are not allowed.
+,EinDeutschMan,2012-05-24T21:00Z,"@hellmell,
+
+I'm aware of the problem, apparently a few of the UL's didn't have the speech files,
+When you see the UL with the words ""& speech"" in the name, that's the right one
+
+EinDeutschMan"
+,jay21285,2012-05-25T02:28Z,"Hey man great torrents, but anyway to get the missing lessons that are not in either the german or russian preinstalled torrents?"
+,EinDeutschMan,2012-05-27T06:40Z,"@21285,
+
+Yes, I'm double checking ALL of the language packs because apparently some speech file are missing.
+
+Any of the torrents that have ""& speech"" in their name are complete.
+I have UL'd the Russian, and will get to the German soon
+
+http://thepiratebay.se/torrent/7300025/Rosetta_Stone_v3_Russian__amp_amp__Speech_Preinstalled.exe"
+,EinDeutschMan,2012-05-27T06:47Z,"@hellmell,
+
+If you are getting an error 1117, it usually has to do with your firewall
+
+To test this, TEMPORARILY disable you firewall, and then try Rosetta Stone,
+If it works correctly, put an exclusion for 
+C:/Program Files (x86)/Rosetta Stone/Rosetta Stone v3/RosettaStoneVersion3.exe
+
+You will want to block the program from the internet, 
+but put in a rule to ""allow trusted outbound"" or something equivalent
+
+Let me know"
+,ajc1981,2012-06-02T21:23Z,"I installed this and ran it with no problems. However, upon scanning the files with Mawarebytes AND Microsoft Security Essentials, a Trojan was detected in one of the ""content"" files.  Be aware.  "
+,EinDeutschMan,2012-06-05T20:11Z,"@ajc1981,
+
+I'm not doubting your word, but could you give me more details, so that I can root it out, and make SURE these are CLEAN
+
+I use Vipre 2012, and Norton on every scan
+
+Thanks,
+EinDeutschMan"
+,lucky87,2012-06-07T09:57Z,"Hey man works great, im really excited about this. followed your instructions downloaded the actual program first, then this spanish language pack and installed no problems. I do not have a microphone for my computer so I cant confirm if the speech recognition is or isnt working, but everything else is great."
+,hellmell,2012-06-07T21:27Z,"Hi,
+
+I'm not actually getting any errors it just doesn't seem to pick up my voice. I know its not the microphone because that works fine. Is this the same problem that other people are having or just me?
+
+How long until you upload one with speech? 
+
+Thanks in advance."
+,NineNinjas,2012-08-27T02:02Z,"@EinDeutschMan
+Does this version have the Speech included with it? If not could you please upload it?"
+,babatzim,2012-09-09T10:32Z,"@EinDeutschMan,
+
+First of all a big thank you.
+Knowledge is power and you definitely promote both with your work.
+
+A little feedback:
+-Preinstalled files work perfect on XP platform.
+-I get a trojan alarm (like ajc1981) with Spanish (Spain). AVAST antivirus detects SWF:Malware-gen [Trj]
+I wonder if this is a real trojan or just an incompatibility of the antivirus with the file.
+
+Last, a kind request: 
+Do you plan to offer any preinstalled Turkish with speech?
+
+Best,
+B."

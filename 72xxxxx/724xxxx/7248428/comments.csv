@@ -1,0 +1,3 @@
+﻿User Type,Username,Date,Text
+,olaflsenc,2012-05-11T02:41Z,Thanks for the upload. For some reason this copy won't play in Windows Media Player (audio) and Windows Media Center.
+[T],skJGZV6z,2012-05-13T06:23Z,"This appears to be a slight oversight on my part. In my haste to process, I failed to convert the audio. It's actually Xvid/MP2. The audio is 192 kbits/s 2-channel mpeg1 audio layer-II audio, as is the native output from my ReplayTV box. In media-player/center you'll need to have directshow codecs installed for the audio and video codecs used in the file. On my system, I'm using ffdshow to take care of that requirement. I'll try not to miss this next time."

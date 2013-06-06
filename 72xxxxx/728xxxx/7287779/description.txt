@@ -1,0 +1,9 @@
+Version 3.1 Corrections/Amendments (18th May 2012)
+
+
+Fixed the display of inter-chapter movies in aspect ratios other than 16:9.
+Fixed bugs causing the application to close while opening the credits.
+Relevant Aspect Ratio options are shown in the Configurator.exe if nVidia Surround is supported.
+Game saves from Act 2 created on older versions of the game are now compatible with the Enhanced Edition, which fixes the dwarven mechanism in Vergen.
+Added a fix for .NET Framework 4-related issues for the Steam users.
+

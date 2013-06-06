@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,_SnakEye,2012-05-13T18:42Z,"WOW, thanks man for this Pack.
+I'll give it a shot"
+,Crash2701,2012-05-13T19:25Z,"Fan-bloody-tastic!
+Thanx mate"
+,Crash2701,2012-05-13T19:49Z,"Damn! One fast DL: Getting an avg. of 1.8MB/s.
+Sweet!"
+,Crash2701,2012-05-13T19:54Z,errr....   what language is your ReadMe???
+,Romgun,2012-05-13T21:05Z,"Crash2701, sorry ReedMe in Russian. However, all  installation instructions you can read in the torrent description. "
+,Crash2701,2012-05-13T22:50Z,"@ Romgun:
+Thanx, works great! Awesome job, man!"
+,aarque,2012-05-14T14:17Z,"This is a really great share for anyone using UT. It addresses many of the shortcomings of UT2. I freaking began to hate seeing those Daedalus whales and many of the plane models are visibly inferior. Unfortunately, it appears that it does nothing to free UT2 from the lecherous and proprietary bi-annual schedule update, which I abhor. It is why I switched to MyTraffic 5.4.
+ If I am not mistaken, these models could also be incorporated into that program..."
+,Romgun,2012-05-14T18:14Z,"I plan to do updates of this package (the new schedules, the new company) ragularly.
+I'll think about MyTraffic models too...maybe..."
+,Crash2701,2012-05-14T18:29Z,"Hmmm... Don't know if I did something wrong, but here is my problem:
+When I watch any AI plane on approach (and that is on any given airport, both default and 3rd party) 80% of those AI planes touchdown anywhere between 300 ft to up to 3/4 of mile before the runway... Then traveling at around 100 to 115 knots til the beginning of the assigned runway at which point they deploy both reversers and speedbrakes. Some AI planes, about 10%, overshoot the runway entirely and as such end up in a non-stop approach loop. I have no idea whats causing this, so if anybody can shed some light on this it would be highly appreciated.
+Thanx in advance"
+,Romgun,2012-05-14T19:07Z,"Crash2701, I see..
+This pack include two variants of aircraft dynamic (they are selected during installation):
+1) normal
+2) changed dynamic (thrust_scalar, toe_brakes_scale, Reverse Thrust Throttle Percent). This was done in order to extend the running distance during takeoff and landing. Aircraft with a ""normal dynamics of the"" brakes too quickly. Do you think that braking distances are too long? Do I understand correctly you? Or this is only of some (heavy) aircraft?"
+,Crash2701,2012-05-14T19:18Z,"Romgun, no. Has nothing to do with braking distance. The problem I am having is simply that most AI planes touch down (on approach) way before the runway, then travel through the terrain until reaching the runway."
+,Romgun,2012-05-14T19:24Z,"hmm ..... this is interesting! I'll be thinking ...
+Thanks!"
+,Rapterman_123,2012-05-14T19:35Z,REQ Please Nemeth Designs Boeing CH-47 Chinook (FSX) Thanks in Advance
+,aarque,2012-05-14T23:38Z,"Romgun, this is just a suggestion, but could it be at all possible that the aircraft Crash2701 is having problems with, have been configured to employ the ""extend[ed] running distance during takeoff and landing,"" and consequently are touching down early because the intended runway has insufficient length to fulfill the extended requirement? If that were the case, simply recommending him to re-install using default flight dynamics should solve the issue, correct?"
+,virtualanarchy,2012-05-15T00:15Z,Anyone want to upload UT2 here?
+,thesaguaro,2012-05-15T04:27Z,Do a search on Google for FSX ULTIMATE TRAFFIC 2 torrent.
+,Crash2701,2012-05-15T06:38Z,"@ aarque:
+
+Thanx for your input and as a matter of fact: I tried your suggestion already, but it didn't fix the problem, I have no clue what's causing this weird behaviour. 
+Thanx never-the-less.
+However, you could/can address me directly here, lol
+
+cheers "
+,aarque,2012-05-17T13:34Z,"I would address you directly for matters you or I have authorship or authority over. I know nothing of the software or the author's algorithms. We could only exacerbate the problem by enacting remedies suggested by me. The best way to help you, Crash2701, is to offer Romgun my observations in the hope they allow him to see where his software deviated and devise a fix.
+
+I'll tell you what I'd do if he is unable to help: I'd isolate a single ai plane. I would use a saved flight or one of the aftermarket AI flightplan tweaker programs so I could make the same plane consistently enter the same landing pattern. Once I'd established that, I would start substituting values or components, swap the flight dynamics, the aircraft model, change the weight, thrust, etc. Each time I would do one thing then test the AI plane. If it did not change, I would reverse that particular adjustment, until I found what changed the landing roll. Then when I adjusted that, I would see if it also worked to fix the take-off roll."
+,Romgun,2012-05-19T07:45Z,"
+1. Install ""FSX Alternative Traffic Pack for the Flight1 Ultimate Traffic"" from here
+2. Ignore the error. Close the program UT2
+2. Install  FIX#1 with option ""Check UT2Settings.cfg""
+You can find it here http://thepiratebay.se/torrent/7275710/%5BFSX%5D_Alternative_Traffic_Pack_for_the_Flight1_Ultimate_Traffic_
+3. After this UT2 will start automatically."
+,Romgun,2012-05-19T08:01Z,"Attention! If you specify a folder for the installation, in which the simulator has not been installed (for example, temporary folder), the program writes the incorrect values â&#x20AC;&#x2039;â&#x20AC;&#x2039;in the config!"
+,Romgun,2012-08-25T09:30Z,"IT'S NOT ACTUAL VERSION
+
+Find [FSX] TRAFFIC PACK FOR FLIGHT1 ULTIMATE TRAFFIC [AUG 2012] "

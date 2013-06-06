@@ -1,0 +1,155 @@
+﻿User Type,Username,Date,Text
+,Anarchius,2012-05-06T17:28Z,Seeding today for 24h/d and from tomorrow at 22h UTC to 10h UTC. got low bandwidth so upload as soon and start seed yourself
+,urdethismylife,2012-05-07T02:15Z,if this works... THANK YOU SO MUCH. :D
+,kidlonewolf,2012-05-07T04:04Z,"@Anonymous
+
+thank you stranger who ever you maybe im very greatful either way, i have been waiting for this for awhile now(:"
+,kidlonewolf,2012-05-07T04:37Z,um could not get it to work i havlatest java 7 32 bit and i hae tryed many thing please help sir
+,Anarchius,2012-05-07T11:27Z,Any more info what is not working.. installation.. game... and what part of it? does launcher menu appear? if it appear try different modes in advanced menu (window below java 6 /7 options) there are options for engine optimization for multi core processor/ single core.... 
+,kidlonewolf,2012-05-07T11:43Z,"when i click the shortcut i get a micrsoft .net framework message saying unhandled exception has occurred in your application, if you click continue the application will ignore this error.
+
+if i hit continue i get the launcher but it does not work."
+,Anarchius,2012-05-07T12:21Z,"Do you have newest Microsoft frame network? try installing newest. and  what system you use XP /VISTA/ 7 ? on xp it may lag but should work. But truly i think you got 64 bit system.. and you need to launch 64 bit version of game.. and for this you should use "".bat"" launchers.. from other versions of game. "
+,kidlonewolf,2012-05-07T12:42Z,yes i do have 64 bit. should i just copy one over to the installed folder?
+,Anarchius,2012-05-07T13:11Z,Yes. the one you where using before. it should do the trick. 
+,kidlonewolf,2012-05-07T13:15Z,nevermind i got it thanks tho(:
+,schmolz,2012-05-08T01:58Z,"how do i set the username to enable savegame?
+thx for the help."
+,Anarchius,2012-05-08T08:52Z,start game and in username write your username :) simple as that. No registration nothing as such. and there is only one save per account so if you want new save change username. 
+,schmolz,2012-05-08T16:03Z,"hmm,that doesnt work for mee,when i try to load my world and character the game just freezes in the loading screen,thx anyway"
+,HonestJob,2012-05-09T06:37Z,"I'm having the same problem that  kidlonewolf  was having. I have Windows 7 x64, and installed the latest .NET framework, and Java. I don't have the "".bat"" launchers. Where/How can I get them?"
+,throwaway3602,2012-05-09T07:27Z,"i'm also having the microsoft .net issue. here is as detailed as I can get:
+
+I installed Microsoft .NET v4.0
+I get an error that says: ""Unhandled exception has occurred in your application, if you click continue the application will ignore this error.""
+If I click continue, I get the launcher.
+I've tried every possible combination of the launcher, java 6, java 7, windowed mode, full screen, etc. When you hit play, a cmd box opens and closes fast and the game never loads.
+I tried downloading v0.2l from here and getting the .bat files. I tried the HD, High, Medium, & Low.bat files and none of them worked. They all said ""could not locate file path Project Zomboid/PAUSE"" please press any key to continue.
+
+I've also tried running the launcher with compatibility of XP3 and no luck as well.
+
+I really want to play this new version!"
+,throwaway3602,2012-05-09T07:33Z,"Also:
+
+If I copy over the High/Medium/Low ""2"".bat from the v0.2l, the game will load, ask for my username/password, but regardless if I enter one or not, when I hit play offline a game window saying v0.2.0q Alpha pops up and is frozen without loading anything. Dang."
+,JcKalck,2012-05-10T18:46Z,"@Anarchius
+
+Didn't worked for me, i can play but can't save."
+,gooliker1,2012-05-10T19:35Z,"I have the same problem as schmolz, the game works fine but I can't load a saved world or a character.
+If there's a fix, please let me know, thanks."
+,microze,2012-05-17T21:43Z,"~~~THIS IS HOW I GOT MY EASY LAUNCH TO WORK~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+http://i.imgur.com/6Bcuc.png
+
+Copy my options down to the letter. and it should work."
+,protoZor,2012-05-24T03:15Z,Didn't work for me. Decided to just support the developer and paid the...OMG...8 dollars.
+,xhizors,2012-05-28T07:43Z,"protoZor: Ah, yes. Must be nice to have money. Dear protoZor's mother, can I get an allowance too?"
+,xhizors,2012-05-28T07:52Z,"Anyone who can't get this to work, don't install it to program files, instead install it to a folder, e.g. My Documents or Desktop, where the launcher has access to read/write. Otherwise you'll keep getting the .NET error."
+,xhizors,2012-05-28T07:58Z,"nevermind, can't get it to work either with Win 7 64-bit. However, I think megweg is just a moron. Should have included a BATCH file launcher instead of some garbage Visual Basic, can't program for shit because I can't avoid Null Reference Exceptions, nonsense. Fuck you megweg."
+,xhizors,2012-05-28T11:30Z,"Okay! I calmed down. Here we go! This is a working BATCH file launcher and a working version of lwjgl (Because for some reason the one included is missing files). Just unzip this to your Project Zomboid 0.2.0q directory and run ""Launcher.bat"" although I have it set up to work with Java 6, you may have to tweak the batch file a bit. Hope this helps someone!!
+
+http://bayfiles.com/file/b5Qb/EUZe2f/ProjectZomboidv020qFix.ZIP
+
+Although, alternatively you can just use the BATCH launcher I included, and download lwjgl yourself if you'd rather not trust me. The batch is the most important part anyway.
+
+I included the lwjgl files because the lwjgl.jar file included in this download was only 900KB, and kept showing the ""ClassDefNotFound org/lwjgl/utils/Rectangle"" error as it was missing class files.
+
+Anyway, good luck!"
+,thescatman77,2012-05-31T16:36Z,"@XHizorz Could you tell us what does what and how to setup the .bat file please, I'd like to run in full screen but this doesn't launch it with that."
+,Treyman1115,2012-06-06T20:09Z,can someone helpme i just get a black screen
+,ai2006,2012-06-14T04:55Z,"@xhizors
+
+Thanks, that got it running, but there's no sound, though.
+
+NO clue if its your mistake, my mistake, or this torrent's mistake.
+
+I'm REALLY confused."
+,EmailMyPants,2012-06-23T00:56Z,This does not work at all.
+,EmailMyPants,2012-06-25T14:26Z,"I did what xhizors said and that works, but when you quit the game and try to load it back up the game does not work at all, also sometimes you randomly get stuck and don't move at all."
+,mark_valley,2012-06-30T04:12Z,"Well, i have the ""black screen"" problem at first but after xhizors launcher i could at least go to the screen where i set up my character. When i start the game i can see the map screen for a second and my video card crashes. I am using the most recent drivers and tryed java 6 and java 7.  I want to buy the original game but now i am afraid to have the samen problems with it... "
+,szepiz,2012-07-02T17:21Z,"if its not working,just download java 7"
+,Ironb0und,2012-08-10T16:50Z,"Ok, i've tried alot of different versions here on pb, none seem to work to me. Here's my error message;
+
+
+See the end of this message for details on invoking 
+just-in-time (JIT) debugging instead of this dialog box.
+
+************** Exception Text **************
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ProgectZomboidLauncher.Form1.RegSave()
+   at ProgectZomboidLauncher.Form1.Form1_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+************** Loaded Assemblies **************
+mscorlib
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.269 (RTMGDR.030319-2600)
+    CodeBase: file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/mscorlib.dll
+----------------------------------------
+PZEL
+    Assembly Version: 0.2.0.4
+    Win32 Version: 0.2.0.4
+    CodeBase: file:///C:/Project%20Zomboid/Project%20Zomboid%20v0.2.0q/PZEL.exe
+----------------------------------------
+System.Windows.Forms
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.278 built by: RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms/v4.0_4.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+System.Drawing
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.282 built by: RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Drawing/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+System
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.269 built by: RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+System.Configuration
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.1 (RTMRel.030319-0100)
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Configuration/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Xml
+    Assembly Version: 4.0.0.0
+    Win32 Version: 4.0.30319.233 built by: RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+
+************** JIT Debugging **************
+To enable just-in-time (JIT) debugging, the .config file for this
+application or computer (machine.config) must have the
+jitDebugging value set in the system.windows.forms section.
+The application must also be compiled with debugging
+enabled.
+
+For example:
+
+
+
+
+
+When JIT debugging is enabled, any unhandled exception
+will be sent to the JIT debugger registered on the computer
+rather than be handled by this dialog box.
+
+And yes, I've got .Net Framework installed. I also tried repairing it."
+,Jayzen_Freeze,2012-08-11T00:10Z,made user name everything game still does not load saved data it just keeps saying loading.
+,tflagger997,2012-08-24T04:49Z,It turns out you must install the x32 version of JAVA even though you are running the x64 version.  It will not screw JAVA up.
+,frenchiveruti,2012-08-27T05:14Z,"No save no game, i prefer RC2.5 or the 1.5 :/
+http://thepiratebay.se/torrent/7484103/Project_Zomboid_0.2.0r__amp_gt_OFFICIAL_amp_lt__RC2.5_
+For saving :D"
+,VitorCz,2012-09-16T05:35Z,i'll play this game until the war z came out

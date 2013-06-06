@@ -1,0 +1,20 @@
+7-Zip 9.20 
+=========
+7-Zip is open source software.
+
+7-Zip works in Windows 7 / Vista / XP / 2008 / 2003 / 2000 / NT / ME / 98. (32-bit x86)
+
+The main features of 7-Zip
+======================
+1.  High compression ratio in 7z format with LZMA and LZMA2 compression 
+2.  Supported formats: 
+         a)Packing / unpacking: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM 
+         b)Unpacking only: ARJ, CAB, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, RAR, RPM, SquashFS, UDF, VHD, WIM, XAR and Z. 
+3.  For ZIP and GZIP formats, 7-Zip provides a compression ratio that is 2-10 % better than the ratio provided by PKZip and WinZip 
+4.  Strong AES-256 encryption in 7z and ZIP formats 
+5.  Self-extracting capability for 7z format 
+6.  Integration with Windows Shell 
+7.  Powerful File Manager 
+8.  Powerful command line version 
+9.  Plugin for FAR Manager 
+10. Localizations for 79 languages 

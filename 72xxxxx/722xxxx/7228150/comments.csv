@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,Gmaru,2012-04-30T01:47Z,"Some people get this error “Counter strike fatal error 5899” precisely this messege “Error 5899: Metadata file missing or damaged [-1]!” so I’ll try to ease their problem
+
+cstrike.exe or hl.exe file is there.
+
+Yeah now you can play normally otherwise follow step two
+
+2.  Right Click on cstrike.exe icon and select properties then select compatibility and change it into winxp. This should solve the problem else follow step 3.
+
+3. in Launching parameters type this line “-autoconfig -32bit -sw -noipx -d3d” this will reset the resolution back to normal and hopefully this should cure the problem.
+
+Just in case none of these works then Ask me again… !
+
+4. Basically its a video problem so you can delete config.cfg file located in cstrike folder and when you launch hl.exe or cstrike.exe make sure to choose openGL or D3D option and apply the settings.
+
+This should help
+
+or Try This  ( Thanks to IMSOASE )
+
+Just got to run and type in “regedit”, then go to HKEY_CURRENT_USER -> Software ->Valve. All you have to do is delete this Valve thing, ONLY THIS, nothing else!
+
+Right click on your icon on the desktop --> properties --> Target -->
+In Launching parameters type this line “-autoconfig -32bit -sw -noipx -d3d” this will reset the resolution back to normal and hopefully this should cure the problem."
+,iLoveGooooooolllld,2012-05-01T21:25Z,"hey cool torrent love it...but i seem to be having issues with the sound effects and radio chatter....its all back to the old counter strike stuff like.. ""enemy spotted"" , ""fire in the hole""  ...but i want that awesome stuff i heard before from call of duty..that MADE the game fun....it only changed after i switched to this torrent from the other release...but i deleted everything and tried the other one again and it still didnt work the same :( ... any help would be great..thanks"
+,teddxxx,2012-05-12T03:43Z,@Gmaru.i tried your instructions to run the game still not workin' but i overwrite your old version of this and it works perfectly just like an update lol! nice torrents! ;D

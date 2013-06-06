@@ -1,0 +1,24 @@
+To celebrate the launch of Diablo III!
+
+This is a wine port to OS X of Diablo II v 1.13 (for windows). This should work with OS X 10.7 Lion and 10.6 Snow Leopard. I have tested it on both versions of operating systems.
+
+This should be more or less plug-and-play, simply mount the .dmg and drag the app to your applications directory.
+
+To play Diablo II over battle.net you need a authorized CD-key. This app comes pre-loaded with a valid, but un-authorized CD-key, but I've included a CD-key changer. To load Diablo II with your own CD-key, do the following:
+
+1. Right-click Diablo II.app and choose "Show package contents"
+
+2. Open Wineskin.app
+
+3. Click "Advanced"
+
+4. Click browse and choose Program Files/d2-cdkey/d2-cdkey.exe
+
+5. Click Test Run. This will launch the CD-key-changer. Use it to load Diablo with your own key.
+
+6. When you're done, click browse again and go to Program Files/Diablo II/Diablo II.exe
+
+7. Close Wineskin and you should be able to play Diablo II over battle.net
+
+
+Enjoy!

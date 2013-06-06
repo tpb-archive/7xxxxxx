@@ -1,0 +1,76 @@
+Usar VLCPlayer, Gomplayer o similar para reproducir el video HD con los subtítulos srt.
+
+Capturas:
+ 
+http://korraflow.site11.com/kapturas/1x05Captura1.png
+ 
+http://korraflow.site11.com/kapturas/1x05Captura2.png
+ 
+http://korraflow.site11.com/kapturas/1x05Captura3.png
+
+
+
+Video INFO:
+
+
+General
+Complete name                    : estadoavatar.1x05 - The Spirit Of Competition - The Legend of Korra.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 283 MiB
+Duration                         : 23mn 44s
+Overall bit rate                 : 1 663 Kbps
+Encoded date                     : UTC 2012-05-24 11:03:09
+Tagged date                      : UTC 2012-05-24 11:08:00
+Writing application              : HandBrake 0.9.6 2012022800
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=2, N=32
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 23mn 44s
+Bit rate mode                    : Variable
+Bit rate                         : 1 500 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 24.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.068
+Stream size                      : 255 MiB (90%)
+Writing library                  : x264 core 120
+Encoded date                     : UTC 2012-05-24 11:03:09
+Tagged date                      : UTC 2012-05-24 11:08:00
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 23mn 43s
+Bit rate mode                    : Variable
+Bit rate                         : 160 Kbps
+Maximum bit rate                 : 269 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy
+Stream size                      : 27.2 MiB (10%)
+Language                         : English
+Encoded date                     : UTC 2012-05-24 11:03:09
+Tagged date                      : UTC 2012-05-24 11:08:00

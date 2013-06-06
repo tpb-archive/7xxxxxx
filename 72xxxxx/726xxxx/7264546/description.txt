@@ -1,0 +1,18 @@
+CommView for WiFi is a special edition of CommView designed for capturing and analyzing network packets on wireless
+ 802.11a/b/g/n networks. It gathers information from the wireless adapter and decodes the analyzed data.
+ 
+ With CommView for WiFi you can see the list of network connections and vital IP statistics and examine individual
+ packets. Packets can be decrypted utilizing user-defined WEP or WPA keys and are decoded down to the lowest layer
+ with full analysis of the most widespread protocols. Full to raw data is also provided. Captured packets can be saved
+ to log files for future analysis. A flexible system of filters makes it possible to drop unnecessary packets or capture the
+ essential packets. Configurable alarms can notify the user about important events, such as suspicious packets, high bandwidth
+ utilization, or unknown addresses.
+ 
+ CommView for WiFi features full decoding of the following protocols:
+ ARP, BCAST, BGP, BMP, CDP, DAYTIME, DDNS, DHCP, DIAG
+ DNS, EIGRP, FTP GRE, H.225, H.261, H.263, H.323, HTTP, HTTPS, ICMP
+ ICQ, IGMP IGRP, IMAP, IPsec, IPv4, IPv6, IPX, HSRP, LDAP, MS
+ SQL, NCP, NDS NetBIOS, NFS, NLSP, NNTP, NTP, OSPF, POP3, PPP
+ RARP, RADIUS RDP, RIP, RIPX, RMCP, RPC, RSVP, RTP, RTCP, RTSP
+ SER, SIP, SMB SMTP, SNA, SNMP, SNTP, SOCKS, SPX, SSH, TCP, TELNET
+ TFTP, TIME, TLS UDP, VTP, WAP, WDOG, YMSG, 802.1Q, 802.1X

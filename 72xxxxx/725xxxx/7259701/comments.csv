@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+[T],jmz619,2012-05-11T23:05Z,"The client now comes with both the client-side and the server-side JAR files. The file called minecraft.jar should be in your .minecraft/bin folder as usual, and the minecraft_server.jar file should be in a folder called .minecraft/server"
+,Daendyr19,2012-05-12T10:30Z,"It gives me an error when I start Single Player ""Failed to connect to the server, Connection refused: connect"". Fix???"
+[T],jmz619,2012-05-12T18:02Z,Make sure you boot up the server before you start the single player 
+,Daendyr19,2012-05-12T20:18Z,Thanks! It works now.
+,Daendyr19,2012-05-12T20:24Z,"Actually, it doesn't work."
+[T],jmz619,2012-05-13T01:25Z,It's just a snapshot so you will probably experience bugs they're still in the making of having the server and single player join. Come back this thursday.

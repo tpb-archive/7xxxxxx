@@ -1,0 +1,39 @@
+LARISA_EMPISTEYTIKO
+
+Video
+ID                               : 0
+                                 : MPEG-4 Visual
+Format_Profile                   : Simple@L3
+Format_Settings_BVOP/String      : ╬î╧ç╬╣
+Format_Settings_QPel/String      : ╬î╧ç╬╣
+Format_Settings_GMC/String       : 0 warppoint
+Format_Settings_Matrix/String    : Default (H.263)
+CodecID                          : XVID
+/                                : XviD
+Duration/String                  : 1h 31mn
+                                 : 1 575 Kbps
+                                 : 720  
+                                 : 384  
+                                 : 1,875
+                                 : 25,000 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  :  
+Bits                             : 0.228
+StreamSize/String                : 1,01 GiB (77%)
+                                 : XviD 1.2.1 (UTC 2008-12-04)
+
+sound
+ID                               : 1
+                                 : AC-3
+                                 : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+CodecID                          : 2000
+Duration/String                  : 1h 31mn
+                                 : 448 Kbps
+                                 : 6 channels
+                                 : Front: L C R, Side: L R, LFE
+                                 : 48,0 KHz
+StreamSize/String                : 294 MiB (22%)
+Interleave_Duration/String       : 32 ms (0.80 video frames)

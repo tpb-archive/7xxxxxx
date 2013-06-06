@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,neaai,2012-05-03T14:13Z,"This worked for me.
+
+Though it said during installation that my system was not known and thus not supported, it just run fine and good. I guess the 'known' and supported distros are the major commercial supported ones: RH, SUSE, Ubuntu, Mandriva.
+
+Anyhow in my case, I run a Debian Squeeze 6.0.4 with the following:
+
+~$ uname -a
+Linux e01 2.6.32-5-686 #1 SMP Mon Mar 26 05:20:33 UTC 2012 i686 GNU/Linux
+
+~$ lspci | egrep ""(VGA|Audio)""
+00:1b.0 Audio device: Intel Corporation 82801I (ICH9 Family) HD Audio Controller (rev 02)
+04:00.0 VGA compatible controller: nVidia Corporation GT218 [GeForce 210] (rev a2)
+04:00.1 Audio device: nVidia Corporation High Definition Audio Controller (rev a1)
+
+~$ free -m
+             total       used       free     shared    buffers     cached
+Mem:          3041       2502        538          0         36       1575
+-/+ buffers/cache:        890       2150
+Swap:         3861          0       3861
+
+~$ cat /proc/cpuinfo | grep ""model name"" | head -1
+model name	: Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz
+
+Using:  NVIDIA Accelerated Graphics Driver for Linux-x86 (version: 256.53)
+
+Thanks for sharing."

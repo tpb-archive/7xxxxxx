@@ -1,0 +1,106 @@
+﻿User Type,Username,Date,Text
+,ilefx,2012-05-01T03:12Z,"must to be offline , or you will get blacklisted !!"
+,3picdc,2012-05-01T05:33Z,THANKS SO MUCH :D
+,JuniiFlow,2012-05-01T06:29Z,yea mm this is problably a virus? can anybody tell me?
+,JuniiFlow,2012-05-01T06:34Z,"OK its not a virus, but i cant find the adobe_oobelib.dll on ym adobe foolder...
+
+can somebody show me wich folder is it aT?"
+,ilefx,2012-05-01T09:15Z,sorry have net problems till now 
+,ilefx,2012-05-01T10:05Z,"there is litle bit hard to get offline activation for somebody 
+
+maybe somebody will upload img infos (tut)
+
+Thanks "
+,ilefx,2012-05-01T10:11Z,"1325-1901-7213-4243-1808-7920  use this serial and try to activate offline !
+
+go offline find adobe_oobelib.dll make backup , replace cracked from mkdev team
+
+adobe_oobelib.dll file   use offline 
+
+
+use some your offline activation code
+
+thanks from mkdev team
+
+see ya
+
+ilefx"
+,Fikusas,2012-05-01T10:54Z,"Actually, therea are two ""adobe_oobelib.dll"" files in Common FilesAdobeOOBEPDAppLWA (925 KB) and Common FilesAdobeOOBEPDAppP6 (2.17 MB). Which one of them should be replaced?"
+,Fikusas,2012-05-01T11:17Z,"Actually, there are two ""adobe_oobelib.dll"" files in Common Files/Adobe/OOBE/PDApp: LWA and P6 folders. Which one should be replaced?"
+,ilefx,2012-05-01T11:24Z,that with the exe files
+,Fikusas,2012-05-01T12:23Z,"Doesn't work. It says: U have 7 days to validate your serial number. Cracked ""amtlib.dll"" in previous release works just fine. I stick with it."
+,maya77,2012-05-01T13:15Z,"INSTRUCTIONS:
+
+1. Add to system32/drivers/etc/hosts file:
+127.0.0.1 lm.licenses.adobe.com
+
+2. Install CS6 with serial ""1234 1234 1234 1234 1234 1234"" & click ""connect later""
+
+3. Backup & Replace adobe_oobelib.dll at
+C:Program Files (x86)Common FilesAdobeOOBEPDAppP6
+
+4. When it validating the serial, click the ""have trouble..."", you will be redirected to activate offline
+
+5. Copy the request code to Response code field to activate it
+
+Tested ad working 100%."
+,ilefx,2012-05-01T15:03Z,need update serial for encore and all will go ok
+,ilefx,2012-05-01T16:02Z,1325-1454-9586-2264-4382-2254 try this serial for encore  on 64 bit
+,ilefx,2012-05-01T16:56Z,C:UsersAll UsersAdobeSLStore    hire is lic that reset serial
+,zulithe,2012-05-01T17:58Z,"can anyone confirm if this release registers ALL programs, including Acrobat and flash builder?"
+,maya77,2012-05-01T20:31Z,"yes, it works if you follow instructions properly."
+,tiagokenta,2012-05-01T23:32Z,"thanks ilefx.
+maya77 i have a question for you, 多should we follow all the steps offline?.  thanks in advance."
+,jaarons,2012-05-02T01:26Z,"maya77 I have a question as well. Thanks for your help. I followed your instructions exactly. But when I got to pasting the response code (which is exact
+Y the same as the request code?) it said the response code was invalid. "
+,jaarons,2012-05-02T01:46Z,"Ok I got it working but Encore on 64-bit is still not working. I reset the serial, put the one suggested for Encore, it said everything else passed but not Encore. "
+,3picdc,2012-05-02T03:15Z,If you set your clock ahead a few months or a year Encore stops working and you loose presets is Premiere :/ Please fix as this is only good crack with one little problem and it will be perfect once fixed!
+,tbou,2012-05-02T22:49Z,what better method? This method or substitution of amtlib.dll? Thanks :)
+,tiagokenta,2012-05-04T09:50Z,"@tbou
+best method is this, but the .nfo instructions needs more love.
+
+@all
+anyone can help me to activate encore?, get error when this prog start.  thanks to us."
+,tbou,2012-05-06T16:19Z,"doesn't work more, I have problem ""THIS SERIAL IS REVOKED"". "
+,ub3rst4r,2012-05-15T02:17Z,"@Fikusas Just P6
+
+Worked fine for me. Thanks"
+,deadth,2012-05-20T17:01Z,Is there a way that i can use cs6 while i'm online? Can i add something to my firewall or something else? 
+,hafina,2012-06-02T11:34Z,"I had some trouble with the instructions. So I pieced this together from here and another torrent. It worked perfectly fo me:
+
+Add to system32/drivers/etc/hosts file:
+127.0.0.1 lm.licenses.adobe.com
+
+1. Disconnect from the Internet
+2. Install *using serial* 1325-1421-1213-1243-1808-1920
+3. Reboot
+4. Rename original and copy cracked 
+adobe_oobelib.dll
+in
+C:Program Files (x86)Common Files/Adobe/OOBE/PDApp/P6
+C:Program Files (x86)Common Files/Adobe/OOBE/PDApp/LWA
+C:Program Files (x86)Adobe/Acrobat 10.0/Acrobat
+
+5. Launch for ex. Photoshop (64-bit) go to Help>Activation>I'm having trouble connecting to the internet
+(in the middle)>Offline Activation (right-bottom)>copy code provided by the application
+(yes the one that's in the window) and paste it below (yup in that same window. Finish it!
+6. Never create an Adobe account if asked
+7. Connect to the Internet, check for updates ;)"
+,Frank122,2012-06-02T20:54Z,"Easy to install and much better was this ---> http://thepiratebay.se/torrent/7322538/Adobe_CS6_All
+
+It all worked for me with everything included"
+,inemanja,2012-06-10T13:32Z,"@using_Maya77_instruction_and_failed
+it didn't work for me, but then i give up registration (register later), and tried again in Help/registration (or something simmilar), and again tried offline registration and it worked..
+good luck  (maybe not every generated serial is working - so you'll need luck)"
+,ixlguy28,2012-06-21T03:51Z,"I have Adobe CS6 Master Collection (Lion/Windows7) ready to ship
+
+As of July 2012
+Including how to install instructions
+Contact me @ IXLGuy@yahoo.com
+
+I have other MAC software. Logic Studio 9 (Updates!!!), Final Cut Studio 3 (Updates!!!), Komplete 8 Ultimate, and more...
+
+This is great for people who do not want to spend forever getting it..."
+,hstpb,2012-06-22T13:38Z,"@ ixlguy28
+What the fuck is this? EBAY?
+Move your ass out of here. "

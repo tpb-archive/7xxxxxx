@@ -1,0 +1,55 @@
+General
+Complete name                  : Adele - Set Fire to the rain( Live At The Royal Albert Hall).mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+File size                      : 392 MiB
+Duration                       : 3mn 57s
+Overall bit rate mode          : Variable
+Overall bit rate               : 13.8 Mbps
+
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3mn 57s
+Bit rate                       : 12.7 Mbps
+Maximum bit rate               : 22.8 Mbps
+Width                          : 1 904 pixels
+Height                         : 816 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.273
+Stream size                    : 360 MiB (92%)
+Title                          : Video
+Writing library                : x264 core 105 r1724 b02df7b
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 3mn 57s
+Bit rate mode                  : Variable
+Bit rate                       : 1 122 Kbps
+Maximum bit rate               : 1 160 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 31.8 MiB (8%)
+Language                       : English
+

@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+[T],XxFukenGruvenxX,2012-05-20T08:48Z,"F.Y.I
+
+UltraISO has a known glitch with it's ""Virtual Drive"".
+if you issues with the ""Virtual Drive"", simply restart your PC."
+,xpmule,2012-05-21T12:39Z,"I don't understand what your saying.
+Did you modify UltraIso in some way ?
+Or are you just describing the normal features ?
+
+Oh and I've never had any issues with the ""ISODrive"" been using it on XP to Win 7 with no issues at all ever.
+Normaly i right click an .iso and select mount and when I am done i click on MyComputer and right click the fake cd drive and select unmount, so I'm not sure why you say you have to reboot to fix a ""known bug""
+
+Also no offence but because of how this works and what it does I would advise people use the installer that way you will have all files installed in the proper locations and all the .dll's and drivers (.sys) registered properly
+
+For example: If someone uses Windows XP x86 they will have a .dll registered @
+C:Program Files (x86)Common FilesEZB Systemslame_enc.dll
+
+And if you were using x64 that would be @
+C:Program FilesCommon FilesEZB Systemslame_enc.dll
+
+Like I said, Its smarter to let the installer put things where they need to go etc and sometimes .dll's need to be registered by the OS for them to be available for use etc..
+
+Not sure why so many of these so called ""Portable"" apps get posted at TPB.. Is there really that high of a demand for all things portable nowadays ? Why do people want to desperatly avoid running an installer these days ? You'd think it would inpire more confidence having the original untouched installer from the original source lol"

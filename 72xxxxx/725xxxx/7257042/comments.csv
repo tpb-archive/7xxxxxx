@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,tunamoon,2012-05-15T10:52Z,"First off... I am not complaining.
+Just posting some info for others that might need to view these.
+The videos are encoded with a DAR (display aspect ratio) of 4:3
+So depending on your player the video may look wrong.
+I tried the three below:
+Media player classic will display it in wide screen format (roughly 16-9)
+Windows media player 11 will also display it in wide screen.(roughly 16-9)
+VLC media player 1.1.11 follows the DAR info and plays it at 4:3
+So using VLC you would have to click VIDEO then ASPECT RATIO and select 16:9
+I only tried to view this on a computer. 
+So I can't comment on stand alone players other than if it displays incorrectly see if you can overide the DAR and  change your aspect ratio to 16:9
+The audio is standard MP3
+Here is the video info for 028  S5E01  Termites of 1938.avi
+
+Format                           : MPEG-4 Visual
+Format profile                   : Simple@L1
+Format settings, BVOP            : No
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : DX50
+Codec ID/Hint                    : DivX 5
+Duration                         : 16mn 47s
+Bit rate                         : 1 198 Kbps
+Width                            : 720 pixels
+Height                           : 412 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.168
+Stream size                      : 144 MiB (90%)
+Writing library                  : Lavc52.20.0
+
+ - Cheers -"

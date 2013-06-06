@@ -1,0 +1,32 @@
+├£├£├£├£├£├£├£├£             ├£├£├£              ├£├£
+              ├ƒ├ƒ  ├¢├¢  ├ƒ├ƒ             ├¢├¢              ├¢├¢     ├¢├¢
+                  ├¢├¢            ├ƒ├ƒ   ├¢├¢   ├ƒ├ƒ         ├¢├¢     ├¢├¢├£├£├£ ├£├£ ├£  ├£   ├£
+                  ├¢├¢   ├¢├¢   ├¢├¢ ├ƒ├¢├¢   ├¢├¢  ├ƒ├¢├¢  ├£├¢├ƒ├ƒ├¢├¢ ├¢├¢├ƒ├ƒ├¢├£ ├¢├¢
+                  ├¢├¢   ├¢├¢├¥├¢ ├¢├¢ ├₧├¢├¢  ├₧├¢├¢  ├₧├¢├¢  ├¢├¢  ├¢├¢ ├¢├¢ ├₧├¢├¢ ├¢├¢├¥
+   ├£   ├£  ├£├£ ├£├£├£├¢├¢├¢├¢├¢  ├ƒ├¢├¢├ƒ├¢├¢├ƒ ├¢├¢├¢├¢ ├¢├¢├¢├¢ ├¢├¢├¢├¢ ├ƒ├¢├£├£├¢├¢ ├¢├¢ ├₧├¢├¢ ├ƒ├¢├¢├¢├¢                                 Gunzoid
+                                                  ├¢├¢
+                                               ├ƒ├ƒ├ƒ├ƒ
+
+Win b7.1 Released! -- Saturday, September 16, 2000
+Beta 7.1 for Windows is now out! You can grab the file over at the downloads page. The 7.0 to 7.1 upgrade patch weighs in at 3.93megs while the full 7.0 install is 68.9megs. Remember that 7.1 is a server and client side update, meaning everyone should download and isntall it. Here's what's new:
+BETA 7.1
+--------
+[9.16.00]
+- fixed de_vegas crashing
+- tweaked burst fire accuracy system
+- slightly improved vehicle code
+- included missing skies (for cs_arabstreets, de_train)
+- fixed mp_timelimit bug
+- added APC to cs_siege
+- new server variable, "mp_maxrounds X"   {X = maximum number of rounds to be played on a map, if X = 0, then maps will rotate based on mp_timelimit}
+- fixed crosshairs {They now expand regardless of lag}
+- fixed player heights {Player's POV is now representative of the third person player model}
+- fixed shotgun not showing up in VGUI menus in as_ maps for CTs
+- included new death icon for headshots
+Special thanks to Leon Hartwig, Finl, Joev, and Owned.
+*Note: You may get "client.dll differs" errors when connecting to certain servers running the test 7.1a .dll -- you'll have to wait til that particular server upgrades to this client side 7.1. So for you server admins running the test 7.1a .dll, it is not compatible with this new release.
+
+PLZ SEED AFTER DOWNLOADING...
+
+"SHARING IS CARING"
+

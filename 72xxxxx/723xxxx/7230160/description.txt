@@ -1,0 +1,83 @@
+ICE CREAM SANDWICH 4.0.3 FIRMWARE FOR SAMSUNG GALAXY S 2
+
+
+------------
+Change Log:
+------------
+1. None. Samsung likes to surprise you!
+
+
+---------
+Credits:
+---------
+1. XWLP8 Stock Kernel firmware courtesy of Intratech.
+2. CF-Root firmware courtesy of Chainfire.
+
+You can find Intratech and Chainfire and their excellent works for the Android platform at: http://forum.xda-developers.com.
+
+
+------
+Note:
+------
+Firmware tested and worked on Samsung Galaxy S2 mobile phones. The firmware, if update is successful, will upgrade your phone to:
+
+a. Android Version: 4.0.3
+b. Baseband Version: I9100XXLPS
+c. Kernel Version: 3.0.15-I9100XWLP8-CL356487 dpi@DELL173 #3
+d. Build Number: IML74K.XWLP8
+
+This firmware is a vanilla release from Samsung so it does not have any provider's crap in it. Users have informed me that the firmware worked in Australia.
+
+If you're in another region, you can try this firmware too as it has support for the following languages: English, Cestina, Dansk, Deutsch, Espanol, Estonian, Francais, Hrvatski, Icelandic, Irish, Italiano, Kazakh, Korean, Latviesu, Lietuviu, Macedonian, Magyar, Nederlands, Norsk, Polski, Portugues, Romana, Slovencina, Suomi, Svenska, Turkce, Uzbek and some other languages I can't pronounce.
+
+
+------------
+DISCLAIMER:
+------------
+YOU HEREBY ACKNOWLEDGE BY USING THE SOFTWARES INCLUDED IN THIS TORRENT THAT I'M NOT LIABLE FOR ANY DAMAGE OR BE HELD RESPONSIBLE IN ANY WAY, WHETHER EXPLICIT OR IMPLIED, IF YOU BRICK OR TURN YOUR PHONE INTO A USELESS PAPERWEIGHT. YOU ARE USING THE SOFTWARES AT YOUR OWN RISK.
+
+
+---------------------------
+Prerequisite requirements:
+---------------------------
+1. A rooted Samsung Galaxy S2 Phone.
+
+2. IMPORTANT: If you upgrade via a PC, ensure you have a constant power supply source when you flash the firmware onto your phone. Otherwise, any power outage, will inevitably brick your phone in the process. Best to have your PC connected to a UPS unit in case the power supply from your provider suddenly stopped (i.e. power outage).
+
+
+-------------------------------------
+Steps to install Ice Cream Sandwich:
+-------------------------------------
+
+1. Shut down your phone.
+
+2. Boot your phone into Download mode i.e. Hold Volume Down + Home + Power buttons down simultaneously. Then, press Volume Up button to initiate Download mode.
+
+3. Plug in phone's USB cable: one end into your phone's connector and the other to your PC's USB port or Hub.
+
+4. If you haven't installed the USB drivers in Windows for your Samsung phone, then run "Samsung Mobile Phones USB Drivers 1.4.103.0.exe". Otherwise, skip this step.
+
+5. Open Odin3 (This version runs in Windows only) and check only "Auto Reboot" and "F. Reset Time" options.
+
+6. Click the "PDA" button and select "GT-I9100_XSA_PDAXWLP8_PHONEXXLPS_CSCXSALP4.tar". Then hit the "Start" button and wait.
+
+7. Once Odin3 signalled "PASS!", unplug phone's USB cable. You will now have Ice Cream Sandwich 4.0.3 firmware on your phone.
+
+
+----------
+Optional:
+----------
+To enable Root permission (i.e. full access) for your phone, you'll need to flash your phone first with:
+
+1. Repeat the above steps (where applicable) but in Step 6 select 
+
+"CF-Root-SGS2_XW_XSA_LP8-v5.4-CWM5.tar"
+
+then with:
+
+1. Repeat the above steps (where applicable) but in Step 6 select "GT-I9100 XWLP8 Stock 
+
+Kernel.tar".
+ 
+
+Enjoy.

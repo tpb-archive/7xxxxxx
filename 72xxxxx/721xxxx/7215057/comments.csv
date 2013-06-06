@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,Stormfront73,2012-04-25T18:10Z,crashed on mine some dll error. Ho hum back to previous installion.
+,bazoo.ET,2012-04-25T21:44Z,"scene4all....
+
+can you pls upload a trainer for game to"
+,tpb3571,2012-04-25T22:22Z,how is this 1.1.4?  after installing the update. I loaded the game and it shows version 1.1.3
+,DarkkFate,2012-04-25T22:24Z,"Not working for me, either.  Using Windows XP.  When trying to run ""Grimrock.exe"" you get the following error message: ""The application or DLL *insert installation path here*d3dx9_43.dll is not a valid Windows image.  Please check this against your installation diskette.""
+
+It doesn't matter where I install it, you get the same error no matter what."
+,Vestilence,2012-04-25T23:29Z,"I deleted that dll and the game works fine for me, but none of the fixes are present, no volume sliders or import portrait feature, among other things."
+,IndigoAK,2012-04-25T23:59Z,"This is NOT 1.1.4.
+
+If you pay close attention to the name of the file that you download, this is the original 1.0.08 version of the game.
+
+Do not download if you have a newer version because the installer will just skip to the end without changing anything."
+,Ranguvar,2012-04-26T02:10Z,"Indigo, be sure of your facts before accidentally misleading people.
+
+GoG installers use different version numbers than the game itself.  The original was 1.0.0.6 (https://thepiratebay.se/torrent/7177984/Legend.of.Grimrock-RELOADED), this is 1.0.0.8.
+
+Just because the installer says 1.0.0.8 does not mean the game will be."
+,Ranguvar,2012-04-26T03:16Z,"Found the solution to the game still saying 1.1.3 -- delete your old grimrock.exe, dlls, grimrock.dat, etc. before installing.  Or rename them to .baks."
+,DarkkFate,2012-04-26T03:26Z,"Actually, I simply deleted the offending .dll file (the d3dx9_43 one) and ran the .exe from the GoG ""version"" of the folder, and voila! 1.1.4 with volume slider, quicksave, etc.
+
+Might be worth a try if you're getting those errors like I was.  Also, the installer does say 1.0.8 or w/e, it's in the documentation readme to ignore this.  It is 1.1.4 once you get rid of that pesky .dll file."
+,IndigoAK,2012-04-26T09:30Z,"@Ranguvar:
+
+Bitch shit pussy cunt motherfucker!
+
+(I stand corrected.)"
+,arrow_in_the_knee,2012-04-26T12:45Z,"listen to DarkkFate, it works!"
+,Captain_Zero,2012-04-28T17:25Z,"This works fine. It's the real 1.14 patch. Delete/rename the following from the game folder:
+- D3DX9_43.dll
+- FreeImage.dll
+- goggame.dll
+- grimrock.dat
+- grimrock.exe
+
+Run the patch from the game folder (as admin) and it replaces the files above. You now have 1.14 in the menu with all the fixes and extras."
+,ben_l_ssq,2012-05-02T20:17Z,"its not working, how to fix this? http://img189.imageshack.us/img189/6693/grimrocki.jpg"
+,xpk7,2012-05-04T14:34Z,"@ben_l_ssq: DX3DX9_43.DLL installed with this patch is for 64-bit OS, so replace it with the old one (for 32-bit OS), or find any DX3DX9_*.DLL file in your Windowssystem32 folder and copy it into LoG folder."
+,Atomsk1,2012-06-03T08:53Z,Is this the full game or just the update?
+,Kalypsis,2012-06-28T03:52Z,"For everyone with .dll problems, you can download a fixer that installs it here: https://thepiratebay.se/torrent/7393791"
+,GoodTunes,2012-07-14T11:17Z,"Works fine for me, just installed over the RELOADED version, nothing else.
+
+Don't see how you folks are having issues."
+,LeitorDeQuadrinhos,2012-07-22T19:42Z,I had two dll problems. I solved both with Dll Fixer from http://www.dll-files.com/. But now I'm having the following problem when I try to run the game: http://i637.photobucket.com/albums/uu96/D3M0D3M0/error.png Someone knows how to solve it? 

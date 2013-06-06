@@ -1,0 +1,19 @@
+FL Studio 10 What's New? 
+
+ΓÇó64 bit plugin support - The Wrapper now automatically detects 64 bit plugins and opens them in 64 Bit 'Bridged' mode (see below). 
+ΓÇó'New pattern' (+) button - On the Channel Window / Step Sequencer. Add a Pattern and open the naming window. 
+ΓÇóSmall scrollbars in editors - Smaller scrollbar for the Piano roll, Event Editor, Playlist etc. See F10 > General Settings. 
+ΓÇóHorizontal zoom - Improved Playlist, Piano roll & Event Editor. 
+ΓÇóImproved memory management - Two changes have been made to lower demands on FL Studio's memory allocation. 1. 32 & 64 Bit VST plugins can be opened in 'Bridged' mode. The maximum memory available to the plugin will be at least 2 Gb for 32 Bit Windows and up to 192 Gb depending on your version of 64 Bit Windows. 2. Audio Clips & Sampler Channels Keep on disk option now opens the sample in a separate memory allocation. Each Audio Clip / Sampler Channel can now load a sample of at least 2 Gb for 32 Bit & 64 Bit Windows versions. 
+ΓÇóImproved audio options - ASIO: 'Mix in bufferswitch' and 'Triple buffer' may improve performance with some ASIO drivers. ASIO/Primary Sound: Revised 'Playback tracking' options to help with alignment of visual & recorded events where soundcard problems exist. 
+ΓÇóAutosave / Autobackup - FL Studio can now be set to back up the current project at 5 to 15 minute intervals. Never lose project data again! 
+ΓÇóFL Studio Fruity Edition - Now gains access to Playlist Pattern Clips for unlimited scoring and automation flexibility. 
+
+Minimum System Requirements 
+
+* 2Ghz AMD or Intel Pentium 3 compatible CPU with full SSE1 support. The faster your CPU and more cores it has the more you will be able to do simultaneously. Download and test the demo! 
+* Windows 7, Vista, XP & 2000 (32 & 64 Bit) 
+* (or) Intel Mac with Boot Camp (running XP, Vista or Windows 7, 32 or 64 Bit) 
+* 1 Gb or more RAM recommended 
+* 1 Gb free disk space 
+* Soundcard with DirectSound drivers. ASIO/ASIO2 compatible required for audio recording (FL Studio installs with generic ASIO4ALL drivers) 

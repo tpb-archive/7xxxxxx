@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,baga255,2012-05-23T10:08Z,Doesnt work for me on Ubuntu 12.04. Keeps crashing when I try to run it from PlayOnLinux.
+,dotxz,2012-05-23T23:35Z,"@ baga255
+
+Hm, strange. Is there output in log files?
+
+However, I'm working on Office 2010 package.
+This one will work without playonlinux and will have installer."
+,mikolec,2012-07-03T10:05Z,"works great for me! thanks!
+
+there is one more thing to mention: in shortcuts folder edit each file and change ""/home/cookie"" so that instead of ""cookie"" there is your user name. :)"

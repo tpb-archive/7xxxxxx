@@ -1,0 +1,19 @@
+Programming Massively Parallel Computers - A Hands-on Approach
+by David B. Kirk and Wen-mei W. Hwu
+
+For those interested in the GPU path to parallel enlightenment,
+this new book from David Kirk and Wen-mei Hwu is a godsend, as it introduces
+CUDA, a C-like data parallel language, and Tesla, the architecture
+of the current generation of NVIDIA GPUs. In addition to explaining the
+language and the architecture, they define the nature of data parallel problems
+that run well on heterogeneous CPU-GPU hardware. More concretely,
+two detailed case studies demonstrate speedups over CPU-only C
+programs of 10X to 15X for na─▒┬¿ve CUDA code and 45X to 105X for expertly
+tuned versions. They conclude with a glimpse of the future by describing the
+next generation of data parallel languages and architectures: OpenCL and
+the NVIDIA Fermi GPU. This book is a valuable addition to the recently
+reinvigorated parallel computing literature.
+
+Published by Morgan Kaufman, an imprint of El$evier
+
+RIP library dot nu, RIP ifile dot it

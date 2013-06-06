@@ -1,0 +1,50 @@
+Finnish language version of Windows XP Professional SP3 32-bit
+- no serial and no activation needed, updated April 2012
+
+SUOMENKIELINEN WINDOWS XP PROFESSIONAL SP3 32-BIT HUHTIKUU 2012
+
+Integroitu Windows Updaten ensisijaiset päivitykset (päivitetty huhtikuu 2012).
+Integroitu Product Key -tunnus (ei tarvita Product Key -tunnusta asennuksessa).
+Integroitu aktivointi (ei tarvitse aktivoida asennuksen jälkeen).
+
+Tämä Windows XP läpäisee Windowsin aitoustarkistuksen.
+- Windowsin automaattiset päivitykset toimii.
+- Windows Updatesta onnistuu päivityksien asennus.
+- Microsoftin nettisivuilta onnistuu tiedostojen lataukset.
+
+Windows XP:n asennuksessa siinä vaiheessa kun ilmoitetaan että asennusta on jäljellä noin 13 minuuttia, niin asennus "jämähtää" paikoilleen noin 10 minuutiksi, koska silloin asennetaan Microsoft .NET Framework 2.0, 3.0, 3.5 ja 4.0 versiot.
+
+Lisäksi on integroitu seuraavat päivitykset.
+- Windows Media Player 11
+- DirectX 9.0c
+- Windows Installer 4.5
+- MSXML 4.0 SP3
+- Remote Desktop Connection 7.0 Client
+- exFAT file system format
+- Windows Feature Pack for Storage 1.0
+- Image Mastering API 2.0
+- User Profile Hive Cleanup Service 1.6g
+
+--------------------------------------------------------------------------------
+
+ISO-tiedoston koko on 688 Mt, joten polttaminen onnistuu myös 80 min CD-levylle.
+
+Kuinka poltan CD/DVD-levylle Windows XP:n käynnistyvän ISO-levykuvan?
+
+Polta ISO-levykuva ImgBurn poltto-ohjelmalla.
+- valitse "Write image file to disc"-painike.
+- valitse "Browse for a file"-kansiokuvake.
+- valitse ISO-levykuva ja klikkaa "Avaa"-painiketta.
+- laita tyhjä CD/DVD-levy asemaan.
+- "Write Speed"-alasvetovalikosta pienennä polttonopeutta maksiminopeudesta.
+- valitse "Write"-painike.
+
+--------------------------------------------------------------------------------
+
+Ennen Windows XP:n asennuksen aloittamista tarkista tietokoneen BIOS-asetuksista että SATA-ohjaimen tilana ei ole AHCI/RAID tai muuten Windows XP:n asennus keskeytyy virheilmoitukseen. Jos haluat käyttää SATA-ohjaimen AHCI/RAID-tilaa, niin silloin Windows XP:n asennuslevylle pitää integroida nLite ohjelmalla tietokoneen SATA-ohjaimen AHCI/RAID-ajuri.
+
+Integration of Intel's SATA AHCI and RAID drivers
+www.msfn.org/board/topic/107504-integration-of-intels-sata-ahci-and-raid-drivers
+
+Integration of NVIDIA's nForce RAID and AHCI drivers
+www.msfn.org/board/topic/51140-integration-of-nvidias-nforce-raid-and-ahci-drivers

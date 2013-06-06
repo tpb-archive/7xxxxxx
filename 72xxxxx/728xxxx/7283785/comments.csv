@@ -1,0 +1,81 @@
+﻿User Type,Username,Date,Text
+,Mustafa_NYC,2012-05-20T12:50Z,Thanks again!
+,Fritz1670,2012-05-21T05:29Z,Thanks for the file Ipmark. You're great!!
+,LAS918,2012-05-30T14:20Z,"Does this include lane assist?
+Thanks for your uploads!"
+,Ipmark,2012-05-30T17:32Z,"CNNANT 2013.10 Junction View file can be downloaded from this torrent
+http://thepiratebay.se/torrent/7261170/Garmin_CN_North_America_NT_2013.10_Unlocked_for_Mapsource
+
+Select for download only files you need."
+,saifxnyc,2012-06-10T06:55Z,"I download this unlocked img for my garmin nuvi 1450 how do i install this?
+i also downloaded this torrent along with the maps i just want the one i downloaded here or which ever one works fine but how do i go about installing it i don't see any tools working only have patched files for base camp and map install and i am not sure where to how to replace the map source after extracting please help "
+,saifxnyc,2012-06-10T06:56Z,"^this is other torrent i downloaded
+
+http://thepiratebay.se/torrent/7261170/Garmin_CN_North_America_NT_2013.10_Unlocked_for_Mapsource"
+,Ipmark,2012-06-10T07:49Z,"Unlocked IMG:
+Full format a SD with filesystem FAT32, create a folder named Garmin and copy on it the unlocked gmapsupp.img file map.
+
+Masource version:
+Install the package on the PC (CNNANT2013_10Update.msi), then apply the patches.
+Then install and patch Mapsource too, it will be useful to select a specific part of the map to send to the device (GPS)."
+,sonnytwins,2012-06-21T04:38Z,"This worked for me on my 7 year old Nuvi.  
+I had to delete the original map file  (gmapprom.img: 1 GB)  in order to make space on my 2 GB Nuvi for this new file.  I renamed this new file to gmapsupp.img (it is 1.7GB) and put it in the /Garmin/ directory on the Nuvi.  I also had to delete some unused languages and mp3's to make enough room for it to fit.  It worked like a charm.   Thanks so much for the upload!"
+,edmitchell,2012-06-24T17:15Z,"I do not have a garmin device, I just want to be able to view the maps using mapsoource or basecamp ( it doesn't really matter which.)I'm just looking for an offline mapquest sort of thing here. Anyways, I have downloaded this torrent and am unable to view the maps in mapsource or basecamp. I have already installed both programs and have put in the patched exe's. I have ran the mapset toolkit with cgpsmapper and keep getting the error: E032 Layer 0 cannot be empty. What does this mean?? I have also tried splitting the gmapsupp.img files with Gmaptool and then tried to load each of those files, but have had no success. I have already tried everything posted in this and other torrents' comment areas with similiar luck. Any help would be greatly appreciated. Thanks."
+,Ipmark,2012-06-24T19:08Z,"As I already wrote in the description, ""This map can be viewed on the PC using BaseCamp (USB drive, Garmin folder).""
+In other words, copy the map in a Garmin folder of a fully FAT32 formatted pendrive and start BaseCamp with the USB drive plugged in and select the map in the upper left corner of the program."
+,BeemerBiker2,2012-06-26T21:34Z,"When updating a 2720 or Garmin with no external memory, use sendmap20 to delete the existing map then use the webupdater to upload the unlocked map.
+C:GarminWebUpdaterWebUpdater.exe /upload_file rgn=49 path=C:Garmingmapprom.img -autorun usb /i
+
+ Directory of C:Garminsendmap
+2010-04-22  12:03 PM           815,104 sendmap20.exe"
+,micknet,2012-07-12T01:38Z,"Thanks for your help Ipmark.
+
+Could you tell me the difference between :
+
+http://thepiratebay.se/torrent/7283785/Garmin_CNNANT_2013.10_Full_Unlocked_IMG
+
+http://thepiratebay.se/torrent/7264723/Garmin_CN_North_America_NT_2013.10_Unlocked_IMG_Maps
+
+http://thepiratebay.se/torrent/7261170/Garmin_CN_North_America_NT_2013.10_Unlocked_for_Mapsource
+
+They are all named ""North_America_NT_2013.10"". How can I choose ?"
+,micknet,2012-07-12T01:45Z,"Thanks for your help Ipmark.
+
+Could you tell me the difference between :
+
+http://thepiratebay.se/torrent/7283785/Garmin_CNNANT_2013.10_Full_Unlocked_IMG
+
+http://thepiratebay.se/torrent/7264723/Garmin_CN_North_America_NT_2013.10_Unlocked_IMG_Maps
+
+http://thepiratebay.se/torrent/7261170/Garmin_CN_North_America_NT_2013.10_Unlocked_for_Mapsource
+
+They are all named ""North_America_NT_2013.10"". How can I choose ?"
+,daveh65,2012-08-04T19:05Z,"Hi Ipmark, I have just downloaded this torrent and wanted to delete the old file from my Nuvi 610, but my Garmin has only 415mb and the download is way larger. I have a micro sd card and an old Europe map that I don't use any more (2 gig), how do I put it onto the sd card. Many Thanks."
+,Ipmark,2012-08-05T08:28Z,"Decompress with Winrar the package.
+Copy the new gmapsupp.img in the SD's Garmin folder (replace the old one).
+Insert the memory card in the Nuvi's USB slot and switch on the GPS, check the new map in (wrench) System > Maps > Maps Info"
+,daveh65,2012-08-05T18:17Z,Thanks Ipmark. I think I found the problem. I did everything you said and my old map I mentioned was on a sd card that I can update with your download. I also have a sd card that I cannot update as it is write-protected and the tab is broken. So I now have a working update and a sd card that needs to be renewed. Thanks for your help.
+,Ipmark,2012-08-07T17:03Z,"Have you tried this repair method for your SD ?
+
+w_w_w_.y_o_u_t_u_b_e.c_o_m_/w_a_t_c_h?v=a_XkvkHDveo"
+,daveh65,2012-08-11T16:44Z,"Sorry, I meant to say the adapter (not sure what it is called) that the micro sd cards goes into is broke. The sd card is fine but when I put the sd card into the adapter then into the pc card reader it does not recognize it. I tried to transfer the files straight to the sd card but it won't. I have the maps now on a card that works great, even though it isn't fully updated as a street near my home in Denver isn't on, even though the street is 2 years old!!!!! But again thanks so much Ipmark."
+,daveh65,2012-08-12T01:18Z,"So I bought a new sd card (without the micro sd card) transfered the downloaded file and it works great.
+Thanks."
+,rigpig1,2012-08-17T02:40Z,Thanks Ipmark!
+,bbrum,2012-08-18T00:29Z,Does it include line assist ?
+,Ipmark,2012-08-20T15:48Z,"The Lane Assistant file is in another rottent
+http://thepiratebay.se/torrent/7261170/Garmin_CN_North_America_NT_2013.10_Unlocked_for_Mapsource
+
+The new release (2013.20) is out
+http://thepiratebay.se/torrent/7549741/Garmin_CN_North_America_NT_2013.20_Unlocked_IMG_Maps"
+,bbrum,2012-08-23T21:08Z,"Ipmark. thank you. Downloaded two releases.
+
+I am a little bit lost in all this software.  Could you please instruct how to install:
+1. 3D Buildings ?
+2. Line assistance ?
+
+I would appreciate"
+,Ipmark,2012-08-24T02:57Z,"3D buildings: same folder of thr road map
+JCV: it depends on GPS model, GarminJCV or MapJCV"
+,Ipmark,2012-08-24T02:59Z,Garmin(backslash)JCV or Map(backslash)JCV
+,KyleNZ,2012-09-22T00:19Z,"please help me ipmark please unlock image Garmin ive spent two weeks trying to get Topo Australia and New Zealand v3 Locked IMG (yes im retarded) ,2013 was easy. i love your work but i need it for offroad maps please  please do it and ill buy you a beer your a legend"

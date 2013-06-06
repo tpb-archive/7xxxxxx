@@ -1,0 +1,12 @@
+Quality is exactly the same as the DVD. (Why is the filesize so small? Ask the ffmpeg developers). 
+
+Input #0, matroska,webm, from 'There Was A Father.mkv':
+  Metadata:
+    ENCODER         : Lavf53.30.100
+  Duration: 01:26:57.44, start: 0.000000, bitrate: 618 k
+b/s
+    Stream #0:0: Video: h264 (High), yuv420p, 720x480 [S
+AR 8:9 DAR 4:3], 29.97 fps, 29.97 tbr, 1k tbn, 59.94 tbc
+ (default)
+    Stream #0:1: Audio: vorbis, 48000 Hz, mono, s16 (def
+ault)

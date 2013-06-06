@@ -1,0 +1,60 @@
+Movie:
+
+4.4/10
+
+
+Plot:
+     A video game developer's world spirals out of control when his shape-shifting indestructible virtual creation becomes all too real.
+
+
+File:
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 866 MiB
+Duration                                 : 2h 35mn
+Overall bit rate                         : 776 Kbps
+
+Video
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 35mn
+Nominal bit rate                         : 680 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.041
+Writing library                          : x264 core 120
+Default                                  : Yes
+Forced                                   : No
+
+
+Audio #1 - Hindi (Default)
+Audio #2 - Tamil 
+
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AACv2 / HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 35mn
+Channel(s)                               : 2 channels / 1 channel / 1 channel
+Channel positions                        : Front: L R / Front: C / Front: C
+Sampling rate                            : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 11ms
+Forced                                   : No
+
+Subs: none
+

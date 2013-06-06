@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,QuickQuests,2012-05-13T16:29Z,"PLEASE SEED GUYS,  my first torrents and just trying to take some .mkv files from other great submitters and make Drag and Drop Itunes-Apple TV files.  
+- NOTE ALL MY FILES ARE FULLY TAGGED JUST AS IF YOU DOWNLOADED THEM FROM THE ITUNES STORE!
+
+Let me know your thoughts what i could do better etc..  
+
+Don't forget to re-wind the file when you are done watching it."
+[T],tr108,2012-05-19T02:16Z,"You've got potential. :)
+
+Since you asked for thoughts: confirm (and, probably, adjust) the h.264 Profile your application is using. 
+
+It seems to me that you're using Baseline profile, which is resulting in your encode being so blocky and seemingly low-resolution. (Baseline Profile -- used by iPods and the AppleTV before Apple went HD -- supports only 1620 macroblocks, but a 1280px x 720px frame needs 3600)
+
+Anyways, output a High Profile 3.1 file if you're aiming for the 1st gen AppleTV. If you're aiming for either the AppleTV 2 or 3, output a  High Profile 4.0 file.
+
+Looking forward to your next encode."
+,QuickQuests,2012-05-23T00:34Z,"thank you for the comment, you are right.. i'm making adjustments!"

@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,KranK_,2012-04-23T01:01Z,These will not play on the WDHD Media Player...they lock it up.You need to do a reboot of the WDHD to be able to play any other files also.
+,dududus,2012-04-23T01:07Z,"Krank: try extracting audio and video, then rebuilt
+
+BOZX: thanks buddy!"
+,8ozzo,2012-04-25T17:28Z,"mkv files haven't worked on the WDHD Media Player for a long time, you have to use MKVMerge GUI and tick 'Disable header removal compression for audio and video tracks by default', then remux the file.
+Western Digital can't be bothered to update their firmware to properly support the mkv standard.
+It's ridiculous that something so simple can lock up the player."

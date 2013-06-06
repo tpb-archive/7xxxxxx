@@ -1,0 +1,31 @@
+Easy CD-DA Extractor is all-in-one music converter that:
+ΓÇó Rips Audio CDs
+ΓÇó Converts audio files from one format to another
+ΓÇó Edits metadata of audio files
+ΓÇó Burns Audio CDs, MP3 CD/DVDs, and Data CD/DVDs
+ΓÇó Makes identical copies of discs via Make Disc Image / Burn Disc Image features
+
+Easy CD-DA Extractor supports following audio file formats:
+ΓÇó 3G2; 3GP; AAC; AIFF; APE (Monkey's Audio); FLAC (Free Lossless Audio Codec); MP1; MP2; MP3 (MPEG Layer-3); M4A (AAC); M4A (aacPlus); M4A (Apple Lossless); M4B; MP4; MPC (Musepack); OGG (Ogg Vorbis); WAV; WMA (Windows Media Audio); WV (WavPack)
+
+System requirements:
+* Windows 2000, XP, 2003, Vista, or Windows 7
+* Intel Pentium II, AMD Athlon, or better
+* Compatible with Windows x86 and x64 platforms
+* Optical media drive for ripping audio CDs and for burning CDs and DVDs.
+* Soundcard recommended but not required
+* Screen resolution 1024x768 32-bit or higher recommended
+
+Changes in Easy CD-DA Extractor 2011.3:
+* Fixed the bug where data error was shown when ripping the last track even there was no actual data error
+* Fixed the bug where and symbols in Output Filename field was not loaded correctly from a profile when other than english-language was in use
+* Fixed the bug where mono input files were encoded to MP3 at double speed because MP3 encoder was always expecting stereo samples
+* Fixed the bug where cursor was not visible in the list editors when other than 96 dpi display mode (Windows large fonts) was enabled
+* Fixed the bug where some multi-language user interface components were translated wrong
+* Fixed the bug where some encoders, decoders, and metadata handlers were compiled with debugging info enabled -> performance improvements !
+* Added Play in default player on-double click feature (Audio Converter, Metadata Editor, Audio CD Burner, MP3 CD Burner)
+* Adjusted some user interface components default size and positions
+* Updated FLAC encoder, decoder, and metadata handler; compiled with the latest Ogg library v1.2.2
+* Updated Ogg Vorbis encoder, decoder, and metadata handler; compiled with the latest Vorbis library v1.3.2 and the latest Ogg library v1.2.2
+* Updated Monkey's Audio encoder, decoder, and metadata handler; compiled with the latest Monkey's Audio SDK 4.11
+* Re-compiled all encoders and decoders with SSE and SSE2 instruction sets enabled -> performance improvements !

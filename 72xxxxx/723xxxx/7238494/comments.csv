@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,kadgam,2012-05-03T21:00Z,how i can install this software?
+,brianxxx,2012-05-03T21:22Z,Nice! Thanks! Excellent program. I mostly prefer Acronis for work and for clients but Paragon is a nice alternate when needed.
+[V],nikita200,2012-05-03T23:37Z,"@kadgam
+
+Is a Boot CD (burn the iso and boot from CD)."
+,kadgam,2012-05-04T07:18Z,thanks
+,taha_213,2012-05-05T03:15Z,fine ..  - thanks.
+,taha_213,2012-05-05T03:16Z,fine .. - thanks.
+,xpmule,2012-05-05T03:50Z,"Would be VERY cool if we could get the normal install version, im still using,
+Paragon Partition Managerâ&#x201E;˘ 11 SE Personal
+which is always included in the HDM suite
+
+anyway Acronis sucks crap
+Paragon rules !"
+,asdf672001,2012-05-06T01:32Z,"Thank you - The boot repairer in this program fixed the problem in my dual boot set up -  I knew when i added XP to Win 7 that it would cause problems booting but Paragon came to the rescue.
+This is a valuable piece of kit."
+,glazdoz,2012-06-08T23:22Z,"Maybe I'm idiot,(or beginner)  but I can not. Would You help me by few word?"
+,d3w10n,2012-06-15T16:41Z,This software provides an awesome fix where Acronis cannot find adequate drivers for image deploy 
+,Daniel_01,2012-06-20T08:20Z,"Thanks! Paragon HDM is premium software. Is there a full retail version available? (don't have a way to buy online by now!). I have HDM 2010 Pro installed on Win7 x64, will it be enough to handle the newest HDD/OS technologies well? It is good to have a boot disk, but I also use it under Windows to backup disks/partitions and browse created archives. I use the boot disk almost exclusively to restore OS partition. Using this boot disk, can I browse backup archives created with Paragon HDM? Thanks again!"
+,sithlord79,2012-06-20T10:24Z,can this fix a clicking/ticking hdd? sorry for being noob...
+,TCPIP6,2012-06-26T03:11Z,"the heads slapping, get new heads into the old HDD chassis. get an identical drive from ebay... good luck"
+,padme99,2012-06-30T04:55Z,I burnt the ISo twice with nero but both the copies failed verification. Do I need to burn this CD with a specific app? Anyone else having problems with burning this image?
+,jjnhl68,2012-06-30T19:57Z,"I was using Acronis for several years. Old versions were perfect in back up / restore tasks. Newer no so reliable. I have read your comments, decided to try this software and my first impression after try to restore backup are no so god. It is slow as hell and after one our I stopped it. Not sure if I have to disable antivirus!? I'll do it, have another attempt and in case it failed too, going back with Acronis. Restoring image in 10 min (OS partition)."
+,jjnhl68,2012-06-30T19:58Z,"@ padme99 I usually burn these kind of stuff with imgburn with slow speed (4X, or 2X). Same with OS images"
+,BugsABunny,2012-07-05T23:36Z,"PATH TO SMALL LINUX BASED ISO
+
+Paragon.Hard.Disk.Manager.12.Professional.[...].isoSOURCESBOOT.WIMPrograms
+
+Paragon SoftwareISObootcd.iso
+
+Grub4DOS: menu.lst:
+title Paragon Festplatten-Manager 12 Pro ISO (10.0.19.15177)
+map --mem /BootIMGs/bootcd.iso (hd32)
+map --hook
+chainloader (hd32)
+boot"
+,BugsABunny,2012-07-05T23:38Z,"PATH TO SMALL LINUX-BASED ISO
+
+Paragon.Hard.Disk.Manager.12.Professional.[...].iso/SOURCES/BOOT.WIM/Programs/Paragon Software/ISO/bootcd.iso
+
+Grub4DOS: menu.lst:
+title Paragon Festplatten-Manager 12 Pro ISO (10.0.19.15177)
+map --mem /BootIMGs/bootcd.iso (hd32)
+map --hook
+chainloader (hd32)
+boot"
+,clifperrin,2012-08-10T01:17Z,Would someone please advise me.  I booted to an external dvd boot disc and created a full system backup on DVD's.  Now when I boot to the boot disc I am unable to figure out the procedure for restoring the system.  
+,clifperrin,2012-08-10T18:59Z,"I now know how to restore.  You boot to the 1st disc in the Backup set and follow the menu.  I had a 37% fragmented hard drive which Disktrix and Windows were unable/unwilling to defrag.  Running Paragon Defrag (from the 1st Backup Disc and booted directly there) the Hard Drive is now at 1%, verified by Disktrix.  Wow!!!  Thank you Nikita."
+,neoXank,2012-09-01T20:43Z,Works flawless.. As always.
+,QasimAwan,2012-09-11T09:58Z,"Can not be installed, I think you have to burn it on CD then run it on boot......................
+
+
+CRAP"
+,SummondSkull,2012-09-22T19:02Z,"Hi nkikta200,
+I wish if you can answer my question:
+
+How can burn this file in Windows XP SP3?
+
+I try to convert *.wim file to *.iso by using PowerISO v5.4 but it can't?
+
+Please, my hard say grrrrrr and I want to fix it?"

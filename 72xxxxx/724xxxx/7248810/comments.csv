@@ -1,0 +1,55 @@
+﻿User Type,Username,Date,Text
+,micron66,2012-05-07T15:43Z,"Resolution is 600x404 and not 720x404 (as mentioned in the info above)
+
+
+General
+      Complete name : Game.of.Thrones.S02E06.HDTV.x264.AAC-SSN.mkv
+      Format : Matroska
+      File size : 487 MiB
+      Duration : 56mn 32s
+      Overall bit rate : 1 205 Kbps
+      Writing application : mkvmerge v5.5.0 ('Healer') built on Apr  6 2012 21:43:24
+      Writing library : libebml v1.2.3 + libmatroska v1.3.0
+
+Video #1
+
+      Format/Info : Advanced Video Codec
+      Format profile : High@L4.1
+      Format settings, CABAC : Yes
+      Duration : 56mn 29s
+      Nominal bit rate : 1043 Kbps
+      Width : 600 pixels
+      Height : 404 pixels
+      Display aspect ratio : 16:9
+      Frame rate : 23.976 fps
+      Resolution : 24 bits
+      Colorimetry : 4:2:0
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.179
+
+Audio #2
+      ID : 2
+      Format : AAC
+      Format/Info : Advanced Audio Codec
+      Format version : Version 4
+      Format profile : LC
+      Format settings, SBR : No
+      Codec ID : A_AAC
+      Duration : 56mn 32s
+      Channel(s) : 2 channels
+      Channel positions : L R
+      Sampling rate : 44.1 KHz
+      Resolution : 16 bits
+      Video delay : 10ms"
+[T],somespirit,2012-05-07T17:07Z,"are you sure or just kidding:
+
+Width : 600 pixels
+Height : 404 pixels
+Display aspect ratio : 16:9
+
+this makes display resolution of exactly 720x404"
+[T],somespirit,2012-05-07T17:18Z,"Width : 600 pixels
+Height : 404 pixels
+Display aspect ratio : 16:9
+
+600x404 is Storage Aspect Ratio but Display Aspect Ratio is 16:9 so actual display size is 720x404"

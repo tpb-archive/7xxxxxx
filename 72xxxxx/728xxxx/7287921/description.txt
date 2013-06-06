@@ -1,0 +1,51 @@
+  http://www.scenespeeds.com/	
+
+
+Format: AVI
+Format/Info: Audio Video Interleave
+File size: 1.32 GiB
+Duration: 1h 29mn
+Overall bit rate: 2 107 Kbps
+Writing library: VirtualDub build 32661/release
+
+Video
+ID: 0
+Format: MPEG-4 Visual
+Format profile: Advanced Simple@L5
+Format settings, BVOP: Yes
+Format settings, QPel: No
+Format settings, GMC: No warppoints
+Format settings, Matrix: Default (MPEG)
+Codec ID: XVID
+Codec ID/Hint: XviD
+Duration: 1h 29mn
+Bit rate: 1 988 Kbps
+Width: 720 pixels
+Height: 400 pixels
+Display aspect ratio: 16:9
+Frame rate: 24.234 fps
+Original frame rate: 24.000 fps
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.285
+Stream size: 1.24 GiB (94%)
+Writing library: XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID: 1
+Format: MPEG Audio
+Codec ID: 55
+Codec ID/Hint: MP3
+Duration: 1h 26mn
+Bit rate: 112 Kbps
+Channel(s): 2 channels
+Sampling rate: 48.0 KHz
+Stream size: 68.2 MiB (5%)
+Alignment: Split accross interleaves
+Interleave, duration: 25 ms (0.61 video frame)
+Interleave, preload duration: 3520 ms
+
+
+  http://www.scenespeeds.com/	

@@ -1,0 +1,41 @@
+This is updated to March 2012 using the ODB update from http://www.champman0102.co.uk and patched with tapani 2.19.
+
+Update changes (http://www.champman0102.co.uk/downloads.php?do=file&id=46)
+
+* 1000's of transfers of worldwide tranfers
+* Vast majority of Scouting Forum updated
+* England completely updated
+* English lower leagues major overhaul
+* Italy completely updated
+* Portugal completely updated
+* Croatia completely updated
+* Holland completely updated
+* France completely updated
+* World and International Caps and Reps Updated
+* Formations updated for managers of Worlds top clubs
+* Huge amount of contracts updated
+* 100's of the worlds best young talents and emerging players added
+* Histories updated for 100's of players
+
+Tapani patch changes (http://www.champman0102.co.uk/showthread.php?70-What-does-the-Tapani-Patch-change):
+
+1.Changes leagues structures(Italian leagues,Brazilian,etc.)
+2.Changes leagues names(German Bundesliga,English leagues,etc.)
+3.Makes the English Conference North playable
+4.Adds colored attributes like in FM series
+5.Changes the game speed
+6.Changes the game start year
+7.Disables the unprotected contracts feature
+8.Improves the AI tactics
+9.Makes more nations manageable
+10.Changes TV prizes
+11.Improved regen attributes (took quite some while to tune them well)
+12.Proper CPU idling when game is inactive - i.e. does not take 100% CPU all the time (good for laptops and temperature controlled fans)
+13.Top right 'X' exits game
+14.PgDn key forces the game to continue (good for multiplayer, only server can use this)
+15.Removed cheat codes and month-to-month contract abuses (workarounds might exist though)
+16.Trial players invisible for other human managers, also holidaying human teams are slightly more yellowish in league tables
+17.Players training counters are not set to 'untrained' when the game starts
+18.Optional hiding of non-public bids (the way they were intended)
+
+Just unpack the zip file and run cm0102.exe to play. It will unpack to around 300 MB. Run cmpatcher-2.19 to modify the tapani settings. Don't change the start year to 2011 or you will get errors.

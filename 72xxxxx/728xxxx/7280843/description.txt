@@ -1,0 +1,52 @@
+Formato                          : Matroska
+Tamaño del archivo               : 1,78GIB
+Duración                         : 59min.
+Tasa de bits total               : 4 256Kbps
+Película                         : Hijos de la Anarquía 4x01 - Fuera [720p.WEB-DL.AC3.Spanish.batusizoe]
+Fecha de codificación            : UTC 2012-05-19 02:19:21
+Aplicación de codifición         : mkvmerge v2.1.0 ('Another Place To Fall') built on Aug 19 2007 13:40:07
+Librería de codificación         : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Formato                          : AVC
+Formato/Info                     : Advanced Video Codec
+Formato del perfil               : High@L3.1
+Ajustes del formato, CABAC       : No
+Ajustes del formato, RefFrames   : 2marcos
+Modo Muxing                      : Container profile=Unknown@3.1
+ID Códec                         : V_MPEG4/ISO/AVC
+Duración                         : 59min.
+Tasa de bits                     : 3 979Kbps
+Ancho                            : 1 280pixeles
+Alto                             : 720pixeles
+Relación de aspecto              : 16:9
+Velocidad de cuadro              : 23,976fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8bits
+Tipo de exploración              : Progresivo
+Bits/(Pixel*cuadro)              : 0.180
+Tamaño de pista                  : 1,66GIB (93%)
+Título                           : Hijos de la Anarquía 4x01 - Fuera
+Idioma                           : Inglés
+colour_primaries                 : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+transfer_characteristics         : BT.709-5, BT.1361
+matrix_coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+ID Códec                         : A_AC3
+Duración                         : 59min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 192Kbps
+Canal(es)                        : 2canales
+Posiciones del canal             : Front: L R
+Velocidad de muestreo            : 48,0KHz
+Tamaño de pista                  : 82,0MB (5%)
+Título                           : [720p.WEB-DL.AC3.Spanish.batusizoe]
+Idioma                           : Español
+

@@ -1,0 +1,59 @@
+Webrip from nick.com.
+
+Concatenated with MP4Box, remuxed to MKV with ffmpeg.
+
+General
+Unique ID                      : 198549828773412973424917532798038334880 (0x955F4E5A85D280BA0F2F98A4F8985DA0)
+Complete name                  : The.Legend.Of.Korra.S01E03.The.Revelation.WEBRip.720p.x264-ANON.mkv
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 406 MiB
+Duration                       : 23mn 42s
+Overall bit rate mode          : Variable
+Overall bit rate               : 2 394 Kbps
+Encoded date                   : UTC 2012-04-21 17:10:45
+Writing application            : Lavf54.3.100
+Writing library                : Lavf54.3.100
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.2
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 23mn 42s
+Bit rate mode                  : Variable
+Maximum bit rate               : 6 808 Kbps
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 29.970 fps
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Default                        : Yes
+Forced                         : No
+Encoded date                   : UTC 2012-04-21 17:07:09
+HANDLER_NAME                   : Imported with GPAC 0.4.6-DEV (internal rev. 5)
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : HE-AAC / LC
+Codec ID                       : A_AAC
+Duration                       : 23mn 42s
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz / 22.05 KHz
+Compression mode               : Lossy
+Delay relative to video        : 1mn 5s
+Default                        : Yes
+Forced                         : No
+Encoded date                   : UTC 2012-04-21 17:07:15
+HANDLER_NAME                   : Imported with GPAC 0.4.6-DEV (internal rev. 5)
+

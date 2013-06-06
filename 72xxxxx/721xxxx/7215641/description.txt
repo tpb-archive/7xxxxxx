@@ -1,0 +1,18 @@
+This is port of CyanogenMod 9 for Android device.
+
+What works:
+    Wifi, GPS, 3G, 3D acceleration, compass, proximity senson, accelerometer, video playback (in LQ), trebuchet
+
+What doesn't work:
+    camera.
+
+How to install
+
+1. You must have ClockWorkMod recovery (CWM) installed.
+2. Copy .zip file into phone's SD-card.
+3. Go to CWM: turn the phone off, press and hold central button and power button.
+4. In CWM choose "Install zip from SD-card" with volume buttons. To select press central button.
+5. Select .zip file from list and press central button, then select "instal ...zip" and press central button again.
+6. Wait until installation finished and choose "reboot the phone now" with central button.
+7. Wait until phone is boots up and set up Android.
+8. Enjoy.

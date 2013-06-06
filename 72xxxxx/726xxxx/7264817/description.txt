@@ -1,0 +1,56 @@
+All six HBO Episodes:
+
+1. The Search for Inspirado
+2. Angel in Disguise
+3. Death of a Dream
+4. The Greatest Song in the World
+5. The Fan
+6. Road Gig
+
+
+
+
+Format : AVI
+Format/Info : Audio Video Interleave
+Overall bit rate : 942 Kbps
+Writing library : VirtualDub build 18160/release
+Video
+ID : 0
+Format : MPEG-4 Visual
+Format profile : Simple@L3
+Format settings, BVOP : Yes
+Format settings, QPel : No
+Format settings, GMC : No warppoints
+Format settings, Matrix : Default (H.263)
+Muxing mode : Packed bitstream
+Codec ID : XVID
+Codec ID/Hint : XviD
+Bit rate : 883 Kbps
+Width : 320 pixels
+Height : 240 pixels
+Display aspect ratio : 1.212
+Frame rate : 29.970 fps
+Resolution : 24 bits
+Colorimetry : 4:2:0
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.383
+Stream size : 92.4 MiB (94%)
+Writing library : XviD 1.0.3 (UTC 2004-12-20)
+
+Audio
+ID : 1
+Format : MPEG Audio
+Format version : Version 2
+Format profile : Layer 3
+Format_Settings_Mode : Joint stereo / Intensity Stereo + MS Stereo
+Codec ID : 55
+Codec ID/Hint : MP3
+Bit rate mode : Constant
+Bit rate : 48.0 Kbps
+Channel(s) : 2 channels
+Sampling rate : 22.05 KHz
+Resolution : 16 bits
+Stream size : 5.00 MiB (5%)
+Alignment : Split accross interleaves
+Interleave, duration : 33 ms (1.00 video frame)
+Interleave, preload duration : 502 ms

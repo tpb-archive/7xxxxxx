@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+[T],bill_214,2012-04-25T16:06Z,"It's a GOD DAMNED SHAME that you don't know what the fuck you're doing son...
+
+...I'd love to get some of your uploads but absolutely NOTHING you upload EVER gets seeded.
+
+IF you are downloading the .torrent file you upload from the page after you upload it (deleting the one you uploaded, and of course NOT simply adding the trackers to the one you just uploaded) then you need to check your settings.
+
+You're just wasting everyone's time by putting torrents up that you are not seeding properly.
+
+If you need some tech support with that I'll be glad to help you, leave me a message on one of your porn DVDR torrents and I'll get back to you and we can move the discussion over to the forum where I can help you fix whatever issue it is that you are having.
+
+It's obvious that you're trying hard to put some good stuf up but it's just not working....."
+,tom2211,2012-04-25T21:03Z,ok need help to fix thim
+[T],bill_214,2012-04-28T08:00Z,"What I'm seeing is on seed (sometimes two, but that means you're probably just restarting your client and the tracker hasn't caught up to you yet, meaning both seeds showing are actually you)
+
+This means you are seeding, but not actually connecting to the swarm, so you're not uploading.
+
+Try reading through what I wrote above... if that doesn't seem to apply (make sure you do read and understand it... it's not complicated but you might have to think about what it is exactly that I'm saying)
+
+If that doesn't seem to apply here, then you may have either a port forwarding issue or maybe it's as simple as attempting to download too many files while you're uploading.... meaning you may not have enough bandwidth for that many files.
+
+Another thing that can cause this issue is an incorrect firewall setting...
+
+...if you are using most versions of uTorrent (or a clone of it in BitTorrent) then you should go to options/preferences/connection and make sure that the boxes marked ""enable UPnP Port Mapping"" and the other one ""Enable NAT-PMP Port Mapping"" are both checked.... be sure to click ""apply"" when you exit or the settings wont take... this allows your client to map the port (or ""forward"" the port) when you start your bit torrent client. Then close and restart your client.
+
+Also in that same place you will see a place to check ""Randomize port each start"" ... It's a good Idea to check this too, but still sometimes you might try hitting the ""Random Port"" button or entering a value and then clicking ""apply"" and then watching your speeds for a few minutes to see if they improve.
+"
+[T],bill_214,2012-04-28T08:01Z,"In your windows firewall settings you want to make sure that you client is listed (for instance if you're using uTorrent you should see ""uTorrent"" listed in the firewall exceptions... if not (and you have checked the boxes I mentioned) you should be able to restart your client and it should be there.... or if it's already listed make sure it's not listed twice, either way you might try deleting that entry and restarting your client and it should be there... alternatively you can deleted the listing and then enter it manually.
+
+Sometimes setting get messed up somehow and the only way to fix it (or just the easiest) is to re-install your client, or drop back to an older version and reinstall the one you are using... sometimes this fixes things as when it's re-installed the setting are set again from scratch.
+
+Yet one more troubleshooting tip is to install another bit torrent client and load the torrent file in that one and see if it works... if it does then it's for sure that you have a setting that's wrong somewhere... for instance I use uTorrent but also have BitTorrent installed as well. I noticed that my uploads were just sitting there as yours are, without doing anything, so I loaded the torrent files into Bit torrent and pointed it toward where I had the files stored and they began uploading at high speeds... this told me I had a settings issue with my preferred client and gave me confirmation it was a settings issue.
+
+Try this stuff and see if that works... if I see you are uploading on this file then I will assume you figured it out:
+
+http://thepiratebay.se/torrent/7192959/The_Monster_Tits_Collection
+
+If none of this works then we probably should coordinate a time to get to the forums and we can can help you via PMs and we can do screenshots there as well.
+
+To that end, I am on US Central time so I am completing this post at 12:57 AM Central Time. I can probably work out a time on your schedule that would work for you as I have a flexible schedule myself.
+
+You have some really good stuff, I'd love to be able to get it.
+
+http://www.nutorrent.com/help.php"
+[T],bill_214,2012-04-28T08:02Z,"In your windows firewall settings you want to make sure that you client is listed (for instance if you're using uTorrent you should see ""uTorrent"" listed in the firewall exceptions... if not (and you have checked the boxes I mentioned) you should be able to restart your client and it should be there.... or if it's already listed make sure it's not listed twice, either way you might try deleting that entry and restarting your client and it should be there... alternatively you can deleted the listing and then enter it manually.
+
+Sometimes setting get messed up somehow and the only way to fix it (or just the easiest) is to re-install your client, or drop back to an older version and reinstall the one you are using... sometimes this fixes things as when it's re-installed the setting are set again from scratch."
+[T],bill_214,2012-04-28T08:03Z,"Yet one more troubleshooting tip is to install another bit torrent client and load the torrent file in that one and see if it works... if it does then it's for sure that you have a setting that's wrong somewhere... for instance I use uTorrent but also have BitTorrent installed as well. I noticed that my uploads were just sitting there as yours are, without doing anything, so I loaded the torrent files into Bit torrent and pointed it toward where I had the files stored and they began uploading at high speeds... this told me I had a settings issue with my preferred client and gave me confirmation it was a settings issue.
+
+Try this stuff and see if that works... if I see you are uploading on this file then I will assume you figured it out:
+
+http://thepiratebay.se/torrent/7192959/The_Monster_Tits_Collection
+
+If none of this works then we probably should coordinate a time to get to the forums and we can can help you via PMs and we can do screenshots there as well.
+
+To that end, I am on US Central time so I am completing this post at 12:57 AM Central Time. I can probably work out a time on your schedule that would work for you as I have a flexible schedule myself.
+
+You have some really good stuff, I'd love to be able to get it.
+
+http://www.nutorrent.com/help.php"
+[T],bill_214,2012-04-28T08:10Z,"LAST THING I can think of right offhand that's really easy to check is if you have too many files set to ""forced start"" then you could be using up all your slots and might need to st a few of them to ""start"" awhile until some of you uploads complete.
+
+also not that sometimes sttting uploads to ""initial seeding"" actually stops of slows them down and if you un-check that box and it immediately takes off then that's the issue. "

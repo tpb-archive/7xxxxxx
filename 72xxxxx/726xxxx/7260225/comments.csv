@@ -1,0 +1,209 @@
+﻿User Type,Username,Date,Text
+,Coldblackice,2012-05-18T00:24Z,"So does that mean that this program is unusable (without the SID)?
+
+If it's unusable, what's the point of torrenting it?"
+,Doubzstep,2012-05-18T00:29Z,"http://www.m*e*d*i*a*f*i*r*e.com/view/?0zdrkzpermzmo3n
+
+Here is the SID for x64bit users!
+
+Doubt me now..
+
+-Doubzstep"
+,Coldblackice,2012-05-18T10:48Z,"I wasn't at all saying that in any sort of ungrateful tone, of course! :)
+
+But wow, how/where did you find a working SID file??"
+,Coldblackice,2012-05-18T11:02Z,"Additionally, why is this version 3x as large as 9.2? Surely they haven't packed that much more into this new version?
+
+Is this perhaps the actual ""installed"" program, uncompressed and installed into its destination folder (before RARing it all up)?"
+,Doubzstep,2012-05-18T18:41Z,"It is three times bigger because it is now for x64 bit systems the only reason that you are downloading this one. And I found it on source number 2 in the description above. So, there you go!"
+,vksagar82,2012-05-19T16:34Z,Hi Doubzstep. Since you are the only seeder for this particular Program i request you to please come online. My download has been stuck to 93% since the last 3 days.
+,Doubzstep,2012-05-20T03:36Z,"Sorry. Been away for a while. Seeding at 200-500 kbps now.
+"
+,gabriel.angelfire,2012-05-20T07:18Z,"Thanks very much for this Doubzstep, very much appreciated; we're just waiting for that Enterprise Guide 5.1 now.... Just kidding.. :)  well.. you know... just in case.
+
+It took awhile but I finally finished. I'll be seeding it now constantly. I can't upload at 400k but 100k I think I can squeeze out of my net. May take awhile but it'll end eventually."
+,Doubzstep,2012-05-20T09:16Z,"Personally, the Enterprise Guide is for morons who cannot figure out SAS. That is why it is a guide until you understand SAS and its programming then you can move on. So, using Enterprise Guide 4.1 or in this torrent 4.3, you should use it enough in order to know and use SAS 9.3 to its fullest.
+
+GO SEEDERS GO!!!"
+,Doubzstep,2012-05-20T09:24Z,Proof of SAS Enterprise Guide 4.3: http://i1117.photobucket.com/albums/k585/JugzG0nn4G3tY4/Torrent%20pics/sas_enterprise_guide_4_3.png
+,Coldblackice,2012-05-20T11:17Z,Deployment plan? Which is preferable to choose/use?
+,Coldblackice,2012-05-20T14:49Z,"So many different types of deployment plans to choose from :/ 
+
+Doubz, which do you use? What's a good, all-around, ""standard"" type of plan? There are so many miscellaneous software packages, it's difficult to know which one is pretty standard.
+
+And is it required/necessary for one to install one of the webservers, as well? (like JBoss, WebSphere, etc.)"
+,Doubzstep,2012-05-20T16:36Z,"When I installed, I installed everything to see if it would work, and everything installed except for one thing about 32bit infrastructure or something.
+
+I would just do a standard install with SAS Base, Enterprise Guide, Graphs, and Universal Viewer. You can probably not install all the web services and infrastructures if I had to pick which ones you were not to choose."
+,Coldblackice,2012-05-20T23:11Z,"...but there's no choice for a simple, plain install such as what you described. There are only these (odd looking) deployments available, and each installs a ton of SAS products:
+
+http://support.sas.com/demosdownloads/sysdep_t6.jsp?packageID=000803&jmpflag=N"
+,Coldblackice,2012-05-20T23:28Z,"(not sure why my previous comment got deleted)
+
+Doubz, there isn't any ""standard"" or ""base"" install. You have to choose a particular ""deployment"", like AppDev, EBI Server, BI, DI, etc.
+
+Each of the deployments install a ton of SAS products, and they all obviously include the base software of SAS base, EGuide, etc.
+
+But sadly, there's no simple, base install that one can choose. Do you remember which deployment you chose? There's a list of them on SAS' support site; I tried linking to it."
+,Doubzstep,2012-05-21T04:46Z,"INSTALL DIRECTIONS:
+
+Step 01. Extract .rar file.
+Step 02. Run setup.exe as administrator.
+Step 03. Choose Language (I use English).
+Step 04. Under the ""End User Tasks"" choose the bullet ""Install SAS Software.""
+Step 05. Choose ""Install SAS Foundation and Related Software"" option.
+Step 06. Select WHATEVER products you need by clicking on the left hand side.
+         (A check mark will appear once you select an option.)
+Step 07. Either select all or only products you need for the ""SAS Foundation Products.""
+Step 08. Navigate to the SID file found here: http://www.m*e*d*i*a*f*i*r*e.com/view/?0zdrkzpermzmo3n (minus the *'s)
+Step 09. Select any additional languages you want to install.
+Step 10. I do not know what port number you want. Go default if you are unsure.
+Step 11. Let it check system.
+Step 12. If there are errors, it is more than likely you do not have Admin permissions.
+Step 13. Press ""Start"" to install.
+
+I had one error in the whole lot and I did a total full install.
+
+Best regards...
+
+-Doubzstep"
+,Coldblackice,2012-05-21T05:12Z,"Ahh, ok... you chose that installation path. I was choosing the default top selection, a Planned Deployment, thinking that was the standard way to get the base packages installed.
+
+Gosh, there are a lot of different software options available. Obviously, I personally probably only need the base packages you mentioned. But just curious, do you use many of the other software options available? There are so many of them!"
+,gabriel.angelfire,2012-05-21T23:11Z,"Coldblackice , yes, there is a shit load of additional stuffs. I don't know, either install the whole thing or only select the products if you know exactly what they mean.
+
+Doubzstep, you have Guide AND Miner in this. Whoa!!! Should put that in the title man, awesome. I actually need the Enterprise Miner, but since I know it's impossible to get it, NEVER seen it for downloading, I talked about the Guide since it accomplishes a lot of things for modelling.
+
+Now, as to the Miner, it asks for a URL that identifies the environment which I have no clue what it is about. Could anyone help?
+
+Again Doub, thanks for all this. SAS + Miner + Guide. We salute you."
+,Coldblackice,2012-05-24T06:45Z,"Thanks Gabriel.
+
+And likewise, Miner doesn't work either, asking for the URL.
+
+Any insnight?"
+,Doubzstep,2012-06-01T00:35Z,"If you do not know what URL to use in Miner, then you probably do not need this program.. Just saying."
+,Coldblackice,2012-06-11T03:13Z,"^Use the workstation, not the client. 
+
+I imagine the clients use are for distributed computing."
+,xxAVIxx,2012-06-17T16:02Z,Hello :) I have this problem with installation. I'm in this moment when I have to specify the path for Java Development Kit and I don't know what should I put there :/ I downloaded and installed this Java Kit but every path I choose is wrong... Please help
+,Doubzstep,2012-06-18T23:31Z,@xxxAVIxxx: Try C:/Program Files (x86)/SAS/Java Development Kit
+,gabriel.angelfire,2012-06-20T01:31Z,""" If you do not know what URL to use in Miner, then you probably do not need this program.. Just saying."" 
+
+What? What does that have to do with anything? I work with data mining and creating mathematical models and like the E Miner, what does the URL I don't know has to do with the fact I don't need t he program?
+
+""^Use the workstation, not the client. "" - Coldblackice
+Tried that, it loads, I can create projects and even run codes in the editor, but when I try to open a model it asks for the damn URL again just like in the Client."
+,jjjoohyun,2012-06-20T07:36Z,Somebody seed plzzzzz getting under 10 kbps for past couple of days and now stuck at 24% :(
+,dicentiu,2012-06-20T11:46Z,Enterprise Miner is included ? it works ?
+,Doubzstep,2012-06-21T23:19Z,"@jjjoohyun Ask, and you shall receive! 
+@gabriel.angelfire I honestly don't know what it is used for... I am just a pirate :) Hope you can find someway to get it to work though. Sorry I could not be of further assistance.
+@dicentiu Here are all the possibilities for install choices: http://i1117.photobucket.com/albums/k585/JugzG0nn4G3tY4/Torrent%20pics/SASChoices.jpg
+
+Enjoy guys."
+,shokir,2012-06-22T16:42Z,"Hi everyone, 
+
+I'm having a problem with the installation. When I start setup and get to the Flash Screen which says SAS Deployment Wizard, the progress bar goes half way and then the screen disappears and the whole installation stops like it was not even initiated. Did anyone encountered anything similar to what I described ? 
+If not, what would be a possible cause for such a problem ?
+
+Thank you all in advance."
+,shokir,2012-06-22T16:56Z,"Hello everyone,
+
+I'm having a problem with installation. When I start setup and SAS Deployment Wizard screen appears the progress bar goes half way through and then the window just disappears without and installation stops. I tried installing it number of times and it always stops at the same point. Anyone has any idea what might cause this problem.
+
+Thank you for your responses in advance."
+,go45cvi,2012-06-23T17:46Z,"@Doubzstep
+
+Can you seed the sid file?"
+,guru,2012-06-25T18:47Z,MY sstem is running on 32 bit OS but it supports 64 bit ..can i install this program???
+,guru,2012-06-25T19:13Z,SAS Foundation is missing in the list of products avaialble for installation...pls help anyone..what could be the reason!!!!!!!
+,guru,2012-06-25T19:25Z,@Doubzstep...I have downloaded the software but all the products there in the possibilities for install choices given by you are not there in the package...most importantly SAS FOUNDATION is missing ...please help me out ..thanks in advance
+,Doubzstep,2012-06-26T04:55Z,"@go45cvi, Yes: http://thepiratebay.se/torrent/7387762
+
+@rajinkumar, Follow this and it may help you:
+
+""
+INSTALL DIRECTIONS:
+
+Step 01. Extract .rar file.
+Step 02. Run setup.exe as administrator.
+Step 03. Choose Language (I use English).
+Step 04. Under the ""End User Tasks"" choose the bullet ""Install SAS Software.""
+Step 05. Choose ""Install SAS Foundation and Related Software"" option.
+Step 06. Select WHATEVER products you need by clicking on the left hand side.
+(A check mark will appear once you select an option.)
+Step 07. Either select all or only products you need for the ""SAS Foundation Products.""
+Step 08. Navigate to the SID file found here: http://www.m*e*d*i*a*f*i*r*e.com/view/?0zdrkzpermzmo3n (minus the *'s)
+Step 09. Select any additional languages you want to install.
+Step 10. I do not know what port number you want. Go default if you are unsure.
+Step 11. Let it check system.
+Step 12. If there are errors, it is more than likely you do not have Admin permissions.
+Step 13. Press ""Start"" to install.
+""
+
+If not, try this torrent for your x86 or x32bit system: http://thepiratebay.se/torrent/7045274/SAS_9.2___September_2012"
+,Doubzstep,2012-06-26T04:57Z,"For people needing JUST THE SID FILE for x64:
+
+http://thepiratebay.se/torrent/7387762/SID_File_for_SAS_x64_Systems_-_Dec2012
+
+Enjoy!!!"
+,guru,2012-06-26T17:09Z,@Doubzstep ..thanks for the reply..if you dont mind my one more question is my system is running on 32 bit OS but it supports 64 bit ...when i tried to install 9.3 i did not get the SAS Foundation in the selection list what could be the reason???? I got some 53 list of softwares for selection however SAS Foundation was missing in them.
+,go45cvi,2012-06-29T00:27Z,Awesome. Thanks dude.
+,guru,2012-06-29T12:10Z,"@Doubzstep ...I am not getting all the softwares listed in the link http://i1117.photobucket.com/albums/k585/JugzG0nn4G3tY4/Torrent%20pics/SASChoices.jpg
+ ..got only 53 softwares fo selection ..what could be the reason????..most importantly I am looking for SAS Foundation which missing!!!!!!!!!! Pls help me out."
+,Doubzstep,2012-06-29T22:38Z,"SAS Foundation is 17th from the top. In my pic that I provided, it is already checked. It should be there if you have followed my directions to the dot's of your I's and the crossing of my T's."
+,Doubzstep,2012-06-29T22:40Z,"@guru, Have you had a previous install of any SAS applications before? This may also contribute to your issues so far."
+,guru,2012-06-30T21:36Z,"@Doubzstep..I have followed your directions to install 9.3 but dint get SAS Foundation...yes i have installed sas 9.2 in my system earlier.  
+
+Before trying to install 9.3 i have uninstalled 9.2 completely from the system but as i said earlier dint get all the softwares in the picture you have provided...thanks for your reply..
+"
+,Doubzstep,2012-07-01T20:37Z,"@guru, Is there still a folder called ""SAS"" in your Program Files(x86) folder? If so, try deleting it. And as far as SAS Foundation not showing up, I have no idea what the problem could be. 
+
+Can anyone help poor guru out!?"
+,6710_navi,2012-07-02T21:02Z,"Hi all
+I have same problem than @guru
+I have installed all SAS softwares and the only thing about Sas foundation it is called 'SAS Foundation Services' 
+http://i42.servimg.com/u/f42/16/12/34/67/sas1_b10.jpg
+When it is installed it appear all softwares showed here: 
+http://i42.servimg.com/u/f42/16/12/34/67/sas2_b10.jpg
+But nothing about ' SAS Foundation' nor 'SAS Base' (and it doesn't appear the main SAS icon.
+I tried everything, installed all, uninstalled, installed again, deleting SAS and SAShome folder etc etc and nothing. Always appear all softwares but SAS Base. Please can someone help us. Tnx in advanced"
+,Doubzstep,2012-07-07T03:16Z,@6710_navi Have you tried installing in Ingles English first? Or just your native language? @guru too?
+,guru,2012-07-07T14:56Z,@Doubzstep ..I have tried English only
+,guru,2012-07-07T14:59Z,"@Doubzstep...I think problem may be due to my 32 bit operating system!!!!!!!!!! 
+My system is running on 32 bit Operating System but it supports 64bit. Whats ur opinion ????"
+,6710_navi,2012-07-09T19:40Z,"Ok guys i found out wich was the problem.
+@guru, exactly, the prob is that we installed it on a 32-bit SO.
+This past week i tried to install it on a friend PC with Win7 64-bit and i could install every modules, included SAS Base. 
+In particular are 230 modules, compared with the 70 modules, when i tried on a 32-B SO.
+http://i42.servimg.com/u/f42/16/12/34/67/sas4_b10.jpg
+It worked fine every part with the DEC2012 sid.
+Also i tried to install it on my brother's PC in a virtual machine VM Virtualbox with a new-fresh Win7 64B installation + SAS 9.3 with the same results.
+http://i42.servimg.com/u/f42/16/12/34/67/sas3_b10.jpg
+Everything working perfectly. Btw also it is included SAS Enterprise Miner and it works fine.
+http://i42.servimg.com/u/f42/16/12/34/67/sas5_b10.jpg
+So as my CPU is a 64-bit capable (i5) i'll install a 64-bit SO.
+@Doubzstep, thank you so much!
+Cheers dudes"
+,guru,2012-07-10T17:34Z,@6710_navi ..Thanks for everything..please help me how to install virtual machine VM Virtualbox with Win7 64Bit OS..my system is running on W7 32 bit now. Thanks in advance
+,guru,2012-07-10T17:57Z,@6710_navi ..thanks i figured it out!!!!!!
+,kalkito9,2012-07-23T13:09Z,Hi If I set the clock to an earlier date after December 2012 will the program work?
+,guru,2012-07-26T20:01Z,@kalkito9- yes it works
+,Igloo1862,2012-08-05T03:39Z,"Is anyone else getting corrupt files from the rar?
+
+I downlaoded twice and getting same CRC errors - can't repair:
+
+!E:DownloadsSAS 9.3 64bit_CUB.rar: CRC failed in SAS 9.3 64bit_CUBSAS93Win64installproductsbase__93ts1m0__wx6__en__sp0__1en_dbcs.zip. The file is corrupt
+!E:DownloadsSAS 9.3 64bit_CUB.rar: CRC failed in SAS 9.3 64bit_CUBSAS93Win64installproductsonlinedoc__93130__win__en__sp0__1onlinedoc_gen.zip. The file is corrupt
+
+Would appreciate if someone can upload these two files and post links in comment field?"
+,psz-sas,2012-08-21T00:39Z,Thank you very much Doubzstep to making this great torrent available. Everything works fine and I can use all modules of SAS with the license file you also uploaded. You made my life easier and now I can practise SAS also at home! Thank you for the great work!
+,boral1,2012-08-25T15:21Z,"@ Doubzstep, please make the software portable with Cameyo and check whether it works after dec 2012 by changing your computer's date. If it works then please upload the portable version."
+,vishalir,2012-08-28T06:18Z,"Below given sid link is not working can you upload one more time ,the available sid in the software i am getting the error like THE SPECIFIED SAS INSTALLATION DATA FILE  IS EXPIRED"
+,vishalir,2012-08-28T10:36Z,Hi any one can upload the sid file .Thanks
+,supzzz1,2012-08-31T04:10Z,"@Doubzstep thanks for sharing!! 
+
+Installation is almost done so I assume it'll work fine. Found the SID on a Chinese site..I assume its the same one Doubzstep had shared on pg 2 since its for Dec 2012. "
+,Doubzstep,2012-09-04T21:01Z,"Yes, the SID I uploaded to this site (https://thepiratebay.se/torrent/7387762/SID_File_for_SAS_x64_Systems_-_Dec2012) is the same as on the Chinese website.
+
+Someone there named ""pluviosilla"" needed help installing a program called ""JBOSS."" He claims that SAS 9.3 needs this to be installed but JBOSS is not a Wndows 7 program. Can anyone help him?"

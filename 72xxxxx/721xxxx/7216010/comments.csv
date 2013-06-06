@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,Hielonegro,2012-04-25T19:24Z,"Thanks so much, I'll try first how works and let you know how good is. "
+,Andres1191,2012-04-25T20:12Z,Thanks!!!!!!!!!! really! :)
+,Hielonegro,2012-04-25T23:57Z,"No seeders, 10hr x 1%,  no worth it!."
+,traxitron,2012-04-26T04:13Z,"Sorry guys!  I probably should have waited to upload this until I was home, I finished packing this up this morning and I was bouncing around the area today using what internet I could.  I will probably have one more bit of internet outage for like 30 minutes later, but after that I'll be seeding straight for at least a few days"
+,cocoathunder,2012-04-30T03:01Z,having problems with concrete fx blue and predator not showing up in my ableton vstplugins folder if someone could get back to me id appreciate it. thx 
+,UX7331,2012-05-01T00:29Z,"Just a warning, some of your filenames used in the torrent can cause issues from their length, I got many errors trying to extract the pack on Windows 7 due to the path or actual Filename length."
+,UX7331,2012-05-01T00:38Z,"Also, if you're looking for a newer version of ableton (There's quite a few things on the internet that wants 8.2+ now): There's a version by theLEAK here: http://thepiratebay.se/torrent/6511769/Ableton_Live_8.2.2_%28CRACKED%29_%5BtheLEAK%5D"
+,traxitron,2012-05-02T09:38Z,"The reason you are having problems extracting is because of the software you are using to extract it, you should probably get a better archive manager like 7-zip or PeaZip.  If you still have problems at that point then it's settings on your system, I've already downloaded, extracted, and installed to a few friends computers with absolutely no problems."
+,traxitron,2012-05-02T09:46Z,"@cocoathunder
+The reason you are having trouble getting them to show up in your vstplugins folder is because you probably chose to install them in a non-default folder, which happens often as the installers don't necessarily use the default folder for windows vst plugins.  
+1. Open up the preferences in Ableton
+2. Toward the bottom you'll see a ""Use Custom Folder"" option under the VST section of the preferences.  
+3. Turn on the ""Use Custom Folder"" option, and set your custom folder as ""C:Program Files""
+
+This will take a bit to scan initially and will cause it to take a bit longer when rescanning your vst's in the future, but it will ensure that it checks all installed programs for tricky VST locations."
+,traxitron,2012-05-02T12:46Z,"@UX7331
+Unless you are talking about a plug-in developed specifically for Ableton 8.2+, you cant find anything on the internet that REQUIRES 8.2+.
+
+The only things that would require a certain version of Ableton would be Live Packs, and those are included with ableton Suite anyway.  VST (and rtas/dxi) plugins are built to be universally accessible because they use Virtual Studio Technology, and thus they don't have any host requirements other than the ability to implement a VST.
+
+So...You're full of shit."
+,UX7331,2012-05-02T16:27Z,"@Traxitron, yeah I was referring to live packs that I've seen require 8.2 before.
+Also I've tested and installed everything from the producer pack finally, 100% clean (it happily ran in sandboxie since I was skeptical at first) and everything works great. Thanks :)"
+,Minimee99,2012-06-01T20:06Z,"Very good! For some reason It worked perfectly for about a week and a half... But now I can't launch live. When I try I get ""a serious error has occurred . live will shut down after this message box is closed."" I Don't think this is a problem with the torrent but can someone point me in the right direction."
+,Scarc100,2012-07-23T22:16Z,Thanks for the upload trax. having trouble with the authorization though. help?
+,astackofpapers,2012-07-30T23:18Z,I can't get past the authorization part which means I can't save anything I make rendering this useless aha any help at all or is this another unistall?
+,astackofpapers,2012-07-30T23:23Z,"nevermind, you have to open the auz file with ableton, it's default is on notepad"

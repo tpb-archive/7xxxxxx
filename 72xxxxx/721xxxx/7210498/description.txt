@@ -1,0 +1,68 @@
+Comments are welcome. As this is my first attempt at uploading a torrent, please show mercy. :)
+
+My preferred container for movies is mkv. As such, any movie I download that isn't already an mkv, I make it so.
+
+
+I downloaded honda93's "Whatever Happened to Baby Jane?" a couple of days ago, which has an Info Hash of 329C6874A523F3B63E02364AF9A7A367613E7FC4. The "no sound" comment by f0ofigher21 dated 2008-11-12 17:53 CET may have been correct at the time it was posted. But when I played the whole Video TS folder using VLC 2.0.1, I found no problem with sound.
+
+Then I used mkvtoolnix to convert the VTS_01*.VOB to an mkv. I immediately noticed some problem with the sound but didn't give up.
+
+I noticed that when I asked mkvtoolnix to start with VTS_01_1.VOB, it started with the trailer.
+
+To get it just right, I had to tell mkvtoolnix to start with VTS_01_0.VOB instead of the usual VTS_01_1.VOB. And I had to delay the audio by a whopping 137,000 milliseconds. Then I told it to split at 00:07:13.
+
+The resulting mkv seems pretty good.
+
+
+$ mkvinfo What Ever Happened To Baby Jane - 1962.mkv 
++ EBML head
+|+ EBML version: 1
+|+ EBML read version: 1
+|+ EBML maximum ID length: 4
+|+ EBML maximum size length: 8
+|+ Doc type: matroska
+|+ Doc type version: 2
+|+ Doc type read version: 2
++ Segment, size 3614333922
+|+ Seek head (subentries will be skipped)
+|+ EbmlVoid (size: 4044)
+|+ Segment information
+| + Timecode scale: 1000000
+| + Muxing application: libebml v1.2.2 + libmatroska v1.3.0
+| + Writing application: mkvmerge v5.3.0 ('I could have danced') built on Feb 11 2012 16:21:29
+| + Duration: 7694.104s (02:08:14.104)
+| + Date: Mon Apr 23 14:06:47 2012 UTC
+| + Segment UID: 0xfe 0xbc 0x7d 0x87 0x3d 0x53 0x4e 0x28 0xf8 0x35 0x28 0x1a 0x8e 0x82 0xbb 0xaf 
+|+ Segment tracks
+| + A track
+|  + Track number: 1
+|  + Track UID: 1532684169
+|  + Track type: video
+|  + Lacing flag: 0
+|  + MinCache: 2
+|  + Codec ID: V_MPEG2
+|  + Default duration: 40.000ms (25.000 fps for a video track)
+|  + Language: und
+|  + Video track
+|   + Pixel width: 720
+|   + Pixel height: 576
+|   + Display width: 1024
+|   + Display height: 576
+|  + CodecPrivate, length 34
+| + A track
+|  + Track number: 2
+|  + Track UID: 439514688
+|  + Track type: audio
+|  + Codec ID: A_AC3
+|  + Default duration: 32.000ms (31.250 fps for a video track)
+|  + Language: und
+|  + Audio track
+|   + Sampling frequency: 48000
+|   + Channels: 2
+|  + Content encodings
+|   + Content encoding
+|    + Content compression
+|     + Algorithm: 3 (header removal)
+|     + Settings: length 2, data: 0x0b 0x77
+|+ EbmlVoid (size: 1097)
+|+ Cluster

@@ -1,0 +1,57 @@
+6 6 "And the Winner Is..." Joaquim Dos Santos & Ki Hyun Ryu TBA May 12, 2012 (2012-05-12) 106 N/A 
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 700 MiB
+Duration                         : 23mn 49s
+Overall bit rate                 : 4 107 Kbps
+Encoded date                     : UTC 2012-05-17 17:30:32
+Tagged date                      : UTC 2012-05-17 17:30:32
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 6 frames
+Format settings, GOP             : M=1, N=44
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 23mn 49s
+Bit rate mode                    : Variable
+Bit rate                         : 3 956 Kbps
+Maximum bit rate                 : 18.3 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.179
+Stream size                      : 674 MiB (96%)
+Writing library                  : x264 core 120 r2164 da19765
+Encoding settings                : cabac=1 / ref=6 / deblock=1:1:1 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=0.40:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=5 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=3956 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:0.60
+Encoded date                     : UTC 2012-05-17 17:30:32
+Tagged date                      : UTC 2012-05-17 17:33:12
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 23mn 49s
+Bit rate mode                    : Variable
+Bit rate                         : 147 Kbps
+Maximum bit rate                 : 176 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy
+Stream size                      : 25.0 MiB (4%)
+Encoded date                     : UTC 2012-05-17 17:33:10
+Tagged date                      : UTC 2012-05-17 17:33:12

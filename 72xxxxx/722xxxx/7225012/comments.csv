@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-05-01T09:51Z,"v2.1.2
+
+http://forums.mydigitallife.info/threads/24901-Windows-Loader-Current-release-information
+
+Version 2.1.2 (03/11/2012)
+* Added a new GRLDR version that fixes 2 bugs
+* Added support for Windows Small Business Server 2011 Essentials
+* Added lots of missing Vista serials (Thanks to Tito)
+
+Version 2.1.1 (03/04/2012)
+* Fixed a bug that prevented existing SLIC's from being ignored
+* Fixed a bug that caused Windows 8 serials to be decoded incorrectly
+* Added Equus, Impression Computers and Xplore SLIC's and certificates
+* Added Toshiba Windows 7 Ultimate serial
+* Added Xplore Windows 7 Professional serial
+* Added Impression Computers Windows 7 Home Premium serial
+* Added LaCie Windows Server 2008 R2 Standard serial
+* Added Western Digital Windows Storage Server 2008 R2 Essentials serial
+
+Version 2.1 (11/28/2011)
+* Added a new GRLDR version
+* Added CRC32 checksums to SLIC and certificate dumps
+* Enhanced serial decoding so that it supports Windows 8
+* Added EXO, ONKYO and Quanmax Home Premium serials
+* Added EXO and ONKYO SLIC's and certificates
+* Removed NEC Ultimate serial as it's not NEC
+* Other minor tweaks and fixes
+
+Version 2.0.9 (10/13/2011)
+* Added a new GRLDR version
+* Added NTFS checks for the active system partition
+* Added Paradigit SLIC and certificate
+* Added Paradigit Home Premium serial
+* Added ZT Systems Home Premium serial
+* Added NEC Ultimate serial
+* Other minor tweaks and fixes"

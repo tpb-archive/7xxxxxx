@@ -1,0 +1,33 @@
+****** ****** ******   ******* ****** ****** *    *  **
+     * *      *    *      *    *      *      *    *  **
+     * *      *    *      *    *      *      *    *  **
+ ***** ****** *    *      *    *****  *      ******  ** 
+     * *    * *    *      *    *      *      *    *  
+     * *    * *    *      *    *      *      *    *  **
+****** ****** ******      *    ****** ****** *    *  **
+
+*************************************************************
+*************************************************************
+
+
+===============================================================================
+            FLASH 360 TOOL VERSION 0.97
+===============================================================================
+
+an application that will allow you to decrypt/encrypt and extract various parts of a XBOX360 flash dump and much
+more!
+
+What's new/fixed:
+* Improved Nand Image detection
+* Added support for small XeLL Images (1,3MB)
+* Added ability to extract/import Slot0/Slot1 of ZeroPaired Images [XBR/freeBOOT/small XeLL]
+* Added ability to detect/convert raw Images (made with external programmer) to proper read format
+* Added ability to detect/convert Images without ECC data (made with Infectus device)
+* Added ability to extract/import new 'dae.bin' file [DvdAuthEx]
+* Added support for "Alternate KeyVault" decrypting/extracting
+* Added option to rebuild an opened Nand Image with different CPU-Key (Bootloaders/HV and generic files)
+* Added option in Settings to allow randomized encryption
+* Added option in Settings to allow cut short BigBlock Nand Images (64MB)
+* Fixed bug, regarding to saving config block checksum at wrong offset (in rare cases)
+* Changed, more accurate file extraction, automatically create subfolders
+* A lot of improvements and bug fixes

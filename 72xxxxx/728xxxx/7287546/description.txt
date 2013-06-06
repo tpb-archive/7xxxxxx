@@ -1,0 +1,33 @@
+***Note***
+This is for PlayOnLinux suite, i.e. for WINE.
+
+You SHOULD not use proprietary software, for alternative to Microsoft Office check  
+https://www.libreoffice.org/.
+
+I uploaded this for people that can not use open source alternative on their work/school computer but don't want to use Windows.
+
+This should work on modern Linux, BSD and MacOS X, PlayOnLinux 4+ recommended.
+
+--------------------------------------------------------------------------------
+Included:
+
+Microsoft Office 2007 (Home/Student) with SP3 (.odt support) and stripped of all redundant stuff. MS Word, Excel and PowerPoint only!
+Also all packages need to run Office are included, also MS fonts.
+
+Language: English
+
+It is fully activated, it will not complain about anything. It should run just fine!
+
+I also took care and disabled internet access for this WINEPREFIX so Office can not call home to Redmond.
+So this is sandboxed suite.
+
+----------------------------------------------------------------------------------
+
+This is brutally compressed with xz-utils, so when decompressed it will use about 622MB of disk space.
+
+README included, check it for info how to install.
+
+
+Please donate to LibreOffice project or help them code. 
+So we do not need to run M$ software via WINE.
+You could also donate to WINE project and help them perfect their software.

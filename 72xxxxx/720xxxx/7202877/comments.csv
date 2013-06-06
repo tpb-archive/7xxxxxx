@@ -1,0 +1,101 @@
+﻿User Type,Username,Date,Text
+[T],tr108,2012-04-21T08:04Z,"Ugh. I was FINALLY able to upload this torrent on the TENTH attempt -- kept getting an SQL error -- and I managed to copy/paste from the wrong file. The CORRECT info is:
+
+Kung Fu Panda 2 (2011) 90 min
+
+DESCRIPTION:
+Po and his friends fight to stop an evil peacock from conquering China with a deadly new weapon, but the Dragon Warrior must come to terms with his past. (with audio commentary from Director Jennifer Yuh, Producer Melissa Cobb, Production Designer Raymond Zibach, and Supervising Animator, Kung Fu Choreographer and Story Artist Rodolphe Guenoden)
+
+SPECS IN BRIEF:
+M4V file for iTunes/iDevices
+V: 1920x816 23.98 fps h.264 @ ~3687 Kbps
+A: 160 Kbps 2.0 AAC & 384 Kbps 5.1 AC-3 / 96 Kbps 2.0 AAC (commentary)
+S: English & English SDH
+
+SOURCE:
+Retail Blu-ray Disc
+
+PLAYBACK:
+Encoded & tagged for iTunes and Apple devices that can handle *1080p HD* video. Playback is confirmed for:
+  1. 2012 iPad
+  2. 2012 AppleTV
+  3. 2011 iPad 2 (with 5.1 software or later)
+  4. 2011 iPhone 4S
+  5. 2010 AppleTV (with 5.0 software; will output file as 720p)
+  6. Mixed reports for 2010 iPad 1 (with 5.1 software or later)
+
+SCREENSHOTS:
+http://i.imgur.com/Yv37Q.jpg
+http://i.imgur.com/lx3kK.jpg
+http://i.imgur.com/afBMu.jpg
+http://i.imgur.com/a9pSs.jpg
+http://i.imgur.com/SZjqu.jpg
+
+COMPLETE SPECS:
+--General
+   --Container.................: M4V - QuickTime
+   --Duration..................: 1h 30min
+--Video Track
+   --Format....................: H.264/MPEG-4 AVC
+   --Format profile............: High@L4.0
+     --CABAC.....................: Yes
+     --Reference Frames..........: 4 frames
+   --Bit rate (average)........: 3687 Kbps
+   --Frame Size................: 1920 by 816 pixels
+   --Frame rate (average)......: 23.976 fps
+   --Scan type.................: Progressive
+   --Chroma subsampling........: YUV 4:2:0
+   --Bit depth.................: 8 bits
+--Audio Track 1
+   --Language..................: English
+   --Format....................: AAC - MPEG-4 Audio
+   --Bitrate...................: 160 Kbps
+   --Channels..................: 2 (L R)
+   --Sampling rate.............: 48.0 KHz
+--Audio Track 2
+   --Language..................: English
+   --Format....................: AC-3 - Dolby Digital Audio
+   --Bitrate...................: 384 Kbps
+   --Channels..................: 5.1 (L C R Ls Rs LFE)
+   --Sampling rate.............: 48.0 KHz
+   --Resolution................: 16 bits
+--Audio Track 3
+   --Language..................: English (Creators' Commentary)
+   --Format....................: AAC - MPEG-4 Audio
+   --Bitrate...................: 96 Kbps
+   --Channels..................: 2 (L R)
+   --Sampling rate.............: 48.0 KHz
+--Subtitle Track 1
+   --Language..................: English
+   --Format....................: 3GPP Text
+--Subtitle Track 2
+   --Language..................: English SDH
+   --Format....................: 3GPP Text
+
+-----------------------------------------------------------------
+
+Since people have asked: I use HandBrake -- http://handbrake.fr/ -- (freeware; available for Mac, Windows, Linux) to produce my files. The team doesn't do proper snapshot releases often (only about once a year) but they produce Nightly Builds -- https://build.handbrake.fr/ -- where they provide bug fixes and try out new features. If you want to do your own encodes, I'd start by downloading a Nightly Build. 
+
+As of this writing, the HandBrake team hasn't built presets for either the AppleTV 3 or the new iPad, so I created some 1080p iTunes presets that I use. Download them at http://bayfiles.com/file/8ds9/CziuC5/1080p_Presets.zip "
+,doubleaa25,2012-04-21T18:39Z,"Thanks for the upload tr!
+
+However I am having problems downloading the preset file from BayFiles..."
+,doubleaa25,2012-04-22T08:43Z,"tr, how do you get the metadata for your encodes? I would love to do the same!"
+[T],tr108,2012-04-22T15:50Z,"@doubleaa25
+
+I've been trying to respond for the better part of two days but keep getting a database error. Hope this FINALLY goes thru.
+
+Being a stickler for details, I enter most metadata manually and cull it from IMDb, iTunes Preview (http://itunes.apple.com/us/genre/movies/id33) and http://getvideoartwork.com/"
+[T],tr108,2012-04-22T15:53Z,Hmm. It seems whenever I try to place the other link for my 1080p presets is when the db error occurs. Even a shortened link is no good. Ugh.
+,doubleaa25,2012-04-22T18:50Z,"Thanks tr for the info. Yea, tpb does not like shortened links for wtvr reason. I guess to prevent spam or something.
+
+And do you just enter the info through iTunes? I am a stickler for details as well ;)"
+,dencre,2012-04-23T11:02Z,"@doubleaa25
+
+Are you on PC or Mac? If PC, have you tried MetaX? It really is a great piece of software. The interface is butt ugly, but it gets the job done in an easy way :)"
+,BlueTak,2012-04-23T23:02Z,"Thanks again. You'll be due a skull soon, I'd hope."
+,doubleaa25,2012-04-25T07:08Z,"@dencre
+
+I have heard of MetaX. I will definitely give it a go. Thanks for the info!"
+[T],tr108,2012-04-26T01:34Z,"@doubleaa25 - MetaX might work out better for you but, to answer your question, I'm on a Mac and use Subler to tag my files."
+,doubleaa25,2012-05-03T23:23Z,@tr108 thanks for the help man! My first encode finished and it looks great! Just need to tag everything now...

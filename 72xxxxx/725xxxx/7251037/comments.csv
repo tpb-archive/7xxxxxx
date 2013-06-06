@@ -1,0 +1,3 @@
+﻿User Type,Username,Date,Text
+,mkiu,2012-07-23T22:28Z,"Themes work, but there is tracker code added to the header.php file of each theme.  Remove the script just above the  line."
+,mkiu,2012-07-23T22:29Z,"Sorry, HTML was cut out - the line just above the head closing element is a script tag containing a ""packer"" function.  Remove that tracking code and you're all set!"

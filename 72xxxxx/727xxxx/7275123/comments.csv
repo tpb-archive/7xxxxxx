@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,Llwynog,2012-05-24T12:29Z,Looks like the filename got squished a bit. When was this who guest-starred?
+[V],err0001,2012-05-30T07:54Z,"It should say Jenna Fischer, but there is a bug that causes the site to mangle the letters ""Je"" sometimes."
+[H],LegendaryAxeman,2012-06-09T08:46Z,Craig.Ferguson.2012.05.09 Jenna.Fischer.HDTV.XviD-AFG
+[H],LegendaryAxeman,2012-06-09T08:48Z,"It looks like it hangs up on "".Je"" with a leading period.
+Take that period out and the error vanishes,"
+[H],LegendaryAxeman,2012-06-09T08:49Z,"It looks like it hangs up on "". J e"" with a leading period.
+Take that period out and the error vanishes,"
+[H],LegendaryAxeman,2012-06-09T08:52Z,"9.J ""9 . J"""
+[H],LegendaryAxeman,2012-06-09T09:02Z,"So, It has to be ""nine dot J e"" (without the spaces)..
+
+Maybe that sequence matches a keyword
+or is interpreted as an unprintable character."
+[H],LegendaryAxeman,2012-06-09T09:06Z,Oho!  Putting spaces between the four characters  doesn't help.  That's a pretty odd bug.

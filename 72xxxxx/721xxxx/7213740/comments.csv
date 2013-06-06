@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+[V],HobbitGamez,2012-04-25T02:47Z,nice upload
+,divesh8_4,2012-04-25T16:38Z,whats the meaning of beta 8
+,Swining,2012-04-25T17:38Z,It's the eighth PC beta that wasn't meant to be released on Steam to users who pre-ordered the game. I've only got up to the third boss but it feels pretty solid. Only problem is the special spindash with Sonic/Tails keeps going one direction; if its even a bug at all.
+,Swining,2012-04-25T23:07Z,Can anyone get Episode Metal working with the Unleashed release? I beat the game
+,Swining,2012-04-25T23:11Z,and by Unleashed release I mean episode 1.
+,EasyBake,2012-04-26T00:46Z,"If someone can figure out how to make Sonic 4 Episode 2 communicate properly with the Steam API without making it unable to launch, then that should enable Episode Metal. The only reason why Episode Metal doesn't work (theoretically) is because I cut off all API access between S4E2 and Steam, in order to get it to run."
+,mickyfinnny,2012-04-27T20:54Z,"Good game,Thanx. :+)"
+,EasyBake,2012-04-28T22:42Z,"I've figured it out. Episode Metal is unlocked via a flag that is set inside the save game file. If the person who bought Episode II launches Episode II and has Episode I in their Steam account, it will set this flag to true inside the save game, thus unlocking Episode Metal. Now, all we need is said save file."
+,Swining,2012-04-30T19:03Z,"I just grabbed MDK's release that reportedly unlocks metal. I haven't gone into Windows and booted it up yet but what's apparent is that theres a ""Steamclient.dll"" and ""Skidrow.ini"" that were taken from the Generations scene release. I'll see if I can get metal working with your release through a savefile."
+,erika182,2012-05-01T18:05Z,"Works perfect, thank you !"

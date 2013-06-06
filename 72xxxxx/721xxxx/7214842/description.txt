@@ -1,0 +1,32 @@
+Easy CD-DA Extractor aka ΓÇ£Swiss Army Knife Of Digital AudioΓÇ¥ is ALL-IN-ONE software that copies Audio CDs, converts audio files from one format to another, edits metadata of audio files and can burn Audio CD, MP3 CD & DVD, and Data CD & DVD. Easy CD-DA Extractor supports all popular audio file formats such as 3G2, 3GP, MP1, MP2, MP3, Windows Media Audio (WMA), Ogg Vorbis (OGG), MP4, M4A (AAC and Apple Lossless), AAC, aacPlus (HE-AAC, AAC+, HE-AAC+PS, eAAC+), FLAC, Musepack (MPC), WavPack (WV), WAV, AIFF, MonkeyΓÇÖs Audio (APE), CUE and M3U. Also, the Nero Digital (Nero AAC) is supported if you have the Nero Burning ROM installed on your computer. State-of-the-art audio encoding technology ΓÇô Easy CD-DA Extractor includes the most advanced audio codec available, the aacPlus from the Coding Technologies. Additionally, Easy CD-DA Extractor also supports command line (.exe) encoders.
+
+Easy CD-DA Extractor is compatible with 32-bit and 64-bit Windows and requires Windows 2000 or newer. Easy CD-DA Extractor is Unicode program and includes over 30 languages. Easy CD-DA Extractor supports visual styles of Windows XP, Vista, and Windows 7.
+
+Easy CD-DA Extractor actually contains three separate programs:
+ ΓÇó Audio CD Ripper ΓÇô Copies audio CDs to selected audio format.
+ ΓÇó Audio File Format Converter ΓÇô Converts audio files from one format to another.
+ ΓÇó CD/DVD Creator ΓÇô Burns Audio CD, MP3 CD/DVD, Data CD/DVD, and DVD Video.
+
+Features of Easy CD-DA Extractor :
+ΓÇó Audio CD Ripper - Copies audio CDs to selected audio format.
+ - Accurate, secure, high-performance CD ripping
+ - Bypasses ΓÇÿcopy-protectionsΓÇÖ
+ - Reads bad condition CDs, reports possible errors
+ - Get disc information / metadata from Internet
+ - Edit or automatically fill metadata with Cover Art support
+ - Supports CD-Text
+ - Volume level control, Normalization, Fade In/Out, ΓÇª.
+ΓÇó Audio Converter ΓÇô Converts audio files from one format to another.
+ - Edit metadata of existing audio files
+ - Edit or automatically fill metadata with Cover Art support
+ - Volume level control, Normalization, Fade In/Out, ΓÇª.
+ΓÇó CD/DVD Creator - Burns Audio CD, MP3 CD/DVD, Data CD/DVD, and DVD Video.
+ - Burns Audio CDs compatible with all home/car CD-players
+ - Supports CD-Text
+ - Supports Unicode and long filenames
+ - Supports UDF, ISO/Joliet and DVD Video filesystems
+
+Changes in Easy CD-DA Extractor 16.0.4:
+ * Fixed the problem where Ogg Vorbis format did not appear for input and output (on some systems which did not have certain C++ runtime libraries installed)
+ * State of the Lyrics column in Audio CD Ripper is now properly saved/restored
+ * Fixed a bug in Cue Sheet (.cue) file handling in Audio CD Creator

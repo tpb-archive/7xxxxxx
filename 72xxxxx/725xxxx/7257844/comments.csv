@@ -1,0 +1,224 @@
+﻿User Type,Username,Date,Text
+,Rayners69,2012-05-10T11:44Z,"If this works as the Photoshop CS6 that you uploaded, i'll thank you a lot!"
+,nabs_008,2012-05-11T20:47Z,"Hello,
+I can't seem to figure out what the key number is, could someone please help me??? :("
+,nabs_008,2012-05-11T20:49Z,"Serial number I mean... please help! 
+The download was pretty good and fast but now I can't seem to find that number! :( the readME file appears to be in Russian or some language similar to Russian :("
+,sgt_schultz,2012-05-13T01:27Z,"Come on @Ching_Liu, you post a torrent, please support your followers with some answers to questions raised."
+,dude_bud,2012-05-17T12:06Z,"mine still says it's in tryout. Is that ok or will it run out after 30 days? PS CS6 changed to ""extended"" after I changed the framework folder"
+,anna.z,2012-05-19T05:19Z,thanks thanks thanks!!! it really works!!
+,sq01neo,2012-06-11T08:46Z,@dude_bud: same issue here.. still on tryout even after replacing the framework file.. photoshop works.
+,EthanKnop,2012-06-13T21:56Z,Worked perfectly for me! Thank you!
+,jeff_11,2012-06-14T04:24Z,"So once you mount the disk image you will find a ReadME with Russian at the top and a list of about 45 hosts below. Open your /etc/hosts file with a text editor and add the listed hosts to the file. It will prevent the app from communicating with the authentication servers. Do this and change the framework folder, and everything should be working. Older versions of this software family found on this site provide more thorough documentation of the host blocking process. Cheers."
+,Emmie87,2012-06-14T13:33Z,Can someone help me i don't know where to find the framework file to replace it????
+,end77,2012-06-29T01:05Z,"Guys, here's an updated complete list of Adobe activation routes to block:
+
+Run this into Terminal:
+sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+
+Copy and paste these into the file:
+127.0.0.1 3dns.adobe.com 
+127.0.0.1 3dns-1.adobe.com 
+127.0.0.1 3dns-2.adobe.com 
+127.0.0.1 3dns-3.adobe.com 
+127.0.0.1 3dns-4.adobe.com 
+127.0.0.1 activate.adobe.com 
+127.0.0.1 activate-sea.adobe.com 
+127.0.0.1 activate-sea.adobe.com.* 
+127.0.0.1 activate-sjc0.adobe.com 
+127.0.0.1 activate.wip.adobe.com 
+127.0.0.1 activate.wip1.adobe.com 
+127.0.0.1 activate.wip2.adobe.com 
+127.0.0.1 activate.wip3.adobe.com 
+127.0.0.1 activate.wip4.adobe.com 
+127.0.0.1 adobe-dns.adobe.com 
+127.0.0.1 adobe-dns-1.adobe.com 
+127.0.0.1 adobe-dns-2.adobe.com 
+127.0.0.1 adobe-dns-3.adobe.com 
+127.0.0.1 adobe-dns-4.adobe.com 
+127.0.0.1 practivate.adobe 
+127.0.0.1 practivate.adobe.* 
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 practivate.adobe.newoa 
+127.0.0.1 practivate.adobe.ntp 
+127.0.0.1 practivate.adobe.ipp 
+127.0.0.1 ereg.adobe.com 
+127.0.0.1 ereg.wip.adobe.com 
+127.0.0.1 ereg.wip1.adobe.com 
+127.0.0.1 ereg.wip2.adobe.com 
+127.0.0.1 ereg.wip3.adobe.com 
+127.0.0.1 ereg.wip4.adobe.com 
+127.0.0.1 wip.adobe.com 
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 wip.adobe.com 
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 wwis-dubc1-vip60.adobe.com 
+127.0.0.1 adobeereg.com 
+127.0.0.1 192.150.18.108 
+127.0.0.1 192.150.22.40 
+127.0.0.1 192.150.14.69 
+127.0.0.1 192.150.8.118 
+127.0.0.1 192.150.8.100 
+127.0.0.1 192.150.18.101
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 192.150.14.174
+127.0.0.1 fpdownload.adobe.com
+127.0.0.1 2.19.211.235
+
+Fluch the cache:
+sudo dscacheutil -flushcache"
+,eyeamthe1,2012-07-12T06:22Z,CAN SOMEONE PLEASE EXPLAIN TO ME HOW TO CHANGE THE FRAMEWORK????!!!!
+,eyeamthe1,2012-07-12T06:23Z,NEED HELP ON FRAMEWORK PART!!!!!
+,ritstyx,2012-07-19T01:27Z,"Right-click on Illustrator.app files in your Applications folder / select Show Package Contents / Look for the Frameworks folder and open it.
+
+Still getting ""Tryout"" after installing it (like Photoshop CS6). I'm gonna keep trying and report back with any good luck..."
+,ritstyx,2012-07-19T02:07Z,"@anna.z
+@EthanKnop
+
+Really? How? I call BS."
+,lappaslad,2012-07-20T13:29Z,"This really does work. Followed everything on the English Readme, but used the crack on the Illustrator CS6.dmg. Opened and closed all apps, selecting tryout for Illustrator. Replaced framework on all applications, mind you Wi-Fi was off this entire time. Opened Illustrator and it worked just fine, didn't prompt for serial numbers. "
+,ritstyx,2012-07-30T21:52Z,"Even though you get the Tryout splash & about screens, it's still cracked to the full version. For all of those who want to get rid of that Tryout crap just do this:
+
+1) Right-click on the Adobe Illustrator CS6.app
+2) Click Show Package Contents
+3) Go to Contents/Resources
+4) Switch the names of ai_about_tryout.png to ai_about.png. Do the same for ai_cs6_splash_tryout.png & ai_cs6_splash.png"
+,kolonyo,2012-08-07T14:15Z,"Thank you! It works great.
+
+Could you please upload Flash CS6 ?"
+,lokster86,2012-08-10T02:42Z,"follow the readme, the english one, not the russian
+
+having trouble with the framework? right click on the illustrator app and show package contents
+
+and follow ritsyx instructions to get rid of the try out splash screen
+
+1) Right-click on the Adobe Illustrator CS6.app
+2) Click Show Package Contents
+3) Go to Contents/Resources
+4) Switch the names of ai_about_tryout.png to ai_about.png. Do the same for ai_cs6_splash_tryout.png & ai_cs6_splash.png 
+
+"
+,easmith4,2012-08-17T09:12Z,"I can't figure out how to find the ""Show Package Contents""...there is no file anywhere for Illustrator that says that...did I do something wrong?"
+,easmith4,2012-08-17T17:45Z,"Also, when I tried to add these...
+
+127.0.0.1 3dns.adobe.com 
+127.0.0.1 3dns-1.adobe.com 
+127.0.0.1 3dns-2.adobe.com 
+127.0.0.1 3dns-3.adobe.com 
+127.0.0.1 3dns-4.adobe.com 
+127.0.0.1 activate.adobe.com 
+127.0.0.1 activate-sea.adobe.com 
+127.0.0.1 activate-sea.adobe.com.* 
+127.0.0.1 activate-sjc0.adobe.com 
+127.0.0.1 activate.wip.adobe.com 
+127.0.0.1 activate.wip1.adobe.com 
+127.0.0.1 activate.wip2.adobe.com 
+127.0.0.1 activate.wip3.adobe.com 
+127.0.0.1 activate.wip4.adobe.com 
+127.0.0.1 adobe-dns.adobe.com 
+127.0.0.1 adobe-dns-1.adobe.com 
+127.0.0.1 adobe-dns-2.adobe.com 
+127.0.0.1 adobe-dns-3.adobe.com 
+127.0.0.1 adobe-dns-4.adobe.com 
+127.0.0.1 practivate.adobe 
+127.0.0.1 practivate.adobe.* 
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 practivate.adobe.newoa 
+127.0.0.1 practivate.adobe.ntp 
+127.0.0.1 practivate.adobe.ipp 
+127.0.0.1 ereg.adobe.com 
+127.0.0.1 ereg.wip.adobe.com 
+127.0.0.1 ereg.wip1.adobe.com 
+127.0.0.1 ereg.wip2.adobe.com 
+127.0.0.1 ereg.wip3.adobe.com 
+127.0.0.1 ereg.wip4.adobe.com 
+127.0.0.1 wip.adobe.com 
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 wip.adobe.com 
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 wwis-dubc1-vip60.adobe.com 
+127.0.0.1 adobeereg.com 
+127.0.0.1 192.150.18.108 
+127.0.0.1 192.150.22.40 
+127.0.0.1 192.150.14.69 
+127.0.0.1 192.150.8.118 
+127.0.0.1 192.150.8.100 
+127.0.0.1 192.150.18.101
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 192.150.14.174
+127.0.0.1 fpdownload.adobe.com
+127.0.0.1 2.19.211.235
+
+to the file it said that I didn't have permission and asked me if I wanted to duplicate the file to make changes to the copy..."
+,livberry,2012-09-04T06:01Z,I can't find get past the login. How does one avoid the sign in to the free trial?
+,livberry,2012-09-04T08:39Z,And what tryout should I get?
+,livberry,2012-09-04T08:54Z,And what trial should I get?
+,IG1991,2012-09-17T00:30Z,"Worked for me!
+
+For anybody having trouble this is what I did step by step:
+
+Download torrent. 
+Turn off Wifi.
+Go to Finder.
+
+In Finder double click the blue folder you just downloaded (adobe illustrator cs6 16.0.0 final).
+
+Now double click ""illustrator CS6.dmg"".
+
+A new window will pop up, in this new window double click ""illustrator_16_LS16.dmg).
+
+A small window will pop up saying ""opening illustrator_16_LS16.dmg"".  Let it do its thing.
+
+Once thats done, a new window will pop up and there will be a dark brown box that will have ""Adobe Illustrator"" written next to it. Double click this box.
+
+Another window will open, double click the red ""install"" box.
+
+Wait for the shit to load, then it will open a new window that says ""welcome"". This window will have 2 options: ""install"" and ""try"". Select ""try"".
+
+Agree to the Terms.
+
+Next Select ""install"". Make sure you have English selected as your language!
+
+Let it install itself.
+
+Once it's done installing go to your applications and open ""Adobe Illustrator CS6"". Once its finished opening Quit out of it.
+
+Now open Finder.
+
+Open the blue folder (adobe illustrator CS6 16.0.0 Final).
+Now double click the blue folder labeled ""cracked"".
+Double click ""Adobe CS6 azr+.zip""
+It will unzip and make a folder labeled ""Adobe CS6 azr+ [k]. Double click it.
+Inside there will be a folder labeled ""amtlib.framework"" (this is the cracked folder). Now you have to use this cracked ""amtlib.framework"" folder to replace the same folder located in my instructions below.
+
+In Finder go to Applications
+Right click on Adobe Illustrator CS6
+Now click ""show package contents""
+Click the blue folder labeled ""contents""
+In the folder labeled ""Frameworks"" there is a folder labeled ""amtlib.framework"". Replace this folder with the cracked ""amtlib.framework"" folder i mentioned earlier. 
+And that's what I did.
+
+I didn't do any of the route blocking.
+
+But if you go System Preferences/ Security & Privacy/ click the tab ""firewall"" and unlock the lock (located at the lower left of the window) to make changes. Then click ""Firewall Options"". Click the ""+"" symbol on the left. Now under applications tab select Adobe Illustrator CS6 and click Add.
+Once illustrator is added, to the right of it there will be a small up and down arrow. click it. and Click ""block incoming connections"". 
+That will keep illustrator from sending info out.
+
+I did the same when i installed Photoshop CS6 and Lightroom 4. (which all work fine) 
+
+Hope This Shit Helps!!!
+
+
+"

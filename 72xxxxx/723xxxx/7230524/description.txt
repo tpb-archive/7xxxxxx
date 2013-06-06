@@ -1,0 +1,25 @@
+Platform Road Map for MATLAB and Simulink Product Families
+
+MathWorks publishes a platform road map for IT planning purposes for releases of Microsoft Windows, Apple Mac OS X, and leading commercial Linux distributions. Other Linux distributions may be supported as described in the Linux System Requirements. The road map reflects the current plans of MathWorks and is subject to change without notice.
+
+See the platform road map for Polyspace products.
+Supported Platform Changes
+
+MathWorks periodically updates platform support and is planning the following platform changes:
+
+    32-bit Linux platform drop: As of R2012b, 32-bit Linux will be dropped as a supported platform. 32-bit Linux users should begin migrating to 64-bit Linux or an alternate platform at this time. 64-bit Linux will continue as a supported platform.
+    Lion (Mac OS X 10.7) add: As of R2011a, Lion (Mac OS X 10.7) is supported.
+
+Supported Compiler Changes
+
+MathWorks refreshes its compiler support every release, occasionally dropping support for an older version of a compiler in favor of a newer and more readily available version. MathWorks is planning the following compiler changes:
+
+    Microsoft Visual C++ 2010 Express: Support will be dropped as of R2012a; Windows SDK v7.1 will be the supported free Microsoft tool chain going forward.
+    Microsoft Visual C++ 2005 Professional: Support will be dropped as of R2011b.
+    Microsoft Visual C++ 6.0: Support will be dropped as of R2012b.
+    Intel C++ and Fortran Compilers: Support for v11.1 will be dropped as of R2012a. Support for v12.0 is anticipated beginning with R2011b.
+
+
+
+For more info:  
+http://www.mathworks.com/support/sysreq/roadmap.html

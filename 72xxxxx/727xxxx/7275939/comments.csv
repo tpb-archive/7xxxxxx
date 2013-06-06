@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,einzelhaft,2012-05-17T18:38Z,Thanx!
+,bambarbio,2012-05-17T20:12Z,Thanks man!!!
+,8906,2012-05-18T04:19Z,"Thanks.
+
+Not sure what I'm doing wrong. Game activated fine, I exceed minimum requirements, but when starting the game it runs ShippingPC - AGOTGame.exe in the background and never starts the game. 
+
+Tried a reinstall, and deleted the keys from registry & reactivated, still no dice. 
+
+Core 2 Duo 2.6 Ghz, 5 GB Ram, Nvidia 8800 GTX, Windows 7"
+,8906,2012-05-18T06:19Z,"Looks like the last part of the install (Unreal Engine 3 Redistributable) doesn't install correctly, which is why my game isn't working.  Even disabling AV didn't help with install, so... not sure what's up."

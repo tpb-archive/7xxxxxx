@@ -1,0 +1,171 @@
+﻿User Type,Username,Date,Text
+,mrrdivx,2012-05-14T11:20Z,"OBS DENNA FUNGERAR INTE
+
+När man klickar på patchen  ell progget så händer det inget ?????                                                  "
+,Jeepster1,2012-05-14T17:22Z,"There's problems with this one.
+
+Firstly - the iPatcher will NOT run! 'chostastic' gave an explanation in the Ableton Live torrent version 8.2.8 on how to do this. Following is the explanation that gets the iPatcher to execute:
+
+""If you change the name of ""Patch"" to ""Patch.app"" and run chmod in the terminal: sudo chmod -R a+x [path to Patch.app]
+you will get a runnable application that open like any other app by double clicking.""
+
+Secondly - once you've done the above and then get the iPatcher to execute, it appears to do it's job in patching Live 8.3 HOWEVER when opening the newly produced authorisation file along with Live 8.3 it fails to successfully instal live by returning an error regarding rewire and states it was unsuccessful. Strangely enough after this Ableton Live can be run to it's main screen but it's not a proper instal and many feature missing!
+
+Thirdly - if attempting to run Max out of curiosity even though Live's installation procedure failed to complete properly after allegedly being patched; you will also get an install failure!
+
+I don't understand why this wasn't tested before upload or if there is something missing. Any ideas anyone?"
+,future-dada,2012-05-14T19:57Z,"But guys that do...
+Have not you seen the pictures containing the .rar?
+
+Everything perfectly works...
+
+Not be what leave, easier it impossible."
+,Jeepster1,2012-05-15T09:57Z,"Not working! .. at least until someone finds a work-around or a crack that robustly works and then we need a step by step definitive instructional procedure, unless the install procedure is genuinely straight forward.
+
+If I've missed something getting this one to work, then please do explain in Layman's terms step by step. Resorting back to the functional version 8.1.4 for Mac for now.
+
+Also, it's no good saying ""have not you seen the pictures containing the .rar?"" while not being more thorough in your explanation. I personally don't see the .rar in the pictures, therefore your almost making yourself sound like 'some' of the decoy users/unloaders whom can be affiliated with software companies and developers with the only purpose to throw a huge spanner in the works and make installing a headache, thus with the goal of making some people give-up and putting some people off from downloading torrents. Don't  think this does not happen, after all they're covertly attempting to protect their companies interests (naturally). However they fail to realise this can often have a negative effect by giving a bad lasting impression of the software and forgetting that many downloaders go on to buy the software if liked and used.
+
+A rock solid working Ableton Live 8.3 version bundled with both a huge sound collection and massive array of instruments & effects all bundled into one torrent would be awesome! Anyone?"
+,future-dada,2012-05-15T13:35Z,"With all due respect... you're a useless.
+
+The rar file contains 10 images with the consecutive steps.
+
+I do not work for any company. It will be possible!
+
+
+
+En España, tras la muerte del Dictador se popularizó un dicho:
+
+El que vale vale y él que no para Ministro...
+
+Aplícatelo.
+
+
+IT WORKS PERFECTLY!."
+,future-dada,2012-05-15T13:51Z,"I've now added the 10 images containing the rar
+h t t p 
+:
+ / /
+dadalinux
+.WordPress
+.com"
+,future-dada,2012-05-15T13:58Z,"The work that I can not create the packs to make it the easiest thing.
+Inept!."
+,xis10shul,2012-05-22T03:06Z,"Images in rar do not correspond with 10.6.8 so maybe a little less despairing tone.
+
+This is not my first work round and this does not work for me.
+
+Thanks for trying, but no thanks."
+,LemonCaik,2012-05-26T18:27Z,"This package works!
+1- Change the name of ""Patch"" to ""Patch.app"" and run chmod in the terminal: sudo chmod -R a+x [path to Patch.app]
+you will get a runnable application that open like any other app by double clicking.
+2- Follow the image instructions.
+3- Before running Authorizelive83.auz, chmod ""Ableton live 8.app"" and Authorizelive83.auz with the same command you ran to chmod the patch (sudo chmod -R a+x [path to Authorizelive83.auz])
+4- Run Authorizelive83.auz
+5- PROFIT!!!!"
+,SuperConsciousness,2012-05-28T14:51Z,"Can someone assist me?
+ i have a Mac OS X 10.6.8, i followed the image steps but when i clink on the ableton app nothing opens."
+,future-dada,2012-06-09T01:23Z,"Hi... these days I installed Snow Leopard on a machine and I had to install Plugins, and, guys, not be so surealistas that you have to install problems... All Plugins to the first... Ableton 8.3 (double click, add Live.app, generates the authorization, already!) and like this, Reaktor 5.6.2 + Razor + Skanner, Kontakt 5, Massive PR Punch, Predator, Blue, FXpansion Tremor, MachFive. EZ Drummer all packs, SPL, Sugar Bytes... etc, etc, etc...
+Including my new Traktor S4 with Traktor 2.5 Legal, not problems, not to mention a KONTROL X 1, ZeR0 SLMkII, RME with 8 analog inputs + 4 stereo inputs ADAT of a machine with a Steinberg VSL 2020 audio card working with Ableton (RME MIDI Clock port 2 to VSL 2020) sync and MIDI control to another machine under Linux with WINE by controlling to Clavia Nord Modular (ZeRo SLMkII MIDI IN/OUT port 1), more MIDI IN / OUT (RME MIDI port 1) to a Roland V-Synth... Logic Studio...Bla,bla,bla...
+
+ALL PLUGINS WORK 100 %"
+,z41g0,2012-06-12T05:12Z,"future-dada....in regards to your last post: At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone that had the displeasure of trying to cut through your jumbled mess of semi-related words seemingly picked and typed at random by a retarded monkey is now dumber for having read it. I award you no points, and may God have mercy on your soul. "
+,SauReal,2012-06-29T22:38Z,Works great. Fallowed the directions (Apparently most of you can't) trying it out as we speak. Any problems I will let you all know
+,ghostofcrows,2012-07-03T01:07Z,I used the 8.3 iPatcher with this and it worked first time and took less than 15 minutes total.  Thanks!!!
+,kanibal1,2012-07-03T05:46Z,"Ok,patch worked fine, now authorize doesnt work, put on the path in the terminal but it cant find the file, can somebody help?
+Running OS 10.7.3
+thanks"
+,ghostofcrows,2012-07-03T21:14Z,it launched once and worked but then I shut it down and it won't launch again.  says unauthorized blah blah blah
+,FaerynLee,2012-07-17T04:27Z,"The patch is useless.  The instructions on how to correct the patch aren't clear enough... if some one could clarify how the work around for the patch is done step by step, that would be awesome"
+,jrr93,2012-07-17T22:42Z,Works great! Thank you so much.!
+,vegaspimp222,2012-07-20T03:12Z,"guys get the one by theleak, I promise its easy and im now using suite 8"
+,chaostastic,2012-07-24T02:24Z,"vegaspimp222, the one by user ""theleak"" IS NOT FOR MAC!
+
+You're wasting peoples time. I fixed this patch in 30 seconds. Why is it so hard to follow proper instructions?
+
+Repeating here:
+Works in 10.7.4 and there's no reason why an earlier system running on Intel shouldn't work.
+
+1. Install Live from 8.3 Trial by dragging it to /Applications, NOT 8.3.1 or later. Each version need a new Patch.
+2. Rename folder ""Patch"" in the torrent to ""Patch.app"" (the important being the file extension .app is used)
+3. Now Repair this patch app by opening the Terminal application and run the command 
+ ""sudo chmod -R a+x "" + drag and drop patch app on the terminal window. (No quote marks of course, but keep space at the end)
+4. Start the resulting patch app, wait shortly until you see a window.
+5. Click on ""select Live.app"" in the window and go where you installed Live: ""/Applications/Live 8.2.8/Ableton Live Live.app"". Wait
+6. Double click on ""Authorizelive828.auz"" which is found in the same folder as ""Ableton Live 8""  and let it do its thing.
+7. Install packages as advised
+8. Make music!
+
+Buy Live if you want to support Ableton.
+Also I installed Little Snitch 2.5.2 before this, but there were no calls to any servers made. Turn off auto updates under ""Licenses Maintainance"" in preferences if active. In my case it was inactive."
+,chaostastic,2012-07-24T02:26Z,"Sorry. lost an ""8"" in the path:
+ 5. Click on ""select Live.app"" in the window and go where you installed Live: ""/Applications/Live 8.2.8/Ableton Live 8.app"". "
+,dkabron,2012-07-27T07:53Z,"getting lost in step 5, terminal wont give me an executable file"
+,dkabron,2012-07-27T07:54Z,sorry step 3
+,Huskehn,2012-07-27T15:20Z,"Alright, I'm running OS X 10.8 and I'm trying to figure this out. I see a lot of comments say to rename ""Patch"" to ""Patch.app"", but I don't see anything named ""Patch"". After extracting the .rar with The Unarchiver, I have ""Ableton Live 8"", ""iPatcher"", ""MaxMSP 5.1.9 (48561).mpkg"", and 10 pictures. When I try to run iPatcher/Ableton 8.3, nothing happens. The app seems to run for a split second and then closes. Again, the problem I'm having is that I see NO folder named ""Patch"" to rename to ""Patch.app"". I tried renaming the ""iPatcher"" folder to an app with no luck."
+,Huskehn,2012-07-27T15:23Z,Solved my own problem. Used this patcher: http://thepiratebay.se/torrent/7162477/Ableton_Suite_8.3_-_iPatch_-_MAC.OSX
+,emperor13,2012-07-28T00:24Z,huskeyn how did you do it?I had same problem as you  and got that other patch....but it won't let me apply it. Do you still have to do all that terminal stuff?
+,emperor13,2012-07-28T01:16Z,DI d this all and it said that it was patched successfully but when I open live it still only lets me use free trial.
+,djsb16,2012-07-30T06:53Z,"i got everything working heres how... (note im on 10.8)
+1. extract .rar file
+2. rename the Ableton live file in ipatcher to Patch .app (has a red ableton icon)
+3. in terminal run command ""sudo chmod -R a+x"" then drop Patch.app into terminal
+4. run Patch.app and select ableton live (with white icon) from extracted extension
+6. once the patch runs look Authorizelive828.auz in same folder as ableton patched program and double click ( if the program doesnt authorized that is ok)(you may also be able to skip this step but this is exactly how i did it)
+
+7. heres were people were having issues with authorization to fix this google rewire by propeller heads and download the newest version and install it
+
+8. after installing the newest version relaunch Authorizelive828.auz and the program should now authorize and not give you anymore problems
+9. the max installer also worked after the program was authorized
+11. Profit"
+,djsb16,2012-07-30T06:58Z,"when opening up live after completetion of authorization i still get an authorization fail and rewire support fail, but still have full features and still seems to be authorized"
+,goffballz,2012-08-01T09:53Z,"On 10.7.4
+
+Followed LemonCaiks comment to an extent.
+
+Instead of ""sudo chmod -R a+x (path to patch)"" I just used ""chmod -R a+x (patch path)""
+
+I also had to change the name of the extracted folder ""Ableton.Suite.Live v8.3 - MAC.OSX - packet - dada"" because some characters confused the command with ""no such file or directory""
+Change the folder to something simple and short like ableton, also change the app Ableton Live 8 in the root to something without spaces like Ableton.
+
+Change Ableton 8.3 in the iPatcher folder to patch.app, open up terminal, use the chmod command followed by the directory where the patch is, follow the pictures provided, use the chmod for the Ableton.app and Authorizelive83.auz, move the Ableton.app into your applications folder afterwards. Install MaxMSP if want. 
+
+After installation I received an error that said something along ""folder got deleted"" which caused me unable to quit the app and shutdown. Just help the power button for forced shutdown and everything ran smooth upon restarting."
+,chaostastic,2012-08-05T12:20Z,"dkabron, It's extremely easy to write that command in the Terminal and drag and drop the patcher application on the terminal window. When you do, the path to the patcher will properly written in the terminal and all you have to do is execute this now complete command with the enter key, then enter you password. Though ""sudo"" can be dropped actually in this case and only used if the patcher app doesn't run  
+
+You could also use ""cd"" (change directory) and go to where the patcher is, using ""ls"" on the way to see where you are. But that's more work."
+,chaostastic,2012-08-05T12:23Z,"emperor13, you must first double click ""Authorizelive828.auz"" which is generated by the patcher in the same folder as the patched Live."
+,chaostastic,2012-08-05T12:28Z,"Regarding Rewire, here's the update page: http://www.propellerheads.se/download/updates_rewire/"
+,chaostastic,2012-08-05T13:39Z,"Anyone who knows about the source of crack, please contact me so we can make sure that future patchers are runnable from the get go.
+
+I'm staying on 8.2.8 as it is super stable and so far I don't need any new features in 8.3. I like Live so much so I have put it on my purchase list."
+,chaostastic,2012-08-05T23:08Z,"The reason to why people fail to repair the patcher to is that I was too specific and used the name for the Patcher from another torrent. In this torrent the patcher is called ""Ableton 8.3"" and is found in the iPatcher folder (This is of course a really bad name. ""Ableton 8.3-patcher"" had been more useful).
+When people here, including myself, before have said to rename the patcher ""Patch"", this is it. Just under another name.  
+
+This file need the Terminal command ""chmod -R a+x [path to torrent/iPatcher/Ableton 8.3"". Then it runs. Actually you don't have to add the "".app"" extension to the name at least not on my 10.5 machine, but it doesn't hurt either."
+,chaostastic,2012-08-05T23:22Z,"On my Machine the Live.app itself had to be repaired with ""chmod a+x ""[Path to torrent/Ableton Live 8.app]"" before it run.
+
+I did a file compare with the app ""iPatch"" (available from the makers) between my .dmg image with Live 8.3 and while these are identical in every respect but one: the app on the disk image runs without problems, indicating differences in set permissions. 
+
+There may be good reasons for this, but it's nice when app in the torrent runs, isn't it? "
+,who8me2k7,2012-08-06T00:59Z,"After following all the steps, and even installing the new rewire, I still get the Rewire/authentication fail after clicking the authentication file. Anyone fix this yet?"
+,sharpstix,2012-08-08T07:25Z,"Ok, so I followed all the steps and everything worked out. I even saved a couple unfinished mixes before quitting. HOWEVER.....the second time I tried opening Live, it said I was no longer authorized. When I open ""Authorizelive83.auz"", it says ""This authorization file is invalid on this computer"". And when I try to patch again, it says ""You can't apply the Patch on this File!"". 
+
+PLEASE HELP ME! Everything was working perfectly before!!!"
+,dellboy94,2012-08-13T15:32Z,"working on 10.8 mountain lion followed djsb16's instructions but running the authorization file failed, finally following LemonCaik's instructions; running chmod on ableton live 8.app and authorizelive83.auz yay thanks!"
+,adam02112,2012-08-14T10:08Z,"after 2 days working on it , opened a user to write :
+open terminal, write sudo chmod -R a+x (space) and drag the ableton patch - keep the space ! 
+than the patch is good to use , open it up and choose the ableton app to patch it .
+than do the same thing in terminal to the ableton app before you authorize it. than open authorizelive83.auz and every thing works. max install have error but ableton says it is authorized anyway... maybe install max before ableton but i don't mind, ableton works !"
+,mitjak,2012-08-16T05:43Z,"Same problem as sharpstix: everything works, but closing and re-opening results in  ""This authorization file is invalid on this computer""."
+,mitjak,2012-08-16T05:53Z,"Ok, what worked for me is patching it twice.
+
+1. Path app as usual, launch, and close. Reopening results in an unauthorized key error. No problem.
+2. Right-click on the original Ableton Live 8 app you downloaded, Show Package Contents, and go into MacOS.
+3. Follow the same step #2 but for the app in your /Applications
+4. Copy the ""Live"" file from the original Ableton Live 8 app into the same spot in your Ableton app in /Applications (you're basically trying to replace the patched `Live` binary with a unpatched virgin one).
+5. Go ahead and run the iPatched again and go through the patching procedure once more
+6. Live should now launch repeatedly and not complain. Huzzah!"
+,thewired,2012-09-13T22:37Z,"mitjak, I had the same problem as you and sharpstix. I am trying to understand your fix and was hoping you can clarify. You said you replaced ""Live"" from the packageContents/MacOS of the downloaded Ableton app with that of the /Applications Ableton App. However I don't understand where you got two Apps from? I just have the downloaded one from the same folder as iPatcher etc. Please help thanks!!!!!"
+,hvrley,2012-09-18T02:15Z,the authorization file did not show up in my file. What am I supposed to do to get it?

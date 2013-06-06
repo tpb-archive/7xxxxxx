@@ -1,0 +1,54 @@
+Source that have been used for encoding:
+VIDEO SOURCE: MPEG2 4:2:2, 1080/50i, 35 Mbps
+AUDIO SOURCE: Dolby E 5.1, 24-bit
+
+General
+Unique ID                        : 205087561721039987582590529953496824066 (0x9A4A6D796BD8BA448FDE64763A9FF902)
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 6.51 GiB
+Duration                         : 1h 45mn
+Overall bit rate                 : 8 813 Kbps
+Encoded date                     : UTC 2012-05-23 05:29:48
+Writing application              : mkvmerge v5.5.0 ('Healer') built on Apr  6 2012 21:43:24
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 45mn
+Bit rate                         : 7 128 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 50.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.155
+Stream size                      : 5.27 GiB (81%)
+Writing library                  : x264 core 120 r2164 da19765
+Language                         : English
+
+Audio
+ID                               : 2
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Codec ID                         : A_DTS
+Duration                         : 1h 45mn
+Bit rate mode                    : Constant
+Bit rate                         : 1 510 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 24 bits
+Compression mode                 : Lossy
+Delay relative to video          : 3ms
+Stream size                      : 1.12 GiB (17%)
+Language                         : English

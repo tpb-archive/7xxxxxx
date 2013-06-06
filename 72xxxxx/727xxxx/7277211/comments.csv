@@ -1,0 +1,71 @@
+﻿User Type,Username,Date,Text
+,pytnox,2012-05-18T06:56Z,"Live DVD iso - is supported guest OS Mode. (VirtualBox,VMVARE)
+http://myphoto.nnov.ru/img/L8fiU.png
+
+Installation from LiveDVD on HDD:
+# calculate -d /dev/sdXX
+  (Where XX - name and number of hard disk partition, sda2 - for example)
+
+Section number to indicate it is necessary!, If you specify the entire disk
+  sda - for example, the utility will calculate partition your hard disk in its discretion,
+  and erase data. (used for installation on a blank hard disk).
+
+ list of common installation options
+- set-format=reiserfs (ext4, ext3, ext2, jfs, xfs) - file system format;
+- set-video_resolution=1280x1024 (1024x768, 1152x864, 1280x800, etc.) - the screen resolution (actually, if the current screen resolution you are not satisfied);
+- set-hostname=linux - computer's network name
+- set-mbr=off - do not modify the MBR during the installation (set to 'off', if you want to use your loader);
+
+more options
+- set-erase=off - not to format the partition before the installation (use if unsure).
+
+Installing a hard disk with LiveDVD, takes about 6-10 minutes, depending on your hardware.
+
+If you use a separate partition boot, then you need to copy the
+contents of the directory of the boot /
+Then edit the grub.conf section under the boot, and add the mount point
+in fstab
+
+Reboot
+
+Screenshots previous version (LivDVD Mode kernel-3.1.10):
+http://myphoto.nnov.ru/img/5aHXv.png
+http://myphoto.nnov.ru/img/coQCc.png
+http://myphoto.nnov.ru/img/t40dF.png
+http://myphoto.nnov.ru/img/7bIzV.png
+http://myphoto.nnov.ru/img/KqzDq.png
+http://myphoto.nnov.ru/img/TxOkz.png
+
+Screenshots current version (LivDVD Mode kernel-3.3.4):
+http://myphoto.nnov.ru/img/5aHXv.png
+http://myphoto.nnov.ru/img/JpBRV.png
+http://myphoto.nnov.ru/img/NAmh6.png
+http://myphoto.nnov.ru/img/hdVIA.png
+http://myphoto.nnov.ru/img/Mmf9u.png
+http://myphoto.nnov.ru/img/tPCeE.png
+
+P.S.
+Portage 2012 - contain Gnome3 and KDE version 4.6.3 above are not compatible with xorg-server-1.5.3-level libraries.
+So this is the last LiveDVD - contains the KDE and Gnome.
+At Portage in 2012, you can build a system with LXDE OpenBox and XFCE4,
+using a bunch: FGLRX-9.2 + kernel-3.xx + xorg-server-1.5.3
+A bunch of FGLRX-9.2 + xorg-server-1.5.3, works with any version of a stable kernel.
+"
+,pytnox,2012-05-25T09:27Z,"GENTOO_MIRRORS=""ftp://linuxarchive.nnov.ru/Unix/Gentoo"" -Did not work last time.
+================================================================================
+
+
+In the file /etc/make.conf
+
+Change:
+
+SYNC=""rsync://rsync.gentoo.nnov.ru/gentoo-portage""
+GENTOO_MIRRORS=""ftp://linuxarchive.nnov.ru/Unix/Gentoo""
+
+On a more comfortable you are, for example:
+
+GENTOO_MIRRORS=""
+http://mirrors.sec.informatik.tu-darmstadt.de/gentoo/
+http://mirror.yandex.ru/gentoo-distfiles/
+http://gentoo.supp.name/""
+SYNC=""rsync://rsync.europe.gentoo.org/gentoo-portage"""

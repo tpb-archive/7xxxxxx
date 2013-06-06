@@ -1,0 +1,47 @@
+ This little application does everything for audio conversion, it can convert a stereo
+
+ mp3 to a 6 channel 5.1 lossless Flac or WAV for example.
+
+ It has masses of options and effects including lots of extra DSP settings.
+
+ No install, crack or patch needed just copy main application and batch converter to
+
+ desktop or program files.Clean - scanned with Avast and Malwarebytes.
+
+
+
+
+ illustrate dBpoweramp Music Converter Reference v14.2 Portable 
+
+Audio conversion perfected, effortlessly convert between formats. dBpoweramp Music ConverterΓäó has become 'the standard' tool for audio conversions, over 20 million users worldwide rely on dBpoweramp:
+      * Convert audio files with elegant simplicity. mp3, mp4, m4a (iTunes / iPod), Windows Media Audio (WMA), Ogg Vorbis, AAC, Monkeys Audio, FLAC, Apple Lossless (ALAC) to name a few!
+     * Multi CPU Encoding Support,
+     * Rip digitally record audio CDs (with CD Ripper),
+     * Batch Convert large numbers of files with 1 click,
+     * Windows Integration popup info tips, audio properties, columns, edit ID-Tags,
+     * DSP Effects such as Volume Normalize, or Graphic EQ  [Power Pack Option],  
+
+
+
+ It is safe to say, no other audio program converts more multi-format audio files than dBpoweramp, we have spent 8 years perfecting format-compatibility and conversion stability.
+
+ Release 14.2
+ Album Art Search from Internet Updated
+ MusicBrainz working with NGS changes, also updated to our new MusicBrainz server
+ CD Ripper - when showing Review Metadata page will indicate if cannot show for various reasons (metadata came from HDD cache, or PerfectMeta is disabled)
+ CoreConverter debug shows the file size after conversion and tagging
+ CoreConverter passes EXIT_SUCCESS or EXIT_FAILURE on exit
+ Music Converter remembers last 10 folders
+ ID Tag >> Album Art >> Load From File - defaults to the directory the file is
+ Added MusicBrainz ID tag to CD ripper
+ Added [discunique] to cd ripper naming
+ Added Pre-Emphasis & HDCD tags to CD ripper (requires Track Technical Column showing in CD Ripper)
+ Bug Fix: ALAC encoder writing correct internal sample count
+ Bug Fix: Uninstall could leave the Windows Property details page for previously registered formats (such as mp3) inoperable
+ Bug Fix: Ogg Album Art embedding, no longer base64 encodes with short text lines (rn)
+
+Size: 22.3 MB
+
+  http://www.dbpoweramp.com/dmc.htm
+
+ 

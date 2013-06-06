@@ -1,0 +1,52 @@
+Gentoo Linux 2011.12 kernel-3.3.4 ATI.Nvidia Legacy Driver support.
+
+Portage-20111205 (05-December-2011)
+KDE-4.6.3
+Gnome-2.32.1
+XFCE-4.8
+OpenBox-3.5.0-r1
+Kernel-3.3.4
+Xorg-Server-1.5.3
+
+ATI-Drivers - 11.11, 9.2 (fglrx)
+Nvidia-Drivers - 290.10, 173.14.31, 96.43.19 (nvidia)
+
+For ATI [AMD] cards - Drivers:
+FGLRX-11.11, Legacy FGLRX-9.2, Open RADEON
+For Nvidia cards - Drivers:
+Nvidia-290.10, Nvidia-173.14.31, Legacy Nvidia-96.43.19, Open NV
+(Determined at startup by using lspci, and set the nominal
+command emerge-K <driver version> of the binary compiled package (tbz2), present at livedvd. )
+
+Program code is present definitions for:
+Intel - intel
+Matrox Graphics - mga
+Trident Microsystems - trident
+3DLabs GLINT - glint
+Neomagic Corporation - neomagic
+3Dfx Interactive - tdfx
+S3 Inc. Savage - savage
+S3 Inc. ViRGE - s3virge
+S3 Inc. Trio 3D - s3virge
+S3 Inc. Trio 64 3D - s3virge
+Via - openchrome
+SiS - sis
+Corresponding to these drivers, with the support of DRI - installed.
+For undetermined adapters, exposed mode vesa.
+
+VirtualBox 4.0.12, Firefox 9.0.1, LibreOffice 3.3.4
+and a large number of programs - for working with multimedia content,
+and Internet applications
+
+Supported languages:
+English,Russian
+
+LiveDVD includes more than 1,300 packages, and provides hardware acceleration fglrx and nvidia directly from livedvd.
+
+
+In torrent - livedvd with the possibility of installing the system on the hard disk.
+(Gentoo-2011.12-kernel-3.3.4-ATI.Nvidia.Legacy-i686.iso)
+# MD5 HASH
+813ca46d91a3c83e7176d4fe9107056c
+# SHA1 HASH
+e9c366e68d82acd0efd70e62aca7192b5e42d692

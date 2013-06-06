@@ -1,0 +1,108 @@
+﻿User Type,Username,Date,Text
+,trublaze,2012-05-02T06:09Z,didn't work...have  fishy feeling i probably just fucked up my mac too
+,WinterGale,2012-05-02T06:25Z,"@trublaze What happened? Were there error messages?
+
+@everybody Does anyone have problems with the app?"
+,WinterGale,2012-05-02T06:26Z,"@trublaze What happened? Were there error messages?
+
+@everyone Does anyone have a problem with the app?"
+,upsidebrown,2012-05-02T08:39Z,"Hi WinterGale, didn't work for me either (though I wouldn't go as far as accusing it of fucking up my mac). After unarchiving it, whenever I open the app, it doesn't launch. Icon doesn't appear in the dock or anything. I'm running Snow Leopard on a 09 MacBookPro... is this app Lion native perhaps?"
+,WinterGale,2012-05-02T09:47Z,"my bad, I should have posted the system requirements:
+
+OS: Snow Leopard (10.6.X) 
+Processor: 2.3 Ghz Intel 
+Memory: 4 GB RAM Hard 
+Disk Space: 2 GB Space Free 
+Video Card: 512 MB NVidia or ATI graphics card 
+
+Additional: Not recommended for Intel integrated graphics or Mac Minis or early-generation MacBooks
+
+
+But for the record, this game works fine on my Late 2010 MacBook Air"
+,WinterGale,2012-05-02T09:51Z,Was anyone able to successfully run the game? Because if no one was able to run the game then I'm taking this torrent down...
+,ghrelina,2012-05-02T11:36Z,"@WinterGale. Doesn't work for me. I have a early 2011 Macbook Pro running OS X Lion. After I launch the app, the icon appears in the dock, but it keeps jumping for minutes without starting the app. Thanks"
+,jonne.zoide,2012-05-02T12:20Z,"Hi Wintergale and thanks for trying to upload a working copy of this game. Unfortunately I'm having the same problem as upsidebrown, I try to start the game and nothing happens, no icon in dock, nothing.
+
+So it's really really far from fucking up my mac as trublaze says, but it still doesn't work for me either. I'm running 10.6.8."
+,joaolonas,2012-05-02T15:39Z,"Hei! This game is working fine on my 13 inch late 2011 macbook HD 3000. 
+Many thanks man! Please keep uploading the other episodes once their out and we seed! Do not take it out. It works."
+,WinterGale,2012-05-02T16:30Z,"@joaolonas finally! I thought this app was really broken and that I was the odd one out where the app actually worked...although I can't seem to find a pattern as to how the apps work and don't seem to work. They say that the native mac version of the walking dead is bug-ridden, maybe that is the cause..."
+,An4wan,2012-05-03T04:00Z,@WinterGale I am having the same problems as ghrelina. I have an I Mac version 10.7.3. The processor is 3.06 GHz Intel Core i3 with a 4 GB memory. You are the second person I have found that has uploaded a walking dead mac torrent that doesn't work for most people. I am beginning to feel that this game is not bootlegable for people with my computer type and version.
+,WinterGale,2012-05-04T05:44Z,"Tsk tsk, I don't really know what's wrong...for some people, this game works, others are not so lucky..."
+,murc1985,2012-05-05T07:54Z,Did work... running on macmini 10.6.8 also runnin on external hard drive... thanks!!!!
+,murc1985,2012-05-05T08:55Z,"PD:you should try little snitch before running, maybe is part of the problem... when I run the game, little snitch stopped itÂ´s connections to the servers... just wanted to share this..."
+,jonne.zoide,2012-05-05T12:23Z,"It might be Little Snitch, but I'm not sure. I have LS and the app didn't try to call home. It seems to me that so far those who said that the game works for them are all using shared graphics memory, people with MB Air and MB Pro 13 and Mini.
+
+Weird, since the game doesn't suppose to work with shared memory."
+,algraine,2012-05-07T04:58Z,didn't work for me too :(
+,camyoza,2012-05-08T02:00Z,Doesnt work the .app is a grey error icon labled as the image. im on a os 10.6.8 imac. imo reupload the torrent and run some fixes over it as ive downloaded this file on 3 seperate macs not working for either and all are over the requirements of the game.
+,ramowy,2012-05-10T14:27Z,"Ok people, may I have your ATTENTION please!
+
+THIS WILL MOST LIKELY SOLVE ""APP BOUNCING IN THE DOCK"" ISSUE.
+
+
+1) Use the default archiving app (Archive Utility.app) to extract files. If you can, it should fix. If you can't (i.e. it's a rar), proceed to step 2).
+
+2) Before you extract archive open Terminal.app , navigate to your downloads directory like this:
+cd ~/Downloads
+
+and than type this command:
+sudo xattr -dr com.apple.quarantine NAMEOFTHEARCHIVE
+
+type your admin password and you are good to go. I don't know if it will work without
+sudo
+.
+
+I have no idea why this is not common knowladge.. I had to dig through these awful apple boards to find a fix, yayks.."
+,camyoza,2012-05-24T02:36Z,hopefully ramowys method works trying it out now
+,camyoza,2012-05-24T03:00Z,Cant seem to get ur method to work ram terminal doesnt seem to think the archive exists any help?
+,Kye95,2012-06-02T10:49Z,"Will this work on a 2010 Macbook Pro with:
+
+OS: Snow Leopard 10.7.4
+Processor: 2.4 GHz Intel Core 2 Duo
+Memory: 4 GB
+Graphics: NVIDIA GeForce 320M 256 MB"
+,zombietash,2012-06-02T16:15Z,hi there wintergale took me 5hours to download and doesn't work.. just keeps jumping up and down in my dock :/ I'm really sad coz i was so looking forward to playing! maybe there is another mac version that u could upload so it plays?
+,zabbwich,2012-06-28T17:29Z,working fine! thanks. I have 10.8.5
+,JohnWu,2012-07-09T08:05Z,Please upload Episode 2 and email me :D [wujohnathan@gmail.com]
+,husam001,2012-07-23T03:21Z,Can you pls upload ep2.
+,rzrct,2012-07-30T13:44Z,"HOW TO PLAY EPISODE 2!
+
+DOWNLOAD THIS PC VERSION OF EP 2
+http://thepiratebay.se/torrent/7401495/The_Walking_Dead_Episode_2__amp_ndash__Starved_for_Help
+
+When downloaded
+
+1. Find the ""The Walking Dead EP 1"" Starter (Mac Native)
+2. ""Right Click"" that and go to ""Show Package Contents""
+3. Open ""Contents,""
+""resources,""
+""drive_c,""
+""Program Files,""
+""The Walking Dead"" THEN 
+""Pack""
+4. Copy the folder called WalkingDead102 (Link Posted Above) and place it into the ""Pack"" folder (in the ""default"" folder there is Part 1)
+5. Load the game, Select ""Play"", Go standard (if you want), then select Part 2. The game will start to load and may take a long time. Then part 2 will start. Hopefully"
+,teh-cheeseman,2012-07-31T08:49Z,Works for me but freezes sometimes. Used Stuffit expander to extract.. MBP 2011 Intel 3000
+,dyl055,2012-08-02T05:18Z,"When you use the unarchiver it seems to not work (app does not show up on dock).So you have to open with Stuffit expander or maybe some other expander that works (Stuffit worked for me).
+Then you should be able to play it for some reason."
+,iovando,2012-08-03T02:12Z,dyl055 i can confirm that this worked on 10.6.8 macbook pro early 2011
+,vampi11,2012-08-11T01:57Z,"works, Thank you!
+"
+,sayuri101,2012-08-20T04:52Z,"@rzrct
+I opened the package content then resources but no ""drive_c>Program Files>The Walking Dead""
+it goes straight to Pack.
+When I open it there is no WalkingDead101 (aka default) folder only it's contents. Will it still work if I paste the WalkingDead102 folder or should I copy the contents of the 102 and paste it?"
+,sayuri101,2012-08-20T06:02Z,"@rzrct
+tried the to copy paste the folder. game says its installed but never loads. always get black screen for a long LONG time"
+,rzrct,2012-08-21T02:30Z,"@sayuri101. You mentioned you didnt have the folder for episode 1. I most probably would have pasted in the files from episode 2 in with the rest, but you said it has recognised as installed so i dont see why it wouldnt work. As i mentioned in my post i had a blank screen for a LONG time too, i left my comp for a bit and the intro  was playing when i returned. But then again i do have 8gig RAM with an SSD on my 2.4GHz OSX 10.6.8 so its slightly upgraded"
+,lan078,2012-09-04T17:16Z,"@rzrct
+the game crashes every time i tried to run the ep. 2"
+,rcxd1234,2012-09-04T20:09Z,"rzrct
+
+you idea works perfect because it is a wineskin wrapper. so theoretically and pratically it works
+i am in OS X Mountain Lion and it works perfect on early 2011 macbook pro. i love it. i didn't even have to wait for a black screen. Ep. 2 just started (though i did lose my save)
+
+Ep. 1 = http://thepiratebay.se/torrent/7232582/The_Walking_Dead_Episode_1_(MAC_Native)
+
+Ep. 2 = follow rzrct's way"

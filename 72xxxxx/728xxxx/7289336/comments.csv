@@ -1,0 +1,86 @@
+﻿User Type,Username,Date,Text
+[V],Anacondaz,2012-05-22T11:47Z,"Overall product features
+• Revolutionary new features, a fluid user experience, and improved access to the unrivaled power of Photoshop
+• A more intuitive user interface and new nondestructive editing features that put you in control, including the new Adjustments and Masks panels
+• New and revolutionary Content-Aware Scaling, advanced auto-blending that extends depth of field, and industry-leading editing and compositing with reengineered color-correction tools
+• Significant productivity enhancements that provide increased flexibility and enable you to leverage the power of today’s faster graphics processors
+• Breakthrough 3D editing and compositing capabilities and improved video controls to dramatically expand your creative options
+• Comprehensive image analysis with enhanced measurement and counting tools, as well as support for DICOM images and MATLAB processing routines
+
+New and enhanced features:
+
+Unrivaled editing
+• Adjustments panel for live, nondestructive image adjustment
+• Masks panel for creating editable, feathered, density-controlled masks
+• Content-Aware Scaling
+• Enhanced auto-blending of images
+• Enhanced auto-alignment of layers
+• 360-degree panoramas
+• Extended depth of field
+• Better raw image processing
+• Enhanced expert retouching
+
+Increased productivity
+• Smoother panning and zooming and fluid canvas rotation
+• Industry-leading color correction with reengineered Dodge, Burn, and Sponge
+• Efficient file management with new Adobe Bridge CS4
+• Tighter integration with Adobe Photoshop Lightroom®
+• Adobe Kuler™ for color harmony creation and sharing
+• N-up and multiple document view
+• More powerful printing options
+• Superior performance on very large images
+• Multi-Touch support on Mac laptops
+• Adobe Community Help
+
+Breakthrough 3D, motion graphics, and image analysis
+• Direct painting on 3D objects
+• Easy conversion from 2D to 3D
+• Editable 3D properties (scene, materials, meshes, lights)
+• High-quality output with new ray-tracing rendering engine
+• 2D and 3D image compositing
+• 3D object animation
+• 3D/video support
+• New, high-performance, nonmodal 3D engine
+• Volume rendering
+• Single-key shortcuts for editing motion graphics
+• Preview and export of audio content and frame comments
+• Quantitative data extraction
+• Enhanced Count tool
+
+Photoshop CS6 Highlights:
+* Content-Aware Patch – Patch images with greater control using the newest member of the Content-Aware family of technologies. Choose the sample area you want to use to create your patch, and then watch Content-Aware Patch magically blend pixels for a stunning result.
+* Blazingly fast performance and a modern UI – Experience unprecedented performance with the Mercury Graphics Engine, which gives you near-instant results when you edit with key tools such as Liquify, Puppet Warp, and Crop. Plus, a refined, fresh, and elegant Photoshop interface features dark background options that make your images pop.
+* New and re-engineered design tools – Create superior designs fast. Get consistent formatting with type styles, create and apply custom strokes and dashed lines to shapes, quickly search layers, and much more."
+,baelnorn7,2012-05-22T22:22Z,"The default install is in french ... i didn't managed to change it (both editing .ini and using Meniu Preferences etc). I even renamed the folders from fr_FR to en_US but didn't work.
+
+Other than that everything is fine :)"
+,wildman69,2012-05-23T00:05Z,It's not Multilingual it's French and you can't change it to bad.
+[V],Anacondaz,2012-05-23T02:24Z,"If not in English, select file help.html in install folder created by exe file, click on goto photoshop portable cs6 homepage, and download the patchoverqwrite the folder en-us with the one in the patch file"
+,baelnorn7,2012-05-23T08:12Z,"Thanks again man , worked like a charm ;)"
+,SergioFCPorto,2012-06-05T03:59Z,thanks
+,dpakram,2012-06-12T10:42Z,"how can i change the language to english...???
+help needed."
+[V],Anacondaz,2012-06-12T14:04Z,"@dpakram
+
+read my above comment my friend"
+,dpakram,2012-06-12T14:54Z,"Couldn't find ""help.html"" kindly elaborate the process...Thanks"
+,dpakram,2012-06-12T15:19Z,"Locate ""Support Files"" Folder, inside that file named   ""tw10428.dat"". Changing the files extension to .bak (tw10428.bak) working well for me."
+,jkme,2012-06-15T17:05Z,"I don't understand how I'm changing the language (yes, I've read the comments, and the ""read me"" note, but I still don't understand how to do it ...)."
+,marcusn,2012-06-27T20:04Z,There's a version of CS6 on the portableappz homepage that automatically detects your native language.
+,sempressa,2012-07-11T17:42Z,"This version works good:
+
+portableWappz.blogspoWt.Wcom/searWch?q=PhotWoshop+CS6
+
+* Delete capital W's
+
+Thank you, Anacondaz!
+"
+,maryanne007,2012-07-17T18:03Z,what dpakram said really works! thanks for your help :)
+,torrentlol,2012-07-23T23:11Z,"Hey. I have installed and its still in french. Altso the quality on the images that I'm creating are so bad quality, i am not sure if its just the CS6 or my PC, or the install that makes the quality that bad. I hope there is a fix for these two bugs. Like i can use photoshop cs6. Thanks."
+,tezzilicious,2012-09-01T00:09Z,"I want to get it in Swedish, but I have read both help and comments but I do not really understand how to do. tw10428.dat where do you want it? Should I move it to the plug-in, or should I have left it where it is and just rename it to. bak as someone wrote earlier. Or am I completely in the wrong and will move it to App/PhotoshopCS6/AMT/sv_SE? Please help me as I would really like to get this!"
+,pras92,2012-09-06T19:53Z,"@tezzilicious
+
+You need not have to move the .dat file. Just rename it to .bak and leave it in its location.
+But, If you have the folder as sv_SE you should be having it in swedish already.
+What language are you getting now?"
+,tezzilicious,2012-09-06T22:02Z,"Oh when I installed this, it was in French. I can not work in any other language. So therefore, I thought if the folder was wrong or was positioned wrong."

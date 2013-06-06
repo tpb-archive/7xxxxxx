@@ -1,0 +1,66 @@
+Adobe.Illustrator.CS6.incl.Bridge-PortableApps.comFormat
+
+Website: http://www.adobe.com/products/illustrator
+Category: Graphics & Pictures
+Version: 16.0
+Build: CS6
+Release: Final
+Language: English
+Writes Settings to: Application Folder
+Stealth: Yes
+License: Payware
+Test Platform: WinXP SP3, Win7 32/64
+Dependencies: Administrative Rights, (XP SP3: visual c++)
+System Requirements: WinXP SP3.
+Performance Notes: new software that are resource intensive like Illustrator
+do not perform well in XP. i highly recommend upgrading. if you're here, then
+you ought to be able to find a working copy of Win7... for Christ's Sake, M$
+doesn't even support it anymore!
+
+Synopsis: with Illustrator.. you kind of need Adobe Bridge. It makes it so 
+much easier to browse for files as it provides thumbnails images of Ai, EPS,
+and other vector formats. You can also export directly into Illustrator from
+Bridge. I feel the benefit from having Bridge alongside Illustrator is worth
+the extra effort of compiling another PAF and uploading. 
+
+----------------------
+PORTABLEAPPS.COMFORMAT
+---------------------- 
+http://portableapps.com/about/what_is_a_portable_app
+There seems to be a lot of people who are unfamiliar about the purpose/benefit
+of "PAF". PAF runs naturally on your PC, thus allows you to use your PC's 
+resources like RAM/Graphics Card. It does this by copying files back & forth
+on the fly. Because of this.. i have to balance between load time & 
+functionality. It's a fine line.. and what i consider perfect may not be
+for others. 
+
+------------------------
+HOW TO ADD MORE FEATURES
+------------------------
+1. install Illustrator on a VM.
+2. copy over the "Adobe" folder from "Common Files".
+3. compare the difference between that "Adobe" folder and:
+IllustratorPortable > App > DefaultData > Adobe.
+
+* i.e. i left out "Linguistics" because it's 213MB. if you wanted this.. simply
+copy into the "Adobe" folder inside "IllustratorPortable".
+
+5. Delete "Data" folder to reset everything.
+6. Launch IllustratorPortable and the feature should be available.
+
+---------
+USB USERS
+---------
+You're better off using a ThinApp/Spoon Studio version.. because Illustrator
+is so deeply integrated into the OS and requires a lot of files/registry keys.
+ 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/1.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/2.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/3.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/4.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/5.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/6.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/7.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/8.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/9.png 
+http://i1095.photobucket.com/albums/i467/_Fuken_Gruven_/IllustratorPortable/10.png

@@ -1,0 +1,14 @@
+This is derived from an .m4v torrent.
+The video is NOT re-encoded, but a useless long segment is removed from the end.
+The audio had to be re-encoded to CBR AC3 in order to maintain synchronization with the variable-FRAME-rate x264 video. VFR video is notorious for making it difficult to maintain sound synchronization.
+
+You're on your own to find a player that can do a good job with this, as well as to have hardware and software that can present H264/x264 satisfactorily. x264 is not usually found in today's avi-container files.
+
+If all else fails, install Avidemux and use it as a player. (Answer "No" to the questions that pop up when you open the file.)
+
+Languages: various local languages, plus excellent hard-coded English subtitles.
+
+official site: www.womenareheroes-lefilm.com
+
+For more info, see: 
+http://thepiratebay.se/torrent/7206173/women_are_heroes_DVDRIP.m4v

@@ -1,0 +1,78 @@
+Features
+Can be run as a standalone application
+Works well with all system languages
+Argument support for silent installs
+Can be used for pre-activation
+Application integrity checking
+Custom error handling
+Support for hidden partitions and complex setups
+Can work alongside Linux's GRUB or any other boot manager
+Works with TrueCrypt and many other types of hard drive encryption applications
+Add your own certificates and serials externally
+Offers certificate and serial installation only for users with an existing SLIC 2.1
+Automated system profiling (The application matches everything up for you)
+
+The rundown
+Compatible with Windows 7 SP1 and all system updates Γ£ö check
+Will run on x86 and x64 systems Γ£ö check
+No core system files get modified Γ£ö check
+No extra processes are run so you have nothing eating at your RAM Γ£ö check
+All key parts of the exploit are encrypted with a custom encryption Γ£ö check
+The exploit runs before Windows so it's harder for Microsoft to prevent Γ£ö check
+The exploit patches all necessary tables making activation look authentic Γ£ö check
+The application will select the best profile for your system during installation Γ£ö check
+Each and every user has a unique version of the exploit installed on his/her system Γ£ö check
+
+Supported operating systems
+Windows 7 Ultimate
+Windows 7 Ultimate E
+Windows 7 Professional
+Windows 7 Professional E
+Windows 7 Home Premium
+Windows 7 Home Premium E
+Windows 7 Home Basic
+Windows 7 Starter
+Windows 7 Starter E
+Windows Vista Ultimate
+Windows Vista Business
+Windows Vista Business N
+Windows Vista Home Premium
+Windows Vista Home Basic
+Windows Vista Home Basic N
+Windows Vista Starter
+Windows Server 2008 Enterprise
+Windows Server 2008 Foundation
+Windows Server 2008 Standard
+Windows Small Business Server 2008
+Windows Storage Server 2008 Standard
+Windows Storage Server 2008 R2 Essentials
+Windows Server 2008 R2 Enterprise
+Windows Server 2008 R2 Foundation
+Windows Server 2008 R2 Standard
+Windows Small Business Server 2011 Standard
+Windows Small Business Server 2011 Essentials
+
+Version 2.1.3:
+* Added a new GRLDR version
+* Added support for Windows Home Server 2011
+* Added support for Windows Server 2008 R2 Datacenter
+* Added a few new serials
+* Improved handling for systems with missing ACPI tables
+
+WAT Fix will:
+Uninstall RemoveWAT (or similar)
+Uninstall HAL7600
+Uninstall Chew7
+Uninstall uODIN
+Correct file permissions
+Correct important system files
+Correct services required for activation
+Correct VBS file associations
+Remove Microsoft entries from the HOSTS file
+
+Usage:
+Run WAT Fix
+Install Windows Loader
+If required visit the following website to revalidate Windows: www.microsoft.com/genuine/validate/ (Use Internet Explorer)
+
+Warning: Do not close WAT Fix while it's running.

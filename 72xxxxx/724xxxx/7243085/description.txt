@@ -1,0 +1,27 @@
+ok, this is the PS1 release of rayman, but fully workign on PC, and launched by a tidy little icon like a windows application, much like my tekken 3 release
+
+the sound is fully working.
+
+
+
+contents of readme:
+
+
+to install, simply extract UBISOFT folder into the root of your C: drive
+
+so it should be C:UBISOFT
+
+then, go to C:UBISOFTRaymanRaymanSetup.reg, and open it, then select 'ok'
+
+once this is done, you can simply use the 'Launch Rayman' icon to play the game.
+
+if you would like to customize controls for a gamepad, or your own custom keyboard setup, just open
+epsxe.exe, then go to config in the toolbar, scroll over gamepad, port 1 (or 2) then click pad 1 to
+redefine the controls.
+
+i hope this helps anyone out who is having trouble emulating rayman properly.
+
+if you have any trouble with getting this to work, simply email me on gleeze12@gmail.com,
+and i will do my best to help you with the problem :-)
+
+cheers.

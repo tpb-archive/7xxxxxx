@@ -1,0 +1,61 @@
+Recorded from Spanish broadcaster TVE HD. 720p. 5.1.
+
+File properties:
+
+General
+Unique ID                        : 210098077622075035810210203369516636672 (0x9E0F6AFB2B99958DB7E62359FFE91A00)
+Complete name                    : Eurovision Song Contest 2012 1st Semifinal 23-05-2012 720p.mkv
+Format                           : Matroska
+File size                        : 6.92 GiB
+Duration                         : 1h 58mn
+Overall bit rate                 : 8 371 Kbps
+Encoded date                     : UTC 2012-05-23 01:21:02
+Writing application              : mkvmerge v5.5.0 ('Healer') built on Apr  6 2012 21:43:24
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 6 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 58mn
+Bit rate mode                    : Variable
+Bit rate                         : 7 885 Kbps
+Maximum bit rate                 : 40.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 50.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.171
+Stream size                      : 6.52 GiB (94%)
+Title                            : Vídeo
+Language                         : Spanish
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : E-AC-3
+Format/Info                      : Audio Coding 3
+Muxing mode                      : Header stripping
+Codec ID                         : A_EAC3
+Duration                         : 1h 58mn
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Delay relative to video          : 3ms
+Stream size                      : 271 MiB (4%)
+Title                            : Audio
+Language                         : Spanish

@@ -1,0 +1,14 @@
+Uploader v6
+
+This script allows you to run a "file hosting" service on your web server. For a demonstration of the script and of the latest version, visit CDUpload.com.
+Features
+
+This is a short list of important features. The full feature list for the latest version is available here. For a demo of these features in action, check out CDUpload.com.
+
+    User registration with individual account space and bandwidth allocation/limit. Each account has its own seperate storage space. You can manage them with the web based admin tools.
+    Bandwidth tracking and limiting (requires mod_rewrite which means Apache)
+    IIS servers with ISAPI_Rewrite will need to port the rewrite rules. The syntaxes are VERY similar to each other so if you can do it you can ignore this requirement.
+    Batch file uploading, either by selection or by Zip file (requires gzip in PHP).
+    Version 6.1 requires the additional Zip extension. Version 6.2 and after do not. Versions prior to 6.1 does not support batch uploading through Zip files.
+    Image galleries, or photo folder, with thumbnails and slideshows. The GD graphics library (version 2) extension for PHP is required for thumbnail creation. Photo folder feature is only available in version 6.2 and up. Slideshow feature is only available in version 6.3 and up.
+    Fully skinnable via template files. Two basic template sets are included.

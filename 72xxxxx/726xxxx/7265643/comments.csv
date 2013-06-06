@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,ARGONAUZ,2012-05-17T17:30Z,its work but only problem is about this shit openGL eror i cant play game without that
+,ivandksd,2012-05-24T04:25Z,"The game works, but i found a couple of issues: 1) Not being able to run the game on opengl; 2) I was getting ""ED_Alloc No Free Edicts"" error and crash of my game at a certain point. To solve both problems do this:
+
+Create a txt file and past this in it:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USERSoftwareValveHalf-LifeSettings]
+""EngineDLL""=""hw.dll""
+""User Token 2""=""""
+""User Token 3""=""""
+""ScreenWindowed""=dword:00000000
+""CrashInitializingVideoMode""=dword:00000000
+""ScreenWidth""=dword:00000400
+""ScreenHeight""=dword:00000300
+""ScreenBPP""=dword:00000020
+""engined3d""=dword:00000000
+
+Save it as "".reg"" file(you need to see file extensions), double click and confirm. 
+
+Then create a shortcut to HL.exe and add this in to the init path ""-steam -game CryOfFear -gl -appid 70 -num_edicts 2049"" it looks like this in my pc = E:GAMESCry of Fearhl.exe"" -steam -game CryOfFear -gl -appid 70 -num_edicts 2049
+
+This should fix those problems.
+"
+,ivandksd,2012-05-24T04:29Z,"Also, you can change game's resolution by starting ""CryOfFearLauncher.exe"", chose resolution and start the game. The game will crash, but then start the game using the shortcut and every thing should work fine."
+,ARGONAUZ,2012-05-24T21:39Z,"how to repair the problem about ""ED_Alloc No Free Edicts"" i cant finish the game"
+,ivandksd,2012-05-25T04:38Z,ARGONAUZ: Look up... the second comment ;)
+,SKyMDX,2012-06-03T19:14Z,"@ivanksd: I created the text file and copy/pasted the stuff into it, made it into a "".reg"" file but now I'm confused. Do you think you can elaborate a bit more into the steps after the text file?"
+,xUnLexX,2012-06-12T21:04Z,"Hi, someone tested and can confirm if coop is working through LAN using tunngle or hamachi?
+
+Obs: Game works fine, thanks for this standalone release.
+"
+,epiplon,2012-06-22T20:41Z,"Open the Cry.bat file in some text editor and put the -gl argument to run in OpenGL, so it won't say that doesn't support software, hardware or other crap like that."
+,cmos0610,2012-07-05T23:16Z,"how can I play in coop?
+by hamachi plzzz"
+,ToDaFace,2012-07-17T07:27Z,"@cmos0610 there's tutorials out there, but from what I remember you need to make a server then have your friend join it I think"
+,srkia,2012-07-17T16:23Z,"I did everything. But cant get the game working. 
+The resolution is always small. Will be seeding. Still can anyone help?"
+,Mahdi96,2012-07-17T22:25Z,what's this ?
+,jointpotz,2012-07-20T12:05Z,how do i do the second part
+,mcnauz,2012-07-26T20:19Z,"About the OpenGL error this is what worked out for me to play the game on OpenGL on fullscreen
+-right click the cry.bat file and click on edit
+-copy and paste this:
+start hl.exe  -steam -game CryOfFear -gf -appid 70 -full -gl
+instead of what's already there
+-run the Cry.bat and it should work fine
+"
+,nr14,2012-08-17T16:20Z,"So, how do coop with or without tunngle?
+As in, do I need to use tunngle or does ordinary LAN work?
+Me and my friend can't see each other."
+,nr14,2012-08-17T22:38Z,"Ignore what I said, all i needed to do was to use the 'Connect' command.
+
+Aside from that, does anyone have a crack/dll file that makes the program think you're a donator?"
+,12allen12,2012-08-31T20:32Z,"If you were getting problems with the second part of Ivandksd's instructions, you're overlooking it. He explains it but you're probably copying the wrong thing.
+
+Just right click and send a copy of hl.exe to your desktop, right-click and go to properties, then paste this after the shortcut:
+
+-steam -game CryOfFear -gl -appid 70 -num_edicts 2049
+
+Then apply, okay, and you're good to go. "

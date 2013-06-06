@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+[V],ThumperTM,2012-04-28T10:29Z,"Virustotal scan report: https://www.virustotal.com/file/ceb0893998b0a6bf13c89a8e3e19640b8360c87e76bd8b984b619798fc34f1be/analysis/1335556428/
+
+Enjoy & SEED!"
+,alphamale007,2012-04-29T13:24Z,Thank you for this. Works great. +1 rep
+[V],ThumperTM,2012-04-29T19:07Z,cheers
+,nondoleo,2012-05-08T00:23Z,"Perfect upload.  Easy setup, no hassle.  Thank you."
+,leech3r,2012-06-10T23:11Z,Thanks man!! Perfect Job (:
+,Simard94,2012-06-13T22:26Z,"""Update request denied, please check your licence and contact Slysoft support!"" is the error I'm getting every time I start AnyDVD, any idea on how to fix it?"
+,Darth_Adversor,2012-07-05T00:58Z,"This wasn't working for me, I was also getting the ""Update request denied"" message. I also tried ChattChitto's, same thing. I found a 7.0.4.1 Beta from Sentry, worked great. Probably not Thumper's fault, Slysoft probably did something. Windows 7 64."
+[V],Kuthumi,2012-07-10T19:22Z,"Break your Internet connection completely before installing. Pull out the plug to your PC or router. When the program starts, go to Settings and untick the Check for updates option.
+The reason for this is that the program immediately runs to its homepage to register your IP. If you have  have made a failed installation, it may remain in your computer's register and has to be removed with a registry cleaner before you can make a new installation."
+,al360ex,2012-07-13T02:46Z,"For those having problems, listen to Kuthumi.
+
+You can also add this to your hosts file before installing. It should do the trick.
+""C:WindowsSystem32driversetchosts""
+
+#Slysoft
+127.0.0.1	slysoft.com
+127.0.0.1	secure.slysoft.com"

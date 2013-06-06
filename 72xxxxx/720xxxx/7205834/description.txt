@@ -1,0 +1,16 @@
+I had some problems running the "Humble Bundle" Linux version of Botanicula, especially regarding the installation of "Adobe Air", which no longer supports Linux. Managed to run it, and thought to share the way in which I made it work.
+
+>>>This torrent DOES NOT contain Botanicula. You will need to add it yourself.<<<
+
+What it does contain is the most recent Linux version of Adobe Air and a bash script to unpack and launch Botanicula. 
+
+>What to do:<
+(You should have unzip installed, but most modern distributions do have it.)
+Paste in the zip found in the "Humble Bundle" Linux version of Botanicula (botanicula-linux-<someNumbers>.zip), or paste the Botanicula.air file found in that zip file, if you already extracted that.
+Run start.sh, either by double-clicking, or by launching it in a terminal ("cd" to where you extracted it and "./start.sh" or "sh ./start.sh"). Errors will only be visible in a terminal.
+
+At no point in time will the script or Adobe Air require root privileges.
+
+
+>How it works:<
+The script will try to run Botanicula from the "Botanicula" directory - if that fails, it will look for "Botanicula.air", unpack that into the "Botanicula" directory, and run it. If *that* fails, it will look for a zip file starting with botanicula-linux (such as the zip file provided by Humble Bundle), extract it, then extract the (hopefully there) Botanicula.air, which it will delete after extraction. It will thus leave only the file you pasted in yourself and the Botanicula directory.

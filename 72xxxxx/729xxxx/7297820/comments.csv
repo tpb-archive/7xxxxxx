@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-05-26T06:58Z,"Got excited when i seen this, been ages since a new version came out. Good program.
+I didn't download this but i grabbed it from the official site and i tried the generic FFF patch released for 3.57 and it works (same thing in torrent ??)
+Also the Peter Zuma key floating around does NOT work anymore.
+
+Want to patch this yourself ?
+Nop the jump @ 00273522
+Change EB 02 -> 90 90"
+,TheEmpathicEar,2012-05-27T05:53Z,"I was able to use the generic patch too [Zuma key no longer good].
+
+@xpmule
+What does
+""Nop the jump @ 00273522
+Change EB 02 -> 90 90""
+mean?"
+,xpmule,2012-05-27T21:00Z,"It mean if you hex edit the TagRename.exe at the address I stated it will be registered like the patch.
+
+nop mean nothing / null /zero
+and in asm is 0x90 in hex
+
+and a standard jump (asm instruction jmp)
+is 0xEB in hex
+
+So if you went to the address I stated in a hex editor say UltraEdit for example you change the 2 bytes mentioned and save the file and run it and it should be registered now.."
+,TheEmpathicEar,2012-05-28T06:11Z,"@xpmule
+
+If I understand you, the patch will do this for you?"
+,SwimclubOphelia,2012-06-03T18:33Z,"Hmm.
+https://www.virustotal.com/file/1ff2133a7660c10c8dae9af93d57e0f58744ed3b80444d692a842101ecf4b25a/analysis/1338740900/
+
+I'd like to try your hex edit method, but I guess I need a more detailed explanation... this patcher doesn't look too good..."
+,SwimclubOphelia,2012-06-03T19:06Z,"I got it! :)
+Downloaded FlexHEX, but had to go to adress 0027355A."
+,SwimclubOphelia,2012-06-03T19:07Z,One more question: How do you find these things out? I mean: How do you know that these bytes are responsible for this function?
+,magogogo1,2012-06-06T00:47Z,"Thanks xpmule & TheEmpathicEar! 
+
+BUT I have tried to Search/GoTo the  string using UltraEdit and TinyHexer and cannot locate it at the address you specify? Can you help?
+
+What exact string do I specify in UltraEdit: Search/GoTo? "
+,magogogo1,2012-06-06T01:04Z,"OK I got it using SwimclubOphelia method. 
+
+Found the string right away..thanks SwimclubOphelia!!"
+,xpmule,2012-06-09T12:33Z,"i used ""Beyond Compare"" in Hex compare mode to show what is different.
+After i ran the patcher in a sandbox ;)
+
+If you mean how do you find the spot originaly ?
+I'd have to say look for some basic cracking tutorials.. OllyDBG is a good place to start and to jump to an address in OLLYDBG hit ctrl+g and past in the address
+
+There is MILLIONS of hex editors out there but i almost always use UltraEdit
+after years its become a habit more than anything, I also think WinHex is pretty damn good hex editor..
+UltraEdit is convinient for any format just right click any file and select open with.. and whats nice is the customizable syntax highlighting.
+Most text based stuff though i ""Notepad2"" 64bit version
+Its very light weight and yet still has lots of features and its free and open source and supports syntax highlingting, VERY good program i think :)"
+,torrentic,2012-07-05T16:02Z,"Thanks to SwimclubOphelia  and TheEmpathicEar !!
+
+To sum it up:
+open TagRename.exe,
+goto (ctrl+G) addressQ  0x0027355A
+and change EB 02 -> 90 90
+
+It works like a charm!!!!"

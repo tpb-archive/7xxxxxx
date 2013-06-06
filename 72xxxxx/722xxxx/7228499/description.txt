@@ -1,0 +1,35 @@
+J-Runner v0.2 Beta (Build 269)
+Posted by Xecuter on Apr 22, 2012 in Featured Articles | 0 comments
+
+A new version of the hugely popular J-Runner app has been release
+
+Changelog:
+
+Build 269
+
+    fixed incompatibility error on XP
+
+Build 268
+
+    Layout change
+    added RGH2 support for 14717 > phats
+    added RGH2 Wiring images
+    added RGH2 xsvf files
+    added ARM 2 support
+    added Xecuter J-R Programmer support
+    added LPT support (for coolrunner programming only)
+    added Xebuild options editing screen
+    added sounds on Success and Failure conditions (editable)
+    added Xell-Reloaded on JTAG ΓÇô for HDMI support during CPU key retrieval etc
+    added bad blocks tab for full check of bad blocks
+    added .dll usage
+    added support for updating jtags of any wiring (creating aud_clamp, Open_tray updated images etc)
+    added new icon
+    added reporting console LDV in log during Cpu Key grab over network
+    removed Xellous use on JTAG
+    improved update method
+    improved advanced nand/CR functions
+    improved changelog retrieval
+    some minor bug fixes
+
+EDITED: Build 268 had a incompatibility error with XP ΓÇô 269 has resolved this

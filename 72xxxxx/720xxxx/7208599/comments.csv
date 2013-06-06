@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,x86,2012-04-24T22:44Z,"Thanks  ,  i noticed  some ( minor ) sound sync problems , which could  be from the  codecs  ,  but  over  all  ,  it  is  ok  ,
+
+  keep  up  the  good  work "
+[V],psspss,2012-04-27T09:55Z,"havent watched it yet so cant confirm
+
+
+i did random check it.. all seemed ok in the hops
+
+i did (using VLC 2.0.1 though which does use codecs)"
+,x86,2012-04-27T12:00Z,"It  turned out  the  older k-lite  codecs  i was using was  to blame so i updated and it runs smooth , i also tried with latest vlc  and it works ok now.
+
+
+Have a nice day"
+[V],psspss,2012-04-28T15:49Z,"
+I see what ive done wrong .. I didnt upload
+the right one with the proper audio
+
+TO FIX SYNC just +300ms should do the
+trick in VLC tracker option
+
+else use avidemux.org and load it and tick
+time shift on side under audio
+and enter 300 then go file pulldown and
+say save avi with new name
+
+shoyld take 1min to make a new fix avi without
+re-encoding"

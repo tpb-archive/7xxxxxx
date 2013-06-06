@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,GarryColeman,2012-05-12T01:09Z,Can you do one with the 5.1 surround. or can you tell me the settings for handbrake to make it from the other 21gb file which i already have please?
+,samir1972,2012-05-13T09:34Z,"@GarryColeman
+With Handbrake there is a issue of audio getting out of sync toward the end of the movie... (as can be seen on this movie). I found yesterday that Media Coder (http://www.mediacoderhq.com/) does not have that problem.
+Generally, for both of them, I would not use video bitrate below 1500 kbps for 720p video(x264), and for audio  below 128 kbps (AAC)."
+,GarryColeman,2012-05-13T11:31Z,Thx for the reply :)
+,robbybbn,2012-05-18T23:00Z,thanks! 5.1 sound would indeed be great
+,poopsnchutes,2012-05-20T00:18Z,Is there a reason why when I open the file it opens it in windows movie maker and it won't play in any media player?
+,GarryColeman,2012-05-27T12:36Z,"The pre-setting from the old handbrake for xbox loads into the new version of handbrake, & seems to convert fine, with 5.1. but takes about 4hrs."
+,GarryColeman,2012-05-27T12:37Z,"@poop
+Try VLC player :) or handbrake to convert it."

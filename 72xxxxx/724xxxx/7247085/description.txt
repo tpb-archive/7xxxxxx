@@ -1,0 +1,50 @@
+Tekken 3 (fully working with sound) 
+
+
+Basically a Fully Working Tekken 3 ISO and the pSX emulator (not the epsxe emulator), i also made a nice little way to launch it, so it acts in the same way a windows game would launch.
+
+What makes this version different from the others is that this is not a rip, it is the full game, and has fully working sound, without the user having to fiddle about with drivers.
+
+
+
+
+Contents of README:
+
+
+
+Instructions:
+
+Simply extract the folder 'NAMCO' to the root of your C: drive, 
+and then launch the game from C:NAMCOTekken 3 and click 'Launch Tekken 3'
+You can make a desktop shortcut to it for convinience :-)
+
+To attach controllers to the game, you will need to plug them in, then click on
+'psxfin.exe', then click file, go to config, and then go to the controllers tab at the top.
+from there you can map the controls as you like
+You can also edit everything else in psxfin.exe, like sound, and graphics options.
+
+This is really just an emulator with a psx .bin copy of tekken 3, however it is very compatible
+and fully works with sound just like the original.
+
+All I did was make a neat little way to launch the game, as if it was a windows
+application... and made a neat icon too :-)
+
+
+!!WARNING!!
+The shortcuts and interface I made will not work unless the directory is extracted to exactly
+the root of your C: drive!
+If your native Operating system drive uses a different letter, you will have to:
+
+1. Rename 'Tekken 3.bat' to 'Tekken 3.txt'
+2. Open 'Tekken 3.txt', and change the drive letter in the path to the bin file to your
+drive letter
+3. Save the file in notepad, then close it
+4. Rename 'Tekken 3.txt' back to 'Tekken 3.bat'
+
+And the launcher should then work :-)
+
+This can also be used to set up your own custom directory for the game, but I would only
+recommend you change anything if you are sure that you know what you are doing!
+
+
+Hope this little pack helps anyone struggling with Tekken 3 emulation :-D

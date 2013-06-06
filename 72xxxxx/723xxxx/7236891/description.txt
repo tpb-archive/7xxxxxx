@@ -1,0 +1,21 @@
+Scrambler 1.1 [K'ed] by Dynasty
+
+Includes: K
+Link for more info: http://codingturtle.com/scrambler/
+
+Scrambler
+a simple encryption app for the Mac
+
+Instructions: Using Scrambler is simple. Just drag a file on ScramblerΓÇÖs icon in the menu bar, type a password, and encrypt. To decrypt, just drag the scrambled file back on Scrambler and type in the same password.
+
+Terminal Decryption (Expert Users Only): To decrypt scrambled files in the Terminal, please follow these steps: On the Terminal, first run
+
+echo -n "yourPassword" |openssl sha1
+
+to obtain the SHA-1 hash of your password. Then run
+
+openssl aes-256-cbc -d -a -in file.scrambled -out file.tar.gz
+
+and paste in the hash when prompted for the password. Now you have a tar.gz archive that you can unarchive by double-clicking on it in the Finder.
+
+Fully functional app, no registration required.

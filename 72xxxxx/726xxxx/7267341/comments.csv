@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,Wheemer,2012-05-17T17:35Z,"Thanks a lot for this, was looking for the 64bit version for a long time.
+
+You still need to enter a Registration ID for it to show as fully licensed.
+
+I used this one:
+
+J60Xj1VB2IdWSivAmJfHcNhSCIC6QduOJ60XjyetyK0UhiSm5MhXStQ/Z2jYf9UTbO3TL7L9U992+0jfKt9/5jsuq+gwPgWj9/p="
+,bigcid10,2012-05-18T01:12Z,"dude,thanks
+been looking for this since 11.0.3
+thank you"
+,kklasen,2012-07-04T00:29Z,Works perfect! Thanks
+,etrigan9,2012-07-08T20:20Z,"Nice work.  But would very much like to know who to give credit for the patch.  Is this your own work, or is it someone else? I know the key belongs to CORE."
+,BagOfMoney,2012-07-31T15:22Z,Can someone post on how to get this properly registered? I tried this and it says wrong file size???
+,italicus84,2012-09-04T17:18Z,I have the same problem running this patch: wrong file size or access denied. I used the right installer! Any idea?
+,italicus84,2012-09-05T00:43Z,"This patch is working, although I had to work on a lot to get it right.  First of all, install the software with the internet connection off. When you install, don't tick ""install as a system process"", you can do it later on through a right click on the icon. Then open the panel Services, which is inside the administration tools: make sure the serv-u service is stopped. After this, run the patch as administrator, look for the serv-u.dll in the program folder, and execute the patcher. If you are on a x64 system, at first you will receive a mismatch size error; press ""yes"" when asked to procede further, and click finish. The patcher should work now. Before closing it, copy the SN in the text field. Restart the serv-u service, open the serv-u management and register the sw. Thanks to the uploader and the cracker!"

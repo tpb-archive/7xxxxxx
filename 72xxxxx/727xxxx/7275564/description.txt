@@ -1,0 +1,18 @@
+	         Easy rooting toolkit (v3.0)
+                   created by DooMLoRD
+        using exploit zergRush (Revolutionary Team)
+    Credits go to all those involved in making this possible!
+---------------------------------------------------------------
+  [*] This script will:
+      (1) root ur device using latest zergRush exploit (16 Nov)
+      (2) install Busybox (1.18.4)
+      (3) install SU files (binary: 3.0.3 and apk: 3.0.6)
+  [*] Before u begin:   
+      (1) make sure u have installed adb drivers for ur device
+      (2) enable "USB DEBUGGING" 
+            from (MenuSettingsApplicationsDevelopment)
+      (3) enable "UNKNOWN SOURCES"
+           from (MenuSettingsApplications)
+      (4) [OPTIONAL] increase screen timeout to 10 minutes
+      (5) connect USB cable to PHONE and then connect to PC
+      (6) skip "PC Companion Software" prompt on device

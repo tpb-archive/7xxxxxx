@@ -1,0 +1,3 @@
+A qemu/kvm image converted from the virtualbox image provided by the staff.
+
+X.org disables (does not work with the kvm video adapters), openssh-server added.

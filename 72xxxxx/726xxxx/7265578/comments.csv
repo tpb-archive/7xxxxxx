@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+[T],n2kmaster,2012-05-13T02:55Z,"HELP SEED! ITS WORTH IT! KEEP IT ALIVE! This came from overseas, not to mention all the goodies its got there, i seen cPanel setup as well with this that has https and ssl configurations right out of the box. I've never seen a distro of linux like it before and i've seen a few. And I gotta admit, for a drivers disc off eBay, i just about crapped my pants when i seen what i had. Basically people this is the first hope I've seen on here with a functioning system for wifi cracking that doesn't really have anything fishy with it. OBVIOUSLY it came from overseas, i have no idea where from, theres a program in it thats written in a foreign language and if anyone can figure out what they are saying in the menus, PLEASE post screens explaining whats what. I can't give you much more info cuz i really don't know how much this thing has with it, i just checked out a few things and went ""holy SH*T!"" and immediately came here. SEED SEED SEED! Costed me like 19$ for the device, but that disc is PRICELESS!"
+[T],n2kmaster,2012-05-13T06:00Z,"From the mouth of Zero Degreez after seeing the cPanel part of it ""Why....thats just lovely...."""
+,fatalerror501,2012-05-13T19:26Z,"Well i checked this out and translated most of it. It seems to be an outdated tool kit developed from Aircrack. Inside the ISO, is a VMware program which is in chinese,useless to me, but VMware is easy to get in english. The text document is the change log of Beini(the aircrack-like program). One folder is REALTEK drivers and the other is just videos showing how to use(although useless videos b/c they are in chinese.) 
+
+Great upload and Beini will work but there are other newer toolkits that coming out.Id try XiaoPan OS.Google it.Practically the same but is being updated all the time. "
+,fatalerror501,2012-05-13T19:38Z,Also you can use Backtrack if youre looking for something more powerful than these programs.
+[T],n2kmaster,2012-05-13T22:50Z,"Thanks for the info. Yeah like i said i figured the driver disc was just that drivers, never expected it to be any of this, they do work tho, ive been handshaking and cracking WEPs around me fairly easily using this. Aircrack i've tried it before but just simple get nothing back from it, and it never really works for me, it was kinda nice a prepackaged setup like this."
+,fatalerror501,2012-05-14T09:06Z,"Oh yeah this is a great find for sure. This is way easier and way more reliable than Aircrack. Plus, like you said, it's all prepackaged. ^^"
+[T],n2kmaster,2012-05-14T19:26Z,"ADDITIONAL INFO: Atheros isnt found, doubt Belkin or any of the other cards are gonna pick up. It has terminal with it so you can expand the os to deal with your wifi device HOWEVER only if its compatible with Aircrack-ng and i know a LOT of wifi devices arent supported. This was prebuilt for the wifi device i got with it Realtek 8187 Series. Has anyone found out how to actually install this yet, say to a partition on a hard drive for further development? Or perhaps supply a walkthro online somewere on how to pull that off the cd and run it from hard drive. I really wanna play with that OS more."
+[T],n2kmaster,2012-05-14T19:28Z,"Oh an i just pulled that XiaPan Os one, gonna try that out as well. If your wifis aint picking up people chances are you're probably running an incompatible card"
+[T],n2kmaster,2012-05-17T03:09Z,"Damn this is pretty sweet, I just moved and don't have free net in my area, well it cracked a wifi password 97f8cd43a9c568bfe64e611072, so it will do even the biggies from the looks of it. Anyone got an idea on how to get around the CRC check failing on boot messing with the cd?"
+,kamo11kamo,2012-05-20T20:11Z,"Hello Dera n2kmaster..
+Thanks for this amazing torrent... but i have a question plz.
+Can i use this with ALFA adapter???? i am waiting your answer plz."
+[T],n2kmaster,2012-06-05T22:07Z,No unfortunately what i see this is compatible with is only the realtek series that the usb device is. Now i found ubuntu with aircrack and feedingbottle rival this cd and i found it better than the cd as well since i could add more password lists into it. Working on a dictionary creator program right now for those needing WPA busted.
+,kamo11kamo,2012-06-10T18:24Z,"Hello Dear n2kmaster...
+Thanks for your replay...
+Actually ALFA also is realtek series,and usb adapter in same time.. so i do not know if it will work or no, i have to try that but now i am in Exam so i hope to get more information from you,,,
+Have a nice day 
+Take care
+Bye"
+,SmokeTheChron,2012-07-17T17:22Z,"Getting this now :) Can't wait to test it at the office. I'm hoping that this will work in coordinance with this DD-WRT linksys/broadcom based chipset router I've got for this exact purpose :) I'll let you know how it works out. Once again n2kmaster, thanks for your dedication to the community. Seeding forever once this completes."
+[T],n2kmaster,2012-07-31T21:31Z,"@kamo11kamo - I know its not compatible with all wifi devices from Realtek.I've got one of them little itty bitty thumb nail sized wifi devices off ebay as well and tested it with it and its a no go for that device. Its from the Realtek family.
+
+@SmokeTheChron - Once again have no idea which devices this works for, i would love to have a specific list, i assume they've built it around my device itself. And i'll pitch in here until i'm unable to find ways around them blocking me from pitching in. Retro or New, doesn't matter, we stand on the brink of losing it all every day if people don't contribute back.
+
+"

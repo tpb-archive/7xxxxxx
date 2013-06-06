@@ -1,0 +1,52 @@
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 277 MiB
+Duration                         : 42mn 49s
+Overall bit rate                 : 903 Kbps
+Writing application              : MEncoder r34118-4.2.5
+Writing library                  : MPlayer
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Simple@L3
+Format settings, BVOP            : No
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 42mn 49s
+Bit rate                         : 768 Kbps
+Width                            : 624 pixels
+Height                           : 352 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.146
+Stream size                      : 235 MiB (85%)
+Writing library                  : XviD 63
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 42mn 49s
+Bit rate mode                    : Variable
+Bit rate                         : 123 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy
+Stream size                      : 37.7 MiB (14%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 26 ms (0.63 video frame)
+Interleave, preload duration     : 536 ms
+

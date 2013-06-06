@@ -1,0 +1,55 @@
+General
+
+Format                           : Matroska
+File size                        : 901 MiB
+Duration                         : 46mn 37s
+Overall bit rate                 : 2 700 Kbps
+Encoded date                     : UTC 2012-05-01 00:23:09
+Writing application              : mkvmerge v5.4.0 ('Piper') built on Mar 10 2012 13:34:39
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.2
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=4, N=60
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 46mn 37s
+Bit rate mode                    : Variable
+Maximum bit rate                 : 6 808 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 46mn 37s
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz / 22.05 KHz
+Compression mode                 : Lossy
+Language                         : English
+
+Text
+ID                               : 3
+Format                           : ASS
+Codec ID                         : S_TEXT/ASS
+Codec ID/Info                    : Advanced Sub Station Alpha
+Compression mode                 : Lossless
+
+ 
+http://korra.forumeiros.com/

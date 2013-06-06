@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,Ray89,2012-05-19T22:39Z,"Thank you very much for this!
+
+Installed it without a problem!
+
+But, when I start the course, I get an error:
+
+""1000: One or more files required for Speech Recognition are missing or unreadable. Speech Recognition will be disabled for this session.""
+
+How to solve this? I'd like to learn how to speak it too.."
+,Ray89,2012-05-20T01:55Z,"I got it working!
+
+I re-installed the language using an ISO from another torrent. 
+
+The problem is that your program only extracts the 'data' folder into the 'content' folder, but not the 'speech' folder which seems to be necessary for Speech Recognition to work!"
+,EinDeutschMan,2012-05-21T03:07Z,"@ray89,
+
+You are partially correct, it DOES copy files to the speech folder, 
+BUT, it did NOT copy ALL of the files to the speech folder.
+
+I apparently missed this on more that one language pack, so I will fix the error, 
+and reUL them, and title them ""with & speech"" in the name, 
+so that the proper version can be DL'd.
+
+I thank you for the input, it allowed me to easily track down the problem."
+,Ray89,2012-05-21T11:55Z,"@EinDeutschMan
+
+On my laptop (Win7 SP1 x86) it did not copy any files to the 'speech' folder; this folder was absent!
+
+Thanks for your answer and great that you'll re-upload it!
+
+Again, thanks a lot for this! It is highly appreciated! :)"

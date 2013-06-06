@@ -1,0 +1,24 @@
+Tower is a powerful Git Client for Mac OS X that makes using Git easy and more efficient. Users benefit from its elegant and comprehensive interface and a feature set that lets them enjoy the full power of Git. 
+
+Features include:
+ * git-svn support
+ * file history
+ * submodule support
+ * blame view
+ * single line staging (per-line committing)
+ * Support for full screen display in Mac OS X 10.7 Lion
+ * cherry-picking
+ * discard chunks/lines
+ * direct Github, Beanstalk & Bitbucket integration
+ * many powerful drag & drop features incl. merge, rebase, push /pull to/from remote, apply stash, create new branch etc.
+
+WHAT'S NEW
+Version 1.4.6:
+ * Use new GitHub API for creating and cloning GitHub repos
+ * Fix an issue with accepting the latest Git version as binary
+ * Finishing pull now updates the status message in the sheet correctly
+ * Create new repository dialog does now respect differing title for new repo
+
+REQUIREMENTS
+ * Intel
+ * Mac OS X 10.5 or later

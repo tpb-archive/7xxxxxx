@@ -1,0 +1,120 @@
+﻿User Type,Username,Date,Text
+[H],HeroMaster,2012-04-28T04:59Z,ENJOY Risen 2: Dark Waters Repack Version New and Exclusive by SashHD!
+[H],tykoon123,2012-04-28T05:06Z,"hello, heromaster!"
+,booobp,2012-04-28T07:31Z,Very fast DL. But why does it say (rus / Eng) when its just russian.
+,Paull2,2012-04-28T07:31Z,the installer program is in russian.  just keep hitting the bottom right button.
+,Paull2,2012-04-28T07:44Z,"ya, it's not just the installer that's russian.  the english language pack isn't included, just russian."
+,juggalag,2012-04-28T09:01Z,"ye,iam dll this atm,can uploader or some1 confirm that.Is this only russ or we can change lang in ini file...some1 pls reply..thx"
+,hcijesse,2012-04-28T09:27Z,Yeah... game is only in russian. I'm checking if its possible to change language.
+,hcijesse,2012-04-28T09:39Z,"Okay it is possible to change the language. Its confusing though so i'll try my best to make it simple.
+1)go into Risen 2 Data folder.
+2)go into ini folder.
+3)open configdefault.xml with WordPad (Not NotePad)
+4)press ctrl+f(same time) and search ""Language""
+5) change ""russian"" to ""english"" or which ever english you prefer.
+6)If you can't save over this file, click Save As and choose Desktop or someplace easy to find it. 
+7)Once its saved, delete the xml file in risen 2 folder and cut n paste the file you just saved, as its replacement.
+
+Hope this helps! :D"
+,hcijesse,2012-04-28T09:42Z,"You have to change the configdefault.xml. Its located in Risen 2>Data>Ini.
+
+Ctrl+F and search ""language""
+
+change ""russian"" to ""english"" or your preferred language in BOTH spots.
+
+then save to desktop, delete original xml file in risen 2 folder, replace with the file saved on desktop. (make sure to remove the .txt at the end of the file name)"
+,hcijesse,2012-04-28T09:43Z,I forgot to mention to Open the ConfigDefault.xml with WordPad! then follow ctrl+F search etc etc.
+,juggalag,2012-04-28T09:59Z,"""Find Language changes in the data ini ConfigDefault.xml 
+open using wordpad and change all other languages, such as German in this case ""Russian"" to English just fine...""
+Since this is ""[Rus / Eng] Rip-Steam version of the game"" same on ""kat.ph"" so should be possible to change lang to eng..."
+,juggalag,2012-04-28T10:00Z,nice so its legit..thx alot
+,CookieMunzta,2012-04-28T10:09Z,"@hcijesse
+Thanks for the heads up.
+All three of 'em ;)"
+,klord2010,2012-04-28T10:29Z,"Thanks!
+
+@ALL
+If you want Engilsh voices there's an option before install begins. Default is Russian so choose another.
+
+Check if you choose it correctly:
+under datacompiled folder
+dialogue_english.pak
+dialogue_english_dlc1.pak"
+,klord2010,2012-04-28T10:31Z,"And apply hcijesse's tip. Then you are ready to go.
+
+@hcijesse
+Nice tip thanks!"
+,mithrandir51,2012-04-28T10:39Z,"Does this version include ""A pirate's clothes"", ""Treasure Isle"" and ""The Air Temple"" DLCs ? "
+,klord2010,2012-04-28T11:14Z,"@mithrandir51
+Yep."
+,momolbfr,2012-04-28T12:39Z,No voice?
+,Cerebral222,2012-04-28T13:41Z,"Thanks for the upload HeroMaster, game works perfectly, with a few tweaks, all audio and text is in english, +1 rep, cheers."
+,juggalag,2012-04-28T14:08Z,"pls read upper comments,everzthing u need to know is there :)"
+,CoreNL,2012-04-28T15:38Z,"Great Torrent, download speed was 1.7mbs (my max) Other torrents have like 20kbs. "
+,CoreNL,2012-04-28T16:00Z,I seem to have a problem. I don't hear any voice acting. Does anyone know how to fix this? Thanks
+,newmouse,2012-04-28T16:06Z,"Thanks for a well presented & good repack.
+All the comments here are are really useful.
+It's downloading well @@@"
+,CoreNL,2012-04-28T17:14Z,solved it :) You have to do what Klord2010 says.
+,Maniek1235,2012-04-28T19:58Z,@ i do all what you say but i dont have voice???
+,Maniek1235,2012-04-28T19:59Z,"@klord2010
+I do what you say but i dont have voice ?!
+Please help "
+,markofbear,2012-04-28T20:51Z,"@ALL
+Thank you so much guys, it works perfectly with what juggalag and klord2010 tells you to do and just to make things clear how to get english voices, just tick in the last box (its the ONLY option where there is 2 choices, its the one at the bottom) and of course thank you HeroMaster!"
+,newmouse,2012-04-29T03:17Z,"I'm installing this right now.
+I have gone near mad with the Setup Program interface.
+I don't see any Buttons at the bottom of each 
+Setup page .
+The bottom strip of each page is blank. unlike the pics shown on the top of this page in the Info http://i.imgur.com/HJfnI.jpg
+
+i have just sort of messed around until it hopefully)
+is now installing @@@@"
+,newmouse,2012-04-29T04:33Z,"Me again. I got it running OK English Subs & Dialogue .
+On a single core P4  3.1 GHZ with Radeon HD3850 AGP.
+Medium settings 1024 x 768 around 22 FPS nice n Smooth.
+Seems more like an Action Adventure .
+Unfortunately the Reviews don't like it. @@@ "
+,Maniek1235,2012-04-29T12:35Z,"please can any one help me ? 
+i dont hear voice i do my language to german in 
+configdefault and in dialogue_german.pak
+and dialogue_german_dlc1.pak
+please help me "
+,ciccio8789,2012-04-29T12:52Z,"the game is working but indeed,language fixed but no voice sound thinking is the game without voice this time?i hope no"
+,apptum,2012-04-29T13:45Z,"thanks, great torrent!
+but could anyone upload the german language files please?"
+,apptum,2012-04-29T13:46Z,"@Maniek1235
+du hörst nix, weil es nix zum abspielen gibt - die deutschen sprachdateien sind nicht enthalten"
+,dezuvo,2012-04-29T14:01Z,"hey you guys, if you cant figure out how to make it english in the installer, after clicking next a few times look for this
+
+""английский"" 
+
+that means english in russian so just click the box that says that"
+,Maniek1235,2012-04-29T14:42Z,"@apptum
+achso danke :) und ich lade mir hunderte von torrents :D"
+,newmouse,2012-04-29T14:46Z,"See my post above re. not seeing any Buttons on the Setup program.
+Can anybody explain this ?? @@@
+
+As for people wanting other Languages.
+this is only Russian or English.
+That's how the total Size has been got down @@@"
+,doomslayermax,2012-04-29T17:23Z,"Thanks mate , i had 2 errors phys x , i installed phys x from nvida (with ati) , then crashing after clicking exe , fixed that by defaulting my sound settings (if not 16bit cd quailty) +1 rep towards english fix and voice"
+,mynameisthis,2012-04-29T20:59Z,"I downloaded it, did all of the things in the comments to change the language to english, but when I try to start the game the banner comes up, and then nothing happens. Tried running in administrator, tried reinstalling the game, still nothing. Anyone know what to do?"
+,chunkymunky7,2012-04-30T00:44Z,im having the exact same problem
+,dezuvo,2012-04-30T04:38Z,"@mynameisthis
+
+same thing happened to me, go to the Risen_2_Repack folder (probably in your downloads folder) and click ""redist"" and just install those 3 things, worked for me, hope it works for you"
+,Satiriz,2012-05-01T13:32Z,"Recap of everything said so far, for easier understanding to future leechers :)
+
+Step 1. During setting up installation, you have to select the second option, when you're given chance to do so. It's: ""английский"" 
+Step 2. Go to Risen/Data2/ini/ folder
+Step 3. Find ConfigDefault.xml and edit it with wordpad or notepad++
+Step 4. Manually find or click Control+F to find ""Russian"" and change it to ""English""
+Step 5. Run the game & Enjoy."
+,mithrandir51,2012-05-01T22:51Z,"When I try to install I've this error :
+http://i.imgur.com/RS7On.png?1
+
+Can anyone tell me what to do ?"
+,klord2010,2012-05-02T04:29Z,"@mithrandir51
+Disable your AV I guess?"
+,chdixon,2012-05-06T17:34Z,There is a Trojan in the game. Is this safe?

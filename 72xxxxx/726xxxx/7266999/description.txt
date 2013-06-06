@@ -1,0 +1,64 @@
+This is alternative traffic pack for the Flight1 Ultimate Traffic.
+
+
+Warning: this traffic is for directX 9 mode!
+Warning: you can't use this traffic without F1 license file
+
+
+File #1. ATP F1UT-2.exe
+
+This package includes:
+a) Modules and utilities of Flight1 Ultimate Traffic version 2.09 (UT2),
+b) Aircrafts models for FSX and for FS9 (avsim.net, flightsim.com, avsim.su and other authors),
+c) Day and night textures (avsim.su, avsim.net and others sources),
+d) Schedules of about 1,400 air companies,
+e) Lighting effects (A2Ashockwave 3D Lights Redux),
+f) Smoke effects for some aircrafts,
+g) Changed dynamics files.
+
+Differences of this package from Morten's AI Traffic and other packages developed for the MSFS9:
+1. Added models for FSX,
+2. Adjusted dynamic and airplane geometry,
+3. Added data for gate (if there is support by the scenery),
+4. Added light effects and sound,
+5. Added night textures for each livery.
+6. Airplanes fly by the routes,
+7. Updated schedules,
+
+What is the difference between this package from UT2:
+1. Unfortunately, some models are made in UT2 too primitive;
+2. UT2 has reduced the number of aircraft models (no modification of the model);
+3. Many airlines has default livery "Daedalus" in UT2;
+4. UT2 uses sounds of default aircrafts;
+5. Missing some airlines in Eastern Europe;
+6. Deleting schedules in UT2 is difficult, since the base is contained in two files (on the other hand, maybe it has a positive effect);
+7. Unfortunately, Flight1 updates cannot be used in my pack. Nevertheless, I will try to update this database regularly.
+
+
+
+Installation
+
+Variant 1 (UT 2 has installed before) 
+a) Select the option "UT 2 is installed"
+b) After the installation you can delete the backup:
+-Microsoft Flight Simulator XSimObjectsUT2 Aircraft_before_AUT
+-Microsoft Flight Simulator XSceneryWorldScenerytrafficAircraft.bgl_before_AUT
+-Microsoft Flight Simulator XFlight One SoftwareUltimate Traffic 2_before_AUT
+-APPDATAFlight One SoftwareUltimate Traffic 2_before_AUT
+-APPDATAMicrosoftFSX_beforeAUT
+
+
+Variant 2 (F1UT2 has not been installed before)
+a) Mount the image of the UT2 (not included in this pack) and interrupt its installation before copying files
+b) Run the installation of an alternative traffic
+
+
+	
+
+File #2. Voicepack Update-1.exe
+
+This package includes:
+a) sounds for traffic from "Flight1 TSS Audio Environment - Airliner Edition (v.1.2)",
+b) Voice pack update
+Warning: "SOUND_LOD" in "fsx.cfg" will be set to "0". Change it to "1" as you wish.
+After the installation you can delete the backup: "Microsoft Flight Simulator XSoundATC_before_AUT"

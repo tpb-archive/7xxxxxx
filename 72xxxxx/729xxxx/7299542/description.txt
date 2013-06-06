@@ -1,0 +1,82 @@
+Fausto 5.0 [2001] http://www.imdb.com/title/tt0299873/
+
+Video: x264
+Audio: English 2.0 / Spanish 2.0 Dolby
+Soft Subtitles: English
+
+
+
+MKVInfo:
+
++ EBML head
+|+ (Unknown element: EBMLCrc32; ID: 0xbf size: 6)
+|+ Doc type: matroska
+|+ Doc type version: 2
+|+ Doc type read version: 2
++ Segment, size 956722341
+|+ Seek head (subentries will be skipped)
+|+ EbmlVoid (size: 108)
+|+ Segment information
+| + Duration: 5399.978s (01:29:59.978)
+| + Muxing application: libebml2 v0.21.1 + libmatroska2 v0.22.1
+| + Writing application: mkclean 0.8.6 r from libebml v1.2.2 + libmatroska v1.3.0 + mkvmerge v5.5.0 ('Healer') built on Apr 25 2012 20:53:43
+| + Date: Fri May 25 21:25:16 2012 UTC
+| + Segment UID: 0xce 0x1f 0xce 0x6c 0xba 0x5a 0x0b 0x9f 0xbd 0xa5 0x3a 0xe4 0x83 0x41 0x55 0xa7
+|+ Segment tracks
+| + A track
+|  + Track number: 1
+|  + Track type: video
+|  + Codec ID: V_MPEG4/ISO/AVC
+|  + Track UID: 1784981572
+|  + Lacing flag: 0
+|  + MinCache: 1
+|  + CodecPrivate, length 49 (h.264 profile: High @L3.1)
+|  + Default duration: 40.000ms (25.000 fps for a video track)
+|  + Name: Fausto 5.0
+|  + Video track
+|   + Pixel width: 720
+|   + Pixel height: 592
+|   + Display width: 1033
+|  + Content encodings
+|   + Content encoding
+|    + Content compression
+|     + Algorithm: 3 (header removal)
+|     + Settings: length 1, data:  0x00
+| + A track
+|  + Track number: 2
+|  + Track type: audio
+|  + Codec ID: A_AAC
+|  + Track UID: 1404100262
+|  + CodecPrivate, length 2
+|  + Default duration: 21.333ms (46.875 fps for a video track)
+|  + Language: spa
+|  + Name: Spanish 2.0 DolbyProLogic II
+|  + Audio track
+|   + Sampling frequency: 48000
+|   + Channels: 2
+| + A track
+|  + Track number: 3
+|  + Track type: audio
+|  + Codec ID: A_AAC
+|  + Track UID: 386876776
+|  + Default flag: 0
+|  + CodecPrivate, length 2
+|  + Default duration: 21.333ms (46.875 fps for a video track)
+|  + Name: English 2.0
+|  + Audio track
+|   + Sampling frequency: 48000
+|   + Channels: 2
+| + A track
+|  + Track number: 4
+|  + Track type: subtitles
+|  + Codec ID: S_VOBSUB
+|  + Track UID: 325445056
+|  + Lacing flag: 0
+|  + CodecPrivate, length 239
+|  + Name: English Subs
+|  + Content encodings
+|   + Content encoding
+|    + Scope: 3 (1: all frames, 2: codec private data)
+|    + Content compression
+|+ Cues (subentries will be skipped)
+|+ Cluster

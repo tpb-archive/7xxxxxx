@@ -1,0 +1,61 @@
+Of "Programing Tool" in Forocoches.com -> http://www.forocoches.com/foro/showthread.php?p=111094851#post111094851
+
+Instrucciones.txt:
+
+1. Instalar las buxybox, pero cambiar la ruta de instalación por defecto por la de abajo (no me acuerdo si por defecto era en /bin y habia que cambiarlo por /xbin o al revés), que si no sobrescribis los archivos del sistema y se os quedará corrupto.
+
+2. Instalar el terminal.
+
+3. Descomprimir el archivo UbuntuForAndroid.rar en la raiz de la sdcard. El resultado es una carpeta llamada Ubuntu con 2 archivos dentro. ubuntu.img y ubuntu.sh.
+
+4. Editar el archivo ubuntu.sh, con la ruta donde queremos descargar. Se puede ver la ruta con ES Explorador de Archivos. La línea a editar es esta:
+
+
+##########################################
+#Mount all required partitions #
+##########################################
+busybox mount -t ext2 /dev/block/loop255 $mnt
+busybox mount -t devpts devpts $mnt/dev/pts
+busybox mount -t proc proc $mnt/proc
+busybox mount -t sysfs sysfs $mnt/sys
+busybox mount -o bind /sdcard $mnt/sdcard
+busybox mount -o bind /mnt/usbhost2/8_4/externo $mnt/external_sd
+
+5. Ahora abrimos la terminal y escribiemos:
+
+su
+cd sdcard
+cd ubuntu
+sh ubuntu.sh
+En un par de segundos arrancará ubuntu. He metido en el script unas pequeñas instrucciones, como las direcciones para entrar al aMule, qBittorrent, SSH, con sus claves y demás.
+
+6. Ya está todo funcionando, sería recomendable cambiar las claves de acceso.
+Para administrar el Mele:
+a) SSH con Putty por ejemplo.
+b) Entorno gráfico, lanzar el servidor VNC con el comando(vncserver :0 -geometry 1024x768) y conectarse con un cliente, en windows estoy utilizando UltraVNC Viewer
+
+Para administrar aMule hay 2 formas:
+a) Administración web.
+b) Cliente aMuleRemoteGui (se instala con el aMule, está para Windows, Linux y Mac)
+
+Para administrar qBittorrent:
+a) Administración web
+
+Los 2 demonios sin carga consumen muy poquito, un 2 o 3Mb cada uno, pero si aún así quieres usar solo uno, puedes evitar que se inicien modificando el archivo init.d que se encuentra en /root, dentro de linux. Tan solo hay que comentar con una # el programa que no quieres iniciar.
+
+################################################## ##########
+# enable workaround for upstart dependent installs #
+# in chroot'd environment. this allows certain packages #
+# that use upstart start/stop to not fail on install. #
+# this means they will have to be launched manually though #
+################################################## ##########
+dpkg-divert --local --rename --add /sbin/initctl > /dev/null 2>&1
+ln -s /bin/true /sbin/initctl > /dev/null 2>&1
+/etc/init.d/ssh start
+/etc/init.d/amule-daemon start
+/etc/init.d/qbittorrent-nox start 
+
+
+
+
+Thank you very much Programing Tool

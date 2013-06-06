@@ -1,0 +1,14 @@
+Unrar:
+1.Uninstall previous version.
+2.Delete installation folder
+3.Delete registry:
+
+32bit : HKEY_LOCAL_MACHINESoftwareWaves
+64bit : HKEY_LOCAL_MACHINESoftwareWow6432NodeWaves
+
+Install Waves v9r2 complete bundles, Mercury,SSl 4000, GTR Solo, and The King's Microphone. Run Crack, then relace
+the  original files with the files (not the folder) included in the Waves NLS folder to the directory
+C:/Program Files (x86)/Waves/Plug-Ins (drap and Drop the files)
+Enjoy!
+
+Tested on Pro Tools 10.1.2 and Fl Studio 10.0.9

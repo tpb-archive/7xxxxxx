@@ -1,0 +1,30 @@
+Think Complexity
+by Allen B. Downey
+
+Publisher: O'Reilly Media
+Released: February 2012
+Pages: 160
+================================================================================
+
+This book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science:
+
+    Data structures and algorithms: A data structure is a collection that contains data elements organized in a way that supports particular operations. For example, a dictionary organizes key-value pairs in a way that provides fast mapping from keys to values, but mapping from values to keys is generally slower.
+
+    An algorithm is a mechanical process for performing a computation. Designing efficient programs often involves the co-evolution of data structures and the algorithms that use them. For example, the first few chapters are about graphs, a data structure that is a good implementation of a graph---nested dictionaries---and several graph algorithms that use this data structure.
+
+    Python programming: This book picks up where Think Python leaves off. I assume that you have read that book or have equivalent knowledge of Python. As always, I will try to emphasize fundmental ideas that apply to programming in many languages, but along the way you will learn some useful features that are specific to Python.
+
+    Computational modeling: A model is a simplified description of a system that is useful for simulation or analysis. Computational models are designed to take advantage of cheap, fast computation.
+
+    Philosophy of science: The models and results in this book raise a number of questions relevant to the philosophy of science, including the nature of scientific laws, theory choice, realism and instrumentalism, holism and reductionism, and Bayesian epistemology. 
+
+This book focuses on discrete models, which include graphs, cellular automata, and agent-based models. They are often characterized by structure, rules and transitions rather than by equations. They tend to be more abstract than continuous models; in some cases there is no direct correspondence between the model and a physical system.
+
+Complexity science is an interdiscipinary field---at the intersection of mathematics, computer science and physics---that focuses on these kinds of models. That's what this book is about. 
+
+================================================================================
+This book is under the Creative Commons Attribution-NonCommercial 3.0 Unported License, which means that you are free to copy, distribute, and modify it, as long as you attribute the work and don't use it for commercial purposes. 
+
+================================================================================ 
+http://www.greenteapress.com/compmod/ 
+http://shop.oreilly.com/product/0636920022480.do

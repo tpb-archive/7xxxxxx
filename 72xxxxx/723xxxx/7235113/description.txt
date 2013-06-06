@@ -1,0 +1,20 @@
+Every PSP Firmware from 1.50 to 6.60 (The last there will ever be) These can be a pain to find online with Sony cracking down, so here is a torrent with all of them. Download them all, or just the one you need.
+
+For use with POPSLoader, CFW, Homebrew, Downgrades, or whatever you may think up
+These are all Official Firmwares, not custom or hacked in any way.
+
+File naming is the firmware version stripped of the decimal point. PSP GO! firmwares have -GO added. (So the Official 6.20 firmware would be 620.PBP, or 620-GO.PBP for the GO version.)
+
+To flash an official firmware you either need to be running a lower version or use a downgrader program. Google is your friend if you need to downgrade. (You may need to upgrade to a higher version in order to downgrade certain models/firmwares. Make sure you know what you're doing before starting anything.)
+
+To upgrade from a lower version to a higher one:
+1. You need a Memory Stick Duo or Pro Duo that works with your PSP
+2. Either connect the PSP to your PC via USB cable, or use a card reader with the Memory Stick
+3. Starting at the root folder of your memory stick, create the following folder if it does not already exist: PSPGAMEUPDATE
+4. Copy the .PBP of the firmware you want to update to into the UPDATE folder on the Memory Stick
+5. Rename the .PBP file to EBOOT.PBP
+6. Exit the USB connect mode or insert the Memory Stick into your PSP
+7. Navigate to the Game menu on your PSP and look under the Memory Stick item. If you followed this correctly there should be an item under Memory Stick for the firmware upgrade you chose. If not, check everything and start over.
+8. Start the update and follow the on-screen instructions.
+
+I assume absolutely no responsibility in the (highly unlikely) event that you turn your PSP into a doorstop.

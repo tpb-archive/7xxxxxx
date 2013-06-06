@@ -1,0 +1,57 @@
+I've been looking everywhere for a torrent for this, but couldn't find any.  When I finally got it, I decided to upload it to TPB so everyone else can use it too.
+
+This is a modified version of the popular game Minecraft that makes griefing a lot easier.  Griefing is basically razing your enemy's buildings and towns.  However, it can be pretty difficult when you're bound to the normal rules of Minecaftia.  In this torrent, I have included both the modified Minecraft client, as well as a batch file that automates it's installation in Windows (sorry Mac and Linux users, but you'll have to follow the instructions manually). 
+
+Here's a few of the abilities this client gives you:
+- X-ray vision that lets you see through everything but ores.
+- Not Pushable mode which prevents other users from pushing you.
+- Click Nuker allows you to take out a good sized area with every click.
+- FullBright which removes all darkness for you.
+- Moon Jump abilities  reduces gravity's effect on you.
+- NoFall makes you immune to damage inflicted from falling a large distance.
+- And many, many more.
+
+I included this in the README as well.  Anyways, here's how to install Nodus Griefing Client:
+
+Windows:
+Run "install.bat"
+If that does not work you can do it manually:
+
+Go to the location NodusUpdate.jar was saved
+Copy/cut NodusUpdate.jar
+Open the start menu
+Type in "%appdata%" (Type in "Run" for XP, and then type %appdata% in Run) and hit enter
+Open the folder ".minecraft"
+Open "bin"
+Paste NodusUpdate.jar into bin
+Delete "minecraft.jar"
+Rename NodusUpdate.jar to "minecraft.jar"
+
+
+OSX Lion (Mac):
+Go to the location NodusUpdate.jar was saved
+Copy/cut NodusUpdate.jar
+Go to "Go"
+Click on "Go to Folder..."
+Go to the folder "~/Library/Application Support/Minecraft"
+Open "bin"
+Paste NodusUpdate.jar into bin
+Delete "minecraft.jar"
+Rename NodusUpdate.jar to "minecraft.jar"
+
+
+Linux:
+Open Terminal.
+Type "cp [path]/NodusUpdate.jar .minecraft/bin" but replace "[path]" with the actual path where the file is located (e.g. "cp Downloads/Nodus_Client/NodusUpdate.jar .minecraft/bin")
+Type "cd .minecraft/bin"
+Type "rm minecraft.jar"
+Type "mv NodusUpdate.jar minecraft.jar"
+Finally type "exit"
+Don't actually type in the quotes, they are just so you are aware of where the command starts and where it ends.
+
+
+I hope everyone has had as much with this as I have!
+If you have any questions, feel free to PM me.
+Special thanks to Stonecold1995 for making the quick installation program for Windows (yeah, I know it's simple but I can't into even batch files) and of course, Nodus for making the client itself.
+
+Original site for the client: http://nodusgriefing.com/index.html

@@ -1,0 +1,13 @@
+Re-Encode From 720p Release
+Compatible With DivX DVD Players (720x400 Resolution).
+
+Screenshots: http://bayimg.com/HAOjeaaDg
+
+Resolution: 720x400
+Video Bitrate: 2079kbps
+Audio: AC3 ACM 2 Channel @ 256kbps @ 48,000hz
+
+Method used:
+VirtualDub MKV Plugin:
+Lanczos3 Resize Filter and Saved uncompressed @ 48.3GB
+Compressed With DivX 2-Pass @ "Insane Quality" Setting	

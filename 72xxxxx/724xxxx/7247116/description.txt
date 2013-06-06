@@ -1,0 +1,52 @@
+****** ****** ******   ******* ****** ****** *    *  **
+     * *      *    *      *    *      *      *    *  **
+     * *      *    *      *    *      *      *    *  **
+ ***** ****** *    *      *    *****  *      ******  ** 
+     * *    * *    *      *    *      *      *    *  
+     * *    * *    *      *    *      *      *    *  **
+****** ****** ******      *    ****** ****** *    *  **
+
+************************************************************
+*************************************************************
+
+
+===============================================================================
+            SUPPORTED DEVICE INTERFACES
+===============================================================================
+
+USB:
+   LPC2148 Olimex USB header board.
+   High performance 16MB/2Mins.
+   LibUsb driver.
+
+LPT:
+   Parallel Printer Port, SPP mode.
+   Low performance, 16MB/35mins (cpu dependant).
+   Dlportio printer port driver.
+
+XSVF:
+   Subset device of USB. 
+   LPC2148 Olimex USB header board required.
+   NOT for nand programming. This command line device type is for flashing
+    .xsvf files to a Xilinx cpld.
+
+POST:
+   Subset device of USB. 
+   LPC2148 Olimex USB header board required.
+   NOT for nand programming. This command line device type is for monitoring
+    Post codes only.
+
+The included .hex file supports both Nand SPI flash, Xilinx Programming,
+ and Post Monitor all at the same time.
+The mode selected ie: Nand Flash/Xsvf/PostMon is determined by the command line.
+Previous .hex files as well as the "pic" version of hardware will not work.
+
+The Maximus "NANDFlasher" has an array of plated through holes to break out all
+ the extra LPC2148 gpio. This product can be flashed with the new ArmV3.hex file
+ for full comatibility with Nandpro. The wiring coordinates are included here for
+ those who have this device. The included .jpg file shows the connections
+ to flash this device with the Philips utility. An RS232 level shifter is also 
+ required for this purpose.
+
+The Team Executor "NAND-X" can also be flashed with the ArmV3.hex, however the
+ wiring connections may be difficult, and are not listed in this document.

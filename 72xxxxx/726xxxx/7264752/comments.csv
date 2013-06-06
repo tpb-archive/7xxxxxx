@@ -1,0 +1,92 @@
+﻿User Type,Username,Date,Text
+,Cbswe,2012-05-12T18:50Z,Forgot to mention. This is + Lord of Destruction expansion (of course).
+,hurukh,2012-05-12T19:32Z,Does it work under Leopard (10.5.8)?
+,Cbswe,2012-05-12T20:02Z,"@hurukh: Wineskin doesn't officially support Leopard. So I wouldn't be too hopeful. But if you have Leopard, you can run the original OS X version that works trough Rosetta. There is a torrent for that one here: http://thepiratebay.se/torrent/4658601/[Mac]_Diablo_2___Lord_of_Destruction___Serial___NoCD
+
+This torrent is mainly for Lion users. However, I have tested it with Snow Leopard and it works with that version as well."
+,Gekkieaap,2012-05-12T20:29Z,No its not suporting 10.4 only above 10.5
+,2222lil,2012-05-13T00:08Z,Some seeding would be nice.
+,bloops,2012-05-13T09:10Z,what does it mean by [wine port]??
+,Cbswe,2012-05-13T10:46Z,bloops: It uses the compatibility layer wine: http://en.wikipedia.org/wiki/Wine_(software)
+,Cbswe,2012-05-13T10:59Z,"It should be noted that this did not run very good at a random lion machine I tried it on. First when launched it gave an error, the second time it actually started, but somehow the system cursor was over the game cursor.
+
+However, this has been tested to work really good on another lion machine and a snow leopard machine. I know both of these has XQuartz installed, so it might be due to that or it might be completely random. So if you are experiencing the mentioned problem symptoms, it might be a good idea to try to install XQuartz."
+,bloops,2012-05-13T13:43Z,@Cbswe thanks
+,2222lil,2012-05-13T17:05Z,Is there any way to change the resolution? Also I'm confused on how to use the cdkey.
+,Cbswe,2012-05-13T17:24Z,"@2222lil: There's two resolutions possible: 640x480 and 800x600. I think the resolution should be set to 800x600 in this app already. If not, you change it in the in-game pause menu. Regarding the CD-key, you'll have to be more specific of what you don't understand."
+,bloops,2012-05-13T17:29Z,may i ask again? why is there a blue screen before the gameplay launched? like it wont display the prologue cutscene
+,Chikenkiller,2012-05-13T17:32Z,Opening it the first time game me some error but after that it runs fine now. Thanks!
+,bloops,2012-05-13T17:48Z,"thanks a lot! btw, MU wins BPL 3-| "
+,bloops,2012-05-13T17:56Z,OMFG!!!!! CITY!!! YESS!!!! CITY!!!!!! YES!!!!!!!!!!!!!!!!!!
+,Cbswe,2012-05-13T18:17Z,"@bloops: The cutscene that runs the first time does not run because I have already opened the game (to make sure it actually runs). But the cinematics works just fine. If you want to watch the intro, just go to cinematics in the main menu. I think the reason the screen is blue is because OS X is changing resolutions and that the blue color might be some sort of standard background for fullscreen or it is because how the wine engine works. Anyway: it is not because the cutscene is missing. The cutscenes/cinematics should work just fine. "
+,spiker268,2012-05-13T18:23Z,"I have a 26 letter cd key, is there any way to make this work on the wine port thing, because it is asking for a 16 letter cd key and I know all the new ones have 26 letters"
+,Cbswe,2012-05-13T18:48Z,@spiker268: I think this topic has an answer: http://diablo.incgamers.com/forums/showthread.php?668884-Digital-download-problem-with-CD-key-length It says something like your 16-length CD keys should be accessible through your blizzard store account. 
+,jiserra,2012-05-14T01:23Z,"Excellent torrent! I'm seeding, now with a 2.70 ratio :) One question though… is there a way to change the screen ratio so it doesn't stretch and add black bars at the sides? Because I don't mind the 800x600 resolution but I don't want it to stretch across my 16:10 ratio screen. Thanks!"
+,Cbswe,2012-05-14T01:46Z,"@jiserra: It stretches? Weird. I get nice black bars with 800x600 resolution when I run it. I guess you could experiment with changing the screen settings in Wineskin.app thats inside Diablo II.app (right-click Diablo II and choose ""Show package contents"")."
+,jiserra,2012-05-14T02:22Z,@Cbswe I tried that with several settings but nothing works :(
+,Cbswe,2012-05-14T02:54Z,"@jiserra: Darn.. Couldn't find any specific solution. It should work fine if you have a 16:10 resolution in OS X and then have the (default) ""Automatic"" option selected in screen options. If you change your resolution in OS X to 800x600, does it stretch then as well?"
+,jiserra,2012-05-14T03:55Z,"@Cbswe SOLVED! The problem was that I was using an external monitor as my primary monitor with the Macbook closed. When I unplugged that external monitor and use my Macbook screen, the black bars appeared!
+It looks like Wineskin can't handle well the external monitors… thanks for your concern! :)"
+,Cbswe,2012-05-14T11:01Z,@jiserra: Sweet!
+,just1aim,2012-05-15T00:36Z,"thank god in heaven props Cbswe 
+do you mind communicating with me kind sir  ?
+we needed this so much!!!!!!!!!
+ill let you know if it works...........
+
+
+fantastic 3minute install macbookpro 4,1 2008 nvidia8600m gt   osx 10.6.8 
+one thing could be better i have dual display it currently turns uses both moniters
+oh well ...!   nice upload no problems"
+,just1aim,2012-05-15T01:02Z,question :   is there a way to import characters from my other diablo 2 (which is on parallels)?
+,just1aim,2012-05-15T01:06Z,"never mind i found it !!!!! thank you my other question is can i run in a window??????
+
+
+
+great torrent props  Cbswe     "
+,Cbswe,2012-05-15T01:17Z,"@just1aim: Glad you liked it! Regarding your latest question: Theoretically, yes. However, this is not guaranteed to be stable or even display correctly. Do like this (if stuff fucks up, you can always start from scratch by draging the app from the dmg to the applications folder again): 1. Right-click Diablo II.app and choose ""Show package contents"". 2. Open Wineskin. 3. Select ""Set Screen Options"". 4. Click the radio button ""Override"" and see to that the radio button ""Rootless (windowed)"" is chosen. 5. Click the radio button ""Virtual Desktop at:"" and choose 800x600 in the list to the right. 6. Click ""Done"" and close Wineskin. 7. Open Diablo II normally and it should now run in a 800x600 window."
+,kohenen,2012-05-15T17:44Z,"For step 5, how can I get the cd key?"
+,kohenen,2012-05-15T17:48Z,how to get the cd key for step 5
+,Cbswe,2012-05-16T20:01Z,"@kohenen: If you want to play multiplayer over battle.net you need a authorized cd-key i.e. a cd-key from a bought game that no one else is currently using. If you want to play single player or play multiplayer over a local network, you don't need to change the cd-key."
+,AlbinoPikachu,2012-05-18T10:26Z,"Hey, the torrent works great, using 1.7.3 Lion.
+I followed the instructions for opening Wineskin and doing Test Run, but instead of opening the CD-key screen, it takes me straight to the game. Is there any way other way to open the CD-key changer, or am I doing this wrong?"
+,wadaya87,2012-05-18T11:05Z,"Having trouble with permissions, i get an error after clicking Test Run:
+
+""ERROR! cannot write to Info.plist, there are permission problems, or you are on a read-only volume.
+
+This cannot run from within a read-only dmg file.""
+
+I tried to change the permission settings but nothing's working. Any help? Cheers"
+,wadaya87,2012-05-18T11:08Z,Current permission code is: drwxr-xr-x (755)
+,Cbswe,2012-05-18T11:09Z,@AlbinoPikachu: Make sure that you changed the Windows EXE path (the uppermost field) to Program Files/d2-cdkey/d2-cdkey.exe (step 4) before you click Test run.
+,Cbswe,2012-05-18T11:09Z,@wadaya87: You have to drag the app outside the .dmg before you can use it.
+,Cbswe,2012-05-18T11:11Z,"@wadaya87: and if you already had, you probably cannot write to the folder the app is currently placed in."
+,wadaya87,2012-05-18T11:17Z,"Sweet got it, thanks!"
+,h7643oi,2012-05-19T18:48Z,Hey my mac is 10.6.8. I do not need to play over battle.net. Does this .dmg file require other files? Or I will have to download the wineskin?
+,Cbswe,2012-05-19T19:40Z,@h7643oi: This dmg should be completely self-contained i.e. do not require any additional files or installation.
+,Superstroke,2012-05-19T23:28Z,"Very good torrent! :)
+But if anyone knew how to convert those 24 characters cd key into their old 16 character format I would really appreciate. Cheers."
+,Cbswe,2012-05-19T23:44Z,@Superstroke: I think you'll find your answer here: http://diablo.incgamers.com/forums/showthread.php?668884-Digital-download-problem-with-CD-key-length
+,DEsnakeater,2012-05-20T03:32Z,"I have the same problem as wadaya87, but I already unmounted it into applications. :/ any advice?"
+,h7643oi,2012-05-20T05:52Z,So wineskin is only for changing cdkey?
+,Cbswe,2012-05-20T13:25Z,"@DEsnakeater: And you are opening the copy in Applications, right? If that is the case then there indeed is some permission problems. However, if you were able to copy it to Applications, you should be able to write there. So it seems very weird."
+,Cbswe,2012-05-20T13:27Z,"@h7643oi: Wineskin is the neat wrapper that makes the wine-port self-contained. You open the Wineskin-app to change the config, which you have to do if you want to change what .EXE it launches."
+,h7643oi,2012-05-20T13:51Z,@Cbswe Oh okay. Got it. Its running perfectly. Thanks so much! :D
+,Jiggawithattitude,2012-05-23T14:37Z,"Thanks for the torrent, it works for me. However Is there a way you can minimize the window? or enable it so I can you other applications as well as playing diablo II?"
+,Cbswe,2012-05-23T20:27Z,@Jiggawithattitude: Yes. Check my answer to just1aim a bit further up.
+,Jiggawithattitude,2012-05-23T21:13Z,@Cbswe Sorry didn't see just1aim's second question. I got it to work perfectly. appreciate the work.
+,BruenorBattlehammer,2012-05-26T19:22Z,"Great torrent, thanks for the upload Cbswe! "
+,Tank3,2012-05-27T01:12Z,I have a valid key and I cannot log in to Battle.net :( do you think my key is banned? :O
+,Cbswe,2012-05-27T18:48Z,"@Tank3: If it says it is an unauthorized key, then diablo has successfully made contact with the battle.net servers and received this answer back. So, if you have changed the key to your own with the cd-key changer and it says this, then yes - it might be banned."
+,thedjentleman,2012-05-28T12:03Z,"I'm a bit confused here. Can I simply download and play on Lion single player without using this so called Wineskin app? Do I need to download anything else or run this through Bootcamp? Sorry for the ignorance. 
+Thanks in advance!"
+,thedjentleman,2012-05-28T23:15Z,Never mind! :D
+,Infinite_Shad0w,2012-05-31T12:04Z,"Hey thanks for this! I've got everything working, including the windowed mode! 
+
+One thing I'm curious about, is there anyway to update the game to 1.13c? Thanks again."
+,Cbswe,2012-05-31T19:08Z,@Infinite_Shad0w: This actually is v 1.13c. I forgot to denote the revision extension.
+,theupo,2012-06-02T17:31Z,Hey thanks for great upload one quick question i recently encountered duriel and he's pretty fuckin hard to beat so i decided to try going online and realized i couldn't. To play online legitamitly do i need to buy both a cd key for the normal version and the expansion pack or can i just buy one. I must have the expansion pack though because my main character is a druid. please reply thanks
+,Cbswe,2012-06-03T12:22Z,"@theupo: Yes, you'll need a legal key for both the original and the expansion if you want to use battle.net."
+,theupo,2012-06-03T13:47Z,"Oh thats too bad, guess i'll just use hamachi then btw thanks for replying to my comment so quickly that was really helpful i'll be returning to see what other stuff you put up no question. Also if anyone wants to join my hamachi it's D2Duriel and password is: ouch"
+,theupo,2012-06-03T13:49Z,you considering putting up anymore mac games? 
+,jbarms,2012-08-07T16:02Z,I am having trouble after I test run on my mac. Do I use the codes that are generated for me? I tried to use both and I get an error setup was unable to add the following files C:programfilesDiabloII\ etc. Can I get some help please?
+,dnangel000,2012-09-01T06:07Z,Can you also do this 4 Diablo 1 as well?? lol

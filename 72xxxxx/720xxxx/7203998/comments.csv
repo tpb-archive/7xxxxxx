@@ -1,0 +1,91 @@
+﻿User Type,Username,Date,Text
+[V],OneFourOne,2012-04-21T19:43Z,"Great
+
+Cheers Murlok :) "
+[V],Murlok,2012-04-21T21:06Z,as always you my 
+[V],Murlok,2012-04-22T19:17Z,Disk 1 are 32 bit Disk 2 64 Bit so download right version
+,04-SBM,2012-04-23T10:00Z,"Hi thanks for the upload! But I don't understand how to:
+Create environment variable SPACECLAIM_LICENSE_FILE with a value 27581@yourhostname
+
+Should I edit the Spaceclaim.lic in the installation folder or the SC.lic from the CD ?"
+,Nylock,2012-04-24T06:47Z,"How to Add, Remove or Edit Environment variables in Windows 7 (step by step, with screenshots)
+http://www.itechtalk.com/thread3595.html
+
+But that is not the real problem. Who has navigated through the Flexlm license (the files held in the sc2012.rar) and got it to work? How?"
+,Nylock,2012-04-25T11:58Z,"It works. Instructions for getting this going are now on
+http://forum.cgpersia.com/f13/spaceclaim-2012-x86-x64-51695/#post466765
+The power is in your hands. Be gracious and remember, not for commercial use."
+,huntdilan,2012-05-06T17:31Z,"Easy steps to Install on windows 7 64 bit
+
+1. install software ( but do not run the program )
+
+2. make a folder called ""C:SpaceClaimFlexServer""
+
+3. unrar the files sc2012.rar 
+
+4. copy all the files from the sc2012.rar too C:SpaceClaimFlexServer
+
+5. make a > new text file < rename it to "" lic.log "" and save it inside of the folder C:SpaceClaimFlexServer
+CAUTION: When saving a blank *.txt as lic.log, do not delete the highlighted blue sugestion *.txt in the box. Instead
+change txt to log and * to lic and it should read as lic.log and save it it to your C:SpaceClaimFlexServer folder
+
+so you have 5 files called > lic.log , lmgrd.exe , lmtools.exe , sc.lic , SPACECLM.exe
+
+6. Now you need to find your local host ip and you MUST be connected to the internet
+
+a. click on on ""windows start button "" click on all programs ( from start menu )
+find the folder called ""Accessories"" then click on the ""Command Prompt""
+up comes the console type in "" ipconfig /all ""
+
+you then need to find the line - IpV4 ..... Address you will see on the right a number eg 192.0.155.0 
+yours will be different 
+
+from mine , Make a note of that number.
+
+7. click ""windows start button"" move you mouse to ""computer"" """"right click """"select"" Properties 
+
+""Control PanelAll Control Panel ItemsSystem"" 
+
+on the left you will see ""Advanced system settings"" click on ""advanced system setting"" 
+another window pops up you will see at the bottom of that window ""Environment Variables"" > System Variable >> TCP >> when you get a Windows Secuirty Alert for lmgrd.exe and SPACECLM.exe <
+
+for both of them you want have 
+
+Private Networks ON 
+
+and 
+
+Public networks OFF
+
+If you don't get the Security Alert, it is fine keep going.
+
+
+9 go back too C:SpaceClaimFlexServer folder run lmtools.exe 
+
+goto the tab ""Config Services"" 2nd from last tab 
+
+in Service name box put ""SPACECLAIM_LICENSE_FILE"" in it 
+
+Path to the Lamgd.exe file put ""C:SpaceClaimFlexServerlmgrd.exe""
+
+Path to the License file put ""C:SpaceClaimFlexServersc.lic""
+
+Path to the debug log file put ""C:SpaceClaimFlexServerlic.log""
+
+click the box ""Use services"" 
+click the box ""Start Server at Power Up""
+
+go to the tab ""Start/Stop/Reread"" 
+
+press ""start Server"" button.
+
+
+
+10 run ""SpaceClaim 2012"" 
+
+
+should take you round 5 mins todo it all 
+
+remember this all for windows 7 64bit
+
+Copypasta from: http://forum.cgpersia.com/f13/spaceclaim-2012-x86-x64-51695/#ixzz1tPmVQuqt"

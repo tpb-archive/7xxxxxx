@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,TheJokerRulez,2012-05-20T23:48Z,You Need Of A JTAG Xbox For This One?
+,spiderforpc,2012-07-17T01:25Z,"its give me error at ABGX and say bad rip 
+its 8.13 but there is somthing wrong with it 
+if burn it with liteon max even with ver. blanks dvd your xbox going be ban adn flaged 
+can any 1 confirm its work ???"
+,spiderforpc,2012-07-17T01:35Z,"Game partition CRC does not match the verified ini! There are 4 possibilities:
+
+1. This is a bad rip (the most likely cause). If you're checking a DVD backup
+and have AnyDVD or a similar app installed, make absolutely sure the process is
+killed! If this is a scene release, search for it on abgx.net and look at the
+column ""Bad CRC or Needs Fixing"". If you see a  icon, hover over it with
+your mouse to read the alt text. If it says something like ""Bad game data CRC""
+or gives the name of a fix (PPF patch), we already know about it. It's also
+highly recommended to run abgx360 again with AutoFix set to level 3 if you
+applied a PPF to make sure stealth files haven't been corrupted. See ""What is
+AnyDVD style corruption?"" in the GUI Quickstart tab for more info on game data
+corruption.
+
+2. Your CPU/RAM/HDD/data bus is unstable and corrupted the data during
+extraction/burning or while checking the CRC. Make sure to run the sfv and try
+extracting it again (assuming you have the sfv/rars) and recheck the ISO/DVD to
+see if you get the same CRC.
+
+3. Game data was intentionally modified for some reason. Microsoft does not
+take kindly to modifications for any purpose, and even benign changes to game
+data or settings will get you banned from Xbox Live!
+
+4. The verified Game CRC in the database is wrong (very unlikely).
+
+Stealth was verified but game data wasn't
+
+Press any key to exit . . ."
+,cjjthedon,2012-07-22T23:55Z,"i apoligise to everyone 
+i had memory problems 
+got new pc and will be uploading new ones tonight tomorrow 
+sorry again."

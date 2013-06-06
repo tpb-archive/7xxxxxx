@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,hordex52,2012-04-28T20:26Z,Game works... nice game too thanks!
+,jrhindo,2012-04-30T23:09Z,np :)
+,j5ize,2012-05-04T17:20Z,Works great. No installation needed. Nice UL jrhundo
+,jrhindo,2012-05-05T16:45Z,"Guys, glad you like my torrent but i need your help. I am trying to upload more classic and great games but everytime I get an error! I get this:
+
+Warning: mysqli::ping(): MySQL server has gone away in /var/data/thepiratebay.org/www/include/library/bay/database.php on line 111
+Unable to fetch data
+Warning: Invalid argument supplied for foreach() in /var/data/thepiratebay.org/www/include/spamurl.inc.php on line 4
+Unable to fetch data
+Warning: Invalid argument supplied for foreach() in /var/data/thepiratebay.org/www/include/spamurl_tdescr.inc.php on line 9
+Unable to fetch dataUnable to fetch dataUnable to fetch dataUnable to fetch data
+Fatal error: Uncaught exception 'Exception' with message 'Unable to execute query' in /var/data/thepiratebay.org/www/include/library/bay/database.php:89 Stack trace: #0 /var/data/thepiratebay.org/www/include/upload/upload.inc.php(182): Bay_Database->execute('INSERT INTO tor...', 'ssisiiiss', 'MjQxoAqDMFHx3Jz...', 'Emperor: Rise o...', 9599719, 'jrhindo', 1416, 833059908, '401', 'member', 'Emperor: Rise o...') #1 /var/data/thepiratebay.org/www/upload.php(20): handle_upload() #2 {main} thrown in /var/data/thepiratebay.org/www/include/library/bay/database.php on line 89"

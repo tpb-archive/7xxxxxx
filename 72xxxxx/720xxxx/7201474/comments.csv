@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+[T],xCrazy0328x,2012-04-20T20:03Z,"Format                           : AVI
+Format/Info                      : Audio Video Interleave
+Format profile                   : OpenDML
+File size                        : 1.31 GiB
+Duration                         : 2h 8mn
+Overall bit rate                 : 1 456 Kbps
+Writing application              : VirtualDubMod 1.5.10.2 (build 2542/release)
+Writing library                  : VirtualDubMod
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : AdvancedSimple@L5
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (MPEG)
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 2h 8mn
+Bit rate                         : 1 131 Kbps
+Width                            : 640 pixels
+Height                           : 272 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 23.976 fps
+Resolution                       : 24 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.271
+Stream size                      : 1.02 GiB (78%)
+Writing library                  : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : 2000
+Duration                         : 2h 8mn
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Surround: L R, LFE
+Sampling rate                    : 48.0 KHz
+Stream size                      : 295 MiB (22%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 64 ms (1.53 video frames)
+Interleave, preload duration     : 192 ms"

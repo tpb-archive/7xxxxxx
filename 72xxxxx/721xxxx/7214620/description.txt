@@ -1,0 +1,41 @@
+This pack includes the following games :
+
+Half-Life
+Half-Life: Opposing Force
+Half-Life: Blue Shift
+Half-Life: Deathmatch Classic
+Counter-Strike
+Counter-Strike: Condition Zero
+Counter-Strike: Condition Zero Deleted Scenes
+Day of Defeat
+Team Fortress
+Ricochet
+
+FEATURES :
+- 100% Clean Rip from Steam GCFs (Game Cache files)
+- Only 965MB compressed size (Winrar 4.00 best compression)
+- Latest engine update
+- Dual Protocol (48 + 47) Client
+- Client can join P47 as well as P48 servers
+- Dual Protocol (48 + 47) Listen Server is also included
+- Fully working server browser with Internet, favourites and LAN tabs
+- Playable on Internet and LAN
+- Singleplayer with saves fully working
+- Portable
+- Working Listen server (Steam and Non-Steam)
+- SETTI serverlist
+- Steamclient.dll NOT loaded in memory
+
+What is not supported and why :
+- Dedicated servers. Use HLDSupdatetool for that. Dedicated server's dll's interfere with the game ones.
+- VAC on listen server. RevEmu doesn't support the latest steamclient.dll
+
+pass:
+
+Credits :
+Valve - Counter-Strike
+revCrew - REVOLUTiON Emulator (latest versions are really bad, we need something better)
+steamCooker - CF Toolbox
+Sasio - GCFExplorer
+Crock - dproto and Complete unicode pack
+Fasi001 - Providing most of the working features above in his CS 1.6 pack

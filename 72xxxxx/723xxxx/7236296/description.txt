@@ -1,0 +1,22 @@
+CGIPROXY 2.1 patched to tailor fit ThePirateBay
+-----------------------------------------------
+
+
+Read the README.TPB.txt file for complete setup instructions.
+
+
+If you install this on a server that can reach TPB, it will allow people from countries and ISPs that block TPB to use your server as a proxy to reach the original site.
+It's not a mirror. It actually retrieves the site dynamically from the original source.
+With software like this installed all over the world, TPB will be even more reachable. Since most censorship and blocks are based on domain name or IP (or both), it will be impossible for anyone to keep a list of proxies that reach TPB.
+
+
+Requirements:
+
+A Linux machine (preferably Debian based) running the Apache web server.
+It must have unrestricted access to the TPB web site.
+
+
+
+
+Note: There is a missing period typo in the README.TPB.txt instruction file.
+Where it says "mimeconf", that should be "mime.conf".

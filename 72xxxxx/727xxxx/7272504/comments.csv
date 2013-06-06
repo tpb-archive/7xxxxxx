@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+[H],HeroMaster,2012-05-15T15:39Z,ENJOY Sonic the HedgeHog 4 New Episode 2 New PC Game by RELOADED!
+,assfacefromhell,2012-05-15T17:43Z,Thanks!
+,assfacefromhell,2012-05-15T18:11Z,Can't get past the title screen. Keyboard and gamepad do nothing.
+,derker,2012-05-16T19:49Z,"I have the same problem, but I can get past the title screen. Then I can't do anything on the main menu.
+
+Solutions? Thanks."
+,00gab00ga,2012-05-17T16:58Z,"Nice fucking virus on this piece of shit.  Put something called ratnec.exe on my pc and after i rebooted my pc froze up at the boot screen.  Had to get in safe mode to delete it but my pc is still fucked up and now have the zeroaccess trojan.
+
+Nuke this piece of shit."
+,assfacefromhell,2012-05-17T18:10Z,"00gab00ga - There are no virii in this release. So whatever you are complaining about must have derived from some other source. However, it does remain a virtually useless game due to the fact that it is impossible to get past the title screen."
+,Straight_Pride,2012-05-17T22:13Z,"Can't get past title screen.
+
+No point in downloading this until there's a fix."
+,falsedilemma,2012-05-18T00:02Z,"After you do number 3, run the launcher as admin, fix controls, and graphics then save and play. It should work now using the keys you set from launcher."
+,Sonicfan244,2012-05-18T05:34Z,This one is almost like the beta version. The crack has a bug. It makes the background light graphic(Which is the sun) Not show up in higher Resolution. So the only way to make it show is to set the resolution of the game to 800x600. It's the only way until they release a better crack.
+,Straight_Pride,2012-05-18T16:09Z,"@falsedilemma
+
+You're right.
+
+Running the launcher as admin works.
+
+Can be done after copying the crack though."
+,falsedilemma,2012-05-18T23:13Z,"@Straight_Pride
+
+Number three is copying the crack."
+,falsedilemma,2012-05-18T23:14Z,"Btw, i made an account to post that comment; it's my first."
+,maverickbleh,2012-05-19T02:57Z,"@falsedilemma ehhh here's what I read from the description. Can you tell me how is #3 copying the crack? lol
+
+1. Unrar
+2. Burn or mount the image
+3. Install the game
+4. Copy over the contents of the /Crack dir on the disc to your <install>
+dir
+5. Play the game
+6. Support the software developers. If you like this game, BUY IT!"
+,Rosloyoy5,2012-05-19T03:24Z,"Game works fine, but could not get the virus to work. I tried everything, rebooted, went into c:/users and searched for ratnec.exe, searched c:/drive for it. Can someone please help me install the virus, thanks."
+,Rosloyoy5,2012-05-19T03:28Z,"Game works fine, but could not find the virus. I tried everything, rebooted, went into c:/users and searched for ratnec.exe, searched c:/drive for it. Can someone please help me find that virus, thanks. "
+,maverickbleh,2012-05-19T04:00Z,"I don't think there's a virus, but even if so, why would you want it to work? lol"
+,Rosloyoy5,2012-05-19T04:29Z,"Perhaps your right, well just wanted to see if norton internet security 2012 would pick it up."
+,assfacefromhell,2012-05-19T11:07Z,"I was finally able to get keyboard controls working per the ""run as admin"" instructions by falsedilemma, although I could not re-assign key functions to my gamepad. Oh well."
+,Straight_Pride,2012-05-19T14:50Z,"@falsedilemma
+
+Thanks.
+
+That should've been the first thing I said to you in my post."
+,ZeroShift,2012-05-20T03:37Z,"I'm calling bullshit on this ""False positive"" nonsense.
+
+After installing this, a process ""ratnec.exe"" takes over the login process. Only by terminating it with task manager was I able to proceed. Turns out the ISOs setup.exe dumps RELOADED.exe"" into your /AppData/Roaming/ folder and it dumps ratnec.exe and a fake svchost.exe.
+
+Both ratnec and the fake svchost executables are actually agents of Backdoor/Win32.Rbot, an IRC backdoor trojan used to turn your computer into a botnet zombie as well as pharm for sensitive information (passwords, etc.)
+
+Do not, I repeat, DO NOT download or run this game!
+
+Shame on you, RELOADED team. I expected better from you.
+
+Addendum: It may be possible to install this game without infecting your computer. After mounting the ISO (which this should NEVER HAVE BEEN AN ISO, this is a digital download release title. They used the ISO form to make sure virus scanners cannot preemptively remove the virus before running,) instead of opening setup.exe, open it with an archiving program such as WinRAR or 7-zip. Extract the REAL setup.exe within, as well as the setup-1.bin file into a folder somewhere on your computer. Run the real setup.exe and you should be good to go, virus free. "
+,falsedilemma,2012-05-20T03:57Z,"sry, my bad, i meant number 4."
+,ZeroShift,2012-05-20T17:22Z,"Update: The virus included in this release also contains a keylogger! If you installed this normally following the instructions and you want proof:
+
+Hit Windows Key+R (Or go to Run in the Start Menu) and type %AppData% and hit enter. Look for a file called ""keyboard."" Double click it and tell Windows to open it in Wordpad/Notepad.
+
+Presto! It's been logging your keystrokes since you opened the installer. "
+,toxic944,2012-05-21T03:53Z,Is the release by ALiAS clean? (uploaded by scene4all)
+,jumpansung,2012-06-01T16:02Z,"Had the same problem getting stuck at the title screen, running it in admin fixed it.. works great! thanks"
+,omegaviper,2012-06-20T08:05Z,@ZeroShift your completely incorrect I just checked my appdata and there is no such keylogger and I did a full scan and nothing came up.  although I still can't get past the start screen for this game.
+,d0vh,2012-07-03T05:37Z,I do not recommend downloading this.

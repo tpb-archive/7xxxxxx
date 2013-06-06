@@ -1,0 +1,52 @@
+ESET Endpoint Security 5.0.2113(x86-64)with keys[Team Nanban][TPB]
+
+DESCRIPTION:
+
+ESET Endpoint Security - A comprehensive anti-virus for small and medium-sized businesses and corporate clients. 
+It combines an advanced proactive protection for endpoints of protection against malicious software, two-way firewall and 
+antispam.
+
+ESET Endpoint - a new generation of antivirus ESET products for small, medium-sized businesses and corporate clients. 
+The solution uses scanning technology based on the White List "safe files", which are checked against a database of files 
+reputation for performance.
+
+Comprehensive anti-virus includes enhanced centralized management of all end points (PC, laptop, server) with the 
+ESET Remote Administrator.
+
+The main advantage of ESET Endpoint Security
+ΓÇó Optimization by means of ESET Live Grid;
+ΓÇó Proactive protection HIPS (Host-based Intrusion Prevention System);
+ΓÇó Rolling back the update;
+ΓÇó Improved upgrade;
+ΓÇó The mode of presentation;
+ΓÇó Modular installation;
+ΓÇó Support for Microsoft Network Access Protection (NAP).
+
+ Changelog 5.0.2008.0 - 5.0.2113.0
+Added: Product name change implemented
+Added: Device control functionality
+Added: Web control functionality
+Added: Client setup for Update rollback functionality
+Added: Automatic scanning of removable media
+Added: Client setup for plain text logging
+Added: User can snooze scheduled scan
+Added: Ability of mirror update server to serve updates in small packages
+Added: Updated in-product helps
+Fix: ESET Endpoint Security impossible to be installed on Windows NT
+Fix: Product crashing after system restart on Windows NT / Windows 2000
+Fix: Occasional BSOD during system startup
+Fix: System startup blocked if product installed on other than default disk partition
+Fix: Product checking for newer version online before installation
+Fix: Not possible to access specified device, path, file when HIPS is set to Policy-based mode
+Fix: Randomization of tasks sent from ERA not working correctly
+Fix: Occasional GUI crash during installation on Windows XP (32-bit)
+Fix: Digital signature driver problem during installation
+Fix: New hardware detected notification window does not appear upon connection of FireWire device
+Fix: Wrong tray icon appearing when Windows Update patches are available
+Fix: Missing notification about restart required when disabling Anti-Stealth
+Fix: Missing information from the cloud for product's own processes
+Fix: Exclusions containing environmental variables are expanded on the client and in exported configuration
+
+PLZ SEED AFTER DOWNLOADING....
+
+"SHARING IS CARING"

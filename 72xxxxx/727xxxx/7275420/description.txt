@@ -1,0 +1,17 @@
+Fix 1.6 for ESET NOD32 Antivirus and ESET Smart Security by box and mara. Tested with 5.2.9.1.
+
+100% malware free (tested on virustotal.com).
+
+============
+Instruction:
+============
+
+1. Go to ESET site and download NOD32 Antivirus or ESET Smart Security in your language.
+
+2. Install ESET product and do NOT activate any license.
+
+3. In program option disable Self-Defense and reboot PC (reboot is required!).
+
+4. After reboot run ESET Fix, check checkbox and click Fix it. ESET will update and PC will reebot.
+
+Seed and leave comment.

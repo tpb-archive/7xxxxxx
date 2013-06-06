@@ -1,0 +1,14 @@
+Drupal 7 Multi Sites Configuration by Matt Butcher. Drupal is one of the most powerful PHP Content Management Systems there is. However, why would you install a CMS for every site you build? With just one copy of Drupal you can host several sites. Drupal has long had multi-site support, and Drupal 7's support is even better than previous versions.
+
+Drupal 7 Multi-Sites Configuration will teach you how to host several websites on a single copy of Drupal. You will learn how to create different sites, each with its own domain, content, and theme. This valuable information will help you to save time by managing modules and sharing them across several sites as well as administering your sites all in one place.
+
+This book will show you how to configure a system for multi-site, and then install several sites on one copy of Drupal, all with their own domain name and database. Learn how to install and share modules and themes, configure Apache, PHP, and MySQL for multi-site, and then manage the site. Once your site system is successfully set up, discover some of the advanced configurations possible with Drupal multi-site, as well as how to upgrade and maintain your sites.
+
+What you will learn from this book :
+- Configure MySQL and Apache for hosting multiple sites
+- Prepare Drupal 7 to host more than one site
+- Install several sites on one instance of Drupal
+- Manage, share, or isolate modules and themes in a multi-site configuration
+- Care for your multi-site server, safely managing and upgrading it
+- Rapidly build a multi-site testing environment with VirtualBox and Vagrant
+- Extend the core multi-site configuration with add-on modules

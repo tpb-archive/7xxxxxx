@@ -1,0 +1,19 @@
+Change log (v1.47):
+
+core:
+- switched to devkitarm r38.
+- improved stability.
+- improved loader stability.
+- improved softreset stability.
+
+compatibility:
+- 'inazuma eleven 2 - tempesta di fuoco (italy)' fixed.
+- 'inazuma eleven 2 - tormenta de fuego (spain)' fixed.
+- 'new horizon - english course 1 (japan)' fixed.
+- 'new horizon - english course 2 (japan)' fixed.
+- 'new horizon - english course 3 (japan)' fixed.
+- 'jam with the band' 32MB savesize changed to 8MB.
+- 'made in ore' 32MB savesize changed to 16MB.
+
+r4i specific:
+- added additional info about card in help window.

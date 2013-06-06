@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-05-21T10:39Z,I apologize in advance for my slow upload people. My upload max's out at about 50 KBytes /s
+,elDunge,2012-05-21T20:43Z,Thanks for this
+,otrivin1,2012-05-23T23:51Z,"Thanks for fixing it mate! If I recall correctly, the second episode, the one where they thought they were racists, had this issue as well. Any chance you will be re uploading it?"
+,xpmule,2012-05-24T09:29Z,"If i can reproduce the problem I probably will and I think i remember seeing the same problem on that episode too
+I'll need to do some digging.
+
+If anyone is curious what I did to fix the audio timing on this ep ?
+
+I used Avidemux and i trimmed the video down to a small clip where they were talking (so conversion would go quick) and I watched the video and checked wether the audio was ahead or behind the video and then made a random guess how far off the timing was and I lucked out with 500 ms.
+Video & Audio was set to copy mode and ""smart copy"" was not enabled to try and preserve frame accuracy.
+Most people know re-encoding videos should be avoided I was happy i could do this with out messing with the content.
+Ohh almost forgot.. Anytime I use avidemux for .mkv's I use MKVToolnix to rebuild the container, I do this because I've had problematic videos in the past and MKVToolnix always repaired my videos, so I do that now as a habit i guess..
+
+Avidemux can be very buggy with x264 based files so I spent more time double checking videos than I did actualy editing anything lol"
+,xpmule,2012-08-09T20:46Z,"glad you guys kept sharing this !
+i screwed up my file and needed to re download it lol
+
+Lets just say Avidemux is a buggy pos !"

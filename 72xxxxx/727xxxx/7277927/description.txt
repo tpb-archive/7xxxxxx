@@ -1,0 +1,42 @@
+
+Collection of free disk Wipers and erasers.
+ 
+https://eraser.heidi.ie/
+ 
+http://www.dban.org/about
+ 
+http://www.piriform.com/ccleaner/builds
+ 
+http://www.killdisk.com/
+ 
+http://hddguru.com/software/2006.04.13-HDD-Wipe-Tool/ 
+
+
+You may already know that ΓÇ£deletingΓÇ¥ a file does nothing of the sort. But did you know that your disk drive has a built-in system for the secure erasure of data? No? Then read on. What do you mean ΓÇ£deleteΓÇ¥ doesnΓÇÖt delete? File information is maintained in a directory so your operating system can find it.
+
+You may already know that ΓÇ£deletingΓÇ¥ a file does nothing of the sort. But did you know that your disk drive has a built-in system for the secure erasure of data?
+
+No? Then read on.
+
+What do you mean ΓÇ£deleteΓÇ¥ doesnΓÇÖt delete?
+File information is maintained in a directory so your operating system can find it. All that ΓÇ£deleteΓÇ¥ does is erase the fileΓÇÖs reference information. Your OS canΓÇÖt find it, but the data is still there.
+
+ThatΓÇÖs what those ΓÇ£file recoveryΓÇ¥ programs look for: data in blocks that the directory says arenΓÇÖt in use.
+
+You really want to do this
+If you keep business, medical, or personal financial information on disks, simple deletion isnΓÇÖt enough to protect the data when disposing of the equipment.
+
+Besides identity theft, data loss may leave you or your company liable under federal laws such as HIPAA, Sarbanes-Oxley, Graham-Leach-Bliley or other state laws. Criminal penalties include fines and prison terms up to 20 years. Not to mention the civil suits that can result.
+
+So whatΓÇÖs the magic?
+Something called Secure Erase, a set of commands embedded in most ATA drives built since 2001. If this is so wonderful, why havenΓÇÖt you heard of it before? Because itΓÇÖs been disabled by most motherboard BIOSes.
+
+Secure Erase is a loaded gun aimed right at your data. And MurphyΓÇÖs Law is still in force. But hey, if youΓÇÖre smart enough to read Storage Bits, youΓÇÖre smart enough to not play with Secure Erase until you need to.
+
+How does Secure Erase work?
+Secure Erase overwrites every single track on the hard drive. That includes the data on ΓÇ£bad blocksΓÇ¥, the data left at the end of partly overwritten blocks, directories, everything. There is no data recovery from Secure Erase.
+
+Says who?
+The National Security Agency, for one. And the National Institute for Standards and Testing (NIST), who give it a higher security rating than external block overwrite software that youΓÇÖd have to buy. Update: There is an open source external block overwrite utility called Boot and Nuke that is free.
+
+Secure Erase is approved for complying with the legal requirements noted above.

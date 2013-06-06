@@ -1,0 +1,65 @@
+Simple Dual Boot Without Boot Manager for any PC or Intel Mac
+
+Warning this is for advanced users. 
+For older computers any spare blank internal HDD of any size >= 20 GB, 
+both desktop and laptops
+
+Download torrent. 
+Navigate to where you downloaded it
+Create image for Linux boot CD from 1 blank CD-R and iflnet.iso
+create BootitNG boot CD from 1 blank CD-R and BOOTITNG.ISO
+insert image for Linux boot CD
+Shut down PC
+
+connect a blank Kingston 16 GB USB flash drive
+or any spare blank internal HDD of any size >= 20 GB, 
+for both desktop and laptops
+Turn on PC
+
+restore image file, LM9LXDE_16F.tbi onto a blank Kingston 16 GB USB flash drive!
+
+image for linux >Enter >Restore >Automatic >File Direct >Linux Drive >Select File Drive> 
+Select Partition >TAB >Select Folder >Select File >Select entire drive (spacebar) >
+Select Linux Drive >Select Target Drive >Yes to Continue >Enter >Start
+
+wait for imaging to complete
+remove image for Linux boot CD
+Shut down PC
+Disconnect internal HDD
+
+Turn on PC then boot into Linux
+login info:   
+user1
+user_0
+
+all lower case, no spaces. To type underscore you must hold down the shift key while
+you press the key to the right of zero. Then let go the shift key to type zero.
+Then press the enter key.
+
+shut down PC 
+Reconnect internal HD
+If you want Linux to boot before Windows then change boot order in BIOS
+Otherwise to boot into Windows, remove USB flash drive before restarting PC
+
+For older computers, P3 400+ MHz, you may use the BootitNG to resize the data partition 
+to fit larger internal HDDs. 
+
+This image of Linux Mint 9 LXDE can be deployed onto spare blank internal HDD
+of any size >= 20 GB, for both desktop and laptops.
+
+DrPCDr.ca
+April 20, 2012
+
+For details on how this image was created: 
+http://drpcdr.ca/LMLXDE.pdf
+
+I disabled the forced mount in /etc/fstab because it was causing boot failiure and is
+NOT needed. I adjusted the bookmarks in file manager.
+ 
+http://drpcdr.ca/frank_intel_franken_tosh/frank_intel_franken_tosh.html 
+http://www.drpcdr.ca/pics/2006_Macbook.jpg 
+http://www.drpcdr.ca/pics/HP_Omnibook_6000.jpg 
+http://www.drpcdr.ca/pics/IBM_Thinkpad_600X.jpg
+
+Beware:  Never install BootitNG.  
+Click cancel at setup screen displayed after booting fromm bootitNG CD

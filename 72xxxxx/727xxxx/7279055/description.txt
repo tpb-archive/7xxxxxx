@@ -1,0 +1,5 @@
+Took the original Mythbusters S10E08 iTunesRIP by M-BYTE TV-LINKS.EU 
+
+and tried a framerate interpolation to 30fps with avisynth and mvtools. Then did a temporal smooth(2) in VirtualDub.
+
+Slightly more watchable in low movement scenes. Strange artifacts in high movement but hey, take it or leave it :)

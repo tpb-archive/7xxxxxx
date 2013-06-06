@@ -1,0 +1,101 @@
+﻿User Type,Username,Date,Text
+,roaduck,2012-04-24T07:41Z,"Here's the file information/specifications:
+_________________________________
+
+
+General
+ID                                       : 4100 (0x1004)
+Complete name                            : M:VIDEOScott And Bailey S02E07Scott And Bailey S02E07.mpg
+Format                                   : MPEG-TS
+File size                                : 976 MiB
+Duration                                 : 58mn 22s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 339 Kbps
+
+Video
+ID                                       : 515 (0x203)
+Menu ID                                  : 4164 (0x1044)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=30
+Codec ID                                 : 2
+Duration                                 : 58mn 21s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 964 Kbps
+Maximum bit rate                         : 15.0 Mbps
+Width                                    : 704 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Active Format Description                : Letterbox 16:9 image, with alternative 14:9 center
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.194
+Stream size                              : 820 MiB (84%)
+
+Audio #1
+ID                                       : 654 (0x28E)
+Menu ID                                  : 4164 (0x1044)
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : 4
+Duration                                 : 58mn 22s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -318ms
+Stream size                              : 80.2 MiB (8%)
+
+Audio #2
+ID                                       : 663 (0x297)
+Menu ID                                  : 4164 (0x1044)
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : 4
+Duration                                 : 58mn 22s
+Bit rate mode                            : Constant
+Bit rate                                 : 64.0 Kbps
+Channel(s)                               : 1 channel
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -366ms
+Stream size                              : 26.7 MiB (3%)
+Language, more info                      : Visual impaired commentary
+
+Text
+ID                                       : 1030 (0x406)
+Menu ID                                  : 4164 (0x1044)
+Format                                   : DVB Subtitle
+Codec ID                                 : 6
+Duration                                 : 58mn 14s
+Delay relative to video                  : 2s 861ms
+Language                                 : English
+
+Menu
+ID                                       : 4164 (0x1044)
+Menu ID                                  : 4164 (0x1044)"
+,roaduck,2012-04-24T07:45Z,"More Info:
+________
+Menu
+ID                                       : 4164 (0x1044)
+Menu ID                                  : 4164 (0x1044)
+Duration                                 : 58mn 22s
+List                                     : 515 (0x203) (MPEG Video) / 654 (0x28E) (MPEG Audio) / 663 (0x297) (MPEG Audio) / 1030 (0x406) (DVB Subtitle, English)
+Language                                 :  /  /  / English
+Service name                             : UNKNOWN
+Service provider                         : UNKNOWN
+Service type                             : digital television
+UTC 2012-04-23 21:00:40                  : (empty):Scott & Bailey / (empty):Sean contacts Rachel's estranged mother. Janet and Andy clash at work. The team investigate when an apparent gang killing seems to have another explanation. [AD,S] /  /  / 00:58:19 / Running
+"

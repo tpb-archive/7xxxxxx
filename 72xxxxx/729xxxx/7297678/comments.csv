@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+[T],mrriser007,2012-05-25T09:48Z,to install properly
+[T],mrriser007,2012-05-25T09:57Z,"1)uninstall any previous version of idm
+2)then go to start menu type 'regedit' in search box,it will open registry edit 
+3)go to HKEY_LOCAL_MACHINE and delete registry of idm
+4)disconnect internet while installing
+5)then install this and apply patch 
+done"

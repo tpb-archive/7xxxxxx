@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,ken501,2012-04-30T06:20Z,"I'm new at this, but my download opens in movie maker in multiple files in a format I haven't seen before. So how do I make it ""play straight through
+in one shot"" in windows media player, then drop it on a memory stick to pass around.
+Please help, I'm quite serious."
+,Funnybook,2012-04-30T07:22Z,"ken501, when you see a VIDEO_TS folder with filenames like VTS_01_1.VOB inside it, that means it's a DVD.  Treat it like any other DVD.  If you burn the VIDEO_TS folder, any DVD player will play it.  If you want to watch it from the computer, you need a software DVD player, not just a regular video player.
+
+I use Cyberlink PowerDVD because I got a free copy with a new computer, otherwise it costs money.  VLC is a free player that will work.  It starts off at the DVD menu and you just click on the screen on the top right where it says ""The Customer Is Always Right"" and it will play straight through.  It will also display the subtitles if you like."
+,Funnybook,2012-04-30T07:55Z,"Well, I didn't know Windows media Player would do DVDs but it does.  Here's what I did (mine is running under XP Pro):
+
+In the extreme upper left corner there's a small round icon that shows a tooltip when I put the mouse over it that says ""SHow menu bar"".  I clicked that.  Now with the menu showing, I clicked File and chose Open.
+
+Then the Open dialog came up.  At the bottom where it says ""Files of type"" I used the dropdown arrow to open the submenu and chose ""Any File *.*"" from the bottom of the list.
+
+Next I browsed to the Sin City VIDEO_TS folder and seleted the file to play (this will be the same for every DVD you ever play):
+
+VIDEO_TS.IFO
+
+Then I clicked the ""Open"" button near the lower right and shazaam, there's the menu, just like it was playing on an external DVD player and television set.
+
+As I move the cursor over the menu the different buttons down the right side highlight, just like if I was using the arrow keys on a DVD remote.  I clicked the top one, ""The Customer is Always Right"", and the movie took off and plays straight through.
+
+I held Shift and hit Enter to go full screen.  If I leave the mouse alone it will go truly full screen in a couple seconds, but if I touch the mouse at all it will shrink the picture and go back to halfway windowed until I leave the mouse alone again.
+
+As far as putting it on a ram stick, just drag and drop copy the VIDEO_TS folder like you would any other folder."
+,Funnybook,2012-04-30T08:06Z,"Well I'm just having a ball here.
+
+OOPS - It's Alt and Enter to go full screen.  Double click on the movie to go back to windowed.
+
+To turn on the subtitles, right-click on the movie and select ""Captions and Subtitles"" from the context menu that opens, then choose ""English (United States)"".  For some reason this only works for me in full screen mode, and does not work when the movie is fully windowed."

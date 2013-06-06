@@ -1,0 +1,32 @@
+Site: http://www.tmssoftware.com/site/tmspack.asp
+
+
+Create modern-looking & feature-rich Windows applications faster with well over 330 components
+in one money and time saving bundle for Delphi 5,6,7,2005,2006,2007,2009,2010,XE,XE2 & C++Builder 5,6,2006,2007,2009,2010,XE,XE2
+Access to the latest versions, improvements, new features in over 340 VCL components for building feature-rich, modern looking and native Windows application with Delphi or C++Builder is what the TMS Component Pack offers.
+
+What's new & improved in version 6.4.0.0
+
+    New: TAdvSmoothPageSlider in TMS Smooth Controls range
+    New: TAdvFindDialog, TAdvReplaceDialog in TAdvMemo
+    New: TAdvMetroFindDialog, TAdvMetroReplaceDialog in TMS Metro Controls
+    New: TAdvMetroTile in TMS Metro Controls
+    New: Use of scrollbar specific popup menu on scrollbars in TAdvMemo
+    New: OnCustomizeContextMenu,OnCustomContextMenuClick event added in TAdvMemo
+    New: EscapeChar property added at styler level in TAdvMemo
+    New: Block selection mode in TAdvMemo
+    New: Search highlighting in TAdvMemo
+    New: Configurable bookmark image & optional bookmark index drawing on bookmark in TAdvMemo
+    New: Gutter.LineNumberAt property added to show line number only every X lines in TAdvMemo
+    New: Mask expressions in search specifier (*,?,! mask) in TAdvMemo
+    New: Event OnFilterCheck event added in TAdvStringGrid
+    New: Property FilterDropDownColumns added in TAdvStringGrid
+    New: TMS Advanced ToolBars & Menus with Metro style support
+    New: Methods ShowFloatingRibbon, HideFloatingRibbon in TMS Advanced ToolBars & Menus
+    New: Event AdvToolBarPager.OnFloatingRibbonHide in TMS Advanced ToolBars & Menus
+    New: Support for Windows 8 version detection in TEXEInfo
+    New: AutoPost property added per key in TAdvTouchKeyboard
+    New: PDF Developer guides for TAdvMemo
+    New: 5 additional samples for TAdvMemo
+    A lot of smaller improvements & fixes in various components. See full version history for details
+

@@ -1,0 +1,40 @@
+Overview
+
+gogoCLIENTΓäó is a ubiquities IP client, which offers full IP connectivity regardless of the underlying protocol. It has a small footprint and can easily be integrated in devices to provide full compatibility with IPv6 or to provide IPv6 or IPv4 connectivity. 
+
+
+gogoCLIENT feature overview:
+
+    IPv6 over IPv4 tunneling
+    IPv4 over IPv6 tunneling
+    Dual-stack lite
+    Reliable NAT traversal
+    Translation
+    Small footprint
+    Home Access (HA)
+    IPv6-Ready certified
+
+
+
+IPv6 in IPv4 tunnels
+gogoCLIENT  automates the configuration of IPv6 in IPv4 tunnels as specified in RFC 2893 for TSP tunnels. Because this standard is available on all IPv6-enabled hosts and routers on the market, gogoSERVER provides IPv6 connectivity to any existing device.
+
+IPv4 in IPv6 tunnels
+gogoCLIENT supports IPv4 in IPv6 tunnels. It allows the deployment of IPv4 services to dual-stack hosts behind an IPv6-only network and facilitates the deployment of next-generation networks.
+
+Dual-stack lite
+gogoSERVER offers address independent IPv4 support using IPv4 over IPv6 tunneling in combination with NAT, dual-stack lite. This is a tool that allows Internet service providers to ensure business continuity regardless of the supply of IPv4 addresses.
+
+Reliable NAT traversal
+The gogoCLIENT supports IPv6 in UDP IPv4 tunnels, allowing it to establish IPv6 connectivity even when an IPv4 NAT is in the path.
+Translation
+gogoCLIENT has complete translation package that can be used to make IPv4 devices IPv6 compliant as well as allow IPv4 network to communicate over an IPv6 network.
+
+Small footprint
+The gogoCLIENT easily fits on embedded devices and has been ported to work on a multitude of operating systems, such as Windows, Linux and OpenWRT.
+
+HA (HomeAccess)
+The gogoCLIENT also includes the HA client component, which allows users to access devices and services in their private home network with IPv4 in an easy and efficient way using IPv6.
+
+IPv6-Ready certified
+The gogoCLIENT is IPv6-ready certified and any product that incorporates the gogoCLIENT will automatically inherit the IPv6-ready certification.

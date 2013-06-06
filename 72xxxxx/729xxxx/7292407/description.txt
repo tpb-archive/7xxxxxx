@@ -1,0 +1,12 @@
+Run any version of virtually any application on a single operating system without conflicts. You can even run multiple versions of the same application. Plug VMware ThinApp, formerly known as Thinstall, into your existing management infrastructure and accelerate your software development and desktop deployment. Deliver and deploy applications more efficiently, more securely, and more cost-effectively with agentless application virtualization.
+
+100% Agentless Application Virtualization
+ΓÇó Application isolation. VIsolated applications run in a virtual bubble in restricted user accounts without requiring any host modification. Deploy Office 97, 2003, 2007, and .NET applications on the same OS without conflict as the applications run independent of one another.
+ΓÇó Zero-runtime execution. With no installed agent, no footprint is left on the endpoint device. Applications run directly from the compressed state without first caching data to the hard disk, achieving better performance and security of data.
+ΓÇó 100% User Mode execution. Client runs on locked-down, unmanaged ΓÇ£kioskΓÇ¥ PCs without Admin rights to execute applications, enabling it to be used on managed and unmanaged PC.
+ΓÇó Block-by-block network streaming. Applications virtualized execute once the minimum amount of code required to run the application is available in the desktopΓÇÖs memory. For example, less than 10% of Microsoft Office needs to be physically streamed to the client in order for it to run. LAN streaming has an average start-up time of just a few seconds.
+ΓÇó Sandbox environments for terminal services. Provide sandboxing for applications running in a terminal services environment so that multiple users can run their own sandboxed application without affecting each other. If one instance of the application tries to make system-wide changes, other users running the same applications are not affected.
+ΓÇó 64-bit operating system support. Enables applications to be virtualized and run on 64-bit systems.
+ΓÇó Execution on thin clients. Tested and certified to run virtualized applications on Windows XP-based thin clients.
+ΓÇó Compatibility with a broad range of applications. Proven deployments on simple-to-complex applications ranging from basic Microsoft Office to custom applications with Java or .NET.
+

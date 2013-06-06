@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,anarchist9027,2012-05-11T04:45Z,"According to UltraISO's website, the latest version is 9.5.2.2836. Also when I launched setup.exe Symantec when crazy over the setup file and NOT the Keygen so I'm pretty positive this IS A VIRUS"
+,TheEmpathicEar,2012-05-11T05:16Z,"@scene4all
+
+I luv U. U know this.
+
+But, I think @anarchist9027 might be right. If U look at the setup, Properties Sheet->Detail, the version given there is v9.5.2.2836?"
+[V],Anacondaz,2012-05-11T06:04Z,"https://www.virustotal.com/file/1cbe6d8f7bae2f2ef8b498d7bfb421f86ee4f0134242ec776c6bd28aa8c92b43/analysis/
+
+also scanned with bit defender total security 2012
+nothing found during installation also"
+,anarchist9027,2012-05-11T06:25Z,"If those results are true, then why did my Symantec Endpoint Protection go balls to the wall with this setup.exe and how can you explain the property pane, let alone UltraISO's site STATING that 9.5.3.2836 is the latest version? This was altered in someway and someone is not saying something"
+,TheEmpathicEar,2012-05-11T15:19Z,"@Anacondaz [et al]
+
+Did the install result in v9.5.3.2855?"
+[V],Anacondaz,2012-05-12T18:38Z,yes mate
+,xpmule,2012-05-15T11:03Z,"Got this scene release else where but Im guessing this is the same.. This uploader seems pretty trust worthy with passing on scene releases..
+
+Anyway, This Release is clean and legit.
+
+I've dumped this into a sandbox and inspected the setup + keygen and the installed files.. Its all good i can't see anything suspicious at all.
+
+First off we went through this with CORE's last release, remember guys ?
+Once again Core has an an advance release.. it happens.. get over it guys
+
+2nd after installing do a hex comparison of the UltraIso.exe and you will see it is very different than the previous version and ALSO has the VS_VERSION info properties updated as stated on the release name.
+There was no update to the ISOdrive driver files just the main program
+
+Im guessing we will be going through this all over again next time lol
+
+Thanks CORE for a high quality release :)"
+,terratec1234,2012-06-12T16:56Z,"Installs fine, but the file version appears to be 9.5.2.2836, but after installing Help>About says 9.5.3.2855. Strange."

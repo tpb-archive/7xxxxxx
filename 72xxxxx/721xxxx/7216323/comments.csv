@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+[V],Murlok,2012-04-25T21:38Z,"This it is Tpb got a BUG:(
+Microsoft.Windows.Server.2008.R2.Enterprise.x64.SP1.Integrated.April.2012-BIE
+Microsoft Windows Server 2008 R2 Enterprise
+x64 SP1 Integrated April 2012
+(C)2011 Microsoft Corp.
+
+HowTo:
+
+Extract Files
+Burn Image to DVD
+Boot from DVD
+Install to unpartitioned space without serial
+Check BIE-Dir on DVD"
+,Dominics2356,2012-05-02T21:00Z,"Hi Murlok,
+
+Do u by chance have BIE-dir and work arround for a 32bit installation?"
+,356100,2012-05-06T05:52Z,"Dominics2356 - Server 2008 R2 was only released as a 64bit OS.  look for a non R2 version for a 32 bit install.   Server 2003 R2 was the same case, only 64bit, I imagine Microsoft will continue the trend to server 8 as well, releasing the OS on 32 bit and 64 bit media, then releasing a R2 in 64bit only later on. "
+,thrac,2012-05-31T15:44Z,"I've tried to install it on my VM ware Workstation 8 but unfortunately without success. I burned it on a DVD but it's obviously not properly working install. When the installation windows appears it says: ""Select the OP System you want to install"", but the field to choose is empty and after that when the button ""Next"" is clicked, than you got the following error message: ""Windows could not display the images available for the installation"", and it restarts again.
+To not download because it's a broken installation! Loose of time, The best way to install it and activate it was here: 
+0. Download it form Microsoft internet site.
+1. Run the DAZ loader in server 2008 SP1 compatibility mode.
+2. Click Advanced options. Change your SLIC/Certificate as needed.
+3. Change serial to 'custom serial' and type in the Dell key BKCJJ-J6G9Y-4P7YF-8D4J7-7TCWD.
+4. Click ""install"" for loader or ""install certificate and serial"" if you have a BIOS mod.
+5. Reboot.
+
+Enjoy"
+,v44v,2012-06-04T13:39Z,I successfully installed this release as standalone OS. It's working OK. For years I'm using BIE quality releases without a problem.
+,polarrys,2012-06-10T10:07Z,"Can you tell me if French Language is avaible on this version ?
+
+Thx."

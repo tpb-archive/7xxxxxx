@@ -1,0 +1,72 @@
+﻿User Type,Username,Date,Text
+,brianxxx,2012-05-04T18:10Z,Thanks!!!!!!!!!!
+,somic2008,2012-05-06T15:28Z,keygen conatins viruse named trojan.gen what shit ur embrace 
+,xpmule,2012-05-08T04:33Z,"no such thing as a virus called trojan.gen
+
+that would obviously be a generic term
+most often applied to ""packed"" objects
+AKA: mostly false positives
+
+As long as scene4all and Embrace did not add any malware then its going to be a false positive probably (i havn't downloaded this)
+
+Trusting any Anti virus software is pure stupidity and bitching at people online for what one them ""says"" is even worse.
+
+If you can provide technical data as to what virus is contained then by all means.. And please do tell us all how you dissembled and identified the virii
+
+Simply stating XYZ program says its bad won't cut it.. Antivirus software are a crutch for inexperienced users so they can live in a false sense of pc security"
+,xpmule,2012-05-08T11:11Z,"Figured I'd add the VirusTotal page
+
+https://www.virustotal.com/file/49c3172b5e7937c931a042ee4aca65638196077f5f7a2cdf83eca5af20a64ef0/analysis/
+
+It says what i figured it would say.."
+,The_Welder,2012-05-12T03:55Z,"@xpmule:  Well said.  It's idiots reporting viruses just because their crappy AntiVirus software alerts them is what causes half of the problems.  Most anti virus programs have a head-fit at anything crushed with UPX or in fact, just about any other executable packer and give false positives because they can't analyse the file.
+
+In fact, when I code my *stuff* I have to alter the PE header so that AntiVirus programs don't go mental.
+
+In reality, if you're using keygens/patches and they're from a ""legitimate"" scene source or pass an .sfv check or something, they're going to be virus free because our reputation depends on it.  Furthermore, if you're using such things, you shouldn't NEED AntiVirus software because you'd be able to spot a virus a mile away.  Fact."
+,The_Welder,2012-05-12T04:10Z,"@somic2008
+
+Here you go...  I decided out of curiosity to investigate your claim...  And to be quite honest, you're basically a complete idiot.  I manually unpacked the keygen and disasembled it and here's what I found...
+
+.text:00401000                 public start
+.text:00401000 start           proc near
+.text:00401000                 push    0               ; lpModuleName
+.text:00401002                 call    GetModuleHandleA
+.text:00401007                 mov     hInstance, eax
+.text:0040100C                 call    GetCommandLineA
+.text:00401011                 mov     dword_405124, eax
+.text:00401016                 push    0               ; dwInitParam
+.text:00401018                 push    offset DialogFunc ; lpDialogFunc
+.text:0040101D                 push    0               ; hWndParent
+.text:0040101F                 push    offset TemplateName ; ""EMBDLG""
+.text:00401024                 push    hInstance       ; hInstance
+.text:0040102A                 call    DialogBoxParamA
+.text:0040102F                 push    eax             ; uExitCode
+.text:00401030                 call    ExitProcess
+.text:00401030 start           endp
+
+See?  It's not even a complex keygen, it's just a simple dialog box and has NO malicious code in it whatsoever.  So please, PLEASE stop alarming people with your unsubstantiated nonsense."
+,Praatik,2012-06-10T18:10Z,Thank You
+,shuvo1970,2012-06-11T21:38Z,does anybody have keygen/activator of TMPGEnc Authoring Works 5?
+,mifodiy35,2012-06-13T12:36Z,"If your antivirus says this package contains virus and you dumb enough to believe it, you don't need this software.
+If you not dumb and not believe it, than i advise to use Microsoft security essentials as antivirus. I use it for over 3 years and never been infected + it's gives almost 0 false positives."
+,Ign0tus,2012-07-02T11:22Z,"I've been wondering about the VMware authorization service. Does anyone know if it's safe to allow it to communicate with the Internet? I've been blocking it, but it's annoying because I have to restart the service every time I want to start a VM if the service is blocked. I'm worried that if I allow communication, it may deactivate the product. I'm not sure what the service does exactly. TIA"
+,pixeled,2012-07-17T17:46Z,"Hey let's checkout the MD5 and compare with the vmware original download
+
+MD5 from this torrent: 
+VMware-workstation-full-8.0.3-703057.exe
+9D9881257429D44B40830A4611DAD72E
+
+MD5 from VMware web:
+VMware-workstation-full-8.0.3-703057.exe
+c8cabe876ab629f27e47cea02f0d4def 
+
+https://my.vmware.com/web/vmware/details?productId=241&downloadGroup=WKST-803-WIN
+
+Maybe my download was corrupted i don't know but ESET say that VMware packet contain Kryptik Trojan or something like that i just ignore that.
+
+Check your MD5 i'm Just Saiyan .__.
+
+Hashtab very useful for MD5
+http://implbits.com/HashTab.aspx"
+,ttford,2012-08-04T22:30Z,Thanks

@@ -1,0 +1,27 @@
+Fraps 2010 v3.2.3
+
+
++-----------------------------------+
+|Fraps 2010 v3.2.3.11796 Retail
++-----------------------------------+
+
+Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology. Show how many Frames Per Second (FPS) you are getting in a corner of your screen. Perform custom benchmarks and measure the frame rate between any two points. Save the statistics out to disk and use them for your own reviews and applications. Take a screenshot with the press of a key! There's no need to paste into a paint program every time you want a new shot. Your screen captures are automatically named and timestamped.
+
+Realtime Video Capture Software - Have you ever wanted to record video while playing your favourite game? Come join the Machinima revolution! Throw away the VCR, forget about using a DV cam, game recording has never been this easy! Fraps can capture audio and video up to 2560x1600 with custom frame rates from 10 to 100 frames per second! The latest Fraps 2.9 release adds support for Vista and DirectX 10 games. With games starting to appear using DirectX 10 graphics we are happy to report that benchmarking, video capture, and screenshots are now all fully supported for these titles.
+
+
++--------------------------------+
+|Changes in 3.2.3 - 14th Jun 2010
++--------------------------------+
+
+- Added support for full-size video capture above 2560x1600
+
+- Fixed crash when loading Fraps under WinXP with 6-core CPU
+
+- Fixed crash when enabling monitor DWM option on some configurations
+
+- Fixed Fraps altering error flag on calls to GL SwapBuffers
+
+- Fixed sound input switching at startup on XP systems
+
+- Fixed counter appearing in VS2010

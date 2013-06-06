@@ -1,0 +1,18 @@
+- - - - - - - > 'lsass.exe'(1156)
+c:program filesAviraAntiVir Desktopavsda.dll
+.
+Completion time: 2012-01-17  20:43:17
+ComboFix-quarantined-files.txt  2012-01-17 18:43
+.
+Pre-Run: 10.295.681.024 bytes free
+Post-Run: 10.852.495.360 bytes free
+.
+WindowsXP-KB310994-SP2-Pro-BootDisk-ENU.exe
+[boot loader]
+timeout=2
+default=multi(0)disk(0)rdisk(0)partition(1)WINDOWS
+[operating systems]
+c:cmdconsBOOTSECT.DAT="Microsoft Windows Recovery Console" /cmdcons
+UnsupportedDebug="do not select this" /debug
+multi(0)disk(0)rdisk(0)partition(1)WINDOWS="Microsoft Windows XP Professional" /noexecute=optin /fastdetect /usepmtimer
+.

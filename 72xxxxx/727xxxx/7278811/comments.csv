@@ -1,0 +1,88 @@
+﻿User Type,Username,Date,Text
+,ngc6027,2012-05-22T11:01Z,"Hey EinDeutschMan,
+
+I downloaded your Preinstalled edition of RS and all of your available languages (the pre-installed versions as well, not the ISOs). They almost all work like a charm, thank you! The only two I'm having issues with (I keep getting error #4112) are Japanese (I did get your updated 'Preinstalld' version, not the first non-working version) and Hebrew. Like I said, all the other ones work perfectly, thank you! I'm not sure if it matters, but I'm running Windows 7 64-bit OS. I did the normal extraction as I did with the software and the other language packs. Any reply would be greatly appreciated, and I can supply you with more info on my setup if needed."
+,EinDeutschMan,2012-05-22T15:52Z,"@ngc6027,
+
+Error 4112 comes from corrupt language pack(s)
+you can try to DL them again, and reinstall it, but I can't promise that it will work.
+
+Also, I have apparently left out the speech portion of some languages,
+and I'm in the process of correcting that.
+So give me a day or so, and I will re UL the language pack(s) with ""& speech"" in the name.
+
+Also, are you getting the same error# with the Hebrew?
+Check back tonight (Tuesday)"
+,ngc6027,2012-05-23T22:04Z,"Sorry, I didn't get a chance to get on the computer yesterday. I do get the same error # on the Hebrew pack. I'll try to DL them again today and post back."
+,ngc6027,2012-05-24T04:48Z,"Okay, I DL'd and installed them both again and received the same error, #4112. "
+,EinDeutschMan,2012-05-24T21:19Z,"@ngc6027,
+
+Error 4112 it a corrupt or missing language file.
+I will DL it and see if I get the same error,
+
+But in the mean time, go to C:/Program Files (x86)/Rosetta stone and see if the ""content"" folder is there.
+
+when you open it, you should have 4 folders -Data, Documentation, Languages and Speech.
+
+Also in the content folder, You should see these three files for Japanese:
+SK-JPN-L1-NA-PE-NA-NA-Y-3
+SK-JPN-L2-NA-PE-NA-NA-Y-3
+SK-JPN-L2-NA-PE-NA-NA-Y-3
+
+And these three for Hebrew:
+SK-HEB-L1-NA-PE-NA-NA-Y-3
+SK-HEB-L2-NA-PE-NA-NA-Y-3
+SK-HEB-L3-NA-PE-NA-NA-Y-3
+
+If you do NOT see these files, search your drive for Content, and move the whole folder over to
+C:/Program Files (x86)/Rosetta stone"
+,ngc6027,2012-05-24T22:49Z,"Okay, I've got them. They installed directly into C:/ instead of into Program Files. I'm moving them now. Thank you very much for your help!"
+,Zephyrus21,2012-05-25T03:53Z,The files installed directly to C:/ and C:/Program Files (x86) was not created. I have all of the files in C:/. What do I do with them?
+,EinDeutschMan,2012-05-27T17:28Z,"Zephyrus21,
+
+That's odd, I'll check into it, but here's the solution:
+
+Go to C:/Program Files (x86) and create a folder named Rosetta Stone
+Open THAT folder and create a folder named Content
+
+NOTE: There should already be a folder in C:/Program Files (x86)/Rosetta Stone named Rosetta Stone v3, don't worry about it, that's the program folder
+
+When you get done it should look like this:
+C:/Program Files (x86)/Rosetta Stone/Content AND the Rosetta Stone v3 folders
+
+O.K. So far?
+
+Now go to where it installed the files 
+there should be 4 FOLDERS that you have to move:
+Data, Documentation, Languages and Speech.
+
+There should also be 3 FILES you have to move:
+SK-JPN-L1-NA-PE-NA-NA-Y-3.rsi
+SK-JPN-L2-NA-PE-NA-NA-Y-3.rsi
+SK-JPN-L3-NA-PE-NA-NA-Y-3.rsi
+
+Copy ALL of these files and folders into the Content folder.
+
+Just a note, there are about a BAZILLION files in the Data folder 
+(O.K. not a BAZILLION, but there ARE almost 85,000 files, 
+so don't sweat it, it will take SEVERAL (10 or 15) minutes to copy them)
+
+It will only take a minute or two to copy everything else
+
+We're ALMOST done,
+
+go to C:/ProgramData/Rosetta Stone and make sure that there are two files there:
+DynamicStoredPaths.xml and Products.xml
+
+If the C:/Program Files (x86)/Rosetta Stone/Rosetta Stone v3
+OR
+The C:/ProgramData/Rosetta Stone are there, 
+You're done.
+
+If NOT, DL and extract this file:
+http://thepiratebay.se/torrent/7272499/Rosetta_Stone_v3.4.7_Preinstalled.exe
+
+Then you'll be done!
+
+Let me know"
+,junipersunshine,2012-07-10T04:27Z,"I have a question. I downloaded the program already, and I tried your torrent for this language and the one for French, and both were stopped. Apparently, my access has been denied? How do I get around this?"

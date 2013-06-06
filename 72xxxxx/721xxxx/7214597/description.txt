@@ -1,0 +1,28 @@
+1. Create a path ΓÇ£C:Program FilesNokiaPhoenixProductsRM-xxxΓÇ¥ in your PC (replace xxx with your phoneΓÇÖs actual code, for example it will be RM-596 for Nokia N8 ΓÇô press *#0000# at phones standby screen to know yours). No need to create this path if you already have Phoenix installed in PC as Phoenix Service Software creates this path automatically (except the last folder). Download official firmware files for your phone via Navifirm and paste them in ΓÇ£RM-xxxΓÇ¥ (the last folder in the above created path
+ 
+2. Install J.A.F. in your PC (JAF is compatible with Windows only (XP, etc). Now copy and paste ΓÇ£jaf_nok4models.iniΓÇ¥ file (given with JAF in the archive you downloaded) into C:Program FilesODEONJAF (Confirm overwrite to replace the original one). Connect the phone to PC via data cable and select ΓÇ£PC Suite ModeΓÇ¥ (at phoneΓÇÖs interface). If it is the first time you have connected the phone with PC then let the phone drivers install completely.
+
+3. After installation, donΓÇÖt open JAF via shortcuts that appear on desktop. Instead launch OGM_JAF_PKEY_Emulator (given in the downloaded archive) and click ΓÇ£GOΓÇ¥ button, if it gives error then try launching it again. Wait for a while as the emulator verifies J.A.F. installation and finally JAF is launched with an error ΓÇ£BOX DRIVER NOT INSTALLEDΓÇ¥, click OK
+
+
+4. At JAF interface select ΓÇ£BB5 TabΓÇ¥.
+
+
+
+5. At BB5 tab select (tick) ΓÇ£Manual ModeΓÇ¥, ΓÇ£Dead USBΓÇ¥ and uncheck ΓÇ£CRT 308ΓÇ¥
+
+6. Now check/tick ΓÇ£Use INIΓÇ¥ option and wait for a while until ΓÇ£Select Phone Model box appears
+
+7. Find and select your phone model from this box and click OK. The ΓÇ£MCUΓÇ¥, ΓÇ£PPMΓÇ¥, ΓÇ£CNTΓÇ¥ and ΓÇ£APE VariantΓÇ¥ boxes turn green
+
+8. All set for flashing, now switch Off your connected phone and click ΓÇ£FLASHΓÇ¥ button at JAF
+
+9. A warning box will pop up, click ΓÇ£YESΓÇ¥. Now press phoneΓÇÖs Power ON/OFF button for a second (DonΓÇÖt hold it for long). J.A.F. will start the flashing process. Wait for the process to complete (until ΓÇ£Done!ΓÇ¥ appears in the JAF ΓÇ£Status and ResultsΓÇ¥ window).
+
+10. Disconnect phone from PC. Remove and re-insert phoneΓÇÖs battery and switch it on. Done!! Finally, that is your flashed phoneΓÇª.whew!!!
+
+
+
+
+NOTE ΓÇô 
+1. Be careful not to touch mobile or data cable during flashing as sudden (even momentary) connection loss may irreversibly damage your phone. Also make sure that PC/Laptop/Netbook does not ΓÇ£Shut DownΓÇ¥ suddenly (due to power interruption or battery low etc).

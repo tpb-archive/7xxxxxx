@@ -1,0 +1,15 @@
+Final Cut Pro X: Version 10.0.4
+
+Final Cut Pro X version 10.0.4 improves overall stability, performance, and compatibility including:
+
+Improves image quality and responsiveness of broadcast monitoring with compatible third-party PCIe and Thunderbolt I/O devices.
+Improves performance of multicam syncing and editing.
+Adds language support for Simplified Chinese.
+Adds a Share option for 1080p video on compatible iOS devices.
+
+Final Cut Pro version 10.0.4 also addresses the following issues:
+
+Assigns default audio channel setting for new projects to stereo.
+Includes multicam metadata in XML project export.
+Fixes an issue in which video superimposed over a background with an alpha channel could appear differently in Viewer before and after render.
+Fixes an issue that caused some titles to be rendered again after each application launch.

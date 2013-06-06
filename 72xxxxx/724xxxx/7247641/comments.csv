@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,jrabbital,2012-05-08T15:00Z,"I am having trouble finding the file I am supposed to replace. Can anyone offer some navigation to this file ""amtlib.framework?"" In the readme section it indicates that I should find it in ""Application_Name.app/Contents/Frameworks/"" but regretfully, my novice will not even allow me to find this file. Advice from one of you computer geniuses would be most helpful.  Thanks."
+,lovevibez,2012-05-11T00:47Z,"First off Thank you ChingLiu for the great stuff you have done!  - I am with jrabbital, I am trying to put this on my g/f's mac (I'm not fluent with mac what so ever and neither is she O.o) So finding where I need to put the amtlib.framework is proving difficult for me. Any help would be great, appreciate it. Good day."
+,joffa100,2012-05-11T14:26Z,"close internet connection. install application by selecting ""TRY""
+Once installed launch app and quit at least ONCE - block any outgoing connections.
+Close application
+Go to Finder>go>applications>adobe premiere pro
+Look for the .app file and right click it
+Click on show package contents
+Double click on amt.lib framework
+delete everything from this folder (resources-version-amtlib files)
+go to the crack folder
+open amt.lib framework
+copy or drag resources versions and amtlib into the amt.lib framework folder to replace the files you deleted
+
+All of the above will work for any Adobe files, just look for the .app file and right click it and follow all the above.
+Remember if it does ask to connect to the web when you reconnect your connection deny connection (to any Adobe product).
+Good luck!!"
+,jorgemelgar,2012-05-26T23:01Z,You have to go the the applications folder and right click open it. There you will see again an icon of the application.. you right click that and select show package contents then go to contents > frame works paste there
+,violet1143,2012-06-05T05:48Z,Will this work on the official Adobe installer on their website?
+,violet1143,2012-06-05T07:02Z,Do we still have to patch the hosts file to keep Premiere from phoning home?
+,soonganesh,2012-06-12T02:31Z,"There is missing presets and codecs. In my case, AVCHD is imported without sound, HDV files are very slow... I just can't use this version!
+ I tryed to install same stuff on another system as a trial version with Adobe ID, and got automaticaly installed the missing stuff, everything work fine. So it means it's a new Adobe trick to avoid piracy... I am not the first one to discover it I guess, but if someone can find a way... ( I tryed to compare the content of my Premiere CS6 package installed on both machines but not able to find the difference... Not so easy I guess!"
+,w3hacker,2012-06-18T21:29Z,"Good torrent. After watching a youtube video on how to replace the ""amtlib.framework"" file it was really simple. 
+
+Seems to be working fine!"

@@ -1,0 +1,26 @@
+Rebug CFW for ps3
+
+How to install:
+
+Copy the contents of the OFW folder(not the folder itsself. folder structure for the files should be X:PS3UPDATEPS3UPDAT.PUP where X is your usb drive) to the root of a usb flash drive or portable hard drive with fat32 filesystem.
+
+Connect the usb drive with the update on it to the ps3.
+
+Update through the xmb menu(settings>system update). when asked, select update via storage media.
+
+The ps3 will copy the update contents to the ps3 then restart and install the update.
+
+After the ps3 Restarts again and you are at the xmb, overwrite the contents of the ofw on the usb drive with the contents of the rebug Folder and update via storage media again.
+
+after the ps3 copies the contents of the update to the ps3, restarts and installs the update, it will restart one last time and you have the Rebug CFW!
+
+Alternate method: if you cannot access the xmb(red screen) you can still install an update to restore your ps3.
+
+Make sure the ps3 is off
+
+Press and hold the power button, it will beep a few times(2 times once then 2 quick beeps) then turn back off.
+
+press and hold the power button again until you hear 3 beeps and you will be presented with the recovery menu, you may install the update from here if you need.
+
+This torrent Was uploaded by RavenAngelus. If you make use of it, you should seed to others(at least 300%).
+

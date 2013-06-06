@@ -1,0 +1,139 @@
+﻿User Type,Username,Date,Text
+,brothers3,2012-05-26T08:54Z,dibya...please upload call of duty modern warfare 3 which is compressed like this..thank you for the torrent...
+,dezontk101,2012-05-26T11:55Z,"Don't waste your time, this game is shit. Works, everything is fine. Just a shit game. Havn't found a driving game that can match GRID, which is funny since its been like.. 4-5 years."
+,tomi2k9cz,2012-05-26T13:05Z,Works great.. Thx :)
+,KOLAVERI,2012-05-26T15:14Z,nice work man  thanks :)
+,driftxkidd,2012-05-26T18:10Z,the names are messed up. hoping blackbox releases an update. all of the names say avast and yaryaryar
+,itoxiic,2012-05-26T20:56Z,"Help please, when i try to run the installer it sais :
+
+ISDone.dll
+
+It is not found any file specified for ISArcExtract
+
+
+Can you guys help me, its really annoying. I already tried run it in safe mode."
+[V],DibyaTPB,2012-05-27T02:22Z,@driftxkid: Seems like blackbox guys were drunk while doing it. Maybe a fix will be out soon. :)
+,driftxkidd,2012-05-27T02:58Z,@BidyaTPB looks like FLT release is this way too... maybe patch from them soon too
+,3Dazz,2012-05-27T08:41Z,"The 1st pc I installed this on, had no issues with the names. but when I put it on my games rig, it came up with all this ""avast and yarr"" stuff. Maybe a way of id'ing pirate version?"
+,hashuboy,2012-05-27T10:14Z,"well im having some stupid problem dont know what,iv tried installing this game 5-6 times and it doesnt extract to 9gb something it just gets to like 6gb and when i run the game its just sits there ""not responding"" so i have to end it through task manager so anybody else has this problem?????
+
+installation takes around 12 mins for me and i have Win7 32bit please help me guys!!"
+,hashuboy,2012-05-27T10:16Z,"to all who r having language problems,u need ""language selector"" by FLT they released it soon after the game goto sceper or rlsbb and search it after installing that ur game's language problem would be gone!"
+,maliandro,2012-05-27T11:41Z,"actually its in comments on other trackers that this version had very low quality audio and even worse quality music what totally ruins the game, i would check for myself but it sounds like nobody can even get this version started lol"
+,kurimaw14,2012-05-27T11:57Z,good torrent but can't pass through dirt showdown loading screen and then auto closes.. My drivers are all up to date. Any suggestion would be helpful
+[V],DibyaTPB,2012-05-27T20:03Z,"Okay Peeps, here is the Yaar Yarr Fix :D
+
+Credits to Iamawesome in BG.
+
+HOW TO
+
+
+Step 1: Access Windows Firewall settings
+
+http://www.imagehost.co.za/image-6F3E_4FC264F8.jpg
+
+Step 2: Choose ""Allow a program or Feature through Windows Firewall""
+
+http://www.imagehost.co.za/image-5A1F_4FC264F8.jpg
+
+Step 3: Here I chose ""Allow another program"" because Dirt Showdown's exe file was not part of my list
+
+http://www.imagehost.co.za/image-CAA7_4FC264F8.jpg
+
+Step 4: Make sure that the box to the left of ""Dirt Showdown"" is unticked
+
+http://www.imagehost.co.za/image-870A_4FC264F8.jpg
+
+Step 5: Go to ""Advanced Settings""
+
+http://www.imagehost.co.za/image-F1D9_4FC264F8.jpg
+
+Step 6: Now ""Windows Firewall with Advanced Security"" will open up, select ""Inbound Rules""
+
+http://www.imagehost.co.za/image-67A1_4FC2664E.jpg
+
+Step 7: You should see four (4) entries for ""Dirt showdown"" as being greyed out in the list 
+PS: If you don't have 4 entries, don't worry, just do the steps below for each of the entries you have.
+
+http://www.imagehost.co.za/image-7B8E_4FC2664E.jpg
+
+Step 8: Right-click the first one and choose ""Properties"" from the popup menu
+
+http://www.imagehost.co.za/image-5542_4FC2664E.jpg
+
+Step 9: Next, the ""Dirt Showdown"" properties window will open, here you need to select ""Block the connection"" radio button, then click on ""Apply"" and ""Ok""
+
+
+
+Step 10: To make the rule active, you need to right-click the first entry again and choose ""Enable"" from the popup menu
+
+
+
+Step 11: Repeat step 8 - 10 for the other 3 entries
+
+Step 12: Delete the ""showdown_avx.exe"" file if it's still in your directory (VERY IMPORTANT)
+
+Step 13: Once finished, launch the game again, it might still show the info next to your Profile Name as ""Yarr yarr"" but everything else in game should be normal now. You should also be able to select an appropriate audio name too.
+
+Upon exiting and relaunching for a second time, it also removed the last ""Yarr yar"" text next to my profile name.
+
+And that's it, enjoy a ""Yarr yaarrr"" free game  :8=)"
+,brothers3,2012-05-28T11:23Z,"please help...when i start the game an error ""The procedure entry point alsource3i could not be located in the dynamic link library openAl32.dll"".........please give an solution.."
+,brothers3,2012-05-28T11:49Z,sorry....my problem was sloved when i downloaded latest version of openal32.dll.....the game works perfect...thanks for the upload..
+,cj_boney,2012-05-28T15:47Z,"DibyaTPB: Boss i'm getting an error message ""OPENAL32.dll missing"".. what to do for that?"
+,M7mdA7md7sein,2012-05-28T16:23Z,"Just Black Screen,
+even no sounds,
+with disabled Avast & Disconnected Internet.
+Any help ?
+I cand run Dirt 2&3 Perfectly."
+,M7mdA7md7sein,2012-05-28T16:24Z,**I can run Dirt 2&3 Perfectly. 
+,M7mdA7md7sein,2012-05-28T17:30Z,"Uninstalled then installed all the redist. 
+then reinstalled the game.
+But Nothing. Same black screen any help will be appreciated."
+,MAA11792,2012-05-29T01:08Z,Worst game ever made!
+,M7mdA7md7sein,2012-05-29T01:42Z,"Worked Lastly.
+Thanks for that great rip.
+
+Fix for rapid audio extraction/black screen/6GB Size :
+
+By: Farvahar.
+OK. I found the fix to the 6gb problem. its cause by user names that have spaces. when you go to C:users if your username is Dr x or anything else with space, the BB.exe file wonâ&#x20AC;&#x2122;t work properly. so make a new user(If you know how you can change the name the tell me XD) and reinstall the game in that user. All will be fine."
+,akkipatil,2012-05-29T08:26Z,Hey @DibyaTPB Please upload Resident Evil 5 - Black-box 2.5 GB...........
+,cj_boney,2012-05-29T10:10Z,Finally got it working... awesome game.. :) thanks matee...
+,arsh27,2012-05-31T17:32Z,"BLACK BOX Is Really great....the game worked on my pc after downloading dll file from -
+http://www.dll-files.com/dllindex/dll-files.shtml?openal32"
+,NinJA999,2012-06-03T07:21Z,"Just del this file 
+showdown_avx.exe 
+it will work fine"
+,Adam-132,2012-06-03T17:14Z,"Hi, please help, i have problem. i Installed the game, and when i want played it, it said: ...d3d11.dll cannot find.... "
+,Adam-132,2012-06-03T17:36Z,"http://www.dll-files.com/dllindex/dll-files.shtml?openal32 
+I dl-ed this, i installed everything from redist. and still nothing.. d3d11.dll .. "
+,LloydTempleton,2012-06-05T14:48Z,"This version works perfectly. Awesome compression.
+Pretty easy to install.
+Probably the best Dirt Showdown torrent around.
+Cheers."
+,h2k48,2012-06-07T00:24Z,"Grrr bad game..worst Ram event ever..dullll...flatout 2 still rules...
+Great Repack Black Box. though Simply Amazingggz."
+,Marinos1996,2012-06-09T13:37Z,i will download it and i will tell you guys if the game work
+,Marinos1996,2012-06-09T13:45Z,i will download it guys and i will tell you if it works
+,ahadafzal13,2012-06-12T14:27Z,"It is not found any file specified for isarcextract 
+
+plzz help me wtih the installation error"
+,nz77788,2012-06-13T08:01Z,"Rubbish. Downloaded it and installed it fine, but keep getting error ""missing d3d11.dll"" - so I downloaded that dll file, replaced it....didn't fix it. Followed DibyaTPB's instructions and still doesn't work. Over complicated bullshit. Pointless downloading, just a waste of data usage. Download something else"
+,juantamad00,2012-06-30T11:42Z,"hey guys,.. does it works on WinXp?"
+,juantamad00,2012-06-30T11:51Z,"Thanks a lot Dibya,.. i'll go for this torrent
+please seed guys..."
+,elay600,2012-07-02T11:35Z,I habe a Black screen on the loading page and then it quit ... what to do ?
+,MultiDERZ,2012-07-30T16:31Z,I've fixed the black screen at startup but now whenever I try to do an event in Tour mode I get a black screen again :0 Any help?
+,khalid191,2012-08-14T13:11Z,Doesn't fix the problem even copy d3d11.dll and del mentioned file..... :(
+,afaqahmed43,2012-08-16T14:53Z,"@Adam-132
+this game minimum reqs are DX11
+thats why you get that error it means you cant play this game buy a new gpu with directx11 suport "
+,afaqahmed43,2012-08-16T14:56Z,"EVERYONE
+CANNOT PLAY THIS GAME BELOW WIN 64Bit
+that's why you get the message d3d11.dll is missing
+it means it needs minimum of DIRECTX11
+so dont bother doing anything to run it if you got an OS under win 7 64 bit BTW 32 bit will work i think"
+,mobile94ever4,2012-08-18T09:23Z,"         :::ATTENTION EVERY ONE::: 
+I have found the BlackScreen Problem which is due to the size which is 6gb.Just Login with administrator account (if u dont know how http://www.howtogeek.com/howto/windows-vista/enable-the-hidden-administrator-account-on-windows-vista/)   Then Simply install the game and play.
+   THANKS TO Bharath (blackbox webiste ) "

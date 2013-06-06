@@ -1,0 +1,20 @@
+Device drivers make it possible for your software to communicate with your hardware, and because every operating system has specific requirements, driver writing is nontrivial. When developing for FreeBSD, you've probably had to scour the Internet and dig through the kernel sources to figure out how to write the drivers you need. Thankfully, that stops now. In FreeBSD Device Drivers, Joseph Kong will teach you how to master everything from the basics of building and running loadable kernel modules to more complicated topics like thread synchronization. After a crash course in the different FreeBSD driver frameworks, extensive tutorial sections dissect real-world drivers like the parallel port printer driver.
+
+You'll learn:
+
+    All about Newbus, the infrastructure used by FreeBSD to manage the hardware devices on your system
+    How to work with ISA, PCI, USB, and other buses
+    The best ways to control and communicate with the hardware devices from user space
+    How to use Direct Memory Access (DMA) for maximum system performance
+    The inner workings of the virtual null modem terminal driver, the USB printer driver, the Intel PCI Gigabit Ethernet adapter driver, and other important drivers
+    How to use Common Access Method (CAM) to manage host bus adapters (HBAs)
+
+Concise descriptions and extensive annotations walk you through the many code examples. Don't waste time searching man pages or digging through the kernel sources to figure out how to make that arcane bit of hardware work with your system. FreeBSD Device Drivers gives you the framework that you need to write any driver you want, now.
+
+
+
+Paperback: 352 pages
+Publisher: No Starch Press; Original edition (May 7, 2012)
+Language: English
+ISBN-10: 1593272049
+ISBN-13: 978-1593272043

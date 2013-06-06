@@ -1,0 +1,16 @@
+Bought some wifi device off Ebay couple weeks back, got the device, some sort of realtek device HOWEVER the cd i failed to check out was a bootable linux OS with all the freaking WIFI tools needed to crack into your neighbours wifi. 
+
+ISO contains (and if you don't know how to work with ISOs, google it)
+
+Tiny Core Linux 2.5
+Aircrack-ng 1.1
+MDK3-v6
+Minidwep-gtk-20510
+Feeding Bottle 3.1
+Bib 1.0
+Macchanger-1.5.0
+Crunch
+Cowpatty 4.6
+compat-wireless-2.6.32.2
+
+Device was labeled Isigal-8187X. If anyone knows how to crack open the ISO further to add more password lists to it, please let me know, i got like 5-6 really big password lists i can improve this with. It comes with 2 password lists in the main file area under WPA Keys. But it will do WEP out of the box, has several attack features, injectors, all kinds of goodies. I played with it all afternoon to make sure its safe and its passing the checks. NOW HOWEVER, theres a folder in it with EXE files for WPA and WEP, DO NOT RUN THEM, I have no idea what they are, what they are fore and nothing on the CD needs them, I can't remove them cuz the CRC check fails on the ISO reburn and theres an rar they burnt to the disc as well that cant be removed correctly neither. Funniest thing about the disc, they misspelled fastest, apparent this is "The Fsatest, Most Powerful" lol! Picture is what i got off ebay, the disc DOES have drivers for windows in one of the folders as well (the weird labeled ones) Hope ya like it, i seen a lot of people complaining about the AIO wifi cracking stuff. Figured rather than bitch about the problem, ill contribute.

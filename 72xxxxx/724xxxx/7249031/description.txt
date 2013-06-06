@@ -1,0 +1,48 @@
+1. Unrar panzer corps patch1.04.rar
+
+2. Move the files from the newly created folder into your installation folder and overwrite all the files and folders when prompted 
+
+3. Unrar the files from DLC'39.rar and move them into your installation folder
+
+4. Unrar the files from the GC40.rar and move them in the DLC folder
+
+The DLC folder should contain the following folders : Uninstall and GC39 (from the DLC'39 archive) and GC40(from the GC archive)
+
+5. Use the regfiles that suits your operating system:
+
+a. Panzer Corps DLC Windows x86.reg is for Win Xp, Vista and 7 on 32bits 
+b. Panzer Corps DLC Windows 7 x64.reg is for Win7 on 64bits
+
+Do not forget to edit the regfiles at the DLC1_PATH and DLC2_PATH: you have to put manually your Panzer Corps installation folder:
+
+Example:
+
+"DLC1_PATH"="C:\Games\Panzer Corps\Panzer Corps\DLC\GC39"
+"DLC2_PATH"="C:\Games\Panzer Corps\Panzer Corps\DLC\GC40"
+
+"DLC1_PATH"="D:\Program Files\Panzer Corps\Panzer Corps\DLC\GC39"
+"DLC1_PATH"="D:\Program Files\Panzer Corps\Panzer Corps\DLC\GC40"
+
+6.a. If you are on Windows Vista/7 create under UsersusernameMy DocumentsMy GamesPanzer Corps a folder named Mods and copy (not move, but copy) the content of the DLC folder: the GC39, GC40 and Uninstall folders (username = your PC username; example UsersMattMy DocumentsMy GamesPanzer Corps)
+  b. If you are on Windows XP create under Documents and SettingsusernameMy DocumentsMy GamesPanzer Corps a folder named Mods and copy (not move, but copy) the content of the DLC folder: the GC39, GC40 and Uninstall folders (username = your PC username; example Documents and SettingsMattMy DocumentsMy GamesPanzer Corps)
+ 
+7. Run the game and select New Game. You should see in the middles a new button called More Campaigns. Press it and you'll notice the Grand Campaign '39 and Grand Campaign '40. Select whichever you wanna play and enjoy.
+
+Thanks are going to the russians that managed to crack the update/DLC and to the germans who pointed where could I get it. 
+
+
+
+The original Win7 X64 regfile didn't worked properly because was poorly edited
+
+That's how it looked
+
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINESOFTWAREWOW6432NodeSlitherine PanzerCorpsDLC]
+
+[HKEY_LOCAL_MACHINESOFTWAREWOW6432NodeSlitherine PanzerCorpsDLCDLC1]
+"DLC1"="1111-1111-1111-1111"
+"DLC1_PATH"="D:\Games\Panzer Corps\DLC\GC39"
+"version"="1.00"
+"URL"="PzC_DLC_1"
+
+Enjoy!

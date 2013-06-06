@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,kyosunagi,2012-07-10T06:35Z,"i did a fresh install didn't copy the crack but i still got an error says:The ordinal 5377 could not be located in the dynamic link library xlive.dll
+
+im running in 
+intel dual core 2.60 ghz
+windows 7 ultimate
+nvidia 9500 gt 1gb 128mb
+2 gb of ram
+
+i played it without an update and it works without errors..
+i already install windows live and downloaded a xlive.dll but doesn't fix the problem hope you can help me"
+,crazedmasta,2012-07-17T08:44Z,"Hey y'all, having the same problem as kysounagi here. I first got the game and it would go through the intro movie and I could not skip it and when it ended, couldn't use my keyboard at all. Seemed like I needed to install the patch and then when I do when I run .exe get the same error message WETF!"
+,CTR-3000,2012-07-18T17:13Z,Since it worked for me i don't know how to help. Try updating GFWL.
+,SirOsborne,2012-07-21T20:29Z,"For the ""Ordinal 5377"" error, the xlive.dll actually comes in the 'Games for Live' package installer. I was getting the same error problem, but after I installed the WindowsGamesForLive package, it worked fine. Try this link:
+
+http://go.microsoft.com/fwlink/?LinkId=128962"
+,SirOsborne,2012-07-21T20:31Z,"For the ""Ordinal 5377"" error, the xlive.dll actually comes in the 'Games for Live' package installer. I was getting the same error problem, but after I installed the WindowsGamesForLive package, it worked fine. Try this link:
+
+go(.)microsoft(.)com/fwlink/?LinkId=128962 
+
+Obviously, you need to remove the parentheses."
+,SirOsborne,2012-07-21T20:34Z,"If you are getting the ""Ordinal 5377"" error, Google: ""games for live package installer."" I was getting the same error issue, but after I installed the GFWL, the game worded perfectly. "
+,SirOsborne,2012-07-21T20:35Z,Sorry for the multiple posts - I couldn't see them posting....so I kept sending until I was sure it posted. Just tryin' to help out.
+,Lorr2059,2012-07-28T17:27Z,Just got an stop downloading email from Cox about this.

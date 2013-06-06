@@ -1,0 +1,35 @@
+Guys,
+I am porting Puppy Linux to run on the Mele A1000, have had preliminary success -- boot time from pressing power-on button to desktop loaded is about 18 seconds!
+
+Here is my blog post announcing the first successful bootup: 
+http://bkhome.org/blog/?viewDetailed=02808
+
+See other posts for further details: 
+http://bkhome.org/blog/
+
+The system that I use to build a Puppy is called "Woof". The way that I have set things up is there is a SD-card skeleton image, already setup to bootup for the target board. All that has to be done is add a kernel and the Linux filesystem -- plus of course the kernel modules and firmware in the filesystem.
+
+This seems like the easiest way for Woof to build for any target board (that will boot from SD card).
+
+Here is my skeleton image: 
+http://distro.ibiblio.org/quirky/arm...eleton-images/
+
+This is just the SD image that Tom uploaded, with almost everything taken out. Now compresses to about 7MB.
+
+I have also created a PET package (the native package format of Puppy Linux) for the 3.0.8+ kernel, again it is the kernel that Tom uploaded: 
+http://distro.ibiblio.org/quirky/arm...mele-armv7.pet
+
+Note, PET packages are tarballs with md5sum appended. You can expand it by doing this: tar -zxf linux_kernel-3.0.8-mele-armv7.pet
+...and ignore the error message. it will expand into directory 'linux_kernel-3.0.8-mele-armv7'.
+
+I have posted this for general information, but I also have a request...
+
+Maybe it is available online somewhere, but I don't recall. It there a compiled 2.6.36 kernel with modules and firmware uploaded anywhere? If so, I would like to download it and create another linux_kernel PET. Then my Woof build system will be able to choose either kernel when building Puppy.
+
+Regards,
+Barry Kauler
+
+P.S.
+Info about Woof: 
+http://bkhome.org/woof/ 
+http://bkhome.org/blog/?viewCat=Woof

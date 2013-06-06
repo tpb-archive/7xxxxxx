@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,LionOfGod,2012-07-13T09:50Z,"Excellent torrent, finally got vmware workstation :D
+Notes:
+If you have an older version of Workstation installed and the installer cannot uninstall it, run
+vmware-installer -l
+it will list installed products
+Then
+vmware-installer --uninstall-product PRODUCT
+Also, some may have trouble installing the vmnet module, the error I had was 
+""Failed to compile module vmnet!"", it was in the log file, try running the patch at 
+http://weltall.heliohost.org/wordpress/2012/01/26/vmware-workstation-8-0-2-player-4-0-2-fix-for-linux-kernel-3-2-and-3-3/
+
+just modify the script for vmware 8.0.3 and remove the .patches file which was already present for some reason (It will list the directory the patches file is in).
+Thanks scene for excellent torrent."

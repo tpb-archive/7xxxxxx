@@ -1,0 +1,63 @@
+﻿User Type,Username,Date,Text
+,JMit,2012-05-16T10:31Z,Screws up text like v1.13. Doesnt work.
+,JMit,2012-05-17T09:59Z,"Doesn't work either. It's not language, it's garbled text."
+,laggo123,2012-05-17T11:54Z,"u need this one to make it work:
+
+http://thepiratebay.se/torrent/7241035/Jagged_Alliance_Back_in_Action_-_1.13_Patch_Fix
+
+then it will work, but the dlc is not working since there is no dlc button in main menu"
+,laggo123,2012-05-17T12:01Z,"u need this one to make it work:
+
+http://thepiratebay.se/torrent/7241035/Jagged_Alliance_Back_in_Action_-_1.13_Patch_Fix
+
+then it will work, but the 
+dlc is not working since there is no dlc button in main menu"
+,JMit,2012-05-17T13:58Z,"Thanks, I'll try it."
+,quellochepassa,2012-05-17T21:57Z,"well, actually I just made a try: 
+1-uninstalled the game
+2-made a clean install
+3-took the files from the ""1.13 patch fix"" torrent and copied the folder (interface) with the files in it to the bin_win32 folder
+4-installed the 1.13a update contained in this torrent
+5-did what the .nfo up here says
+6-launched the game through the executable, not the launcher
+7-language is setted by default to english, but it worked and game works pretty fine; texts are clearly readable, both menu's and game's ones.
+
+STILL there are a lot of  here and there (really, a lot of them), like those on the in-game sector inventory and, when selecting New Game, the small text under Difficulty (the 2 options are clear), what should be ""tactical mode"" with both on & off options, and the ""start new game"" supposedly.
+
+I also tried another language than English, I chose Italian, and everything seemed to be like in English (same s )
+
+A fix would be really appreciated."
+,laggo123,2012-05-17T23:22Z,"and let me guess quello, worst thing is u cant play the dlc shades of red too?
+
+well i think there wont be a fix, since last 2 skidrow updates were fail non working versions and he never upped a fix for it. the patch fix was made by some random dude.
+so im not even sure if those updates r actually skidrows work, since there have been reports there is a troj included and first of all: those patches r broken -not skidrow perfection style
+
+the 1.13a is working but the button for ""dlc"" in main menu is missing, so we wont be able to play the dlc that was included in the patch"
+,agush78,2012-05-18T13:17Z,hello guys i found the problem. file interface_win32.pak.crypt that make the crash. i try get the rusian ver it work fine . but the menu become russian and i cant read that. if anyone have interface_win32.pak.crypt english version for 1.13 please share. cus i cant play with russian lenguage it's anoyin'
+,laggo123,2012-05-18T14:23Z,"agush how about u read what quello and i wrote.
+especially where it says ""get the patch fix"""
+,quellochepassa,2012-05-18T15:39Z,"that's right laggo, I couldn't play dlc 'cause I couldn't find any button for it...
+anyway, I think that the dlc will be available only after one has finished the game (I just tried the first mission)
+
+And I agree with you when stating this may not be a SKIDROW release since they, as far as I know, have always did a great and clean job.
+Maybe RELOADED could/would fix this one.
+
+Anyway, I didn't found the troj.
+
+And maybe, a full, uncorrupted, with all languages working, ""interface"" folder, would simply be enough for everyone..."
+,quellochepassa,2012-05-18T15:43Z,"PS: I saw that in my first post the boards didn't showed the couple of words ""invalid text"". I wrote them and should appear after: 
+STILL there are a lot of .... 
+
+and after: 
+in English (same ...s )"
+,laggo123,2012-05-18T16:25Z,"nah u dont have to complete the game to play the dlc as it says in the patch notes:
+""Added DLC support, DLC can be accessed via main menu""
+so its just missing cuz of bad work
+
+when ppl talked about the troj they said something about opening the patch exe file with 7zip, there u would see the actual patch and the troj r combined to that one file"
+,JMit,2012-05-25T02:53Z,"laggo123 Thanks, that fix works. There's just something broken when leveling up the mercs of a town. What are the 2 icons? When hovering the icons I only see ."
+,JMit,2012-05-25T02:54Z,"laggo123 Thanks, that fix works. There's just something broken when leveling up the mercs of a town. What are the 2 icons? When hovering the icons I only see invalid text."
+,laggo123,2012-05-30T13:35Z,those icons tell the militia which flag they stay at and defend in that sector when its under attack
+,JMit,2012-05-30T19:17Z,I didnt know that. It makes the game even more enjoyable. Thanks for the answer.
+,urineg,2012-06-13T18:48Z,"First I installed the game skidrow version, then I played for a while, and after shutting it down and trying to play again I couldnt load a single save game I had, then after installing patch 1.13 and the fix, and then now the 1.13a with the shades of red from this torrent, everything is working great!
+thanks for the great upload"

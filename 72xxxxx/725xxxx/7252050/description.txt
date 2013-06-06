@@ -1,0 +1,34 @@
+List of changes between versions 7.2 and 7.3:
+
+*  Two new maps Dragon's Ridge (first Asian map) and South Coast (a Crimea resort place) have been added.
+*  KV-3 moved from tier 6 to tier 7 as a Soviet heavy tank, and rebalanced.
+*  T-150 substitutes KV-3 as a Soviet heavy tank tier 6.
+*  KV-4 added as a Soviet tier 8 heavy tank.
+*  ST-I added as a Soviet tier 9 heavy tank.
+*  IS-4 moved from tier 9 to tier 10 in Soviet tech tree and rebalanced.
+*  IS-8 substitutes IS-4 as a Soviet tier 9 heavy tank.
+*  KV divided into KV-1 and KV-2. KV-2 becomes a Soviet tier 6 heavy tank.
+*  Added previously tested French premium vehicles to the game store: tier 3 tank destroyer FCM 36 Pak 40 and tier 4 SPG 10.5 ?m leFH18 B2.
+*  Fixed and reworked visual models of T25/2, PzKpfw VI Tiger, KV-3, T32, T30, T-46, KV-5, Object 704.
+*  Fixed and reworked damaged models of M18 Hellcat, T32, T30, Ferdinand, KV-5, T-43, T-54.
+*  Fixed some errors in the IS-4 damaged model: the gun mantlet thickness was increased from 200mm to 250mm, the glacis (upper frontal armor plate) slope was increased from 58 degrees to 61 degrees.
+*  Combat levels for tier 5 heavy tanks reduced by 1.
+*  Fixed the display of M103 front armour in the game interface.
+*  Fixed the undersized research cost of T49 from M8A1.
+*  Fixed the cost of suspension in TD T82.
+*  Fixed the incorrect cost of radio station FuG 37.
+*  Fixed a rare bug with base capture proceeding even though a shell falls between the two tanks capturing the base.
+*  Fixed a rare bug with where incorrect experience was distributed amongst crew members during active "Accelerate crew training" option.
+*  Fixed the bug when a skill pop-up hint disappeared, if the skill is 0% trained.
+*  Fixed the "black terrain" graphics display for back issue Radeon video cards.
+*  Fixed minor interface errors in the tank company window.
+*  Extended text descriptions of perks and skills.
+*  Fixed names of several American HE shells.
+*  Added clan logos display on tanks.
+*  Fixed the issue with non-destruction of antitank hedgehogs (Komarin map) when hit with HE shells in some cases.
+*  Fixed non-receipt of Fadin's Medal for tanks with autoloader mechanism.
+*  Added view of ammunition rack explosion to vehicle over target markers.
+*  Fixed several bugs with crew training.
+*  Fixed mouse inversion operation in SPG view mode.
+*  Fixed disappearance of indicator showing distance to a vehicle in reticle.
+*  Removed some special modules for top tanks from store.

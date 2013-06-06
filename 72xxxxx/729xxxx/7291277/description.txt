@@ -1,0 +1,27 @@
+Official Site: http://www.mobile-stream.com/easytether/android.html
+
+EasyTether shares your Android smartphone connection with your PC. This app allows you to tether your Android to a desktop or a notebook computer. EasyTether uses exactly the same data plan that is used for the on-phone Internet access like in the built-in browser or e-mail app or youtube application. No additional tethering fees. 
+
+Features
+
+* does not require root access 
+* supports Windows 7/Vista/XP (32-bit and 64-bit), Mac OS X 10.7/10.6/10.5/10.4, Ubuntu 10.4+ and * Fedora 13+ 
+* UDP support for games, for L2TP VPN (not PPTP!) and for some IM apps 
+* tether PS3, XBox 360 or Wii via Windows Internet Connection Sharing feature 
+* free lifetime upgrades for the full version 
+* USB support 
+* compatible with HTC Sync 
+* Bluetooth DUN will be added later. 
+* implemented as a normal NAT application with full TCP and UDP support 
+
+My own notes:
+
+The trial version of EasyTether only allows HTTPS access for a short period of time. After that, it only supports HTTP. This is the full, unrestricted version with no limitations.
+
+A client-side program (EasyTher Driver) has to be installed for this to work. These can be found at:
+
+I've used EasyTether on my MetroPCS Android for a while now (Samsung Galaxy Indulge), and have found that, depending on which phone service you use, some network services (or even the download of files with certain file extensions) may be blocked by the service provider. For example, I'm not able to download torrent files via HTTP, nor can I use Android file sharing apps that use the Gnutella network. Just to name a few. But these limitations are specific to MetroPCS, and not the EasyTether app.
+
+Some settings will need to be changed on your phone, such as allowing non-Market apps to be installed, and enabling USB debugging. Refer to their website for full instructions.
+
+I'm aware that other similar apps exist and may or may not be better. I'm only posting this because it works, some people may be looking for it, and it was a little hard to locate. Don't shoot the messenger.

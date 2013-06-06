@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,nasums,2012-04-28T19:04Z,"If you like this small upload, please comment and let me know, I'll start uploading more of my stashed goodies. (not just games)
+
+-rogue"
+,Dillon1970000,2012-04-29T06:19Z,do these emulators run on powerpc or intel based macs.  thanks
+,nasums,2012-04-29T07:20Z,"I have an intel based Mac, but the specific web pages don't specify mostly, if you're running a power PC I would suggest trying it anyway, that way for future reference there can be a performance comparison.
+
+-Rogue"
+,Dillon1970000,2012-04-30T12:14Z,"doesnt run on an intel mac, only a powerpc mac. i had the mame emulator on my power ppc and it worked great but it wont run on the intel mac unless u install something called Rosetta"
+,nasums,2012-05-01T00:53Z,"Rosetta is natively on the Intel MAC, I'm running an Intel MAC right now, and I'll tell you straight up I have never installed Rosetta. 
+
+REFERENCE:
+http://support.apple.com/kb/HT1730
+
+EXERT:
+Summary
+
+Mac OS X applications that can run natively on both Intel processor- and PowerPC processor-based Macs are called Universal applications. Even if you don't have a Universal version of an application, you can still use it on an Intel processor-based Mac by means of Rosetta, which comes with every Intel-based Mac. "
+,tubeamp,2012-05-01T15:13Z,I think rosetta is getting dumped in 10.8.  I'm sure most of these could be found in universal form or intel only by now?
+[V],joshua13,2012-05-04T01:57Z,"actually rosetta was already dumped in 10.7. In 10.6 it was not part of the default  OS install but if you tried to run a PPC app it would download it, or if you did a customized install of 10.6 it was an optional install."

@@ -1,0 +1,72 @@
+Format                           : MPEG-TS
+File size                        : 7.35 GiB
+Duration                         : 1h 42mn
+Overall bit rate                 : 10.3 Mbps
+
+Video
+ID                               : 163 (0xA3)
+Menu ID                          : 7208 (0x1C28)
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Format settings, GOP             : M=8, N=17
+Codec ID                         : 27
+Duration                         : 1h 42mn
+Bit rate                         : 9 182 Kbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Standard                         : PAL
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : MBAFF
+Bits/(Pixel*Frame)               : 0.177
+Stream size                      : 6.57 GiB (89%)
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio #1                         : Italian
+ID                               : 408 (0x198)
+Menu ID                          : 7208 (0x1C28)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 6
+Duration                         : 1h 42mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 3ms
+Stream size                      : 281 MiB (4%)
+Language                         : std
+Language, more info              : Clean effects
+
+
+Audio #2                         : Spanish
+ID                               : 409 (0x199)
+Menu ID                          : 7208 (0x1C28)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 6
+Duration                         : 1h 42mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 6ms
+Stream size                      : 141 MiB (2%)
+Language                         : std
+Language, more info              : Clean effects

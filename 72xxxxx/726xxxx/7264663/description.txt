@@ -1,0 +1,63 @@
+Movie:
+
+imdb: http://www.imdb.com/title/tt1655607/
+
+5.3/10
+
+
+File:
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 784 MiB
+Duration                                 : 2h 34mn
+Overall bit rate                         : 711 Kbps
+
+
+Video
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 34mn
+Nominal bit rate                         : 640 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+
+
+Audio
+
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AACv2 / HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 34mn
+Channel(s)                               : 2 channels / 1 channel / 1 channel
+Channel positions                        : Front: L R / Front: C / Front: C
+Sampling rate                            : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 11ms
+Default                                  : Yes
+Forced                                   : No
+
+
+Text
+
+ID                                       : 3
+Format                                   : VobSub
+Muxing mode                              : zlib
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

@@ -1,0 +1,14 @@
+Notable fixes/changes in version 11.0 (Build 682)
+ΓÇó Fixed a crash that could occur on some computers during playback if the Split Screen View was used in the Clipboard mode.
+ΓÇó Fixed a crash that could occur when right-clicking the Pan/Crop ruler.
+ΓÇó Fixed a crash that could occur opening certain FLAC files.
+ΓÇó Fixed a crash or hang that could occur when switching between Video FX and Compositors windows with certain OFX plug-ins.
+ΓÇó Fixed a hang that could occur with Spiral, Split, Squeeze, and Zoom transitions on certain NVIDIA GPUs.
+ΓÇó Fixed the ability render more than 4 channels of audio to Sony MXF format.
+ΓÇó Fixed an issue that could cause garbled audio in the rendered file if the last playback direction was reverse.
+ΓÇó Re-enabled GPU acceleration of Cookie Cutter (Video FX) and Page Loop (Transition) on AMD GPUs when running Catalyst 12.2 or newer.
+ΓÇó Fixed an error message that would appear when writing to theSony XDCAM Professional Media Station (XDS) internal drive from Vegas.
+
+Languages : Multilingual
+
+OS: Windows Vista / 7 64 bit

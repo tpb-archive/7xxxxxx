@@ -1,0 +1,19 @@
+Mathematica 8 introduces free-form linguistic inputΓÇöa whole new way to compute. Enter plain English; get immediate resultsΓÇöno syntax required. It's a new entry point into the complete Mathematica workflow, now upgraded with 500 additional functions and 7 application areasΓÇöincluding the world's most advanced statistics capability and state-of-the-art image processing.
+
+New workflow end points include deployment of standalone applications or interactive documents.
+ 
+http://www.wolfram.com/mathematica/index.en.html
+
+Installation:
+
+$ mkdir ~/MathInstaller
+
+$ cp /Mathematica_8.0.0_LINUX_MachineSpecific/Mathematica_8.0.0_LINUX_MachineSpecific.sh ~/MathInstaller/
+
+$ sudo sh ~/MathInstaller/Mathematica_8.0.0_LINUX_MachineSpecific.sh
+
+[ENTER] for defaults
+
+Delete ~/MathInstaller.
+
+Explanation for the key inside.

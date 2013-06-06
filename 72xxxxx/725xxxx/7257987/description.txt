@@ -1,0 +1,31 @@
+Γÿà RokGallery is a ground-up revolutionary gallery extension, developed to be hugely flexible, versatile and user friendly. The system itself is built on a custom tag-based architecture with the ability to have multiple tag-based galleries.
+
+RokGallery uses design and concepts that have been traditionally reserved for platform-native applications and are for the first time making their way into a web environment.
+
+Γÿà Administration Features
+- HTML5/Flash multi-file uploader with upload status indicators
+- Multiple image ΓÇÿslicesΓÇÖ per image with individual zoom/crop sizes
+- Custom tag-based architecture
+- Interactive multi-selection via selection drag, or ΓÇ£shiftΓÇ¥ clicking multiple images
+- Advanced compound filtering for selecting specific images
+- Multiple Gallery support associated by tag
+- Ajax-powered for speed optimization
+- CSS3 animation effects for that desktop application feel
+- Sophisticated slice editor for creating custom views of a particular image file
+
+Γÿà Frontend Features
+- Gallery view component with various view options: 3x3, 4x4, Details etc.
+- Override-able architecture to allow for custom layouts including custom HTML, CSS, JS, etc.
+- Front-end selectable sort options
+- Ability to ΓÇ£loveΓÇ¥ an image
+- Image view counter
+- Details view for a particular image with full image information
+- Modules available include: Grid view and new Slideshow module with unique transition effects.
+
+Γÿà System Requirements
+- PHP support for the SQLite PDO driver
+- PHP support for the MySQL PDO driver
+- MySQL with InnoDB support
+- PHP support for PDO
+- PHP support for GD2
+- PHP 5.2.8 and above

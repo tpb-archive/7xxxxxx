@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,dargovladimir,2012-05-21T03:14Z,"cannot run, I have it with CFW 6.39 ME-6 and when i run the game it says ""this game could not be started"" any ideas? thnx"
+,CTR-3000,2012-05-21T15:24Z,"To run PSN games on a PSP you need to use PRO CFW
+
+Get the 6.60 update from here:
+http://www.wololo.net/downloads/index.php/version/1583
+
+Update the PSP then download 6.60PRO-B10 fix1 and install it
+http://code.google.com/p/procfw/downloads/list"
+,PSPSPSP,2012-07-09T18:08Z,"I am running 6.60pro c, and i keep getting the error message game could not be started 80010002 any ideas (psp go) Also have tried the prob10 fix1 and no luck. "
+,CTR-3000,2012-09-01T13:30Z,"OK it turns out newer PSN eboots are signed with newer keys (even if the games are old) so CFW cant decrypt them without the license files. When i tested these files on all my hacked PSP's the licence files I didnt know you needed were still on the memory stick so they worked. If it is safe to upload these files without getting b& from PSN I will. sorry for the inconvenience.
+TL;DR You need License files for these to work try goggling for them or I will upload mine if they don't have account info in them."

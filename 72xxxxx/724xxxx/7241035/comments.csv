@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,kaliver,2012-05-04T16:03Z,"thanks, seems to work though i haven't tested very extensively."
+,ahoi1,2012-05-04T19:13Z,"wow, so 1 whole directory was missing? well no surprise the game didn't work.
+
+thanks man!"
+,Brooce,2012-05-04T20:14Z,"No, they aren't missing. These files are in the interface_win32.pak.crypt file, which is included in the patch. If you patch the game in English, some of these files become corrupted though, so I extracted and replaced the broken files with working copies from the Polish patch.
+
+I also haven't tested it past the first mission, so I'm not sure if there are any other issues. And when the proper version of the cracked patch is released, MAKE SURE you delete these files before you install it."
+,madeiner,2012-05-06T17:30Z,"The issues with invalid text are also in a lot more places.
+For example, when in the map and you select the airport, in the lower right corner there are buttons to improve militia.
+However, i have no idea what those buttons do! As the text is invalid. 
+
+One looks to be a female/male choice, but i think it's something else.
+The ""plus"" buttons add militia or militia strength, however you can't tell the cost for it as the text is invalid."
+,kaliver,2012-05-06T21:16Z,i would assume publisher presssure and/or they ran out of limited funds. it's common but good on them for continuing to support it after release.
+,thunderapo,2012-05-07T03:15Z,i still cant see small letter of texts when game starts i did what you say but nothing changed :(
+,thunderapo,2012-05-07T03:15Z,still cant read small letters after doing what you say :(
+,Brooce,2012-05-07T04:14Z,"I've seen the additional invalid text boxes on certain screens (militia for example) but there's nothing I can do without an uncorrupt, patched version of the interface_win32.pak.crypt file. Like I said, this is a temporary workaround so you can at least play the game until we get a proper patch.
+
+thunderapo, the files must not be in the correct place. Make sure that the interface folder, from this torrent, is copied inside the bin_win32 folder in your JA directory, and that the 11 files provided are also inside the interface folder."
+,kaliver,2012-05-07T17:21Z,"it's a little surprising they haven't propered this yet, and it's been past 48 hours which i believe is the self-imposed scene 'limit' for that sort of thing. i guess we have to wait for 1.14 for a complete fix. thank you for taking the time to put this one together for us."
+,GiecuMan,2012-06-12T15:43Z,Is there a way to get polish language to work?
+,Levy_NR,2012-07-24T00:02Z,"Still doesn't work (for me). A lot of bugs in interface like """" messages... not so playable with faults like those ones"

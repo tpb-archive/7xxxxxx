@@ -1,0 +1,9 @@
+DVD rip h.264 of the Peruvian movie Madeinusa
+
+
+ffprobe:
+
+Stream #0.0(eng): Video: h264 (High), yuv420p, 720x576 [PAR 2872:2025 DAR 718:405], PAR 173:122 DAR 865:488, 25 fps, 100 tbr, 1k tbn, 180k tbc (default)
+    Stream #0.1(spa): Audio: aac, 48000 Hz, stereo, s16 (default)
+    Stream #0.2(spa): Subtitle: dvdsub (default)
+    Stream #0.3(eng): Subtitle: dvdsub

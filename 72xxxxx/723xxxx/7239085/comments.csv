@@ -1,0 +1,134 @@
+﻿User Type,Username,Date,Text
+,theblackthumb,2012-05-03T23:07Z,"• Install as trial while disconnected from the net (or block outgoing connections)
+• Do not enter an Adobe ID > Select 'Connect later'
+• Once installed, replace (keep a copy of the original just in case) [b]amtlib.framework[/b] in Application_Name.app/Contents/Frameworks/ with [k'ed] one.
+• Repeat for any other applications from the suite you have installed.
+• Block outgoing connections.
+
+Enjoy!"
+,senseinai,2012-05-04T01:22Z,"When I check my current frameworks file for Photoshop, it's only 1MB ... if this torrent is just supplying k'd framework files it wouldn't be this large.
+ A similar torrent to this one online a few days ago was pronounced a fake."
+,theblackthumb,2012-05-04T02:26Z,It's not fake. Its the trial you would get directly from Adobe with a crack
+,senseinai,2012-05-04T02:50Z,"Okay ... then why not let people download trials from Adobe and just put the cracks here, which would make for a smaller file?
+I'll pull back on my intimation that this might be fake and wait for other downloaders to comment."
+,soliday1,2012-05-04T03:48Z,thanks it works great had no problems doing it this way and as for senseinai you can download it did. from adobe site but u have to disconnect from the internet after u download it b4 u install it 
+[T],NoggintheNomad,2012-05-04T19:36Z,It all seems to be stuck on 50%
+,JuniiFlow,2012-05-04T19:51Z,"http://thepiratebay.se/torrent/7226025/Adobe_Master_Collection_Suite_CS6_[WIN]_[ENGLISH]
+
+
+in cade this one doest work, i still dont get it on hwo u got it to be 6gb iss supposed to be 8gb."
+,theblackthumb,2012-05-04T22:03Z,Sorry my router was down(i streamed to much data through it) AND IT IS A TRIAL
+,theblackthumb,2012-05-05T02:01Z,with crack
+,UrakiIsaac,2012-05-05T18:37Z,"Hi Guys. FYI. I've downloaded the L16 from adobe site. Installed as describe here, everything works. However when i started photoshop in trial mode i have the 3D menu but after i replaced the amtlib.framework[K] photoshop does not prompt me for the serial and activation and the 3D menu is lost. Some how the [K] disabled the 3D menu. =("
+[T],NoggintheNomad,2012-05-06T21:13Z,"Great upload, Black Thumb, many many thanks. All works exactly as described."
+,Tower1122,2012-05-06T23:30Z,"When I try to start up Encore the first time through, it only asks for a serial. No trial. Then when I apply the crack, it says it will not run in trial mode. Anybody else run into this? Is there an SN to be had? 
+
+Also when I try to edit a jpeg in Camera Raw from the Bridge or try to open the Camera Raw preferences from the Bridge, I get this msg:
+
+""Camera Raw editing requires that a qualifying product has been launched at least once to enable this feature.""
+
+Is there a fix for this or am I doing something wrong? "
+,theblackthumb,2012-05-07T04:18Z,"@NoggintheNomad Thank you. It really helps to have a trusted bay user say it works thanks.
+
+@Tower1122: I have no clue. Everything worked for me. The only thing I can think of is reinstall it and follow the directions to a key. "
+,toyechar,2012-05-07T11:21Z,The master collection only came out today! How did you get it before?
+,theblackthumb,2012-05-07T13:48Z,"@toyechar black-magic is how we got it. 
+
+
+No Adobe puts it on there servers a week before release and if you know where to look you can download the trial up to a week ahead of release"
+,UrakiIsaac,2012-05-07T17:00Z,"Hi Guys, i reported earlier regard to the 3D menu.
+I've an update on it. For those applied the amtlib.framework[K] to photoshop which does not run as extended version (no 3D menu). This is what you need to do. Revert the original ""amtlib.framework"" to photoshop and run it, it will prompt you to sign in Adobe ID (ignore it), with trial extended mode running, re-apply the amtlib.framework[K] and quit Photoshop and restart it > voila!! You got extended version now."
+,iamasith,2012-05-07T19:08Z,"@ theblackthumb. Thank you very much for this torrent!. All are working with no probs.
+
+@ Tower1122. I had the same issue as you when trying to launch Encore. So, after doing some searching, I came across this instruction on how to get Encore up and running. This was posted by theblackthumb at another CS6 torrent for Win version. But first uninstall only Encore. Reinstall it again by selecting Install and NOT Try and then follow the instructions:
+
+4.Encore must be disconnected from internet and then it will ask for serial just copy one of the following serials from above and click next. It will then ask you to connect later, or connect now, click connect later. Then start it trial mode. It will say you have 30 days... Close out of Encore and copy the amtlib.dll to Encore install directory. Done!""
+
+The s/n (Comments page 1) can be found here: http://thepiratebay.se/torrent/7226025/Adobe_Master_Collection_Suite_CS6_[WIN]_[ENGLISH
+
+HTH"
+,HeyRio,2012-05-07T19:16Z,"Hello TheBlackThumb!
+
+Thanks for helping me with your torrent...
+
+I am a little dumb, I guess... :-)
+
+I could download from Adobe.com but not in the way you stated ""canceling...""... I could download, actually it is downloading while I write you, from the link trials2.adobe.com/AdobeProducts/STAM/CS6/osx10/MasterCollection_CS6_LS16.dmg but FILE NOT FOUND from trials2.adobe.com/AdobeProducts/STAM/CS6/osx10/MasterCollection_CS6_LSen_US.dmg for example... If is what you meant... Where do I find the  Once installed, replace (keep a copy of the original just in case) [b]amtlib.framework[/b] in Application_Name.app/Contents/Frameworks/ with [k'ed] one.?
+
+Thank you if you can help and sorry fellas for writing something dull...
+Cheers,"
+,zuttty,2012-05-07T23:26Z,"Urak
+I couldn't get the trial mode with the 3D running. The Adobe app manager shut me down after I refused to enter the id info. The trial extended version never came up with 3D on it."
+,iamasith,2012-05-08T05:16Z,"@ HeyRio. Once you've installed Photoshop CS6, go to Applications>CS6 folder>right click on the CS6 app icon and select ""show package content"">click the Content folder followed by the Framework folder. The original amtlib.framework folder should be in there. Just copy it and put it somewhere else i.e your documents folder or external drive. Then copy & paste the [K'ed] amtlib.framework folder that Framework folder.
+
+HTH"
+,iamasith,2012-05-08T05:30Z,"@ HeyRio. Once you've installed CS6 or any of the other application, Goto> Application> CS6 folder> right click on Photoshop CS6 icon> select ""Show package content> select Content folder> select Framework folder. The original amtlib.framework folder is in there. Copy the original amtlib.framework folder and paste it somewhere else (i.e. ext hd, documents folder etc). Once that done, simply copy & paste the [K'ed] amtlib.framework folder to that Framework folder. Done. Make sure you're disconnected from the internet first while doing all this."
+,iamasith,2012-05-08T05:37Z,"@ zuttty. You have to uninstall PS CS6 and reinstall it using the TRY mode and not INSTALL. This is just for CS6. Once you've installed using TRY mode, do not replace the original amtlib.framework with the [K'ed] one. Startup CS6 first. Once it had started, quit CS6. Only then you can replace the original amtlib.framework with the [K'ed] one. You're good to go using CS6 Extended."
+,zuttty,2012-05-08T07:08Z,"lamasmith
+That's exactly what I've done...several times..And every time I start the app with the orig amtlib file installed the App Manager comes on and the app won't start when I ignore the ID request...Not sure what else to do"
+,zuttty,2012-05-08T07:26Z,"GOT IT!>>>>
+Ooops...Forgot to disconnect the internet when 1st starting the app starting the app with orig amtlib file....Works like a charm now!
+Thanks for your help & patience guys!"
+,HeyRio,2012-05-08T16:00Z,"@iamasith Hello! Thank you! I will play with that later and will be looking forward to post a ""thank you all"" after that. Cheers!"
+,HeyRio,2012-05-08T23:02Z,"@theblackthumb
+Thank you so very much! It works like a charm!"
+,HeyRio,2012-05-08T23:04Z,"@iamasith Your information and the practical way you put it has helped me a lot... Sometimes, people in this field believe knowing everything, sorta super dudes, when it is not like that and the way you wrote denotes camaraderie and I do appreciate. May you have your path enlighten."
+,HeyRio,2012-05-09T06:21Z,"@theblackthumb,@iamasith
+Thanking you again... Do you know where can I find a copy of Digital Publishing Suite? or is it ask too much? :-) Cheers,"
+,iamasith,2012-05-09T16:48Z,"@HeyRio. Glad that my explanation help solved the pieces of the puzzle for you. I'm just sharing what I know for the benefit of you and others in your situation :).
+
+Anyway, as for DPS, sorry none so far. Maybe in due time someone will upload the torrent here @ TPB. :)
+"
+,jyurba,2012-05-09T17:10Z,"When I try to install I continuously get the following error: 
+Exit Code: 34
+-------------------------------------- Summary --------------------------------------
+ - 1 fatal error(s), 0 error(s), 0 warning(s)
+
+FATAL: Payload '{3F023875-4A52-4605-9DB6-A88D4A813E8D} Camera Profiles Installer 6.0.98.0' information not found in Media_db.
+-------------------------------------------------------------------------------------
+
+running 27"" iMac 16GB RAM 2.8GHz i7
+
+any suggestions?"
+,nitzzuga,2012-05-09T20:59Z,"Hi! It worker for me with Photoshop, doing that amtlib.framework change - but for Illustrator NO - do I have to install all at once? Any clues?? Thanks from Brazil!"
+,iamasith,2012-05-09T21:04Z,"@jyurba. What's the file size of the dmg?. Mine shows 7.14 gb. I'm using a Mac Mini i5 2.3ghz with 16gb ram. Maybe you might want to redownlaod the torrent again if the dmg file is lesser than 7 gb. Usually, re-downloading the torrent might help."
+,iamasith,2012-05-09T21:09Z,@ nitzzuga. Did you copy the [K'ed] amtlib.framework to all the application?. I installed all the programs at once. Make sure that your internet is disconnected first. HTH
+,nitzzuga,2012-05-09T22:11Z,"@iamasith - I downloaded the torrent file - I copied the hole folder - right click the program file to go to the package contents and past it over original in Frameworks folder. All disconnected from internet. I just don't know what the expression ""[K'ed]"" means : )"
+,nitzzuga,2012-05-09T22:24Z,"@iamasith - the hole folder, I mean the ""amtlib.framework"" folder."
+,acesandeights,2012-05-09T22:26Z,Mac crack only http://thepiratebay.se/torrent/7256602
+,Feenixx,2012-05-10T01:30Z,"So here's a question . . . assuming I obtain a CS6 serial number, does anybody know if CS6 is susceptible to the adobe blocker I've been using for CS4, CS5 and CS5.5? If so, it seems that'd a way easier than messing around with patch files. 
+
+And if that's the case . . . anybody got a CS6 master collection serial they want to volunteer? or know where some might be posted? I haven't found one yet in the places I usually go . . . "
+,iamasith,2012-05-10T08:01Z,"@ nitzzuga. Hhmm, I copied the [K'ed]amtlib.framework file for all the application. What I mean is, right-clicking on all the individual application and replace original amtlib.framework file with the [K'ed] file. You have to right click on all the application individually and paste over the [K'ed] file. By the way, K'ed is short for Kracked or Cracked. :)"
+,gpib,2012-05-10T13:26Z,"I have a quick question
+
+Ive followed instructions replaced amtlib.framework folder and now the whole suite works fine without any 30 day trial pop ups. 
+However, when i go to the deactivate button its all grey out is this common?"
+,nitzzuga,2012-05-10T16:34Z,Hey ILLUSTRATOR friends - I think that TRYOUT screen its just a mistake - all programs works fine - but you have to copy THE HOLE FOLDER - nos just that file. The only program thats says TRYOUT its Illustrator - don't ask me why! The installation and all the process must be done OFFLINE!!
+,todd2p,2012-05-10T21:24Z,How do you get Encore to work?  Needs a serial.
+,todd2p,2012-05-10T21:47Z,How do you get Encore to work?
+,gpib,2012-05-11T13:04Z,"Encore not working for me either: 
+
+Adobe Encore CS6 cannot run in non-royalty serialized mode. The application needs to be serialized with a royalty bearing serial number."
+,diego8888,2012-05-11T18:41Z,"Does anyone know if the third-party plugins of after effects from this torrent work? Adobe has set a trial limitation, where plugins like color finesse shouldn't work."
+,Warez4Me2,2012-05-12T21:23Z,"I appreciate the post.... Thank You.
+
+However as others have noticed some apps are very buggy. Not sure the cracks are ready for prime time. The most obvious I've seen is Acrobat Pro does not open a PDF if double clicked from the Finder. Also PDFs do not open if dragged and dropped on the Acrobat icon as they should. Makes me wonder how many other bugs are lurking the 13 other apps. BTW... I downloaded the trial directly from Adobe and used the cracks found here. Hopefully someone will post some serials so we can avoid the issues with the crack. Like not being able to do updates."
+,jyurba,2012-05-13T07:12Z,@iamasith Thanks for the reply. Mine also says 7.14GB - I'm not sure the issue. recently I installed dreamweaver CS5 and it wouldn't work either - install kept failing no matter which torrent or even using an old one I had previously been using. Maybe it's something with my computer/install of OS
+,suba1993,2012-05-14T16:18Z,I am having trouble. When i download it never ask for me to connect. Then when i replace the amtlib file i still get trial splash screen saying 30 days left. Any help?
+,.steen.,2012-05-15T01:11Z,Why can't i choose english language in the trial install? It's not in the list?
+,theblackthumb,2012-05-15T05:42Z,"Here is the fix for Encore.
+http://thepiratebay.se/torrent/7271293"
+,Inspector_Morbido,2012-05-22T00:18Z,"Thanks!
+working !"
+,robone619,2012-06-07T11:25Z,"Anyone else having an issue launching Encore, getting the error ""adobe encore cannot run in non-royalty serialized mode"" everything else works like a charm"
+,robone619,2012-06-07T11:32Z,Sorry just saw the fix posted worked great thanks!!!
+,Dillin,2012-08-10T04:30Z,"when ever I try to transfer this file to a USB or any external HDD no matter how much space is on it, it says there is not enough space on the target Drive. Anyone have a clue why?
+thanks for the upload"
+,benjymoto,2012-08-27T16:35Z,"Hey Dillin!
+Are you trying to transfere just the .dmg? because if so you can't.  It's probably because the external HD is using the exfat or MS-DOS (FAT) format, which actually tends to mess up larger files in transfer (happened to me all the time).  You can't transfer a file larger that 4 gig, so you could try installing the files into a folder on your desktop and transferring it that, since all the Adobe files are smaller than 4 gig.
+
+(Or you could reformat your external HD to the Macintosh format that your OS runs, I think that should work too, I'm sure you know reformatting erases all your data, so be careful)
+
+Hope that solves it for you, Cheers!"
+,jsteez,2012-09-01T08:02Z,"Hi, Great torrent, woks for the most part, but premiere is missing many of the codecs and presets.  Anyone know where I can get them?"

@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,Maous1,2012-05-24T22:16Z,"If you have an even better graphics card then the one listed follow Step 4a for Nvidia and 4b for radeon in the Step Guide PDF Credits page this will allow you to crank up the AA and the supersampling for a legit skyrim experiance.
+
+This needs about 1.5GB of video card memory to play at above 1080p which you should have if you have gtx 560 or greater"
+,cschrille1,2012-05-24T22:59Z,"Will GTX 580 Twin Frozr II, 8gb RAM and i5 2500k run this well?"
+,Maous1,2012-05-24T23:28Z,Yes very well im using a Evga gtx 580 hydro copper 2 3gb version and i have no issues in even the most graphical scenes and my supersampling is cranked up to 4x
+,cschrille1,2012-05-24T23:42Z,Fix your comment issues TPB!
+,cschrille1,2012-05-24T23:43Z,"Ok nice, i will dl and try, thank you!"
+,snowstone,2012-05-29T21:03Z,better off to just  go to skyrim nexus and find the mods u want then dl this much of useless
+,Maous1,2012-05-29T22:42Z,"Theres a couple files causing conflicts for various users that are in the rar but not in my installation.
+
+Please navagate to the skyrim folder and then navagate to the data folder and delete the following.
+
+Balanced_Alteration.esp
+Balanced_Conjuration.esp
+Balanced_Destruction.esp
+Balanced_Illusion.esp
+Balanced_magic_data.xls
+Balanced_Magic_Novice.esp
+Balanced_Restoration.esp
+ApachiiHairStyles.esp
+ApachiiHairStylesELVES.esp
+DeadlyDragonsSpells.esp
+DeadlyDragonsSpells.bsa
+DYNAVISION Dynamic Depth of Field.bsa
+DYNAVISION Dynamic Depth of Field.esp
+Extended Colors - Selection.esp
+Extended Colors.esm
+HighResTexturePack01.esp (do not delete the bsa's)
+HighResTexturePack02.esp (do not delete the bsa's)
+MidasSkyrim.bsa
+MidasSkyrim.esp
+
+These effects are covered by other better mods and having these extra's was causing strange behavior and crashes.
+
+Lastly to optimize mod load orders and ensure stability please download and run BOSS here
+
+http://skyrim.nexusmods.com/downloads/file.php?id=6
+
+USE Nexus mod manager or open skyrim launcher manualy and navagate to data files and move perky.esp back to the bottom right above the multiple SC_Modular Magic mods.
+
+THIS IS NOT FOR CRACKED VERSIONS OF THE GAME PLEASE READ THE MAIN POST
+
+This is for steam users only or those that know how to merge these folders and replace these files manually without my instructions.
+
+The Skryim Script Extender will not work with cracked version so it will cause unfixable stability errors crashes and graphical glitches
+
+Enjoy Jacking up your skyrim experiance!!!"
+,STUNTDEVIL44,2012-06-14T11:59Z,"
+""The Skryim Script Extender will not work with cracked version so it will cause unfixable stability errors crashes and graphical glitches""
+Wrong, i use all mod and skse just fine on a cracked version of skyrim."

@@ -1,0 +1,31 @@
+Call of Duty - Black Ops (Singleplayer and Multiplayer + DLC)
+
+
+How To Install
+
+
+
+1. Extract rar file and put the folder where do you want.
+1. Run "install dependencies.bat" to install DirectX and Visual C++ Runtime.
+2. View this website "http://internlabs.net/viewtopic.php?f=55&t=271" (You don't need to download InterOps client you only need a account to login when run BlackOps.exe or BlackOpsMp.exe).
+3. Run BlackOps.exe or BlackOpsMP.exe with your login and password.
+4. Play.
+
+
+How to Create a Dedicated Server
+
+
+
+If you have doubts open this website "http://internlabs.net/viewtopic.php?f=55&t=277"
+
+Before reading make a backup.
+
+1. Create a username and password here http://internlabs.net/main.php?p=login .
+2. Click add server and copy the key.
+3. Go to game dir and open the file dwkey.dat with text document or wordpad, copy the key, paste and save it.
+4. Open router firewall and windows firewall and allow port 3074 both UDP and TCP and point to server IP.
+5. Run Dedicated Server.bat to open your Dedicated Server.
+
+Notes: If you want change your server settings open main folder and open server.cfg with text document or wordpad.
+ 
+http://internlabs.net/ 

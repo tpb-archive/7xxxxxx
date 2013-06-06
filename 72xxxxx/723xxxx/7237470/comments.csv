@@ -1,0 +1,101 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-05-03T09:55Z,"and this is good also some ghost hunting with mediums
+
+http://thepiratebay.se/torrent/7226906/Rescue_Mediums_S01_to_S07_Various_Episodes_-_Canadian_ParaSeries"
+[T],trialNerror,2012-05-04T00:24Z,"i'm still wanting a re-air of this so we can get a proper HDTV version available.
+
+oh and i noticed that blurb in your description about mpc not having sharpness adjusting - yea it does  
+
+right-click on the video playing in mpc,
+filters > ffdshow video decoder > properties
+in the left column is sharpen
+lots of sharpen options available to mess with
+
+but something isn't right if the video needs to be sharpened. maybe quality is being lost from doing constant bitrate encodings?  maybe you're just getting old and blind?
+
+but seriously there is a great loss of quality with constant bitrate. sure some scenes will look great, and that's because it's slow movement, still frame, not much action and they only required 500kbs for a good picture. Other faster paced scenes may require up to 5MBs for a good picture, but a constant bitrate encoding is limiting it to only 1000kbps giving it a blurry, tiled, junky looking video clip.
+
+encoding 2-pass will save disk space and give more quality.
+
+speaking of encoding and since you mentioned some unknown freeware i'm gonna take a moment to suggest iWisoft Video Converter - it's just like Xilosoft Video Converter Ultimate but %100 free!  very basic to use. drop your media into the workspace, select from the numerous device ready presets available (ps3, psp, x360, iphone, ipod, blackberry, motorola, etc), and start encoding.
+
+it's impossible to say how long something is going to take to encode because that all depends on pc specs and what the input is.  but generally speaking if going to convert something that's already been compressed like hdtv.x264.mp4 videos it will go much quicker compared to converting the original 1080i.mpg source.
+
+imagine that folks, a program that will quickly easily convert my mp4's to xvid for your old dvd players so you won't need to wait on psspss any longer.
+
+freaking sweet aint it?!  ;D
+
+just remember, people, do 2-pass xvid encoding!"
+[V],psspss,2012-05-04T00:49Z,"then why didnt you tne and upload it
+always easy to complain about others
+efforts after the fact
+
+the encoder has its own way of encoding
+I think it does do 2 pass in a new 
+look ahead way.. i was reading on the
+web somewhere talking about it that
+it didnt need to look ahead on entire file
+
+no one seems to complain on the converts
+i do.. seems to work on most devices
+
+
+again you read what I said wrong
+
+I know all other players have filters
+and sharpeners but none of them
+matches VLCs sharpener function
+its unique way they do it
+
+i can use a sharpener in a converter
+and it no way matches VLCs real time
+one.. it somehow sharpeners certain
+whites bring ing out the eyes etc"
+[V],psspss,2012-05-04T02:39Z,"and I agree 2 pass is way to go however when ever
+I do them.. people complain it works on less things
+like xbox and ps3
+
+i up the bit rate above 1000 for faster stuff anyhow
+
+some mp4s dfont look good on fast scenes either
+not all mp4s are equally produced it seems"
+[V],psspss,2012-05-04T04:34Z,"i see a faint line of noise on this source sometimes vertical line.. so I suspect it was a tvrip upped to the web but then
+its better then nothing.. the quality is better then
+old vhsrips :)
+
+but hdtv might happen sometime if tne does one :)"
+[V],psspss,2012-05-04T06:40Z,i mean horizontal line :/
+[V],psspss,2012-05-04T07:13Z,"i still stand the converter soft I stated.. its what I used for most mp4s and its simple interface and
+superfast at converting
+
+however i may need to use other soft to edit out ads crop and resync the audio like avidemux.org
+
+all are free too
+
+i do have a few uni degrees and worked with computers for over 20 years.. im not exactly a dumbass just jobless cos the pc field is flooded with teenys out of school that know it all so they think :)"
+[V],psspss,2012-05-04T07:16Z,"if people did xvids from their own rips/mkvs or mp4s
+i wouldnt need too.. and they can then only complain
+about their own stuff ups"
+[V],psspss,2012-05-05T16:30Z,"looks like the faint horizontal lines appearing on the black screen and captions are part of their effects LOL as they on other episodes (latest) as well.. so
+this must be a hd rip to web convert not a tvrip"
+,Gingasnapz,2012-05-05T21:47Z,For some reason Nero wont except this file. :(  That is so strange because it takes avil. Is there a reason for this happenig?
+[V],psspss,2012-05-06T09:42Z,"nero just sucks really.. this file was make with another converter that did it at higher settings
+
+why you reencoding to mpeg anyhow?
+
+just burn the xvids as data to a cd-r or a dvd-r
+
+and insert in dvd player.. it will pop up a play list
+menu and then you select and it shoykld play
+xvids directly 
+
+i have a panasonic dvr with divx5 support
+
+but if you have problems grab the freeware
+umile asi mention above in header
+and encode it to mpeg that way
+
+then nero will load ti straight away"
+[V],psspss,2012-05-06T09:43Z,"bumm typos but your get what I mean..
+
+made I meant... darn font too small again to read it clearly. why do they use a faint font on this site?"

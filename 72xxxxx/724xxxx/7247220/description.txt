@@ -1,0 +1,35 @@
+****** ****** ******   ******* ****** ****** *    *  **
+     * *      *    *      *    *      *      *    *  **
+     * *      *    *      *    *      *      *    *  **
+ ***** ****** *    *      *    *****  *      ******  ** 
+     * *    * *    *      *    *      *      *    *  
+     * *    * *    *      *    *      *      *    *  **
+****** ****** ******      *    ****** ****** *    *  **
+
+*************************************************************
+*************************************************************
+
+
+===============================================================================
+            NAND FLASHER 360 VERSION 1.2.0
+===============================================================================
+
+The NAND Flasher 360 is a NAND -flash program for XBOX 360 (XeX Version). With this program you can update 
+to a new version of freeboot within minutes. The Data gets verified for each extraction and writing step. 
+Bad blocks automatically get moved to the appropriate positions (Bad block management). 
+This works for the small as well as the larger NANDs (16/256/512MB). Information on the hardware and NAND 
+is also displayed. (keyword: 360 jtag hack)
+
+Features:
+* Simple, easy to use interface (a lot of the more complicated stuff gets done automatically)
+* Displays information on the hardware and NAND
+* Possible to easily add additional languages
+* Bad blocks automatically get relocated (for all NAND sizes, 16/256/512MB)
+* Verification process which results in very safe, virtually error-free read and write processes.
+
+New in this rel:
+- Fixed Bad Block Handling on Small Block
+- Added shutdown button
+- Added some GUI modifications
+- Small Bugs fixed
+- Added Spanish language

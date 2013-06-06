@@ -1,0 +1,19 @@
+Changelog
+
+Fraps 3.5.0 - 26th April 2012
+
+- Support for large AVI movie files (above 4 Gigabytes) on NTFS drives
+
+- Added option to split AVIs at 4 Gigabytes for legacy AVI 1.0 support
+
+- Fixed loop recording using large amounts of disk space for short clips
+
+
+- Fixed benchmark logs not being saved if game was quit before benchmark ended
+
+- Fixed View folder not opening window on some machines
+
+
+- NEW MINIMUM SYSTEM REQUIREMENTS: CPU with SSE2 required (Pentium 4 & above)
+
+- Windows 2000 is no longer supported (Windows XP & above)

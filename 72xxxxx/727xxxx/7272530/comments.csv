@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,fretsey,2012-05-15T18:29Z,Please Seed.....1 seed /49 peers/0.000 available
+,Ferrera1690,2012-05-17T18:00Z,"@ EinDeutschMan
+
+Hey, first off, great job on creating the self-extracting rosetta. Really great. Secondly, when extracting these language packs to the default location,""C:/,"" the download won't occur because there is already a ""Program Files (x86)"" folder in the C:/ drive, your Rosetta Stone program. So can I extract the language to the desktop and copy and paste the ""Content"" folder to ""C:/Program Files (x86)/Rosetta Stone?"" Secondly, when I open up the program, I clicked never register, and then I got an error that read, ""There was a minor error. Click OK to continue. #8112, 1007, 20"" and then I got to create my profile and so on. This shouldn't interfere down the road should it? I just want to make sure I get everything right this time and make sure it all works... Sorry : I appreciate your time and effort."
+,EinDeutschMan,2012-05-17T23:55Z,"@Ferrera1960,
+
+I'm a little confused by your comment, are you saying that the download fails to extract?
+
+I ask this because, besides testing this on 3 different machines, I set it to overwrite any files.
+And since it only CREATES the Program Files (x86) folder/Rosetta Stone/content folder,
+it doesn't actually ""overwrite"" any files in the Program Files (x86) folder.
+
+As far as your second question, yes, you can extract it anywhere you want, 
+as long as you maintain the file structure.
+
+I'm not real sure what the 8112 error is, but I think it has something to do with permissions in the Program Files (x86) folders.
+change the permissions for that folder:
+
+Open My computer
+open C drive
+right click Program Files (x86)
+click properties,
+click Security,
+click advanced
+click owner
+click edit
+under the ""Name""
+hilight your user name
+click OK
+click Permissions tab
+click Edit,
+check ""Include inheritable...""
+check ""Replace all existing...""
+click Add
+in the box that comes up, type your user name
+click OK
+in the next box that comes up, check the ""Full Control"" box to Allow
+click OK
+If a box comes up for you to confirm this action, click OK
+A box will come up and show the progress
+when it disappears, click OK until all the boxes are closed
+reboot
+
+That SHOULD solve the problem, but I'm not sure."
+,frumundaneeth,2012-06-21T14:39Z,"Works perfectly! Thanks for the tip on the permissions as I was having the same issue as Ferrera1690 initially.
+
+Seeding."

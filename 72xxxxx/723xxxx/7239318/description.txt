@@ -1,0 +1,45 @@
+IMPORTANT! THIS WEEK?S SNAPSHOT IS EXTRA EXPERIMENTAL!
+ 
+This week we?ve started working on separating the server logic from the client. The 
+
+purpose of this is both to make it easier for us to add features (since we don?t have 
+
+to implement stuff ΓÇ£twiceΓÇ¥), and also to make it possible for you to invite people to 
+
+play on your local computer without setting up a server. In other words, more like 
+
+how it works on Minecraft: Pocket Edition.
+
+The work has not been completed yet, though, but a snapshot?s a snapshot. However, the game should still run fine, and we?ve also made some other tweaks:
+
+
+1. More fixes to silk touch and block picking
+2. Wooden tools work in furnaces
+3. Villagers spawned from spawning eggs will get a random profession
+4. Updated language files
+5. EtcΓÇª
+
+------------------------------------------------------------------------
+
+INSTALL INTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. change your current .jar file to whatever you like ( Example: minecraft1.1.jar )
+
+4. now just change the current .jar file that you downloaded to minecraft.jar
+
+-----------------------------------------------------------------------------------
+
+
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.	
+

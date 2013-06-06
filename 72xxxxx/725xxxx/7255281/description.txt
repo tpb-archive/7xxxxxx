@@ -1,0 +1,50 @@
+The main
+ Format: AVI
+ Format / Info: Audio Video Interleave
+ Format profile: OpenDML
+ File size: 2.90 GiB
+ Duration: 2h 3mn
+ Overall bit rate: 3371 Kbps
+ Application: VirtualDubMod 1.5.4.1 (build 2178/release)
+ Writing library: VirtualDubMod build 2178/release
+
+ Video
+ ID: 0
+ Format: MPEG-4 Visual
+ Format profile: Simple @ L5
+ Format / String: Yes
+ Format / String: No
+ Format / String: 0 Matrix
+ Format / String: Custom
+ ID: XVID
+ / XviD
+ Duration: 2h 3mn
+ Bit rate: 2913 Kbps
+ Width: 1 280
+ Height: 544 pixels
+ Aspect ratio: 2.35:1
+ Framerate: 23.976 frames / sec.
+ Color space: YUV
+ Chroma: 4:2:0
+ Bit depth / duration: 8 bits
+ Scan / String: Progressive
+ Bits / (Pixel * Image): 0,174
+ Stream / String: 2.51 GiB (86%)
+ Writing library: XviD 64
+
+ Audio
+ ID: 1
+ Format: AC-3
+ Format / Info: Audio Coding 3
+ Extension: CM (complete main)
+ Codec ID: 2000
+ Duration: 2h 3mn
+ Streaming Mode: Constant bitrate
+ Bit rate: 448 Kbps
+ Channel (s): 6 channels
+ Channel positions: Front: LCR, Side: LR
+ Sampling rate: 48.0 KHz
+ Bit depth / String: 16 bits
+ Stream / String: 395 MiB (13%)
+ Alignment / String: 42 ms (1.00 video frame)
+ Interleave / String: 500 ms

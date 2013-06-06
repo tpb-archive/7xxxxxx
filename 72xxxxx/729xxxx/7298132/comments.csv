@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,=BW=,2012-05-25T14:34Z,"I forgot to mention the following warning in the original post
+
+DO NOT USE AUTO UPDATE TO UPGRADE PRTG TO A LATER VERSION OTHERWISE IT WILL REVERT BACK TO FREEWARE WITH A 10 SENSOR LIMITATION
+
+Obviously this is due to the cracked EXE's being replaced by the upgraded ones.  Otherwise, enjoy!"
+,rodrigo8,2012-05-25T17:07Z,"i think so, you need Active Director installed in your server ? "
+,=BW=,2012-05-27T02:41Z,"No, AD is not required..."
+,D4rkSp4wn,2012-06-05T00:06Z,"Thank you for sharing this, ive been stuck with the version 7 for a long time, i really apreciate this.
+
+cheers m8."
+,Avenger55,2012-07-06T19:12Z,Is it possible to upgrade from version 9 using this?  Or at least possible to keep my previous configuration and sensors without it being a hassle?
+,=BW=,2012-07-07T12:25Z,"@Avenger55:  I have no idea.  This version of PRTG is my first use of the product. However, here is the official word from the vendor regarding upgrading from Version 9 to Version 12...
+
+Update From PRTG Network Monitor 9
+-----------------------------------
+If you are using PRTG 9 now, your configuration will be kept when installing PRTG 12 in Standalone Mode or when installing a Master Node. There are only a few things you should consider.
+
+Discontinued Sensors:
+Existing instances of the following sensor types will stop working with PRTG V12 and must be replaced with their successor sensor types!
+- VMware Host Server (SOAP)
+- VMware Virtual Machine (SOAP)
+- Xen Virtual Machine
+If your configuration contains these sensor types, they will stop monitoring after upgrading to version 12. We recommend you pause them to keep their historic data. In order to continue monitoring, please add the sensors anew (e.g. using the auto-discovery).
+
+Please install .NET 4.0:
+We strongly recommend installing .NET 4.0 on systems that run the core server (and the remote probes, if you use those). Otherwise the following features will not work: 
+- VMware auto-discovery and monitoring
+- Citrix XenServer auto-discovery and monitoring
+- SIP Options Ping Sensor
+-  Windows Last Update Sensor
+
+Changed Geo Maps Provider: When you update to PRTG 12 the provider for geographical maps will automatically be switched from Google Maps to MapQuest (using Open Street Map data)."
+,=BW=,2012-07-07T12:26Z,"You should back up your configuration and data first though.. :)  As follows...
+
+Knowledge Base: How do I backup all data and configuration of my PRTG installation?
+Answer: http://www.paessler.com/knowledgebase/en/topic/523 "
+,GooDeath,2012-07-11T03:37Z,"Can you explain to me the step 4 please, copy and paste where? Can you help me it keeps giving me the freeware with 10 sensor limitation after i install. Help BW please."
+,=BW=,2012-07-17T11:49Z,"@GooDeath
+Step 4 refers to stopping the PRTG services that are running in the background, replacing the original files with the cracked files, then restarting the PRTG services again. 
+
+I found that during the initial installation, the services didn't stop when asked, so I would do the following which is categoric...
+
+Step 4. Open the Task Manager. Click on the ""processes"" tab. Locate both tasks that start with PRTG. Highlight each of the PRTG processes one at a time and click ""End Process"" (This will essentially stop both PRTG services).  
+
+Go to wherever you unzipped the ""crack"" folder that was in the download and copy ArmAccess.dll, PRTG Server Administrator.exe and PRTG Server.exe to the same location that you installed PRTG.  Obviously it will prompt to overwrite the existing .exe files. If it does not, then you have copied them to the wrong folder, so search for the existing .exe files and re-copy the cracked ones there.
+
+Either restart the 2 x PRTG services, or simply restart the PC/Server/VM.  Good luck, it's worth spending time to get it going..."
+,=BW=,2012-07-17T12:07Z,"@D4rkSp4wn
+No Problem... :)"
+,mehrzud,2012-08-13T14:17Z,"Why not releasing the patch, so we can try latest version?"

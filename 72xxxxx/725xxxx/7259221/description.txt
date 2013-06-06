@@ -1,0 +1,14 @@
+Title: Distributed Algorithms
+Author: Nancy Lynch.
+Publisher: Elsevier (imprint: Morgan Kaufmann)
+
+
+Summary:
+
+This book contains a comprehensive introduction to the field of distributed algorithms -- a collection of the most significant algorithms and impossibility results, all presented in a simple automata-theoretic setting. It has been written with several audiences in mind. First, it is organized as a textbook for a first-year graduate computer science course, especially for students interested in computer systems, theory or both. It can also be used as a text for a short course for designers of distributed systems. Finally, it is intended as a reference manual for designers, students, and anyone interested in the field.
+
+We consider algorithms for many typical abstract problems -- consensus, communication, resource allocation, synchronization, etc. -- in several different system settings. The algorithms and results are organized according to basic assumptions about the system. The first level of organization is according to the timing model -- synchronous, asynchronous, or partially synchronous, and the second level is according to the interprocess communication mechanism -- shared memory or message passing. Several chapters are devoted to each type of system model; the first chapter in each group presents a formal model for that type of system, while the rest of the chapters contain the algorithms and impossibility results. Throughout, the presentation is rigorous, yet intuitive. Proofs are given (or at least sketched) for all of the results. Algorithms are analyzed according to precisely-defined complexity measures.
+
+The only prerequisites for reading the book are knowledge of basic college-level discrete mathematics (including mathematical induction), some programming skill, and reasonable familiarity with computer systems. The sections on randomized algorithms also require knowledge of basic probability.
+
+This book should make you familiar with many of the most important problems, algorithms and impossibility results in the area of distributed computing -- to be able to recognize the problems when they arise in practical settings, to apply algorithms like the ones contained here to solve them, and to invoke the impossibility results to argue that the problems are not solvable. It should also give you a good feeling for the various system models and their capabilities, so that you can design new algorithms yourself (or even prove new impossibility results). Finally, we hope that this book will convince you that it is feasible to reason carefully about distributed algorithms and systems -- to model them formally, give precise specifications for their required behavior, prove rigorously that they satisfy their specifications, identify appropriate complexity measures, and analyze them according to these measures.

@@ -1,0 +1,33 @@
+New in this version:
+
+1.5
+
+Revamped player with improved performance (Apple TV 4.4 and later)
+Added NFS streaming
+Added Catalan, Czech, Korean and Traditional Chinese translations
+Added support for localized TV show pattern: TV Show/Season #/S##E##.extension
+Added manual subtitle time correction (-10.0s to +10.0s)
+Added support for embedded .FLAC cover art
+Added support for .AC3, .DTS and .MOD files
+Improved .EYETV file handling
+Improved audio synchronization in slow and unstable networks
+Improved slideshow operation with small images
+Improved movie folders detection logic to ignore hidden files
+Improved metadata fetching to support movies split into multiple files (dvd#, cd#, disk#)
+Improved zoom mode operation for non-square pixels
+Improved DVD menu handling
+Improved .OGG file handling (now correctly treated as audio)
+Improved error handling for connection issues
+Improved buffering logic
+Improved installation routine
+Other minor UI improvements
+Resolved format detection that was causing rare playback issues
+Resolved issue with volume level resetting during rw/fw
+Resolved floating crashes usually observed when using SMB with Windows 7 shares
+Resolved conflicts with XBMC related to SMB
+Resolved issues with metadata fetching for 'Show.Name.###.extension' pattern
+Resolved crashes observed in folders with significant number of files
+Resolved playback error on DVD and ISO files observed when file path contains '?' character
+Resolved crashes when working with long file paths
+Resolved rare issue with incorrect pre-playback screen layout
+Other miscellaneous bug fixes

@@ -1,0 +1,50 @@
+Café Flesh takes place in a universe where 99% of the population are considered Sex Negatives - people who are unable to engage in the physical act of love (they become sick if they even try touching another human being). The radioactive dust from a recent nuclear war has rendered them sexually inert, so in response to this inconvenience, the Sex Negatives force the Sex Positives (the 1% left unaffected by the fallout) to perform bizarre, surrealistic sex acts for their amusement.
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 374 MiB
+Duration                                 : 1h 13mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 711 Kbps
+Writing application                      : Lavf52.94.0
+
+Video
+ID                                       : 1
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L1
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : 20
+Duration                                 : 1h 13mn
+Bit rate                                 : 540 Kbps
+Width                                    : 320 pixels
+Height                                   : 214 pixels
+Display aspect ratio                     : 3:2
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.263
+Stream size                              : 284 MiB (76%)
+Writing library                          : Lavc52.108.0
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 13mn
+Bit rate mode                            : Variable
+Bit rate                                 : 165 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 86.9 MiB (23%)

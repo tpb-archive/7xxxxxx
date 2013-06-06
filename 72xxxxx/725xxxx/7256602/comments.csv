@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+,seamonk55,2012-05-10T02:07Z,Does anyone know how to use the AdobeCS6PatchHostsFile? Do you copy it into Terminal? Or do I have to find and edit the hosts file directly?
+,Olive74000,2012-05-10T03:03Z,"Thx acesandeights for your work.
+I'm not familiar with Apple scripts & Automator... ;)
+I've already Adobe CS5.5 MC & used Activation Blocker in the past, can I use this activation patch after desintall old version of CS5.5 & install new version of CS6 of coz ?
+There will be no conflicts between them ?"
+,TVeye246,2012-05-10T05:08Z,"Downloaded and installed CS6 L16 from previous torrent and everything worked except for Illustrator which is stuck on TRY (when I look at the About Illustrator splash it says TRY version also), so uninstalled and attempted this Patch, following the instructions, but still no luck, even renamed the .png as suggested and that didn't work either.
+Does anyone have any suggestions for getting Illustrator to fully activate ( this is my MAIN app )? I'm getting worried that I may lose the app after 30 days.
+Thanks for the patch by the way, I know it's most likely something I did."
+,seamonk55,2012-05-10T05:13Z,"Don't forget to install Little Snitch to also prevent apps from ""phoning home."""
+,123veezy,2012-05-10T07:43Z,Anyway this will work on windows or if you can upload one for windows?
+,iamasith,2012-05-10T08:12Z,"@TVeye246. I had the same problem when I dl the master collection. When the spash shows up it shows as Tryout. Uninstall and install it again and the same thing shows up. So I disconnect from the internet first, uninstall and install it for the 3rd time. Once installed, I copied the [K'ed]amtlib.framework and replace the original amtlib file in CS6 Illustrator Contents>Frameworks folder. Start Illustrator and the Tryout is gone when the splash window shows up. You might want to try that."
+,iamasith,2012-05-10T08:13Z,@acesandeights. Thank you very much for this activation patch.
+,acesandeights,2012-05-10T08:31Z,"to seamonk55, just double click the AdobeCS6PatchHostsFile, its an Applescript application, it'll write the info in your hosts file for you then open it so you can see."
+,nitzzuga,2012-05-10T15:54Z,Hey ILLUSTRATOR friends - I think that TRYOUT screen its just a mistake - all programs works fine - but you have to copy THE HOLE FOLDER - nos just that file. The only program thats says TRYOUT its Illustrator - don't ask me why! The installation and all the process must be done OFFLINE!!
+,tubeamp,2012-05-10T18:37Z,"raw host file here:
+http://pastebin.com/yazjBU0m"
+,JetsetJoey,2012-05-11T07:14Z,"I'm relatively new @ this, so excuse my ignorance but when the download was complete there was no file extension!
+
+I must have to add one, eh??? (.exe .ISO or???)"
+,JetsetJoey,2012-05-11T07:26Z,Oops... I just noticed that this was for Mac :-(
+,mistarz,2012-05-11T13:16Z,"Not working....can anybody help.?
+M"
+,acesandeights,2012-05-11T20:38Z,"Complete patch
+http://thepiratebay.se/torrent/7262314"
+,mistarz,2012-05-12T19:33Z,"THANK YOU acesandeights!!
+Finally works perfectly.Still the illustrator *try out* doesent change....tried the rename too...
+
+M"
+,acesandeights,2012-05-12T22:05Z,"@mistarz, heres a splash screen fix
+http://thepiratebay.se/torrent/7265172"
+,tommybb95,2012-05-17T13:46Z,Does this patch also work with the german version of cs6 or does one have to download the english version?
+,pyro908,2012-05-18T05:19Z,Does the Apps update after the patch? I remember cs5 updates.
+,acesandeights,2012-05-21T10:28Z,been updating fine
+,Sebastian_b,2012-06-23T03:48Z,"At first glance, most apps seem to be working great. Thank you! Although there seems to be a problem with the main CS app I use, Acrobat Pro. Every time I run Acrobat, I have to force close it. It will not quit or close in a normal fashion. "
+,Sebastian_b,2012-06-23T14:24Z,"acesandeights, I am not able to update. The update fields are inactive. "
+,Sebastian_b,2012-06-24T17:10Z,"Correction, updating does happen. "
+,e2bladeol,2012-07-05T23:45Z,"when i right click on a application, i do not get the option ""show package contents"" 
+solution? "
+,gegagome,2012-07-08T03:26Z,"How do I get rid of the activation screen?
+Have uninstalled and reinstalled a million times and the trial reminds me of the days left."
+,QweenBee,2012-07-28T16:11Z,The patches all worked perfectly. Thank you.
+,ViktoriaZ,2012-08-27T16:37Z,"hello!
+
+I have no permission to download this torrent, can anybody explain me, how to get this permission, please.."

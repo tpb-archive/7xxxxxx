@@ -1,0 +1,62 @@
+Counter-Strike 1.6 ΓÇô WaRzOnE v1.3
+ 
+http://www.CSwarzone.com
+
+FEATURES
+
+- Release date May 12, 2012
+- 100% clean rip from Steam GCFs (Game cache files)
+- Only ~251MB setup size
+- Half-Life Single and Multiplayer is also included
+- Latest engine update (1.1.2.6 build 4554)
+- Dual Protocol (48 + 47) Client
+- Client can join P47 as well as P48 servers
+- Dual Protocol (48 + 47) Dedicated Server is also included
+- Working Dedicated and Listen server (Steam and non-Steam)
+- Working server browser with Internet, favorite and LAN tabs
+- Compatible with sXe Injected anticheat
+- Includes latest CS 1.6 bots
+- Playable on Internet and LAN
+- Can be used as Portable
+- HLTV is also included and works
+- In game ads are removed
+
+Change Log
+
+Version 1.0
+
+* Initial Release
+
+Version 1.1
+
+* Fixed sXe Injected errors
+* Added new master servers list
+* Include de_tuscan map
+* Fine-tune cfgs 
+
+Version 1.2
+
+* Bots are now OFF by default
+* Used modified revEmu overlay for server browser
+* Server browser is now efficient like Protocol 47 clients
+* Now you can add all CS 1.6 servers to favorite e.g. P47 and P48 servers
+* Fixed server browsers crashes on favorites
+* Updated server browser with Setti's master server new domain
+* Now Includes complete Half-Life single and Multiplayer
+* HLDS can now run in either GUI or CLI mode 
+* Fixed all know HLDS exploits i.e. Jo's (win32),  Jo's v2, auto-buy bug, CS Death and many more
+* Fixed sXe Injected error
+
+Version 1.3
+
+* Fixed problem listen server is not visible under LAN tab
+* Fixed favorites not responding issue
+* Fixed game hang problem when click on Options in game menu
+* Fixed GameUI.dll problem with sXe-Injected anticheat
+* Fixed problem with HLDS i.e. "Your server needs to be restarted in order to receive the latest update."
+* Now includes latest CS 1.6 bots without any CZ modifications
+* Added protection against slow hacking plugins
+* Updated server browser with Setti's master server IPs
+
+
+Copyright ┬⌐ 2011-2012  CSwarzone.com

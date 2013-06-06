@@ -1,0 +1,15 @@
+I've done site rips of ewallpapers.eu for a couple years and thought I'd finally share it with anyone who's interested ;)
+
+Basically what I've done is this:
+
+1) Removed all duplicates (files that had identical MD5 hashes). There may be dupes still but at least they aren't bit identical ;)
+
+2) Changed all file names to the MD5 hash of each file (the original names on the server are just numbers anyway) and changed the file extension to the correct one for each file.
+
+3) Sorted the wallpapers for each resolution included in this package, and those are:
+
+'1920x1200','2560x1600','1920x1080','2560x1440','3840x2160'
+
+Anyway, I hope this will make at least someone happy. Cheers!
+
+PS: If you want any previews on what kind of wallpapers are included, just set your torrent client to get a few from the 2560x1440 directory. The other resolutions are zipped to prevent the torrent file from getting huge.

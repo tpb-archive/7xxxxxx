@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,Jrdao,2012-04-29T22:48Z,thanks  man you are the one!!!
+,cambeme,2012-04-30T04:27Z,Can you release a small update from 7.30c to 7.30d? Yesterday i just updated to 7.30c. Or i just need to download this and overwrite all?
+,kompas909,2012-04-30T06:41Z,"To cambeme:
+You can just overwrite with this patch everything, it has all previous patches it self."
+,cambeme,2012-04-30T12:15Z,"When i run Dungeon Defenders UDK.bat, the message box appear 
+
+Scripts are outdated. Would you like to rebuild now?
+---------------------------
+Yes   No   Cancel   
+---------------------------
+
+i choose Yes, then other message appear
+
+Fatal error!
+
+Address = 0x61a5f4   (filename not found) [in D:GamesDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+
+Address = 0xd27935   (filename not found) [in D:GamesDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+
+---------------------------
+OK   
+---------------------------
+
+What should i do?
+"
+,kompas909,2012-04-30T18:04Z,"One of solutiohn, put your game in D:/Games/
+I will look at it later."
+,CrackedBlamerFTW,2012-05-01T04:05Z,Nice!! Thanks!
+,xDV8x,2012-05-02T04:17Z,"thank you for the attemp to add the DDDK, I too am getting ""Fatal Error's"" directing towards the DefDevelopment.exe itself. My errors do point to the folder that my game is located so its not misspathed. I get 8 Address errors, so not sure if a fresh copy of the DefDevelopment.exe would work or not.
+
+My Error list~
+Fatal error!
+
+Address = 0x10d34eb  (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x70ecce   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x63ac82   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x703ea2   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x6ff8f8   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x65c51f   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x70ecf0   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x6f5f7f   (filename not found) [in C:Dungeon Defenders 7.29cDungeon Defenders v7.28cDungeon DefendersBinariesWin32DunDefDevelopment.exe]"
+,kompas909,2012-05-02T07:35Z,"ok couple solutions that I think might work:
+
+1st. Try using simpler direction, remowe all those 7.28c and other, try put game like C(D): Dungeon Defenders.
+
+2nd. Check If DDDK not asking about outated scripts (Same happened to me).
+
+3rd. Try do Clean game instalation, and don't updated over 7.30d ver.
+
+If same problem still occurs, I'll upload NewestClean full DDDK. "
+,xDV8x,2012-05-02T08:23Z,"Ok, I tried doing fresh 7.29+this patch, ran the Bat(it asked for outdated script patch), then ran bat second time with following results
+
+Fatal error!
+
+Address = 0x10d34eb  (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x70ecce   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x63ac82   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x703ea2   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x6ff8f8   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x65c51f   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x70ecf0   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+Address = 0x6f5f7f   (filename not found) [in C:Dungeon DefendersBinariesWin32DunDefDevelopment.exe]
+
+
+have tried running the bat file 7 times with same results. Will try installing on another computer to see if the same thing happens to me again.
+
+P.S. Sorry for the headaches."
+,tissemat15,2012-09-17T21:38Z,how do i move my Heroes from my last update to this new one? :D Please help 
