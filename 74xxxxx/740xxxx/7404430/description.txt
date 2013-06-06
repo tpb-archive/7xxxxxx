@@ -1,0 +1,37 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+Changelog:
+
+Version 0.8.3General:
+
+-Peaceful mode option when creating a new world
+-Underground enemies no longer spawn in areas that don't have access to gnomes (ie -no surprise monster closets)
+-Temporarily disabled rain
+-Right click cancels selection. Clicking again cancels action.
+-Holding shift while selecting locks the selection to the same plane
+-Dig ramp down selection is always locked to the same plane
+-Reduced audio file size
+Art:
+
+-Added item tiles for pickaxe, felling axe, sword, hand axe, hammer and shield
+-Added equipped shield and hand axe
+-Added wood door, stone door, bandage, statuette and commemorative coin tiles
+-Updated wheat and strawberry
+Bug Fixes:
+
+-Crash on alt tab and other windows drawing on top of the game window
+-Crash when a goblin dodges a trap
+-Crash when characters are missing in text
+-Crash with loading equipped items and resaving
+-Crash trying to butcher corpses that have decayed
+-Conflict when generating new nav graph IDs after loading a game
+-Bug when loading items that were created from butchering
+-Gnomes trying to use items they didn't have access to and no longer working
+-Items sometimes being on a different cell than it thinks
+-Digging stairs down on top of a mine job eventually mined out the stairs
+-Spawning golems of all material types instead of 1 random
+
+
+
+
+I will be seeding newer versions as they will be released so keep an eye out :)

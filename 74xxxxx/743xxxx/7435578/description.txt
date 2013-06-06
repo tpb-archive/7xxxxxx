@@ -1,0 +1,20 @@
+A new release of the this Internet download manger. 
+It's a new build (v.6.12) packaged by p2p group iOTA. 
+Internet Download Manager (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads. 
+Comprehensive error recovery and resume capability will restart broken or interrupted downloads due to lost connections, 
+network problems, computer shutdowns, or unexpected power outages. 
+Simple graphic user interface makes IDM user friendly and easy to use.Internet Download Manager 
+has a smart download logic accelerator that features intelligent dynamic file segmentation and safe multi part downloading technology 
+to accelerate your downloads. Unlike other download managers and accelerators Internet Download Manager 
+segments downloaded files dynamically during download process 
+and reuses available connections without additional connect and login stages to achieve best acceleration performance.
+[b]WhatGÇÖs new on this build ?[/b]
+[i]- Redeveloped file integrity verification during resume
+- Improved resume capability after power outages
+- Redeveloped IDM integration into IE
+- Optimized IE integration module and improved its speed performance
+- Added support of IDM download panel to Google Frame installed into IE
+- Improved integration into IE based browsers like AOL, MSN, etc.
+- Added support for SeaMonkey 2.10
+- Improved support of several web players
+- Made a workaround for bugs in a new Outpost firewall

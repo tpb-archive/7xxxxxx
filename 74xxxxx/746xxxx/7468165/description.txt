@@ -1,0 +1,88 @@
+Type O Negative - Bloody Kisses - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Machine Screw
+2 - Christian Woman
+3 - Black No.1 (Little Miss Scare-All)
+4 - Fay Wray Come Out and Play
+5 - Kill All the White People
+6 - Summer Breeze
+7 - Set Me on Fire
+8 - Dark Side of the Womb
+9 - We Hate Everyone
+10 - Bloody Kisses (A Death in the Family)
+11 - 3.0.I.F
+12 - Too Late: Frozen
+13 - Blood & Fire
+14 - Can't Lose You
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0.08db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = 18, Peak = 0db
+-Final Recording - Apparent Bit Resolution = 40, Peak = 1.836db
+
+-Resample 64-bit/384kHz to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply loudness maximizer (0.02db) and MBIT+ 16-bit Dither (Noise Shaping - Medium, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-07-22 12:45:26
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10    -0.08 dB   -12.52 dB      0:41 ?-01 - Machine Screw
+DR11    -0.08 dB   -13.02 dB      8:58 ?-02 - Christian Woman
+DR11    -0.08 dB   -13.37 dB     11:15 ?-03 - Black No.1 (Little Miss Scare-All)
+DR13    -0.08 dB   -16.24 dB      1:03 ?-04 - Fay Wray Come Out and Play
+DR11    -0.08 dB   -12.79 dB      3:24 ?-05 - Kill All the White People
+DR10    -0.08 dB   -11.47 dB      4:50 ?-06 - Summer Breeze
+DR10    -0.08 dB   -11.78 dB      3:29 ?-07 - Set Me on Fire
+DR11    -4.40 dB   -17.32 dB      0:28 ?-08 - Dark Side of the Womb
+DR9     -0.08 dB   -11.48 dB      6:51 ?-09 - We Hate Everyone
+DR11    -0.08 dB   -13.56 dB     10:56 ?-10 - Bloody Kisses (A Death in the Family)
+DR11    -0.08 dB   -16.81 dB      2:06 ?-11 - 3.0.I.F
+DR10    -0.08 dB   -11.53 dB      7:51 ?-12 - Too Late; Frozen
+DR10    -0.08 dB   -12.46 dB      5:33 ?-13 - Blood & Fire
+DR10    -0.08 dB   -11.96 dB      6:07 ?-14 - Can't Lose You
+--------------------------------------------------------------------------------
+
+Number of tracks:  14
+Official DR value: DR11
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

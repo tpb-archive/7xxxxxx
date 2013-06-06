@@ -1,0 +1,37 @@
+Viscosity is an OpenVPN client for Mac, providing a rich Cocoa user interface for creating, editing, and controlling VPN connections. Viscosity provides a complete OpenVPN solution for Mac OS X 10.5 and does not require any additional downloads or software.
+
+With Viscosity and OpenVPN you can securely connect to your home or company network from a remote location, protect your network traffic when using public or wireless networks, access websites with country restrictions, and tunnel through restrictive firewalls and proxy servers to give your computer full Internet access.
+
+Viscosity can connect to any VPN server running OpenVPN, including most popular free and commercial VPN providers. Viscosity allows connections to be completely configured through a GUI, without any need to know how to use the command-line or OpenVPN's configuration file syntax. Advanced users still have full manual control over configuration options if desired.
+
+Features include:
+
+Cocoa GUI
+Connection and traffic statistics
+Multiple simultaneous connections
+Robust DNS Support
+Keychain integration
+System proxy integration
+Deployment features designed for enterprise
+Easy connection importing
+Growl integration
+
+What's New
+Version 1.4:
+
+Support for OS X 10.8.
+Full IPv6 Support.
+OpenVPN upgraded to version 2.3a2.
+Developer ID signed fo OS X 10.8
+Ability to bundle Viscosity with custom menu items.
+Default reachability check timeout increased
+Custom network route window improved.
+LZO compression options renamed to avoid confusion.
+DHCP will now be automatically disabled when not needed
+Delay time adjusted for enabling DHCP with a custom MAC address.
+Dutch localization thanks to Sven De Troch.
+Various bug fixes and enhancements.
+
+
+Requirements
+PPC / Intel, Mac OS X 10.5 or later 

@@ -1,0 +1,62 @@
+
+ - Avidemux x264/AAC/MP4 - TV conversion script
+ - created by xpmule 07/27/2012
+ - Tested on Avidemux v2.5.6 x64 Final (windows)
+ 
+ main - avidemux.org
+ wiki - www.avidemux.org/admWiki
+ forum - www.avidemux.org/admForum
+ 
+ alt downloads - avidemux.razorbyte.com.au
+ beta builds - www.avidemux.org/nightly
+ 
+ Avidemux is a free video editor designed for simple cutting,
+ filtering and encoding tasks. It supports many file types, including AVI,
+ DVD compatible MPEG files, MP4 and ASF, using a variety of codecs.
+ Tasks can be automated using projects, job queue and powerful scripting.
+ 
+ * This script i created is for trying to mimic the x264 TV release standards.
+
+Its based on encoder settings taken from video headers.
+Settings are very similar across all tv shows and groups, so what i did
+was copied the most common settings into a profile / script for Avidemux.
+Since the official scene rules are a guidline there can be varying settings.
+See the scene rules document for tv release more info (720p is seperate)
+
+The script is set at the following (edit script if needed)
+Or use the Avidemux Menu Options to change settings.
+
+Video Codec = x264 (Custom Profile)
+Video Dimensions = 720x404 (16:9) *default
+Audio Bitrate = 128 CBR 48Khz (STEREO)
+Container = MP4
+
+To use this you need to have Avidemux installed (x86 or x64)
+Copy script to the following directory,
+
+C:UsersAdministrationAppDataRoamingavidemuxcustom
+or
+C:Program FilesAvidemux 2.5scripts
+Note the path may be different depending on where you installed Avidemux etc.
+
+Advice & Notes:
+- Generaly i try NOT to use smart copy unless the video has problems.
+  The smart copy warning / option will come up automaticly for x264 videos.
+- I would advise staying away from the 2.6 beta versions, they are buggy..
+  the code for mp4/mkv have been re-written and are not as reliable as 2.5.6
+- If you have never used MediaInfo ? your missing out on a great video tool !
+  get it here, select "without installer" if you don't want OpenCandy ;)
+  http://mediainfo.sourceforge.net/en/Download/Windows
+  
+Scripting:
+If you want to create new encoder codec settings and add them to the script
+the easiest way is to open a video, set the options you want and then save
+a project or batch job to file and then copy the "codecPlugin" data to script.
+
+To set .mkv as the video container use,
+app.setContainer("MATROSKA");
+
+To set the audio codec AAC in the script to 384kbps use,
+app.audio.codec("Faac", 384, 4, "80 01 00 00 ");
+
+Lots of examples and some impressive scripts can be found on the net.

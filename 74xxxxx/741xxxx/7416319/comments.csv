@@ -1,0 +1,315 @@
+﻿User Type,Username,Date,Text
+,-xbt-,2012-07-05T22:10Z,"COMPONENTS REMOVED
+
+Accessories Removed:
+
+Ease of Access Center
+Paint
+Narrator
+On-Screen Keyboard
+TabletPCOC
+
+
+Windows Features Removed:
+
+People Near Me
+Welcome Center
+Windows Contacts
+Windows Repair Disc
+Mobile PC Presentation
+Windows Photo Viewer
+Windows Picture Acquisition Wizard
+Connect To Network Projector
+Windows Help
+
+
+Video Drivers Removed:
+
+D_NVIDIA
+
+
+Modem Drivers Removed:
+
+MO_Agere Systems
+MO_AIWA
+MO_Anchor Datacom BV
+MO_Archtek Telecom
+MO_ARN
+MO_Askey and Cardinal
+MO_ATI Technologies
+MO_Banksia,Meastro
+MO_Boca Research
+MO_Brother
+MO_BSB Datentechnik
+MO_Compaq
+MO_Conexant
+MO_Creative Labs
+MO_Creatix Polymedia
+MO_CPV-Stollmann Datensysteme
+MO_Digicom
+MO_Dynalinks and Todos
+MO_Eiger Labs
+MO_E-Tech
+MO_ELSA
+MO_Fujtisu
+MO_Gateway 2000
+MO_GSM Cellular
+MO_Haeussler DK & NO
+MO_Hayes Accura
+MO_Hayes
+MO_Hot Line Export AB
+MO_I-O DATA DEVICE
+MO_Infotel
+MO_Intertex
+MO_Ke Kommunikations Elektronic
+MO_KORTEX
+MO_LASAT COMMUNICATIONS
+MO_Lucent
+MO_Megasoft
+MO_Megahertz Corporation
+MO_Metricom
+MO_Microcom
+MO_MICRO Research
+MO_Motorola
+MO_Modular Technology
+MO_Multitech Systems
+MO_NEC
+MO_Neuhaus Telekommunikation
+MO_NISSEI
+MO_Nokia
+MO_Novalink Technologies
+MO_NTT Docomo
+MO_OLITEC
+MO_OMRON
+MO_OPTION International
+MO_Ositech Communications
+MO_Pace
+MO_Panasonic
+MO_Penril Datability Networks
+MO_Practical Peripherals
+MO_Psion Dacom
+MO_Racal-Airtech
+MO_Rockwell & Cirrus
+MO_Sierra Semiconductor
+MO_SONY
+MO_Sony Ericsson
+MO_Sony Ericsson and Motorola-Bluetooth Modem
+MO_Standard Modem Drivers
+MO_Suntac
+MO_Supra Corporation
+MO_TDK Corporation
+MO_TOSHIBA
+MO_Texas Instrument
+MO_TKR
+MO_TRON B.V. Datacommunicatie
+MO_U.S. Robotics-France
+MO_U.S. Robotics-Europe
+MO_U.S. Robotics-Sportster
+MO_U.S. Robotics,Telepath,IBM
+MO_V.DOT
+MO_Xircom
+MO_Zoom Telephonics
+MO_Zypcom
+MO_ZYXEL
+
+
+Printer Drivers Removed:
+
+P_Brother
+P_Canon
+P_Epson
+P_Fuji Xerox
+P_Gestetner
+P_Hewlett-Packard
+P_Infotec
+P_KONICA MINOLTA
+P_Kyocera
+P_Lanier
+P_Lexmark International
+P_Microsoft
+P_Okidata
+P_Ricoh
+P_Samsung
+P_Savin
+P_Sharp
+P_Sony
+P_TOSHIBA
+P_Xerox
+P_XPS Document Writer
+
+
+Scanner Drivers Removed:
+
+S_Brother
+S_Canon
+S_Epson
+S_Hewlett-Packard
+S_Kyocera Mita
+S_Lexmark
+S_Microsoft
+S_Ricoh
+S_Samsung
+S_Xerox Corporation
+
+
+TV Tuner Drivers Removed:
+
+TV_ADS Technologies
+TV_ASUSTEK Computer
+TV_Aver Media Technologies
+TV_Bitland
+TV_Creatix
+TV_Compro Technology
+TV_Hauppauge
+TV_KNC ONE GMBH
+TV_KWorld
+TV_NXP Semiconductors
+TV_Philips Semi-Conductors
+TV_Pinnacle Systems
+TV_Terratec Electronic GmbH
+TV_VidZ Media
+
+
+Language Packs Removed:
+
+ar-SA
+bg-BG
+zh-CN
+zh-TW
+zh-HK
+hr-HR
+cs-CZ
+da-DK
+nl-NL
+et-EE
+fi-FI
+fr-FR
+de-DE
+el-GR
+he-IL
+hu-HU
+it-IT
+ja-JP
+ko-KR
+lt-LT
+lv-LV
+nb-NO
+pl-PL
+es-ES
+pt-BR
+pt-PT
+ro-RO
+ru-RU
+sr-Latn-CS
+sk-SK
+sl-SI
+sv-SE
+th-TH
+tr-TR
+uk-UA
+
+
+Sample Data Removed:
+
+Sample Music and Videos
+Sample Pictures
+Screensavers
+
+
+Services Removed:
+
+IIS-WebServerRole
+BDESVC
+EFS
+Fax
+MSiSCSI
+NetTcpPortSharing
+WPCSvc
+wercplsupport
+PcaSvc
+RemoteRegistry
+WbioSrvc
+WinDefend
+WerSvc
+MpsSvc"
+,-xbt-,2012-07-05T22:11Z,"DESKTOP TWEAKS:
+
+Show Hidden Wallpapers and Themes=Enable
+Action center notifications on taskbar=Disable
+Application TimeOut=3000
+Lowlevel Hooks TimeOut=3000
+Wait to Kill Application TimeOut=5000
+Bluetooth Taskbar Icon Enabled=Enable
+
+
+TASKBAR TWEAKS:
+
+Show run on start menu=Enable
+Display recently opened programs in the start menu=Disable
+Lock the taskbar=Unlock
+Display recently opened items in the start menu and taskbar=Disable
+Show start menu Administrative tools=Enable
+
+
+SECURITY TWEAKS:
+
+UAC=Disable
+Windows Firewall=Default
+
+
+SERVICES TWEAKS:
+
+ActiveX Installer=Disable
+Peer Name Resolution Protocol=Disable
+Peer Networking Grouping=Disable
+Peer Networking Identity Manager=Disable
+Print Spooler=Disable
+Remote Access Auto Connection Manager=Disable
+Remote Access Connection Manager=Disable
+Remote Desktop Configuration=Disable
+Remote Desktop Services=Disable
+Remote Desktop Services UserMode Port Redirector=Disable
+Remote Procedure Call (RPC) Locator=Disable
+Security Center=Disable
+Smart Card=Disable
+Smart Card Removal Policy=Disable
+SSDP Discovery=Disable
+Tablet PC Input Service=Disable
+TCP/IP NetBIOS Helper=Disable
+Telephony=Disable
+Volume Shadow Copy=Disable
+Windows Backup=Disable
+Windows Media Center Receiver Service=Disable
+Windows Media Center Scheduler Service=Disable
+Windows Media Player Network Sharing Service=Disable
+Windows Remote Management (WS-Management)=Disable
+
+
+SYSTEM TWEAKS:
+
+Windows Update=Disable
+Auto Restart in the event of BSOD=Disable
+Beep Sound=Disable
+UXTheme patch=Enable
+Show start menu search=Enable
+Get rid of splash windows mail=Enable
+Faster Browsing With Internet Explorer=Enable
+Set Mouse Pointer Speed Maximum=Enable
+Full Information During Shutting Down=Enable
+Low disk space warning=Disable
+
+
+VISUAL EFFECTS TWEAKS:
+
+Transparent Glass=Enable
+Minimize and Maximize Animation=Disable"
+,-xbt-,2012-07-05T22:11Z,"========================================
+
+Click on my name to get the rest of my torrents!
+
+http://thepiratebay.se/user/-xbt-
+
+-XBT-"
+,-xbt-,2012-07-05T22:12Z,"Wrong link to my name above, sorry. Here is the correct link to view all my torrents:
+
+http://thepiratebay.se/user/-xbt-/"

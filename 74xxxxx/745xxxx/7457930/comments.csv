@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,GalAnonim,2012-07-20T13:44Z,Russian version.
+,przelotem,2012-07-20T15:46Z,"
+
+menu start –> run –> type here: regedit –> HKEY_LOCAL_MACHINE –> Software –> Wow6432Node –> Ubisoft –> Might and Magic Heroes VI (click on it) –> Language (double click) –> change from any number you have here (example: 411 [Japanese lang]) to 409 –> OK
+
+You can find those numbers in setup.ini file on disc
+
+part of setup.ini:
+
+[0x0409]
+0×0409=English (United States)
+0×0411=Japanese
+0×0401=Arabic (Saudi Arabia)
+0×0402=Bulgarian
+0×0804=Chinese (PRC)
+0×0405=Czech"
+,MALV.OSX,2012-07-20T23:26Z,"Para cambiarle el idioma tendreis k ir al regedit (tecla de inicio de windows y escribis regedit en buscar programas y archivos).
+Dentro del regedit buscar HKEY_LOCAL_MACHINE/Software/Wow6432Node/Ubisoft/Might & Magic Heroes VI
+Una vez esteis ahi os aparecera en el cuadro de la derecha varios iconos del registro, hacer doble click en el k pone language.
+Cambiar el valor k os viene por (040a en hexadecimal) o (1034 en decimal) para tenerlo en español.
+Cerrais el regedit y listo."
+,raion84,2012-07-23T23:53Z,some tell me if this can play online
+,{me},2012-07-26T16:45Z,no
+,neojedi,2012-07-26T21:02Z,How to unlock pirates of the savage sea ?
+,imfuzer,2012-08-01T04:27Z,"Yes, where is the Expansion?"
+,cowboy2,2012-08-02T12:41Z,"Ha magyar nyelvet akarsz akkor:
+40e"
+,Lundagers,2012-08-07T19:29Z,Can't get regedit to work on win 7... Is there any other way???
+,krvsrnko,2012-08-27T00:08Z,"How can one unlock the ""Pirates of the Wild Sea""?
+/
+Hogyan lehet unlockolni a ""Pirates of the Wild Sea""-t?
+
+(amúgy meg kösz a magyar verzió számáért)"

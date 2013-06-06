@@ -1,0 +1,59 @@
+mp4 re-encode with swedish subs
+
+General
+
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 621 MiB
+Duration                         : 1h 45mn
+Overall bit rate                 : 821 Kbps
+Writing application              : mp4creator 1.6.1d
+
+Video
+ID                               : 1
+Format                           : MPEG-4 Visual
+Format profile                   : Simple@L1
+Format settings, BVOP            : No
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : 20
+Duration                         : 1h 45mn
+Bit rate mode                    : Variable
+Bit rate                         : 575 Kbps
+Maximum bit rate                 : 2 585 Kbps
+Width                            : 480 pixels
+Height                           : 320 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 24.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.156
+Stream size                      : 436 MiB (70%)
+Language                         : English
+
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 1h 45mn
+Bit rate mode                    : Variable
+Bit rate                         : 243 Kbps
+Maximum bit rate                 : 335 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Compression mode                 : Lossy
+Stream size                      : 184 MiB (30%)
+Language                         : English
+Encoded date                     : UTC 2012-07-24 01:01:55
+Tagged date                      : UTC 2012-07-24 01:02:22
+

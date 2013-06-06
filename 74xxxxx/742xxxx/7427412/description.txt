@@ -1,0 +1,34 @@
+Description
+
+The font editor for everyone.
+Glyphs’ smart and simple approach helps you draw new fonts, modify existing fonts, and sculpt your letterforms hassle-free.
+Main Features:
+Edit text in context of words
+Only necessary interface elements
+Good integration in the operating system and connection to the design workflow
+Plugin interface for extending the functionality
+Scripting support
+
+New in Version 1.3.10:
+
+Improved kerning panel. Classes are now in bold text and have an @ prefix (no more MMK_)
+Added: Open paths are drawn as a line in preview mode.
+Added: Copy paste of hole features and classes
+Added: The search field in Font View has a "Match Case" option.
+Improved: The Offset Curve Filter has now an option to make a stroke outline and set the position of it. (Thanks göran)
+Added: Now the Offset Curve Filter is available in the Instance "Filter" property. You can use it like this: Filter = "GlyphsFilterOffsetCurve; 20; 30; 1; 0.66"; (GlyphsFilterOffsetCurve; xOffset; yOffset; MakeStroke; Position"
+Added: Now the Remove Overlap Filter is available in the Instance "Filter" property. Use is like this Filter = "GlyphsFilterRemoveOverlap;".
+Improved: The Next/Previous Tab command cycles now form the last to the first.
+Fixed an issue with annotation that could corrupt the .glyphs file.
+Fixed: Some smaller issues with the python bridge.
+Changed some rules for glyph ordering. Glyphs with a suffix like .lf, .tf ... are not considered numbers any more.
+Fix a rare case where there was a problem with the feature but no error message. (thanks mark)
+Fix problems on import if there are double encoded glyphs.
+Fix import on floating point node positions.
+Fix many more bugs and crashes.
+
+Requirements: OS X 10.6.6 or later, 64-bit processor
+
+Thanks AJhacks
+
+If you like it - buy it

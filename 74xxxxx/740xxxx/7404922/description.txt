@@ -1,0 +1,14 @@
+FULL CHANGELOG: http://pastebin.com/FwCntRbC
+
+This is a custom windows xp i have been working on. I have have fixed all the bugs that i had with it and hence this will be the last version of crazyXP unless someone else finds and posts some bugs. I was fed up of Tweaking xp after every fresh install so this became my project. I have added the NeoGeniX theme back in this one as an optional install (run script on desktop if you want it). It uses between 50and70 megs of ram after fresh install (my desktop was 53 but netbook was 69...) and it runs very smooth. Network printing, file sharing, games, programs, etc. should all still work. Security and privacy have been improved through tweaking registry and services etc. I added a "Services" folder on desktop with a example script to allow people to change the startup mode of services (use with caution tho as disabling some services may break windows so see the readme). the crazyWGA patch allows windows updates (set to automatically download and install but promt for restart) and also allows for installation of Microsoft Security Essentials. Programs folder on desctop allows you to easily find, download and install up-to-date software i recommend for audio, webbrowser, office suite, etc. Drivers for Lan, Wlan, Chipset, Mass Storage, Miscellaneous have been slipstreamed to make the install process easyer and quicker however due to their size audio and video drivers need to be added by you. program wise i have only added 7zip and K-lite MEGA codec pack and Windows Media Player Classic - Home Cinema (Microsoft's, windows media player has been fully removed and cannot be restored). For added security the DNS is automatically set to OpenDNS but if this causes issues simply change it back to Automatic. As mentioned above Some things have been removed, such as default drivers, some windows applications, some services (all the rest still fully functional), etc etc...
+
+TcpIp = 9024
+UxTheme = Patched
+
+for full details see the changelog at: http://pastebin.com/FwCntRbC
+
+
+scanned with: F-Secure, Kaspersky , Malwarebytes, MSE
+
+enjoy
+         scuba-doo

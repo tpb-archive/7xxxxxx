@@ -1,0 +1,41 @@
+
+
+
+Application integrity checking?
+
+Hover your mouse over the green, amber or red icon to see detailed application information.
+
+Note: Even if the icon is green someone might have found a way around the protection system so it's worth checking that the applications path is always the same as the location from which you launched the application. You should also check that the MD5 matches the MD5 found online.
+
+
+Virus scanner results
+
+All virus scanner detection's are a false-positive as long as the MD5 matches. Simply turn off your anti-virus while installing the loader.
+
+
+Note to uploaders
+
+Please tell people to read the read me file as it contains answers to many of the activation problems people have.
+
+--
+Version 2.1.7 (07/19/2012)
+* Fixed a bug that was causing the RSDT to get trashed
+
+Version 2.1.6 (07/19/2012)
+* Added a new GRLDR version
+* Fixed a Hyper-V installation issue
+* Added Tangent Professional serial
+* Added Dealin Starter serial
+
+Version 2.1.5 (06/25/2012)
+* Added a new GRLDR version
+* Added Jetway Home Premium, Home Basic and Starter serials
+* Added Jetway SLIC and certificate
+* Fixed a bug that caused the unsupported status to be set for every type of issue
+* Highlighted the status line so that people understand that Windows 7 Enterprise is an unsupported operating system
+* Other minor tweaks and fixes
+
+MD5: 54687dfbd4e31c206ea4036fcad32738
+SHA-1: ff30aea6c549943815418399d389fd179a24b505
+
+Note: The hashes are for the executable file and not the zip file.

@@ -1,0 +1,22 @@
+SweetScape 010 Editor is a professional-grade text editor and hex editor designed to quickly and easily edit any file or drive on your computer. Combining an easy-to-use interface with a whole range of editing tools, 010 Editor is a valuable tool for anyone working with text or binary files. One of the most powerful features of 010 Editor is the ability to parse virtually any binary file using a Binary Template. Instead of browsing through a long range of hex bytes as with traditional hex editors, Binary Templates allow a file to be understood. Templates are easy to write and can be used to completely parse any data format, such as BMP or ZIP files (Templates for reading these files are included with 010 Editor).
+
+A Binary Template looks similar to a C/C++ structure, but is actually run as a program. Every time a variable is declared in a Template, that variable is mapped to a set of hex bytes in a file. Data in the file can then be read or written by modifying the variable. Because the Template is run as a program, if, for, or while statements as well as functions or complex expressions can be used. When a Template is run, the defined variables can be edited using the Template Results, as shown on the left. New Templates can be added to 010 Editor and can even be configured to run automatically when a file is loaded.
+
+Version 4.0.1 - June 6th, 2012
+
+    Fixed crash with a custom Auto-Inspector and certain long operations.
+    Fixed crash with wordwrap on very long lines.
+    Fixed Paste from Hex Text on Mac OS X.
+    Fixed clicking on a bookmark, variable, or find result will always select bytes in the editor.
+    Fixed editing bookmarks that contain arrays.
+    Fixed issues with the Find results when searching for text containing linefeeds.
+    Fixed enums and different numeric formats when displaying local variables.
+    Fixed adding or removing 010 Editor from the Windows Explorer right-click menu using the Options dialog.
+    Fixed the Output tab automatically scrolling down as text is added.
+    Fixed the FindNext function should not be selecting data.
+    Fixed the FindNext function when used with DeleteBytes in a loop.
+    Fixed crash with the HexOperation function on a new file.
+    Fixed the Short type specifier in the Goto Bar.
+    Fixed allowing hotkeys to be set for Mark Selection Start/End.
+    Fixed misplaced cursor when changing the endian of a Unicode file.
+    The Goto and Select Range Bars now accept extra whitespace. 

@@ -1,0 +1,81 @@
+This is Indesign CS5 ME for Mac
+
+1- Run this into Terminal: sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts
+
+2- Copy and paste these anywhere into the file:
+127.0.0.1 www-da1.adobe.com
+127.0.0.1 192.150.16.64
+127.0.0.1 3dns.adobe.com 
+127.0.0.1 3dns-1.adobe.com 
+127.0.0.1 3dns-2.adobe.com 
+127.0.0.1 3dns-3.adobe.com 
+127.0.0.1 3dns-4.adobe.com 
+127.0.0.1 activate.adobe.com 
+127.0.0.1 activate-sea.adobe.com 
+127.0.0.1 activate-sea.adobe.com.* 
+127.0.0.1 activate-sjc0.adobe.com 
+127.0.0.1 activate.wip.adobe.com 
+127.0.0.1 activate.wip1.adobe.com 
+127.0.0.1 activate.wip2.adobe.com 
+127.0.0.1 activate.wip3.adobe.com 
+127.0.0.1 activate.wip4.adobe.com 
+127.0.0.1 adobe-dns.adobe.com 
+127.0.0.1 adobe-dns-1.adobe.com 
+127.0.0.1 adobe-dns-2.adobe.com 
+127.0.0.1 adobe-dns-3.adobe.com 
+127.0.0.1 adobe-dns-4.adobe.com 
+127.0.0.1 practivate.adobe 
+127.0.0.1 practivate.adobe.* 
+127.0.0.1 practivate.adobe.com 
+127.0.0.1 practivate.adobe.newoa 
+127.0.0.1 practivate.adobe.ntp 
+127.0.0.1 practivate.adobe.ipp 
+127.0.0.1 ereg.adobe.com 
+127.0.0.1 ereg.wip.adobe.com 
+127.0.0.1 ereg.wip1.adobe.com 
+127.0.0.1 ereg.wip2.adobe.com 
+127.0.0.1 ereg.wip3.adobe.com 
+127.0.0.1 ereg.wip4.adobe.com 
+127.0.0.1 wip.adobe.com 
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 wip.adobe.com 
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 wwis-dubc1-vip60.adobe.com 
+127.0.0.1 adobeereg.com 
+127.0.0.1 192.150.18.108 
+127.0.0.1 192.150.22.40 
+127.0.0.1 192.150.14.69 
+127.0.0.1 192.150.8.118 
+127.0.0.1 192.150.8.100 
+127.0.0.1 192.150.18.101
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 192.150.14.174
+127.0.0.1 fpdownload.adobe.com
+127.0.0.1 2.19.211.235
+
+3- Run this inTerminal to flush the cache: sudo dscacheutil -flushcache
+
+4- Install InDesign CS5 ME, use any of these serials:
+1037-0738-2634-5894-1142-5282
+1037-0587-4308-5833-4507-1241
+1037-0946-0591-5042-0155-7084
+
+This will install in Greek language. Follow the next steps to change from Greek to any other language.
+
+5- Run ChangeIDmenuLanguage.app
+
+6- Go to the InDesign CS5 folder in 'Applications'
+
+7- Go to 'InDesign Shortcut Sets' and 'InDesign Workspaces' folders and duplicate the 'el_GR' folder in there.
+
+8- Rename the folders you duplicated to the language you need, en_US is for English. See the list of available language names in the 'Legal' folder.
+
+9- Open InDesign, then in the system menu click Window/Workspace, try the workspace you like, the 4th is the default.
+
+10- Enjoy!

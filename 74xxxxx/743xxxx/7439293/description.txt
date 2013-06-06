@@ -1,0 +1,74 @@
+High demand H.264 video for hardware testing: 1080p/40Mbps/High@5.1 profile/16 RefFrames
+
+MediaINFO
+---------
+
+General
+Unique ID                                : 185778559225874884692395997163101977595 (0x8BC3A6266CDE1E359239447CEB917BFB)
+Complete name                            : E:TEMPSamsung.Demo.Oceanic.Life.x264.1080p.40Mbps.mkv
+Format                                   : Matroska
+Format version                           : Version 1
+File size                                : 484MB
+Duration                                 : 1min.
+Overall bit rate                         : 39,7Mbps
+Encoded date                             : UTC 2007-12-24 18:19:50
+Writing application                      : mkvmerge v2.1.0 ('Another Place To Fall') built on Aug 19 2007 13:40:07
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Si
+Format settings, ReFrames                : 16marcos
+Muxing mode                              : Container profile=High@5.1
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1min.
+Bit rate                                 : 40,0Mbps
+Width                                    : 1 920pixeles
+Height                                   : 1 080pixeles
+Display aspect ratio                     : 16:9
+Frame rate                               : 29,970fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8bits
+Scan type                                : Progresivo
+Bits/(Pixel*Frame)                       : 0.644
+Stream size                              : 468MB (97%)
+Title                                    : Video x264 1080p @ 40 Mbps
+Writing library                          : x264 core 57 svn-709C
+Encoding settings                        : cabac=1 / ref=16 / deblock=1:-2:-1 / analyse=0x3:0x113 / me=umh / fpel_cmp=sad / 
+
+subme=7 / me-prepass=0 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / 
+
+chroma_qp_offset=0 / threads=6 / nr=0 / decimate=0 / mbaff=0 / bframes=16 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / 
+
+wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=40000 / ratetol=1.0 / 
+
+rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / 
+
+pb_ratio=1.30
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 1min.
+Bit rate mode                            : Constante
+Bit rate                                 : 448Kbps
+Channel(s)                               : 2canales
+Channel positions                        : Front: L R
+Sampling rate                            : 48,0KHz
+Bit depth                                : 16bits
+Stream size                              : 5,46MB (1%)
+Title                                    : Audio ingles AC3 2.0 @ 448 Kbps
+Language                                 : Inglés
+Default                                  : Si
+Forced                                   : No
+

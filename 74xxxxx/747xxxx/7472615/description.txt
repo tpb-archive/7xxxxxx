@@ -1,0 +1,32 @@
+Beginning Lua Programming
+
+Publisher:Wrox Press
+ISBN: 978-0-470-06917-2
+672 pages
+Publication Date: February 2007
+Format: PDF
+
+
+
+This book is for students and professionals who are intrigued by the prospect of learning and using a powerful language that provides a rich infrastructure for creating programs. No programming knowledge is necessary to benefit from this book except for the section on Lua bindings, which requires some familiarity with the C programming language. A certain comfort level with command-line operations, text editing, and directory structures is assumed.
+Software developers who have experience with functions, strings, and associative arrays can skim Chapters 2 through 5 with the caveat that certain Lua colloquialisms are introduced there along with programming concepts.
+
+Throughout the text, sections pertaining to a particular operating system are clearly marked and can be skipped by readers working on a different platform.
+
+This book is organized to guide you through the basics of using Lua. Its structure is as follows:
+
+Installing Lua on your system (Chapter 1)
+Learning the fundamentals of programming in Lua (Chapters 2 through 10)
+Reviewing standard Lua functions (Chapter 11)
+Exploring application development with Lua using packages contributed by the community (Chapters 12 through 18)
+Using Lua's many community resources (Chapter 19)
+
+Chapters 2 through 10 each build on concepts that are presented in its predecessors, so a sequential reading of this part of the book is advised. The summary of Lua's built-in libraries contains examples that assume you have a good grasp of the materials presented in the first 10 chapters.
+
+Some of the libraries and techniques presented in Chapters 12 and 13 are needed in the remaining chapters of the book. Chapters 14 through 19 are relatively independent of one another and can be read out of sequence.
+
+You need surprisingly little in the way of computer resources to learn and use Lua. This book focuses on Windows and Unix-like (including Linux) systems, but any operating system that supports a command shell should be suitable. You'll need a text editor to prepare and save Lua scripts.
+
+If you choose to extend Lua with libraries written in a programming language like C, you'll need a suitable software development kit. Many of these kits are freely available on the Internet but, unlike Lua, they can consume prodigious amounts of disk space and memory.
+
+Chapter 18 discusses using Lua on a Palm Pilot. Even if you don't own or have access to one of these devices, this chapter shows how you can simulate one on the major desktop systems.

@@ -1,0 +1,22 @@
+BBC London Olympics 2012 Cycling Road Race Men PROPER 468p HDTV x264 AAC
+
+Men's cycling road race that starts and ends in the Mall.
+
+Technical Spec
+Container: MKV <---
+Video Codec: x264 CABAC High@L3.1
+Video Bitrate: CRF 28
+Video Aspect Ratio: 16:9
+Video Resolution: 832x468
+Audio Codec: HE-AAC
+Audio Bitrate: 128 Kbps ABR 48KHz
+Audio Channels: 2
+Run-Time: 363mins
+Framerate: 25FPS
+Number of Parts: 1
+Part Size: 4.01 GB
+Source: HDTV
+
+This is the PROPER version which is now an MKV instead of MP4 container. When playing the MP4 version with VLC the duration displayed was 12 hours 6 minutes instead of 6 hours 3 minutes. Also when moving the seek bar beyond 6 hours there was no audio. When playing the MP4 version with MPC-HC the duration displayed was 6 hours 3 minutes and played ok.
+
+This MKV version is identical to the MP4 version. All I've done is strip the h264 and AAC streams from the MP4 and re-mux them into a MKV container. Basically MP4 is a pain in the back-side. The only reason to use it is because it compatible with most hardware players. The large mode MP4 would also probably the fix the problem but large mode MP4 might not play with most hardware players. Obviously MKV won't play natively under Apple Quicktime for MAC-OSX unless you have the Perian plugin.

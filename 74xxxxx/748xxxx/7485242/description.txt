@@ -1,0 +1,17 @@
+Description
+
+Squirrel is a personal finance application that helps you track and plan your finances with ease and fun. Forecast and track your spendings, analyze where your money is going with graphs, and stay on track with your finances thanks to budgets.
+
+- Transactionscategories and tags, and can be scheduled to repeat.
+- You can reconcile your bank statements.
+- Analyze your spendings on a specified timeframe, with the possibility to filter transactions.
+- Budgets allow you to track your spendings, category by category.
+- Foreign currencies are perfectly supported. Squirrel calculates automatically how much each transaction is worth in your base currency, according to the exchange rate of your transfers and withdrawals.
+- You can import your OFX, QIF andfiles, from your bank website or other applications.
+
+What's New in0.8.15
+
+- Added support for retina displays
+- Addedamount in budgets
+- Fixed issue with OFX files
+- Fixed issue with schedules forecasts

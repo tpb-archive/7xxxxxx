@@ -1,0 +1,191 @@
+﻿User Type,Username,Date,Text
+,moeburn1,2012-07-09T21:57Z,"so apparently I can't put links in a torrent's description.  Here's the changelog:
+
+nfo [dt] rlslog [dt] net [slsh] view [slsh] 36737"
+,moeburn1,2012-07-09T22:00Z,"or if it will fit:
+
+
+
+  Changelog:
+
+  GAMEPLAY :
+
+  ==> Adding a new map : « Mecklenburg ».
+  ==> Adding a new game mode : « Conquest ». Seven maps will be available
+  for this mode, including « Mecklenburg », which can be played both against
+  humans or AI.
+  ==> Adapting two more actual maps for the « Siege » mode : « Hold until
+  relieved » & « None shall pass ».
+  ==> New game lobby interface (multi & skirmish).
+  ==> Better visibility of the number of people in the ranked games.
+  ==> Major tuning patch (see below).
+
+  BUG FIXING :
+
+  ==> Fixing a bug causing a crash when a game host leave the lobby.
+  ==> Fixing a bug causing a crash when using custom flares.
+  ==> Fixing some rare bugs (when a command unit of the edge of a
+  zone is forced to move into another, when loading infantry under fire
+  into a transport, during some solo campaign's briefings, .).
+  ==> Fixing a graphic bug on map « Mlada Boleslav » (solo campaign)
+  & « Open Range » / « Duel Field » (multi). Therefore the patch's weight .
+
+  TUNING :
+
+  	GENERIC :
+
+  => All flamethrowers are now restricted to direct fire. It means they
+  need a LOS on target to fire.
+  => All flamethrowers are now able to auto fire.
+  => Aiming time for all flamethrowers decreased.
+
+  => Aiming time for all ATGM decreased.
+  => Fire range for all ATGM have been increased of +175m, except for both
+  M47 Dragon.
+
+  	PACT :
+
+  => 23mm ammunitions loadout for the Soviet ZSU-23-4V Shilka & NVA FlaKPz
+  Shilka decreased from 4.000 to 2.000 rounds.
+  => Fire range of the ZSU-23-4V Shilka increased from 1.575m to 1.750m.
+  => Accuracy of the ZSU-23-4V Shilka increased from 3 to 4.
+
+  => Fire range of the ZSU-23-4V1 Shilka increased from 1.575m to 1.750m.
+  => Accuracy of the ZSU-23-4V1 Shilka increased from 4 to 5.
+
+  => Fire range of the ZSU-23-4M2 Biryusa increased from 1.575m to 1.925m.
+
+  => Replacing the actual (NATO ?) rocket pods of the MI-2URN with a correct
+  16-rockets S-5 57mm pod.
+
+  => Accuracy of the FJB-40's Strela-2 increased from 4 to 8 (on par with
+  the SAS & Rangers' Redeyes).
+
+  => Accuracy of the MT-LB Strela-10 increased from 4 to 6
+  => Aiming time of the MT-LB Strela-10 decreased.
+
+  => Price of the Soviet BRDM-2 Malyutka-M & NVA SPW-40P2 Malyutka-M
+  decreased from $35 to $30.
+  => Price of the Soviet BRDM-2 Malyutka-P & NVA SPW-40P2 Malyutka-P
+  decreased from $45 to $40.
+
+  => Price of the Soviet BM-21 Grad & NVA MFRW BM-21 decreased from
+  $80 to $70.
+  => Price of the CSLA RM-70 & NVA MFRW RM-70 decreased from
+  $150 to $130.
+
+  => Fire range of the obsolete 85mm gun of the Polish T-34/85M1 & NVA KPz
+  T-34/85 decreased from 1.925 to 1.500m.
+
+  => Fire range of the obsolete 76,2mm gun of the Soviet PT-76B & NVA SpPz
+  PT-76B decreased from 1.925 to 1.500m.
+  => Price of the Soviet PT-76B & NVA SpPz PT-76B decreased from 30$ to 25$.
+
+  => Fire range of the obsolete 76,2mm gun of the Soviet PT-71 decreased
+  from 1.925 to 1.500m.
+  => Price of the Soviet PT-71 decreased from 35$ to 30$.
+
+  => Fire range of the following MBT's main gun increased from
+  1.925m to 2.100m :
+  * T-62M-V
+  * T-64A & T-64B
+  * T-72A
+
+  => The following ATGMs' AP value is increased :
+  * Falanga from AP 10 to 12.
+  * Fleyta from AP 10 to 12.
+  * Malyutka from AP 10 to 11.
+  * Malyutka-M from AP 10 to 11.
+  * Malyutka-P from AP 10 to 12.
+  * Bastion from AP 10 to 12.
+  * Sheksna from AP 10 to 12.
+  * Kobra from AP 11 to 13.
+  * Svir from AP 11 to 14.
+  * Refleks from AP 11 to 15.
+  * Fagot from AP 10 to 11.
+  * Konkurs from AP 10 to 12.
+  * Konkurs-M from AP 11 to 14.
+  * Kokon from AP 11 to 14.
+  * Ataka V from AP 11 to 14."
+,moeburn1,2012-07-09T22:01Z,"2nd half of changelog:
+
+	NATO :
+
+  => Fire range of the US M109 decreased from 18.200m to 14.000m
+  (does not affect the Bundeswehr variant).
+  => Price of the US M109 decreased from $50 to $40
+  (does not affect the Bundeswehr variant).
+
+  => Size of the British FV102 Striker changed from ""Small"" to ""Normal"".
+  => Speed and maniability of the SwingFire increased.
+
+  => Price of the French MILAN F2 team increased from $20 to $25.
+
+  => Price of the German Panzergrenadiers decreased from 35$ to 30$.
+
+  => Blindicide (German Jäger)'s caliber changed to 83mm
+  (no gameplay effect, just a realistical change).
+
+  => Availability of the US M132 Zippo increased from 8 to 12.
+
+  => Stabilizer of the US MBT-70 changed from ""None"" to ""Bad"".
+
+  => Price of the German SPz 11-2 Kurz decreased from $35 to $30.
+
+  => Speed of the British Saracen increased from 65km/h to 70km/h.
+
+  => Price of the US V-150 90mm decreased from $50 to $45.
+
+  => Speed of the British FV432 Rarden increased from 45km/h to 50km/h.
+
+  => Replacing the Marder 1A3's actual MILAN F1 with a MILAN F2.
+
+  => Price of the US ATGM jeep M151A2 I-TOW increased from $25 to $30.
+
+  => Price of the French ATGM team MILAN F1 increased from $15 to $20.
+  => Price of the French ATGM team MILAN F2 increased from $20 to $25.
+
+  => Price of the US ATGM team M47 Dragon decreased from $15 to $10.
+  => Price of the US ATGM team M47 Dragon II decreased from $20 to $15.
+
+  => Fire range of the following MBT's main gun increased from 1.925m
+  to 2.100m :
+  * Leopard 1A4 & Leopard 1A5
+  * Chieftain Mk.10
+  * M1 Abrams & IPM1 Abrams
+  * M8 AGS
+  * AMX-30B Valorisé & AMX-30B2
+  * M60A3 Patton & Super M60
+
+  => The following ATGMs' AP value is increased :
+  * Shillelagh from AP 10 à 11.
+  * Shillelagh-C from AP 10 à 12.
+  * TOW from AP 10 à 12.
+  * I-TOW from AP 11 à 14.
+  * TOW 2 from AP 12 à 15.
+  * HOT 1 from AP 11 à 13.
+  * HOT 2 from AP 12 à 15.
+  * MILAN F1 from AP 10 à 12.
+  * MILAN F2 from AP 12 à 15.
+  * Swingfire from AP 11 à 13.
+  * SS-11 from AP 10 à 12.
+  * Hellfire from AP 13 à 16."
+,filecheck,2012-07-10T12:19Z,"pretty sure this is infected.. i got something.. see pic..
+
+[IMG]http://i.imgur.com/rOzJx.png[/IMG]"
+,moeburn1,2012-07-10T12:36Z,"@filecheck,
+
+I'm not sure how this gave you a trojan in your %appdata% directory when you have to copy/paste the files (no setup.exe) to your game directory.  Your real-time scanner would have found the game exe trying to clone itself to your appdata folder.
+
+But anywho, I scanned mine with AVG free and found nothing, not even false positives.  Not sure how you got Medfos (IE homepage-changing virus), but I've gotten Medfos in the past from THETA torrents.
+
+I downloaded this from rlslog's official link (not one of the links in comment section), I doubt they would be attaching viruses to releases."
+,Syteri,2012-07-11T01:31Z,"This doesn't work for me. Each time I try to play the new map, my game crashes. The crash says ""Access Violation"""
+,Syteri,2012-07-11T01:33Z,"Well, only the new map doesn't work. Trying out the old maps now and they seem to be okay. So for anyone who wants the new patch changes that come from the new update, dl this torrent."
+,filecheck,2012-07-12T02:02Z,"Is there a way to go back and edit my previous comment post on this??
+   anyway, Perhaps I jumped too soon and this torrent is not infected.. ill see if i get something this next time around.."
+,moeburn1,2012-07-12T21:01Z,"no you can't edit posts, but I suspect that if someone is going to read enough comments to see someone saying its a virus, they're going to keep reading to see the responses to that claim."
+,theurgy,2012-08-04T19:24Z,"Any idea what version this makes the game?
+
+I want to download a trainer so I can cheat but I need to know the exact game version. I can't find it displayed anywhere in the game or in text files."
+,theurgy,2012-08-04T19:31Z,"Nevermind, I found it. v12.07.02.470000045"

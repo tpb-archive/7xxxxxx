@@ -1,0 +1,16 @@
+patchST2 is a free source crack for Sublime Text 2.0 http://www.sublimetext.com/
+   remove the message "This is an unregistered version" when saving documents.
+   IMPORTANT:
+   This patch is virusless, malwareless and other fuckingless programs
+
+USING:
+   to compile this source code, use D compiler from Digital Mars : http://www.digitalmars.com/ (not installtion. portable edition and multi-platforms)
+   After D compiler installation:
+      usage : <install_path>/<OS>/bin(32/64)/dmd -release patchST2.d -ofpatchST2
+      launch (unix)    : ./patchST2   <sublime text2 installation path>
+      launch (windows) : patchST2.exe <sublime text2 installation path>
+
+      EX on linux : ./patchST2 /opt/Sublime Text 2
+
+      NOTE : this source is full compliant D V2.0 (not 1.xx)!
+

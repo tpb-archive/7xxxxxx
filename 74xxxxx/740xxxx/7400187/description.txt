@@ -1,0 +1,15 @@
+Hacked Key Files for Project Zomboid 0.2.0r RC2
+
+
+Zomboid.exe just does everything automatically which is unnessessary (well its good for morons lol) its an auto extract exe made with winrar, run it, hit install, done (win 7 tested only).
+OR
+For smart peepuls just put the 2 files that are in the zomboid directory
+in your user profile directory Zomboid save folder which is USUALLY
+Win7: C:Users(YOURUSERNAMEHERE)Zomboid
+WinXP: C:Documents and Settings(YOURUSERNAMEHERE)Zomboid
+
+Game Issues
+if you have troubleness aka it not running
+#1 install java 7 (http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1637588.html)
+#2 edit the included ProjectZomboidEdit.bat in notepad (right click the bat file hit edit) and change only whats in the first quotes (C:Program FilesJavajre7binjava.exe) to correctly target your java 7 install directories java.exe, save changes and close notepad, then put the ProjectZomboidEdit.bat in your zomboid folder where their shitty ProjectZomboid.bat is and run the edited one.
+#3 if game continues to not work beat head on keyboard and complain on their forums.

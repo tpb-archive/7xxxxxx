@@ -1,0 +1,78 @@
+ABOUT:
+
+Included in this torrent are custom Xpadder and Dolphin configs so that you can use your PS3 controller to play Wii games emulated on the Dolphin Wii Emulator.
+Also I included the necessary MotionJoy and Xpadder applications that you need to get the PS3 controller working with your computer.
+
+You simply need to install the included MotionJoy.exe (choose 32 bit or 64 bit)
+Then after you are set up and your PS3 controller is recognized by MotionJoy, you simply need to run the Xpadder.exe - I have configured it so it automatically loads the custom profile config I made. No installation necessary.
+
+Please read the detailed instructions and follow it step-by-step. It's really quite easy if you just follow the directions. You should be set up in only a few minutes.
+
+===============================
+
+REQUIREMENTS:
+
+* A decent computer able to play Wii games
+* A PS3 Controller (Xbox 360 controller might work but I haven't tried that so I can't confirm.)
+* A Wii file to play in the Dolphin emulator
+* MotionJoy [INCLUDED]
+* XPADDER [INCLUDED]
+* XPADDER Configuration [INCLUDED]
+* Dolphin Emulator
+* Dolphin Emulator Configuration File [INCLUDED]
+* Ability to follow instructions
+* Approximately $0.00
+
+===============================
+
+INFO:
+
+First if you haven't already, download the Dolphin emulator which is the official emulator for playing Wii games.
+Official Website: http://dolphin-emulator.com/download.html
+
+Using this emulator I have been able to play all games at full 1080p resolution on a big screen 32" flat screen TV using an HDMI cable from my laptop. I did so in maximum resolution with no lag or glitches or anything whatsoever, and using maximum anistropic filtering and other graphics settings. To use such high settings you'll need to go into Options > Graphics Settings, and change some settings.
+
+Also of course you need the games. You'll probably need to download the games if you don't already have it.
+p.s. Don't bother to download Super Mario All-Stars. This is because the Super Nintendo version of that is much better, and using Snes9x Emulator with the best graphics settings it looks better than the original.
+
+===============================
+
+RECOMMENDED DOLPHIN VIDEO SETTINGS (If your PC supports it):
+
+Here's the video settings I'm using:
+
+GENERAL TAB:
+* DirectX11
+* 1920x1080
+
+ENHANCEMENTS TAB:
+* 2x Native
+* Antialiasing: 8 Samples (Quality level 32)
+* Anistropic Filtering: 16x
+
+Don't change anything else in the graphics settings.
+
+===============================
+
+SUGGESTED DOLPHIN WII GAMES:
+
+Games you might want for Wii:
+
+* Rayman Origins
+* The Legend of Zelda - Skyward Sword
+* Need for Speed The Run
+* Super Smash Bros Brawl
+* Super Mario Galaxy
+* New Super Mario Bros 2 - The Next Levels
+* Mario Kart Revolution
+* Kirbys Return To Dreamland
+
+===============================
+
+CONTROLLER:
+
+Using a PS3 controller I get the true gaming experience.
+
+However, it took hours to create all the configurations, and lots more time writing up detailed instructions so that it only take you a couple minutes to get up and running with no skill required.
+
+This might also work with an Xbox 360 Controller, but I can't confirm because I have only tested the PS3 controller using my configurations.

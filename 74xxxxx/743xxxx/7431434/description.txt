@@ -1,0 +1,27 @@
+Mac Platform: UB
+Includes: K
+
+OS version: Mac OS X 10.5 or later
+
+Link for more information: 
+Code: 
+http://macserve.org.uk/projects/ivpn/
+Pre-cracked courtesy of TOBW
+
+iVPN is an application that makes use of the standards based PPTP VPN server installed with Mac OS X. This VPN server is usually only available on Mac OS X Server and configured through the Server Admin application. iVPN makes it possible to use the same server utility on the client version of Mac OS X.
+
+All you have to do to set it up is to enter the user name and password that you want your VPN clients to use, the IP address range you want to give to your clients and then click start server. iVPN will handle all the other settings and start the VPN server.
+
+iVPN is the GUI that Apple left out.
+
+WARNING - Do not use iVPN on Mac OS X Server. You will no longer be able to use Server Admin to configure your VPN server.
+
+What's New
+Version 6.2:
+
+* Updated for compatibility with Mountain Lion and Gatekeeper
+* Fixed many, many bugs!
+* PPC systems are supported in a separate release of iVPN. Please make sure you download iVPN legacy if you use PPC
+* Added ability to create static routes to your VPN server
+* Updated internal method to gain admin privileges to make it safer
+* Slight tweaks to the interface 

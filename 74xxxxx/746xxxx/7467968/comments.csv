@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,abulahab,2012-07-24T01:29Z,fraps 3.5.6 released :)
+,abulahab,2012-07-24T01:30Z,"Fraps 3.5.6 is out
+
+CHANGELOG
+Fraps 3.5.6 - 21st July, 2012
+
+- Fixed microphone drifting out of sync in long recordings under Windows 7 & Vista
+- Fixed clipping with audio sources greater than 8 channels
+- Fixed audio from mono USB devices only appearing in left channel
+- Reduced latency of capture from external inputs"

@@ -1,0 +1,39 @@
+
+Bitsum Technologies Process Lasso Pro 5.1.1.2 Final (x86/x64) | 4.5 MB
+
+
+Process Lasso is a unique new technology that will, amongst other things, improve your PC's responsiveness and stability. Windows, by design, allows programs to monopolize your CPU without restraint -- leading to freezes and hangs. Process Lasso's ProBalance (Process Balance) technology intelligently adjusts the priority of running programs so that badly behaved or overly active processes won't interfere with your ability to use the computer!
+ 
+
+Process Lasso also offers an assortment of ways to take full control of how your CPUs are allocated to running programs. You can choose at what priority processes should run, and which CPUs (cores) should be assigned to them. You can also disallow certain programs from running, log all programs run, and so much more (see list below).
+ 
+Once you install Process Lasso, it'll just start working. More advanced users can tweak the configuration, but you needn't touch anything to have it instantly improve your system responsiveness and prevent stalls in high load situations.
+ 
+For network admins, Proces Lasso works wonderfully on Terminal Servers and in multi-user environments. We have many clients that have been using Process Lasso on their Terminal Servers for years.
+ 
+Best of all, Process Lasso is written in native C++, not .NET. This means it consumes very few system resources - considerably less than any similar software.
+ 
+Process Lasso Features
+ Prevent processes from monopolozing the CPU(s)
+ ProBalance dynamic priority optimization
+ CPU throttling (new)
+ Save process priorities for future instances
+ Save process CPU affin
+ 
+Version 5 -- jump to post-release changes
+ 
+* New Process Watchdog feature (restart, terminate, or change affinity if process if exceeds X CPU or VM usage)
+ * Improved integration with Vista and Windows 7 - start elevated (high rights) without any UAC elevation prompts
+ * Better support for multi-user environments
+ * Faster GUI open from system tray
+ * Better GUI support for systems with up to 32 CPUs
+ * Ability to override hard-coded ProBalance exclusions
+ * Even MORE multi-threaded than before
+ * Even more intelligent and efficient core engine
+ * Substantially improved system tray balloon tips with event grouping and more (disabled by default)
+ * New process restraint history (and current status) column in GUI
+ * New inter-process communication framework handles all communication between instance(s) of the core engine and GUI
+ * New, simpler licensing system using activation codes
+ * No more timed nag screen (single screen, click Skip)
+ 
+Home Page - http://bitsum.com/index.php

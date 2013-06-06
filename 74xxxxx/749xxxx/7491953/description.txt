@@ -1,0 +1,31 @@
+Guarding you against costly internet overages.
+Pro version of 3G Watchdog mobile data (4G/3G/Edge/GPRS...) counter / monitoring app, featuring:
+
+    Advanced data usage prediction
+    Billing rules (counts in blocks, ignores uploads, exclude apps, exclude time periods)
+    Usage history with graph & CSV export
+    Usage by application (Android 2.2+, unavailable on Dell Streak)
+    5 widget styles
+    Backup/restore
+    Redesigned UI
+    Account/SIM with auto switch (requires a phone with a SIM)
+     Import settings & data from 3GW free (don't uninstall 3GW free before importing!)
+
+Translated in Chinese (simplified), Danish, Dutch, English, French, German, Greek, Hungarian, Italian, Japanese, Lituanian, Polish, Portuguese (Brazil), Portuguese (Portugal), Russian, Slovak, Spanish, more on the way.
+
+KNOWN PROBLEMS:
+
+    Android Ice Cream Sandwich (4.0.x) is still beta. Please report any problem.
+    Doesn't count properly global usage on Samsung Galaxy Tab 10.1 and 8.9 - this problem affects other data counting applications as well and is caused by a bug on the tablet itself. You may try to check the "Calculate global usage from usage by app" advanced option as a possible workaround (feedback welcome).
+    Doesn't count properly global mobile usage on Samsung Galaxy R / Z (i9103) and possibly Galaxy Y. Problems were also reported with the Captivate Glide. Same workaround as for the Galaxy Tab (see above).
+    Early versions of 3GW Pro reported as not working on ZTE Blade/Orange San Francisco (black screen).
+
+What's in this version : (Updated : )
+
+    Optional quota for roaming usage with notification alert.
+    New SIM migration function (if you replace your SIM card with a new one).
+    Romanian translation (thanks to Azureux, Alin ┼óo┼úea-Radu and Milly62).
+    Device support: HTC Vivid (ICS), Raider (ICS); Samsung Ace M, Conquer, Galaxy Next Turbo, Galaxy S Skyrocket, Galaxy S3, Transform Ultra; Alcatel One Touch 890.
+    Bug fixes
+
+Required Android O/S : 1.6+

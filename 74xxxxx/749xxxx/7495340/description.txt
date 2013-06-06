@@ -1,0 +1,12 @@
+Warning: This crack only applies to version 1.0.1207.2601
+
+I was too lazy to make a patcher, so just replace this Xsplit.Core.exe with the one in the instllation folder.
+
+Instructions:
+
+1. Install v1.0.1207.2601 of Xsplit (if it is not already installed)
+2. Copy Xsplit.Core.exe to the installation directory. Overwrite the original.
+
+Enjoy.
+
+Note: If you're worried that I injected some sort of malicious code into this exe, you can compare the bytes with the original. They are exactly the same. I only changed the value of 1 byte from 6 to 23. It was as simple as that. xD

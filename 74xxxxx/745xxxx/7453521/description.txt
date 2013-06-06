@@ -1,0 +1,31 @@
+Description
+
+Alfred is a keyboard-driven productivity application for Mac OS X, helping you launch apps and search your local computer as well as the web with great speed.
+
+FEATURES:
+* Application launcher: Launch any application with a quick shortcut. Alfred will learn which apps you use often and prioritise them when you search
+* Search your Mac: Quickly find and open files, bookmarks, contacts, music and more. You will never again have to wonder just where you saved that important document.
+* Search the web: Search or launch your favourite websites: Maps, Amazon, eBay, Wikipedia and many more.
+* Calculate and Spell: Just start typing to do a quick calculation or look up spellings, definitions or synonyms and antonyms.
+* System Commands: Control your Mac with speed and efficiency. Empty trash, start the Screen Saver, restart, shut down, eject a drive and more.
+* Custom Searches: Create your own web searches for frequently used websites and wikis.
+
+Ward off RSI - skip using the mouse with this fast and beautiful app.
+
+Requirements: Mac OS X 10.6 or later
+
+
+
+
+Bug Fixes
+
+Fix spelling / grammar mistakes in iTunes, Email and Calculator prefs
+Prevent an odd situation in Global Hotkeys prefs outline view right menu
+When using a Global Hotkey for web searches, correctly escape newlines
+Change 'The Netherlands' to 'Netherlands' in Alfred's location prefs
+Prevent stack log error when double clicking empty space in Custom Searches table
+Fix potential nil string in Clipboard Merging from halting Clipboard History
+Hidden option around memory leak in OS X 10.7.4 (if people ask for this)
+More reliable key tap rejection to prevent false action / quick view activation
+Better invalidation of window shadow on size change
+More defensive code against large query strings and invalid metadata

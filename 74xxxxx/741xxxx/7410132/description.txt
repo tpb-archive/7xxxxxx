@@ -1,0 +1,25 @@
+Fixes for Version 1.0.0.40
+
+Source Engine Changes
+
+Fixed a problem that allowed spoofed IP addresses to make connections to the game server
+
+Fixes for Version 1.0.0.39
+
+Source Engine Changes
+
+    Added ConVars sv_rcon_maxpacketsize and sv_rcon_maxpacketbans to allow server admins to control the maximum RCON packet size and whether or not users get banned for exceeding that limit. The defaults reflect the existing behavior.
+    Fixed not being able to import custom spray images on Macs
+    Fixed Macs cancelling http map downloads that take longer than 30 seconds 
+
+Fixes for Version 1.0.0.38
+
+Source Engine Changes
+
+    Added ConVars sv_rcon_maxpacketsize and sv_rcon_maxpacketbans to allow server admins to control the maximum RCON packet size and whether or not users get banned for exceeding that limit. The defaults reflect the existing behavior.
+    Fixed not being able to import custom spray images on Macs
+    Fixed Macs cancelling http map downloads that take longer than 30 seconds
+
+Fixes for Version 1.0.0.37
+
+Updated with shared engine changes.

@@ -1,0 +1,25 @@
+File Synchronization is a utility that has the ability to synchronize multiple pairs of folders or files. It has been designed to be easy to use and quick to do the job.
+
+It was based originally on the File Synchronization tool provided by Apple with the old Mac OS, but has a few improvements and features to help get the job done quickly and efficiently.
+
+File Synchronization synchronizes multiple pairs of folders or files. It has been designed to be easy to use: choose 2 folders to synchronize then click the Synchronize button and you're done! However, there are multiple options when your needs get a little more complicated. The interface is easy to use and the application is quick to do any synchronization that you might need.
+
+
+What's New
+Version 1.6.3:
+
+Added "Show Growl Notifications" checkbox to Interface preferences. By default, it is off so no notifications will appear unless you explicitly turn it on, even if you have Growl installed
+Replaced the dialog sheet that was causing the application's icon to jump in the dock if the synchronization was performed while the application was in the background. Now, the view showing the progress is always visible, even when the app is in the background and doesn't cause any icon jumping
+Fixed a problem where the application would not find the proper destination to sync with some volumes. The application would report that all the files in one of the folder were missing but would fail to copy them because it was trying to copy them to a non-existing destination
+Switched to more modern functions to copy items, insuring greater reliability and better error reporting
+Enhanced the filtering so that filters based on name will filter out any folder that satisfies the filter, reducing the time for the analysis for modified items
+Fixed a problem where the log would not be created if the application would crash before the end of the synchronization. Now, the log is created and the sync operations are written immediately to it. In the event that the application crashes, the log will still contain valuable information
+Fixed a problem with the Chinese localization where the application would crash as soon as a synchronization was performed
+Removed the "Log extra debugging info" from the Log preferences. Now, all the logs contain all the information needed to troubleshoot a problem
+Corrected a few incorrect URLs
+Added the ability to change the deletion of an orphaned file in the preview window so that it will be copied instead of being deleted.
+Added a "Report a Bug" that links to our new website to report problems. Please, use it if you think you discovered a bug
+Added a "Show Frequently Asked Questions" menu item to the Help menu
+
+Requirements
+PPC / Intel, Mac OS X 10.5 or later 

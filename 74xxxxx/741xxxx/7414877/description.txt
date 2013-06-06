@@ -1,0 +1,7 @@
+Whats new in Adobe Premiere Pro CS6 6.0.1:
+ Features added or changed in this update:
+ * Improved performance using OpenCL, especially when used on Mac OSX v10.7.4 or later.
+ * Added encoding presets with additional bit-rate settings for XDCAM HD.
+ * Added Automatic Peak File Generation preference in the Audio category for turning off automatic peak file generation for imported audio. By default, this preference is enabled and matches the behavior of Premiere Pro CS6 (6.0.0).
+ * When this preference is disabled, importing audio or opening projects will not cause peak files to be generated. If peak files were already generated, then waveforms will be visible. Files imported before the preference was disabled will continue to generate peak files.
+ * Enabled “smart rendering” and added Enable Smart Rendering Codec setting to the Video tab of the MXF OP1a exporters for XDCAM HD and XDCAM EX to enable or disable smart rendering for these formats. This option defaults to the off/disabled state. Weâ™ll have more information about this feature in a post on this blog within a day.

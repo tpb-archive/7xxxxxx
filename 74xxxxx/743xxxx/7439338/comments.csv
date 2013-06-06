@@ -1,0 +1,59 @@
+﻿User Type,Username,Date,Text
+,Au7punker,2012-07-21T04:46Z,"Hey, Gladiator2 is without any of the software instruments. At least as far as Logic Pro is concerned. "
+,Au7punker,2012-07-21T04:55Z,"I apologize, the software instruments appear to be there, but I cannot locate the ""gladiator2.t2k"" file which is required for the plugin to work. "
+,xside75,2012-07-22T08:10Z,"Protection Notes by  TEAM AiR
+It's not everyday AiR feels the need to comment on a release but we believe some issues about Markus Feil
+need to  be addressed  for both legitimate users and the warez community. In our opinion Markus Feil's plugins are  
+
+the equivilent to MALWARE, it is with disgust we find the  elaborate (and futile!) measures he has taken  within 
+
+his code.  When a developer  starts dropping files  and creating empty BOGUS  registry keys,  writing to  a users 
+
+host file etc.  then they  have crossed  a line  of ethics that is inexcusable. One  could  argue  that  warez  
+
+users  get  what they deserve, however... warez uses ALWAYS choose to  take a risk  when  they use  warez.  The  
+
+legitimate user however gets exactly the SAME codebase and IF  things go wrong they are subjected to the same 
+
+MALWARE  crap undeservedly. Furthermore, our  release is  BETTER than  what legit users are  getting because  we 
+
+have  disposed of  the MALWARE traps and HAVE  ENABLED TWO EXTRA NEW HIDDEN expansions that  legit users DON'T have 
+
+and probably DON'T know about. NOTE  TO Markus:  you are  tool, ppl  may debate  our ethics but WE DON'T infect and 
+
+manipulate filesystems or  registries, you're no better than a virus developer in our opinion.
+Stick to what you know cause your protection  schemes are no match for us  Some warez users like to  
+
+go legit, it's hard to  see them  going legit with your plugins when  the experience you give them results in piss 
+
+poor MALWARE techniques. FUCK YOU! Here are some of the techniques Markus infects your machine with:
+- Registry scanning - Filesystem scanning  - Creating bogus registry keys - File dropping - Multiple 
+
+system32driversetchost file updates - Deletion of files - Phone home notification - ExitWindowsEx calls (causes 
+
+machine to shutdown) - DLL unpacked checks # Registry scanning... Markus has coded his plugins to look for other  
+
+Tone2 and reFX registry entries, if blacklisted serials are found then his MALWARE is invoked. These include
+Firebird, FilterBank, Warmverb, Gladiator, Vanguard # Filesystem scanning... Markus  has  coded  his  plugins  to  
+
+look  for other products keyfiles, if blacklisted keyfiles are  found then his MALWARE is invoked. This includes  
+
+FireBird,FilterBank, Warmverb, Gladiator. Markus creates keys in HKEY_CURRENT_USER at least two NEW keys with no 
+
+data (not disclosing to protect privacy). if you  have been subjected to  the MALWARE traps check your registry, 
+
+the keys will be obvious as the names are crap, make no sense and they have no data under them. # File dropping...  
+
+-  Markus creates(VST plugin folder):twdef.sys, wvdriver.sys, r2._9X1.r, gldriver.sys, gsndrun.sys
++ about 4 other random file names (not disclosing to protect privacy) If your going to look  for these files make 
+
+sure  you have  turned  off  'Hide  protected  operating system files' in explorer. Typically they are dropped in 
+
+the same location as the Gladiator2 dll. # Update of hosts file...  Markus updates  the users  host file  with a  
+
+massive list of warez, torrent and other site urls # Deletion of files... Markus  deletes  any  blacklisted  
+
+keyfiles  from the 贸users machine."
+,xside75,2012-07-22T10:53Z,"Gladiator to uninstall from the system and delete all traces as well.
+Run any Registry cleaner / repair (eg: RegDoctor v2.31)
+Restart machine and the problems disappear. There is no better idea, sorry!"

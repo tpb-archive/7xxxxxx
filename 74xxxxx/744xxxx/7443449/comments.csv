@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,bruss.aka.durka9,2012-07-15T00:49Z,Warning! Game very unstable and have more bugs.
+,NeoYurri,2012-07-16T03:54Z,"Does that mean that it is unusable?
+Due to the bugs and all?"
+,ijam_j,2012-07-17T02:07Z,"thank you very very much. the best garrys mod release ever!. the stability issue is not of this release. the original game IS unstable(beta 13). 
+
+by the way, where exactly do you put the addons folder?"
+,bruss.aka.durka9,2012-07-17T12:35Z,"to ijam_j
+In game dir create ""SteamApps"" dir and copy all *.gcf."
+,ijam_j,2012-07-21T08:43Z,"pardon my prev comment. i thought this is beta 13. its not. probably stable 12. 
+
+anyway, copied gcf files to manually created SteamApps folder inside install directory and addons worked fine. unfortunately, i cant play garry mod today. i dont install steam on this pc. i get ""steam dll isnt worthy of our trust"" message. what to do?
+
+thanks."
+,bruss.aka.durka9,2012-07-21T11:58Z,"to ijam_j
+I will produce new build. Wait."
+,zardaxian,2012-08-13T17:50Z,"i know hot to fix the ""steam dll isnt worthy of our trust""! at least for the moment,its a temp fix that requiers you to change some stuff everytime you load a new game! 
+This is what you do :
+-start the game,get the error.
+-go to install dir look for a steam_appid.txt
+-open the file with notepad
+-change the last number to 4001 or 4000
+-save and launch the game
+-next time you get the error change the number again and so on 
+-works for me,thank me and thank uploader for an amazing job!"
+,zardaxian,2012-08-13T17:52Z,"i know hot to fix the ""steam dll isnt worthy of our trust""! at least for the moment,its a temp fix that requiers you to change some stuff everytime you load a new game! 
+This is what you do :
+-start the game,get the error. -go to install dir look for a steam_appid.txt -open the file with notepad -change the last number to 4001 or 4000 -save and launch the game -next time you get the error change the number again and so on  -works for me,thank me and thank uploader for an amazing job!"

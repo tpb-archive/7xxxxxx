@@ -1,0 +1,42 @@
+OS X 10.8 Mountain Lion bootable USB for Intel PCs
+
+Image size: 5.020.384.768 bytes (need at least an 8 GB pen drive)
+
+MD5 (OS X 10.8 Install USB.raw) = 4251f2d2866417add966ffcec848cc4f
+
+Contents:
+
+OS X Mountain Lion GM Seed (Build 12A269)
+
+MD5 (InstallESD.dmg) = 8b4869920cd740414fe6b7e3f0b1be3e
+
+Modified files:
+System/Installation/Packages/OSInstall.mpkg
+System/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall
+
+Added files:
+System/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext
+boot (Chameleon v2.1svn r2003)
+Extra/Preboot.dmg
+
+Preboot.dmg contents:
+Extensions.mkext
+org.chameleon.Boot.plist
+
+Extensions.mkext contents:
+AHCIPortInjector.kext
+AppleACPIPS2Nub.kext
+FakeSMC.kext
+IOAHCIBlockStorageInjector.kext
+NullCPUPowerManagement.kext
+PXHCD.kext
+VoodooPS2Controller.kext
+VoodooPS2Keyboard.kext
+VoodooPS2Mouse.kext
+VoodooPS2Trackpad.kext
+
+
+Use "SUSE Studio Image Writer" to write bootable USB from Windows.
+
+
+More info: http://olarila.com/forum/viewtopic.php?f=27&t=1627

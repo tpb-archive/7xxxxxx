@@ -1,0 +1,50 @@
+/* ############################################ */
+/* Author:        Paradise aka Mr. Glasspoole   */
+/* Company Name:  Skulltronics                  */
+/* Author Link:   skulltronics.de (not on yet)  */
+/* Last Modified: $Date:2012-07-12              */
+/* ############################################ */
+
+Skulltronics Codec Test Compilation (CTC)
+==================================================
+
+This is my Codec Test Compilation. It consists of
+videos I collected over the time. If all the videos
+are playing and Windows shows a thumbnail in the
+explorer for every video then your codecs and
+settings are working.
+
+I think there is every container format with all
+the codecs and audio codec combinations I can think
+of.
+
+If you wonder about some videos. They are there
+because the where videos where i maybe had no
+sound, thumbnail or other problems.
+Well some are there because I like them.
+2 Girls 1 Sub is definitely one of them :-)
+
+Naming convention:
+
+The files are sorted by codec until the files with
+the prefix x, y and z. The prefixes are there to
+combine different types of videos.
+
+xSubCha: Different kinds of videos with subchapters.
+
+yMTS: The official Matroska Test Suite. This files
+      have errors but should play without crashing
+      and to the end. There is a description for
+      every video in the Matroska Test Suite.txt
+
+z1-z14: This videos are the real deal. They are
+        almost sorted by how much they push your
+        hardware.
+        z8 and z13 are the real CPU killer.
+
+
+Release Notes
+====================================
+v1.1 - 2012-07-12
+- Initial Release
+- file size 13.2 GB [you can download single files]

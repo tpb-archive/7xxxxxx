@@ -1,0 +1,25 @@
+SuperDuper is an advanced, yet easy to use disk copying program. It can, of course, make a straight copy, or "clone" -- useful when you want to move all your data from one machine to another, or do a simple backup. In moments, you can completely duplicate your boot drive to another drive, partition, or image file.
+
+Clones for safety. To ensure you can safely roll back a system after the unexpected occurs. With a few clicks, you can easily "checkpoint" your system, preserving your computer's critical applications and files while you run on a working, bootable copy. If anything goes wrong, just reboot to the original. When you do, your current Documents, Music, Pictures -- even iSync data -- are available! You can get back to work immediately.
+
+Clones for industry! SuperDuper has enough features to satisfy the advanced user, too. Its simple-but-powerful Copy Script feature allows complete control of exactly what files get copied, ignored, even aliased ("soft linked" for the Unix inclined) from one drive to another.
+
+What's New
+Version 2.7:
+
+ΓÇó Mountain Lion compatibility
+ΓÇó Gatekeeper support - signed application
+ΓÇó Copy speed improvements
+ΓÇó Mid-file-copy status updates to improve user-level feedback
+ΓÇó "Vanishing files" no longer trigger directory error detection
+ΓÇó Both App Store and non-App Store versions of Growl are supported (tested up to v1.4); Notification Center supported through Growl
+ΓÇó Local snapshots (.MobileBackups) no longer copied to backup (they are in an un-copyable state too often)
+ΓÇó Send to Shirt Pocket email address improvements
+ΓÇó New applications introduced in Mountain Lion are copied when using the Sandbox - shared users and applications copy script
+ΓÇó Yet even better handling of 'dead' and 'bad' mount points on startup
+ΓÇó Better handling of 'dead' and 'bad' mount points on startup
+ΓÇó Improvements made when copying highly active files
+
+
+Requirements
+PPC / Intel, Mac OS X 10.4 or later 

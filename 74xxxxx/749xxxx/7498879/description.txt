@@ -1,0 +1,53 @@
+The Slaughter Rule (2002) DVDRIP_XviD_eng + Serbian subtitle + DVD Cover_Custom
+
+      Format : AVI
+      Format/Info : Audio Video Interleave
+      File size : 702 MiB
+      Duration : 1h 56mn
+      Overall bit rate mode : Variable
+      Overall bit rate : 842 Kbps
+      Writing application : Nandub v1.0rc2
+      Writing library : Nandub build 1853/release
+   Video #0
+      ID : 0
+      Format : MPEG-4 Visual
+      Format settings, BVOP : No
+      Format settings, QPel : No
+      Format settings, GMC : No warppoints
+      Format settings, Matrix : Default (MPEG)
+      Codec ID : XVID
+      Codec ID/Hint : XviD
+      Duration : 1h 56mn
+      Bit rate : 685 Kbps
+      Width : 560 pixels
+      Height : 240 pixels
+      Display aspect ratio : 2.35:1
+      Frame rate : 23.976 fps
+      Color space : YUV
+      Chroma subsampling : 4:2:0
+      Bit depth : 8 bits
+      Scan type : Progressive
+      Compression mode : Lossy
+      Bits/(Pixel*Frame) : 0.213
+      Stream size : 571 MiB (81%)
+   Audio #1
+      ID : 1
+      Format : MPEG Audio
+      Format version : Version 1
+      Format profile : Layer 3
+      Mode : Joint stereo
+      Mode extension : MS Stereo
+      Codec ID : 55
+      Codec ID/Hint : MP3
+      Duration : 1h 56mn
+      Bit rate mode : Variable
+      Bit rate : 144 Kbps
+      Channel(s) : 2 channels
+      Sampling rate : 48.0 KHz
+      Compression mode : Lossy
+      Stream size : 120 MiB (17%)
+      Alignment : Aligned on interleaves
+      Interleave, duration : 24 ms (0.58 video frame)
+      Interleave, preload duration : 122 ms
+      Writing library : LAME3.92 
+      Encoding settings : -m j -V 1 -q 2 -lowpass 19.5 --vbr-new

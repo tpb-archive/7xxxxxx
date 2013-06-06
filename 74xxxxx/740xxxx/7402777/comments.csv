@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,testacct99999999999999999,2012-07-01T15:33Z,"Comment formatting testing
+
+This is a test to see upload formatting options. Testing in HTML and BBcode.
+
+test link
+[url=""http://test.com""]test link[/url]
+[url=http://test.com]test link[/url]
+[url]test link[/url]
+
+
+
+
+one
+two
+three
+
+
+
+one
+two
+three
+
+
+
+
+bold
+italics
+underline
+
+[hr]
+
+[ul]
+[li]one[/li]
+[li]two[/li]
+[li]three[/li]
+[/ul]
+
+[ol]
+[li]one[/li]
+[li]two[/li]
+[li]three[/li]
+[/ol]
+
+[img]http://topotopologia.galeon.com/imagenes/wifi.png[/img]
+
+[b]bold[/b]
+[i]italics[/i]
+[u]underline[/u]"
+,testacct99999999999999999,2012-07-01T15:34Z,"ok, so nothing works then."
+[S],velvet.,2012-07-01T17:07Z,"The description field on the torrent posting pages is for plain text only.
+No formatting codes are processed, so if you insert any such codes you will just make a visible mess.
+URLs work best if you place them in the beginning of a separate line.
+Then they'll turn blue and become clickable links.
+
+The same applies to posting comments."

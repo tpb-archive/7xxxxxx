@@ -1,0 +1,78 @@
+SnowOSXUniFlash v1.2 (10.6.7) 
+Retail Snow Leopard 10.6.3 + Update 10.6.7 + Safari 5.04 + iTunes 10.2.1
+ + Apple Remote Desktop 3.4 
++ Java Update 4 + Airport 5.5.2! 
+- Installator - Leopard 10.5.8;
+- Flash bootloader - AsereBLN RC;
+- Kernels - the original one plus two 
+supplementary Voodoo 9.8s: 
+Qoopz (boot key: voodoo) is supported by Core i7 
+and AnV (boot key: voodooanv).
+Customize:
+1. New ones:
+- Update №1
+- Update №2
+- Fix for AMD
+- Fix for PC №1
+- Fix for PC №2
+- Fix for Notebook
+- My Applications 
+2. Bootloader:
+- AsereBLN RC4 v1.1.9
+3. Extensions:
+- NullCPUPM - disabler for IntelCPUPowerManagement
+- FakeSMC
+- EvOreboot - Restart and Shutdown fix
+- Legacy AHCI - 32/64-bit Legacy kext for Intel AHCI (SATA)
+- Legacy ATA - 32/64-bit Legacy kext for Intel ATA (IDE)
+- Legacy JMicron ATA - 32/64-bit Legacy kext for JMicron ATA (IDE)
+- IOATA Kernel Panic fix - 32/64-bit IOATAFamily.kext from Slice
+- PS/2 - kext for PS/2
+- PlatformUUID - Error 35 fix
+- ATools - folder with utlites, tools etc.
+
+Restore image to Flash Disk:
+Windows 
+(No Virtual Machine!!!):
+For restore image to Flash Disk use included "USB Image Tool" (usbit.zip)! And use it 
+ONLY in "Device Mode"!!!
+Macintosh:
+step 1:  Insert USB Memory Stick (Flash Disk) min 8 Gb! 
+step 2:  In Disk Utility switch off all volumes from your Flash Disk, but do not unmount 
+Flash Disk itself! See mount point of your Flash Disk (for example: disk2 or disk4)
+step 3:  Tell Terminal.app, and code:
+sudo dd if=/PathToImage/SnowOSXUniFlash1.2.img of=/dev/diskN bs=512k
+In this:
+"PathToImage" - full path to the image file 
+(for example: /Users/dan1234/Desktop/SnowOSXUniFlash1.0.img)!
+"diskN" - mount point of your Flash Disk (see in Disk Utility)!
+step 4:  Wait some time, process can take a while! After dd has finished work - verify 
+that the Flash Disk name is SnowOSXUniFlash (Must be only this name!!!)!
+Enjoy.
+Recommendation.
+1. After install system and it's first start, please repair system disk permissions with 
+/Applications/ATools/Kext Utility.app or Disk Utility.app.
+2. Then   rebuild   system   library   cache   with  /Applications/ATools/OSX86Tools.app 
+(Update Prebinding command) or code in Terminal.app:
+            sudo update_dyld_shared_cache
+Bonus!
+You make repair (install, reinstall) bootloader AsereBLN RC4 or Chameleon RC4! 
+Boot from SnowOSXUniFlas, tell terminal and code:
+For AsereBLN RC4:
+cd /
+sh MakeBoot DiskName
+or
+For Chameleon RC4 (r684):
+cd /
+sh MakeBoot DiskName cham
+In this DiskName ΓÇö name of your disk with damaged bootloader.
+Under your working OS X (No boot from SnowOSXUniFlash, but insert it) code:
+cd /Volumes/SnowOSXUniFlash
+sh MakeBoot DiskName
+For replace bootloader on your system disk code: 
+cd /Volumes/SnowOSXUniFlash
+sh MakeBoot /
+
+Compiled by dan1234
+
+Enjoy!

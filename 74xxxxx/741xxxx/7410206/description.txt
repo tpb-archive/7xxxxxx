@@ -1,0 +1,12 @@
+Here's a collection of all the songs from the Touhou Project series games 06 to 12.8 (in OGG format) and many of the songs from games 01 through 05 (in MIDI format).  Most of the OGG files are encoded with chained bitstreams, and play at ~192 kpbs with 44100 Hz sample rate.  Because many music players don't support chained bitstream OGG files (even though it is explicitly stated in the format specification), I suggest you use VLC Media Player to play them if your music player can't into chained bitstreams.  In case you didn't know, creating chained bitstream OGG files allow music that has repetitive parts (like video game music) to compress really well.
+
+I used a program called Music Room Interface to extract the audio files from TH06 - TH12.8.  I've decided to include that program in this torrent in case you'd like to manually extract any of the music from the Touhou games yourself (note that you'll have to have the actual games for Music Room Interface to extract anything from them).  Doing this will allow you to choose the bit rate you want (I used 192 kbps.  If you want better quality just set this value higher, but it WILL create very large file sizes) and whether you want to create chained bitstream OGGs, etc.  You can also choose to save the extracted files in MP3 format or lossless FLAC instead.  If you are afraid to run an EXE file you download on the internet though, simply don't run it, OK?  Jotti's Malware Scan gave 19/19 clean for this program just so you know.
+
+Because Music Room Interface only extracts audio from the Touhou Project games made for Windows, the soundtracks for TH01 - TH05 (which were made for the old PC98 computer) were a lot harder to find.  Because of this, not all of the music from these older games are included.  I did put in as many as I could find though.
+
+If I'm right all of these soundtracks (or at least the vast majority) were written by a single person, ZUN, the amazing alcoholic who single-handedly created all the Touhou games (although I think he had help on one or two of them).  Most of the music files have ZUN's description of each song in both English and Japanese in the metadata (these comments are really interesting to read sometimes).
+
+--------------------------------
+
+Summary:
+This is a collection of the music from the Touhou Project series of video games with high quality and very good file size.  I put this here because I couldn't find any other good torrents with just the music from the Touhou games.

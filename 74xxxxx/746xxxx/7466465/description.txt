@@ -1,0 +1,25 @@
+Instructions for installing StockBox Photo Enterprise 5.10
+----------------------------------------------------------
+
+1 - If using PHP 5.2, upload files to your server/host from the ver_PHP5.2 folder in BINARY mode
+OR
+    If using PHP 5.3, upload files to your server/host from the ver_PHP5.3 folder in BINARY mode
+
+After files have been uploaded (remember, in BINARY MODE),
+
+2 - Open Readme folder and open 'Stockbox Photo - Installation Guide.pdf'
+Follow instructions.
+
+3 - When asked for the license key, run the keygen application from the keygen folder.
+Continue to follow insructions.
+
+4 - Login to the Admin Control Panel, i.e. www.yourdomain.com/sbp_install_folder/admin.php
+If successful, delete setup.php, SetupHostTest.php and database.inc.php from your install folder.
+
+5 - For further help and configuration instructions, please review the files within the Readme folder.
+
+Enjoy!
+Brought to you by AT-FATE!
+
+PLEASE SEED LIKE CRAZY!!!
+

@@ -1,0 +1,76 @@
+BSG Season 1
+
+15 Episodes.
+
+
+
+Général 
+
+Format : Matroska 
+Version du format : Version 2 
+Application utilisée : mkvmerge v5.2.0 ('I can't explain') built on Dec 18 2011 18:12:03 
+Bibliothèque utilisée : libebml v1.2.3 + libmatroska v1.3.0 
+
+Vidéo 
+
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Profil du format : High@L4.0 
+Paramètres du format, CABAC : Oui 
+Paramètres du format, RefFrames : 3 images 
+Identifiant du codec : V_MPEG4/ISO/AVC 
+Débit : 5 045 Kbps 
+Largeur : 1 920 pixels 
+Hauteur : 1 080 pixels 
+Format à l'écran : 16/9 
+Images par seconde : 23,976 Im/s 
+Espace de couleurs : YUV 
+Sous-échantillonnage de la chrominance : 4:2:0 
+Profondeur des couleurs : 8 bits 
+Type d'image : Progressif 
+Bits/(Pixel*Image) : 0.101
+Bibliothèque utilisée : x264 core 114 r1924 08d04a4 
+Paramètres d'encodage : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=24.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=10000 / vbv_bufsize=10000 / crf_max=0.0 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00 
+Default : Oui 
+Forced : Non 
+
+Audio 
+
+ID : 2 
+Format : AC-3 
+Extension du mode : CM (complete main) 
+Identifiant du codec : A_AC3 
+Durée : 1h 34mn 
+Type de débit : Constant 
+Débit : 640 Kbps 
+Canaux : 6 canaux 
+Position des cannaux : Front: L C R, Side: L R, LFE 
+Echantillonnage : 48,0 KHz 
+Profondeur des couleurs : 16 bits 
+Mode de compression : Avec perte 
+Langue : Anglais 
+Default : Oui 
+Forced : Non 
+
+Texte #1 
+
+ID : 3 
+Format : PGS 
+Type de muxing : zlib 
+Langue : Anglais 
+Default : Oui 
+Forced : Non 
+
+Texte #2 
+
+ID : 4 
+Format : PGS 
+Identifiant du codec : S_HDMV/PGS 
+Langue : Français 
+Default : Non 
+Forced : Non 
+
+
+
+So say we all !

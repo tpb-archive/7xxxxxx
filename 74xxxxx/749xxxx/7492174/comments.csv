@@ -1,0 +1,342 @@
+﻿User Type,Username,Date,Text
+,elbeeen,2012-08-01T22:57Z,how do I crack?
+,elbeeen,2012-08-01T23:03Z,Seeding at 400k up.  Does anyone know how to make this work?  Instructions? Crack?
+,med2003,2012-08-02T08:56Z,I try to upload the crack
+,elbeeen,2012-08-04T02:10Z,"I hate to seem impatient but I really need this.  Do you mind uploading the crack? or at least pointing me towards how to get a crack that works?
+Thanks.  "
+,med2003,2012-08-04T06:54Z,"I'm uploading the crack, give me your mail, I'l send it to you"
+,elbeeen,2012-08-04T07:07Z,"thanks.  its 
+hypsilophodontgmailcom
+
+Will continue to seed."
+,elbeeen,2012-08-04T07:08Z,hypsilophodont |at| gmail |dot| com
+,tomassta,2012-08-06T16:54Z,"thx for the upload. Not installed yet, still downloading.
+
+med2003, can you send me the crack please
+
+atssamot@gmail.com
+
+"
+,blacksnow2003,2012-08-06T22:58Z,Please send crack:  mojtorrent2003@hotmail.com
+,dukdui,2012-08-07T10:55Z,crack plz thank you
+,med2003,2012-08-07T14:23Z,4sh_rar_IwbaKXPa_ArcGIS101
+,med2003,2012-08-07T14:26Z, 4sh = 4shared & replace _ by slash
+,med2003,2012-08-07T14:28Z,4shared@com
+,med2003,2012-08-07T14:29Z,"
+Installation Steps
+1.	Uninstall previous versions of ArcGIS, erase any traces too (use CCleaner to clean registry, delete ESRI/ArcGIS folders in Program Files, Appdata, ProgramData, etc)
+2.	Install ArcGIS 10.1 without License Manager
+3.	Install Pre-Release License Manager
+4.	Use Keygen to create license file, set version to 10.1
+5.	Replace text in ...ArcGISLicense10.1binservice.txt with generated text
+6.	Adjust host and port values as needed in text (change port if running other FlexLM managers!)
+7.	Run LSAdmin, reread license file if needed
+8.	Run ArcGIS Administrator, check ArcInfo Concurrent License"
+,tomassta,2012-08-07T17:44Z,"Hi med2003. 
+
+I've tried your crack and I have questions:
+
+Step 4 (Keygen):
+-Is the ""HostID"" supposed to be the computer-Name (or the physical Address) ?
+-Do we have to leave the ""Licenses"" value to 2048 (or change it ?) ?
+-Which ""Feature"" value do we have to select? (ARC/INFO or ArcInfo ?)
+-Concerning the ""Version"", there's no 10.1 option in the combobox, do we have to enter ""10.1"" manually?
+
+Step6: Where do we have to adjust the ""Host"" ?
+
+Step7: When I start the license service using ArcGis License Server Administrator (LSAdmin) to re-read the license, it doesn't work (Lisence Statut: NOT RUNNING)...
+
+Thanks a lot for your work, hope the crak works !"
+,brisk00,2012-08-08T01:02Z,crack plz.  brisk00@aol.com
+,med2003,2012-08-08T09:01Z,"4 - don't write anything in HostID, the crack 'l wite , localhost or this_host.... the service.txt must begin with : START_LICENSE
+SERVER this_host ANY 27000
+VENDOR ARCGIS
+4a- ArcInfo 
+4b- type/change 10.1 manually
+6-nothing to do..BUT..If you are running other software that uses FlexLM, set the port to something other than 27000 in the text file, eg. 27027.
+7- this is the big problem ! I resolved it, In deed, you must uninstall licence manager, reinstall it and DO NOT CLOSE IT, leave the window opened and the licence running, do not touch it , run the crack (while the llicence manager is opened and showing the licence working), apply the crack and make all changes while it is RUNNING..."
+,brisk00,2012-08-08T13:53Z,Can't get it to work either. Says flexnet licensing error. Host name and license path not set.
+,med2003,2012-08-08T16:51Z,"Don't touch flexnet !!!!
+ uninstall licence manager
+reinstall it
+when the window licence is opened, let it as it's
+don't close it
+run the crack and change manually from 10.0 to 10.1
+copy the service txt
+Run LSAdmin, reread license file if needed
+Run ArcGIS Administrator, check ArcInfo Concurrent License"
+,tomassta,2012-08-08T21:05Z,"Hi med2003, 
+
+I've uninstalled License manager and re-installed it. 
+
+At the end of the install, the ""ArcGis License Server Administrator - 10.1"" window opened. 
+
+The ""license Server Status"" at the bottom of the window was ""NOT RUNNING"". 
+
+I left this window opened and replaced my ""Service.txt"" file in the bin folder (using the crack set as you mentionned in your previous post). 
+
+Then I ran the ""LSAdmin.exe"" and clicked on the ""Start"" button (the ""Re-resad"" button was greyed). 
+
+The ""License server status"" didn't change (still ""NOT RUNNING"".
+
+Then I ran the ""ArcGis Administrator"" and checked the ""Advanced (ArcInfo) Concurent Use""  box"".  I changed the License Manager to ""localhost""
+
+Still not working. 
+
+Don't know what's wrong.... frustrating !
+
+Thx"
+,med2003,2012-08-08T23:47Z,"I think, if you perform a clean uninstall of licence manager  and reinstall it, you shouldn't have the problem
+
+At the end of the install, the ""ArcGis License Server Administrator - 10.1"" window qhould be opened and the ""license Server Status"" at the bottom of the window should be ""RUNNING"".
+
+if it's not running, it means there's a problem !!!
+don't clik on read/rerad... have you install the licence manager on another pc ? and see if it's running ?"
+,Viciousstunts,2012-08-11T04:34Z,hey for the crack to work do i have to use this torrent download? or can i just download the arc files from the site? thank you.
+,abnan,2012-08-11T12:04Z,"hi..friends
+
+can any1 send me arcgis server 10.1 torrent link with crack...
+
+abnan0001@gmail.com"
+,med2003,2012-08-11T12:10Z,"to download ArcGIS 10.1 use this torrent.
+to download crack use this link :
+  4shared|dot|com/rar/IwbaKXPa/ArcGIS101"
+,abnan,2012-08-11T16:31Z,"med...there is no crack in iso of arcgis 10.1..
+
+hw to crack"
+,abnan,2012-08-11T16:43Z,"hey med....
+
+the version of keygen is upto 10.0 only
+
+wil it work with 10.1"
+,Viciousstunts,2012-08-12T02:09Z,"I keep getting an access denyed when trying to replace text with crack any advice? sorry for bugging you,,, and thank you!"
+,Viciousstunts,2012-08-12T07:37Z,hey i just found a complete crack and instructions on this program i dont mean to disrespect on your up med but on u tube search for arcgis crack and it should be the first video on there from shaikah noor-e-alam very easy and helpfull and thank you for your help med...
+,med2003,2012-08-12T08:39Z,"In the crack that I have upload (4shared|dot|com/rar/IwbaKXPa/ArcGIS101)  the keygen is upto 10.0 only, but, we have to adjust it manually to 10.1
+there's no file to repleace.
+It's very easy !!!
+I am uploading the crack on torrent file"
+,Bazza22,2012-08-13T05:46Z,"Thanks med2003 - Awesome! 
+
+I got it to to work with a slight change to the installation procedure. 
+
+1 - Install  Microsoft .NET Framework 3.5 Service Pack 1;
+2 - install license manager and leave running;
+3 - Go to service.txt file (which lives in C:Program Files (x86)ArcGISLicense10.1bin); 
+4 - Open the service.txt file and save to desktop; 
+5 - Run the Keygen. Make sure that ""feature"" is set to ArcINFO and edit the ArcGIS version property to 10.1 (just highlight and type 10.1); 
+6 - Click the 'all' tab, highlight all the info and copy to the service.txt on the desktop. Open this file and change the ""host"" to the name of the computer that you are using;
+7- Copy and paste the file back to C:Program Files (x86)ArcGISLicense10.1bin (choose replace the file at the prompt!);
+8 - Install ArcGIS and all extensions. 
+9 - Once installed, the ArcGIS Administrator should open, choose Advanced (ArcInfo)  Concurrent use, Click the ""Change"" tab under Licence manager and change to your computer name. Click on the ""availability"" tab in the left column and all the licences added from the keygen should be there.
+
+DON'T look in the ""License Server Administrator"" for the licenses - they are not there! Look in the ""ArcGIS Administrator"". I think that is where everyone has been confused. In fact, I found this crack to be easier than the 9.3 version!"
+,mof77,2012-08-13T08:12Z,"Thanks Bazza22 for solving the confusion.
+Special Thanks to med2003!
+
+9 - Once installed, the ArcGIS Administrator should open, choose Advanced (ArcInfo) Concurrent use, Click the ""Change"" tab under Licence manager and change to your computer name. Click on the ""availability"" tab in the left column and all the licences added from the keygen should be there.
+
+=> Where do I find the ""Change"" tab at the License Manager? Because my License Server Administrator doesn't show any Change tab/button.
+
+Thanks once again for your support."
+,med2003,2012-08-13T08:15Z,"Many thanks Bazza22
+
+Hope everything goes well for everyone"
+,tomassta,2012-08-13T17:18Z,"Still not working...
+
+As mentionned by Bazza, I first install the license manager (before ArcGIS Desktop)
+
+1/ When The ""licence manager"" install is finished, do I have to click on the ""Finish"" button (or leave the window opened) (If I click on the ""finish"" button, the ""ArcGIS License Server Administrator - 10.1"" window opens. The ""License Server Status"" at the bottom of the window says: ""NOT RUNNING"". ArcGis Desktop is still not installed, only the license manager).
+
+2/ Bazza, on your 6- you ask to change the ""host"" by the computer name. Isn't it ""this_host"" ?
+
+When I open the ""service.txt"" file, I have the following: 
+
+START_LICENSE
+SERVER this_host ANY 27000
+VENDOR ARCGIS
+
+Do we have to change ""this_host"" by our computer Name ?
+
+3/ I've noticed that when I leave the ""Host_Id"" field empty in the Keygen window, it generates the following text: 
+
+START_LICENSE
+SERVER this_host ANY 27000
+VENDOR ARCGIS
+
+But when I enter ""Test"" in the ""Host_Id"" field for instance, it generates something different: 
+
+START_LICENSE
+SERVER this_host ESRI_SENTINEL_KEY=Test 27000
+VENDOR ARCGIS
+
+Which one do we have to use?
+
+Thanks again for your help. "
+,med2003,2012-08-13T19:44Z,"tomassta : from "" my experience "" :
+
+- do not click on the ""Finish"" button
+- leave the window opened
+
+-do not change ""this_host""
+- leave : this_host ANY 27000"
+,tomassta,2012-08-14T01:03Z,"Yeah, it works. 
+
+The problem actually comes from my comuter. I've tried to install it on another computer (no any previous installation of ArGIS) and it worked (first installation, following med 2003 and Bazza22 instructions (thx again guys). 
+
+So I have to figure out why it doesn't work on my computer. I've tried to completely remove ArcGIS 10 before installing 10.1 (used Ccleaner, did a registry clean up, deleted any ArcGis, ESRI, etc. folder in Program files, appData, etc.)
+
+I must have left some traces of the previous installatin (ArcGIS 10). 
+
+Do you guys know how to do a clean remove of arcGis 10 before installing 10.1
+
+Thx. "
+,Bazza22,2012-08-14T04:06Z,"tomassta - I had problems removing all the ArcGIS 9.3 licence manager files. I had to re install the licence manager and uninstall it again to remove all traces. Until I did this I couldn't install 10.1 Licence manager.... Also, I had to manually delete files under the ESRI folder that weren't being removed. 
+
+The confusing bit in all this is that there is a ""License server administrator"" and ""ArcGIS administrator!"" Install the ""License server administrator"" and check to see if it is ""running"" and do nothing else with it! 
+
+The ""ArcGIS administrator"" which is installed with the actual ArcGIS program looks at the ""service.txt"" file to obtain the licenses. I changed ""this_host"" to the name of my computer and found that it worked. But as med2003 states, you probably don't have to do this? I am guessing that if you change the name to the name of the computer, the ArcGIS administrator is looking at the computer name as the server.....
+
+As with all of this - trial and error!
+
+Cheers
+"
+,Bazza22,2012-08-14T04:14Z,"mof77 - The ""Change"" tab is in the ""ArcGIS administrator"", open the desktop folder on the left column and the ""License manager (for concurrent use software products) section is on the right. under this, there is a change tab. When this is clicked, your computer name should appear and select this! Now click on the availability folder and in theory, all the licenses should appear. "
+,mof77,2012-08-14T08:02Z,"Bazza22 - ""Change"" tab Still Not Found.
+After ArcGIS installation, a dialogue box comes with message ""ArcGIS 10.1 for Desktop has been successfully installed"". Click finish to exit the installation. When I click Finish button, ArcGIS Administrator Wizard dialogue box opens with these options:
+1- Select a product
+I select Advanced (ArcInfo) Concurrent Use
+then second option becomes active
+2- Define a License Manager for concurrent use products.... Browse
+
+There isn't any Left and Right column.
+Please guide..
+
+Many thanks."
+,Bazza22,2012-08-16T00:43Z,"mof77 - you are correct. I was trying to remember what happened after the install as I knew a dialogue box appeared! Both the options that you state are correct and in theory the program should work. I think between us all, we will get it sorted eventually!"
+,nate_rivers,2012-08-20T08:39Z,"I've trouble installing this first, But i finally made it, Thank for this great upload and instructions.
+
+It worked out just fine... :)"
+,figsology,2012-08-22T08:18Z,"Hey med2003, thanks for the upload. I saw on the other forum that redirected me here that you also have arcgis server, are you planning to upload that? I would highly appreciate it as I wanna tinker and gain skills using it for possible jobs in the near future. Thanks again."
+,abnan,2012-08-22T20:40Z,is there any link to download tracking server of arcgis
+,lovekesh,2012-08-27T11:39Z,"Kindly send me the crack my e-mail id is 
+(lovekesh.gis@gmail.com)"
+,matrixak1,2012-08-31T21:46Z,"Hey med,
+
+License Server Administration is running,.... but when I select a Spatial Analyst to be Borrowed in Arcgis Administrator, it returns Error Borrowing License. Any help?
+
+Thanks for your job in advance from helpless guy...."
+,matrixak1,2012-09-01T10:42Z,"Im sorry. No licenses further needed, I just came into Extension tab in ArcMap and select all extensions. Then it goes. Problem solved thanks."
+,med2003,2012-09-02T20:11Z,"@lovekesh @  i have uploded the crack, see this forum and dowload it..
+@abnan@ traking analyst is an extension in ArcGIS, like network analyst, see extensions in arcmap & activate it...
+@figsology @ I 'm uploading arcgis server , it takes a time..
+@thabks for  all & good luck@"
+,archsuarez,2012-09-04T00:25Z,"Can you please e-mail me the keygen to archsuarez@adelphia.net ?
+Thanks, downloaded full iso but no keygen included"
+,archsuarez,2012-09-04T00:34Z,"med2003 thx for the upload. midway into the install but no crack/keygen. 
+med2003, can you please send me the crack to
+
+archsuarez@adelphia.net
+
+thanks in advance"
+,sixers6492,2012-09-04T08:16Z,"Hey med2003, I'm not seeing the upload would you be willing to send me the crack/keygen files? would be much appreciated:  jedunbar03@hotmail.com"
+,tlhs_jons,2012-09-05T20:08Z,"med2003 // Bazza22 - I need some help!
+
+I have come to #9 but when in the change tab i try to select or type in my computer name it just says that its not a valid host name or sth.. What have I done wrong?"
+,med2003,2012-09-05T22:24Z,"
+@tlhs_jons, see the @tomassta@ + @Bazza22@ comments, your licence server is not running, i think because when you install licence manaher, ay yje end you click close"
+,med2003,2012-09-06T06:55Z,"@tlhs_jons, see the @tomassta@ + @Bazza22@ comments, your licence server is not running, i think because when you install licence manaher, at the end, you click close"
+,tlhs_jons,2012-09-07T11:34Z,"with your instructions it worked, thank you very much."
+,javi86,2012-09-09T09:17Z,"Im having trouble installing, can u please send me keygen?
+gringoslimshady@hotmail.com
+Thank you"
+,macx44,2012-09-10T11:42Z,@javi86 pls read.. the website is already given in the previous post..thank you med2003..it works for me but when i edit my existing mxd it says i have no authority or privileged to edit..why is that happen?
+,raminha,2012-09-10T13:19Z,"After installation I got this error: 
+
+The system clock has been set back more than 24 hours
+
+How to solve the problem?"
+,arr1352,2012-09-11T16:39Z,"Sorry, but I can not find the crack/keygen file on the downloaded package or a link in the forum! Could someone help please?"
+,darkchip,2012-09-11T23:09Z,looking to get the crack myself for it. grahamwoody@gmail.com
+,med2003,2012-09-12T07:39Z,"@ have you tried Desktop Tools/MX Doctor ? can you run as administrator?
+@raminha : change date and time (update now)
+@arr1352 : give me your mail"
+,Moutopher,2012-09-12T09:02Z,"med2003 or someone who's installation worked...
+
+Can somebody post an UPDATED installation instructions??? This is all too bloody confusing and it's not working for me after reading everything!!"
+,noirmaru,2012-09-12T18:54Z,"It is embarrassing, but I can't figure it out either. 
+
+For example, in the service.txt do you leave the existing txt at the top or get rid of it?
+
+For whatever reason I cannot get the license service to start, even if I leave the pre-release license manager window on the 'finish' screen and install arcgis...
+
+Help would really be appreciated."
+,r_joey,2012-09-13T09:28Z,"Im having trouble installing, can you please send me the keygen?
+
+ramone520@hotmail.com
+Thank you!"
+,figsology,2012-09-13T10:48Z,"@med2003
+Hey med, how's the upload of arcgis server 10.1 going? You said it was in the process on 09/02 and it still isn't showing up. Don't mean to bug, but I would really like to practice with to be able to list it on my resume. Thank you very much for the initial arcgis 10.1"
+,tlhs_jons,2012-09-13T16:59Z,"Hey again. I got the program to work but some of the tools are not working. For example, the [3D Analyst] is not licenced for. 
+
+I opened the Licence Manager, re-read the licence, checked that the License Server Status is RUNNING, opened the ArcGIS Administrator and checked that the all the licenses were avaliable for Desktop Advanced Concurrent use which they were. Do you know where the problem lies? Thanks"
+,jvanandel,2012-09-13T21:21Z,"Hey med2003,
+
+Sorry to bug you. Could you send me the keygen?
+
+jeffvanandel@hotmail.com
+
+Thanks a lot"
+,med2003,2012-09-14T11:00Z,"@figsology , give me your mail, i have a solution for your request, so, after getting arcgis server 10.1, you should upload it as a torrent file, I have a fair connection these days"
+,PHgua,2012-09-14T12:58Z,"@med2003, can you send the keygen?
+
+ph.ribeiro@ymail.com
+
+thx"
+,PHgua,2012-09-14T13:05Z,and send me a step-by-step to crack ArcGIS...
+,figsology,2012-09-15T00:34Z,"@med2003
+My email is figsology@gmail.com
+I'll upload it as a torrent file as a thank you. 
+Thanks!"
+,luiz.lhc,2012-09-15T14:35Z,"@med2003 
+Please send to luiz.lhc@hotmail.com keygen from arcgis 10.1?"
+,pour.norton,2012-09-15T19:46Z,"Bonjour med2003,
+
+Could you send me the keygen or crack for arcgis 10.1 ?
+
+pour.norton@yahoo.fr
+
+Thanks and merci
+"
+,luiz.lhc,2012-09-17T11:36Z,"guys...i have problem to unistall arcgis 10 before instal 10.1
+i can not unistall data interopability extension somebody know how i do?"
+,luiz.lhc,2012-09-17T11:52Z,"guys... i can not remove data interoperability extension from arcgis 10.0
+enibody know what i do to remove this?thanks"
+,luiz.lhc,2012-09-17T19:33Z,"guys please help me?
+i try install with with the steps of @med and @bazza but i can not...
+
+this error always apears
+http://imageshack.us/f/507/imagemvel.png/
+
+what i do? I've lost hours trying install"
+,LocalHosting,2012-09-18T09:18Z,"Hey med2003, may I have the crack?
+
+email is retro-82@hotmail.co.uk"
+,med2003,2012-09-18T12:34Z,"@luiz.lhc : try to clean registy with windows 7 manager; (Misc. Utilities / registry Tools / registry finder) ..Search as keywords : Arcgis, esri, data interop...)"
+,luiz.lhc,2012-09-18T16:09Z,"@med hi ,excuse my ignorance but I did exactly as you said the installation and I can not make it work. Questions:
+1) 2. Install ArcGIS License Manager 10.1 without> I install the icon esri.exe?
+2) After installing screen appears arcgis administrator wizard and I click advanced ArcInfo concurrrent ... is to do this? right?, and I click ok .. screen appears arcgis administrator .. I click ok? clicked ok
+3) After I install the crack using lice manager which file? setup with smaller or larger size 2.6Mb? I used the larger
+4) Open September keygen ArcInfo and 1.10 manually. I click and copy all the text and neck exactly as you said.
+5) run the lsadmin lsadmin screen and it says the license is in running.clico reread license and ok.
+6) arcgis administrator is set in advanced ArcInfo concurrent use.entao I click ok.
+I try to open ArcMap and appears the error I posted the photo yesterday! what am I doing wrong?
+excuse the text extremely large but very accurate this program .."
+,luiz.lhc,2012-09-18T16:13Z,"excuse my ignorance but I did exactly as you said the installation and I can not make it work. Questions:
+1) 2. Install ArcGIS License Manager 10.1 without> I install the icon esri.exe?
+2) After installing screen appears arcgis administrator wizard and I click advanced ArcInfo concurrrent ... is to do this? right?, and I click ok .. screen appears arcgis administrator .. I click ok? clicked ok
+3) After I install the crack using lice manager which file? setup with smaller or larger size 2.6Mb? I used the larger
+4) Open September keygen ArcInfo and 1.10 manually. I click and copy all the text and neck exactly as you said.
+5) run the lsadmin lsadmin screen and it says the license is in running.clico reread license and ok.
+6) arcgis administrator is set in advanced ArcInfo concurrent use.entao I click ok.
+I try to open ArcMap and appears the error I posted the photo yesterday! what am I doing wrong?
+excuse the text extremely large but very accurate this program .."

@@ -1,0 +1,57 @@
+Hi Guys,im back (:
+
+
+Sketch 2.0.3
+
+
+Description
+
+Sketch is a professional drawing app for designers with a beautiful interface and powerful tools. Making good graphics can be challenging and you need an application specifically designed for this purpose. We set out to build a better app for graphic designers. Not to copy, but rather to improve.
+
+
+Sketch has excellent vector tools and the basic shapes are a great starting point for any drawing, whether you want to do web design, icon design or otherwise. Styling your layers is easy in Sketch and we have all the options you might want; multiple fills, gradients, noise, blending blur and more.
+To top of it off Sketch has the boolean operations for combining multiple shapes into more complex ones - all of this non-destructive.
+
+All of this power is beautifully contained into Sketch's single-window interface. Everything is there, but only when you need it. A simple interface with seriously powerful tools; everything is possible.
+
+Take a look at the screenshots to see some examples of what you can make with Sketch.
+
+** Note: Special Introductory Price **
+
+FEATURES:
+- Simple but powerful interface, built for OS X
+- Powerful styling; multiple fills, gradients, shadows, blending, blur, noise and more...
+- Flexible boolean operations for combining basic shapes into complex ones
+- Artboards and Slices for exporting multiple images out of a single document
+- Unique Color (with RGB and HSB modes) and Font pickers
+- Beautiful native text rendering and text styles
+- Vector and pixel zoom; zoom in with infinite precision or see individual pixels
+- Multi-stop and radial gradients editing right in the canvas
+- Shared & Linked styles that automatically update each other
+- Powerful but easy to use Vector Tool
+
+Additionally, if you're looking to do either of the following, Sketch has something for you:
+
+WEB AND UI DESIGN
+- Copy CSS Styles (including gradients)
+- Slices: export area of the canvas as an image
+- 960px (and others) grid
+- Multiple pages support inside a single document
+
+ICON DESIGN
+- Artboards; each size its own square
+- Templates
+- Pixel Grid
+- Pixel Effects such as Gaussian and Motion Blur
+
+
+Installation:
+
+Here's how to register:
+1. Block the app with Little Snitch
+2. Run the app once and then Quit
+3. Run the sketch_keyfilemaker (it will open in Terminal)
+4. Close Terminal
+5. Rename file ~/Library/Application Support/.sketch-countdown to .countdown (you'll have to "show hidden files")
+6. Delete .countdown from ~Library/Applications Support/sketch
+7. Move (cut and paste) renamed file to ~/Library/Application Support/sketch (note that you can't "Replace" invisible files)

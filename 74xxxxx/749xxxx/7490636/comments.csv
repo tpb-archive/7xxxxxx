@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,CoreyJensen83,2012-08-06T22:18Z,Are there any copies of this series that aren't .mkv? I use vuze and .mkv takes forever to transcode to my ps3. Any conversion programs that are quick?
+[T],trialNerror,2012-08-20T01:42Z,"@ CoreyJensen83
+
+You can turn MKV into MP4 in just a couple minutes using Avidemux.
+
+Download; install; run Avidemux.
+Drop the MKV into Avidemux.
+Click Yes on the H.264 Confirmation window.
+Leave Video and Audio as ""Copy"".
+Change the Format to MP4.
+Save - be sure to add .mp4 as file extension.
+Click Yes to invalid audio stream; PS3 can play MP4 with AC3 audio no problem.
+Wait a minute.
+Stream the MP4 to the PS3 and enjoy the show!"

@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,a0xx6,2012-07-13T01:19Z,"Works fine, but any idea what the offsets should be for the 64bit version for linux? If I could get that working that'd be awesome."
+,takeout,2012-07-14T21:39Z,"offsetsToPatch[""a5d0a9c069fc5f6eb781b203b9b206db""] = [834459 , 85]; //win32 full (v2.0.1)"
+,coder78,2012-07-15T00:36Z,"Thanks takeout !!
+I think open source is the future!!
+To a0xx6: sorry i don't use 64 bits OS for searching crack:("
+,a0xx6,2012-07-16T07:46Z,"@coder78 Alright, thats fine, I can use the 32 bit version. How do you go about searching for them though?"
+,coder78,2012-07-16T19:51Z,I use hexray IDA 32 for disassembling ... but i don't have IDA 64 bits :(
+,coder78,2012-07-24T19:56Z,"offsetsToPatch[""925C6A6BB347DA0440904A72AE09BC5A""] = [1649507, 117]; // linux 32 (v2.0.1)"
+,turtling-bad,2012-08-14T04:57Z,"offsetsToPatch[""C214EDB6010BCEEC272280F7FEC95BF4""] = [2219304, 117]; // linux 64 (v2.0.1)"
+,a0xx6,2012-08-27T09:37Z,"turtling-bad, you are awesome."
+,piratico,2012-09-15T03:01Z,"Greetings to y'all,
+I'd really appreciate if anyone could provide me with the offsets for 64-bit Windows. I'm running Windows 7 on my machine, and I really need to give this software a try. Thanks in advance."

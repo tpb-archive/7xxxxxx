@@ -1,0 +1,21 @@
+Winclone allows you to clone your Boot Camp partition, and now includes Vista cloning!
+
+New Machine Setup a breeze - If you are in charge of setting up a bunch of machines with both Mac OS X and Boot Camp, Winclone will make your job a breeze. Simply create an image as your would for a backup, and Winclone will create the Windows partition and restore the OS and data onto the new partition.
+
+Quick Lab Deployment - Deploy images with ARD: Using the included script and the image created with Winclone, you can easily send a new winclone image to a group of Intel Macs, imaging the entire lab in minutes.
+
+Features:
+
+Clone Windows XP or Windows Vista with ease.
+Clone to your Boot Camp partition either on a separate drive or on the same that contains your Mac OS X partition.
+Creates image documents that can be stored on any media and double-clicked to open in WinClone.
+Verbose logging so you know what is going on.
+Built on the open source ntfstools, which are included in Winclone, so you don't have to install anything else.
+Fast: Restore a 10 GB image in less than 10 minutes.
+Create a Boot Camp partition from within Winclone.
+Do it all from the boot drive: You don't need to boot from a Firewire drive to clone the Windows partition.
+Clean and uncomplicated interface
+
+Requirements
+Intel, Mac OS X 10.6 or later 
+

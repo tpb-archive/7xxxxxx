@@ -1,0 +1,74 @@
+﻿User Type,Username,Date,Text
+,B.Torrents,2012-07-13T06:45Z,Thanks Maherz...+1 Added
+,khurm86,2012-07-13T08:22Z,"thak you very much dear maher.
+i have to ask only one thing that, please add windows repair option of your next update of this windows copy.
+if our windows is currapted & we have important data in windows dirve, then we will easily repair our already installed windows.
+thanks very much. you have done a great work."
+,T0m1980,2012-07-13T12:05Z,"I get a blue screen of death at the Windows XP installation way?
+
+And you should also write the description that there is no windows repair option, because this option is useful if windows xp doesn't want to boot anymore."
+[V],Maherz,2012-07-13T16:39Z,"@B.Torrents
+You're welcome.
+
+@khurm86
+@T0m1980
+This is the umpteenth time I repeat this:
+Adding SATA drivers causes the repair option to dissappear!
+When adding SATA drivers main setup folder (I386) is edited, Microsoft made something that when this folder is edited the repair option disappears!
+There is no way to add SATA drivers with keeping the repair option alive!
+Good luck."
+,T0m1980,2012-07-13T17:52Z,I'm trying out some Windows XP's in VB to see what i should use and one XP has SATA + repair option so this is possible to have this two.
+,D255,2012-07-13T20:36Z,"Maherz;
+always the best"
+,fonat,2012-07-15T12:40Z,can you tell how to add another language ?  
+[V],Maherz,2012-07-15T18:25Z,"@T0m1980
+Show me please? Give me a link to it so I can see.
+
+@D255
+Thank you.
+
+@fonat
+You need to download the language files you want from the internet.
+Search Google:
+Spanish MUI for Windows XP..
+Turkinsh MUI for Windows XP..
+Good luck ;)"
+,srinumad,2012-07-15T19:41Z,thanks man. another fresh one. just burn and install. after that enjoying.. 
+,stingrayopp,2012-07-15T20:10Z,"Dear Maherz, firstly many thanks to you boss . but did you integrate official all version of microsoft netframework through 1.1 to 4.5 and along with their security patch file ?"
+,talha111,2012-07-17T09:55Z,Does this also include all the Dot Net Framework and c++ runtimes...??
+[V],Maherz,2012-07-17T16:29Z,"@srinumad
+You're welcome :)
+
+@stingrayopp
+@talha111
+I've mentioned in the description what changes made! I've said that it's the original ISO except 4 things:
+1) Updates added.
+2) Explorer 8.
+3) SATA Drivers.
+4) Flash Player.
+Which means no .NET or C++, sorry.."
+,MhrBhr,2012-07-22T19:32Z,Will you continue the XP or this is the last one!?
+,lovysta,2012-07-26T06:03Z,just downloaded and it works gret. thanks Maherz
+,lovysta,2012-07-26T06:05Z,just downloaded and it works great. thanks Maherz
+,diginode,2012-07-27T20:50Z,I use our january 2012 version. pls tell me what process you add sata driver? you included nvidia sata driver but not working in my motherboard in AHCI mode.
+,duriotic,2012-07-28T17:01Z,Absolute smoothness and simplicity.  As clean as your uploads of this have been for years.  Seeding big time.  Thanks.
+,duriotic,2012-07-28T17:08Z,"@diginode: When you switch the BIOS from ""IDE emulation"" to ""AHCI"" you effectively change the device ID.  So, IF the driver is already there, it will be installed during setup.  Be sure to update your motherboard's drivers, then be sure your BIOS is set for ACHI before you install XP.  (None of this can be done after OS install without tricks.)"
+,fedeavila,2012-07-29T07:00Z,@Maherz can you upload the translator (to spanish) file please? Thank you 
+,kdantas,2012-07-30T01:52Z,"Olรก, qual o idioma desse Windows? Obrigado
+
+Hi, what is the language of this Windows? Thanks."
+,edvaness,2012-07-30T07:33Z,Thanks Maherz 
+,Vming,2012-08-05T14:06Z,"how to update my display adapter?i go to device manager dont see the device manager!and vga cant
+install he say no find nessary file!!"
+,Vming,2012-08-05T14:07Z,Sry is display adapter dont have in device manager!
+,rawmacias,2012-08-06T15:18Z,does this come with media center?
+,jazzss,2012-08-06T21:06Z,Excellent upload Maherz! Thanks bud!!
+,ISStl,2012-08-09T10:17Z,I can't Install this from Boot menu...!
+,diginode,2012-08-09T10:20Z,@duriotic: u answer me as like novish who install xp first time!
+,Vming,2012-08-09T14:47Z,the vga also cant install and display adapter is gone!!i have intel chipset family graphic..pls fast reply!!
+,bsk85,2012-08-10T05:36Z,"Problems idenitified after installing this OS:
+1. Add/Remove programs in control panel is disabled. Even 'appwiz.cpl' is disabled. 
+I have resolved the problem from net.
+2. Menu bar and tool bars in IE browser are disabled. I still have to resolve it."
+,Biotech946,2012-08-10T17:10Z,"thanks so much you saved me more then once. 
+clean install works great"

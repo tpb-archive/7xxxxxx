@@ -1,0 +1,31 @@
+Versão
+
+Lion 10.7.4 AMD Intel PC
+1-Para instalação em PCs Intel não é necessário nenhuma código, a principio.
+2-Para instalação em AMD digite "amd" mais códigos que forem necessários.
+      -Após instalação, iniciar pela primeira vez como o pendrive ou midia.
+      -Após iniciar copiar arquivo amd dentro da pasta "AMD" para para pasta raiz do sistema.
+      -E por ultimo edite o arquivo "org.chameleon.Boot.plist" esse arquivo encontra-se dentro da pasta "EXTRA" na raiz do sistema.
+ 
+ex:como era
+Kernel
+	mach_kernel
+
+ex:como deve ficar
+
+Kernel
+	amd
+
+
+3-Após instalação se algum dispositivo falhar usar Multibeast Incluso na imagem.
+4-Para Laptops instalar kests inclusas na pasta "Laptop"
+  
+
+      O restante do procedimento é igual os demais que existe na internet.
+
+      Esta é uma versão teste para AMD, para Intel funciona perfeitamente,havendo falhas com processadores AMD encaminhe a falha para o email:jucitks@hotmail.com
+
+
+Hackintosh World entre em nosso blog: 
+Curta no facebook:
+

@@ -1,0 +1,20 @@
+Beini is a small linux distribution that packs a punch.
+
+
+Beini offers an array of WiFi security audit tools. The downloadable file is an ISO that can be burned to CD or USB to use. 
+
+
+Beini is noted for its speed and extensive list of WiFi supported-devices and chipsets - AR9271, Ralink, Atheros, among others.
+
+
+Using Beini for auditing your WiFi
+In order to use Beini scenarios to carry our your own wireless security audit - i.e. to test the strength of the encryption of a WiFi connection - you must use both utilities included, Bib and Feedingbottle.
+
+
+The first is a WiFi scanner which measures the intensity of the signal and can discover networks around you. The second is a packet injection utility where you should select the WiFi card, the listening mode and type of attack. There are plenty of online tutorials that will tell you how to use Beini, but remember that lots of uses are illegal - you should only use Beini for assessing the security of WiFi connections you own.
+
+
+ScreenShots :
+ 
+http://screenshots.en.sftcdn.net/en/scrn/3335000/3335501/beini-04-700x453.jpg 
+http://screenshots.en.sftcdn.net/en/scrn/3335000/3335501/beini-05-700x460.png

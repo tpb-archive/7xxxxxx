@@ -1,0 +1,22 @@
+I recently added the TomTom Europe app V1.10 to my iPhone and found out that it was impossible to manage the favorites. 
+I have written an application called 'TomTomCfgCreator.exe' for easily importing the TomTom favorites. The information I needed was gathered by reverse engineering and trial & error. 
+Now for me itΓÇÖs working and I want to share this program with other iPhone TomTom users. I tested it on my jailbroken iPhone 4s with latest firmware. My PC is running Win XP.
+I canΓÇÖt tell you if it is working for you because I only tested it on my phone.
+
+Way of working:
+- Create a POI database on your PC (I use Mapsource for that because I have Garmin navigation)
+- Create from this POI database an OV2 file. I use program POI editor for that.
+- Use my program to generate file ΓÇÿmapsettings.cfgΓÇÖ. Here are the TomTom favorites stored.
+- Replace file ΓÇÿmapsettings.cfgΓÇÖ in your TomTom app on your iPhone. I use program DiskAid for that.
+
+The location of file ΓÇÿmapsettings.cfgΓÇÖ in your iPhone is: Apps > Europe > Documents > Western_and_Central_Europe 
+Probably it's also working for the US map but I could not test it.
+
+Tip: make a backup of your original mapsettings.cfg file so you always can restore to the original situation.
+
+Remark: if you are not familiar with the way of working as described above please make a study on the internet or forget it.
+
+For sure there are bugs (I donΓÇÖt know bug-free programs). Use it at your own risk. Please give some feedback if it is working for your iPhone.
+
+
+Version 0.1: Fix a bug to be able to route to a favorite that was created with TomTomCfgCreator.exe

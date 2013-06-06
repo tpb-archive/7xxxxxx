@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,--downloader--,2012-07-31T12:14Z,"The key work After doing this:
+
+Xilisoft added a hidden registry key, which wont allow you to add any more keys after the first key gets blocked. So here is a workaround:
+
+1-Start
+2-Run
+3-Type in Regedit
+4-Select HKEY_USERS
+5-Press Ctrl + f (Search)
+6-Search for {C06F4056-C35F-4bf8-A93A-9F098F3E503D}
+7-Delete the Key, including the subkeys
+
+Credits to blackboxcard for writing the Instructions.
+Also Thanks to ChatChitto."
+,leonid159,2012-08-12T04:45Z,@--downloader-- thank you very much for that solution. I tried 3-4 versions of Xilisoft and then found your comment

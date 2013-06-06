@@ -1,0 +1,28 @@
+Visually stunning real-time virtual Earth. Fed by satellite imagery to display day/night, clouds, seasons, sun, moon and more. Day/night clock (with widget) tracks phases of the moon, sunrise, sunset and transit times.
+
+Great for travellers, those dealing with other time zones, astronomers, weather watchers, geographers, teachers, photographers, fishermen & other outdoor types - as well as just about any geek you can think of.
+
+Features:
+
+    Real-time simulations include clouds, city lights, sea ice, and more, generated from actual satellite imagery
+    Clock and compass also show sunrise & sunset; moon phase, moonrise & set; twilight & transit times
+    Globe and map are fully interactive, using touchscreen or device sensors
+    Easily shows any date, any location
+    Clock and globe widgets, each in multiple sizes 
+    Live wallpapers for real-time map and globe
+    Tablet compatible
+
+What's in this version : (Updated : Jul 23, 2012)
+
+    Test compatibility with Android 4.1 (Jelly Bean)
+    Improve Clock layout in landscape on medium-sized tablets
+    Improve progress bar on Android 1.6 through 2.3
+    Improve two-finger pan/zoom on Map
+    Fix bug: globe missing after suspend+resume on some devices
+    Fix some graphics rendering issues
+    Fix a couple of bugs with globe rotation
+    Fix some text field display issues on Clock/Compass for dates other than today
+    Improve memory management
+    Reduce APK size
+
+Required Android O/S : 1.6+

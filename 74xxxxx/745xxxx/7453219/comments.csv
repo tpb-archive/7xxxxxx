@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,Pure1080p,2012-07-18T13:17Z,"audio is slightly out of sync, video quality is good"
+[V],psspss,2012-07-19T03:42Z,"I only spotted audio out of sync in the last segment..
+prob about 200ms was mnior though as it was almost ended
+
+since I watched it fully before bed
+
+I watched using vlc (videolan.org)
+
+if you want to fix it do so.. avidemux.org
+
+load it.. and tick time shift and enter the
+ms out of sunc value.. file pulldown and save avi"
+[V],psspss,2012-07-19T03:47Z,"actually is over all out of sync by +200ms
+
+can fix in tools pull down and +200 if watching in VLC
+
+or avidemux.org and time shift 200 and re save the avi will take less then a min to have a fixed copy
+
+sorry about that.. I did check it.. but was in a rush 
+
+can never rely on any video converter to always do it correctly can you.. avs converter and umile all have problems but thats life"

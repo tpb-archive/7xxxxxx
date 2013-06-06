@@ -1,0 +1,84 @@
+Nine Inch Nails - The Fragile (Left) - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Somewhat Damaged
+2 - The Day the World Went Away
+3 - The Frail
+4 - The Wretched
+5 - We're in This Together
+6 - The Fragile
+7 - Just Like You Imagined
+8 - Even Deeper
+9 - Pilgrimage
+10 - No, You Don't
+11 - La Mer
+12 - The Great Below
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-16-bit/44.1kHz files ripped from the CD and joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = 19, Peak = 0db
+-Final Recording - Apparent Bit Resolution = 43, Peak = 1.065db
+
+-Resample 64/384 to 64/96 in Wavelab w/crystal resampler, ultra(slow) relax background priority
+-Apply loudness maximizer (0.2db) and MBIT+ 24-bit Dither (Noise Shaping - Light, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+No DSD this time around, peaks levels of 4.7db on the second disc prevented me from doing that without ruining the sound quality. Still damn good even w/out the DSD conversion.
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-07-13 21:02:08
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.07 dB    -9.55 dB      4:32 ?-01 - Somewhat Damaged
+DR5       -0.07 dB    -9.24 dB      4:34 ?-02 - The Day the World Went Away
+DR12      -7.31 dB   -23.67 dB      1:54 ?-03 - The Frail
+DR5       -0.07 dB    -7.96 dB      5:26 ?-04 - The Wretched
+DR5       -0.07 dB    -8.63 dB      7:16 ?-05 - We're in This Together
+DR5       -0.07 dB    -7.75 dB      4:35 ?-06 - The Fragile
+DR5       -0.07 dB    -8.69 dB      3:50 ?-07 - Just Like You Imagined
+DR6       -0.07 dB    -7.37 dB      5:48 ?-08 - Even Deeper
+DR6       -0.07 dB    -8.98 dB      3:32 ?-09 - Pilgrimage
+DR5       -0.07 dB    -7.42 dB      3:36 ?-10 - No, You Don't
+DR8       -0.07 dB   -11.26 dB      4:38 ?-11 - La Mer
+DR7       -0.97 dB   -11.68 dB      5:17 ?-12 - The Great Below
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR6
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+enjoy :)

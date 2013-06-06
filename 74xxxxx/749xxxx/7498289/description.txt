@@ -1,0 +1,46 @@
+CodeKit helps you build websites faster and better. Its flagship features are listed below and the one-minute teaser video to the right is a good place to start. 
+
+Compile Everything
+Process Less, Sass, Stylus, Jade, Haml, CoffeeScript, Javascript and Compass files automatically each time you save. Easily set options for each language.
+
+Live Browser Reloads
+Instantly see changes in your browser, with animation and without hitting the refresh button or installing plugins. Great for tweaking layouts!
+
+Combine & Minify
+Reduce load times by mashing Javascript & CoffeeScript files together and then minifying with Uglify.js. It's so easy, you'll giggle like a schoolgirl. Seriously.
+
+Optimize Images
+Losslessly reduce JPEG and PNG file sizes with one click and see the savings. One less thing to do at deployment. (More compression options coming soon!)
+
+JSHint & JSLint
+Makes debugging scripts fun and easy. Instantly find that one hanging comma that kills IE, or enforce coding styles and best practices across teams.
+
+Team Collaboration
+Sync project settings across teams and computers in an open JSON format. Keep everyone on the same page or easily jumpstart new sites.
+
+Easy Frameworks
+Keep just one copy of a file on your drive and easily use it across many projects without worrying about file paths. No more copying files into every new site.
+
+It Just Works
+There's nothing to install or configure. No mucking around the command line. Just run the app and start working. It's that easy. 
+
+REQS: Mac OS 10.7+
+
+Version 1.2.3 (6554)
+1 August 2012
+ΓÇó Resolved several issues with Mountain Lion compatibility.
+ΓÇó FIXED: an issue that produced crashes when checking a script with JSLint on 10.8. (This one wasn't my fault; there was an error in the JSLint library itself that crashed the new JavascriptCore engine in 10.8. Even Doug Crockford screws up, apparently.)
+ΓÇó FIXED: @import paths that begin with a period to indicate the current directory will now link correctly in the app.
+ΓÇó Killed an edge-case memory leak.
+ΓÇó The file-watching engine (VDKQueue) is now *even* faster. You'd pretty much need an atomic clock to track it, though.
+ΓÇó The status bar icon is now retina-fied. Mainly because some guy requested it on Twitter. His face will soon be introduced to a Retina Macbook Pro traveling at high velocity.
+ΓÇó Node.js --> updated to 0.8.2 (brings full support for UTF-16)
+ΓÇó Less.js --> still at version 1.3.0, but updated to a newer commit that brings support for keyframe animations in WebKit and ratios in media queries.
+ΓÇó Uglify.js --> updated to 1.3.3
+ΓÇó Stylus --> updated to 0.28.2
+ΓÇó JSLint --> updated to the 27 July 2012 build.
+ΓÇó JSHint --> updated to the 30 July 2012 build. (New "camelcase" and "worker" options)
+ΓÇó Sass --> updated to 3.1.20. (Which is like 3.2, if you squint.)
+ΓÇó Jade --> updated to 0.27.0. (Because TJ hates numbers larger than 1.)
+
+Credits to Special [K]

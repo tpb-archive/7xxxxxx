@@ -1,0 +1,88 @@
+System Of A Down - Toxicity - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Prison Song
+2 - Needles
+3 - Deer Dance
+4 - Jet Pilot
+5 - X
+6 - Chop Suey!
+7 - Bounce
+8 - Forest
+9 - Atwa
+10 - Science
+11 - Shimmy
+12 - Toxicity
+13 - Psycho
+14 - Aerials
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-16-bit/44.1kHz files ripped from the CD and joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.098db
+-DC Offset Removed - Apparent Bit Resolution = 20, Peak = -0.097db
+-Final Recording - Apparent Bit Resolution = 42, Peak = 0.637db
+
+-Resample 64-bit/384kHz to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply loudness maximizer (0.01db) and MBIT+ 24-bit Dither (Noise Shaping - Medium, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-07-19 22:36:58
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6       -0.07 dB    -7.60 dB      3:21 ?-01 - Prison Song
+DR5       -0.10 dB    -7.16 dB      3:14 ?-02 - Needles
+DR6       -0.07 dB    -8.48 dB      2:55 ?-03 - Deer Dance
+DR6       -0.07 dB    -7.70 dB      2:06 ?-04 - Jet Pilot
+DR6       -0.07 dB    -7.19 dB      1:59 ?-05 - X
+DR6       -0.07 dB    -7.69 dB      3:30 ?-06 - Chop Suey!
+DR5       -0.07 dB    -6.53 dB      1:54 ?-07 - Bounce
+DR6       -0.07 dB    -7.09 dB      4:00 ?-08 - Forest
+DR6       -0.07 dB    -8.09 dB      2:56 ?-09 - Atwa
+DR6       -0.07 dB    -7.07 dB      2:43 ?-10 - Science
+DR6       -0.07 dB    -7.49 dB      1:51 ?-11 - Shimmy
+DR6       -0.07 dB    -7.56 dB      3:39 ?-12 - Toxicity
+DR7       -0.07 dB    -8.09 dB      3:46 ?-13 - Psycho
+DR6       -0.07 dB    -8.94 dB      6:11 ?-14 - Aerials
+--------------------------------------------------------------------------------
+
+Number of tracks:  14
+Official DR value: DR6
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

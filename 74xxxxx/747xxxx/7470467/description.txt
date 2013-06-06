@@ -1,0 +1,19 @@
+Highest rated and acclaimed Linux security distribution to date. BackTrack is a Linux-based penetration testing arsenal that aids security professionals in the ability to perform assessments in a purely native environment dedicated to hacking. Regardless if you’re making BackTrack you Install BackTrack, boot it from a Live DVD or thumbdrive, the penetration distribution has been customized down to every package, kernel configuration, script and patch solely for the purpose of the penetration tester.
+
+
+GNOME Flavor 32BIT
+
+1. Boot BackTrack on the machine to be installed. Once booted, type in “startx” to get to GDI.
+
+2. Double click the “install.sh” script on the desktop, or run the command “ubiquity” in console.
+
+
+3. Select your geographical location and click “forward”.  Same for the Keyboard layout.
+
+4. The next screen allows you to configure the partitioning layout. The assumption is that we are deleting the whole drive and installing BackTrack on it.
+
+5. Accept the installation summary and client “Install”. Allow the installation to run and complete. Restart when done.
+
+6. Log into BackTrack with the default username and password root / toor. Change root password. 
+
+7. Fix the framebuffer splash by typing “fix-splash” ( or “fix-splash800″ if you wish a 800×600 framebuffer), reboot.

@@ -1,0 +1,8 @@
+Malware Hunting with the Sysinternals Tools
+
+    Date: June 12, 2012 from 3:15PM to 4:30PM
+    Day 2
+    SIA302
+    Speakers: Mark Russinovich 
+
+This session provides an overview of several Sysinternals tools, including Process Monitor, Process Explorer, and Autoruns, focusing on the features useful for malware analysis and removal. These utilities enable deep inspection and control of processes, file system and registry activity, and autostart execution points. Mark Russinovich demonstrates their malware-hunting capabilities by presenting several real-world cases that used the tools to identify and clean malware, and concludes by performing a live analysis of a Stuxnet infectionΓÇÖs system impact. 

@@ -1,0 +1,47 @@
+
+Description
+
+Synalyze It! is a groundbreaking app which lets you easily edit and analyze binary files of any size.
+Synalyze It! features enhanced support for many character encodings and it will allow you to interactively define grammars for various file formats.
+
+Here are some key features of Synalyze It!:
+* Hex Editor & Viewer
+* Definition of a "grammar" for binary files with Scripting support
+* Export grammars to GraphViz (only in this Pro version)
+* Automatic installation of existing grammars
+* Export of analysis to XML or text (only in this Pro version)
+* Data view for common variable types (only in this Pro version)
+* Multi selection of results (only in this Pro version)
+* Go to position item in toolbar (only in this Pro version)
+* Lua scripting element (only in this Pro version)
+* Edit description of structures and elements (only in this Pro version)
+* Change Font in hex view (only in this Pro version)
+* Printing
+* Histogram view
+* Checksum / hash value panel (only in this Pro version)
+* Go to Position in file using expressions
+* Save selected bytes
+* Compare code pages
+* Incremental text search with encoding selection
+* Find text
+* Find numbers
+* Search for masks
+* See all strings in a file
+
+
+What's New in Version 1.3
+
+* New: Scripting editor
+* New: All scripts can be written now in Python
+* New: Custom (scripted) data types
+* New: Relative positioning via toolbar: "+12", "-0x61" (only Pro version)
+* New: Application is now sandboxed
+* New: Added spotlight plugin for grammar files
+* New: Optionally show hidden files or packages in file-open dialog
+* New: Values in the mask panel are displayed red if they can't occur with a certain mask
+* New: "Additional offset" in offset element can contain an expression now
+* New: Basic support for AppleScript
+* Fix: Byte alignment on bit level fixed
+* Fix: Fixed mask editing for number display types != Hex
+
+If you like it - buy it

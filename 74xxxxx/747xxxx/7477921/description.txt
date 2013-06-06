@@ -1,0 +1,45 @@
+It's finally time for Minecraft 1.3! As the norm is these days, we prepare the community and server providers with a prerelease. The official release date is August 1st, so that's when everybody will get the update in the launcher.
+
+HereΓÇÖs a brief collection of all the changes made since Minecraft 1.2.5:
+
+1.)The game now runs an internal server in single-player mode
+2.)The single-player server can be shared on LAN, with LAN server detection
+3.)Made it possible to use client-side commands by enabling cheats (this is defaulted as disabled for old worlds)
+4.)Added an optional ΓÇ£bonus chestΓÇ¥ to get started quicker
+5.)ItΓÇÖs now possible to trade with villagers. 
+6.)Added emeralds as a currency
+7.)You gain enchantment orbs from other tasks than just destroying monsters. 
+8.)Max enchantment level has been decreased to 30
+9.)Servers can automatically suggest and distribute texture packs
+10.)Added new world map elements (does not need a new map, but theyΓÇÖll only appear in new areas)
+11.)Added cocoa beans
+12.)Added an Ender chest
+13.)Added tripwire
+14.)Stairs and levers can be placed up-side-down
+15.)Wooden logs can be placed sideways
+
+---------------------------------------------------------
+
+INSTALL INTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. Drag/Copy the new minecraft.jar file into /bin folder and replace it.
+
+4. Make a new folder named "server" .minecraft/server in that folder drag/copy the minecraft_server.jar file 
+
+-----------------------------------------------------------------------------------
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.
+
+--------------------------------------------------------------------------------------------------------------
+
+FOR FULL DETAILED LIST OF CHANGES OF 1.3 READ THE README TEXT FILE!	

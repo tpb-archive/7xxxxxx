@@ -1,0 +1,86 @@
+Alice In Chains - Dirt - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Them Bones
+2 - Dam That River
+3 - Rain When I Die
+4 - Down in a Hole
+5 - Sickman
+6 - Rooster
+7 - Junkhead
+8 - Dirt
+9 - God Smack
+10 - Iron Gland
+11 - Hate To Feel
+12 - Angry Chair
+13 - Would
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0.08db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.015db
+-DC Offset Removed - Apparent Bit Resolution = 20, Peak = -0.006db
+-Final Recording - Apparent Bit Resolution = 36, Peak = 1.496db
+
+-Resample 64-bit/384kHz to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply loudness maximizer (0.01db) and MBIT+ 16-bit Dither (Noise Shaping - Light, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-07-29 16:03:36
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8       -0.08 dB    -8.86 dB      2:29 ?-01 - Them Bones
+DR8       -0.08 dB    -9.03 dB      3:09 ?-02 - Dam That River
+DR9       -0.08 dB   -10.58 dB      6:02 ?-03 - Rain When I Die
+DR8       -0.08 dB    -9.45 dB      5:38 ?-04 - Down in a Hole
+DR7       -0.08 dB    -9.02 dB      5:29 ?-05 - Sickman
+DR9       -0.08 dB   -11.73 dB      6:15 ?-06 - Rooster
+DR9       -0.08 dB   -10.54 dB      5:09 ?-07 - Junkhead
+DR8       -0.08 dB    -9.83 dB      5:17 ?-08 - Dirt
+DR8       -0.08 dB    -9.60 dB      3:51 ?-09 - God Smack
+DR8       -0.08 dB   -10.40 dB      0:44 ?-10 - Iron Gland
+DR7       -0.08 dB    -9.21 dB      5:16 ?-11 - Hate To Feel
+DR8       -0.08 dB    -9.70 dB      4:48 ?-12 - Angry Chair
+DR9       -0.08 dB   -10.05 dB      3:27 ?-13 - Would
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR8
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

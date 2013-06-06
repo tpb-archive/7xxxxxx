@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,cattool,2012-07-19T02:55Z,"Sorry, password is: cattoolstuff"
+,cattool,2012-07-19T04:20Z,Install and copy the dll to the installation folder (overwrite the existing one)
+,ImSoJaded,2012-07-19T14:34Z,"If it really works, you'll be my hero of the year. Never bothered buying this overpriced buggy piece of shit."
+,cattool,2012-07-19T14:55Z,This SP2 is a little buggy (go to proz.com and see people are crying for its unresponsiveness). You all may want to wait for updates or just downgrade to SP1. See the other SP1 on TPB. The dll can be used for SP1 also.
+,ImSoJaded,2012-07-19T15:39Z,"""This SP2 is a little buggy...""
+
+Why am I not surprised? o.O ^.^"
+,bengog,2012-07-20T15:36Z,"I installed and tested, and everything was OK. Thanks."
+,shvan2009,2012-07-21T19:17Z,"Mr. cattool, how does this dll work? I've copied it and overwritten the existing one, but the program still has a Product Activation menu. It opens the window where it's shown how nany days is ramaining."
+,cattool,2012-07-23T03:04Z,"@: shvan2009
+All you have to do after installed the app is copy the Sdl.ProjectApi.Licensing.dll file into the installation folder as follows:
+
+- 64bit windows: C:Program Files (x86)SDLSDL Trados StudioStudio2
+- 32bit windows: C:Program FilesSDLSDL Trados StudioStudio2"
+,cattool,2012-07-23T09:56Z,If any of you're experience terribly slow & buggy trados 2011 SP2 please download and install SP1 instead...and use the same Sdl.ProjectApi.Licensing.dll file as attached in this download. Please not that this slowness is because of the innovative upgrade brought to you by SDL. They may fix this soon via new updates.
+,djebrol,2012-07-23T16:37Z,Works great. I had been looking for this for a long time. Many thanks.
+,zzzunder,2012-07-23T17:47Z,"hello, cattool!
+Everything works great.
+I only cannot figure out how activate it. you wrote to ""Install and copy the dll to the installation folder (overwrite the existing one)"".
+I did it after I installed the software. 
+But still activation didn't disappear. Now Trados is in the trial mode for 30 days and counts down. 
+Can you please tell how to activate it?"
+,ImSoJaded,2012-07-23T19:35Z,"Thanks, it works!
+
+During installation I blocked the installer and then, the updater with my firewall, and it works like charm (starts up slowly as expected)."
+,xman-75,2012-07-26T12:03Z,"Hi cattool!
+I've the same activation problem as shvan2009 and zzzunder. Everything works great but it counts down the days remained. I did follow your instructions and copied and pasted the dll into  C:Program FilesSDLSDL Trados StudioStudio2. Anything else missed?"
+,cattool,2012-07-26T17:18Z,"I have installed this version on a couple of PCs and have not see any problems. Many of you have installed successfully, I know that. please confirm, or I would never upload stuff like this and just keep them for myself.
+
+Those of you who could not make it work. Please make sure you can locate the Sdl.ProjectApi.Licensing.dll in the installation folder, DELETE it BEFORE you copy the patched dll. How come it is not working!"
+,Ljjnr,2012-07-26T18:35Z,"Mr Cattool, Does it also work perfectly for first time download of 2011 or for uninstalling 2009 to download 2011 for the first time???
+
+Thanks"
+,NeidKaos,2012-07-27T01:19Z,"Does it include Multiterm 2011? If not, does it work with multiterm 2009?"
+,ImSoJaded,2012-07-27T18:08Z,"It works with MultiTerm 2009.
+I installed it on a computer that has Studio 2009 SP3 and Multiterm 2009 installed, and Studio 2011 can use the MultiTerm databases correctly."
+,icylave,2012-08-04T17:50Z,"cattool, you are a genius!
+I feel new versions of SDL Trados are getting more and more buggy.
+You guys agree?"
+,transl,2012-08-06T17:03Z,"Hi cattool,
+Same problem with the activation as shvan2009, zzzunder and xman-75. I deleted the dll contained in Studio2 folder before pasting the patched one. Did this several times with the same result. Now it shows 15 days remained. What is wrong? Please advise. Thank you in advance."
+,transl,2012-08-07T11:26Z,If cattool is not available maybe anyone who is lucky with the activation will share her/his experience?
+,Val133,2012-08-08T00:20Z,"I failed to have it installed on Win7x64. Any version either this one or official trial package. It seems that the software wants me to remove the existing Microsoft Visual C++ 2008 Redistributable SP1 and install its own which I will never allow and will rather use some other CAT tool. However it has been successfully installed on my second computer running under WinXP SP3 x 32. All went simply perfect: I installed the software, deleted the notorious library and installed the 'right' one. Voila! I have no idea if it helped or not but for the sake of good I turned off connection to the Internet during installation etc and rebooted the machine afterwards. I'll be happy if this story by unqualified dummy helps somebody."
+,spaperny,2012-08-08T21:30Z,"Thank you, Cattool!! I downloaded successfully Trados. Now what with Passolo Essential? How can I make it work as well? Sorry if it's a stupid question... I'm obviously not a pro... :/"
+,Eltramp,2012-08-09T01:26Z,Hi all! I had been waiting a long time for this program. I just downloaded it but I don't know how to deal with the file format you get... What program can I use to open it and install it?? I don't know what kind of file that it. Please If someone can help I'd appreciate it. Thanks!!
+,PR00SAC,2012-08-10T17:14Z,"Guys can you help me out. I did exactly as said. Installed, copy over the ddl but it still searches for license ? Thank you in advance."
+,viviannen,2012-08-22T17:44Z,"The license file hasn't worked for me either, the trial version keep counting days down. I have tried it on several PC with now results. There are more disappointed comments here that the satisfied ones, so it looks like the license file hasn't been patched correctly after all."
+,blackmay,2012-08-28T10:50Z,tested and worked.....thanks mr :D

@@ -1,0 +1,32 @@
+Source files:
+
+1600MB	Bill Hicks - One Night Stand.iso
+3140MB	Bill.Hicks.Relentless.DVDR.iso
+7266MB	Sane Man.iso
+4423MB	Totally.Bill.Hicks.DVDR-Anonymous.iso
+
+Ripper:
+
+HandBrakeCLI 0.9.6
+
+HandBrakeCLI options:
+
+--main-feature
+--x264-preset placebo
+--markers
+--deinterlace slower
+--encoder x264
+--two-pass
+--vb 800
+--aencoder vorbis
+--aq 4
+--loose-anamorphic
+--subtitle 1,2,3 .. etc
+
+MD5 sums:
+
+03270eea9ee19a202ec1cd29e7a3b695 *Bill Hicks - One Night Stand.mkv
+45da8e993b531a0fa6b64d748f6760fd *Bill Hicks - Relentless.mkv
+15f12eb51bdeba412f9d5863b57e829f *Bill Hicks - Revelations.mkv
+42f7e6c4b5349db02441e963f5307d36 *Bill Hicks - Sane Man.mkv
+791028322b970f1b8a84612f24a0bba3 *Totally Bill Hicks.mkv

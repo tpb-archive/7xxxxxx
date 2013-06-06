@@ -1,0 +1,56 @@
+Game Description:
+
+Minecraft is a game about placing blocks to build anything you can imagine. At night monsters come out, make sure to build a shelter before that happens.
+
+System Requirements:
+
+Minimum
+
+OpenGL: 1.4
+Processor: 2.0 MHz (Single Core)
+RAM: 1 GB(XP), 1.5 GB(7), 2.0 GB(Vista)
+Hard Drive: 80 MB Free
+Video: 128MB RAM
+
+Recommended
+
+OpenGL: 2.0
+Processor: 2.5 MHz (Single Core)
+RAM: 2 GB(XP), 3 GB(Vista/7)
+Hard Drive: 256 MB Free
+Video: 256MB RAM on dedicated GPU
+ 
+Installer Information:
+
+- Installs Minecraft (Updates if Minecraft is present)
+- Transfer over existing saves (if available)
+- Creates Minecraft launcher on desktop
+- Updated and uploaded the same day Minecraft updates are released
+
+Installer Requirements
+
+- Java 1.6.0 update 30 or later (1.6.0_30+)
+- Windows XP/Vista/7
+ 
+-------------------------------------------------------------------------------------
+Installation Instructions:
+
+Option A
+1. Run "Minecraft v1.31.exe"
+2. Click on block or install minecraft
+3. Play!
+
+Option B
+1. Extract "bin/Minecraft.zip" to "c:/users/your username/appdata/roaming/"
+2. Move "bin/Minecraft.exe" to desktop
+3. Play!
+
+-------------------------------------------------------------------------------------
+
+Notes:
+
+- When you try to login it will fail. Do not worry this is normal, just select play offline and game will start as usual.
+
+- Server is at "c:/users/your username/appdata/roaming/.minecraft/server/" (appdata folder is hidden)
+
+- bin folder must be in the same directory as "Minecraft v1.31.exe" 

@@ -1,0 +1,29 @@
+TotalFinder adds tabs, hotkeys, and other tweaks to the Mac OS X Finder.
+
+
+Implemented features:
+TABS like in Google Chrome!
+Add a dual-panel mode (like in good old Norton Commander)
+Make Finder available system-wide on a hot-key (like Visor)
+Stop creating .DS_Store litter
+Show the folders always on top
+
+Future goals:
+Add a better keyboard shortcuts (for keyboard-oriented freaks like me)
+Enable a cooperation mode with Terminal.app (for command-line lovers)
+Add user friendly MacFUSE support
+And what about better git/svn/hg integration?
+And more satisfaction!
+
+Requirements
+Mac OS X 10.7 or later
+
+
+What's New
+Version 1.3.11:
+
+* Real fix preventing frozen Finder windows under Mountain Lion 
+
+
+
+Patch first and then make a key with patch/keymaker

@@ -1,0 +1,127 @@
+﻿User Type,Username,Date,Text
+,aztek5212,2012-07-27T20:24Z,Could you kindly specify what license file you are referring to? Is it the Scene crack license file or another?
+,pinfo,2012-07-27T22:25Z,Does anyone know if the License File will work on a Mac?
+,skoxpress,2012-07-27T22:35Z,"O, man, don't do this to me. Was down to 1min. 20 secs. and all the seeders bailed, then jumped to 9 hrs. LOL"
+,N-Onomous,2012-07-27T23:13Z,License is once again fake. Don't bother downloading for the crack.
+,skoxpress,2012-07-27T23:27Z,"HotDam! Thanks, mrriser007 !
+
+aztek
+
+It's the main scene license, it doesn't work on the packs. At least it didn't on the ones I tried."
+,rogersarevok,2012-07-27T23:36Z,"well, this is not working for me. I extracted, installed it, and then opened up AFX made a new comp, applied the effect and just as I tried to validate the license there it appears a message ""The selected license file appears to be invalid"""
+,skoxpress,2012-07-27T23:40Z,"N-Onomous  This works fine. If 007 doesn't mind....
+What you do is install Element 3D, and when you start E3D and the serial box comes up, click the button to add license and navigate to the license file. I put mine in the plug-in folder with the .aex file. Bingo."
+,skoxpress,2012-07-28T00:39Z,"Well, I guess I jumped the gun. It asks for the license every time you open AFX, which would be OK, but, when you're done in the scene window and click OK, the model doesn't show up in AFX. I'm following Andrew's video on the plug-in so if I find out it's something I'm doing, I'll re post."
+,skoxpress,2012-07-28T00:41Z,"Pardon me. It asks for the license every time you open Element, not AFX."
+,skoxpress,2012-07-28T00:58Z,"rogersarevok 
+
+That's because you have to replace the "" .aex "" file before you add the license. Let us know if you get a model into AFX."
+,rogersarevok,2012-07-28T04:52Z,"BINGO! thanks skoxpress
+So resuming here is what I did
+1.Unrar
+2.- Install
+3.- Replace the Element.aex file that is under C:Program FilesAdobeAdobe After Effects CS6Support FilesPlug-insVideoCopilot by the one that comes with the torrent
+4.-Move the a.license file to the same directory
+5.- Open up AFX, make a new layer and apply the effect, once the verification window pop up, choose to install manually, select the license file that you have and voila!
+Hope this works
+Good job mrriser007"
+,mikekiuh47,2012-07-28T07:20Z,"it doesn't work, it still stay black after the scene setup."
+,Jaydagod,2012-07-28T10:37Z,hats off to Andrew Kramer it appears he will get my money after all(CAN NO ONE CRACK THIS?)
+,africashot,2012-07-28T12:17Z,"In CS6 the interface opens but AFX collapses as soon as you attempt to open a model/enviroment
+In CS4 it won't even see the plugin after changing the .aex file... hope for a working crack soon!"
+,Pendell,2012-07-28T16:00Z,-> SCENE SETUP LICENSE FILE 
+,nockix,2012-07-28T20:55Z,"SEE the CONTENT OF a.license - ""RENDER NOT WORK"" :( Let someone put the correct license file to see right content of the file ...."
+,nockix,2012-07-28T20:58Z,In the official site i found that a key is hardware... i think need to some break the instalation on driver level- that not so easy....
+,TheEradicator,2012-07-28T22:09Z,Fake! Why ? Because the plugin doesn't show anything on the composition.....
+,capth4u,2012-07-29T14:36Z,Same fake as all the rest! Don't waste your time
+,Dalderup,2012-07-30T16:15Z,"NOT FAKE!!! IT DOES WORK IF YOU FOLLOW THESE STEPS!!!!
+
+1.Unrar
+2.- Install (IF YOU HAVE CS6, MAKE ALL THE THINGS DARK EXCEPT FOR CS6)
+3.- Replace the Element.aex file and a.license
+Files with the original: 
+C:Program&Files:Adobe:Adobe After Effects CS6:Support Files: Plug-ins: VideoCopilot 
+
+4.-VERY IMPORTANT!! - Put the ""Video Copilot Element 3D 2012 1.0 + license file"" Folder on to your desktop
+
+5.- Open up AE, make a new layer and apply the effect, once the verification window pop up, choose to install manually,
+Step 1: Select the folder on your desktop:
+Video Copilot Element 3D 2012 1.0 + license file
+Go in folder ""Element3D"" and select OK!
+Now generate license and select the ""a.llicense"" in the AE: support: plugins: VideoCopilot folder
+
+Generate, close & you're done! xD
+
+If it didn't worked, then you're a noob & did not follow the steps correctly"
+,skoxpress,2012-07-30T18:13Z,"Dalderup
+
+Your saying you got a model from Element into AE ? You clicked OK in Element and had it render into AE ? I don't think so."
+,akuma257,2012-07-31T03:31Z,anyone having an issue with AE shutting down? when i go to load a model from E3D AE closes down
+,skoxpress,2012-07-31T04:19Z,"akuma257 
+
+Mine just goes to black-no render. From what I've read, your not alone, though."
+,zaxotes,2012-07-31T05:12Z,"I'm on CS4, when I replace the .aex, I can't find the plugin in the dropdown menu on AE. But if I don't rplace, the plugin appears but asks for a license and when I install provided license, it says its invalid. "
+,Sagnol,2012-07-31T15:50Z,@rogersarevok I did what u said and whenever i replace the aex file the plugin doesn't show in AE wtf?
+,Dalderup,2012-07-31T18:01Z,"skoxpress
+
+Wierd enough, it did work yesterday, now when i click on a 3D model, i get black screen. Though people couldn't figure out how to install the license and etc. so i wrote that one comment lulzz... let's wait for the render fix -_-"
+,ideres,2012-08-01T05:23Z,Funny thing is that when you open License file with notepad it says Render not work
+,lvninjas,2012-08-01T05:42Z,"Is anyone else getting the following error when attempting to install? (Installer does not even run, due to this problem)
+
+""The procedure entry point RegGetValueW could not be located in ADVAPI32.dll""
+
+I am running Windows XP Pro, SP3. Quad core system, a stock Dell Vostro 410.  Could it be a driver blocking the dll file access?
+
+Does anyone have an updated version of the Element installer, published AFTER July 17, 2012, by Video Copilot?"
+,csigaboy1,2012-08-01T10:55Z,piece of shit crack...
+,csigaboy1,2012-08-01T10:56Z,"zaxotes
+
+i have a same problem..."
+,TehMP,2012-08-01T21:10Z,shitty torrent...
+,Jaydagod,2012-08-01T21:32Z,its not a license it just reads RENDER NOT WORK
+,akuma257,2012-08-02T00:54Z,"skoxpress
+
+yea i get to the point where i can load a stock model from E3D but as soon as it goes to open bam shuts down -.- "
+,skoxpress,2012-08-03T13:08Z,There are dozens of people at the Video-Copilot forum having crash problems. Right now the only thing suggested is to update your drivers.
+,skoxpress,2012-08-03T13:15Z,"Another thing to try is setting your UAC to ""Never"". "
+,RNBzie,2012-08-04T09:02Z,"There is a 8/3 patch that will fix all of our issues: 
+
+https://www.videocopilot.net/products/element/update/http://
+
+However, you need a email and password to access the patch....anyone have access and can seed this info?"
+,capth4u,2012-08-04T16:20Z,"Fake - Open the license file in NOTEPAD... It says ""RENDER NOT WORK"" ...Its fake and will not render so no point of installing!"
+,skoxpress,2012-08-04T18:59Z,can I comment now?
+,skoxpress,2012-08-04T20:11Z,"Here is the update.......
+
+
+???????????
+
+The problem is this license doesn't work on it. So if you want to play with E3D you'll have to re install the old version.
+
+Trying to post this for 2 hours. Just trying to see if it's a ban on the url"
+,skoxpress,2012-08-04T20:20Z,"Well, the url is banned for some reason. It's from Suprbay forum so you can go there and do a search. I guess they don't trust their own site.
+
+ The update doesn't work with this license so don't know why you want it. At least the old version you can play with using this license."
+,skoxpress,2012-08-04T20:23Z,"The update is at suprbay forum, just do a search.
+Can't post the link, they don't trust their own site."
+,blnc9949,2012-08-05T18:10Z,"Guys, we all know the license just reads RENDER NOT WORK, BUT IT STILL WORKS AS A LICENSE!!!!
+I tried on my shitty laptop, with After Effect CS6, and it worked, I got to open it, but then it crashed, why's that ? 
+And also, can someone please crack it for 32bit windows ? :)"
+,AmmarByF,2012-08-05T23:44Z,"Alright... here's the deal, some people have succeeded in patching the license, the program works, BUT! as soon as you open a model the program crashes... now since almost everyone is having the problem i blame the torrent... i guess it detected that it was a fake license and then crashes after effects... 
+
+all we can do now is wait for a working one... "
+,77Monk77,2012-08-11T01:03Z,"this looks awesome, would love to try this out"
+,almostD,2012-08-14T17:18Z,This is not a working crack. Period.
+,khaimmu,2012-08-23T06:55Z,"i've problem..
+when i click any model in element 3d this error come out
+
+http://bayimg.com/BABjPaAEH
+
+anyone know how to fix it ?"
+,skoxpress,2012-08-27T19:40Z,"khaimmu
+
+This does not work.....go here.
+
+http://thepiratebay.se/torrent/7568275/VideoCopilot_ELEMENT_3D_Cracked_by_Spider"
+,TheEradicator,2012-08-28T01:51Z,The Spider crack works perfectly for me
+,TLacerda,2012-09-03T17:43Z,The program install correctly but the license file is fake.

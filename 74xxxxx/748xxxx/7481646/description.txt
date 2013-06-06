@@ -1,0 +1,56 @@
+General
+Complete name                            : Opening Ceremony of the London 2012 Olympic Games.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+Format profile                           : OpenDML
+File size                                : 1.56 GiB
+Duration                                 : 3h 51mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 968 Kbps
+Writing application                      : MEncoder r33883
+Writing library                          : MPlayer
+
+Video
+ID                                       : 0
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : H264
+Duration                                 : 3h 51mn
+Source duration                          : 3h 51mn
+Bit rate                                 : 859 Kbps
+Width                                    : 682 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.131
+Stream size                              : 1.39 GiB (89%)
+Writing library                          : x264 core 116 r2074 2641b9e
+
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 3h 51mn
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 156 MiB (10%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.60 video frame)
+Interleave, preload duration             : 527 ms
+

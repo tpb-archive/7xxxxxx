@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+[T],azaq318,2012-07-31T08:35Z,"The Game itself is Here:
+
+http://thepiratebay.se/torrent/7489510/
+
+This is just original 10 Levels Pack!"
+,chakarama,2012-07-31T12:35Z,"Where do you put this exactly , because i got it in every game folder and  i still don't see it . Its in the class menu right?"
+,Karlston,2012-07-31T23:22Z,chakarama : It's a 7-Zip archive. Did you extract the contents?
+,chakarama,2012-08-01T00:10Z,"Well yes , i got them in the scenes folder , i but i cannot see them ingame in classic menu right?"
+,chakarama,2012-08-01T00:20Z,Is the 10 levels coop only?
+,chakarama,2012-08-01T00:21Z,"I have the levels in scene folder all in (like finale ) , but i don't see anything in the menu inside the game"
+,reev92,2012-08-01T00:35Z,"thanks for the upload man, but you should change the torrent title, it looks like its the Orcs must die 2 without 10 levels, Im just downloading cause i've missclicked xD"
+,archblue1206,2012-08-01T23:08Z,i cant see the new maps..i extracted the zip then merge it with the data folder on the root of OMD2..still nothing..anyone got this to work?
+,archblue1206,2012-08-01T23:14Z,same problem here..i can see the maps in the scene folder but not in the game..anyone knows any solution?
+,w60664,2012-08-02T06:46Z,Can anyone please tell me how do I make this work?
+,nezdrav000,2012-08-02T15:58Z,"Same problem here. Copied the files into the OMD2 folder, overwrite the ""Data"" folder. Maps are in the folder now, but in game i cant see them. Is there anyone with a solution for this? Thanks"
+,NightRaven107,2012-08-02T21:28Z,The reason why this isn't working is because one file is missing - 201801.rear. It's 17KB.
+,archblue1206,2012-08-02T21:29Z,"ok, so how to solve it?"
+,w60664,2012-08-03T05:46Z,"@NightRaven107 tried it, still nothing"
+,synysponge,2012-08-04T18:35Z,Anybody found a way to make this work ? No level appear ingame.
+,ZtorkX86,2012-08-06T03:24Z,Is it possible these bonus maps are coop only? I've tried coop yet and I just finished the game normal (warmage) but nothing changed. :/
+,NightRaven107,2012-08-09T09:01Z,You'll need the Skidrow files and the missing 201801.rear file for the 10 classic levels to work.
+,NightRaven107,2012-08-09T09:46Z,"I'm constantly getting ""Database error"" when trying to add a comment here so at the moment I can't provide any links or directions."
+,Echosis,2012-08-11T04:46Z,"As far as I can tell, the original 10 levels do not work, I have the co-op working but I cannot get the 10 missing levels to show up"
+[T],FuCtUpPuNk,2012-08-13T23:34Z,@Echosis care to tell us how you got co-op working with this game?
+,zoranjoza,2012-08-14T23:23Z,"File is 221.01 MB but when u open Orcs_Must_Die_2_Missing_Levels.zip it says that its size is 221.01 but its packed 0 ! Please rearchive it,and upload again. Coz all people says its not working. When u open folder let say datascenesFinale there are 3 files but all three files are 0 size !"
+,0rochimaru,2012-08-25T16:25Z,"I've tried just pasting them to the ""scenes"" folder, and even swapping the 0kb .pak files with those of Orc(1)... but, nada.
+
+I think there's some file in Steam that directs Orcs2 to share the Orcs(1) directory (for the maps).  Hence why you need both games installed for it to work (and, indeed, why you do not have the ""classic"" maps in Orc2 upon installation).
+
+There may be a work-around, but I'm ficked if I know what it is.  The game doesn't have text based .ini files...  =/"

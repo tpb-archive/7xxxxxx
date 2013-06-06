@@ -1,0 +1,40 @@
+FUBAR Destroyer 2012 v3
+-----------------------
+
+A new version of this evil application!
+
+The previous version wasn't really good.
+There was a problem with the code, that made the program execute automatically on Vista.
+
+I have now solved that problem, and present here the new version.
+
+As always, you will be warned 2 times before installing this program. You cannot install it by mistake!
+
+Installation takes a few seconds. And nothing more happens.
+Next time any user logs into Windows, this program will present the user to a black screen, and delete all files on all harddrives and removable disks.
+
+If the user clicks anywhere on the screen, or try to terminate the program, Windows will immediately log out, and reboot the computer.
+
+THE DAMAGE IS PERMANENT!
+You can, of course, remove this program.
+But the damage that has already been done, is permanent and cannot be recovered.
+
+
+Here is how to remove it:
+1. Boot up in Safe-Mode.
+2. Open the Registry Editor (regedit.exe).
+3. Browse to this key:
+   HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run
+4. Delete the value named "FUBAR ShutDown 2012".
+
+
+
+Tested with:
+- Windows XP 32/64bit: OK
+- Windows Vista 32/64bit: OK
+- Windows 7 32/64bit: OK
+- Windows 8 32/64bit: OK
+
+
+
+/Ubehage

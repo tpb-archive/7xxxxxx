@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,RyanEricW,2012-07-02T16:51Z,"I can't delete the older torrent, this one should be fine in xp/7. Just let me know if there are any issues."
+,tmemphist,2012-07-02T22:06Z,"In case Your wondering what this is:
+
+DataMaster is a comprehensive data logging software for the older GM OBD diagnostic codes platform. 
+
+DataMaster was specifically written to give the end user comprehensive means by which to monitor their vehicles' performance, and includes data recording and playback of every sensor and PCM status bit in the system. In some cases, this is upwards of 130 data items!"
+,bluegizmo83,2012-07-05T09:52Z,Why share a cracked version of 3.4.1 when 4.0.1 is available and easily crackable...?
+,bluegizmo83,2012-07-05T09:56Z,Have you cracked TunerCat yet?
+,RyanEricW,2012-07-13T10:49Z,"Give me a link to the cracked 4.0.1 version. AFAIK this is the only one available as a torrent on the net.
+
+The only problem I have though is there is no ""COM 5"" port and I can't get data acquisition to recognize my interface as that's the only port on my laptop that works lol.
+
+TunerCat I'm working on"
+,bluegizmo83,2012-07-24T07:53Z,"TunerCat is super easy to crack... Here's how I did it.
+
+After installing TunerCat
+
+
+1. Open ""Regedit"" by clicking the windows Start button and typing ""Regedit"" into the search box (windows 7).
+
+2. In Regedit, navigate to: HKEY_CURRENT_USERSoftwareVB and VBA Program SettingswintunerInstall
+
+3. Double Click on ""evaltime"" on the right-hand side of the regedit window.
+
+4. In the ""Value data"" box, type ""150748"" without quote marks. 
+
+
+
+note: instead of entering 150748, you can enter any date value you want. the date system that is used is the ""1900 Date System"". this system counts the days elapsed since Jan 1st 1900. so the value I entered of 150748 corresponds to Sept 24th 2312, which is when the ""trial"" will expire."
+,bluegizmo83,2012-07-24T07:58Z,"And Datamaster 4.0.1 isn't on the internet yet and I'm not sure how to make it a torrent already cracked... But to crack it all I did was use a memory editor to find the memory location of the of the ""20 free logs"" you get with the trial and then I changed the memory value to 9999 and then closed Datamaster, once you re-open it you now have 9999 ""free logs"" to use "
+,jimlt1,2012-09-17T18:43Z,Hey bluegizmo83  do you have a link for tunercat obd2 or any other good software cracked?
+,jimlt1,2012-09-17T18:52Z,bluegizmo83  or how to crack DST ob2 by JET  Thanks 

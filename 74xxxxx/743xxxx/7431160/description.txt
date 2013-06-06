@@ -1,0 +1,50 @@
+General
+Complete name                            : A.Few.Best.Men.(2011).BRRip.480p.x264.Eng.AAC.5.1.AMX.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 903 MiB
+Duration                                 : 1h 36mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 308 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 8 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 36mn
+Bit rate                                 : 979 Kbps
+Maximum bit rate                         : 5 812 Kbps
+Width                                    : 720 pixels
+Height                                   : 304 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.186
+Stream size                              : 676 MiB (75%)
+Writing library                          : x264 core 125 r2200 999b753
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 36mn
+Bit rate mode                            : Variable
+Bit rate                                 : 325 Kbps
+Maximum bit rate                         : 425 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 224 MiB (25%)

@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,EpicStylez,2012-07-07T23:06Z,"Great thanks, ill be seeding for a few months."
+,Jump_Jipper,2012-07-11T16:11Z,"While your torrent information says that this is both an english and russian copy, mine is completely in russian. How do I set the language to english?"
+,Jump_Jipper,2012-07-11T21:36Z,"Nevermind, I found out through trial and error.
+
+If you go to ""rev"" configuration file, you are able to change an entry from language=Russian to lanugage=English"
+,sarac_FPS,2012-07-11T21:38Z,"to change language to english , go to instalation folder killingfloor , find and open REV file configuration settings and change line 
+Language=Russian  to  Language=English 
+save and you are done.. :)"
+,BungiedefenderS,2012-09-06T07:00Z,"ok when i go to rev config file i change Russian to English then when i save it says ""cannot create Program Files (x86)/KillingFloor/rev.ini file make sure that the path is correct so when i go to it its correct HELP"

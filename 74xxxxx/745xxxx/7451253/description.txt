@@ -1,0 +1,10 @@
+This is version with integrated CamCodec. By default resolution is set for YouTube upload.
+NOTE: Short Keys resets if we look for once at their configuration! So we have to configure short keys again! Before start you have to select one cursor from Windows 7 system! Not by default! Otherwise it will missing.
+
+HISTORY: CamStudio was originally released by a company called RenderSoft who were subsequently bought by a company called eHelp who used some of the technology in their program, RoboDemo ...
+
+Some time later, eHelp was bought by Macromedia who wanted RoboDemo (which was to become Captivate) ...
+
+Knowing that CamStudio did some of the stuff RoboDemo did for free (mainly export to streaming Flash), they released a newer version which fixed some bugs but most importantly, removed certain features. Gone was the ability to create SWFs, added was the requirement to register to use it, and over time, links to the various webpages that had CamStudio and its source code, became broken.
+
+However, I managed to find an earlier version complete with the related CamStudio video codec (comparable to Techsmith's excellent TSCC), the source code for both and just put the website up so people could download them ...

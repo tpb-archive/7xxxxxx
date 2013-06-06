@@ -1,0 +1,71 @@
+Format                           : MPEG-TS
+File size                        : 783 MiB
+Duration                         : 6mn 53s
+Overall bit rate mode            : Variable
+Overall bit rate                 : 15.9 Mbps
+
+Video
+ID                               : 17 (0x11)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@High
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Custom
+Format settings, GOP             : M=3, N=30
+Codec ID                         : 2
+Duration                         : 6mn 53s
+Bit rate mode                    : Variable
+Bit rate                         : 14.7 Mbps
+Maximum bit rate                 : 65.0 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.237
+Stream size                      : 725 MiB (93%)
+
+Audio
+ID                               : 20 (0x14)
+Menu ID                          : 1 (0x1)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 129
+Duration                         : 6mn 53s
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : -439ms
+Stream size                      : 18.9 MiB (2%)
+Language                         : English
+
+Text #1
+ID                               : 17 (0x11)-608-1
+Menu ID                          : 1 (0x1)
+Format                           : EIA-608
+Muxing mode                      : A/53 / DTVCC Transport
+Muxing mode, more info           : Muxed in Video #1
+Duration                         : 6mn 53s
+Bit rate mode                    : Constant
+Stream size                      : 0.00 Byte (0%)
+
+Text #2
+ID                               : 17 (0x11)-1
+Menu ID                          : 1 (0x1)
+Format                           : EIA-708
+Muxing mode                      : A/53 / DTVCC Transport
+Muxing mode, more info           : Muxed in Video #1
+Duration                         : 6mn 53s
+Bit rate mode                    : Constant
+Stream size                      : 0.00 Byte (0%)

@@ -1,0 +1,56 @@
+Complete name                            : zeljka voli pusit.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 12.9 MiB
+Duration                                 : 2mn 49s
+Overall bit rate                         : 641 Kbps
+Writing application                      : MEncoder SVN-r29352(20090610-gcc4.3.3)
+Writing library                          : MPlayer
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 2mn 49s
+Bit rate                                 : 502 Kbps
+Width                                    : 640 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 18.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.091
+Stream size                              : 10.1 MiB (78%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 2mn 49s
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 56ms
+Stream size                              : 2.58 MiB (20%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 26 ms (0.47 video frame)
+Interleave, preload duration             : 522 ms
+Writing library                          : LAME3.98
+

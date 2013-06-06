@@ -1,0 +1,26 @@
+This is the Call of Duty Black Ops with neoOps client files. You are able to play Singleplayer and Multiplayer, create your own dedicated servers and more!
+
+Package includes:
+- Map packs:  annihilation, first strike, escalation, rezurrection.
+- install dependencise script, Install VC2008 and DirectX
+- autologin dll
+- updater
+
+Please register at www.neogeneration.net to play.
+Copy content to annother folder and keep seeding :)
+
+How To Install!
+1) Run install_dependencies.bat
+2) Register on the forum www.neogeneration.net
+3) Run BlackOpsMP.exe and log in with the username and password you created at www.neogeneration.net.
+4) Enjoy playing!
+
+Optional: If you wish use autologin follow step below:
+
+Rename credui.sample.dll to credui.dll if you wish to use autologin feature
+In alterOps.ini enter your username on the first line, and password in a second line.
+
+
+Package is ready to play!
+
+Have fun!

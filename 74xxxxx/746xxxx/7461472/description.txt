@@ -1,0 +1,20 @@
+Supported File Formats
+ 
+Read: AAC, AIFF, Apple Core Audio Format (.caf), Apple Lossless (.alac), FLAC, MP3, RAW/PCM, Real Media (.rm), Sun (.au, .snd), Video (AVI, MXF, MP1, MP2, MP4, MKV, Quicktime, .vob, .wmv), Ogg Vorbis, Wave, WMA
+ 
+Write: AAC - 256kbps, AIFF - 24-bit PCM, Apple Core Audio Format (.caf), Apple Lossless (.alac), FLAC, MP3 - 320kbps, Wave - 24-bit, Wave - 32-bit, RAW/PCM 32-bit, Ogg Vorbis - 320kbps, WMA
+ 
+SpectraLayers system requirements
+ 
+Windows
+ * Microsoft┬« Windows┬« Vista┬« 32-bit or 64-bit SP2 or Windows 7 32-bit or 64-bit SP1
+ * Dual-core processor (quad-core processor recommended) 2 GB RAM
+ * 2 GB of free hard disk space (for temporary files)
+ * Supported NVIDIA or AMD/ATI GPU with 512 MB or more RAM:
+ * NVIDIA: GeForce GTX 2xx Series or higher with driver 285.62 or later. Quadro 400 or higher (or Quadro FX x700 or higher) with driver 285.62 or later.
+ * AMD/ATI: Radeon HD 47xx or higher GPU with Catalyst driver 11.7 or later. If using a FirePro GPU, FirePro unified driver 8.85 or later is required.
+ * 1280x720 display resolution
+ * Windows-compatible audio hardware
+ * Internet Explorer 8 or later, Firefox 10 or later, or Google Chrome 13 or later (for viewing help)
+ 
+Language : English

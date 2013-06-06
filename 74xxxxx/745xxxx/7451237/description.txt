@@ -1,0 +1,24 @@
+Source file:
+
+7733MB	WtBDWK_disc3.iso
+
+Ripper:
+
+HandBrakeCLI 0.9.6
+
+HandBrakeCLI options:
+
+--main-feature
+--x264-preset placebo
+--markers
+--deinterlace slower
+--encoder x264
+--two-pass
+--vb 1000
+--aencoder vorbis
+--aq 4
+--loose-anamorphic
+
+MD5sum:
+
+9c23aa1f34c85351e2124baf2247c87c *What the Bleep Do We Know? - Theatrical version.mkv

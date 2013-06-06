@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+[T],mrriser007,2012-07-11T06:22Z,"seed,comment,rate"
+,diego.vieira,2012-07-13T03:03Z,"nope, didn't worked - sorry"
+,diego.vieira,2012-07-13T03:13Z,"Ah, worked.
+After doing this:
+
+Xilisoft added a hidden registry key, which wont allow you to add any more keys after the first key gets blocked. So here is a workaround:
+
+1-Start
+2-Run
+3-Type in Regedit
+4-Select HKEY_USERS
+5-Press Ctrl + f (Search)
+6-Search for {C06F4056-C35F-4bf8-A93A-9F098F3E503D}
+7-Delete the Key, including the subkeys
+
+Credits to blackboxcard for writing the Instructions.
+Also Thanks to ChatChitto. "
+,dasp85,2012-07-14T16:06Z,"did not work for me. software hangs at ""initializing: FWPUCLNT.DLL"". patch didnt work. 
+
+imfc0.dll
+Patching Failed!"
+,access8,2012-07-15T18:53Z,Suggest a scan before unzipping.  AVG shows three Trojan horses.  
+,brianxxx,2012-07-16T00:19Z,Just a warning - AVG has very high false positive detection rate.
+,Damien74,2012-07-17T03:31Z,"Scanned with Kaspersky, no viruses."
+,Damien74,2012-07-17T03:46Z,"Thanks!
+
+And thanks for the info Diego, worked like a charm :-)"
+,rikiviki,2012-07-17T12:54Z,"I use latest version of ESET and no viruses detected. Thanks dude, works like a charm. Kudos for ur torrents. "
+,junyo21,2012-07-17T16:39Z,trial version... conversion limited in 3mins only. USELESS!!!!
+,frankejay,2012-07-19T05:25Z,"diego.vieira you're the man... it worked like magic!!
+name:  Senzati
+key :
+A4370-7970-7C42-5F552B16-5088-E2B3-2FD3"
+,SerSpec-V,2012-07-22T19:54Z,Do what diego.vieira said. After I patched it serials wouldn't work but once I edited the REG I typed in a serial/name from 7.1.0 and it worked. @junyo21 it's only trial if you have failed to patch/crack it. And AVG calls everything a virus so stop using it people. 
+,Tnx969,2012-07-23T09:34Z,diego.vieira>>> you saved my life!! Your trick works! Thankzz a lott!! I registered using my name and random key and it worked like charm!! Awsome stuff!!!
+,5a6r0s0,2012-07-27T12:34Z,"Thanks!!!  
+Works just fine with the patch:
+Xilisoft.4Media.ImToo.Multipatch.v0.4-BBB.exe
+(instructions are inside BBB.nfo newies!!!)
+
+1.- Disconnect from Internet
+2.- Install Software (but don't lunch it)
+3.- Copy patch to installed DIR
+4.- Apply patch (Which will replace a .dll file)
+5.- Now lunch the Soffware
+6.- Register with whatever info you like
+7.- Done
+8.- ah you can re-connect to internet NOW
+Note: any problems after registered, use Diego.Vera's workaround.
+
+Credits & Thanks to ChatChitto.
+His instructions still works many years after."
+,--downloader--,2012-07-31T12:16Z,Thanks @diego.vieira for sharing the instructions.  
+,kazkah96,2012-08-02T21:41Z,Thanks a lot. Works fine for me and I followed 5a6r0s0 's instructions.
+,the_blademaster,2012-08-10T01:42Z,Awesome. Thanks! That is all.
+,htvicky,2012-08-12T17:58Z,I can not register with their patching.
+,Ghayyurious,2012-08-12T22:21Z,"Thx for the Share. Excellent Work! 
+And Yea @diego.vieira
+Thx for posting the soltn bro..:)
+For Every1 else,
+1-Follow the Instructions mentioned in torrent.
+2-If Keys get busted then simply apply diego.vieira's Solution, u r gud to go then..:p"
+,the_blademaster,2012-08-15T20:20Z,"Mine keeps breaking every week or so, following diego.vieira's instructions in the comments work perfectly every time."

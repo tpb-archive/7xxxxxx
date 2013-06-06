@@ -1,0 +1,24 @@
+PowerISO - the program allows you to create, convert, extract, compress, edit and encrypt images of CD / DVD, and open them using the built-in emulator. In PowerISO used compression-decompression technology in real-time image files with the extension of DAA, which significantly reduces the size of image files. Files Images can be cut into pieces of various sizes and in a compressed form to send through e-mail programs or write to other media. Most importantly - files can be used directly without decompressing. It works with all major formats of images: ISO, BIN, NRG, CDI, DAA, MDF, BWI, B5I, LCD, CIF, P01, PDI, NCD, PXI, GI, FCD, VCD, C2D. There is a built-in emulator CD / DVD-drive.
+
+
+Main Features:
+- Support almost all CD/DVD-ROM image file formats (ISO, BIN, NRG, IMG, DAA and so on).
+Note: DAA (Direct-Access-Archive) is an advanced format for image file, which supports some advanced features, such as compression, password protection, and splitting to multiple volumes. It can be handled directly just like other formats, such as ISO, BIN, ...
+- Supports on-the-fly burning.
+- Supports UDF image file.
+- Create image file from hard disk files or CD/DVD-ROM.
+- Edit an existing image file.
+- Can edit and burn Audio CD image file.
+- Extract files and folders from image file.
+- Convert image files between ISO/BIN and other formats.
+- Make bootable image file, get boot information from bootable image file.
+- Make floppy disk image file.
+- Optimize files to save disk space while saving image files.
+- Mount image file with internal virtual drive. Even if the image file is saved as DAA format, the virtual drive can handle that format directly.
+- Support shell integration, such as context menu, Drag and Drop, clipboard...
+- Supports command-line parameters.
+- Can open XBOX image file.
+- Supports multiple languages
+
+Changes in PowerISO 5.3:
+- Some minor bug fixes and enhancements.

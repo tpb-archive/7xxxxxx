@@ -1,0 +1,31 @@
+What is RUNNING WITH RIFLES?
+
+RUNNING WITH RIFLES is a top-down sandbox shooter for PC/Windows, with emphasis on cooperation, squad leading and being a tiny soldier in a big war. The events take place on an open world battlefield divided between two factions, each trying to capture bases from the opposite side until the enemy has been wiped out from the area. The player takes the role of a private and fights along his/her comrades controlled by AI, slowly gaining influence over fellow soldiers through rank promotions from success in battles.
+
+When the influence grows, AI soldiers begin to follow the player starting as a combat pair, ultimately forming a 10-member squad. The AI squad commanding has been made as transparent as possible to avoid micromanagement and excess amount of keys or menus. The AI squad members e.g. find cover on leaderΓÇÖs signal from crouching, they spot enemies on their own and open fire if it fits the situation. When the leader uses a suppressed weapon for stealth approach, the squad will engage in fight only if the enemy manages to alert the surroundings by shouting or shooting.
+
+The soldiers die quickly, and the playerΓÇÖs soldier makes no exception. The game uses the simplest possible die-or-donΓÇÖt bullet hit model, which makes the gameplay extremely intense and challenging. Caution, frequent usage of covers, suppressing fire to buy time and staying with the group is highly encouraged; the heroic rambo-style risk taking will likely lead only to a quick death.. itΓÇÖs a beautiful way to go though.
+
+
+HowΓÇÖs it going with the project ΓÇô where are we now?
+
+3x 1km * 1km maps with 7-14 bases each
+total amount of soldiers up to 600 based on playerΓÇÖs preferences
+single player and online multiplayer modes, server browser
+two assault rifles, AK47 and G36
+two light machine guns M240 and PKM
+suppressed submachine gun MP5 SD
+shotgun Mossberg 500
+sniper rifle M24-A2
+grenades and mortar strikes
+take cover in trenches, behind sandbag walls, trees, crates and rocks, go crouch and prone (now with movement!), access roof tops
+day time changes; during the night the soldiers wonΓÇÖt see that far and wide, enabling better stealth opportunities
+commander AI orders squad leaders to move around in the world where needed
+killed in action, the player is simply reborn a different soldier (with rank retained) in the nearest peaceful base
+reinforcements spawn in each of the bases at times; thereΓÇÖs a maximum soldier capacity for each nation depending on amount of occupied bases
+simple squad control; command the squad to move to a position or regroup back to leader
+basic support for model, weapon and map modding; possibility to import custom meshes
+
+
+ 
+http://www.modulaatio.com/runningwithrifles/

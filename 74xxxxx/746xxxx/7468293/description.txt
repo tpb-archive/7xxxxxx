@@ -1,0 +1,37 @@
+A38 Irie Mafia HD.mp4
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 4.12 GiB
+Duration                         : 49mn 57s
+Overall bit rate                 : 11.8 Mbps
+Encoded date                     : UTC 2012-07-15 04:30:07
+Tagged date                      : UTC 2012-07-15 08:52:27
+Writing application              : HandBrake 0.9.6 2012030200
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 49mn 57s
+Bit rate mode                    : Variable
+Bit rate                         : 11.6 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 25.000 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.224
+Stream size                      : 4.06 GiB (99%)
+Writing library                  : x264 core 120
+Encoding settings                : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1,00:0,00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20,0 / qcomp=0,60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1,40 / aq=1:1,00
+Encoded date                     : UTC 2012-07-15 04:30:07
+Tagged date                      : UTC 2012-07-15 08:52:27

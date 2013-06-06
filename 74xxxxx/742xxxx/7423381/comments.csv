@@ -1,0 +1,110 @@
+﻿User Type,Username,Date,Text
+,-xbt-,2012-07-08T08:24Z,"===============================
+
+CONNECTING YOUR PS3 CONTROLLER TO YOUR COMPUTER:
+
+A. Setting up your computer for PS3 controller:
+  Open the MotionJoy.exe Installer run it.
+  1. Go to ""Driver Manager"" tab.
+  2. Plug in your playstation controller and it should appear on the list.
+  3. Select the controller under ""Hardware Location"" by checking the box.
+  4. click ""Load driver"" and let it install.
+  5. Go to ""Profiles"".
+  6. Select ""Playstation 3"" with the bullet marker.
+  7. Keep MotionJoy open.
+
+B. Setting up Bluetooth (Optional)
+    Open MotionJoy if it is not already open.
+  1a. Make sure your Bluetooth is on, if you have Bluetooth integrated into the motherboard.
+  1b. Make sure your Bluetooth is plugged in, if you have a Bluetooth Dongle.
+  2. Make sure your Bluetooth is the correct version. It needs to be version 2.0 or higher bluetooth.
+  3. Make sure your Bluetooth drivers are installed. Go to Device Manager in Windows to make sure they are installed.
+  4. Go to Driver Manager tab in MotionJoy.
+  5. You may notice that now you have a second thing there. Even if you have nothing plugged in you still see something listed under hardware location. It will be named like Port_#0004.Hub_#0003. Under the last column where it says MotionJoy on this same section, does it have a red X or a check mark? If it has a red X then you need to install the drivers. So just check the box for that hardware and click the button below that says, ""Load driver"". Wait for it to finish installing the driver.
+  6. It may ask you to restart your computer. If so, then restart your computer.
+  7. Open up MotionJoy application again if you have restarted your computer. Now click the BluetoothPair tab.
+  8. Now your bluetooth adapter should show up!
+  9. Now connect your PS3 controller to USB (it needs this to configure the Bluetooth).
+  10. Once it recognizes both the Bluetooth adapter and the DUALSHOCK 3 controller, then just click ""Pair Now"".
+  11. It still won't be working yet. Go ahead and unplug your PS3 controller.
+  12. Click on the Profiles tab. Under Connected game controller(s) you should see ""1.Dualshock 3/sixaxis (Bluetooth)"".
+  14. If so, then great. Just click the ""Enable"" button (probably a pink button).
+
+C. Getting ready:
+    Open Xpadder.exe and keep it open.
+  1. Go back to the MotionJoy window which you left open, or, reopen it.
+  2. Click ""Enable"" highlighted in pink.
+  3. Close Motion joy.
+  4. Repeat these steps before every use or glitches may occur.
+  5. Now your PS3 controller should be working over Bluetooth!
+
+p.s. You can still use your mouse and keyboard, and for certain things you might want to do so.
+
+
+
+Quote:
+FINISHING UP CONFIGURATION FOR USING PS3 CONTROLLER WITH DOLPHIN WII EMULATOR:
+
+STEP 1
+
+
+SCREENSHOT A
+Make sure that your Xpadder looks like the screenshot A.
+Keep Xpadder open, but go ahead and minimize it.
+
+STEP 2
+Put the file ""Everplex PS3 Controller Wii Config.ini"" in 
+Dolphin > User > Config > Profiles > Wiimote
+
+STEP 3
+Open Dolphin.
+
+STEP 4
+
+
+SCREENSHOT B
+Go to Options tab > Wiimote Settings
+
+STEP 5
+
+
+SCREENSHOT C
+Under Wiimotes choose ""Emulated Wiimote""
+Click the Configure button
+
+STEP 6
+
+
+SCREENSHOT D
+Under ""Device"" in the top left, choose
+DInput/0/MotioninJoy Virtual Game Controller
+
+STEP 7
+
+
+SCREENSHOT E
+Under ""Profile"" in the top right, choose
+Everplex PS3 Controller Wii Config
+
+STEP 8
+Click OK.
+Click OK again.
+
+DONE!
+Now you're ready to play your game!
+Enjoy!"
+,-xbt-,2012-07-08T08:24Z,"========================================
+
+Click on my name to get the rest of my torrents!
+
+http://thepiratebay.se/user/-xbt-/
+
+-XBT-"
+,doublfelx,2012-07-08T10:41Z,"Sorry if this is an off-top. I simply dont know if this site inform uploader about a new comment in his previous torrents, therefore I am posting here to make sure it gets noticed.
+
+I have a request regarding skyrim mods.
+Would You please add ""Garrett's Retreat V2"" in your next upload?
+http://steamcommunity.com/sharedfiles/filedetails/?id=78211614&searchtext=
+Thank You in advance."
+,-xbt-,2012-07-08T20:25Z,"@doublfelx:
+I will add that mod in my next Skyrim Mods Update torrent."

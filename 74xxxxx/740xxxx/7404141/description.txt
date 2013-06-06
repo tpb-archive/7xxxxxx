@@ -1,0 +1,16 @@
+N2KMaster's Wordzilla v1.0 - Dictionary File Creator
+----------------------------------------------------
+
+A friend of mine dropped a challenge on me. After failing with several word lists and dictionary files he pulled from the net, after failing with Reaver, after failing with several other apps, he asked me "Couldn't someone make a dictionary file generator that would spit out every conceivable combo?" This is the bastard child of that idea.
+
+It handles the following possible characters:
+Lower Case letters
+Upper Case letters
+Numbers
+and all the special characters you can make on the keyboard (ie !@#$%^&)
+
+Open Source, OF COURSE. (Why wouldn't I want someone else to fiddle with it considering it was strictly guess and test and worked BEAUTIFULLY. If you can make it work better, share your findings.)
+
+Its written in Python, works fine in BT and Ubuntu, if i could get a python converter that would make it exe for windows i'd offer it as well unfortunately nothings worked for my XP x64 yet. Its nothing l33t or nothing just a really well working idea. Be careful and expect one hell of a text file at the end of this, it writes to a wordlist file in the same directory. 
+
+If you ran it from the home folder in terminal "python wordzilla10.py" runs it. 

@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,Itchiga,2012-06-30T11:52Z,74.61 KiB & Anonymous ... Yeah thats 100% secure ..
+,johnsmax22,2012-06-30T12:02Z,"Well i can guarantee it works and if your worried the files are there separately from the exe/bat which are optional, just put the 0 byte key file and log file from the zomboid folder into your zomboid folder which is in your user profile directory."
+,xhizors,2012-06-30T21:22Z,"@Itchiga: It's not the game, it's just files you need for the game. You don't NEED to even open the exe file.
+
+Anybody know where to get the game files? I tried using this with 0.2.0q and couldn't get it to work, although I've had nothing but trouble with PZ... such a pain to set up. "
+,theaugiz,2012-07-01T09:57Z,You can get the game files from The Indie Stone forums
+,Retna,2012-07-01T18:03Z,"Had to install the batch version for it to work. Also, you can't just put both files in the Zomboid folder because one of them doesn't exist until you run that little installer, which automatically puts them in the folder."
+,xhizors,2012-07-02T21:28Z,"@Retna: Wrong, both of them exist. The issue you're having with the *.key file missing, is because it's a 0 Byte file meaning your torrent software won't download it. Just copy the file name from the file list, and make it yourself. You don't need an EXE to create an empty file."
+,xhizors,2012-07-02T21:30Z,"@theaugiz:Thanks much. I checked the site and saw 1.5 only, totally overlooked checking the forums; going to go check now."
+,xhizors,2012-07-03T00:27Z,"Works like a charm, thanks a bunch."
+,sangnabi,2012-07-03T07:33Z,"Tested, worked. Able to save and load. But sandbox only? I want to kill Kate."
+,Volcanus,2012-07-05T09:06Z,I can't enter Username and passworld? what is it?
+,Lopopo,2012-07-05T10:41Z,"I need help.
+I got the 2.0R RC2 files from the forum, put the 2 zomboid files into where i installed project zomboid and it's still not letting me get through the username and pass. 
+
+Am i missing something?"
+,ITzWhiteboy,2012-07-08T02:37Z,Lopopo: yeah I got the same thing checked notes and tried Password:FuckAssKey: and Username:FREEDOM and still nothing pls help!or tell us what we doin wrong...     -thx
+,ITzWhiteboy,2012-07-08T02:43Z,"I have same issue installed correctly and everything, used pass:FuckAssKey and user:FREEDOM but still cant get through pls help.   -thx"
+,ITzWhiteboy,2012-07-08T02:55Z,GOT IT 2 WORK! I figured it out thx
+,johnsmax22,2012-07-11T08:44Z,"For those with trouble read the notes clearly! The 2 files !Do Not! go into the game folder, they go in a folder in your windows user profile folder that has your game save files in it.
+Win7: C:-Users-(YOURUSERNAMEHERE)-Zomboid
+WinXP: C:-Documents and Settings-(YOURUSERNAMEHERE)-Zomboid
+And only copy the 2 files into that zomboid folder, do not create a second zomboid folder in that zomboid folder by copying the folder into the folder. When the game does not ask for a username or pw you did it correctly, any startup issues try the tips under game issues."

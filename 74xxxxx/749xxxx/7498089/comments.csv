@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,dhruv80,2012-09-04T14:23Z,there is no video on this video.I can only hear audio thats it.
+,manit123,2012-09-10T09:00Z,"to dhruv80 ,
+The video is great .
+Here is analysis by ffmpeg
+[code]
+f:ffmpeg-20120907-git-070b0e1-win32-stat
+icffmpeg-20120907-git-070b0e1-win32-staticbinffmpeg.exe -i f:torrentThe.Nan
+ny.Diaries.2007.BluRay.720p.H264The.Nanny.Diaries.2007.BluRay.720p.H264.mp4
+ffmpeg version N-44264-g070b0e1 Copyright (c) 2000-2012 the FFmpeg developers
+  built on Sep  7 2012 17:35:17 with gcc 4.7.1 (GCC)
+  configuration: --enable-gpl --enable-version3 --disable-pthreads --enable-runt
+ime-cpudetect --enable-avisynth --enable-bzlib --enable-frei0r --enable-libass -
+-enable-libcelt --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-l
+ibfreetype --enable-libgsm --enable-libmp3lame --enable-libnut --enable-libopenj
+peg --enable-librtmp --enable-libschroedinger --enable-libspeex --enable-libtheo
+ra --enable-libutvideo --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-li
+bvorbis --enable-libvpx --enable-libx264 --enable-libxavs --enable-libxvid --ena
+ble-zlib
+  libavutil      51. 72.100 / 51. 72.100
+  libavcodec     54. 55.100 / 54. 55.100
+  libavformat    54. 25.105 / 54. 25.105
+  libavdevice    54.  2.100 / 54.  2.100
+  libavfilter     3. 16.100 /  3. 16.100
+  libswscale      2.  1.101 /  2.  1.101
+  libswresample   0. 15.100 /  0. 15.100
+  libpostproc    52.  0.100 / 52.  0.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'f:torrentThe.Nanny.Diaries.2007.BluRa
+y.720p.H264The.Nanny.Diaries.2007.BluRay.720p.H264.mp4':
+  Metadata:
+    major_brand     : M4A
+    minor_version   : 0
+    compatible_brands: isomavc1M4A mp42
+  Duration: 01:41:15.20, start: 0.000000, bitrate: 1292 kb/s
+    Stream #0:0(und): Audio: aac (mp4a / 0x6134706D), 48000 Hz, stereo, s16, 64
+kb/s
+    Metadata:
+      handler_name    : GPAC ISO Audio Handler
+    Stream #0:1(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1248x720
+[SAR 1:1 DAR 26:15], 1224 kb/s, 24 fps, 24 tbr, 24k tbn, 48 tbc
+    Metadata:
+      handler_name    : GPAC ISO Video Handler
+[/code]"

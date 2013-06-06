@@ -1,0 +1,34 @@
+FUBAR ShutDown 2012
+-------------------
+
+A new version of this annoying program!
+
+This one will install as usual:
+Installation takes a few seconds, and nothing else happens.
+
+From this point, no user will be able to use Windows after login.
+This program will create a "moving flood" of windows, windows and more windows.....
+Windows will literally be unusable, because the view is getting blocked.
+And after some time, Windows will run out of resources and stall.
+
+If the user clicks any of these windows, or presses a key on the keyboard, Windows will immediately log off and shut down the computer.
+
+
+As usual, here is the way to remove it:
+1. Boot up in Safe-Mode.
+2. Open the Registry Editor (regedit.exe).
+3. Browse to this key:
+   HKEY_LOCAL_MACHINE/Software/Microsoft/Windows/CurrentVersion/Run
+4. Delete the value named "FUBAR ShutDown 2012".
+
+
+
+Tested with:
+- Windows XP 32/64bit: OK
+- Windows Vista 32/64bit: OK
+- Windows 7 32/64bit: OK
+- Windows 8 32/64bit: OK
+
+
+
+/Ubehage

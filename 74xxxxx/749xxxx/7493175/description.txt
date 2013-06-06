@@ -1,0 +1,17 @@
+For the unitiated, Ponibooru was a classic community of My Little Pony fans (also known as bronies) with a focus on image sharing and random discussion. As of this time, http://www.ponibooru.org/endofanera.html describes the situation of the site going read-only (and ultimately down), and many images have already become bit dust. Said page does link to several image archive torrents, including the infamous all-safe torrent known to cause severe client problems.
+
+This torrent contains the complete collection of SAFE-RATED Ponibooru pictures in a fashion that aims to compromise between convenience and portability.
+
+It is presented in over 80 RAR files. I use multivolume RAR files for two reasons. Firstly, this makes it easier to do a quick verification with the bundled SFV file. Secondly, this facilitates posting it to some other place like a newsgroup.
+
+As packaged, the filenames are only the number. Before you lot rage, you should know that Ponibooru had... interesting tagging practices. A LOT of these files will cause you to exceed the 260 path character limit intrinsic to Windows, if this is not extracted in the root path. Thus, to maximize usability across platforms, I made the filenames into just the primary keys for reference.
+
+You can restore the original filenames using the included rename.py script and the renames.csv spreadsheet. It has a brief online help viewable with the '-h' switch. THIS SCRIPT ASSUMES YOU KNOW WHAT YOU'RE DOING, so I will not explain how to run Python scripts. There is no reverse option merely because I'm not packaging this damn thing again, so please be careful. (It's very easy to write, though, if you need it and will be included if an update pack is released.)
+
+Within these RAR files are the following:
+
+* The complete 166642 image archive. There is not a lot of QC here versus the more selective safe torrent, but gems be here (if you're into this stuff). Again, the base filenames are renamed to just the numbers.
+* The original credits.txt file from the original torrent. This is really useful if you intend to write your own front-end viewer or somesuch and includes sources and the tags.
+* The rename.py script and renames.csv comma-separated values (CSV) file. These are for renaming each file back to the exact original filename to exact your personal Ponibooru clone.
+
+I probably still screwed something up, so let me know.

@@ -1,0 +1,59 @@
+Formato                          : Matroska
+Tamaño del archivo               : 1,38GIB
+Duración                         : 56min.
+Tasa de bits total               : 3 523Kbps
+Película                         : Spartacus (Venganza)  2x01 - Fugitivos
+Fecha de codificación            : UTC 2012-07-03 23:37:53
+Aplicación de codifición         : mkvmerge v2.1.0 ('Another Place To Fall') built on Aug 19 2007 13:40:07
+Librería de codificación         : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Formato                          : AVC
+Formato/Info                     : Advanced Video Codec
+Formato del perfil               : High@L4.1
+Ajustes del formato, CABAC       : Si
+Ajustes del formato, RefFrames   : 5marcos
+Modo Muxing                      : Container profile=Unknown@4.1
+ID Códec                         : V_MPEG4/ISO/AVC
+Duración                         : 56min.
+Tasa de bits                     : 3 261Kbps
+Ancho                            : 1 280pixeles
+Alto                             : 720pixeles
+Relación de aspecto              : 16:9
+Velocidad de cuadro              : 23,976fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8bits
+Tipo de exploración              : Progresivo
+Bits/(Pixel*cuadro)              : 0.148
+Tamaño de pista                  : 1,28GIB (93%)
+Título                           : Spartacus (Venganza)  2x01 - Fugitivos
+Librería de codificación         : x264 core 120 r2146 bcd41db
+Opciones de codificación         : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Idioma                           : Inglés
+
+Audio
+ID                               : 2
+Formato                          : AC-3
+Formato/Info                     : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+ID Códec                         : A_AC3
+Duración                         : 56min.
+Tipo de tasa de bits             : Constante
+Tasa de bits                     : 192Kbps
+Canal(es)                        : 2canales
+Posiciones del canal             : Front: L R
+Velocidad de muestreo            : 48,0KHz
+Tamaño de pista                  : 76,9MB (5%)
+Título                           : Spartacus (Venganza)  2x01 - Fugitivos
+Idioma                           : Español
+
+Texto
+ID                               : 3
+Formato                          : SSA
+ID Códec                         : S_TEXT/SSA
+ID Códec/Info                    : Sub Station Alpha
+Título                           : Spartacus (Venganza)  2x01 - Fugitivos
+Idioma                           : Español
+

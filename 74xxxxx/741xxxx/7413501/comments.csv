@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,moeburn1,2012-07-04T23:48Z,you're welcome ;)
+,Naxell,2012-07-05T23:14Z,"Great patch... It improved my performance much :P But i have one problem. When i play I'm thrown out of the game into the Menu for no reason. I haven't done anything, i was just driving when this happens, so i have to start all over. Do somebody know why or have a fix? :P"
+,besbeco,2012-07-06T20:14Z,I installed this patch and it worked well. But my keyboard stopped working. Could someone tell me what might cause it?!?
+,moeburn1,2012-07-11T17:22Z,"Naxell, I'm having the same problem, I'll let you know if I find a fix.  It sounds like the crack is no longer working..."
+,moeburn1,2012-07-28T10:25Z,"@Naxell and others, I found the solution to the problem of the game throwing you to the main menu after 30 seconds: You must delete your profile and make a new one :(
+
+Your profile is the folder called ""2988734"" or whatever numbers it is for you.  It is found in this directory:
+%userprofile%DocumentsSCANIA Truck Driving Simulatorprofile
+
+Delete it, move it somewhere else, just get rid of it.  Then start Scania, make a new profile, and now you get to have all the fun of setting up all your options again, and then losing all your saved games and progress!  YAY!"
+,Scaild,2012-08-02T19:54Z,"moeburn1 2012-07-28 10:25 CET:
+
+unfortunately, it's worked only for few first missions :( now it's throwing me to the main menu again "

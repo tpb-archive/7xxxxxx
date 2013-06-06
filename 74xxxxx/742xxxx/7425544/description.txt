@@ -1,0 +1,37 @@
+                                HandBrake x86 (32bit-Windows)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Details
+
+HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder, available for MacOS X, Linux and Windows.
+
+
+Supported Sources:
+
+    Most common multimedia files that libavformat and libavcodec support.
+    Any DVD or Bluray-like source which is NOT copy-protected. (removal of copy protection is not supported)
+
+Outputs:
+
+    File format: MP4(M4V) and MKV
+    Video: H.264(x264), MPEG-4(ffmpeg), MPEG-2(ffmpeg), or Theora(libtheora)
+    Audio: AAC, CoreAudio AAC/HE-AAC (OS X Only), MP3, Flac, AC3, or Vorbis. AC-3, DTS, DTS-HD, AAC and MP3 pass-thru
+
+Misc features:
+
+    Chapter selection, Chapter Markers
+    Subtitles
+        Vobsub and Closed Captions
+        SRT import and passthru
+        SSA passthru or burn-in (experimental)
+    Constant Quality or Average Bitrate Video Encoding
+    Support for VFR, CFR and VFR
+    Video and Filters: Deinterlacing, Decomb, Detelecine, Deblock, Grayscale Cropping and scaling
+    Live Video Preivew
+    Built-in presets for common devices
+
+
+Visit the HandBrake homepage at the link below:
+ 
+http://handbrake.fr/details.php

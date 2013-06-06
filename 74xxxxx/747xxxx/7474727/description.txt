@@ -1,0 +1,20 @@
+FreeNASΓäó is an Open Source Storage Platform based on FreeBSD and supports sharing across Windows, Apple, and UNIX-like systems.  FreeNASΓäó 8 includes ZFS, which supports high storage capacities and integrates file systems and volume management into a single piece of software.
+
+
+1. Insert the CDROM into the system and boot from it. Once the media has finished booting, you will be presented with the console setup menu.
+
+NOTE: if the installer does not boot, check that the CD drive is listed first in the boot order in the BIOS. Some motherboards may require you to connect the CD-ROM to SATA0 (the first connector) in order to boot from CD-ROM. If it stalls during boot, check the SHA256 hash of your ISO against that listed in the Release Notes; if the hash does not match, re-download the file. If the hash is correct, try reburning the CD at a lower speed.
+
+2. Press enter to select the default option of "1 Install/Upgrade to hard drive/flash device, etc.". The next menu will list all available drives, including any inserted USB thumb drives which will begin with "da".
+
+NOTE: at this time, the installer does not check the size of the install media before attempting an installation. A 2 GB device is required, but the install will appear to complete successfully on smaller devices, only to fail at boot.
+
+
+3. Use your arrow keys to highlight the USB or compact flash device then tab to OK and press enter. FreeNASΓäó will issue the warning reminding you not to install on a hard drive
+
+
+4. Press enter and FreeNASΓäó will extract the running image from the ISO and transfer it to the device. Once the installation is complete, you should see a message stating the installation was successful.
+
+5. Press enter to return to the first menu. Highlight "3 Reboot System" and press enter. Remove the CDROM. If you installed onto a USB thumb drive, leave the thumb drive inserted. 
+
+Make sure that the device you installed to is listed as the first boot entry in the BIOS so that the system will boot from it. FreeNASΓäó should now be able to boot into the Console setup menu described in Initial Setup.

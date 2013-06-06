@@ -1,0 +1,54 @@
+[img]http://img825.imageshack.us/img825/1364/wildgrinderss01e05outof.jpg[/img]
+
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 224 MiB
+Duration                                 : 22mn 4s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 419 Kbps
+Encoded date                             : UTC 2012-06-30 13:35:04
+Writing application                      : mkvmerge v3.3.0 ('Language') built on Mar 24 2010 14:59:24
+Writing library                          : Lavf53.31.100                            : 32
+AVCPROFILE                               : 77
+AVCLEVEL                                 : 30
+AACAOT                                   : 2
+VIDEOFRAMERATE                           : 30
+AUDIOCHANNELS                            : 2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Bit rate mode                            : Variable
+Maximum bit rate                         : 3 008 Kbps
+Width                                    : 640 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Original frame rate                      : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : No
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 22mn 4s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz / 22.05 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -67ms
+Default                                  : No
+Forced                                   : No

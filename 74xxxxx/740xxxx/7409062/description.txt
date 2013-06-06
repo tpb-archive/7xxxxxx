@@ -1,0 +1,60 @@
+
+
+General
+
+Complete name                    : American Reunion [2012]ENG[BRRip]XviD-{RedDragon}.mkv
+Format                           : Matroska
+File size                        : 735 MiB
+Duration                         : 1h 53mn
+Overall bit rate                 : 903 Kbps
+Encoded date                     : UTC 2012-07-02 06:40:04
+Writing application              : mkvmerge v4.4.0 ('Die Wiederkehr') built on Oct 31 2010 21:52:48
+Writing library                  : libebml v1.0.0 + libmatroska v1.0.0
+IMDB LINK                        : www.imdb.com/title/tt1605630/
+IMDB Rating                      : 7.2/10
+
+
+Video
+
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Muxing mode                      : Container profile=Unknown@4.0
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 53mn
+Bit rate                         : 765 Kbps
+Width                            : 720 pixels
+Height                           : 384 pixels
+Display aspect ratio             : 1.875
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.115
+Stream size                      : 623 MiB (85%)
+Writing library                  : x264 core 112 r1867 22bfd31
+
+
+Audio
+
+ID                               : 2
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Mode extension                   : MS Stereo
+Codec ID                         : A_MPEG/L3
+Codec ID/Hint                    : MP3
+Duration                         : 1h 53mn
+Bit rate mode                    : Variable
+Bit rate                         : 120 Kbps
+Nominal bit rate                 : 128 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Stream size                      : 97.9 MiB (13%)
+Writing library                  : LAME3.98r
+Encoding settings                : -m j -V 4 -q 2 -lowpass 17 --abr 128

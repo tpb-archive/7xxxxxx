@@ -1,0 +1,16 @@
+This torrent includes BMS 4.32 plus the updates 1 and 2.
+To install them, you need the Falcon 4.0 CD or an image of it (not included in this torrent).
+
+Installation
+
+1-Insert Falcon 4.0 or mount image.
+
+2-Unrar BMS 4.32 Setup, this will create a folder called "Falcon BMS 4.32 Setup" where you will find the setup.exe. *IMPORTANT* DONT DELETE THIS FOLDER EVEN AFTER 4.32 HAS BEEN INSTALLED.
+
+3-Start BMS 4.32 setup, when asked for, choose the drive in which falcon 4.0 is or mounted on. Finish 4.32 installation.
+
+4-To install Update 1, execute "Falcon_BMS_4.32_Update_1.exe", *IMPORTANT* when asked for installation directory choose the "Falcon BMS 4.32 Setup" folder I told you to not delete before, click next..etc.
+
+5-Now go to "Falcon BMS 4.32 Setup" folder and open the setup again, check "check the internet for product updates" and click next, let it verify data, it should show update 1 in the "downloaded" list, click next...etc.
+
+6-To install update 2 repeat points 4 and 5 with the second update.

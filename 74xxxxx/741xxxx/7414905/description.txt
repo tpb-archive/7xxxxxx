@@ -1,0 +1,4 @@
+Whats new in Adobe After Effects CS6 11.0.1:
+ Features added or changed in this update:
+ * The Nvidia GeForce GTX 680 (a new Kepler-class GPU) can now be used for GPU acceleration of the ray-traced 3D renderer on Windows. Note: An additional delay (approximately one minute) will occur the first time that you start After Effects with a Kepler-class GPU as the new ray-traced 3D library is initialized. Installation of updated display drivers may require this initialization step again.
+ * Enabled basic support for the AtomKraft composition renderer (requires plug-ins from Jupiter Jazz).

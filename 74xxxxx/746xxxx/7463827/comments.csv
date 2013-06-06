@@ -1,0 +1,87 @@
+﻿User Type,Username,Date,Text
+[T],trialNerror,2012-07-22T01:47Z,"if you want this to ""play in any div x compatible dvd player"" you might want to have the audio aligned on interleaves rather than split across.
+
+being split across will cause a/v sync problems for some (or many) stand alone players.
+
+just a heads up for future releases."
+[V],psspss,2012-07-22T03:21Z,"not if you use CBR for audio over vbr
+
+and the converters dont offer alignment not even avs converter"
+[T],trialNerror,2012-07-22T07:09Z,"yes even with cbr on some stand alone players. 
+
+alignment is not an option in any converter; it's how the converter muxes the audio and video.
+
+avs converter? seriously?
+that's what you use?
+heh. wow. anyway.
+
+avidemux aligns on interleaves.
+megui aligns on interleaves.
+
+the GOOD converters recommended on videohelp and doom9 mux properly and aligned on interleaves - cbr and vbr; not the junkware listed on softpedia or cnet.
+
+besides... was i even talking to you, pss?  no."
+[V],psspss,2012-07-22T07:37Z,"not sure what this group used to convert..
+but 
+I use mulitple converters.. sadly avidemux
+crashes with many mp4 and mkvs and you get weird stuff happening like green screens
+even if use avisynth on the video source to feed it
+2.6 beta is way better for mp4 but they messed up the avi container so win 8 wont even show a
+thumbnail.. but its beta.. also they call it divx instrad of 2.5 xvid
+sadly they still are very much slower at converting over the others too they not using threads properly on i7.. and Im sure they dont always do aligned as well.. seems random results
+(i did a test with it just now to recheck on a split video
+and told it to copy video and redo the audo
+with cbr etc) and alas it didnt align it still split
+even tried virtualdub with interleave enable and disabled same result.. so beats me what you can
+class a better converter as they all have problems
+and bugs
+
+VBR is bad news for audio espc for streaming or if becomes damaged years  later.. not even vlc will sync it
+after that.. makes it harder to fix.. always has sync problems so a small saving of data on audio
+channel vbr is not worth the hassle"
+[V],psspss,2012-07-22T08:08Z,"correction
+seems avidemux 2.5 can be forced to align if disable reservoir if only it was more stable with FLV and mp4s etc. "
+[V],psspss,2012-07-22T09:18Z,"I found a free tool called avimuxgui  (goodle it)that will fix a header or avi and mkv and align interleaves in under a minute since it dont need to re-encode so it wont matter which converter to use.. just run it through that at the end.. will ensure the mux is correct
+and I know tne werent addressing me but since your helping I might as well too.. since thats the spirit of sharing and the community right?"
+[T],trialNerror,2012-07-22T12:19Z,"here's a little (or lot) more help...
+
+the interleave option in vdub doesn't effect split or align. and if you cut out a clip with vdub it really helps audio sync if you cut at a keyframe. but from my experience it's better to convert audio outside of vdub, convert the video with vdub, then load both in a new vdub window and direct stream copy both. that sets the audio aligned on interleaves.
+
+and that's pretty funny what you say about abr audio botching videos after a few years. i've never ever had a video go bad sync cuz it had abr audio.  i have cd's with dvdrips on them from probably almost 10 years ago and still play perfectly and they have abr mp3 audio.
+
+oh well. whatever.
+
+yes, avi-mux gui will quickly fix and rewrite the avi header to align the mp3 audio.
+
+have you used megui?  it's a lil confusing at first but works fantastic. aligns audio on interleaves every time because it uses its built in avi-mux gui to mux avi video files.
+
+seriously megui is top rated for freeware video conversion, just takes a bit of time getting use to the interface.
+
+for what you do (converting other peoples work) you could open up megui; select One-Click on the bottom right of the main window; in the new window where it reads *scratchpad* click on the Config button next to it; in the config window set the resolution to 624, for the video encoding options select XviD 2-Pass HQ (preferred selection, default settings are perfect) or the single pass Const. Quantizer 2.0 HQ or Const. Quantizer 3.0 (default settings seem to be just fine. if end file is too large configure a higher CQ), at the presets options at the bottom of the XviD configure window click on New, name it to whatever you wish, click OK, back on the XviD config window for presets click on the Update button then OK.
+
+back at the encoding setup window select MP3 scratchpad the configure it. preferred decoder is usually NicAudio; output = Downmix Channels to Stereo (select even if input is already Stereo as you may convert 6ch AC3 in a MKV later); sample rate = Keep Original; apply dynamic range compression; normalize peaks = somewhere around 90; select ABR mode and set it to 136 (end result comes out to be approximately 128 kbps).  again, click on New to give the preset a name, update, and OK. almost done. now back on One Click config window make your settings a New preset, name it, click OK.  go to containers tab and make sure AVI is ticked. click OK.
+
+now returned to the One Click encoding window you'll see your newly created profile listed.  
+
+drag and drop your mp4/mkv into the input section at the top and click Go! that's it. wait a few minutes or so depending on video length and megui will spit out your precious avi."
+[V],psspss,2012-07-22T16:37Z,"i have a look
+
+i mean if the video file ever becomes damage at some point its hard to sync if its VBR over CBR
+and its the only copy on about. which has happened to me many times over the years,. espc
+bad dvd-r that rot sectors sitting on a shelve.
+
+also I do a lot more then just convert others files
+have you looked at my torrent list. ripping a usa or uk or ca webstream over tv stream is hardly 
+using others files only"
+[T],trialNerror,2012-07-22T20:02Z,"GM_CSH, sorry to use your torrent as something like a forum :D
+
+i forgot to mention that once you saved that profile in One Click it really is one click afterwards. Okay maybe three clicks total: One Click, drag n drop, Go!.
+
+if the video ever becomes damaged it's likely due to the hdd or data disc going bad, not the file itself. like i said, i have nearly 10 year old videos on CDs that still play just fine.
+
+and i know you cap web streams, but it's still not an original source like what i get from an HD box. no matter how you wanna look at it everything you do is other peoples' work. everything you touch has already been edited and made ready by someone else. you never have to do any grunt work such as deinterlacing or removing duplicate frames or blended frames. web streams are definitely other peoples work as someone (who works with the network perhaps?) has already done the hard stuff for editing and posted a clean video online. absolutely no different from when you download a tv show from me or a scene group. you got the easy end of the stick. cropping resizing and clipping is the most work you have to do.
+
+just sayin.
+
+i know you swear you have your own original sources.  nah. you really don't, pss. when you have an hd box plugged into your computer via firewire and record network broadcasts with software like tsreader so you're working with RAW 1080i or 720p .ts and .mpg video files, then it'll be correct for you to say you have original source.  *thumbs up*"
+,Neraforesta,2012-07-23T05:28Z,"I truly appreciate this you two. I would really like to learn how all of this converting takes place, and even more so some learning on what kind of hardware to use both at home, and in the theaters, ie..types of cameras preferred and such.  Can either of you recommend some forums to look into that can educate me more on these basics? Also, is there any introductory classes that can be found at community colleges or the like that can teach this so of use of software? Thanks again guys. You have a wealth of information in those noggins of yours. :)"

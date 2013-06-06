@@ -1,0 +1,55 @@
+
+The remaining finalists shoot promos that will determine the final three.
+
+
+
+[img]http://rapidimg.org/images/DYBLv.jpg[/img]
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 502 MiB
+Duration                                 : 41mn 58s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 673 Kbps
+
+
+Video
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Baseline@L3.0
+Format settings, CABAC                   : No
+Format settings, ReFrames                : 1 frame
+Format settings, GOP                     : M=1, N=12
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 41mn 58s
+Bit rate                                 : 1 516 Kbps
+Width                                    : 640 pixels
+Height                                   : 360 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.220
+Stream size                              : 455 MiB (91%)
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 41mn 58s
+Bit rate mode                            : Variable
+Bit rate                                 : 152 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 45.6 MiB (9%)

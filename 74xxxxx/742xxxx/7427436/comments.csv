@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,kirrbyss,2012-07-09T15:14Z,"After copying the .app to /Applications open Terminal and execute following commands:
+byss@byssmacbook:~/Downloads [17:10]$ sudo mkdir '/Library/Preferences/HL2 Lost Coast Preferences'
+Password: 
+byss@byssmacbook:~/Downloads [17:10]$ sudo chmod 777 HL2 Lost Coast Preferences/
+
+After this the app works perfectly."
+,kirrbyss,2012-07-09T15:15Z,"Sorry, second command is:
+sudo chmod 777 '/Library/Preferences/HL2 Lost Coast Preferences'"
+,mycophage,2012-07-09T21:50Z,"Possible virus problem.
+
+As I tried to move the app to the /Applications folder, Sophos Anti-Virus threw the following error:
+
+Threat detected by Sophos Anti-Virus
+'Virus/Spyware' Mal/VB-TR has been detected and listed in Quarantine Manager.
+
+Another problem arose during transfer, this one a system error:
+
+""The operation can't be completed because one or more required items can't be found (Error code -43)""
+
+I was using an account with administrator privileges, in OS 10.7.4.
+
+While Mal/VB-TR is Windows malware, I'm going to delete everything out of an abundance of caution. In any case, I can't actually transfer the file because of the Error -43. 
+
+If anyone knows of a workaround, please post here. In the interim, I'd recommend against seeding this torrent.
+
+To the original poster: Thank you for making the attempt to post this; I've been wishing I could play this for a long time. Hopefully we'll be able to figure out how to get a working version free of malware alerts sometime soon. Best of luck."
+,mycophage,2012-07-10T15:01Z,"Following up on my comment from yesterday: I took a chance and disabled my on-access virus scanning; this seemed to take care of both the malware warning and the ""file not found"" error. I continued the installation per the instructions and everything seemed to go fine. I'm assuming that MAL/VB-TR can only do mischief on Windows machines...I suppose we'll see."
+,mycophage,2012-07-10T16:06Z,"Cute game. Too short, sadly - finished in half an hour. Hard to believe they're selling this for $30 on Steam."

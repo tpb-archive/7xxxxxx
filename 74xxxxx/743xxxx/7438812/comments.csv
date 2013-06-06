@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,Cerebral222,2012-07-13T13:31Z,"Thanks for this nileshtambe, works well, updating is as described, but I'm mainly after drivers, so I can do that manually; this is a good version for laptops, I did a screenshot of the size on disk:
+
+http://bayimg.com/gApHfAadO
+
+Thanks again, +1 from me, cheers.
+"
+,nileshtambe,2012-07-13T13:56Z,"@Cerebral222
+thanks
+BTW about ur que on pic its ""Selena Gomez""
+Don't tell her that i am using her pic.....ha ..ha..
+windows installation size 1.99gb thats good"
+,extracube,2012-07-13T20:07Z,"Sorry Niles, do you think your steps listed above (to burn Win7 iso to bootable USB) would also work well with Windows XP?  Sorry for off topic question."
+,RinTosaka,2012-07-13T20:53Z,"This one lacks IE9, correct?  I'm just making sure."
+,b_addy,2012-07-13T21:17Z,"@extracube, that metod does'n work fo xp.
+To install xp  from usb, google WinSetupFromUSB."
+,b_addy,2012-07-13T21:18Z,"nileshtambe, in 698 mb you kept wmc, wmp and ie?
+Did you make a linux based verion? :P"
+,nileshtambe,2012-07-15T08:34Z,"@RinTosaka
+yep ur right no IE9 as iso going above 700mb
+
+@b_addy 
+thanks...."
+,extracube,2012-07-17T17:34Z,"Niles, I was wondering if you had a slim or light version of Windows XP -- reason I ask is because I have a 2008 Acer Aspire netbook with the slow ""flash"" hard drive.  Do you have a smaller, faster Windows XP?  I thought of going Linux but I need XP for some software."
+,nileshtambe,2012-07-17T18:02Z,"@extracube 
+do u know (eXPerience)
+http://thepiratebay.se/user/eXPer1ence/
+try this smallest one 99mb
+http://thepiratebay.se/torrent/4254053/MicroXP_v0.82_-_eXPerience
+
+for me problem is with my display (graphic card) all my laptops have either ati or nvidia graphic
+and  i don't have any graphic driver for xp, and never these companies released it for xp , so if i make one  cant test nicely and  slimming xp is totally  diff than 7.
+thanks for ur concern , good luck !!!!!!!!!!"
+,extracube,2012-07-17T19:24Z,"@niles, great, I will look into those, especially that 99mb one you listed, has a nice info writeup.  hopefully streamlined system = better speed, performance.
+
+@b_addy, up above, almost forgot - thanks for the file name WinSetupFromUSB, I downloaded it but yet to use. maybe this weekend..  thanks."
+,RinTosaka,2012-07-18T02:44Z,"extracube, I personally use ""XP Performance Edition"" by tj007s13.  With a stock installation it'll only use something like 80MB of RAM."
+,RinTosaka,2012-07-18T02:46Z,"Specifically, this one:
+http://thepiratebay.se/torrent/5973492/Windows_XP_Pro_Performance_Edition_SP3_November_2010"
+,ImKris,2012-07-20T00:12Z,"What the hell .. does this include just Windows Media Center, or the whole windows 7 download?
+
+I just need windows media center!"
+,extracube,2012-07-20T16:57Z,"Rin thanks for that.  Am downloading one right now, 326.19mb.  Will try on a day off."
+,Sukhpreet,2012-07-25T17:50Z,"Everything is working like wmp wmc ie9 but i've 1 prblm during installation of touchpad driver 
+"
+,Sukhpreet,2012-07-25T17:53Z,"To Install this application , the local security policy option 'user account control -detect application installation and prompt for elevation should be enabled."
+,nileshtambe,2012-07-25T20:27Z,"Control Panel (classic view)> User Accounts> Turn User Account Control On or Off> turn off the User Accout Control > restart> then try to install drivers.
+
+or  
+
+1. type regedit on the Start Search
+2. Go to HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionPoliciesSystem
+3. Delete the EnableInstallerDetection entry
+4. You can now try to run  installer even without rebooting or logout to your account. "
+,Sukhpreet,2012-07-26T09:24Z,Thanks it works . . .
+,bakchich,2012-08-25T19:36Z,Great version! but how can i have full admin rights with my one user?

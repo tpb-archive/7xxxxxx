@@ -1,0 +1,71 @@
+NetObjects Fusion 11 + Serials -[EC] incl. Update 1 
+
+
+****************************************************************************
+******************************* New Features *******************************           
+
+Pressing SHIFT + CTRL + TAB while in Page View (with more than one page open) 
+
+navigates backwards through the open pages.
+
+
+****************************************************************************
+****************************** Bugs Fixed **********************************
+
+- Multiple Layout Region
+
+Site Style now can be correctly applied to the Multiple Layout Region.
+
+It is now possible to write a Parameter Value in Multiple Layout Regions.
+
+
+
+-Forms
+
+Custom forms handlers are correctly saved as part of a template.
+
+Hidden form field values can be transferred to a variable.
+
+Forms Action 'Object initially visible in browser' now works correctly.
+
+
+
+-Component Related
+
+Custom SiteStlye can now be applied to Secure Site component.
+
+Secure Site Component sends e-mail to Admin at SignUp.
+
+Error 600 no longer shows for Guestbook when the user chooses in their publish 
+
+profile to 'Arrange Files by Flat'.       
+
+
+
+- Tables
+
+When 'Generate non-breaking spaces' is selected in the Table properties pane, and 
+
+one of the cells includes inserted HTML code the sign for inserted HTML no longer 
+
+disappears.Double clicking on a table cell no longer causes the page to jump and a 
+
+different cell to be selected.
+
+Inserting HTML code in a table based form no longer causes corruption of the 
+
+generated html.             
+
+
+- Javascript
+
+External Javascript files can now be imported from the assets folder.
+
+Picture rollover no longer causes Javascript errors.
+
+
+For More Info Go Here :- http://netobjects.com/html/11_5012.html
+
+Thankyou For Downloading 
+ 
+Enjoy And Seed As Much As You Can 

@@ -1,0 +1,12 @@
+
+Avira AntiVir Rescue System is a Linux-based boot disc that will detect and remove malware from a damaged PC.
+
+If a virus attack has affected your PC to the point where it will no longer start, then the Rescue System may help restore normal operations. And if you think your PC is infected by something, but your regular antivirus tool can't find it, then this could be a useful way to get a second opinion. Booting from a separate CD means that stealthy malware like rootkits will find it more difficult to hide, and you'll have a much better chance of detecting and removing them.
+
+It's easy to create the boot disc: just  run the application, place a blank CD in your drive and the program will burn the boot disc for you (no other burning software is required).
+
+Launch your PC from the Rescue System and choose option #1 to load it with the default settings. Initially the display will be in German, but click the Union Jack flag at the bottom of the screen if you'd prefer English.
+
+Click the Update button and the Rescue System will update itself with the latest antivirus definitions, if it can find an internet connection.
+
+Then use the Virus Scanner option, and the Rescue System will check your PC for malware, informing you of anything it discovers, removing the virus and hopefully restoring your PC to its normal working order.

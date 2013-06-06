@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+[V],.BONE.,2012-07-02T15:28Z,could of uploaded this days ago its not cracked so if you have not got rooted device its waste time downloading because you need to use lucky patcher then have to mess with titanium backup 
+,ajmason63,2012-07-02T16:15Z,sucks you gotta be online all the time I have the paid version.if someone was able to crack this could you use it offline?
+,warm_brown_fingers,2012-07-03T03:06Z,"No dice on Xperia Play.  Maybe i failed the last step?
+I assumed the googleplay.FFIII_GP folder went in SDcard/Android/data but that didn't work out so i tried creating the ""obb"" folder but no luck there either.
+
+Thanks anyway"
+,Ninja3870,2012-07-03T08:11Z,"Does not work on Rooted droid razr; 
+
+Waiting for a cracked version"
+,Caliyork1,2012-07-04T05:45Z,No go for me either. Followed directions perfectly and have used the TiBu method for a few other games. Patiently waiting for a cracked version. Can't complain about free :)
+,Xenous,2012-07-04T11:08Z,"Doesn't work. Followed instructions to the letter, the application simply reports 'An Error Has Occured' and closes."
+,Hypnos76,2012-07-05T18:28Z,Works Flawless on ASUS Transformer Tablet with ICS as OS.
+,Hypnos76,2012-07-05T18:45Z,Doesn't work on ASUS Transformer with ICS and Rooted.
+,Hypnos76,2012-07-05T18:49Z,Sorry that was ment for FF1 This one don't work
+,unperson_,2012-07-05T19:07Z,Did not work at first after following uploaders directions. Kept getting the connection error. Then used Lucky Patcher to remove license verification and it worked! Thanks for the tip @.BONE. I recommend trying lucky patcher if you are experiencing the error when connecting to the server at startup.
+,suprgamr232,2012-07-06T03:33Z,"Got it working on my HP Touchpad, quite frankly it's not as hard as everyone makes it out to be. 
+
+1. Download Torrent
+2. Download and install Lucky Patcher (requires Root)
+3. Download and install Titanium Backup (requires Root)
+4. Extract rar file to /sdcard/TitaniumBackup
+5. Copy folder to /sdcard/Android/Obb
+6. Go into Titanium backup, scroll to the bottom and hit ""Restore""
+7. Open Lucky Patcher
+8. Hit Final Fantasy III
+9. Hit ""Open Menu of Patches""
+10. Hit ""Remove License Validation!"" 
+11. Launch Game
+
+While it seems like a lot of steps, it took me 3 minutes. "
+,richrard1,2012-07-06T09:35Z,"I did not use titanium backup, just installed like normal, copied data to sdcard/Android/Obb and ran lucky patcher. Worked great"
+,ShiftyCarmel,2012-07-07T21:26Z,"Perfect instructions from suprgamr. Thank you sir, and thank you cad for the great upload."
+,MNeXuSK,2012-07-08T14:54Z,works fine. on galaxy s2. follow instructions. make sure you have rooted phone. make sure apk and date files are both v1. i had an issue when trying to load the game it wanted to download the game. i got this torrent with version 1.01 i think. replaced date file in odd and bingo worked fine. you will need lucky patcher . thanks
+,KillaKhronic,2012-07-12T02:38Z,"I have tried this on my rooted droid razr about a hundred times now. Ive tried the ways listed in the comments, every variation of them in every order conceivable, and I've tried it my own way for about a week now. It's not even my imputence. A buddy of mine has a RAZR, he got this working fine on it. He's tried it on mine and it just wont work. Troubleshooted troubleshooted troubleshooted. I hope that Cad40's release (with 168 peers) does not make a cracker look at FF III and decide, I'll skip this one, someoje else on TPB beat me to it. Someone. Crack. Please. I'm not spending $16 on this game....................well not yet."
+,K1ing,2012-07-12T22:07Z,"This works great on my Galaxy s3 with suprgamr232's instructions. 
+Thanks very much for the instructions and thanks alot to cad40 for the upload =)"
+,kian089,2012-07-13T15:24Z,dont work on Galaxy Y
+,Skyggles,2012-07-13T16:43Z,"Thanks OP.
+I had the 'An Error Has Occured', but then I ran the Lucky Patcher app and it now works.
+
+Running on rooted Galaxy 9000i w/CM9."
+,dilz669,2012-07-14T22:42Z,"Worked for me without titanium backup on Galaxy Nexus (Verizon) running ICS. Here's what I did.
+
+1) extract everything until you have the following
+- ""com.square_enix.android_googleplay.FFIII_GP-91c2830c799cf142f001cd287719b81b.apk"" file
+- ""data"" folder
+- ""com.square_enix.android_googleplay.FFIII_GP"" folder which is inside the SD data folder
+2) copy ""com.square_enix.android_googleplay.FFIII_GP-91c2830c799cf142f001cd287719b81b.apk"" to phone and install
+3) copy ""data"" folder to root of internal memory
+4) copy ""com.square_enix.android_googleplay.FFIII_GP"" folder into ""mnt/sdcard/android/obb"" folder (I had to create the android/obb part of the folder).
+4) copy ""Lucky_Patcher_2.0.8.apk"" to phone and install
+5) in lucky patcher, select ""Final Fantasy III"" from the list and hit ""Open Menu of Patches
+6) hit ""Remove License Verification""
+7) hit ""Auto mode!""
+8) hit ""ok"" then exit lucky patcher and play game"
+,nairobi19,2012-07-16T23:03Z,I used dilz669's method and it's working fine for me. 
+,quantump8,2012-07-17T18:43Z,I also used dilz669's method and it worked for me. Using Gtab ICS.
+,paparaaapa,2012-07-18T10:43Z,Do you need your android phone to be rooted?
+,ttuomo,2012-07-24T23:08Z,dilz669's method worked on my tablet.
+,merlino211,2012-08-01T16:30Z,"I think the key thing being missed for some users: If you are on a samsung device, and you have a non-stock rom (or possibly on stock too.) Everyones directions about placing files onto the SD card actually need to be placed onto the INTERNAL SD card. on Stock I believe this is called sd_emmc, on cyanogenmod or other AOSP roms this will be /emmc. This will resolve any issues with steps not working."
+,daeloki,2012-08-02T03:37Z,"suprgamr232 is right, I followed his instructions and this worked great on my Rooted Droid Bionic 232 ICS Leak."

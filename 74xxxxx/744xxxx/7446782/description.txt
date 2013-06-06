@@ -1,0 +1,16 @@
+What is MP4tools?
+MP4tools is a Mac OS X application used for the creation and editing of MP4 videos. It is an offshoot of another application called MKVtools, so if you are familiar with its operation, you should be comfortable using MP4tools. As the name might imply, MP4tools is a graphical interface for a variety of tools useful for processing video files. Mencoder and Mplayer do the brunt of the work. Limitations to MP4toolsΓÇÖ capabilities are most often due to limitations with these applications.
+
+When you open a video file in MP4tools, you will be presented with a list of video, audio and subtitle tracks contained in the file. Sometimes there will be enough information for you to determine what each track represents. If not, you can select a video and an audio track (and optionally a subtitle track) to preview the tracks in an mplayer window.
+
+Once youΓÇÖve determined which tracks you are interested in, you can either convert the tracks into an MP4 video, or you can extract the tracks individually to manipulate in your favorite video application. You also can edit MP4 files by either splitting or joining videos.
+
+Version History
+3.1.4 - 2/3/12
+
+* Fixed bug preventing DV video codecs from being opened.
+* Fixed a bug that caused some audio to be "lost" during processing.
+
+OS version: Intel Mac OS X 10.6 or later
+
+Credits to Special [K]

@@ -1,0 +1,62 @@
+Format                           : MPEG-TS
+File size                        : 598 MiB
+Duration                         : 4mn 37s
+Overall bit rate mode            : Variable
+Overall bit rate                 : 18.1 Mbps
+
+Video
+ID                               : 5500 (0x157C)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@High
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Custom
+Codec ID                         : 2
+Duration                         : 4mn 37s
+Bit rate mode                    : Variable
+Bit rate                         : 17.0 Mbps
+Maximum bit rate                 : 19.0 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.328
+Stream size                      : 562 MiB (94%)
+
+Audio
+ID                               : 5501 (0x157D)
+Menu ID                          : 1 (0x1)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 6
+Duration                         : 4mn 37s
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 6.34 MiB (1%)
+Language                         : English
+
+Text #1
+ID                               : 5503 (0x157F)-888
+Menu ID                          : 1 (0x1)
+Format                           : Teletext Subtitle
+Language                         : English
+
+Text #2
+ID                               : 5504 (0x1580)
+Menu ID                          : 1 (0x1)
+Format                           : DVB Subtitle
+Codec ID                         : 6
+Language                         : English

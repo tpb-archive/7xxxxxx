@@ -1,0 +1,21 @@
+Xslimmer removes wasted space on your Mac's hard drive by removing the binary from either its PowerPC or Intel code (depending on the system architecture used). The result users report is that you can save 47% of your disk space.
+
+For example, when running Xslimmer on Google Earth 4, it shrinks the size from 101MB to 52.8MB, which is a 47% reduction.
+
+As the developer states, the driving goal of Xslimmer is to achieve size reduction without compromising functionality. As of version 1.2, the option to strip applications from unwanted language files and localizations is added. Version 1.2.7 improves Leopard support by automatically excluding Time Machine paths from the analysis process.
+
+Additional features for safe use include a "blacklist" and a custom folder list (which is by default populated with key system locations). This prevents problems with applications (or the system itself) that will no longer work after size reduction.
+
+With the "App Finder Genie", a user can list all size reducible applications on the hard disk and choose to slim them and save a considerable amount of hard disk space.
+
+
+What's New
+Version 1.9:
+
+* Adds compatibility with OS X 10.8 Mountain Lion
+
+
+Requirements
+PPC / Intel, Mac OS X 10.3.9 or later. 
+
+Credits to TOBW

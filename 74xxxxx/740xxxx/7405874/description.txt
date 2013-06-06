@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+   Guilty.of.Romance.2011.BluRay.720p.x264-MySiLU
+--------------------------------------------------------------------------------
+[RELEASE INFORMATION]
+RELEASE.NAME...: Guilty.of.Romance.2011.BluRay.720p.x264-MySiLU
+RELEASE.TIME...: Sun Dec 11 15:35:48 2011
+IMDB.LINK......: http://www.imdb.com/title/tt1743724/
+IMDB.RATE......: 7.1/10 from 198 users   
+FILM.GENRE.....: Drama   
+RUN.TIME.......: 113 mins 1 seconds
+SIZE...........: 3.28 GiB
+CONTAINER......: mkv
+VIDEO..........: AVC High@L4.1 CABAC=Yes RefFrames=8
+FRAME.RATE.....: 24.000 fps
+BIT.RATE.......: 3 513 Kbps
+ENCODED.LIBRARY: x264 core 120 r2120 0c7dab9
+RESOLUTION.....: 1280 x 692
+ASPECT.RATIO...: 1.850
+AUDIO..........: AC3  2.0  48.0 KHz 640 Kbps Japanese
+RIP.SOURCE.....: Blu-ray
+RIPPER.........: www.mysilu.com
+--------------------------------------------------------------------------------
+[RELEASE NOTES]
+--------------------------------------------------------------------------------
+[PLAYBACK RECOMMENDATION]
+1 Finalcodec Player: -  http://www.mysilu.com/forumdisplay.php?fid=318
+2 Video decoder:
+  ffdshow -  http://ffdshow-tryout.sourceforge.net/
+  COREAVC 1.8 (Standard deblocking)
+3 Audio decoder:
+  ffdshow -  http://ffdshow-tryout.sourceforge.net/
+  AC3filter-  http://ac3filter.net/
+4 Haali media splitter -  http://haali.cs.msu.ru/mkv/
+5 Set "Keep Display Aspect Ratio"

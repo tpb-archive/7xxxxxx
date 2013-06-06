@@ -1,0 +1,20 @@
+BBC London Olympics 2012 Cycling Road Race Women 468p HDTV x264 AAC
+
+Womens's cycling road race that starts and ends in the Mall.
+
+Technical Spec
+Container: MKV
+Video Codec: x264 CABAC High@L3.1
+Video Bitrate: CRF 27
+Video Aspect Ratio: 16:9
+Video Resolution: 832x468
+Audio Codec: HE-AAC
+Audio Bitrate: 128 Kbps ABR 48KHz
+Audio Channels: 2
+Run-Time: 266mins
+Framerate: 25FPS
+Number of Parts: 1
+Part Size: 2.97 GB
+Source: HDTV
+
+You could extract the h264 and AAC streams from the MKV using mkvtoolnix tools and re-mux them into a MP4 using MP4Box. Remember to set the audio signaling flag for the HE-AAC in the container.

@@ -1,0 +1,42 @@
+Image size: 5.020.352.512 bytes (dual layer DVD needed)
+
+MD5 (OS X 10.8 Install DVD.iso) = 161b4ff7674a6a1d8f8967708fec686e
+
+Contents:
+
+OS X Mountain Lion GM Seed (Build 12A269)
+
+MD5 (InstallESD.dmg) = 8b4869920cd740414fe6b7e3f0b1be3e
+
+Modified files:
+System/Installation/Packages/OSInstall.mpkg
+System/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall
+
+Added files:
+System/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext
+usr/standalone/i386/cdboot (Chameleon v2.1svn r2013)
+Extra/Preboot.dmg
+
+Preboot.dmg contents:
+Extensions.mkext
+org.chameleon.Boot.plist
+
+Extensions.mkext contents:
+AHCIPortInjector.kext
+AppleACPIPS2Nub.kext
+FakeSMC.kext
+IOAHCIBlockStorageInjector.kext
+NullCPUPowerManagement.kext
+PXHCD.kext
+VoodooPS2Controller.kext
+VoodooPS2Keyboard.kext
+VoodooPS2Mouse.kext
+VoodooPS2Trackpad.kext
+
+
+If you get KP related to ApplePolicyControl.kext or problem related to graphics card, use HackBoot 
+http://olarila.com/forum/viewtopic.php?f=26&t=1616
+
+
+More info 
+http://olarila.com/forum/viewtopic.php?f=27&t=1644

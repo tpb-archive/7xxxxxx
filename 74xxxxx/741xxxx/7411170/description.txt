@@ -1,0 +1,24 @@
+MeguIV is a portable one-click version of the MeGUI DVD encoder preconfigured with state-of-the-art
+deinterlacing & carefully tuned presets.
+
+- - - - - - - - - - - - - - - - - - - - - - - -
+
+Capabilities
+
+    No messy installation or configuration required, just double-click the .EXE to start.
+    Sharp, clean, and detailed video output every time.
+    Your choice of MP4 or MKV container.
+    Your choice of MP3 or AAC audio.
+    Anamorphic video output (720 pixel width) with aspect ratio signalling.
+    Chapters are created automatically and have perfect timecodes (official MeGUI builds do not).
+    Perfect aspect ratio autodetection (official MeGUI builds have 3% horizontal stretching).
+    Multithreaded deinterlacing (TempGaussMC) to take advantage of multi-core systems.
+
+System Requirements
+
+    Windows XP/2003 or higher
+    15-25GB free space for temporary files that are created during encoding.
+    An SSE3-capable multi-core CPU (the more cores the better! The deinterlacing used in meguIV is very demanding.)
+    Microsoft .NET Framework 2.0 or higher (for example .NET 3.5). You probably already have it installed.
+
+A short tutorial in RTF format is included in the torrent. Read it carefully!

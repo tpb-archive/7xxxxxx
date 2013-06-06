@@ -1,0 +1,287 @@
+﻿User Type,Username,Date,Text
+,mphsdave1,2012-07-01T23:33Z,This has the same serial as LS 2.5.2 which has been blacklisted and will not pass the 3 hr. test.
+,kendeats,2012-07-02T01:30Z,"Serial does not work, is blacklisted."
+,kizo973,2012-07-02T02:52Z,"Disconnect from the internet before installing, and before you reconnect, create rules to block the following applications:
+
+Applications/Little Snitch Configuration
+Library/Little Snitch/Little Snitch Network Monitor
+Library/Little Snitch/Little Snitch UI Agent
+
+Working like a charm, thank you!"
+,FastForwarder,2012-07-02T07:00Z,"Get real kizo973. That's newby bullshit. You can be disconnected from the internet for days and it still won't stop this blacklisted serial from failing. LOL
+Blacklisted serials are encrypted into the software."
+,mphsdave1,2012-07-02T07:50Z,"Thanks FastForwarder, you made my point even before I could get back & post."
+,pryingeyes,2012-07-02T10:53Z,"To put it even more bluntly:
+
+Do NOT install this update. You'll lose Little Snitch if you do. If you are seeding this, STOP NOW! No one should download this.
+
+Until a new serial is available, this is very bad news. "
+,pryingeyes,2012-07-02T10:57Z,"Although ProGemist has uploaded quite a few files here, they have all been TV shows until yesterday, when he uploaded two Mac files. He put the first one in the wrong category, and now this one, which is disastrous. With all due respect to ProGemist, it appears he needs to learn a little more about Macs and Mac torrents. I'm sure he will, but for now, STAY AWAY FROM THIS!"
+,GSPT,2012-07-02T11:44Z,Thanks for the warnings.
+,lex.usa,2012-07-02T11:44Z,Bad Serial shit...
+,FastForwarder,2012-07-02T15:50Z,mphsdave1 it's the same thing every update. Some newby clains to block this or that and the blacklisted serial worked. People smarter than me and the uploader already tested the serial and it failed. They also tested known blacklisted serials with a fresh os install and never allowed the internet on and the serials always failed.
+,FastForwarder,2012-07-02T15:51Z,LOL. Typo above. clains = claims
+,loadeddice,2012-07-02T18:46Z,"If you installed this, shit-can it before it allows your software to start calling home. I took it off immediately and put the previous version back on, which works. "
+,pryingeyes,2012-07-02T19:54Z,"Just to be clear, the software doesn't ""call home."" The provided serial is already imbedded in the software, and the first time the app decides to try to ""call home"" it recognizes the bad serial and disables itself immediately. That distinction is important so that nobody continues to think that properly setting up LS to prevent it from checking its own serial will work.
+
+If you've installed this new one and, a few hours later, watched it die, you can find tutorials on the web for completely removing it, and then you can install an older version. Simply running the ""uninstall"" process in the software is not enough. There are additional files in /library and ~/library that need to be removed. Uninstall first, so that those files are no longer active and thus can be trashed. (Remember that you can access ~/library by holding down the Option key while clicking the Go menu in the Finder.) Then empty the trash, reinstall, disconnect from the internet, serialize the old version of the app, and block the connections noted above. Only then can you safely reconnect to the net."
+,pryingeyes,2012-07-02T20:11Z,"The list of seeders just keeps getting longer -- people, PLEASE STOP!!!"
+,pryingeyes,2012-07-03T00:09Z,"Other files that must be deleted after running ""uninstall"" (see my comment right above this one).
+
+/Library/Application Support/Objective Development/Little Snitch/
+
+~/Library/Application Support/Little Snitch/
+
+~/Library/Preferences/at.obdev.LittleSnitchConfiguration.plist
+
+~/Library/Preferences/at.obdev.LittleSnitchNetworkMonitor.plist
+
+~/Library/Preferences/at.obdev.LittleSnitchInstaller.plist
+
+The “~” tilde sign refers to your home folder."
+,pruizw,2012-07-06T00:01Z,Thanks for the warning about bad serials. Will look for earlier versions
+,aneagle,2012-07-12T07:08Z,"It's just the timer, it shows a warning and stops working by itself after 3 hours but it works again for another 3 hours after reboot."
+,aneagle,2012-07-12T09:36Z,No more 3 hours limit after replacing the file lsd with the one from 2.5.2
+,PeterHolbrook,2012-07-12T18:41Z,"@aneagle: Thank you for your ""lsd insight"". It does seem to work."
+,dima_almaty,2012-07-13T10:27Z,"i make it work after:
+1. 
+disabling
+
+Applications/Little Snitch Configuration
+Library/Little Snitch/Little Snitch Network Monitor
+Library/Little Snitch/Little Snitch UI Agent
+
+2. 
+use 2.5.2 key"
+,PeterHolbrook,2012-07-13T11:35Z,"@dima_almaty, it's unfortunate that you insist in spreading WRONG information. No, what you say DOES NOT WORK AT ALL. It will stop all filtering after three hours. For the 2.5.2 serial to work, you need the 2.5.2 lsd. Period."
+,dima_almaty,2012-07-13T21:22Z,"@PeterHolbrook sorry dude, you right after some hours Snitch show me warnings and go to demo mode."
+,PeterHolbrook,2012-07-14T22:36Z,"The ""lsd"" replacement procedure is no longer necessary, as apparently a valid key has surfaced."
+,aneagle,2012-07-15T03:23Z,"@PeterHolbrook, did you see the new valid key? BTW, I visited the hot discussion on Demonoid. This is how I understand  after trying iDAQ on some relevant files but too lazy to dig deeper: LSD got 2 separately jobs, checking locally if the key is correct (key checker is in LSD, corresponding key generator is on their server) and killing the app. The kill function uses a timer which is reset when LS is started at boot (that's why LS works again after reboot), it kills LS if no key confirmation received from server at the end of the 3hour count. I did not try to see what happen after 72 hours, first time I heard about that."
+,PeterHolbrook,2012-07-15T11:50Z,"Yes, I saw the key that has surfaced. Actually, I just announced it immediately before your message.
+
+Once LS is deactivated after three hours for using a revoked key, you DON'T need to reboot. It goes on working for another three hours if you enter another revoked key (at least, a recent one).
+
+In any case, I'll remember your method for future releases of LS. Extremely useful and reliable. Thanks."
+,dima_almaty,2012-07-17T17:18Z,"try this add to hosts:
+
+127.0.0.1 obdev.at"
+,enzo5900,2012-07-26T03:18Z,Well what is the new serial? =P
+,elcangrejoloco,2012-07-26T11:10Z,"Hey, Here is a password working for me with this version :
+
+32R9287JT0-72ELM-Y7XM6MNFJ8"
+,Zygfried,2012-07-26T20:21Z,"32R9287JT0-72ELM-Y7XM6MNFJ8
+Thats the code from 2.4.4 that I had before, it does NOT work with 2.5.3
+
+we need a valid 2.5.3 key or a 3.0 preview key"
+,thisisntart,2012-07-26T23:59Z,$35 bucks? paid. that app is the reason there's even a mac community on here. #respects
+,KOE88,2012-07-27T02:18Z,"try this key 32SJN9LE70-724J9-P06LEU8PCP I was playin around with my Issue of KCNScrew and went to serial numbers then to Version 2.4.2 and just tried the 2nd key it had for that version just to see what would happen and sure enough it worked see if it will work for you as well please confirm on here if it does so other ppl can use it  
+
+hope this helps you guys "
+,KOE88,2012-07-27T02:25Z,"32SJN9LE70-724J9-P06LEU8PCP
+
+try this key I got it from my issue of KCNScrew 
+it's from Version 2.4.2 however it works it gave me a family license up to 5 computers 
+
+please confirm if it does or doesn't work for you so other ppl will know 
+
+Thanks "
+,ssiixx,2012-07-27T06:00Z,"I can confirm that 32SJN9LE70-724J9-P06LEU8PCP does NOT work. It worked for a good three hours, and then caught it. 
+
+Since I updated to mountain lion, the older versions of littlesnitch won't install, so hopefully someone can figure something out. "
+,Zygfried,2012-07-27T20:21Z,"I've tried those codes also, 3 hours… then shuts down again.
+
+however, doing a little searching on other Mac torrent sites I found this.
+http://www.mac-torrents.com/torrents.php?mode=details&id=b06be522fd5257884c8caa83b83397e702901aed
+it includes 2 serials, 1 for 2.5.3 and one for 3.0
+
+I downloaded the official preview from obdev.at (just to make sure it was safe) and used the included 3.0 code. it's been 24 hours now and no problems. (I have not tried the 2.5.3 code inside though)
+Just follow the same instructions others posted, turn internet off, block the connections and then turn internet back on."
+,alexpires,2012-07-29T15:53Z,"Thanks Zygfried! 
+
+THE VERSION OF THIS TORRENT DIDN'T WORK TO ME!
+
+Use LS 3.0 instead this version as I describe: 
+
+1. Download 3.0 version from obdev.at
+2. register with this serial: 33TG8HF5E0-715JX-WU1JMPGRCS
+3. Have fun!"
+,ouille,2012-07-29T17:32Z,"Guy's,
+
+The version 3.0 you speak about is a free beta version available to everybody on the official website of little snitch.
+
+If you look under the download linkof 3.0 beta, you see in RED that it will work until 1st of september 2012.
+
+So, it will help until september, but it is NOT a definitive solution for the ones running Mountain Lion..."
+,enzo5900,2012-07-29T19:43Z,"^^ Someone verify the 2.X serial that's in that same torrent, working with 2.5.3?"
+,Anonymust,2012-07-29T22:44Z,@Enzo I can confirm that 2.x serial from the Mac-torrent does NOT work past the 3 hours...
+,enzo5900,2012-07-30T00:14Z,Thanks for the confirmation. Sigh... This is holding me back from upgrading to ML lol. 
+,Anonymust,2012-07-31T00:59Z,"I used this serial and the 2.5.3 included and it ran for 5+ hours with no ""invalid"" alert.
+torrentreactor DOT net/torrents/5767353/Little-Snitch-2-5-3-iKMN"
+,Anonymust,2012-07-31T01:01Z,"Just to be clear, I used the serial and the app in the torrent I linked above, not the serial from this torrent"
+,_frosty,2012-07-31T11:48Z,"aneagle at 2012-07-12 09:36 CET:
+No more 3 hours limit after replacing the file lsd with the one from 2.5.2
+
+PeterHolbrook at 2012-07-12 18:41 CET:
+@aneagle: Thank you for your ""lsd insight"". It does seem to work.
+
+...can someone please explain the LSD method. i can only find the mentioned lsd file in the 2.5.1/2.5.2 installer but it wont allow me to copy it to 2.5.3.  any help please??"
+,_frosty,2012-07-31T11:52Z,re previous post about led.  found it in Library...oops..
+,aldo45,2012-08-01T17:12Z,@alexpires - Nonsense mate. LS 3 is a devs preview and will work only until the end of Aug/start of Sept. You don't need a serial for it. It's free because it's not the completed version. Works on ML for those who need it. For the others having problems you need to use LS to BLOCK LS after registering the serial. Remove all previous versions>reboot>disconnect from the internet>install>use key>use LS to BLOCK LS>turn internet back on. Same process for nearly ALL apps.
+,paprboy,2012-08-03T14:22Z,"""I used this serial and the 2.5.3 included and it ran for 5+ hours with no ""invalid"" alert.
+torrentreactor DOT net/torrents/5767353/Little-Snitch-2-5-3-iKMN""
+
+This version works fine for me on ML.
+
+Thank you Anonymust!"
+,bullitt08,2012-08-04T18:41Z,"For those who are having problems with invalid serial #s., follow this fix:
+
+1) uninstall your current Little Snitch using the uninstall feature in LS 2.5.3 installer.
+2) After the re-boot, make sure these files are deleted. The uninstaller does not remove them all so  delete manually:
+
+From the MacHD: 
+
+/Library/Application Support/Objective Development/Little Snitch/
+
+From the Home Folder:
+
+/Library/Application Support/Little Snitch/
+
+/Library/Preferences/at.obdev.LittleSnitchConfiguration.plist
+
+/Library/Preferences/at.obdev.LittleSnitchNetworkMonitor.plist
+
+/Library/Preferences/at.obdev.LittleSnitchInstaller.plist
+
+ 3) Install Little snitch 2.5.3
+
+4) BEFORE you use the supplied serial number, you MUST do the next procedure or else LS will call home and download the list of Blacklisted serial #s and the game is over.
+
+a) Open Little Snitch rules and create a new rule.
+b) Select ""Deny Connections"".
+c) Make sure ""All Applications"" is selected in the next line.
+d) In the Server drop down menu select ""Hostname"".
+e) On the next line enter ""obdev.at"" without the "" "".
+f)  On the Port and Protocol lines it should say ""Any"".
+g) Hit the ""OK"" button.
+
+ 5) Next,  create another rule and enter the following:
+
+A) Select ""Deny connections""
+B) On the next line, use the drop down menu and select ""Choose Application"".
+C) Look for ""Little Snitch UIAgent"". It should be in /Library/Little Snitch/Little Snitch UIAgent.
+D) The Server should be ""Any Server"". The Port and Protocol should say ""any"".
+E) Hit the ""OK"" button.
+
+Final Step:  enter the Serial # and enjoy!"
+,enzo5900,2012-08-05T06:25Z,^^^ Is that not the standard cracked install instructions for LS that we should all have done before with any prior version? Looks like it. So... does that mean many here were using the serial wrong? =P
+,bullitt08,2012-08-05T23:34Z,"@enzo5900
+
+Yes, this should be the standard procedure anytime a new version of LS is installed.
+It guarantees that LS cannot call home to download the blacklisted serial numbers. LS  does not know that the Serial is not kosher until it calls home to verify. As long as it cannot do this, the program runs just fine. "
+,koplersky,2012-08-06T01:46Z,"@bullitt08
+I tried to follow your instructions, but after I've used the uninstallation tool that comes with the software all of the folders you mentioned are already deleted. I then followed the rest of the instructions but my serial expired after the 3-hour period."
+,bullitt08,2012-08-06T02:38Z,"@koplersky
+That's because you did not look at the TWO library folders.
+
+OSX creates TWO library folders, one is located in the root directory or your boot drive which is usually labeled MacHD. The other library folder is located on the user account or your home folder. 
+
+If you can't see one of them, make sure that you set "" show hidden files "" On your file browser to see them. Take my word, you probably missed at least two of them. "
+,Anonymust,2012-08-06T05:11Z,"@bullitt08 The uninstaller now removes most of those folders now. I think only the pref/ ones may still linger but honestly I think with this new edition once its uninstalled your fine, no more deleting ""hidden"" files. Also some of the 2.5.3 apps have been updated and hard coded with a blacklist of serials, so no matter what rules you setup or even leave your internet access off it will still display invalid after 3 hours. I guaranty that if someone downloads 2.5.3 from obdev and follows all of your steps and inputs the serial within this torrent it will catch it. You are misleading people. "
+,RoleyBirk,2012-08-06T10:02Z,Concur with Anonymust - despite those instructions after 3 hrs the serial is invalid.
+,bullitt08,2012-08-06T18:25Z,"@anonymust
+
+You are correct that the uninstaller removes most of the files but NOT all. Maybe the problem here is that if you are using OSX Lion or Mountain Lion the library home folder is hidden by default and unlike in previous versions of OSX  there is no way of showing hidden files  by activating it from finder however, it can be done from Terminal, heres how:
+
+You can force Finder to show hidden files by editing a Finder property through Terminal. Open Terminal (located in /Applications/Utilities) and enter the following line:
+
+    defaults write com.apple.Finder AppleShowAllFiles 1
+
+To stop showing hidden files, enter:
+
+    defaults write com.apple.Finder AppleShowAllFiles 0
+
+Entering these lines into Terminal will not have any immediate effects. You will have to relaunch Finder for any change to apply. You can relaunch Finder by logging off. Alternatively, you can relaunch Finder through the ""Force Quit Applications"" window, which you can open with the keyboard shortcut Command+Option+Esc (known as Alt+Windows+Esc on Windows keyboards). 
+
+you will then be able to see the other  ""library"" folder in your home folder. all hidden folders will have a more pale color to indicate that they are usually hidden.
+
+at that point open it and look for the LS files that are eluding you as previously mentioned.
+
+I apologize for not including this step in my previous instructions I had forgotten about this issue."
+,Anonymust,2012-08-06T20:21Z,"@bullitt08 Thanks but I am aware how to show all files. The 2.5.3 uninstaller removes ALL FILES now except for 2 *.plist files in the preferences/ folder. And I am almost positive they do not effect future installs. I have been using LS for years now and before it was imperative to remove these left over files once receiving an invalid message, but I don't think they hold any sort of serial blacklist anymore. Although of course for good measure you should just delete those 2 remaining files anyway."
+,pipco_2,2012-08-07T14:55Z,"G'day guys,
+
+i'm on mountain lion, i use showhiddenfiles,
+i used the uninstaller, and no other deletion, i then used the solution by bullitt08 and the serial that ends with J8, it lasted 3 hours, then i used the serial that ends with CP and so far it's been 24 hours and no challenge, , after using the uninstaller i looked everywhere for the files listed, but not there, so thanks bullit08 your solution is working so far, i'll post again if the situation changes,  thanks again,   pipco"
+,pipco_2,2012-08-07T15:04Z,"gotoes dot org/sales/ShowHiddenFilesMacOSX/
+
+its free and easier than the terminal command
+
+change the word ""dot"" for a full stop with no gaps"
+,Anonymust,2012-08-07T16:23Z,"@pipco_2  FYI if the only hidden folder you want access to is the users/library folder you can easily access it by holding down option key and clicking on the the Go menu in the top bar. ""Library"" will then appear in the menu list.
+Also just wondering what Little Snitch app you are using the ""CP"" serial on(I am assuming this is the serial mentioned on page 2 of the comments). Are you using the app in this torrent or did you download it directly from Obdev.at? I ask because I saw several people say that serial was not working for them so I am curious."
+,CCRunner525,2012-08-07T20:25Z,So far with bullitt08 instructions mine is working fine. I am using 32SJN9LE70-724J9-P06LEU8PCP for serial key. been working for over a day. Ill let you know if it stops working lol.
+,koplersky,2012-08-07T21:49Z,"@CCRunner525
+Are you using the same version as this torrent? What files did you delete? Only those 2 .plist files? Because they are the only ones I could find..."
+,CCRunner525,2012-08-07T22:48Z,@koplersky i originally did but installed it the wrong way. Installed the version from LS website. i only deleted the files that i needed to when i uninstalled it the first time. Some files you need to show hidden files to see.
+,CCRunner525,2012-08-08T01:21Z,Dang after 3 days it gave me the registration problem again. :(
+,Anonymust,2012-08-08T07:30Z,"@CCRunner525  Only working solution I have found for 2.5.3 is what I had linked before:
+torrentreactor DOT net/torrents/5767353/Little-Snitch-2-5-3-iKMN
+You must use the serial and app in that torrent."
+,CCRunner525,2012-08-09T05:20Z,"@Anonymust 
+
+Trying it. Will let you know if i get any problems lol."
+,pipco_2,2012-08-09T06:20Z,"@Anonymust 
+
+that version from torrentreactor is the same as this one and iv'e used only this release, no DL from Obdev.at. So far no challenge, will post back if it goes down the shitter."
+,siyadieh,2012-08-09T07:33Z, @ Anonymust thanks! downloaded from torrentreactor DOT net/torrents/5767353/Little-Snitch-2-5-3-iKMN and it's working on my OSX ML
+,Jay_Rey,2012-08-10T11:53Z,"Hey guys i got mountain lion and i got a serial that works for me, been working for 1.5 days
+
+32R9287JT0-72ELM-Y7XM6MNFJ8"
+,Anonymust,2012-08-10T17:52Z,"For a serial number to be ""valid"" you need to run Little Snitch for more than 3 hours STRAIGHT. Only then will you know if your serial has been blacklisted or not. There are numerous serials floating around that will initially work, but then fail the 3 hour test. And I want to be clear that these serials fail because Obdev updates the apps with a blacklist of leaked serials, not because the app called home.
+The serials that end in ""J8"" and ""CP"" have both failed the 3 hour test for me and others, so those claiming it works probably hasn't let it run for more than 3 hours straight or they might be a wizard... "
+,Jay_Rey,2012-08-12T06:17Z,"anonymust is right just got the stupid message
+gonna use his link"
+,CCRunner525,2012-08-12T23:58Z,"@Anonymust 
+
+so far its passed the 3 yr test and ive been running it for a few days now."
+,rigpig1,2012-08-16T15:59Z,Thanks ProGemist & Anonymust!
+,koplersky,2012-08-18T02:28Z,"@Anonymust
+
+I'm using the version you posted for a couple of days now and so far no warnings about invalid serial.
+
+I thought we would have to wait for version 3. Many thanks!"
+,inner67g,2012-08-19T19:25Z,"I just want to say thanks for the upload and instructions...and most importantly the feedback in the comments..
+
+For those that are still failing the 3 hrs test....there is still hope...but you have to follow directions
+
+I followed the comment ( guide ) by bullitt08 on page #2...and I did the whole procedure with the internet DISCONNECTED .
+
+What I did do as well was look for hidden folders and found one...once deleted...I started from scratch...
+
+If you really think about it...it could only fail after 3 hours because the program wasn't really blocked properly...  If thousands of people are using the same serial....then it must be the procedure that differs in the failure
+
+get the torrent that Anonymust recommended  from torrentreactor DOT net/torrents/5767353/Little-Snitch-2-5-3-iKMN
+You must use the serial and app in that torrent.
+"
+,enzo5900,2012-08-20T21:59Z,"Considering the post a while back about how to uninstall and reinstall so it doesn't phone home, I believe that's not necessary when updating, am I right?
+
+I mean whenever I first set up LS, I always do the usual blocking the app, and blocking obdev.at in the hosts file. I believe, generally, updating wasn't a problem. "
+,duingo,2012-08-22T05:13Z,"Try this serial
+
+32R9RTMXG0-72CMB-S1M8S5UZCS
+
+Regards"
+,Ben2537,2012-08-26T06:17Z,"Hi everyone. 
+
+It's gotten to the point that Little Snitch is incredibly good at doing it's job. In fact, after the 3-4 hours I spent trying to get around the program's ability to phone home and spot blacklisted serials, I realized that this difficulty indicates how great of a program Little Snitch is.
+
+When I stopped to consider the monetary value of how much *ahem* 'stuff' Little Snitch can block, 30 bucks didn't seem so expensive. It was so much easier for me to just pay the dough. It took 15 seconds to play along with the system and fork over the money via PayPal.
+
+I probably could have run an errand for my grandmother and earned the money back in less time it took me to realize that I could not beat Little Snitch at its own game. 
+
+And I felt a lot better never having to worry again about software updates to Little Snitch or having it suddenly bail on me (and lord knows what sorts of 'phoning home' could have happened without Little Snitch staying on top of things).
+
+This isn't for everyone, and I respect ya'll for trying (god knows I did). But for me, just purchasing the damn thing was so much easier. 
+
+Happy hunting :)"
+,TUNDR4,2012-09-12T19:41Z,"alright,..."

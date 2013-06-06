@@ -1,0 +1,12 @@
+File Buddy is the Swiss Army knife of Mac file utilities. First released in 1993, File Buddy features a wealth of functionality and powerful features that allow you to access that functionality quickly and easily. In addition to File Buddy's normal functionality it adds several commands to Finder's Services and contextual menus and allows the creation of droplet applications to automate tasks that would otherwise require you to open some window and configure the changes each time before applying them.File Buddy isn't just a powerful tool, it's a powerful tool designed to put that power at your fingertips as much as possible.
+
+
+What's New
+Version 10.0b2:
+* When using the Show Open File Dialog launch option, the menu of available actions would always default to Brief Info, and none of the Rename options would do anything if selected.. The menu now correctly opens set to the last option used, defaults to Get Info if no action has been selected previously, and all of the Rename options work as expected.
+* Added Replace Spaces with Underscores to the list of services available in Finder contextual menus.
+* Removed Setup Assistant functionality. There is no option within File Buddy to configure how File Buddy items appear in Finder contextual menus, and some other small design changes made the setup assistant superfluous.
+* Removed some expiration code in the services application that provides File BuddyΓÇÖs commands in Finder contextual menus. It should have been removed in the last release was Finder to hang instead of executing commands.
+
+Requirements
+Intel, Mac OS X 10.6 or later 

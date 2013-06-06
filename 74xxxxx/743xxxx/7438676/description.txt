@@ -1,0 +1,23 @@
+Prerequistes:
+- Phone, data cable, windows computer, inquisitive mind
+
+mini-Instructions:
+
+1. Download until completion
+2. Seed (always seed)
+3. Allow debbugging and unknown sources, Root (unlockroot), and check root (root checker), reboot phone
+4. Make a backup of your phone (My Backup, Titanium backup, ROM manager, Clockworkmod), and settings. Hint: RTFM
+5. Place the appropriate recovery image (under stock roms, unzip it) on dload directory in the SD card, as per the Engrish instructions provided under each directory, copy the cyanogenmod image and googleapps on root directory of SD card
+6. Install per the instructions the cyanogen mod image and the google apps, let it work, reboot. Hint: RTFM
+7. Install apks
+8. Restore settings
+9. Via adb shell make a directory on /data/cdrom/ copy one of the autorun.iso provided.
+
+Optional:
+a. Test before rooting the HiSuite packages
+b. Support torrenting community
+
+For more information: Please google, RTFM
+
+I AM IN NO WAY RESPONSIBLE FOR ANY MISTAKES OR BRICKS YOU MAKE. READ THE INSTRUCTIONS FIRST. THERE IS A WORLD OUT THERE THAT CAN HELP YOU BESIDES THIS MINI INSTRUCTIONS.
+

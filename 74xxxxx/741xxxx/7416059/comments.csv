@@ -1,0 +1,178 @@
+﻿User Type,Username,Date,Text
+,RinTosaka,2012-07-06T06:19Z,So... does this version solve the IE issue with the installation of Panda Cloud?  Or should I wait for a v4?
+,nileshtambe,2012-07-06T06:49Z,"do u use 64bit ? i made one  and testing i slipstreamed  IE9 in that . for u i tried to install IE8 in 32 bit but it requires lots of files and lots of updates and due to heavy slimming of winsxs i am unable to slipstream IE8, actually one has to keep IE or update it to IE9 before stripping down os,
+
+for ur antivirus i tested lots of antivirus but antivir(avira) is best in my opinion ,try that its free, fastest ,older versions r more better than newer one
+         BTW all my 5 laptop doesnt have any antivirus installed, i install this antivir /avira when any of my friend comes with infected hard disk , i removes leftover by other antivirus like avg, avast, and whenever i have to try new software i work in vmware /virtualbox.
+
+when i will make new 3 bit i will definitely either keep IE8 or upgrade it to IE9 for u.
+
+but sorry for this iso its already made i tried hard for u .
+
+PS. If u want portable version of IE8 , If that will do for u?  "
+,RinTosaka,2012-07-06T07:50Z,"Unfortunately portable will not work...
+
+Also, one of the main reasons I use Panda Cloud is that it's extremely light-weight unlike most anti-virus programs, so I'm reluctant to switch to anything else..."
+,b_addy,2012-07-06T08:01Z,"What do you mean by ""Install side by of ur main os"".
+Is it not made as a main os? I just installed your 2nd version. What is the difference in functionality?
+Thanks."
+,nileshtambe,2012-07-06T09:47Z,"@b_addy
+base is same but lots of tweaks r added to make os fast,some system files changed, some added like sendmail.dll so now u will have send to desktop shortcut in context menu
+
+ppl lose things if u install on ur exiting system as its can not perform upgrade, if u have something imp on c drive back it up safe to install as main os
+now u r better judge if u have v2 side by v3
+do tell me what difference u find ?
+Did my hard-work paid off or not"
+,b_addy,2012-07-06T14:55Z,"I don't keep nothing important on C drive, and I make an image after install with macrium. I will download, install probably next week and let you know. Thanks a lot."
+,b_addy,2012-07-06T16:47Z,"Nevermind, I just reinstalled, works a little bit faster than the 2nd version. I'm just wondering who's the girl from the system properties :P.
+Great job, nileshtambe, thank you very much."
+,nileshtambe,2012-07-06T17:35Z,"@b_addy
+Thanks 
+it`s selena gomez 
+just to refresh ur eyes and senses .........!!!!!!!!!!!!!!"
+,nileshtambe,2012-07-06T18:42Z,"@RinTosaka
+i uploaded 32bit with IE9 for u and ppl who had no choice other than IE due to some reasons
+!!!!!!!!!!!!cheers !!!!!!!!!!:p."
+,spsf,2012-07-08T16:12Z,"Thank you!!
+Works very well in linux virtualbox!"
+,b_addy,2012-07-08T20:26Z,"Running perfectly, nileshtambe you're a life saver :D. Just an update, if somebody wants another display language, use Vistalizator http://www.froggie.sk/download.html.
+
+Are you planning on making a Windows 8 x86 lite version, or are you waiting 4 the final version? 
+Many thanks."
+,nileshtambe,2012-07-09T02:47Z,"@b_addy
+ya i will do it for u sure, do tell me what feature u want to keep in x32 "
+,b_addy,2012-07-09T08:15Z,"Beats me. Your 3th version of 7 is running perfectly, so keep it close to that if possible. I tried standard Windows 8, but that new start menu is the shittiest thing ever for me."
+,RinTosaka,2012-07-11T05:38Z,"Just discovered a pretty big limitation for me...turns out that sharing folders over a network doesn't work at all.  In particular, whenever I try to share a drive or a folder, I get ""Unknown error 0x00000154"".
+
+I also got a similar error whenever I tried to share a printer over my network.
+
+Unfortunately that's pretty much a deal-breaker for me.  I probably have to use XP for a while longer now... *sigh*"
+,nileshtambe,2012-07-11T06:11Z,yep when firewall is removed that happens
+,RinTosaka,2012-07-11T06:42Z,"That's very strange seeing how ""XP Performance Edition"" by 'tj007s13' lacks the firewall and yet sharing works perfectly fine..."
+,RinTosaka,2012-07-11T06:56Z,"I just realized, does this effect the version with IE9 as well?  You said it includes some extra stuff that's removed in this version...
+
+If not, perhaps you could consider adding it?  The version of Win7 lite with IE9 seems to be turning into more of a ""Win7 lite, compatibility edition"" or something."
+,nileshtambe,2012-07-11T07:58Z,"in xp is possible because softwares used to make xp was flawless like nlite (one is sufficient), for win 7 we have to use rt7 lite,vlite ,gimagex,hope someone comes up with better-one 
+its rt7lite bug 
+
+SECURITY (Remove it only if you use an Antivirus with spyware and firewall)
+
+- Services =>
+. Windows Defender
+. Windows Firewall (Breaks ""Share Folder"" function (Returned msg: ""your folder can't be shared"")"
+,RinTosaka,2012-07-11T20:36Z,What do you suppose I should do then?  Is there any way I can re-install the Windows Firewall or something?
+,RinTosaka,2012-07-11T23:13Z,"Ha, I figured it out!  Turns out there's a virus around that screws up the Windows Firewall, so you can use the same techniques for fixing it to re-enable it in your Win7 lite distros.
+
+To re-enable Windows Firewall, download and run/add this to the registry:
+http://download.bleepingcomputer.com/win-services/7/MpsSvc.reg
+
+After restarting, if it STILL isn't working, download and install Microsoft Security Essentials, and restart the PC again.
+
+
+Interestingly enough, once it is working, you can actually disable Windows Firewall and uninstall MSE; you'll still be able to create new network-shared folders and stuff.
+
+Note that, by default, the sharing permissions might not be set-up correctly, so you may have to go through this process:
+http://www.sevenforums.com/tutorials/24232-sharing-permissions.html"
+,nileshtambe,2012-07-12T08:52Z,"hi rintosaka
+did file sharing is working? let me know ...
+good luck, btw did u use windows media centre??"
+,RinTosaka,2012-07-12T09:55Z,"Yes, file sharing is working.  I did exactly what I said in my previous post, so no I do not have Windows Media Player.
+
+Heck I've even uninstalled MSE and disabled Windows Firewall and file sharing is still working."
+,nileshtambe,2012-07-12T10:08Z,"thanks rintosaka for ur efforts
+
+i posted ur solution for sharky376 
+
+hope it helps him for folder sharing cheers!!!!!!!"
+,matsetech,2012-07-15T12:45Z,"hi nileshtambe,
+
+i was wondering if you could include the tablet input components in one of your windows 7 lite version.
+
+thanks.
+
+Mike"
+,nileshtambe,2012-07-15T15:43Z,"@matsetech
+ya sure which one u prefer 32 or 64 bit?"
+,matsetech,2012-07-16T09:54Z,"@nil
+
+32bit.. pls also include the aero theme support.. thanks!!!"
+,rbomb,2012-07-17T17:41Z,"Please remove that Gomez oem logo, everyone do not like this."
+,nileshtambe,2012-07-17T19:05Z,"@rbomb
+just delete this file
+C:WindowsSystem32oobeoemlogo.bmp
+
+or u can use ur own with the help of windows loader
+
+it is as simple as changing desktop wallpaper  once u know how to change..
+its not hard coded like windows version painted on desktop which u cannot change 
+good luck!!!!!!!!!!!!"
+,nileshtambe,2012-07-18T20:39Z,"@matsetech
+Aero theme support present in every os of mine
+here is 2 win 7 with tablet pc support
+
+http://thepiratebay.se/torrent/7454817/7_Ultimate_sp1_x32_full_without_Japanese_n__Chinese_Language_by_
+
+http://thepiratebay.se/torrent/7454825/Win_7_Ultimate_sp1_x32_full_with_all_Languages_by_nil"
+,matsetech,2012-07-21T04:58Z,thanks alot nil..
+,hammer2085,2012-07-27T11:36Z,Stunning work mate! This will work wonders for my net-book!!
+,cismanm,2012-08-01T04:35Z,"Stay far away from Nil's windows 7 ultimate crap, he took out so much stuff that system is unstable, there is not even Internet Explorer so when you install the windows how are you suppose to even go online so u can download apps like Google chrome or microsoft security essentials? You don't.  When i installed Microsoft Security Essentials on his version of windows it couldnt even start and gave errors, i've also received errors from the nvidia website while trying to install the graphics and then the worst part came when the task bar and start menu dissappeared all together!!! and never came back AGAIN!"
+,sunymnlobo,2012-08-01T09:03Z,"@cismanm
+if u want to update windows u install full version , original ms iso, stay away from lite version,and read info of torrent before downloading and commenting
+--------------------------------------------------------------------------
+:info above
+Internet Explorer and windows media player,codec,win sat not present
+--------------------------------------------------------------------------
+and if this is crap then show me what u r ? are u blind not to read info posted? "
+,9m2pju,2012-08-03T18:12Z,"hi, firstly thanks for this ISO. it is really lite and usable. i got problem running connectify on your win 7 32 lite. do you have any idea how to run connectify ? it said something error on internet connection sharing. i tried manually create ad-hoc connection, it failed too."
+,nileshtambe,2012-08-03T18:21Z,"HERE IS SOLUTION FOR U ( this happens because firewall is removed)
+its found by rintosaka thanks to him
+
+RinTosaka at 2012-07-11 23:13 CET:
+Ha, I figured it out! Turns out there's a virus around that screws up the Windows Firewall, so you can use the same techniques for fixing it to re-enable it in your Win7 lite distros.
+
+To re-enable Windows Firewall, download and run/add this to the registry:
+http://download.bleepingcomputer.com/win-services/7/MpsSvc.reg
+
+After restarting, if it STILL isn't working, download and install Microsoft Security Essentials, and restart the PC again.
+
+
+Interestingly enough, once it is working, you can actually disable Windows Firewall and uninstall MSE; you'll still be able to create new network-shared folders and stuff.
+
+Note that, by default, the sharing permissions might not be set-up correctly, so you may have to go through this process:
+http://www.sevenforums.com/tutorials/24232-sharing-permissions.html"
+,9m2pju,2012-08-03T19:25Z,thanks for the fast reply. i tried and it wont. need another solution please.
+,9m2pju,2012-08-03T19:30Z,"i have already follow all the instructions, and reboot. i try to find windows firewall. but nothing related to it found. have you tried creating ad-hoc connection before ? or have you use connectify to share your internet connection ?"
+,nileshtambe,2012-08-03T22:46Z,"@9m2pju
+no , i have wireless router which provides net to all my laptops, 
+i tried to use connectify on 2 of my laptops in the past on full os but i use to get either BSOD or laptop use to freeze.
+
+ad-hoc connection is related to homegroup
+its removed or will not work either
+
+u can try this version if possible 
+http://thepiratebay.se/torrent/7454817/7_Ultimate_sp1_x32_full_without_Japanese_n__Chinese_Language_by_"
+,kenxqt,2012-08-16T11:43Z,"Ha, I figured it out! Turns out there's a virus around that screws up the Windows Firewall, so you can use the same techniques for fixing it to re-enable it in your Win7 lite distros.
+
+To re-enable Windows Firewall, download and run/add this to the registry:
+http://download.bleepingcomputer.com/win-services/7/MpsSvc.reg
+
+After restarting, if it STILL isn't working, download and install Microsoft Security Essentials, and restart the PC again.
+
+
+Interestingly enough, once it is working, you can actually disable Windows Firewall and uninstall MSE; you'll still be able to create new network-shared folders and stuff.
+
+Note that, by default, the sharing permissions might not be set-up correctly, so you may have to go through this process:
+http://www.sevenforums.com/tutorials/24232-sharing-permissions.html
+
+
+
+
+this doesnt work for me...help me plzzz"
+,kenxqt,2012-08-16T11:44Z,it says share but..doest when i want to copy to the other pc i cant access to this... o why???
+,nileshtambe,2012-08-19T22:28Z,"@kenxqt 
+v3 is bare minimum install with least coponent
+try other versions like i given u link
+
+http://thepiratebay.se/torrent/7454817/7_Ultimate_sp1_x32_full_without_Japanese_n__Chinese_Language_by_ 
+"
+,pullockaran,2012-09-04T08:34Z,"I thought for 5 years that no one would be able to demolish the boot up and shut down times I got with my custom edition of XP called Enlightened XPSP2 totaling 132mb, which was there on Demonoid for a few years. Congratulations to you Nilesh, for you have with this slim version trounced the shut down times but the start up times are still off by a few seconds. Best of luck for your future editions and I will be dual booting with your version henceforth. This is the best slimmed down Windows 7 version by far.  "

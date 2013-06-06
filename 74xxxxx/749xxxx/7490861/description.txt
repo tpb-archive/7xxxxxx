@@ -1,0 +1,11 @@
+Audio capture of Safari, QuickTime Player, FaceTime, and Messages is now possible on OS X 10.8 Mountain Lion without requiring the Instant On component.
+An issue where volume control for some third-party AirPlay hardware was not working as expected has been fixed.
+The Instant On component has been updated to version 6.0.1, which fixes several small issues. The update comes in addition to Instant On 6.0, which including improvements to System Audio capture and support for OS X 10.8 Mountain Lion.
+Several fixes for Retina MacBooks Pro have been made, including enabling Netflix's full-screen mode to work.
+The Factory Reset functionality has been corrected to work properly on Mountain Lion.
+Airfoil Video Player's "Enter Full Screen" menu item has been corrected to work properly on Mac OS X 10.7 Lion.
+Applications are now prevented from incorrectly appearing twice in the Source list.
+The obsolete "Advanced Source Settings" menu item has been removed.
+The Welcome Window size on Retina machines has been corrected.
+Airfoil and Airfoil Speakers are now signed as part of Apple's Developer ID program, for compatibility with Gatekeeper.
+Several other small bug fixes have been made.

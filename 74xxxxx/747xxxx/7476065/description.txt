@@ -1,0 +1,52 @@
+Overall bit rate               : 1 860 Kbps
+Writing application            : VirtualDubMod 1.5.4.1 (build 2178/release)
+Writing library                : VirtualDubMod build 2178/release
+
+Video
+ID                             : 0
+Format                         : MPEG-4 Visual
+Format profile                 : Advanced Simple@L5
+Format settings, BVOP          : 1
+Format settings, QPel          : No
+Format settings, GMC           : No warppoints
+Format settings, Matrix        : Custom
+Codec ID                       : XVID
+Codec ID/Hint                  : XviD
+Duration                       : 1h 45mn
+Bit rate                       : 1 405 Kbps
+Width                          : 640 pixels
+Height                         : 368 pixels
+Display aspect ratio           : 1.739
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 0.249
+Stream size                    : 1.03 GiB (76%)
+Writing library                : XviD 64
+
+Audio
+ID                             : 1
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : 2000
+Duration                       : 1h 45mn
+Bit rate mode                  : Constant
+Bit rate                       : 448 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Delay relative to video        : 4ms
+Stream size                    : 337 MiB (24%)
+Alignment                      : Split accross interleaves
+Interleave, duration           : 96 ms (2.30 video frames)
+Interleave, preload duration   : 96 ms
+Language                       : English
+
+Subtitles		       : English, French

@@ -1,0 +1,47 @@
+VMware Server (formerly VMware GSX Server) is a free-of-charge virtualization-software server suite developed and supplied by VMware, Inc.
+
+VMware Server has fewer features than VMware ESX, software available for purchase, but can create, edit, and play virtual machines. It uses a clientΓÇôserver model, allowing remote access to virtual machines, at the cost of some graphical performance (and 3D support). It can run virtual machines created by other VMware products and by Microsoft Virtual PC.
+
+VMware Server can preserve and revert to a single snapshot copy of each separate virtual machine within the VMware Server environment. The software does not have a specific interface for cloning virtual machines, unlike VMware Workstation. Unlike Microsoft Hyper-V, VMware does allow VM memory to be over-committed.[2][not in citation given]
+
+In January 2010 VMware Server was declared End Of Availability; general support ended on June 30, 2011
+
+
+
+-------------------------------------------
+
+
+VMware Server 1.0
+
+VMware released version 1.0 of Server on July 12, 2006, replacing the discontinued VMware GSX Server product-line. VMware Inc continued to develop the Vmware Server 1.0.x series, issuing a maintenance release (version 1.0.10) on 26 October 2009.
+VMware Server 2.0
+
+VMware Server 2 runs on several server-class host operating systems,[4] including different versions of Microsoft Windows Server 2000, 2003, and 2008, and mainly enterprise-class Linuxes. The manual explicitly states: "you must use a Windows server operating system". The product also runs on Windows 7 Enterprise Edition.
+
+Server 2 uses a web-based user-interface, the "VMware Infrastructure Web Access", instead of a GUI. For web interfaces, VMware Server 2 and VMware vCenter 4 use the Tomcat 6 web server, while VMware vCenter 2.5 is based on Tomcat 2.5.
+
+As part of the product, the VMware Host Agent service allows remote access to VMware Server functionality.[5]
+
+VMware server 2 supports the Microsoft Shadow Copy service. (Microsoft Virtual Server 2005 R2 SP1 also supports Shadow Copy.) Virtual machines that support this service can be backed up without stopping - usually called[by whom?] "live backup".
+
+
+
+ 
+http://en.wikipedia.org/wiki/VMware_Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

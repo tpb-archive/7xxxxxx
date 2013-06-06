@@ -1,0 +1,42 @@
+Gmail Notifier Pro for Windows 
+ 
+ Gmail Notifier Pro is a Windows application capable of checking multiple Google Gmail accounts for new mail and display notifications. Google Calendar, Google Reader, Google News, Google Docs, Google+, Facebook, Twitter and RSS/Atom feeds are also supported. 
+
+ In addition to the Google services, Gmail Notifier Pro provides notifications for any IMAP or POP mail account, including Microsoft Live Hotmail and Yahoo! Mail.
+
+
+Gmail Notifier Pro 4.2.3
+July 6, 2012
+
+ Gmail Notifier Pro 4.2.3 is a minor update that contains the following:
+
+- Specific documents can be ignored for Google Docs.
+- If repeating notifications is configured, they will only be displayed for accounts that have been updated successfully.
+- Close Popup shortcut key.
+- The operation "Mark all as Read" has been added for Facebook accounts.
+- Mail composer corrections.
+- Localization updates.
+
+Registered to me: http://bayimg.com/iaAhoaaEb
+
+
+ENGLISH:
+1. Install
+2. Run
+3. Exit program
+4. Open "run" and type:
+%userprofile%Local SettingsApplication DataGmailNotifierPro 
+
+If doesn't work,try this:
+C:UserscompnameAppDataLocalGmailNotifierPro
+
+5. Replace "ConfigData" file with included ConfigData in torrent.
+6. Run program and enjoy.
+
+When new version come,just download it from official web page:  
+http://www.gmailnotifier.se/download.php
+
+Close old version program and again follow steps 3-5 "
+
+
+By 2010philips/2012matej

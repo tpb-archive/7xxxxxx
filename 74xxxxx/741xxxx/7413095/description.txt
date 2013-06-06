@@ -1,0 +1,59 @@
+Name: Sublime Text
+Version: - 2.0 Build 2210
+
+Mac Platform: Intel
+Includes: K
+
+OS version: Mac OS X 10.6 or later
+
+Link for more information: http://www.sublimetext.com/
+
+As requested
+
+Patch courtesy of i/o
+
+Sublime Text is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features.
+
+
+What's New
+Version 2210:
+
+* See the blog post for a summary - http://www.sublimetext.com/blog/articles/sublime-text-2-0-released
+* OSX: Added Retina display support
+* Added "Quick Skip Next", on Command+K,Command+D / Ctrl+K,Ctrl+D
+* Added text drag and drop
+* Reloading a file maintains the selection
+* OSX: Find uses the system find pasteboard
+* OSX: Added support for the ODB Editor Suite
+* Theme: Added support for the highlight_modified_tabs setting
+* Added setting show_full_path, to control if the full path is shown in the window title
+* Added setting bold_folder_labels
+* OSX: Bundle is signed in preparation for Mountain Lion
+* OSX: Added scroll bar support for the "Jump to the spot that's clicked" system preference
+* OSX: Added create_window_at_startup setting
+* OSX: Folders accessed via symlinks are monitored for changes
+* OSX: Fixed Lion press-and-hold inserting two characters
+* Reworked CSS completions
+* Improved Toggle Comment for HTML and CSS
+* Added Open in Browser context menu for HTML files
+* Saving a file now calls fsync to ensure the data is written to disk
+* Added support for file_include_patterns and folder_include_patterns in projects
+* Find in Files can exclude directories using "-some_path/" syntax
+* Added BOM variants to the Save with Encoding menu
+* Added setting preview_on_click
+* Improved Indentation Detection
+* ASCII control codes are rendered in a different style
+* Auto complete and tool tips say within the screen boundaries
+* Double clicking in the tab header area will create a new tab
+* Delete Folder will prompt before moving the folder to the trash
+* Double clicking on whitespace will select only whitespace
+* Theme: Added 'expandable' attribute to tree_rows, enabling folders to be styled differently
+* Theme: Tweaked quick panel to better indicate the selected item
+* Disabling find result highlighting will also disable find-as-you-type in the Find panel
+* Pressing escape in the incremental find panel will set the selection to the search start point
+* Extended behavior of home and end keys on word wrapped lines
+* Changes in file name case are detected in the side bar
+* Fixed save_on_focus_lost causing Goto Anything to not show if the current file has unsaved changes
+* Fixed folders not being added to the recent folders list
+* Fixed rendering of active indent guides
+* Fixed pasting file:line expressions into the Goto Anything panel

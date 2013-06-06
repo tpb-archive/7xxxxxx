@@ -1,0 +1,40 @@
+Nero Platinum Ativacao permanente
+Testado com Nero Platinum em portugues.
+
+Instale o nero 11 coloque este serial  9004-027E-UM18-71C6-57TK-P034-UU8X-0U4A
+se pedir adobe flash player va no menu iniciar executar digite %temp% procure na
+pasta do nero 11  nero.mmsplatinum clik nele e so instalar normal
+depois coloqui esses seriais  DTS Plug-In:  DTS Plug-In: 1K00-4166-99X9-2A6K-33E1-6M0A-8E0C
+mp3PRO Plug-In: KC00-9039-1983-284A-2A45-6MA6-EKMX
+
+- Vá para o caminho C:WINDOWSsystem32driversetc 
+   E edite o arquivo de hosts com o bloco de notas (você pode copiar este arquivo para sua área de trabalho e depois fazer modificações e substituir)
+   Coloque o seguinte no final da lista.
+   Ou substitua o arquivo hosts em anexo.
+-------------------------------------------
+
+127.0.0.1 www.nero.com
+127.0.0.1 www.nero.com/esl/index.html
+127.0.0.1 www.nero.com/esl/support.html
+127.0.0.1 www.nero.com/esl/support-customer-service-product-registration.html
+127.0.0.1 www.nero.com/esl/store-upgrade-center.html
+127.0.0.1 www.nero.com/esl/store-volume-licensing.html
+127.0.0.1 www.nero.com/eng/support.html?NeroSID=392cba06859c3dcd87b47525e97a3b80
+127.0.0.1 www.nero.com/eng/store-upgrade-center.html?NeroSID=392cba06859c3dcd87b47525e97a3b80
+127.0.0.1 www.nero.com/eng/support-customer-service-product-registration.html?NeroSID=392cba06859c3dcd87b47525e97a3b80
+127.0.0.1 www.nero.com/eng/index.html
+127.0.0.1 www.nero.com/eng/store-upgrade-center.html&sa=X&oi=smap&resnum=1&ct=result&cd=6&usg=AFQjCNFRzc_q0umeKlIj7pPYNNBYCFbXkg
+127.0.0.1 www.nero.com/enu/support-nero8.html
+127.0.0.1 my.nero.com
+127.0.0.1 secure.nero.com/us/secure.asp
+127.0.0.1 activation@nero.com
+127.0.0.1 registernero.com
+127.0.0.1 www.registernero.com
+127.0.0.1 nero.com
+127.0.0.1 www.nero.com/eng/privacy.html.
+127.0.0.1 legal@nero.com
+127.0.0.1 support.nero.com
+
+
+depois clik no patch 
+depois exit pronto ta ativado.

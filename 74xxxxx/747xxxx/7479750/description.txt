@@ -1,0 +1,18 @@
+JRuby deployments have fewer moving parts and consume less memory than traditional Ruby deployments, but to deploy your apps on the JVM, you need to learn some new approaches. This book introduces you to three JRuby deployment strategies that will give you the performance and scalability you need while letting you use the language you love.
+
+You'll start by porting an existing application to JRuby, preparing the app to take advantage of the JVM platform. Then you'll use Vagrant and Puppet to build a virtual production environment so you have a stable, reproducible place to explore JRuby deployment.
+
+With your environment in place, you'll experiment with simple JRuby deployment with Warbler as you package your Ruby web application into a single file you can deploy to a Java application server. Next you'll set up the lightweight Trinidad web server to create a more flexible, modular deployment that fits more complex situations but still feels friendly and familiar to Ruby developers. You'll switch to powering your app with TorqueBox, an all-in-one JRuby environment that includes built-in support for messaging, scheduling, and daemons--perfect for handling the "big jobs." Then, you'll set up a continuous integration environment with Jenkins so you can deploy like the pros.
+
+Deploying with JRuby is the missing link between enjoying JRuby and using it in the real world to build high-performance, scalable applications.
+
+What You Need:
+
+To run the examples in this book, you'll need a computer that can run the Java Virtual Machine.
+
+
+# Paperback: 224 pages
+# Publisher: Pragmatic Bookshelf (July 17, 2012)
+# Language: English
+# ISBN-10: 1934356972
+# ISBN-13: 978-1934356975

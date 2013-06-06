@@ -1,0 +1,34 @@
+[color=Blue]Switching to  MKV format from this point on. Better compression, file sizes much smaller.
+[/color]
+
+From Feb 1st, 1994, the Dead End Kids receive their star on the Walk Of Fame. Ceremony is held on the street, where all the stars have been installed. This is the complete ceremony, Sophi Loren is the big star finally receiving her star. Mamie Van Doren finally receives her star also along with many others. Julie Garfield accepts the star for her dad, Johnny Garfield, long overdue i might add. 
+
+Huntz & Bernard, the two surviving members, are in good spirits. Gabe's sons & Leo's son, Leo jr are present in the crowd, camera flashes briefly in their direction but they are in the back. Huntz chats with Julie Garfield after the stars are all handed out. Huntz chats with one of the Nicholas brothers as they get ready to have their photo taken with  the star on the street.
+
+Runs roughly 95mins, settings below....
+===============================
+HandBrake 0.9.3.0 [mkv format]
+
+[09:25:21] job configuration:
+[09:25:21]  * source
+[09:25:21]    + title 1, chapter(s) 1 to 17
+[09:25:21]  * destination
+[09:25:21]    + container: Matroska (.mkv)
+[09:25:21]      + chapter markers
+[09:25:21]  * video track
+[09:25:21]    + decoder: mpeg2
+[09:25:21]      + bitrate 9334 kbps
+[09:25:21]    + frame rate: same as source (around 29.970 fps)
+[09:25:21]    + loose anamorphic
+[09:25:21]      + storage dimensions: 720 * 480 -> 624 * 416, crop 0/0/6/2
+[09:25:21]      + pixel aspect ratio: 547 / 624
+[09:25:21]      + display dimensions: 547 * 416
+[09:25:21]    + encoder: x264
+[09:25:21]      + options: ref=2:bframes=2:me=umh
+[09:25:21]      + bitrate: 321 kbps, pass: 2
+[09:25:21]  * audio track 0
+[09:25:21]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[09:25:21]      + bitrate: 384 kbps, samplerate: 48000 Hz
+[09:25:21]    + mixdown: Stereo
+[09:25:21]    + encoder: faac
+[09:25:21]      + bitrate: 160 kbps, samplerate: 48000 Hz

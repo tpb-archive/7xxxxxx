@@ -1,0 +1,28 @@
+What is new in version 1.6.1
+
+* Very important improvements in audio/video synchronization in long recordings
+* Fixed cyclic video stuttering in recordings (happened in some situations)
+* Fixed frozen video in long recordings (HUD showing 00 fps)
+* Improved quality of Full HD 1080 - 60p desktop recordings
+* Increased maximum recording time to 24 hours
+* Disabled cursor recording in Perfect Video Match mode
+* Fixed mouse cursor recording in multidisplay mode (Windows 7)
+* Fixed playback of recordings with multichannel audio in Windows Media Player
+* Stability fixes
+
+MINIMUM for Low resolution video recording.
+OPERATING SYSTEM: Windows Vista┬«, Windows 7 (with Windows Aero enabled for dekstop recording), DirectX┬« and latest graphics card drivers, Running Action! requires administrator rights.
+RAM MEMORY: 512MB
+GRAPHICS CARD: Direct3D 9.0 compatible with Pixel Shader 2.0 support
+SOUND CARD: DirectX┬« compatible
+CPU: Intel┬« Celeron┬« 1.4GHz or equivalent processor (SSE2 required)
+
+RECOMMENDED for HD Video recording
+OPERATING SYSTEM: Windows Vista┬«, Windows 7 (with Windows Aero enabled for dekstop recording), DirectX┬« 9.0c and latest graphics card drivers, Running Action! requires administrator rights.
+RAM MEMORY: 1024MB (1GB)
+GRAPHICS CARD: Full Direct3D 10.0 compatible with Pixel Shader 4.0 support
+SOUND CARD: DirectX┬« compatible
+CPU: Intel┬« CoreΓäó 2 Duo 2.0GHz or equivalent processor
+Hardware accelerated video encoding: Intel┬« Sandy Bridge processor with Intel┬« Quick Sync Video support. NVIDIA┬« graphics card with NVIDIA┬« CUDAΓäó.
+
+Language : Multilanguage

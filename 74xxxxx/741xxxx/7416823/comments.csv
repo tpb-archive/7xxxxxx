@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,beavis39,2012-07-06T02:52Z,"Setup
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Perform 2-pass recording process in Wavelab @ 64-bit float/384kHz 0db gain
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = no offset (16), Peak = 0db
+-Final Recording - Apparent Bit Resolution = 41, Peak = 0.49db
+
+-Convert newly recorded 64/384 file to DSD128 with Weiss Saracon 1.61-27*
+*this step allows me to keep nearly all of the detail of the 64/384 file when going to lower bit depths/sampling frequencies
+
+Settings in Weiss Saracon:
+-Modulator Type - CRFB 10th Order
+-Sample Rate - 5.6448MHz
+-Gain (db SACD) - 0db
+-Stabilizer - off
+-Dither - off
+
+-Convert newly created DSD file to 24-bit/96kHz wav file with Weiss Saracon 1.61-27 w/0db gain and TPDF dither
+-Apply precision 6db gain* and MBIT+ Dither (Noise Shaping - Light, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+*DSD -> PCM = -6db
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II"
+,spopes232,2012-09-10T08:46Z,"So stoked. Gonna have to find a blank DVD to back this one up. Thanks a mil, or... 10,000."

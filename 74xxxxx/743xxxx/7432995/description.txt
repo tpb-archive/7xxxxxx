@@ -1,0 +1,39 @@
+Note: SP only cracks the GUI and not the command line tools
+
+
+Geekbench provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance. Designed to make benchmarks easy to run and easy to understand, Geekbench takes the guesswork out of producing robust and reliable benchmark results.
+
+Multicore
+Whether you're running Geekbench on a single-core Pentium, a quad-core Mac Pro, or a sixteen-core Sun server, Geekbench is able to measure the performance of all the processor cores in your system. Every processor benchmark is multi-threaded and multi-core aware to show you the true potential of your computer.
+
+One-Click Benchmark
+Don't spend your time configuring options or changing settings while wondering how other folks ran Geekbench. With just one click you can start benchmarking your system with the same tests and parameters as every other Geekbench user.
+
+64 Bit
+Geekbench bridges the generation gap between 32 bit and 64 bit computing by providing both 32-bit and 64-bit versions. Find out how fast your current 32-bit applications run today, and how fast your future 64-bit applications will run tomorrow.
+
+Cross Platform
+Compare apples and mechoddls. Or Macs and PCs. Geekbench is available for a variety of platforms enabling you to benchmark different computers running different operating systems.
+
+Rosetta
+Use Geekbench to help you with the transition from PowerPC to Intel on Mac OS X. Run the Rosetta version on your Intel-based Mac to figure out how fast it runs PowerPC applications to figure out if it's worth upgrading to Universal applications.
+
+Results Browser
+Share your Geekbench results with other users by uploading your results to the Geekbench Result Browser. Let other users see how fast (or slow) your computer can go. Create an account and track all of your Geekbench results in one easy-to-use location.
+
+Mac OS X
+Mac OS X 10.5
+PowerPC G3 or Intel Core processor
+512MB of RAM
+
+What's New
+Version 2.3.4:
+
+
+* Added support for OS X 10.8 Mountain Lion and Gatekeeper.
+* Added support for Retina Display.
+* Added 'geekbench' tool to Geekbench for Linux.
+* Improved support for Windows systems with more than 32 cores.
+* Improved results display on iPhone, iPod touch, and Android.
+* Improved handset and processor detection on Android.
+* Fixed spurious high-resolution timer errors on older Windows systems.

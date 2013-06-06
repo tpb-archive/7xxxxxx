@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-07-17T20:53Z,"seems the installer and the files in installs
+are identical to the free version.
+copying the branding.dll to your free install will turn that into the pro version."
+[T],iahq76,2012-07-18T06:18Z,"@xpmole: ya you got right, Not only branding.dll but .dat file contain registring details too, these both files turn it to pro version, also you can update program anytime if availble"
+,xpmule,2012-07-19T06:50Z,"Good release and good job !
+And thank you very much for taking the time and effort to share with us all :)
+
+ps:
+and yeah i did copy the other files too ;)
+I looked at  changing the resources strings just for the hell of it but the branding.dll has a digital cert. You can get a command line tool online that strips away the cert data on an .exe or .dll etc and it works great but i figured i'd just leave it alone.
+If interested google for ""delcert.exe""
+or go here..
+forum.xda-developers.com/showthread.php?p=2508061"
+,s33rial,2012-07-19T19:28Z,Can you update this cracked version?
+,Shquishay,2012-07-23T22:50Z,"DLed, works fine. Thankyou. :)"
+,mike18xx2,2012-07-30T10:40Z,"No longer works; license invalid.
+
+(They caught that quick!)"

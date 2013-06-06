@@ -1,0 +1,91 @@
+﻿User Type,Username,Date,Text
+,lkarthas,2012-07-09T15:44Z,Have anyone comfirmed this ?
+,alext92,2012-07-09T19:13Z,"@lkarthas I have it at 68%, I hope tonight finishes the download and I'll confirm."
+,alext92,2012-07-10T08:01Z,"I think is a scam or the version translated by fans, I can't install it... OP can give instructions for install?"
+,deathtoaji,2012-07-10T17:15Z,"Use a mounting program like Daemon Tools or Alcohol 120%. Mount Disc 1 and execute setup, follow prompts. When asked for Disc 2, unmount Disc 1 and mount Disc 2. Complete Setup. Play with no DRM. It isn't really that hard is it?"
+,alext92,2012-07-10T21:17Z,"@deathtoaji this is the fourth time I tried install it, at 4005Mb copied it says ""failed to copy files""."
+,flugon,2012-07-11T05:01Z,"Worked for me, install was simple. mount disc 1 install mount disc 2 when it asks and you're done, but I don't think this is the official english version because I think the english version has voice actors and this one has japanese voice actors."
+,desumoyo,2012-07-11T11:04Z,"Work perfectly here, here a screenshot : http://i.imgur.com/KvHL4.png , there is only one translated version, this one, so no there no dubbing, only subtitles."
+,deathtoaji,2012-07-11T17:01Z,"@alext92 I would suggest maybe doing a force recheck of the download, sometimes things don't always work 100%.
+
+@ flugon Like desumoyo said this is the official version but it doesn't have an english dub(thank goodness) just subtitles."
+,desumoyo,2012-07-11T17:44Z,"For people who can'r get the installer working for unknown reason, know that you can simply copy the ""Overflow"" folder of the two disc on your HDD manually."
+,rainn021,2012-07-11T23:36Z,"ItÂ´s not much of a ""game"" thou is it, like choose a line, cant really choose that much thou cuz it always backfires ^_^ and the choices are like maximum of 20 in the entire game. you yourself can have way to little impact on the game itself and how it plays out. AND the game keeps locking after a while ""program not answering bla bla"""
+,deathtoaji,2012-07-12T18:05Z,rainn021 this is an animated visual novel so it is to be expected that there is more animation then choices. However there are 21 different endings including 5 heroines so I think there quite enough choices to pick from.
+,akoaysmurf99,2012-07-12T19:17Z,thanks for the upload :D
+,Aceofwar,2012-07-12T23:00Z,Mine keeps freezing on me after around 5 minutes of playing. Has anyone else had this problem?
+,Aceofwar,2012-07-13T02:20Z,Found a fix for the freezing. Save your game in windowed mode and when you load you save game then go to fullscreen. Doesn't make any sense but its been working for a few episodes now and no freezing this way.
+,akoaysmurf99,2012-07-16T18:37Z,"BTW, just wanted to ask, it's no big deal but... is there not supposed to be an opening video for each episode in HQ? Because, If memory serves me right, there were in the original SD."
+,akoaysmurf99,2012-07-16T18:39Z,"Oh and BTW, if it still keeps on freezing in fullscreen mode(tried what the above poster said but it still freezes, but not that often anymore) you can play in window mode without any problem."
+,minikilla13,2012-07-17T00:12Z,I downloaded it and wen i tried installing it froze at 6091MB. Any suggestions? 
+,SniperKirby,2012-07-18T14:06Z,"Similar problem to minikilla13's, mine freezes at 9866 MB.  I've tried deleting and redownloading the files from here, still freezes at same place. Any suggestions?"
+,GamingStorm,2012-07-19T02:30Z,is this censored ?
+,CEDR777,2012-07-19T03:00Z,"@minikilla13 & SniperKirby:
+
+try these:
+1.) mount and remount the images(but dont quit setup and wait if it prompt you on an installation error just pick the top (win7)) 
+2.)install the compact .net framework 3.5 inside the disc "
+,CEDR777,2012-07-19T03:07Z,3.) manuallu copy the .gpk files to the game directory
+,akoaysmurf99,2012-07-19T09:04Z,"@GamingStorm
+Nope, it's uncensored."
+,CEDR777,2012-07-20T15:29Z,"4.) allpy these registaration entries:
+
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USERSoftwareOverflowSCHOOLDAYS HQInstall]
+""StartMenu""=dword:00000001
+""DeskTop""=dword:00000001
+""AllUse""=dword:00000001
+""Directory""=""C:Program FilesOverflowSCHOOLDAYS HQ""
+""Company""=""Overflow""
+""Program""=""SCHOOLDAYS HQ""
+""Version""=""1.00""
+""Script""=""1.00""
+""FullInstall""=dword:00000001
+""DiskCheck""=dword:00000000"
+,CEDR777,2012-07-20T15:30Z,"correction:
+
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USERSoftwareOverflowSCHOOLDAYS HQInstall]
+""StartMenu""=dword:00000001
+""DeskTop""=dword:00000001
+""AllUse""=dword:00000001
+""Directory""=""C:Program FilesOverflowSCHOOLDAYS HQ""
+""Company""=""Overflow""
+""Program""=""SCHOOLDAYS HQ""
+""Version""=""1.00""
+""Script""=""1.00""
+""FullInstall""=dword:00000001
+""DiskCheck""=dword:00000000"
+,CEDR777,2012-07-20T15:31Z,from: http://erogegames.com/eroge-visual-novels/eroge-tech-support/858-school-days-hq-problems/
+,SniperKirby,2012-07-21T21:46Z,@CEDR777 Much appreciated. Managed to get it to work after following the link and reading about it on that forum.
+,PrincessJonet,2012-08-22T14:02Z,"I keep getting an error ""SoundBase initialization failure. Failed to save master volume."" Can someone help me out?"
+,PrincessJonet,2012-08-23T01:32Z,"Never mind, I found a fix. :)"
+,iamgamerx,2012-08-25T17:23Z,"200% working
+
+1st chapter is having the best storyline ever nd we(humans) would feel to cry after watching it
+
+then after its hard to make decisions
+
+The game is havin morethan 20 endings. the game goes according in our decisions
+
+There are fifteen good endings where the main character ends up with one of the obtainable heroines in the game. Of these endings, seven good endings are devoted to Kotonoha, five are given to Sekai, two are for Hikari, and one is with Otome. Of the other six endings, two are harem endings where the main character ends up with multiple girls. In one of these two, Sekai and Kotonoha both get together with Makoto, and in the other, Makoto has sex with various girls almost every day. There is one ending in the game which is only made available when certain conditions are met for one of Kotonoha's or Sekai's good endings entitled ""Carnal Desire"" (Kotonoha) and ""Bavarois"" (Sekai) where Makoto ends up getting Setsuna pregnant.
+The final three endings featured in the game are the three bad endings which involve the death of one of the three main characters (either Makoto, Sekai, or Kotonoha) in violent circumstances. In one of these endings, Kotonoha kills Sekai in broad daylight with a saw to the neck; in another, Sekai stabs Makoto for leaving her for Kotonoha; and in the last bad end, Kotonoha kills herself by jumping off Makoto's apartment building after he chooses Sekai."
+,iamgamerx,2012-08-25T17:30Z,"200% working
+use mounting tool
+mount nd install both disks
+
+the story line is superb in the 1st chapter
+then The game goes according to our decisions
+There are more than 20 endings in the game
+
+There are fifteen good endings where the main character ends up with one of the obtainable heroines in the game. Of these endings, seven good endings are devoted to Kotonoha, five are given to Sekai, two are for Hikari, and one is with Otome. Of the other six endings, two are harem endings where the main character ends up with multiple girls. In one of these two, Sekai and Kotonoha both get together with Makoto, and in the other, Makoto has sex with various girls almost every day. There is one ending in the game which is only made available when certain conditions are met for one of Kotonoha's or Sekai's good endings entitled ""Carnal Desire"" (Kotonoha) and ""Bavarois"" (Sekai) where Makoto ends up getting Setsuna pregnant.
+The final three endings featured in the game are the three bad endings which involve the death of one of the three main characters (either Makoto, Sekai, or Kotonoha) in violent circumstances. In one of these endings, Kotonoha kills Sekai in broad daylight with a saw to the neck; in another, Sekai stabs Makoto for leaving her for Kotonoha; and in the last bad end, Kotonoha kills herself by jumping off Makoto's apartment building after he chooses Sekai."
+,deathtoaji,2012-08-31T16:45Z,"Version 1.2 patch might fix some issues, no crack required as per v1.0
+
+http://schooldays.us/patch/sdhq_patch_102.exe
+
+Enjoy"

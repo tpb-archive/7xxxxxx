@@ -1,0 +1,25 @@
+(Update! New torrent with trackers, because of annoying blocked tracker<>client connections.)
+
+Complete Arduino suite (avr cross compiling and IDE. Arduino IDE from GIT)
+for Linux 2.6 x86_64, that is to say, Java is x86, but binaries are x86_64.
+
+It uses modern binutils, avr-gcc 4.6.2 and avr-libc 1.8.0, and defies the 'p' not 
+declared in scope symptom, by using Arduino IDE GIT version, which is started with
+Apache's ANT + Java.
+
+All is in this 'suite', almost explains itself.
+
+All runs sort of 'sandboxed' so no interfering with your o.s. if understood 
+correctly.
+
+It focusses on Atmel Arduino (not PIC Arduino).
+
+
+Again:
+It defies the 'p' not declared in scope symptom and so fixes incompatibility
+between modern avr-gcc and avr-libc, and the (older) standard Arduino 1.0 IDE from
+the project site.
+
+So there's more support for Atmel platforms, and also smaller/smarter Sketches.
+
+July 2012 - JCK

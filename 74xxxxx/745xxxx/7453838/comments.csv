@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,funkoligy,2012-07-20T12:35Z,Hi Ipmark thanks again for maps any chance you would have gmapsupp.img of south america thanks.
+,csl.albuquerque,2012-07-21T21:08Z,Any instructions for Mac users?
+,LAS918,2012-08-01T15:43Z,"Trying to make a combo of US and Mexico from one of your other ul's.  Joined them using gmaptool and setting the the versionin header to 0.  Now how do I get the img file into mapsource so I can seltect the areas I want and upload the map?
+Thanks!"
+,Ipmark,2012-08-03T01:51Z,"You can't.
+If you need a map with a ""custom"" selection of sub-maps, you have to use a Mapsource version instead of already compiled maps.
+The ""unlocked IMG"" maps can't be loaded in Mapsource without loosing the address search function."

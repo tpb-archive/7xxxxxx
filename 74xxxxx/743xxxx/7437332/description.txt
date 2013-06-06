@@ -1,0 +1,30 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+Changelog:
+
+General:
+   Hide mouse cursor while placing jobs
+   Designation placement uses the solid diamond tile
+   Mining uses an alternate wireframe tile with a more emphasized top
+   Bone, skull, pet rock, puzzle box, commemorative coin, statuette, ring and necklace can be stored in crates
+
+Art:
+   Added a border to the solid color tile
+   Added an alternate wireframe tile for mining
+   Added chiseled wall/floor
+   Updated table
+   Changed birch color
+
+Bug Fixes:
+   Crash on save with items inside containers
+   Crash on save after not dropping items that should have been dropped in combat
+   Crash on save after armor has been destroyed in combat
+   Crash on save with missing items still in the stocks
+   Crash when stocking items
+   Crash when pathing to a bed
+   Items sometimes not existing on the map
+   Squad members dropping food before eating when the uniform didn't have a hand set to "any"
+   Merchants not showing up after loading
+
+
+I will be seeding newer versions as they will be released so keep an eye out :)	

@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,petcna,2012-06-30T10:51Z,"Prerequisite Note:
+
+To install Microsoft Visual Studio 2010 Feature Pack 2, you must have one of the following Visual Studio 2010 SKUs installed on your computer: Ultimate, Premium, Test Professional, Test Agent, Test Controller, Team Foundation Server.
+
+
+Testing features:
+
+* Use Microsoft Test Manager to capture and playback action recordings for Silverlight 4 applications.
+
+* Create coded UI tests for Silverlight 4 applications with Visual Studio 2010 Premium or Visual Studio 2010 Ultimate.
+
+* Edit coded UI tests using a graphical editor with Visual Studio 2010 Premium or Visual Studio 2010 Ultimate.
+
+* Use action recordings to fast forward through manual tests that need to support Mozilla Firefox 3.5 and 3.6.
+
+* Run coded UI tests for web applications using Mozilla Firefox 3.5 and 3.6 with Microsoft Visual Studio 2010 Premium or Visual Studio 2010 Ultimate.
+
+
+Code visualization and modeling features (requires Visual Studio 2010 Ultimate):
+
+* Use the Generate Code command to generate skeleton code from elements on UML class diagrams. You can use the default transformations, or you can write custom transformations to translate UML types into code.
+
+* Create UML class diagrams from existing code.
+
+* Explore the organization and relationships in C, C++, and ASP.NET projects by generating dependency graphs.
+
+* Import elements from UML sequence diagrams, class diagrams, and use case diagrams as XMI 2.1 files that are exported from other modeling tools.
+
+* Create links and view links from work items to model elements.
+
+* Create layer diagrams from C or C++ code and validate dependencies.
+
+* Write code to modify layer diagrams and to validate code against layer diagrams."

@@ -1,0 +1,21 @@
+With MacGourmet Deluxe, you can easily create, build, and share your recipe collection. Make notes about your favorite wines; plan meals for a day or a week and then sync to iCal. Get the nutritional values of foods, recipes and individual servings by accessing the USDA database included in MacGourmet. Print out shopping lists or export them to your PDA. Find recipes online and add them to your collection using MacGourmet's intuitive features. Publish recipes to your blog or .mac account. Even use your family recipes to create a high-res PDF or your own professional-looking, bound cookbook!
+
+
+What's New
+Version 3.2.4:
+
+Please Note: This update ends compatibilty with Mac OS X 10.5.8. Mac OS X 10.6 or later is now required.
+
+[Publishing] Removed support for MobileMe (which was shut down by Apple)
+[Import/Export] Fixed a problem importing MX2 files using drag and drop
+[Import/Export] MasterCook file import no longer throws exception on Lion when imported.
+[Import/Export] Fixed a problem where importers were not parsing ingredient "Parts" correctly for metrics.
+[UI] Disabled option to create a smart list from a Cupboard Find result (not supported yet).
+[UI] Fixed issues with Clippings list and Date Last Modified, Date Created display.
+[UI] Fixed problems with deleted equipment items still showing up in editor, and with adding new items causing everything to be unchecked.
+[Mountain Lion] Fixed a space encoding for HTML paths that prevented Deluxe from starting up properly.
+[Sandbox] MAS version of the application prompts for file formats before save dialog opens.
+[Sandbox] MAS version now prompts for save location of files each time a siteΓÇÖs pages are generated.
+
+Requirements
+Intel, Mac OS X 10.6 or later 

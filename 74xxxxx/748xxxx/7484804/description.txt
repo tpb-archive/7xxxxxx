@@ -1,0 +1,40 @@
+LaunchBar is an award winning productivity utility that offers an amazingly intuitive and efficient way to search and access any kind of information stored on your computer or on the web. It provides instant access to your applications, documents, contacts and bookmarks, to your music library, to search engines and more, just by entering short abbreviations of the searched item's name.
+
+You just hit Command-Space to bring LaunchBar's input window to front, enter an arbitrary abbreviation, and as soon as you start typing LaunchBar displays the best matching choices, ready to be opened immediately.
+
+Start applications, open documents, invoke system services, compose emails or navigate the web - LaunchBar will be your essential servant.
+
+WHAT'S NEW
+Version 5.3:
+
+New Features and Improvements
+
+Improved compatibility with OS X 10.8 Mountain Lion.
+Optimized for MacBook Pro with Retina display (preliminary, a few missing high resolution images will be added shortly).
+Quick access to 1Password bookmarks, tags and folders - either directly (by entering an abbreviation) or via browsing. Note: You may have to add a new 1Password indexing rule in LaunchBarΓÇÖs index window.
+Quick access to Tower repositories. Switch to repositories in Tower or browse the contents of the corresponding working copy.
+Improved calendar support
+Distinction between reminders and calendars
+Growl notifications for new events and reminders
+Extended support for third party email clients
+Quickly send files or text to contacts from your address book.
+Built-in support for Apple Mail, Mailplane, Microsoft Outlook, Postbox, Sparrow.
+The email client used for sending emails is either chosen automatically, or it can be selected manually in LaunchBar Preferences > Actions > Options.
+Ability to set up a custom AppleScript instead (by implementing on sendFiles(_files, _emailAddresses) and on sendText(_text, _emailAddresses) handlers).
+Added ΓÇ£Copy NameΓÇ¥ and ΓÇ£Copy and Paste NameΓÇ¥ to built-in actions.
+Improved QuickCal support.
+Indication if an item in an applicationΓÇÖs recent documents list is located in iCloud.
+The ΓÇ£xcworkspaceΓÇ¥ file type has been added to the ΓÇ£Xcode Project FilesΓÇ¥ file type collection.
+Gatekeeper ready
+
+Bug Fixes
+
+Addresses an issue with contacts indexing on OS 10.8 Mountain Lion.
+Addresses an issue related to application indexing via Spotlight.
+Phone numbers labeled with ΓÇ£iPhoneΓÇ¥ are now displayed as mobile phone numbers.
+Fixes an issue with search templates containing #-characters.
+
+
+Courtesy of KATUZERO
+Requirements
+PPC / Intel, Mac OS X 10.4 or later 

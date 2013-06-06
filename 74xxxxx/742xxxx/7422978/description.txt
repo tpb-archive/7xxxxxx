@@ -1,0 +1,20 @@
+Re-enabled character customization. (No character sprite atm though)
+
+Fixed a few weapons that have issues.
+
+Added frying pan as weapon properly. (no special sound yet can't seem to find a free one)
+
+Fixed bug that meant some weapons never have a 'hit' frame and thus never hit zombies.
+
+Planks stack once more.
+
+Add 1366x768, 1920x1200 and 2560x1440 resolutions
+Fixed issue with clip reloading. Remember HOLD R to load bullets, let go to put clip back in.
+
+Fixed death anim.
+
+Lowered initial zombie count. Still plenty though! Feedback welcome (It's hard since half want lots, half don't )
+
+Fixed tree/door chopping.
+
+Fixed hordes appearing indoors. 

@@ -1,0 +1,57 @@
+MeguIVit 1.0.0.0 Beta-4
+
+MeguIVit is a portable, one-click version of the MeGUI encoder, preconfigured with state-of-the-art deinterlacing & carefully tuned presets. Just Drag & Drop your DVD-Video, Blue Ray or MKV AVI etc files and press Go! to have encoded them to HQ MKV/H.264 50/60FPS. High Quality encoding made thery easy, for everyone.
+
+Capabilities
+
+    No messy installation or configuration required, just double-click the .EXE to start.
+    Sharp, clean, and detailed video output every time.
+    Your choice of MP4 or MKV container.
+    Your choice of MP3 or AAC audio.
+    Anamorphic video output (720 pixel width) with aspect ratio signalling.
+    Chapters are created automatically and have perfect timecodes (official MeGUI builds do not).
+    Perfect aspect ratio autodetection (official MeGUI builds have 3% horizontal stretching).
+    Multithreaded deinterlacing (TempGaussMC) to take advantage of multi-core systems.
+
+System Requirements
+
+    Windows XP/2003 or higher
+    15-25GB or more free space for temporary files that are created during encoding.
+    An SSE3-capable multi-core CPU (the more cores the better! The deinterlacing used in meguIV is very demanding.)
+    Microsoft .NET Framework 2.0 or higher (for example .NET 3.5). You probably already have it installed.
+
+A short tutorial in RTF format is included in the torrent.
+		
+Installation:
+- Create a new folder in your home directory.
+- Extract the MeguIVit zip file into that folder, which creates a new "Sandbox" folder inside it.
+- Extract MeguIV in the same folder and run it (MeguIV is now transformed into MeguIVit).
+- If you use Noise Processing settings (not enabled by default) then you need the contents of the attached
+  ExtraDlls zip file too. Follow the instructions in the zip file for where to install the included DLLs.
+
+Follow the pictorial instructions in the tutorial to give it a quick try.
+
+Changes:
+- Updated the sandbox with fixes that a few of us worked out.
+- Latest avisynth plugins, which should provide some minor speed-up.
+- Update to QuickTGMC 3.33 (some minor tweaks mostly regarding how it deals with source noise).
+- Improved FPSx2 (Synthesize in-between frames) option, which allows you to force progressive 30fps
+  into 60fps (or 24fps to 48fps etc.).
+- Improved EdgeClean, which is now more delicate on fine detail. Good for older sources with strong
+  over-sharpening.
+
+___
+
+MeguIVit is based on a "One-Click" concept. When you drag a source into the first one-click window it
+automatically selects settings for high quality double rate deinterlacing. It chooses the fastest settings
+that are still considered [HQ] for your source. That means for most 60fps (or 50fps) deinterlacing jobs,
+you can just press "Go" and the result will be good. You can confirm whether your settings are HQ on the
+"Custom Processing" tab, there is a [HQ] box that goes green when your settings are good.
+
+IMPORTANT: To rip a blu-ray, you extract the BDISO and drag one of the M2TS files from the
+BDMVSTREAM folder into MeguIVit. However, you should also check "Switch Parity" on the "Advanced Config"
+tab. I haven't yet updated the program to do that automatically.
+
+The myriad options are for repairing bad rips or improving poor sources, particular cropping or resizing
+requirements, ultra high quality or faster settings, adjusting threading for performance/stability and
+just general tweaking.

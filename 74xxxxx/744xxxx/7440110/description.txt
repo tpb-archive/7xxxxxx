@@ -1,0 +1,34 @@
+The Finder, reinvented
+Path Finder is an award-winning file browser and management application for Mac OS X. If you've ever wished Apple's Finder just did feature X or feature Y, Path Finder may be what you've been looking for.
+
+Path Finder is a standalone application that leverages what you already know about working with your files. It takes the Finder's familiar interface and adds numerous powerful features and interface innovations to help anyone be more productive on Mac OS X.
+
+Dual Pane File Browser
+View the contents of two folders or volumes side-by-side in one window.
+Drop Stack
+Freeze drag & drop operations by placing files into a temporary stack.
+Tabs & Bookmarks
+Use the best features of a web browser in your file browser.
+File List Sorting & Filtering
+Sort by folders first, or limit a list of files by name or extension
+Command Line tools
+
+Path Finder puts a terminal right in your file browser, and provides a graphical interface to some popular UNIX utilities.
+
+
+What's New
+Version 6.0.2:
+
+Changes:
+* List view flash when expanding fixed.
+* Increased icon cache to avoid flicker.
+* Opening .jar files no longer unzips them.
+* New version of HexFiend hex editor.
+* Fixed double click on disclosure triangle in list view bug.
+* Fixed potential crash with size calculator.
+* Fixed icon view clicking bug.
+* Added option to disable icon views inline preview.
+* Added cancel button for queued file operations.
+* Fixed a bug in the find window.
+* Updated many localizations.
+* No longer creates multiple Goto sheets if one is already visible.

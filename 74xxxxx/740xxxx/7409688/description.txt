@@ -1,0 +1,6 @@
+Fixes:
+
+Added ConVars sv_rcon_maxpacketsize and sv_rcon_maxpacketbans to allow server admins to control the maximum RCON packet size and whether or not users get banned for exceeding that limit. The defaults reflect the existing behavior.
+Fixed not being able to import custom spray images on Macs
+Fixed Macs cancelling http map downloads that take longer than 30 seconds
+Updated the HTML renderer for displaying server MOTD

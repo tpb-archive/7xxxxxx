@@ -1,0 +1,33 @@
+REMEMBER THIS IS FOR A 64bit SYSTEM BUILD! NOT 32bit! THE 32bit WILL BE A SEPARATE DOWNLOAD!
+
+Although only two years have passed since its last long-term support (LTS) release, the latest version of Ubuntu Server introduces significant changes, designed to help you deliver new services faster and with more flexibility than ever.
+
+Do note that we support the packages in the main repository for every LTS release for five years from launch, so there is no pressure to upgrade from Ubuntu Server 10.04 LTS.
+
+To help you quickly understand the updates included this time, we have categorised the improvements as follows: cloud and virtualisation; hardware and architecture support; file systems and storage; new ISV support.
+
+Ubuntu Cloud is central to Ubuntu Server 12.04 LTS - and it will remain at the heart of platform technology decisions in future releases.
+
+Ubuntu Cloud Infrastructure now powered by OpenStack
+
+OpenStack is now the default choice for Ubuntu Cloud Infrastructure. OpenStack has been integrated as the default cloud infrastructure technology for Ubuntu Cloud, for the following reasons:
+
+Fastest growing open source project: 
+
+in terms of partners (HP, Dell, Cisco, Rackspace, Intel, IBM and many others)
+in terms of contributions (120 companies involved in the Essex release)
+in terms of time to market (five major public clouds in beta by end of 2011)
+Built to support the needs of public clouds (which supersede private)
+Built to prohibit any single point of failure
+Massively extensible in terms of functionality (SAN, network, hypervisors, etc.)
+Excellent dissociation of components, allowing for a more scalable and maintainable architecture
+The current release of OpenStack in Ubuntu Server 12.04 LTS is Essex.
+For more information about Ubuntu Cloud Infrastructure, visit www.ubuntu.com/cloud/private
+
+Dual lifecycle support policy for OpenStack in Ubuntu Cloud
+
+___________________________________________________________________________________
+
+Many more interesting facts can be found at: 
+ 
+http://www.canonical.com/about-canonical/resources/white-papers/what%E2%80%99s-new-ubuntu-server-1204-lts

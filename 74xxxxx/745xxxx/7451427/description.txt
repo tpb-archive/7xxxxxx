@@ -1,0 +1,86 @@
+Singles - Original Motion Picture Soundtrack - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Alice In Chains - Would?
+2 - Pearl Jam - Breath
+3 - Chris Cornell - Seasons
+4 - Paul Westerberg - Dyslexic Heart
+5 - Lovemongers - Battle Of Evermore
+6 - Mother Love Bone - Chloe Dancer , Crown Of Thorns
+7 - Soundgarden - Birth Ritual
+8 - Pearl Jam - State Of Love And Trust
+9 - Mudhoney - Overblown
+10 - Paul Westerberg - Waiting For Somebody
+11 - Jimi Hendrix - May This Be Love
+12 - Screaming Trees - Nearly Lost You
+13 - Smashing Pumpkins - Drown
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-16-bit/44.1kHz files ripped from the CD and joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = 19, Peak = 0.001db
+-Final Recording - Apparent Bit Resolution = 41, Peak = 0.49db
+
+-Resample 64-bit/384kHz to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply loudness maximizer (0.2db) and MBIT+ 16-bit Dither (Noise Shaping - Medium, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-07-16 21:42:37
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -0.08 dB   -13.00 dB      3:29 ?-01 - Alice In Chains - Would
+DR12      -0.08 dB   -13.11 dB      5:28 ?-02 - Pearl Jam - Breath
+DR13      -0.08 dB   -16.42 dB      5:48 ?-03 - Chris Cornell - Seasons
+DR12      -0.08 dB   -14.14 dB      4:33 ?-04 - Paul Westerberg - Dyslexic Heart
+DR11      -0.08 dB   -11.85 dB      5:45 ?-05 - Lovemongers - Battle Of Evermore
+DR11      -0.08 dB   -14.59 dB      8:19 ?-06 - Mother Love Bone - Chloe Dancer , Crown Of Thorns
+DR11      -0.08 dB   -12.26 dB      6:08 ?-07 - Soundgarden - Birth Ritual
+DR11      -0.08 dB   -12.38 dB      3:48 ?-08 - Pearl Jam - State Of Love And Trust
+DR12      -0.17 dB   -13.33 dB      3:03 ?-09 - Mudhoney - Overblown
+DR12      -0.08 dB   -13.17 dB      3:28 ?-10 - Paul Westerberg - Waiting For Somebody
+DR13      -0.08 dB   -15.69 dB      3:12 ?-11 - Jimi Hendrix - May This Be Love
+DR10      -0.14 dB   -12.05 dB      4:10 ?-12 - Screaming Trees - Nearly Lost You
+DR12      -0.08 dB   -14.68 dB      8:17 ?-13 - Smashing Pumpkins - Drown
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR12
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

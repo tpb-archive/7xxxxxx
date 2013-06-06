@@ -1,0 +1,34 @@
+Helicon Focus is designed to blend the focused areas of several partially focused digital photographs to increase the depth of field. In other words, it creates one focused image from the set of several partially focused photographs by combining the focused areas.
+
+The program is designed for macrophotography, microphotography and hyperfocal landscape photography to cope with the shallow depth-of-field problem. Helicon Focus also aligns images as objects often change their size and position from shot to shot. This function is especially important for macrophotography.
+
+Features:
+
+64 bit mode - get advantages of all available physical memory, significantly improves performance on machines with more than 2Gb of RAM.
+Retouching brush to clone from aligned source images to the resulting image (cannot be performed with external photo editor).
+2D micropanorama.
+Automatically adjusts and resizes images (important for stereomicroscopes and macrophotography).
+Has no limitation on image resolutions (512MB+ RAM required to work with 8Mp+ images).
+Process unlimited number of images in a stack.
+Preserves details by using advanced interpolators for image manipulation (Lanczos, Sinc256).
+Internal workflow always uses 16 bit color depth to preserve colors.
+Clean dust artifacts, by removing black points from the resulting images.
+Automatically adjust brightness of adjacent images.
+Reads RAW, 8bit and 16bit TIFFs, JPEG, JPEG 2000, BMP, etc.
+Writes 8bit and 16bit TIFFs, JPEG, JPEG 2000, BMP, PSD, PNG.
+Export of 3D model of the object to Helicon 3D Viewer (included into Helicon Focus v4.2+ installation)
+Export of animated stacks (v4.2+) 
+
+What's New
+Version 4.2.9:
+
+Added plug-in installation for exporting images from Lightroom.
+Added new render method "C".
+Updated Helicon Focus engine.
+Improved performance for application processes.
+Fixed some UI bugs.
+Helicon Focus 4.2.9 is the last update which supports Mac OS X 10.5 systems.
+Development of new features for this product line is discontinued and subsequent updates will include only bug fixes. The future updates of Helicon Focus will support only Mac OS X 10.6 systems or later. 
+
+Requirements
+PPC / Intel, Mac OS X 10.5.8 or later 

@@ -1,0 +1,40 @@
+AI.Roboform.Enterprise.v7.7.9.5-TE
+
+A client-based alternative to Single Sign-On (SSO), RoboForm Enterprise delivers fast, simplified password management, solving the growing password inflation problem for your organization at a fraction of the cost of traditional SSO.
+
+INSTALLATION NOTES
+
+Install AiRoboForm-Enterprise.exe. After installation make sure all Internet Explorer and/or other browsers and explorer windows are closed or else the file(s) will not copy over properly (as well as the Roboform Taskbar Icon). Reboot into safe mode if you still have problems. Copy roboform.dll and roboform-x64.dll (x64 dll is only needed for IE 64bit!) into AI Roboform's installed folder, making sure to overwrite the existing files. AI Roboform is now in the full PRO version with Enterprise features.
+
+Included is the Enterprise policies tool with this release so you don't need to request it from the homepage. Its located in the PolicyEditor folder.
+
+Feel free to use the online sync feature, it does work fine when you run the setup. Also make sure to set it up later or a taskbar notification will let you know once. This is also known as RoboForm Everywhere which is fully functional in this release. In IE 64bit it may show as Desktop ONLY in the about window, but if you have chosen Everywhere syncing is still performed (hopefully fixed in an update). Its suggested to use a different RoboForm Everywhere password than your master password. This way nobody will be able to decrypt your online database except you.
+
+Note that you can now choose either Everywhere or Desktop type of installation while first installing AI Roboform. You can also tell which type of configuration its currently set at by opening the About window from the taskbar icon, keep this running if you want full time syncing with Everywhere. Everywhere will show Sync With [USERNAME], while Desktop will not show Sync. This can be changed at any time by going into Options then User Data and clicking on Settings button.
+
+Thats it! Enjoy.
+
+
+
+
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+To know , learn and get all things come and join here
+LOTS AND LOTS OF GREAT THINGS ARE HERE
+                                                                                                                                       
+https://forum.suprbay.org
+
+For reporting bad or suspicious torrents                                                                                                                                                                                                                               
+https://forum.suprbay.org/forumdisplay.php?fid=29
+
+For my 1600+ Torrents                                                                                                                                                                                                                                 
+http://thepiratebay.org/user/Anacondaz/
+
+			
+credit to the original creator encoder 			
+
+
+	

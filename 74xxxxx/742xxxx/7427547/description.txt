@@ -1,0 +1,28 @@
+CrossOver allows you to install many popular Windows applications on your Mac. Your applications integrate seamlessly in OS X; just click and run. No rebooting, no switching to a virtual machine, and no Windows Operating System license required.
+
+CrossOver is capable of running a wide range of Windows software. To see if your favorite application works with CrossOver, please check What Runs, or search for it using the search box at the top of this page.
+
+
+What's New
+Version 11.2:
+
+Support for OS X 10.8 Mountain Lion
+Signed code to work with OS X 10.8 Mountain Lion's 'Gatekeeper' feature
+Bug fix for a crash when typing with Chinese Pinyin input on OS X 10.7 Lion
+Fix for certain graphical glitches where small black rectangles would appear in certain applications
+Improve font discovery
+Prevent an occasional hang while updating CrossTie profiles
+Fix a crash in Civilization IV and V in windowed mode
+Fix an issue where applications could appear frozen after being minimized into the Dock, even though they were still running
+Fix an error opening documents with parentheses '()' in their filenames.
+Added support for Microsoft Visio 2010
+Added support for Microsoft Project 2010
+Integration of Wine 1.4.1, which includes many, many bug fixes and improvements over Wine 1.4.0, as well as improved translations for many languages
+Bug fix for microphone detection for Rosetta Stone 3
+Fix a crash for certain files PowerPoint 2010
+Improvements to Japanese input when running Internet Explorer 7
+Improvements to graphics card detection
+Allow for graphics driver detection in CrossTie files
+Better installation notes during CrossTie installations
+
+If you like it - buy it

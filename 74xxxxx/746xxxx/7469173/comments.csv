@@ -1,0 +1,212 @@
+﻿User Type,Username,Date,Text
+,FEarBG,2012-07-24T02:04Z,"For ""Allocating More Memory To Java"" read this - http://www.minecraftforum.net/topic/350344-allocating-more-memory-to-java-windows/
+
+Also you can see how the ""Medieval Monastery"" map look like in this client with ""GLSL Shader"" - http://www.planetminecraft.com/project/medieval-monastery/"
+,vonwisdom,2012-07-24T08:33Z,"Takes me to the login screen then what?
+Need a payed account."
+,FEarBG,2012-07-24T09:35Z,"@vonwisdom
+
+No, no. The launcher support botch premium and cracked Minecraft version. If you don't have Minecraft account, do not fill any information in the boxes. Just press ""Login"". The game will say ""Login failed"" and the ""Play offline"" mode will appear. From here you can play botch single and multiplayer cracked minecraft version.
+
+See these pictures for step by step :
+
+http://img404.imageshack.us/img404/8773/63094000.jpg
+
+http://img32.imageshack.us/img32/1928/29079067.jpg
+
+http://img833.imageshack.us/img833/723/92971732.jpg"
+,FEarBG,2012-07-24T10:24Z,"@vonwisdom
+
+In the comment above when I say ""botch"" I mean ""both"". Wrote it twice wrong O.o
+
+About the launcher, some people really like the ""Minecraft Launcher by AnjoCaido v12.2"". It look like that : http://img821.imageshack.us/img821/23/58544133.jpg
+
+No login information, just fill your name and play. Awesome right ? Well the problem with it is that he support only x32 java version. That's why he is not included in this torrent.
+
+If you have x32 processor and x32 java, and you want to use it, you can download it from around the net and run it from anywhere. Make google search with ""Minecraft Launcher by AnjoCaido.exe""."
+,jack0o0,2012-07-24T20:07Z,I keep getting a white screen when i enter the world i can see the map and my inventory but no blocks
+,jack0o0,2012-07-24T20:23Z,i think is because is for 64bit
+,FEarBG,2012-07-24T21:48Z,"@jack0o0
+
+No, I use the official ""Mojang"" launcher. And he can work both with x32 and x64 java. Not only ""for 64bit""...
+
+Anyway your problem comes from ""OptiFine"". This torrent include ""optionsof.txt"" who have setting for this mod, specifically for ""Render Distance: Far"". I guess you deleted it..
+
+Now when you start the game go to ""Options.."", ""Video Settings.."" and make ""Render Distance"" - Far. You have ""Tiny"" or something..
+
+Alternative : Open ""optionsof.txt"". Search for ""ofRenderDistanceFine:"" and write ""256"" after it. Atm you have a much smaller number there.."
+,sheldonmj,2012-07-25T04:26Z,"@FEarBG   The fix you listed did not work for me. Did exactly it and still same problems. Also when trying to get on multiplayer it spams you must be signed in to do this in the chatbox, and screen also wont load for multiplayer."
+,FEarBG,2012-07-25T14:09Z,"@sheldonmj
+
+You video card don't support ""GLSL Shader"". I guess it's old or something.. That's why you can't see nothing but white fog. 
+
+I can't really help you with this because the problem it's in your hardware, not here.
+
+Download ""Minecraft 1.2.5 with Mods [FEarBG]"" - my previous torrent. He don't have ""GLSL Shader"" and will work fine for you : http://thepiratebay.se/torrent/7446493/"
+,yourmomisinthehouse,2012-07-26T18:17Z,you should probally add ic2 bc2 and thuamcraft 2 makes the game much more enjoyable but thanks for the upload anyway
+,FEarBG,2012-07-27T14:07Z,"@yourmomisinthehouse
+
+The next ""V3"" with 1.2.5 or maybe 1.3.0 Minecraft client will contain a fully integrated, cracked and stand-alone Tekkit 3.1 Technic Pack."
+,skillaz,2012-08-01T05:40Z,How do i remove mods that i don't want? I really just wanna remove only the zombie mod
+,FEarBG,2012-08-01T09:38Z,"@skillaz
+
+At this point you can't remove it without a black screen at startup after that.
+
+But you can safely stop it and I'll tell you how :
+
+Use ""Windows Key + R"" to open ""Run.."" menu and then type ""%Appdata%"". You will see a "".minecraft"" folder there. You need to find the ""config.txt"" file who is located at this path : "".minecraftmodszombeconfig.txt"". Open it with Notepad and find the ""disableAllMods"" line (located at the beginning). You will see ""= no"" after it. Just make it ""= 1"" and this will disable all  Zombie's mods. "
+,FEarBG,2012-08-01T09:45Z,"@skillaz
+
+Damn, I guess ThePirateBay don't allow to use ""slash"" in the comments. That's why the path to the file become one big word. Here is it again, divided by lines :
+
+"".minecraft-mods-zombe-config.txt"""
+,jack0o0,2012-08-03T02:21Z,when i start a normal minecraft it works fine but this is what i get from yours  a screen sometime all back but with map and inventory visible other times is white is not because of distance
+,FEarBG,2012-08-03T08:35Z,"@jack0o0
+
+Yeah.. My first guess was the OptiFine's distance, simply because it's fixable.
+
+As I said, this client use ""GLSL Shader"" mod and if your video card don't support glsl shaders, you will have this problem. It's a hardware thing, I can't fix it for you..
+
+Removal of this particular mode is not an option too. The game will not function properly afterwards. Just use my previous torrent - ""Minecraft 1.2.5 with Mods [FEarBG]"" or any normal one that does not use ""GLSL Shader""."
+,ionicuji,2012-08-04T02:55Z,how do you install forge for this download i have tried many times on others but i cannot get it to work there are some mods that i would love to have but they need forge to run them
+,FEarBG,2012-08-04T11:09Z,"@ionicuji
+
+According to what I know, if they say ""minecraft forge required"" means that you need FML (Forge ModLoader). This torrent already have ModLoader 1.2.5 installed, so you don't need forge at all.
+
+Forge was one of the first mods which I tested and it seems that certain mods are not supported by it. And to be honest, forge is primarily an API. "
+,ionicuji,2012-08-06T23:49Z,thank's for writting me back you see i'm big into making hide away items like worlds and wanted to use the More Piston's mod but it seems it can't work with this verison as i did some reading on it does this version work well with build craft and industrial ?
+,FEarBG,2012-08-07T02:25Z,"@ionicuji
+
+Hmm, it seems that this mod needs both ModLoader and the forge. I do not know really why. Anyway I managed to install both forge and More Pistons Mod here and everything works. 
+
+Just download ""MinecraftForge-3.4.9.171-Client"", open it with WinRAR and drag-drop all content inside the ""minecraft.jar"" (also open with WinRAR). Do the same with ""More Pistons v1.0.zip"" and you are ready to go.
+
+BUT, installing forge on this torrent will cause problems with already installed Zombie-fly mod. Nothing serious, but I recommend to turn it off. How you can see in my comment that responds to ""@skillaz""."
+,ionicuji,2012-08-07T04:19Z,i just found a mod that works for me its called magnet piston's its pretty useful as it can move up to five block's at once and you can change how many block's it moves also but yea seems that zombie is messing up alot of mods i wonder if the creater can fix that
+,ionicuji,2012-08-07T23:51Z,"I was wondering if i could request a minecraft upload from you with some mod's in it that i can't seem to get to work for me in anyway shape or form 
+I would like a minecraft with these mods install'd and i would love you forever ^_^
+
+1 redpower
+2 buildcraft
+3 industrial craft
+4 railcraft
+5 tomanymods
+6 smart moving
+7 sneaky pipes
+8 rei mini map
+9 thaumcraft
+10 magnet pistion
+11 minecraft forge
+12 modloader
+13 modloaderMP
+14 wireless redstone (not sure what that mod is called really to be honest)
+15 3D items [Forge]
+--------------------------------------------------------
+if you could make something like that i would love you forever and seed it at max speed till the end of time "
+,FEarBG,2012-08-08T11:27Z,"@ionicuji
+
+I'll make you another minecraft package that can be installed anywhere and play completely independent and separate. That way you will be able to have two clients with their own mods and they can run simultaneously without interacting with each other.
+
+Already downloaded all the mods that you want and they will soon be integrated into the new client. BUT I can't find that ""5 tomanymods"". I guess it's ""TooManyMods"" but still can't find one for version 1.2.5. I think the developer has abandoned it. If you have a link for version 1.2.5, post it here.."
+,FEarBG,2012-08-08T12:50Z,"@ionicuji
+
+So far I managed to install this :
+
+First Wave : 
+- Minecraft Forge
+- ModLoader 1.2.5
+- ModLoaderMP 1.2.5
+
+Second Wave : 
+- ReiMinimap
+- 3DItems 
+- Magnet Pistons
+- Wireless Redstone
+
+Third Wave :
+- Player API client 1.5 (for smart moving)
+- Smart Moving 9.5
+
+Fourth Wave :
+
+RedPower 2 Prerelease 5b2
+- RedPowerControl-2.0pr5b2
+- RedPowerCore-2.0pr5b2
+- RedPowerLighting-2.0pr5b2
+- RedPowerLogic-2.0pr5b2
+- RedPowerMachine-2.0pr5b2
+- RedPowerWiring-2.0pr5b2
+- RedPowerWorld-2.0pr5b2
+
+Now MC Forge indicates 14 installed Mods (he don't show Player API and ModLoaderMP, but they work perfectly)
+
+The real problem comes here.. 
+
+Fifth Wave :
+
+BuildCraft
+- buildcraft-client-A-core-3.1.5
+- buildcraft-client-B-builders-3.1.5
+- buildcraft-client-B-energy-3.1.5
+- buildcraft-client-B-factory-3.1.5
+- buildcraft-client-B-transport-3.1.5
+- buildcraft-client-C-silicon-3.1.5
+-- SneakyPipes (need BuildCraft)
+
+- Industrialcraft-2-client_1.97
+- ThaumCraft2.1.6d
+
+-- ThaumCraft2.1.6d (need BuildCraft and IC2)
+
+So far I can not install correctly all three BuildCraft, IC2 and ThaumCraft. I'll try a few more times and if I'm not able to do it I will look at alternatives such as Tekkit. "
+,FEarBG,2012-08-08T12:59Z,"From the comment above : 
+
+""-- ThaumCraft2.1.6d (need BuildCraft and IC2)""
+
+I wanted to say ""Railcraft_Client_5.4.7b"". And BuildCraft and IC2 are only optional. The real problem is that he required Minecraft Forge 3.3.8+ O.o I have the latest ""minecraftforge-client-3.3.7.135"". I have no idea where they came up with this 3.3.8+ crap."
+,ionicuji,2012-08-08T16:20Z,thank you so much for this its very troublesome not to know how to get these mods to work some people don't understand that if you really want to build cool things you need these mods and well if you got one mod that break's them all and you have no idea which one borke it it takes a very long time to try and fix it all 
+,FEarBG,2012-08-08T18:37Z,"@ionicuji
+
+Tell me about it :D
+
+Anyway, your torrent is ready. MC Forge indicates 25 mods total. This is because some like BuildCraft and RedPower 2 have many parts and Forge count them all as separate mods.
+
+All mods from your list are included : http://thepiratebay.se/torrent/7515202"
+,roliocsi8,2012-08-16T15:02Z,FEarBG PLEASE make a Minecraft 1.3.1 with Mods V2! U are the best!!
+,FEarBG,2012-08-16T22:16Z,"@roliocsi8
+
+I'm working on ""Minecraft 1.2.5 with Mods V3 [FEarBG]"" atm. Will include a lot of mods and until it is fully tested, I will not upload it here. 
+
+After that I will make 1.3.1 cleint with mods. Something like ""Minecraft 1.3.1 with Mods V1 [FEarBG]"". Problem is that even if I want to do it now, most of the mods are still on 1.2.5 because they must be totally rewritten for 1.3.1. Some of the developers even think to skip version 1.3.1.
+
+That's why is quite impossible now have 1.3.1 clients with all mods now, but if all the important mods are updated soon, I will certainly make a torrent."
+,FEarBG,2012-08-21T18:57Z,"Recently I started getting a few comments under my videos about problems with mods and my torrents in general.
+
+Since YouTube is not the most appropriate site for such discussions, nor ThePirateBay, I made a small forum where everyone can create a thread about his problem.
+
+Please post any problems there and leave only suggestions or simple questions as comments on ThePirateBay or YouTube.
+
+
+Link to my Minecraft Forum : https://docs.google.com/open?id=0B-PrHq03Kk0cTGJZVHNGdGctQjA"
+,FEarBG,2012-09-11T17:25Z,"I have released [ALPHA] Minecraft 1.2.5 - Mods V3 [FEarBG] for you to test on it and look for any bugs.
+
+Alpha have 18 mods and 11 fixes. Only 2 mods here add items - Obsidian ++ and Revolver.
+
+You can find the download link inside my forum. And the link for the forum you can find in my comment above.
+
+
+Planned mods for BETA :
+
+- Better Dungeons
+- Ruins
+- Exp Chest 
+- Airship
+- CraftGuide
+- Crystal Wing
+- Ender Storage
+- Steam Boat
+- Thor Hammer
+
+And you can find the full mod list for the final version also in the forum.
+
+Have Fun .."

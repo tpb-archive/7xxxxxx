@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,TeaMCrossFirE,2012-07-21T22:13Z,Please uninstall any 3rd party Standalone or any patch before applying this Update.
+,p2b,2012-07-22T05:56Z,"dude i think this is great, uploading under teamcrossfire name (:"
+,cacuu07,2012-07-22T16:47Z,"after installing this update i cant realy create or join any servers :(
+its tells me ''Connection Blocked Please Remove any PLug-ins before attempting to join any VAC Secured Server Help ! plz"
+,kaze_windsa,2012-07-22T17:57Z,"Same problem here, now I can't play the game now, even Single Player. Still waiting for the fix. :)"
+,TeaMCrossFirE,2012-07-22T18:02Z,"run the game with the parameter -steam, for example create a new text file in the game root folder, open the text file and type the following.
+
+left4dead2 -steam -novid
+
+save it as a .bat file with a name of your choice for example, launcher.bat
+
+thats it, have fun."
+,TeaMCrossFirE,2012-07-22T18:03Z,you must run the game through the launcher.bat you're just created.
+,cacuu07,2012-07-22T19:35Z,"Thanks, its working Now thanks for the quick reponse, "
+,kaze_windsa,2012-07-22T21:35Z,"Great, problem fixed. "
+,cacuu07,2012-07-23T01:50Z,"OK, 1 more problem exist when i run the game and i Quit the game from main menu it just freezes up but if i play like 10-15 minutes it quits without any prob how can i fix this?
+i have microsoft visual c++ 2005 x86 installed."
+,TeaMCrossFirE,2012-07-23T03:41Z,"The freezing problem when exiting the game is a known issue due to the Steam emulator done by the RevCrew (Actual Left 4 Dead cracking sceners) to solve this problem you can add the parameter -dev  in the launcher.bat you're just created however the -dev parameter was made to receinve all the info like u were a game developer, once you add this parameter to the launcher when u want to quit the game simple open the console using the ""  '  "" or ""  ~  "" according to your keyboard region in the console type ""quit"" without the quotes and press enter, the game should quit instantly when u press enter.
+
+please send ur feedback, i hope this works."
+,TeaMCrossFirE,2012-07-23T03:44Z,"by the way i strongly recommend you to install/update your Visual C++ 2008 x86 and/or x64 according to your system version.
+
+cheers and have fun."
+,cacuu07,2012-07-23T09:56Z,"Hi, i,ve installed this version of C++ -> http://www.microsoft.com/en-us/download/details.aspx?id=15336
+my system is Win7 Ultimate 64-bit and the c++ version is also 64-bit as u said i installed the correct  64bit version for 64bit win.
+but still i cant quit. :(
+and i also tried adding -dev to the parameters but still cant. :("
+,TeaMCrossFirE,2012-07-23T11:10Z,"@cacuu07
+
+Bro, try to run the game in windoned borderless under video options, u will prolly need to quit the game by pressing Ctrl+Alt+Del and finish the proccess in the task manager, keep in mind that this problem is due to the RevCrew steam emulator and not a problem with this release, it is a known issue just like the Slow start up of the game thats caused by the same steam emulator (Crack)
+
+I do use the win7x64 here too and sometimes it freezes and sometimes don't, its a random issue caused by the steam emulator, the best way in my opinion if leaving the Task Manager opened while you play, once you want to quit hit Alt+Tab and finish the proccess called left4dead2.exe."
+,cacuu07,2012-07-23T13:10Z,"ok thanks i will keep that in mind, :)"
+[T],Francisco1206,2012-07-23T13:13Z,no freezing version here: ftp://psychohome.no-ip.org/Left4Dead2/Left4Dead2%202.1.0.4.torrent
+,cacuu07,2012-07-23T13:40Z,this version is best Left4Dead2 and im not going download any other FAKE version :D
+,D4rkSp4wn,2012-07-24T07:03Z,"Theres no NO Freezing version of this game kids, stay away from Lamecisco1206"
+,kirua45393,2012-07-26T03:21Z,"Hai, srry to bother.  But apparently, to me at least, the addons are not working :(
+
+I tried updating to version 2.1.06/2.1.07--none are working.  Any help would be greatly appreciated :)
+
+p.s. This is a great torrent! fast download, super fine compression, smooth game play with minor fixable bugs thus far."
+,ninza25,2012-07-29T16:54Z,guys help me plzz how do i with update becose wen i downloded the update in my L4D2 folder and wen i wanted to play online or offline its say thet i cant plzz say how u with pach plzzzz

@@ -1,0 +1,32 @@
+Battlestar Galactica Face Of The Enemy webisodes v2 33m55s 720p
+BSG.TheFaceOfTheEnemy.v2.33m55s.720p-bsg4you.mkv
+533,788,569bytes
+
+bsg4you proudly presents v2 of The Face Of The Enemy webisodes from Battlestar Galactica in a single 33 minute 55 second file with a much smaller file size while slightly improving the video and audio and removing 14 seconds of overlapping content. 
+
+The story is powerful, both Gaeta (Alessandro Juliani) and Sweet Eight (Grace Park) do great jobs and we finally find out what Baltar whispered into Gaeta's ear in the brig that made him attack Baltar. This is best viewed in between s4e11 and s4e12. Since the parts are all strung together some unneeded establishing shots were cut as were some overlapping clips.  In v2, one of the two 14 seconds clips of overlap discussing the low oxygen situation that ends with "better dizzy than dead" was removed.
+
+Technical notes:
+The source was 1600Kbps 720p so it doesn't look great for HD but it should look better than most/all other versions. The source mp4 files came from the website for the BSG network where they still had the webisodes listed but with no HD viewing option. By analyzing the rtp video stream links you can see that the last 4 characters determine the resolution; by changing those to do 720p and using an rtp stream grabber you can get the 10 Face of the Enemy videos in this format:
+video: AVC, 1600Kbps, 1280x720 (16:9), 29.970fps, Main@L3.1
+audio: AAC, 96Kbps, 44.1KHz/22.05Khz, 2 channel
+
+The editing was done with MPEG-2 25Mbps 29.970fps, AC3 224Kbps encodes. This is much higher than the source and should be lossless.
+
+The final single file mkv encode of The Face of the Enemy webisodes v2 is:
+video: AVC, 1900Kbps, 1280x720 (16:9), 29.970fps, High@L3.1
+audio: AC3, 192Kbps, 48.0Khz, 2 channel
+
+v2 improvements over v1:
+video: 29.970 frame rate is completely maintained from source to editing to assembly to final encode, this is 25% more frames than v1
+video: final encoder was changed to Handbrake with a 2-pass constant bitrate encode 300Kbps above the source
+audio: final encode uses AC3 passthrough to reduce the number of audio re-encodes
+
+Careful comparison of v1 to v2 can reveal quality improvement, e.g. with some motion filled scenes and the graphics on the Raptor's video screens. The improvement is subtle at best; this is not like going from DVD to Blu-Ray because the 720p source files are mediocre. But v2 is definitely as good as v1 and in some parts better and v2 is half the size.
+
+If you like The Face Of The Enemy webisodes v2:
+* PLEASE seed
+* PLEASE repost on usenet
+* PLEASE provide feedback of any kind
+
+Thanks! bsg4you

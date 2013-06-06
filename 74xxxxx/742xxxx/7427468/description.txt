@@ -1,0 +1,17 @@
+HyperDock adds long awaited features to your Dock:
+Preview and select windows&tabs just by moving the mouse on a dock item.
+Use shortcuts to quickly open new windows and documents with a simple mouse click.
+Improve your workflow by using advanced window management features like Window Snapping.
+
+
+
+What's New
+Version 1.2.1:
+
+Reenable support for older Snow Leopard versions (<10.6.6)
+Fix "Could not open Preference Pane" errors
+Show only file names in Finder if _FXShowPosixPathInTitle mode is enabled
+Fix: HyperDock sometimes popped up two update alert windows.
+Minor fixes for OS X 10.8
+Fix a memory leak
+Fix crashes

@@ -1,0 +1,26 @@
+Using the new OpenCL (Open Computing Language) standard, you can write applications that access all available programming resources: CPUs, GPUs, and other processors such as DSPs and the Cell/B.E. processor. Already implemented by Apple, AMD, Intel, IBM, NVIDIA, and other leaders, OpenCL has outstanding potential for PCs, servers, handheld/embedded devices, high performance computing, and even cloud systems. This is the first comprehensive, authoritative, and practical guide to OpenCL 1.1 specifically for working developers and software architects.
+
+ 
+
+Written by five leading OpenCL authorities, OpenCL Programming Guide covers the entire specification. It reviews key use cases, shows how OpenCL can express a wide range of parallel algorithms, and offers complete reference material on both the API and OpenCL C programming language.
+
+ 
+
+Through complete case studies and downloadable code examples, the authors show how to write complex parallel programs that decompose workloads across many different devices. They also present all the essentials of OpenCL software performance optimization, including probing and adapting to hardware. Coverage includes
+
+ 
+
+    * Understanding OpenCLΓÇÖs architecture, concepts, terminology, goals, and rationale
+    * Programming with OpenCL C and the runtime API
+    * Using buffers, sub-buffers, images, samplers, and events
+    * Sharing and synchronizing data with OpenGL and MicrosoftΓÇÖs Direct3D
+    * Simplifying development with the C++ Wrapper API
+    * Using OpenCL Embedded Profiles to support devices ranging from cellphones to supercomputer nodes
+    * Case studies dealing with physics simulation; image and signal processing, such as image histograms, edge detection filters, Fast Fourier Transforms, and optical flow; math libraries, such as matrix multiplication and high-performance sparse matrix multiplication; and more
+
+
+# Paperback: 648 pages
+# Publisher: Addison-Wesley Professional; 1 edition (July 23, 2011)
+# Language: English
+# ISBN-10: 0321749642
+# ISBN-13: 978-0321749642

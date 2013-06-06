@@ -1,0 +1,29 @@
+Changes in Adobe Audition CS6 5.0.1 Build 7 (July 18th, 2012):
+- APE files with metadata inserted by other editors cause Audition to crash (Windows)
+- If previous session directory no longer exists, Audition leaves the Folder Location field empty
+- Multitrack fades no longer respect the fade type preference. (Worked in CS5.5)
+- Audition may crash when users choose to create unique copies of selected MT regions
+- Playback stutters when creating a unique copy of a clip while right-click dragging
+- Channel Mix settings not honored on export when not exposed in dialog
+- EUCON Soft Key set contains keys that do nothing
+- Session Tempo broken on systems using commas instead of decimal points
+- Bounce to New Track > Selected Track bounces AFTER passing through track output
+- If a favorite was recorded on subset of channels, the favorite will fail if those channels are disabled
+- Sending a stereo bus side-chained to a mono track may crash the application
+- UAD-2 plug-ins missing from Windows Effects menu
+
+System requirements Windows
+* Intel® Core™2 Duo or AMD Phenom® II processor
+* Microsoft® Windows® XP with Service Pack 3 or Windows 7 with Service Pack 1 (32 bit or 64 bit)
+* 1GB of RAM; 2GB for HDV and HD playback
+* 2GB of available hard-disk space for installation; additional free space required during installation (cannot install on removable flash storage devices)
+* 1280x800 display
+* OpenGL 2.0–capable graphics card
+* Sound card compatible with ASIO protocol or Microsoft WDM/MME
+* DVD-ROM drive for installation from DVD media
+* QuickTime 7.6.6 software required for QuickTime features
+* USB interface and/or MIDI interface may be required for external control surface support (see manufacturer's specifications for your device)
+* Optional: Optical drive for CD burning
+* This software will not operate without activation. Broadband Internet connection and registration are required for software activation, validation of subscriptions, and access to online services.* Phone activation is not available.
+
+Languages : Deutsch, English, Español, Français, Italiano, 日本語, 한국어 

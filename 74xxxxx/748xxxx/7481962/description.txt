@@ -1,0 +1,49 @@
+Format                           : Matroska
+File size                        : 4.60 GiB
+Duration                         : 2h 4mn
+Overall bit rate                 : 5 270 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Bit rate                         : 4184 Kbps
+Maximum bit rate                 : 18.0 Mbps
+Width                            : 1920 pixels
+Height                           : 1080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Stream size                      : 3.56 GiB (77%)
+Title                            : 1080p BluRay By Ashish7(wall.e)
+
+Audio #1
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Bit rate                         : 640 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Stream size                      : 572 MiB (12%)
+Title                            : 5.1 Hindi Audio By Ashish7(wall.e)
+
+Audio #2
+ID                               : 3
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Stream size                      : 400 MiB (9%)
+Title                            : 5.1 English Audio By Ashish7(wall.e)
+
+Text
+ID                               : 4
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Title                            : English Subtitles By Ashish7(wall.e)

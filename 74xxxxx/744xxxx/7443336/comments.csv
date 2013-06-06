@@ -1,0 +1,99 @@
+﻿User Type,Username,Date,Text
+,end77,2012-07-14T17:59Z,Sorry for the slow seed. My speed goes up from 10pm-6am GMT.
+,GreenMark,2012-07-17T08:36Z,"thanks for this,
+
+but i can't successfully install this.
+
+after i entered the serial number and clicked install.
+
+About 2% in and an error msg stating ""Please insert InDesign CS5 disc to continue""
+
+any clue?"
+,end77,2012-07-18T02:11Z,Not sure why that happened to you.
+,end77,2012-07-18T02:17Z,... are you trying to run it from an external hard-drive or a drive other than your main drive? In either case try to drag the folded in the .dmg to your desktop or somewhere on your disk and run it.
+,GreenMark,2012-07-18T05:26Z,"i'm not trying to take credit...
+
+but yes, i moved the folder ""Adobe InDesign CS5"" from dmg to the desktop and started from there and it has worked for me last night.
+
+
+""ChangeIDmenuLanguage.app"" DID NOT WORK for LION 10.7 and up
+
+
+This updated ""ChangeIDmenuLanguage_LION"" worked for me.
+
+http://www. indesignsecrets.com/ downloads/ ChangeIDmenuLanguage_lion. zip
+
+
+[NEED TO REMOVE spaces AFTER / and . ]"
+,GreenMark,2012-07-18T05:31Z,"thanks end77 for this upload and really appreciate the quick respond :]
+
+
+
+oh, one last thing 
+
+""ChangeIDmenuLanguage_LION"" DID NOT support changing ""Bridge CS5"", or ""Media Encoder CS5"" ect... that came installed with ""InDesign CS5""
+
+it only allows to change ""InDesign CS5"" Only!!!!"
+,GreenMark,2012-07-18T06:06Z,"
+to change language from Greece to English other any other languages in ""Adobe Bridge CS5""
+
+Run ""Bridge CS5""
+click ""Adobe Bridge CS5""
+choose ""Preferences...""
+
+pick - The 2nd/Second option from he bottom up which is ABOVE ""Output"" on the left-hand-side panel
+
+click the 2/two drop-down menus from right-hand-side and choose your language of choice.
+
+quit Bridge CS5
+
+re-run/re-load Bridge CS5
+
+done"
+,end77,2012-07-19T01:16Z,@GreenMark Thanks for the Lion language change link.
+,WinterGale,2012-07-19T17:07Z,"@end77 Thanks man! Works great on Lion 10.7.4
+
+@GreenMark Thanks for the link to the changeIDMenulanguage for lion!"
+,dax0623,2012-07-27T14:29Z,"I am having a problem with steps 1-3. How do I run something into my terminal? I have a mac. And on step 2, where exactly do I paste those codes into? What file?"
+,end77,2012-07-29T05:41Z,"@dax0623 Terminal is an app you'll find in Applications/Utilities. Copy and paste the script above into Terminal and a text file will open, then copy and past the IP numbers into it and save it, this will block communication to Adobe."
+,fudoh,2012-07-31T18:58Z,When I paste the first command into terminal I get this message: TextEdit[14345:8607] NSTrackPersistentURLs: LSSharedFileListInsertItemURL() failed at inserting URL file://localhost/etc/hosts (/etc/hosts)
+,srussells,2012-08-02T05:34Z,"I have the program all downloaded. Of course it is in Greek i then run the ChangeIDmenuLanguage.app... I found 'InDesign Shortcut Sets' and 'InDesign Workspaces' in the pre-sets folder. However, I have tried to copy and paste the el_GR folder but it won't let me. Is there some way else to duplicate it that I don't know about?"
+,end77,2012-08-06T13:42Z,"@fudoh Alternatively run this into Terminal: sudo nano /etc/hosts
+
+Enter your admin password. Now you see the text inside the file, use the down arrow key and go to the bottom of the text and past the IP's above. Then  press Ctrl+X to save.
+
+@srussels Try hold the Alt (option) button while dragging the el_GR folder, you'll see a green + sign which mean you're duplicating it, one duplicated then rename it."
+,TheHamburger,2012-08-09T00:45Z,Thanks for this. Worked PERFECTLY!
+,ktide,2012-08-12T16:55Z,"Thanks for the download - worked perfectly. 
+
+The only thing is, I'm having trouble using this to open InDesign CS5 files I created on another computer - says I'm missing a whole bunch of plugins and tells me I need to upgrade. Anyone know how to fix this? "
+,ktide,2012-08-12T17:37Z,"Nevermind. I think my files were created in CS5.5, so that's a whole different issue. UGH. "
+,purplesnurple,2012-08-14T15:34Z,"everything works great but the  ""changeidmenulanguage_lion.zip"" file. I downloaded it to change the language but it says ""ChangeIDmenuLanguage is damaged and can't be opened. You should move it to the Trash"" Help please!"
+,xwizekey,2012-08-16T07:12Z,"thanks for the file upload! been trying to get indesign for a while now
+
+my installation went very smoothly but i am having trouble changing the language step. how/where am i supposed to rename the el_GR file to become en_US?
+i don't have the option of performing any action from the ChangeIDmenuLanguage
+
+thanks!"
+,end77,2012-08-16T23:11Z,"@purplesnurple Try download it again.
+
+@xwizekey Yes, the language changer app does everything by itself, just run it."
+,end77,2012-08-16T23:14Z,"@xwizekey Open the Adobe InDesign CS5 folder that was created by the installtion, under Presets there are 2 folders 'InDesign Shortcut Sets' & 'InDesign Workspaces', duplicate the folders in each of them and rename them to en_US"
+,lewsur,2012-09-04T01:04Z,Thanx for the share.
+,jdcag12,2012-09-05T11:11Z,"""ChangeIDmenuLanguage_LION"" did not work for me. It said it was damaged and needs to be moved to trash. I'm running Mountain Lion 10.8.1 so is there an updated .zip? 
+
+@GreenMark do you by any chance know how to manually change the language to English like you explained for Bridge?"
+,helloabc,2012-09-05T14:40Z,"Hi - it was all going well, but when I launch Indesign it crashes every time. What should I do, please?? Thanks"
+,end77,2012-09-07T21:29Z,"@jdcag12 You won't need the language changer app if you follow the steps to manually change the language, steps 6-9, that's exactly what the app does for you anyway."
+,paravel,2012-09-15T19:54Z,"Hey thanks for putting this up!
+
+When I try to open the ChangeIDmenulangage app, it say ""You can't open the applicaiton ChangeIDmenuLanguage because PowerPC applications are no longer supported""
+
+I'm running on OSX 10.7.4 Lion but it sounds like other people are running it on lion fine. Any tips?"
+,robraygun,2012-09-17T06:58Z,"thanks end77!
+
+everything went fine and the app works, but my workspace options aren't available, which sucks bad. know anything about that?"
+,end77,2012-09-20T01:41Z,"@robraygun See Greemark's link to the Lion version of the language changer. It works for others.
+
+@parval
+See step #9. Do you see the workspaces? Those should still be in Greek but they should work anyhow."

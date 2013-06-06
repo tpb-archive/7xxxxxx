@@ -1,0 +1,14 @@
+Pacifist is an application for Mac OS X that opens up .pkg installer packages, .dmg disk images, .zip, .tar. tar.gz, .tar.bz2, .pax, and .xar archives and more, and lets you extract or install individual files out of them. This is useful if you need to install just one file out of a package instead of the entire package (for example, if you deleted your Preview application and need to reinstall it, but not the whole operating system), or if you want to inspect a downloaded package to see what it will do before installing it. Pacifist can also load some archive types over HTTP, in case you want to extract just a single file from a large .zip archive without waiting for the entire archive to download. Finally, Pacifist can examine the kernel extensions installed in your system to let you see what installer installed them, and whether the installer was made by Apple or a third-party.
+
+
+Requirements
+PPC / Intel, Mac OS X 10.4.11 or later.
+
+
+What's new v3.0.4
+
+
+Fixed a bug that could cause packages from versions of OS X older than 10.2 not to load
+Fixed a bug that could cause spurious error messages on extracting the entirety of a mpkg
+Fixed another Mountain Lion-specific bug
+Got rid of some deprecated API usage

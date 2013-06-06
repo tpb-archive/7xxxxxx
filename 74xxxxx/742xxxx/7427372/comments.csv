@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+,GEVD,2012-07-09T14:40Z,"http://slitherine.com/games/panzer_corps_pc
+
+http://www.matrixgames.com/products/399/details/PanzerCorps"
+,palyakabal666,2012-07-10T08:57Z,"go fvck urself.
+
+""crc check failed, please try to reinstall the game"""
+,GEVD,2012-07-10T10:13Z,"To solve the problem with ""CRC check failed. Please try to reinstall the game"" just run reg.exe in game's folder if it presents or edit both
+HKEY_LOCAL_MACHINESOFTWARESlitherinePanzerCorps ""PanzerCorps"" key value and PanzerCorps.txt file in game folder with following 1111-1111-1111-1111 if no reg.exe file present.
+the reason for this error is mismatched values in Windows regestry and PanzerCorps.txt file"
+,GEVD,2012-07-10T10:21Z,"if you get the CRC error, check your PanzerCorps.TXT file and HKEY_LOCAL_MACHINE   SOFTWARE  Slitherine PanzerCorps  ""PanzerCorps"" key via regedit; they have to contain the same serial (just find the above key with Run+R -> regedit, and change the ""PanzerCorps"" serial key to 1111-1111-1111-1111)."
+,Apaleytos,2012-07-10T16:13Z,Thnx it works 100%
+,chris1010,2012-07-12T03:40Z,"@ palyakabal666 -
+funny like completely fucktarded noobs like you are always instantly resort to insults...if you are not smart enough to deal with cracked stuff even though it provides idiot proof instructions I suggest you just buy the crap you moron.."
+,fsoit,2012-07-13T08:02Z,"First of all thanx for the torrent, great game.
+I have a problem I use windows 7, I follow the instractions but  when I try to play the ""More Campaigns"" I get the message ""cannot start game because the required content package is missing"".
+Please help.. thanx again"
+,GEVD,2012-07-13T13:46Z,"fsoit
+
+
+Try this fixed reg file
+
+http://thepiratebay.se/torrent/7439724
+
+"
+,fsoit,2012-07-13T23:07Z,"Thank you GEVD for the help I tried the new dlc file but still the same, I can play the game but not the more campaigns. I follow all your steps, the only thing  I change is the installation folder ( I dont thing that it is a problem). If you have another idea I will try it. Thanx again...!!!"
+,isilox,2012-07-14T13:13Z,"I had the same problem as you with the DLCs, but its simple: just make sure that even on 32-bit windows the installation folder is ""Program files (x86)"" and that the dlcs are in fact unpacked to ""DLC"" folder in game installation folder.
+
+Other than that, you can simply fix it by editing the regfiles with notepad and correcting the paths - 1 minute work.
+
+
+Awesome torrent, thanks! Anyone has by any chance Unity of Command? The price for it is completely stupid."
+,isilox,2012-07-14T13:14Z,"Btw, why is it necesary to copy dls to my documents as well?"
+,GEVD,2012-07-14T15:42Z,"isilox
+
+http://tehparadox.com/forum/f43/panzer-corps-1-04-cracked-patch-grand-campaign-39-grand-campaign-40-dlcs-3479334/"
+,fsoit,2012-07-14T17:50Z,"Thanx a lot isolox and gevd.
+
+The game works fine..."
+,Josda2x,2012-08-02T06:21Z,Works great thank for share
+,molderfox,2012-09-07T21:42Z,"I have same problem as  fsoit -- ""cannot start game because the required content package is missing""  i did evrything in order and use fixed reg file http://thepiratebay.se/torrent/7439724 ...but nothing changed :(  .help!!"
+,molderfox,2012-09-07T21:49Z,i think problem is correcting paths in noteped regfile...what i have to correct???

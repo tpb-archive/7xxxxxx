@@ -1,0 +1,25 @@
+Garmin Topo Swiss v3 Vector & Raster map
+--------------------------------------------------------------------------------
+
+Topo Swiss v3 Vectormap (same as Topo Swiss v2)
+- gmapsupp.img
+- PID 1, FID 1395
+- date 11-05-2011
+- size 367 MB (385,179,648 bytes)
+- tiles 248
+- header Ms 0
+
+Topo Swiss v3 Rastermap
+- gmapprom.img
+- PID 1, FID 1395
+- date 11-05-2011
+- size 3.21 GB (3,449,946,112 bytes)
+- tiles 516
+- header Ms 0
+
+more information and coverage:
+see
+
+usage:
+- copy the *.IMG file(s) into mapfolder on your device or (┬╡)SD-card (mostly
+  Garmin)

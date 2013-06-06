@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+,Smart-The_real_one,2012-07-21T09:32Z,"Remember ...
+
+If the game keeps crashing on dual-core processors when entering ports:
+
+On the compatibility tab of the PortRoyale3.exe check:
+ - Disable visual themes
+ - Disable desktop composition
+
+Enjoy and comment!
+
+Smart"
+,noe_01,2012-07-24T09:47Z,"Dear Smart!
+
+Realy need the English version!
+PR3_EN_1_2_0.msp
+
+Upload please. (if U have)
+
+Kind Regards Noe_01."
+,hotriceguy,2012-07-24T13:07Z,"I gotta problem!
+After I install this update, a window blinks up and requires me to put the product code in. I uninstall and reinstall it with blocking AppData.exe but the window still shows up? How should I do?"
+,Smart-The_real_one,2012-07-24T15:27Z,"@noe
+If i had it, i've already been uploading it – you can count on that!
+
+@hotriceguy
+How did you block AppData.exe?
+Using your ordinary firewall?
+
+You have to block it using your hosts file (%WinDirsystem32driversetc).
+Use a keygen also.
+
+If you already have starting it, without blocking it first, you have to completely remove it (also registry stuff manually) and reinstall it.
+
+After that, just install it and install over the given patch – and you're fine.
+
+Remember to block it (AppData.exe) BEFORE you reinstall the game, since it automatically starts up after finishing the install process.
+
+So, just append the following in your hosts file:
+'127.0.0.1 launcher01.kalypsomedia.com'
+
+
+Smart"
+,hotriceguy,2012-07-24T22:47Z,"@Smart-The_real_one
+I'm just a newbie to computer. I block the AppData.exe through Windows Firewall. I have no idea how to block it through the host file and also how to delete the registry file manually. Please give me some tech tutorial or steps, Thank You! =)"
+,Yakuzha,2012-07-24T23:33Z,"@hotriceguy: The easiest way to block it from going online for sure is to pull your LAN cable / internet connection off altogether.
+
+@Smart-The_real_one: Can we expect you to crack the English version for us? :) Thanks before . Dang... it was so close ... too bad i can't speak Germany :D"
+,noe_01,2012-07-25T01:36Z,"@Yakuzha
+I think we dont need the crack.
+We only need the (official) update."
+,Yakuzha,2012-07-25T10:21Z,"@noe_01: Yea, the cracked English official update. :)"
+,Smart-The_real_one,2012-07-25T15:38Z,"As noe said, you don't need a crack.
+Just block the launcher using your hosts file – which i already tried to point out before.
+
+I keep an eye out for it the whole time, but nothing really pops out somewhere …
+
+If i find it somewhere ('PR3_EN_1_2_0.msp')  i'll raise alarm for sure.
+
+
+Smart"
+,Yakuzha,2012-07-27T03:40Z,"My stupid mistake, sorry :)"
+,overlord25,2012-09-18T12:06Z,"we still need the 1.2 update in English. Anything new?
+
+thx"
+,Smart-The_real_one,2012-09-18T14:55Z,"As i said, if i find it somewhere ('PR3_EN_1_2_0.msp') i'll raise alarm for sure.
+
+No sign in sight.
+
+Dunno why noone is able to up it somewhere …
+
+
+Smart"

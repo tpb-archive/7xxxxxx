@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,fiskekatta,2012-07-30T11:21Z,"Please - is there someone out there who can make an bootable edition for the older and unsupoorted Macs like my Mac Pro 1,1 (2x 64bit dualcore xeon)  from 2006 and MacBook from 2008.... "
+,gnommak,2012-07-31T21:47Z,"to fiskekatta
+
+first you need to upgrade video card to new one (nVidia 7300GT won't work)
+then you need to edit installation disk
+and use Chameleon 64-bit Bootloader to pass 32-bit EFI
+
+About MacBook... you can forget about 10.8 on it.
+
+Sorry for my English"
+,fiskekatta,2012-08-02T09:40Z,"To gnommak - I have the nVidia 8800GT in my Mac Pro... But will you be able to make the Installation Disk for all of us ""oldies"" Mac-users? And then make the a torrent of it? And how we use it? I'm a newbie to hack things like this ;o)"
+,elkomy,2012-08-02T12:01Z,after i download mac os x mountain lion 10.8  i find it not be iso format how can i burn it on dvd 
+,gnommak,2012-08-02T22:10Z,"to elkomy
+""i find it not be iso format""
+and what convinced you to this conclusion?
+
+to fiskekatta
+""But will you be able to make the Installation Disk for all of us ""oldies"" Mac-users?""
+I tried. But after build number 12A128p (ML 10.8 DP1), Apple completely rewrote mach_kernel to 64-bit architecture, without support to boot with 32-bit drivers. Since 32-bit drivers for Intel GMA 950 and GMA X3100 does not exist, so accordingly we can not install ML 10.8 on mac book or mac mini with these graphics cards.
+In the end there is only one machine that can work with ML 10.8 - Mac Pro 1,1 (with newer video card)
+
+Sorry, time to buy the new Mac... has come :("
+,VicVega,2012-08-03T15:59Z,"2008 Aluminum Macbook works fine, it's even officially supported. Problems? Google is your friend."
+,gnommak,2012-08-03T20:53Z,"VicVega
+*2008 Aluminum Macbook works fine*
+
+Thanks cap!
+Do you ever read what others write?
+*can not install ML 10.8 on mac book or mac mini WITH THESE GRAPHICS CARDS.*
+In case you do not know, the MacBook (13-inch, Aluminum, Late 2008) had a graphic card NVIDIA GeForce 9400M and of course it support ML 10.8. All MacBooks that was released before can't boot ML 10.8 because they have GMA 950 or GMA X3100 graphics card"
+,elkomy,2012-08-11T11:01Z,after download mac os lion  mountain 10.8 i find it  dda format . i need it iso format
+,gnommak,2012-08-11T18:27Z,"*after download mac os lion mountain 10.8 i find it dda format . i need it iso format*
+Please show me where you found the DDA format? (show me screenshot)
+I do not understand how you can download the ISO file, and finally get the DDA file? Nonsense! I think you just mixed up image files. Find my file and just burn it with Nero Burning ROM!!!
+That all!"
+,Margomi,2012-08-11T21:33Z,Is the Golden Master Edition? (12A269)
+,vikas_246,2012-08-22T17:52Z,seeding @ 72kb/sec. Enjoy Guys
+,Margomi,2012-08-22T23:24Z,This is the same Golden Master edition???
+,gnommak,2012-08-30T23:28Z,"to Margomi
+YES!!!"

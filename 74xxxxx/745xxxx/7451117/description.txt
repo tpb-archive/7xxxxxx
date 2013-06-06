@@ -1,0 +1,8 @@
+Block every connection with little snitch 
+
+then:
+
+After install, replace the original with [k'ed] one in the following as appropriate:
+- /Applications/Nik Software/
+- /Applications/Adobe Photoshop CS*/Plug-ins/Nik Software/Color Efex Pro 4/
+- /Library/Application Support/Aperture/Plug-Ins/Nik Software/Color Efex Pro 4/

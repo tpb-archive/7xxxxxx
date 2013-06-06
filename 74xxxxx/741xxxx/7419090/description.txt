@@ -1,0 +1,18 @@
+Changes in DVDFab 8.1.9.0 Qt (July 06, 2012):
+ * New: Updated language files.
+ * New: Updated decryption keys.
+ * New: Added support to insert forced subtitle information into dvdfab_internal.log when converting Blu-ray disc.
+ Blu-ray Copy:
+ * New: Added support to copy Blu-ray 3D ?Full Disc? to Blu-ray 3D BD25 with ?Copy as Blu-ray 3D? option selected.
+ * NOTE:
+ * 1.Please choose DVDFab burning engine in ?Settings -> Write? if you want to burn disc.
+ * 2.Please use latest version of DVDFab Virtual Drive v1380, if you want to mount and playback from hard disk folder.
+ * 3.PowerDVD 10,11, TMT 5 and Blu-ray 3D standalone player are supported, PS3 is not supported now.
+ * Fix: A freeze problem when copying Blu-ray disc to BD50 with ?Remove HD audio? enabled.
+ * Fix: A freeze problem when copying Blu-ray disc to BD9/BD5 with ?Convert DTS audio to AC3? enabled.
+ * Fix: A 1010 error when copying Blu-ray disc to Blu-ray SBS 3D in certain cases.
+ * Fix: A 102 error when coping some special Blu-ray dis*censored*
+ Blu-ray ripper:
+ * Fix: A freeze problem when converting Blu-ray to M2TS file in certain cases.
+ Blu-ray Creator:
+ * Fix: A freeze problem at the beginning of conversion.

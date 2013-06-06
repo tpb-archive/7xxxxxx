@@ -1,0 +1,131 @@
+﻿User Type,Username,Date,Text
+,harke1983,2012-07-10T17:44Z,"gREAT sHARE ,tHANKS."
+,b_addy,2012-07-12T11:24Z,"Thanks, nil, I will sure give it a try."
+,extracube,2012-07-14T11:34Z,"Nile, have been enjoying looking through all of your torrents, keep them up man!
+
+However, I personally am hoping to see what this new ""metro"" desktop tile system is like.  Will have to wait for another one."
+,nileshtambe,2012-07-14T12:39Z,"@extracube
+thanks a lot
+I think  u misunderstood , u can use metro in this , i have only deleted metro applications (630mb)
+not the metro,u can download n use any metro application  from Microsoft store like Google play Nokia store , i have removed metro APPLICATIONS not the METRO.....
+
+in simple world metro is windows gadgets placed in square tiles ,70% ppl hate who use desktop ,
+hope Microsoft bring back start menu in final RTM which is i think going to release in Oct "
+,sharry14,2012-07-16T15:22Z,"hi bro, this is corrupt. pl upload a fresh copy.
+thanks"
+,nileshtambe,2012-07-16T15:54Z,"@sharry14 
+iso is not corrupted, just redo the force re checkup of ur downloaded iso in utorrent before burning or using it it might be missing some pieces."
+,jeet.kolkata,2012-07-19T06:59Z,hi nil. whats goin on dude....I realy appriciate your hadr working. But i want to install .net 3.5 but its not done and also online update giving error. I want to try max Payne 3 in your windows but its required .net framework. Looking for your reply dear.
+,nileshtambe,2012-07-19T11:45Z,"@jeet
+I also cant play games on this because my ati beta driver for win8 doesn't get installed.
+
+about .net   4 is present and i have not activated 3.5 in install wim before slimming so it might broke,
+as 3.5 is present in win8 in unactivated state we have to activate in Programs n Feature .
+but due to slimming and reducing winsxs that feature doesn't work.
+
+my advice to u is please use win 7 for gaming 
+and treat win 8 as beta only"
+,jeet.kolkata,2012-07-19T12:17Z,"@nil..thanks for your reply. Is it possible to upload winsxs file where .net framework situated,,,,so I can try a dism.exe (with command prompt) to install the offline .net framework. pls reply"
+,jeet.kolkata,2012-07-19T12:36Z,dear nil....is it possible to upload the winsxs folder (or part where the .net is situated) to somewhere/torrent so I can try with dism.exe with command prompt to install the .net. I realy eager to max payne 3 on windows 8. Pls reply dear..
+,nileshtambe,2012-07-20T13:08Z,"@jeet
+please use wintool kit to activate .net3.5
+u have to extract iso by winrar or 7zip ,them open install.wim(its in sources folder) in wintool kit ,
+
+go to main tab--basic tab-all in one integrator-open install wim--advanced tab- tweak-and select last tweak windows 8- enable legacy .net framework"
+,zailer,2012-07-20T17:10Z,Is it possible to add Tablet pc features once after i install it ?? i have a convertible t4215 . thanks for the upload.
+,zailer,2012-07-21T01:11Z,plz seed its been two days !! :(
+,jeet.kolkata,2012-07-21T07:16Z,@nil...thanks for ur reply. after anable .net what to do....I have to re-write on cd and boot again.. pls advise
+,nileshtambe,2012-07-21T10:16Z,"@jeet
+u can burn iso to usb or sd card pendrive
+use ultra iso or similar software
+do not waste cd dvd's 
+----------------------------------------------------------------------
+To convert ISO to USB-
+1 Insert USB stick
+2 Open UltraISO, then ""File"", then ""Open"", and navigate to ISO
+3 Click ""Bootable"" tab, then ""Write Disk Image""
+4 Select USB stick with dropdown arrow
+5 Click ""Write""
+6 Done! "
+,jeet.kolkata,2012-07-21T12:59Z,@nil...could not understand how to enable .net 3.5 through wintoolkit. pls enaborate step by step....thanks dude
+,jeet.kolkata,2012-07-21T13:09Z,cant understand how to enable .net through wintoolkit. will u pls elaborate step by step dude @nil
+,jeet.kolkata,2012-07-21T13:26Z,"""browse from specific wim"" i select extracted wim but its not mounting pls help...dude nil"
+,jeet.kolkata,2012-07-21T16:39Z,@nil after install windows 8 and trying to open wintoolkit...but this is also require .net framework. . If I am unable to open wintoolkit then how to install .net framework dude... pl s reply...any similar software like wintoolkit which not require .net framework to open
+,nileshtambe,2012-07-21T22:52Z,"jeet do u have any other os installed on ur pc beside this win 8 rp?
+do u use team viewer?"
+,zailer,2012-07-22T12:08Z,hi nil ..will ya share your ini file? so i can just add tablet pc comps too .. 
+,nileshtambe,2012-07-22T12:52Z,"@zailer
+ps. remember to do apply and then capture with gimagex on install.wim 
+
+otherwise vlite will not work
+
+download link for ini files
+
+ge*tt/2CxstqK
+
+replace    ""*""  with  ""."""
+,zailer,2012-07-22T15:13Z,"owh thanks a lot !! 
+
+Guys like you are a true blessing for this world :) 
+
+btw i thought u r using win took kit ..so will this ini work on WTKit ?"
+,nileshtambe,2012-07-22T16:29Z,"@zailer 
+thanks
+no this will only work for vlite
+wintoolkit u can use to enable dot net 3.5, it doesnt reduce ur winsxs so iso will not reduce much for removing component
+
+here is video (live capture ) for u and jeet
+How to enable .net 3.5 in win8 rp (in install.wim)
+
+ge*tt/7Em1DrK/v/0
+
+replace ""*"" with ""."" "
+,zailer,2012-07-22T17:16Z,"thanks again :)
+
+wondering without waik installed using vLite (1.1.6 to 1.2 upgrade method) to build an iso .. hope this will work .. gonna check the video now :) 
+
+still no clue what you were saying about the GImageX hope its in the video :)"
+,nileshtambe,2012-07-22T17:54Z,"for gimagex video and portable vlite with wim filter
+go to youtube
+user/nileshtambe
+
+or google   Tutorial of slimming windows 7 with rt7 lite + vlite for winsxs removal  by nileshtambe
+
+
+"
+,zailer,2012-07-22T18:47Z,"sure will check that out...
+ok question time :)
+
+i figured out what you were telling by ""capture wim""
+ok i press apply (after removing comp,add drivers,tweaks un attend ) then can i close vlite and reboot then use win tool kit to mount install.wim and capture it with max compression ?
+
+my vlite install is 1.8gig and 6.9gig with mounted :(  [all this for a 80gb SSD on a tablet pc ] hehe ..
+
+i dont have WAIK installed yet. mostly will get it tonight but wondering if its really needed for this .. meanwhile gonna check ur videos :) thanks a lot nil ."
+,nileshtambe,2012-07-22T19:21Z,"1.Extract iso 
+2.use win tool kit and enable .net on install wim
+3.use gimagex and apply install wim
+4.capture applied install wim
+this apply and capture on install wim is done for making it compitible with vlite
+as vlite will not work on sp1 iso and win contains sp1 already
+5.now ur install.wim is compitible with vlite
+6.so open ur iso now in vlite  and do whatever u want to do with it 
+
+if u dont do in this order u will   get error ,
+good luck ,n happy slimming !!!!!!"
+,nileshtambe,2012-07-22T19:23Z,"WAIK is not needed if u have portable vlite with wim filtre
+
+or install vlite and put wim filtre in that installed folder"
+,jeet.kolkata,2012-07-24T05:59Z,where is ur live capture video dude...pls upload tutorial @ nil
+,nileshtambe,2012-07-24T14:07Z,"for gimagex video and portable vlite with wim filter
+go to youtube
+user/nileshtambe
+
+or google Tutorial of slimming windows 7 with rt7 lite + vlite for winsxs removal by nileshtambe
+
+files u will need are present in info of video as url
+ here i am not able to  write you tube  url "
+,b_addy,2012-07-31T08:08Z,"Altough nil did a very good job with this, I stil can't stand this shit. It's crap compared to 7. But that's just my opinion."
+,nileshtambe,2012-07-31T15:38Z,"@b_addy
+i agree with u, win 8 is crappy shit compare to 7, as every alternative os of ms failed , hope win 9 will be better, ms will experiment with us like vista,
+as they already started with removing start menu,they can include both metro  n normal start menu but deliberately  removed it to experiment with us..."

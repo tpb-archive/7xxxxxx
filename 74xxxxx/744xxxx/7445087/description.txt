@@ -1,0 +1,38 @@
+OS version: min. Mac OS X 10.6.6
+
+Link for more information: 
+Code: 
+http://www.mamp.info/en/index.html
+Description
+
+MAMP PRO:
+
+"MAMP PRO" is the commercial, professional grade version of the classic local server environment for Mac OS X: MAMP. Designed for professional web developers and programmers, MAMP PRO allows easy installation and administration of their development environment under Mac OS X.
+
+What's New
+Version 2.1.1:
+
+MAMP & MAMP PRO
+
+* PHP versions updated
+* MySQL version updated
+* Deprecated directive "allow_call_time_pass_reference" removed for PHP 5.4.x
+* Xdebug activation corrected
+* Execution bit of PHP CLI fixed
+* PEAR conf files corrected
+* phpMyAdmin incompatibilities with Safari fixed
+* Config files of phpMyAdmin will now work with the latest PHP version
+* Spelling errors on the Webstart page eliminated
+* Changing the PHP version will now be saved
+* Missing lib yaz.so included
+* Installer will now keep an existing MAMP folder
+
+MAMP PRO
+
+* Spelling errors in Uninstaller fixed
+* GUI elements will now be restored correctly after program launch
+* Improvements in Restore backup dialog
+* Spelling errors in GUI elements corrected
+* Built-in Apache server of Mac OS X will now start correctly
+
+and more....

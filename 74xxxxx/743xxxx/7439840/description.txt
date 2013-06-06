@@ -1,0 +1,60 @@
+High demand H.264 video for hardware testing. 34Mbps. High@5.1 profile. 16 RefFrames.
+
+MediaInfo
+---------
+
+General
+Unique ID                                : 128304964562525348885947803333437387943 (0x6086A327D3883A015FB66D29F9AB74A7)
+Complete name                            :
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 96.1 MiB
+Duration                                 : 23s 46ms
+Overall bit rate                         : 35.0 Mbps
+Movie name                               : Avidemux
+Writing application                      : Lavf51.12.1
+Writing library                          : Lavf51.12.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 16 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 23s 65ms
+Bit rate                                 : 33.8 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.680
+Stream size                              : 93.0 MiB (97%)
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 23s 46ms
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -83ms
+Stream size                              : 1.23 MiB (1%)
+Default                                  : Yes
+Forced                                   : No
+

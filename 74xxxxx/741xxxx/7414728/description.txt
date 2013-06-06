@@ -1,0 +1,60 @@
+General
+Complete name                            : Ice.Age.3.(2009).DVDRip.x264.Dual.Audio.Eng-Rom.AAC.5.1.AMX
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 1.08 GiB
+Duration                                 : 1h 30mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 720 Kbps
+
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Bit rate                                 : 1 059 Kbps
+Maximum bit rate                         : 4 464 Kbps
+Width                                    : 720 pixels
+Height                                   : 384 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.153
+Stream size                              : 683 MiB (62%)
+Writing library                          : x264 core 125 r2200 999b753
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 30mn
+Bit rate mode                            : Variable
+Bit rate                                 : 329 Kbps
+Maximum bit rate                         : 388 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 213 MiB (19%)
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 30mn
+Bit rate mode                            : Variable
+Bit rate                                 : 327 Kbps
+Maximum bit rate                         : 386 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 211 MiB (19%)

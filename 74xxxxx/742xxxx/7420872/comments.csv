@@ -1,0 +1,171 @@
+﻿User Type,Username,Date,Text
+,T.F.K,2012-07-07T12:41Z,We fulfilled our promise of two weeks before :) SEEED and be HEPPY
+,666Apocalypse666,2012-07-07T14:20Z,What if you don't have 7 gb left on C: to copy or move install folder ? How do you change it to something else ?
+,T.F.K,2012-07-07T15:10Z,"You need 34mb not 7gb,if you dont have space,install game in D: or other local disk "
+,Gagaczek,2012-07-07T15:23Z,"please help me.. 
+
+I do everything what is write here, but when i type login and password its say: ""You have been disconnected from Battle.net service."" and dont let me in.... "
+[H],HeroMaster,2012-07-07T15:29Z,"@T.F.K I got it from P2P Source and other website, i am just sharing dude so i am not uploading your release, this is exclusively from MOOEGE."
+,V--303,2012-07-07T15:42Z,Hi. I've done all what was in instruction ... but strange when i start D3 there is a window BATTLE.NET ACCOUNT NAME where i should wright login and PASSWORD when i need to put pass i put what is written in your file but it all the time repeating to me ... Your login information is incorrect please try again (Error3) ... any idea what it should be? 
+,pajasam,2012-07-07T15:53Z,"Hey i am downloading this pirate game http://thepiratebay.se/search/diablo%20III/0/7/0
+when it download everything i have to do is to insttal the game and in the directory i installed the game just put files from this torrent, then go in it and run single player? Is that correct do i need any patch? replay pls"
+,666Apocalypse666,2012-07-07T16:03Z,"Gagaczek i get the same error, it's because game clients don't match, this release is for 10057 and you probably have 10235 thanks to the auto update "
+,666Apocalypse666,2012-07-07T16:29Z,"I can confirm this is working if you get the ""you have been disconnected ..."" error just overwrite the main Diablo III.exe with the one from the non AUTO release from earlier today"
+,blentot,2012-07-07T17:24Z,"i upgrade with act 4 patch 
+game stand then shut down beacose she want to do update ??
+i did add in host file eu update address 
+but game still shut down 
+help "
+,666Apocalypse666,2012-07-07T19:03Z,"This is how i got it working, copy mooege folder to C: or D: or whatever, than copy the Diablo III install folder inside it. If you choose D: or E: edit config from mooege and replace C: If you don't have 10057 client because of auto update get it from V4-ACT I earlier release, you only need Diablo III.exe To run the game first run Mooege.exe than run from Diablo III ip injector whatever you want to play. Make sure the Diablo III install folder doesn't have another Diablo III folder inside it from the client download because it will mess up where the emulator looks for the game files."
+,blentot,2012-07-07T20:23Z,"well i did that and all time he find battlenet and want to patch game 
+"
+,blentot,2012-07-07T20:34Z,"it patched battlenet.dll 
+started sever then sp .bat 
+and again same crap he want to update game 
+and game is 1.0.3.10057 version
+help"
+,blentot,2012-07-07T20:42Z,nop another crap emu 
+,blentot,2012-07-07T20:45Z,"666 i do that 1st time and nothing 
+i make all over again on d disc no go 
+this emu is crap 
+he dont block battle.net.dll or agent32.exe 
+or make  connection game to server 
+i think this is blitz virus not emu "
+,streak007,2012-07-07T21:04Z,"steps of 666Apocalypse666 plus
+i think u need to add 
+127.0.0.1 eu.actual.battle.net
+127.0.0.1 us.actual.battle.net
+to host file in the C:WindowsSystem32driversetc folder 
+it worked for me it took a long time to figure that out"
+,V-303,2012-07-07T21:16Z,"I've done all what instruction says. Game from the start is version 10057 after making all steps click for starting and this stupid shit all the time is asking for NEW PATCH and no other option just button OK and nothing more. Ok you following this step and viola 10235 and still showing this idiot ERROR 3. WTF is this? I checked lot of servers i found another instruction with making a manual servers but it does not helped ether. So looks like there are only 2 options left: 1. the shitty one to buy an official game pack, 2. to sit like a dumb and to wait til some one will be so smart to crack this shit perfectly without brain f**ing. 
+
+2 the guy who posted this crap please take a big drug of rat poison and drink it till the end i think it will helps to all of us from such f***ers like U. I do not have any clue why you posted this shit but it is not so intelligent from your side."
+,666Apocalypse666,2012-07-07T21:32Z,"Strange, it worked fine for me at least until i got to the first quest and then it starts to stutter like hell literally freezes all the time for like 5 seconds, i don't know if it's my piece of .... computer or this emulator but it's unplayable for me. Hope you guys have better luck !"
+,blentot,2012-07-07T21:42Z,"streak did that (host thing)
+and no go
+all same he wana to patch "
+,streak007,2012-07-07T22:10Z,@blentot dont bother playing it its still not playable with a lot of glitches.when u click certain people the screen goes black or gray out.and for me every picked up items were unusable(very high level ones)
+,V-303,2012-07-07T22:30Z,"2 streak007: I also used 
+
+# 46.4.28.149 eu.actual.battle.net
+# 46.4.28.149 us.actual.battle.net
+
+And still same shit. Maybe I do not place it right in HOSTS file i do not know.
+But i putted it like this # 46.4.28.149 eu.actual.battle.net and it is still not working.
+Same story with ERROR3 i spent already 8 hours trying to make this fucking game alive I made all steps very carefully and result is still the same what the fucking reason i have no any idea but i start to be a bit upset. Maybe some help out here? "
+,Furious1964,2012-07-08T00:09Z,"Will this be ""Officially"" updated to 1.0.3.10235?"
+,V-303,2012-07-08T00:56Z,yep
+,Neuthrott,2012-07-08T02:18Z,"Do not bother people.
+The bnet patcher is from a version and the emulator is from another.
+There is a reason why mooege team has disappeared and these guys are the reason, the little cunts.
+T.F.K. "
+,Neuthrott,2012-07-08T02:23Z,"T.F.K. YOU SUCK, maaan!
+Your ""blue skull"" and ""trusted sources"" too.
+Your little schemes do not work anymore.
+You are done, say: ""bye bye, world!""
+
+Mooo Team knew you can do SHIT right and here is the proof! A redundant scam.
+
+People: stop being so FUCKING morons, god dammit!
+Find a friend with solid encoding knowledge and test these pieces of shit first."
+,Neuthrott,2012-07-08T02:28Z,"What is up next?
+Chapter 2 fully functional!!! 
+Check it out maaan, but it is still in works. Do not expect to finish the game yet, ""we"" (as if you actually worked a day in your life) are busting our balls here to give it to you fully functional, for free! 
+Lucky for you there are 4 chapters so this cam can work for a little while also.
+You are not part of Mooo Team, never were, never will be!
+See ya at the next scam!"
+,lilrico0917,2012-07-08T06:04Z,"need help i get it to load but i notice it says ""failed to load battle.net.dll"" but still load once i put password it connects with a green check then right after it disconnect, and it repats can anyone help me."
+,dandyqb,2012-07-08T07:25Z,"i got this run by deleting the Agent folder in Program Data/Battle Net in windows 7. the problem is im stuck in the hero creation and when i click start game nothing happen, my hero is just there standing, lolz..."
+,lilrico0917,2012-07-08T08:29Z,"well i got pass that now ingame but demon hunter doesnt start with a weapon, and i can only do 2 quest = ("
+,streak007,2012-07-08T08:51Z,"@V-303
+try without '#'"
+,V-303,2012-07-08T10:50Z,"2 Streak007: Finally i started this game but ... made an experiments with servers and wrote to HOSTS file without # so i tried to put each server separate then a pair of servers ... at the end u putted all 4 mentioned by you and me and game started. 
+I chose a Demon Hunter the bug is that creature starting without weapon and when you are trying to put it on a weapon window it is happening nothing so there is nothing you can do without weapons. 
+So i started with a Witch Doctor this idiot has a weapons but when you are firing you cannot see how you dart is flying and you cannot see what killed creatures left for you on the ground. I made all my graphics on Maximum and nothing changed. I refreshed my ATI Mobility driver to 12.07.2012 and still same shit. 
+The other bug i found with Witch Doctor is when you are talking with Guard next to the gates after is starting an undead strike and this fuckers (guards) are just standing without any actions so you are the one who is going to kill all undead's fuck guards are not helping you at all. And the last and most shitty moment is that when all undead's are killed main Guard man told to open the gates gates are opening you are entering and game crashed without any warnings.
+After it i tried to start game again same as i've done it at the first time and no results. All the time connection with server is lost or Error 3.
+By the way. To peoples who are trying to start game with putting servers in file HOSTS please be informed that after each time when you failed to connect to battle.net all servers you putted in HOSTS files disappear so you need to put them back again and again and again. That is the main reason why all the time you have fucking ERROR 3.
+But as per my opinion the game is crap same as this virtual servers too much bugs I do not know is it a better idea to download another torrent and try with is but all my own experiments i've done on game from this torrent http://thepiratebay.se/torrent/7399248/Diablo_3_%28_One_Games_%29_"
+,WhiteSide1,2012-07-08T12:41Z,"
+""If your client version is 1.0.3.10235 it might work!"" -it does not work. I have tested "
+,WhiteSide1,2012-07-08T13:38Z,"666Apocalypse666 
+""I can confirm this is working if you get the ""you have been disconnected ..."" error just overwrite the main Diablo III.exe with the one from the non AUTO release from earlier today"" - not working, unfortunately."
+,cocowawa911,2012-07-08T19:29Z,"Thanks 
+It finally worked
+thank you guys who did the great job and get this awesome game finally working FREE
+
+But i have some bugs, i just started with demon hunter found no weapon.
+
+I moved to barbarian, but the first quest
+""fallen start"" seems to have bugs..
+
+When i talk to some characters, the game crashes like that fat man before you go to the inn to talk to leah..
+
+after you start the quest, when i kill the mothers nothing counts..
+
+when i talk to leah down at the cellar behind the old ruins , the game crashes..
+
+any help???"
+,cocowawa911,2012-07-08T19:36Z,hiii
+,tombi22,2012-07-08T20:17Z,Hey !!! This emulator working only for collectors edition ? What for normal Diablo 3 ?
+,T.F.K,2012-07-08T21:26Z,For normal edition no news...
+,lilrico0917,2012-07-08T23:01Z," i have some bugs, i just started with demon hunter found no weapon.
+
+I moved to Wizard, but the first quest
+""fallen start"" seems to have bugs..
+
+When i talk to some characters, the game crashes like that fat man before you go to the inn to talk to leah..
+
+after you start the quest, when i kill the mothers nothing counts..
+
+when i talk to leah down at the cellar behind the old ruins , the game crashes.."
+,Garfield123321,2012-07-08T23:13Z,When i run Mooege.exe it shows me ''Cannot run servers as MPQStorage failed initialization''. Help please :((
+,Remider,2012-07-09T10:35Z,@Garfield123321 i had the same problem when i saw it was writing C:MooegeDiablo IIIData_D3PCMPQs ''Cannot run servers as MPQStorage failed initialization''. SOo u have to rename your DIABLO III folder with game to DIABLO III but when i did it i have still problem when i log in my game shut down cauze it need to downlad a new patch :/
+,Remider,2012-07-09T10:40Z,GREAT ! after reinstalling the game i have noiw the same problem as Garfield123321
+,ksstr,2012-07-09T12:43Z,"Fail to patch Battle.net.dll....
+is it because im running d3 normal edition ??"
+,adaminio90,2012-07-09T23:04Z,"Ey Man, where i can doiwnload all game to work this ?"
+,Garfield123321,2012-07-09T23:32Z,"For those who have ''Cannot run servers as MPQStorage failed initialization'' problems, DONT run the Diablo 3.exe. Run the Mooege.exe then go to BnetPatcher and run the Bnet.Patcher.exe, run Diablo 3 shortcut than exit Diablo 3 (it will update to 1.0.3.10057 version), run the Mooege.exe, go to Diablo 3 ip Injector and run the Single Player.bat... and wait to start Diablo 3 :) I hope this will help :)) Sorry for the bad english"
+,toureyaya,2012-07-11T04:53Z,"@Garfield123321 you're too noob!!! move the folder ""mooege"" to ""c:"" (root partition), now move ""Diablo 3"" folder inside the ""mooege"" folder!!. This is all..."
+,bloodred125,2012-07-11T05:56Z,ill come back in 2 years time and see if theres an offline mode crack or something. 
+,blackjackkk,2012-07-11T09:58Z,"After login it keeps telling me that i have to update, and the client will restart. It wont let me in the game. And if i do let it update Mooge wont work any more with version 1.0.3.10235.
+Can anyone help me?"
+,XHadrielX,2012-07-11T16:46Z,This does not work even with that (fake) update in the non-auto torrent. You need to update the MPQ files and thats why it keeps telling everyone that it failed. Upload the full game version 10057 otherwise its fn useless!
+,Saex_Conroy,2012-07-11T17:40Z,"Are you stupid? Just wait for a couple of months till it's complete, then play."
+,V-303,2012-07-13T22:26Z,"To all guys who cannot run the game.
+I will make a short and quality setup:
+
+1. Download a game (does not matter which edition)
+2. Download this emulator 
+3. Unpack all emulator files to folder Mooege it will looks like C:Mooege or D:Mooege or other local disk where you will unpack this stuff (the most important is to unpack exactly to Mooege folder
+4. Copy/Paste all game files to folder Mooege means it should be like C:MooegeDiablo III
+5. Then go to path C:WindowsSystem32driversetc folder and open a file HOSTS with NOTEPAD at the end of file please put following 
+127.0.0.1 eu.actual.battle.net
+127.0.0.1 us.actual.battle.net
+go out from file and make it safe
+6. After all of it make a shortcut of file DiabloIII.exe
+7. Click with right button of your mouse on this shortcut and choose PROPERTIES and in the path of starting file right -LAUNCH so it should be like ""C:MooegeDiablo IIIDiablo III.exe"" -launch -auroraaddress localhost:1345 or ""D:MooegeDiablo IIIDiablo III.exe"" -launch -auroraaddress localhost:1345 depends on which drive you installed your Diablo 3 game
+8. Wneh you've done all what i wrote above go to your C:Mooege directory and start Mooege.exe
+9. Then from Diablo3.exe Shortcut start your game when the main screen loded you will see a window where you need to put your mail and pass press ALT + TAB and go away from game without closing it
+10. Then open folder C:MooegeBnetPatcher or D:MooegeBnetPatcher depends on which drive you installed your Mooege folder and run Bnet.Patcher.exe wait till this window will be closed automatically 
+11. When it is over go back to your Diablo 3 game and wright in field of mail TEST@ in field of password 123456 and VIOLA GAME IS RUNNIG 
+
+P.S. first quest is working but game is full shit with lot of bugs. I spent 70USD and bought a normal European kind of game and now happy. Pirate game is complete shit so yo never will play this game normaly till you will get a normal cracked D3 world. 
+Hope this tutoral will helps you to run this stuff if any questions do not hesitate to contact me.
+But as i told pirate game is total shit Deamon Hunter without weapons and many other kind of bugs like crashes and other shit. Good luck to all of gamers.
+
+With regards,
+V-303"
+,bloodred125,2012-07-20T06:34Z,"fuck diablo 3 , ive now officially paid for Torchlight 2 and i dotn even care about diablo 3 anymore. the artstyle, isnt diablo 1 or 2, the gameplay isn twhat it should be and its not that fun. 
+
+Torchlight 2 will hopefully do what diablo 3 didnt and thats character personalisation so i can CHOOSE what my caharacter studies. Withotu that i dont even see the pont in an rpg . If i cant personalise the character, then it shouldnt even be called an RPG. Just an action hack and slash, thats all Diablo 3 is. Diablo 2 was MORE than just an action hack and slash."
+,Saex_Conroy,2012-07-23T12:03Z,"@bloodred125, Path of Exile is free, it's in CBT, but it's better than both Diablo III and Torchlight II. I've played each of these games and Path of Exile is the best, because developers read the forums and listen to players' feedback, so the game gets better and better, because, it could be said, that the players are taking part in the development in one way or another."
+,Kingsanx,2012-07-24T16:00Z,"Exile is pretty good, but it doesn't come near Diablo III's intensity. Exile is for people who can't handle the faster paced gameplay."
+,dusanne,2012-07-24T16:15Z,DOTA2>DIABLO3
+,John_Bonham,2012-07-26T12:50Z,it will take more months or even years to actually get a bug free emulator and crack diablo 3. goodluck!
+,maxmaxpayne,2012-07-28T10:36Z,whats battlenets address for australia pls.
+,Garfield123321,2012-08-09T01:36Z,Any progress about the emulator ??? :))
+,patdarick,2012-08-10T03:05Z,Can you post source or a way to change where it searches for Diablo? I don't have enough C: I have Diablo in D:.
+,patdarick,2012-08-10T03:13Z,nvm it's in config.ini
+,QWESTSUX,2012-08-18T04:09Z,Only act I? that's free now from battlenet
+,Oldmander,2012-08-18T14:15Z,"Everyone is ****ing about the price of it... I suggest you to buy it, then loot all the best weapons. PvP is coming than you can get back your money (bunch of the people don't know the price of the objects ), one my friend has already earned 2000 euros.. and he didn't use bots (so wait for the PvP)"

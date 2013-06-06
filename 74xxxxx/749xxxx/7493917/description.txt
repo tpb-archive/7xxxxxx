@@ -1,0 +1,7 @@
+The base FlightGear package contains only a small subset of the aircraft that are available for FlightGear. Developers have created a wide range of aircraft, from WWII fighters like the Spitfire, to passenger planes like the Boeing 747. 
+
+Simply download the files and uncompress them into the data/Aircraft subdirectory of your installation. The aircraft are downloaded as .zip files. Once you have uncompressed them, there will be a new sub-directory in your data/Aircraft directory containing the aircraft. Next time you run FlightGear, the new aircraft will be available.
+
+On Mac OS X, you may use the GUI launcher to install the downloaded aircraft files
+   
+http://www.flightgear.org/

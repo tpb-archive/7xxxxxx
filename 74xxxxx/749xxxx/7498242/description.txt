@@ -1,0 +1,72 @@
+Description
+
+KPlayer is the video playback app. If 'H.264 Hardware Acceleration' is supported, it can play 720p, 1080p video files better smoothly.┬╣ Also you can enjoy a movie in the concise, modern interface with high-quality subtitles that are displayed quickly.
+
+ΓÇó 32/64-bit support.
+
+ΓÇó Minimized Settings.
+
+ΓÇó 'H.264 Hardware Acceleration' support.┬╣
+
+ΓÇó 'Subtitles' support.
+- SMI, SRT.
+- Subtitle files with the same folder, same name as the video file and with the same extension as 'smi' or 'srt'.
+- If there are no subtitle files with the same name as the video file, it opens subtitle files with a similar name as this.
+- Ruby tag is available.
+
+ΓÇó 'Aspect ratio settings' support.
+
+ΓÇó 'Playlists' support.
+- If you open a video file, It is automatically made up of video files that have similar names in the same folder.
+- If you open a folder, it is automatically made up of all playable video files in the folder. (not depth)
+- Automatically saved and reused folder-playlists. (up to 100 folder-playlists)
+- Separately, automatically saved and reused file-playlist. (the most recent, only one file-playlist)
+- Automatically saved and reused final playback position for each file in the playlist.
+
+ΓÇó 'Playback speed settings' support.┬▓
+
+ΓÇó 'Continued playing' support.
+- Click the play button or menu after executing KPlayer.
+- Replay the most recently opened video file.
+- If OS X 10.7 or later, in order to be compatible with OS X 10.6.x, currently, this feature only works when you recently open a file or folder in the following folder or its subfolders: ~/Downloads,
+
+ΓÇó 'Move to Trash' support.
+- Move video files that were playing to the end and its subtitle files to Trash.
+
+ΓÇó 'Skip' support.
+
+ΓÇó Playable Types┬│
+- 'QuickTime' mode: M4V, MP4, MOV, (MKV, AVI, FLV).
+- 'FFmpeg' mode: M4V, MP4, MOV, MKV, AVI, FLV, WMV, RMVB.
+
+You can get more detail informations about these features at "KPlayer Support".
+
+
+Γ£╖ KPlayer uses some dynamic libraries of 'FFmpeg' licensed under the LGPLv2.1. You can get more informations at 'http://ffmpeg.org' and
+
+
+
+1. 'H.264 Hardware Acceleration' feature requires GPU(NVIDIA GeForce 9400M, GeForce 320M, GeForce GT 330M, ATI HD Radeon GFX, Intel HD Graphics and others)
+
+(If OS X 10.8 and NVIDIA GeForce 9400M, this feature only works with QuickTime mode.)
+
+And requires M4V, MP4 or MOV types(encoded in H.264/AAC or H.264/ALAC) on 'QuickTime' mode, requires a video track(encoded in H.264) on 'FFmpeg' mode.
+
+The video track that was encoded in settings that QuickTime does not support may not be supported.
+
+If 'H.264 Hardware Acceleration' does not support, playback and seeking may not be smooth according to the CPU of your Mac(especially when play the 1080p video file).
+
+2. Currently supported only on 'QuickTime' mode.
+
+3. To open the OPTIONAL Types(MKV, AVI, FLV) on 'QuickTime' mode, it requires 'Perian'(v1.2.3/QuickTime┬« Component). You can download 'Perian' at 'http://www.perian.org'(free).
+
+It is recommended that play MKV files on 'FFmpeg' mode.
+
+An AVI file with an audio track(encoded in 'split across' alignment) may NOT be played normally on 'FFmpeg' mode.
+
+Only a video file with a video track(encoded in 'yuv420p' pixel format) is played normally.
+
+
+
+Requirements: OS X 10.6 or later
+

@@ -1,0 +1,53 @@
+General
+
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+File size                      : 106 MiB
+Duration                       : 3mn 48s
+Overall bit rate mode          : Variable
+Overall bit rate               : 3 901 Kbps
+Encoded date                   : UTC 2012-07-09 00:23:25
+Tagged date                    : UTC 2012-07-09 00:23:25
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 2 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3mn 47s
+Bit rate                       : 3 715 Kbps
+Maximum bit rate               : 7 207 Kbps
+Width                          : 640 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.504
+Stream size                    : 101 MiB (95%)
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 3mn 48s
+Bit rate mode                  : Variable
+Bit rate                       : 192 Kbps
+Maximum bit rate               : 204 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : -833ms
+Stream size                    : 5.23 MiB (5%)

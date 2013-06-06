@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-07-28T02:05Z,"if you want to find heaps mroe seeders
+add this tracker as well.. it may go from 4 seeders
+to 20 or 50 seeders like
+http://tracker.ccc.de:80/announce"
+,bubbanuggzz,2012-07-28T14:52Z,"you can't use http trackers with magnet links.they only work for .torrent files.if you use utorrent than that tracker shows up on almost everything on TPB anyway,its just the udp instead of the http"
+[V],psspss,2012-07-28T17:05Z,"you cant use UDP and UTP if routing via a proxy to a vpn it leaks ones real IP
+
+hence why Ut 2.2.1 is better then older clients
+as it has enhence secirity for proxy
+
+I have a vmware running a VPN and socks server
+then I can use real IP and vpn at the same time
+on same pc or any pc over the lan.
+
+I dont use magnet links.. quickest is torrent files
+
+you can see whats in  the torrent and select files in it.. magnet suck 
+
+but as  i said if add http tracker and have max security setup your find more seeders"
+[V],psspss,2012-07-28T17:08Z,"check out this site and have a read
+http://checkmytorrentip.com/#
+
+however you can use udp if vpning the whole pc
+
+I find it easier to do it my way and run vpnlifeguard so calls a script to terminate sock server to prevent leaking ip if vpn disconnects which happens a bit"
+[V],psspss,2012-07-28T17:09Z,"you can always get the torrent file on tpb
+its just a matter knowing how to edit the url
+for the file still :)"
+,bubbanuggzz,2012-07-31T17:02Z,didn't TPB stop supporting .torrent files a while back?

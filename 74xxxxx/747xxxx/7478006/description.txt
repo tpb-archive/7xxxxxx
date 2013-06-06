@@ -1,0 +1,8 @@
+ANONdroid is a JonDonym proxy client for Andoid smartphones. This nice piece of software is under ongoing development by the AN.ON project of the university Dresden. Project leader is Dr. Stefan Köpsell. ANONdroid uses the core libraries of JonDo with a smartphone compatible GUI. ANONdroid acts as a proxy for your internet applications and will forward the traffic of your internet applications encrypted to the mix cascades. 
+
+At the moment we can not provide a secure and anonymous browser configuration like JonDoFox for desktops and netbooks. Because a secure browser configuration is important for anonymous surfing we recommend the use of Orweb browser. It is a browser for Orbot, but can be used with ANONdroid too. After installation you have to change the proxy settings of Orweb to localhost:4001.
+
+ANONdroid v00.017
+Orweb v0.2.1.b
+ 
+https://anonymous-proxy-servers.net

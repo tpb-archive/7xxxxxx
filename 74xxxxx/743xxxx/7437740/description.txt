@@ -1,0 +1,92 @@
+MPEG 4
+
+MPlayer SVN-r31918 (C) 2000-2010 MPlayer Team
+Playing dvd://1.
+libdvdread: Using libdvdcss version 1.2.10 for DVD access
+ID_DVD_TITLES=2
+ID_DVD_TITLE_1_CHAPTERS=15
+ID_DVD_TITLE_1_ANGLES=1
+ID_DVD_TITLE_2_CHAPTERS=5
+ID_DVD_TITLE_2_ANGLES=1
+ID_DVD_TITLE_1_LENGTH=5799.920
+ID_DVD_TITLE_2_LENGTH=67.040
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_02_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_03_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_04_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_05_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_06_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_07_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_08_0.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VTS_09_0.IFO failed
+ID_DVD_DISC_ID=648BB2B3E09435B9B0581005D1503652
+ID_DVD_VOLUME_ID=CUENTOS DE LA LUNA PALIDA
+There are 2 titles on this DVD.
+ID_DVD_CURRENT_TITLE=1
+There are 1 angles in this DVD title.
+libdvdread: Attempting to retrieve all CSS keys
+libdvdread: This can take a _long_ time, please be patient
+libdvdread: Get key for /VIDEO_TS/VIDEO_TS.VOB at 0x0000012b
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_01_0.VOB at 0x00002e17
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x0002fdfc
+libdvdread: Elapsed time 0
+libdvdread: Found 1 VTS's
+libdvdread: Elapsed time 0
+audio stream: 0 format: ac3 (stereo) language: es aid: 128.
+ID_AUDIO_ID=128
+ID_AID_128_LANG=es
+audio stream: 1 format: ac3 (stereo) language: ja aid: 129.
+ID_AUDIO_ID=129
+ID_AID_129_LANG=ja
+number of audio channels on disk: 2.
+subtitle ( sid ): 0 language: es
+ID_SUBTITLE_ID=0
+ID_SID_0_LANG=es
+number of subtitles on disk: 1
+CHAPTERS: 00:00:00,00:06:30,00:12:36,00:18:49,00:27:49,00:33:06,00:39:00,00:47:49,00:52:12,00:57:05,01:03:26,01:09:48,01:19:43,01:22:29,01:30:05,
+ID_VIDEO_ID=0
+MPEG-PS file format detected.
+ID_AUDIO_ID=128
+VIDEO: MPEG2 720x576 (aspect 2) 25.000 fps 8500.0 kbps (1062.5 kbyte/s)
+ID_FILENAME=dvd://1
+ID_DEMUXER=mpegps
+ID_VIDEO_FORMAT=0x10000002
+ID_VIDEO_BITRATE=8500000
+ID_VIDEO_WIDTH=720
+ID_VIDEO_HEIGHT=576
+ID_VIDEO_FPS=25.000
+ID_VIDEO_ASPECT=0.0000
+ID_AUDIO_FORMAT=8192
+ID_AUDIO_BITRATE=0
+ID_AUDIO_RATE=0
+ID_AUDIO_NCH=0
+ID_START_TIME=0.29
+ID_LENGTH=5799.92
+ID_SEEKABLE=1
+ID_CHAPTERS=15
+==========================================================================
+Opening video decoder: [ffmpeg] FFmpeg's libavcodec codec family
+Selected video codec: [ffmpeg2] vfm: ffmpeg (FFmpeg MPEG-2)
+==========================================================================
+ID_VIDEO_CODEC=ffmpeg2
+==========================================================================
+Opening audio decoder: [ffmpeg] FFmpeg/libavcodec audio decoders
+AUDIO: 48000 Hz, 2 ch, s16le, 192.0 kbit/12.50% (ratio: 24000->192000)
+ID_AUDIO_BITRATE=192000
+ID_AUDIO_RATE=48000
+ID_AUDIO_NCH=2
+Selected audio codec: [ffac3] afm: ffmpeg (FFmpeg AC-3)
+==========================================================================
+AO: [null] 48000Hz 2ch s16le (2 bytes per sample)
+ID_AUDIO_CODEC=ffac3
+Starting playback...
+ID_AUDIO_ID=129
+Movie-Aspect is 1.33:1 - prescaling to correct movie aspect.
+ID_VIDEO_ASPECT=1.3333
+VO: [null] 720x576 => 768x576 Planar YV12 [zoom]
+[mpeg2video @ 0x8ab2700]slice mismatch
+[mpeg2video @ 0x8ab2700]Warning MVs not available
+[mpeg2video @ 0x8ab2700]concealing 1350 DC, 1350 AC, 1350 MV errors
+Exiting... (End of file)
+ID_EXIT=EOF

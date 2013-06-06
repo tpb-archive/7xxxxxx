@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,Mutegrill,2012-07-11T04:14Z,"This is Swedish subtitles for this movie release:
+
+Artificial Intelligence AI 2001 1080p BluRay DTS x264-CtrlHD
+
+But if you are having the problem that the subtitles drifts away between start and endpoint (with subtitles in any other languages) you should be able to take advantage of this file if you have any release with playing time: 1:45:51.
+
+With - for instance - ""Subtitle Workshop"" you open your problematic subtitle-file and click:
+""Edit"" - ""Timings"" - ""Adjust"" - ""Adjust Subtitles""
+
+In the new small time setting window that appears, change the times:
+""First spoken line"": 00:01:11,970
+""Last spoken line"": 02:17:47,000
+
+Now save, and play the movie.
+
+Good Luck."

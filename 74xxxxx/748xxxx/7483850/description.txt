@@ -1,0 +1,16 @@
+DVDFab 8.1.9.8 Qt Updated!
+
+
+New: Updated decryption keys.
+
+Fix: Decrease buffer size when it's failed to allocate the buffer, to avoid 580.00 problem.
+
+
+Blu-ray Copy:
+
+Fix: A freeze problem when backup Blu-ray 3D disc in certain cases.
+
+Fix: A crash problem when backup Blu-ray 3D disc in certain cases.
+
+Fix: A freeze problem when backup Blu-ray 2D disc in certain cases.
+

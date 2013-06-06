@@ -1,0 +1,83 @@
+Nine Inch Nails - The Fragile (Right) - CD remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - The Way Out Is Through
+2 - Into the Void
+3 - Where Is Everybody┬┐
+4 - The Mark Has Been Made
+5 - Please
+6 - Starfuckers, Inc.
+7 - Complication
+8 - I'm Looking Forward to Joining You, Finally
+9 - The Big Come Down
+10 - Underneath It All
+11 - Ripe (With Decay)
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-16-bit/44.1kHz files ripped from the CD and joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = 0db
+-DC Offset Removed - Apparent Bit Resolution = 18, Peak = 0db
+-Final Recording - Apparent Bit Resolution = 42, Peak = 4.703db
+
+-Resample 64/384 to 64/96 in Wavelab w/crystal resampler, ultra(slow) relax background priority
+-Apply loudness maximizer (0.2db) and MBIT+ 24-bit Dither (Noise Shaping - Light, Dither Amount - High, Auto-blanking - on) in Wavelab w/Izotope Ozone 4 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+No DSD this time around, peaks levels of 4.7db on the second disc prevented me from doing that without ruining the sound quality. Still damn good even w/out the DSD conversion.
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-07-14 02:34:35
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR5       -0.07 dB   -10.62 dB      4:17 ?-01 - The Way Out Is Through
+DR6       -0.07 dB    -8.60 dB      4:49 ?-02 - Into the Void
+DR6       -0.07 dB    -8.34 dB      5:40 ?-03 - Where Is Everybody┬┐
+DR7       -0.07 dB   -10.19 dB      5:15 ?-04 - The Mark Has Been Made
+DR6       -0.07 dB    -7.60 dB      3:31 ?-05 - Please
+DR5       -0.07 dB    -7.67 dB      5:00 ?-06 - Starfuckers, Inc.
+DR7       -0.07 dB    -9.44 dB      2:31 ?-07 - Complication
+DR7       -0.07 dB    -8.78 dB      4:13 ?-08 - I'm Looking Forward to Joining You, Finally
+DR7       -0.07 dB    -8.69 dB      4:13 ?-09 - The Big Come Down
+DR7       -0.07 dB   -10.59 dB      2:46 ?-10 - Underneath It All
+DR9       -0.07 dB   -12.32 dB      6:34 ?-11 - Ripe (With Decay)
+--------------------------------------------------------------------------------
+
+Number of tracks:  11
+Official DR value: DR6
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

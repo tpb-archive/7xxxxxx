@@ -1,0 +1,11 @@
+Recover corrupted RAID arrays in a fully automatic mode. Raid Recovery is the first tool to automatically detect the type of the original RAID array while still allowing for fully manual operation. Raid Recovery is no doubt a highly valuable tool for users of all types of RAID arrays, whether hardware, native, or software. The drag-and-drop user interface allows specifying parts of the RAID array by simply dragging and dropping icons representing the disks.
+
+Reconstruct all types of arrays just as easily as a single hard disk. Raid Recovery recognizes all imaginable configurations of various types of arrays, including RAID 0, 1, 0+1, 1+0, 1E, 4, 5, 5R and JBOD, no matter whether they are connected to a dedicated RAID controller or a RAID-enabled motherboard from NVidia, Intel, or VIA. Microsoft software raids (also called Dynamic Disks) are also supported, including JBOD (span), RAID 0, 1, and 5 configurations. Version 1.5 and higer works with Adaptec RAID Controllers and DDF compatible devices
+
+Detecting the right type of an array is vital for correct recovery. Raid Recovery supports both manual and fully automatic detection of essential parameters such as type of array, type of RAID controller, stripe size, and disk order.
+
+Assemble RAID configurations manually
+
+Assemble RAID configurations manually via a simple drag-and-drop operation. Raid Recovery re-constructs an array from the available hard disks being simply dragged and dropped, and detects the right type and size or the array as well as the order of the disks automatically. Anyone can recover broken RAID arrays with Raid Recovery!
+
+Raid Recovery gives top priority to your data, allowing you to recover and back up all files from the corrupted array before attempting to fix it. You can store the files on another hard disk or partition, use a recordable CD or DVD, or even upload the files over FTP. Raid Recovery uses advanced search algorithms that allow recovering important files such as documents, pictures and multimedia even if there is a missing disk in the array, or if the file system is missing or damaged.

@@ -1,0 +1,12 @@
+1. Launch the MacKeeper program once. It will show you a button at bottom left of screen telling you that 15 days of the trial is left. Now quit MacKeeper.
+
+2. Block the program using Little Snitch (Hostname http://www.zeobit.com and IP address 64.15.138.185. Deny access for applications MacKeeper Helper.app (/Applications/MacKeeper.app/Contents/Resources/MacKeeper Helper.app) and MacKeeper.app
+
+3. Launch the authorizer by double-clicking it. You will notice in the Terminal window that the authorizer gives you authorization for exactly one year from the date it is launched.
+
+4. Launch MacKeeper. You will see that the button on the bottom left of screen has now disappeared ...
+
+5. Keep your eyes open for MacKeeper updating itself on launch. If it does, the button may re-appear. When that happens, run the authorizer again and repeat the process.
+
+
+Ps: license generator works fine after update to v 1.8.1

@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-08-08T01:35Z,"Just figured out how to update the MP3 encoder. Sometimes Illustrate waits to update the MP3 encoder so if you don't want to wait for an official update you can do it yourself..
+
+Basicly download Lame.exe and copy it to your dBpoweramp install folder.
+If you find and update the contents of ""mp3 (Lame).txt"" it will then now show the current Lame Build # in the Config tool.
+
+What i did was go to http://www.rarewares.org/mp3-lame-bundle.php
+And downloaded the one with NO libsndfile support and NOT x64
+Since dBpoweramp is an x86 program you can't use 64bit .dlls with it.. don't bother trying
+
+Hope this is useful for someone and i tested a conversion and it seems to work perfect, new files say 3.99.5 instead of 3.98.4 for example in dBpoweramp context properties and on MediaInfo."
+,xpmule,2012-08-24T20:19Z,"Figured I'd add some more advice. If people are trying to find a Tool to split up Flac images ? I'd have to advise using Cuetools. When it comes to anything Flac related that is my go to program.
+Its free and easy to find and is loaded with features such as methods of validating the images / tracks were ripped correctly. I'm not the only one that likes this either a LOT of people recommend this tool also."

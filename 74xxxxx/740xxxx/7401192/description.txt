@@ -1,0 +1,54 @@
+General
+Complete name                  : F:jdownloaderdownloadarcarc.avi
+Format                         : AVI
+Format/Info                    : Audio Video Interleave
+Format profile                 : OpenDML
+File size                      : 1.03 GiB
+Duration                       : 1h 16mn
+Overall bit rate               : 1 921 Kbps
+Writing application            : Lavf51.12.1
+
+Video
+ID                             : 0
+Format                         : MPEG-4 Visual
+Format profile                 : Simple@L1
+Format settings, BVOP          : No
+Format settings, QPel          : No
+Format settings, GMC           : No warppoints
+Format settings, Matrix        : Default (H.263)
+Codec ID                       : DX50
+Codec ID/Hint                  : DivX 5
+Duration                       : 1h 16mn
+Bit rate                       : 1 777 Kbps
+Width                          : 640 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 0.241
+Stream size                    : 976 MiB (93%)
+Writing library                : Lavc51.40.4
+
+Audio
+ID                             : 1
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 3
+Mode                           : Joint stereo
+Mode extension                 : MS Stereo
+Codec ID                       : 55
+Codec ID/Hint                  : MP3
+Duration                       : 1h 16mn
+Bit rate mode                  : Constant
+Bit rate                       : 128 Kbps
+Channel(s)                     : 2 channels
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Stream size                    : 70.3 MiB (7%)
+Alignment                      : Aligned on interleaves
+Interleave, duration           : 26 ms (0.63 video frame)
+

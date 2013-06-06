@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,smokingaces,2012-07-22T03:26Z,"how do i get this 2 work?
+i downloaded it . extract it . install .
+it checks for lisence then black screen 
+galaxy s2"
+,daredev,2012-07-22T07:03Z,"Works fine on my Rooted Ainol Novo Aurora 2.
+
+You need to extract the data files you download. They were compressed and splitted. Use Winrar to extract them. After extraction, you will have a folder named com.gameloft.android.ANMP.GloftKRHM, inside this folder is one single obb file, nothing else.
+-Copy the entire folder (not just the obb file) to sdcard/android/obb/
+-Install the apk
+-Extract the TB file, that should give you 2 files. Don't modify those files in any way, just copy them to TB folder on your device. If you already have Titanium Backup installed on your device, then there should be a folder on your sdcard called ""Titanium Backup"" or something like that.
+-Now open TB. Tap on TDKR icon, you should have the Restore option. Choose Restore Data Only.
+And enjoy the Game."
+,breezy282,2012-07-22T11:18Z,does work on xperia s?
+,rushu.h23,2012-07-23T14:53Z,"done as u said...shows CHECKING LICENCE then GAMELOFT log & it goes back to home screen...tell me wat to do ???
+HTC DESIRE HD"
+,daredev,2012-07-23T17:01Z,I think it will only work on rooted devices.I am not sure about it.
+,rushu.h23,2012-07-23T17:47Z,mine is roooted
+,rushu.h23,2012-07-23T20:51Z,"its working now !!! Yes....
+the game`s just sooo GOOOOOD ;)"
+,copperhead33,2012-07-24T08:53Z,what did you do to get it to work?
+,rushu.h23,2012-07-24T11:31Z,"downloaded the files, first i put the data files in sd/android/obb/(game`s data folder)
+installed the apk
+copied the titanium backup files (2files) into sd/Titanium Backup (if u dnt hav titanium back up, search here on TPB)
+opened TB, clicked on the batman rises game file
+clicked wipe data, then resotre data only
+
+done  ;)"
+,Yomammasavirgin,2012-07-24T13:44Z,"Do I need a Rooted Android device? I have a Galaxy Note but not rooted. I see that Titanium Backup requires a rooted device but I installed Navigon the other day without rooting my phone. 
+
+So do I really need a rooted device to install this game and TB?"
+,boipu,2012-07-24T14:18Z,you can find a cracked version at ipmart forum.no neeb tb.
+,prepi,2012-07-26T05:18Z,"Follow link for GAME SD DATA. WORK 100%
+http://thepiratebay.se/torrent/7475520/The_Dark_Knight_Rising______SD_data____"
+,jaded29,2012-07-27T15:54Z,"Great one.. works cool. If i update the version to 1.0.6, will it work the same?
+
+Thanks !!"
+,Linkmeup82,2012-08-12T16:28Z,"It depends on what you mean by, ""do I need a rooted device to install this game?"" If you want to install these titanium backup files to install the game, then yes as titanium requires root access. You may be able to find a cracked .apk with the SD files that would allow you to install and work without having root. It really depends on how the game was cracked. Some games work without root and some require root to be installed correctly. This game worked for me.
+
+Sent from my rooted Samsung Galaxy S running Helly Bean ROM 4.1.1 on the Devil3 kernel."
+,Linkmeup82,2012-08-12T16:34Z,This one doesn't require root: http://thepiratebay.se/torrent/7469296/The_Dark_Knight_Rises_v1.0.5_[Non-Rooted-Offline]_Android

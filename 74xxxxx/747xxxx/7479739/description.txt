@@ -1,0 +1,20 @@
+Data is getting bigger and more complex by the day, and so are the choices in handling that data. As a modern application developer you need to understand the emerging field of data management, both RDBMS and NoSQL. Seven Databases in Seven Weeks takes you on a tour of some of the hottest open source databases today. In the tradition of Bruce A. Tate's Seven Languages in Seven Weeks, this book goes beyond your basic tutorial to explore the essential concepts at the core each technology.
+
+Redis, Neo4J, CouchDB, MongoDB, HBase, Riak and Postgres. With each database, you'll tackle a real-world data problem that highlights the concepts and features that make it shine. You'll explore the five data models employed by these databases-relational, key/value, columnar, document and graph-and which kinds of problems are best suited to each.
+
+You'll learn how MongoDB and CouchDB are strikingly different, and discover the Dynamo heritage at the heart of Riak. Make your applications faster with Redis and more connected with Neo4J. Use MapReduce to solve Big Data problems. Build clusters of servers using scalable services like Amazon's Elastic Compute Cloud (EC2).
+
+Discover the CAP theorem and its implications for your distributed data. Understand the tradeoffs between consistency and availability, and when you can use them to your advantage. Use multiple databases in concert to create a platform that's more than the sum of its parts, or find one that meets all your needs at once.
+
+Seven Databases in Seven Weeks will take you on a deep dive into each of the databases, their strengths and weaknesses, and how to choose the ones that fit your needs.
+
+What You Need:
+
+To get the most of of this book you'll have to follow along, and that means you'll need a *nix shell (Mac OSX or Linux preferred, Windows users will need Cygwin), and Java 6 (or greater) and Ruby 1.8.7 (or greater). Each chapter will list the downloads required for that database.
+
+
+# Paperback: 352 pages
+# Publisher: Pragmatic Bookshelf (May 18, 2012)
+# Language: English
+# ISBN-10: 1934356921
+# ISBN-13: 978-1934356920

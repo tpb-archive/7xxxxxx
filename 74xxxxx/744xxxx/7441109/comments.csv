@@ -1,0 +1,85 @@
+﻿User Type,Username,Date,Text
+,elitedesc,2012-07-13T23:17Z,"Multi6 ? (ABGX):
+
+Dashboard Languages:   English (default)
+                            German
+                            French
+                            Spanish (preferred)
+                            Italian
+                            Polish"
+,elitedesc,2012-07-13T23:35Z,"Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+swag-risen2.dvd is valid
+
+Checking Game
+     ISO: ""swag-risen2.iso""
+     Size: 7838695424 bytes
+     Files in ISO: 25, Folders in ISO: 7
+     Total bytes used: 3420551484 (46.87%)
+Game appears to have random padding
+
+Checking default.xex
+     Title ID:              4B4D07E6 (KM-2022)
+     Original PE Filename:  Risen2-Master.exe
+     Original PE Timestamp: 2012/06/05 16:19:17
+     Min Kernel Required:   v2.0.14719.0
+     Game Name:             Risen 2
+     No Avatar Awards
+     Achievements:          50 Achievements totaling 1000 Gamerscore
+     XEX CRC = EED5FEDC
+     XEX Media ID: 1AC6F4DB7E3FD0F2962E4C48-70EB9D77
+
+Region Code: 0xFFFFFFFF
+     Region Free!
+
+Checking SS
+     Timestamp of Authoring: 2012/06/06 00:00:00
+     Timestamp of Mastering: 2012/06/23 12:56:14
+     SS Version: 2 (trusted)
+     SS CRC = 8B4EB792 (RawSS = CF845EBB)
+     SS Media ID: 1AC6F4DB7E3FD0F2962E4C48-70EB9D77 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2012/06/06 00:00:00 (matches SS)
+     DMI CRC = C9C4CEFF
+     DMI Media ID: 1AC6F4DB7E3FD0F2962E4C48-70EB9D77 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = 23A198FC
+PFI matches known data (14th - 15th Wave)
+
+Video partition found
+     Video CRC = F0420AFA (V0 = 399B7D77, V1 = 4B46A121)
+Video partition matches known data (15th Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for 8B4EB792EED5FEDC.ini in the online verified database
+     There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Attempting to at least verify the PFI, Video and game data
+     Looking for Xex_EED5FEDC.ini in the online verified database
+     There is no verified rip of Xex CRC EED5FEDC in the online database
+Failed to find a verified ini file for this Xex
+Verification failed"
+,elitedesc,2012-07-13T23:36Z,ABGX360: http://www.elitedescargas.com/showthread.php?20-Risen-2-Dark-Waters-XBOX360-SWAG&p=43&viewfull=1#post43
+,CrematoryKid,2012-07-14T01:36Z,"im new in burnin Xbox games
+i have a question
+which prog shuld i use
+abgx?????or Xbox backup creator????"
+,CrematoryKid,2012-07-14T01:50Z,"im new in burnin Xbox games
+what shuld i use to burn
+abgx??or Xbox backup creator????"
+,CrematoryKid,2012-07-14T02:00Z,"i guess i asked a wrong question (twice)in 5 min.
+someone plz tell me what do we need (abgx360)for when u burn Xbox game?????????????
+seriously i need to know"
+[T],Sunblock.,2012-07-14T11:27Z,"1. Modded xbox IX 3.0.
+2. Dvd bunner (Max burn iHas) for XGd3 games.
+3. Imgburn (freeware) i have never failed with this sofware.
+4. Abgx 360 to verify ur games before u burn the.
+
+Any other guides are on google :P"

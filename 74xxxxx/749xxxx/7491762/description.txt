@@ -1,0 +1,24 @@
+Mellel is the leading word processor for Mac OS X, and has been widely considered the industry standard since its inception. Mellel focuses on writers, scholars, technical writing and multilingual word processing. Offering special tools to help you write and organize long documents easily. If you need multilingual support or are writing bi-directional text, Mellel is just the thing for you. Arabic, Persian, Hebrew and Syriac never looked better on a Mac. Even if you don't need all the bells and whistles Mellel is still the right choice for you: clean, stable, and easy to use.
+
+
+What's New
+Version 3.0.1:
+
+Fixed a bug that caused the save as template function to fail on Mac OS X 10.5 Leopard
+Fixed a bug that caused the Spotlight and QuickLook plug-ins to malfunction
+Fixed an issue that caused dragging the end margin to be limited in an incorrect way when the start margin was non zero.
+Enabled the bookends feature of converting parenthesis to brackets by not stripping single square brackets at a beginning of a citation
+Fixed an issue that prevented the Mac App Store version of Mellel to communicate with the Mac App Store version of Bookends
+Fixed an issue that caused Mellel to fail to recognize dictating "New Line" with OS X 10.8 Mountain Lion's dictation function.
+Fixed a bug that disabled dragging tab stops in the ruler in OS X 10.5 Leopard
+Fixed all sorts of issues with switching in and out and between document in OS X 10.7 Lion's full screen among these, fixed an issue that caused the palette spacer to appear even though palettes were hidden when switching to another app and then back to Mellel (in full screen mode)
+Tab well now showing the correct tooltip for each tab
+Fixed an issue that disabled scrolling by dragging the scroll elevator sometimes (OS X 10.7 Lion)
+Fixed an issue that caused the version browser (OS X 10.7 Lion) to show black windows with the caption "unable to load version" for all past version of the document.
+Updated hyphenation dictionaries
+Updated some Japanese xibs
+
+Requirements
+
+Intel
+Mac OS X 10.5 or later

@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-07-25T07:56Z," :o 
+
+man major leeching again before its seeded out"
+,Seranda,2012-07-26T04:46Z,"What program do you use for conversion? I have tried many... Whenever I get it finally converted to AVI it doesn't want to play on my DVD player from my USB stick. I need ""Drop Dead Diva S04E07"" converted but I don't know how! :( I hate this MP4 crap!!!
+
+I am downloading this now. I will seed for a while when it's done! :)"
+[V],psspss,2012-07-26T15:06Z,"I use a combination of tools.. 
+
+you could try the free umile encoder 3.2
+very easy to use
+
+however if can fail on some flv and some mp4s
+in that no sound or out of sync or weird blurs
+occuring at the bottom
+
+but most of the time.. avs converter 8.2 will do it
+but again will fail on some mp4s etc as well
+and out of sync.. so can alternate the tools 
+
+you will need to select interleave profile and customise it for 640x360p and mp3 cbr 128
+and bit rate 1008 and fps default is what I use
+except movies I leave width and h to movie specs
+
+and finally run it through avimuxgui to fix
+any align on interleave for audio
+which is free
+
+if you want more adv tool but less graphical userinterface try meGUI which is free"
+[V],psspss,2012-07-26T15:08Z,"you can find a crack of avs video converter 8.2 about
+everything else is freeware.. "
+[V],psspss,2012-07-26T15:13Z,"avidemux.org is also good for fixing out of sync
+on a converted video very quickly without reencoding with the time shift..
+
+however it crashes a lot loading mp4s.. v 2.6 beta is beta but win 7 wont do thumbs once made .. so new header on it or bug.. 
+
+as I said not one tool will do everything properly
+
+umile is darn fastest converter about but so far no 2 pass added to it.. but it will get better if people donate i guess"

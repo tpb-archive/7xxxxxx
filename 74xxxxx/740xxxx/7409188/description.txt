@@ -1,0 +1,52 @@
+General
+Nombre completo  american.reunion.audiolatino.brrip.avi
+Formato                                  : AVI
+Formato/Info                             : Audio Video Interleave
+Tamaño del archivo                       : 702MB
+Duración                                 : 1h 53min.
+Tasa de bits total                       : 862Kbps
+
+
+Video
+ID                                       : 0
+Formato                                  : MPEG-4 Visual
+Formato del perfil                       : Advanced Simple@L5
+Ajustes del formato, BVOP                : 2
+Ajustes del formato, Qpel                : No
+Ajustes del formato, GMC                 : No warppoints
+Ajustes del formato, Matrix              : Default (H.263)
+Modo Muxing                              : Flujo de bits empaquetado
+ID Códec                                 : XVID
+ID Códec/Pista                           : XviD
+Duración                                 : 1h 53min.
+Tasa de bits                             : 724Kbps
+Ancho                                    : 624pixeles
+Alto                                     : 336pixeles
+Relación de aspecto                      : 1,85:1
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.144
+Tamaño de pista                          : 590MB (84%)
+Librería de codificación                 : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Formato                                  : MPEG Audio
+Formato de la versión                    : Version 1
+Formato del perfil                       : Layer 3
+ID Códec                                 : 55
+ID Códec/Pista                           : MP3
+Duración                                 : 1h 53min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 128Kbps
+Canal(es)                                : 2canales
+Velocidad de muestreo                    : 44,1KHz
+Tamaño de pista                          : 104MB (15%)
+Alineación                               : Dividir a través entrelazado
+Entrelazado, duración                    : 42 ms (1,00fotograma de video)
+Entrelazado, duración de precarga        : 500 ms
+Librería de codificación                 : LAME3.98r
+Opciones de codificación                 : -m s -V 4 -q 2 -lowpass 17 -b 128

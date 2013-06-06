@@ -1,0 +1,32 @@
+W.A.I.K Portable
+
+(Windows Automation Installation Kit)
+
+
+Overview of WAIK:
+
+The Windows Automated Installation Kit (WAIK) is a free download from
+Microsoft that is designed to help IT professionals deploy Windows Vista.
+
+The two main parts of the kit are Windows PE, and the Windows System Image Manager.
+
+Windows PE is a replacement for those old DOS boot disks, allowing you to boot
+a machine from CD/DVD and have 32-bit tools at your disposal. Windows System
+Image Manager allows you to customize Vista images by adding/removing/configuring components using the unattend.xml file.
+
+This portable version enables the use of WAIK without installing it.
+
+
+WAIK Portable Tested on OS:
+
+Windows Vista (No SP)
+
+Windows 7 SP1
+
+
+*SP means Service Pack
+
+
+
+Extra:
+I included a tutorial for merging editions of Windows 7 in one DVD

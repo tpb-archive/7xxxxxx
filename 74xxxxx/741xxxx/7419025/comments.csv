@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,gwl148,2012-07-16T20:18Z,its winrar and demon tool lite show a corrupted image 
+,gnommak,2012-07-17T10:00Z,"to gwl148
+Question:
+What are you trying to do with winrar and Demon tools?
+Mount image? Extract image?
+One thing I can tell you exactly, this image contains several partitions, so extract this image in winrar do not possible.
+Mount this image in Windows using Demon Tools also does not make sense, since the image contains APM (Apple Partition Map). Windows does not support APM without additional drivers. I did not even mention of HFS file system that is not supported in Windows too.
+I will give you advice: stop doing thoughtless and illogical things. Read Forums Before You Write. Search Google! This image do not intended to mount, but only to burn to DVD.
+If you have problems with recording image try to use ImgBurn. If you have problems with booting or installing, download the image again or inspect it for bad blocks using uTorrent."
+,gwl148,2012-07-18T07:39Z,Thanks Buddy. I resolve this problem using Transmac. and Its work Gr8
+,Juz19,2012-07-21T02:00Z,I can use this to install it on a 10.5.8 mac??
+,BChasse,2012-08-28T16:22Z,"I've burned a few different ISO images and this is the only one to boot and install fully on my macbook pro. Works great, updates fine. Thanks."

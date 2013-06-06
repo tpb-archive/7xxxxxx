@@ -1,0 +1,46 @@
+Beyond Compare is a powerful time-saving utility for comparing files and folders on your Windows system. Use it to manage source code, keep folders in sync, compare program output, and validate copies of your data. Beyond Compare can create a snapshot of a live directory structure, and compare it against the live copy at a later date. Beyond Compare helps you analyze differences in detail and carefully reconcile them. It commands a wide range of file and text operations, as well as script commands for automating tasks.
+
+Expanded Session concept
+- Any comparison can be saved as a session, not just folder comparisons
+- Plug-ins are now built-in session types
+- Saved sessions can be organized in folders
+- Auto-saved sessions
+
+Fully unicode enabled
+- Unicode filenames now supported as well as unicode file content
+
+Interface Improvements
+- Tabbed interface for session views
+- Handy "home" view for launching and managing sessions
+- Layout of open sessions can be saved, restored
+- Built-in "Check for updates"
+
+Folder compare features
+- Folder icons colors now match your preferences
+- Multiple operations can be queued
+- File actions now respect filters by default
+- Dedicated folder sync session
+- Touch and Attrib commands can now recurse through subfolders
+- Attrib supports Unix attributes
+- New Ignored command flags mismatched file as OK
+- New Move to Folder command
+- Flatten folders lets you compare differing folder structures
+- Pro only Alignment overrides
+
+Text comparison features
+- Full in-pane editor with dynamic re-comparisons
+- Syntax highlighting
+- Adaptive gutter buttons for copying sections
+- Unlimited undo after save
+- Grammar-based comparison rules
+- Independent file formats for each side of the comparison
+- New Ignored command flags mismatched sections as OK
+- Multiple bookmarks
+- Hex display option for line details
+- Pro only 3-way text merge
+- Pro only Replacements
+
+Improved FTP support
+- FTP profiles, selectable per session
+- Multiple simultaneous connections
+- Pro only Built-in support for secure FTP protocols (SFTP and FTP over SSL)

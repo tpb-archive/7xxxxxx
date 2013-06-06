@@ -1,0 +1,17 @@
+Anime Studio Pro is perfect for professionals looking for a more efficient alternative to tedious frame-by-frame animation. With an intuitive interface, a visual content library and powerful features such as a bone rigging system, automatic image tracing, integrated lip-synching, 3D shape design, physics, motion tracking, a character wizard and more, Anime Studio Pro delivers advanced animation tools to speed up your workflow.
+Change Log....
+Version 8
+Camtasia Studio v8.0.1 Maintenance Release
+-Added support for small screen quizzing displays
+-Fixed an issue causing an artificial line on the right edge of the video in preview and production
+-Fixed an issue that did not allow adding key frames to media under a transition
+-Changing project information should now mark the project as modified
+-Black bars should no longer show on top and bottom in PPT recordings
+-New callouts should no longer have a fade in when the last transition had it turned off
+-It should now be possible to disable quizzing when the controller is disabled in the production wizard
+-Fixed a crash when opening projects from a network location
+-Markers on a media under a transition should now be included in a produced table of contents
+-Fixed a crash when adding a video with large dimensions to the timeline
+-Fixed various issues interfering with Camtasia running on Windows 8
+-Additional bug fixing
+

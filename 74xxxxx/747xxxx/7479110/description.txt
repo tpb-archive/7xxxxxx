@@ -1,0 +1,57 @@
+General
+CompleteName : G:12 Week MASS BUILDING WorkoutIntro.mp4
+Format : MPEG-4
+Format_Profile : Base Media
+CodecID : isom
+FileSize/String : 31.4 MiB
+Duration/String : 4mn 7s
+OverallBitRate_Mode/String : VBR
+OverallBitRate/String : 1062 Kbps
+Encoded_Date : UTC 2010-06-22 06:12:48
+Tagged_Date : UTC 2010-06-22 06:12:48
+
+Video
+ID/String : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format_Profile : Baseline@L3.0
+Format_Settings_CABAC/String : No
+Format_Settings_RefFrames/String : 2 frame2
+CodecID : avc1
+CodecID/Info : Advanced Video Coding
+Duration/String : 4mn 7s
+BitRate/String : 1014 Kbps
+BitRate_Maximum/String : 3462 Kbps
+Width/String : 480 pixel3
+Height/String : 268 pixel3
+DisplayAspectRatio/String : 16:9
+FrameRate_Mode/String : CFR
+FrameRate/String : 30.000 fps3
+ColorSpace : YUV
+ChromaSubsampling : 4:2:0
+BitDepth/String : 8 bit3
+ScanType/String : Progressive
+Bits-(Pixel*Frame) : 0.263
+StreamSize/String : 30.0 MiB (95%)
+Encoded_Library/String : x264 core 98 r1636M 2d2abd8
+Encoded_Library_Settings : cabac=0 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=6 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=30 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded_Date : UTC 2010-06-22 06:12:48
+Tagged_Date : UTC 2010-06-22 06:12:49
+
+Audio
+ID/String : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format_Profile : LC
+CodecID : 40
+Duration/String : 4mn 7s
+BitRate_Mode/String : VBR
+BitRate/String : 48.0 Kbps
+BitRate_Maximum/String : 55.0 Kbps
+Channel(s)/String : 1 channel1
+ChannelPositions : Front: C
+SamplingRate/String : 22.05 KHz
+Compression_Mode/String : Lossy
+StreamSize/String : 1.37 MiB (4%)
+Encoded_Date : UTC 2010-06-22 06:12:49
+Tagged_Date : UTC 2010-06-22 06:12:49

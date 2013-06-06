@@ -1,0 +1,55 @@
+Audirvana Plus is a highΓÇÉend audiophile player for the Mac (with seamless iTunes integration), aiming at the best possible sound quality.
+
+General Features
+
+Full memory play for best sound quality (loads, decode and convert tracks completely before playback)
+Gapless playback
+Device driver optimization: exclusive access & integer mode
+Automatic sample rate switching
+Configurable over/up-sampling
+Device hot-plugging support
+
+File formats support
+
+DSD native streaming to compatible DACs (currently Playback Designs, Mytek DSD, exD DAC, Meitner MA-1, dCS Debussy line of DACs, and all that support the DSD over PCM 1.0 standard)
+DST compressed files realtime playback
+DSD to PCM high quality conversion using best in class iZotope 64-bit SRC for the downsampling conversion
+DSF, DSDIFF (including DST compressed), SACD ISO images
+FLAC, Monkey Audio APE
+AIFF, WAVE, WAVPACK
+Cue Sheets
+Apple Lossless, AAC, MP3, ΓÇª
+
+Audio Signal Handling
+
+Internal resolution - Full 64bit
+Maximum sample rate - No limit
+Benchmark iZotope 64bit-SRC sample rate converter
+Advanced sample rate converter tuning parameters
+DAC volume remote control (when available)
+Dithered Volume Control
+3 different Noise Shaping algorithms available for Dithering
+including iZotope best in class MBIT+
+Advanced dithering noise shaping tuning parameters
+
+Ease of Use
+
+Device configuration not needing application restart to take effect
+DACs connected behind a bridge specifics handling
+Automatic fallback if requested feature not available
+Playlists management (standard M3U format)
+iTunes library access to create playlists
+Current playlist auto-save
+Immediate reload of auto-saved playlist (even for very long ones)
+Search & filter tracks for dynamic fast playlist selection
+Animated ΓÇÿticker-syleΓÇÖ display for long track titles
+Media keys handling to control playback and volume
+Apple IR Remote handling
+
+
+Requirements
+
+Intel
+Mac OS X 10.6 or later
+CoreAudio compatible DAC
+2 GB RAM (4 GB recommended)

@@ -1,0 +1,49 @@
+Titanium Backup is the most powerful backup tool on Android, and then some.
+You can backup, restore, freeze (with Pro) your apps + data + Market links. This includes all protected apps & system apps, plus external data on your SD card. You can do 0-click batch & scheduled backups.
+
+Backups will operate without closing any apps (with Pro). You can move any app (or app data) to/from the SD card. You can browse any app's data and even query the Market to see detailed information about the app.
+
+PRO FEATURES ADDED:
+
+    Multiple backups per app
+    0-click batch restore
+    Multi-user support for some apps! (eg: games)
+    Batch verification
+    Backup apps without closing them!
+    Restore individual apps+data from CWM backups!
+    Restore individual apps+data from TWRP backups!
+    Hypershell speed
+    Migrate system data across different ROMs
+    Market Doctor (relink apps to Market)
+    "Destroy all Market links" feature
+    Apps freezer (incl. batch support)
+    Market "auto updating" manager
+    Convert user apps <=> system apps
+    Encryption
+    Unlimited schedules
+    Sync to/from Dropbox (manual/scheduled)
+    Sync to/from Box (manual/scheduled)
+    Sync to/from Google Drive (manual/scheduled)
+    Load/Save a Filter and use it in Widgets/Schedules
+    Protect backup against deletion
+    Send backup by e-mail
+    BackupΓåÆVerifyΓåÆUn-install an app in one shot
+    Freeze/defrost/launch apps in a single click
+    CSV export any app DB (e-mail or Google Docs)
+    Brand the app with your name
+    Bloatware Melter (experimental)
+    Convert app data to/from faster WAL DB format
+
+MORE MEMORY:
+
+    Dalvik cache cleaner
+    Integrate system app updates into ROM
+    Move apps into ROM
+    Integrate Dalvik cache system elements into ROM
+
+What's in this version : (Updated : Jul 23, 2012)
+
+    [PRO] Added support for extracting apps/data from CWM6 "version 2" backups.
+    [PRO] Fixed FC with XML backup/restore of Wi-Fi networks on Android 3.2.
+
+Required Android O/S : 1.6+

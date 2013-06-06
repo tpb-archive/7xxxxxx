@@ -1,0 +1,44 @@
+General
+Format                                   : Matroska
+File size                                : 2.49 GiB
+Duration                                 : 2h 30mn
+Overall bit rate                         : 2 371 Kbps
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+Format                                   : AVC
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 30mn
+Nominal bit rate                         : 2 096 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Frame rate                               : 23.976 fps
+Bits/(Pixel*Frame)                       : 0.057
+Title                                    : Ecstasy
+
+
+Audio #1
+Format                                   : AAC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 30mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Title                                    : Ecstasy
+Language                                 : English
+
+
+Audio #2
+Format                                   : AC-3
+Codec ID                                 : A_AC3
+Duration                                 : 2h 30mn
+Bit rate                                 : 224 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 18s 500ms
+Stream size                              : 241 MiB (9%)
+Title                                    : Ecstasy
+Language                                 : Hindi

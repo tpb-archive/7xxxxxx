@@ -1,0 +1,30 @@
+R-Studio ist ein Produkt aus der Familie der leistungsfähigen und kosten-effektiven 
+Software zum Löschen und wiederherstellen von Daten.
+Mit seiner neuen Wiederherstellungstechnik ist es eines der besten Programme,
+wenn es um die Wiederherstellung von Daten auf FAT12/16/32, NTFS,
+NTFS5 (erstellt oder aktualisiert von Windows 2000/XP/2003/Vista),
+Ext2FS/Ext3FS (LINUX-Dateisystem) und UFS1/UFS2 (FreeBSD/OpenBSD/NetBSD) geht.
+Es funktioniert sowohl auf lokalen wie auch auf Netzlaufwerken, dabei ist es egal,
+ob die Partitionen formatiert, beschädigt oder gelöscht wurden.
+Mithilfe von flexiblen Parametern haben Sie die volle Kontrolle über die Wiederherstellung der Daten.
+
+R-Studio stellt Ihre Daten wieder her
+* Wenn ohne Papierkorb gelöscht wurde oder durch Leeren des Papierkorbs;
+* Wenn durch Virenbefall oder Fehler in der Stromversorgung Daten verloren gegangen sind;
+* Nachdem die Partition neu formatiert wurde, sogar mit einem neuen Dateisystem;
+* Wenn die Partitionsstruktur auf einer Festplatte geändert oder beschädigt wurde.
+In diesem Fall kann mit den R-Studio-Werkzeugen die Festplatte gescannt werden.
+* Von Festplatten mit defekten Sektoren können Sie erst die Daten als Image auf eine leere Partition kopieren und diese dann wiederherstellen.
+Dies ist besonders praktisch, wenn auf einer Festplatte kontinuierlich weitere defekte Sektoren entstehen und die verbleibenden Daten gesichert werden müssen.
+
+Die neue Version 5 liegt vor.
+
+Neue Funktionen:
+* Stark verbesserte Dateitypenerkennung bei defekter MFT
+* Unterstützung für exFAT (für Flash-Speicher) und Ext4
+* Unterstützung für RAID 6 (inkl. Reed-Solomon, Vertical XOR und benutzerdefinierte RAID 6-Layout)
+* Unterstützung für Windows 7
+* Unterstützung für 64-Bit-Windows
+* Unterstützung von mehr als 3 GB RAM auf 64-Bit-Systemen
+* Stark verbesserte Geschwindigkeit auf 64-Bit-Systemen mit ausreichend RAM
+* Erweitertes Objekt-Kopieren

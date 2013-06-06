@@ -1,0 +1,40 @@
+Format                           : Matroska
+File size                        : 2.63 GiB
+Duration                         : 2h 41mn
+Overall bit rate                 : 2328 Kbps
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Nominal bit rate                 : 1771 Kbps
+Width                            : 1280 pixels
+Height                           : 688 pixels
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Stream size                      : 1.89 GiB (72%)
+Title                            : 720P BluRay ~ Ashish7(wall.e)
+
+Audio #1
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Stream size                      : 519 MiB (19%)
+Title                            : 5.1 Hindi Audio ~ Ashish7(wall.e)
+
+Audio #2
+ID                               : 3
+Format                           : AC-3
+Bit rate                         : 160 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Stream size                      : 185 MiB (7%)
+Title                            : English Audio ~ Ashish7(wall.e)

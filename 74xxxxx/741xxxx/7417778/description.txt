@@ -1,0 +1,66 @@
+ http://www.imdb.com/title/tt0910548
+
+
+
+it's too hard find this on web...no subs 
+
+
+
+
+
+FILE INFO:
+
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 486 MiB
+Duration                                 : 1h 29mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 764 Kbps
+Writing application                      : MEncoder 2:1.0~rc2-0ubuntu19+medibuntu1
+Writing library                          : MPlayer
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 29mn
+Bit rate                                 : 663 Kbps
+Width                                    : 708 pixels
+Height                                   : 474 pixels
+Display aspect ratio                     : 3:2
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.066
+Stream size                              : 423 MiB (87%)
+Writing library                          : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 29mn
+Bit rate mode                            : Variable
+Bit rate                                 : 86.3 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 54.9 MiB (11%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.72 video frame)
+Interleave, preload duration             : 476 ms

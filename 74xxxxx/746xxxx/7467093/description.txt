@@ -1,0 +1,22 @@
+Changes in DVDFab 8.1.9.6 Qt
+
+New: Updated language files.
+
+Improved the recommended blu-ray burning speed when using high speed BD-R for VSO burning engine.
+
+
+Blu-ray Copy:
+
+New: Added support for PowerDVD 12 to play the Blu-ray 3D backup.
+
+New: Added support for PS3 to play the Blu-ray 3D backup.
+
+Fix: A crash problem when opening Blu-ray discs in certain cases.
+
+Fix: A stutter problem when playing Blu-ray 3D backup on standalone player in certain cases.
+
+Fix: A freeze problem when copying Blu-ray 3D disc to BD25 with "Remove HD audio" option enabled.
+
+Fix: An oversize problem when copying Blu-ray 3D disc in certain cases.
+
+Fix: The menu of Blu-ray 3D backup is not shown on standalone player in certain cases.

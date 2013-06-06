@@ -1,0 +1,57 @@
+﻿User Type,Username,Date,Text
+,Jassi1288,2012-07-18T18:59Z,"You are a legend. It works beautifully, at least with the latest version 13.4.17"
+,frosticle,2012-07-19T08:41Z,"Thank you. I really appreciate the work you do on here. Not just this game. I have noticed you are gaining many new fans. I think they are finally realizing that someone is cracking simulators. We went too many years without them. :)
+
+Thanks again."
+,okwerdz,2012-07-21T00:40Z,"I don't know what I'm doing wrong, but I'm typing in 1 for the licence key and it does not work.
+
+                              or
+
+I possibly did the patching wrong because I click patch and clicked the exe file and it says it's already patched or this version of the patch does not support the version of this game. "
+,padoodle,2012-08-01T03:59Z,"For  the new update (13.5.22), the patch says it works, but when I open OOTP, it starts loading, but then it says OOTP 13 stopped working, and then it quits. Help!? Maybe the patch doesn't work? I don't know..."
+,willyjinkens,2012-08-01T13:25Z,padoodle: I'm not sure why it didn't work for you. It appears to work fine for us. Anyone else try it yet? Please leave some feedback.
+,padoodle,2012-08-01T14:56Z,"The patch says it works, but OOTP wont open. I have no clue if Im the only one."
+,willyjinkens,2012-08-01T16:18Z,Are you sure you are using v1.1 and not v1.0? 
+,padoodle,2012-08-02T03:22Z,"Yeah, I was using the right one. But I did get it to work by deleting every OOTP file on my computer and trying again."
+,Beanche,2012-08-06T02:09Z,"This patch file requires the visual basic runtime files, which are not supported by windows 64 bit. Is there any chance for a cracked .exe or patch file for 64 bit? The previous cracks worked fine. Thanks a ton!"
+,willyjinkens,2012-08-06T05:41Z,"http://support.microsoft.com/kb/192461
+
+Those are the vb6 runtime files. They should install. You may have to run the patch in compatibility mode but it should work just fine. As far as the pre-cracked exe, no it hasn't been released as of right now."
+,Beanche,2012-08-06T19:27Z,I've tried downloading them and they cannot install. It's not supported by 64 bit operating systems according to the website. Just wanted to let you know that the patch won't work for 64 bit.
+,frosticle,2012-08-06T23:18Z,"Willy, would you mind asking SoN if he would post a tutorial or tools or something, to try and take this on ourselves. Maybe others can learn.
+
+With all the new releases, like Draft Day Sports Pro Basketball and Puresim Baseball, I feel really bad asking for these games. I can't afford them and I don't have the current technical know-how to do it myself.
+
+Perhaps he can teach us to fish, then take a long deserved vacation.
+
+I have been trying to figure out how to crack elicense and esellerate for many, many years. I love sims and apparently so do many people because his following is growing and growing.
+
+I appreciate the hard work, I really do. I think we all do. Simulators are usually ignored in the cracking community.
+
+As for the guy looking to run it on Windows 7, 64-bit. I think you can run it in WoW64, which might allow the cracking to happen.
+
+http://en.wikipedia.org/wiki/WoW64
+
+http://msdn.microsoft.com/en-us/vstudio/ms788708.aspx
+
+""Visual Basic 6.0 runtime files are 32-bit. These files ship in 64-bit Windows Operating Systems referenced in the table below. 32-bit VB6 applications and components are supported in the WOW emulation environment only. 32-bit components must also be hosted in 32-bit application processes."""
+,rockjapan,2012-08-08T04:14Z,"Windows 7 64 problem solved using following article:
+
+http://www.sevenforums.com/crashes-debugging/59463-comdlg32-ocx.html"
+,EJK22,2012-08-09T20:18Z,"Thanks again to the great [SoN].
+
+However, the patch also no longer -- it did with all previous version so OOTP13 -- works with Vista 64-Bit.
+
+And the VB 6.0 files also do not install.
+
+????"
+,willyjinkens,2012-08-09T20:53Z,"Okay, I've been told that if it was working before and it's not now then it's either because of kernel32.dll or version.dll. They were never needed before but they are now used to determine which version of the game you have because older version of 13.x and the newest (and presumably future) versions of 13.x have slightly different code to patch. So they are going to look into a different way to achieve this. If the few of you with 64 bit systems want to see which of those DLLs you don't have / if you can find and register them, just post results here. Thanks."
+,frosticle,2012-08-09T20:54Z,"EJK22, the info for Windows 7 should be more or less the same for Vista. Both have WOW64. You can get creative and get it to work, I'm guessing. You might have to dig for specific info, but it should be possible for everyone."
+,willyjinkens,2012-08-09T21:13Z,"Question, everyone who it's not working for on 64 bit, are you all on Vista? Because it's working perfectly on Windows 7 64bit."
+,EJK22,2012-08-11T19:09Z,"Thanks, frosticle, will keep trying.
+
+Demonoid, RIP :-("
+,Delaveguire,2012-08-16T10:55Z,I'm not vrey good with game downloading..so at first i have to download the game from the original site and then overwrite this to the .exe file?just this??
+,frosticle,2012-08-17T18:39Z,"Delaveguire,
+
+Download the full game from their site and install it. After that, run the patch you got from here and use it to crack the game. There is no overwriting involved. The patch takes care of it for you."

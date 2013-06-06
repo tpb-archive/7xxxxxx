@@ -1,0 +1,38 @@
+Screenflick is a program for Mac OS X that features high performance screen capturing for smooth, fluid motion up to 60 fps. Screenflick can record any portion of the screen, simultaneously recording audio from internal or external microphones and the system audio.
+
+An excellent utility for software screencasters and software trainers, Screenflick offers the ability to display keyboard commands, and highlights mouse clicks to better communicate which actions are being performed during screen recording.
+
+Unlike other solutions, Screenflick allows you to record a movie once and compress it as many times as you want at different resolutions, qualities, and with or without audio, offering you the maximum amount of flexibility when choosing which presentation options to offer to movie viewers.
+
+What's New
+Version 2.2
+
+New:
+
+OS X 10.8 support for Gatekeeper, better recording, and mouse cursor hiding.
+Support for recording Retina displays at full or half resolution.
+Added the ability to record at a reduce scale to save CPU and disk space.
+The movie preview now has a player bar which can be used for scrubbing through the movie.
+Added a recording timer option, so the recording can be stopped after a set time.
+Dock and Status menu items for Pause/Resume
+UI Refinements
+Captured movies not inside the Movies folder can be double-clicked in Finder to open in Screenflick. They're then tracked for the rest of the time the app is running. 
+
+Changes:
+
+More accurate frame rate measurement on 10.7, and improved recording performance.
+Much more accurate mouse event to frame syncing.
+Movie being recorded while Quit is now marked as valid
+Includes a new version of Soundflower
+
+Fixes:
+
+Small leaks
+
+Requirements
+
+Intel
+Mac OS X 10.6 or later
+QuickTime 7.2 or later
+
+Courtesy of AJhacks

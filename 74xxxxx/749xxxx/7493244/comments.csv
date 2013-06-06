@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,azizblushi,2012-08-08T02:20Z,THX MAN ;)
+,vikram1,2012-08-20T06:28Z,Works great. Thanks
+,Pryor06,2012-08-23T21:52Z,"Mine was working until now. After successfully registering using the keygen the first time last month, I suddenly got the ""...registration code has exceeded the limitation"" tonight. 
+
+Keygen no longer works for me. I get ""Improper registration code"". I think they're using the same keygen for the different versions of Wondershare here. 
+
+From what I've read from other users, After your registration pulls through, you should start blocking WSHELPER.exe because it the one which detects if you have an original copy.
+
+Is there a workaround for users like me? another keygen perhaps?"
+,yokrysty,2012-08-23T23:54Z,"if you want to block wondershare software from accessing the internet
+add these lines to the hosts file at C:WindowsSystem32driversetc:
+127.0.0.1 support.wondershare.net
+127.0.0.1 www.wondershare.net
+127.0.0.1 support.wondershare.com
+127.0.0.1 www.wondershare.com"
+,vikram1,2012-08-31T21:45Z,Great! Senzati. Thanks alot. Thanks also to yokrysty about editing hosts file. 
+,vikram1,2012-09-01T22:38Z,"Update. Edited the hosts file but Still got msg that registration code excceded the limitation. 
+Any sugestions?"
+,jk1956,2012-09-18T15:09Z,"The easiest way to handle registration problems is to: 
+1. Install program
+2. Disable net connection.
+3. Open program and register using keygen.
+4. Shut down program.
+5. Delete file C:Program Files (x86)Common FilesWondershareWondershare Helper CompactWSHelper.exe (win 7 64).
+Now you can stay connected in the internet when using the program. Win 7 32 the path to the file is propably: C:Program FilesCommon FilesWondershareWondershare Helper CompactWSHelper.exe"

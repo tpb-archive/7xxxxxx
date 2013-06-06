@@ -1,0 +1,41 @@
+
+Description:
+
+Osfoora is a powerful Twitter client with a clean and intuitive user interface. You'll enjoy a wide set of powerful features such as Muting users, Read Later, Message Conversations, Multiple Accounts, and more.
+
+FEATURE LIST:
+ΓÇó Multiple accounts with multi-windows.
+ΓÇó TweetMarker Support: Timeline syncing of reading position between different Twitter apps.
+ΓÇó Inline picture thumbnails for popular services, e.g. Instapaper, Twitter, Yfrog, and more.
+ΓÇó Mute users.
+ΓÇó Mark Tweets belonging to specific users.
+ΓÇó Attach multiple images/videos to tweets.
+ΓÇó Image Services: Yfrog, TwitPic, Twitter, CloudApp, Imgly.
+ΓÇó Set your own custom Image Upload end point (Must follow the TwitPic API and use JSON).
+ΓÇó Video Services: TwitVid, Yfrog, TwitPic, CloudApp.
+ΓÇó Read Later (Instapaper & Read It Later) with tweet attribution.
+ΓÇó URL Shortening via CloudApp (Default is Twitter).
+ΓÇó View/Subscribe to Twitter lists.
+ΓÇó Access Twitter lists from user profiles (Lists they created, follow, or followed by)
+ΓÇó Direct Messages with conversation view.
+ΓÇó Search Twitter and view trends.
+ΓÇó Flexible Font sizes (11pt - 20pt).
+ΓÇó View users on Favstar, and Twitter websites.
+ΓÇó Notifications via Growl and Dock Icon.
+ΓÇó Edit your Twitter profile info.
+ΓÇó Resizable Sidebar.
+ΓÇó Robust Keyboard controls for navigation and popular tasks.
+ΓÇó Other features such as Blocking users, Reporting Spam,
+Requirements: Mac OS X 10.6 or later
+
+
+What's New in Version 1.2.1
+
+- Sandboxing Enabled
+
+Bug Fixes:
+- Mentions not showing up in main timeline
+- 10.6.8 issues
+- Incorrect mention detection
+- Right click issue when using Contrl+Click
+- Incorrect follow status message when following new users.

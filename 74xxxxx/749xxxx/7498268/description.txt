@@ -1,0 +1,48 @@
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 730 MiB
+Duration : 25mn 20s
+Overall bit rate : 4 027 Kbps
+Writing application : Lavf53.4.0
+Comment : FlixEngineLinux_8.0.17.1 (www.on2.com)
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L5.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 16 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 25mn 20s
+Bit rate mode : Variable
+Bit rate : 3 868 Kbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.062
+Stream size : 717 MiB (98%)
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 25mn 20s
+Bit rate mode : Constant
+Bit rate : 66.2 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Delay relative to video : -2s 2ms
+Stream size : 11.8 MiB (2%)

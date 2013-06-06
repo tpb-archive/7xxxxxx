@@ -1,0 +1,12 @@
+┬╖ The date widget arrows in the lobby no longer stay gone after you've looked at your save games
+ ┬╖ Added a separate set of Muslim feudal (Iqta) laws
+ ┬╖ Added a separate Muslim invasion CB with longer truce and no taking of all occupied provinces
+ ┬╖ The success chance for kill plots now increases drastically past 100% Plot Power
+ ┬╖ MP: Fixed an OOS issue between people with and without SoI. (Unfortunately, this means modders with SoI cannot just script in any number of wives in other religions.)
+ ┬╖ Fixed a serious but simple error messing up the Spanish localization text
+ ┬╖ Corrected a load of German text using ';' in the localization, corrupting the text database
+ ┬╖ Decadence revolter special troops now disband after the war
+ ┬╖ The game will no longer crash if you have the African Unit Pack DLC but not the Sword of Islam
+ ┬╖ Exported EMPIRE_CREATION_PIETY_COST to defines
+
+Note from me: the CoA are still messed up, now they show white color instead of cyan in some of them (as was in 1.06)

@@ -1,0 +1,47 @@
+Nginx 1 Web Server Implementation Cookbook
+Publication Date: May 2011
+Pages: 236
+Format: PDF
+Overview:
+Quick recipes and practical techniques to help you maximize your experience with Nginx
+Interesting recipes that will help you optimize your web stack and get more out of your existing setup
+Secure your website and prevent your setup from being compromised using SSL and rate-limiting techniques
+Get more out of Nginx by using it as an important part of your web application using third-party modules
+Full of illustrations and diagrams to help you implement your web needs with Nginx, with focus on practical examples
+
+What you will learn from this book:
+Run and debug Nginx issues effectively
+Set up WordPress and Drupal sites using FCGI
+Set up Nginx log rotation on various UNIX systems
+Stop bots and scrapers from slowing down and spamming your site
+Learn to set up SSL certificates and secure your site
+Learn how to use WSGI and set up a Python-based web application
+Set up a fair load-balancing reverse proxy using Nginx
+Use memcached as a caching backend for Nginx
+Set up Flash streaming for your website without additional software
+Convert Apache configurations into working Nginx configurations
+
+Nginx 1 Web Server Implementation Cookbook
+Publication Date: July 2010
+Pages: 348
+Format: PDF
+Overview:
+Get started with Nginx to serve websites faster and safer
+Learn to configure your servers and virtual hosts efficiently
+Set up Nginx to work with PHP and other applications via FastCGI
+Explore possible interactions between Nginx and Apache to get the best of both worlds
+A step-by-step guide to switching from Apache to Nginx
+Complete configuration directive and module reference
+
+What you will learn from this book:
+Download and build Nginx from source along with its dependencies
+Learn the basics of Nginx configuration: syntax, structure, and semantics
+Create virtual host configurations effortlessly
+Discover how to enable, configure, and use all first-party modules
+Establish advanced rewrite rules with the Nginx Rewrite module
+Set up Nginx to work with PHP, Python, and more via FastCGI
+Configure Nginx to work as frontend for your existing HTTP server
+Complete the process of replacing Apache by Nginx
+Follow three practical examples on how to port your Apache rewrite rules
+Find your way through the configuration with the complete detailed directive reference
+Troubleshooting: know where to start looking if something goes wrong

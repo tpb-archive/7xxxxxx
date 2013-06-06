@@ -1,0 +1,13 @@
+Si necesitan actualizar su version de Windows Mobile de 6.0 a 6.1 con una Rom en 16 Idiomas Limpia sin Marcas de operadores ni nada por el estilo, les dejo este Pack que ya trae todo lo necesario para flashear tu Motorola Q9H que incluye:
+ 1.Centro de dispositivos de Windows Mobile para Windows 7
+ 2.ActiveSync para Windows XP
+ 3.Drivers Necesarios para que windows reconozca el telefono para Windows XP/Vista y 7
+ 4.RSD Lite 4.3 para Flashear tu Motorola Q9h
+ 5.Archivo .sbf que el ROM con Windows Mobile 6.1 para Moto Q9h
+ 
+Para cargar la Rom a tu Motorola Q9h debes:
+ 1.Instalar los Drivers necesarios para que windows reconozca tu Telefono
+ 2.Instalar ActiveSync si usas Windows XP, en Windows 7 el centro de Dispositivos de Windows Mobile
+ 3.Una vez instalado esto conecta tu Telefono y debes hacer que Windows y el el centro de Dispositivos de Windows Mobile lo Reconozca y quede listo para Sincronizar. (Si no haces esto no funcionara)
+ 4.Instalar RSD Lite 4.3
+ 5.Abrir RSD Lite 4.3 verificando que tu telefono aparesca como conectado en la parte inferior del programa, si asi es debes busca el archivo a usar para flashear tu Q9h ese lo encuentras en la carpeta FLASH MOTO Q9H WM6.1 y se llama SHIP_NORMAN_AP_U_01.10.05R_MODEM4_U_40.11.40R_12_.sbf para cargarlo debes de hacer clic en el Boton ... y una vez cargado debes de dar clic en el boton Start, despues debes esperar de 10 a 15 minutos a que acabe el proceso incluso cuando inicia la primera vez sin desconectar y con eso quedara actualizado, no olvides que antes de hacer todo el proceso debe estar bien cargada la bateria de tu smartphone.

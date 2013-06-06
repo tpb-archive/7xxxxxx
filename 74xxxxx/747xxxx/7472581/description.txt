@@ -1,0 +1,55 @@
+General
+
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+File size                      : 75.2 MiB
+Duration                       : 7mn 18s
+Overall bit rate mode          : Variable
+Overall bit rate               : 1 440 Kbps
+Encoded date                   : UTC 2012-07-23 15:14:35
+Tagged date                    : UTC 2012-07-23 15:14:35
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.0
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 2 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 7mn 18s
+Bit rate                       : 1 269 Kbps
+Maximum bit rate               : 4 056 Kbps
+Width                          : 720 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 16:9
+Original display aspect ratio  : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.153
+Stream size                    : 65.0 MiB (86%)
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 7mn 17s
+Bit rate mode                  : Variable
+Bit rate                       : 192 Kbps
+Maximum bit rate               : 219 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Delay relative to video        : -833ms
+Stream size                    : 9.89 MiB (13%)

@@ -1,0 +1,16 @@
+Hey
+Took some time, but here's the second season of 24! Just like the first upload (24 Season 1), this one won't work with outdated decoders. You must use VLC Player (2.0+) or Media Player Classic with some recent decoder (CoreAVC 3.0+ for example). Can't tell you when I'm gonna upload season three, stay tuned.
+
+Again, all episodes got cleaned up before encoding. Should be a lot more pleasent to watch compared to the noisy DVDs. I also applied some sharpening to get (somewhat) rid of the blurred DVD feeling.
+
+
+Original: http://bayimg.com/mAPopaADG
+Cleanup: http://bayimg.com/mApooAAdG
+
+Not all episodes share the same resolution. Black borders, overlapped borders and some errors were cropped.
+
+
+Source: DVD9 PAL
+Video: x264 2200 x64 10bit @crf 18 using very slow settings
+Audio: English and German untouched streams (English is default) AC3 @448/384kbps 6Ch
+Filters: ColorMatrix, FFT3DGPU (prefiltering), MDegrain3, aWarpSharp2

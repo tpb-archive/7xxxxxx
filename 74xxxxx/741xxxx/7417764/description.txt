@@ -1,0 +1,95 @@
+Winrar 4.20 (32bit And 64bit) Pre Activated - [EC]
+
+**********************************************************************************
+      
+                         Whats  New In v 4.20 ?
+
+**********************************************************************************
+
+
+general compression algorithm is optimized for better
+
+utilization of several processor cores. While some speed gain
+         
+is possible even in single processor mode, best results
+         
+are achieved in multi-core environment.
+
+         
+**********************************************************************************
+
+Speed gain depends on data type and average file size.
+         
+Several cores are utilized more efficiently when compressing
+         
+large files.
+
+      
+b) we had to increase memory requirements to achieve higher
+         
+   compression speed. General RAR compression algorithm allocates
+         
+   about 120 MB comparing to 40 MB in WinRAR 4.11;
+
+      
+
+c) RAR text compression algorithm cannot utilize several CPU cores
+         
+   efficiently, so its performance in multiprocessor environment
+         
+   is much lower than for general algorithm. Also its decompression
+           
+   speed is much lower than in general algorithm regardless of
+         
+   CPU number. So we decided to disable the text algorithm by default.
+
+         
+***********************************************************************************
+
+
+  If you need maximum possible compression ratio for plain text data
+         
+  regardless of speed, you can enable the text compression
+         
+  in "Advanced compression parameter" dialog. Press "Compression..."
+         
+  button on "Advanced" page of archiving dialog to access it.
+         
+  You can also change this option permanently in default compression
+         
+  profile;
+
+ 
+*********************************************************************************        
+
+  Fastest" (-m1) compression mode also supports several processor
+         
+  cores now. In 4.11 it could use only a single processor core.
+
+  
+
+   RAR general decompression algorithm speed is slightly improved,
+      
+   though not to same extent as RAR compression. RAR decompression
+      
+   is not able to use several processor cores, so its performance
+      
+   does not depend on a number of cores.
+
+
+*********************************************************************************
+
+                Changes in ZIP compression:
+
+**********************************************************************************
+
+    now ZIP compression supports several processor cores resulting
+         
+    in noticeably higher performance in multi-core environment.
+         
+    Single CPU ZIP compression is also faster than in 4.11;
+
+    memory use for ZIP compression is increased to about 15 MB.
+
+   
+      For More Info Go To http://www.rarlab.com/rarnew.htm

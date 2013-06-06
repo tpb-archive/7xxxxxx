@@ -1,0 +1,61 @@
+Format                           : Matroska
+File size                        : 991 MiB
+Duration                         : 2h 42mn
+Overall bit rate                 : 852 Kbps
+Movie name                       : Zodiac  Director's Cut 720P BluRay Dual Audio [5.1 Hin+Eng] ~ Ashish7(wall.e)
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Muxing mode                      : Header stripping
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 42mn
+Nominal bit rate                 : 564 Kbps
+Width                            : 1 280 pixels
+Height                           : 544 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.034
+Title                            : 720P BluRay ~ Ashish7(wall.e)
+
+Audio #1
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 2h 42mn
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Delay relative to video          : 24ms
+Stream size                      : 298 MiB (30%)
+Title                            : 5.1 Hindi ~ Ashish7(wall.e)
+Language                         : Hindi
+
+Audio #2
+ID                               : 3
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 2h 42mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Title                            : English ~ Ashish7(wall.e)
+Language                         : English

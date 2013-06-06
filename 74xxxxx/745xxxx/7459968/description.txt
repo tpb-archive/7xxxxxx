@@ -1,0 +1,20 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+Full changelog:
+
+v0.8.5
+General:
+   Optimizations for creating stock jobs (fixes performance problems with idle gnomes)
+   Cut clipping removes saplings
+   Trading with merchants no longer requires items to be brought to the merchant
+   Mine jobs select the top of the cell instead of the bottom
+   Added option in settings.ini to hide the mouse cursor when selecting.  Default is off
+
+Bug Fixes:
+   Gnomes favoring certain materials over others, ie stocking dirt before clay
+   Items not falling when digging ramp up
+   Gnomes not using bandages on severed limbs that were bleeding
+   Gnomes getting stuck continuously restocking  
+
+
+I will be seeding newer versions as they will be released so keep an eye out :)	

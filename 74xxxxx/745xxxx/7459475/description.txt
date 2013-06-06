@@ -1,0 +1,53 @@
+"Edycja pożegnalna moich modyfikacji XP Professional x32"- napisał SROM-otnik
+
+Windows JG x32 v2012 Final
+ Data wydania: 06.03.2012
+
+1. System został odchudzony z następującego balastu:
+ APLIKACJE: Aktówka, Podgląd Schowka, Wygaszacze ekranu
+ JĘZYKI: wszystkie z wyjątkiem PL
+MULTIMEDIA: Media Center, Pliki tła i obrazów, Przykładowa muzyka, Tablet PC, Skórka Luna, Wskaźniki myszy.
+OPCJE SYSTEMU: Agent MS, Asystent wyszukiwania, Ctfmon, Kreator IExpress, Kreator transferu plików i ustawień, Narzędzie do usuwania Blaster/Nachi, Obrazy konta użytkownika, Pomoc i wsparcie, Samouczek systemu Windows, Schematy kolorów, Usługa OOBE, Usługi zdalnej instalacji (RIS).
+SIEĆ: Menadżer synchronizacji, MSN Explorer, Netmeeting, Peer-to-Peer, Usługi informacji internetowej (IIS), Windows Messenger.
+STEROWNIKI: Karty graficzne, Napędy taśmowe.
+USŁUGI: Messenger, Posłaniec, Raportowanie błędów, Usługa 'IMAPI CD-Burning COM', Usługa indeksowania, Zdalny rejestr.
+ŁATY: TcpIp = 1000, UxTheme, SFC wyłączone.
+
+2. Względem wersji oryginalnej system został wzbogacony o:
+ Standardowe elementy:
+IE 8; WMP11; wszystkie FrameWorki; DirectX; Visual C++ Redistributable 2005-2010; Java; Silverlight.
+ System posiada zintegrowane sterowniki do: SATA/RAID/AHCI i LAN oraz wszystkie poprawki z Windows Update wydane do 05 lutego 2012
+Aplikacje zintegrowane :
+HashChek, Unlocker, NetSpeedMonitor
+
+W TUNING są dodane ciche instalki programów narzędziowych:
+ - Auslogics - do przyspieszania Internetu (UWAGA!!! na moduł "Skanowanie systemu" - potrafi unieruchomić skróty pulpitu i Menu Start) -> po unieruchomieniu ikon macie tu FIX !!! POBIERZ FIX !!!
+ - TuneUp do czyszczenia i defragmentacji rejestru, zmiany wyglądu ekranów bootowania, logowania i ikon systemowych.
+ - 7zip, WinRar
+ - PXCViewer
+ - Driver Magician
+ - Window Blinds
+
+
+
+Po ukończeniu instalacji i wgraniu sterowników od razu zdecyduj czy będziesz korzystał z upiększeń WindowBlinds, czy też nie, bo jego instalacja wymaga zmiany SID.
+
+INSTALACJA:
+ Nagraj obraz na nowej dobrej płytce CD z minimalną prędkością lub nagraj na pendriva
+(TYLKO programem spakowanym i dodanym do obrazu płyty razem z instrukcją!!! Tak przygotowany nośnik używa się jednokrotnie i do kolejnej instalacji trzeba go przygotować ponownie, ponadto jest sformatowany w NTFS - wysunąć z USB przez "bezpieczne usuwanie" lub po wyłączeniu komputera).
+ Instaluj tylko z poziomu BIOS-u, najlepiej na dysku C. Klucz jest zintegrowany i nie trzeba go aktywować.
+ Zaraz po pierwszym starcie system 2 razy się zrestartuje
+ - wtedy okno konsoli zapyta: "Podaj literę partycji, na jakiej jest zainstalowany system" - wpisuje się klawiatury i wszystko gotowe do użytkowania.
+
+ WROTE:Okazuje się jednak, że wystarczy w raz użytym do instalacji pendrive wyedytować plik windefault i zmienić pierwszą cyferkę z 2 na 1 zapisać i pen nadaje się do powtórnego użycia.
+Info nie zweryfikowane!!
+
+
+
+ UWAGA "WIRUSY"!!!
+ W systemie jest wiele aplikacji typu SFX, które mogą podnosić alarm głupich antywirusów, tu jest skan jednej z grup tych plików:klik
+Wolę ostrzec bojaźliwych ;)
+
+W laptopach może pojawić się problem z błędnie wyświetlanymi znakami z klawiatury
+ - wystarczy wtedy wcisnąć równocześnie klawisze FN razem z NumLock
+ Porada dla GRACZY - aby nie było spadku wydajności w wymagających grach, przed ich uruchomieniem należy z Menu Start wybrać powłokę Classic lub 2000

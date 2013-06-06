@@ -1,0 +1,47 @@
+General
+
+Complete name                            : Falco - Naked
+Format                                   : Matroska
+File size                                : 103 MiB
+Duration                                 : 3mn 46s
+Overall bit rate                         : 3 805 Kbps
+Writing application                      : mkvmerge v5.6.0
+
+Video
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3mn 46s
+Bit rate                                 : 3 089 Kbps
+Width                                    : 692 pixels
+Height                                   : 572 pixels
+Display aspect ratio                     : 1.290
+Frame rate mode                          : Variable
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.312
+Stream size                              : 83.4 MiB (81%)
+Writing library                          : x264 core 120
+
+
+Audio
+                                       
+Format                                   : AC-3
+Duration                                 : 3mn 46s
+Bit rate mode                            : Constant
+Bit rate                                 : 640 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 17.3 MiB (17%)
+Language                                 : English

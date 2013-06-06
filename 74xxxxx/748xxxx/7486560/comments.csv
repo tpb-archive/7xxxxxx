@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,skoxpress,2012-07-30T06:46Z,"I guess I just don't get it. All the .obj's say 
+""For use with trapcode form"". Some pretty cool textures, though. "
+,almostD,2012-07-30T10:57Z,"Have you tried with Element 3D plugin for After Effects?
+
+videocopilot.net
+"
+,skoxpress,2012-07-30T13:42Z,"No, I didn't. Imports fine into E3D.
+
+ So, you map them in Max (or whatever) 1st ? I would have thought you could import the .e3d file."
+,almostD,2012-07-30T14:14Z,"So you say you can't use my e3d files? You had to remap them inside Element or they are ready?
+
+I usually open max or 3ds files I find on the net, convert them in obj and use them in Element. If there's a problem, I open it inside cinema 4d and save the file as c4d project, then you can open it inside Element. Usually I have to tweak the models, delete skeleton or create more material cause the models are offten too confuse or bad organized so you can't use them like that inside Element. In this case, somebody else has extracted the files from the game, I just opened them inside Element and selected the maps. Maps were already with the max files.
+
+In max you can import obj files and they should work. Don't ask me how to import textures, I'm not a Max expert. Anyway, most of the models you find on the net are for max, so you should rather have to convert them to Element more then the opposite."
+,skoxpress,2012-08-01T16:34Z,"The models import into E3D plain white and there are slots to drag and drop the maps into. These work perfectly and look great! Thanks, D."
+,skoxpress,2012-08-03T13:13Z,"Another thing to try is setting your UAC to ""Never""."
+,skoxpress,2012-08-03T13:14Z,oops- wrong place.

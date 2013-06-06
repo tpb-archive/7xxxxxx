@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,faisal86,2012-08-02T20:50Z,hey how to speed up torrent 
+,ryzy,2012-08-02T20:57Z,If you have green icon in right bottom everything is ok. But if there is another one you have problem nd probably you must configure your utoreent client and router or lan if you use one.
+,faisal86,2012-08-02T21:02Z,how to setup torrent so dat it give speed
+,faisal86,2012-08-02T21:03Z,m using lan connection and its 1 mb plan but the speed it give is just 80 kb some time it give green and some time not
+,faisal86,2012-08-02T21:09Z,i am new too utorrent 
+,ryzy,2012-08-02T22:02Z,if lan from another pc ask administrator about Nat/pat he should know 
+,ryzy,2012-08-02T22:03Z,Administrator should set redirecting port (the same you are using in utorrernt - check properties) to your pc
+,thecats2011,2012-08-02T23:49Z,okay . i dont know but this torrent doesnot seem to be getting seeding . i am gonna try the old torrent 
+,ryzy,2012-08-03T11:11Z,I am seeding  all the time since uploaded
+,faisal86,2012-08-03T20:06Z,"what i need to do in property
+and i heard dat we need to do port forwarding wats dat?"
+,ryzy,2012-08-04T11:54Z,"You must find your lan tcp/ip settings and set it  steady.
+http://bayimg.com/FaAnaAAel
+I can't explain how to get it because i depends on system and i don,t know how exactly it is in english
+Instead of 192.16.1.237 you can set 192.168.1.x where x is 2-255 the rest like in the picture. 
+You lso have port to connect others in utorrent. Go to utorrent poperties and connection. Port should be number from 10000 to 65536.
+
+If you have lan - you can,t do redirecting by yourself. Administator must do it.
+
+But if have router go to settings. (Most cases - open browser and type 192.168.1.1) nd find something like nat/pat and create new rule.
+Ip. The same you set in lan settings,
+port the same you have in utorrent,
+method/protocol both or if can set both - set two seperate rules for tcp and udp
+
+I hope it help"
+,ryzy,2012-08-04T11:56Z,Of course i you have any problems write i will try help you
+,ryzy,2012-08-06T21:10Z,"I have modern warfare 3 on dvd5 (4,28 GB)  I will release it as soon as i finish testing"
