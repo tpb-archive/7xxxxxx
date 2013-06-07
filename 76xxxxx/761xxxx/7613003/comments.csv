@@ -1,0 +1,112 @@
+﻿User Type,Username,Date,Text
+,mrmagoo25,2012-09-08T22:19Z,Anybody seeding this?
+,korea_win,2012-09-09T06:31Z,"Here is some correction for method of SPB 16.5.0028 hotfix.
+I'm very sorry for any inconvenience.
+
+  1.Stop licence manager(go to Start - Programs -Cadence - License Manager -LmTools and click on the ""Stop server"" button in the Start/Stop/Reread tab)
+   and Stop process cdsNameServer.exe, if it exists.
+(point to cdsnameserver.exe click ""end process"" button in Windows Task Manager[invoked by ctrl+alt+del])
+Go to control panel-administrative tools-services and locate ""Cadence License Manager"", Change its Status to ""disable""
+
+2.Rename installed directory (c:/Cadence/SPB_16.5) to any name(ex.c:/Cadence/SPB_16.5_temp)
+
+  3.Create a new directory (c:/Cadence/SPB_16.5)
+
+  4.Copy compnts.dat file (c:/Cadence/ SPB_16.5_temp/compnts.dat) to empty directory where hotfix will be installed (c:/Cadence/SPB_16.5)
+
+  5.Run a executable file of ""Hotfix_SPB16.50.028_wint_1of1.exe""
+
+  6.After hotfix is completed,(it'll take quite long)Copy 3 files (pubkey, pubkey.exe, Tools.cmd) from ""c:/Cadence/SPB_16.5_temp/tools"" to a directory named ""tools"" of hotfix installed (c:/Cadence/SPB_16.5/tools) 
+
+  7.Run ""Tools.cmd"" on the a directory named ""tools"" of installed hotfix (c:/Cadence/SPB_16.5/tools)
+
+  8.Transfer the whole contents(including all of its subdirectory) in the (c:/Cadence/SPB_16.5) to (c:/Cadence/SPB_16.5_temp) by drag&drop or any method
+
+  9.Rename c:/Cadence/SPB_16.5 to any names or just delete this directory and restore ""c:/Cadence/SPB_16.5_temp"" to its original name (c:/Cadence/SPB_16.5)
+
+ 10.Go to control panel-administrative tools-services and locate ""Cadence License Manager"", Change its Status to ""automatic"" and ""Restart the service"""
+,korea_win,2012-09-09T06:35Z,"Here is some correction for method of SPB 16.5.0028 hotfix.
+I'm very sorry for any inconvenience.
+
+  1.Stop licence manager(go to Start - Programs -Cadence - License Manager -LmTools and click on the ""Stop server"" button in the Start/Stop/Reread tab) and Stop process cdsNameServer.exe, if it exists.
+(point to cdsnameserver.exe click ""end process"" button in Windows Task Manager[invoked by ctrl+alt+del])
+Go to control panel-administrative tools-services and locate ""Cadence License Manager"", Change its Status to ""disable""
+
+ 2.Rename installed directory (c:/Cadence/SPB_16.5) to any name(ex.c:/Cadence/SPB_16.5_temp)
+
+  3.Create a new directory (c:/Cadence/SPB_16.5)
+
+  4.Copy compnts.dat file (c:/Cadence/ SPB_16.5_temp/compnts.dat) to empty directory where hotfix will be installed (c:/Cadence/SPB_16.5)
+
+  5.Run a executable file of ""Hotfix_SPB16.50.028_wint_1of1.exe""
+
+  6.After hotfix is completed,(it'll take quite long)Copy 3 files (pubkey, pubkey.exe, Tools.cmd) from ""c:/Cadence/SPB_16.5_temp/tools"" to a directory named ""tools"" of hotfix installed (c:/Cadence/SPB_16.5/tools) 
+
+  7.Run ""Tools.cmd"" on the a directory named ""tools"" of installed hotfix (c:/Cadence/SPB_16.5/tools)
+
+  8.Transfer the whole contents(including all of its subdirectory) in the (c:/Cadence/SPB_16.5) to (c:/Cadence/SPB_16.5_temp) by drag&drop or any method
+
+  9.Rename c:/Cadence/SPB_16.5 to any names or just delete this directory and restore ""c:/Cadence/SPB_16.5_temp"" to its original name (c:/Cadence/SPB_16.5)
+
+ 10.Go to control panel-administrative tools-services and locate ""Cadence License Manager"", Change its Status to ""automatic"" and ""Restart the service"""
+,korea_win,2012-09-09T06:43Z,"Here is some correction for method of SPB 16.5.0028 hotfix.
+I'm very sorry for any inconvenience.
+
+  1.Stop licence manager(go to Start - Programs -Cadence - License Manager -LmTools and click on the ""Stop server"" button in the Start/Stop/Reread tab)
+   and Stop process cdsNameServer.exe, if it exists.
+(point to cdsnameserver.exe click ""end process"" button in Windows Task Manager[invoked by ctrl+alt+del])
+Go to control panel-administrative tools-services and locate ""Cadence License Manager"", Change its Status to ""disable""
+
+2.Rename installed directory (c:/Cadence/SPB_16.5) to any name(ex.c:/Cadence/SPB_16.5_temp)
+
+  3.Create a new directory (c:/Cadence/SPB_16.5)
+
+  4.Copy compnts.dat file (c:/Cadence/ SPB_16.5_temp/compnts.dat) to empty directory where hotfix will be installed (c:/Cadence/SPB_16.5)
+
+  5.Run a executable file of ""Hotfix_SPB16.50.028_wint_1of1.exe""
+
+  6.After hotfix is completed,(it'll take quite long)Copy 3 files (pubkey, pubkey.exe, Tools.cmd) from ""c:/Cadence/SPB_16.5_temp/tools"" to a directory named ""tools"" of hotfix installed (c:/Cadence/SPB_16.5/tools) 
+
+  7.Run ""Tools.cmd"" on the a directory named ""tools"" of installed hotfix (c:/Cadence/SPB_16.5/tools)
+
+  8.Transfer the whole contents(including all of its subdirectory) in the (c:/Cadence/SPB_16.5) to (c:/Cadence/SPB_16.5_temp) by drag&drop or any method
+
+  9.Rename c:/Cadence/SPB_16.5 to any names or just delete this directory and restore ""c:/Cadence/SPB_16.5_temp"" to its original name (c:/Cadence/SPB_16.5)
+
+ 10.Go to control panel-administrative tools-services and locate ""Cadence License Manager"", Change its Status to ""automatic"" and ""Restart the service"""
+,korea_win,2012-09-11T02:19Z,"I encountered a torrent which contains executable patch files and by using this pacth file I found a easy solution for cracking license with appling 16.5.0028 hotfix.
+
+1.Download patch.exe from below URLS
+
+http://www.jheberg.net/captcha/eBXDgP-patcher-exe
+
+2.Mount ""Cadence_SPB_165.iso"" and 
+Open setup.exe or autorun
+
+3.Install License Manager (License Manager)
+when asked for a License File, cancel it.
+
+4.Install Orcad (Product Installation)
+
+5.Install HDL-AMS Library (HDL-AMS Library.exe)
+
+6.Install Hotfix SPB16.50.028 Update
+RUN Exe files ""Hotfix_SPB16.50.028_wint_1of1.exe""
+
+7.Run PATCHER.exe which You just downloaded as Administrator and 
+Click on README 1ST and just follow the Patcher Steps
+
+(1).Patch Program & wait...
+
+(2).Patch License Manager & wait...
+
+(3).Save License File
+
+8.Add a user environment variable (Control Panel -System -Advanced -Environment Variables)
+   variable name : CDS_LIC_FILE
+   variable value  :C:/Cadence/LicenseManager/license.dat
+
+9.Run LicenseServerConfiguration.exe located at C:CadenceLicenseManager and
+open license.dat located at the same folder then 
+
+10.RUN LicenseClientConfiguration.exe and click Next"

@@ -1,0 +1,32 @@
+Torrent Originally Created by Niresh12495
+
+
+
+
+
+Instructions:-
+
+Burn The ISO to a DvD Then boot From it
+and Don't Forgot to Edit The Bios Settings
+SATA as AHCI
+ACPI as S3
+LegacyUSB as ON
+UEFI Boot to OFF (In Some MotherBoards it May Cause to Stuck on Boot0 Error)
+and Remove All Unnecessary USB Devices Except KB and Mouse
+Installing on an External Volume Will Probably Fail Because External Volumes are Now Owned by Root
+
+This Distro Support MBR so You Can Erase The First Partiton as "Mac OS X Extended (Journaled)"
+and Install Without Wiping The Entire Partition
+
+It is Better to try USB Installation
+
+Hp Laptop Users Type
+"Kernel Cache"=/hp -v
+Before Booting
+
+Atom Users type
+"Kernel Cache"=/atom -v
+Before Booting
+
+Warning
+Do Not Select Any FakeSMC Plugins

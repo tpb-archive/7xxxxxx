@@ -1,0 +1,37 @@
+Follow my uploads here:                        
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                         
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+You don't need a task killer. But you do need a way to make sure a background app doesn't lose control and eat up all your CPU. Watchdog monitors your apps and alerts when one loses control, allowing you to kill just that single app.
+
+What's in this version : (Updated : Feb 6, 2012)
+
+    Fixed single alert option.
+    Fixed translation where Estonian was showing up while phone was set to English.
+    Collection of fixes for crashes reported by users
+    Last major update for 1.5 users. The app will remain available, but new UI features will require 1.6 or above.
+
+Killing apps blindly can cause them to stop working as designed, and most app developers won't even take a bug report from you if you are using a task killer!
+
+From Android 2.2 on, the kill command works only on background apps, and they will likely restart immediately. Watchdog removes the app immediately from the list, since there isn't feedback about whether it was successful. Having lots of apps running doesn't hurt your phone at all unless they are doing something. In fact, killing an app and having it immediately restart simply consumes your phones resources. If you just leave the apps running, they will start immediately when you want to go back to it.
+
+The paid version has all the features of the lite, removing the ads, while adding a ΓÇ£blacklistΓÇ¥ feature. This allows you to pick a single app that is constantly misbehaving and assign a CPU % threshold to it. When that app exceeds the threshold, it will be automatically killed.
+
+So stop blindly killing all your apps; be smart by managing them instead. Good for all versions of Android.
+
+Please note that due to the nature of this app, it is hard to decide about a refund within 15 minutes. You can contact us from Google Checkout or via email within 48 hours for a full refund.
+
+NOTE:
+There is an Android issue where Watchdog might crash upon launching after an upgrade. It seems to be related to the upgrade of the app while the old version happens to be executing in the background. It doesn't affect your phone's operation at all. If this happens, re-launch and goto the menu and hit restart for proper monitoring.
+
+
+                                By bobiras2009		

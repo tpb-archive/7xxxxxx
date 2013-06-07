@@ -1,0 +1,54 @@
+Novicorp WinToFlash 0.7.0054 beta
+
+
+What is WinToFlash
+There may come a day that optical drives are as hard to find as 5.25 floppy drives are today.
+
+WinToFlash starts a wizard that will help pull over the contents of a windows installation CD or DVD and prep the USB drive to become a bootable replacement for the optical drive. It can also do this with your LiveCD.
+
+You don't have to worry about scratches on the disc or misplacing your original media discs once you transfer their contents to the flash drive. The optical drive is quickly becoming a thing of the past, especially in office environments, as media is shifted to the cloud.
+
+Best video tutorial from user 
+
+
+ Novicorp WinToFlash validates:
+
+Windows XP/2003 x86
+I386dosnet.inf
+I386eula.txt
+I386txtsetup.sif
+I386dosnet.inf
+
+Windows XP/2003 x64
+AMD64dosnet.inf
+AMD64eula.txt
+AMD64txtsetup.sif
+AMD64dosnet.inf
+
+Windows XP/2003 PE x86
+I386SYSTEM32hal.dll
+I386SYSTEM32kernel32.dll
+I386ntdetect.com
+I386setupldr.bin
+
+Windows Vista/2008/7 x86 x64
+sourceslicense_default_defaultultimatelicense.rtf *or* sourceslicense_default_defaultserverenterpriselicense.rtf
+sourcesinstall.wim
+sourcesboot.wim
+sourcesproduct.ini
+sourcesidwbinfo.txt
+bootmgr
+folder boot
+
+Windows Vista/2008/7 PE x86 x64
+sourcesboot.wim
+bootmgr
+folder boot
+
+Windows XP/2003 Emergency bootloader x86 x64
+I386ntldr
+I386ntdetect.com
+
+MS-DOS
+IO.SYS
+MSDOS.SYS

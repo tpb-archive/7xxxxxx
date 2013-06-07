@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,MP4SUX,2012-09-17T17:38Z,"Screwed up the audio sync.
+I'll upload the corrected version.
+
+You can fix this yourself. Get VirtualDub, load in this file,
+click on ""video"" and select ""direct stream copy""
+click on ""video"" and select ""frame rate""
+Click ""change to"" end enter 23.976 and click ""OK""
+Click on ""file"" and select ""save as avi""
+Enter a slightly different filename or save to a different folder (so it doesn't try to
+write over itself). The resulting file will run correctly."

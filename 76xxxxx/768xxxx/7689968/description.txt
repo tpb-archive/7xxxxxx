@@ -1,0 +1,50 @@
+Dexter, Season 7, Episode 1 - "Are You...?" (9/30/2012)
+(720p, 60FPS, H264, VBR, MP4/TS, AAC)
+
+
+
+NOTES
+--------------------------------------------------
+-Make sure you have a powerful PC capable of decoding h.264 at 60FPS in 720p. This does require a bit of power, and your typical old laptops and such are not the best. With the proper codecs and players, it's been reported people with at least 4GB RAM and 2.1GHz dualcore processors watch these files without much of a problem.
+
+-Always use Windows Media Player for MY 60FPS files. Or you can also try Media Player Classic Home Cinema. Just make sure you have Shark007's codec pack installed and LAV is currently being used if you are relying on a codec pack at all. Check the box for "Suggested Settings" after installing to activate LAV support.
+
+-MAC users may want to try the Perian codec with Quicktime or NicePlayer. Linux users should use MPlayer. For both, MAC and Linux, VLC may be your best choice if the suggested players and codecs do not work.
+
+-If you have issues playing this on your PS3 or Xbox 360, try renaming the file extension from .mp4 to .mpg or .mpeg. This is said to work, though not personally tested. Leave feedback if this method works.
+
+-There will be no problems if you follow these tips and if there is a problem, your system simply cannot handle it. These files are ripped and made for high-spec systems and are originally .ts(Transport Stream) files with the extension changed to .mp4(MPEG-4). You can change it back at any time to .TS to play it as it was originally ripped.
+
+
+SIDENOTE
+--------------------------------------------------
+As a professional encoder on the side of my simple TV rips and being in the encode scene for so many years while even creating Taka Fansubs (http://www.TakaFansubs.com), I've come to my conclusion in the notes above for reasons, and I will rank popular playback options below from top to bottom, best to worst.
+
+CODEC PACKS: 
+#1. Shark007(with suggested settings used that utilize LAV.)
+#2. CCCP(with FFDShow H264 decoding disabled, replaced with CoreAVC, which also needs to be downloaded and installed separately.)
+#3. K-Lite(I wouldn't bother even trying it.)
+
+VIDEO PLAYERS: 
+#1. MPC-HC(with LAV manually selected in the player's decoder section located in the options after Shark007 is installed.)
+#2. MPC(with Shark007 codec pack installed on system using the suggested settings in Shark007, utilizing LAV.)
+#3. VLC(only good as a backup player, but has far too many issues to name.)
+
+
+USEFUL LINKS
+--------------------------------------------------
+
+Shark007:   
+MPC-HC:      http://mpc-hc.sourceforge.net/
+VLC:         http://www.videolan.org/vlc/index.html
+CCCP:        http://cccp-project.net/
+Perian:      http://perian.org/
+NicePlayer:  http://code.google.com/p/niceplayer/downloads/list
+K-Lite:      http://codecguide.com/download_kl.htm
+CoreAVC:     http://thepiratebay.se/torrent/6741689
+
+
+
+
+
+

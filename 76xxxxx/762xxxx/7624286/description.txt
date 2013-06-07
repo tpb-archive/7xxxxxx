@@ -1,0 +1,15 @@
+Counter-Strike: Source Update Released
+
+Added a new command "kickall" which kicks all connected clients except for HLTV and the listenserver host if applicable
+Fixed a bug that allowed malicious servers to execute restricted console commands on players
+Fixed a bug that allowed malicious servers to prevent players from executing console commands
+Updated Steam binaries; fixes Linux crash on shutdown or restart
+Performance improvements
+
+Screenshots: 
+http://img.zcs.lt/pt/T6YA/css_arch.html 
+http://img.zcs.lt/pt/FO26/css_find.html 
+http://img.zcs.lt/pt/7UKL/css_on.html 
+http://img.zcs.lt/pt/8L0O/css_on2.html 
+http://img.zcs.lt/pt/5F5Q/css_opt.html 
+http://img.zcs.lt/pt/6HBU/css_updater.html

@@ -1,0 +1,38 @@
+Book Description
+
+Pro Java 7 NIO.2 addresses the three primary elements that offer new input/output (I/O) APIs in Java 7, giving you the skills to write robust, scalable Java applications:
+
+An extensive file I/O API system addresses feature requests that developers have sought since the inception of the JDK
+A socket channel API addresses multicasting, socket binding associated with channels, and related issues
+An asynchronous I/O API enables mapping to I/O facilities, completion ports, and various I/O event port mechanisms to enhance scalability
+
+NIO.2 for the Java platform, known as JSR 203, is a major feature of the new Java JDK 7 under the leadership of Alan Bateman as an OpenJDK project. Take advantage of these exciting new developments with Pro Java 7 NIO.2.
+What youΓÇÖll learn
+
+How to carry out Path class operations
+How to get/set file metadata through the java.nio file attribute API (including POSIX)
+How to manage symbolic and hard links (including create, delete, and find target)
+How to deal with files and directories through the new java.nio.file.Files API
+How to use the FileVisitor API to develop file recursive operations
+How to explore the Watch Service API and file change notification
+How to use the new SeekableByteChannel API for Random Access File
+How to develop blocking/non-blocking socket-based applications
+How to explore the jewel of NIO.2: the Asynchronous Channel API
+How to use the Zip File System Provider and write a custom file system provider
+How to refactor java.io.File code
+
+Who this book is for
+
+This book is for experienced Java programmers new to Java 7 and those with some experience with Java 7.
+Table of Contents
+
+Working with the Path Class
+Metadate File Attributes
+Symbolic Links
+Files and Directories
+The FileVisitor Class: Recursive Operations
+Watch Service API
+Two Security Models
+SPI Package
+Mapping java.io.file Functionality to java.nio.file
+General Methods

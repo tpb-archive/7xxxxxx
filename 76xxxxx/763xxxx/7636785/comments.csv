@@ -1,0 +1,87 @@
+﻿User Type,Username,Date,Text
+[T],T.F.K,2012-09-14T23:43Z,SEED and ENJOY by T.F.K team 
+,h_p_7,2012-09-16T20:23Z,"When I open, it shows ubisoft animation and then it gives Critical Error. What should I do ? Please help. Thanks."
+,h_p_7,2012-09-16T20:47Z,"Critical error
+
+General protection fault
+
+History:
+
+Stack:
+Address=0x10c6ef10a(Filename not found)"
+,h_p_7,2012-09-16T21:18Z,"I deleted game folder, reinstalled the game, and the problems is fixed ! Thank you so much for the game ! I was looking forward to this ! GAME WORKS !!!"
+,Dimmis80,2012-09-21T10:34Z,"Hey guys.Now i have 2 questions.Can i somehow disable the visual effect like fog-Grainy or something that we can see inside the game.!I think u guys know what i am talkng about and there is no option in the options menu like in other games that u can disable it.!?And is this game in black and white like i saw in the begining of the game or is something going on with my Card drivers or something.??I have an Nvidia GTX 570 and all of my other games play awesome with color and stuff in ultra high that i am playing in 1680x1050 on a 22"" and i am cool.Only this game play in this black and white but now i thinking about i believe that is games thing.???"
+,hd4250,2012-09-23T07:09Z,"@ Mr. T.F.K
+You have stolen KaOs RIP and then fucked it up really bad. Your unpack.bat file doesn't even start coz U have wrongly placed the unpacker configuration files in tools folder. Even on transferring these files to main folder where setup.bat file is there, the unpacker starts but never instals the game completely (1.7gb). The CMD Window shows an error that some data file not found and then starts decompressing the other file. The launcher.exe does not work and IAMalive_game.exe terminates after showing Ubisoft video (after that there is no video only sound, then critical error Critical error....
+
+General protection fault
+History:
+Stack:
+Address=0x10c6ef10a(Filename not found)
+
+I deleted game folder, reinstalled the game several times and same error every damn fucking time.
+I am not a newbie to this kind of stuff as I have already installed and played several of KaOs RIPs without any problems but this is a case of REALLY FUCKED UP BADASS TORRENT.
+YOU HAVE REALLY FUCKED THIS UP.
+WASTE OF BANDWIDTH....I should have better downloaded the original KaOs RIP."
+,hd4250,2012-09-23T07:11Z,"@ Mr. T.F.K
+You have stolen KaOs RIP and then fucked it up really bad. Your unpack.bat file doesn't even start coz U have wrongly placed the unpacker configuration files in tools folder. Even on transferring these files to main folder where setup.bat file is there, the unpacker starts but never instals the game completely (1.7gb). The CMD Window shows an error that some data file not found and then starts decompressing the other file. The launcher.exe does not work and IAMalive_game.exe terminates after showing Ubisoft video (after that there is no video only sound, then critical error Critical error....
+
+General protection fault
+History:
+Stack:
+Address=0x10c6ef10a(Filename not found)
+
+I deleted game folder, reinstalled the game several times and same error every damn fucking time.
+I am not a newbie to this kind of stuff as I have already installed and played several of KaOs RIPs without any problems but this is a case of REALLY FUCKED UP BADASS TORRENT.
+YOU HAVE REALLY FUCKED THIS UP.
+WASTE OF BANDWIDTH....I should have better downloaded the original KaOs RIP."
+[T],T.F.K,2012-09-25T19:01Z,"@hd4250
+Bro this game works very good,and this is not KaOs RIP,uploader named gansuk upload KaOs things,so you have very bad problems with your brain,rest in peace hater and TROLL!T.F.K team :)"
+,hd4250,2012-09-26T00:31Z,"@ T.F.K
+You are just a group of IMMATURE Repackers who get intimidated and baffled by CONSTRUCTIVE CRITICISM. If your RIP is incomplete and deficient modification of KaOs repack, then what's the problem in accepting it...? Even a moron could tell that it is a KaOs RIP. You, if you open the ""~UnPack~.bat"" file in text editor you could clearly see that the commands instruct the unpacker module to First unpack the ""KaOs-Krew.000"" file and then unpack the ""KaOsKrew.001"" file and then other files like KaOsKrew.pcf etc are executed .
+You simply renamed the [TITLE] header of ""~UnPack~.bat"" file by replacing [KaOs] by [THERAIN]. 
+
+Now the MISTAKE that you made was that : YOU FORGOT TO INCLUDE THE DATA FILE NAMED ""KaOs-Krew.000"" 
+and did'nt even care to delete the instruction that calls for unpacking this file in the ""~UnPack~.bat"" file. That's 
+why the setup is incomplete. SEE BELOW :
+
+ExtrasToolsKaOsUnPak x -wExtrasTools -y KaOs-Krew.000
+Del KaOs-Krew.* >NUL......(where the fuck is KaOs-Krew.000 file)
+
+See the full code :
+@ECHO OFF
+TITLE [THERAIN] Rebuilding Game Data Please Be Patient...
+
+ExtrasToolsKaOsUnPak x -wExtrasTools -y KaOs-Krew.000
+Del KaOs-Krew.* >NUL
+
+ExtrasToolsKaOsArc x -wExtrasTools -o+ KaOsKrew.001
+Del KaOsKrew.001 >NUL
+
+ExtrasToolsKaOsRep -d KaOsKrew.rep KaOsKrew.pcf
+Del KaOsKrew.rep >NUL
+
+ExtrasToolsKaOsCmp -r -oKaOsKrew.002 KaOsKrew.pcf
+Del KaOsKrew.pcf >NUL
+
+ExtrasToolsKaOsArc x -wExtrasTools -o+ KaOsKrew.002
+Del KaOsKrew.002 >NUL
+
+RD /S /Q ExtrasTools
+cls
+Echo.
+Echo     Installing DirectX, VCRedist - Please Wait
+extrasdxwebsetup.exe /q
+extrasvcredist_x86_2010.exe /q
+Echo     Installed Have Fun Playing - KaosKrew
+PAUSE >nul
+Del *.bat
+
+YOU EVEN FORGOT TO ADD THE .exe extension to terms like KaOsArc, KaOsRep, KaOsCmp, KaOsArc etc.
+In the last comment in code (Echo     Installed Have Fun Playing - KaosKrew) you didn't even cared to remove the name
+name KaOsKrew.
+Although YOU DID A GREAT EFFORT TO REPACK THE GAME (Thanks in Advance to You as an uploader) but YOUR 
+UNACCEPTENCE TO POSITIVE CRITICISM (Highliting the follies) is simply IMMMATURISH.....(GROW UP...!!!)"
+,hd4250,2012-09-27T02:45Z,"@ T.F.K
+Downloaded the original KaOs RIP and it worked flawlessly. 
+When KaOs-Krew.000 file from  KaOs RIP (that was missing in your RIP) was added to your unzipped repack even it worked nice.."

@@ -1,0 +1,19 @@
+Book Description
+
+Over 100 recipes to successfully set up and manage your OpenStack cloud environments with complete coverage of Nova, Swift, Keystone, Glance, and Horizon
+
+Learn how to install and configure all the core components of OpenStack to run an environment that can be managed and operated just like AWS or Rackspace
+Master the complete private cloud stack from scaling out compute resources to managing swift services for highly redundant, highly available storage
+Practical, real world examples of each service are built upon in each chapter allowing you to progress with the confidence that they will work in your own environments
+
+In Detail
+
+OpenStack is an open Source cloud operating stack born from Rackspace and NASA which is now a global success, developed and supported by scores of people around the globe and backed by some of the leading players in the cloud space today.
+
+OpenStack Cloud Computing Cookbook will show you exactly how to install the components that are required to make up a private cloud environment. You will learn how to set up an environment that you manage, just as you would do with AWS or Rackspace.
+
+The Cookbook starts by configuring Nova (Compute) and Swift (Storage) in a safe, virtual environment that builds on through the book, to provisioning and managing OpenStack in the Datacenter.
+
+From Installing Nova in a Virtual Environment to installing OpenStack in the Datacenter, from understanding logging to securing your OpenStack environment, whatever level of experience or interest you have with OpenStack there are recipes that guide you through the journey. Installation steps cover Compute, Swift, Keystone, Nova Volumes, Glance and Horizon.
+
+OpenStack Cloud Computing Cookbook gives you clear step-by-step instructions to installing and running your own private cloud successfully. It is full of practical and applicable recipes that enable you to use the latest capabilities of OpenStack and implement them. 

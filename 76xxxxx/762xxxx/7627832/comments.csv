@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,TPBrullz,2012-09-21T15:54Z,"can't use serial... can never use it, what are u doing that we're doing wrong?"
+,weissjt,2012-09-24T00:51Z,You have to block www.mirillis.com in your hosts file before install.
+,2010kaiser,2012-09-27T18:55Z,"1. disconnect Internet.
+2. Install.
+3. Don't open. Block the application with your firewall.
+
+A. To add rules to the firewall in Windows 7 :
+
+Start/Control Panel/Windows Firewall.
+On the left select ""Advanced Settings"" 
+Then select ""Outbound Rule"".
+Then select ""New Rule"" 
+Then select ""Program"" 
+Then select ""Browse"" to choose the location of the programs .exe's
+
+C: Program Files (x86) Mirillis Action Action.exe
+
+Click Next and then Select Block the connection and then click Next.
+Make sure domain, private, public are selected.
+
+  Click Next and then give a name to the new rule and then click ""Finish"".
+
+repeat process for any other .exe's in the program folder."
+,BySenzati,2012-09-29T08:15Z,"Block internet connection
+Install
+Use the name[or your name]and key to activate.
+Disable  Check for update
+Enable internet connection"
+,BySenzati,2012-10-01T13:43Z,"Block internet connection
+ Install
+ Use the name[or your name]and key to activate.
+ Disable Check for update
+ Block with Firewall
+ Enable internet connection"
+,blackisout,2012-10-03T12:29Z,seed pls

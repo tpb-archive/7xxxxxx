@@ -1,0 +1,45 @@
+VHS Rip : English, 89mins. This is a redo of my torrent, to reduce file size.
+
+Please Note: Intermittent flickers early, caused by my vid card, not bad, very watchable, gets better after the beginning.
+
+Three Kids and A Queen - 1935
+
+Featuring May Robson, Frankie Darro, Billy Burrud, William 'Billy' Benedict, Henry Armetta & Herman Bing.
+
+This is Billy's 1st year in the movies, he is eighteen. Frankie Darro is 17 and a veteran at this stage in comparison. Child star Billy Burrud is 10.
+
+This film was released 21 Oct 1935, the Dead End Kids would open one week later on 28 Oct 1935 at the Belasco Theatre in Dead End.
+
+Film is set in the Hell's Kitchen area of NYC, you will hear it mentioned several times. The review on IMDB is good, a Frank Capra-like feel good film, complete.
+Henry Armetta from You're Not So Tough is featured also and you will recognize the voice immediately, nice part, a really good flick.
+  
+http://www.imdb.com/title/tt0027096/
+
+Please visit http://www.frankiedarro.com/ for more info on Frankie, the biography link is interesting/sad/complete, great web site.
+		
+
+[11:03:19] job configuration: Handbrake 9.3
+[11:03:19]  * source
+[11:03:19]    + C:Three KidsVIDEO_TS
+[11:03:19]    + title 1, chapter(s) 1 to 2
+[11:03:19]  * destination
+[11:03:19]    + C:Documents and SettingsDead End KidsMy DocumentsThree Kids.mkv
+[11:03:19]    + container: Matroska (.mkv)
+[11:03:19]      + chapter markers
+[11:03:19]  * video track
+[11:03:19]    + decoder: mpeg2
+[11:03:19]      + bitrate 7178 kbps
+[11:03:19]    + frame rate: same as source (around 23.976 fps)
+[11:03:19]    + strict anamorphic
+[11:03:19]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[11:03:19]      + pixel aspect ratio: 8 / 9
+[11:03:19]      + display dimensions: 640 * 478
+[11:03:19]    + encoder: x264
+[11:03:19]      + options: ref=2:bframes=2:me=umh
+[11:03:19]      + bitrate: 307 kbps, pass: 2
+[11:03:19]  * audio track 0
+[11:03:19]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[11:03:19]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[11:03:19]    + mixdown: Stereo
+[11:03:19]    + encoder: faac
+[11:03:19]      + bitrate: 160 kbps, samplerate: 48000 Hz

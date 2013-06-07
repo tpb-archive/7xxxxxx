@@ -1,0 +1,43 @@
+VHS rip English. This is a redo of my other torrent, to reduce file size.
+
+Please Note: Crappy vhs equals intermittent brief distortion flickers in spots courtesy of my vid card, not too too bad. Additionally, the picture clarity is fairly poor, faces at distance are blurs. Other that that ; ) Not too bad, complete.
+
+For the fan who has never seen it.
+
+the Little Tough Guys in Newsboys' Home - 1938
+
+A very different film, murder mystery/newspaper circulation war. Today, newspapers are going out of business as technology pushes onward.
+
+Featuring Elisha Cook Jr. as Danny, leader of the LTGs, David Gorcey, Billy Benedict, Harris Berger, Hally Chester & Charles Duncan.
+
+Also featuring Jackie Cooper as Rifle, who soon takes over.
+
+In memory of Jackie Cooper.
+  
+http://www.imdb.com/title/tt0031720/	
+
+[10:29:10] job configuration:
+[10:29:10]  * source
+[10:29:10]    + C:Newsboys' HomeVIDEO_TS
+[10:29:10]    + title 1, chapter(s) 1 to 1
+[10:29:10]  * destination
+[10:29:10]    + C:Documents and SettingsDead End KidsMy DocumentsMy VideosNewsboys' Home.mkv
+[10:29:10]    + container: Matroska (.mkv)
+[10:29:10]      + chapter markers
+[10:29:10]  * video track
+[10:29:10]    + decoder: mpeg2
+[10:29:10]      + bitrate 8000 kbps
+[10:29:10]    + frame rate: same as source (around 23.976 fps)
+[10:29:10]    + strict anamorphic
+[10:29:10]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[10:29:10]      + pixel aspect ratio: 8 / 9
+[10:29:10]      + display dimensions: 640 * 478
+[10:29:10]    + encoder: x264
+[10:29:10]      + options: ref=2:bframes=2:me=umh
+[10:29:10]      + bitrate: 305 kbps, pass: 2
+[10:29:10]  * audio track 0
+[10:29:10]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[10:29:10]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[10:29:10]    + mixdown: Stereo
+[10:29:10]    + encoder: faac
+[10:29:10]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,56 @@
+---------------------------------------------------------------------
+                The Who - Who's Next (2010 SHM-SACD)
+---------------------------------------------------------------------
+
+Artist...............: The Who
+Album................: Who's Next (2010 SHM-SACD)
+Genre................: Rock
+Source...............: SACD
+Year.................: 1971
+Codec................: Free Lossless Audio Codec (FLAC)
+Version..............: reference libFLAC 1.2.1 20070917
+Quality..............: Lossless, (avg. compression: 63 %)
+Channels.............: Stereo / 88200 HZ / 24 Bit
+Tags.................: VorbisComment
+Information..........: 
+
+Included.............: NFO, MD5, M3U
+
+
+---------------------------------------------------------------------
+                       Tracklisting
+---------------------------------------------------------------------
+
+   1. The Who - Baba O'Riley                                  [05.01]
+   2. The Who - Bargain                                       [05.33]
+   3. The Who - Love Ain't For Keeping                        [02.10]
+   4. The Who - My Wife                                       [03.35]
+   5. The Who - Song Is Over                                  [06.17]
+   6. The Who - Getting In Tune                               [04.49]
+   7. The Who - Going Mobile                                  [03.42]
+   8. The Who - Behind Blue Eyes                              [03.41]
+   9. The Who - Won't Get Fooled Again                        [08.34]
+
+Playing Time.........: 43.26
+Total Size...........: 829,85 MB
+
+NFO generated on.....: 27/06/2011 19.57.38
+
+
+---------------------------------------------------------------------
+Released 	31 July 1971 (2010 Remaster)
+Recorded 	MarchΓÇôMay 1971, Olympic Studios, London
+Genre 	Rock, hard rock[1]
+Length 	43:38
+Language 	English
+Label 	Polydor UIGY 9022
+Producer 	The Who, Glyn Johns (associate producer)
+
+This SACD rip was created using the following process:
+
+1) The ISO image is created using sacd-ripper for PS3 version 0.1.0 Alpha.
+2) The DSDIFF .dff files are extracted from the ISO using Scarletbook version 0.1.0 .
+3) The DSDIFF files are temporarily converted to PCM using Weiss Saracon 1.61-27 with 0db gain.
+4) The DSDIFF are converted to PCM using Weiss Saracon with a clipping-free gain.
+5) The .wav files are trimmed by 0.00057 seconds to remove the static click at the beginning and at the end using SoX.
+---------------------------------------------------------------------

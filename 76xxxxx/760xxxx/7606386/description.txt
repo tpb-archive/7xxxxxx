@@ -1,0 +1,25 @@
+What is new in Release 14.3
+
+- mp3 able to read / write v2.4 tags
+- mp3 decoder faster at decoding
+- mp3 Lame updated to 3.99.5
+- Versions for bundled codecs linked to dBpoweramp release
+- dbshell and other shell DLLs - code signed
+- mp3 Lame possible to supply custom extra cli values, also displays on advanced the final cli
+- FLAC defaults to not map Comment, Conductor, also new TRACKTOTAL and DISCTOTAL tags are written
+- FLAC better handles custom multiple item tag values
+- AIFF able to decode id3v2.4 tags
+- CD Ripper - prevent auto run removed in Windows 7 (not needed any more as cds are not autorun by default)
+- m4a Codec updated, Apple open source codec, improved iTunes tagging
+
+Bug Fixes
+- CD Ripper - code to stop multiple access to drive query at same time
+- CD Ripper - correct musicbrainz ngs mapping ' to '
+- mp3 decoder could lockup with corrupted streams
+- AIFF tag reading (if tag was smaller than chunk)
+- Fixed issue causing BSOD on systems with Intel Storage Matrix driver installed (actually is a bug in Intels driver...)
+- 64 bit tag editor, if file cannot be written then says so
+- Configuration Property Handler, it was still changing the explorer tag pane for disabled extensions
+
+Compatibility:
+Windows 7, Vista and XP Service Pack 2 or newer (64 bit versions included). Linux supported through Wine. Fully Unicode compatible.

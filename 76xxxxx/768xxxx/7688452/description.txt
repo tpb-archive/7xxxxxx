@@ -1,0 +1,57 @@
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 2.20 GiB
+Duration                                 : 2h 54mn
+Overall bit rate                         : 1 801 Kbps
+Encoded date                             : UTC 2012-09-14 19:01:59
+Writing application                      : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 54mn
+Bit rate                                 : 1 416 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 536 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.083
+Stream size                              : 1.69 GiB (77%)
+Writing library                          : x264 core 125 r2200 999b753
+
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 2h 54mn
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 480 MiB (21%)
+Default                                  : Yes
+Forced                                   : No
+
+
+
+Cap: http://i.imgur.com/kPNiC.jpg

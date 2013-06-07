@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+[V],harry711,2012-10-04T07:46Z,"Spamfilter ate the URLs, blah....
+
+Anyways, if you want the webseeded version (you probably do; it's much faster since it downloads off a dedicated server as well as P2P), you should click ""get torrent file"" instead of ""get this torrent"".
+
+If ""get torrent file"" fails for you, download this torrent's hash from the site called ""Torrage"", that should provide you with the webseeded version of the .torrent.."
+,uossef,2012-10-04T07:49Z,thank you
+[V],harry711,2012-10-05T06:47Z,"I (and/or wget) fucked up. I used wget -c (-c command = continues partial downloads) to download the iso, and it said it was fully downloaded by it. So I made the torrent and deleted the iso off my drive to have the webseed do its job. But I now see everyone stuck at 90% or so, and even if I redownload the iso off the official site and try to verify data it does not gain any progress for some reason. :(
+
+Thus this torrent will not be able to finish downloading. I'm sorry, I will try to reupload a new one that works properly, and hopefully find out why wget/Akamai(the .iso's host) did this to me."
+[V],harry711,2012-10-05T08:21Z,"I have fixed the torrent and uploaded it here: https://thepiratebay.se/torrent/7698195/
+
+PLEASE DOWNLOAD FROM THE LINK ABOVE INSTEAD. This torrent is going to be deleted as it does not work. The one above works. Sorry!"

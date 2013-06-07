@@ -1,0 +1,38 @@
+Here is Kielbasa, the first desktop release that comes with Kernel 3.5-4 from towo. Optimized for netbooks, this edition features Chromium as webapp launcher, an unknown developers editor named Textadept, Instantbird as full-featured multi-protocol messenger, a light and bright gtk3 theme from Unia, the new Adobe Source fonts and for the first time gmusicbrowser as music player.
+
+Release notes:
+
+LinuxBBQ 0.3 "Kielbasa" (netbook edition)
+i686, hybird ISO, 456 MB
+
+Notable packages and features:
+
+- Kernel 3.5-4
+- XFCE4.8 + Thunar
+- Docky
+- Chromium web browser
+- web apps to Google services
+- gmusicbrowser
+- Instantbird
+- mplayer2 + GNOME-Mplayer
+- textadept editor
+- Mirage
+- Bleachbit
+- radiotray
+- epdfview
+- full network support (nm & ceni)
+- no CLI apps ;)
+- Adobe Source and Code fonts
+
+Community contributions:
+
+- Gaia theme by Unia
+- bash_aliases, binscripts
+- wallpapers by swftech
+
+Notes:
+
+- designed to run from USB/CD/SSD
+- installation possible, please see README in the home folder
+
+

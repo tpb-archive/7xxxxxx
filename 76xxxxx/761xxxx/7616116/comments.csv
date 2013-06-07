@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,bubba223,2012-09-09T18:49Z,"Thanks, but still getting license check failed even after following instructions to the t.  going back to 0.11 until this gets resolved.  Thanks for trying"
+,jamesensor,2012-09-10T04:55Z,Yep LP isn't working with this yet. I have 0.11.25 working at least.
+[T],bobiras2009,2012-09-10T08:44Z,"@bubba223
+@jamesensor
+
+Hei it works fine 100%.I have a txt in the torrent.You must do that:
+
+1.Install Fpse and don't launch application
+2.Copy ""com.emulator.fpse.txt""to sdcard/luckypatcher
+3.Open Lucky and selected Custom patch for FPse for android
+
+
+and then it will work 100% i have tested myself"
+,tempius,2012-09-13T23:36Z,"Well for me itÂ´s working fine.
+But here is how i did it
+
+1.Install Fpse 0.11.38
+2.Copy ""com.emulator.fpse.txt""to sdcard/luckypatcher
+3.Move Fpse to SD Card, if not installed allready in SD Card
+4.With Wi-Fi on
+5.Open last version of Lucky and selected ""Open Menu of Patches"", ""Remove License Verification"", ""Auto Modes!"", and activate ""Auto mode!"" plus ""Other patches"" plus ""Apply Patch to dalvik-cache!"", then ""Apply""
+6. After that ""Open Menu of Patches"" again in Lucky and select ""Custom patch!"", and ""Apply""
+7. Run the FPSE 
+
+this way works for me"
+,tempius,2012-09-13T23:41Z,"Almost forgot, thx bobiras2009 for the upload."
+,dredre27,2012-09-18T09:00Z,"Thanks. This worked for me. 
+For others who also do not know, Lucky Patcher is an Android app. I think http://lucky-patcher.netbew.com/download/ may be the official site. not sure tho.
+
+Rooting the cell phone then going through the steps to patch this app is a lot of work to save a $3.94 donation to the Fpse author. All these steps might not be for the faint of heart...unless you plan to take full advantage of your newly rooted phone beyond simply trying to save a few coins. 
+
+Oh. I read a forum post elsewhere saying there may be a free public version of Fpse. I've not found it yet though :/
+
+thx x2"

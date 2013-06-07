@@ -1,0 +1,40 @@
+                                   By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android 2.1+
+Overview: parallel downloading three files simultaneously
+
+In free version:
+- interception of links from the browser and a clipboard;
+- accelerated download by using multithreading (3 parts);
+- a icon of the program and loading progress in the notification panel;
+- space reservation on a flash drive for the downloaded file;
+- saving of files of different types in different folders;
+- download files in the background and after display off;
+- automatic definition file size after the addition of;
+- resume after disconnect or restart the program;
+- editing download queue;
+- choice of colors for the interface;
+- detailed information about downloading.
+In pro version:
+- parallel downloading three files simultaneously;
+- accelerated download by using multithreading (8 parts);
+- a widget on a home screen and a window over all windows with the list of running downloadings;
+- downloading using only the Wi-Fi and start/stop at on/off the Wi-Fi;
+- autoload of service of the program after the boot is completed;
+- a sound and vibration upon termination of loading;
+- planning of loading of files in due time;
+- automation action for downloaded files.
+
+There are several ways to add a link from the browser to the program:
+- tap on link and from a window "Complete action using" select the program (supported by Android Stock Browser and Dolphin);
+- long press on a link cause the context menu, tap "Share link" and from a window "Share via" select the program (supported by Firefox and Skyfire), or tap "Copy link" and program service intercepts the link;
+- copy the link text (beginning on "http://" or "www") in an address line of the browser and program service intercepts the link (supported by Maxthon);
+
+Control: tap on the download to start/stop, tap on a loading complete to open the file, long press to display the context menu; tap on a top panel of a window of the program sorts by an icon of downloading; tap on a widget starts/stops all loadings, but if the downloads list is empty, or all of them are completed, or the timer is not running - opens a window of the program.
+
+
+                                   By bobiras2009	

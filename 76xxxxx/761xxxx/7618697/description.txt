@@ -1,0 +1,36 @@
+Book Description
+
+OS X and iOS Kernel Programming combines essential operating system and kernel architecture knowledge with a highly practical approach that will help you write effective kernel-level code. YouΓÇÖll learn fundamental concepts such as memory management and thread synchronization, as well as the I/O Kit framework. YouΓÇÖll also learn how to write your own kernel-level extensions, such as device drivers for USB and Thunderbolt devices, including networking, storage and audio drivers.
+
+OS X and iOS Kernel Programming provides an incisive and complete introduction to the XNU kernel, which runs iPhones, iPads, iPods, and Mac OS X servers and clients. Then, youΓÇÖll expand your horizons to examine Mac OS X and iOS system architecture. Understanding AppleΓÇÖs operating systems will allow you to write efficient device drivers, such as those covered in the book, using I/O Kit.
+
+With OS X and iOS Kernel Programming, youΓÇÖll:
+
+Discover classical kernel architecture topics such as memory management and thread synchronization
+Become well-versed in the intricacies of the kernel development process by applying kernel debugging and profiling tools
+Learn how to deploy your kernel-level projects and how to successfully package them
+Write code that interacts with hardware devices
+Examine easy to understand example code that can also be used in your own projects
+Create network filters
+
+Whether youΓÇÖre a hobbyist, student, or professional engineer, turn to OS X andiOS Kernel Programming and find the knowledge you need to start developing
+What youΓÇÖll learn
+
+OS X and iOS common core architecture
+How to write extremely efficient code by exploiting kernel details
+Coding kernel-level extensions
+How to write device drivers
+How to program the I/O Kit framework
+Key mobile device topics like power management drivers and video capture modules
+To understand OS X memory management and threads
+To parse kernel debug messages and package projects ready for deployment
+
+Who this book is for
+
+This book is suited for:
+
+Intermediate and advanced iPhone and OS X programmers ready for the next step
+Kernel-level programmers interested in how OS X and iOS function
+Open source programmers with a background in Linux or BSD, OS X and iOS
+Programmers interested in application performance
+System administrators running OS X clusters

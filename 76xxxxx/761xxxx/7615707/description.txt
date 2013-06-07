@@ -1,0 +1,29 @@
+For make Requests go here: https://forum.suprbay.org/showthread.php?tid=129845
+
+I will not upload requests that post in the comments in my torrents.           
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Mobile ODIN - Full firmware flashing straight from the device itself!
+Mobile ODIN is the on-device firmware flasher of choice. Just throw those firmware files on your (internal or external) SD card, start Mobile ODIN and flash away.
+
+Removed menu button visibility on ICS!!! Your device must be rooted to be able to use Mobile ODIN !!!
+
+If you use the EverRoot option, Mobile ODIN will root the firmware while you flash it. Checking out that new leaked firmware? No reason to lose root!
+
+Flashing with Mobile ODIN is easy. You start off by starting the app. The app will check your system has everything the app needs to continue (like root). It may need to download an additional package, so it is advised you have Wi-Fi available.
+
+Now you should see the main Mobile ODIN screen. It will list a set of partitions. Clicking a partition will allow you to select a file from your SD card to flash to that partition. Do not worry about selecting the wrong file - Mobile ODIN will not let you. Separate files (named after the partition) as well as .tar and .tar.md5 files are supported.
+What's in this version: (Updated : Sep 8, 2012)
+
+    Fixed: issue flashing cache partition, could corrupt entire flash
+
+Required Android O/S : 2.2+
+
+                                By bobiras2009	

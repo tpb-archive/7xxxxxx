@@ -1,0 +1,20 @@
+Tomb Raider PAL-E SLES-00718
+
+Disc Image Format: ccd, img, sub, cue
+Language: English (texts and voices)
+Box and Manual: Spanish
+
+Tested on ePSXe 1.7.0 emulator (on Windows XP SP3) and chipped Pal PS2 (Mobdo 4.0). I don't think it can be run 100% fine using cogswap on a PSX/PS2, because it features 60 audio tracks and reads subchannel data.
+
+How to play
+
+1) On a chipped PSX or PS2
+	
+Burn the image with a decent CD-Burning software and good media. I use CloneCD 4.0.1.4 and Verbatim CD-R. My write settings: Write speed 16x, "Amplify weak sectors" unchecked, "Don't repair SubChannel Data" unchecked, "Always close last Session" checked. Burn CD and put it on your chipped PSX or PS2. It should work.
+	
+2) On ePSXe 1.7.0
+
+"File->Run ISO" won't work. The game will load, but you'll get choppy audio track playback.
+Install DaemonTools (I use version 4.45.1.0236). It will ask to restart, do it. Add a SCSI drive (a DT one won't work, don't ask me why). Mount the .ccd file on this drive.
+On ePSXe go "Config->Cdrom". Select "ePSXe CDR WNT/W2K core 1.7.0". Press "Configure" button. Select letter of the Virtual Drive you created with DaemonTools. Check "Enable subchannel read from cdrom. (maybe slow!!!)".
+Now do "File->Run CDROM"

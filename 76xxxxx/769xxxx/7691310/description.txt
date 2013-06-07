@@ -1,0 +1,13 @@
+Book Description
+
+This book is for any C# developer looking forward to increasing his understanding and knowledge of WPF.
+
+Windows Presentation Foundation 4.5 Cookbook provides clear recipes for common WPF tasks. It includes detailed explanations and code examples for customizing and enhancing the basic scenarios, while gaining a deep understanding of WPF mechanics and capabilities.
+
+Starting from the foundations of WPF, such as dependency properties and XAML, the book touches on all major WPF aspects, such as controls and layout, resources, and digs deep into its unprecedented data binding capabilities.
+
+The book shows data and control templates in action, which allow full customizations of displayed data and controls in a declarative way. Supported by styles and resources makes data binding all the more powerful.
+
+The Model View View-Model pattern is presented as an effective way of maximizing decoupling of components, while providing an elegant way of expanding applications and maintaining a tight grip on complexity.
+
+The later parts discuss custom elements and controls ΓÇô the ultimate customization mechanism, and looks at multithreading issues, and how .NET 4.5 task parallelism features can enhance application performance. 

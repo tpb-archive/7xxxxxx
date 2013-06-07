@@ -1,0 +1,75 @@
+﻿User Type,Username,Date,Text
+[T],Tyr3ll,2012-09-29T01:33Z,"Format                         : Matroska
+Format version                 : Version 2
+File size                      : 7.74 GiB
+Duration                       : 2h 8mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 8 626 Kbps
+Movie name                     : SHERLOCK HOLMES.Title100.BlurayRip
+Encoded date                   : UTC 2012-09-28 05:29:19
+Writing application            : DVDFab
+Writing library                : libebml v0.7.8 + libmatroska v0.8.1
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 2 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2h 8mn
+Bit rate mode                  : Variable
+Bit rate                       : 4 594 Kbps
+Maximum bit rate               : 6 292 Kbps
+Width                          : 1 440 pixels
+Height                         : 810 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.164
+Stream size                    : 4.12 GiB (53%)
+Default                        : Yes
+Forced                         : No
+
+Audio #1
+ID                             : 2
+Format                         : DTS
+Format/Info                    : Digital Theater Systems
+Format profile                 : MA / Core
+Codec ID                       : A_DTS
+Duration                       : 2h 8mn
+Bit rate mode                  : Variable
+Bit rate                       : 3 412 Kbps / 1 510 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 24 bits
+Compression mode               : Lossless / Lossy
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Audio #2
+ID                             : 3
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 2h 8mn
+Bit rate mode                  : Constant
+Bit rate                       : 448 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 411 MiB (5%)
+Language                       : French
+Default                        : No
+Forced                         : No"

@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,fakeidmuhammad,2012-10-03T18:19Z,"A-8
+V-8
+Thanks dhjudasx. The audio claims to be 5.1 Surround but all I have is stereo. Also the video is extremely sensitive to interference from background running processes. It's unstable and occasionally decays into big blobs and pixels. It's a good rip, just short of excellent."
+,dhjudasx,2012-10-03T18:45Z,"The only way the video would decay as far as my testing has gone is due to codecs packs taking over the tasks... having played all the movies through myself.... on a clean system they do not exhibit an issue.
+
+The audio by default is stereo, you must manually change over to 5.1 audio by selecting the 2nd audio tract/stream. As i mentioned, the primary audio is stereo AAC due to numerous devices that do not support 5.1 AAC format and results in not playing any audio at all or even failing to play the movie altogether. Some home Applifiers depending on capabilities do not support 5.1 AAC either, So the point of the primary is to provide a guranteed audio solution, where as 5.1 aac second audio stream is to provide those that have support for it. Most computers using 5.1 are using either analog 5.1.. or more recently 5.1+ HDMI PCM digital, both of which are natively supported if the amp cannot decode pure passthrough 5.1 aac. Those with fiber/coax/toslink connection to an amp, usually are either stuck at 2 channel audio unless the amp support AAC 5.1 OR are using a machine that support Dolby Digital LIVE! or DTS Connect.
+
+Idealy use VLC and then when the movie starts, right click and select audio ~> audio Track ~> Audio track 2
+
+then depending on your audio equipment... it shoudl automatically select 5.1 audio.. however some analog or computer settings may not trigger it, so selecting audio ~> audio Device ~> 5.1 should fix it.
+
+Unfortunately for 2 channel stereo.... sound is very tempermental due to the nature of converting 5.1 - 7.1 audio to a 2 channel mix, audio level usually is noticeably lower.. but to correct it causes other glaring problems such as audio pop or distortion."
+,dhjudasx,2012-10-03T18:48Z,"Oh and by the way, could you provide a specific time in the movie that you experience the problems.... I'd like to make certain that i didn't happen to miss it.
+
+I test using Xbox360/PS3/Samsung Galaxy S III, 3 different PCs using intel HD graphics, AMD and Nvidia. All using Windows Media Player including in windows vista/7/8 and also the Latest Version of VLC with NO codec packs installed at all."
+,dhjudasx,2012-10-03T18:49Z,"blah.. .howd i mess up..... just noticed i have ""final fantasy the spirits within"" listed as the title with a few other incorrect things in the discription area.... damn"
+,fakeidmuhammad,2012-10-04T01:15Z,"Mea culpa, dhjudasx! You can't see it but I am actually beating my breast. Being rather newbieish, I did not quite get the gist of your instructions the first time around. I have listened to track 2 and it has 5.1, as you said. I just assumed the best sound feature would be the default setting. I stand corrected. Also there must have been a gremlin in my system the first time, because now it will not repeat the decaying at the same parts. Go figure! ¯_(ツ)_/¯ 
+
+REVISED RATING:
+A-10 excellent!
+V-10 excellent!
+M- (✿◠‿◠)
+
+By way of an apology may I nominate you for pirate of the year? ٩(͡●▂◣)۶ Hurrah yea !"
+,dhjudasx,2012-10-04T08:51Z,"thanks for the responce... i was quite concerned and checked a few other people that had downloaded it just to see.. and none had reported it.. so... i was going to lean towards that very rare possibility of it being a corrupted file... or potentially something else.
+
+Thanks :D Glad to be of service.."

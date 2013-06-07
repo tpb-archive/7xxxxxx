@@ -1,0 +1,12 @@
+Description
+I noticed that there are no complete and untouched Mountain Lion ISO images uploaded on any torrent sites. The only one available had its boot sector stripped so it could fit onto a 4.7 gb dvd. Therefore it is not bootable or very hard to boot! So here is a untouched copy of Mountain Lion in the ISO format. It will require a dual layer dvd to burn!
+This iso was made by opening the golden master "InstallESD.dmg" in disk utility and converting it to a cd/dvd master. Macs use the extension ".cdr" for raw image files so I then changed it to ".iso". Now it is completely compatible to be burned with any iso image burner available! To burn on a mac in disk utility simply change the extension back to ".cdr".
+InstallESD.dmg sha1: E5DD2BF5560033CADE7DD7D7DA5CEEC49F701B0E
+InstallESD.iso sha1: B48FBA8054A252BACABFD8F5B10F657297156CF5
+
+The following is a small non installable tool to check the sha1 hash of any file: 
+http://keir.net/hash.html
+And the following is a link to the best free disc burning program ever: 
+http://www.imgburn.com
+Enjoy this release and remember to slow burn all discs to increase the longevity and the robustness of the data. Happy burning, enjoy!
+

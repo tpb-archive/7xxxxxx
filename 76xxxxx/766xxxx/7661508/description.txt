@@ -1,0 +1,25 @@
+WinDjView is a fast, compact and powerful DjVu viewer for Windows with tabbed interface, continuous scrolling and advanced printing options. It uses the free DjVuLibre library to decode DjVu documents. DjVu is a web-centric format and software platform for distributing documents and images.
+
+WinDjView Features
+
+    Supports all popular Windows versions (8, 7, Vista, XP, 2000, Server 2008, Server 2003)
+    Tabbed document interface. Alternatively it can open each document in its own window.
+    Continuous or single page layout, with an option to group facing pages
+    Interface languages: English, Russian (for older versions: also Ukrainian, Greek, Hungarian, French, Portuguese, Chinese Simplified, Tatarish). To install, download the corresponding language dll into the installation folder and restart the program.
+    User-created bookmarks and annotations
+    Text searching and copying*
+    Supports dictionaries that translate words under mouse pointer*
+    Thumbnails with adjustable size
+    Contents and hyperlinks
+    Advanced printing
+    Fullscreen mode
+    Magnifying glass and marquee zoom
+    Export pages (or a part of a page) to bmp, png, gif, tif and jpg
+    Rotate pages by 90 degrees
+    Zoom to page, page width, 100% or custom zoom
+    Brightness, contrast and gamma adjustment
+    Display modes: Color, Black & White, Foreground, Background
+    Keyboard shortcuts for scrolling and navigation
+    If requested, associates with DjVu files in Explorer
+
+* These features only work on documents with a built-in text layer.

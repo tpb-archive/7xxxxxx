@@ -1,0 +1,50 @@
+What is Xsan 2?
+
+Xsan 2 is a 64-bit cluster file system that enables multiple Xserve servers and client workstations to share RAID data storage volumes, add RAID capacity as required, and share very large files across a high-speed network.
+
+What does Xsan 2 do?
+
+AppleΓÇÖs storage area network (SAN) technology supports high availability of mission critical data. Properly designed, Xsan networks enable organizations and users to maximize available RAID data storage, securely share large files across high-performance environments, and automatically fail over when hardware errors occur (using appropriate architecture).
+
+The Xsan technology is particularly well suited to powering video post-production needs. Other environments in which the platform excels are broadcasting, any industry in which storage consolidation is important, mail-server clustering, and similarly demanding enterprise IT tasks.
+
+What components are required?
+
+A RAID storage system is among the first requirements. Promise VTrak E-Class RAID storage units fulfill the back-end RAID volume (also known as LUNs, for logical unit number) requirement, while a number of fibre-channel switches have been approved by Apple, including Brocade Silkworm 200E, 4100 and 4900; QLogis SANbox 2-64, 1400, 5200, 9100 and 9200 series; and CiscoΓÇÖs MDS 9000 family.
+
+An Xsan metadata controller servers as the SANΓÇÖs ΓÇ£traffic cop,ΓÇ¥ granting client permissions and enabled read/write access to files. A Mac OS X client or Xserve server running Xsan can serve as metadata controller.
+
+Xsan clients, such as those running Mac OS X, or Xserves running Xsan, can receive direct block-level access to SAN volume data. Even network clients connected to an Xserve running Mac OS Server and Xsan can access SAN data over traditional Ethernet networks using AFP, SMB/CIFs and NFS.
+
+Controller systems must be Mac Pro or Xserve systems powered by Intel CPUs with 2GB RAM and an Apple Fibre Channel card. Xsan can be installed on client computers running Mac OS X 10.5 or 10.6 and on servers running Mac OS X Server 10.5 or Mac OS X Server 10.6. Non-Mac client computers, including Windows and Linux systems, can be connected to Xsan networks using QuantumΓÇÖs StorNext File System.
+
+How scalable is Xsan?
+
+There is no limit to the number of network client connections that can be implemented. Multiple RAID volumes can be shared (up to 16 according to Apple documentation), with support for billions of files per volume. Further, volumes can be as large as 2 petabytes (PB).
+
+What improvements are included in Xsan 2?
+
+Apple has included many refinements in Xsan 2, including easier setup and deployment using Xsan Admin 2. Workstations and servers can now access multiple Xsan volumes simultaneously, thanks to improved MultiSAN support.
+
+Spotlight integration is now available across an Xsan SAN volume, as support for Cover Flow and Quick Look; these features make it easier for enterprise users to locate and access files and information stored across Xsan-powered networks. Xsan also now boasts integrated support for new Mac OS X server features, including Mail Server and Podcast Producer, which further enhances performance and scalability in large environments.
+
+WhatΓÇÖs it cost?
+
+Xsan 2.2 costs $999 per license.
+
+
+Xsan 2.2 Serials
+
+XSAN-020-000-R-JMS-7GG-PRX-LQM-SNR-LHR-H
+
+
+XSAN-020-000-R-JX9-SS3-D3V-LSJ-HBD-227-C
+
+
+XSAN-020-000-R-LWG-QLM-D3M-LQD-6DJ-VDX-2
+
+
+XSAN-020-000-R-JD9-HL2-R9Y-JZ8-G2L-LX3-H
+
+
+XSAN-020-000-R-L96-F9G-PR3-LRL-WHN-49Z-J

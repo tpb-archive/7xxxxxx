@@ -1,0 +1,33 @@
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Muxing mode                      : Container profile=Unknown@3.0
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 58mn
+Width                            : 716 pixels
+Height                           : 424 pixels
+Display aspect ratio             : 2.40:1
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Title                            : Prometheus
+Writing library                  : x264 core 125 r2208 d9d2288
+
+
+Audio
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : Yes
+Format settings, PS              : No
+Codec ID                         : A_AAC
+Duration                         : 1h 58mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz

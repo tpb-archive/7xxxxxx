@@ -1,0 +1,50 @@
+General
+Complete name                            : Dear Doctor [Miwa Nishikawa, 2009] [AVC-AAC] [JP-EN].mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 817 MiB
+Duration                                 : 2h 8mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 891 Kbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 8mn
+Bit rate mode                            : Variable
+Bit rate                                 : 727 Kbps
+Width                                    : 716 pixels
+Height                                   : 472 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Stream size                              : 667 MiB (82%)
+Writing library                          : x264 core 79
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Duration                                 : 2h 8mn
+Bit rate mode                            : Variable
+Bit rate                                 : 159 Kbps
+Maximum bit rate                         : 237 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 146 MiB (18%)
+Language                                 : Japanese
+
+Text
+Format                                   : Apple text
+Codec ID                                 : text
+Duration                                 : 2h 8mn
+Bit rate mode                            : Variable
+Language                                 : English

@@ -1,0 +1,145 @@
+﻿User Type,Username,Date,Text
+,dinosvemirac,2012-09-12T15:17Z,"Lumion® is a real-time 3D architectural visualization tool for architects, urban planners and designers.
+It’s perfectly suited for creating videos, still renderings and live demonstrations with a quick turnaround.
+Lumion offers excellent graphics in combination with a fast and efficient workflow, saving you time, effort and money.
+It is in fact so easy to create awesome still renderings and videos with Lumion® that it almost feels like cheating....."
+,dinosvemirac,2012-09-12T15:18Z,"Minimum system requirements
+ OS: Windows XP, Vista, 7 (32- or 64-bit) and DirectX 9.0c or later
+ System memory: 3GB (for simple scenes)
+ Graphics card: NVidia GeForce 9800 GTX or similar ATI/AMD, with at least 1GB memory
+
+Recommended system requirements
+ OS: Windows 7 64-bit
+ System memory: At least 6GB
+ Graphics card: NVidia 460GTX / ATI 5850 or faster, with at least 1GB memory"
+,dinosvemirac,2012-09-13T08:56Z,"How To CRACK
+
+1.- Create “C:ProgramDataLumion 2” folder
+ 2.- Copy myLumion.ppp into folder created
+ 3.- Apply the patcher with admin rights.
+ 4.- Edit Host file & add
+ 127.0.0.1 backup.lumion3d.com
+ 127.0.0.1 activate.lumion.com
+ Save & close.
+
+Kako krekati :
+
+1 - Skinuti Free Lumion 2.5 sa oficijalne stranice.
+1/5 - Instalirajte ga.
+2 - Napraviti folder ako ne postoji “C:ProgramDataLumion 2” folder.
+3 - Kopirati ""myLumion.ppp"" u folder koji ste napravili.
+4 - Ako imate 32bit-a sustav onda pokrenite lp25p32Final.exe
+    za 64bit-a je lp25p64Final.exe.
+5 - Otvorite ""hosts"" fajl(nalazi se : C:WindowsSystem32driversetc)
+    i u njega upišite slijedece :
+    127.0.0.1 backup.lumion3d.com
+    127.0.0.1 activate.lumion.com
+    na kraju sacuvajte i zatvorite.
+
+    Vas Lumion 2.5 je sada Professional."
+,big87,2012-09-13T19:06Z,"HELP ME PLEASE!! i have a problem, i cannot find ''mylumion.ppp''on my computer. I did everything you said, i have extruded the downloaded file, then installed it,....  
+dont know what to do, i have copied the file lp25p64Final.exe to a newly created map C:WindowsSystem32driversetc ,...i have also copied the
+127.0.0.1 backup.lumion3d.com
+127.0.0.1 activate.lumion.com
+content in the etc file but it wont save it....what to do???
+when i launch Lumion, it asks me about my account , i type my lumion web page account but it still doesnt work, looks like i have to write in a product key, ...do you have it?
+
+
+please help "
+,dinosvemirac,2012-09-14T13:10Z,"Ok,
+
+1.Find in your windows 7 C:ProgramData
+2.Create ""Lumion 2"" folder
+3.Copy myLumion.ppp in Lumion 2 folder
+4.Apply the patch with admin rights.(Right click ""run with admin rights""
+5.Go to C:WindowsSystem32driversetc and find file named ""hosts"".Right click on file and open with ""notepad""
+
+YOU SEE SOMTHING LIKE THIS :
+
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+6.On the end of this file copy :
+127.0.0.1 backup.lumion3d.com
+ 127.0.0.1 activate.lumion.com
+ Save & close.
+
+Start Lumion and your Lumion its Professional."
+,dinosvemirac,2012-09-14T13:14Z,".Find in your windows 7 C:ProgramData
+ 2.Create ""Lumion 2"" folder
+ 3.Copy myLumion.ppp in Lumion 2 folder
+ 4.Apply the patch with admin rights.(Right click ""run with admin rights""
+ 5.Go to C:WindowsSystem32driversetc and find file named ""hosts"".Right click on file and open with ""notepad""
+
+ YOU SEE SOMTHING LIKE THIS :
+
+ # Copyright (c) 1993-2009 Microsoft Corp.
+ #
+ # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+ #
+ # This file contains the mappings of IP addresses to host names. Each
+ # entry should be kept on an individual line. The IP address should
+ # be placed in the first column followed by the corresponding host name.
+ # The IP address and the host name should be separated by at least one
+ # space.
+ #
+ # Additionally, comments (such as these) may be inserted on individual
+ # lines or following the machine name denoted by a '#' symbol.
+ #
+ # For example:
+ #
+ # 102.54.94.97 rhino.acme.com # source server
+ # 38.25.63.10 x.acme.com # x client host
+
+ # localhost name resolution is handled within DNS itself.
+ # 127.0.0.1 localhost
+ # ::1 localhost
+
+ 6.On the end of this file copy :
+ 127.0.0.1 backup.lumion3d.com
+ 127.0.0.1 activate.lumion.com
+ Save & close.
+
+ Start Lumion and your Lumion its Professional."
+,Gubben86,2012-09-15T14:03Z,I have a problem with the patches. My antivirus program are blocking them. Is this not real?
+,zanzibarbob,2012-09-16T19:47Z,Try turning off your antivirus to get the patches to extract
+,big87,2012-09-19T15:04Z,what is ''myLumion.ppp'' ? I cant find this file in your torrent
+,big87,2012-09-19T15:09Z,what is ''mylumion.ppp'' file? i cant find it
+,bbrraaddlleeyy,2012-09-21T03:51Z,"hello all,
+
+can anyone help with the little situation im in... i have the rar. folder we all have once downloading this torrent. 
+
+The .PPP file is located and visible in the rar. but once i extract it, it disappears or is not visible? so i cannot complete step 2????
+
+has anyone fixed this issue?"
+,alain__8888,2012-09-21T08:51Z,"Working good , disable your antivirus."
+,0ekaitz0,2012-09-22T16:13Z,"Everything done, host, patch... and still asking me for Login and password :S Anyone has the same problem??
+
+ah, and thx so so much for program :)"
+,0ekaitz0,2012-09-22T16:14Z,"@bbrraadly, close the antivirus :p"
+,ngl123,2012-09-27T05:13Z,"Having some problems getting this to work.
+Do I Copy myLumion.ppp into folder created by loading the Lumion program which is 2.5 or create a new folder Lumion 2.
+I can manage to do all the steps but when I run the crack it say its failed and when I run the program it askes for password and user name.
+Been waiting for this to show up thanks very much please help.
+cheers"
+,ngl123,2012-09-27T05:57Z,"It all seems to be okay until i run the program and then it asks for username and password?
+Please help they want 3k for this. cheers"

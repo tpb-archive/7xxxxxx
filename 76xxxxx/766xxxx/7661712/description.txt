@@ -1,0 +1,25 @@
+CrunchBang Linux is an Debian-based distribution featuring the light-weight Openbox window manager and GTK+ applications.
+
+CrunchBang has been built from a minimal Debian system and customized to offer a good balance of speed and functionality.
+
+CrunchBang Linux is currently available as a live CD; however, the best performance is achieved by installing it to a hard disk.
+
+What's New in This Release: [ read full changelog ]
+
+┬╖ Openbox 3.5 ΓÇö the latest and greatest release. You might want to check the changelog on the Openbox website as a number of significant changes have been made.
+
+┬╖ Iceweasel/Firefox 8 replaces Chromium 9 ΓÇö CrunchBang seems to switch back-and-forth between default browsers, probably like a lot of users do. I do not think this is problem, but merely reflects the state of browser development and availability at the time. Having said that Firefox seems to be getting better with each release and the mozilla.debian.net team are doing a fantastic job of keeping up with the new release schedule.
+
+┬╖ Geany replaces gedit ΓÇö I spend much of my day in my editor and until a few months ago that editor had always been gedit. Then someone suggested I take a look at Geany, so I did and it won me over. Geany is a fantastic editor, is highly configurable, has lots of great plugins and maybe just as importantly, is DE independent.
+
+┬╖ Gigolo and Thunar for managing connections to remote filesystems ΓÇö in the past, some reviewers have mentioned the fact that there has not been an easy way to mount and browse remote filesystems through the default file manager. I have addressed this by including Gigolo and configuring it to work out-of-the-box with Thunar. It is now super simple to connect to remote filesystems via SSH, Samba etc.
+
+┬╖ Improved D-I preseeding ΓÇö all packages related to the LiveCD are now completely purged during the installation process, resulting in a much cleaner system.
+
+┬╖ Linux kernel 2.6.39 replaces 2.6.32 ΓÇö this is the kernel from the Debian backports repository. Debian backports are enabled by default.
+
+┬╖ LibreOffice replaces OpenOffice.org ΓÇö actually, CrunchBang ships with AbiWord and Gnumeric, but many people choose to install a more feature rich office suite via the CrunchBang post installation script. The script has been changed to suggest LibreOffice.
+
+┬╖ New repository locations ΓÇö as part of my ongoing work to move domains from crunchbanglinux.org to crunchbang.org, the repositories for these builds have been moved. Also, a new website is being constructed, but is very much a work in progress. Apologies if this causes any inconvenience or confusion to anyone. I will write more about this at some point in the future.
+
+┬╖ Many more minor and cosmetic changes.

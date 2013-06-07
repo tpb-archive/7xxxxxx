@@ -1,0 +1,49 @@
+Here is GIMP 2.8.2 for Windows XP SP3 and later!
+ 
+http://www.gimp.org/
+
+Overview of Changes from GIMP 2.8.0 to GIMP 2.8.2
+=================================================
+Core:
+
+ - Make tag matching always case-insensitive
+ - Let the tile-cache-size default to half the physical memory
+
+GUI:
+
+ - Mention that the image was exported in the close warning dialog
+ - Make sure popup windows appear on top on OSX
+ - Allow file opening by dropping to the OSX dock
+ - Fix the visibility logic of the export/overwrite menu items
+ - Remove all "Use GEGL" menu items, they only add bugs and zero function
+ - Improve performance of display filters, especially color management
+ - Fix the image window title to comply with the save/export spec
+   and use the same image name everywhere, not only in the title
+ - Fix positioning of pasted/dropped stuff to be more reasonable
+
+Libgimp:
+
+ - Move gimpdir and thumbnails to proper locations on OSX
+ - Implement relocation on OSX
+ - Allow to use $(gimp_installation_dir) in config files
+
+Plug-ins:
+
+ - Fix remembering of JPEG load/save defaults
+ - Revive the page setup dialog on Windows
+
+Source and build system:
+
+ - Add Windows installer infrastructure
+ - Add infrastructure to build GIMP.app on OSX
+
+General:
+
+ - Lots of bug fixes
+ - List of translation updates
+
+============================================
+virus free 100%
+please seed!
+
+sincerely yours, Fox.

@@ -1,0 +1,21 @@
+I spent the day making this work well on Windows 7 and now it has HD Textures, Widescreen capabilities, multi-core processor ready (Will just use one core instead of trying to use all cores and failing), and I re-binked the videos for widescreen as well.
+
+I followed a tutorial on how to make it widescreen and did the bulk of the work for you and inclosed a hard to find texture pack.  I hope this helps people with the issues presented while running this game.  I credited the people who made the image, HD Texture pack, widescreen tutorial, Power ISO crack, and others, in a file called credits.txt.
+
+Here's how to install it.
+
+1.) Install PowerISO. (Included)
+2.) Mount the Deus-Ex image to PowerISO and if it doesn't autorun, double click it in My Computer.
+3.) Install the game and close out of everything.
+4.) Install the HD Texture packs.  (Read "Making sure its enabled.txt" in the "HD Textures" directory to make sure it works.)
+5.) Copy the DX2.exe file from the Crack directory over to the "C:Program Files (x86)Deus Ex - Invisible WarSystem" directory.  (Nix the (x86) on 32 bit systems.)  Be sure to backup the original.
+6.) To use widescreen, follow the instuctions in the "Widescreen" directory.
+7.) Enjoy!  =)
+
+You don't need to have the disc stay mounted.
+
+TROUBLESHOOTING:
+
+Q.) Why is the text is missing from the game menu's, etc?
+A.) For some reason the game isn't finding the required fonts.  You'll need to open the HD Textures Config tool and select "fonts" from the dropdown and click the red -.
+    The tool is at: Start menu -> All programs -> Eidos -> Deus Ex - Invisible War -> Community Texturepack -> IBD Patcher

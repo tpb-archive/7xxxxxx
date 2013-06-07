@@ -1,0 +1,38 @@
+Movies : Crime : VHS Rip : English, 61mins
+This is a redo of my torrent to reduce file size.
+
+the Dead End Kids & the Little Tough Guys 1941 Hit The Road
+
+good flick.
+
+Starring Gladys George, Barton MacLane, Bobs Watson, Evelyn Ankers & Shemp Howard.
+  
+http://www.imdb.com/title/tt0033720/
+ 
+http://thepiratebay.se/user/jmmybttm	
+
+[08:43:40] job configuration: Handbrake 0.9.3
+[08:43:40]  * source
+[08:43:40]    + C:Hit The RoadVIDEO_TS
+[08:43:40]    + title 1, chapter(s) 1 to 1
+[08:43:40]  * destination
+[08:43:40]    + C:Documents and SettingsDead End KidsMy DocumentsHit The Road.mkv
+[08:43:40]    + container: Matroska (.mkv)
+[08:43:40]      + chapter markers
+[08:43:40]  * video track
+[08:43:40]    + decoder: mpeg2
+[08:43:40]      + bitrate 8000 kbps
+[08:43:40]    + frame rate: same as source (around 23.976 fps)
+[08:43:40]    + strict anamorphic
+[08:43:40]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[08:43:40]      + pixel aspect ratio: 8 / 9
+[08:43:40]      + display dimensions: 640 * 480
+[08:43:40]    + encoder: x264
+[08:43:40]      + options: ref=2:bframes=2:me=umh
+[08:43:40]      + bitrate: 303 kbps, pass: 2
+[08:43:40]  * audio track 0
+[08:43:40]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[08:43:40]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[08:43:40]    + mixdown: Stereo
+[08:43:40]    + encoder: faac
+[08:43:40]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,30 @@
+Program name: Adguard
+Version: 5.4
+Release date: August 31, 2012
+Language: Russian, English, Japanese, Portguese, German, Spanish, Serbian
+OS: Windows
+File size: 1,4 Mb
+
+ Adguard 5.4 is a major release of the popular ad and popup blocking program. Not only it protects users from unwanted ads on websites, it keeps you away from phishing websites. While working siltently in the background, it automatically removes banners from the web pages you visit, thereby saving your traffic and reducing the page loading time. The program supports both 32x and 64x Windows versions, and it works on all popular browsers. In the new version we've put a lot of work in the filtration system. Now it works seamlessly and blazingly fast. We've added a new SSL-traffic filtering technology, so it's possible for Adguard to filter ads behind ecnrypted traffic on the social networks, e-mail services, search engines & etc. 
+
+Key features of Adguard:
+ 1. Saves time and nerves;
+ 2. Works with all popular browsers;
+ 3. Easy to use, works just out of the box, needs no tuning or customization;
+ 4. Comes with a browser module for manual ad blocking;
+ 5. Updated regularly;
+ 6. Works on 32x and 64x Windows versions.
+
+Release notes for 5.4:
+
+Added:
+ + Completely resolved the filtration speed issues 
+ + Simple SSL-traffic filtering 
+ + New network filtering algorythm 
+ + Extended filter rules 
+ + Waterfox browser support 
+
+Fixed:
+ * Fixed the problem with the synchronization of bookmarks in Maxthon with an active protection 
+ * Fixed displaying issues with some of the web-sites:pandawill.com, daportfolio.com & etc
+ * Small bugfixes and optimizations

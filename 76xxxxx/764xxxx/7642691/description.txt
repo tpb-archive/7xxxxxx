@@ -1,0 +1,54 @@
+South Park Season 1-15
+
+Re-coded, slightly down-sized, cleaned up.
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 150 MiB
+Duration                                 : 22mn ~ish
+Overall bit rate                         : 947 Kbps
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : DX50
+Codec ID/Hint                            : DivX 5
+Duration                                 : 22mn ~ish
+Bit rate                                 : 808 Kbps
+Width                                    : 576 pixels
+Height                                   : 432 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.108
+Stream size                              : 127 MiB (85%)
+Writing library                          : DivX 6.8.5 (UTC 2009-08-20)
+
+Audio
+ID                                       : 1
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Codec ID                                 : 2000
+Duration                                 : 22mn ~ish
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 20.2 MiB (14%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 33 ms (1.00 video frame)
+Interleave, preload duration             : 512 ms
+

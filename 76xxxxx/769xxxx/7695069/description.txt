@@ -1,0 +1,15 @@
+Whether you're enhancing or optimizing existing code or just starting from scratch, there's never a better time to start integrating object-oriented design techniques. This course shows how to integrate the principles of object-oriented programming into the build of a PHP-driven web page or application. After an overview of what objects and classes are and why they should be used, author Jon Peck dives into creating and instantiating objects, then defining the class relationships and interactions that will form the basis of your coding arsenal. The course also shows how to leverage PHP objects and implement design patterns, and looks at steps you can take to continue adding to your programming tool belt.
+Topics include:
+
+    Historical overview of object-oriented PHP
+    Defining classes
+    Creating a method/object context with $this
+    Accessing classes without instantiation
+    Creating a database class
+    Extending and abstracting classes
+    Cloning and comparing objects
+    Error handling with exceptions
+    Implementing design patterns, such as the factory and strategy patterns
+
+
+Enjoy!

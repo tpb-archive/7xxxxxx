@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,kole212,2012-09-22T21:51Z,"is this real 10.8.2 retail ?
+Someone try it?"
+,xereba,2012-09-22T23:33Z,"kole212
+
+yes, this is a real app store os x 10.8.2.
+this is not a install.dmg, this a Install OS X Mountain Lion app."
+,Ertavarez,2012-09-23T14:33Z,"This is not the mountain lion app, is the install mountain lion DMG."
+,Towelhead,2012-09-23T14:38Z,"this is not a install.dmg, this a Install OS X Mountain Lion app.
+
+really?
+
+then why does it say .dmg at the end in the torrent app?
+why not upload the original app version?"
+,kole212,2012-09-23T15:04Z,how to make usb restore disk?
+,xereba,2012-09-23T15:57Z,"kole212 
+how to make usb restore disk?
+
+http://reviews.cnet.com/8301-13727_7-57479690-263/how-to-create-an-os-x-10.8-mountain-lion-install-drive/
+
+
+Towelhead 
+
+really?
+
+then why does it say .dmg at the end in the torrent app?
+why not upload the original app version?
+
+mount the dmg and drag the install mountain lion to desktop. this a original app version.
+"
+,Towelhead,2012-09-24T03:17Z,"Ok. I will wait till it's downloaded.
+So i guess you made a dmg out of the app version instead of zipping it.
+That's cool.
+Thanx!"
+,Towelhead,2012-09-24T11:34Z,"It says version 12C53 in info.plist
+Is that correct?"
+,xereba,2012-09-24T13:00Z,"Towelhead 
+
+Right-click (or Control+click) the installer, and choose Show Package Contents, open Contents- Shared Support, mount InstallESD.dmg, open System, Library, CoreServices, SystemVersion.plist.
+
+
+ProductBuildVersion
+	12C54
+	ProductCopyright
+	1983-2012 Apple Inc.
+	ProductName
+	Mac OS X
+	ProductUserVisibleVersion
+	10.8.2
+	ProductVersion
+	10.8.2"
+,Towelhead,2012-09-25T02:31Z,"Yeah. Got it.
+Thanx man!
+"
+,Olarila,2012-10-04T02:01Z,"REATAIL ????? You dont even know, what you are uploading... theres no Mac OS X 10.8 RETAIL.... cuz you,ONLY, get him from the App Store...you CAN NOT by this on a normal Apple Store on the streets... RETAIL, Only Lepard and Snow Lepard....."
+,Olarila,2012-10-04T02:02Z,RETAIL*

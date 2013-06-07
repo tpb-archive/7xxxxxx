@@ -1,0 +1,66 @@
+The Voice Brasil
+1x01
+
+O The Voice chegou ao Brasil e sua estreia ocorreu neste domingo (23/9/12) pela Rede Globo, onde os jurados – Claudia Leite, Carlinhos Brown, Daniel e Lulu Santos, começaram a busca pela nova “Voz” do Brasil. O programa vai ao ar todos os Domingos às 14:15hrs (Horário de Brasília).
+
+
+Formato : Matroska
+Versão do Formato : Version 2
+Tamanho do arquivo : 2.13 GiB
+Duração : 1h 8mn
+Taxa de Bits Total, Modo : Variável
+Taxa de Bits Total : 4 447 Kbps
+Data da codificação : UTC 2012-09-23 19:18:08
+Programa usado : TMPGEnc Video Mastering Works 5 Version. 5.0.6.38
+Biblioteca usada : TMPGEnc Video Mastering Works 5 Version. 5.0.6.38
+
+Vídeo
+ID : 2
+Formato : AVC
+Formato/Informações : Advanced Video Codec
+Perfil do Formato : High@L4.1
+Conf do Formato, CABAC : Sim
+Conf do Formato, Quadros de Ref. : 3 quadros
+ID do Codec : V_MPEG4/ISO/AVC
+Duração : 1h 8mn
+Modo da taxa de bits : Variável
+Taxa de bits : 4 000 Kbps
+Taxa de bits máxima : 6 000 Kbps
+Largura : 1 280 pixels
+Altura : 720 pixels
+Proporção da imagem : 16:9
+Modo de taxa de quadros : TConstante
+Taxa de quadros : 30.000 fps
+Taxa de quadros original : 29.970 fps
+Padrão : NTSC
+ColorSpace : YUV
+ChromaSubsampling : 4:2:0
+BitDepth/String : 8 bits
+Tipo de Scan : Progressivo
+Bits/(Pixels*Quadros) : 0.145
+Tamanho da Faixa : 1.88 GiB (88%)
+Biblioteca usada : x264 core 114
+Configurações de codificação : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x3 / me=dia / subme=1 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=1 / cqm=2 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / slices=1 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=0 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=0 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=0 / rc=abr / mbtree=0 / bitrate=4000 / ratetol=1.0 / qcomp=0.60 / qpmin=1 / qpmax=69 / qpstep=4 / vbv_maxrate=6000 / vbv_bufsize=5996 / nal_hrd=vbr / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00
+Default : Sim
+Forced : Não
+colour_primaries : BT.709
+transfer_characteristics : BT.709
+matrix_coefficients : BT.709
+
+Áudio
+ID : 1
+Formato : AC-3
+Formato/Informações : Audio Coding 3
+Format_Settings_ModeExtension : CM (complete main)
+Conf do Formato, Endianness : Big
+ID do Codec : A_AC3
+Duração : 1h 8mn
+Modo da taxa de bits : Constante
+Taxa de bits : 448 Kbps
+Nº de canais : 6 canais
+Posições dos canais : Front: L C R, Side: L R, LFE
+Taxa de amostragem : 48.0 KHz
+BitDepth/String : 16 bits
+Tamanho da Faixa : 220 MiB (10%)
+Default : Sim
+Forced : Não

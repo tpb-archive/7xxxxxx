@@ -1,0 +1,36 @@
+Movies : Drama : VHS Rip : English, 87mins, excellent condition
+This is a redo of my torrent to reduce file size.
+
+Dust Be My Destiny 1939 Dead End Kids Billy Halop Bobby Jordan
+
+Featuring the great Johnny Garfield, the original rebel.
+  
+http://www.imdb.com/title/tt0031259/
+ 
+http://thepiratebay.se/user/jmmybttm	
+
+[09:17:19] job configuration: Handbrake 0.9.3
+[09:17:19]  * source
+[09:17:19]    + C:DustVIDEO_TS
+[09:17:19]    + title 1, chapter(s) 1 to 2
+[09:17:19]  * destination
+[09:17:19]    + C:Documents and SettingsDead End KidsMy DocumentsDust Be My Destiny.mkv
+[09:17:19]    + container: Matroska (.mkv)
+[09:17:19]      + chapter markers
+[09:17:19]  * video track
+[09:17:19]    + decoder: mpeg2
+[09:17:19]      + bitrate 6663 kbps
+[09:17:19]    + frame rate: same as source (around 23.976 fps)
+[09:17:19]    + strict anamorphic
+[09:17:19]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[09:17:19]      + pixel aspect ratio: 8 / 9
+[09:17:19]      + display dimensions: 640 * 478
+[09:17:19]    + encoder: x264
+[09:17:19]      + options: ref=2:bframes=2:me=umh
+[09:17:19]      + bitrate: 303 kbps, pass: 2
+[09:17:19]  * audio track 0
+[09:17:19]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[09:17:19]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[09:17:19]    + mixdown: Stereo
+[09:17:19]    + encoder: faac
+[09:17:19]      + bitrate: 160 kbps, samplerate: 48000 Hz

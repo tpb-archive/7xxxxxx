@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,demiam,2012-09-10T20:00Z,Keygen not working. Anyone could make it?
+,downappstore,2012-09-10T20:41Z,You can go to a website like http://www.appstore.naaasgroup.com/ There is a variety of cracked applications for Mac OS which you can check out and are available for download.
+,coronase,2012-09-11T00:22Z,"I also had a problem with the apps not running at all. Fixing the permissions did the job however.
+I did it in terminal:
+chmod 777 ./keygen.app/Contents/MacOS/x-force
+chmod 777 ./Gas Mask.app/Contents/MacOS/Gas Mask
+
+although doing a fix permissions on the drive in disk utility may have worked equally well."
+,blacksub,2012-09-11T03:41Z,working! no more patches yay! ty
+,owen35,2012-09-11T06:44Z,I'm using XTorrent on the Mac and cannot seem to get this downloaded.  The applications arrive as broken up folders.  Any suggestions?
+,1337group,2012-09-12T02:45Z,Worked for me using uTorrent on Mac arrived normal on Mountain Lion...
+,owen35,2012-09-12T21:49Z,Thanks!! Wasn't even aware of that app.  So bonus all around for me.
+,M5Rahul,2012-09-14T01:44Z,"I can't get Keygen or Gas Mask.app to open!!! I tried permissions repair, but in vain. Running OS X 10.8.1 on the Retina Macbook Pro. 
+
+If I click on either .app , nothing happens!! Plz help.."
+,1337group,2012-09-14T03:19Z,"Works fine for me on retina, using uTorrent"
+,whaletail935,2012-09-14T05:59Z,Nothing happened for me either.  Neither Gas Mask nor Keygen did anything.  Also using retina MBP.
+,Tartha,2012-09-20T05:59Z,"xforce and 1337group, I have a question: can i return the host file back to normal and if not will it cause problems in the future with internet connection? Thanks  a lot this is sweet. Just take your time and follow the instructions and the hint by croronase and all worked fine and thanks to the dude for cs6 torrent. Saved grip of $."
+,JesusChrist420,2012-09-20T08:20Z,"Hello. When following coronase's tip in terminal I get file not found. I've tried changing the path to my desktop, but still does not work. And I can't see how to change permissions to applications in Disk Utility I can't open the applications in Mountain Lion. Can anyone give more specific directions than coronase to grant permissions to the applications? "
+,JesusChrist420,2012-09-20T08:28Z,"Can anyone give some more information on how to grant permissions to the applications? I copy and pasted coronase's tip in terminal, but get file not found. I'm using Mountain Lion. Thanks."
+,Tartha,2012-09-21T06:40Z,"I copied and pasted the added url's to the /etc/hosts file. They say you should change the private/etc/hosts, but I don't see the difference. I then copied xapp and pasted it on the desktop and directed terminal to that path on the desktop and did the chmod777, which allowed me to generate a key, install and then paste the last two url's into the hosts file. Refer to the text file to ensure that I have the procedure correct. Hope that helps."
+,JesusChrist420,2012-09-21T08:37Z,"@Tartha: Thanks for the response. The problem is I don't know how to define a path in Terminal. I looked up on the internet, but they all say the same thing and I keep getting 'No such file or directory. This is what I'm inputing: chmod 777 /Users/myname/Desktop/ketgen/Contents/MacOS/x-force, but it can't find the file. I have 'keygen' on my desktop. In terminal it says: MyName-MacBook-Pro:~ myname$. Can you give me an example of what the path should look like? Thanks."
+,Tartha,2012-09-21T20:53Z,After pasting xapp to the desktop I went to terminal and user/myname/Desktop and from there chmod 777 keygen.app. I didn't use /Contents/MacOS/x-force. Cheers
+,JesusChrist420,2012-09-22T07:40Z,"@Tartha: Thanks buddy! I figured it out! SWEET! I was in the wrong directory. Again, thanks for the help. CHEERS indeed!"
+,JesusChrist420,2012-09-22T08:12Z,I forgot to say I had to use /Contents/MacOS/x-force for it to work for me.
+,dodgy100,2012-09-26T17:13Z,Is this only Mountain Lion? I'm on Snow leopard and can't get the act code.
+,Aussie33,2012-09-28T04:09Z,"Here's some straight-forward instructions on how to get keygen.app to work properly.
+
+1. Move Keygen.app to desktop
+2. Spotlight search (upper right-hand corner of desktop)  ""terminal"" -  Open Terminal
+3. Don't freak out. Just enter in the following:
+
+chmod 777 /Users/yourusername/Desktop/keygen.app/Contents/MacOS/x-force
+
+4. Press enter/return. Keygen.app should now open properly.
+
+This is what I did and the keygen worked. I was able to generate a serial and enter it into the installer and kept Keygen.app open the whole time. Clicked through to validate over internet later (whatever it says), then it installed. I open Photoshop, click the blue link to activate via phone, and then paste the request code into the keygen and get the activation code and enter the activation code into the installer window...
+
+Only it doesn't work! The activation code is invalid. I used the first serial number the keygen generated. Has anyone else here managed to get this thing ""activated"" with the keygen?"
+,Aussie33,2012-09-28T05:00Z,Nevermind. I tried it again and got it to work just fine. *does a little dance*

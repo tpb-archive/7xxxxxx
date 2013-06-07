@@ -1,0 +1,18 @@
+This package includes "VMPlayer 4.0.4" and a patch to fix a problem of modules.
+This patch fix the problem of compiling the modules when you open the VM Ware.
+This Patch is for VM Player 4.0.4
+I have always used it in Ubuntu 12.04 LTS.
+
+1: Install de VM Player running:
+# chmod +x VMware-Player-4.0.4-744019.i386.txt
+# sudo ./VMware-Player-4.0.4-744019.i386.txt
+(YOU MUST RUN THIS COMMAND USING "SUDO" OR "ROOT" USER)
+
+2: To run this patch you must have the package "patch" installed.
+# apt-get install patch
+(if you don't have the package "patch" installed you will get an error: "Unexpected Error: 42 - patch not found")
+
+3: Run the Patch:
+# chmod +x patch-modules_3.2.0.sh
+# sh patch-modules_3.2.0.sh
+(YOU MUST RUN THIS COMMAND USING "SUDO" OR "ROOT" USER)

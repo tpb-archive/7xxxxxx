@@ -1,0 +1,9 @@
+Book Description
+
+Programming Graphical User Interfaces with R introduces each of the major R packages for GUI programming: RGtk2, qtbase, Tcl/Tk, and gWidgets. With examples woven through the text as well as stand-alone demonstrations of simple yet reasonably complete applications, the book features topics especially relevant to statisticians who aim to provide a practical interface to functionality implemented in R. The book offers:
+
+    A how-to guide for developing GUIs within R
+    The fundamentals for users with limited knowledge of programming within R and other languages
+    GUI design for specific functions or as learning tools
+
+The accompanying package, ProgGUIinR, includes the complete code for all examples as well as functions for browsing the examples from the respective chapters. Accessible to seasoned, novice, and occasional R users, this book shows that for many purposes, adding a graphical interface to oneΓÇÖs work is not terribly sophisticated or time consuming.

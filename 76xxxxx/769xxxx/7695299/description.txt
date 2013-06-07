@@ -1,0 +1,29 @@
+Book Description  :
+
+A beginner's guide for Java developers
+* Design, develop, test, and deploy your web applications using Struts 2 framework
+* No prior knowledge of JavaScript and CSS is required
+* Apply the best of agile development techniques and TDD techniques
+* Step-by-step instructions and careful explanations with lots of code examples
+
+Struts 2.1 is a modern, extensible, agile web application framework suitable for both small- and large-scale web applications.The book begins with a comprehensive look at Struts 2.1 basics, interspersed with detours into more advanced development topics. You'll learn about configuring Struts 2.1 actions, results, and interceptors via both XML and Java annotations. You'll get an introduction to most of the Struts 2.1 custom tags and learn how they can assist in rapid application prototyping and development.From there you'll make your way into Struts 2.1's strong support for form validation and type conversion, which allows you to treat your form values as domain objects without cluttering your code. A look at Struts 2.1's interceptors is the final piece of the Struts 2.1 puzzle, allowing you to leverage the standard Struts 2 interceptors as well as implement your own custom behavior.After covering Struts 2.1 you'll journey into the world of JavaScript, a surprisingly capable language, the Document Object Model (DOM), and CSS, and learn how to create clean and concise client-side behavior. You'll leverage that knowledge as you move on to Struts 2 themes and templates, which give you a powerful way to encapsulate site-wide user interface behavior.The book closes with a look at some tools that make the application development life cycle easier to manage, particularly in a team environment, and more automatic.
+
+What you will learn from this book :
+* Explore the features of Struts 2.1 to develop your application
+* Enhance your web application by writing your own custom result type
+* Create your own type converter to handle custom data types
+* Automatically generate application and development documentation
+* Learn good exception handling practices for your applications
+* Implement rich client behavior using JavaScript, the DOM, and CSS
+* Create custom themes and templates to make shorter, cleaner JSP pages
+* Run many types of tests both to prove functionality and to make change safe
+
+
+Book Details :
+
+    * Format : PDF
+    * Paperback: 359 pages
+    * Publisher: Packt Publishing 
+    * Language: English
+    * ISBN-10: 1847193390    
+    * ISBN-13: 9781847193391    

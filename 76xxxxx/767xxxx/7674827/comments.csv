@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,mdeep1,2012-09-26T20:44Z,I converted the FLAC to CBR 320 and am looking at a plot spectrum with a high of 16khz which makes me think this is a transcoded release. Anyone want to input?
+[H],politux,2012-09-26T20:57Z,"It is FLAC ripped from CD, not transcoded.  I do not upload transcodes.
+
+Check out this image of the 22k waveforms if you still doubt it.
+
+http://image.bayimg.com/jadhmaaeb.jpg"
+,mdeep1,2012-09-26T21:55Z,"Looks good, thanks."
+[H],Eppo,2012-09-26T23:04Z,Thanks politux :)
+,zophras43,2012-09-27T20:23Z,Verified as lossless with Audiochecker 2.0. 99.77% CDDA.
+,theirongiant,2012-09-28T03:52Z,"mdeep1, you made two mistakes:
+
+1) You can't convert from lossless to lossy and expect similar results, even if it's high bitrate.  You must convert to WAV or AIFF.
+
+2) I don't know what MP3 encoder you *did* use that capped the high frequencies at 16kHz.  If you use iTunes or LAME on their default settings, they will not cap out at 16kHz for 320kbps.  You're doing it wrong."
+,lavandina,2012-09-29T14:37Z,"Too bad there's no cue and log files. I'm gonna trust you in this one, the quality seems good. "
+,Stembarx,2012-09-30T10:01Z,"Thankyou ^ 999999
+you are awesome, seriously thankyou!!!!!!"
+,mcmenace1,2012-10-03T18:16Z,"lavandina has a good point. If you do not upload transcodes you must be checking them, why not leave the proof there for all to see?"
+,mcmenace1,2012-10-03T18:17Z,"lavandina has a good point. If you do not upload transcodes you must be checking them, why not leave the proof there for all to see? BTW, thanks for the upload."

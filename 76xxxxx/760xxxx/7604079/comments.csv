@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,chiporo,2012-09-06T12:28Z,does somebody know when the 4th ep is coming?
+,AppRipper,2012-09-07T12:35Z,"***ATTENTION*** While zipping it it seems the app may have became corrupted. I've been only able to extract it using ""The Unarchiver"". If that doesn't work I'll have to reupload this entire thing.
+reply"
+,Legeldar,2012-09-09T11:03Z,"I'm not good at explaining things but here's what I did: 
+
+1. Used the app : ''The Unarchiver'' to extract EP 2
+
+2. Updated EP 1. 
+NOTE That you will need AppRipper's copy of The Walking Dead EP 1 for this to work. Also make sure EP 1 is on the Applications folder. 
+
+3. After it was done updating, The EP 1 game turned into EP 2. I then clicked it and it worked 
+
+
+no need to reupload I think. This worked for both my MacBook, and MacBook Pro.
+
+thanks for the torrent btw, can't wait until EP 3 ;)"
+,AppRipper,2012-09-09T16:04Z,"@Legeldar
+I appreciate the review! At least it's working for someone. I seems there must be some corruption going on between seeders. Hopefully it will work for everyone at some point. My whole goal was to make a newbie friendly way of updating."
+,go2max,2012-09-09T23:48Z,"Following instructions of 'Legeldar"":
+
+1. Right click on file, ""open with"" and selecting ""The Unarchiver.app""
+
+2. After about 15 seconds of the ""progress bar"" animation of just ""turning round and round"" (not showing any progress really), app exists without any error message. Checking the extracted file in Finder: TheWalkingDeadEPISODE2Update.app 780 KB (the zip file is 965.7 MB).
+
+3. Making sure ""The Walking Dead EP 1.app"" located on ~/Applications
+
+4. Double clicking on ""TheWalkingDeadEPISODE2Update.app"".
+
+Searching for game...found...continuing...warning (do not close blah blah)...finished copy...this might take a while...ERROR 101
+
+
+@AppRipper:
+
+Could you PLEASE create a RAR or 7Z of the .app itself and not ZIP it first!? And re-upload that please!
+
+Thank you for all your effort!"
+,AppRipper,2012-09-10T03:25Z,"@go2max
+
+I'm getting slightly pissed too. I hate corrupted files as much as the next however I'm trying my best to find the best way of extracting it. Try your best! Use as may programs as you can to attempt to open it. If worse comes to worst use the unzip command in terminal. Do: ""unzip 'zip_directory'"" without the quotes. If that doesn't work well do some waiting. I'm doing my best to get someone to help me with the seeding of the new torrent. I hope it works for you!
+-AppRipper"
+,mkampus,2012-09-12T22:58Z,"Doesn't work for me.
+
+I can unzip it only with The Unarchiver and when double clicked it does nothing. :("
+,AppRipper,2012-09-13T22:30Z,"@mkampus
+
+Is the file size of the .app around 1GB it may have unzipped incorrectly."
+,sitnafup,2012-09-14T14:45Z,"Here's how I got it working.
+It took me a while to get this going, but with a little fiddling I got there.
+
+Follow the instructions given in the readme file- 
+
+BUT, make sure BOTH applications (i.e., ""The Walking Dead EP 1"" you already use to play and ""TheWalkingDeadEPISODE2Update"") are placed in your Applications folder - the place you keep all your applications on your mac.
+
+Then go ahead and run TheWalkingDeadEPISODE2Update application, which is now in your application folder.
+
+This is all after using unarchiver, b/t/w.
+
+I don't know why this worked, but it did.
+
+Hope that make sense. Good luck!"
+,Legeldar,2012-09-15T14:50Z,"@mkampus
+
+I also got that problem but then I solved it. 
+
+Extract it again using '' The Unarchiver'' 
+
+when its done you will see a block symbol on the app right? ( and not the walking dead symbol) 
+
+right click and press view contents, you should see the walking dead symbol there, drag it to the desktop and update
+
+hope it works ;)"
+,actionwilliams,2012-09-23T07:36Z,"Thanks for the UL AppRipper!
+I also had to unzip using Unarchiver, mac archive utility wouldn't work. But hey, Unarchiver seems to be a great little app.
+ALSO thanks sitnafup...the update MUST BE in your app folder too."
+,AppRipper,2012-09-24T03:09Z,The update was made to automatically detect the Applications folder but hey if it works better for you then why not? I appreciate the gratitude!
+,bankai001,2012-09-24T18:25Z,"Suddenly I can't play this game after finishing the 2 episodes twice. I noticed that after updating my OSX to 10.8.2 from 10.8.1, it prevented me from playing this game bec I tried installing a game to another to an older OSX and it worked there. "
+,Zimi301,2012-09-26T10:33Z,"Could you please do an episode 3 update. 
+This was great as well. thanks."
+,AppRipper,2012-09-26T12:30Z,"@bankai001
+
+This is a known to happen. In 10.8.2 Apple changed absolutely everything about their graphics system and basically everything else Wine is built on, and this game requires Wine for everything."

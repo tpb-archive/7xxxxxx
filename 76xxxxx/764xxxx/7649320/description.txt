@@ -1,0 +1,16 @@
+Debug It!
+
+Publication Date: November 22, 2009  
+Series: Pragmatic Programmers
+
+Some developers thrash around aimlessly looking for a bug without concrete results. Others have the knack of unerringly zeroing in on the root cause of a bug. Are they geniuses? Just lucky? No, they've learned the secrets of professional debugging. This book will equip you with the tools, techniques and approaches-proven in the crucible of professional software development-to ensure that you can tackle any bug with confidence.
+
+You'll learn how to handle every stage of the bug life-cycle, from constructing software that makes debugging easy, through detection, reproduction, diagnosis and rolling out your eventual fix.
+
+If you develop software, sooner or later you're going to discover that it doesn't always behave as you intended. Working out why it's misbehaving can be hard. Sometimes very hard. Debug It! is here to help!
+
+All bugs are different: there is no silver bullet. You've got to rely upon your intellect, intuition, detective skills and yes, even a little luck. But that doesn't mean that you're completely on your own-there is much you can learn from those who have gone before. This book distills decades of hard-won experience gained in the trenches of professional software development, giving you a head-start and arming you with the tools you need to get to the bottom of the problem, whatever you're faced with.
+
+Whether you're writing Java or assembly language, targeting servers or embedded micro-controllers, using agile or traditional approaches, the same basic bug-fixing principles apply. From constructing software that is easy to debug (and incidentally less likely to contain bugs in the first place), through handling bug reports to rolling out your ultimate fix, we'll cover the entire life-cycle of a bug.
+
+You'll learn about the empirical approach, which leverages your software's unique ability to show you what's really happening, the importance of finding a reliable and convenient means of reproducing a bug, and common pitfalls so you can avoid them. You'll see how to use commonly available tools to automatically detect problems before they're reported by customers and how to construct "transparent software" that provides access to critical information and internal state.

@@ -1,0 +1,61 @@
+Half-Life
+Version 1.1.0.9
+Readme File
+06/10/2012
+
+********************************************************************
+About This Document: 
+
+This document contains last-minute information about Half-Life, including questions you may have concerning the game or your computer. If you have a question, check to see if it is addressed here first: you may save yourself a call to Technical Support. 
+********************************************************************
+
+I.	MINIMUM REQUIREMENTS
+II.	GENERAL GAME ISSUES
+
+I. MINIMUM REQUIREMENTS
+Windows(r) 95, Windows 98 or Windows NT 4.0
+Pentium 133+, 24 MB RAM
+SVGA, high color (16-bit)
+2x CD-ROM drive
+Windows-compatible sound card
+Mouse, keyboard
+
+II. GENERAL TECHNICAL ISSUES
+
+DRIVER ISSUES
+
+If you are using a nVidia based GeForce video card, download the latest reference drivers from www.nvidia.com.  This will fix the problem with models showing up as all white.
+
+When running Half-Life in OpenGL, you must select '3Dfx Mini Driver' from the drivers list in the Video Options menu if you have a 3Dfx card (Voodoo, Voodoo2, Rush or Banshee).  Choosing the 'Default' driver may severely impact Half-Life's performance.
+
+The Diamond Viper 550 drivers older than 4/2/99 cause the game menus to be drawn incorrectly. Use the drivers from the Nvidia home page (http://www.nvidia.com) dated 2/17/99 or later.
+
+Make sure the most current version of DirectX is installed on your computer. DirectX 6 is the most current version (as of 10/31/98), and it is included on the Half-Life CD in the 'DirectX' folder. 
+
+If you are running a pre-OSR2 release of Windows95, get the OpenGL 1.1 fix in order to run Half-Life in OpenGL mode.  The fix can be found at ftp://ftp.microsoft.com/softlib/mslfiles/opengl95.exe
+
+Make sure you have installed the most recent drivers for all your hardware before playing Half-Life.
+
+There is only one CD-Key allowed per client for Internet play.  If you are getting a "CD-Key in use error" make sure that there are no other clients connected to any game server using your CD-Key.
+
+"-w #"   sets the video mode width where # is the width in pixels of desired video mode.
+
+"-d3d"  selects the Direct3D engine
+"-soft"  selects the Software engine
+"-gl"     selects the OpenGL engine
+"-gldrv  " selects the GL Driver. The two choices are "Default" and "3dfxgl.dll". 
+
+"-win"  selects windowed mode
+"-full"   selects full screen mode
+
+"-gamegauge " runs the demo in Game Gauge mode. This is a benchmark utility that runs through a demo as fast as possible and stores the framerate in the file fps.txt in the Half-Life directory.	
+
+
+(C) Cacaj Warranty & Legal Information
+-----------------------------------
+Cacaj's end user license agreement, limited warranty and return policy is set forth in the EULA.txt, found on the CD, and is also available during the install of the product.
+
+Copyright (2012 Cacaj LLC.) 
+
+
+Half-Life Uses Miles Sound System. Copyright ┬⌐ 1991-2001 by RAD Game Tools, Inc.

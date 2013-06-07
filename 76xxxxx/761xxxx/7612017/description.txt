@@ -1,0 +1,35 @@
+OS originally created by Niresh12495
+
+
+Instructions:-
+
+(Paths Shown on The Guide Video May Vary from The Original Path
+You Have to Select The Path of DMG File)
+
+View The Video and Create Your Bootable USB
+After Making USB Bootable USB Reboot and Boot From The USB
+and Don't Forgot to Edit The Bios Settings
+SATA as AHCI
+ACPI as S3
+LegacyUSB as ON
+UEFI Boot to OFF (In Some MotherBoards it May Cause to Stuck on Boot0 Error)
+and Remove All Unnecessary USB Devices Except KB and Mouse
+
+Installing on an External Volume Will Probably Fail Because External Volumes are Now Owned by Root
+While Booting From USB
+If You Press 6 Within a Second The Clover Boot-loader Will Be Loaded
+-Instead of Default Boot-loader Chameleon
+Press 1 for Chimera
+This Distro Support MBR so You Can Erase The First Partiton as "Mac OS X Extended (Journaled)"
+and Install Without Wiping The Entire Partition
+
+Hp Laptop Users Type
+"Kernel Cache"=/hp -v
+Before Booting
+
+Atom Users type
+"Kernel Cache"=/atom -v
+Before Booting
+
+Warning
+Do Not Select Any FakeSMC Plugins

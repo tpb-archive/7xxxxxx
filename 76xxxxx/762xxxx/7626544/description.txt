@@ -1,0 +1,43 @@
+Book Description
+
+Pro SQL Server 2012 Integration Services teaches how to take advantage of the powerful extract, transform, and load (ETL) platform included with Microsoft SQL Server 2012. YouΓÇÖll learn to build scalable, robust, performance-driven enterprise ETL solutions that save time and make money for your company. YouΓÇÖll learn to avoid common ETL development pitfalls and how to extend the power of your ETL solutions to include virtually any possible transformation on data from any conceivable source. SQL Server Integration Services (SSIS) facilitates an unprecedented ability to load data from anywhere, perform any type of manipulation on it, and store it to any source.
+
+Whether you are populating databases, retrieving data from the Web, or performing complex calculations on large data sets, SSIS gives you the tools to get the job done. And this book gives you the knowledge to take advantage of everything SSIS offers.
+
+Helps you design and develop robust, efficient, scalable ETL solutions
+Walks you through using the built-in, stock components
+Shows how to programmatically extend the power of SSIS to cover any possible scenario
+
+What youΓÇÖll learn
+
+Create an SSIS package from scratch
+Deploy an SSIS package to any environment
+Benchmark the performance of SSIS packages using common tools
+Optimize SSIS data flows to achieve maximum performance
+Use .NET to extend the power of the stock SSIS toolkit
+Profile and scrub data during the ETL process
+
+Who this book is for
+Pro SQL Server 2012 Integration Services is for ETL developers, SQL developers, and database administrators at all levels of experience who want to harness the power of SSIS on SQL Server 2012. Whether you are using SSIS to build small, one-off ETL packages in a small shop, or building enterprise-wide ETL solutions in a Fortune 500 company, this book gives you the information youΓÇÖll need to build powerful, scalable, and efficient ETL solutions at any level of complexity.
+
+Table of Contents
+
+Introducing Integration Services
+BIDS and SSMS
+ΓÇ£Hello World!ΓÇ¥ΓÇöYour First SSIS 2012 Package
+Connection Managers
+Control Flow Basics
+Advanced Control Flow Tasks
+Source and Destination Adapters
+Data Flow Transformations
+Variables, Parameters, and Expressions
+Scripting
+Events and Error Handling
+Data Profiling and Scrubbing
+Logging, Auditing and Data Lineage
+Heterogeneous Sources and Destinations
+Data Flow Tuning and Optimization
+Parent-Child Design Pattern
+Dimensional Data ETL
+Building Robust Solutions
+Deployment Model

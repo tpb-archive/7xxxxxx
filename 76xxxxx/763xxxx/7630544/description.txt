@@ -1,0 +1,6 @@
+Fraps - is designed to count the number of FPS (frames per second) for applications running in OpenGL and Direct3D. The utility is able to take screenshots and record video with an image from the screen.
+
+Fraps is composed of three modules Benchmarking Software, Screen Capture Software, Realtime Video Capture Software. Benchmarking Software - shows how many frames per second (FPS) gives your 3d-application. Allows you to save statistics to disk. Screen Capture Software - allows pressing a hotkey to take screenshots of any screen, 3d-application or a video film. All screenshots are automatically named and timestamped. Realtime Video Capture Software - allows you to record everything that happens on the screen in a video file. Captures audio and video up to 2560x1600 resolution and 100FPS, ideal for recording games.
+
+NEW MINIMUM SYSTEM REQUIREMENTS: CPU with SSE2 required (Pentium 4 & above)
+Windows 2000 is no longer supported (Windows XP & above)

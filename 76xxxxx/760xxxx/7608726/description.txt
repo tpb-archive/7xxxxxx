@@ -1,0 +1,87 @@
+Ko╨»n - Follow The Leader - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!This is a custom remaster intended to increase the dynamic range and is NOT an official remaster!!!!!!!!!!
+
+
+
+1 - It's On!
+2 - Freak On A Leash
+3 - Got The Life
+4 - Dead Bodies Everywhere
+5 - Children Of The Korn
+6 - B.B.K.
+7 - Pretty
+8 - All In The Family
+9 - Reclaim My Place
+10 - Justin
+11 - Seed
+12 - Cameltosis
+13 - My Gift To You*
+*feat. "Earache My Eye" w/Cheech Marin
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = -0.1db
+-With DC Offset Removed: Apparent Bit Resolution = 19, Peak = -0.099db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 0.813db
+
+-Resample 64-bit/384kHz to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-09-06 13:20:17
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8        0.00 dB    -9.94 dB      4:29 ?-01 - It's On!
+DR8       -0.75 dB   -10.25 dB      4:15 ?-02 - Freak On A Leash
+DR8       -0.26 dB    -9.09 dB      3:45 ?-03 - Got The Life
+DR7       -0.36 dB    -9.52 dB      4:45 ?-04 - Dead Bodies Everywhere
+DR7       -0.39 dB    -9.33 dB      3:52 ?-05 - Children Of The Korn
+DR7       -0.21 dB    -9.38 dB      3:56 ?-06 - B.B.K.
+DR9        0.00 dB   -10.81 dB      4:12 ?-07 - Pretty
+DR8       -0.32 dB    -9.90 dB      4:49 ?-08 - All In The Family
+DR7       -0.27 dB    -9.65 dB      4:33 ?-09 - Reclaim My Place
+DR8       -0.52 dB    -9.81 dB      4:17 ?-10 - Justin
+DR7       -0.30 dB    -9.76 dB      5:55 ?-11 - Seed
+DR8        0.00 dB   -10.91 dB      4:38 ?-12 - Cameltosis
+DR8       -0.22 dB   -10.40 dB     13:53 ?-13 - My Gift To You
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR8
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+MC Lurken - Fighting The Loudness War One CD At A Time
+
+
+enjoy :)

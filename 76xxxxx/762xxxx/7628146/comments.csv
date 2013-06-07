@@ -1,0 +1,51 @@
+﻿User Type,Username,Date,Text
+,rK225,2012-09-12T17:13Z,have you tested it...coz the previous v1.0.1 not working...gnote 4.0.4
+,makasif,2012-09-12T17:17Z,hey bobiras now this version will work on unrooted fones.
+,makasif,2012-09-12T17:33Z,hey bobiras can u pls upload resident evil 4 sd card version.
+[T],bobiras2009,2012-09-12T18:27Z,"@rK225
+
+This version work fine with lucky patcher.The 1.0.1 works too and it needed the lucky patcher too."
+,HrBingR0,2012-09-12T19:27Z,"Hey bobiras, I can't get either 1.0.0 or 1.0.1 to work.. 1.0.0 tries to connect to the server, fails (because I have no internet) then closes. 1.0.1 tells me it needs to connect and then immediately fails. I gopy the folder in ""SD Data by Bobiras2009"" into /sdcard/android/data but it still won't work. Tried using lucky patcher on 1.0.1 and it still doesn't work, despite being connected to the net when patching, and I have the latest version.. Can you please give me step by step instructions? Also, I use a Huawei S7 Slim with CM9 (ICS 4.0.4) and all your other uploads work great. Also, thanks for uploading Kaspersky Mobile Security - Lucky Patcher worked well for me with that one."
+[T],bobiras2009,2012-09-12T20:01Z,"@HrBingR0
+
+If your phone is root it should work fine.Download the version 1.0.2 and do exactly what i write in the txt.It will play fine 100%"
+,srinumad,2012-09-12T21:02Z,"bobi, we a rooted phone to play this game.? i have download v1.0.1 that u have uploaded"
+[T],bobiras2009,2012-09-12T22:00Z,"@srinumad
+
+Download this version.You must be rooted yes for playing this.I have details how to in the txt in the torrent"
+,verxram,2012-09-13T02:23Z,"hi bobiras
+
+I'm just wondering if you're planning to upload this app for unrooted devices?
+
+and does this work for all countries? i check in google play and this game is not available for my country
+
+thanks and more power"
+[T],bobiras2009,2012-09-13T06:58Z,"@verxram
+
+This only work in rooted devices till now.If you have root it will work fine in all devices."
+,HrBingR0,2012-09-13T18:07Z,"Hey Bobiras, me again. I'm having problems with 1.0.2 now. I have root, I used TB to restore the data, and use lucky patcher (without internet) to remove the license verification (4/7 succeeded), I copy the data to /sdcard/android/obb and I still get the license verification failed. Do I need internet to use lucky patcher? If not, can you please give me a step-by-step on how to use lucky patcher for this game? I click it, choose patches, choose license verification, and choose auto, and check auto and extreme. Is this correct? I really want to play this awesome game.
+
+Seeding, and will seed for the next 2 weeks, maybe longer."
+,HrBingR0,2012-09-13T20:07Z,"Okay, I got past the license verification error, but if I put the data in /sdcard/android/obb, the game crashes. If I don't put the data there, it tells me it needs to download additional data, and immediately fails. This is really frustrating, because the game immediately crashes when I put the SD data where it should be. Can anyone help me?"
+[T],bobiras2009,2012-09-15T06:52Z,"@HrBingR0
+Just see your comments.You must put the folder inside the SD Data By bobiras2009 to sdcard/android/obb and not the folder sd data by bobiras2009.
+
+The steps are:
+
+Put TB files in titaniumbackup folder and restore apk+data
+Remove license verification with Lucky Patcher
+Copy com.atv.blackops folder to'sdcard/Android/obb/' 
+Launch the Game
+
+With this way it must work 100%"
+,Akhil0309,2012-09-16T12:12Z,"Hey bobiras2009..i have done everything right..
+restored the backup
+copied the folder
+and removed the license verification..
+the game starts , logo of activision comes and then the game automatically closes..
+I have sony xperia s.
+Adreno 220"
+,br1ng1t0nh0,2012-09-20T22:21Z,"getting ""corruption error"" this thing took so long to download.=("
+,SceneModz,2012-09-22T04:34Z,"To all the guys getting the dreaded download error it happens even on the market game.
+
+You just need to reinstall the APK over and over until it works.Thats the only thing I had to and it works just reinstall the apk part and eventually it will work."

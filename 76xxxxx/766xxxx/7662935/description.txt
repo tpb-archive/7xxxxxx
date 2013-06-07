@@ -1,0 +1,11 @@
+feedbay is a php script which fetches torrent comments from the piratebay website and makes an atom feed of new comments.
+
+you can specify many torrent ids in one run, the comments of these torrents will be written into one feed. comments newer than 2 days will be used.
+
+you should take caution of torrents with a lot of comments as the script downloads all comments of a torrent. i could use paging (by using pages and page post variables) but the comments arent unique-numbered and there are removed comments (spam, etc) and i dont wanna watch huge torrents, so i didnt.
+
+CHANGELOG:
+- moved torrent ids from crontab to json config file
+- renamed old json cache file name to feedbay.cache !
+- you can set up user accounts in json config
+- different accounts can be called different times in crontab by using parameter like: 'php feedbay.php accountname' when omitted all accounts will be processed

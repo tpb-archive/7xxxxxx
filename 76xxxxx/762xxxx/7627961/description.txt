@@ -1,0 +1,23 @@
+Norton.2013.Trial.Reset.v1.0.2
+
+Release Notes
+
+This program is mainly for Norton AV/IS/360 2013 Product. NTR 2013 - Normal Reset - also working with Norton AV/IS/360 2009/2010/2011/2012 Product. Before use this TR, make sure you have disabled the Norton Product Tamper Protection.
+Unless TR will not working.
+
+How to disable Norton Product Tamper Protection
+
+- Settings - General - Product Security
+- Turn Off Norton Product Tamper Protection
+- Apply
+- Select the duration: Permanently
+- OK
+
+Install Notes
+
+1. If Norton is installed and [expired], then [Uninstall] Norton. (If Norton is installed but has not expired, then skip to Step 4)
+2. Restart your computer and run the NTR and choose [ Purge Norton ]
+3. Install Norton.
+4. Disable [ Norton Product Tamper Protection ]
+5. if Norton is scanning or updating, then stop it.
+6a. Choose [ A. Normal Reset ] to RESET your norton to its default trial days or 6b. Choose [ B. Convert to 60 days ] to CONVERT, N360 2013 to 60 days, NAV 2013 to 60 days or NIS 2013 to 60 days

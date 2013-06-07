@@ -1,0 +1,84 @@
+Down - Nola - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+1 - Temptation's Wings
+2 - Lifer
+3 - Pillars Of Eternity
+4 - Rehab
+5 - Hail The Leaf
+6 - Underneath Everything
+7 - Eyes Of The South
+8 - Jail
+9 - Losing All
+10 - Stone The Crow
+11 - Pray For The Locust
+12 - Swan Song
+13 - Bury Me In Smoke
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 19, Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 38, Peak = 1.199db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-09-26 23:26:44
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8        0.00 dB    -9.68 dB      4:25 ?-01 - Temptation's Wings
+DR8        0.00 dB    -8.68 dB      4:39 ?-02 - Lifer
+DR8       -0.18 dB    -9.74 dB      3:55 ?-03 - Pillars Of Eternity
+DR8        0.00 dB    -9.82 dB      4:03 ?-04 - Rehab
+DR9        0.00 dB   -10.67 dB      3:29 ?-05 - Hail The Leaf
+DR9        0.00 dB   -10.21 dB      4:46 ?-06 - Underneath Everything
+DR9        0.00 dB   -12.52 dB      5:14 ?-07 - Eyes Of The South
+DR10      -0.58 dB   -13.85 dB      5:17 ?-08 - Jail
+DR8        0.00 dB    -9.83 dB      4:22 ?-09 - Losing All
+DR8       -0.11 dB   -10.32 dB      4:43 ?-10 - Stone The Crow
+DR12      -0.26 dB   -15.77 dB      1:08 ?-11 - Pray For The Locust
+DR9       -0.06 dB    -9.95 dB      3:35 ?-12 - Swan Song
+DR9       -0.08 dB   -11.29 dB      7:04 ?-13 - Bury Me In Smoke
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

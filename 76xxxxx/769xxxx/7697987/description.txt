@@ -1,0 +1,59 @@
+Windows 8 RTM funciona correctamente con el mismo hardware que se utiliza para Windows 7:
+
+    Procesador: 1 gigahercio (GHz) o más rápido, compatible con PAE, NX y SSE2
+    RAM: 1 gigabyte (GB) (32 bits) o 2 GB (64 bits)
+    Espacio en disco duro: 16 GB (32 bits) o 20 GB (64 bits)
+    Tarjeta gráfica: dispositivo gráfico Microsoft DirectX 9 o superior
+
+
+    Nombre: Windows 8 rtm AIO  VL es-es.iso
+    Peso: 3,84GB
+    CRC-32: 009e5a4b
+    MD4: 693569805065f9a3123dc78d3ff144c1
+    MD5: fd6c2a498c7ce55c105f72d353e17bcf
+    SHA-1: fd6b0a46e1a258bdac6efdc15e92b05f99de34af
+
+El AIO contiene los siguientes OS: 
+Windows8 (32b)
+Windows8 Pro (32b)
+Windows8 Enterprise (32b)                                                                       
+Windows8 (64b)
+ Windows8 Pro (64b)                                   
+ Windows8 Enterprise (64b)                                  
+                                  
+Pass: notfake.me
+
+Como Activar
+
+Windows Enterprise
+1)Abrir cmd como administrador
+2)tipear: slmgr -skms 147.134.1.42 (Funcionando al 22/09/2012)
+3)tipear: slmgr.vbs -ato
+4)reiniciar
+
+
+Windows Pro
+
+1)Abrir cmd como administrador
+2)tipear: slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+3)tipear: slmgr -skms 147.134.1.42 (Funcionando al 22/09/2012)
+4)tipear: slmgr.vbs -ato
+5)reiniciar
+
+
+Windows Server 2012 Standard
+
+1)Abrir cmd como administrador
+2)tipear: slmgr.vbs -ipk XC9B7-NBPP2-83J2H-RHMBY-92BT4
+3)tipear: slmgr -skms 147.134.1.42 (Funcionando al 22/09/2012)
+4)tipear: slmgr.vbs -ato
+5)reiniciar
+
+
+Windows Server 2012 Datacenter
+
+1)Abrir cmd como administrador
+2)tipear: slmgr.vbs -ipk 48HP8-DN98B-MYWDG-T2DCC-8W83P
+3)tipear: slmgr -skms 147.134.1.42 (Funcionando al 22/09/2012)
+4)tipear: slmgr.vbs -ato
+5)reiniciar

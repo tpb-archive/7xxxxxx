@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,Drugsh,2012-09-29T11:39Z,"No Seeders :(
+I will keep this torrent alive i promise"
+,Hashit,2012-09-29T16:21Z,"Hi Drugsh, did you get the whole file? A folder containing 3 more folders?
+I'm a noob at this and wasn't sure I had done it right as I can't download and seed the torrent myself. I tried to get my nephew to download it and he couldn't, though there maybe wasn't any seeders or peers at that stage."
+,Hashit,2012-09-29T16:54Z,"Sorry about the double post, just read a thread that explains how it can take up to 10 mins for a comment to appear [d'oh!!]
+This site is good, but damn they've laid trip wires everywhere!!  :)"
+,Hashit,2012-09-29T21:45Z,"Sorry crew, I'm not sure this torrent is behaving quite as expected.
+It should produce one folder named 'Windows 7 Ultimate sp1 x64 all updates to 15-9-12' with everything in that folder, which is 3 more folders and two files as follows:
+
+1 - 7x64sp1 updates important [folder]
+2 - 7x64sp1 updates optional [folder]
+3 - 7x64sp1 updates important [folder]
+readme.txt 
+Silverlight.exe 
+
+Let me know what you get."
+,Hashit,2012-09-30T10:56Z,"Wow, I had no idea that a handful of ms updates would create such a feeding frenzy!
+It took me hours to download the updates - 1 at a time - from ms website and assemble the batch file command as I got each one.
+Now watching a bunch of other torrenters nibble away at it has made my efforts all worthwhile! :)
+
+My sincere apologies for the delay in getting this torrent to seed, but there seems to be a problem with how tpb is assigning names and the torrent couldn't find the original files.
+
+There may be a better way for me [or anyone] to create an update package like this.
+For example, I think they may install much quicker if each update has it's contents already extracted, but this may make the download much larger and complicate the batch commands.
+
+Any advice much appreciated."
+,Drugsh,2012-09-30T18:18Z,@harshit bro every thing is working fine i got 3 folders in it 
+,Drugsh,2012-09-30T18:19Z,and i'll seed it 
+,Hashit,2012-09-30T18:28Z,Excellent!! Thanks for the 'update'  :)
+,ReapeR.ME,2012-10-01T12:18Z,Does this torrent contain a windows update ( KB971033 ) i didnt see it in the files i just want to make sure - i only asked because i have a cracked windows 7 ultimate - thanks for the upload though
+,Hashit,2012-10-03T12:24Z,"@Reaper - No, it does not contain that kb which is wat.
+From my experience, it is highly unlikely that it would make any difference anyway, as the test is initiated by ms website, not by the kb being install.
+
+The kb install just enables ms website to be able to test your OS and even then, only if you want to get a 'testable' download from ms and even then, you are warned that your OS will be tested first, so you still have a chance to back out.
+
+These steps will happen regardless of wether the kb is installed or not.
+If the kb is not installed and you progress to the next step, you will be prompted that the kb will be installed first before you can progess to the file you want to download.
+
+This is why the kb is not ticked [by default] in windows update and can even be hidden. It makes no difference at that stage wether it's installed or not.
+Only if you want a 'testable' file from ms, will you be then forced to install it."
+,ReapeR.ME,2012-10-04T07:26Z,"Fantastic - i only ask because the KB number in question has something to do with a reg. check and product check and all that - it locates tampered files and tries to recover them to there standard version, but thank you for the upload - such a great upload ( smiley face )"
+,ReapeR.ME,2012-10-04T07:28Z,i just don't want my windows to be flagged as non genuine and blah blah blah 
+,Hashit,2012-10-04T12:11Z,"Yeah I understand your concerns, but I think it's unwarranted.
+MS are much more concerned about pc's becoming zombie virus spreaders, so important + recommended and many optional updates are freely available to all regardless of wether your OS is legit or not.
+
+I think this [understandable] paranoia over going anywhere near MS's website and using windows update with a non-legit copy of windows may explain why there's been something of a feeding frenzy over this download - well, there's been waaayyy more pirahna nibbling at it than I was expecting!!
+
+Even though I have a genuine purchased copy of win 7 x64 sp1, I run a patched version anyway and have tested it at ms website. It passed both wga and wat tests!  :)
+
+I also tested another version which passed wga but failed wat, but before I allowed it to be tested, I was still able to install all the updates via windows update.
+The OS will not/cannot be tested without the kb being installed.
+The kb is not ticked by default in windows update so is not installed by default, so you will never be tested by default and if you are to be tested, you are forewarned."

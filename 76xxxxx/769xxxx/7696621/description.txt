@@ -1,0 +1,9 @@
+"requiem-4.0-mac.zip" contains the mac application, "requiem-4.0-win.zip" contains the Windows application, and "requiem-4.0-src.zip" contains the source code.
+
+Requiem 4.0 works with iTunes 10.6.x and 10.7. New with Requiem 4.0 is support for 1080p videos.
+
+Requiem 4.0 works quite a bit differently than previous versions. It taps directly into the media decryption routines inside QuickTime so it doesn't need to figure out any of your user keys. Because of this, you'll see the following differences from Requiem 3:
+
+-There is no key cache.
+-Decryption is quite a bit slower (about 10x).
+-iBook decryption is no longer supported.

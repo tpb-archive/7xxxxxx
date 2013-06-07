@@ -1,0 +1,72 @@
+visitanos: movieshdlatino1
+
+
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.0
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 2marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 3min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits nominal                     : 5 000Kbps
+Ancho                                    : 1 920pixeles
+Alto                                     : 800pixeles
+Relación de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.136
+Default                                  : Si
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : HE-AAC / LC
+ID Códec                                 : A_AAC
+Duración                                 : 2h 3min.
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz / 24,0KHz
+Demora del video                         : 3seg.
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : A_AAC
+Duración                                 : 2h 3min.
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 4
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Default                                  : Si
+Forced                                   : No
+
+Texto #2
+ID                                       : 5
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Default                                  : No
+Forced                                   : No
+
+visitanos: movieshdlatino1

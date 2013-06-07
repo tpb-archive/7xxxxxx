@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,Gegia,2012-09-07T22:31Z,"Patch notes:
+*  Added a subtitle to the game (""The Eight Pages"") to differentiate it from future versions.
+*  Improved main menu and added music to it.  Also now includes links to Slender Man info and YouTube series.
+*  Added different light sources (unlocked after beating the game once).
+*  Added shadows (not especially noticeable except in lit areas).
+*  Your jogging speed now increases gradually as more pages are collected.
+*  Removed the cooldown for stamina recovery after jogging/sprinting, and reduced the stamina drain rate.  When
+you start jogging/sprinting, however, it immediately deducts 5% of your stamina.  This will allow you to jog or
+sprint for a much longer period of time, but makes repeated taps of the jog/sprint button cause your stamina
+to drain very quickly (effectively getting rid of a former exploit).
+*  The maximum distance you can see decreases as you collect more pages; this is to keep the challenge similar
+for people who have fog turned off.  For the same reason, Distance Shade can no longer be turned off.
+*  Added a menu option to automatically skip the intro.
+*  Added a pause feature, but you can only pause if there's no static (which prevents you from pausing the game
+in response to seeing the Slender Man).
+*  Fixed a bug where the flashlight would try to illuminate a page on the other side of a wall.
+*  Removed one of the hidden modes (it was only a matter of time, since it contained copyrighted material)."

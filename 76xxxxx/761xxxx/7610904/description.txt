@@ -1,0 +1,21 @@
+Windows 8 Enterprise & Professional Emulators
+
+
+The emulators for activating Windows 8 RTM (Professional and Enterprise) are here!
+
+These scripts were made by the russian WZOR team.this included 2 scripts for activating Enterprise edition (just in case that the first script doesent work) and 1 script for Professional edition and they'll activate you OS for 180 days.
+
+This way works on both x86 and x64 editions.
+
+
+install notes 
+
+For activating your OS just run one of the scripts As Administrator and restart!
+
+*Note: If you get any errors by running one of the files just add the following line to your hosts file by using notepad 
+
+(file location is C:WindowsSystem32driversetchosts):
+
+178.209.107.20 kms-c.no-ip.org
+
+Enjoy!

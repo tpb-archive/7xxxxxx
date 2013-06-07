@@ -1,0 +1,72 @@
+﻿User Type,Username,Date,Text
+[T],SecTPB,2012-09-22T05:46Z,"Enjoy, guys!
+
+Trying out some new software to cut commercials, so if there's an issue with the rip that you happen to notice, please let me know. "
+,brott,2012-09-22T06:04Z,Thanks!
+[T],SecTPB,2012-09-22T07:08Z,"http://wrestle-zone.net.pk/f128/watch-live-ufc-152-jones-vs-belfort-stream-online-%7C-720p-hd-hq-streaming-119339/
+
+Go there if you want HD/720p streams of UFC 152.
+
+They have the best streams on the net. Check out the site, browse, talk in the Shoutbox, and get direct downloads and video on demand after events. You can chat live with other viewers or just sit back and enjoy the amazing quality. 
+
+They provide Boxing, UFC PPV, UFC TV, Bellator, Ring of Honor, WWE RAW, Futbol, WWE PPV, TNA, TNA PPV, Boxing PPV, TV streams and loads more."
+,ChronicPirate04,2012-09-22T07:52Z,"@ SecTPB, do i have to sign up to the website to watch the streams?"
+[T],SecTPB,2012-09-22T08:24Z,"@ChronicPirate04
+I can't give any further information on here except for that. You're just going to have to find out for yourself. Just sharing because it's where I've been going and I know many people will be interested. Completely unaffiliated with me though. You can ask questions when you visit the site."
+,Dirkastanian,2012-09-22T09:47Z,"Thanks, appreciated"
+,ganj2,2012-09-22T10:40Z,Is this rip fucked up like the last one from Secludedly?
+,wavediddy,2012-09-22T11:50Z,@ganj2 unfortunately yes. id wait for a proper.
+[T],SecTPB,2012-09-22T12:38Z,"@wavediddy
+Runs perfect. What issues do you see? Would be nice if you could reiterate. "
+,Malakore,2012-09-22T12:42Z,@wavediddy: What exactly is wrong with it?
+,stheone,2012-09-22T13:01Z,"The picture glitches up and pauses and the sound is out of sync.
+Thanks anyway."
+,black669,2012-09-22T13:31Z,the sound is out of sync again!!!!
+,Malakore,2012-09-22T13:39Z,"Yes, I can confirm now too that it's not watchable for me.
+
+I think it may have something to do with a fact that it's encoded in 119.88 FPS (no, it is not a typo!) and large amount of frames gets skipped as my computer can't obviously keep up playing 720p with 120 fps, while being able to play proper 720p smooth."
+,Malakore,2012-09-22T13:49Z,"Well, I can now confirm that there is certainly somehting ""fucked up"", yes - not watchable for me.
+
+It is encoded in 119.88 FPS (not a typo!) and my computer obviously can't play 720p with 120 fps, loss of frames is enormous. Same computer is able to play proper 720p smooth
+
+Result is that it lags so bad that I can't even tell if audio is out of sync or not, which can be easily fixed in most players by the way. VLC, for example, even have keyboard hotkeys to synchronize audio/video tracks.."
+,Malakore,2012-09-22T13:50Z,"Sorry for double post, seems I will never understand ThePirateBay commenting behaviour. First was sent, I saw it. Then after several refreshes and Chrome reload, it wasn't there at all, so I made this second post : /"
+[T],SecTPB,2012-09-22T14:29Z,"@Malakore
+It's 59.940 fps. The fact that you said 119.88 fps makes me think you are using VLC. VLC is not a good player. My files are Transport Streams renamed to MPEG-4 files(.ts --> .mp4). VLC does not play them very well. The best player for my files will always be Windows Media Player. Another note is that these aren't encoded. These are directly from TV without touching them. Only thing I do is cut the commercials from the stream.
+
+@black669
+@stheone
+If the sound is out of sync and video freezes, then you most likely just have issues decoding h.264 at 60FPS on your system. I highly suggest everyone uses LAV codecs for decoding multimedia. The best pack for Windows 7/8 is Shark007's codec pack, as long as you check ""Use suggested settings"" box in the menu. It will default to LAV.
+
+----------------------
+
+-Make sure you have a powerful PC capable of decoding h.264 at 60FPS in 720p. This does require a bit of power, and your typical old laptops and such are not the best.
+
+-Always use Windows Media Player. Or you can also try Media Player Classic Home Cinema. Just make sure you have Shark007's codec pack installed and LAV is currently being used.
+
+-MAC users may want to try the Perian codec with Quicktime. Linux users should use MPlayer. For both, MAC and Linux, VLC may be your best choice if the suggested players and codecs do not work.
+
+There will be no problems if you follow these tips and if there is a problem, your system simply cannot handle it. These files are ripped and made for high-spec systems."
+[T],SecTPB,2012-09-22T14:34Z,"Also, if you'd like to play these files on a non-hacked PS3 or Xbox 360, try renaming the file extension to .mpg or .mpeg and this may fix the issue. I have not tried it personally but have heard this works.
+
+All this information from here and previous comments will be added in future video descriptions, along with links."
+,DanaBlack,2012-09-22T19:39Z,"Nothing is wrong with the torrent, like the first episode. Quit blaming SecTPB just because you're not smart enough to run it correctly, and probably have a shitty computer. Thanks again Sec for the upload!"
+,Malakore,2012-09-22T21:09Z,"@SecTPB: OK in that case I'm sorry and thank you for explanation. Yes I'm using VLC so I was just posting what it told me. But even if it's 60 FPS, it's still unwatchable for me, 30ish FPS at 720p seems to be max for my machine. I didn't notice that it's 60 FPS before and it was only torrent with this episode, so I just downloaded it without reading description.
+
+Also I would like to respond to DanaBlack that I never did nor intended to blame SecTPB, I just added my experience with this torrent, that is what comments are for, right?! And yes you are right, I have shitty laptop. That is because I'm not gamer, all I need for work is Excel and Skype which runs perfectly fine. Also, one small advice that could help you in future - instead of calling people ""not smart enough"" because you can do something what others are not capable of, you may want to try to explain them / teach them. You may be surprised how much you social interaction can improve just by doing this.
+
+And finally, sorry for my English skill, still learning."
+,Taevious,2012-09-23T00:24Z,"Not sure what tweaks you made in the encoding process SecTPB but this was great. Buttery smooth and not even one little hiccup. Not sure why VLC would be an issue. It's a good player and it played this file like a champ as usual.
+
+Judging by comments here and in the premiere episode, maybe it's just one of those things where your files will work great for some and not so much for others. People definitely need to keep in mind what you already mentioned about this file not being for the sluggish machine.
+
+Regardless, loved it. Thanks again!!"
+,ChronicPirate04,2012-09-23T12:46Z,Don't know what his problem with VLC is but since you made the tweek I didn't have any issues playing it this week at all. Flawless perfect quality and I played it with VLC. Thanks for the up.
+,DanaBlack,2012-09-23T19:17Z,"lol @ Malakore being butthurt. I was talking in general, bro. I don't put people out on a spotlight like that, people always complain about free shit that they cannot work correctly on almost all his posts, and kinda got fed up with their shit."
+,Mary64,2012-09-23T22:10Z,"SecTPB - if you just dump the TS without container, why not just say so in the description? Or even keep the .TS ending? That way those that have issues would know what to do with it.
+
+Thanks for great rips, that works perfectly for me!"
+[T],SecTPB,2012-09-26T00:54Z,"@Mary64
+People see "".ts"" and get scared, call it fake, etc. People recognize "".mp4"" and since it doesn't interfere with how it's played, just change the extension. "
+,VectorWega,2012-09-27T04:38Z,"Your mention of VLC as a culprit is simply a red herring which renders your entire argument null and void.  You admitted this file does not work properly with XBOX and it also does not work with WD Media Player  The fact is that the onus is on the encoder/uploader to ensure that a file works across all platforms. This is not an outrageous request. What is outrageous is that one would expect each of the thousands of users to individually spend time/effort to make files work on their individual platforms.  I have over 50,000 videos and each and every one of them runs with both VLC and WD Media Player, except for this file.  There is clearly an error with this file.  Your past files work properly as do the vast majority of all files.  I am hopeful that your future uploads will not contain this same issue.  Thanks."
+,Voodstoc,2012-09-30T05:59Z,Thanks! Very clear video.  Seemed to be a fast frame rate.

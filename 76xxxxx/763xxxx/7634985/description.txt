@@ -1,0 +1,11 @@
+Book Description
+
+The Model-View-Controller patternΓÇöuniversally known as MVCΓÇöprovides a stable, testable approach to web application development by separating the major functionsΓÇöor concernsΓÇöof an application into independently defined roles.
+
+ASP.NET MVC in Action is a comprehensive guide to MVC-based development using this powerful framework. It offers a clearly-written introduction both to the ASP.NET MVC Framework and to the MVC approach. The focus is on creating real, maintainable web applicationsΓÇöso donΓÇÖt expect toy examples and short snippets. The authors lead you from first-use through real-life scenarios.
+
+One of the key benefits of the MVC approach is introducing a high degree of testability to your applications and process. ASP.NET MVC in Action shows you how to test each piece of your ASP.NET application and how to introduce principles of test-driven development into your process.
+
+Because the framework is completely pluggable, youΓÇÖll learn how to work with external Inversion of Control containers like StructureMap, Windsor, and Spring.NET and open-source persistence layers like NHibernate. Throughout the book, the authors sprinkle in MvcContrib, an extremely useful tool that provides common extensions so you donΓÇÖt have to write them yourself.
+
+Along the way, youΓÇÖll benefit from the wide-ranging experience of the authors, who have extensive experience with ASP.NET, Monorail, and Ruby on Rails. This book assumes that you already know how to build a standard ASP.NET application and presents most examples in C#. 

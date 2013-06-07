@@ -1,0 +1,94 @@
+﻿User Type,Username,Date,Text
+[T],Tyr3ll,2012-09-24T13:40Z,"More details :
+
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 3.63 GiB
+Duration                       : 2h 42mn
+Overall bit rate               : 3 192 Kbps
+Writing application            : HandBrake 0.9.8
+Writing library                : libmkv 0.6.5
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : No
+Format settings, ReFrames      : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Bit rate                       : 2 232 Kbps
+Width                          : 1 440 pixels
+Height                         : 592 pixels
+Display aspect ratio           : 2.40:1
+Frame rate mode                : Variable
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Writing library                : x264 core 120
+Encoding settings              : cabac=0 / ref=3 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language                       : English
+Default                        : Yes
+Forced                         : No
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio #1
+ID                             : 2
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 2h 42mn
+Bit rate mode                  : Constant
+Bit rate                       : 448 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 521 MiB (14%)
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Audio #2
+ID                             : 3
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 2h 42mn
+Bit rate mode                  : Constant
+Bit rate                       : 448 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 521 MiB (14%)
+Language                       : French
+Default                        : No
+Forced                         : No
+
+Text
+ID                             : 4
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Language                       : English
+Default                        : No
+Forced                         : No"
+[T],Tyr3ll,2012-09-25T10:41Z,"latest MPHC 1.6.4.6007 beta version from today : September 25
+
+32 bit :
+http://xhmikosr.1f0.de/mpc-hc/MPC-HC.1.6.4.6007.x86.exe
+
+64 bit :
+http://xhmikosr.1f0.de/mpc-hc/MPC-HC.1.6.4.6007.x64.exe
+
+enjoy ;)"

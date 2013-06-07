@@ -1,0 +1,34 @@
+VHS Rip : English
+
+the Dead End Kids in On Dress Parade 1939
+
+There are a trailer, prelog & epilog vid included w/movie, 4 files total.
+  
+http://www.imdb.com/title/tt0031012/	
+
+============ Handbrake 9.3 ===============
+[12:22:40] job configuration: 
+[12:22:40]  * source
+[12:22:40]    + C:OnDressParadeVIDEO_TS
+[12:22:40]    + title 1, chapter(s) 1 to 13
+[12:22:40]  * destination
+[12:22:40]    + C:Documents and SettingsDead End KidsMy DocumentsMy VideosOn Dress Parade.mkv
+[12:22:40]    + container: Matroska (.mkv)
+[12:22:40]      + chapter markers
+[12:22:40]  * video track
+[12:22:40]    + decoder: mpeg2
+[12:22:40]      + bitrate 7500 kbps
+[12:22:40]    + frame rate: same as source (around 29.970 fps)
+[12:22:40]    + strict anamorphic
+[12:22:40]      + storage dimensions: 720 * 480 -> 700 * 470, crop 0/10/18/2
+[12:22:40]      + pixel aspect ratio: 8 / 9
+[12:22:40]      + display dimensions: 622 * 470
+[12:22:40]    + encoder: x264
+[12:22:40]      + options: ref=2:bframes=2:me=umh
+[12:22:40]      + bitrate: 449 kbps, pass: 2
+[12:22:40]  * audio track 0
+[12:22:40]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[12:22:40]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[12:22:40]    + mixdown: Stereo
+[12:22:40]    + encoder: faac
+[12:22:40]      + bitrate: 160 kbps, samplerate: 48000 Hz

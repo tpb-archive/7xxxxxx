@@ -1,0 +1,49 @@
+
+Version 5.0.2126.0
+
+English VERSION!
+
+Key Features and Benefits
+
+Advanced Remote Management
+
+The ESET Remote Administrator console easily synchronizes with your existing Active Directory Structure, and provides a policy manager, notification manager and remote installation features to save time for your IT staff. Delivers instant alerts when intervention is needed. Allows assignment of different privileges to different users through role-based administration. Reporting via web-based dashboard enables monitoring network security anywhere, anytime.
+Proactive Malware Detection
+
+Protects your mission-critical infrastructure during the critical period following a malware outbreak. Advanced heuristics technology protects your endpoints and prevents malicious code from penetrating your network.
+High Performance Scanning
+
+Features high scanning speeds and a small system footprint to preserve your computerΓÇÖs performance, keep company computers running smoothly and extend the lifetime and usablity of your hardware.
+Device Control
+
+Ensures that all files stored on DVDs, CDs and USB thumb and external drives donΓÇÖt pose a threat, especially those launched automatically. Blocks unauthorized media and devices according to your custom rules/parameters.
+Web Control
+
+Limits website access by category and user group so you can ensure enforcement of company policies intended to maximize security compliance and worker productivity.
+Smart Firewall
+
+Prevents unauthorized access to company network. Easy setup, powerful customization rules and intelligent learning mode to automatically create firewall rules based on observed network traffic. Pair customized firewall profiles with trusted network zones.
+Enhanced Email Filtering
+
+Effectively screens your end-user inboxes for spam, phishing attacks and unsolicited e-mail messages. White/black lists and self-learning can be set up separately for each client or group. Native support for Microsoft Outlook enhances protection (POP3, IMAP, MAPI, HTTP) from online threats without additional work from you.
+Encrypted Communication Scanning
+
+Advanced detection of stealthy malware by thoroughly scanning the contents of secure HTTPS and POP3S protocols, and compressed files.
+
+This Version:    
+
+Fix: Occasional blue screen error (BSOD) related to Device control on       specific    system configurations
+    Fix: Issues with blocking integrated memory card readers on some notebooks/laptops
+    Fix: Issues with blocking portable devices using Device control on Windows Vista and Windows 7
+    Fix: Web control/Device control rules cannot be assigned to Security groups
+    Fix: Body of e-mail becomes corrupted after conversion from Unicode to ANSI when inserting alert
+    Fix: Memory leaks occurring under certain circumstances
+    Fix: Randomized execution of scan/update tasks on multiple clients not working correctly
+    Fix: Delayed updates not working
+    Fix: Inability to pause a scheduled scan by a user
+    Fix: Device control can be disabled in GUI despite password protected settings
+    Fix: Admin rights (UAC) are needed to open ESET SysInspector log from GUI
+    Fix: Removal of the Training program module from the main menu of the GUI
+    Fix: Occasional crashes of ESET Service when scanning files located on a network drive
+    Fix: Several fixes and minor improvements related to localization
+

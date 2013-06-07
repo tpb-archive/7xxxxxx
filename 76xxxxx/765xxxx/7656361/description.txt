@@ -1,0 +1,19 @@
+Retail Snow Leopard 10.6 + Update 10.6.2 + Safari 4.04
+
+Customise/
+- PC EFI 9.4 - boot-9-4 by Netkas
+- PC EFI 10.5 - Chameleon 2 RC3 (r658) + PC EFI 10.5 by Netkas
+- NullCPUPM - ╨▒╨╗╨╛╨║╨╕╤Ç╨░╤é╨╛╤Ç (disabler) ╨┤╨╗╤Å IntelCPUPowerManagement
+- PlatformUUID - Error 35 fix
+- FakeSMC
+- IOATA Kernel Panic fix - 32/64-bit IOATAFamily.kext from Leo 10.5.8 (compiled by Slice)
+- EvOreboot - Restart and Shutdown fix
+- EvOSpeedStep - Power Management for Core i7
+- EvOenabler - ATI video injector
+- SMBIOSResolver - only for PC EFI 9.4!!!
+- Legacy AHCI - 32/64-bit Legacy kext ╨╜╨░ Intel AHCI (SATA)
+- Legacy ATA - 32/64-bit Legacy kext ╨╜╨░ Intel ATA (IDE)
+- Legacy JMicron ATA - 32/64-bit Legacy kext ╨╜╨░ JMicron ATA (IDE)
+- PS/2 - kext for PS/2
+- Rosetta
+- ATools - folder with utlites, tools etc.

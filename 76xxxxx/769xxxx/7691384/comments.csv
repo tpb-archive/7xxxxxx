@@ -1,0 +1,59 @@
+﻿User Type,Username,Date,Text
+[T],Gh0stNet,2012-10-03T11:33Z,"Changes Since v2.3.2
+
+2.4 BETA 3
+
+-Show Exception Details if the Exception on Activation Error Lookup is not an XmlException.
+-Show Exception Message if Scheduled Task creation fails.
+-Validate User Entered Product Keys on License Backup using PIDX Check.
+
+2.4 BETA 2
+
+-Fixed switch to Windows Mode crash on other languages due to .NET Convert.ToDouble using different Culture.
+
+2.4 BETA 1
+
+-Added Batch PIDX Key Checker.
+-Added Windows 8 and Microsoft Office 2013 Product Keys and PIDX Checking options.
+-AutoKMS and AutoRearm logging is mandatory, but log will be deleted after it 10MB+.
+-AutoRearm supports Microsoft Office 2013 on Windows 7 but not Windows 8.
+-Can add MSP files to Microsoft Office Setup.
+-Changed Office and Windows Information. No longer show Activator, and now shows numerical edition.
+-Completely recoded application logic from scratch.
+-Fixed Office Uninstaller not working.
+-Fixed using Windows 7 Registry paths on Windows Vista, where they are different.
+-Get Rearm Count supports Microsoft Office 2013, but only on Windows 7.
+-KMSEmulator always activates in one attempt, removing need for a lot of Settings and Functions.
+-License Backup folders changed for Microsoft Office (EX: Office 2010 is now Microsoft Office 2010). Please rename to use Backups created with older versions.
+-License Backup saves Windows WPA Key, but this is not used anywhere.
+-License Restore more reliable, won't use up activations.
+-License Restore requires disabling internet connection.
+-License State is loaded on start and cached, speeding up many functions.
+-Make ISO uses a label of ""Microsoft Office"" instead of ""OFFICE14"".
+-Most Settings made obsolete so they were removed.
+-No longer need to uninstall AutoKMS Custom Task before uninstalling AutoKMS.
+-Phone Activation codes now saved in XML Format. NOTE: Can no longer use current INI File.
+-Removed ability to download Microsoft Office updates (Server broke and other tools do this and Windows as well).
+-Removed Backup options. The normal user had no need for these (was for testing) and could only break their backup or system.
+-Removed EZ-Activator. Basically everything it does is obsolete now.
+-Removed On-The-Fly license conversion. It causes too many issues with it failing midway and people not being able to activate.
+-Removed License Tab and associated functions.
+-Removed MultiKMS. It existed only to give people who wanted to run KMS as a Service a way to bypass persistent 8007000D errors.
+-Removed silent switches.
+-Requires .NET 4 now instead of .NET 3.5.
+-Separated Client and Server in Product Keys Selection, but you can use either when doing a PIDX Check.
+-Since Microsoft Office 2013 on Windows 8 uses the OS Licensing, there is no License Backup Tab in Office Mode.
+-Since Microsoft Office 2013 on Windows 8 uses the OS Licensing, we can't use the Rearm Check/AutoRearm technique.
+-Since Windows 8 Rearm requires a reboot, the program prompts on rearm and closes, and checks on start if you've rearmed.
+-Set KMS Host to 127.0.0.1:1688 if a custom one isn't set already (Means I don't need a Settings Window for these anymore).
+-Support Windows 8, though we can't activate it via KMSEmulator yet.
+-Support (Preliminary) Microsoft Office 2013. Some things still don't work or are added yet.
+-Updated readme. Please check for errors/omissions.
+-Using new KMSEmulator with various fixes. NOTE: Still won't activate Windows 8.
+-Various UI Changes and innumerable internal changes not mentioned here.
+-Various code to cleanup older versions removed. Recommended to uninstall Activators and remake License Backups.
+
+Release Notes
+
+Remember this is a BETA version and not a ""Stable"" release so you might not want to waste your time. Who knows how many more BETA versions will come out before the next Stable release. "
+,pir8s003,2012-10-03T14:13Z,I thought it may activate office 2013. but it does't 

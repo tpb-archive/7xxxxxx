@@ -1,0 +1,31 @@
+For make Requests go here: https://forum.suprbay.org/showthread.php?tid=129845
+
+I will not upload requests that post in the comments in my torrents.           
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Requirements: Android version 2.1 and higher
+Overview: A high battery drain is often a limiting factor for a great user experience.
+
+
+With BetterBatteryStats you can analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions:
+- Spot drainers based on detailed information about the root cause
+- Use the online Knowledge-Base to find how to reduce or remove the wakelocks
+- measure the effect of actions to reduce drain
+- detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
+
+
+What's in this version:
+- Make sure app is not installed to SD (watchdog, widgets, detecting boot and unplug won't work properly)
+- Writing references respect "root features" settings
+- Fixed error condition in widget (potentially not showing data)
+- Refactored broadcast handlers
+
+
+
+                                By bobiras2009		

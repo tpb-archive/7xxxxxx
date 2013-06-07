@@ -1,0 +1,17 @@
+eBook Description
+
+Programming Windows, Sixth Edition will focus on creating Windows 8 apps accessing the Windows Runtime with XAML and C#. The book will also provide C++ code samples. The Sixth Edition will be organized in three parts:
+
+Part I, ΓÇ£Elementals,ΓÇ¥ begins with the interrelationship between code and XAML, basic event handling, dynamic layout, controls, the application bar, control customization, and collections. You should emerge from Part I ready to create sophisticated page-oriented collection-based user interfaces using the powerful ListView and GridView controls.
+Part II, ΓÇ£Infrastructure,ΓÇ¥ examines the level underneath the UI. In these chapters, youΓÇÖll go deeper into Windows 8 with a complete exploration of the multitouch interface, asynchronous operations for working with files and web services, networking, security, and globalization. YouΓÇÖll see particular emphasis on data sharing, and interfacing with the search panes and contract panes of Windows 8.
+Part III, ΓÇ£Specialties,ΓÇ¥ explores topics you might not need for every program but are essential to a well-rounded education in Windows 8. It includes working with the sensors (GPS and orientation), vector graphics, bitmap graphics, media, text, printing, and obtaining input from the stylus and handwriting recognizer.
+
+Table of Contents
+
+Chapter 1. Markup and Code
+Chapter 2. XAML Syntax
+Chapter 3. Basic Event Handling
+Chapter 4. Presentation with Panels
+Chapter 5. Control Interaction
+Chapter 6. WinRT and MVVM
+Chapter 7. Building an Application

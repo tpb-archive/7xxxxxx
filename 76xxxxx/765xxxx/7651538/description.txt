@@ -1,0 +1,55 @@
+LinuxBBQ 0.1 GNOME3 "Bauchspeck"
+i686(-PAE), hybrid ISO, 612 MB
+==== what it is ====
+- GNOME3 desktop with 'modern' and 'classic' sessions
+- unbloated version with comparably low resource usage
+==== gui applications ====
+- iceweasel (browser, preconfigured with adblock/flashplugin) - upgrade to Beta/Aurora enabled
+- pidgin (IM)
+- xchat (IRC)
+- sylpheed (mail client)
+- radiotray (radio applet, preconfigured)
+- rtmptvgui (online TV applet)
+- leafpad (editor)
+- GNOME mplayer (media player)
+- Flush (bittorrent client)
+- bleachbit (cleanup tool)
+- mirage (porn viewer)
+- gedit (IDE)
+- gparted (partition editor)
+- xarchiver (archive manager)
+==== cli applications ===
+- cowsay (talking cow)
+- fortunes-mod (fortune cookies)
+- htop (process monitor)
+- inxi (system information)
+- mocp (music player)
+- scrot (screenshooter)
+- smxi/sgfxi (installer scripts)
+- vim (editor)
+- youtube-viewer (youtube viewer)
+==== notable packages ====
+- Orta theme
+- GNOME tweak tool included
+- bluewater-manual
+- elementary-dark-theme
+- Terminus/Droid fonts
+- zip/unzip archive tools
+==== other features ====
+- ACPI support/laptop mode
+- apt-listbugs
+- bash_aliases (from the forum thread)
+- MoC themes
+- ~/Music/rhowaldt folder with 9 songs
+- community wallpapers (gutterslob/linuxville/swftech)
+- free and non-free firmware, including ralink, iwlwifi and realtek
+- python 2.7
+- perl 5.14
+-
+==== installation ====
+- copy the ISO image to CD or USB (using dd)
+- in the start screen, hit Enter and wait (~30-60 sec.)
+- login: user 'bbq', passwd 'bbq'
+- sudo is enabled
+- for 'su' (root) your passwd is 'root'
+- README file in the home folder

@@ -1,0 +1,53 @@
+1. This is the complete, working KIT, for you to code your BMW.
+
+
+BMW Tool-Setup Version 2.11.0 - 31.05.2011
+SP-Daten v45 and v46.3 for E70
+SP-Daten v47.1 for E89
+Chasis info image
+Cable Driver
+HOW TO Documentation
+Other useful programs: NCS Dummy, prg decoder etc.
+e90-e71.ssd - to disble your Assist Diable
+Macro for Ultraedit text editor (http://www.ultraedit.com)
+
+*** Use WINDOWS 32 bits ONLY! Windows 7 is now supported ***
+
+2. If you want to learn, I recommend http://www.bmwcoding.com/
+
+3. Get a good cable form here (99$):  
+http://www.one-stop-electronics.com/shop/index.php?dispatch=products.view&product_id=16
+
+The drivers are included in the package.
+
+The new drivers don't have FIFO options, only select Latency 1 @ Port COM1 properties, in Windows Device Manager.
+You must use COM1, not COM2 et.
+
+More about this here: 
+http://www.e90post.com/forums/showthread.php?t=480261
+
+*** Steps ***
+
+Install BMW_Standard_Tools_Setup_2.11.0.exe
+
+On Install, select STD:OBD, activate "USB to Serial Adapter", select COM1.
+
+Copy Revtor.pfl in c:NCSXPERTPFL
+
+4. I've included SP-Daten (definitions) only for E89(v47.1) and E70 (v45 OR V46 - I use v46).
+
+You will need daten for your Chassis, see NCSChassisCodes.png to determine what Chassis to you have.
+
+5. Copy the files from SP-Daten to the correct folder.
+ 
+http://www.bmwcoding.com/showwiki.php?title=How+to+properly+update+your+INPA+EDIABAS+NCSExpertentool
+
+** Don't forget to run Laden.bat from E70 and E89 folders.
+
+6. In the Folder "How_TO" you can find Basic informations about how to code.
+
+======
+
+
+
+07 sept 2012

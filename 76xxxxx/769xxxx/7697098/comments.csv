@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,EJK22,2012-10-05T00:01Z,"Wow, that Markus is a busy dude. And so are you. :-)
+
+Arigato!"
+,simunic,2012-10-05T09:21Z,"Not working for me. Updated through the official patch, then applied this patch; it crashed the same like the global. 
+
+Downloaded and installed the full 13.8 build, then applied the patch. Also crashed.
+
+Uninstalled everything, then installed the latest build and applied the patch. It said the patch had bee applied, same as the last working version. It keeps crashing.
+
+I have Windows 7. Any ideas?"
+,simunic,2012-10-05T09:27Z,"Never mind. It worked after I ran CCleaner. Something in the AppData/Roaming folder was messing it up. 
+
+Thanks for the patch. "
+,simunic,2012-10-05T09:28Z,"Never mind. It worked after I ran CCleaner. Something in the AppData/Roaming folder was messing it up. 
+
+Thanks for the patch."
+,simunic,2012-10-05T09:56Z,"So after it worked, I quit to set a bigger window size. It started crashing again. Then it started loading again, but it asked for the serial key. I typed in 1. Did not accept it. It kept crashing, then suddenly started working again. 
+
+So now it only starts with the default window size :-/."
+,willyjinkens,2012-10-05T10:41Z,.. I have no idea why it's acting like that. Is anyone else having that issue? I can't seem to make it crash by messing with it. Have all of the other patches worked for you?
+,simunic,2012-10-05T11:35Z,"13.5 worked without a problem. 
+
+With 13.8: 
+It crashes during start up--the same way it did with the global--about 4 or 5 times until it actually works. It seems changing the screen resolution makes it crash the next time you try to open it. So I tried fullscreen. It seemed to work. I quit, re-started, then it it continued to crash. It also crashes with the resolution at default. And sometimes when it starts it asks for the serial key.
+
+The patch applied normally. I'm guessing it's probably something at my end."
+,lostpl14,2012-10-05T12:24Z,Not working for me too... Game crashes everytime when I try to enter license key... I have a fresh installed version 13.8.30 with default settings... Windows 7...

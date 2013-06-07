@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,MarceloMMK,2012-09-21T21:54Z,Can I record in a regular DVD or BD ?
+,DynamiteKidA,2012-09-21T23:20Z,"Burn to DVD.  In AVCHD format, so it will only play on either a Blu-Ray player or on software which supports AVCHD."
+,MarceloMMK,2012-09-22T00:50Z,Thanks
+,RexRexroth,2012-09-23T02:45Z,"Wow!  Thanks!  I've been hoping somebody would finally upmix this.
+
+Hey - I hate to bother you, but do you know where the other regular contributors of 5.1 DTS upmixes to Demonoid have gone?  Is there another Web site that has replaced Demonoid, at least for the upmixes?  I tried to contact someone at SBU who was helpful in the past but got no replay.  Thanks again!"
+,RexRexroth,2012-09-23T06:37Z,"You wrote:
+
+""For those who cannot play a disc in AVCHD, there is brief document included in this torrent as to my own process in extracting mono wavs from discs like these in order to create a disc in another multichannel format.""
+
+Must have slipped your mind.  It ain't there!
+
+I can't play AVCHD, but I know there is a way to convert to 5.1 DTS that will play on a regular DVD player.  I have done it before, but subsequently killed my motherboard and had to get a whole new computer, thus losing all of the programs necessary for this type of conversion, and totally forgetting the process.
+
+It would be great if you could post your ""brief document"" somewhere.  For now, this torrent contains a WinRAR .iso file which, when opened, contains only the elements needed to burn a SPEC DTS-MA disc: no document for conversion.
+
+Thanks anyway.  Oh - and if anyone else is having the same problem, the once easily-available regular 5.1 DTS upmix of ""American Idiot"" has been cleansed from the Internet thanks to our friends in the recording industry.  No seeders left anywhere, although the title is still listed on dozens of torrent sites."
+,DynamiteKidA,2012-09-24T04:43Z,"It did slip my mind.  More accurately, I forgot I was promising it in my blurb.  :)
+
+I'll cut and paste here:
+
+In order to be able to extract the full 24/96 stream from DTS-MA with AudioMuxer, you must have ArcSoft DTS Decoder installed somewhere on your PC.  Otherwise, AudioMuxer will only extract the 24/48 DTS core stream.
+
+Use ISOBuster, PowerISO, or your ISO-busting software of choice to extract ""BDMV"" and ""CERTIFICATE"" folders from the ISO file.
+
+With AudioMuxer, select ""Extract Audio from Blu-Ray"" under ""Tools.""
+
+The MPLS file will be in the ""playlists"" folder in the ""BDMV"" folder.
+
+You can extract the files as DTSHD (which can be played in Foobar with the DTS-HD component), or as either MCH FLAC or MCH WAV.  You will also have both a working cue file and chapter file at your disposal.
+
+Utilizing AudioMuxer, you can then extract further to 6 mono wavs utilizing the ""Audio Conversion"" function under ""Tools.""
+
+From there, you can encode to your format of choice.
+"
+,RexRexroth,2012-09-25T16:54Z,"Thanks so much for the instructions!  It only took me about six hours (I'm not kidding!), but this is largely because I had to mix down to six mono .wav files, then had to resample to 44100 (using r8brain) to be able to work on SurCode (which I luckily found a copy of online for free, and not the official ""trial sample"" which does everything except allow you to execute the final step of encoding; that alone probably cost me an hour: getting the official link to the ""trial sample"" by e-mail, installing it, realizing that it was totally useless, and then uninstalling it).
+
+So anyway!  Since I don't have a Blu-ray player (and no plans to get one), and my computer is in my office (which played your file just fine with the onscreen graphic), but my DTS decoder and 5.1 speaker set-up are in my bedroom, along with the Big TV.  So I now have a nice old-fashioned 5.1 DTS CD.
+
+I have to tell you, the mix is fabulous!  Great work!  Many thanks for the music and the instructions!"

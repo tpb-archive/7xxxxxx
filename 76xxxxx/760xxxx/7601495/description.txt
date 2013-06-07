@@ -1,0 +1,42 @@
+Book Description
+
+With Acceptance Test-Driven Development (ATDD), business customers, testers, and developers can collaborate to produce testable requirements that help them build higher quality software more rapidly. However, ATDD is still widely misunderstood by many practitioners. ATDD by Exampleis the first practical, entry-level, hands-on guide to implementing and successfully applying it.
+
+ATDD pioneer Markus Gärtner walks readers step by step through deriving the right systems from business users, and then implementing fully automated, functional tests that accurately reflect business requirements, are intelligible to stakeholders, and promote more effective development.
+
+Through two end-to-end case studies, Gärtner demonstrates how ATDD can be applied using diverse frameworks and languages. Each case study is accompanied by an extensive set of artifacts, including test automation classes, step definitions, and full sample implementations. These realistic examples illuminate ATDD’s fundamental principles, show how ATDD fits into the broader development process, highlight tips from Gärtner’s extensive experience, and identify crucial pitfalls to avoid. Readers will learn to
+
+    Master the thought processes associated with successful ATDD implementation
+    Use ATDD with Cucumber to describe software in ways businesspeople can understand
+    Test web pages using ATDD tools
+    Bring ATDD to Java with the FitNesse wiki-based acceptance test framework
+    Use examples more effectively in Behavior-Driven Development (BDD)
+    Specify software collaboratively through innovative workshops
+    Implement more user-friendly and collaborative test automation
+    Test more cleanly, listen to test results, and refactor tests for greater value
+
+If you’re a tester, analyst, developer, or project manager, this book offers a concrete foundation for achieving real benefits with ATDD now–and it will help you reap even more value as you gain experience.
+
+Table of Contents
+Part I: Airport Parking Lot
+Chapter 1. Parking Cost Calculator Workshop
+Chapter 2. Valet Parking Automation
+Chapter 3. Automating the Remaining Parking Lots
+Chapter 4. Wish and Collaborate
+
+Part II: Traffic Light Software System
+Chapter 5. Getting Started
+Chapter 6. Light States
+Chapter 7. First Crossing
+Chapter 8. Discover and Explore
+
+Part III: Principles of Acceptance Test-Driven Development
+Chapter 9. Use Examples
+Chapter 10. Specify Collaboratively
+Chapter 11. Automate Literally
+Chapter 12. Test Cleanly
+Chapter 13. Successful ATDD
+
+Appendix A. Cucumber
+Appendix B. FitNesse
+Appendix C. Robot Framework

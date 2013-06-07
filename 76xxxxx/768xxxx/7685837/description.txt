@@ -1,0 +1,27 @@
+Video:
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 23mn 0s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 021 Kbps
+Width                                    : 1 024 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+
+Audio:
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 22mn 59s
+Bit rate mode                            : Variable
+Bit rate                                 : 192 Kbps
+Maximum bit rate                         : 236 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz

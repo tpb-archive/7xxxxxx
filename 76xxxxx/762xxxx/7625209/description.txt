@@ -1,0 +1,17 @@
+This is a Virtual Box of the Linux Mint Distro (Maya) with Gnome.  It is already pre-configured with LibreOffice. It also already has Apache2, MySQL Server, and PHP 5 installed with localhost working.  It comes with a read_me.txt file on the desktop which gives the user an idea of what's been configured on the machine. There is a shell script called "Clean" on the desktop that clears out all of the Firefox caches, history, cookies, etc. Which is more than the firefox program can do within the program.  The virtual machine's hard drive is dynamic (meaning no set size - it can grow as you use it).  No password is needed to boot into it. The username superuser password information is found in the read me file on the desktop. The firefox homepage is pre-configured to take you to a beginner's Linux site.
+
+This is a great virtual box for anyone wanting to try-out Linux but doesn't know how to install from an .iso file or doesn't want to take the time to do it. With this virtual box you don't have to bother with dual-boot configurations.  Just run it as a virtual machine!
+
+To download Virtual Box: 
+https://www.virtualbox.org
+
+Windows:  
+http://download.virtualbox.org/virtualbox/4.1.22/VirtualBox-4.1.22-80657-Win.exe
+
+Mac OS: 
+http://download.virtualbox.org/virtualbox/4.1.22/VirtualBox-4.1.22-80657-OSX.dmg
+
+Linux (Choose your distro): 
+https://www.virtualbox.org/wiki/Linux_Downloads
+
+Email me at ranito@me.com with any questions or comments.

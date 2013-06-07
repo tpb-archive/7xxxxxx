@@ -1,0 +1,37 @@
+VHS Rip : English, 61mins 36secs. This is a redo of my other torrent to reduce file size.
+
+the East Side Kids in Bowery Champs - 1944
+
+Featuring Leo Gorcey, Bobby Jordan, Huntz Hall, Billy Benedict, Gabriel Dell, Jimmy Strand & Buddy Gorman.
+
+A murder mystery. Bobby Jordan appears in uniform & uses his real name in the flick, Bobby was in the service at this point, must of been on leave or something. Gabriel Dell plays a role outside of the gang.
+
+Good flick. Also, Leo's dad Bernard Gorcey plays a cabbie
+  
+http://www.imdb.com/title/tt0036667/	
+
+[09:04:25] job configuration: Handbrake 9.3
+[09:04:25]  * source
+[09:04:25]    + C:Bowery ChampsVIDEO_TS
+[09:04:25]    + title 1, chapter(s) 1 to 1
+[09:04:25]  * destination
+[09:04:25]    + C:Documents and SettingsDead End KidsMy DocumentsBowery Champs.mkv
+[09:04:25]    + container: Matroska (.mkv)
+[09:04:25]      + chapter markers
+[09:04:25]  * video track
+[09:04:25]    + decoder: mpeg2
+[09:04:25]      + bitrate 8000 kbps
+[09:04:25]    + frame rate: same as source (around 23.976 fps)
+[09:04:25]    + strict anamorphic
+[09:04:25]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[09:04:25]      + pixel aspect ratio: 8 / 9
+[09:04:25]      + display dimensions: 640 * 480
+[09:04:25]    + encoder: x264
+[09:04:25]      + options: ref=2:bframes=2:me=umh
+[09:04:25]      + bitrate: 304 kbps, pass: 2
+[09:04:25]  * audio track 0
+[09:04:25]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[09:04:25]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[09:04:25]    + mixdown: Stereo
+[09:04:25]    + encoder: faac
+[09:04:25]      + bitrate: 160 kbps, samplerate: 48000 Hz

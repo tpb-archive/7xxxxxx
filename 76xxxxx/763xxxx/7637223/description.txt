@@ -1,0 +1,38 @@
+Follow my uploads here:                           
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                            
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: 2.2 and up
+Overview: Its a fairly simple App that will put CPU 1/2/3 OFFLINE when the screen turns off. Once the screen comes back on, it will allow CPU 1/2/3 back ONLINE.
+
+How does it work?
+Since we have Dual & Quad core CPUs, we have a CPU 0 and a CPU 1/2/3, core 0/1/2/3, while the screen is off we really only need to have 1 core active "CPU0", this App will make sure CPU 1/2/3 shuts off while the screen is off, then resumes normal usage when the screen comes back on.
+
+Compatibility?
+Works with any Dual Core & Quad Core Devices!
+
+Battery Saving?
+Battery savings all depends on Usage & idle times.
+
+What's in this version:
+Version 3.7 Release Notes:
+Galaxy Nexus leankernel does not work with this app & I recommend the Stock kernel if you wish to use this App.
+~ Everything is Fixed & working via 3.7
+~ 3.7 Is now the Final Build!
+~ If you get Wake issues, it's likely a Kernel related issue, If you get these Issues try out Different Kernel setups.
+~ Clean Up of Theme & Source
+~ Quad Core now working as intended
+~ Fixed the Threshold on Quad CPU's
+User's Please Email me before rating if you have Issues!
+
+                                By bobiras2009		

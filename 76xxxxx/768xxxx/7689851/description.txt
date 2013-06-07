@@ -1,0 +1,13 @@
+Changes in version 3.0 Final
+
+* Help is now available for Little Snitch.
+* Fixed an issue where Ask-Rules could cause a Connection Alert to be shown even in Silent Mode.
+* Fixed a bug where the Connection Alert wrongly indicated that the process terminated.
+* Fixed an issue where rules created from the Connection Alert were for process owner ΓÇ£SystemΓÇ¥ instead of the current user.
+* Connection Alert now honors modifier keys that were held before the alert was shown.
+* Fixed unexpected change of filter scope when creating rules from rule suggestions.
+* Fixed potential crash of Little Snitch Network Monitor when deleting connections from the list.
+
+Languages : English, German
+
+Homepage : http://www.obdev.at/products/littlesnitch/index.html

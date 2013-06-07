@@ -1,0 +1,17 @@
+Get blu-ray support in vlc with only few clicks !
+
+
+This simple installer will detect your vlc installation path and will copy the libaacs.dll there.
+It will also install latest known keydb in some kind of "all users" directory.
+It support windows 32 bits and 64 bits, as well as vlc 32 and 64 bits.
+
+
+This package is based on http://vlc-bluray.whoknowsmy.name/ work.
+
+
+Installer (nsis) source code is included if you want to modify/improve/update or whatever you could want to do.
+
+Please report any issue.
+
+
+Thanks for downloading !

@@ -1,0 +1,15 @@
+Intel Solid-State Drive Toolbox is a handy and powerful utility designed to enable you to manage your Intel SSDs.
+
+The Intel Solid-State Drive Toolbox (Intel SSD Toolbox) provides the following functional capabilities:
+┬╖ Accessing Intel SSD management features (Intel SSD Optimizer, System Configuration Tuner and Secure Erase)
+┬╖ Reporting the drive identification data for Intel SSDs, as well as other drives.
+┬╖ Accessing the Self-Monitoring, Analysis, and Reporting Technology (SMART) attributes for Intel SSDs, as well as other drives.
+┬╖ Checking the SMART thresholds and viewing recommended actions for Intel SSDs, as well as other drives.
+┬╖ Running diagnostic scans on Intel SSDs to check for any READ or WRITE errors.
+
+When opened, the Intel SSD Toolbox displays the following screen with the name and capacity of each drive on your PC, as well as the following options:
+┬╖ Intel SSD Management Tools - Enables monitoring and managing of any Intel SSDs associated with this computer.
+┬╖ View Drive Information - Displays the model number, serial number and firmware number for each drive on the system. It also lists the ATA and SATA capabilities for the selected drive.
+┬╖ Check SMART Attributes - Lists the SMART features and their respective thresholds, and, if necessary, indicates any action to take.
+┬╖ Run Fast Diagnostic Scan - Analyzes the first 1.5 GB of an SSD to determine whether there are any READ or WRITE errors.
+┬╖ Run Full Diagnostic Scan - Analyzes the complete SSD to determine whether there are any READ or WRITE errors or any bad blocks.

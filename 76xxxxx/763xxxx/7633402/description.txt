@@ -1,0 +1,38 @@
+Follow my uploads here:                
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                 
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Changes in Version 3.2.1 beta (build 27941), 2012-09-13:
+
+ΓÇô 2012-09-13: Version 3.2.1 Beta 3 (build 27941)
+- Fix: donΓÇÖt execute commands on background/hidden torrents (for instance in the add torrent dialog)
+- Fix: torrent order issue with magnet links
+- Fix: multi-file magnet links are now correctly downloaded into a directory with the torrentΓÇÖs name
+- Fix: ΓÇ£add at top of queueΓÇ¥ checkbox now works for magnet links
+- Feature: donΓÇÖt use a consistent peer-id (to mitigate tracking)
+- Fix: On slow connections, the toolbar offer might arrive after the user had
+ΓÇöchecked or unchecked boxes on the offer page. That would cause the
+ΓÇöcheckboxes to be reset to the default state, incorrectly installing an offer.
+- Feature: never try a tracker again if it returns status code 410
+- Change: add tracker.ccc.de as a default tracker
+- Fix: donΓÇÖt write the block list in a part file in 4-byte increments
+
+Changes in Version 3.3 alpha (build 27930), 2012-09-13:
+
+- Fix: donΓÇÖt execute commands on background/hidden torrents (for instance in the add torrent dialog)
+- Fix: torrent order issue with magnet links
+- Fix: multi-file magnet links are now correctly downloaded into a directory with the torrentΓÇÖs name
+
+
+
+                                By bobiras2009		

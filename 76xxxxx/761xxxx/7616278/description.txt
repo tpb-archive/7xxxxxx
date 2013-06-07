@@ -1,0 +1,84 @@
+Blu-ray Demux - Lossless Wavepack 24bit 48k
+
+
+Original 24bit 48K Uncompressed PCM only
+
+All PCM data has been extracted including bonus tracks.
+
+No lossy tracks have been extracted.
+
+
+*The DVD only had AC3, this Blu-ray has beautifull PCM!
+
+
+
+Part 1 and 2 are single file because this is how the data is stored on the Blu-ray.
+
+Bonus tracks are multi files because this is how the data is stored on the Blu-ray.
+
+I have done my best to do a 1:1 extract.  No data modification has been made beside a small
+1 sec fade out at total end of part 2 in the final cheers and cut the end credit music which is
+not part of the show but was added during authoring.
+
+All cuesheets made manually.
+
+
+Process:
+
+Blu-ray -> tsMuxer
+SoundForge -> cut final credit
+SoundForge -> 1 sec fade out in final cheers
+Wavepack -> wavepack -hh -x3  ( best lossless compression )
+Notepad -> Manual cuesheet creation with track names and auspicious track positions
+
+
+Part 1
+
+01. Speak to Me
+02. Breathe
+03. Time
+04   ( talk ) - Presentation of 'On an Island'
+05. Castellorizon
+06. On an Island
+07. The Blue
+08. Red Sky at Night
+09. This Heaven
+10. Then I Close My Eyes
+11.  ( talk ) - Presentation of the band
+12. Smile
+13. Take a Breath
+14. A Pocketful of Stones
+15. Where We Start
+
+
+Part 2
+
+16. Shine On You Crazy Diamond
+17. Fat Old Sun
+18. Coming Back To Life
+19. High Hopes
+20. Echoes
+21. Wish You Were Here
+22.  ( talk ) - Presentation of David Crosby & Graham Nash
+23. Find The Cost Of Freedom
+24.  ( talk ) - Presentation of David Bowie
+25. Arnold Layne
+26. Comfortably Numb
+
+
+Bonus Tracks
+
+27. Wot's... Uh the Deal?
+28. Dominoes
+29. Wearing the Inside Out
+30. Arnold Layne (with Richard Wright)
+31. Comfortably Numb (with Richard Wright)
+
+
+
+
+Made by Barracuda Surf
+
+
+
+

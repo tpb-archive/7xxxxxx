@@ -1,0 +1,20 @@
+Altium Designer v10.x.x Toolkit (same for all V10)
+
+Altium Designer - Complex system of designing high-speed electronic devices based on printed circuit boards, which allows developers to create projects, from concept and VHDL-description of the FPGA, to carry out simulation derived schemes and VHDL-code, prepare files for production, and the concept of Live Design, the so-called living design, allows it to complete the project on-board debugging NanoBoard.
+
+
+System requirements:
+
+* Altium Designer V10.x.x software installed
+
+
+I decided to split up this release, because the Toolkit
+never changes between 10.x.x releases.
+
+It contains:
+
+-Documentation
+-Examples
+-Component library
+
+//Longword

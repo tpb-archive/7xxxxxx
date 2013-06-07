@@ -1,0 +1,54 @@
+Follow my uploads here:                      
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                       
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Requirements: Varies with device
+Overview: Control your phone through GTalk / XMPP.
+
+Note: GTalkSMS is not a chat client, its a service on your android phone that connects to GTalk/XMPP and waits for special commands and informs a GTalk/XMPP account about new SMS Messages / Incoming Calls / Battery State / etc.
+
+* Start the application remotely by sending a SMS with "GTalkSMS" body then locate your phone, erase data or take photo if your phone has been stolen.
+* Receive and send SMS from a GTalk/XMPP conversation.
+* Search for :
+- contacts from GMail or Exchange,
+- old SMS,
+- call logs.
+* Start GMap, Google Street view or Google navigation from an address entered in a GTalk/XMPP conversation.
+* Copy text to android clipboard or text boxes from your PC with a real keyboard.
+* Get your Android phone clipboard.
+* Execute shell commands.
+* Receive notifications from incoming SMS or incoming calls.
+* Dial a contact on your phone.
+* Mark SMS as read.
+* Make your phone ring.
+* Make your phone send you geolocalization links (GMap links) to track down your phone.
+
+Widget and a notification icon are also available.
+
+For setup instructions go to the project page http://code.google.com/p/gtalksms
+
+For Tasker / Locale integration visit http://code.google.com/p/gtalksms/wiki/PublicActions
+
+If you need help or have some suggestions, you are welcome to post in gtalksms-users group (http://groups.google.com/group/gtalksms-users).
+Please DON'T use the Android Market comment function for such things.
+
+Sometimes Jabber doesn't work. It's mostly due to the Jabber server, then please don't blame GTalkSMS.
+
+Recent changes:
+* Fix new FC issues
+* New Applications command to see or start installed applications
+* New Text To Speech command
+* Command "wappend" & "wsend" to add text as a virtual keyboard and validate the field
+* New UI with Holo theme
+
+
+                                By bobiras2009		

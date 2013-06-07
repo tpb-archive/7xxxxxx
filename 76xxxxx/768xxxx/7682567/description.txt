@@ -1,0 +1,32 @@
+Windows does not allow you to install 3rd party themes. You have to patch some system files to be able to do so. Like UxStyle Core, Universal Theme Patcher lets you install themes on Windows 7 & Vista easily. 
+
+Universal theme patcher is a small program that patches the theme specific files in the operating system which enables the user to install 3rd party themes.
+
+Crack uxtheme, free your Windows supports 3rd party desktop msstyle themes.
+
+It is a universal theme patcher. Without language limited, Supports all language of windows!
+
+The meaning of the last number of checksum:
+1 - Original file, without any modification.
+9 - The file has been modified.
+
+Notes:
+1, Can operate in normal mode. Do not need to enter safe mode.
+
+2, Choose the corresponding patcher based on you Windows:
+For 32bit(x86): UniversalThemePatcher-x86.exe
+For 64bit(amd64): UniversalThemePatcher-x64.exe
+
+3, Require administrator rights, UAC turn off. Right-click the exe file, select Run as Administrator.
+
+4, XP/2003 only need to patch one file: uxtheme.dll
+2008/Vista/Windows 7 6519 need to patch 3 files: uxtheme.dll, themeui.dll, shsvcs.dll
+Windows 7 6801 need to patch 3 files: uxtheme.dll, themeui.dll, themeservice.dll
+
+Sometimes, in x64 Windows, you need to patch 2 copies of files:
+using UniversalThemePatcher-x64.exe to patch the 64bit files in windowssystem32;
+and using UniversalThemePatcher-x86.exe to patch the 32bit files in windowssyswow64.
+
+5, After patch, Restart computer to take effect.
+
+6, You can run program with argument "-silent" to patch in silent mode.

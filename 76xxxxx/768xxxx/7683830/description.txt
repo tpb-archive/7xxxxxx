@@ -1,0 +1,7 @@
+This download contains 3 folders of all ms updates for win7 sp1 x64 to about 15-9-12
+The folders are numbered in order of install, emulating exactly the order in which windows update presents them and each contains a install.bat for simple 'click n go' so the files are installed in the right order e.g. ie9 gets installed before updates for ie9
+
+The batch files are simply a run command for each file with quiet and norestart switches, though a few at the start of folder 1 will still prompt with uac - can't figure out how to overcome that as yet. Tried a few tricks but all have failed so far.
+The last file command in each .bat has the restart switch, so you will be prompted to restart the computer after the last update is installed in each folder
+
+Silverlight can be ignored or installed at any time.

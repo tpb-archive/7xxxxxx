@@ -1,0 +1,25 @@
+
+
+
+Book Description  :
+
+Alfresco is an open source platform for Enterprise Content Management solutions. ECM includes things like Document Management, Web Content Management, Collaboration/Enterprise 2.0, Digital Asset Management, Records Management, and Imaging. At its core is a repository for rich content like documents, web assets, XML, and multimedia. The repository is surrounded by a services layer (supporting both SOAP and REST) that makes getting content into and out of the repository a breeze, which is why so many next generation Internet solutions are built on Alfresco. 
+
+Implementing Alfresco usually involves extending the repository to accommodate your business-specific metadata and business logic. These extensions are done using some combination of Java, JavaScript, XML, and FreeMarker. 
+
+This book takes you through a set of exercises as if you were rolling out and customizing the platform for a fictional organization called SomeCo, which wants to roll out Alfresco enterprise-wide. Each department has a set of requirements that need addressed. We will show you how to extend Alfresco to meet these requirements. By the time you've worked through the entire book, you will be familiar with the entire platform. You'll be prepared to make your own customizations whether they are part of a Document Management solution, a web site that uses Alfresco for content storage, or an entire custom application built on Alfresco's REST API. This book will give you the knowledge and confidence you need to make Alfresco do what you need it to do. 
+
+Appoach :
+This book focuses on teaching by example. Every chapter provides a bit of an overview, and then dives right in to hands-on examples so you can see and play with the solution in your own environment. All code samples run on both the latest Enterprise and Labs release.
+
+Audience :
+This book will be most useful to developers who are writing code to customize Alfresco for their organization or who are creating custom applications that sit on top of Alfresco. This book is for Java developers, and you will get most from the book if you already work with Java but you need not have prior experience on Alfresco. Although Alfresco makes heavy use of open source frameworks such as Spring, Hibernate, JavaServer Faces, and Lucene, no prior experience using these is assumed.
+
+Book Details :
+
+    * Format : PDF
+    * Paperback: 533 pages
+    * Publisher: Packt Publishing 
+    * Language: English
+    * ISBN-10: 1847193110    
+    * ISBN-13: 9781847193117    

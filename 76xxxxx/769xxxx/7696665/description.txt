@@ -1,0 +1,14 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+Fixed
+Crash when trying to milk an animal after it's been butchered
+Crash with "Shield Wall" and not having a full squad
+Crash when looking for a chair
+When loading a save, sometimes gnomes would lose track of claimed items and constructions.  This was causing food, beds, etc to be permanently claimed and unusable.
+Squad members not leaving a squad when it's disbanded
+Squad members constantly switching between two kinds of ammo
+Squad members not canceling their job when going on guard duty or training
+Ranchers fighting over livestock
+Priority and suspend not working for butcher shop
+Being able to queue the same animal in two different butcher shops
+Dirt and clay golems being immune to blunt and pierce damage

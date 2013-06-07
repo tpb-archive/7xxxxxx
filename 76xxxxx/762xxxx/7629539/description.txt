@@ -1,0 +1,44 @@
+Follow my uploads here:                   
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                    
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Requirements: Android 1.5 and up
+Overview: Complete battery monitoring with notification icon, history, graphics and alarms
+
+The most complete tool to manage your battery: Shows historical data (%, mA, mW, mV and temperature), calculates estimated run-times and battery aging, helps calibrate battery and improve your battery run-time.
+
+NB:
+- NOT all phones report accurate mA - Check app web-site for more information
+- The app displays the % remaining, voltage and temperature data reported by Android
+
+Measures real battery capacity using historical data!
+Display all information using great looking graphics, fully scrollable and zoomable.
+Use additional packages to show great looking icons in notification bar
+Display historical graphics or battery data on your home screen using widgets of various sizes!
+Triggers alarm based on battery data (voltage and temperature limits)
+Manually resets battery calibration/statistics on rooted phone
+Support Motorola Defy/Atrix 1% reporting
+Online help accessible from settings
+Export data to System Tuner Pro to analyze which process is responsible for battery drain!
+
+Lowest battery consumption on the market! Disable history/graphics for even lower consumption! Check web-site for app consumption and supported phones.
+
+What's in this version:
+Add BLUETOOTH permission to cope with ICS bug reading battery stats on some devices. App DOES NOT actually use BLUETOOTH at all!
+2.6.4:
+New support for new HTC One S models
+New support for Atrix HD reversed mA (please report if wrong)
+New 4x2, 5x1 and 5x2 graphic widgets (pro only)
+Fix possible FC in estimates screen
+Fix temperature decimals being lost
+
+                                By bobiras2009		

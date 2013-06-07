@@ -1,0 +1,34 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+v0.8.12.1
+Fixed:
+   Crash on loading some saves from previous versions
+
+v0.8.12
+General:
+   Display dimensions of current selection
+   Tile info window updates while unpaused
+   Context menu stays up when the cursor is moved off
+   Build containers changed to a selection instead of single build
+   Gnomes prioritze jobs at workshop, farms, pastures and stockpiles by distance if they have the same priority
+   Save games are displayed in order by most recently saved
+   Added rain back in
+   Renamed oak to pine
+   Armor on corpses visually update as it is removed
+   Pillar -- Crafted at Stonecarver and placed like a statue
+
+Art:
+   Updated chiseled floor tile
+
+Fixed:
+   Replace wall over a constructed wall not properly updating the navigation graph
+   Bug that sometimes caused longer paths to be found   
+   Mechanisms seemingly being linked after loading
+   Devices that have enough power not being powered after loading
+   Gnomes prefering items of a specific material over closest item
+   Rain sometimes going out of control
+   Hair/hats showing through helmets   
+   "Fallen over" status not clearing after legs have been healed
+
+
+I will be seeding newer versions as they will be released so keep an eye out :)	

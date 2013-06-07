@@ -1,0 +1,9 @@
+Book Description
+
+Spring Integration in Action is a hands-on guide to Spring-based messaging and integration. After addressing the core messaging patterns, such as those used in transformation and routing, the book turns to the adapters that enable integration with external systems. Readers will explore real-world enterprise integration scenarios using JMS, Web Services, file systems, and email. They will also learn about Spring IntegrationΓÇÖs support for working with XML. The book concludes with a practical guide to advanced topics such as concurrency, performance, system-management, and monitoring.
+
+Spring Integration extends the Spring Framework to support the patterns described in Gregor Hohpe and Bobby WoolfΓÇÖs Enterprise Integration Patterns. Like the Spring Framework itself, it focuses on developer productivity, making it easier to build, test, and maintain enterprise integration solutions.
+
+Spring Integration in Action is an introduction and guide to enterprise integration and messaging using the Spring Integration framework. The book starts off by reviewing core messaging patterns, such as those used in transformation and routing. It then drills down into real-world enterprise integration scenarios using JMS, Web Services, filesystems, email, and more. YouΓÇÖll find an emphasis on testing, along with practical coverage of topics like concurrency, scheduling, system management, and monitoring.
+
+This book is accessible to developers who know Java. Experience with Spring and EIP is helpful but not assumed. 

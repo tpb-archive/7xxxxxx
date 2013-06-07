@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,tofushoyu,2012-09-11T14:41Z,"
+Screenshots:
+
+http://i.imgur.com/ptZvI.jpg
+http://i.imgur.com/Vgs3J.jpg
+http://i.imgur.com/o4oTa.jpg
+http://i.imgur.com/lFGgp.jpg"
+,210gustavo,2012-09-16T16:00Z,"tofushoyu... agradeço pelos Ótimos filmes que você posta aqui pra gente...
+gostaria de saber que programa vc usa pra inserir o audio dublado nos filmes....kkkkkk, de qualquer forma obg, te admiro muito, sempre será usado como referencia de qualidade pra mim, vlw, continue assim...."
+,gamemania666,2012-09-16T17:41Z,"unfortunately in Portuguese,. else,. great quality"
+,tofushoyu,2012-09-17T17:12Z,"@210gustavo
+
+Obrigado pelos elogios!
+Costumo usar só o ""YAMB"" quando encontro duas fontes em que o vídeo e o áudio estão sincronizados. Quando o ""YAMB"" falha por algum motivo, uso o ""mkvmerge"" pra criar um MKV e depois o ""YAMB"" pra empacotar num MP4. As vezes uso o ""avidemux"" pra criar o MP4.
+De vez em quando acontece de o áudio estar sincronizado no começo e ir perdendo a sincronia no decorrer do filme. Nesses casos tenho que extrair o áudio dublado do arquivo AVI com o ""AVIMux GUI"" e sincronizá-lo com o ""mp3DirectCut"". Depois é só empacotar tudo normalmente com o ""YAMB"".
+Espero que outros usuários aprendam a fazer isso e comecem a postar filmes de outros gêneros dublados.
+Não quer tentar? :D
+Abraço!"
+,tofushoyu,2012-09-17T17:14Z,"@gamemania666
+
+It was told in the torrent description."
+,210gustavo,2012-09-17T18:56Z,"tofushoyu, muito obrigado mesmo, eu ja estava tentando usar o YAMB, pretendo colocar filmes aqui sim, ja tenho alguns, mas quero colocar filmes em hd como os seus, mas o problema é q a maioria dos filmes ficam sem sincronia sabe... por exemplo: baixei piratas do caribe 2 em ingles e hd, uns 750mb mais ou menos, o audio dublado que coloquei fico certinho, só com o YAMB, mas quando tentei em outro o audio fico todo fora e to me matando aqui pra conseguir sincronizar sabe, vo tentar fazer mais ou menos como voce falo ali, mas muito obrigado mesmo, abraço pra voce tbm, vo tentar entender melhor a sincronia usando esses programas que voce falo, vlw..."
+,tofushoyu,2012-09-18T07:30Z,"@210gustavo
+
+Tente abrir o arquivo MP4 fora de sincronia que você criou no programa ""Avidemux"".
+Em Audio marque a opção Shift e atrase ou adiante o áudio. Por exemplo, 1000 vai atrasar o áudio em 1 segundo, -1000 vai adiantar o áudio em 1 segundo.
+Onde está escrito Format não esqueça de escolher MP4.
+Salve com outro nome e vá testando até achar a sincronia correta.
+Boa sorte!"
+,210gustavo,2012-09-18T18:11Z,"tofushoyu.... muito obrigado mesmo, mas eu faço com outro programa.... descobri ontem mesmo, sabe aquele mkv merge?? entao, tem essa opção lá, de atrasar ou adiantar o som, aí ele salva tudo em mkv, bem rapido.... acho o mkv bom até... talvez menos popular que MP4, mas é bom, é só achar um bom reprodutor de midia ou um bom codec sabe... qual vc prefere??mkv ou mp4?? abração pra voce, me ajudou muito... já postei um em hd, piratas do caribe 2, se puder baixar e me dizer se ficou bom agradeceria, até mais..."
+,tofushoyu,2012-09-18T19:29Z,"@210gustavo
+
+As vezes uso o mkvmerge também, principalmente quando os outros programas não conseguem empacotar os arquivos. Mas no final sempre transformo o MKV em MP4.
+Se você reparar bem vai notar que os primeiros filmes eu postava em MKV.
+Até que notei que os arquivos criados pelo mkvmerge não funcionavam em algumas TVs e aparelhos de Blu-Ray que tem entrada USB.
+Então comecei a postar tudo em MP4, pela maior compatibilidade com outros dispositivos.
+E antes de você pedir eu já estava baixando o seu filme em 720p. :D
+E sempre que puder compartilhe o que aprendeu, assim teremos mais pessoas postando filmes dublados em alta definição.
+Valeu! Abraço!"
+,210gustavo,2012-09-18T20:23Z,"eii,,,na maioria das vezes, pra transformar mkv em mp4, voce usa qual programa?? o avidemux percebi que é bem demorado... voce pode fazer com algum outro programa?? abraço...."
+,tofushoyu,2012-09-18T21:56Z,"@210gustavo
+
+De MKV pra MP4 uso o YAMB mesmo."
+,210gustavo,2012-09-19T00:08Z,"mas quando eu seleciono um arquivo mkv pra salvar como mp4 no yamb ele nao aceita, no processo ele diz q ocorreu um erro.... sabe como fazer pra mudar isso?? obrigado pela ajuda...."
+,tofushoyu,2012-09-19T04:45Z,"@210gustavo
+
+Aqui não dá erro, consigo converter de MKV pra MP4 numa boa com o YAMB. Talvez seja alguma incompatibilidade de codec instalado no seu PC.
+No meu post do ""As Aventuras de Tintim"" fiz um tutorial sobre isso, faço exatamente daquele jeito e dá certo."
+,210gustavo,2012-09-21T23:56Z,"tofushoyu, ja que voce gosta tanto de postar desenhos animados, pq uma hora dessas nao posta toy story 1,2 e procurando nemo, sao grandes animações da disney, até monstros sa....
+eu até faria isso mas eu to no começo dos filmes em HD e eu posto filmes mesmo, voce sabe néh.... mas vlw cara, continue sempre assim..."
+,210gustavo,2012-09-22T19:24Z,"tofushoyu, voce podia me fazer um favor?? poderia baixar meu ultimo filme-battleship.batalha dos mares?? pq tem um sujeito que disse q a qualidade é ruim, como sessão da tarde... vc poderia ver como ficou e comentar no meu post depois?? obrigado amigo..."
+,210gustavo,2012-09-23T23:09Z,"tofushoyu, como faço para sincronizar um audio que fica fora lá pelo final do filme?? tipo, fika um segundo fora, como posso arrumar isso?? obrigado..."
+,tofushoyu,2012-09-24T04:49Z,"@210gustavo
+
+Vou completar a saga Toy Story sim. E é claro que vou tentar fazer outros filmes da Disney/Pixar, como os que você citou.
+
+Quanto ao Battleship, acho que foi aquilo que o sempressa disse mesmo, o a.leao parece ter criticado o filme, não a codificação.
+
+Pra sincronizar o áudio você deve extraí-lo com o ""AVI-Mux_GUI"" e editá-lo com o ""mp3DirectCut"", que salva sem recodificar, mantendo sua qualidade.
+Boa sorte!"
+,GuilherC,2012-10-01T04:28Z,Favoritado Tofu! Tenho um filho de 4 anos e ele me faz lotar o HD de tanto filmes e desenhos animados! Criei uma conta me inspirando em vc e vou mandar mto desenho e semear os seus! Abraços e Parabéns!
+,tofushoyu,2012-10-01T07:23Z,"@GuilherC
+
+Valeu pelos elogios!
+Será bem legal mais alguém compartilhando filmes e desenhos dublados. As crianças agradecem.
+Abraço!"

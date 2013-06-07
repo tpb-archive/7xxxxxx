@@ -1,0 +1,36 @@
+TV : Drama : VHS quality : English, 48mins, nice condition, new format, reduced file size.
+
+Matt Helm 1976 Die Once, Die Twice
+
+Anthony Franciosa [Matt Helm] only makes cursory appearances as he is out of town. This episode features the beautiful Laraine Stephens & Susan Dey. Robert Ginty in an early role, not a very nice guy in this one. Huntz in a small part.
+ 
+http://www.imdb.com/title/tt0644126/
+ 
+http://thepiratebay.se/user/jmmybttm	
+
+HandBrake 0.9.3
+[08:27:48] job configuration:
+[08:27:48]  * source
+[08:27:48]    + C:You're Not So Tough Matt HelmMatt Helm
+[08:27:48]    + title 1, chapter(s) 1 to 7
+[08:27:48]  * destination
+[08:27:48]    + C:Documents and SettingsDead End KidsMy Documentsmatt helm.mkv
+[08:27:48]    + container: Matroska (.mkv)
+[08:27:48]      + chapter markers
+[08:27:48]  * video track
+[08:27:48]    + decoder: mpeg2
+[08:27:48]      + bitrate 9641 kbps
+[08:27:48]    + frame rate: same as source (around 29.970 fps)
+[08:27:48]    + strict anamorphic
+[08:27:48]      + storage dimensions: 352 * 480 -> 346 * 480, crop 0/0/6/0
+[08:27:48]      + pixel aspect ratio: 20 / 11
+[08:27:48]      + display dimensions: 629 * 480
+[08:27:48]    + encoder: x264
+[08:27:48]      + options: ref=2:bframes=2:me=umh
+[08:27:48]      + bitrate: 306 kbps, pass: 2
+[08:27:48]  * audio track 0
+[08:27:48]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[08:27:48]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[08:27:48]    + mixdown: Stereo
+[08:27:48]    + encoder: faac
+[08:27:48]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,revavoom,2012-09-21T23:17Z,"Audio
+Format                                     : MPEG Audio
+Format version                        : Version 1
+Format profile                          : Layer 3
+Mode                                        : Joint stereo
+Mode extension                       : MS Stereo
+Duration                                   : 3mn 58s
+Bit rate mode                           : Variable
+Bit rate                                     : 209 Kbps
+Minimum bit rate                      : 32.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                           : 44.1 KHz
+Compression mode                  : Lossy
+Stream size                              : 5.95 MiB (100%)
+Writing library                          : LAME3.98r
+Encoding settings                    : -m j -V 0 -q 0 -lowpass 19.5 --vbr-new -b 32
+Language                                  : English
+
+--------------------------------------------------------------------------------------
+
+Appreciate the upload.
+
+Why use Lame VBR V0?
+
+
+FROM   http://wiki.hydrogenaudio.org/index.php?title=LAME
+
+===
+Maximum quality and archiving
+
+Maximum quality is achieved when, regardless of listening conditions, you are unable to detect a difference between the MP3 and the original. As demonstrated by blind ABX tests, LAME-encoded MP3s typically achieve this level of transparency when encoded with the default settings, at bitrates well below maximum. Encoding with other settings will have no effect on the quality.
+
+For archiving, only lossless formats like WavPack, FLAC, etc. are ideal; they will preserve the audio with no changes, sample-for-sample, regardless of encoder settings. In contrast, lossy formats like MP3 are designed to save space by changing the audio in subtle, often imperceptible ways, even at the encoder's maximum settings.
+[edit] Very high quality: HiFi, home, or quiet listening, with best file size
+
+-V0 (~245 kbps), -V1 (~225 kbps), -V2 (~190 kbps) or -V3 (~175 kbps) are recommended.
+
+These VBR settings will normally produce transparent results. Audible differences between these presets may exist, but are rare. 
+====
+
+So please
+
+1) for losless use FLAC
+2) for lossy use Lame -V3; all above V3 is a waste of bits.
+
+Would be great to have a FLAC encode of this one."

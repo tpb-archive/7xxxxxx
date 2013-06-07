@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,dredre27,2012-09-23T06:38Z,"Nice to finally find an updated torrent version of this app. But be careful with this one. Seems the repacked exe is triggering possible virus alarms, not the dlls. WOuld suck to lose all your logins and passwrds :(
+
+1) File comparision (win7x64 fc.exe) shows this AiRoboform-Enterprise.exe does not match the RoboForm-Setup.exe found on the site, though file sizes and version numbers are the same.
+
+2) This uses an exe packer that is sketchy and hiding something: https://www.virustotal.com/file/5a6f72956121ce08292e280be4d8f80c2f2b246821475faa0a0326dfe8a73e3c/analysis/1348373895/
+
+3) the original exe does not generate the same packer warning: https://www.virustotal.com/file/0b3cb9568d1e46db421cd2a7e833c321d76c9168bcd35357b1f0ab37daca1b3c/analysis/
+
+Someone else can look and see if this comodo analysis shows a problem, I don't know enough about hooks etc to know if these are possible flags or not: http://camas.comodo.com/cgi-bin/submit?file=77e0c9aa8fd4655a23efc6711f95ffb7f2c0726ad2c0f92037df7542b6e988ca
+
+Here's an analysis of the official file (same version and file size) but direct from roboform folks: http://camas.comodo.com/cgi-bin/submit?file=0b3cb9568d1e46db421cd2a7e833c321d76c9168bcd35357b1f0ab37daca1b3c
+
+I hope this torrent is clean. I'm installing to vmware on accounts that are not critical. But would love to use it in my real machine too.
+
+thx x2 for finding and sharing."
+,dredre27,2012-09-23T09:04Z,"Nice to finally find an updated torrent version of this app. But be careful with this one. Seems the repacked exe is triggering possible virus alarms, not the dlls. WOuld suck to lose all your logins and passwrds :(
+
+1) File comparision (win7x64 fc.exe) shows this AiRoboform-Enterprise.exe does not match the RoboForm-Setup.exe found on the site, though file sizes and version numbers are the same.
+
+2) This uses an exe packer that is sketchy and may be hiding something: https://www.virustotal.com/file/5a6f72956121ce08292e280be4d8f80c2f2b246821475faa0a0326dfe8a73e3c/analysis/1348373895/
+
+3) the original exe does not generate the same packer warning: https://www.virustotal.com/file/0b3cb9568d1e46db421cd2a7e833c321d76c9168bcd35357b1f0ab37daca1b3c/analysis/
+
+Someone else can look and see if this comodo analysis shows a problem, I don't know enough about hooks etc to know if these are possible flags or not: http://camas.comodo.com/cgi-bin/submit?file=77e0c9aa8fd4655a23efc6711f95ffb7f2c0726ad2c0f92037df7542b6e988ca
+
+Here's an analysis of the official file (same version and file size) but direct from roboform folks: http://camas.comodo.com/cgi-bin/submit?file=0b3cb9568d1e46db421cd2a7e833c321d76c9168bcd35357b1f0ab37daca1b3c
+
+I hope this torrent is clean. I'm installing to vmware on accounts that are not critical. But would love to use it in my real machine too.
+
+PS: I installed the 'official' version from roboform.com site and simply used the .dll from the crack folder in this torrent as explained in the readme file. The app now shows as registered until 8/12/2786 (I should be long since dead by then). I also added roboform.com to my host file and my firewall's block list, because this app does phone home and disables itself, as I found out from older versions. 
+
+No clue if the dll's in this torrent are clean or not. Shows clean in all scanners except for the clamav and the soon to be out of business scanner from Virusblaster.com. So either the dll is clean or really good at hiding malicious code in the dll -- I hope not :/
+
+thx x3"
+,dredre27,2012-09-23T09:27Z,"Also block ip address 67.208.88.197
+
+Add the ip to your host file and firewall block list. The app 'phones home' to the ip address as well as to the domain name. 
+
+The domain name and ip address are the only two call outs I've noticed so far.
+
+If you really want to avoid all these hassles and possible dangers I guess you could always register the app. I'm sure the developers won't mind :)"
+,LdyDethStryk,2012-09-30T14:11Z,did what dredre27 said ... blocked on hosts file and firewall.. used current trial version to install and just copied over dlls ... simple... works awesome! no virus issues

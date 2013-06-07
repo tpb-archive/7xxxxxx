@@ -1,0 +1,35 @@
+Hi
+
+Here is a tutorial to convert your Dex console to Cex , with no brick risk 100% tested on fat and slim consoles .
+
+Before Start Tut Install DEX3.55 from http://www.ps3devwiki.com/files/firmware/OFW-DEX/
+
+PS backup internal HDD because this will format it!
+
+1- rename your 16 MB cex flash to my.CEX.EID0.NORBIN for Slim Console With NOR flash and my.CEX.EID0.NANDBIN for Fat console with NAND flash
+
+2- Overwrite the reanamed cex flash file Using multiman . (Run in filemanager of multiman)
+
+WARNING DO NOT TURN OFF YOUR CONSOLE AFTER OVERWRITING YOUR CEX FLASH . TURNING OFF MAY CAUSE YOUR CONSOLE BRICK
+
+3- Download And Install FactoryServiceMod.pkg but DONT RUN .
+
+4- Download Rogero CFW V3.4 and rename it to PS3UPDAT.PUP 
+http://www.ps3devwiki.com/files/firm...r/Rogero-V3.4/
+
+5- Download Lv2diag.self file (365Kb)
+
+6- Copy Renamed Rogero CFW and Lv2diag.self to root folder of Your Cooldisk Or EXT.HDD
+
+7- Connect Your CoolDisk Or HDD to right usb slot of your console ( the one near BD drive)
+
+8- Run FactorySerViceMode From Console
+after running factoryservicemode the screen goes black wait until the console turn off automaticlly.this may take 4-5 min.
+
+9- Delete Lv2diag.self (365Kb) From cooldisk or HDD. download Lv2diag.self (4.14Kb) from the link below and copy to root folder of cooldisk or HDD . connect it to right slot of your console.
+
+There is two Lv2diag.self for this TuT , Be careful . First one is 365kb and 2nd one is 4.14kb .
+
+10- Turn on The Console . wait for automatic turn off
+
+11- eject usb drive , turn on console .

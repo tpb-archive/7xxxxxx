@@ -1,0 +1,33 @@
+
+v0.8.13.1 Changes:
+Fixed
+Crash when picking up a torch.
+
+v0.8.13 Changes:
+
+General
+Position options for maintain distance, persue target, retreat, assist squad leader
+Formation options for perform attack orders, defend gnomes, avoid enemies
+Position perks
+Formation perks
+Gnomes no longer pick up random items while they are running in fear
+Gnomes now run away in a straighter line
+Gnomes will continue running for a bit after losing sight of an enemy
+Display combat skills when selecting squad members
+Armor reduces move speed and dodge chance
+Chest armor protects the neck
+Gnomes unequip armor when not in a squad
+Gnomes in a squad will no longer perform jobs by default
+Decreased miss chance
+Adjusted weapon and armor stats
+Decreased experience gain from training grounds and increased it for regular combat
+Gnomes train faster if they are sparring with someone with a higher skill
+
+Fixed
+Buttons not working with some third party apps running in the background, this was making it impossible for some people to start the game
+Crash when trying to defend with an item that can't defend, ie pickaxe
+Gnomes getting stuck trying to pick up an item if they had something in their left hand and their right was injured
+Bandages having quality. It was causing gnomes to travel farther for a better quality bandage when all bandages heal the same.
+Tooltips on the action bar covering the buttons
+Right click menu going behind action bar
+Attributes increasing too fast

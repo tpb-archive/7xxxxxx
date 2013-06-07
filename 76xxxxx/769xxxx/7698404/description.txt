@@ -1,0 +1,14 @@
+Book Description
+
+Need to move a relational database application to Hadoop? This comprehensive guide introduces you to Apache Hive, HadoopΓÇÖs data warehouse infrastructure. YouΓÇÖll quickly learn how to use HiveΓÇÖs SQL dialectΓÇöHiveQLΓÇöto summarize, query, and analyze large datasets stored in HadoopΓÇÖs distributed filesystem.
+
+This example-driven guide shows you how to set up and configure Hive in your environment, provides a detailed overview of Hadoop and MapReduce, and demonstrates how Hive works within the Hadoop ecosystem. YouΓÇÖll also find real-world case studies that describe how companies have used Hive to solve unique problems involving petabytes of data.
+
+Use Hive to create, alter, and drop databases, tables, views, functions, and indexes
+Customize data formats and storage options, from files to external databases
+Load and extract data from tablesΓÇöand use queries, grouping, filtering, joining, and other conventional query methods
+Gain best practices for creating user defined functions (UDFs)
+Learn Hive patterns you should use and anti-patterns you should avoid
+Integrate Hive with other data processing programs
+Use storage handlers for NoSQL databases and other datastores
+Learn the pros and cons of running Hive on AmazonΓÇÖs Elastic MapReduce 

@@ -1,0 +1,77 @@
+Alice Cooper - From The Inside - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+1 - From The Inside
+2 - Wish I Were Born In Beverly Hills
+3 - The Quiet Room
+4 - Nurse Rozetta
+5 - Millie And Billie
+6 - Serious
+7 - How You Gonna See Me Now
+8 - For Veronica's Sake
+9 - Jackknife Johnny
+10 - Inmates (We're All Crazy)
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 23, Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 42, Peak = 0.867db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-10-02 16:47:21
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -0.08 dB   -10.55 dB      3:54 ?-01 - From The Inside
+DR9       -0.09 dB   -10.63 dB      3:37 ?-02 - Wish I Were Born In Beverly Hills
+DR9       -0.03 dB   -12.95 dB      3:52 ?-03 - The Quiet Room
+DR10      -0.12 dB   -12.27 dB      4:15 ?-04 - Nurse Rozetta
+DR12      -0.18 dB   -15.68 dB      4:13 ?-05 - Millie And Billie
+DR9       -0.02 dB   -11.09 dB      2:45 ?-06 - Serious
+DR10      -0.05 dB   -13.10 dB      3:58 ?-07 - How You Gonna See Me Now
+DR9       -0.44 dB   -11.05 dB      3:37 ?-08 - For Veronica's Sake
+DR9       -0.51 dB   -12.96 dB      3:46 ?-09 - Jackknife Johnny
+DR9       -0.52 dB   -12.60 dB      5:05 ?-10 - Inmates (We're All Crazy)
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

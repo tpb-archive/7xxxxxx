@@ -1,0 +1,105 @@
+DVB Dream v2.2 (Released 19 September, 2012)
+
+DVB Dream is DVB player with many nice and unique features (more below), it supports standards DVB-S, DVB-C, DVB-T (more below).
+
+Features:
+
+- Multi PIP (19+1)
+- Multi recording (MPG, TS)
+- Timeshift
+- LAN Streaming
+- Unique channel list system
+- Favorite channels
+- Quick Favorites
+- Child lock
+- Embedded aspect ratio modes
+- Cropping / Zoom
+- Sleep timer
+- Record timer
+- HDTV and H264 support (some codecs only)
+- Auto-zap
+- EPG
+- OSD
+- Scheduler
+- Teletext (plugin)
+- Render-less mode
+- Internal graph building
+- Multi monitor support
+- Command line support
+- Network Scan
+- Raw Diseqc commands support
+- Plugins support
+- Preffered languages
+- Uncommitted switches support
+- Positioner support (including GotoX.X / USALS, more below)
+- Snapshot feature (more below)
+- Keyboard shortcuts
+- Custom keyboard shortcuts (only workaround for now, more below)
+- Global keyboard shortcuts (only workaround for now, more below)
+- Remote control support (more below)
+- Themes
+- Upgrade reminder
+- 22 languages support
+
+- DVBEPG by Momotte (module)
+- CHLTools by X05 (module)
+- Signal Display (module)
+- Level log (module)
+
+- FFDShow support, it means more features...
+
+Video:
+
+- PIP support, including independent ffdshow options
+- Keys & remote - keyboard shortcuts...
+- 4:2:2 support
+- OSD
+- Deinterlacing
+- Crop & zoom
+- Logoaway - to hide ugly/moving logos/icons
+- Picture properties - to change contrast, brightness, gamma...
+- Blur & noise reduction
+- Sharpen
+- Noise
+- Perspective correction
+- Bitmap overlay - to add images
+- Grab - to make snapshots
+...
+
+Audio:
+
+- Normalize
+- Equalizer
+- Noise reduction
+- Resample
+- Delay
+- Swap channels
+- Mixer
+- Noise shaping
+- FIR filter
+- Convolver
+- Freeverb
+- Crystality
+
+v2.2 (19.09.2012) What's New:
+
+Registration problem fixed, caused problem for some registered users !
+DVB Dream now handles system wake up from sleep or hibernation.
+Windows 8 EVR crash fixed , which used to happen when switched back from the full screen mode
+Log files are now all in one place (Logs)
+"Reset Device" menu option fixed, it was not working when more than one device of the same brand are installed
+EPG is now cached (disabled by default, grid-based epgplus module will use this feature, soon to be released)
+Now "Direct Connection" is enabled by default, in video options. Please remove the checkmark if you get any graph errors.
+* On terrestrial and cable devices, LCN (logical channel numbers) & Network Scan is enabled by default
+
+Supported OS:
+
+Windows 7/vista/xp
+
+Homepage: http://www.dvbdream.org/
+
+Installation Instructions:
+
+1. Install Program.
+2. Use given Key to register application.
+3. Done, Enjoy.

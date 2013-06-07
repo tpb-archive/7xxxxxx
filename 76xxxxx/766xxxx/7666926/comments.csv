@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,catskinsox,2012-09-24T07:03Z,"Ooops.. the audio bitrate for the 5.1 is 384, not 448.  "
+,catskinsox,2012-09-24T07:09Z,"And that's 1981, not 1081... I need to wake up!  And iTunes.. not iTune.  sloppy, sloppy... "
+[T],tr108,2012-09-25T18:33Z,"You're not so sloppy - the header can have only 64 characters, hence the ""s"" in iTunes gettin' chopped.
+
+Judging by your notes from Inglorious Basterds, I'd say you're REALLY on the ball. Anyone who knows that Spielberg films need denoising is sharp. :) +1"
+,catskinsox,2012-09-26T02:29Z,"@tr108 - 
+Thanks for the kind words.  I have actually been doing things differently since IB, though.  I was getting a bit frustrated with the file sizes getting rather large (not IB, of course.. that one compresses quite nicely), and decided to change my approach a bit.  I had been using the RF=20 setting for a while, but decided to target smaller file sizes instead.  Normally, I would never do average bit rate.. only constant quality, but I REALLY wanted to manage file sizes.. anyway, so I decided the studios know something about what bit rate their movies need, so I've been using the sizes in the iTunes store as a guide, then figure add about 10% or so on to the file size they use (to account for the fact they have masters to work with rather than a bluray..heh.. just an arbitrary figure to use, don't know if that 10% actually does anything).  Then I use a bitrate calculator to get what the video bitrate should be and do a 2-pass ABR in the video settings on Handbrake.  Plus I'm using 384 instead of the 448 AC3 bitrate.  Seems to be working pretty good so far (at least *I'm* happy with the results).  All of my Indiana Jones movies are done that way.  I know my copy of Last Crusade went from about 16 gig down to just under 6 gig.  While I *can* tell a difference in quality, it's not enough to justify the extra space the larger one takes.  
+
+Anyway, that's the way I'm choosing to do the movies NOW (that could always change in a week or so.. ha)"
+,getswordfish,2012-09-28T15:20Z,"Thanks man! You're doing a great job, picking up for tr108. 
+tr108 wanted to do the Godfather trilogy before his computer died. Do you think you can work on that. God knows we've been waiting for those films in proper encoding genius like yours! Thanks in advance!"
+,scarlette,2012-09-30T06:57Z,Thank you very much for this :)
+,catskinsox,2012-09-30T13:22Z,"@scarlette
+You're welcome!"

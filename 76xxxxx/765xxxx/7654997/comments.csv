@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,seznam123,2012-09-21T20:45Z,this one seems to have a trojan that uses your gpu at 90% when connected to the internet. probably a bitcoin miner or smthn.
+,seznam123,2012-09-21T20:46Z,does anyone have an idea on what to do? i'm currently running avira. but i dont know if it will detect it
+,seznam123,2012-09-21T22:00Z,"ESET-NOD32	Win32/BitCoinMiner.F
+
+C:Program FilesJavasvchost.exe
+
+"

@@ -1,0 +1,59 @@
+#################################################################
+[By 1mm]
+
+1. Install the license manager (License Manager) and program (Cadence SPB 16.5). Ignore and click next when a windows pops up asking for license file.
+
+2. Copy the files in aspirinCadenceLicenseManager (i.e. pubkey.exe, pubkey, LicenseManager.cmd) to installed directory (e.g. C:CadenceLicenseManager). Run the LicenseManager.cmd.
+
+3. Copy the files in aspirinCadenceSPB_16.5tools (i.e. pubkey.exe, pubkey, Tools.cmd) to installed directory (C:CadenceSPB_16.5tools). Run the Tools.cmd. The script may take up to several minutes to run.
+
+4. Go to aspirinCadenceLicGen folder. Open the src.lic with a text editor (e.g. notepad). Change the "this-host" to your computer hostname, which can be identified using the following method "Start -> Run -> cmd -> ipconfig /all". Once done and saved, run the LicGen.cmd and a "license.lic" is created.
+
+5. Open the License Server Configuration Utility (Start -> Programs -> Cadence -> License Manager -> License Server Configuration Utility). Locate the license.lic generated in Step-4 above.
+
+6. Add a user environment variable (Control Panel -> System -> Advanced -> Environment Variables)
+   variable name : CDS_LIC_FILE
+   variable value  : C:CadenceLicenseManagerlicense.dat
+
+7. The installation as aforementioned was done on a Windows XP Pro SP3 (plus McAfee with latest antivirus definition update on 16 July 2011).
+
+8. Done and Enjoy!
+#################################################################
+ 
+http://www.sonsivri.to/forum/index.php?topic=38575.0
+
+--------------------------------------------------------------------------------------
+How to apply SPB 16.5.0028 hotfix
+
+Do not apply Hotfix directly over installed directory(c:CadenceSPB_16.5) SPB will go wrong completely and it would never be restored without reinstall.
+
+  
+  1.Stop licence manager(go to Start -> Programs -> Cadence -> License Manager 
+->LmTools and click on the "Stop server" button in the Start/Stop/Reread tab)
+   and Stop process cdsNameServer.exe, if it exists
+(point to cdsnameserver.exe click "end process" button in Windows Task Manager[ctrl+alt+del])
+  
+2.Rename installed directory (c:CadenceSPB_16.5) to any name(ex.c:CadenceSPB_16.5_temp)
+
+  3.Create a new directory (c:CadenceSPB_16.5)
+
+  4.Copy compnts.dat file (c:Cadence SPB_16.5_tempcompnts.dat) to installed directory (c:CadenceSPB_16.5_temp)
+
+  5.Run a Hotfix(Hotfix_SPB16.50.028_wint_1of1.exe)
+
+  6.after hotfix is completed,Copy 3 files (pubkey, pubkey.exe, Tools.cmd)from c:CadenceSPB_16.5_temptools to directory of c:CadenceSPB_16.5_temptools 
+
+  7.Run "Tools.cmd" on the directory of installed hotfix c:CadenceSPB_16.5tools
+
+  8.Transfer the whole contents in the c:CadenceSPB_16.5 to c:CadenceSPB_16.5_temp 
+
+  9.Rename c:CadenceSPB_16.5 to any names or just delete this directory and restore c:CadenceSPB_16.5_temp to original name (c:CadenceSPB_16.5)
+
+ 10.Start licence manager(go to Start -> Programs -> Cadence -> License Manager 
+->LmTools and click on the "Start server" button in the Start/Stop/Reread tab)
+
+I got this information from below url and tested these steps in windows xp servicepack 3 circumstance and confirm it works very well.
+
+ All credit goes to uniservis!
+ 
+http://www.sonsivri.to/forum/index.php?topic=40078.msg121394#msg121394

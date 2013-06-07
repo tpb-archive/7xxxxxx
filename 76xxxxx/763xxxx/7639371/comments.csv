@@ -1,0 +1,95 @@
+﻿User Type,Username,Date,Text
+,sterganos,2012-09-15T21:30Z,"Thks a lot again, Anonymous
+
+If you know where to find the cycle for PC will be appreciated :-))"
+,ha19881,2012-09-15T21:33Z,"Hello, After downloading and installing only JEPP TC Updates,
+For Jeppesen FD I can't update it only displays the map but no airways, nav aids, etc... when I try to plan a route by putting departure / destination etc... it shows an error message :
+
+Your subscription does not include coverage for this airport
+
+This also happened in 1218
+
+Please Help !!!!!!!!!!!!!!!!!"
+,lambda1,2012-09-15T22:28Z,"ha19881:
+Rename the 'Enroute' folder as 'Enr' inside the data folder then restart JeppFD. I don't know the logic behind it, but sometimes it works with Enroute, sometimes with Enr."
+,TeamRafale,2012-09-16T08:44Z,"Hello, 
+I've got the same problem with Enroute folder, even changed in Enr.
+Is anyone can help us to find solution...
+nevertheless, thanks a lot Anonymous.. "
+,dementie,2012-09-16T10:35Z,Dank U Anonymous
+,airbusflyer,2012-09-16T11:03Z,Everything works like it should :) Thanks!!
+,Goldfinger69,2012-09-16T13:53Z,Please give us the    PC   V E R S I O N !!!
+,Aresrroin,2012-09-16T14:25Z,"Enroute doesn't work, anyone? I tried to rename the folder but nothing..."
+,zlozla,2012-09-16T14:46Z,upload the PC VERSION
+,lambda1,2012-09-16T19:46Z,"Aresrroin:
+
+Try this: Delete JeppFD completely. Restart iPad. Install from AppStore. Do not start. Copy only the Enroute folder to the appropriate place, nothing else. Run JeppFD. Check map is working. If not, exit the app fully (double tap home button and close) then rename the folder. Run JeppFD and check if working. Replace the Terminal Charts with the method mentioned above..."
+,glounk,2012-09-16T20:12Z,"please guys, PC version pleassssssse ."
+,CaptFarhadi,2012-09-16T20:47Z,"PC???????????!!!!!!!!!!
+and please!"
+,ph1179,2012-09-16T22:21Z,"I do have same problem no enroute airways.
+I did copy db1 rom enroute update to folder jepFD.app/enr/db_demo/db1.
+Now it works. 
+Can we have the complete copy of folders instead of the Documents folder only.
+Than there will be no problems with subfolders, coverigies and so on. All data are stored in multiple folders and if they not match than it crashes or dont work properly.
+
+Anyway many thanks for this too. I am able to upgrade Terminal charts only from my data source.
+
+Great help guys.
+
+ph"
+,pasa001,2012-09-17T09:02Z,Hi Guys I'm having the same problem I can't upgrade the maps. Please help I've tried all of the previous advise !
+,pasa001,2012-09-17T09:09Z,I'm stuck with 1217 last cycle that will work.
+,ha19881,2012-09-17T20:59Z,Guys could some one please seed 1217 ... I am stuck at 96 % Just 63MB Left !!!
+,JWRBlack,2012-09-18T03:07Z,"1219 for PC is here (helps if you understand Russian):
+narod dot ru/disk/61144081001.00b4dd06868d28d87858e7858ae98b28/1219JECP.ISO dot html "
+,carcarah1,2012-09-18T03:39Z,"1219 for PC here
+http://thepiratebay.se/torrent/7647365/Jeppview_Cycle_1219_[PC]"
+,Razgriz.MX,2012-09-18T06:13Z,"Hi there guys
+
+I found a solution for the route problem. Please follow all the steps
+
+1. u need to have downloaded to your PC Jepp1217 or another workin cycle, and jepp1219
+2. Copy Jepp1217 (or another working) to the iPad (i suggest to use iTools cause have the option to overwrite all files) then check u have routes enable.
+3. full close the JeppFD app, and copy all the content of ""1219newDocuments"" using iTools, again OVERWRITE ALL DONT ERASE ANYTHING BEFORE COPY THE FILES. i dont know why, but with that metod work.
+
+Regards!"
+,pasa001,2012-09-18T11:15Z,"Thanks RazgrizMX your fix worked like a charm!!!
+
+
+THANKS DUDE!!"
+,paffnucy1,2012-09-18T14:15Z,"@Razgriz.MX
+Thanks for the tip! Weird, but works for me as well. Involves about a thousand mouse clicks though ;)"
+,pilotace91,2012-09-18T15:28Z,"Hi, 
+I did what RazgrizMX mentioned (and copied the 1217/1219 PC database into the documents/data/Enroute, and the Enr charts still work in 1219, but only show a small data coverage area. 
+I want to know if i did it correctly, if not the exact install process. Thanks"
+,pilotace91,2012-09-18T16:22Z,"Nevermind, used the 1213 iPad, then overwrite as RazgrizMX said. Works great now.
+
+Thanks alot RazgrizMX!!!"
+,Razgriz.MX,2012-09-18T21:39Z,"Hi guys
+
+Great to know the solutions works for both. I think there are some changes in the file structure that cause we have problem some cycles... but  all we are here to help each others.
+
+Regards from mexico!"
+,pasa001,2012-09-18T22:44Z,Razgriz MX Viva Mexico!!!
+,Koos069,2012-09-20T12:49Z,"Hi Thanks, it works except the enr side, i use the 1217 enr folder. Do you use it in Demo mode."
+,wb2lrs,2012-09-20T21:05Z,"New users of JeppFD:
+When you run the app, ignore the fields and just click the ""Demo"" button. 
+The first run creates the folders in the /documents folder. You see only the Demo coverage. Once this is done, fully shut down JeppFD (double click the home button, find JeppFD on the row of apps below, press and hold JeppFD icon until a black X appears, then tap the X.  The app icon disappears, indicating full shutdown.
+Then: 
+run iTools on your PC (google to get), connect your iPad via USB, navigate to the /applications/jeppFD/documents folder and overwrite the files/folders inside , using the files from the update. Do NOT delete anything first!. Check the box with the Chinese label when the Overwrite? dialog box is displayed to avoid being asked each and every time.  Let the process complete, then restart JeppFD.
+Examine the enroute map.  If nothing but the basemap is shown, zoom in, then turn on the features from the box on the right. The features should appear. They DON'T appear if zoomed all the way out.
+If no enroute info still, do this:
+1) delete the app.
+2) Reboot the iPAD just to be sure.
+3) Reinstall the app.
+4) Follow the instructions above, but USE 12-16, a version known to work.
+5) Start JeppFD, and verifiy that enroute data are displayed. If not (this shouldn't happen), try an earlier version still.
+6) Shut down JeppFD.
+7) Install 12-19 update data as explained above.
+8) Restart JeppFD.  The enroute data should display.
+I installed this on an iPAD 3 and and iPAD 2, the first running iOS 5.1, the second running iOS 5.01. Both worked."
+,TheTraveller15,2012-09-22T09:49Z,"Hi everybody,
+is there a way how to get JeppFD-Pro running on the iPad?"
+,lambda1,2012-09-22T16:14Z,Can someone confirm that JeppFD with this cycle works on iOS 6?
+,Razgriz.MX,2012-09-26T07:40Z,iOS6 working without problems!!

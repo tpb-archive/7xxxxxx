@@ -1,0 +1,70 @@
+So all you need is a Steam-account and the Source 2007 SDK Installed.
+
+Have fun with this new free2play Counter-Strike Game!
+
+If you need any support you can get that in #CSPromod @ Quakenet.
+
+
+You should only run the fix if you have problem connecting or steamid ticket errors ingame.
+
+
+System Requirements
+
+Minimum:
+
+    1.7 GHz processor
+    512 MiB RAM
+    DirectX 8.0+ compatible video card
+    Mouse, Keyboard, Broadband internet connection
+    Windows XP, Vista, 7 (both 32-bit and 64-bit versions) 
+
+Recommended:
+
+    Pentium 4 processor 3.0GHz+ (or equivalent)
+    2 GiB RAM
+    DirectX 9.0+ compatible video card
+    Mouse, Keyboard, Broadband internet connection
+    Windows XP, Vista, 7 (both 32-bit and 64-bit versions) 
+
+
+NOTE: Graphic cards that utilize only DirectX 7.0 are not compatible with CSPromod! (Cards such as nVidia GeForce 4 MX series or ATI Radeon 7000-7200 series). DirectX 8.0 or higher is required, due to player advantages present in DirectX 7.0 (such as boxes fading in the distance). Mac OS X and GNU/Linux are not currently supported on the client side.
+
+
+Software Requirements
+
+In order to run CSPromod, you will need:
+
+Steam installed on your computer
+A full install of Source SDK Base 2007 (located in the 'Tools' tab in Steam) 
+
+The rest of needed files will be downloaded when you launch the CSPromod for the first time. 
+
+
+Installation Methods and Directories
+
+There are two ways to install CSPromod. Users are able to choose between the .ZIP archive (manual install) or .EXE self-extraction installer (automatic install).
+
+For those that have chosen to utilize the .EXE self-extraction installer:
+
+Follow the on-screen prompts to install the mod
+Restart the Steam client after a successful install to allow the mod to show up under the Steam 'Library' list.
+Steam should download all the additional files automatically on the first run. So be patient. 
+
+For those that have chosen to manually install CSPromod via .ZIP archive:
+
+    Default directories where to extract the archive are:
+        32-bit users:
+
+        C:Program FilesSteamsteamappsSourceMods
+
+        64-bit users:
+
+        C:Program Files (x86)SteamsteamappsSourceMods
+
+Restart Steam after a successful extraction to allow the mod to show up under the Steam 'Library' list.
+Steam should download all the additional files automatically on the first run. So be patient. 
+
+In case of any troubles check if a directory called 'cspromod' is within the 'SourceMods' directory.
+Changelog 
+
+------------------------------------------

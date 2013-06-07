@@ -1,0 +1,50 @@
+﻿Filename,Size,Unit
+1. Introduction/1. Introduction.wmv,4.35,M
+1. Introduction/2. Query Tuning.wmv,4.19,M
+1. Introduction/3. Demo.wmv,7.62,M
+2. Execution Plan Basics/1. Introduction.wmv,5.51,M
+2. Execution Plan Basics/10. Demo - Key Lookup.wmv,5.88,M
+2. Execution Plan Basics/11. Index Seek vs Index Scan.wmv,2.13,M
+2. Execution Plan Basics/12. Types of Joins.wmv,2.74,M
+2. Execution Plan Basics/13. Demo - Types of Joins.wmv,10.9,M
+2. Execution Plan Basics/14. Summary.wmv,1.7,M
+2. Execution Plan Basics/2. Demo.wmv,13.52,M
+2. Execution Plan Basics/3. Various Execution Plan Types.wmv,3.95,M
+2. Execution Plan Basics/4. Demo - Execution Plan Types.wmv,13.67,M
+2. Execution Plan Basics/5. Clustered Index.wmv,6.01,M
+2. Execution Plan Basics/6. Demo - Clustered Index.wmv,7.1,M
+2. Execution Plan Basics/7. Non-clustered Index.wmv,2.43,M
+2. Execution Plan Basics/8. Demo - Non-clustered Index.wmv,7.11,M
+2. Execution Plan Basics/9. Key Lookup.wmv,1.14,M
+3. Essential Indexing Techniques/1. Introduction.wmv,5.72,M
+3. Essential Indexing Techniques/2. Demo - Basics of Index.wmv,10.55,M
+3. Essential Indexing Techniques/3. Index Behaviors.wmv,1.39,M
+3. Essential Indexing Techniques/4. Demo - Included Columns.wmv,12.2,M
+3. Essential Indexing Techniques/5. Demo - Seek vs Scan vs Lookup.wmv,11.25,M
+3. Essential Indexing Techniques/6. Demo - WHERE clause and ORDERs of Column.wmv,22.59,M
+3. Essential Indexing Techniques/7. Demo - Usage of Functions in WHERE clause.wmv,10.55,M
+3. Essential Indexing Techniques/8. Summary.wmv,3.22,M
+4. Query Design for Performance/1. Introduction.wmv,2.91,M
+4. Query Design for Performance/10. Dynamic SQL and Performance.wmv,1.55,M
+4. Query Design for Performance/11. Demo - Dynamic SQL and Performance.wmv,10.3,M
+"4. Query Design for Performance/12. User Defined Functions, Views and Performance.wmv",2.77,M
+"4. Query Design for Performance/13. Demo - UDFs, Views and Performance.wmv",15.64,M
+4. Query Design for Performance/14. Summary.wmv,1.1,M
+4. Query Design for Performance/2. EXISTS vs IN vs JOIN.wmv,3.96,M
+4. Query Design for Performance/3. Demo - EXISTS vs IN vs JOIN.wmv,21.95,M
+4. Query Design for Performance/4. Common Table Expression (CTE).wmv,1.4,M
+4. Query Design for Performance/5. Demo - Common Table Expression (CTE).wmv,11.37,M
+4. Query Design for Performance/6. Order of Table and Query Hints.wmv,1.63,M
+4. Query Design for Performance/7. Demo - Order of Table and Query Hints.wmv,15.66,M
+4. Query Design for Performance/8. Plan Guide and Parameter Sniffing.wmv,2.15,M
+4. Query Design for Performance/9. Demo - Plan Guide and Parameter Sniffing.wmv,16.5,M
+5. Performance Tuning Tools/1. Introduction.wmv,2.29,M
+5. Performance Tuning Tools/10. Demo - SQL Server Profiler.wmv,17.06,M
+5. Performance Tuning Tools/11. Demo - SQL Server Extended Events.wmv,12.13,M
+5. Performance Tuning Tools/12. SQL Server Wait Stats.wmv,4.97,M
+5. Performance Tuning Tools/13. Demo - SQL Server Wait Stats - CXPACKET.wmv,14.3,M
+5. Performance Tuning Tools/14. Demo - Wait Stats - Identify Offending Query.wmv,6.59,M
+5. Performance Tuning Tools/15. Demo - Dynamic Management Views (DMV).wmv,15.91,M
+5. Performance Tuning Tools/16. Demo - SQLDiag.wmv,8.04,M
+5. Performance Tuning Tools/17. Summary.wmv,832.97,K
+5. Performance Tuning Tools/2. SSMS Performance Dashboard.wmv,1.74,M

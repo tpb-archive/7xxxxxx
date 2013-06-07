@@ -1,0 +1,34 @@
+We're now fully into the "prepare for release" mode, so we've almost only worked on bug fixing and performance. We've decided to aim for October 24 for the full Pretty Scary Update. HereΓÇÖs this week's changelog:
+
+1)Minor terrain additions for the witch
+2)Flatworld configuration now allows you to generate trees, strongholds etc
+3)A number of new NBT tags for items (intended for custom map makers)
+4)The pick block action now works on items
+5)Pressing the 1-9 hotkeys while hovering over an item will put that item into the inventory bar
+6)The left-click action will no longer open doors, pull levers, push buttons or open trapdoors. Use the right mouse button!
+7)Firespread has been slightly nerfed again to prevent infinitely spreading fires
+8)More bugfixes & tweaks!
+
+---------------------------------------------------------
+
+INSTALL INSTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. Drag/Copy the new minecraft.jar file into /bin folder and replace it.
+
+4. Make a new folder named "server" .minecraft/server in that folder drag/copy the minecraft_server.jar file 
+
+-----------------------------------------------------------------------------------
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.
+
+-------------------------------------------------------------------------------------

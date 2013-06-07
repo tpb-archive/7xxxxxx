@@ -1,0 +1,9 @@
+ Since Lion, and now with Mountain Lion, the start-up chime when launching Mac OS X cannot be disabled any longer by the application 'Start-upSoundPreferencePane' which is not supported.
+
+ For the ones unwilling to hear such a strident sound on launch (very annoying in public spaces, isn't it?), but also not very in love with using the command-line, I have written using nano in the Terminal two scripts, one to disable the chime on launch, the other to enable back the sound at the level chosen on quit when the user session opens. 
+
+ You will find in the package the two scripts and a text of instruction, saying where to drag them and how to activate them writing two very succinct commands in a Terminal window before re-starting your computer. For the ones willing to enable back the chime, two commands are added disabling the precedent .
+
+ The method works on Snow Leopard, Lion and Mountain Lion (successfully tested by  myself). For the ones suspicious about unknown scripts, double-click them and you will be able to check in TexEdit their very innocuous content strictly related to the topic.
+
+Cheers

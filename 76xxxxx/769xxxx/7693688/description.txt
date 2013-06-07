@@ -1,0 +1,70 @@
+visitanos: movieshdlatino1
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L3.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 5marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 16min.
+Tasa de bits nominal                     : 686Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 544pixeles
+Relación de aspecto                      : 2,35:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.041
+Librería de codificación                 : x264 core 114 r1924 08d04a4
+Opciones de codificación                 : cabac=1 / ref=5 / deblock=1:-2:-1 / analyse=0x3:0x113 / me=umh / subme=5 / psy=1 / psy_rd=0.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=2pass / mbtree=0 / bitrate=686 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=2:1.00
+Default                                  : No
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : HE-AAC / LC
+ID Códec                                 : A_AAC
+Duración                                 : 2h 16min.
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz / 24,0KHz
+Idioma                                   : Español
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : HE-AAC / LC
+ID Códec                                 : A_AAC
+Duración                                 : 2h 16min.
+Canal(es)                                : 2canales
+Posiciones del canal                     : Front: L R
+Velocidad de muestreo                    : 48,0KHz / 24,0KHz
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+
+Texto #1
+ID                                       : 4
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Default                                  : Si
+Forced                                   : No
+
+Texto #2
+ID                                       : 5
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Default                                  : No
+Forced                                   : No

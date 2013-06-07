@@ -1,0 +1,68 @@
+General
+Format                : Matroska
+Format version        : Version 2
+File size             : 826 MiB
+Duration              : 1h 55mn
+Overall bit rate      : 1 004 Kbps
+Movie name            : The Recruit 2003 - YIFY + 5.1 AAC from Zen_Bud's rip
+Writing application   : mkvmerge v5.8.0 ('No Sleep / Pillow') Writing library               : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 12 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Nominal bit rate                         : 813 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Variable
+Original frame rate                      : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.049
+Title                                    : The Recruit 2003 - YIFY
+Writing library                          : x264 core 125 r2200 999b753
+Encoding settings                        : cabac=1 / ref=12 / deblock=1:-1:-1 / Language                                 : English
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 55mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Title                                    : 5.1 AAC from Zen_Bud's rip
+Language                                 : English
+
+Text #1
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+
+Text #2
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Interview: Inside the Actor's Studio
+Language                                 : English
+
+
+
+Note: This is a remux combining YIFY's video stream with 5.1 AC3 from Zen_Bud's rip. No re-encoding  was done. The original files were simply demuxed to remove the needed data stream and remuxed to place the best available size/quality and ENGLISH subtitle into a single file.
+
+
+I'm a big fan of YIFY's work, but for me at least, the audio in general is a little overly compressed. So when I can find a better copy of the audio, I fix it... ;-)
+
+All props to YIFY and Zen_Bud for their excellent work!
+
+Also, the included XML file is for a WDTVLiveHub moviesheet.

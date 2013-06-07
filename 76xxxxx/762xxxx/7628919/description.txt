@@ -1,0 +1,9 @@
+Fixed this time:
+
+    Added a new command "kickall" which kicks all connected clients except for HLTV and the listenserver host if applicable
+    Fixed a bug that allowed malicious servers to execute restricted console commands on players
+    Fixed a bug that allowed malicious servers to prevent players from executing console commands
+    Updated Steam binaries; fixes Linux crash on shutdown or restart
+    Performance improvements
+
+Counter-Strike Source Full Version v1.0.0.73: http://thepiratebay.se/torrent/7593320/COUNTER-STRIKE_SOURCE_FULL_MULTILANGUAGE_V1.0.0.73

@@ -1,0 +1,32 @@
+Sleeping Dog Patch 1.5 Change Logs & Improvements :
+
+Stability
+Improved CPU timing to reduce issues where the game plays too quickly
+Various fixes to improve stability and minimize crashes during gameplay
+Fixed an issue with the Bink video player which may improve stability during in-game videos such as the title screens
+
+Controls & Camera
+New option added! Aim Soft Lock: Lets the player enable or disable aiming assistance from the game
+New option added! Mouse Free Look: Enables/disables camera auto-centering behind the player when using the mouse and on foot
+New option added! Mouse Raw Input: When enabled, input is sampled directly from the mouse which improves responsiveness and accuracy on supported mice
+New option added! Mouse Sensitivity: A modifier that determines how much speed is recorded from mouse movement
+Mouse camera logic has been reworked for improved precision (independent of the raw mouse input option)
+The Action Hijack binding is now independent of the Sprint/Parkour key value
+While driving players can now use the mouse to look up and down
+While driving the camera no longer immediately auto-centers when you stop moving the mouse
+The high-speed camera shake while driving has been reduced
+Mouse sensitivity no longer differs when Wei is and isnt carrying a gun
+
+UI
+Front End screens now support a button help bar that is fully interactive via mouse
+Users are now able to exit screens by pressing the Back button
+Corrected all issues when exiting a screen using the Backspace and Esc keys
+Its now possible to switch sections by clicking on the corresponding icons or tab headers
+The mouse wheel will scroll through all relevant lists in the user interface
+Mouse hit regions have been fine-tuned throughout the front end to improve user experience
+
+Installation Notes for Sleeping Dogs Update 1.5 :
+
+
+1.Just install and Enjoy !
+2.Seed

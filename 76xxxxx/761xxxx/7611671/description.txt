@@ -1,0 +1,50 @@
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Control Your Music With a Wave of Your Hand!
+Uses the proximity sensor on your phone to allow control of your music playback by waving your hand over your phone. No need to turn on your screen or even touch your phone at all!
+
+Pro Features:
+
+    No Ads
+    More Commands
+    Assign Which Gesture Does Which Command
+
+Coming Soon:
+
+    More Features - feel free to email any requests you have
+    Update the UI
+
+Easy to use, just wave your hand over the sensor (usually located just next to the earpiece on your phone).
+
+    Holding it there will Pause/Resume
+    One wave across will go to the Next Song
+    Two waves across will go to the Previous Song
+    Three times (needs to be fast) will Pause or Resume the controls
+
+Be sure to enable Headset Button Control in your player of choice
+
+Notes:
+
+    There is a little less than a second to register your waves.
+    Tip for the hover gesture: if you move your hand away too quickly it'll register a wave
+    After an action, there is a 1 second delay before another gesture will be registered
+    Will work with any player that accepts headset (media button) controls
+    If the screen is off or another app is in focus, phone vibrates once on pause control and twice on resume controls 
+    Practice your wave techniques by checking the "Last Action" 
+    If you're getting another player responding to the commands, check if that app has the option to disable headset button controls
+
+What's in this version : (Updated : Sep 7, 2012)
+
+    Tasker Support! Switch Profiles with Tasker. Find it in the Plugin section in Tasker. Profile feature requires Pro or Assign Action Upgrade.
+    Quick Bug Fix for Motorola phones in V2.25
+    New: Profiles - Save up to 4 sets of settings and commands (Pro or Assignable Actions Needed)
+    Renamed Pocket Mode to Screen On Only Mode
+
+Required Android O/S : 2.2+
+
+                                By bobiras2009		

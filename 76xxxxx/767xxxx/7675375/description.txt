@@ -1,0 +1,73 @@
+UnderStanding The Linux Kernel 3rd Edition
+
+V413HAV
+
+For More Quality Uploads : 
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+
+Facebook Page Address And E-Mail ID In Read Me.txt
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+In order to thoroughly understand what makes Linux tick and why it works so well on a wide variety of systems, you need to delve deep into the heart of the kernel. The kernel handles all interactions between the CPU and the external world, and determines which programs will share processor time, in what order. It manages limited memory so well that hundreds of processes can share the system efficiently, and expertly organizes data transfers so that the CPU isnΓÇÖt kept waiting any longer than necessary for the relatively slow disks.
+
+The third edition of Understanding the Linux Kernel takes you on a guided tour of the most significant data structures, algorithms, and programming tricks used in the kernel. Probing beyond superficial features, the authors offer valuable insights to people who want to know how things really work inside their machine. Important Intel-specific features are discussed. Relevant segments of code are dissected line by line. But the book covers more than just the functioning of the code; it explains the theoretical underpinnings of why Linux does things the way it does.
+
+This edition of the book covers Version 2.6, which has seen significant changes to nearly every kernel subsystem, particularly in the areas of memory management and block devices. The book focuses on the following topics:
+
+- Memory management, including file buffering, process swapping, and Direct memory Access (DMA)
+- The Virtual Filesystem layer and the Second and Third Extended Filesystems
+- Process creation and scheduling
+- Signals, interrupts, and the essential interfaces to device drivers
+- Timing
+- Synchronization within the kernel
+- Interprocess Communication (IPC)
+- Program execution
+
+Understanding the Linux Kernel will acquaint you with all the inner workings of Linux, but itΓÇÖs more than just an academic exercise. YouΓÇÖll learn what conditions bring out LinuxΓÇÖs best performance, and youΓÇÖll see how it meets the challenge of providing good system response during process scheduling, file access, and memory management in a wide variety of environments. This book will help you make the most of your Linux system.
+
+Table of Contents
+Chapter 1. Introduction
+Chapter 2. Memory Addressing
+Chapter 3. Processes
+Chapter 4. Interrupts and Exceptions
+Chapter 5. Kernel Synchronization
+Chapter 6. Timing Measurements
+Chapter 7. Process Scheduling
+Chapter 8. Memory Management
+Chapter 9. Process Address Space
+Chapter 10. System Calls
+Chapter 11. Signals
+Chapter 12. The Virtual Filesystem
+Chapter 13. I/O Architecture and Device Drivers
+Chapter 14. Block Device Drivers
+Chapter 15. The Page Cache
+Chapter 16. Accessing Files
+Chapter 17. Page Frame Reclaiming
+Chapter 18. The Ext2 and Ext3 Filesystems
+Chapter 19. Process Communication
+Chapter 20. Program ExZecution
+
+Appendix A. System Startup
+Appendix B. Modules
+Appendix C. Bibliography
+
+Book Details
+Paperback: 944 pages
+Publisher: OΓÇÖReilly Media; 3rd Edition (November 2005)
+Language: English
+ISBN-10: 0596005652
+ISBN-13: 978-0596005658

@@ -1,0 +1,20 @@
+Minimum System Sequirements
+ 
+- Microsoft┬« Windows Vista┬« 64-bit SP2, or Windows 7 64-bit 
+- 2 GHz processor (multicore or multiprocessor CPU recommended for HD or stereoscopic 3D) 
+- 500 MB hard-disk space for program installation 
+- 2 GB RAM (4 GB recommended) 
+- OHCI-compatible IEEE-1394DV card (for DV and HDV capture and print-to-tape) 
+- USB 2.0 connection (for importing from AVCHD, XDCAM EX, NXCAM, or DVD camcorders) 
+- Supported NVIDIA or AMD/ATI GPU with 512 MB or more RAM
+ 
+NVIDIA : Requires a CUDA-enabled GPU and driver 270.xx or later.
+ * GeForce GPUs: GeForce GTX 4xx Series or higher (or GeForce GT 2xx Series or higher with driver 285.62 or later). 
+* Quadro GPUs: Quadro 600 or higher (or Quadro FX 1700 or higher with driver 285.62 or later).
+ NVIDIA recommends NVIDIA Quadro for professional applications and recommends use of the latest boards based on the Fermi architecture
+ 
+AMD/ATI : Requires an OpenCL-enabled GPU and Catalyst driver 11.7 or later with a Radeon HD 57xx or higher GPU. If using a FirePro GPU, FirePro unified driver 8.85 or later is required.
+ 
+Languages : Multilingual
+ 
+Homepage : http://www.sonycreativesoftware.com/vegaspro

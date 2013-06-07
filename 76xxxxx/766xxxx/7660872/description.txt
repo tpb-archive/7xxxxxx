@@ -1,0 +1,12 @@
+YUMI (Your Universal Multiboot Installer), is the successor to MultibootISOs. It can be used to create a Multiboot USB Flash Drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.
+
+
+YUMI works much like Universal USB Installer, except it can be used to install more than one distribution to run from your USB. Distributions can also be uninstalled using the same tool!
+
+
+How to Create a MultiBoot USB Flash Drive
+
+Run* YUMI-0.0.7.0.exe following the onscreen instructions
+Run the tool again to Add More ISOs/Distributions to your Drive
+Restart your PC setting it to boot from the USB device
+Select a distribution to Boot from the Menu and enjoy!

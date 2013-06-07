@@ -1,0 +1,3 @@
+Open Autocad, load the applications (under Manage tab), then select multiple lines/polylines and type tlen or tarea for total length or total area.
+
+Note: objects on locked layers are still added to the total.

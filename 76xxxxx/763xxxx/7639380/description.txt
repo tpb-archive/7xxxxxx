@@ -1,0 +1,33 @@
+VHS rip: English
+
+the Dead End Kids in Hell's Kitchen
+ 
+http://www.imdb.com/title/tt0031412/
+
+============ Handbrake 9.3 ========
+
+[13:32:17] job configuration:
+[13:32:17]  * source
+[13:32:17]    + C:Documents and SettingsDead End KidsMy DocumentsMy VideosHell's KitchenVIDEO_TS
+[13:32:17]    + title 1, chapter(s) 1 to 2
+[13:32:17]  * destination
+[13:32:17]    + C:Documents and SettingsDead End KidsMy DocumentsMy VideosDead End Kids Hell's Kitchen.mkv
+[13:32:17]    + container: Matroska (.mkv)
+[13:32:17]      + chapter markers
+[13:32:17]  * video track
+[13:32:17]    + decoder: mpeg2
+[13:32:17]      + bitrate 8000 kbps
+[13:32:17]    + frame rate: same as source (around 23.976 fps)
+[13:32:17]    + strict anamorphic
+[13:32:17]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[13:32:17]      + pixel aspect ratio: 8 / 9
+[13:32:17]      + display dimensions: 640 * 478
+[13:32:17]    + encoder: x264
+[13:32:17]      + options: ref=2:bframes=2:me=umh
+[13:32:17]      + bitrate: 296 kbps, pass: 2
+[13:32:17]  * audio track 0
+[13:32:17]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:32:17]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[13:32:17]    + mixdown: Stereo
+[13:32:17]    + encoder: faac
+[13:32:17]      + bitrate: 160 kbps, samplerate: 48000 Hz

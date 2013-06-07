@@ -1,0 +1,19 @@
+RE-BRAND - MP4SUX is now AVIGUY
+
+Don't know how valuable, but if you need AVI and can handle x264, it may work for you. Did not want to re-encode the video, so I won't be producing an XVID - sorry.
+
+========= IMDB.com/title/tt0350448/
+
+Release Name: Real.Time.With.Bill.Maher.2012.09.14..x264.MP3-AVIGUY.avi
+
+From AVIGUY:
+Release Size: 127 Mb
+Run Time: 55:17
+Resolution.....: 656x368
+Video: x264 AVI
+Audio: MP3 32kbps 22KHz CBR Mono
+CC2AVI: MKVExtractGUI2 [Extract x264 video, OGG audio]
+CC2AVI: MP4Muxer [Create MP4 silent @ wrong framerate]
+CC2AVI: MP4cam2AVI [conversion to AVI]
+VLC: write OGG audio as WAV
+CC2AVI: VirtualDub 1.4.13 [audio compression, frame rate fix 25 to 29.970]

@@ -1,0 +1,69 @@
+LinuxBBQ 0.2 Openbox "Saltimbocca"
+i686(-PAE), hybrid ISO, 521 MB
+==== what it is ====
+- an Openbox desktop with minimal resource usage and content from community members
+
+==== gui/widget applications ====
+- opera (browser suite) - upgrade to Alpha/beta enabled
+- pcmanFM (primary file manager)
+- rox-filer (secondary file manager)
+- bleachbit (cleanup tool)
+- medit (IDE)
+- xarchiver (archive manager)
+- epdfview (PDF viewer)
+- screengrab (screenshooter with imgur upload)
+- holy trinity (tint2/openbox/lxde-tools)
+
+==== tray apps ====
+- volumeicon
+- radiotray (radio applet, preconfigured)
+- clipit (clipboard manager)
+- gtk-redshift (please check ~/.config/openbox/autostart)
+- gtk-recordmydesktop
+- network-manager (PPTP/VPN)
+
+==== cli applications ===
+- bc (calculator)
+- ceni (network configurator)
+- netrik (browser)
+- htop (process monitor)
+- inxi (system information)
+- irssi (IRC client)
+- mc (file manager)
+- mocp (music player)
+- newsbeuter (RSS aggregator)
+- rtmptvgui-cli (online TV applet)
+- scrot (screenshooter)
+- smxi/sgfxi (installer scripts)
+- tinyirc (simple IRC client)
+- vim (editor)
+- youtube-viewer (youtube viewer)
+- #! conkywonky/tint2restart/tintwizard (scripts)
+
+==== notable packages ====
+- feh
+- mplayer2
+- Terminus/Droid fonts
+- zip/unzip archive tools
+
+==== other features ====
+- 800+ channels for radiotray
+- ~/bin folder with community scripts
+- ACPI support/laptop mode
+- apt-listbugs
+- bash_aliases (from the forum thread)
+- MoC themes
+- ~/Music/rhowaldt folder with 9 songs
+- community wallpapers (swftech)
+- free and non-free firmware, including ralink, iwlwifi and realtek
+- python 2.7.3
+- perl 5.14
+-
+==== installation ====
+!!! the recommended use of "Saltimbocca" is as live system !!!
+!!! however, the live system can be installed to hard drive !!!
+- copy the ISO image to CD or USB (using dd)
+- in the start screen, hit Enter and wait (~30-60 sec.)
+- login: user 'bbq', passwd 'bbq'
+- sudo is enabled
+- for 'su' (root) your passwd is 'root'

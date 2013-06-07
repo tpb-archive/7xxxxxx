@@ -1,0 +1,42 @@
+MAGIX Sequoia v12.1.1.129 x32 x64 RETAiL DVD9
+Teams: V.R + KRock | Date: September 28 2012
+DVD Size: 7.12 GB
+Pre Patched exe Size: 59 MB
+
+
+INSTALLATION:
+
+ΓÇó Next open or mount the ISO file. If you can't open it you need to get an Virtual Drive which supports ISO files such as PowerISO or other that you like.
+
+ΓÇó Install Sequoia 12.0.2.100
+
+ΓÇó Next open the .rar file by double clicking it. If you can't open it you need to get an archiver which supports rar files such as Winrar and extract.
+
+ΓÇó Install Sequoia 12.1.1.129
+
+
+RELEASE NOTES:
+
+There are additional features such as integration with broadcast environment (Digispot, David DigaSystem, Scisys diraHighlander), batch loudness normalisation, true peak, video export, DDP player etc. This does not work in the releases of another teams.
+
+OTHER INFO:
+
+DVD-9 discs are one-sided, double layer recordable DVDs with a capacity of 8.5GB. The numbering after DVDs can be approximated to the capacity of the discs. For example DVD-5 discs can hold 4.7GB on a one-sided, single layer disc and DVD-18 can hold 17.4GB on a dual-side, dual-layer disc.
+
+In double layer (also referred to as dual layer) DVD-9 discs, two layers of standard DVD-5 are joined together with a transparent spacer and a thin reflector between the two. The bottom layer is read and written to in exactly the same manner as DVD-5. Reading and writing to the second layer is achieved by the laser focusing a fraction of a millimeter beyond the first recording layer.
+
+MORE INFO:
+
+Multi-Lang -> open "install.cfg" (sequoia maindir) in a text editor and change:
+
+[install]
+Language=en_US
+AutoLanguage=0
+
+to:
+
+[install]
+Language=
+AutoLanguage=1
+
+Save -> Now, sequoia auto-starts in yours system language!

@@ -1,0 +1,59 @@
+
+	LinuxBBQ 0.1 MATE "Paardenrookvlees"
+i686(-PAE), hybrid ISO
+==== what it is ====
+- MATE 1.40 desktop with base apps + utilities only
+- extremely snappy, very nostalgic!
+- of course based on "sid"
+==== gui applications ====
+- iceweasel (browser, preconfigured with adblock/flashplugin) - upgrade to Beta/Aurora enabled
+- pidgin (IM)
+- xchat (IRC)
+- sylpheed (mail client)
+- radiotray (radio applet, preconfigured)
+- rtmptvgui (online TV applet)
+- pluma (editor)
+- GNOME mplayer (media player)
+- Transmission (bittorrent client)
+- bleachbit (cleanup tool)
+- Eye of Mate (porn viewer)
+- Atril (Document Viewer)
+- gparted (partition editor)
+- Engrampa (archive manager)
+- Dictionary (dictionary [!])
+==== cli applications ===
+- cowsay (talking cow)
+- fortunes-mod (fortune cookies)
+- htop (process monitor)
+- inxi (system information)
+- mocp (music player)
+- scrot (screenshooter)
+- smxi/sgfxi (installer scripts)
+- tacnayn (CLI-based photoshop app)
+- vim (editor)
+- youtube-viewer (youtube viewer)
+==== notable packages ====
+- MATE settings editor
+- bluewater-manual
+- Fog-/MATE-theme
+- Terminus/Droid fonts
+- zip/unzip archive tools
+==== other features ====
+- ACPI support/laptop mode
+- apt-listbugs
+- bash_aliases (from the forum thread)
+- MoC themes
+- ~/Music/rhowaldt folder with 9 songs
+- community wallpapers (gutterslob/linuxville/swftech)
+- free and non-free firmware, including ralink, iwlwifi and realtek
+- python 2.7
+- perl 5.14
+-
+==== installation ====
+- copy the ISO image to CD or USB (using dd)
+- in the start screen, hit Enter and wait (~30-60 sec.)
+- login: user 'bbq', passwd 'bbq'
+- sudo is enabled
+- for 'su' (root) your passwd is 'root'
+- README file in the home folder
+

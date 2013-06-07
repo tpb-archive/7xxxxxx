@@ -1,0 +1,17 @@
+Book Description
+
+Even as data is turning the world upside down, the next revolution is taking shape: realtime data analysis. Data tools like Hadoop are batch-oriented; theyΓÇÖre good at taking a set of data, analyzing it, and giving you the result later. But these tools are not particularly good at handling streaming data: data that is constantly arriving, and results that are changing as fast as the data arrives. Storm is a new tool that solves that problem. This book gets you started with it.
+
+Table of Contents
+Chapter 1. Basics
+Chapter 2. Getting Started
+Chapter 3. Topologies
+Chapter 4. Spouts
+Chapter 5. Bolts
+Chapter 6. A Real-Life Example
+Chapter 7. Using Non-JVM Languages with Storm
+Chapter 8. Transactional Topologies
+
+Appendix A. Installing the Storm Client
+Appendix B. Installing Storm Cluster
+Appendix C. Real Life Example Setup 

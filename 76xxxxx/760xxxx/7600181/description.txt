@@ -1,0 +1,29 @@
+HOW TO GET THE CANDY ONCE YOU HAVE DOWNLOADED THE FILE
+ 
+first check the file MD5:
+e7d0984f7bb632ee19d8dda1337e9fba
+ 
+(lol yes, a "1337" there for the lulz, God is in the detail)
+ 
+then decrypt the file using openssl:
+openssl aes-256-cbc -d -a -in file.txt -out decryptedfile.tar.gz
+ 
+password is:
+antis3cs5clockTea#579d8c28d34af73fea4354f5386a06a6
+ 
+then uncompress:
+tar -xvzf decryptedfile.tar.gz
+ 
+and then check file integrity using the MD5 included in the password u used to
+decrypt before:
+579d8c28d34af73fea4354f5386a06a6
+^ yeah that one.
+ 
+if everything looks fine
+then perhaps it is.
+ 
+enjoy it!
+
+With Love! 
+@57UN
+@Anonymous

@@ -1,0 +1,13 @@
+
+Microsoft Toolkit - Official KMS Solution for Windows and Office 2010 
+
+Requirements:
+Microsoft .NET Framework 4.0 or 4.5 (Not 3.5)
+Microsoft Office 2010 or Later for Office Toolkit Support
+Windows Vista or Later for Windows Tookit Support
+
+Microsoft Toolkit Changelog:
+
+2.4 BETA 4
+-AutoKMS and AutoRearm properly create Startup task (only Daily was being made).
+-KMSEmulator no longer crashes on Windows XP.

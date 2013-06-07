@@ -1,0 +1,25 @@
+Name: The Best Twitter Bot
+Released: 4 October 2012
+
+The main feature of this bot is to unfollow your non-followers, but it will hopefully be improved with more features, making it The Best Twitter Bot available!
+
+
+Other bots for twitter - such as TweetAdder or TweetAttacks - are expensive, often stop working, and are slow at fixing problems when twitter change something (the URLs for example).
+
+
+This Bot is written in AutoIt, and makes a solid ground for further bot development. Anyone can help improve this Open Source Bot, minimal AutoIt skills are required!
+
+For a Tutorial on HTTP requests in AutoIt i recommend: http://brugbart.com/Tutorials/autoit-tutorial
+
+
+## Instructions
+
+1: Install AutoIt from the official website
+2: Open Settings.ini and enter your Twitter username and password
+3: Open StartGUI.au3 and Click: Tools -> Go
+
+Optionally help improve and Update the Bot. Simply upload new versions to The Pirate Bay!
+
+## Known issues
+
+Sometimes the bot will display an error in its GUI "80020009", this error is logged in a text file with additional information. The reason for this error is unknown, so help finding it would be nice. The error has no effect, and the bot will simply resume its operation. 

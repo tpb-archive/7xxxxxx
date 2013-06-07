@@ -1,0 +1,28 @@
+ALL FILES LINKED IN TORRENT! UPDATED, PLEASE USE THIS GUIDE NOT THE EARLIER ONE!
+
+
+1.Download the three files below
+. Memdump v 1.01
+. eid_root_key
+.Multiman or MMOS anything above 4.0.3 will work (Link Updated - with mode to allow flashing)
+
+
+
+
+1.Extract the 3 pkgs and place them in the root of your usb, remove the usb from your computer and install the .pkg files
+
+2.Run Memdump v 1.01 use the option to "Dump Flash Storage"-Usb on side closer to blu ray player (last usb port)
+3.Remove all Usb devices from the ps3
+
+4. Run eEID_RKDumper next should give a black screen and 5-10 seconds later beep and shut down by it self.
+5. Now reboot the ps3 and open multiman file manager and put your usb back in the ps3 and navigate to /dev_hdd0/tmp/eid_root_key and copy this file to the root of your usb.
+5. Now you have all files from your ps3, i suggest you backup the files at least in two different places
+6.your usb should have two files eid_root_key and flash_stor_35500.bin. Copy both to your desktop.
+
+7. download Cex2Dex.exe and place it on your desktop load the flash_stor_35500.bin for the top and rename eid_root_key to dump and load that for the bottom, next click on cex to dex.
+
+8. If all went to plan then it will ask you to save your converted flash as my-DEX-flash.EID0.NORBIN
+9. place that file on your usb (I suggest removing other files to avoid accidental flash) so you have my-DEX-flash.EID0.NORBIN on the usb.
+10.Open multiman file manager and locate the my-DEX-flash.EID0.NORBIN on your usb and click it it will go through 3 pages of verification just press x on each page
+11. Reboot ps3, and you will be able to install any Dex Firmware
+Credit to all the Devs that have worked hard coding these applications all I did was put them together in a easy guide 		

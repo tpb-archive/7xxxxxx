@@ -1,0 +1,25 @@
+MineOS CRUX is a specialized distribution with a specific goal: To provide the ultimate server solution for Minecraft and to provide a robust and extendible platform for server mods and related value-added functionality
+
+
+Goals:
+
+MineOS CRUX is a entirely different project than MineOS with the same goals on a different platform. MineOS CRUX is a fully-featured and optimized server distribution that follows familiar Linux conventions to create a high-powered, intuitive, server configuration.
+What does MineOS CRUX offer over other Linux Distributions?
+
+MineOS has always aimed for a very niche audience--this aim has the downside a smaller community than general server solutions, such as Ubuntu Server. On the other hand, it has the upside of having a much more targetted and relevant set of applications and documentation to get it working the way it needs to be.
+
+I do not believe MineOS CRUX is the only server distro you should consider using to host Minecraft--quite the opposite: MineOS simply demonstrates what components make for a solid, stable server; it aims to include all the functionality a Minecraft admin should have while trimming out all the fat.
+
+To provide a one-stop answer to Minecraft hosting, the following features are pre-configured, optimized, and/or available as tools at your disposal. For a full list, see the features page.
+
+    Web-based server admin page
+    -remotely manage your servers, backups, archives, mapping, and console from your browser
+    Improved, incremental world backups
+    -space-efficient and precise rdiff-backup method using the rsync algorithm
+    Single-click updating of the user-interface and server mods (such as vanilla, bukkit, canary)
+    c10t mapping at the touch of a button
+    Safer, more secure implementation/OS
+    -MineOS follows the close everything, then open what you need methodology.
+    Ramdisk setup for better responsiveness
+    And an incredibly small memory footprint, leaving your server with the most resources of any distro you'll ever use.  
+http://minecraft.codeemo.com/

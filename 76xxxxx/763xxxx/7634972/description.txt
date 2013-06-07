@@ -1,0 +1,9 @@
+Book Description
+
+In 2005, Microsoft quietly announced an initiative to bring dynamic languages to the .NET platform. The starting point for this project was a .NET implementation of Python, dubbed IronPython. After a couple years of incubation, IronPython is ready for real-world use. It blends the simplicity, elegance, and dynamism of Python with the power of the .NET framework.
+
+IronPython in Action offers a comprehensive, hands-on introduction to MicrosoftΓÇÖs exciting new approach for programming the .NET framework. It approaches IronPython as a first class .NET language, fully integrated with the .NET environment, Visual Studio, and even the open-source Mono implementation. YouΓÇÖll learn how IronPython can be embedded as a ready-made scripting language into C# and VB.NET programs, used for writing full applications or for web development with ASP. Even better, youΓÇÖll see how IronPython works in Silverlight for client-side web programming.
+
+IronPython opens up exciting new possibilities. Because itΓÇÖs a dynamic language, it permits programming paradigms not easily available in VB and C#. In this book, authors Michael Foord and Christian Muirhead explore the world of functional programming, live introspection, dynamic typing and duck typing , metaprogramming, and more.
+
+IronPython in Action explores these topics with examples, making use of the Python interactive console to explore the .NET framework with live objects. The expert authors provide a complete introduction for programmers to both the Python language and the power of the .NET framework. The book also shows how to extend IronPython with C#, extending C# and VB.NET applications with Python, using IronPython with .NET 3.0 and Powershell, IronPython as a Windows scripting tool, and much more.

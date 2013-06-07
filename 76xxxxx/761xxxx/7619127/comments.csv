@@ -1,0 +1,81 @@
+﻿User Type,Username,Date,Text
+,murphy78,2012-09-10T12:16Z,"LOL at my spelling on unnecessary.  Anyhow,
+Enjoy =)"
+,b_addy,2012-09-10T15:06Z,"murphy78, you are the man. This is the shit!!!!
+You'll never find anything better on the net. I know, I've been searching this for a long time. Many thanks for your hard work."
+,anikpk,2012-09-10T15:43Z,Oh... Come on man thats was the right stuff I've been looking.... You are awesome man/./.// Lots of love from Miami... Thanks alot...
+,gnufella,2012-09-11T02:46Z,"this looks inviting. great job. many thanks. a few questions, though.
+
+guess one will have to use an 8 GB usb disk - this will not fit on a dvd, will it?
+
+can x86 and x64 iso's be burned separately - like with 'eXPerience' AIO iso's.?
+
+can this iso be edited to include a folder containing a few post-install apps of personal choice?
+
+btw, how about posting a few screenshots?
+
+thanks again."
+,murphy78,2012-09-11T08:13Z,"Yes, unfortunately it will not fit on a single layer dvd.  You either need to use a dual layer or an 8gb+ usb stick.  Note that the usb stick needs to be ntfs format to accomodate the 4+gb install.wim file.
+
+As far as adding personal apps, just toss them in the dvd>sources$oem$$$SetupScripts directory and edit setupcomplete.cmd to do unattended installs of them.  This portion of windows hides at least the cmd.exe screen.  I'm not sure if it hides app screens, so unattended command switches or programs are preferred.
+
+Apologies to the dvd burners out there, I know the single layer thing is preferred.  To that extent, I am going to up an x86 AIO and a x64 AIO.  Basically most versions already most of this if you simply delete the ei.cfg file in the sources directory, but I will add the enterprise versions and add all the kb files and directx, dotnet 4.5, ie9."
+,b_addy,2012-09-11T08:18Z,"@gnufella
+You can find separate x86, x64 iso's in murpy78's torrents. You can use for this x864 version a DL DVD, or a 8 GB USB drive. An yes, you can edit the iso, with UltraISO for example, but only if you know what are  you doing :D."
+,murphy78,2012-09-11T11:39Z,"Some install pics (note that I suck at screencaps)
+http://bayimg.com/Nacjkaaeb
+.net 4.5 during setup
+
+http://bayimg.com/nAcjPAAeB
+Win7Ultimate desktop after fresh install
+
+http://bayimg.com/OaCjLAAEb
+Windows Setup Important updates after fresh install
+
+http://bayimg.com/oaCJMAaeb
+windows setup Optional updates after fresh install"
+,murphy78,2012-09-11T11:52Z,"I made a 6in1 aio of the x86 versions at:
+http://thepiratebay.se/torrent/7622548/Windows_7_SP1_AIO_6in1_x86_IE9_.Net_4.5_Sep11_2012
+
+The link is solely for x86 32-bit versions of this with all versions from starter to enterprise."
+,murphy78,2012-09-11T11:55Z,"I am working on a 64 bit 5-in-1 for the single layer dvd folks out there to go with my x86 version.  This 11-in-1 will only fit on a dual layer dvd or an 8gb+ flash drive.  So if you want a cheapo single layer dvd, click one of the links I post for 6-in-1 or 5-in-1."
+,gnufella,2012-09-11T19:39Z,"@murphy78, @b_addy,
+many thanks. which version, in your opinion, is better - ultimate or enterprise?"
+,murphy78,2012-09-11T20:07Z,"apologies if this is a double link but its not showing on my page, the new 5-in-1 x64 version is up for you single layer dvd ppls:
+http://thepiratebay.se/torrent/7622808/Windows_7_SP1_AIO_5in1_x64_IE9_.Net_4.5_Sep11_2012"
+,murphy78,2012-09-11T20:11Z,"@gnufella
+
+I really don't know the extent of the differences between ultimate and enterprise.  I do know that enterprise uses different licensing.  I use ultimate, but I don't even use most of the features beyond what's available in home premium I don't think...  There is a built-in drive backup, not sure what else.  I know there is a bunch of languages for download in ultimate, but I don't know what other versions have the same thing.  I'm sure microsoft might have some list of the features somewhere."
+,b_addy,2012-09-11T22:11Z,"Ultimate and Enterprise are 99% percent the same, and they are the only 2 versions that supports (officialy) language packs. Enterprise is made for the business sector, so you might encountere software which won't install in Enterprise due to licensing issues. So for a home user, it's better to use Ultimate, even if you don't use more than 30 % of its characteristics :D."
+,gnufella,2012-09-12T04:26Z,"@murphy78, @b_addy, many thanks guys. i stand enlightened. keep up the good work, murphy78."
+,murphy78,2012-09-12T05:47Z,"There are a few updates available that just got hotfixed on sep11, but I will not make a new version of this until the Tuesday patch day in October. So don't fear downloading this for the time being."
+,esco_sid,2012-09-12T22:11Z,Downloading this right now if it works for me on SARDU it will be perfect for me now only need same thing for VISTA if your up to it Murphy78 :)
+,xboxuser11,2012-09-14T19:00Z,"A big thanks for this! just a quick question, is it a multi lang version (need french lang) or only english??? thanks again!"
+,bored0911,2012-09-15T11:31Z,"my computer is going for infinite loop of rebooting.
+
+steps are
+
+select lang
+install now
+select windows - 7 ultimate 64bit
+select drive
+copying windows files
+expanding win files
+installing features
+installing upates
+completing installation
+
+any idea what is going on"
+,b_addy,2012-09-15T20:22Z,"@xboxuser11
+You can use your language pack from Windows Update or other sources to change the UI lang. I know, I did that."
+,samjo511,2012-09-16T18:11Z,You're star man !! You saved tons of my time. 
+,kimmi3143,2012-09-24T06:38Z,"Thank-You murphy78!!! I made the usb tool and this works and saved me so much time!!!This is the greatest upload!!!! Also @bored0911 if your computer is a 32 bit and you use the x64 version it will keep going through the loop, you need to use the x86 version for 32 bit computers."
+,jjjooonnn,2012-09-29T15:38Z,"The folder ""Windows Loader 2.1.7"" contains 3 files:
+checksums.md5
+Keys.ini
+Read me.txt
+
+How should I install the Loader?"
+,Addryann,2012-09-30T08:36Z,"@jjjooonnn
+
+You should have an .exe file there. Most probably your av deleted it. Search Windows Loader 2.1.7 here, but this time, try to temporaly disable your av."

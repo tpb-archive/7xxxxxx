@@ -1,0 +1,18 @@
+tTorrent 1.0.1
+
+tTorrent is an application for the Android platform that allows downloading of large files from the network based on torrent files. In the midst of a huge database of torrents that can be found on the network, including downloading can be movies, music, documents, images, programs, games, and many other materials. Sending and downloading files can reduce the limit, the program is integrated into the browser - Enjoy a variety also add that it works only on Wi-Fi connection
+
+tTorrent is a torrent client for Android devices.
+Features:
+- Multiple torrent downloads, queuing
+- Search torrents
+- Wifi only mode
+- Ability to limit Upload / Download speed
+- Integration of web browser
+- Trackerless torrent (DHT) support
+
+- Support magnet link
+- Torrent tracker (DHT) support
+- RSS support (automatically download torrents published in feeds)
+- Supports UPnP and NAT-PnP
+- IP Filtering

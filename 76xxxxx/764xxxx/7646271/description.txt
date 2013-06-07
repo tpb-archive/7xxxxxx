@@ -1,0 +1,32 @@
+Gamebase Atari800XL (up DAX)
+
+By dax
+
+info:  http://www.gb64.com/forum/viewtopic.php?t=4718&start=135
+
+
+
+trackers:
+
+udp://tracker.openbittorrent.com:80/announce
+
+udp://tracker.publicbt.com:80/announce
+ 
+http://tracker.torrentbay.to:6969/announce
+
+ 
+http://bt.rghost.net:80/announce
+ 
+http://announce.torrentsmd.com:8080/announce
+ 
+http://retracker.kld.ru/announce
+ 
+http://ix3.rutracker.net/announce
+
+udp://tracker.istole.it:80/announce
+ 
+http://bt.home-ix.ru/announce
+
+
+
+Included PARs are only required in case of an incomplete download and are usually not needed to make it work.

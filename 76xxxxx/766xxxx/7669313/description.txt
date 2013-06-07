@@ -1,0 +1,33 @@
+VHS Rip : English, 71mins, fair condition, this is a redo to decrease file size. This is an edited version. Audio is weak, turn it up!
+
+the Dead End Kids & the Little Tough Guys in You're Not So Tough - 1940
+
+Featuring Billy Halop, Gabriel Dell, Bobby Jordan, Huntz Hall & Bernard Punsly.
+  
+http://www.imdb.com/title/tt0033284/	
+
+[14:01:01] job configuration:
+[14:01:01]  * source
+[14:01:01]    + C:You're Not So Tough Matt HelmDeadEndkids-callamessenger-you'renotsotough-aslightcaseofmurder
+[14:01:01]    + title 1, chapter(s) 1 to 1
+[14:01:01]  * destination
+[14:01:01]    + C:Documents and SettingsDead End KidsMy DocumentsYou're Not So Tough.mkv
+[14:01:01]    + container: Matroska (.mkv)
+[14:01:01]      + chapter markers
+[14:01:01]  * video track
+[14:01:01]    + decoder: mpeg2
+[14:01:01]      + bitrate 4000 kbps
+[14:01:01]    + frame rate: same as source (around 29.970 fps)
+[14:01:01]    + strict anamorphic
+[14:01:01]      + storage dimensions: 352 * 480 -> 352 * 480, crop 0/0/0/0
+[14:01:01]      + pixel aspect ratio: 20 / 11
+[14:01:01]      + display dimensions: 640 * 480
+[14:01:01]    + encoder: x264
+[14:01:01]      + options: ref=2:bframes=2:me=umh
+[14:01:01]      + bitrate: 303 kbps, pass: 2
+[14:01:01]  * audio track 0
+[14:01:01]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:01:01]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[14:01:01]    + mixdown: Stereo
+[14:01:01]    + encoder: faac
+[14:01:01]      + bitrate: 160 kbps, samplerate: 48000 Hz

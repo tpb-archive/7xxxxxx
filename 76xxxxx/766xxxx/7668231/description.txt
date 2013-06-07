@@ -1,0 +1,54 @@
+LinuxBBQ 0.2 KDE "Iskembe"
+660 MB - i686 hybrid ISO
+
+Minimalistic KDE 4.8.4 desktop environment.
+Graphics acceleration capabilities recommended for desktop effects.
+
+This spin is in memoriam of Pardus
+
+Applications (GUI)
+- Andromeda file manager/webkit browser
+- KMplayer
+- Mirage
+- Screengrab (with direct upload to imgur)
+- Radiotray
+- ePDFview
+- Kate (with dark theme)
+- LXterminal
+- Othman (Quran browser)
+- Redshift
+- rtmpTVgui
+
+Applications (CLI)
+- mcabber
+- tinyirc
+- vim
+- newsbeuter
+
+KDE-specific features:
+- Akonadi/Virtuoso/Nepomuk: removed from startup and demon disabled
+- Andromeda replaces Dolphin/rekonq/konqueror
+- LXterminal replaces Konsole
+- Kate replaces geany
+- KMix is default sound mixer
+- Network-manager as icon in panel
+- Joy Blue theme
+
+
+
+Changes:
+- removed Pidgin (size), Sylpheed (inconsistent appearance) and Ranger (redundant in KDE)
+- radiotray: added radio channels for the Netherlands and Belgium
+
+configuration files
+- bashrc and bash_aliases reworked and available for root
+- $USER/bin contains scripts and README
+- 800+ channels in Radiotray
+- Kmenu entries for CLI apps
+
+known bugs:
+- Andromeda occasionally does not render sites with Javascript
+- minor: lxterminal opens in ~/Documents folder. Easy fix: right-click the lxterminal icon -> Icon Settings -> Application tab -> change the work path to where you want it to start (typically /homeUSER/)
+- ridiculous: the icons in the task bar are [file manager] [terminal] [menu] and not vice versa -- no idea how this happened :D
+	
+		

@@ -1,0 +1,50 @@
+Général
+Nom complet                              : Safe [ATG 2012] 400p.mp4
+Format                                   : MPEG-4
+Profil du format                         : Base Media
+Identifiant du codec                     : isom
+Taille du fichier                        : 563 Mio
+Durée                                    : 1h 34mn
+Type de débit global                     : Variable
+Débit global moyen                       : 832 Kbps
+
+Vidéo
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Profil du format                         : High@L4.1
+Paramètres du format, CABAC              : Oui
+Paramètres du format, RefFrames          : 8 images
+Identifiant du codec                     : avc1
+Identifiant du codec/Info                : Advanced Video Coding
+Durée                                    : 1h 34mn
+Débit                                    : 700 Kbps
+Débit maximum                            : 2 718 Kbps
+Largeur                                  : 720 pixels
+Hauteur                                  : 304 pixels
+Format à l'écran                         : 2,35:1
+Type d'images/s                          : Constant
+Images par seconde                       : 23,976 Im/s
+Espace de couleurs                       : YUV
+Sous-échantillonnage de la chrominance   : 4:2:0
+Profondeur des couleurs                  : 8 bits
+Type d'image                             : Progressif
+Bits/(Pixel*Image)                       : 0.133
+Taille du flux                           : 474 Mio (84%)
+Bibliothèque utilisée                    : x264 core 118 r2085 8a62835
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Profil du format                         : LC
+Identifiant du codec                     : 40
+Durée                                    : 1h 34mn
+Type de débit                            : Variable
+Débit                                    : 128 Kbps
+Débit maximum                            : 168 Kbps
+Canaux                                   : 2 canaux
+Position des cannaux                     : Front: L R
+Echantillonnage                          : 48,0 KHz
+Mode de compression                      : Avec perte
+Taille du flux                           : 86,5 Mio (15%)

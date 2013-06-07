@@ -1,0 +1,70 @@
+Book Description
+
+The NetBeans Platform is the worldΓÇÖs only modular Swing application framework, used by very large organizations in mission-critical scenarios, such as at Boeing and Northrop Grumman, as well as in the financial sector and in the oil/gas industry. For these large customers in enterprises who are increasingly interested in Maven and OSGi, the book will have particular relevance.
+
+The Definitive Guide to NetBeansΓäó Platform 7 is a thorough and authoritative introduction to the open-source NetBeans Platform, covering all its major APIs in detail, with relevant code examples used throughout.
+
+Provides a completely updated definitive guide to the NetBeans Platform, using the latest APIs, coding patterns, and methodologies.
+Focuses strongly on business features in an application, since OracleΓÇÖs customers are particularly interested in business-related aspects. For example, how to use OSGi, how to add authentication/security, how to monetize from a modular application.
+
+The original German book on which this title is based was well received. The NetBeans Platform Community has put together this English translation, which covers the latest NetBeans Platform 7 APIs. With an introduction by known NetBeans Platform experts Jaroslav Tulach and Tim Boudreau, this is the most up-to-date book on this topic at the moment.
+
+All NetBeans Platform developers will gain something from this book, because several topics in the book have not been documented anywhere else.
+What youΓÇÖll learn
+
+How to get started using the NetBeans Platform with or without using NetBeans IDE.
+How to set up a modular application, using either Ant or Maven as a build system.
+How to get acquainted with all the NetBeans PlatformΓÇÖs APIs.
+How to work with the Visual Library as a very popular and powerful widget library, covering all its features in detail.
+How to model an application in OSGi/EMF and using the model in an application on the NetBeans Platform.
+How to distribute a modular application, focusing on different strategies for monetizing from its modular architecture.
+
+Who this book is for
+
+The Definitive Guide to NetBeansΓäó Platform 7 is for large enterprises who are not interested in reinventing the wheel whenever they create a new applications, and open source communities who typically benefit from a modular architecture, because a plugin system (as provided by the NetBeans Platform) simplifies how contributions can be made to a project.
+Table of Contents
+
+Introduction
+Structure of the NetBeans Platform
+The NetBeans Module System
+The OSGi Framework
+Lookup Concept
+Actions
+Data and Files
+Tips and Tricks
+Menubar and Toolbar
+Window System
+Statusbar and Progressbar
+Nodes and Explorer
+Dialogs and Wizards
+Visual Library
+Tips and Tricks
+Help System
+Output Window
+Navigator
+Properties
+Options and Settings
+Palette
+Palette API
+Tasklist API
+Quick Search API
+Auto Update Services API
+Java DB
+Hibernate
+Java Persistence API
+MySQL and EclipseLink
+Web Services
+Java Beans (JEE)
+RESTful Web Services
+Authentication and Multi-User Login
+Internalization and Localization
+Branding and Packaging
+Update of a NetBeans Platform Application
+Maven and the NetBeans Platform
+Eclipse IDE and the NetBeans Platform
+From Eclipse to NetBeans
+IntelliJ IDEA and the NetBeans Platform
+NetBeans Swing GUI Builder
+Testing NetBeans Platform Applications
+Debugging with the NetBeans DIE
+MP3 Manager

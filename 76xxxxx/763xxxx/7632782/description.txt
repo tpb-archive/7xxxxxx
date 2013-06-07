@@ -1,0 +1,90 @@
+Warren G - Take a Look Over Your Shoulder (Reality) - Custom Remaster by MC Lurken
+
+
+
+1 - Intro
+2 - Annie Mae
+3 - Smokin' Me Out
+4 - Reverend Eazy Dick
+5 - Reality
+6 - Interlude
+7 - Young Fun
+8 - What We Go Through
+9 - We Brings Heat
+10 - Can You Feel It
+11 - Transformers
+12 - Reel Tight Intro
+13 - Relax Ya Mind
+14 - To All D.J.'s
+15 - Back Up
+16 - What's Love Got To Do With It (Ft. Adina Howard)
+17 - I Shot The Sheriff
+18 - What's Love Got To Do With It (Remix)
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (1.72db recording gain)
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = -1.716db
+-With DC Offset Removed: Apparent Bit Resolution = 20, Peak = -1.723db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 0db
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-09-12 13:50:32
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR15      -2.84 dB   -20.70 dB      0:31 ?-01 - Intro
+DR8        0.00 dB   -10.01 dB      3:53 ?-02 - Annie Mae
+DR10       0.00 dB   -11.48 dB      3:41 ?-03 - Smokin' Me Out
+DR13      -0.84 dB   -16.69 dB      0:30 ?-04 - Reverend Eazy Dick
+DR9       -0.32 dB   -11.03 dB      3:31 ?-05 - Reality
+DR9       -3.93 dB   -18.47 dB      0:17 ?-06 - Interlude
+DR10      -0.02 dB   -11.58 dB      3:37 ?-07 - Young Fun
+DR7       -0.04 dB    -9.00 dB      3:41 ?-08 - What We Go Through
+DR9       -0.28 dB   -11.27 dB      3:47 ?-09 - We Brings Heat
+DR7       -0.34 dB    -8.42 dB      3:21 ?-10 - Can You Feel It
+DR8       -0.14 dB    -8.99 dB      3:01 ?-11 - Transformers
+DR8       -1.04 dB   -11.63 dB      0:21 ?-12 - Reel Tight Intro
+DR8       -0.35 dB    -9.41 dB      3:29 ?-13 - Relax Ya Mind
+DR8       -0.61 dB   -10.61 dB      3:01 ?-14 - To All D.J.'s
+DR8       -0.34 dB   -10.44 dB      3:46 ?-15 - Back Up
+DR8       -0.40 dB   -10.39 dB      4:15 ?-16 - What's Love Got To Do With It (Ft. Adina Howard)
+DR9       -0.49 dB   -10.56 dB      4:07 ?-17 - I Shot The Sheriff
+DR8       -0.66 dB   -10.99 dB      3:54 ?-18 - What's Love Got To Do With It (Remix)
+--------------------------------------------------------------------------------
+
+Number of tracks:  18
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

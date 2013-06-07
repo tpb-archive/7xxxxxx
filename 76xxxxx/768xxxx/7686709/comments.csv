@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,bobby0724,2012-09-30T05:38Z,more subs will be great
+,catskinsox,2012-09-30T13:21Z,http://opensubtitles.org
+,dmex00,2012-09-30T22:57Z,"@catskinsox.
+how can I insert those subtitles in the video withouth any convert!, cause if this movie were uploaded for being played in an ios device! so.."
+,catskinsox,2012-09-30T23:35Z,"@dmex00
+If you have a mac, try Subler (http://code.google.com/p/subler/).  
+
+If you're on windows, I'm not as much help, but I THINK this will do it...
+http://www.videohelp.com/tools/mp4box
+
+If anyone else here has Windows solutions, please post it."
+,fragnito,2012-10-01T12:48Z,nice! so glad someone has picked up where tr108 left off. Love the custom itunes torrents. What else you got coming up? Thanks a lot!!! 
+,FabioXS,2012-10-01T14:37Z,"Thank you!! Just curious, what RF do you set in Handbrake for your files? 20?"
+,catskinsox,2012-10-03T15:17Z,"@fragnito 
+Just put The Cabin in the Woods up.  Hunger Games will be next, then the big one... The Lord of the Rings Extended Trilogy.  Just got done encoding and tagging those.  That's a chore!  :)  Not sure what the exact schedule will be, in terms of when this will all happen, but those should be the next ones.  Oh yeah, also have Prometheus completed, so will squeeze that in somewhere as well.
+
+@FabioXS
+I am currently doing a 2-pass Average Bit Rate based on the file sizes in the iTunes store for each movie (adding ~10% increase just for the hell of it.. they have better sources than blu-ray.. the better source, the less bitrate you need to produce the same visual quality).  I mainly am doing that to ensure I have control over file sizes (but still get good quality), though really doing RF=22 is really (probably) good enough if you're using a Bluray source.  Definitely would not go higher than 20, as you're just wasting space at that point (my opinion).    When I did constant quality, I used to use RF=20 just because it was the default and I didn't want to take any chances that I would regret it later.  I've finally just come to the conclusion that convenience is really the whole idea behind the AppleTV, so I'm not stressing so much over quality (though I'm still trying to get the best I can).  If I'm THAT stressed over quality, I'll watch a blu-ray. "
+,FabioXS,2012-10-04T02:03Z,"I get it, I think this is a good compromise... around 5500kbps is pretty good for action/adventure movies"
+,catskinsox,2012-10-04T03:16Z,"And just to be clear... If quality is a concern, you should definitely stick with constant quality with an RF between about 22-20.  I'm only doing the ABR to manage file sizes.  And if you do go with ABR, there's not a magic number to target.  There are other factors, such as the aspect ratio of the movie.  a 2:35:1 ration film has less pixels per frame than a 1:78:1 movie.  So the 1:78:1 may need more bitrate.  Then there are issues such as if something was shot digital vs. film.  Digital will take less bitrate on the whole than something older shot on film.  film grain, etc.  That's why constant quality is better for maintaining a certain level of perceptive quality, but you'll have wildly varying file sizes based on whatever RF setting you find adequate.  I just decided I don't want the wildly varying sizes.  Don't believe me.. try encoding Aliens from Bluray at an RF=20 and see what the resulting file size is.  :)  Any Spielberg movie in recent years, etc.  Anyway, I'm rambling.  Just pick what is good for you, and forget whatever anyone (myself included) tells you.  "
+,senorsway,2012-10-04T09:07Z,"Hey love the upload, Thanks!!
+Just one issue, I'm having trouble playing the file in iTunes using the 5.1 audio track.  It plays fine with the stereo track, but when I switch it to 5.1 it just doesn't play.
+Does anyone know how to solve this problem?"
+,Link_Skywalker,2012-10-04T14:40Z,Great movie! Please upload the 720p version

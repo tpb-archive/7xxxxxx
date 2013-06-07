@@ -1,0 +1,17 @@
+BORDERLANDS 2 CHEATS, CHEAT CODES & HINTS
+
+Unlimited Golden Keys and Additional Promotional Unlocks
+Use Notepad to open up the WillowDLC.ini file located in the GAME FOLDERDLCPOPremierClubLic folder. Edit the file similar to the following:
+[GoldenKeys]
++SourceId=254
++NumKeys=99
+
+...to get 99 golden keys.
+
+[PromotionalUnlocks]
++UnlockId=1
++UnlockId=2
++UnlockId=3
++UnlockId=4
+
+...to get more promotional unlocks. 

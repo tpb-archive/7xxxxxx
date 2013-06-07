@@ -1,0 +1,61 @@
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android 2.1+, Rooted.
+Overview: Chainfire3D is an intermediary OpenGL driver. What does that mean? It means that Chainfire3D sits between your apps and the graphics drivers, and can intercept and/or change commands between the two. It has some built-in functions, and can be further extended with plugins to provide extra functionality.
+
+Features
+- CF3D OpenGL driver
+
+- NightMode (inspired by Jeff Sharkey, more info here)
+--- Handy shortcut to toggle on/off
+--- Supports red, green, blue, amber, salmon and custom (pro only) modes
+
+- Global OpenGL manipulation
+--- Reduce texture size
+--- Reduce texture quality
+--- Unroll textures
+--- Load plugins
+--- Replace shaders
+--- (Pro) Disable Chainfire3D detection
+--- (Pro) Dump all shaders
+--- (Pro) Force depth buffer size (EGL)
+--- (Pro) Force MSAA (MultiSample Anti-Aliasing) (EGL)
+--- (Pro) OpenGL manipulation on a per-app bases
+--- (Pro) Fix market settings
+--- (Pro) Manage installed plugins and shaders
+--- (Pro) Backup and restore settings, plugins and shaders
+
+A bit more detail about some features
+
+NightMode
+NightMode reduces the number of colors on your screen, which on OLED screens saves a lot of battery. The various modes (especially red) are also great in low-light conditions, as they have less effect on your night-vision than a full-color screen
+
+Pro version
+As outlined above, the Pro version adds a little bit of functionality. Purchasing it will support my efforts.
+
+Pro version
+Chainfire3D Pro is available from some warez sites, if you feel like ripping me off However I should warn you that none of those versions actually work as the real Pro version does.
+
+Requirements
+- OpenGL ES 2.0 (every 1ghz+ phone has this)
+- SuperUser / Root
+- Writable /system (it will try to remount system as read/write when needed, but the changes need to stick between reboots)
+- S-OFF ?
+- Having root access from recovery is a big plus to solve problems if you run into them (run "/system/lib/cf3d_uninstall.sh" as root to remove the driver and restore the old one)
+- HTC HD2
+- Samsung Galaxy S
+- Samsung Galaxy Tab 7"
+- Samsung Galaxy S II
+- Samsung Epic 4G
+- Motorola Atrix 4G
+- Motorola Droid 2
+- LG Optimus 2X
+- Google Nexus S
+
+
+                                By bobiras2009		

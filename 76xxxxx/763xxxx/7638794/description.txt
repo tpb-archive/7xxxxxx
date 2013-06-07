@@ -1,0 +1,59 @@
+General
+
+Format                         : MPEG-4
+Format profile                 : Base Media / Version 2
+Codec ID                       : mp42
+File size                      : 1.83 GiB
+Duration                       : 2h 22mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 1 830 Kbps
+Encoded date                   : UTC 2012-09-15 04:47:00
+Tagged date                    : UTC 2012-09-15 04:47:00
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : No
+Format settings, ReFrames      : 1 frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 2h 22mn
+Source duration                : 2h 22mn
+Bit rate mode                  : Variable
+Bit rate                       : 1 699 Kbps
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 29.970 fps
+Minimum frame rate             : 29.940 fps
+Maximum frame rate             : 29.970 fps
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.062
+Stream size                    : 1.70 GiB (93%)
+Source stream size             : 1.70 GiB (93%)
+Language                       : English
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 2h 22mn
+Bit rate mode                  : Variable
+Bit rate                       : 128 Kbps
+Maximum bit rate               : 529 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 44.1 KHz
+Compression mode               : Lossy
+Stream size                    : 131 MiB (7%)
+Language                       : English

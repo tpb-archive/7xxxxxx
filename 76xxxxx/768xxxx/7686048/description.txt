@@ -1,0 +1,41 @@
+Windows Edition - v0.9.7.0 (MD5 : 40EC375448631AB700344C451A8E9038)
+
+Introduction to Flashtool
+Flashtool is a flashing software that can be used to :
+
+    Flash original Images (Android 1.6, 2.1, 2.3 Images)
+    Root your phone
+    Install Recovery, Busybox, custom kernels
+    Clean your Rom (remove /system/apps apps of your choice) (Be careful, unless you really know what you do, do not modify the default list. This can make your phone stuck at the SE Logo)
+    Clear dalvik cache
+    Optimize (install of JIT v2) (Disabled in 0.4, will readd it as a plugin for 2.1 phones only)
+    Customize (installs apps found in the custom/apps folder of the flashtool)
+    Clean uninstalled (remove any references to system apps removed in the Clean (root needed) step)
+    Edit any text file on the device
+    Rebrand your device
+
+
+Installation of Flashtool
+To install the Flashtool, follow the steps below:
+
+    Windows version :
+    Install the full install Flashtool 0.9.7.0 package
+    Apply the latest update (each update is cumulative)
+    Updates will not be functionnal if full 0.9.7.0 is not installed
+
+Flashtool Release Notes
+
+
+* 0.9.7.0
+- Improved ELF extractor. Now prints load address of each program (useful for kernel builders)
+- Added Yaffs extractor.
+- Improved rooting devices by giving the choice of the SU package to install (Superuser or SuperSU)
+- Added an unroot option
+- Fully implemented AdbRestore root hack (adb restore or via semc backup&restore). Not working for Tablet S yet.
+- Added Xperia T to list of devices
+- Cleaned fastboot drivers (still does not install on W8)
+- Encoded zergrush and psneuter to fool antivirus
+- FlashTool linux runscript is now compatible with MacOS (MacOS package will come soon)
+- Better sin content identification (was not working for Xperia T system.sin)
+
+

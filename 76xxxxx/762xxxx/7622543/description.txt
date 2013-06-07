@@ -1,0 +1,95 @@
+Soulfly (-1998-) - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+!!!!!!!!!!This is a custom remaster intended to increase the dynamic range and is NOT an official remaster!!!!!!!!!!
+
+
+1 - Eye For An Eye
+2 - No Hope = No Fear
+3 - Bleed
+4 - Tribe
+5 - Bumba
+6 - First Commandment
+7 - Bumbklaatt
+8 - Soulfly
+9 - Umbabarauma
+10 - Quilombo
+11 - Fire
+12 - The Song Remains Insane
+13 - No
+14 - Prejudice
+15 - Karmageddon
+16 - Cangaceiro
+17 - Ain't No Feeble Bastard
+18 - The Possibility of Life's Destruction
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = no offset (16), Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 1.748db
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-09-10 00:04:17
+
+-----------------------------------------------------------------------------------
+Analyzed: ? / ?
+-----------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+-----------------------------------------------------------------------------------
+DR7      0.00 dB    -8.28 dB      3:35 ?-01 - Eye For An Eye
+DR7      0.00 dB    -9.27 dB      4:36 ?-02 - No Hope = No Fear
+DR7      0.00 dB    -8.73 dB      4:07 ?-03 - Bleed
+DR7      0.00 dB    -8.89 dB      6:03 ?-04 - Tribe
+DR7      0.00 dB    -8.74 dB      3:59 ?-05 - Bumba
+DR7     -0.09 dB    -9.98 dB      4:30 ?-06 - First Commandment
+DR7     -0.13 dB    -8.95 dB      3:52 ?-07 - Bumbklaatt
+DR7     -1.47 dB   -11.59 dB      4:49 ?-08 - Soulfly
+DR7      0.00 dB    -8.48 dB      4:11 ?-09 - Umbabarauma
+DR6     -0.23 dB    -8.70 dB      3:44 ?-10 - Quilombo
+DR7      0.00 dB    -9.38 dB      4:21 ?-11 - Fire
+DR7     -0.30 dB   -10.04 dB      3:40 ?-12 - The Song Remains Insane
+DR7      0.00 dB    -8.76 dB      4:00 ?-13 - No
+DR7     -0.26 dB    -9.17 dB      6:52 ?-14 - Prejudice
+DR9     -0.57 dB   -10.70 dB      3:35 ?-15 - Karmageddon
+DR7     -0.25 dB    -8.80 dB      2:19 ?-16 - Cangaceiro
+DR7     -0.21 dB    -8.79 dB      1:39 ?-17 - Ain't No Feeble Bastard
+DR7     -0.42 dB    -8.17 dB      1:29 ?-18 - The Possibility of Life's Destruction
+-----------------------------------------------------------------------------------
+
+Number of tracks:  18
+Official DR value: DR7
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+MC Lurken - Fighting The Loudness War One CD At A Time
+
+
+enjoy :)
+

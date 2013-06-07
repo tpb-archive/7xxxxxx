@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,3Dazz,2012-09-23T03:30Z,Does this version have a way of getting it to work without having the iLoK dongle or Pace anti piracy installed?
+,Kiddy76,2012-09-23T09:05Z,Team VR does it again!!!
+,mercurysoto,2012-09-23T16:55Z,Time to start using Bootcamp for real :) It's Xmas time even for Mac users.
+,3Dazz,2012-09-24T14:22Z,"Confirmed working 100%. Now I can listen to my bands latest demo and play around with it.
+I'm sure you all know this but if you dont have the hardware eg: M audio box or some type of specialised audio card, download ASIO4ALL and you can at least listen without having to buy hardware.
+TX to uploader, this is the only one that works as described. Easy install."
+[V],bigbluesea,2012-09-24T15:42Z,Thanks  Ching_Liu 
+,lucbl3,2012-09-25T02:11Z,"I use a different (SSD) hd for windows and another one for programs, but i think that the patch doesn't work. Is there a solution? Do i have to mess with Windows Registry?"
+,mercurysoto,2012-09-27T05:19Z,"Ok, I got it running on Mac in a Bootcamp partition. So far so good. I m using ASIO4ALL in a MAcBook Pro with OSX 10.6.8. Kontakt is fine and so is Waves 9. I still get no errors."
+,Oathstalker,2012-09-29T23:25Z,"It includes the cracked setup for Pro Tools 10.3.0.
+
+It works fine on my laptop, I am going to test it with Waves 9 plug ins on Monday!
+
+Many thanks Ching_Liu for this upload, it will strongly improve my way of making music now!!
+
+If you need any help for a music project or a keyboard player, feel free to contact me Ching_Liu, I would be glad to help you!!
+
+If you want to contact me just go here : soundcloudcom/0athstalker/ :)"
+,funkmasterspecs,2012-09-30T05:34Z,"Just a heads up: this seems to be a really unstable release.
+Everyone's reporting timebombs after ~30 mins or so: ""MF: application has been compromised""
+
+I think TEAM V.R will be delivering a stable release quite soon. (Rumours of Beta 8?)
+In the meantime lets all have fun screwing around with this :D
+
+Hats off to TEAM V.R for doing this one. PACE and iLok have been rampant, running around loose for too long! Great to have some one put their foot down."
+,prince227,2012-09-30T07:08Z,"After 10 to 30 minutes of using this program I get the message ""MF: application has been compromised"" . Is there something I did wrong or is this a common problem everyone is having?"
+,Kiddy76,2012-09-30T11:50Z," ""MF: application has been compromised"" 
+
+This fix works for me: ""Disable AUTOSAVE feature"""
+,prince227,2012-09-30T22:37Z,"So Kiddy76 so to fix the ""MF: application has been compromised"" issue all I have to do is ""Disable AUTOSAVE feature"" "
+,Kiddy76,2012-10-01T02:39Z,Yep just disable AUTO SAVE and remember to save manually every now and then.
+,prince227,2012-10-01T05:34Z,Thanks also does this work with all interfaces? including mbox 2 and 002 rack? because everytime I use it it crashes on me but I plan on doing what kiddy said. I was just wondering if there is any other problems anyone has been having with this pro tools.
+,Kiddy76,2012-10-01T06:24Z,"try holding the ""N"" key while opening Pro Tools and see if you can select the 002 as the audio engine."
+,prince227,2012-10-01T07:03Z,Thanks again guys. I will test this out tomorrow. Please keep me updated if this works without any issues or if it is still unstable. 
+,prince227,2012-10-01T08:09Z,How do I disable autosave?
+,Kiddy76,2012-10-01T13:23Z,From top menu > Setup > Preferences > Operation Tab >>> uncheck AUTO BACKUP
+,prince227,2012-10-03T17:31Z,"After disabling autosave and also deleting Avid Pro tools 10hd driver, it seems to be more stable. I will keep on running tests. Please let me know if this works for you guys too or if there is something else that works too. "

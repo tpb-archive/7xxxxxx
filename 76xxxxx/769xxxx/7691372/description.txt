@@ -1,0 +1,51 @@
+PointWise
+ 
+Reliable People. Reliable Tools. Reliable CFD Meshing. 
+
+Mesh Confidently Using Pointwise for CFD
+ 
+Generating meshes for computational fluid dynamics is neither easy nor fun. But mesh generation is where you have the most direct influence on how fast, how converged and how accurate your CFD solutions is. Because of that, you need a mesher that's flexible, robust and reliable. That's Pointwise.
+
+ How Meshing is Better with Pointwise
+ 
+Quality
+ 
+Mesh quality is the key to converged and accurate CFD solutions especially for viscous flows over complex geometry. With Pointwise, you get all the tools you need to achieve the desired results ΓÇô high levels of automation plus intimate levels of control. Pointwise's structured quad/hex grid techniques are the best available and our T-Rex technique for hybrid prism/tet meshes automates the rapid meshing of complex shapes. Pointwise even lets you move grid points one at a time if that's what you need.
+
+ Flexibility
+ 
+Pointwise is the workhorse that moves you confidently from dealing with less-than-perfect CAD to formatting the grid for your flow solvers. Using our proprietary geometry kernel, you'll import CAD data from native and standard formats, work with both analytic (i.e. NURBS) and faceted (e.g. STL) geometry representations, and ensure that your geometry is watertight and ready to mesh with solid modeling and quilting.
+
+ Once your mesh is complete, you'll export it and its boundary conditions to open-source, commercial, and standard CFD formats. And if Pointwise doesn't have built-in support for your CFD solver, you can add your own exporter with Pointwise's plugin capability. Even the meshing process itself can be customized with templates and macros you write in our Tcl-based Glyph scripting language.
+ 
+Service
+ 
+Our commitment to your success is only beginning with your Pointwise license. Whether you encounter a technical issue or just need advice to get the most from Pointwise, our industry-tested engineers are ready to help. Support and training are included with every license. We generate more than just grids - we're building long-term relationships.
+
+ System Requirements:
+ 
+Minimum Requirements: 
+ΓÇó256 Mbytes RAM
+ΓÇó100 Mbytes disk space
+ΓÇóOpenGL capable color display
+ΓÇóEthernet card
+ΓÇó1280x1024 screen resolution
+ΓÇó3D hardware accelerated OpenGL graphics
+ΓÇó24-bit RGB, double-buffered graphics
+ 
+Microsoft Windows
+
+ Operating System
+
+ Windows 7 (32 & 64-bit)
+ Windows Vista (32 & 64-bit)
+ Windows XP (32-bit)
+ 
+Homepage: http://www.pointwise.com/
+ 
+Installation Instructions:
+ 
+1. Install Program.
+2. Copy Content from crack folder and paste into default installation directory, (win32>bin..folder)
+3. Run application, Use given licence files (as per requirement) to register.
+4. Done, Enjoy.

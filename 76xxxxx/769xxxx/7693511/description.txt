@@ -1,0 +1,18 @@
+Fixed this time:
+
+Fixed for version 1.0.0.45
+
+Shared Changes
+
+    Improved the performance and stability of the libraries used for in-game HTML display
+
+Fixed for version 1.0.0.44
+
+    Updated with other Orange Box client/server fixes
+
+Fixed for version 1.0.0.43
+
+Source Engine Changes
+
+    Fixed a client crash bug caused by overflow of the audio cache
+    Fixed a bug that allowed server browser network activity to continue after choosing a server

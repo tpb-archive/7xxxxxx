@@ -1,0 +1,65 @@
+Searchdaimon ES for VMware  
+http://www.searchdaimon.com/
+
+
+- Description
+
+ES is a free enterprise search solution, suitable for corporate use, web search or adding search functionality to cloud applications.
+
+
+Searchdaimon ES is full future enterprise search solution with minimum setup requirements. It will let you search information from documents, e-mail, e-mail attachments, customer relation systems and other content sources. 
+
+ES supports many data sources and the possibility of attribute navigation and collection sorting. It will maintain existing permissions, prohibiting non-authorized users from reading documents. You may use it together with Microsoft Active directory to provide a secure search function for your enterprise, as a public available search engine for your webpage, or as a OEM to add search to your cloud or SaaS application. 
+
+In addition to the build-in data connectors you may write your own connectors to index other data source, or push data over http. You can also create your own search frontends and retrieve search results by xml and rss. 
+
+
+
+- Features & Benefits
+
+ES integrates with Active Directory. Support indexing of file shares, Microsoft Exchange, intranet and external websites, Microsoft Sharepoint and the possibility to write your own connectors.
+
+
+* A powerful interface that can search across content sources.
+* Filtering and sorting functions where you can restrict your search to type of document, data source, date and meta-information such as contacts, customers, sales and projects. 
+* Content federation where structured data can be presented as a table among the results.
+* Suggest function that suggests query words while you are typing.
+* Query spell checking.
+* Inflections and stemming so a search for "car" also shows documents containing "cars", etc.
+* Index unlimited amount of data.
+
+This version of ES also has the VMware Client Tools installed. We also have a version of ES without any vender specific tools installed. Please consider using that version if you are not on VMware.
+
+
+
+- Free
+ 
+The free version comes with a license for 10 users. Except from the user limitation the free ES is exactly the same as the full version, and have no hard limits on document count or index size. 
+
+
+
+- Geting started
+
+The ES virtual appliance contains a striped down Linux operating system and our software fully configured, ready to run, without the need for any local installation. You will need a special program called a hypervisor to do this. One solution is to use VMware Player that can be downloaded free of charge from http://www.vmware.com/products/player/
+
+Full documentation, system requirements and "how to get started" manual is available at  http://www.searchdaimon.com/documentation/
+
+A newer version of ES may be available at  http://www.searchdaimon.com/download/  .
+
+
+ 
+- Support
+
+We will be her for you, so don't hesitate to contact support or post in the community forum if you get stuck. We will try to help everyone, inclusive free members.
+
+
+
+- Tags & Keywords
+
+enterprise search, free search, search, search engine, erp, corporate search
+
+
+
+- More information 
+
+For more information please visit  http://www.searchdaimon.com/  or contact Runar Buvik by email  [rb at searchdaimon dot com].

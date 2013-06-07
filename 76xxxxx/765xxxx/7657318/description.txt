@@ -1,0 +1,64 @@
+ http://76.180.189.27:34378/announce
+
+
+
+Saturday Night Live Weekend Update Thursday is an American limited-run series broadcast on NBC. It is a political satire news show spin-off from Saturday Night Live, featuring that show's "Weekend Update" segment. It initially ran for three 30-minute episodes in October 2008, during the lead-up to the 2008 United States presidential election.
+
+
+[img]http://upload.wikimedia.org/wikipedia/en/thumb/8/81/SNL_Weekend_Update_Thursday_title_card.png/250px-SNL_Weekend_Update_Thursday_title_card.png[/img]
+
+
+General
+CompleteName                     : Saturday Night Live Weekend Update Thursday S03 E01.CoLLuSioN.mp4
+Format                           : MPEG-4
+Format_Profile                   : Base Media / Version 2
+CodecID                          : mp42
+FileSize/String                  : 121 MiB
+Duration/String                  : 23mn 11s
+OverallBitRate_Mode/String       : Variable
+OverallBitRate/String            : 731 Kbps
+
+
+Video
+ID/String                        : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format_Profile                   : Main@L3.1
+Format_Settings_CABAC/String     : Yes
+Format_Settings_RefFrames/String : 4 frames
+CodecID                          : avc1
+CodecID/Info                     : Advanced Video Coding
+Duration/String                  : 23mn 11s
+BitRate_Mode/String              : Variable
+BitRate/String                   : 566 Kbps
+Width/String                     : 848 pixels
+Height/String                    : 480 pixels
+DisplayAspectRatio/String        : 16:9
+FrameRate_Mode/String            : Constant
+FrameRate/String                 : 29.970 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Bits-(Pixel*Frame)               : 0.046
+StreamSize/String                : 93.9 MiB (77%)
+Encoded_Library/String           : x264 core 120
+
+
+Audio
+ID/String                        : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format_Profile                   : LC
+CodecID                          : 40
+Duration/String                  : 23mn 11s
+BitRate_Mode/String              : Variable
+BitRate/String                   : 160 Kbps
+BitRate_Maximum/String           : 222 Kbps
+Channel(s)/String                : 2 channels
+ChannelPositions                 : Front: L R
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+Video_Delay/String               : 67ms
+StreamSize/String                : 26.5 MiB (22%)
+

@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,soundguyrob,2012-09-19T03:22Z,Anyone know if you can load this one to VMware Fusion (5) without a bunch of Terminal hacking? 
+,macomaniac,2012-09-19T14:58Z,"Hi soundguyrob!
+
+From my experience, related exclusively to Mac platforms : VMware Fusion versions (and Parallels Desktop ones as well) running on Macs INTEL cannot virtualize OS X prior to 10.5 (= Leopard). And, as 10.5 (Leopard) and 10.6 (Snow Leopard) are concerned, the OS has to be the SERVER version to be virtualized (but for a meteoric update of VMware Fusion = 4.1.0, which is able by exception, in violation of Apple rules, to virtualize CLIENT versions of Leopard and Snow Leopard). I have myself successfully performed those virtualizations on my 2011 MacBookPro running Lion first, and Mountain Lion now.
+
+That said, I have heard about an Intel Server version of Tiger (10.4), which was able to be virtualized by some guys using VirtualBox on Intel Macs. Which involved a lot of tricks by means of the Command Line in the Terminal. They managed to virtualize too the basic Client version of Tiger, which implied still more sophisticated trickery to make VirtualBox think the virtualized OS was the Server version. Unfortunately, the Intel version of Tiger (10.4) cannot run Classic (Mac OS 9), as the PPC version of Tiger was able to do. 
+
+That's what I can share from my experience, pal, doubting it might match your waits."
+,soundguyrob,2012-09-24T19:01Z,"Thanks for the info- I had a DMG a while back when I updated to VMware4, didn't work. Read a few blogs-etc on how to do magic thru Terminal- but its not important enough for me to run 10.4 to do a massive science project. My old Mac- PowerBook 867- ran Tiger, wanted to find a way to A/B the Tiger w Mt Lion for a project. Oh well, thanks for the detailed info, SGRob "
+,macomaniac,2012-09-25T06:13Z,"Hi Rob!
+
+If your project needs to run some 'PPC' app. no longer working on Lion/Mountain Lion since the dropping down by those OSes of the emulation layer 'Rosetta' which was supported once by Leopard / Snow Leopard, you can virtualize 10.5 or 10.6 on 10.7 / 10.8 using Parallels Desktop or VMware Fusion & a .dmg file of Leopard Server or Snow Leopard Server. Nice result. Otherwise, if needing specifically 'Tiger', better to re-start your PowerBook. I have kept mine running 10.4 as well - in case of..."

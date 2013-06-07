@@ -1,0 +1,67 @@
+
+
+
+
+
+DriveCleanup V0.8.1 - removes non present drives from the device tree
+Freeware by Uwe Sieber (c) 2007-2011
+
+
+
+Removes from the device tree non present 
+- USB hubs
+- USB mass storage devices 
+- USB Disk devices
+- USB CDROM devices
+- USB Floppy devices
+- USB Storage Volumes
+- USB WPD devices (Vista, Win7 only)
+
+and their linked registry items under
+
+HKEY_LOCAL_MACHINESYSTEMMountedDevices
+HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlDeviceClasses
+HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionExplorerMountPoints2
+HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionExplorerMountPoints2CPCVolume
+
+
+Usage:
+
+DriveCleanup [-t] [-n] [-u] [-d] [-c] [-f] [-v] [-r]
+
+no params:  cleanup all
+-t          test mode
+-n          no wait when finished
+-u          only USB mass storage devices 
+-d          only USB Disk devices
+-c          only USB CDROM devices
+-f          only USB Floppy devices
+-v          only USB Storage Volume devices
+-r          only registry items of USB volumes
+-w          only USB WPD devices
+
+Called without parameter it removes all types of devices listed above and cleans the registry.
+
+Samples:
+
+DriveCleanup -t
+test mode, lists devices and registry items to remove
+
+DriveCleanup
+removes non present devices related to drives and their registry items
+
+DriveCleanup -v -d
+removes non present USB Storage Volumes and USB Disks
+
+
+
+
+
+
+Works under Windows 2000, XP and higher only.
+
+Administrator previleges are required for cleanup.
+
+
+
+

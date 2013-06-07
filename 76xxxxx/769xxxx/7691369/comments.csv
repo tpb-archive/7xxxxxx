@@ -1,0 +1,58 @@
+﻿User Type,Username,Date,Text
+,merciless03,2012-10-03T17:13Z,What is the update all about? :))
+[T],Gh0stNet,2012-10-03T18:10Z,"Change log:-
+STABILITY
+*Fixed a potential crash bug when applying affixes and effects in certain circumstances
+*Fixed rare crash when turning in quest in the Undercurrents. 
+*Put in protection against character save file corruption. Corrupted characters will not appear in the list of characters. (And thus can't cause the game to crash on load)
+
+SKILLS
+*Fix for Berserker geyser proc showing up as a mappable skill.
+*Fix for triggering Shocking Burst and Arc Beam out of range while hitting shift that could cause chain casting.
+*'Resist Slow' affix fixed.
+*Proc affixes scale better with player level.
+*Berserker 'Wolf Shade' now has the (intended) 60 second cooldown applied to all ranks.
+*Fix for mistriggering when chaining two skills together when there is an early hit-frame.
+*Safety check to stop any looping skills that get stuck in the 'on' state when the character is not performing a skill.
+*Fixed bug with 'Poison Burst' procs (they should properly engage at more distant ranges).
+*Fix for potential issue when units would queue removed/unavailable skills.
+*Fix for having more than 100% reduction to charge decay or a negative flat charge decay.
+
+PERFORMANCE
+*Made significant optimizations to particle collisions.
+
+SYSTEMS
+*Fix a bug when recalculating the price on objects to make sure the calculation is based on the correct data.
+*Fix for bug where rapid clicks could misspend stat points.
+*Removed access to console commands in multiplayer games.
+*The game's login dialog now correctly allows passwords up to 64 characters long.
+*Removed display of other users' IP addresses in multiplayer games.
+*Removed Steam Cloud toggle in the settings file (it didn't do anything); the ability to toggle is available in the Steam client.
+*Removed logging for achievements to potentially reduce some FPS drops for some users.
+
+LEVELS/SCRIPTING
+*Tweaks to various areas to prevent units from getting stuck.
+*Changed lootable rocks to be non-colliding as they could occasionally block very narrow corridors.
+*Fixes to some level scripting logic in the Frosted Hills.
+*Fixed a bug that could cause multiple Tower of the Moon entrances to appear in the world.
+*Implemented a few specific boss room pathing fixes.
+
+ACHIEVEMENTS
+*Fixed friends list based achievements.
+*Spell-learning achievements now don't incorrectly trigger based on other players.
+
+MINOR
+*Fixed several typos.
+*Improvements to journal tooltips."
+,merciless03,2012-10-04T06:20Z,Thanks for this! :D
+,specterk,2012-10-04T17:20Z,"For anyone wondering about the file-size difference between this and THETA's release:
+
+One of the issues addressed by this patch is game/save loss, one cause of which was .pak corruption; in order to patch it properly, the entire file needs to be replaced. THETA's patch method should theoretically work fine only IF you don't actually need it (aren't having any problems) - but it almost certainly won't work if you DO need it, which is why there are so many people having problems with it. 
+
+The corruption problem is actually fairly common, so this method (downloading the entire patched file) is going to be safer and more effective overall for the majority of people.
+
+TL;DR
+It's the same/correct patch, it works great, and the increased package size is just because of the different patch method -- download with confidence. 
+
+TY for upload Gh0st."
+,CSeleron,2012-10-05T07:30Z,thanks for the upload... is this Patch #1 or Patch 1.12.X.7?

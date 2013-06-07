@@ -1,0 +1,39 @@
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Play easily your music and videos on your phone and devices on your network (DLNA TVs, XMBC, WMP, ...) from your eQxternal UPnP Media Servers. Play your phone/tablet media to those devices.
+Browse and play your local phone/tablet media from other devices (PS3, ...).
+
+Optional Internet Streaming:
+More than just regular LAN streaming, BubbleUPnP can also stream efficiently your media via the Internet over a mobile or WiFi connection. Internet streaming requires installing server software "BubbleUPnP Server" running on Windows, MacOS X, Linux or a NAS (it is not required for regular LAN streaming, see NOTE below). To learn more about BubbleUPnP Server and Internet streaming visit http://bubbleguuum.free.fr/upnpserver
+
+Features:
+
+    Tablet support
+    stream music and videos from your UPnP/DLNA Media Server (Twonky, Asset UPnP, any NAS with UPnP, ...) to your Android device.
+    Codecs supported for audio: with system decoders: MP3, AAC (without DRM), WMA, Ogg Vorbis. With custom decoders WAV, FLAC, ALAC, LPCM. WMA support is manufacturer and model dependent. Vorbis may not work on Android 2.1/2.2.
+    Video playback is delagated to an external app (VPlayer, MoboPlayer, DicePlayer,...)
+    stream music/videos from your UPnP/DLNA Media Server to your UPnP renderers (software or hardware) on your network with regular playback controls (play, pause, seek, volume, ...). 
+    UPnP Media Server (*** requires Android 2.2+ ***): play your local phone/tablet media to other devices or to your Android device (standalone media player). Browse and play your local phone/tablet media from other devices (PS3, WMP, ...). Able to browse Filesystem (SD Card) in licensed version.
+    UPnP renderer: control audio playback of your android device from another UPnP Control point
+    Internet streaming/downloading over a mobile or WiFi connection with BubbleUPnP Server
+    UPnP tethering with BubbleUPnP Server (makes Media Servers from a LAN visible on another LAN)
+
+What's in this version : (Updated : Sep 7, 2012)
+
+    fixed image viewer not showing next image when externally controlled
+    fixed local renderer not playing some WAV files
+    fixed duplicate entries appearing in Library on some tablets
+    fixed app exiting on inactivity while streaming to external renderers in some cases
+    fixed some files from the Local Media Server Filesystem folders not playing on buggy renderers (Onkyo)
+    fixed mp3 files failing to download from BubbleUPnP Server managed Media Servers in some cases
+    various other fixes
+
+Required Android O/S : 2.1+
+
+
+
+                                By bobiras2009		

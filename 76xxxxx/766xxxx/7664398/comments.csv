@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,myprecious121,2012-09-25T04:31Z,dangerous its fake
+[T],Tom_Da_Man,2012-09-25T07:10Z,"How stupid are you? This is 100 % legit, made it myself. No passwords, no .rar-files, no damn virusses. 
+
+Just download and play! And i don't see you sharing any shit. So, shut up and go have a life....."
+,iduskdawn,2012-09-27T03:02Z,"I get the error:
+
+Borderlands2.exe - Entry Point Not Found
+
+""The procedure entry point CreateInterface could not be located in the dynamic link library C:Program Files (x86)BorderlandsBinariesWin32steam_api.dll""
+
+Help please. Thanks :)"
+,FlamingDonkey,2012-09-27T09:41Z,"i get a message that says ""the program can't start because MSVCR100.dll is missing from you computer. try reinstalling the program"
+[T],Tom_Da_Man,2012-09-27T12:57Z,"Make sure you have all the latest drivers and .net framework 4 installed. It's needed by the game to run. And MSVCR100.dll is related to MS Visual c++ Redistributable, you can download it on the MS website.
+"
+[T],Tom_Da_Man,2012-09-27T13:29Z,"Anyone who's having problems, that the game isn't running: 
+
+1. Go to your app folder Borderlands - Binaries - Redist and install the dotNetFx and vrcredist packages found there. 
+
+2. Users with an AMD CPU should also install the AMDsetup in the AMD folder found there.
+
+Tested the game on an Intel CPU, Win 7 x 86 and x64, runs smooth. Make sure u have everything installed, before running the game! Keep your drivers etc up to date, than shit like this doesn't happen."

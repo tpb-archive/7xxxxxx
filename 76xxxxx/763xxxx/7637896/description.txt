@@ -1,0 +1,17 @@
+Metasploit Toolkit for Penetration Testing, Exploit Development, and Vulnerability Research
+
+Publication Date: October 2, 2007 
+ISBN-10: 1597490741 
+ISBN-13: 978-1597490740 
+Edition: 1
+
+This is the first book available for the Metasploit Framework (MSF), which is the attack platform of choice for one of the fastest growing careers in IT security: Penetration Testing. The book and companion Web site will provide professional penetration testers and security researchers with a fully integrated suite of tools for discovering, running, and testing exploit code.
+
+This book discusses how to use the Metasploit Framework (MSF) as an exploitation platform. The book begins with a detailed discussion of the three MSF interfaces: msfweb, msfconsole, and msfcli .This chapter demonstrates all of the features offered by the MSF as an exploitation platform. With a solid understanding of MSF's capabilities, the book then details techniques for dramatically reducing the amount of time required for developing functional exploits.
+By working through a real-world vulnerabilities against popular closed source applications, the reader will learn how to use the tools and MSF to quickly build reliable attacks as standalone exploits. The section will also explain how to integrate an exploit directly into the Metasploit Framework by providing a line-by-line analysis of an integrated exploit module. Details as to how the Metasploit engine drives the behind-the-scenes exploitation process will be covered, and along the way the reader will come to understand the advantages of exploitation frameworks. The final section of the book examines the Meterpreter payload system and teaches readers to develop completely new extensions that will integrate fluidly with the Metasploit Framework. 
+
+┬╖ A November 2004 survey conducted by "CSO Magazine" stated that 42% of chief security officers considered penetration testing to be a security priority for their organizations
+
+┬╖ The Metasploit Framework is the most popular open source exploit platform, and there are no competing books
+
+┬╖ The book's companion Web site offers all of the working code and exploits contained within the book

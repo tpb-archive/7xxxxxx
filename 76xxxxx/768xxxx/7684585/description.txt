@@ -1,0 +1,61 @@
+Fringe S05E01 720p HDTV X264-DIMENSION [MyTV]
+
+Screenshots:
+ 
+http://imageshack.us/a/img197/254/vlcsnap2012092908h52m14.png 
+http://imageshack.us/a/img12/2795/vlcsnap2012092908h52m02.png 
+http://imageshack.us/a/img856/9760/vlcsnap2012092908h51m58.png
+
+NFO:
+
+Format : Matroska
+Format version : Version 2
+File size : 1.16 GiB
+Duration : 42mn 47s
+Overall bit rate : 3 894 Kbps
+Encoded date : UTC 2012-09-28 16:50:17
+Writing application : mkvmerge v3.1.0 ('Happy up here') built on Jan 19 2010 12:09:24
+Writing library : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 8 frames
+Codec ID : V_MPEG4/ISO/AVC
+Bit rate : 3 432 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Original frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Writing library : x264 core 128 r2216 198a7ea
+Encoding settings : cabac=1 / ref=8 / deblock=1:-2:-2 / analyse=0x3:0x113 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=18 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=5 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Language : English
+Default : No
+Forced : No
+
+Audio
+ID : 2
+Format : AC-3
+Format/Info : Audio Coding 3
+Mode extension : CM (complete main)
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 42mn 47s
+Bit rate mode : Constant
+Bit rate : 384 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 118 MiB (10%)
+Default : Yes
+Forced : No

@@ -1,0 +1,32 @@
+Movies : Serial : VHS Rip : English, 17mins, good condition.
+
+the Dead End Kids & the Little Tough Guys in Junior G-Men of the Air, part 11.
+
+Starring Billy Halop, Huntz Hall, Gabriel Dell, Bernard Punsly, Frankie Darro, Gene Reynolds & David Gorcey.
+  
+http://www.imdb.com/title/tt0034930/fullcredits#cast	
+
+[08:33:33] job configuration:
+[08:33:33]  * source
+[08:33:33]    + E:Townie TheatreDead End Kids & Little Tough Guys 1942 Jr G-Men of the Air11Dead End Kids & Little Tough Guys 1942 Jr G-Men of the Air11 Billy Halop.avi
+[08:33:33]    + title 1, chapter(s) 1 to 1
+[08:33:33]    + container: avi
+[08:33:33]    + data rate: 948 kbps
+[08:33:33]  * destination
+[08:33:33]    + C:Documents and SettingsDead End KidsMy DocumentsDead End Kids & Little Tough Guys 1942 Jr G-Men of the Air11.mkv
+[08:33:33]    + container: Matroska (.mkv)
+[08:33:33]  * video track
+[08:33:33]    + decoder: mpeg4
+[08:33:33]    + frame rate: same as source (around 29.970 fps)
+[08:33:33]    + strict anamorphic
+[08:33:33]      + storage dimensions: 240 * 176 -> 240 * 176, crop 0/0/0/0
+[08:33:33]      + pixel aspect ratio: 1 / 1
+[08:33:33]      + display dimensions: 240 * 176
+[08:33:33]    + encoder: x264
+[08:33:33]      + options: ref=2:bframes=2:me=umh
+[08:33:33]      + bitrate: 315 kbps, pass: 2
+[08:33:33]  * audio track 0
+[08:33:33]    + decoder: Unknown (MP3) (track 1, id 1)
+[08:33:33]    + mixdown: Stereo
+[08:33:33]    + encoder: faac
+[08:33:33]      + bitrate: 160 kbps, samplerate: 48000 Hz

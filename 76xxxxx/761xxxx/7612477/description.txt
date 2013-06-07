@@ -1,0 +1,32 @@
+Book Description
+
+Expert Oracle Application Express Plugins is your ΓÇ£go toΓÇ¥ book on the groundbreaking plugin architecture introduced in Oracle Application Express 4.0. Using the new APEX functionality, you can create well-packaged, documented, reusable components and reliably leverage your coding investments across many applications. Components you create can define new item and region types, specify validation processes, and present dynamic actions to client applications. You can design innovative and colorful ways to display information, such as displaying the temperature using an image of a thermometer, or displaying sales velocity in the form of an automotive speedometer. The new plugin architecture is sure to create a tidal wave of creativity.
+
+Author Martin DΓÇÖSouza shows everything you need to know to get started in building and deploying plugins of your own design. YouΓÇÖll learn the underlying architecture, including the APIs used to tie your plugins seamlessly into an Application Express environment. YouΓÇÖll learn about the different types of plugins, and youΓÇÖll walk through examples of each to ensure that you can create the right type of plugin when you need it. Finally, Expert Oracle Application Express Plugins shows how to work as part of the larger Application Express community by leveraging that communityΓÇÖs efforts and by giving back as you deploy your own plugins to the broad audience of Application Express developers.
+
+Presents the architecture and APIs available for customizing Application Express
+Gives clear examples of plugin development, for each type of plugin
+Helps you work as part of the broader community of plugin developers
+
+What youΓÇÖll learn
+
+Understand the APEX plugin architecture
+Design and develop each of the four types of plugin
+Debug and troubleshoot plugin-based applications
+Deploy your plugins to the wider community
+Make your plugins compatible across different browsers
+Master the plugin APIs that APEX provides
+
+Who this book is for
+
+Expert Oracle APEX Plugins is aimed at Oracle Application Express developers wanting to develop reusable components using Application ExpressΓÇÖs new, plugin architecuture. The book appeals to in-house developers wanting to preserve their investment in writing code by packaging it for convenient reuse in other applications. The book also appeals to commercial software developers who want to write plugins for sale.
+Table of Contents
+
+Introduction to Plugins
+Plug-in Fundamentals
+Item Plug-ins
+Dynamic Action Plug-ins
+Region Plugiins
+Process Plugiins
+Best Practices & Community
+Debugging & Tools

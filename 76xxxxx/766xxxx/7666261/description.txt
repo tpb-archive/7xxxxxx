@@ -1,0 +1,25 @@
+                                           Size : 10.308 GB
+                                       Duration : 01:40:43.02
+                                       Mux type : TS Stream
+                                    TS mux rate : 13.750 Mbps
+ Video:                                Encoding : H.264
+                                  VideoStreamID : x6D2
+                                     Frame rate : 25.00 fps
+                                  Encoding size : 1920 x 1080
+                                   Aspect ratio : 16:9
+                                Header bit rate : 20.000 Mbps
+                                     VBV buffer : 380 KBytes
+                                        Profile : Main/4.0
+                                    Progressive : Interlaced
+                                         Chroma : 4:2:0
+                                   Entropy mode : CABAC
+                                       Bit rate : 12.855 Mbps
+ Audio Stream: 1 (Primary)                Codec : MPEG
+                                      MPEGLayer : Layer 2
+                                       Channels : 2.0
+                                       Language : NOR
+                                            PID : x6D1
+                                  PES Stream Id : xC0
+                                       Bit rate : 256 Kbps
+                                  Sampling rate : 48000
+                                    Sample size : 16 bits

@@ -1,0 +1,19 @@
+System Requirements: Intel / Amd processor Preferably with virtualization support for a more comfortable work!
+
+This pre-Snow Leopard 10.6 Retail updated to 10.6.5, the image for a virtual machine VmWare.
+  On this image you can put the latest Iphone SDK
+  network - works
+  sound - works
+  screen resolution - any
+  Administrator password blank
+  how to change the read here http://docs.info.apple.com/article.html?path=Mac/10.6/ru/8162.html
+
+1. Improved support for VirtualBox
+  2. On the drive WmVare tools and drivers for the sound for VirtualBox and VmWare
+
+1. Flash does not work with FireFox safary use
+  2. in VirtualBox personally I still have no sound if someone can write how to fix
+  3. VirtualBox does not work in USB again what it was I do not know
+  4. If the resolution does not change, try to put it here http://sourceforge.net/projects/vmsvga2/
+  5. After booting the machine did not immediately include the axis, we must give all connect the loader when you restart it is not required.
+  6. If your machine does not start and it freezes - nothing terrible is sometimes try to do reset the virtual machine and wait a little longer after the OS of choice

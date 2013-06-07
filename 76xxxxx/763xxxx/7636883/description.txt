@@ -1,0 +1,49 @@
+On top of the countless hours represented by the game developers who created
+the Super Nintendo's original library and the ROM hackers who have made the
+dumps and various patches, this particular packaging of files took over a
+week solid to piece together.  This is not due to the size of this package in
+itself; there are larger packages with more ROMs to be had, several of them
+boasting completeness.  It was, rather, due to what was left out:
+         
+     * If there is a valid ROM and a bad one, the bad one is left out.
+     * If there is a trainer ROM and a normal one, the trainer is left out.
+     * If there is a hack or an overdump, those are left out too.
+     * If there is a translation into anything but English, it's left out.
+     * If there is a E(uropean) version and a U(SA) version, E is left out.
+     * If there is more than one translation, all but one is left out.
+     * If there is a U/E release or translation, the Japanese is left out.
+     * In general, for any game in the package, only one ROM is left in.
+
+Meanwhile, there is no shortage of actual games to play.  In point of fact,
+there are a total 1337 ROM files in the package.
+
+This includes the entire original Super Nintendo library, including Japanese titles. It also includes the very best of recently-created homebrew SNES games (the 81 hacks) and 134 games that have been translated to English by players.
+
+The games are categorized by quality to save you time finding good ones.
+
+
+**** Mini "Getting Started" SNES Emulation FAQ ****
+
+1.  How do I play a game?
+
+You should unzip either "snes9x-1.51-win32.zip" or "zsnesw151.zip" and
+launch the executable, then load your game of choice by clicking on its ZIP.
+Note that neither SNES9x nor ZSNES want to be "installed"; they just run.
+
+2.  How do I use the controls?
+
+If you're unsatisfied with using a keyboard (and I don't blame you), there
+are a gamut of alternate input devices available to you, ranging from USB
+corded controllers for the PC, to adapters for original Nintendo controllers,
+to the controllers for the PS3 and Xbox 360.  If it works in your operating
+system, it will work in SNES9x and ZSNES.
+
+3.  How do I use an ISO file?
+
+You can mount it with something like "Daemon tools" or burn it to DVD.
+Mounting lets you copy it to your hard drive without using a disc.
+This torrent is a repack of the original containing all the files in
+a single ISO file. (The Pirate Bay doesn't like its torrents to have over
+1000 files in general.)
+
+**** Enjoy and PLEASE SEED. My upload bandwidth is very limited. ****	

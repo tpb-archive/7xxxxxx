@@ -1,0 +1,48 @@
+Follow my uploads here:        
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:         
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Requirements: for all Android versions, supports App2SD
+Overview: A simple App to Backup and Restore SMS Messages. This is a Paid No-Ads version of the Ad-Supported Free App.
+
+* Automatic Scheduled Backups.
+* View Backup Contents.
+* Backups created in XML Format on the SD Card.
+* Option to backup selected conversations only.
+* MMS not supported yet.
+* FAQs at
+
+NOTE: There is a known problem with some firmware versions of the Droid X and Droid 2 phones that the restored messages do not get the correct time stamps.
+
+
+This App needs the following permissions to work:
+* Storage - modify/delete SD card contents (android.permission.WRITE_EXTERNAL_STORAGE): To create the xml file on the SD card.
+* Your messages - edit SMS or MMS, read SMS or MMS (android.permission.READ_SMS, android.permission.WRITE_SMS): Needed to read SMS during backups and write them during restore.
+* Your personal information - read contact data (android.permission.READ_CONTACTS): To display and store the contact names in the backup file.
+* System tools - prevent phone from sleeping (android.permission.WAKE_LOCK): To prevent the phone from going to sleep/suspended state while a backup or restore operation is in progress.
+* Hardware controls - control vibrator (android.permission.VIBRATE): To vibrate the phone when the backup or restore operation is completed.
+
+What's in this version:
+Note: If you intend to do a factory reset on the phone, please make sure you save/email a copy of the backup outside the phone before doing the reset.
+v5.91:
+- Fix for Password screen crashing the app. Apologies for the inconvenience.
+v5.90:
+- Support for detection of external storage cards
+- Inbuilt file/folder browser
+- Holo based theme and ActionBar support
+- Open Conversation from Search result.
+- Lots of other internal changes
+v5.81:
+- Some minor bug fixes.
+
+
+                                By bobiras2009		

@@ -1,0 +1,86 @@
+Green Day - Dookie - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+1 - Burnout
+2 - Having A Blast
+3 - Chump
+4 - Longview
+5 - Welcome To Paradise
+6 - Pulling Teeth
+7 - Basket Case
+8 - She
+9 - Sassafras Roots
+10 - When I Come Around
+11 - Coming Clean
+12 - Emenius Sleepus
+13 - In The End
+14 - F.O.D.,All By Myself
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 19, Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 43, Peak = 1.262db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-09-30 01:38:37
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9        0.00 dB    -9.70 dB      2:08 ?-01 - Burnout
+DR9        0.00 dB    -9.89 dB      2:45 ?-02 - Having A Blast
+DR9        0.00 dB   -10.55 dB      2:54 ?-03 - Chump
+DR8        0.00 dB   -11.43 dB      3:59 ?-04 - Longview
+DR9        0.00 dB    -9.95 dB      3:45 ?-05 - Welcome To Paradise
+DR9       -0.03 dB    -9.98 dB      2:31 ?-06 - Pulling Teeth
+DR8        0.00 dB   -10.45 dB      3:03 ?-07 - Basket Case
+DR9        0.00 dB    -9.79 dB      2:14 ?-08 - She
+DR8        0.00 dB    -8.62 dB      2:38 ?-09 - Sassafras Roots
+DR8        0.00 dB    -8.84 dB      2:58 ?-10 - When I Come Around
+DR8        0.00 dB    -9.13 dB      1:35 ?-11 - Coming Clean
+DR8        0.00 dB    -9.33 dB      1:44 ?-12 - Emenius Sleepus
+DR9        0.00 dB    -9.93 dB      1:46 ?-13 - In The End
+DR9        0.00 dB   -14.70 dB      4:46 ?-14 - F.O.D.,All By Myself
+--------------------------------------------------------------------------------
+
+Number of tracks:  14
+Official DR value: DR8
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)
+

@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,werdna,2012-09-09T17:55Z,I have this working/running fine on OsX Lion...
+,oneslider,2012-09-09T23:17Z,"Great news werdna, good for you mate.
+
+;-)"
+,hamsan510,2012-09-19T22:44Z,"OS X Lion
+
+WARNING: I can no longer switch back to ""Digi CoreAudio Device"" for regular sound playback. Hoping I can tinker around and figure out why it is permanently stuck on ""XVX device"" full time. 
+
+This wasn't the easiest to get running for me... but seems to be going fine now minus audio switching funstionality...
+
+Instructions for Lion:
+
+1. Mount the .DMG, I suggest switching to ""list view""
+2. click ""2nd. Install Pro Tools HD.mpkg"", computer will restart
+3. click ""3rd. Installer"" , Check Everybox and Install
+4. Go into your ""Mac HD"" (not user) and create a folder named ""Extra"" in your Library. It will ask for permissions, grant them. Inside the folder called ""Extra"" Make a sub folder called ""Extensions""
+5. Drag the folder ""Digidesign Hardware Emulator v1.3"" to your Desktop.
+6. Open ""Digidesign Hardware Emulator v1.3 Folder and click install.
+7. Restart your Computer
+8. Open Pro Tools Compatibility Patcher > Run ""Driver Patcher"" > click on ""Please Select Device"" the dropdown should reveal ""XVX Device"" > Install
+9. Restart Computer
+10. Open Pro Tools
+
+Can anyone tell me how to get my ""Digi CoreAudio Device"" option back for regular playback? Whenever I select it it goes back to XVX immediately after switching my devices from both the volume panel (whilst holding option) and the actual ""Sound Preferences Panel"" in ""System Preferences"""
+,jpstrach,2012-09-25T05:12Z,"installed worked......
+restarted mac the next day, and no output audio devices...did the scripts re-write stuff on my registry hiding or killing all my devices? even the internal output device is gonzo....
+not sure how to come back from this?
+recovery mode?
+re-install lion?
+shit man....
+any thoughts?
+good while it worked tho!"

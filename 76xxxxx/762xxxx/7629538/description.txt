@@ -1,0 +1,45 @@
+Follow my uploads here:                   
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                    
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Requirements: Android 1.5+
+Overview: 3G Watchdog Pro. 
+
+Pro version of 3G Watchdog mobile data counter / monitoring app, featuring:
+* Advanced data usage prediction
+* Billing rules (counts in blocks, ignores uploads)
+* Usage history with graph & CSV export
+* Usage by application (Android 2.2+, unavailable on Dell Streak)
+* 5 widget styles
+* Backup/restore
+* Redesigned UI
+* Account/SIM with auto switch (requires a phone with a SIM)
+* Import settings & data from 3GW free (don't uninstall 3GW free before importing!)
+* ... and more!
+
+Translated in English, French, German, Greek, Italian, Polish, Portuguese (Brazil), Portuguese (Portugal), Slovak, Spanish, more on the way.
+
+KNOWN PROBLEMS:
+* Doesn't count properly global usage on Samsung Galaxy Tab 10.1 and 8.9 - this problem affects other data counting applications as well and is caused by a bug on the tablet itself. You may try to check the "Calculate global usage from usage by app" advanced option as a possible workaround (feedback welcome).
+* Doesn't count properly global mobile usage on Samsung Galaxy R / Z (i9103) and possibly Galaxy Y. Problems were also reported with the Captivate Glide. Same workaround as for the Galaxy Tab (see above).
+* Early versions of 3GW Pro reported as not working on ZTE Blade/Orange San Francisco (black screen).
+
+What's in this version:
+* Usage graph and text report for roaming usage (if has a quota).
+* Widgets can show roaming left and predicted usages.
+* New billing rule to not count local 2G traffic.
+* Keep the TWO last auto-backups instead of only one.
+* Device support: Samsung Galaxy S3 variants.
+* Fixed incorrect start of plan date calculation when plan period just reset today.
+* Other minor bug fixes.
+
+                                By bobiras2009		

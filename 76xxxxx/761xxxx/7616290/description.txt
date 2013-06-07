@@ -1,0 +1,48 @@
+Onboard cameras from the 2012 Round 13 F1 race at Monza in Italy.
+
+
+Format                                   : Flash Video
+File size                                : 1.19 GiB
+Duration                                 : 1h 32mn
+Overall bit rate                         : 1 838 Kbps
+Writing application                      : Lavf53.32.100                            : 1282477533
+avcprofile                               : 100
+avclevel                                 : 31
+aacaot                                   : 2
+videoframerate                           : 25
+audiochannels                            : 2
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Format settings, GOP                     : M=1, N=50
+Codec ID                                 : 7
+Duration                                 : 1h 32mn
+Bit rate mode                            : Constant
+Nominal bit rate                         : 1 800 Kbps
+Width                                    : 800 pixels
+Height                                   : 450 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 1 000.000 fps
+Original frame rate                      : 25.000 fps
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.005
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : 10
+Duration                                 : 1h 32mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz / 22.05 KHz
+Compression mode                         : Lossy

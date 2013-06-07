@@ -1,0 +1,7 @@
+1.Place the $OEM$ folder in the "source" folder of you image iso,and delete the "ei.cfg" file fron the same "sourse" forder and rebuild iso.
+
+2.Then during install you will have option to shoose the edition of windows 7.
+
+3.You Want to install (ie.Starter|Home Basic|Home Premium|Professional|Ultimate)...if you don┬┤t delete ei.cfg file,that┬┤s OK,just means Ultimate will install by default.
+
+4.PowerISO or UltraISO, are good programs to rebuild you .iso. 

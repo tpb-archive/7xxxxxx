@@ -1,0 +1,60 @@
+General
+Complete name                    : IN TOO DEEP (SD).mp4
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 289 MiB
+Duration                         : 1h 36mn
+Overall bit rate                 : 417 Kbps
+Encoded date                     : UTC 2012-05-29 10:50:01
+Tagged date                      : UTC 2012-05-29 10:50:01
+gsst                             : 0
+gstd                             : 5801690
+gssd                             : B3D5B0806HH1347414244923689
+gshh                             :
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Baseline@L3.0
+Format settings, CABAC           : No
+Format settings, ReFrames        : 1 frame
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 1h 36mn
+Bit rate mode                    : Variable
+Bit rate                         : 319 Kbps
+Maximum bit rate                 : 1 691 Kbps
+Width                            : 640 pixels
+Height                           : 360 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Constant
+Frame rate                       : 25.000 fps
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.055
+Stream size                      : 220 MiB (76%)
+Tagged date                      : UTC 2012-05-29 10:50:02
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : 40
+Duration                         : 1h 36mn
+Bit rate mode                    : Variable
+Bit rate                         : 96.0 Kbps
+Maximum bit rate                 : 127 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 44.1 KHz
+Stream size                      : 66.4 MiB (23%)
+Title                            : IsoMedia File Produced by Google, 5-11-2011
+Encoded date                     : UTC 2012-05-29 10:50:01
+Tagged date                      : UTC 2012-05-29 10:50:02
+

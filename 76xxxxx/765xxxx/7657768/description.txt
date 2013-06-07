@@ -1,0 +1,55 @@
+Follow my uploads here:                           
+https://forum.suprbay.org/member.php?action=profile&uid=311481    
+
+You can make requests here:                            
+https://forum.suprbay.org/forumdisplay.php?fid=4
+                 
+
+                                By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+Requirements: Android 2.1+, 
+Overview: Powerful Music Player for Android. Poweramp is a powerful music player for Android.
+
+Key Features:
+- plays mp3, mp4/m4a (including alac), ogg, wma*, flac, wav, ape, wv, tta, mpc, aiff (* some wma pro files may require NEON support)
+- 10 band optimized graphical equalizer for all supported formats, presets, custom presets
+- separate powerful Bass and Treble adjustment
+- stereo eXpansion, mono mixing, balance
+- crossfade
+- gapless
+- replay gain
+- plays songs from folders and from own library
+- dynamic queue
+- lyrics support, including lyrics search via musiXmatch plugin
+- embed and standalone .cue files support
+- support for m3u, m3u8, pls, wpl playlists
+- OpenGL based cover art animation
+- downloads missing album art
+- 4 configurable widget types
+- configurable lock screen with optional Direct Unlock
+- headset support, automatic Resume on headset and/or BT connection (can be disabled in settings)
+- scrobbling
+- tag editor
+- visual themes, including support for external/3rd party skins
+- fast library scan
+- high level of customization via settings
+
+Changelog:
+- build 510: fixed issue crash on resume when Poweramp process is killed
+- build 509: new ΓÇ£richΓÇ¥ notification support for Jelly Beans (Android 4.1)
+- build 509: improved .wav and .wma support
+- build 509: audio in .flv
+- build 509: Music Folders selection can be 10 levels deep now
+- build 509: fixed missing last song in iso.wv
+- build 509: various optimizations ΓÇô optimized startup on some devices, smaller APK size, new compiler toolchain for native code
+- build 509: few other improvements and bug fixes
+- build 508: fixed issue with HTC Sensation XL @ ICS
+- build 508: smoother post-notification resume
+- build 508: some bluetooth track info support (where supported by device/stock player ΓÇô Motorolas and Samsungs). Optional album/artist can be included into title for title-displaying-only BT devices (Settings/Misc/Tweaks)
+- build 508: Direct Volume Control is disabled by default for LG 2X (P990) ΓÇô this is the only known android device which doesnΓÇÖt send volume changed event to apps (ROM bug?), thus volume change is not possible when Poweramp is not on foreground
+
+                                By bobiras2009		

@@ -1,0 +1,25 @@
+Title:	uTorrent 3.2.1 Beta 28012
+Filename:	uTorrent-3.2.1.exe
+File size:	949KB 
+Requirements:	Windows (All Versions)
+Languages:	en-US
+Date added:	September 26, 2012
+Homepage:	www.utorrent.com
+
+
+┬╡Torrent is a small and incredibly popular BitTorrent client.
+Micro-Sized Yet Feature Filled
+Most of the features present in other BitTorrent clients are present in ┬╡Torrent, including bandwidth prioritization, scheduling, RSS auto-downloading and Mainline DHT (compatible with BitComet). Additionally, ┬╡Torrent supports the Protocol Encryption joint specification (compatible with Azureus 2.4.0.0 and above, BitComet 0.63 and above) and peer exchange.
+Resource-Friendly
+┬╡Torrent was written with efficiency in mind. Unlike many torrent clients, it does not hog valuable system resources - typically using less than 6MB of memory, allowing you to use the computer as if it weren't there at all. Additionally, the program itself is contained within a single executable less than 1 MB in size.
+Skinnable and Localized
+Various icon, toolbar graphic and status icon replacements are available, and creating your own is very simple. ┬╡Torrent also has support for localization, and with a language file present, will automatically switch to your system language. If your language isn't available, you can easily add your own, or edit other existing translations to improve them!
+Actively Developed and Improved
+The developer puts in a lot of time working on features and making things more user-friendly. Releases only come out when they're ready, with no schedule pressures, so the few bugs that appear are quickly addressed and fixed.
+
+Change Log:
+
+"offer_enabled" settings in advanced preferences
+- Fix: OK/Cancel buttons disappeared after resizing the Add torrent dialog horizontally
+- Fix: installer would always show up when running in stand-alone mode from a drive other than C:
+- Fix: Crash fixes - RSS Feeds, Startup, Add Torrent Dialog

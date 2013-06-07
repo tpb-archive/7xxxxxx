@@ -1,0 +1,42 @@
+What is Tixati?
+
+Tixati is a peer-to-peer file sharing program that uses the popular BitTorrent protocol.  This protocol allows many peers to form a cooperative swarm and download very large files with great efficiency.
+
+How does it work?
+
+Once the Tixati software is installed, starting a download is easy.
+
+First, the user finds a .torrent file on the web.  A .torrent file is very small, and contains meta-data describing the much larger file that is to be downloaded from a swarm of other peers.  These .torrent files can be easily found by using Google, or one of hundreds of Torrent Sites which also feature organized categories for the user to browse.
+
+Once the user has chosen and downloaded a .torrent file from the web, they simply open it from within Tixati by clicking the 'Add' button.  After the .torrent is opened, Tixati connects to other peers in the swarm and downloads the desired files automatically, leaving them in a convenient 'Downloads' folder on the user's desktop.
+
+Why choose Tixati?
+
+Tixati is one of the most advanced and flexible BitTorrent clients available.  And unlike many other clients, Tixati contains NO SPYWARE, NO ADS, and NO GIMMICKS.
+
+Tixati has the following features:
+detailed views of all aspects of the swarm, including peers, pieces, files, and trackers
+support for magnet links, so no need to download .torrent files if a simple magnet-link is available
+super-efficient peer choking/unchoking algorithms ensure the fastest downloads
+peer connection encryption for added security
+full DHT (Distributed Hash Table) implementation for trackerless torrents, including detailed message traffic graphs and customizable event logging
+advanced bandwidth charting of overall traffic and per-transfer traffic, with separate classification of protocol and file bytes, and with separate classification of outbound traffic for trading and seeding
+highly flexible bandwidth throttling, including trading/seeding proportion adjustment and adjustable priority for individual transfers and peers
+bitfield graphs that show the completeness of all downloaded files, what pieces other peers have available, and the health of the overall swarm
+customizable event logging for each download, and individual event logs for all peers within the swarm
+expert local file management functions which allow you to move files to a different partition even while downloading is still in progress
+100% compatible with the BitTorrent protocol
+Windows and Linux-GTK native versions available.
+
+What are the requirements to run Tixati?
+
+Here is the recommended operating environment:
+Windows 7 / Vista / XP, or Fedora / Ubuntu / Mandriva Linux
+CPU processor speed at or above 1 GHz
+at least 256 MB of free RAM
+hicolor display with at least 1024x768 display resolution.
+
+
+Only by WEBMASTER16...
+
+don't forget to say thanks if you like my torrent & pls keep seeding...

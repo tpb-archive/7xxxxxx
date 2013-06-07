@@ -1,0 +1,23 @@
+Super OS (formerly: Super Ubuntu) is a version of Ubuntu 11.10 with added software and tools, with the goal of making it more usable, in particular for users without an internet connection.
+
+Features:
+*Based on Ubuntu 11.10
+*Improved multi-language support, with additional translations and language-specific fonts. 70 languages are supported.
+*Firefox, Google Chrome and Opera, all of them with support for webm and Adobe Flash content
+*Local repository with ATI, Nvidia and Broadcom drivers so they can be installed offline, ndiswrapper (for installation of Windows WiFi drivers), sl-modem-daemon and wvdial (PPP dialer)
+*Additional Multimedia Support: VLC, support for DVD-playback, MP3 support and for other formats, like QuickTime video, Windows Media Video, Flash Video, DivX, Xvid, (.mov, .wmv, .flv, .avi, etc...) etc...
+*Portable Applications available (RUNZ included)
+*Programs and scripts are easier to run: App Runner is included
+*Mount tar.gz/.zip/.rar/.iso files with File mounter
+*Additional software: Audacity, Ubuntu Tweak, aMSN, Skype, LibreOffice, Blender, OpenShot, PiTiVi, MyPaint, Pinta, Inkscape, Pidgin, GIMP, Synaptic, VirtualBox, Thunderbird, Gdebi, OpenJDK
+*Super OS has it's own repository, in addition to the official Ubuntu repositories
+*Live USB creator (usb-creator) right from the DVD menu
+*Improved Virtual Machine support, with drivers for VirtualBox and basic drivers for VMware (if you use Super OS on VMware Workstation/Player, it is recommended to install the full/normal VMware tools)
+*Wubi, allowing easy installation alongside Windows
+*The ISOs are now Hybrid ISOs, making them compatible with dd, "Image Writer for Windows" and any other "dd-like" tool
+*(64-bits version) Improved compatibility with 32-bits applications: ΓÇ£multi-archΓÇ¥ and ia32-libs allow the installation of 32-bit applications on 64-bit systems
+*Designed to be very usable offline
+
+**This is the 32-bits version**
+ 
+http://distrowatch.com/superos

@@ -1,0 +1,38 @@
+Movies : Crime : VHS Rip : English,this is a redo of my torrent, reduced file size.
+Please Note: Film not in the best condition, bumped up the bitrate a bit, the smaller the viewing size the better it looks. Watchable. I edited the opening credits which had much garble in them, it's in the source, movie is not like that, but the clarity is sadly lacking, 68mins 44secs, fun movie.
+
+Recommended only for the die-hard fan who has never seen it!
+
+the Little Tough Guys 1938 Little Tough Guys in Society
+
+Featuring Frankie Thomas as the leader of the LTGs, David Gorcey, Billy Benedict, Harris Berger, Charles Duncan & Hally Chester.
+
+Also featuring Jackie Searl, Helen Parrish, Peggy Stewart, Edward Everett Horton.
+  
+http://www.imdb.com/title/tt0030379/	
+
+[13:45:53] job configuration: Handbrake 0.9.3
+[13:45:53]  * source
+[13:45:53]    + C:Documents and SettingsDead End KidsMy DocumentsInSocietyVIDEO_TS
+[13:45:53]    + title 1, chapter(s) 1 to 9
+[13:45:53]  * destination
+[13:45:53]    + C:Documents and SettingsDead End KidsMy DocumentsLTGs in Societyencode.mkv
+[13:45:53]    + container: Matroska (.mkv)
+[13:45:53]      + chapter markers
+[13:45:53]  * video track
+[13:45:53]    + decoder: mpeg2
+[13:45:53]      + bitrate 8000 kbps
+[13:45:53]    + frame rate: same as source (around 29.970 fps)
+[13:45:53]    + strict anamorphic
+[13:45:53]      + storage dimensions: 720 * 480 -> 704 * 480, crop 0/0/8/8
+[13:45:53]      + pixel aspect ratio: 8 / 9
+[13:45:53]      + display dimensions: 625 * 480
+[13:45:53]    + encoder: x264
+[13:45:53]      + options: ref=2:bframes=2:me=umh
+[13:45:53]      + bitrate: 537 kbps, pass: 2
+[13:45:53]  * audio track 0
+[13:45:53]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:45:53]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[13:45:53]    + mixdown: Stereo
+[13:45:53]    + encoder: faac
+[13:45:53]      + bitrate: 160 kbps, samplerate: 48000 Hz

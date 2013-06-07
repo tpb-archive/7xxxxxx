@@ -1,0 +1,60 @@
+MediaInfo:
+
+General
+Format : Matroska
+Format version : Version 2
+File size : 12.0 GiB
+Duration : 1 h 34 min
+Overall bit rate : 18.1 Mb/s
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1 h 34 min
+Bit rate : 16.6 Mb/s
+Width : 1920 pixels
+Height : 816 pixels
+Display aspect ratio : 2.35:1
+Frame rate mode : Constant
+Frame rate : 23.976 FPS
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.441
+Stream size : 10.7 GiB (90%)
+Language : English
+Default : Yes
+Forced : No
+Audio
+ID : 2
+Format : DTS
+Format/Info : Digital Theater Systems
+Codec ID : A_DTS
+Duration : 1 h 34 min
+Bit rate mode : Constant
+Bit rate : 1510 kb/s
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 kHz
+Bit depth : 24 bits
+Compression mode : Lossy
+Stream size : 1.00 GiB (8%)
+Language : English
+Default : Yes
+Forced : No
+Text
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : English
+Default : Yes
+Forced : No
+
+Enjoy and seed!

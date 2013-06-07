@@ -1,0 +1,16 @@
+TECHSTREAM 7.20.041
+pic Year / Issue Date: 9.2012
+Version: 7.20.041
+System Requirements: Windows compatible PC, J2534 compliant interface
+Language: Multilingual
+Medicine: Present
+
+Description: The program for the diagnosis of car TOYOTA, LEXUS, SCION. Required for the diagnosis of PassThru J2534 compliant.
+In the region of Japan by default in English!!
+
+Extras. Information: This is for those who should muff Close the Mozilla Firefox and rename Key:
+[HKEY_LOCAL_MACHINE  SOFTWARE  Mozilla]
+on
+[HKEY_LOCAL_MACHINE  SOFTWARE  Mozilla_X] (eg. ..)
+Now set TECHSTREAM and registry return it back
+This new issue is a conflict with Mozilla Firefox!

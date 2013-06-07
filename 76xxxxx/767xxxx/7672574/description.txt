@@ -1,0 +1,4 @@
+Fixed This Time:
+
+Fixed a client crash bug caused by overflow of the audio cache
+Fixed a bug that allowed server browser network activity to continue after choosing a server
