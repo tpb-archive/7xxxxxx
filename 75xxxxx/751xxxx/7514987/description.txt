@@ -1,0 +1,26 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+Changelog
+
+
+General:
+   Training Grounds - Workshop that can have a stationed squad. Squad members will take turns sparring to train combat skills.
+   When "any" is chosen in uniforms, gnomes will find the best available.  If two weapons are of the same tier of metal, gnomes will pick the one they have    higher skill with
+   Added "any two-hand" option for weapons in the uniform
+   Notification for spotted enemies with option to automatically pause and move
+
+Art:
+   Added blade trap tiles
+   Updated spike trap to animate
+
+Bug Fixes:
+   Crash in workshop queue when pressing "Cancel" and then immediately pressing "Move Up" or "Move Down"
+   Crash in workshop queue when moving a job after the current workshop job has been suspended due to inaccessible components
+   Patrol Routes not loading properly
+   Not dropping non-weapon items when combat ends if the uniform has "any" weapon selected
+   Two-handed weapons not dropping properly
+   Torches being counted in every category in the stock totals overview UI
+   Some constructions being subtracted twice from total construction worth
+
+
+I will be seeding newer versions as they will be released so keep an eye out :)	

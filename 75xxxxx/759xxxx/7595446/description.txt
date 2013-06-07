@@ -1,0 +1,47 @@
+AFL Round 10 St Kilda v Richmond HDTV XviD - pKcMvA
+
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 1.18 GiB
+Duration                                 : 2h 29mn
+Overall bit rate                         : 1 132 Kbps
+
+Video
+ID                                       : 0
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : H264
+Duration                                 : 2h 29mn
+Bit rate                                 : 995 Kbps
+Width                                    : 1 024 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.067
+Stream size                              : 1.04 GiB (88%)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 2h 29mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 137 MiB (11%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 42 ms (1.05 video frame)
+Interleave, preload duration             : 115 ms
+Writing library                          : LAMELAME_MAJOR_VERSI

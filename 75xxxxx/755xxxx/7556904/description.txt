@@ -1,0 +1,32 @@
+Book Description
+
+Decompiling Android looks at the the reason why Android apps can be decompiled to recover their source code, what it means to Android developers and how you can protect your code from prying eyes. This is also a good way to see how good and bad Android apps are constructed and how to learn from them in building your own apps.
+
+This is becoming an increasingly important topic as the Android marketplace grows and developers are unwittingly releasing the apps with lots of back doors allowing people to potentially obtain credit card information and database logins to back-end systems, as they donΓÇÖt realize how easy it is to decompile their Android code.
+
+    In depth examination of the Java and Android class file structures
+    Tools and techniques for decompiling Android apps
+    Tools and techniques for protecting your Android apps
+
+What youΓÇÖll learn
+
+    How to download an Android app and decompile it into its original Java source and HTML5 and CSS code
+    How to protect your Android apps so that others cannot decompile it
+    To identify potential security threats that currently exist and how to avoid them
+    What tools are available to decompile and protect Android apps
+    The structure of a Java Classfile and an Android classfile
+    How the standard JVM and the Dalvik JVM differ
+    How to create your own Android decompiler and obfuscator
+
+Who this book is for
+This book is for Android developers and their managers. ItΓÇÖs also for hackers and hobbyist types who wish to see how Android apps are constructed as a means of learning how to build Android apps.
+
+Table of Contents
+
+    Laying the Groundwork
+    Ghost in the Machine
+    Inside the DEX File
+    Tools of the Trade
+    Decompiler Design
+    Decompiler Implementation
+    Case Studies

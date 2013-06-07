@@ -1,0 +1,64 @@
+Urban Terror, commonly abbreviated as UrT, is a free multi-player first person shooter game developed by FrozenSand.
+
+Beta 4.2.001
+============
+[03.08.2012]
+- new hit detection
+- new character 3rd person animations
+- new game mode: Last Man Standing (LMS) g_gametype 1
+- new Authentication system
+- new demo format ( .urtdemo )
+- new Auto-Updater for the game
+- updated the maps Casa, Mandolin, Kingpin and Kingdom
+- new maps: Raiders, Cascade, Bohemia
+- bugfix #83 - "Follow The Leader bug, a subbed player can be chosen as a leader"
+- bugfix #165. "Server Listing - Misrepresented Gametypes Error"
+- bugfix #183. "Allowed Voting - Load up Time Dependency"
+- bugfix #116. "Mini map - Subbed players seeing Active Players"
+- bugfix #188. "Dropping nades/Going to Spectator"
+- bugfix #249. "Ready Command/ Role Swap Command Discontinuity."
+- potentially fixed "999'ers hold up the game in TS"
+- colour tags don't shorten maximum server host name in server browser.
+- fixed breathing sound when the game is paused
+- stamina regeneration frozen when the game is paused
+- fixed hotpotato time after a pause
+- sr8 drop exploit fixed
+- voting rcon exploit fixed
+- weapon reloading/switching bug fixed
+- going on a ladder with an armed nade will now put the pin back in
+- enable booting when bomb held
+- no throwing last knife
+- fixed g_teamautojoin when going to spectator
+- callvote kick/clientkick now enforces a reason as an additional argument
+- reload button to cycle backwards in spectator mode
+- fix for the masters
+- locked r_intensity, cg_physics and r_smp
+- demo automatically starts recording when joining a game that has already started (with g_matchmode 1 and cg_autoRecordMatch 1)
+- you can "steal" the captain status when his connection is interrupted
+- when a team mate requests a medic his name flashes on the mini scoreboard
+- demo stops recording at the end of a map (with g_matchmode 1 and cg_autoRecordMatch 1)
+- added cg_drawKillLog 0/1/2 (0 = no kill log ; 1 = old log like in 4.1 ; 2 = new log: player 1 [Weapon] player 2)
+- added g_ctfUnsubWait, if set to 1 someone who unsub in wave CTF mode will wait the next wave to spawn
+- added /rcon smite  command, instantly kill a player
+- added /forcesub command (for captains in match mode), force a player of our team to become a substitute
+- added g_allowChat 3 - allow only the captains to talk during a match (only when both teams are ready)
+- added cg_demoFov, it allows to change the fov from 70 to 140 when watching a demo
+- updated the UI
+- updated the cfg files
+- fixed team mate healbar with short names (eg. a dot)
+- callvotes are now logged in the server logs
+- selective weapon/item pickup (+button7) (see README-cg_autoPickup)
+- increased the maximum number of demos
+- fixed weapon selection bug where the last weapon chosen was disappearing when selecting a team
+- fixed map arrows size on big maps
+- fixed the hands when holding a G36
+- now draw the name of the guy who planted the bomb
+- the SPAS has now 8 bullets instead of 6
+- Download percentage overflow fixed.
+- Fixed throwing nade/switching weapon bug.
+- Locked cl_guidServerUniq.
+- Disabled radio binds for muted players.
+- Radio binds are now logged server-side.
+- Added server filters for passworded servers and servers with the Authentication activated.
+- Hot potato are now logged server-side.
+- Callvotes and votes are now logged server-side.

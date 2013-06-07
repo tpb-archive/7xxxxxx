@@ -1,0 +1,29 @@
+Screens: 
+http://www.postimg.com/image/79000/photo-78310.jpg 
+http://www.postimg.com/image/79000/photo-78311.jpg 
+http://www.postimg.com/image/79000/photo-78312.jpg
+
+Video:
+
+
+GTR Guitar v2.0b
+By: Me!, the developer
+
+Hey, whats up, I am sharing my work here, this is a small program that lets you view and play (with sound) guitar tablature files right in your web browsers, no downloads or setups, just view a webpage everything runs in there.
+
+So far, it can open Guitar PRO 3,4 and 5, Power Tab and Tux Files, and support almost any notation feature all this similar softwares have, you can read more about it here http://www.nxgtrsim.com/guitar/features.php
+
+All this is FREE so, take it and share it!, if you feel geeky take a look at included source.
+
+Included files:Test GP4 file.
+gtrguitar2.jar : Software itself, not need to run, the HTML file will open it
+OpenMe.html: This will do the magic
+Readme.txt: Basic stuff you need to know.
+SourceCode.tar.gz: Feel geeky?
+
+Requirements:
+Just make sure you have a modern web browser with support for Applets, almost any browser today on the main Operative Systems (Win/Lin/Mac) will do.
+
+You need the Java Run Time www.java.com/getjava/ but you probably already have it, update it for better results.
+
+First time you open it, you will be required to grant access, do so, otherwise it will not run.

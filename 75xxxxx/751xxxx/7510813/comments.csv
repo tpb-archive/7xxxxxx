@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+,zweistein_Jimmy,2012-08-08T23:19Z,thnx!
+,trudrecko,2012-08-11T08:21Z,thank you!
+,EJK22,2012-08-11T19:07Z,"Dude, you are the greatest.
+
+Demonoid, RIP. :-("
+,realalchemy,2012-08-12T01:04Z,"First, thank you for these encodes, I do appreciate them.
+
+However, if I may be so bold as to offer a bit of advice, you should at least be IVTCing (inverse-telecining) these encodes instead of simple deinterlacing.  Adventure Time is originally at 23.976 FPS, but gets padded (telecined) to 29.97 for broadcast.  Indeed, if you frame through your encodes in an area with constant motion, you'll see 4 frames of motion, then a duplicate frame.  That pattern will repeat.  IVTCing will eliminate the needless duplicate frames and bring the video back to it's proper framerate.  This will improve fluidity in motion areas and reduce the bitrate as well.  "
+,realalchemy,2012-08-12T01:20Z,"If you want to take it a step further, I've noticed there is often artifacting in your encodes during scene changes.  I tried posting a couple examples, but any time I had a URL in my post, there was a ""database error"" and it wouldn't go.  *shrug*  You can see for yourself if you frame through the scene changes in 4x16 at 2:04 and 3:33, for example.  Wish I could link to the pics I posted.  
+
+Anway, I've seen that before.  It's an issue with the source material, unfortunately. In my experimenting, rather than IVTCing, I found using blur, srestore, and decimate offered the best results I could achieve, reducing artifacts during scene changes the most.
+
+Also, less important but worth noting, for this kind of simple animation, I'd suggest using more reference frames.  They really benefit this type of material.  Maybe 4 or 5?  That should be pretty safe for most any hardware decoder.  I'd even suggest 8 to 12, but some people with hardware media boxes might have issues there.  
+
+Anyway, hope you find this info helpful.  "
+,realalchemy,2012-08-12T02:16Z,"Ok, here are the example screenshots from expisode 4x16 showing the artifacts:
+
+http://bayimg.com/pABLGaAea
+http://bayimg.com/pABlIAAeA
+
+Again, my apologies for posting several times in a row.  I was in a hurry and didn't do my homework before clicking submit.  "

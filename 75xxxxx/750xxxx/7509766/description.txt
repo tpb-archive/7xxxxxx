@@ -1,0 +1,8 @@
+This .DMG can be installed on every unsupported C2D mac.
+All you need to do is restore the .DMG to a flashdrive and boot from it.
+After the install is done boot back into your lion partition and from there navigate to System/Library/CoreServices on the ML disk and replace the PlatformSupport.plist with this one:
+
+After that's done you can boot into ML (;
+
+NOTE: Some graphicards will not work out of the box so you need to install the right kext's for your card manually.
+if you card doesn't work properly just search google for the right kext's you need for you card.

@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,crazymadcat,2012-08-15T17:53Z,"Los driverpacks sirven mas que los TEMAS... y MSN 2009 apesta, es mejor la version 8.5 crackeada (sugerencia)"
+,lousen,2012-08-16T07:07Z,"Gracias, Sara.
+
+Intégrale tu mismo los drivers que necesites a la ISO, e instálate tu mismo los programas que más gracia te hagan (sugerencia)"
+,lousen,2012-08-16T08:07Z,PD: Toda la informacion de la compilacion en el archivo LEAME.html dentro de la ISO
+,Qugar,2012-08-17T01:10Z,"Cuidado con esta XP, tiene la cuenta de Administrador activado y si le pones clave para que nadie pueda entrar como administrados del sistema al reinicia el mismo Windows XP entra solo a esa sesión incluso con clave y todo. 
+
+Aparte esta modificado, tanto la instalación como el tema de la cuenta de Administrador, porque no os limitaís a dejar la instalación ya la cuenta principal del administrador sin tocar?
+
+Ya van 2 XP que me he bajado tuyos y tiene los mismo fallos gordos de seguridad, esa cuenta de Administrador debe permanecer oculta cuando te crear un usuario, no ocurre puesto que he creado varios usuario y siguen entrando con la cuenta principal de administrador."
+,lousen,2012-08-17T07:41Z,"Explicate mejor, por favor. ¿Cual seria la configuracion ideal? Ten en cuenta que es un desatendido, y todo debe estar creado de antemano. Desde la cuenta de Admin se deben crear el resto de cuentas y contraseñas."
+,lousen,2012-08-17T09:01Z,"OK! ya he detectado el fallo, trataré de corregirlo para que desde la cuenta de Admin se puedan crear cuentas de usuarios con sus contraseñas, y no vuelva a iniciar por defecto desde la cuenta de Admin en el siguiente reinicio.
+Gracias por el aviso."
+,Qugar,2012-08-17T12:02Z,"Gracías Lousen, se que es un fallo porque he probado muchos desantendidos y aunque instalas con la cuenta de Administrador (la cuenta que usas cuando inicias a modo de fallos) Si a esta cuenta le creas contraseña y luego creas otro usuario al desloguearte ya solo debería salir en el Login tu cuenta nueva y la de administrador ocultarse. Este es el comportamiento que no ocurre sino que la cuenta de Administrador sigue y lo peor de todo se inicia XP con esta cuenta automaticamente aunque tenga contraseña. 
+
+Más que nada porque es de seguridad vital para XP usar cuentas Limitadas y deja una de Administrador para eso, administrar el sistema."
+,lousen,2012-08-17T12:46Z,"Esta tarde publico una v2 de Agosto, con esto corregido y Drivers SATA para el arranque en modo texto. Por favor cualquier otra cosa, comentad aqui."
+,Qugar,2012-08-17T13:58Z,"También me puse a probar los Temas y aunque todos son fantasticos algunos se repetían. Personalmente haría una buena selección de esos 50, los que realmente mejor queden."
+,ramonrir,2012-08-21T21:31Z,"hola lousen oye el windows que compartes aqui, viene con drivers sata? y si lo has probado que instale bien? es que he bajado un par actualizados y me dan un fallo al intentar instalar que les falta un archivo con extencion .sys, y ya he hechado a perder varios discos, te agradesco tu aporte y espero puedas responderme, una ultima duda en comparacion con el sp3 original aprovecha mejor pcs actuales esta version? (pido tu opinion por favor) un saludo :)"
+,lousen,2012-09-04T11:00Z,"Baja la v2 que publique poco despues, que trae ya los Drivers de HD para instalarlo"

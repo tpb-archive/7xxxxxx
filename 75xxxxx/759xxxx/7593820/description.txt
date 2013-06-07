@@ -1,0 +1,25 @@
+PVS-Studio is a static analyzer that detects errors in source code of C/C++/C++0x applications. There are 3 sets of rules included into PVS-Studio.
+
+1. Diagnosis of 64-bit errors (Viva64)
+2. Diagnosis of parallel errors (VivaMP)
+3. General-purpose diagnosis
+
+To learn more about each type of diagnosis, visit the corresponding pages. The PVS-Studio tool is intended for developers of contemporary applications and it integrates into the Visual Studio 2005/2008/2010 environment providing the programmer with a convenient user interface to analyze files, navigate through code and get reference information. You do not need to study documentation and settings preliminarily to work with the analyzer. The analyzer is ready to work right after it is installed.
+
+The methodology of static code analysis we employ has significant advantages over other types of analysis since it allows you to cover the whole program code. The procedure of code check cannot damage the code itself in any way. The analysis process is completely controlled by person and it is the programmer who decides if it needs modification.
+
+The PVS-Studio tool is an own development of the Russian company OOO "Program Verification Systems".
+
+PVS-Studio Features
+
+* Integration with Visual Studio 2005/2008/2010;
+* online-help;
+* pdf-documentation;
+* saving and loading of analysis results;
+* capability of command line launch;
+* support of all cores and processors;
+* estimate of complexity of 64-bit code migration;
+* support of Windows (LLP64) and Linux (LP64) data models;
+* interactive filters;
+* convenient integration into the team development process;
+* marking of program text with the purpose of checking new code only.

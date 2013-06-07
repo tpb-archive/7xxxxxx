@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,BasilBrush,2012-08-05T11:56Z,"The "">"" in get_iplayer > tv.txt
+is meant to be the greater than symbol."
+,BasilBrush,2012-08-05T12:08Z,"Another mistake.
+
+Where is says ""Women's Team Sprint"" above it should read ""Women's Team Pursuit"".
+
+Unfortunately the description field is not editable."
+,BasilBrush,2012-08-05T12:16Z,Sunday 5th Aug 2012 also has a short morning and long evening sessions. These are coming up shortly.
+,BasilBrush,2012-08-05T14:00Z,"List of Olympic cycling events available using get_iplayer (5th Aug 2012)
+473:	Olympics - London 2012: BBC One: Day 5: 13.45-16.00
+483:	Olympics - London 2012: BBC One: Day 6: 16.00-18.00
+494:	Olympics - London 2012: BBC One: Day 7: 16.00-18.00
+509:	Olympics - London 2012: BBC Two: Day 6: 18.00-19.00
+510:	Olympics - London 2012: BBC Two: Day 7: 18.00-19.00
+518:	Olympics - London 2012: BBC Two: Day 5: 13.00-13.45
+522:	Olympics - London 2012: BBC One: Day 8: 17.15-18.50 Womens Team Pursuit
+Check the index numbers before downloading - they change every day as files are added and removed from the list.
+The files are only available for about 7 days. Day 1 events are no longer available."
+,BasilBrush,2012-08-05T15:19Z,"It's normal for get_iplayer downloads to fail. If this happens delete the partially downloaded FLV file and try again but add --force to the end of the command line.
+
+For example:
+get_iplayer --get XXX --modes flashvhigh --force
+where XXX is the 3 digit index number."

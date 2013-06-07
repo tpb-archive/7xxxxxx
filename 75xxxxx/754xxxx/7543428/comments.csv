@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,DJ_Salinger1234,2012-08-18T10:55Z,"Hi, I cant get any other savegames to work. No matter what I try they show up as ""corrupted save"" when you load the game
+Im using the SKIDROW release on windows 7. Ive replaced all files in %appdata%localSKIDROW50650storage and also My GamesdarkSiders 2English.
+Any help would much appreciated! :)"
+,DJ_Salinger1234,2012-08-18T10:59Z,"Crap, backslashes did not show up in that comment.. folders are.. (with dots instead of slashes)
+
+%appdata%.local.SKIDROW.50650.Storage
+
+and
+
+My Games.Darksiders2.English
+
+also I replaced the options.dopt in
+
+%appdata%.local.darksiders2"
+,DJ_Salinger1234,2012-08-18T20:38Z,"I found a fix. If you use a hex editor (eg notepad ++ with a hex plugin) and replace position 20F to 304 from a new save into the one you want to add it works!! :)
+
+Also this is bleedin' ridiculous! why ure saves not work like normal thq!?? "
+,spinsz1,2012-08-19T18:15Z,"@DJ_Salinger1234
+    How did you get it to work? I made a new save and copied the hex sections to the old save I want to use and it's still corrupted... which files did you edit?"
+,FisheR444,2012-08-20T22:16Z,"DJ_Salinger1234
+pls, write a instruction how make it"
+,saikorican,2012-08-27T06:33Z,"The saves have to be fixed using a method described in the darksiders 2 forums involving hex and a save originally from your pc, it's not hard to find. The saves in here only have a lot of money and otherwise aren't worth downloading because they're only level 7-9."

@@ -1,0 +1,37 @@
+Book Description
+
+Use CoffeeScript to Write Better JavaScript Code Than Ever Before!
+
+If you can do it in JavaScript, you can do it better in CoffeeScript. And, since CoffeeScript ΓÇ£compiles downΓÇ¥ to JavaScript, your code will fit neatly into virtually any web environment. In Programming in CoffeeScript, Mark Bates shows web developers why CoffeeScript is so useful and how it avoids the problems that often make JavaScript code buggy and unmanageable. He guides you through every feature and technique you need to write quality CoffeeScript code and shows how to take advantage of CoffeeScriptΓÇÖs increasingly robust toolset.
+
+Bates begins with the absolute basics of running and compiling CoffeeScript and then introduces syntax, control structures, functions, collections, and classes. Through same page code comparisons, youΓÇÖll discover exactly how CoffeeScript improves on JavaScript. Next, youΓÇÖll put it to work in building applications that are powerful, flexible, maintainable, concise, reliable, and secure. Bates shares valuable tips for better development, illuminating CoffeeScriptΓÇÖs hidden gems and warning you about its remaining ΓÇ£rough edges.ΓÇ¥ The book concludes with a start-to-finish application case study showing how to code back-ends and front-ends and integrate powerful frameworks and libraries. Coverage includes
+
+    Understanding the right ways to compile and execute CoffeeScript
+    Using CoffeeScriptΓÇÖs clean syntax to focus on your code, not JavaScriptΓÇÖs distractions
+    Working with CoffeeScriptΓÇÖs control structures, functions, and arguments
+    Taking full advantage of CoffeeScriptΓÇÖs implementation of collections and iterators
+    Leveraging CoffeeScriptΓÇÖs full class support to create complex data models
+    Automating common application development tasks with Cake and Cakefiles
+    Configuring Jasmine with CoffeeScript support, and using it to systematically test your code
+    Writing Node.js server-side applications in CoffeeScript
+    Using CoffeeScript to write jQuery and Backbone.js applications
+    Integrating framework code to avoid ΓÇ£reinventing the wheelΓÇ¥
+
+Want a better way to create the JavaScript code your web applications need? CoffeeScript is the solutionΓÇôand this book will help you master it!
+
+Table of Contents
+Part I: Core CoffeeScript
+Chapter 1. Getting Started
+Chapter 2. The Basics
+Chapter 3. Control Structures
+Chapter 4. Functions and Arguments
+Chapter 5. Collections and Iterations
+Chapter 6. Classes
+
+Part II: CoffeeScript in Practice
+Chapter 7. Cake and Cakefiles
+Chapter 8. Testing with Jasmine
+Chapter 9. Intro to Node.js
+Chapter 10. Example: Todo List Part 1 (Server-side)
+Chapter 11. Example: Todo List Part 2 (Client-side w/ jQuery)
+Chapter 12. Example: Todo List Part 3 (Client-side w/ Backbone.js)

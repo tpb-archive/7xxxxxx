@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+,bacchusduniddufaisan,2012-08-09T10:14Z,Can't see any seeders???
+,AvEurope,2012-09-03T12:45Z,"Installation procedure:
+
+
+/done mainly for non-problematic work with AVCHD files...  .MTS/
+
+A.
+
+Firstly, run from folder ""Prerequisities""
+- Microsoft .NET Framework 4 Setup :
+en_.net_framework_4_full_x86_x64_508940.exe
+
+use
+
+Windows 
+Update to update  .NET Pramework 4 
+
+
+
+B.
+
+Instal the latests Direct X - DirectX End-User Runtime:
+ /for Polish language it would be:
+http://www.microsoft.com/pl-pl/download/confirmation.aspx?id=35
+
+
+
+C.
+
+Perform standard installation procedure:
+
+
+1. Pixie vmob
+
+2. Avid Studio
+/choose ""Register later""/
+
+/I HAD TO CHaNGE TEMPORARILY the system date to  06-2011 to see this option/
+
+
+
+
+later...
+
+
+
+D.
+
+Download and run Avid Studio 1.1 Patch
+
+
+http://cdnexpress.pinnaclesys.com/SupportFiles/Avid_Studio/Update.exe
+
+
+
+E.
+
+Download and run ""patch"":
+
+http://cdn.pinnaclesys.com/SupportFiles/AvidStudio/hotfix.exe
+
+
+
+F.
+Replace  the old library ""H264VidEncodeApi.dll"" situated  here:
+
+
+C:Program Files (x86)AvidStudioprograms (64bit)   or   C:Program FilesAvidStudioprograms (32bit)
+
+
+with this one 
+
+downloaded from that link:
+
+http://cdn.pinnaclesys.com/SupportFiles/FAQ_Links/avid_studio/413381/H264VidEncodeApi.dll
+
+--------------------------------------------------
+
+For other issues read - Avid Knowledge Base:
+
+
+http://avid.force.com/pkb/articles/en_US/FAQ/en415551?retURL=%2Farticles%2Fen_US%2FFAQ%2Fen410211%3FretURL%3D%252Farticles%252Fen_US%252FFAQ%252Fen410211%26popup%3Dtrue&popup=true"

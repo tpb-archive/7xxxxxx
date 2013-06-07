@@ -1,0 +1,22 @@
+Features
+
+
+Features:
+- Serial insertion
+- KMS Server Selection
+- KMS Activating
+- KMS Background activating (Constantly looks for and tries servers for activation)
+- Metro inspired UI
+- Language Pack Installing
+- Windows Rearm (Works on 7 as well)
+
+
+Changelog
+
+1.4 - 10 August, 2012
+- Added Background activation
+- Added tray notification icon
+- Added more servers (unconfirmed)
+- Removed run as admin messagebox, now displays your status on statusbar.
+- Fixed drag lag and mouse lag
+- More bug fixes

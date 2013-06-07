@@ -1,0 +1,13 @@
+Gameboy Advance emulator based on VBA-M r1097 (GPL), designed and tested on the Xoom, Galaxy S2, and Xperia Play, but works on many devices with similar specs. I have made a number of custom optimizations to increase speed while maintaining VBA-M's excellent compatibility and audio quality. You should have at least a 1GHz CPU for best results.
+
+
+
+What's in this version : (Updated : Jul 28, 2012)
+
+    Graphics fixes for Camelot games (Golden Sun, etc.)Fixed auto-frameskip lockup
+    Sound buffer size option to control latency and new playback code for Android 2.3+
+    Java-based Bluetooth support for devices that can't use the C implementation
+    Option to show/hide status bar
+    Other various fixes (see site for full list)
+
+Required Android O/S : 2.3+

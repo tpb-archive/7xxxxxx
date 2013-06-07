@@ -1,0 +1,9 @@
+This is exactly what the title says. Tested on OS X 10.8 Mountain Lion and working.
+
+IMPORTANT INSTALLATION NOTE: 
+
+Activation should be avoided, use Little Snitch 2.5.3 to block communication to reg.sorenson.com - if you do not block communication I cannot guarantee that the remote server won't disable your installation, I personally did not dare to allow it to connect to the registration server. During the installation it will bitch at you once that it cannot reach the registration server but it will allow you to install anyways. Once it is installed, you have to block probably the registration server again permanently once you start the program for the first time.
+
+To use CUDA for encoding you need to install the cuds toolkit, driver and sdk which you can find on Nvidia's website.
+
+Enjoy guys :)

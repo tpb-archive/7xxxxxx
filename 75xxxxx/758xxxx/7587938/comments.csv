@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+[T],CAPTAIN7SS,2012-09-01T01:59Z,hi again...something is wrong with the way these sound..are you recording it with your computer or with one of those online radios??..it sounds like you're using a microphone or your software is listening to the wrong input device to your soundcard....just guessing...i did the same thing...had me crazy..on yours it's almost like i can hear something running..like a fan in a computer..i did that with a setting on ''integrated microphone array'' and' wave mapper'' ..in the integrated microphone array setting i can pick up room noise and voices...had me crazy too till i figured what setting on my computer would be correct. what do you use...?? 
+[T],CAPTAIN7SS,2012-09-01T02:18Z,glad you're back...it's comes down to only you and i that upload rush's shows...that's a good thing because we back each other up...and these uploads are important to people who miss the show...and it's important because rush is the best and needs to be heard by as many as possible ...rush's wisdom is what makes him the will rogers of his time...and it's important because every effort helps to take back our presidency...have a good weekend
+,amuck5,2012-09-01T02:23Z,"Captain:  I use a FM radio attached, via a 25' audio cable, to my microphone-in jack on my PC.  There are no ambient microphones connected.  I have left all PC settings at default/normal, and use Window's SoundRecorder.exe to capture to WMA files, and then convert to MP3 with FormatFactory.  The background noise could originate from my sucky FM receiver or the poorly shielded audio cable.  I will attempt some remedies."
+[T],CAPTAIN7SS,2012-09-01T18:33Z,"hi..wow i was hoping you'd read this page !!...is the computer you are recording with online??..if so try recording directly from the website
+http://www.wvnn.com/
+
+i tried the windows sound recorder you mentioned..i didn't even know it was there!!..terrible sound on this laptop..hp windows 7 64bit...it sounded like i was using a microphone in front of a little radio speaker
+
+try using CDEX...and record right off the website from the ''listen live'' button
+CDEX is open source and looks like classic windows interface..windows 98/xp look..
+i set it to record to a wave file and then convert that to mp3 ..i use the setting for wav 22050 and mono...stereo doubles the size...44100 doubles the size..wav is lossless and you can make any mp3 from that
+softpedia has good pages on cdex...
+
+http://www.softpedia.com/progScreenshots/CDex-Screenshot-4676.html
+
+get your mp3 encoder from codecs.com...great site
+
+on the cdex face the tab ''tools'' offers you to record from analog input'' that's the one to record off the webpage....or even try the cable to your radio...i think the trouble may be that windows recorder you have been using...it certainly sounded bad when i used it...but i don't have experience with it 
+
+http://www.free-codecs.com/download/Lame_Encoder.htm
+
+the newest version is an alpha..so use the next one back...there are all kinds of web pages to out there to show you how to use cdex in case you've never seen it before
+
+
+there is a program called ''mp3DirectCut''....you can record with this and trim cut and fade with this too...the newest program has a cluttered interface...find an older one or i can send you one...again this takes a lame mp3 encoder that you can get at codecs.com...or anyplace...it only records to mp3...no wma or wav....that's why CDEX is good..you can record to diff things and it also has a timer...
+
+there is also a program called ''EASY CD-DA EXTRACTOR''...which is the best conversion program...you can find it here on tpb...the only thing better than this is ''SONY SOUND FORGE''..  
+
+on the CDEX and the mp3DiectCut there are settings for the INPUT ..to record from where?...microphone...sound card..etc..experiment with these settings till it sounds ok
+
+there is another program called AUDIOGRABBER 1.83...I can't get it to record on my win7 home premium but it is a good conversion tool...it works great on xp...its the best one to use on xp...
+
+
+http://www.softpedia.com/get/Multimedia/Audio/Audio-CD-Rippers-Encoders/Audiograbber.shtml
+
+these progs are all free except the easy cd-da
+"

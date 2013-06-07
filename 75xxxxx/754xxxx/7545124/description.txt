@@ -1,0 +1,88 @@
+Terminator The Sarah Connor Chronicles - TSCC
+
+DVD quality 720x576 (shown at 1024x576, 16:9 aspect ratio)
+
+- Audio: English
+- Subtitles: German, English, Spanish, Italian
+- Container: Matroska MKV
+- Video compression: x264, rate-factor 24, optimized
+- Audio compression: MP3, 128kbps, stereo, CBR
+- Encoded to MKV v1 using VirtualDubMod, converted to MKV v2 with mkvmerge (no headers compression!)
+
+Content
+
+- Season 1 episodes (9);
+
+- Season 2 episodes (22+);
+
+- Season 1 deleted scenes (5):
+  - s01e01s01
+  - s01e01s02
+  - s01e01s03
+  - s01e03s01
+  - s01e06s01
+
+- Season 2 deleted scenes (12):
+  - s02e06s01
+  - s02e09s01
+  - s02e10s01
+  - s02e13s01
+  - s02e18s01
+  - s02e19s01
+  - s02e19s02
+  - s02e19s03
+  - s02e19s04
+  - s02e20s01
+  - s02e20s02
+  - s02e22s01
+
+- Extra contents(11):
+  - Blood and metal - vfx
+  - Cameron vs. Rosie
+  - Chaos
+  - Conceptualization
+  - Designing destruction
+  - Errors
+  - Motivations
+  - Setting the tempo
+  - The storyboard process
+  - War stories
+  - Write the future
+
+- Deleted scenes from Terminator 1 and 2 (5):
+(Sorry, these files are NOT in DVD quality)
+  - T1 Deleted scenes
+  - T2 Explanations Of Deleted Scenes (interview to James Cameron and the cast)
+  - T2 Deleted scenes - Chip extraction - Smileing - T-1000 problems
+  - T2 Deleted scenes - Sarah's dream
+  - T2 Deleted scenes - T-1000 in John's room
+
+
+
+* Note for episodes 1, 4, 21, 22 from S2: for each episode four files are present
+
+	TSCC - s02exx - TITLE...
+
+These files contain only the episode, starting from where the episode starts, and with a single audio track.
+
+	TSCC - s02exx - TITLE (episode only, dual audio - requires PRE for the whole commentary)...
+
+Like the previous, but with a second audio track for the audio commentaries.
+They require the "PRE" files to watch the episode with the whole audio commentaries.
+They can be merged with the "PRE" files using mkvmerge or another software.
+
+	TSCC - s02exx - TITLE - PRE (first seconds, only needed for the commentary)...
+
+These files contain the first seconds of the track (opening titles and the "summary of the previous episodes").
+They're not needed to watch the episode, but they contain the first seconds of the audio commentary in their second audio track.
+
+	TSCC - s02exx - TITLE - WITH Commentary and OP (dual audio)...
+
+These files contain everything: two audio tracks (episode + commentary) and a complete video track which includes the opening titles, the "summary of the previous episodes" part and the episode.
+They have two chapters.
+See "Note for EPs 01, 04, 21, 22.txt" for details.
+
+
+To move thru chapters on VLC press SHIF+P or SHIF+N for Previous and Next chapter respectively.
+To switch between the various audio tracks just press "B".
+To switch between the various subtitles tracks just press "V".

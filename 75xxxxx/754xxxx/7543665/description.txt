@@ -1,0 +1,64 @@
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 43mn 57s
+Bit rate mode                            : Variable
+Bit rate                                 : 14.0 Mbps
+Maximum bit rate                         : 18.1 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.225
+Stream size                              : 4.28 GiB (95%)
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                   : 2
+Format               : AC-3
+Format/Info          : Audio Coding 3
+Mode extension       : CM (complete main)
+Muxing mode          : Header stripping
+Codec ID             : A_AC3
+Duration             : 43mn 57s
+Bit rate mode        : Constant
+Bit rate             : 384 Kbps
+Channel(s)           : 2 channels
+Channel positions    : Front: L R
+Sampling rate        : 48.0 KHz
+Bit depth            : 16 bits
+Compression mode     : Lossy
+Stream size          : 121 MiB (3%)
+Language             : English
+Default              : Yes
+Forced               : No
+
+Menu
+00:01:42.000         : :01-Dance Little Liar
+00:06:21.000         : :02-Brianstorm
+00:09:23.000         : :03-My Propeller
+00:12:51.000         : :04-Crying Lightning
+00:16:49.000         : :05-The View From The Afternoon
+00:21:17.000         : :06-I Bet You Look Good On The Dancefloor
+00:24:19.000         : :07-When The Sun Goes Down
+00:28:25.000         : :08-Secret Door
+00:33:50.000         : :09-Fluorescent Adolescent(Trecho de Strange de Patsy Cline)
+00:38:35.000         : :10-505

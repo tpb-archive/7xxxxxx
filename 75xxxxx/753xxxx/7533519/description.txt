@@ -1,0 +1,23 @@
+Features:
+- Serial insertion
+- KMS Server Selection
+- KMS Activating
+- KMS Background activating (Constantly looks for and tries servers for activation)
+- Metro inspired UI
+- Language Pack Installing
+- Windows Rearm (Works on 7 as well)
+
+- Auto Server Updating
+
+
+Changelog
+
+1.5 - 15 August, 2012
+- Now fetches servers to files
+- Server combobox now loads the servers downloaded rather than just the background activator using them
+- Clears traces of KMS activation
+- Fixed possible severe security issue, fixes that issue with popups.
+- Now auto downloads reported working servers every hour and a half
+- Added manual update server list
+- Performance improvements
+- Various bug fixes

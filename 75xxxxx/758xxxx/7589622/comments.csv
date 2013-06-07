@@ -1,0 +1,45 @@
+﻿User Type,Username,Date,Text
+,oxominder1,2012-09-02T08:25Z,"Hi bobiras22
+is this work on Galaxy s2 ice cream sandwich "
+[T],bobiras22,2012-09-02T10:37Z,"@oxominder1
+
+Yes mate this will work fine."
+,av.doshi,2012-09-02T12:23Z,"@bobiras22
+
+Hey man, I tried to do as you said but I am not able to run it on my HTC X One. I copied the jp.co.sega.vtc folder to the designated folder. But still everytime i open Virtua Tennis it shows I need to download additional 400mb worth of data.
+
+What could be the issue? Any help is much appreciated! :)"
+[T],bobiras22,2012-09-02T12:54Z,"@av.doshi 
+
+Because the HTC One X has Tegra gpu it needs some aditional data fot playing with full graphics.This is the reason that it ask you the 400mb.Open wifi and with a high internet connection it will only take some minutes to download them.After that the game must work fine."
+,azhbro88,2012-09-02T19:06Z,"@bobiras22
+I had installed the apk on my  xperia ray(non rooted).i copied the jp.co.sega.vtc folder to the designated folder. It shows, ""i need to download 400 mb of data"".I couldn't download the sd data.Download not exceed 0%."
+[T],bobiras22,2012-09-02T20:28Z,"@azhbro88
+
+First try to open the game without internet connection.
+
+I hope you put the folder in sdcard/Android/Obb and not in sdcard/android/data
+
+If again it doesnt work connect to a high connection wifi and download the extra data."
+,minh2301,2012-09-03T02:37Z,"hey man, can this work on galaxy tab 7500?"
+,Zork71,2012-09-03T05:47Z,Didn't work on my Galaxy Tab 7.0 Plus. Yes i followed all the instructions. 
+,A.Phantasm,2012-09-03T14:57Z,I'm having the same problem as Azhbro88. And i tried what you suggested to Azhbro88 and it still wants to try and download 400mb and when I tell it yes to go ahead and download the downloader never goes past 0%.
+,lerijiso,2012-09-04T00:08Z,Im having the same issue too. stuck at 0%. Im using a tegra 2 device.
+,makasif,2012-09-04T07:10Z,Im having the same issue too. stuck at 0%.i m using xperia neo v.
+[T],bobiras22,2012-09-04T17:59Z,"@All
+
+If this:
+
+Put ""jp.co.sega.vtc"" file in ""sdcard/Android/obb""*
+
+So You have:
+
+sdcard/Android/obb/jp.co.sega.vtc and in this rep you have directly the main.4jp.co.sega.vtc.obb file.
+
+
+doesnt work then the servers for the Virtua Tennis Challenge has banned this cracked apk.We will wait for a new working apk.The data will be the same keep them.Only the apk will need a fix"
+,arogant_jadoon,2012-09-04T22:53Z,"@bobiras2009
+exquisite job man........ loved all ur uploads
+CAN U PLZ UPLOAD BNF(BRITISH NATIONAL FORMULARY) apk file 
+will b greatful"
+,A.Phantasm,2012-09-08T06:39Z,I tried downloading again and got the same results. So I would assume your right about the apk being banned.

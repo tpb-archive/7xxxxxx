@@ -1,0 +1,7 @@
+Version 1.2:
+
+* Note - We're working on a big new feature for Chocolat. While you wait, here's an update of small fixes.
+* Feature - "Duplicate..." context menu item
+* Feature - Text > Lines > Delete Line (cmd-shift-delete)
+* Note - Nuked "invalid" syntax highlighting from orbit.
+* Feature - cmd-left now goes to the end of the indentation of a line. Press it again to go to more...

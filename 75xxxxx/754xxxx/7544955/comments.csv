@@ -1,0 +1,405 @@
+﻿User Type,Username,Date,Text
+,bigorna12,2012-08-18T20:33Z,gives forever?
+,bpavlakis,2012-08-18T20:42Z,Keeps telling me the key has reached its limit.
+,ZmisiS,2012-08-18T21:13Z,I' ve installed Windows 8 Pro x64. Don't work for me. 
+,gozando,2012-08-18T21:34Z,"hey bobiras22 you sure deserve one of those pink skulls . I have seen your work for quite long time man,,stay strong.. goz."
+,Tayoti,2012-08-18T21:38Z,"hey when i clicked 'activate windows 8 everything stopped responding  so i switched off the comp .....again after switching on , startup goes smoothly then  screen just went black  and i see only the cursor ...any ideas ????"
+,just1nfinite,2012-08-18T21:57Z,Which server do we use?  None of them are working for me?
+,jayvon,2012-08-18T22:05Z,Windows smart  screen wont let me run it.
+,soky999,2012-08-18T22:16Z,"@Tayoti 
+try reinstall net framework and graphic drivers"
+,jayvon,2012-08-18T22:39Z,Never mind my previous comment but it keeps saying my DNS name dose not exist 
+[T],bobiras2009,2012-08-18T22:44Z,"Hey guys you need the correct key and the version of your windows 8 too to activate.Try this it will work 100%:
+
+1. Run cmd as admin. Enter one of they keys in here :
+slmgr /ipk PF9TR-KNB98-T7JPF-TWF8W-F3G7C
+slmgr /ipk BYXV8-9YN72-VTF7H-8G7PT-WW8X2
+2. Turn off your internet connection
+3. Open activation window and click ""Activate"". It'll show your an error.
+4. After that you'll see ""Activate by phone"" button.
+5. Call to microsoft and enter code from message, which you will see.
+6. If they ask about number of computer, where you will use this key, say 1
+
+and the proof:
+
+http://postimage.org/image/qf01hordx/
+
+If anyone need help let me know.
+
+And of course if it doesnt work see these for problems:
+
+- Make sure you ran it as Admin
+- The KMS server might be down, more servers will be included in future releases
+- Make sure you have the proper KMS key that you need installed, more keys and auto OS detection will be added in future releases
+- Getting error saying something about non-core, you're inserting a key not for your version
+- Do not use a proxy"
+,georgep001,2012-08-18T23:31Z,I got the windows 8 enterprise edition im currently running release preview if I use this method to activate windows will I be able to still download apps from the windows store?
+,georgep001,2012-08-18T23:33Z,I got windows 8 enterprise downloaded im currently still on release preview if I use this method to active my windows 8 enterprise will I be able to still download apps from the windows store?
+,georgep001,2012-08-18T23:35Z,I got windows 8 enterprise downloaded but im currently still on release preview if I install windows 8 enterprise and use this method to activate can I still download apps from the Microsoft store?
+,georgep001,2012-08-18T23:36Z,sry for the same post thought it didn't post 
+,ZmisiS,2012-08-18T23:42Z,"@bobiras22 
+
+After  ""Activate by phone"" I does not message. "
+,vaval383,2012-08-18T23:43Z,h
+,heisenbergpt,2012-08-18T23:58Z,"I try to call from Portugal, but every time the same thing: your call cannot be completed as dialed please check the number and dial again! you know what i have to do?"
+[T],bobiras2009,2012-08-19T00:26Z,"You both try this exactly?
+
+1. Run cmd as admin. Enter one of they keys here:
+
+slmgr /ipk PF9TR-KNB98-T7JPF-TWF8W-F3G7C
+slmgr /ipk BYXV8-9YN72-VTF7H-8G7PT-WW8X2
+
+2. Turn off your internet connection
+
+3. Open the activation window and click ""Activate"". It'll show your an error.
+
+4. After that you'll see an ""Activate by phone"" button.
+
+5. Call Microsoft and enter code from message, which you will see. Works best with a real phone, but if you can't call internationally or don't want to pay, use Skype or iCall
+
+6. If they ask about number of computer, where you will use this key, say 1
+
+Remember to do it fast because microsoft will block the call."
+[T],bobiras2009,2012-08-19T00:28Z,"If this doesnt work you can try this method that worked in many people:
+
+1. Install Win8 offline.
+2. Start Windows.
+3. Set the time properly according to your region. Additionally, click Internet Time tab > Change Settings > synchronize with ""time.windows.com"" > OK
+4. Point your cursor to the lower left hand corner of the screen. Right click. Open CMD as Admin.
+5. Type this (without the quotes): ""slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4""
+6. Press Enter.
+7. Type this (without the quotes): ""slmgr /skms kms-c.no-ip.org:1688""
+8. Press Enter.
+9. Type this (without the quotes): ""slmgr.vbs -ato""
+10. Press Enter.
+11. Click OK.
+12. Restart your computer.
+13. The End.
+
+Connect to the internet and download the updates that you want"
+,georgep001,2012-08-19T00:33Z,I tried activating by phone did the automated thing said could not verify my key please wait transferring u to a agent so I hung up.
+,vaval383,2012-08-19T00:35Z,F
+,georgep001,2012-08-19T00:59Z,I think I got mine activated I can use the windows update but when I go to system settings it doesn't say windows is activated just says product id:not available.
+,georgep001,2012-08-19T01:00Z,nm didn't work 
+,finnsk3,2012-08-19T03:24Z,"None of the KMS servers are online, all of the CD-KEYs have been banned. Activating via Phone will not work with any of the CD-Keys I have found."
+,georgep001,2012-08-19T04:09Z,Ya unless the servers come back online theres no other way atm to activate windows 8.
+,xpmule,2012-08-19T04:39Z,"funny guy says he deserves a pink skull lol
+
+this is the 5th or 6th activator he has posted that does NOT have 1 single person reporting it worked for them.
+
+Great uploader or a pro at pissing people off ?
+
+and by the way skulls don't mean shit ;)"
+,gozando,2012-08-19T05:09Z,"@xpmule you wrong asshole, pink skull means trusted from a mile away you jerk, no need to be so fuckin arrogant you scumbag"
+,topjimmy68,2012-08-19T06:20Z,I love cake
+[T],bobiras2009,2012-08-19T07:25Z,"@xpmule
+
+You wake up from the cave?Go now to your cave again cunt.If you saw before when the servers are online during the day many people had activate it.People like you make this world a shit.The shit is in your head you are just an asshole that just criticism everyone and he of course leaves his own mother and he does do nothing in your life.Go to your cave and dont spam my torrent.You deserve a shit from thepiratebay.A lot will agree with me."
+,tshrijan,2012-08-19T09:21Z,"@bobiras22 
+you are right."
+,Kirtan666,2012-08-19T10:54Z,"Guys, just letting you know that xpmule is a known Pirate Bay troll, searching for arguements (mainly his obsession with Windows 8). So quit it, and stop wasting your time argueing against the kid."
+,Robowarez,2012-08-19T11:55Z,"key list wsindows 8 pro onli
+
+slmgr /ipk 967N4-R7KXM-CJKJB-BHGCW-CPKT7
+slmgr /ipk RRYGR-8JNBY-V2RJ9-TJP4P-749T7
+slmgr /ipk ND8P2-BD2PB-DD8HM-2926R-CRYQH
+slmgr /ipk F8X33-CNV3F-RH7MY-C73YT-XP73H 
+slmgr /ipk BDDNV-BQ27P-9P9JJ-BQJ96-KTJXV
+slmgr /ipk KNTGM-BGJCJ-BPH3X-XX8V4-K4PKV
+slmgr /ipk CDQND-9X68R-RRFYH-8G28W-82KT7
+slmgr /ipk 7HBX7-N6WK2-PF9HY-QVD2M-JK49V
+slmgr /ipk 4NMMK-QJH7K-F38H2-FQJ24-2J8XV
+slmgr /ipk HNRGD-JP8FC-6F6CY-2XHYY-RCWXV
+slmgr /ipk KQWNF-XPMXP-HDK3M-GBV69-Y7RDH
+slmgr /ipk F2M4V-KFNB7-9VVTW-MVRBQ-BG667
+slmgr /ipk VHNT7-CPRFX-7FRVJ-T8GVM-8FDG7
+slmgr /ipk GPTCC-XN297-PVGY7-J8FQY-JK49V
+slmgr /ipk HV3TW-MMNBG-X99YX-XV8TJ-2GV3H
+slmgr /ipk 2GVN8-TV3C2-K3YM7-MMRVM-BBFDH
+slmgr /ipk 84NRV-6CJR6-DBDXH-FYTBF-4X49V
+slmgr /ipk CR8NP-K37C3-MPD6Q-MBDDY-8FDG7
+slmgr /ipk 39DQ2-N4FYQ-GCY6F-JX8QR-TVF9V 
+slmgr /ipk Q4NBQ-3DRJD-777XK-MJHDC-749T7 
+slmgr /ipk D32KW-GNPBK-CV3TW-6TB2W-K2BQH 
+slmgr /ipk NBWPK-K86W9-27TX3-BQ7RB-KD4DH 
+slmgr /ipk 2NF99-CQRYR-G6PQ9-WYGJ7-8HRDH
+slmgr /ipk F7BDM-KTNRW-7CYQP-V98KC-W2KT7
+slmgr /ipk 4JKWV-MNJCY-8MW3Q-VJYGP-DC73H 
+slmgr /ipk FFX8D-N3WMV-GM6RF-9YRCJ-82KT7
+slmgr /ipk 2CMGK-NMW4P-B846H-YXR6P-27F9V 
+slmgr /ipk D2GBF-NGBW4-QQRGG-W38YB-BBFDH 
+slmgr /ipk NTVHT-YF2M4-J9FJG-BJD66-YG667 
+slmgr /ipk GBJJV-YNF4T-R6222-KDBXF-CRYQH 
+slmgr /ipk 3NHJ7-3WWQK-4RFTH-8FHJY-PRYQH
+slmgr /ipk 988NM-XKXT9-7YFWH-H2Q3Q-C34DH 
+slmgr /ipk TGXN4-BPPYC-TJYMH-3WXFK-4JMQH 
+slmgr /ipk N9C46-MKKKR-2TTT8-FJCJP-4RDG7 
+slmgr /ipk 2VTNH-323J4-BWP98-TX9JR-FCWXV 
+slmgr /ipk D7KN2-CBVPG-BC7YC-9JDVJ-YPWXV
+
+
+Pro Only
+
+slmgr /ipk 2GVN8-TV3C2-K3YM7-MMRVM-BBFDH
+slmgr /ipk 4NMMK-QJH7K-F38H2-FQJ24-2J8XV
+slmgr /ipk 76NDP-PD4JT-6Q4JV-HCDKT-P7F9V
+slmgr /ipk 7HBX7-N6WK2-PF9HY-QVD2M-JK49V
+slmgr /ipk 84NRV-6CJR6-DBDXH-FYTBF-4X49V
+slmgr /ipk 967N4-R7KXM-CJKJB-BHGCW-CPKT7
+slmgr /ipk BDDNV-BQ27P-9P9JJ-BQJ96-KTJXV
+slmgr /ipk CDQND-9X68R-RRFYH-8G28W-82KT7
+slmgr /ipk DWV49-3GN3Q-4XMT7-QR9FQ-KKT67
+slmgr /ipk F2M4V-KFNB7-9VVTW-MVRBQ-BG667
+slmgr /ipk F8X33-CNV3F-RH7MY-C73YT-XP73H
+slmgr /ipk GPTCC-XN297-PVGY7-J8FQY-JK49V
+slmgr /ipk HV3TW-MMNBG-X99YX-XV8TJ-2GV3H
+slmgr /ipk J6FW2-HQNPJ-HBB6H-K9VTY-2PKT7
+slmgr /ipk KQWNF-XPMXP-HDK3M-GBV69-Y7RDH
+slmgr /ipk MMRNH-BMB4F-87JR9-D72RY-MY2KV
+slmgr /ipk N4WY8-DVW92-GM8WF-CG872-HH3G7
+slmgr /ipk ND8P2-BD2PB-DD8HM-2926R-CRYQH
+slmgr /ipk RRYGR-8JNBY-V2RJ9-TJP4P-749T7
+slmgr /ipk VHNT7-CPRFX-7FRVJ-T8GVM-8FDG7
+
+
+slmgr /ipk 3MHNP-V3YQ3-6XJYK-9P93C-749T3
+slmgr /ipk 48H7B-NXQ2P-YKBY6-BP74B-QJXT3
+slmgr /ipk 7RN69-T7DTK-WD2GF-R3MJQ-RJMQD
+slmgr /ipk 8N4QH-2WT9H-T7GRF-3JBKY-DPBQD
+slmgr /ipk BQHHR-NW8GW-4MBJ8-YVJK6-KTJXQ
+slmgr /ipk CNFQR-GK8CG-KC4BH-J2MWT-GMQG3
+slmgr /ipk CYNH7-6J6VG-28CT6-4YGY3-488XQ
+slmgr /ipk FN426-MCYJY-28X86-3XPD8-K2BQD
+slmgr /ipk FWNFB-C28XG-FHKMF-WPC6J-K2BQD
+slmgr /ipk HYTMK-MN4HC-H3T2G-CBGQR-X2BQD
+slmgr /ipk M2XN7-4PT2W-H8GJF-X7D9Y-MY2KQ
+slmgr /ipk NYTKV-4QX68-KH34F-XTQ7H-3JXT3
+slmgr /ipk PW39T-8NHVC-JGCJD-CYB6F-F6V3D
+slmgr /ipk Q9QX3-BNJ4R-WVGMC-RJK89-XKT63
+slmgr /ipk RM96G-CWNFV-7RX24-D4THG-Y949Q
+slmgr /ipk VMNVQ-VH6XM-GCYW7-4X8VM-8FDG3
+slmgr /ipk VR9W4-3NMR2-63GV3-P3J2D-973G3
+
+
+
+    2. Turn off your internet connection
+
+    3. Open the activation window and click ""Activate"". It'll show your an error.
+
+    4. After that you'll see an ""Activate by phone"" button.
+
+    5. Call Microsoft and enter code from message, which you will see. Works best with a real phone, but if you can't call internationally or don't want to pay, use Skype or iCall
+
+    6. If they ask about number of computer, where you will use this key, say 1
+
+    Good Luck :)
+    Sorry for my english. I have just activated my Win8 Pro x86 VL that way. 
+"
+,makalisterx,2012-08-19T13:43Z,"@Robowarez -  You're the MAN!!! I doubted but I tryed and it worked!! Now my win 8 pro is activated by phone (I called to my country tool free - Brazil)
+
+Guys, don'"
+,makalisterx,2012-08-19T13:46Z,"guys, dont be afraid of calling. Be fast becouse people will activate their copies. I tryed one that was already activated, then I tryed the second and it worked!!!
+Just follow robowarez instruction.
+
+Aí, galera, andem rápido pra ativar seu windows 8. Eu consegui. Só seguir as instruções do Robowarez. Se uma chave tiver sido usada só trocar, nem precisa fazer via cmd, basta estar offline."
+,shadohchaser,2012-08-19T14:05Z,"boibiras my friend will this activate the MSDN Win8Pro ISO? or only RTM ones? coz MSDN one is VL....so that make any difference?
+
+Thanks"
+,shadohchaser,2012-08-19T14:09Z,"robowarez if u want to call then why u giving that key list? I give one of the keys from ur list to ms in call?
+
+pls give proper instructions many thanks"
+,shadohchaser,2012-08-19T14:10Z,xpmule u son of a bitch mircrosoft employee I will not pay for ur software stop me bitch :@
+[T],bobiras2009,2012-08-19T14:15Z,"@shadohchaser
+
+Hi my friend.This will activate the pro and enterprises versions.Each key is for pro or for enterprise.The phone call is the same.
+
+Robowarez just support us with a lot more keys that work.Try it with your windows 8 version it must activate fine."
+,drcrazy91,2012-08-19T16:28Z,Is there any other method to activate windows 8 pro without calling MS? not possible to call MS for me.
+,bafakos76,2012-08-19T19:51Z,aderfouli m'eftiakses vivs&thanks :)))
+,thegameedge,2012-08-20T13:48Z,Any new KMS server?
+,thegameedge,2012-08-20T14:52Z,Or if its possible to download a KMS Server then activate it locally.
+,xpmule,2012-08-20T22:48Z,"LOL enjoy the windows cracks of the pirate bay.
+
+Do I troll windows 8 topics ?
+Nope.
+I have posted a TON of helpfull information so you are talking out your ass.
+
+Calling me kid ? I guarantee I'm older than almost everyone of the little P2P noobs that loiter around at TPB.
+This place is a known Noob magnet !
+
+Do I work for Microsoft ?
+Ya uhh i guess the software i cracked and uploaded to TPB was while i was on my break at work right ?
+
+And i don't think skulls mean shit.
+I can think of a bunch of people that have had some ultra dumb behavior and i can post their names and examples if you guys really want.
+
+Hey think whatever you want..
+All i know is downloading dumb cracks from noobs that refuse to give credit for their uploads is a bad idea.
+The procedure is common here.. Downlaod crap from anywhere and remove all traces of the original cracker etc and then upload to TPB and rinse and repeat. Why this is bad should be painfully obvious lol
+
+I miss places like sharereactor and the old days people seemed waaaaay smarter back then. i swear to god p2p users get dumber by the hour !
+
+Oh and the -8 votes were not from me so consider that i may be the only one with the balls to speak up but i'm not the only one voting BAD on the many versions of this tool he has uploaded.. go and search for the other versions and read the comments ;)"
+,Barrytoo,2012-08-21T00:24Z,"Come on guys calm down all this isn't necessary at all!
+I also still didn't activate my Windows 8 but this because all servers are down.
+If I'm lucky enough to catch one up I'll be done with this crack like other users :)
+The crack only will activate Windows when an Activation server is caught running so it is sometimes useless & sometimes useful
+@xpmule & others....no need for all this thing."
+,samubra,2012-08-21T00:38Z,"ive added some info that might help.
+
+[b]Key list Windows 8 Pro ONLY[/b]
+
+967N4-R7KXM-CJKJB-BHGCW-CPKT7
+RRYGR-8JNBY-V2RJ9-TJP4P-749T7
+ND8P2-BD2PB-DD8HM-2926R-CRYQH
+F8X33-CNV3F-RH7MY-C73YT-XP73H
+BDDNV-BQ27P-9P9JJ-BQJ96-KTJXV
+KNTGM-BGJCJ-BPH3X-XX8V4-K4PKV
+CDQND-9X68R-RRFYH-8G28W-82KT7
+7HBX7-N6WK2-PF9HY-QVD2M-JK49V
+4NMMK-QJH7K-F38H2-FQJ24-2J8XV
+HNRGD-JP8FC-6F6CY-2XHYY-RCWXV
+KQWNF-XPMXP-HDK3M-GBV69-Y7RDH
+F2M4V-KFNB7-9VVTW-MVRBQ-BG667
+VHNT7-CPRFX-7FRVJ-T8GVM-8FDG7
+GPTCC-XN297-PVGY7-J8FQY-JK49V
+HV3TW-MMNBG-X99YX-XV8TJ-2GV3H
+2GVN8-TV3C2-K3YM7-MMRVM-BBFDH
+84NRV-6CJR6-DBDXH-FYTBF-4X49V
+CR8NP-K37C3-MPD6Q-MBDDY-8FDG7
+39DQ2-N4FYQ-GCY6F-JX8QR-TVF9V
+Q4NBQ-3DRJD-777XK-MJHDC-749T7
+D32KW-GNPBK-CV3TW-6TB2W-K2BQH
+NBWPK-K86W9-27TX3-BQ7RB-KD4DH
+2NF99-CQRYR-G6PQ9-WYGJ7-8HRDH
+F7BDM-KTNRW-7CYQP-V98KC-W2KT7
+4JKWV-MNJCY-8MW3Q-VJYGP-DC73H
+FFX8D-N3WMV-GM6RF-9YRCJ-82KT7
+2CMGK-NMW4P-B846H-YXR6P-27F9V
+D2GBF-NGBW4-QQRGG-W38YB-BBFDH
+NTVHT-YF2M4-J9FJG-BJD66-YG667
+GBJJV-YNF4T-R6222-KDBXF-CRYQH
+3NHJ7-3WWQK-4RFTH-8FHJY-PRYQH
+988NM-XKXT9-7YFWH-H2Q3Q-C34DH
+TGXN4-BPPYC-TJYMH-3WXFK-4JMQH
+N9C46-MKKKR-2TTT8-FJCJP-4RDG7
+2VTNH-323J4-BWP98-TX9JR-FCWXV
+D7KN2-CBVPG-BC7YC-9JDVJ-YPWXV
+2GVN8-TV3C2-K3YM7-MMRVM-BBFDH
+4NMMK-QJH7K-F38H2-FQJ24-2J8XV
+76NDP-PD4JT-6Q4JV-HCDKT-P7F9V
+7HBX7-N6WK2-PF9HY-QVD2M-JK49V
+84NRV-6CJR6-DBDXH-FYTBF-4X49V
+967N4-R7KXM-CJKJB-BHGCW-CPKT7
+BDDNV-BQ27P-9P9JJ-BQJ96-KTJXV
+CDQND-9X68R-RRFYH-8G28W-82KT7
+DWV49-3GN3Q-4XMT7-QR9FQ-KKT67
+F2M4V-KFNB7-9VVTW-MVRBQ-BG667
+F8X33-CNV3F-RH7MY-C73YT-XP73H
+GPTCC-XN297-PVGY7-J8FQY-JK49V
+HV3TW-MMNBG-X99YX-XV8TJ-2GV3H
+J6FW2-HQNPJ-HBB6H-K9VTY-2PKT7
+KQWNF-XPMXP-HDK3M-GBV69-Y7RDH
+MMRNH-BMB4F-87JR9-D72RY-MY2KV
+N4WY8-DVW92-GM8WF-CG872-HH3G7
+ND8P2-BD2PB-DD8HM-2926R-CRYQH
+RRYGR-8JNBY-V2RJ9-TJP4P-749T7
+VHNT7-CPRFX-7FRVJ-T8GVM-8FDG7
+
+1. Do a [b]CLEAN[/b] install using one of these keys(IMPORTANT)
+2. [b]Do Not Turn on your internet connection.[/b]
+3. Open the activation window and choose ""Activate by phone"" button.
+4. Call Microsoft and enter the code from the automated message that you will hear. It works best with a real phone or mobile phone since u're going to call to a free number in your living country.
+5. [b]Microsoft Volume Licensing Activation Centers Worldwide Telephone Numbers[/b]
+http://www.microsoft.com/licensing/existing-customers/activation-centers.aspx
+6. If they ask about the number of computers that you will use this key, choose 1.
+
+Thats it! Ive already activated 2 computers this way. I chose randomily one of the keys above. [:Qlol]"
+,samubra,2012-08-21T00:44Z,"My MSN is samucalado@outlook.com
+
+Any questions, ill be happy to help"
+,samubra,2012-08-21T02:53Z,"***Correction***
+4. Call Microsoft:
+Microsoft Volume Licensing Activation Centers Worldwide Telephone Numbers
+http://www.microsoft.com/licensing/existing-customers/activation-centers.aspx
+
+You are requested to enter the Installation ID by typing on the phone. After you enter your installation ID, you will given a corresponding 54 digit long Confirmation ID by the activation phone system. It works best with a real phone or mobile phone since u're going to call to a free number in your home country."
+[T],bobiras2009,2012-08-21T05:08Z,"@xpmule
+
+Ok big troll go to your cave again.You cant read?
+
+As Barrytoo during the day the servers are up for some hours any my activators work fine.
+
+Oh and nice you just did -8 voted troll.You must be happy with your miserable life."
+,crocoppit,2012-08-21T05:28Z,"I keep getting a ""DNS name does not exist"" error.
+
+I tried flushing my DNS cache and connecting to Google's public servers (both ipv4 and ipv6).
+
+Nothing seems to work. :/
+
+Also, I was a complete derp and ""upgraded"" to Windows 8 Pro WMC, which has its own unique set of keys. Would anyone happen to know where I can find some?"
+,hobdog,2012-08-21T10:03Z,"I called Microsoft, and used this Key: 
+ND8P2-BD2PB-DD8HM-2926R-CRYQH
+And they gave me my confirmation ID and it worked. Windows 8 Activated!
+Thanks Alot!"
+,koumbouni,2012-08-22T17:19Z,Any news how to enable MCE without losing activation
+,DrKamBosha,2012-08-22T21:26Z,"With all my respect to bobiras2009but i can confirm that this tool ain't working for me neither :(
+
+& i understand that we are waaaaaaaay too long from seeing a tool similar to DAZ of windows 7
+
+It's just a matter of time :D"
+,samubra,2012-08-22T22:44Z,"Its not a TOOL. It's just a guide, follow it correctly people.... Ive used 3 times already!"
+,teo32,2012-08-22T23:19Z,"Hi, you can enter new codes to Windows 8 Pro?"
+,DrKamBosha,2012-08-23T23:54Z,"@samubra
+with all my deep respect, we have to face this :
+Even if all your 3 copies got activated, it's a take it and run away way game, in other words, once many people start to activate using a particular serial, it soon gets blocked & using the very same serial again to activate your 3 copies won't work. For me i got 8 installed, all drivers fine, but cloned my system partition, & till i can see something reliable (like DAZ) i can't depend on it yet, Now i'm stuck with windows 7 till things get better :)"
+,kodos44,2012-08-23T23:59Z,"it shows an error ""filename directory name or syntax incorretct""
+
+what can I do?"
+,fpr8653,2012-08-24T11:21Z,"if this ""activate by phone"" really works, then why doesn't anyone post the serial key with the confirmation code they received so we can all use it? I think that's only fair......."
+,willbe1,2012-08-25T09:39Z,"@fpr8653 the confirmation code will be different with each machine, so if I gave you the code here it will definitely not work on your machine as you may have different hardware than mine on it."
+,FuckSholihin,2012-08-26T00:31Z,"for activation by phone you got to do a clean install first and activate it before connecting to any internet available in order to work. changing key will not do any good once you go online because internet will ruin your installation ID. only go online when you had it activated first. it added up sence while phone activation is ultimately designed for offline computers.
+
+to see something like DAZ activator is nearly very impossible for windows 8. I dont expect it a lot other than standalone KMS emulation like ""office 2010 KMS"" it may be possible.
+
+DrKamBosha you are wrong MAK key is genuine and it was stand for multiple activation key so it doesn't matter if 1million people uses the same key as long as they were activated and once activated they are genuine in the first place."
+,FuckSholihin,2012-08-26T01:25Z,if you are not living in western this shit isn't going to work for you!!
+,FuckSholihin,2012-08-26T09:27Z,it has been a long cold day in hell before any sign of standalone KMS activator for windows 8. this kind of online Kms server activation will never to work if you are not living in the west!!!!
+,DrKamBosha,2012-08-27T02:41Z,"@FuckSholihin So do any of these serials is meant for mass-activation, in other words, is there any serial around that is a volume license key ? & what difference does it make in my location ? I'm not getting what does it matter in ?
+Sorry for asking alot
+best wishes to u all"
+,DrKamBosha,2012-08-27T02:42Z,"@FuckSholihin mmmm do u mean those 2 serials in the first post by bobiras himself ?
+Sorry again for being repetitive ;-)"
+,FuckSholihin,2012-08-27T05:17Z,"ok i copy paste thing text and hope you'll understand your question:
+
+VIP thethingy at 2012-08-25 03:09 CET:
+""xpmule, dude, each and every mak key has x amount of online activations and x amount of phone activations then it dies or is reset, an office one I posted had 30,000 online activations then after they got used it got reset again but another one just died, at the end of the day no one thats been mak activated has ever been deactivated and if MS did not want to phone activate they would simply ask the name of the key holder, they dont so they clearly dont care so you are making quite a mountain out of a molehill.
+
+What is this letter from isp bullshit?, MS dont get your ip over the phone because you aren't using the internet and once mak activated no further activation checks are performed so your scare story is for what?
+
+The risks are quite simply they tell you they aren't activating it and thats all, you are never asked your name even if you talk to an operator so what is with the scaremongering?""
+
+
+it's been quite a mass activation but not really a mass activation since M$ keeps monitoring the amount of activation being made until it exceeses it's own limitation by M$. like thethingy said some keys gotten reseted and some gone dead. MAK method exists because M$ paranoid with xp experience (xp VL doesnt require any activation)."
+,DrKamBosha,2012-08-27T16:13Z,@FuckSholihin Thanks for the feedback Bro.
+,paimit,2012-08-28T10:05Z,anybody pliz help me...what is the first six installation ID ? in phone activation.
+,fndpena,2012-08-30T04:31Z,Any new product keys? I tried to activate by phone with some keys from the last list (page 2) and no success :(
+,FuckSholihin,2012-08-31T19:04Z,it only works by calling uk number.
+,FuckSholihin,2012-08-31T19:10Z,all ye licensee if ye plan to buy ye should only buy from valid/authorised licensor only.
+,enigmaelectronica,2012-09-07T01:36Z,not work!!!
+,ow42x1,2012-09-07T20:04Z,"Well I might as well start up again...
+
+If you still have yet to activate Windows 8, I still have legit, retail, activation for life, keys. I'm selling them for $25 a piece.
+
+If your interested add me on Skype @: ow42x1
+
+I'm online GMT-7 Pacific Standard Time between 8AM-1AM."
+,ow42x1,2012-09-07T20:07Z,btw my keys aren't volume licensing keys so once you activate the key you buy off of me on ur pc it is activated for that one pc for life meaning if u reformat and such that key will still work and no one else can use it. :)
+,grassix,2012-09-10T16:45Z,Welcome to the botnet.
+,ow42x1,2012-09-17T09:32Z,"STILL SELLING LEGIT RETAIL AND FULLY ACTIVATED KEYS FOR LIFE!!!
+
+So if you are still having trouble activating this copy of Windows or you just want a legit activation that won't get blacklisted I have plenty of keys left!
+
+$25 a piece.
+
+If you have any questions before or after ADD me on Skype: ow42x1"

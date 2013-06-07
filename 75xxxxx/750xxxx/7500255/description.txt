@@ -1,0 +1,21 @@
+BookMacster is the Bookmarks Master for the Mac. In addition to being able to use BookMacster directly via a global shortcut key or Status Menulet, BookMacster can keep bookmarks in sync among Safari, Firefox, Chrome, Camino, iCab, Opera and OmniWeb, on the Web with Diigo, Delicious, Pinboard, and Google Bookmarks, and on into your iPhone, iPad, or iPod Touch, via Apple's iCloud. Used with an online file syncing service such as Dropbox, BookMacster takes cross-browser bookmark syncing to all of your Macs. BookMacster keeps bookmarks alphabetized (sorted), verified, and checked for duplicates. BookMacster supports tags, comments, and shortcuts. BookMacster users can add bookmarks directly from within browsers, and access all bookmarks while in any app from the menu bar and, under OS X Lion, access to past bookmarks via Lion's Auto Save and Versions features.
+
+What's New
+Version 1.11.9:
+
+Fixed a bug which could cause items in Safari Reading List to not be exported properly to Safari 6.x.
+
+Fixed a bug which caused a New Bookmarkshelf to be created without a Reading/Unsorted hard folder if the Safari minor version number was 0, such as, eeek, Safari 6.0.
+
+Now properly imports and exports tags containing space characters with Delicious. The tag delimiter for Delicious has recently changed from the space character to the comma. Our thanks to the un-named Delicious engineer who was sick and out of the office yesterday, but fixed the resulting break in the Delicious API from his home after we reported that it was not behaving as required by this change!
+
+Fixed a bug which caused a long entry to sometimes be written to the console log after a Bookmarkshelf document was deleted by clicking in the menu File Γû╕ Close and Delete.
+
+Requirements
+
+Intel
+Mac OS X 10.6 or later
+To sync with Firefox, requires Firefox 4.0 or later 
+
+
+Instructions: Drag license file onto BookMacster application. 

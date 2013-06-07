@@ -1,0 +1,14 @@
+n-Track Studio is an audio & MIDI multitrack recorder that turns your Mac into a full-fledged recording studio. You can record and playback a virtually unlimited number of audio and MIDI tracks. The program supports simultaneous recording from multiple 16 and 24 bit soundcards, and real-time audio effects can be applied non-destructively to each track. Built-in effects include Multiband Compression, Delay, Graphic EQ, Pitch Shift and time stretch, Parametric EQ and spectrum analyzer with guitar tuner.
+
+The program can use third party AU and VST plug-ins to process in real-time audio signals. Effect can also be used to process the recorded signal in real-time so that the computer can act as a multi-effects device.MIDI tracks can be imported end exported to regular MIDI files, and edited using the built in piano-roll based MIDI editing window. The program supports AUi and VSTi instruments plug-ins for sample accurate software MIDI playback.
+
+All the audio tracks are saved as standard wave files and mixed "on the fly" during playback.
+
+What's new v2.0.5
+* Fixed sporadic crash adding instrument plugins via the Add channel -> Add new instrument channel menu [Bug Fix] 
+
+Requirements
+
+Intel
+Mac OS X 10.5 or later
+64-bit processor

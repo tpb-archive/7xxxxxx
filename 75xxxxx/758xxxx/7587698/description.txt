@@ -1,0 +1,72 @@
+General
+Complete name : Marketa Lazarova.mkv
+Format : Matroska
+Format version : Version 2
+File size : 7.96 GiB
+Duration : 2h 45mn
+Overall bit rate mode : Variable
+Overall bit rate : 6 885 Kbps
+Movie name : Marketa Lazarova
+Encoded date : UTC 2011-12-24 20:20:21
+Writing application : mkvmerge v4.6.0 ('Still Crazy After All These Years') built on Mar 10 2011 02:50:32
+Writing library : libebml v1.2.0 + libmatroska v1.1.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 3 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2h 45mn
+Bit rate mode : Variable
+Nominal bit rate : 6 748 Kbps
+Maximum bit rate : 25.0 Mbps
+Width : 1 280 pixels
+Height : 544 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.404
+Writing library : x264 core 114 r1924 08d04a4
+Default : Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 2h 45mn
+Channel(s) : 1 channel
+Channel positions : Front: C
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Language : Czech
+Default : Yes
+Forced : No
+
+Text #1
+ID : 3
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : English
+Default : Yes
+Forced : No
+
+Text #2
+ID : 4
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : Czech
+Default : No
+Forced : No 

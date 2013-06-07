@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,makasif,2012-08-31T16:39Z,"hey bobiras i have followed each and every steps that u told then also amazing spiderman is not working in my xperia nro v .....
+i have followed this steps for running it..
+1-i had downloaded the sd data that is uploaded by u i.e.( The Amazing Spider-Man v1.1.4 Final + SD Data By bobiras2009) and also downloaded the non rooted apk uploaded by u 
+2-then i had installed the non rooted apk 
+3-after that i had extracted the sd data
+4-then i had copied that sd data to sdcard/android/data
+5-and at last i had launched the game through wifi connection but it starts and directly stops..
+pls help me now what to do.....
+i know that u r the only one who can help me out as u helped me running the dark knight rises...."
+[T],bobiras22,2012-08-31T16:45Z,"@Makasif
+
+I think i find your problem with this game.You must put the sd files in sdcard/Android/Obb and not insdcard/Android/data.Asphalt 7,amazing spiderman,DKRISES has obb files.
+
+Do that and let me know if it run fine.
+
+After you copy the folder of sd files open wifi.Then open the game.It will give you Force Close on time.Then it will run fine all the time"
+,makasif,2012-09-01T07:11Z,hey bobiras the obb folder contains only one file but the amazing spiderman contains many files and folders .will it work after placing it in android /obb.
+,makasif,2012-09-02T04:24Z,"hey bobiras after placing the sd data in sdcard/android/obb when i m launching the game with wifi connection .it gives an error that a network problem has been occured .. 
+now pls tell me what two do......................."
+,itozzz,2012-09-09T23:22Z,SD data.. Links Down :(
+,DouggieK,2012-09-11T21:40Z,SD links are down still :(
+,shadow1121,2012-09-13T06:06Z,how did you guys get this to work??? mine kept on crashing in my infinity... installed the apk and then copied the folder to sd/android/obb ... still getting a black screen then crashes...any suggestion?

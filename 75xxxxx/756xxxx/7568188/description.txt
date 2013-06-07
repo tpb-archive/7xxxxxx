@@ -1,0 +1,40 @@
+                                  By bobiras2009		
+
+New in R304 Drivers:
+Adds support for NVIDIA TXAA
+NVIDIA TXAA is new film-style anti-aliasing technique designed specifically to reduce temporal aliasing (crawling and flickering in motion) through a combination of hardware AA, custom CG film style AA resolve, and a temporal filter.
+The Secret World is the first game to support TXAA. Read about it on GeForce.com.
+TXAA is supported on GeForce GTX 600-series Kepler-based GPUs.
+Learn more about TXAA on GeForce.com.
+
+NVIDIA SLI Technology ΓÇô Adds or updates the following SLI profiles:
+Alan Wake's American Nightmare ΓÇô added
+Borderlands 2 ΓÇô added
+Darksiders 2 ΓÇô added
+End of Nations - added
+F1 2011 ΓÇô updated
+F1 2012 ΓÇô added
+Final Fantasy XIV ΓÇô updated
+Nexuiz - added
+Orcs Must Die! 2 ΓÇô added
+PlanetSide 2 - updated
+Saints Row: The Third ΓÇô updated
+Shogun 2: Total War ΓÇô updated
+Sleeping Dogs ΓÇô added
+Spec Ops: The Line - added
+The Secret World - updated
+Torchlight II - added
+Tom Clancy's Ghost Recon Future Soldier - added
+Tornado Force - added
+Tribes: Ascend ΓÇô updated
+
+Additional Details
+Installs PhysX System Software v9.12.0604.
+Installs HD Audio v1.3.18.0.
+Supports OpenGL 4.2 for GeForce 400-series and later GPUs.
+Supports DisplayPort 1.2 for GeForce GTX 600 series GPUs.
+Supports multiple languages and APIs for GPU computing: CUDA C, CUDA C++, CUDA Fortran, OpenCL, DirectCompute, and Microsoft C++ AMP.
+Supports single GPU and NVIDIA SLI technology on DirectX 9, DirectX 10, DirectX 11, and OpenGL, including 3-way SLI, Quad SLI, and SLI support on SLI-certified Intel and AMD motherboards.
+
+
+                                  By bobiras2009		

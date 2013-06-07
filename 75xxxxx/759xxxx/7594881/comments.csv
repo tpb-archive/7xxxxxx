@@ -1,0 +1,42 @@
+﻿User Type,Username,Date,Text
+[H],HeroMaster,2012-09-03T09:15Z,Seed and ENJOY!
+,pangunang,2012-09-03T15:41Z,is this working??
+,darksouleater87,2012-09-03T19:24Z,"What do you mena by ""bad controls""? I tried to use an xbox360 controller, but it's messed up... so, is it working in your version?"
+,ranbir7,2012-09-03T21:16Z,@HeroMaster Is this with proper controls? Why you deleted previous link? huh
+,heretic_1808,2012-09-03T21:21Z,"Downloaded the other release before it got taken down, seemed like the controls just flat out didn't work. I started a new game, watched the intro, then couldn't move my character at all. I could pull my gun and access the mapinventory, but i couldn't move the camera, walkrun, or jump. Don't know if this was just some weird problem I had, but if not then ""bad controls"" was a severe understatement. Hope this fixes everything"
+,ranbir7,2012-09-03T21:27Z,"All guys try to remove gamepad from USB, restart the game and play with normal mouse and keyboard. Does the game works fine or not, now?"
+,cartman6666,2012-09-03T21:29Z,just installed it to find out it's not working with controller oh well NEXT!!!
+,DffeD255,2012-09-03T22:53Z,This works perfectly fine i install it and it works .. well i tried to play with controller but the keys is srsly messed up so i try with keyboard and mouse and it works perfectly Thx just download it run the setup delete systemdetection.dll and it works perfect !
+,mrfrewq,2012-09-04T01:13Z,"Hey i can't move, bad repack"
+,0rochimaru,2012-09-04T03:47Z,"Anyone having problems with horrendous texture pop-in and even the character disappearing?  Not even the intro cinematic loads textures correctly!
+
+It's unplayable for me.  I have a 4670 1GB and can play Sleeping Dogs, Batman AC, Just Cause 2 etc just fine, but this game seems broken  =/"
+,Chiggin,2012-09-04T06:49Z,"Does anyone know what key to press on the keyboard to strike? There is no mapping option for it, and the tutorial says press X on the controller ( which i dont have). The space key makes the guy walk towards the edge of the hole, but when the prompt comes up for me to strike him, i press the same key but it doesnt work."
+,Alainlb,2012-09-05T00:59Z,"After an hour of playing.
+
+The game works just fine but suffers from slightly wacky controls, other than that it's not a bad game, it's surprisingly good actually."
+,0rochimaru,2012-09-05T03:26Z,"**ATI VIDEO CARD TEXTURE GLITCH SOLVED!!**
+==================================
+
+Go into Cataylst Control Centre > go to the ""MIPMAP (Detail Level)"" parameter > set this to SOMETHING OTHER THAN THE MINIMUM SETTING.
+
+Once you begin the game, you will see objects strewn on the floor (like kid's toys) on the inro screen and this means it's worked (no need to enter the game proper for testing).
+
+Checked this repeatedly and it works for me 100% using HD Radeon 4670 (1GB) and the problem reoccurs when switch back. So ""MIPMAP"" must be higher than minimum for this game.
+
+No need to thank me, I know I'm universally loved ^_^"
+,rndmtrsh,2012-09-05T15:25Z,"Thanks 0rochimaru! That helped. I couldn't find it first, but when I did... thumbs up. 
+
+Since I had trouble to find Mipmap settings I'll describe how to change it a bit more precisely.  2 ways to change the settings
+
+[ - 1 - ]
+Right click Cataylst Control Centre icon on taskbar -> select graphic card -> 3D Settings -> Mipmap detail level -> set it to anything else then High Performance
+
+Performance, Quality and High quality all solve the problem.
+
+[ - 2 - ]
+1. open Cataylst Control Centre 
+2. make sure that Advanced View is enabled (Preferences -> Advanced View)
+3. go to Gaming -> 3D Application Settings -> Mipmap detail level
+4. set it to anything else then High Performance"
+,dandalis,2012-09-06T15:46Z,game runs very slow even on low settings -.-

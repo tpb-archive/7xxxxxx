@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,BasilBrush,2012-08-06T12:54Z,"Olympic cycling coverage from BBC servers available with get_iplayer on 6th Aug 2012 at 11am GMT
+458: Olympics - London 2012: BBC One: Day 5: 13.45-16.00, BBC Sport, Cycling
+467: Olympics - London 2012: BBC One: Day 6: 16.00-18.00, BBC Sport, Cycling
+478: Olympics - London 2012: BBC One: Day 7: 16.00-18.00, BBC Sport, Cycling
+492: Olympics - London 2012: BBC Two: Day 6: 18.00-19.00, BBC Sport, Cycling
+493: Olympics - London 2012: BBC Two: Day 7: 18.00-19.00, BBC Sport, Cycling
+500: Olympics - London 2012: BBC Two: Day 5: 13.00-13.45, BBC Sport, Cycling
+504: Olympics - London 2012: BBC One: Day 8: 17.15-18.50, BBC Sport, Cycling
+Check the list of index numbers before downloading - they change.
+
+Assuming you have a UK IP address (try ExpatShield VPN) just type:
+get_iplayer --get XXX --modes flashvhigh --force
+where XXX is the 3 digit index number"
+,JoviDee,2012-08-06T23:25Z,"Thanx for cycling,
+can you record Athletics finals from BBC, please.
+Tommorow Men's High Jump first, thanx a lot."

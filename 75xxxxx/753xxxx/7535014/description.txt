@@ -1,0 +1,21 @@
+Hitman Pro - a powerful scanner to detect various malicious programs. Feature Hitman PRO is that it uses when checking the databases of other applications to detect and remove spyware (Ad-Aware SE Personal, Spy Sweeper, Spybot Search & Destroy, CWShredder, SpywareBlaste, Spyware Block List, Sysclean Package, SuperDAT VirusScan) . 
+
+Features: 
+- Detects and removes viruses, Trojans, rootkits, spyware and other malicious programs. 
+- Revolutionary innovation in scanning technique, distinguishes between malicious and safe software without a signature. 
+- A short scan time - within a few minutes. 
+- There is no additional load on the system. 
+- Inability of false positives in critical system files, thanks to "profiling" and "white" list. 
+- Automatically restores common system changes made by malicious programs. 
+- Creates the Check Point System Restore before removing malicious software. 
+- Removes resistant threats using native NT at boot time Deleter. 
+- Removes references to malicious programs (such as shortcuts, and registry entries) 
+
+Changes in Build 164 (10/08/2012) 
+* IMPROVED: Made a minor change to the Behavioral Scan, regarding the detection of executable files that do not mention their disk location in memory. 
+
+* FIXED: A bug introduced in build 163 caused the reboot function not to work properly.
+
+Website:www.surfright.nl/
+Operating System: Windows ┬« XP / Vista / 7
+Language: Multilanguage 

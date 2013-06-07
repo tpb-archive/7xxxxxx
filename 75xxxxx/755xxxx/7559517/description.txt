@@ -1,0 +1,95 @@
+Windows Loader v2.1.7
+The safe and easy way to activate Windows.
+
+Image Preview: 
+https://kastatic.com/i2/u/1534792/ZjUFzrgH7N.png
+
+Supported operating systems:
+
+Windows 7 Ultimate
+Windows 7 Ultimate E
+Windows 7 Professional
+Windows 7 Professional E
+Windows 7 Home Premium
+Windows 7 Home Premium E
+Windows 7 Home Basic
+Windows 7 Starter
+Windows 7 Starter E
+Windows Vista Ultimate
+Windows Vista Business
+Windows Vista Business N
+Windows Vista Home Premium
+Windows Vista Home Basic
+Windows Vista Home Basic N
+Windows Vista Starter
+Windows Server 2008 Enterprise
+Windows Server 2008 Enterprise (Without Hyper-V)
+Windows Server 2008 Foundation
+Windows Server 2008 Standard
+Windows Small Business Server 2008
+Windows Storage Server 2008 Standard
+Windows Storage Server 2008 R2 Essentials
+Windows Server 2008 R2 Enterprise
+Windows Server 2008 R2 Foundation
+Windows Server 2008 R2 Standard
+Windows Server 2008 R2 Datacenter
+Windows Small Business Server 2011 Standard
+Windows Small Business Server 2011 Essentials
+Windows Home Server 2011
+
+
+--
+Version 2.1.7 (07/19/2012)
+* Fixed a bug that was causing the RSDT to get trashed
+
+Version 2.1.6 (07/19/2012)
+* Added a new GRLDR version
+* Fixed a Hyper-V installation issue
+* Added Tangent Professional serial
+* Added Dealin Starter serial
+
+Version 2.1.5 (06/25/2012)
+* Added a new GRLDR version
+* Added Jetway Home Premium, Home Basic and Starter serials
+* Added Jetway SLIC and certificate
+* Fixed a bug that caused the unsupported status to be set for every type of issue
+* Highlighted the status line so that people understand that Windows 7 Enterprise is an unsupported operating system
+* Other minor tweaks and fixes
+
+Version 2.1.4 (06/02/2012)
+* Fixed a bug that would cause some systems to fail to boot
+* Fixed a bug where an unsupported OS would fail to have it's status set to unsupported
+* Added Qbex SLIC and certificate
+* Other minor tweaks and fixes
+
+Version 2.1.3 (05/21/2012)
+* Added a new GRLDR version
+* Added support for Windows Home Server 2011
+* Added support for Windows Server 2008 R2 Datacenter
+* Added a few new serials
+* Improved handling for systems with missing ACPI tables
+
+Version 2.1.2 (03/11/2012)
+* Added a new GRLDR version that fixes 2 bugs
+* Added support for Windows Small Business Server 2011 Essentials
+* Added lots of missing Vista serials (Thanks to Tito)
+
+Version 2.1.1 (03/04/2012)
+* Fixed a bug that prevented existing SLIC's from being ignored
+* Fixed a bug that caused Windows 8 serials to be decoded incorrectly
+* Added Equus, Impression Computers and Xplore SLIC's and certificates
+* Added Toshiba Windows 7 Ultimate serial
+* Added Xplore Windows 7 Professional serial
+* Added Impression Computers Windows 7 Home Premium serial
+* Added LaCie Windows Server 2008 R2 Standard serial
+* Added Western Digital Windows Storage Server 2008 R2 Essentials serial
+
+Version 2.1 (11/28/2011)
+* Added a new GRLDR version
+* Added CRC32 checksums to SLIC and certificate dumps
+* Enhanced serial decoding so that it supports Windows 8
+* Added EXO, ONKYO and Quanmax Home Premium serials
+* Added EXO and ONKYO SLIC's and certificates
+* Removed NEC Ultimate serial as it's not NEC
+* Other minor tweaks and fixes
+--

@@ -1,0 +1,79 @@
+﻿User Type,Username,Date,Text
+,shitdog1234,2012-08-09T11:29Z,"Hi .
+Have any of you try this ? And did it work ?
+Have a nice day."
+,s_pljuc,2012-08-09T11:35Z,"I have error on line with ""slmgr /ato ""... no KMS could be contacted..."
+,jeromesnail,2012-08-09T11:39Z,Don't work.
+,jeromesnail,2012-08-09T11:52Z,It doesn't work.
+,apex2000,2012-08-09T11:54Z,Waste of time if the server is not online (which it isn't). Thanks anyway.
+,Pakundo,2012-08-09T11:59Z,"Well?
+Anyone test it yet?"
+,Alpha.Omega,2012-08-09T12:34Z,"fyi, microsoft BLOCKED activations, i don't think not this early anyone could do a working activator., hopefully someone could come up with a good working one.."
+,2ndzone,2012-08-09T13:29Z,Please wait for the servers again. they go up every 2-3 hrs
+,shadohchaser,2012-08-09T19:27Z,does ur dad work for microsoft tell him to turn on the server for 10 minutes & msg me
+,shadohchaser,2012-08-09T19:30Z,tell ur dad to turn on server for 10 minutes  must activate please thanks
+,mr_z_rocky,2012-08-09T22:47Z,"lool.... let me get this straight ,,, do you Steal Products from the company ,,, and Upload it here ??!!"
+,techme21,2012-08-09T23:09Z,"I made a simple batch file that will connect to all three known kms servers
+and attempt activation with them automatically
+It does all commands silently so you don't have all of those annoying popups from every attempt
+and it will loop infinitely
+My goal is to make it stop Automatically when An activation server has been reached,
+And Echo Windows Successfully!
+Just paste the below code into a notepad and save as Activate.bat to C:    root directory
+Then make a shortcut to that file on your desktop.
+Then right click the shortcut and go to ""Properties""
+Then go to the Shortcut Tab
+Then click advanced
+Then check the ""Run as Administrator"" box
+Hit OK and OK again
+Now run it
+
+Maybe this could be a base idea for a Windows based KMS Activation Program
+Then you could add the option of adding your own KMS server.
+
+Here's what I got so far
+
+
+[CODE]
+@Echo Off
+
+Echo Attempting Windows Activation
+Echo Please Wait...
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org:1688
+cscript //B ""%windir%system32slmgr.vbs"" /ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+Echo Activation Status...
+
+cscript slmgr.vbs /dlv
+
+Echo Activation will Retry in 10 Seconds
+
+ping 1.1.1.1 -n 10 -w 1000 > nul
+
+cls
+
+start /b /i C:Activate.bat
+[/CODE]"
+,techme21,2012-08-09T23:16Z,"P.S. If the servers are down then my above script will not work.
+It will just keep trying until it does work."
+,Thrakazog58,2012-08-15T21:20Z,"@techme21 Love the script and am trying it out now. Thanks for putting it together :) 
+
+One question: I don't see an end condition. How will the script know when to stop looping?
+"
+,FuckSholihin,2012-08-26T09:45Z,microsoft is seriously winning at this time over piracy. this so-called KMS Automated Activator isn't come as far as standalone KMS like used to be KMS for OFFICE2010 and WINDOWS 7 enterprise. this is just a method of contacting kms server online.

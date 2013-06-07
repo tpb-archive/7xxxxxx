@@ -1,0 +1,380 @@
+﻿User Type,Username,Date,Text
+,GSPT,2012-08-23T10:50Z,"Many thanks, mate."
+,AGADIL,2012-08-23T13:33Z,Many thanks Cyberpiraten i like your torrent pls is this  extended one or not  and i would like to upload for us  adobe photoshop CS6 Extended Mac Middle East to write ready in arabic thanks 
+[V],Cyberpiraten,2012-08-23T15:22Z,This version is NOT extended. I'm having a little problem getting the Extended setup file so I'm stuck atm. It will come! 
+,robyn55,2012-08-23T15:58Z,i have Mac version 10.8! please tell me this works on mountain lion!
+,robyn55,2012-08-23T16:03Z,Does this version ONLY works with 10.6.8 and 10.7? doesn't work with mountain lion version 10.8??
+[V],Cyberpiraten,2012-08-23T16:27Z,I'm Running Lion... I'm just to lazy to update.
+,robyn55,2012-08-23T16:54Z,lol but would it WORK on mountain lion? i'm running 10.8 and i'm downloading this it takes time i just want to know whether to stop it or or not.
+[V],Cyberpiraten,2012-08-23T19:57Z,It should work on every version that Adobe says it works on. Google it. 
+,bryman44,2012-08-23T21:20Z,"Any reason to why the Host Patch won't open? Double-click it, it performs the 'opening gesture' but nothing comes up?"
+[V],Cyberpiraten,2012-08-23T21:27Z,"hmm that's strange man! 
+just open terminal and enter: ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts""
+
+then add the following lines below. Hope it work's out for ya. Peace.
+
+# Block Adobe Activation
+127.0.0.1	activate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	activate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	192.150.14.69
+127.0.0.1	192.150.18.101
+127.0.0.1	192.150.18.108
+127.0.0.1	192.150.22.40
+127.0.0.1	192.150.8.100
+127.0.0.1	192.150.8.118
+127.0.0.1	209-34-83-73.ood.opsource.net
+127.0.0.1	3dns-1.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-4.adobe.com
+127.0.0.1	3dns.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	activate.adobe.com
+127.0.0.1	activate.adobe.com
+127.0.0.1	activate.wip.adobe.com
+127.0.0.1	activate.wip1.adobe.com
+127.0.0.1	activate.wip2.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	activate.wip4.adobe.com
+127.0.0.1	adobe-dns-1.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	adobe-dns-4.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe.activate.com
+127.0.0.1	adobeereg.com
+127.0.0.1	crl.verisign.net
+127.0.0.1	CRL.VERISIGN.NET.*
+127.0.0.1	ereg.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	ereg.wip.adobe.com
+127.0.0.1	ereg.wip1.adobe.com
+127.0.0.1	ereg.wip2.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	ereg.wip4.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	ood.opsource.net
+127.0.0.1	practivate.adobe
+127.0.0.1	practivate.adobe.*
+127.0.0.1	practivate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	practivate.adobe.ipp
+127.0.0.1	practivate.adobe.newoa
+127.0.0.1	practivate.adobe.ntp
+127.0.0.1	tss-geotrust-crl.thawte.com
+127.0.0.1	wip.adobe.com
+127.0.0.1	wip1.adobe.com
+127.0.0.1	wip2.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	wip4.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com"
+,robyn55,2012-08-23T21:33Z,"it downloaded prefectly, expect the hosts patch won't open!"
+,robyn55,2012-08-23T21:52Z,i also tried what you just told him to do and it didn't work
+[V],Cyberpiraten,2012-08-23T22:05Z,Are you sure the host patch didn't work? Cause on my macbooks i dobble click on it and it works just fine. Do you have a password or not? 
+,bryman44,2012-08-23T22:13Z,"I'll try that right now, thanks."
+,robyn55,2012-08-23T22:17Z,
+,robyn55,2012-08-23T22:18Z,"yeah i do have a password.. this is what happened exactly, i copy pasted the ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts"" on the terminal, it asked for my password and i put it, then a hosts file opened and i copied # block . . . . . . . . there and saved it."
+[V],Cyberpiraten,2012-08-23T22:29Z,"If you do have a password, when you dubble click the Host Patch it will ask for password and then write the lines into the host file. 
+
+--------
+1.Paste the text between 127.0.0.1 localhost and 255.255.255.255 broadcasthost  
+
+2.Save the document (Command+S)                                             
+
+3. Go to terminal and run the following from below   
+   to flush: sudo dscacheutil -flushcache "
+,robyn55,2012-08-23T22:32Z,i'll try again though..
+,robyn55,2012-08-23T22:34Z,"wait, that is the problem when i click the hosts patch  it doesn't do anything it doesn't even ask for a password.. this is so weird. it literally does nothing when i click on it, does not open"
+,robyn55,2012-08-23T22:38Z,bryman44 did it work with you? it didn't work for me
+,ksharif,2012-08-23T23:58Z,"After i open /Applications/TextEdit.app/Contents/MacOS/TextEdit  i cant find /etc/hosts , what should i do ?"
+,robyn55,2012-08-23T23:59Z,"i'm re-installing this torrent, i messed up a lot"
+,bryman44,2012-08-24T03:54Z,"Got it working using the extra steps involving using the Terminal!
+
+Robyn: try uninstalling the app, and run terminal prior to installing. you should be able to run the ""sudo /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts"""
+,iptp,2012-08-24T08:13Z,Thanks a bunch for the torrent - works fine on Mountain Lion for me. Seeded 20GB this far... :)
+,robyn55,2012-08-24T14:44Z,i'm desperately needed for detailed help. still can't get Hoste patch to open. anyone? iptp.. how did you get hoste patch to open?
+,thurley,2012-08-24T15:32Z,"I have had just as much trouble with this The Host does not run, the /Applications/TextEdit.app/Contents/MacOS/TextEdit /etc/hosts does not exist. Rather frustrating."
+,thurley,2012-08-24T15:51Z,I have tried this 4 different times in all the ways you suggested. Fail.
+,robyn55,2012-08-24T15:56Z,thanks i'll try
+,robyn55,2012-08-24T15:57Z,and yes i failed too.
+[V],Cyberpiraten,2012-08-24T16:25Z,"The Host file is simply to make shure the app does not connect their servers, you could maybe block the app in the firewall? 
+
+Anyhow, the Host Patch is working fine on all our's Macbook Pro's.  
+
+You could try this, almost the same just with a little twist.
+
+Peace.
+----------------------------------------------------------- 
+1. Paste the the following text below between 127.0.0.1 localhost and 255.255.255.255 broadcasthost : 
+
+# Block Adobe Activation
+127.0.0.1	activate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	activate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	192.150.14.69
+127.0.0.1	192.150.18.101
+127.0.0.1	192.150.18.108
+127.0.0.1	192.150.22.40
+127.0.0.1	192.150.8.100
+127.0.0.1	192.150.8.118
+127.0.0.1	209-34-83-73.ood.opsource.net
+127.0.0.1	3dns-1.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	3dns-2.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-3.adobe.com
+127.0.0.1	3dns-4.adobe.com
+127.0.0.1	3dns.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	activate-sea.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	activate-sjc0.adobe.com
+127.0.0.1	activate.adobe.com
+127.0.0.1	activate.adobe.com
+127.0.0.1	activate.wip.adobe.com
+127.0.0.1	activate.wip1.adobe.com
+127.0.0.1	activate.wip2.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	activate.wip3.adobe.com
+127.0.0.1	activate.wip4.adobe.com
+127.0.0.1	adobe-dns-1.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-2.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	adobe-dns-3.adobe.com
+127.0.0.1	adobe-dns-4.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe-dns.adobe.com
+127.0.0.1	adobe.activate.com
+127.0.0.1	adobeereg.com
+127.0.0.1	crl.verisign.net
+127.0.0.1	CRL.VERISIGN.NET.*
+127.0.0.1	ereg.adobe.com
+127.0.0.1	ereg.adobe.com
+127.0.0.1	ereg.wip.adobe.com
+127.0.0.1	ereg.wip1.adobe.com
+127.0.0.1	ereg.wip2.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	ereg.wip3.adobe.com
+127.0.0.1	ereg.wip4.adobe.com
+127.0.0.1	hl2rcv.adobe.com
+127.0.0.1	ood.opsource.net
+127.0.0.1	practivate.adobe
+127.0.0.1	practivate.adobe.*
+127.0.0.1	practivate.adobe.com
+127.0.0.1	practivate.adobe.com
+127.0.0.1	practivate.adobe.ipp
+127.0.0.1	practivate.adobe.newoa
+127.0.0.1	practivate.adobe.ntp
+127.0.0.1	tss-geotrust-crl.thawte.com
+127.0.0.1	wip.adobe.com
+127.0.0.1	wip1.adobe.com
+127.0.0.1	wip2.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	wip3.adobe.com
+127.0.0.1	wip4.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com
+127.0.0.1	wwis-dubc1-vip60.adobe.com                                                               
+
+2.Save the document (Command+S)                                               
+
+3.Go to terminal and run the following from below to flush: sudo dscacheutil -flushcache       
+
+"
+[V],Cyberpiraten,2012-08-24T16:40Z,"Could people please comment here if it work't to? 
+Would be nice to know if it work't for everyone! :)"
+,jasang,2012-08-24T22:13Z,"I am running OS X 10.8 and was able to download and even get PS to open and run, however, I cannot get host patch to open by clicking on it.  I have opened terminal and type text.  When it asks for my password, it will not allow me to actually type anything.  Not sure how to get this to work.  Loving all the help though.  "
+,Bynx,2012-08-25T01:42Z,Everything is fine but the HOST PATCH doesnt work. When I click it nothing happens. I skipped this part and installed the folder in the next step and ran the program. All this while offline. Everything worked fine. Now to just get the HOST PATCH to work.
+,Bynx,2012-08-25T13:38Z,Until the Host Patch works you have to remain offline whenever Photoshop is open and that will only last 7 days at which time it will shut down. Without that Host File this whole thing is useless.
+[V],Cyberpiraten,2012-08-27T01:32Z,"I'll try making a script file of this, I'll upload it asap."
+,Bynx,2012-08-28T03:52Z,How about just uploading the Host File? Maybe it got corrupted.
+,Lavenza,2012-08-28T04:06Z,I used the Automator and rewrote the Host File with the lines Ciberpiraten commented. I was then able to run it. Photoshop CS6 now works perfectly when t he internet is on :)
+,Bynx,2012-08-28T23:24Z,"Not being a programmer I havent got a clue what this means ... Paste the the following text below between 127.0.0.1 localhost and 255.255.255.255 broadcasthost...
+What is localhost and broadcasthost? And where are they?"
+,Bynx,2012-08-28T23:31Z,Lavenza how about uploading your Host File?
+,Lavenza,2012-08-29T04:05Z,"I'll try to write the steps that worked for ME as simple as I can :
+1. Open Automator (It was already installed on my MAC since someone owned it before me, but I don't know if you have to download it?)
+2. There will be a window asking to 'Choose a type for your document'...Click 'Open and existing document' and pick the Host Patch
+3.You should see the script of the Host Patch written in purple in a box, from there the third line is # Block Adobe Activation, so copy the bunch of lines Cyberpiraten commented (including the # Block Adobe Activation) and replace the ones found in the script (SO from '# Block Adobe Activation' to '127.0.0.1	wwis-dubc1-vip60.adobe.com')
+3. Save and close Automator
+4. The Host Patch should now work, you can open it (it'll ask your user password) but really all it does is show you the script again so you don't need to do anything else with it.
+5. Proceed the installation and instructions
+
+I'm no programmer or genius in the matter so I hope this helps! It worked for me, can't 100% promise it will for everybody... Goodluck!"
+,Bynx,2012-08-29T05:24Z,Lavenza you are indeed a genius. It worked perfectly. Thanks ever so much. Wish I could buy you a beer.
+,lelange29,2012-08-29T05:35Z,"Hi Cyberpiraten, i didn't find this to paste the crack, how i find ""Applicatios > Right Click CS6 > Show Package Contents > Frameworks""?"
+,ceggo,2012-08-29T14:11Z,"Works like a charm with the first description! 
+Thank you so much :*"
+,Bynx,2012-08-29T23:50Z,Forgive me for giving thanks to you Cyberpiraten. Everything works like a charm.
+,Bynx,2012-08-29T23:51Z,"Lets try this again. Forgive me for NOT giving you thanks Cyberpiraten. Oh hell, thanks heaps. "
+,DemoDrift,2012-08-31T10:12Z,"Hey Guys...
+For those who cannot open Hoste Patch.
+
+MODIFYING HOST FILE:
+
+You can easily modify Host file by yourself.
+First, find the Host file on your MAC.
+Finder>Go>Go to Folder (shift+cmmd+G)
+Type ->  /etc/hosts
+Is this the file that you needs to modify but the system doesn't let you do this.
+Them, copy and paste and now you can modify.
+
+I will put exactly how the file needs to be . Just select all and paste.
+
+Save and just Drag and Drop inside the ""etc"" folder. Authenticate and Replace.
+ps: make a copy of the original if you feel better."
+,DemoDrift,2012-08-31T10:19Z,"Where is ****PASTE HERE**** you need to replace  with Cyberpiraten code. ( 15 comments above) 
+
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+****PASTE HERE****
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost"
+,DemoDrift,2012-08-31T10:25Z,"Hey Guys...
+For those who cannot open Hoste Patch.
+
+MODIFYING HOST FILE:
+
+You can easily modify Host file by yourself.
+First, find the Host file on your MAC.
+Finder>Go>Go to Folder (shift+cmmd+G)
+Type ->  /etc/hosts
+Is this the file that you needs to modify but the system doesn't let you do this.
+Them, copy and paste in another place and now you can modify.
+
+I will put how the file needs to be with a !!!PASTE HERE!!! where you need to replace with the code that Cyberpiraten give(15 comments above).
+
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+!!!PASTE HERE!!!
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+Save and just Drag and Drop inside the ""etc"" folder. Authenticate and Replace.
+ps: make a copy of the original if you feel better.    "
+,DemoDrift,2012-08-31T10:38Z,"Cyberpiraten,
+
+Do you have Lynda Pages 09 Essential Training?
+Know where I may find?
+
+Thanks"
+,capomic,2012-08-31T16:10Z,Works perfectly. Thank you very much!
+,seanrquinn,2012-09-01T02:03Z,"Worked for me.
+
+I had to run the actionscript through automator itself in order to get it to work."
+,sizzzle13,2012-09-02T10:32Z,i've tried the serial numbers provided but non of them work. i keep getting a message saying the serial number is invalid. help!
+,cchiaraa,2012-09-03T05:29Z,Worked perfectly. Thank you!
+,leafnin56,2012-09-03T16:19Z,"I've done the host file, added the package to the framework folder, but somehow its still connecting to the adobe server and says i got a trial period of 30 days... can anyone please help?"
+,rodsurf,2012-09-03T18:03Z,"CyberPiraten, its possible to update it to the 13.0.1? for the retina display?
+
+Many thanks"
+,aldo45,2012-09-05T16:57Z,"Works perfectly. Thanks Uploader. Before doing this make a BACKUP of your hosts file by opening Finder SHIFT+CMD+G then /private/etc/hosts. Copy the file to another location so you have a safety net.
+THEN:
+
+1) copy hosts posted on page 2 by uploader
+2) Open Automator
+3) Open Existing file>Hostes Patch
+4) Delete whats in the purple part from #block Adobe TO 127.0.0.1 wwis-dubc1-vip60.adobe.com 
+5) Paste the stuff copied from here into the file
+6) Save it
+8) DISCONNECT FROM INTERNET COMPLETELY!!!
+9) Run the .DMG
+10) Click 'I have a serial""
+11) Use one of the serials from the .rtf provided.
+12) Install will finish then click CLOSE
+13) Run the Hostes Patch file you edited earlier. You'll need to supply your admin password to grant it permission to run.
+14) Next, go to Finder>Applications>Photoshop CS6 and right click on the app.
+15) Show Package Contents>Frameworks
+16) copy the folder ""Amtlib.framework"" which is included in the download.
+17) Close everything
+18) Reboot
+19) Done.
+
+For those having problems, restore the BACKUP Hosts file you made to /private/etc/hosts. Then make a fresh backup before you try again.
+
+Make sure to paste the text between 127.0.0.1 localhost and 255.255.255.255 broadcasthost : - That's important.
+
+If all else fails just download TEXTMATE and edit the host file with that. It's the same thing essentially."
+,jimbo2525,2012-09-07T02:17Z,"Hey guys, sorry about this but is there anybody out there willing to give detailed step-by-step instructions on how to get this installed.  I've been reading through the comments and I am completely lost in the sauce.  Any help would be much appreciated."
+,soulb1ade,2012-09-12T07:04Z,I have managed to update this version to 13.01 without any problem. I went http://www.adobe.com/support/downloads/detail.jsp?ftpID=5407 and get the file and install it. 

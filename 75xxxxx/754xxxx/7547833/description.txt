@@ -1,0 +1,16 @@
+
+
+
+
+
+
+Fixed audio sync in long recordings for Windows XP users
+
+
+- Fixed problem taking screenshots from DWM even with counter on screen
+
+- Fixed 64-bit DirectX 11 games always being recorded in lossless RGB
+
+- Fixed corruption in video when audio source set to 11.25kHz
+
+- Other minor bug fixes		

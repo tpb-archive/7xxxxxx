@@ -1,0 +1,23 @@
+*** DIRECTSHOW FILTER LIST ***
+1. Default DirectSound Device
+2. VMR9 - Renderless mode
+3. Gretech Audio
+4. Gretech Video
+5. CoreAAC Audio Decoder
+6. LAV Video Decoder
+7. Gretech Matroska Source
+
+
+*** VIDEO INFO ***
+Input Type : YV12(RAW)
+Input Size : 720 x 304
+Output Type : YV12
+Output Size : 720 x 304
+FrameRate(Frame/sec) : 0.00 (23.98)
+
+
+*** AUDIO INFO ***
+SampleRate(Sample/sec) : 48000
+BitRate(Bit/sample) : 16
+Channels : 2
+KBitRate(KBit/sec) : 0

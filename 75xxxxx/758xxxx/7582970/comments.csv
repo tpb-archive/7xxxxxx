@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,BelgianMovieSearcher,2012-08-30T11:47Z,"Please Seed - Please leave a message -
+
+Any problems to watch? Try downloading K lite Codec and use VLC or BS player."
+,Ichthus,2012-08-30T19:01Z,"Niet goed gekeken, het tweede seizoen is er ook al ... Ontzettend bedankt, Belgische vriend."
+,BelgianMovieSearcher,2012-08-30T23:51Z,"Volgende seizoenen komen ook.  Ik apprecieer je reactie, bedankt!"
+,Ichthus,2012-08-31T23:06Z,"Hoezeer ik de moeite ook waardeer die je gedaan hebt om deze serie te uploaden, zonder initial seed zal het heel moeilijk worden om al die inspanningen de moeite waard te maken, want ik krijg geen sikkepit gedownload, jammer genoeg. Zou je aub willen seeden totdat de torrents volledig circuleren? Alvast bedankt!"
+,BelgianMovieSearcher,2012-09-02T14:28Z,"Ikzelf seed, maar ik heb geen idee hoe ik een ""gate"" open via internet. Heb jij een guide?"
+,Ichthus,2012-09-02T16:01Z,"@BelgianMovieSearcher: ik heb er zelf helemaal geen ervaring mee, maar misschien heb je wat aan deze link:
+http://bnbteasytracker.sourceforge.net/d_seeding.php
+Hopelijk helpt het je inderdaad, maar sowieso erg bedankt voor je moeite."
+,Ichthus,2012-09-02T23:23Z,"Ik bedacht me net dat in jouw torrent client (Bit- of uTorrent) de preferences misschien wel niet goed staan. Volgens mij moeten in ieder geval aangevinkt zijn:
+-enable DHT network
+-enable DHT for new torrents
+-enable local peer discovery
+-enable bandwith management (uTP)
+-enable UDP tracker support
+-ask tracker for scrape information
+-enable peer exchange
+I'll keep my fingers crossed ..."

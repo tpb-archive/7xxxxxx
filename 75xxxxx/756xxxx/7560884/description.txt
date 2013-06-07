@@ -1,0 +1,25 @@
+What's New DVDFab 8.2.0.5 Qt (August 23, 2012)
+
+- New: Added support for CUDA 3.0 graphics card, like NVIDIA GeForce GT 650M.
+- Fixed: A problem that both of Beta and official programs could be installed and shown in Control Panel same time.
+- Fixed: A problem that does not contain DVD Creator or Blu-ray Creator in the Customize UI page.
+- New: Some minor changes and improvements.
+
+DVD Copy:
+- New: Added support for a new copy protection as found on "The Dictator"
+- New: Added support for a new copy protection as found on "The Hunger Games" DVD disc.
+
+Blu-ray Copy:
+- New: Added partial support for fake playlist protection of "The Hunger Games" Blu-ray disc.
+- Fix: An oversize problem when copying Blu-ray 2D disc which was introduced in v8200.
+- Fixed: A long scanning time problem, like reading ΓÇ£IMAX Deep Sea (3D)ΓÇ¥ disc.
+
+2D to 3D Converter:
+- Fix: A crash problem at the end of conversion of 2D to 3D.
+
+System Requirements:
+- Windows 7/Vista/XP/2000 (32-bit/64-bit)
+- Pentium II 500 MHz
+- 256 MB of RAM
+- 10 GB of Free Hard Disk Space
+- A DVD-R(W) or DVD+R(W) Drive

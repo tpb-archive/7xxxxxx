@@ -1,0 +1,44 @@
+                                  By bobiras2009		
+
+
+
+FrostWire, a BitTorrent client (formerly a Gnutella client), is a collaborative effort from many Open Source and freelance developers located from all around the world.
+
+Using the most recent version of FrostWire allows users to enjoy the best program functionality. Bugs reported in older versions have been fixed for the latest version. Any users with FrostWire 2.5 or earlier MUST update.
+
+Frostwire's features include:
+
+    Completely Free & Open Source!
+    Faster Download Speeds
+    No Spyware. No Adware. Guaranteed.
+    iTunesâ„¢ Compatible!
+    Faster Torrent Speeds
+    Friendly Online Chat Rooms
+    Bittorrent Support!
+    Even More Connections
+    New & Improved Skins
+
+
+Changelog:
+
+- BEP 34 compliant. FrostWire now checks DNS TXT records for tracker config.
+- Soundcloud integration (Search, Streaming and Downloads).
+- Fixes issue with partial download title window not showing the name of the torrent correctly.
+- UI Improvement: Action hints on top of search results to stream or download or see the contents of the torrent.
+- UI Improvement: Action hint on top of playable contents in the library.
+- UI Improvement: Search result Source now includes the name of the author if available.
+- UI Improvement: Search keywords are bolded in the titles of search results.
+- UI Improvement: Creation date for non-torrent search results available.
+- UI Improvement: File size of non-torrent search results available.
+- UI Improvement: Opening 'Configure Options' on the Library takes user to the Library Settings pane.
+- UI Improvement: Right clicking on the title of a search tab now shows the only action available (Repeat Search) directly.
+- UI Improvement: A FrostWire update can now be invoked from the 'Tools' menu.
+- UI Improvement: New Notification update button will be available on the Window header to let the user know visually that there's a FrostWire update available.
+- UI Improvement: Added 'Cleanup Playlist' right click menu item in playlists.
+- UX Improvement: When saving a newly created .torrent, FrostWire will make sure the file is saved with the .torrent extension.
+- Fixes issue with file names downloaded from FrostWire for Android.
+- Fixes issue adding new radio stations to the library.
+- Fix of MP3 ID3 tags unicode parsing.
+
+
+                                  By bobiras2009		

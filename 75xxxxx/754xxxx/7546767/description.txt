@@ -1,0 +1,59 @@
+General
+Unique ID                        : 202722453040831552425981360271807861916 (0x9882EC9D07D76E6E87530619CACDD49C)
+Complete name                    : D:torrentmovies3 Idiots (2010) BRRip PakTeam3 Idiots (2009) BRRip - 720p.mkv
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 982 MiB
+Duration                         : 2h 51mn
+Overall bit rate                 : 802 Kbps
+Movie name                       : 3.Idiots.2009.BRRip.720p.AC3.x264.MKV.1000mb.Riddler
+Encoded date                     : UTC 2010-11-18 06:19:35
+Writing application              : mkvmerge v3.2.0 ('Beginnings') built on Feb 12 2010 16:46:17
+Writing library                  : libebml v0.7.9 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 2h 51mn
+Nominal bit rate                 : 760 Kbps
+Width                            : 1 280 pixels
+Height                           : 544 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 24.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.045
+Writing library                  : x264 core 60 r900 a9af942
+Encoding settings                : cabac=1 / ref=5 / deblock=1:1:2 / analyse=0x3:0x133 / me=umh / subme=7 / brdo=1 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=45(pre) / rc=2pass / bitrate=760 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=50000 / vbv_bufsize=50000 / ip_ratio=1.40 / pb_ratio=1.30 / aq=0
+Language                         : Hindi
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : HE-AAC / LC
+Codec ID                         : A_AAC
+Duration                         : 2h 51mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz / 24.0 KHz
+Compression mode                 : Lossy
+Language                         : Hindi
+
+Text
+ID                               : 3
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Language                         : English
+
+Menu
+00:00:00.097                     : en:00:00:00.097
+

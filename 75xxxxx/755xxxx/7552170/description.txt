@@ -1,0 +1,63 @@
+Fifa 2005 de PSX convertido para ser jugado en el emulador nativo de Xperia Play, para poder jugarlo sin problemas hay que renderizar el juego.
+
+Para instalar copia la carpeta data a la carpeta android/ en la tarjeta de nuestro xperiplay, y el archivo apk donde mejor te paresca (siempre dentro de la tarjeta de nuestro phone), luego con un explorador como el Astro buscamos el archivo .apk y lo instalamos.
+
+Ahora hay que renderizar el juego, iniciamos el juego instalado, damos click en el boton de menu de nuestro telefono cambiamos el modo de pantalla a pantalla completa, elegimos salir y guardar. Luego de eso conectamos el XPLAY  nuestro pc y nos dirigimos a la andorid (android/data/com.sony.playstation.FIFA20050_1/files/ucc/f175218.../) dentro de esta carpeta hay un archivo llamado preferences.xml, este lo abrimos con el block de notas y nos aparecera algo como esto 
+<boolean name="Up-rendering" value="true" />
+<string name="Screen Orientation">Landscape</string>
+<boolean name="FPS-counter" value="false" />
+<boolean name="SW-render" value="true" />       <----------- CAMBIAR FALSE POR TRUE
+<boolean name="On Screen Controller" value="false" />
+<string name="On Screen Controller Type Landscape">Type 1</string>
+<string name="On Screen Controller Type Portrait">Type 1</string>
+<string name="On Screen Controller Color Landscape">Color 1</string>
+<string name="On Screen Controller Color Portrait">Color 1</string>
+<boolean name="On Screen Controller Vibrator" value="true" />
+<string name="On Screen Controller Transparency 0" value="100" />
+<string name="On Screen Controller Transparency 1" value="100" />
+<string name="On Screen Controller Transparency 2" value="50" />
+<string name="On Screen Controller Scale 0" value="100" />
+<string name="On Screen Controller Scale 1" value="100" />
+<string name="On Screen Controller Scale 2" value="100" />
+<string name="On Screen Controller Scale 3" value="100" />
+<string name="Button Mapping">Type 1</string>
+<string name="Screen Mode">Wide</string>
+<string name="Save Progress">On</string>
+<boolean name="Frame Skipping" value="false" />
+<string name="Controller Port" value="1" />
+<boolean name="Analog Mode" value="true" />
+
+Hay que cambiar la 4 linea 
+
+<boolean name="SW-render" value="false" />
+
+Donde dice "false" por "true"
+y quedara asi
+<boolean name="Up-rendering" value="true" />
+<string name="Screen Orientation">Landscape</string>
+<boolean name="FPS-counter" value="false" />
+<boolean name="SW-render" value="true" />               <--------------ASI QUEDA
+<boolean name="On Screen Controller" value="false" />
+<string name="On Screen Controller Type Landscape">Type 1</string>
+<string name="On Screen Controller Type Portrait">Type 1</string>
+<string name="On Screen Controller Color Landscape">Color 1</string>
+<string name="On Screen Controller Color Portrait">Color 1</string>
+<boolean name="On Screen Controller Vibrator" value="true" />
+<string name="On Screen Controller Transparency 0" value="100" />
+<string name="On Screen Controller Transparency 1" value="100" />
+<string name="On Screen Controller Transparency 2" value="50" />
+<string name="On Screen Controller Scale 0" value="100" />
+<string name="On Screen Controller Scale 1" value="100" />
+<string name="On Screen Controller Scale 2" value="100" />
+<string name="On Screen Controller Scale 3" value="100" />
+<string name="Button Mapping">Type 1</string>
+<string name="Screen Mode">Wide</string>
+<string name="Save Progress">On</string>
+<boolean name="Frame Skipping" value="false" />
+<string name="Controller Port" value="1" />
+<boolean name="Analog Mode" value="true" />
+  
+
+Y listo, a jugar...
+
+       

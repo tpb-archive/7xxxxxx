@@ -1,0 +1,47 @@
+Source: BBC Red Button - No Commentary Audio Track
+
+General
+Complete name                    : Closing Ceremony of the 2012 Olympic Games - No Commentary.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+Format profile                   : OpenDML
+File size                        : 1.89 GiB
+Duration                         : 3h 18mn
+Overall bit rate                 : 1 363 Kbps
+Writing application              : MEncoder r33883
+Writing library                  : MPlayer
+
+Video
+ID                               : 0
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : H264
+Duration                         : 3h 18mn
+Bit rate                         : 15.7 Kbps
+Width                            : 682 pixels
+Height                           : 384 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.002
+Stream size                      : 22.2 MiB (1%)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 3h 18mn
+Bit rate                         : 96.0 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 136 MiB (7%)
+Alignment                        : Aligned on interleaves
+

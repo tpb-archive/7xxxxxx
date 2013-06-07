@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,zerohouse,2012-09-13T06:44Z,"Sounds like a very nice release, I've only played a few HL mods and stopped playing HL entirely once valve ruined it.
+
+I know this is probably not supported anymore, but I have some concerns:
+
+The package installs fine, as far as I can tell using my meager martian language skillz,
+but none of the games are playable.
+
+Launching hl.exe displays a horrible ugly TigerHeart ""intro"" vid accompanied by an equally horrible distorted clipped soundtrack, followed by the usual Sierra and Valve intro vids.
+
+After this, instead of seeing the expected classic game menu, I either get a black screen or a few frames of the menu before a total crash.
+
+I'm running win7 home premium 64bit, and none of the compatability options has any effect.
+
+I'd rather not sit through that shitty loud pixel-rape intro again just to crash out, any solution is appreciated!"
+,drake_1,2012-09-13T18:13Z,"Half-LifevalvemediaStartupVids.txt
+delete unskipable intro"
+,zerohouse,2012-09-14T01:25Z,"Thanks, drake_1, that got rid of the intros.
+
+The game still instantly and silently crashes immedately, I see a second of the HL background image and no menu and then the game process exits with no error message.
+
+I've tried adding a DEP exception, and I've tried various HL launch parameters ( -gl or -d3d, -window, etc ) to no avail.
+Windows compatability options do nothing.
+
+Has anyone played this release on win7 64bit?"
+,drake_1,2012-09-14T16:57Z,I tested it only on XP SP3 and Win7 32-bit.

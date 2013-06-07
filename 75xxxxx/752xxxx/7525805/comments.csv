@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+[T],italsvenska,2012-08-12T15:11Z,Many Thanks
+[T],Spikkie,2012-08-12T17:48Z,"Thanks.
+Can we get this work from USB stick"
+[V],nikita200,2012-08-12T19:52Z,"@Spikkie
+
+_https://sites.google.com/site/shamurxboot/
+
+Select --- Add using Grub4dos ISO Emulation
+
+or try:
+
+_http://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+
+... and others ...
+"
+,xpmule,2012-08-13T04:49Z,"any chance you have the windows install version of this ?
+I never use the boot versions of this..
+
+also i used this page and the grub tool to make a bootable Hirens CD for my microSD card on my cell phone.
+
+http://www.hiren.info/pages/bootcd-on-usb-disk
+
+it has a quick TUT and pictures with links to the two free clean tools used.
+Good stuff !"
+,BugsABunny,2012-08-13T08:52Z,"thx nikita200!
+
+path to small Linux based ISO:
+
+Paragon.Hard.Disk.Manager.12.Professional.[...].iso/SOURCES/BOOT.WIM/Programs/Paragon Software/ISO/bootcd.iso
+
+Grub4DOS: menu.lst:
+title Paragon Festplatten-Manager 12 Pro ISO (10.0.19.15808)
+map --mem /YourFolderWithISOs/bootcd.iso (hd32)
+map --hook
+chainloader (hd32)
+boot"
+,digimike50,2012-08-20T10:00Z,Many thanks!
+,asdf672001,2012-08-23T00:38Z,Thanks nikita200 - you are a class act
+,richie16171,2012-09-02T13:54Z,Which version of windows 32 or 64 bit?

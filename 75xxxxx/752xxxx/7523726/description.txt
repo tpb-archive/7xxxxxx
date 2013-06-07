@@ -1,0 +1,29 @@
+the Dead End Kids in Crime School - 1938
+
+Featuring the six original Dead End Kids with Bogie & Gale Page. The villinous Cy Kendall is in charge of the reformatory the boys get sent to.
+
+===========================================
+
+[08:11:20] job configuration:
+[08:11:20]  * source
+[08:11:20]    + C:Crime School
+[08:11:20]    + title 1, chapter(s) 1 to 4
+[08:11:20]    + container: Matroska (.mkv)
+[08:11:20]      + chapter markers
+[08:11:20]  * video track
+[08:11:20]    + decoder: mpeg2
+[08:11:20]      + bitrate 6918 kbps
+[08:11:20]    + frame rate: same as source (around 23.976 fps)
+[08:11:20]    + strict anamorphic
+[08:11:20]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[08:11:20]      + pixel aspect ratio: 8 / 9
+[08:11:20]      + display dimensions: 640 * 480
+[08:11:20]    + encoder: x264
+[08:11:20]      + options: ref=2:bframes=2:me=umh:ref=1:subme=1:me=dia:analyse=none:trellis=0:no-fast-pskip=0:8x8dct=0:weightb=0
+[08:11:20]      + bitrate: 493 kbps, pass: 1
+[08:11:20]  * audio track 0
+[08:11:20]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[08:11:20]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[08:11:20]    + mixdown: Stereo
+[08:11:20]    + encoder: faac
+[08:11:20]      + bitrate: 160 kbps, samplerate: 48000 Hz

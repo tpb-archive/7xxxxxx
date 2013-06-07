@@ -1,0 +1,50 @@
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 705 MiB
+Duration                         : 2h 19mn
+Overall bit rate                 : 708 Kbps
+Writing application              : Nandub v1.0rc2
+Writing library                  : Nandub build 1853/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format settings, BVOP            : Yes
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : DX50
+Codec ID/Hint                    : DivX 5
+Duration                         : 2h 19mn
+Bit rate                         : 607 Kbps
+Width                            : 720 pixels
+Height                           : 288 pixels
+Display aspect ratio             : 2.500
+Frame rate                       : 25.000 fps
+Resolution                       : 24 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.117
+Stream size                      : 605 MiB (86%)
+Writing library                  : DivX 5.0.2 (UTC 2002-05-16)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 2h 19mn
+Bit rate mode                    : Variable
+Bit rate                         : 87.7 Kbps
+Minimum bit rate                 : 64.0 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Resolution                       : 16 bits
+Stream size                      : 87.4 MiB (12%)
+Alignment                        : Aligned on interleaves
+Interleave, duration             : 24 ms (0.60 video frame)
+Interleave, preload duration     : 468 ms
+Writing library                  : LAME3.92 
+Encoding settings                : -m j -V 0 -q 2 -lowpass 21.1 --vbr-old -b 64
+

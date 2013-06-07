@@ -1,0 +1,37 @@
+Book Description
+
+Beginning Database Design, Second Edition provides short, easy-to-read explanations of how to get database design right the first time. This book offers numerous examples to help you avoid the many pitfalls that entrap new and not-so-new database designers. Through the help of use cases and class diagrams modeled in the UML, youΓÇÖll learn to discover and represent the details and scope of any design problem you choose to attack.
+
+Database design is not an exact science. Many are surprised to find that problems with their databases are caused by poor design rather than by difficulties in using the database management software. Beginning Database Design, Second Edition helps you ask and answer important questions about your data so you can understand the problem you are trying to solve and create a pragmatic design capturing the essentials while leaving the door open for refinements and extension at a later stage. Solid database design principles and examples help demonstrate the consequences of simplifications and pragmatic decisions. The rationale is to try to keep a design simple, but allow room for development as situations change or resources permit.
+
+Provides solid design principles by which to avoid pitfalls and support changing needs
+Includes numerous examples of good and bad design decisions and their consequences
+Shows a modern method for documenting design using the Unified Modeling Language
+
+What youΓÇÖll learn
+
+Avoid the most common pitfalls in database design.
+Create clear use cases from project requirements.
+Design a data model to support the use cases.
+Apply generalization and specialization appropriately.
+Secure future flexibility through a normalized design.
+Ensure integrity through relationships, keys, and constraints.
+Successfully implement your data model as a relational schema.
+
+Who this book is for
+Beginning Database Design, Second Edition is aimed at desktop power users, developers, database administrators, and others who are charged with caring for data and storing it in ways that preserve its meaning and integrity. Desktop users will appreciate the coverage of Excel as a plausible ΓÇ£databaseΓÇ¥ for research systems and lab environments. Developers and database designers will find insight from the clear discussions of design approaches and their pitfalls and benefits. All readers will benefit from learning a modern notation for documenting designs that is based upon the widely used and accepted Universal Modeling Language.
+
+Table of Contents
+
+What Can Go Wrong?
+Guided Tour of the Development Process
+Initial Requirements and Use Cases
+Learning from the Data Model
+Developing a Data Model
+Generalization and Specialization
+From Data Model to Relational Schema
+Normalization
+More on Keys and Constraints
+Queries
+User Interface
+Other Implementations

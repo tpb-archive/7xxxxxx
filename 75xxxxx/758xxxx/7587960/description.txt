@@ -1,0 +1,24 @@
+                             By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android 2.2+
+Overview: This program records phone calls from the phone line on some phones.
+
+
+Such recording is not usually available out-of-the-box, it needs hardware support in your OS kernel and root access. If you have an HTC device, you're in clover if you've got a custom ROM. Otherwise, please visit the xda site, there're plenty. Basically any device is supported, provided that it's based on a Qualcomm chip, say, their Snapdragons, etc. If your device has no such support, the program still records phone calls, but you need to select Android API in preferences and the recording will most likely proceed from the mike, not from the line. Please feel free to make any comments or send suggestions.
+
+What's in this version:
+- Jelly Bean support
+- Removed mp3 from audio formats (I'm working to get it back)
+- Manually converting wav(mono) to mp3
+- Set file name pattern (experimental)
+- AMR support for phones based on MSM7227
+- Minor UI improvements
+- Many minor bugs were fixed
+
+
+
+                             By bobiras2009	

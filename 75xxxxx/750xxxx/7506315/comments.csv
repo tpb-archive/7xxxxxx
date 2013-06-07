@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,BasilBrush,2012-08-05T17:02Z,"The evening session (Sunday 5th Aug 2012) has just started and luckily the satellite signal came back about 3 seconds before the programme started but thunder can still be heard.
+
+Hopefully the evening session will be ok."
+,sbrtmt,2012-08-05T17:50Z,Thank you!
+,BasilBrush,2012-08-05T21:35Z,"The Sunday evening (5th Aug 2012) events should be ready after 1am GMT (2am BST) on 6th Aug 2012.
+
+Here's the latest list of Olympic cycling files available from BBC servers using get_iplayer (5th Aug 2012 7:30pm GMT)
+469:	Olympics - London 2012: BBC One: Day 5: 13.45-16.00, BBC Sport, Cycling
+478:	Olympics - London 2012: BBC One: Day 6: 16.00-18.00, BBC Sport, Cycling
+489:	Olympics - London 2012: BBC One: Day 7: 16.00-18.00, BBC Sport, Cycling
+503:	Olympics - London 2012: BBC Two: Day 6: 18.00-19.00, BBC Sport, Cycling
+504:	Olympics - London 2012: BBC Two: Day 7: 18.00-19.00, BBC Sport, Cycling
+511:	Olympics - London 2012: BBC Two: Day 5: 13.00-13.45, BBC Sport, Cycling
+515:	Olympics - London 2012: BBC One: Day 8: 17.15-18.50, BBC Sport, Cycling
+527:	Olympics - London 2012: BBC Two: Day 9: 17.35-18.00, BBC Sport, Cycling
+Remember to check the indexes as they change.
+
+For 640x360 MP4 2 pass 700Kbps with 96Kbps HE-AAC:
+get_iplayer --get XXX
+
+For 832x468 MP4 2 pass 1404Kbps with 96Kbps HE-AAC:
+get_iplayer --get XXX --modes flashvhigh
+
+You might also find these files at cyclingtorrents.nl"

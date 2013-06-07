@@ -1,0 +1,24 @@
+Compatibility Chart EPPB Professional
+- Support for iOS 3.x and 4.x 
+- Support for iPhone 3G/3GS/4 
+- Support for iPod Touch and iPad 
+- Support for all BlackBerry devices 
+- Brute-force attack 
+- Dictionary attack with mutations 
+- Number of CPUs supported 32
+- Number of GPUs supported 8
+- Hardware acceleration on Tableau TACC1441 
+- Extract and decrypt keychain data (Apple devices with iOS 4 and 5) 
+- Decrypt iPhone/iPad/iPod backup (with known password)** 
+- Decrypt BlackBerry backup (with known password)
+- Recover BlackBerry Password Keeper passwords 
+- Recover BlackBerry Wallet passwords 
+- Recover BlackBerry Device Password*** 
+- Extract data from iCloud 
+
+* Installing latest display driver is recommended when using GPU acceleration on NVIDIA or ATI cards. For multi-GPU configurations Windows 7 is recommended.
+** Several hundred thousand passwords per second can be tried depending on PC hardware
+*** If an option to encrypt the media card (with password) is enabled
+
+OS: Windows 2000/XP/Vista/7
+Language : English

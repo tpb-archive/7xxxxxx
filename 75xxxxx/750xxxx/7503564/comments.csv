@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,sapo_joe,2012-08-04T21:18Z,"I really hoped this didn't include the Metro inteface... I would be perfect: the Windows 8 kernel and the windows 7 interface! Unfortunately, it's not the case."
+,topjimmy68,2012-08-05T01:55Z,Needs activation by a corporate KMS...curious to see if this can be defeated or emulated in a non-corporate environment.
+,Grover_NZ,2012-08-05T06:53Z,Will Daz 2.1.7 work for this? http://thepiratebay.se/torrent/7463060/Windows_Loader_2.1.7_By_Daz
+,PattyrRob,2012-08-05T15:06Z,@Grover NZ No daz 2.1.7 will not work. It breaks the server.
+,topjimmy68,2012-08-07T06:00Z,"Use these commands at elevated command prompt to activate for 180 days (confirmed in VM of Standard edition)
+
+slmgr /skms kms-c.no-ip.org:1688
+slmgr.vbs -ato
+
+Same method for Windows 8 Enterprise"
+,topjimmy68,2012-08-07T16:56Z,Unfortunately the KMS server in Russia looks to have been taken offline http://forums.mydigitallife.info/threads/35379-What-are-the-options-to-activate-Windows-8-RTM-if-any/page101
+,xpmule,2012-08-08T00:03Z,"i heard it was brought back online..
+
+http://www.neowin.net/news/windows-8-rtm-leaked-isos-activations-now-blocked"
+,xpmule,2012-08-08T00:05Z,"can anyone confirm what everyone wants to know ?
+Is the UI the same as other versions ?
+So for example if people like myself hate the windows 8 metro tile crap does this work or look any better at all ?
+Know what im sayin ?"
+,topjimmy68,2012-08-11T03:18Z,"It has the Metro UI like Windows 8, but not the store.  After login you are taken straight to the desktop rather than the start screen (tiles).  A little better than Windows 8 for Metro haters, but still no start menu.  Easy to add a third-party start menu though."
+,shangxiajiu,2012-09-07T23:29Z,"I downloaded this same file from Microsoft the 180 evaluation 3.4 gig datacenter gui. I called microsoft to get the activation key, it took 67 hours to get it. I installed this file on Oracle Virtual Box. I opened the powershell and typed:
+Dism /online /Set-Edition:ServerDatacenter /AcceptEula /ProductKey: xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
+
+you must observe all spaces colins, and the work productkey does remain in the command.
+
+The xxxxx-xxxxx-xxxxx-xxxxx-xxxxx, you must replace with a valid key
+
+after entering this sting correctly with a valid key then re-booting yeild a valid copy without the 180 day evaluation watermark.
+
+It will say Windoows Server 2012 Datacenter
+Build 9200"
+,shangxiajiu,2012-09-07T23:46Z,6 hours not 67
+,EnGuardian,2012-09-08T22:38Z,Please Seed...
+,Arcanum19,2012-09-13T17:31Z,serial key ?
+,ncisgreat,2012-09-16T20:40Z,Please provide me password I am from Nepal and the offer is not available in my country

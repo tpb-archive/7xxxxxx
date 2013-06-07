@@ -1,0 +1,31 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+Changelog: 
+"
+Version 0.8.10
+General:
+   Added an option to toggle recording combat logs while training. Default is off
+   Idle gnome count doesn't include sleeping gnomes
+
+Art:
+   Added training dummy sprite
+
+Bug Fixes:
+   Crash when sparring ends if the gnome had a job before being assigned to the training ground
+   Items appearing on the map that can't be interacted with.
+   Gnomads and goblins spawning inside walls
+   Digging down into ore/gems/coal not properly udpating "outside" status
+   Gnomes carrying a single pistol getting stuck
+   Guard Areas becoming unassigned after loading
+   Constructed walls disappearing when "Replace Wall" command is used on them
+   Training ground squad positions not orienting with a rotated training ground
+   Action bar not properly moving on resolution change
+   Pistols drawing in the wrong hand
+   Stocked and carried armor using stone instead of armor sprites
+
+
+I didn't get a chance to fix very many bugs in the last patch, so I wanted to catch up a little this week.  The "ghost" items bug should be fixed now but old saves will still have the items that can't be interacted with.
+
+For version 0.8.11, I'm going work on hospitals.  Severed limbs will stay severed, but broken limbs can be healed at the hospital.  There will also be a caretaker skill, so that gnomes without arms can be fed and bandaged by another gnome.  Prosthetics will come later on and will require a hospital as well. "
+
+I will be seeding newer versions as they will be released so keep an eye out :)				

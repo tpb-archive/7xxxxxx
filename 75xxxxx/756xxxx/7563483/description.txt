@@ -1,0 +1,36 @@
+Book Description
+
+Beginning T-SQL 2012 is the first step toward learning the T-SQL language that underlies MicrosoftΓÇÖs SQL Server database engine. T-SQL is essential in writing SQL statements to get data into and out of a database. T-SQL is the foundation for business logic embedded in the database in the form of stored procedures and functions. Beginning T-SQL 2012 starts you on the path to mastering T-SQL, with an emphasis on best practices and sound coding techniques.
+
+Beginning T-SQL 2012 begins with an introduction to databases, normalization, and to SQL Server Management Studio. Each subsequent chapter teaches an aspect of T-SQL, building on the skills learned in previous chapters. Exercises in each chapter give readers an opportunity for the hands-on practice that leads to true learning and distinguishes the competent professional.
+
+    Imparts best practices for writing T-SQL
+    Helps you avoid common errors
+    Shows how to write scalable code for good performance
+
+What youΓÇÖll learn
+
+    The fundamentals of relational theory, upon which Transact-SQL is based
+    How to write accurate queries that are scalable and perform well
+    How to combine set-based and procedural processing, obtaining the best from both worlds
+    How to embed business logic in your database through stored procedures and functions
+    How to simplify your work with new and advanced features, such as common table expressions and virtual tables
+    How to enhance performance by knowing when to apply features such table value parameters, and when not to
+
+Who this book is for
+Beginning T-SQL 2012 is for developers and database administrators who will be writing database applications against SQL Server databases.
+
+Table of Contents
+
+    Getting Started
+    Writing Simple SELECT Queries
+    Using Functions and Expressions
+    Querying Multiple Tables
+    Grouping and Summarizing Data
+    Manipulating Data
+    Understanding T-SQL Programming Logic
+    Working with XML
+    Moving Logic to the Database
+    Working with Data Types
+    Writing Advanced Queries
+    Where to Go Next?

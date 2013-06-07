@@ -1,0 +1,36 @@
+Hey guys....
+
+After searching for this for hours and not being able to find it, i finally made it! Dont ask me how cause i still dont know really how, but it was from a very strange page where they ask you to do some crazy tests and then you receive results on your provided cell phone, bla,bla,bla.....
+I didnt really provided my number and still was able to download the complete Digidesign folder which had PT9Loader 2.0 (Beta) inside!
+
+I had troubles making bounces on ProTools 9. Was causing me all the time CPU Overloads, and simply coudnt do it which was a pain in #$% specially considering its a Music Software.
+
+Well, i didnt knew exactly what to do with the files so, before replacing all Digidesign Folder by the new one i got, i decided to give a try only with the PT9Loader 2.0 (Beta).
+
+Backuped the original PtLoader and then replaced it with the new version 2.0.
+
+Tried to run ProTools and made a small test about bouncing. Didnt worked at the first time, 2nd time, or even the 3rd time. But, with all this troubles i found a solution for this problem.
+If you disable your Internet connection, Wireless or Ethernet, and then make the bounce, it works! Not 100% of the times, but around 85%. If it doesnt work the first time, just try it again.
+I also have from time to time the Ilock issue, but you just re run the program and it should be gone.
+
+Conclusion:
+
+PT9Loader 2.0 (Beta) didnt really solved the bounce problem but i have a feeling that its quicker opening ProTools 9 and for what i read about it, its a more stable version that removes some bugs, i just dont know which ones but, if it makes it more stable then i want it! :D
+
+I decided to post anyway the file cause i know there are folks desperate to find it like i was and...i took the chance to share a workaround for the bouncing problem!
+
+Instructions as i made:
+
+1. Backup your Ptloader.app
+2. Copy PT9Loader 2.0 (Beta) to protools folder (replacing the already backuped loader)
+3. Drag the new PT9Loader 2.0 to your dock
+4. Run your Protools 9 (Obviously from the new loader 2.0)
+5. When about to make bounce, disable Internet connection, wireless or Ethernet. In my case i had ethernet and i just unplugged the cable
+
+Thats it guys!
+
+
+
+*Guys, make all of this on your own responsability. Im just sharing a file and the experience i had with it. So dont come here complaining if it doesnt work with you. Thanks and enjoy!
+
+Peace....		

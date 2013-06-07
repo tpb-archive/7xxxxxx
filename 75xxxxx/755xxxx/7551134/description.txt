@@ -1,0 +1,46 @@
+                                  By bobiras2009	
+
+
+Fraps is a universal Windows application that can be used with games using DirectX or OpenGL graphic technology.  
+In its current form Fraps performs many tasks and can best be described as:
+
+Benchmarking Software - Show how many Frames Per Second (FPS) you are getting in a corner of your screen.  
+Perform custom benchmarks and measure the frame rate between any two points.  
+Save the statistics out to disk and use them for your own reviews and applications.
+
+Screen Capture Software - Take a screenshot with the press of a key!  
+There's no need to paste into a paint program every time you want a new shot.  
+Your screen captures are automatically named and timestamped.
+
+Realtime Video Capture Software - Have you ever wanted to record video while playing your favourite game?  
+Come join the Machinima revolution!  
+Throw away the VCR, forget about using a DV cam, game recording has never been this easy!  
+Fraps can capture audio and video up to 2560x1600 with custom frame rates from 10 to 120 frames per second!
+
+New features and a new look!  Fraps is now compatible with Windows 7 and the latest DirectX 11 games.
+
+Ventrilo & TeamSpeak users have long wanted a way to record their microphone and speakers at the same time.  
+For Windows 7 and Vista we've added realtime sound mixing to our video recording so you can now capture
+both sides of the conversation!
+
+NVIDIA have recently included stereoscopic 3D support directly into their drivers.  
+If you play your DirectX9 (D3D9) game with 3D Vision enabled you can use Fraps to record the game in full 3D too!  
+You'll get a side-by-side stereo AVI recording that you can drop straight in to a stereoscopic 3D
+player!
+
+Finally, we are aware that more and more people are putting Fraps to professional use.  
+We've added a new option to force lossless RGB compression to ensure that you always have the highest
+quality video output to work with.
+
+Fraps 3.5.7 - 14th August, 2012
+- Fixed audio sync in long recordings for Windows XP users
+- Fixed problem taking screenshots from DWM even with counter on screen
+- Fixed 64-bit DirectX 11 games always being recorded in lossless RGB
+- Fixed corruption in video when audio source set to 11.25kHz
+- Other minor bug fixes
+
+Supported OS:
+Windows XP, 2003, Vista and Windows 7
+
+
+                                  By bobiras2009	

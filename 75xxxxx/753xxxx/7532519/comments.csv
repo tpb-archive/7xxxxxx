@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,1mrblack1,2012-08-18T23:13Z,Seems to be working in order. Game starts and reports correctly the 1.7 patch. 
+,__ZOOM__,2012-08-19T00:02Z,"I only gets:
+""skyrim Error! Failed to read install path! Error = 234"""
+,pippsp,2012-08-19T23:27Z,"I have no idea what is going on with this torrent.
+It keeps asking for files that are not there.
+Files that it is installing.
+I have downloaded all the AviRa Skyrim files.
+Nothing is working.
+
+Going to do some more testing."
+,mzisette,2012-08-21T18:36Z,"Installed as you said and everything and I get the grayed-out problem, but when I go into SkyrimPrefs.ini, the bEnableFileSelection=""x"" is already at ""1"".
+
+Any help?"
+,Vallencre,2012-08-23T23:46Z,Works like a charm. Thanks!
+,Gouranga2,2012-08-27T01:13Z,Works pretty well for me as well (except for some crashes but those might be caused by something else anyway). Thanks for the upload!
+,CommonsCarnival,2012-08-27T21:48Z,"When I click on ""Data Files"" from the start launcher, a new, separate window called ""Skyrim Data Files"" opens up. Even though I directed the install path to my Skyrim folder and got the message that the installation was successful, there is still nothing in my ""Skyrim Data Files"" window. Did anyone else get stuck here?"
+,CommonsCarnival,2012-08-27T22:33Z,"I figured it out. When I installed into 'The Elder Scrolls Skyrim' folder it created a separate subfolder inside named ""Skyrim Dawnguard DLC +Update v1.7706-=AviaRa=-"" which the Skyrim Launcher's ""Data Files"" didn't recognize or load. I simply copied/moved all contents in this subfolder into the main 'Elder Scrolls' folder and it worked fine. You have mounted attacks now which is fierce, and I talked to a guard and got the Dawnguard quest line. Thank you very much for this. Much appreciated."
+,ejunkie,2012-08-28T23:50Z,"Worked perfect for me... I followed the steps to a ""T"" and the first guard that I talked too gave me the new quest!!!  Thanks a lot for the great upload!!!"
+,amin45678,2012-08-29T23:07Z,"Can someone help? What do you mean by ""point it to your Skyrim folder"". I do that and when I open up Data Files on the launcher, it's blank...someone help?"
+,Ekiman,2012-09-02T00:53Z,"Is this Update v1.7706 is newest version???and what is it update10,11 or?Pls some1 answer so many patches :O"
+,brad1820,2012-09-04T07:29Z,The only problem I am having is that i am not able to see underwater.. when my characters head submerges the screen goes gray.. any help? thanks
+,Lovefraz,2012-09-06T00:02Z,It works but my computer seems to be too slow to run it properly... sadface
+,Ind0,2012-09-09T00:53Z,"Works perfectly. Don't forget to add the last line into the skyrim.cfg file. Aspectratio was on 4 by default for me, but doesn't seem to matter."
+,paxlator,2012-09-10T03:55Z,"I want to get this out of my head before I do anything stupid.
+By downloading the latest patch, do I still have to install all previous patches (Razor1911's as-it-came-out Skyrim)? Or installing the latest one will do?"
+,paxlator,2012-09-10T04:06Z,"Nevermind, just tested it, it seems it installs all relevant updates.
+One thing though. Talking to Guards won't give me the quest, nor do I have it on me instantly. Any other triggers or am I doing something wrong?"
+,gochargers,2012-09-13T18:50Z,"For some reason I dont have any code under 
+[Launcher]
+bEnableFileSelection=1
+
+anyone know why? 
+data files is still greyed out"
+,Noctillion,2012-09-14T07:13Z,Skyrim just closes when I try to run the game with this active any idea of what I should do?
+,Gros_Shadok,2012-09-16T13:47Z,"Works fine for me after the change indicated in steps 3 and 4.
+Thanks a lot !"
+,Kjettar,2012-09-16T23:17Z,"Hey the ""Data files"" button isn't greyed out anymore, but dawnguard.esm doesnt show up"
+,pinkincide,2012-09-17T21:41Z,I also cannot get Dawnguard to show up in the launcher once DataFiles is active.

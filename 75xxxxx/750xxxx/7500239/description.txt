@@ -1,0 +1,18 @@
+Title: Nightmare Creatures
+Genre: action / horror / 3rd-person
+Released: 30th October 1997
+Developer: Kalisto Entertainment
+Publisher: Activision
+Description:
+The year is 1834. Adam Crowley, the leader of the Brotherhood of Hecate, has found and deciphered a book written by Samuel Pepys, which has granted him the power to create a race of demonic creatures for use in taking over the world. It is now up to the player to stop the evil Crowley and silence the Brotherhood's ambitions forever by assuming the role of either Father Ignatius Blackward or Nadia Ignatius. Each character has his or her own unique attack methods and combinations, all of which will be useful throughout the 16 levels of third-person perspective gameplay. While most of the time is spent in London, the player will travel through city streets, dark sewers, waterways and docks. Along the way, Crowley's minions must be dealt with. They come in the form of ravenous zombies, werewolves, flying reptilian demons, dockers, insects, and faceless men who are rumored to be former members of the Brotherhood.
+
+How to play:
+1) Burn NC_PC.cue to a disc or mount it on a virtual drive;
+2) Start SETUP.EXE and install the game (it will open automatically if you have autorun enabled);
+3) Navigate to where you installed the game, run NCSETUP.EXE and turn on 3D Hardware acceleration, ZBuffer and Animations;
+4) Copy NC_V12.EXE to where you installed the game (this is the updated game executable);
+5) Create a shortcut of NC_V12.EXE, open shortcut properties window and add -D3D at the end of the Target field (eg. if you installed the game at the default location, the modified Target field will look like this: "C:Program FilesActivisionNightmare CreaturesNC_V12.EXE" -D3D);
+6) Start the game using the created shortcut and play it with the disc inserted.
+
+! Notice
+Tested and working fine on Windows 7 x64.

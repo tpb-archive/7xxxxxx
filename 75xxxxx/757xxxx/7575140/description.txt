@@ -1,0 +1,11 @@
+Inspired by someone's previous attempts, I made my own try at undubbing this game.
+
+What works - 
+1. Correct speech length. I wasted around 1-2 days figuring out where the sound length is stored (it's RuneFactoryWii.brsar) and writing a script to copy sound length from jap version
+2. Some sounds from US version do not have counterparts in JP version. I left them as is, maybe there will be some english voices in some rare/extra scenes.
+3. Checked Lava Ruins - works ok.
+4. Couldn't check the whole game, I am just starting to play it. In case you find any errors, you're welcome to fix them and reupload the fixed version. All I ask is credit for sound length fix (can't believe no one tried to fix that so far :()
+5. I included 'source' JP files for people who have a original US iso and can do the replace themselves (replace the files using wit or whatever program you're used to).
+6. Savefiles seems to be compatible with US version. I continued my own game and didn't encounter any errors so far.
+
+Please do not post any messages to me here, I probably won't read them. Mail me at andy_scull@hotmail.com, if you have found any errors and I will try (but no promises!) to fix them. Please attach savefiles if you're using Dolphin emulator and a small directions how to reproduce the error (who to talk to etc...)

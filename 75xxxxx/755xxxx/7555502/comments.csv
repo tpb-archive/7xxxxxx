@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,Night_89,2012-08-22T04:07Z,thanks
+,Night_89,2012-08-22T04:09Z,"please Upload
+The Avengers 1080p DTS
+with highest setting
+TESA 128
+its gonna take a while and much of your efforts
+but plz try"
+[T],HighCode,2012-08-22T08:19Z,"You're welcome.
+The Avengers in progress, tomorrow will be upped.
+About the encoding settings;
+I've done 200-300 samples (umh vs tesa) and found out that tesa doesn't have better results at all (even though I zoomed the snap shots 2x). Maybe with some animations compressed in ridiculously small size but not with movies @ 5500-6000 KB/s.
+
+me_range=128 I've seen in GAIA's (french team) encodes, well I've done a few as well but then again I realized that higher then 64 won't gain any quality. Also rc_lookahead=100-120 is perfect, higher values won't increase the quality (I've done a few with 180 & 200)."

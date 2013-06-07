@@ -1,0 +1,58 @@
+This is a multi-threaded multi-pool GPU, FPGA and CPU miner with ATI GPU
+monitoring, (over)clocking and fanspeed support for bitcoin and derivative
+coins. Do not use on multiple block chains at the same time!
+
+This code is provided entirely free of charge by the programmer in his spare
+time so donations would be greatly appreciated. Please consider donating to the
+address below.
+
+Con Kolivas <kernel@kolivas.org>
+15qSxP1SQcUX3o4nhkfdbgyoWEFMomJ4rZ
+
+DOWNLOADS:
+ 
+http://ck.kolivas.org/apps/cgminer
+
+GIT TREE:
+ 
+https://github.com/ckolivas/cgminer
+
+Support thread:
+ 
+http://bitcointalk.org/index.php?topic=28402.0
+
+IRC Channel:
+
+irc://irc.freenode.net/cgminer
+
+License: GPLv3.  See COPYING for details.
+
+READ EXECUTIVE SUMMARY BELOW FOR FIRST TIME USERS!
+
+Dependencies:
+	curl dev library 	http://curl.haxx.se/libcurl/
+	(libcurl4-openssl-dev)
+
+	curses dev library
+	(libncurses5-dev or libpdcurses on WIN32)
+
+	pkg-config 	http://www.freedesktop.org/wiki/Software/pkg-config
+	libtool	 	http://www.gnu.org/software/libtool/
+
+	jansson	 	http://www.digip.org/jansson/
+	(jansson is included in-tree and not necessary)
+
+	yasm 1.0.1+ http://yasm.tortall.net/
+	(yasm is optional, gives assembly routines for CPU mining)
+
+	AMD APP SDK 	http://developer.amd.com/sdks/AMDAPPSDK
+	(This sdk is mandatory for GPU mining)
+
+	AMD ADL SDK 	http://developer.amd.com/sdks/ADLSDK
+	(This sdk is mandatory for ATI GPU monitoring & clocking)
+
+	libudev headers
+	(This is only required for FPGA auto-detection and is linux only)
+
+	libusb headers
+	(This is only required for ZTEX support)

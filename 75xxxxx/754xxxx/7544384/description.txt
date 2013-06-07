@@ -1,0 +1,47 @@
+IBM Rational Software Architect Standard Edition 7.5
+
+IBM Rational Software Architect, (RSA) made by IBM's Rational Software division, is a modeling and development environment that uses the Unified Modeling Language (UML) for designing architecture for C++ and Java 2 Enterprise Edition (J2EE) applications and web services. Rational Software Architect is built on the Eclipse open-source software framework and includes capabilities focused on architectural code analysis, C++, and model-driven development (MDD) with the UML for creating resilient applications and web services.
+
+Rational Software Architect version 7.5 includes the following capabilities:
+Built on Eclipse version 3.4
+Supports UML version 2.1
+Supports model-to-code and code-to-model transformations.
+Forward transformations go from:
+UML to Java
+UML to C#
+UML to C++
+UML to EJB
+UML to WSDL
+UML to XSD
+UML to CORBA Interface Description Language (IDL)
+UML to structured query language (SQL)-based logical data models as supported by IBM Rational Data Architect software.
+Reverse transformations go from
+Java to UML
+C++ to UML.
+.NET to UML
+Includes all of the capabilities of IBM Rational Application Developer
+Enables model management for parallel development and architectural re-factoring, e.g., split, combine, compare and merge models and model fragments.
+Provides visual construction tools to expedite software design and development
+It also has integrations with other Rational tools, such as ClearCase version control and ClearQuest configuration management.
+All Rational software products, including Rational Software Architect (RSA), are engineered as plugins that sit on top of the open-source Eclipse development platform. Installing Rational Software Architect gives the developer the option to either install RSA on top of an existing Eclipse v3.2 installation, or to install a new Eclipse v3.2 instance.
+Because RSA is Eclipse-based, it can take advantage of a vibrant market of third-party plugins for Eclipse, as well as plugins specifically for Rational tools.
+
+
+
+Instalation:
+
+1. Run launchpad.exe in RSASE_SETUP folder,install Instalation Manager,
+
+2.during process you will be asked to select repositorium and select
+"repository.xml" file in RSASE_SETUP folder,
+
+3. continue...
+
+4. Permanent licence integrated.
+
+Works Great!!!
+
+
+Write your problems in comment if you have.
+
+Enjoy...

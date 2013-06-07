@@ -1,0 +1,26 @@
+NUT2 Edition: Dual Display works now
+
+Listen, I am not a programmer, I don't have a knack for programming, but I can script a bit.  I run Avira on much of my PC's because it's free and lightweight IMO.
+
+I don't want to buy it, and I hate the popups!!!!!!
+
+So I wrote a program that 1) sets a policy to forbid programs from running
+avnotify.exe (creates the huge fucking popup ads), and ipmgui.exe creates the junk-ass tray notification crap.
+
+
+READ THE NFO
+
+It'll allow you to set the policy
+
+Then run the script I wrote in plain ol autohotkey that kills the policy window.
+
+Works on Win7 X64, prob Win7 X32 and Vistas, like 0.005CPU and 1.5MB RAM
+
+
+
+
+Scan it, check your network traffic blah blah, I dont have a skull and few uploads so some maybe skeptical that this EXE does rogue bullshit, it don't, and I don't blame you, TPB has been known to unknowingly traffic viruses and shit.  That's not the case here.  NUT2 will kill the window now no matter where it appears on a screen or dual-display and shit.
+
+If you have questions, post a comment here and I'll try to help.
+If you like it, cool, I like it.  If you want to just slam by meager attempt then fuck you write your own.
+		

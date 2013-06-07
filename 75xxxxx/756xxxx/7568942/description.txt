@@ -1,0 +1,18 @@
+full title: Call of Duty - Modern Warfare - Reflex Edition
+
+
+1) update partition have been removed.
+
+2) compressed in .WIA (Wii Iso Archive) format
+
+.wia files are 35% smaller than .WBFS in average as the game data itself is compressed too, not only the unused bytes.
+
+.wia files are 65% smaller(!) than .ISO in average (calculated by 127 games)
+info about .WIA: http://wit.wiimm.de/info/wia.html
+
+
+use 'WIT' to uncompress to .wbfs or .iso e.g: "wit copy example.wia example.wbfs"
+info about WIT: http://wit.wiimm.de/wit/
+
+
+(present wia compression setting was: LZMA2.7@100)

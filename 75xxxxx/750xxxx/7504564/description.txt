@@ -1,0 +1,73 @@
+  
+     Growlanser 4: Wayfarer of Time USA UNDUB (c) ATLUS
+                 hacked by somebody special
+  
+                    --  Information  --
+  
+  Origin:   USA+Japan                UMD(S):   1
+  Released: August 4th, 20112        Format:   ISO
+  Platform: PSP                      Files:    22 * 50MB 
+  
+                    --  Description  --
+  
+  Here's a real treat for those of you who love Growlanser.  
+  This "UNDUB" has the USA english text with the complete set
+  of Japanese voices restored.
+  
+  Enjoy this excellent game the way it was meant to be played!
+  
+                    -- Release Notes --
+  
+  ("UNDUB? What dub?", you ask?
+   I created this word, I'm allowed to use it how I want. ;)
+  
+  Growlanser 4 has been a favorite of mine for many years; it
+  was always sad that western fans didn't know what they were
+  missing.  But now this great game finally has a chance to
+  shine in English ...
+  
+  ... and they castrated it by completely removing all of the
+      excellent voice work, leaving it a lame mute husk.
+  
+      Seriously, fuck you ATLUS.
+  
+  Fixing their hatchet job was fairly involved.  I ended up
+  writing special code analysis tools to help identify what
+  they took out so I could patch voice support back in.
+  
+  That was painful enough, but the English scripts also have
+  voice commands stripped.  Parsing the ugly script format to
+  import all the references was not much fun.
+  
+  It was tricky matching up the English and Japanese dialog
+  structure automatically, but I think it's done pretty well.
+  I only tweaked about a hundred of them manually.
+  
+  Note that the original Japanese game is very inconsistent
+  about where it has voices.  Any unvoiced lines are probably
+  not my fault.
+  
+  Overall, this was a complicated series of risky changes so
+  be glad that I am both awesome and love this game.
+  (... and hopefully I didn't break anything)
+  
+  As a bonus, I also patched back in the logic to alternate
+  between two opening
+  
+  There are a handful of short cutscenes with dialog and no
+  subtitles.  Live with it; the video quality is bad enough
+  without nasty re-encoding. 
+  
+  tl;dr, Event, battle, movie and familiar chatter voices are
+         completely restored!  Enjoy.
+  
+  Tested on a PSP Slim TA-85v2 with CFW 5.50 GEN-D3.  ISO is
+  patched with Prometheus SRW_Z.  Use the included patch to
+  revert to vanilla if desired.
+
+  Hackers/coders want to contact me?  Look for a fluffy kitty.
+    
+                   *** USA PUBLISHERS ***
+  
+  Do it right or die in a fire, assholes.  We're sick of you
+  ruining great games.

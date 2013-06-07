@@ -1,0 +1,13 @@
+Windows 8 Professional English X64 RTM
+
+Serial: XKY4K-2NRWR-8F6P2-448RF-CRYQH 
+
+Activation: 
+
+For Win 8 Professional:
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms 91.149.135.121
+slmgr /ato
+
+
+o/		

@@ -1,0 +1,7 @@
+AMD Media Codec Package includes audio and video codecs typically used by applications that perform encoding or decoding. AMD Media Codec Package also includes Avivo Video Converter, a freeware utility developed and distributed by AMD, which can enable a particular operating mode of the line graphics cards ATI Radeon HD 2000 and more recently, in conjunction with the suite Catalyst, in the process of encoding or media conversion of video formats. 
+
+AMD Video Converter supports transcoding between H.264, VC-1, WMV9, WMV9 PMC, MPEG-2, MPEG-4, DivX video formats, as well as formats used in iPod and PSP. AMD Video Converter will only work with ATI Radeon HD 2000 and above. By making use of hardware features implemented in the latest generation of GPU computing power that they make available, AMD Video Converter allows you to dramatically reduce encoding time compared to other equivalent solutions. AMD Video Converter is compatible with H.264, the new video compression format that provides better quality video output. This is a decoder for ATI/AMD grapfic cards, it does not work with NVIDIA or Intel.
+
+AMD Media Codec Package includes:
+- AMD Video Converter
+- Media codecs for transcoding applications

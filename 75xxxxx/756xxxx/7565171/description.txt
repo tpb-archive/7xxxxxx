@@ -1,0 +1,39 @@
+Duplicate File Detective uses state-of-the-art file content analysis technology to show you exactly where the duplicate files are. You can scan multiple file systems - folders, drivers, removable storage devices, even network shares - all in a single pass. Then use the powerful Duplicate Result Manager to move, zip, or delete duplicate files safely, all with assistance from our innovative SmartMark duplicate file selection system.
+
+Duplicate file management is about more than just freeing up disk space - it's about reducing the expense of time-consuming backup operations, bringing clarity to document storage areas, speeding up file searches and indexing processes, and reducing clutter.
+
+Our fast, network-enabled duplicate file management software saves you time and money, often paying for itself the very first time you use it. Don't spend hours hunting down space-wasting duplicate documents, images, and multimedia files - use Duplicate File Detective, and re-gain control now.
+
+Main features:
+ΓÇó Intuitive and attractive user interface
+ΓÇó Comprehensive search filtering system
+ΓÇó Powerful multi-threaded duplicate file identification engine
+ΓÇó Multiple paths can be searched in a single pass
+ΓÇó Network enabled - scans both local and network file systems
+ΓÇó Reports can be exported in HTML, CSV, and XML formats
+ΓÇó XML report exports can be re-imported at a later time
+ΓÇó Project-based - load and save entire projects with ease
+ΓÇó Integrated command line support for batching, scheduling
+ΓÇó SmartMarkΓäó technology helps you to identify duplicates for processing
+ΓÇó Duplicate file management - safer moving, zipping, & deleting
+ΓÇó Integrated image preview panel for quick visual comparisons
+ΓÇó Printing and print preview
+ΓÇó Integrated duplicate file scan summary report
+ΓÇó A file checksum calculator tool
+ΓÇó Integrated file types panel shows duplicates by file type
+ΓÇó Post-scan results filtering capability
+ΓÇó Highly customizable features and user interface
+
+
+Version 4.3.53 (Released August 24th, 2012)
+Feature: Added formal support for Windows 8 and Windows Server 2012.
+Feature: Added helpful information to duplicate search summary dialog instructing users on how to take next steps.
+Feature: Added the ability to right-click one or more duplicate search result entries and remove all files of the same type (e.g. same file extension).
+Feature: Added the ability to right-click one or more duplicate search result entries and remove all files in the same folder and/or subfolders.
+Feature: Minor changes to ribbon bar layout and command text to streamline user interaction and improve clarity.
+Feature: Added upgrade policy clarification text to the update notice pop-up window and update check dialog. Also enhanced the text on this subject in the product help file.
+Feature: Minor tweaks to main window startup size for new product installations.
+Change: Duplicate File Detective no longer automatically selects entries within the duplicate file search results report by default.
+Bug fix: Hash cache UI settings prevented entry of new maximum size limit.
+Bug fix: Fixed problem with Files counter in main window status bar not showing a value (a v4.3 regression).
+Home Page - http://www.duplicate-file-detective.com/

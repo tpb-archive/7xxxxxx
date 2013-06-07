@@ -1,0 +1,71 @@
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 4.25 GiB
+Duration                                 : 1h 18mn
+Overall bit rate                         : 7 756 Kbp
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 18mn
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 112
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analys
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 18mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:28.000                             : :01-Library Pictures
+00:02:43.000                             : :02-Brianstorm
+00:05:41.000                             : :03-This House Is A Circus
+00:09:08.000                             : :04-Still Take You Home
+00:12:59.000                             : :05-Don't Sit Down 'Cause I've Moved Your Chair
+00:16:55.000                             : :06-Pretty Visitors
+00:21:00.000                             : :07-She's Thunderstorms
+00:26:06.000                             : :08-Teddy Picker
+00:28:46.000                             : :09-Crying Lightning
+00:32:41.000                             : :10-Brick by Brick
+00:36:22.000                             : :11-The Hellcat Spangled Shalalala
+00:39:40.000                             : :12-The View From The Afternoon
+00:43:23.000                             : :13-I Bet You Look Good On The Dancefloor
+00:46:43.000                             : :14-Suck It and See
+00:50:38.000                             : :15-If You Were There, Beware
+00:56:04.000                             : :16-Do Me A Favour
+00:59:56.000                             : :17-When The Sun Goes Down
+01:04:33.000                             : :18-Mardy Bum
+01:09:12.000                             : :19-Fluorescent Adolescent
+01:13:40.000                             : :20-505

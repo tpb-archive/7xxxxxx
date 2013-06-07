@@ -1,0 +1,11 @@
+This if you need or want the standard MP3 audio in your AVI.
+
+Having a dilemma here - purity vs practicality.
+It would seem that while AVI can handle AAC quite well,
+it doesn't report it quite correctly. Notably (at least some
+versions of) VLC doesn't detect the audio track well at all.
+Media Player Classic has no problem whatsoever.
+The practical says - convert the audio to MP3, since AVI
+doesn't do AAC well. But then I'd have to create a moniker
+and take credit for actually doing something here.
+But MP3 is somewhat standard for AVI, so why not?

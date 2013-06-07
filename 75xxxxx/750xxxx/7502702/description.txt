@@ -1,0 +1,30 @@
+DESCRIPTION
+Little Snitch... A firewall protects your computer against unwanted guests from the Internet. But who protects your private data from being sent out? Little Snitch does!
+As soon as you're connected to the Internet, applications can potentially send whatever information they want to wherever they want.
+
+Sometimes they do this for good reason, on your explicit request. But often they don't. Little Snitch allows you to intercept these unwanted connection attempts, and lets you decide how to proceed.
+
+Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can then choose to allow or deny this connection, or define a rule how to handle similar, future connection attempts. This reliably prevents private data from being sent out without your knowledge. Little Snitch runs inconspicuously in the background and it can also detect network related activity of viruses, trojans and other malware.
+
+What's New
+Version 3.0 preview 2 (3857):
+
+New Features and Improvements
+
+* Optimized for MacBook Pro with Retina display.
+* Avoids switching to discrete graphics card if possible.
+* The new "Focus on Rules Affecting Selection" command (ΓîÿR) in Little Snitch Configuration shows all rules that affect a particular process, sorted by precedence.
+* Little Snitch Network Monitor can now be brought to front by hovering over the status item in the menu bar. This option can be configured in Preferences > Network Monitor.
+* Rules can now be created from connections displayed in Little Snitch Network Monitor.
+* Improves grouping of Silent Mode suggestions in Little Snitch Configuration.
+* Backups of rule archives can be restored via Little Snitch Configuration.
+* The Uninstaller asks whether to delete user specific rules and settings.
+* All components are code-signed.
+
+Bug Fixes
+
+* Fixes an issue when sorting rules by precedence in Little Snitch Configuration.
+* Fixes a bug affecting non-FileVault Guest Accounts.
+* Fixes a bug related to manual entry of via-rules in Little Snitch Configuration.
+* Fixes a display bug which occurred with permanently visible scrollers in Little Snitch Network Monitor's inspector window.
+* Various other bug fixes and improvements.

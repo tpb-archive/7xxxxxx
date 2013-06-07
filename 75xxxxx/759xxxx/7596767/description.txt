@@ -1,0 +1,40 @@
+Format : Flash Video
+File size : 169 MiB
+Duration : 47mn 1s
+Overall bit rate : 502 Kbps
+Tagging application : Yet Another Metadata Injector for FLV - Version 1.4
+
+Video
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 4 frames
+Codec ID : 7
+Duration : 47mn 1s
+Bit rate : 400 Kbps
+Width : 720 pixels
+Height : 406 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.057
+Stream size : 134 MiB (80%)
+
+Audio
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 10
+Duration : 47mn 1s
+Bit rate : 94.4 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : 60ms
+Stream size : 33.8 MiB (20%)

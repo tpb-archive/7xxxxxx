@@ -1,0 +1,9 @@
+This is a fix for a broadcast screwup (this means every encode will exhibit increased volume in the left channel and the right channel is completely missing for the first half of the show).
+
+The fix is to copy the left channel to the right and reduce the volume about 20%. What you'll notice (especially for headphones) is the transition from mono to stereo at the half way point. Specifically:
+
+@20:03 - you hear "cut to black", it cuts to black and viola ... stereo returns.
+
+If you are patient, I'm sure there will be a WEB-DL soon.
+
+Until then ... this will have to do.

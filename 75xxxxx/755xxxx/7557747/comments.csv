@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,iJ0NA5,2012-08-22T19:22Z,"quick question...does anyone know why TPB says the size is 9.84gb but when i start the download Transmission says its 10.56gb. Not a problem, i'm just wondering"
+,tyl3rdurd3n,2012-08-22T20:28Z,"@iJ0NA5: Your computer's/bittorrent client's measuring in the decimal units. It's taking the file size in bytes (in this instance 10564947778) and dividing by 1000000000 (10564947778รท1000000000=10.56 gb). On a Windows PC, you divide by 1073741824 (10564947778รท1073741824=9.84  gb). TPB and Windows use the same units, different from what you're using hence the difference.  You're not downloading anything extra."
+,.neutek.,2012-08-26T18:55Z,thanks

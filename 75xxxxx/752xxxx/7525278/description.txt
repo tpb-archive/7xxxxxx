@@ -1,0 +1,24 @@
+
+Sharpshooter lets you rename your screenshots with pinpoint accuracy. Sharpshooter is a small utility which aids the management of screenshots.
+
+Sharpshooter lets you manipulate and process the screenshot while it is still fresh on your mind.
+
+When you take a screenshot on Mac OS X with Command-Shift-3 (or with another variation) Sharpshooter will present a window where you can review the picture and choose what to do with it. You can either rename it from its default name to something more descriptive, move the screenshot to the Trash, or cancel the operation keeping the screenshot as it is.
+
+What's New
+Version 2.0.4:
+
+Code signed with Developer ID for Gatekeeper compatibility.
+Contains updates for Retina display Macs.
+Status menu icon is now colored when screenshot monitoring is enabled.
+Fixed an issue with new screenshot windows being placed in front of existing windows and interrupting your workflow.
+Added a few more date and time auto-renaming tokens.
+Now asks to move Sharpshooter.app to the Applications folder. While not required, it's highly suggested that you keep the app in that folder. If you move Sharpshooter while it or its hidden background agent is running, the app won't function properly.
+Fixed a possible mismatch between the file extension shown in the Name field and the Format popup.
+Fixed issue where the app terminated before it finished moving some files to the Trash.
+Fixed a problem with moving a screenshot to a folder if the folder no longer exists.
+Fixed a Lion compatibility issue with the preferences window.
+Made the login item code more robust.
+
+Requirements
+Intel, Mac OS X 10.6.6 or later 

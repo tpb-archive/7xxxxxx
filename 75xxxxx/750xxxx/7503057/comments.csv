@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,sebolito,2012-08-04T16:44Z,wtf
+,Pureox,2012-08-04T17:15Z,So will mods work on it ahhah ? if so can you post a turtorial because I cbf googlin :P
+,MudSwipe,2012-08-05T01:23Z,"@pureox
+
+This is a cider port, so there's no easy 'install button' like there is on WINE. However, if you simply take the Program Files folder, through rightclick/show package contents (Morrowind/Contents/Resources/transgaming/c_drive) and put in on your desktop, you should easily be able to install mods using a simple WINE installer. 
+
+MGSO has an easy setup .exe that can be ported into WINE - just select the 'program files' folder on your desktop or wherever you put it."
+,Nazeeeem,2012-08-06T19:09Z,"@MudSwipe
+
+I tried to move the Program Files to my desktop like you said, then I used winebottler to try and install the MGSO .exe into the program files folder but when it finishes extracting it tells me that there is a lack of runtimes or something like that. Then it sends me to this website:
+
+https://www.microsoft.com/en-us/download/details.aspx?displaying=en&id=5582
+
+ and tells me to install something and restart the install. Now I'm real confused and don't know what to do."
+,MudSwipe,2012-08-07T09:16Z,"@Nazeeeem:
+Um.
+
+I have no idea.
+Mine worked fine.
+
+However, I think I have a solution for you. Using Wineskin (not winebottler), drag your Morrowind program files folder into the Wineskin wrapper (contents/resources/c_drive/, I think) and then double-click on the wrapper. Choose 'install software', 'move folder inside' (or similar) and when you've done that, click 'install windows software'. This is used to modify files already inside the wrapper as opposed to the very similar process at the beginning of the wine wrapper. Thus, using that, just install MGSO, and then put the Morrowind folder back in its home."
+,Nazeeeem,2012-08-08T18:49Z,"@MudSwipe
+
+I tried everything you said, but after it finishes extracting it sends me to the same website and tells me to download the same thing (something about runtimes) and then tells me to restart the install."
+,MudSwipe,2012-08-09T14:10Z,"@Nazeeem
+Maybe update your wrapper/.NET/Gecko packages?"
+,mosesFTW,2012-08-11T00:35Z,can you get star wars速: the force unleashed?
+,chemtrailsprayplanescorp,2012-08-11T13:41Z,"download worked fine everything runs well, except i cannot save keeps saying unable to do process. any ideas would be much appreciated"
+,MudSwipe,2012-08-16T14:01Z,"@mosesFTW
+
+
+no"
+,Th3_5tig,2012-08-25T21:46Z,"Every time I try and launch it I get the error message: 
+
+Render creation error: ""Creation failed: Could not match desired full screen mode""  
+
+Any thoughts?  I'm running OSX 10.8.  I tried changing the resolution, that didn't help."
+,xwalton,2012-09-01T04:28Z,"Everything runs perfectly except for the fact that I can't save the game. The option to save is there, and I can see the creators ""test"" saves but I can't even overwrite those either. Help!"

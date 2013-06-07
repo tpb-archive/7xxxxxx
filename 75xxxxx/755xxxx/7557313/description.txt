@@ -1,0 +1,45 @@
+The KMPlayer is a korean movie and audio player that supports a wide range of codecs and file formats. It has full VCD/DVD playback functionality.
+
+Supported Files or Devices:
+- HTTP Streaming(AVI etc including none-streaming media)
+- Directshow playback (avi, mkv etc)
+- Real Engine + Directshow (needs Real Player or Alternative)
+- QuickTime Engine + Directshow (needs QuickTime player or Alternative)
+- Mplayer Engine Support
+- Winamp Input Plugin(decoder) Support
+- Compressed Audio Album Support(zip, rar)
+- Audio CD(2000, XP only / Win9x-Support by winamp plugin)
+- Video CD/SVCD/XCD : CDXA Format (2000, XP only)
+- DVD playback
+- DTS Wave and AC3 files
+- WDM device support like TV or Camera
+- CD Image File (BIN/ISO/IMG/NRG) ; NRG needs mplayer.dll
+- Shoutcast (Including NSV)
+- AAC, OGG parser/decoder
+- Shockwave Flash/FLC/FLI
+- Ape/MPC/Flac/Module etc
+- Various Image files like png, gif etc
+- Incomplete/Damaged AVI file (Skip Damaged Frames)
+- Locked Media Files while downloading or sharing
+
+Built-in Codec/Filters:
+
+Video Codec:
+- MPEG4 (Divx/Xvid : ffmpeg/xvid)
+- MPEG1/2 (ffmpeg/libmpeg)
+- etc (ffmpeg)
+- AC3/DTS/LPCM/MPG/MP3/OGG/AAC/WMA
+- 2Ch to Multi Channel expansion
+
+External Codec:
+- Media Priority to Connect among Directshow, Real, QT, Winamp and Mplayer
+- Custom Filter Manager
+- System Filter Manger
+
+Plugins:
+- Winamp Input Plugins
+- Winamp DSP Plugins (Can Stack)
+- Winamp Visual Plugins (Can Stack)
+- Winamp General Plugins (Media Library etc Support)
+- KMP Video Plugins by SDK (Can Stack)
+- DScaler Filter Support (Can Stack)

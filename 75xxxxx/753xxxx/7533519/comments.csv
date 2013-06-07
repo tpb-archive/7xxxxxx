@@ -1,0 +1,113 @@
+﻿User Type,Username,Date,Text
+,TunaHead,2012-08-15T13:40Z,"Keywest, what about this one, is this a trusted torrent?"
+,Alpha.Omega,2012-08-15T14:01Z,"yes, i've tried versions 1.1 to 1.40, it's clean but the problem is its not working.. i dont know yet this 1.5version/ anyone else who tried this to be working?"
+,keywest33,2012-08-15T14:03Z,@TunaHead  yes this is ok always check the uploaders history before taking chances
+[T],bobiras2009,2012-08-15T14:12Z,"@Alpha.Omega
+
+The files that i uploaded are always clean.This version works fine.In the 1.4 edition with an edit to tcp ips it work fine too."
+,keywest33,2012-08-15T14:15Z,Always best to err on the side of caution
+,keywest33,2012-08-15T14:17Z,Awaiting an upload from you @TunaHead  L.O.L
+,TunaHead,2012-08-15T14:22Z,"Keywest, thanks."
+,TunaHead,2012-08-15T14:25Z,"Keywest, thanks big guy."
+,keywest33,2012-08-15T14:29Z,/
+,keywest33,2012-08-15T14:50Z,@TunaHead  note that that wins 8 stuff has been deleted
+,ZmisiS,2012-08-15T14:54Z,Don't work for me.
+,keywest33,2012-08-15T15:10Z,It was obvious that stuff was fake
+[T],bobiras2009,2012-08-15T15:16Z,"It work fine.Just update servers and do activate windowsIf not work do this:
+
+1. Set TCP/IPv4 server addresses:
+Preffered DNS server: 8 . 8 . 8 . 8
+Alternate DNS server: 8 . 8 . 4 . 4
+
+2. Restart the system. (restarting PC is important)
+
+3. Run cmd as administrator.
+
+4 Enter following commands:
+slmgr.vbs -ipk ng4hw-vh26c-733kw-k6f98-j8ck4
+slmgr -skms benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net
+slmgr -ato "
+,soky999,2012-08-15T15:21Z,"if program dont work,delete r1.7pm and r2.7pm"
+,soky999,2012-08-15T15:57Z,"i was activate first PC yesterday with this:
+
+"" 1. Set TCP/IPv4 server addresses:
+ Preffered DNS server: 8 . 8 . 8 . 8
+ Alternate DNS server: 8 . 8 . 4 . 4
+
+ 2. Restart the system. (restarting PC is important)
+
+ 3. Run cmd as administrator.
+
+ 4 Enter following commands:
+ slmgr.vbs -ipk 32JNW-9KQ84-P47T8-D8GGY-CWCK7
+ slmgr -skms benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net
+ slmgr -ato ""
+
+and successfully activated Enterprise edition with that key,but today on second PC, i cant:
+
+
+""Windows script host: Activating Windows (R), Enterprise edition (458e1bec-837a-45f6-b9d5-925ed5d299de) ... Error: 0xC004F074 The software Licensing Service reported that the computer could not be activated. No kez managment service (KMS) could be contacted. Please see the Application event log for additional information."""
+,simoni1978,2012-08-15T17:00Z,Windows 8 RTM leaked ISOs activations now blocked [Update] by MS http://www.neowin.net/news/windows-8-rtm-leaked-isos-activations-now-blocked
+,xpmule,2012-08-15T20:17Z,"why would you trust anyone that uploads operating system cracks to torrents ?
+Its kinda like the people that download these custom cooked iso's from here.
+VERY bad idea..
+But i guess *some people have to learn their lessons the hard way.
+
+The way i see it is of your too lazy to do your research and get your OS cracks from their source(s) then you deserve what you get..
+And 2nd i sure as hell don't trust random noob kids that find things from god knows where and re-share them and upload them to torrent sites etc
+You get the usual.
+LiekZ OMGZ i founded S0M l33T Hax Yo !1111
+
+Evene the highest quality of trusted uploaders make mistakes and upload infected files and i can prove too
+There was a WinRar cracked release and a Sisoft Sandra release witha  keygen by BRD that was infected with an extremly serious trojan. BOTH had the same trojan just different versions/builds and these two examples were re-shared across the net like wild fire EVERYWHERE !
+The trusted uploaders obviously didn't even test the files etc
+
+So I have ever reason to be concerned about downloading random crap from P2P kiddies.
+
+But hey thats just my opinion, everyone will of course do what they want lol"
+,jedr93,2012-08-15T20:23Z,Does not work .. I get error
+[T],bobiras2009,2012-08-15T21:28Z,"@xpmule
+
+I AM UPLOADER IN OTHER HIGH CLASS PRIVATE TRACKERS LIKE SCC,TL,FTN.
+
+SO THE PEOPLE HERE AT PIRATEBAY MUST LEARN THAT MY ULPOADS ARE CLEAN AND WORKING WITH MY INSTRUCTIONS.IF YOU HAVE ANY PROBLEM WITH ME THATS YOUR PROBLEM.I JUST TRY TO DO MY BEST HERE FOR THE THEPIRATEBAYS DOWNLOADERS.STOP SPAMMING MY TORRENTS ANYWAY."
+,soky999,2012-08-15T22:51Z,"@bobiras22
+
+all servers are down and ""benderrodriguez"" too...have you any other servers? what we can do?"
+[T],bobiras2009,2012-08-16T00:37Z,"@soky999
+
+Try this:
+
+1. Set TCP/IPv4 server addresses:
+Preffered DNS server: 8 . 8 . 8 . 8
+Alternate DNS server: 8 . 8 . 4 . 4
+
+2. Restart the system. (restarting PC is important)
+
+3. Run cmd as administrator.
+
+4 Enter following commands:
+slmgr.vbs -ipk ng4hw-vh26c-733kw-k6f98-j8ck4
+slmgr -skms benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net
+slmgr -ato 
+
+it must work too"
+,Alpha.Omega,2012-08-16T01:21Z,"2days ago i was able to dl a torrent ""Windows8KMSActivator,"" and activated my win8enterprise, but it was deleted here in PRB minutes later, don't know why coz that activator works gr8."
+,soky999,2012-08-16T04:26Z,"@bobiras22
+no, it doesnt, try ""benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net"" ind vmware and you see it...its offline like other servers"
+[T],bobiras2009,2012-08-16T10:58Z,"@soky999
+
+If it is offline then the ms must shoutdown the servers again.Just have patience."
+,albatros_,2012-08-16T16:01Z,This is work with http://thepiratebay.se/torrent/7500071/WINDOWS_8_ENTERPRISE-N_RTM_X64_VOLUME_ENGLISH_BOOT_DVD_[ThumperD ?
+,albatros_,2012-08-16T16:16Z,"Rearm windows should remove the watermark? Because, unfortunately, is still with me, even reboot."
+,makalisterx,2012-08-18T17:12Z,"None of them working anymore. neither ""benderrodriguez"". Any Ideas?"
+,makalisterx,2012-08-18T17:14Z,"@Alpha.Omega
+reupload this torrent to us, if still have it."
+,shadohchaser,2012-08-18T19:21Z,"be nice to bobiras u fuckers why don't u upload shit then? He has uploaded good android games they work great on galaxzy s 2.
+
+bobiras I need activator for winBLOWS 8 please...I don't want to pay Microsoft ever never have in my life"
+,makalisterx,2012-08-19T00:34Z,"@shadohchaser do you know APTOIDE? if dont, try learn about."
+[T],bobiras2009,2012-08-19T01:24Z,"@makalisterx
+
+Aptoide is useless.Simple check the versions of the apps/games and mine uploads versions."
+,winx86,2012-09-02T12:54Z,KMS servers are down

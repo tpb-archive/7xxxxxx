@@ -1,0 +1,34 @@
+EasyBoot is an integrated tool to create MultiBoot, Menu driven CDs & DVDs with native language. It has the ability to automatically produce boot image files, and generate the ISO file as well. Using your CD/DVD Recording software such as Nero or Roxio to Record the ISO, you get a bootable CD/DVD that completely belongs to you. You can customize it with your company's name or slogan or even use it for your clients.
+
+Main Features
+
+Full Graphical User Interface, it is easy to learn for everyone.
+No additional file will be added to the root directory of your CD/DVD, keeps the original native style.
+Supports up to 36 menu items.
+Supports , , , and keys to select menus, and keys to boot.
+Supports User-Defined accelerated keys (such as 0-9, a-z) to directly select menu item.
+Supports User-Defined function keys (such as Esc, F1-F12) to directly boot selected option.
+You can choose "Run Directly" or "Select" for the execution mode of the accelerated keys.
+You can choose translate all input key to small letter or capital letter.
+Supports User-Defined cursor key movement, so you can freely layout the screen menu.
+Supports Sub-menus to create extremely complex boot CDs & DVDs.
+Supports startup logo
+Supports background image
+Supports time counter
+Supports password protection to bootable CDs & DVDs
+Convenience but powerful edit functions
+* Freely defined screen layout, text, menus and function keys.
+* Supports boot screen preview, directly see the actual effect.
+* Supports select/edit object in preview window, to create/move/modify objects coordinates with mouse and keyboard.
+* Supports Undo function, easily restore to previous condition.
+Built in ISO image generation feature, with advanced feature such as "Optimize" and "Set Date/Time".
+
+Whats New:
+
++) New 'bootpart' command to access boot partition (deep hidden) running within DOS environment
+*) Elevate to administrator's right for 'Write USB disk' operation when UAC is turned on (Windows Vista/7/8)
+*) Includes boot partition(deep hidden) device driver for Windows PE environment
+*) Some minor bugs fixed
+
+OS : Win XP/2000/Vista/Win 7
+Language : Multilingual

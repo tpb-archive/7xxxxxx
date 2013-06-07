@@ -1,0 +1,5 @@
+feedbay is a php script which fetches torrent comments from the piratebay website and makes an atom feed of new comments.
+
+you can specify many torrent ids in one run, the comments of these torrents will be written into one feed. comments newer than 2 days will be used.
+
+you should take caution of torrents with a lot of comments as the script downloads all comments of a torrent. i could use paging (by using pages and page post variables) but the comments arent unique-numbered and there are removed comments (spam, etc) and i dont wanna watch huge torrents, so i didnt.

@@ -1,0 +1,38 @@
+                                  By bobiras2009
+
+
+Mobile Counter(3G, WiFi, network traffic) - application to count network data GSM/CDMA/WIFI
+Languages support: English, German, Slovak, Polish, Chinese, Romanian, French, Italian, Portuguese, Russian, Czech
+
+
+Features:
+
+    More widgets 2X1(WIFI, transfer limits, billing period)
+    More widgets 1X1(GSM, WIFI, transfer limits, billing period)
+    New styles for notification bar (limit transfer, mobile GSM/CDMA, billing period)
+    Transfer used by application (req. android>2.1)
+    Export/Import data to SD card
+    Billing period calculation
+    Option to not counting sent transfer
+    Option to set alerts when transfer limit less than ... (in MB) will expire in ... (days)
+    Option to enable vibration when transfer limit will be exceeded
+    Option to set first day in week (Saturday, Sunday, Monday)
+    Show application icon in notification only when enable GSM/CDMA/WIFI
+    Set expiration period in days, weeks, months
+    Option to count separately transfer for one WIFI SSID e.g to count hotspot traffic
+    New statistics (for billing period, WIFI SSID)
+    Option to add not used transfer from last period to next
+
+What's in this version : (Updated : Aug 21, 2012)
+
+    Change GUI for app traffic
+    Add new GUI theme for phones with android >= 3.0
+    Improve FR language
+    Fixed bugs
+
+Required Android O/S : 2.3+
+
+
+
+
+                                  By bobiras2009

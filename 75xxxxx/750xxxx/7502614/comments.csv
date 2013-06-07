@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,niecht,2012-08-05T12:52Z,"thank you it works well but
+or is to choose the option for avi I have that option?"
+,mussakhan,2012-08-07T22:19Z,"before installing i disconnected internet installed . activated it offline, opened it offline then bloacked the exe by kaspersky firewall ,today when i opened it said the key was made public and was bloacked any solution?"
+,tmcmahon51,2012-08-08T11:03Z,"Same issue as mussakhan. I disconnected net, blocked inbound and outbound connection both executables, and today when I went to start up Action!, it said the key was blacklisted."
+,FIBu,2012-08-08T14:57Z,well-tried. key efficient in the 100%
+,deiog,2012-08-09T00:20Z,"It's a damn shame the key was blacklisted.
+Anyone know a way around this? Blocking the application files was a failure with both outbound and inbound connections.
+I even tried to remove all traces using Revo Uninstaller, but the application still blacklisted the key.
+Any solutions?"
+,rhalls28,2012-08-10T00:42Z,Anyone knows how to block this program from hosts file?
+,niecht,2012-08-10T08:42Z,"Installation:
+0. unpack with winrar
+1. Disconnect internet:
+Control Panel> Network and Sharing Center> Local Area Connection
+2. Install with action_1_7_0_setup.exe
+3. Do not open action add to the Windows firewall to ban Web Action
+1. To add rules to the firewall into the Windows 7 Start then Control Panel and then ""Windows Firewall"".
+On the left is an option called ""Advanced Settings"" to enter is click opens a window
+On the left click ""Outbound Rule""
+2. Now, click ""New Rule"" and select ""Program"" is click next
+Program with the path click ""Browse"" to choose the location ""action.exe""
+C: Program Files (x86) Mirillis Action Action.exe
+Click Next and then Select Block the connection and then click Next check domain, private, public
+Click Next and then give a name to the rule ""Mirillis Action1.4.0"" then click ""Finish""
+Done the same with ""ActionPlayer.exe"" located in
+C: Program Files (x86) Mirillis Action ActionPlayer.exe
+do the same with Inbound Rule
+
+then go to C: User-User - AppData - Local - Mirillis (for Win 7)
+
+-clicks on the file DRIT Mirillis> proprieter> securiter> username> mofifier
+is on the line you modify deny you click on check mark ok> place holder
+you do the same for manip admistrateur
+
+
+4.Can activate with the serial provided in the file Txt
+
+Do not update
+In setting unchecked ""check availability of the application""
+
+and if your key on the black list SEARCH ""ico_update.png"" and delete it.
+It is usually C: User-User - AppData - Local - Mirillis (for Win 7)"
+,mussakhan,2012-08-11T05:08Z,"guys niecht solution is working:)
+
+User-User - AppData - Local - Mirillis 
+
+right click>properties>security>select ur username>EDIT>CLICK again on ur user name>Modify>deny
+
+THATS IT  !!!! 2 day ,didnt got blocked i hope it doesnt:)"

@@ -1,0 +1,44 @@
+Espionage 3.0.2 + Crack.
+
+
+Description 
+
+Espionage: state of the art data security for everyone.
+More than just encryption, Espionage 3 has been rewritten from the ground-up to combine folder encryption with layers of plausible deniability through a redesigned and simplified user interface. We've taken all the lessons that we've learned from previous versions to bring Espionage 3 to a new level. Read more...
+
+Encryption is nice, but what happens if you're forced to give up your password? Espionage 3 protects you even in this situation, by giving you the ability to have multiple master passwords, each protecting a unique set of folders.
+ 
+Encrypt Folders
+
+Protect individual folders and easily access them from the menubar.
+ 
+Folder Settings
+
+Settings like auto-lock and maintainence of the encrypted data at your fingertips.
+ 
+Plausible Deniability
+
+As many master passwords as you want, each protecting a unique set of folders.
+ 
+Disk Image Size Control
+
+Easy control over the size of disk images on the hard drive.
+Maximum Data Protection
+Espionage uses scrypt and works in harmony with FileVault for maximum data protection.
+Spotlight Integration
+Built to work great with Spotlight search.
+Works with your favorite backup and synchronization software
+Designed to work efficiently with third-party backup services like Time Machine and online-backup services like Dropbox.
+ARC and Grand Central Dispatch
+Makes use of latest OS X technologies like ARC and Grand Central Dispatch.
+AES-256 Bit Encryption + Scrypt
+Espionage uses powerful AES-256 encryption to protect your files. Even the National Security Agency (NSA) has stated that it can be used to protect TOP SECRET classified information. In addition, it also makes use of the incredibly powerful scrypt internally instead of relying on OS X's weak keychain.
+
+
+New Features
+
+Version 3.0.2 (7/07/12)
+Changes since 3.0.1
+IMPROVED: Signed with Developer ID for Mountain Lion compatibility
+FIXED: Crash in autounlock
+FIXED: Spanish translation in english language

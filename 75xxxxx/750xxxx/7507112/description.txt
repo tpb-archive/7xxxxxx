@@ -1,0 +1,29 @@
+Carly Rae Jepsen
+"Call Me Maybe"
+Music Video
+
+Container: MKV
+
+Video:
+1080p h.264 (23.976 fps)
+Source:
+1080p YouTube FLV (Direct mux)
+
+Audio Stream 1: "Album FLAC" (Default)
+FLAC (989kbps)
+Source:
+Curiosity CD Album (Direct mux)
+Note: Synchronized via (imprecise) timecode offset
+
+Audio Stream 2: "Instrumental MP3"
+MP3 320kbps CBR
+Source:
+European MP3 store (Direct mux)
+Note: Synchronized via (imprecise) timecode offset
+
+Audio Stream 3: "Original AAC"
+AAC VBR
+Source:
+1080p YouTube FLV (Direct mux)
+
+Overall average bitrate: 5721 kbps

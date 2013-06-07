@@ -1,0 +1,50 @@
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 114 MiB
+Duration : 16mn 59s
+Overall bit rate mode : Variable
+Overall bit rate : 940 Kbps
+Writing application : Lavf53.4.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.2
+Format settings, CABAC : Yes
+Format settings, ReFrames : 16 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 16mn 59s
+Bit rate mode : Variable
+Bit rate : 868 Kbps
+Width : 720 pixels
+Height : 408 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.118
+Stream size : 106 MiB (93%)
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 16mn 59s
+Bit rate mode : Variable
+Bit rate : 61.6 Kbps
+Maximum bit rate : 64.0 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Delay relative to video : -2ms
+Stream size : 7.50 MiB (7%)
+Language : Russian

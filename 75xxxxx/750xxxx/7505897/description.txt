@@ -1,0 +1,30 @@
+Version: 11,008
+
+Platform: PPC / Intel universal, Windows 32 | 64
+
+System requirements:
+
+ * Mac OS X 10.3.9 or later
+ * 1GHz PowerPC G5 processor (2GHz recommended)
+ * 512MB of RAM (1GB recommended)
+ * Or similar PC configuration
+
+Description: Cinema 4D package is a welcome update. Many innovations are the main ones
+  * Non-linear animation
+  * Completely new system of global lighting (Global Illumination)
+  * BodyPaint 3D R4
+  * Improved rendering speed
+  * Support for Mac OS X (64-bit) - which allows you to finally use all the available address space
+  * Projection Man
+  * CineMan
+  * Support for COLLADA format
+  * The mechanism for receiving updates via the Internet
+
+important: By default C4D set on 32 bits mode. Select the .app, hit cmd + i to bring the info panel and set the mode to 64 bits
+
+important:lengvidzh packs do not need to decompress. They are placed directly from the blue zipami
+
+important:for the lucky owners PC ╨╕ Windows - rename dmg  iso open with PowerISO and run, respectively, vindovyh installers
+
+important:Under the Mas-64bit mode does not work most of the plug-ins such as XFrog, VRay and the hedgehog with them. Only work in 32 bit mode.
+

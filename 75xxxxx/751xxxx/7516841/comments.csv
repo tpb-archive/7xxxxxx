@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,Arcossi,2012-08-09T19:28Z,Anyone gets a virus reported in the attached rar-file? Kaspersky found a Trojan Dropper Win.32 Dapato Bona. Any Help??
+,SuperAndrew78,2012-08-09T19:36Z,"Arcossi, Kaspersky being notoriously overprotective. You can't get a virus from a picture - just ignore it. Scan the archive with Anubisscan if you don't trust me, it will show you everything it does."
+,RL269,2012-08-09T22:18Z,"If there is a 'folder' nearby it could be a shortcut that can be set to run the jpeg. You can't get a virus from a picture that's being used as a picture, you can get a virus from a virus file that has been given a false file type and the run."
+,RL269,2012-08-10T01:10Z,"There is a virus hidden as a picture. If you see something that looks like a folder but has an arrow on it right-click and check the properties, if you see the words 'cmd exe' followed by a file name, delete both the folder and the picture named."
+,helvis114,2012-08-10T01:50Z,sois there a virus in this ?
+,5-click,2012-08-10T02:04Z,"Confirmed. The ""~more~.lnk"" calls the file ""250783632.jpg"", which is a 32Bit executable. 
+http://bayimg.com/GABCoAaEA
+Can't find any more informations, the file is compiled with the GnuCC and i'm not a programmer."
+,5-click,2012-08-10T02:09Z,"The same game in the other .zip
+C:WindowsSystem32cmd.exe  $ . .  . .  . .  . .  W i n d o w s  S y s t e m 3 2  c m d . e x e   / c "" 4 3 1 1 1 6 3 1 1 . j p g """
+,helvis114,2012-08-10T03:34Z,thanks 5-click

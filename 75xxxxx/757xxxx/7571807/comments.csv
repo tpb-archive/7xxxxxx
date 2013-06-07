@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,SerSpec-V,2012-08-27T06:18Z,"Working good, Thanks!"
+,ergys04,2012-08-31T06:57Z,great torrent works fine thanks a lot
+,longpole001,2012-09-01T17:40Z,codes dont seem to work now
+,longpole001,2012-09-01T17:53Z,"if you have had a prev version installed please flow this fix from another post 
+
+
+Xilisoft added a hidden registry key, which wont allow you to add any more keys after the first key gets blocked. So here is a workaround:
+
+1-Start
+2-Run
+3-Type in Regedit
+4-Select HKEY_USERS
+5-Press Ctrl + f (Search)
+6-Search for {C06F4056-C35F-4bf8-A93A-9F098F3E503D}
+7-Delete the Key, including the subkeys
+
+Credits to blackboxcard for writing the Instructions.
+Also Thanks to ChatChitto."
+,pirilo123,2012-09-04T05:03Z,thank you very much to iahq76 and longpole001 for the information about registry stuff. it really works like a charm!
+,teh_shit,2012-09-04T14:24Z,"This is version 7.5. The latest version on their own website is 7.3.0 as of this writing. http://www.xilisoft.com/video-converter.html How can we trust that this software is real, seeing as your version hasn't been released yet? "
+[T],Tyr3ll,2012-09-05T16:06Z,"No,this new version is official also.Ty again iahq76,great seed .
+best regards"
+,teh_shit,2012-09-05T21:22Z,@Tyr3ll: The site still clearly states 7.3.0
+,raj4ever_007,2012-09-07T09:04Z,"good torrent and easy to register,,,,worked fine for me,,,,,and great job iahq76"
+,smitheejg,2012-09-08T20:42Z,Troubles with old versions. This one works flawless
+,brianxxx,2012-09-13T16:25Z,"@teh_shit
+The Xilisoft tards are always behind in their release/build info. Right now their website says their Audio converter is version 6.1 but it is really 6.4 when you download the trial from their site. Same with this prog. See for yourself. Many companies are lazy like this. Xilisoft is especially bad at updating their damn website."
+,teh_shit,2012-09-13T16:52Z,Thanks Brian.

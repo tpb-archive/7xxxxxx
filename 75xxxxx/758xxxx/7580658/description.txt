@@ -1,0 +1,46 @@
+
+
+Description:
+MalwarebytesΓÇÖ Anti-Malware is considered to be the next step in the detection and removal of malware. In our product we have compiled a number of new technologies that are designed to quickly detect, destroy, and prevent malware. MalwarebytesΓÇÖ Anti-Malware can detect and remove malware that even the most well known anti-virus and anti-malware applications fail to detect. MalwarebytesΓÇÖ Anti-Malware monitors every process and stops malicious processes before they even start. The Realtime Protection Module uses our advanced heuristic scanning technology which monitors your system to keep it safe and secure. In addition, we have implemented a threats center which will allow you to keep up to date with the latest malware threats.
+
+
+Features:
+
+    Support for Windows 2000, XP, and Vista (32-bit and 64-bit).
+    Light speed quick scanning.
+    Ability to perform full scans for all drives.
+    MalwarebytesΓÇÖ Anti-Malware Protection Module. (requires registration)
+    Database updates released daily.
+    Quarantine to hold threats and restore them at your convenience.
+    Ignore list for both the scanner and Protection Module.
+    Settings to enhance your MalwarebytesΓÇÖ Anti-Malware performance.
+    A small list of extra utilities to help remove malware manually.
+    Multi-lingual support.
+    Works together with other anti-malware utilities.
+    Command line support for quick scanning.
+    Context menu integration to scan files on demand.
+
+
+
+Changelog
+
+
+New Features:
+┬╖ Future versions will be able to upgrade without requiring a reboot after installation
+┬╖ Protection module now controllable for the entire machine instead of being limited to individual user accounts
+┬╖ Filesystem Blocking and Website Blocking can be enabled or disabled separately via the Protection tab
+┬╖ Protection logs now show when malicious file execution blocking is enabled or disabled
+┬╖ Realtime protection may now be cleanly terminated via the 'Exit' option in the tray without leaving any running processes
+┬╖ Japanese language support added
+
+Improvements:
+┬╖ Malwarebytes Chameleon enhanced to be even more effective against the latest threats
+┬╖ Realtime protection now starts much faster on Windows Vista and Windows 7
+┬╖ Eliminated performance issues caused by database updates and Ignore List manipulation on Windows Vista and Windows 7
+┬╖ Pop-ups for threats detected by realtime protection can not be minimized
+
+Issues Fixed:
+┬╖ Saving logs to custom locations after scans now works correctly
+┬╖ Context menu setting is now honored correctly after performing a program upgrade
+┬╖ Users who have previously completed the trial will not be prompted to start the trial upon upgrade or reinstallation
+┬╖ Dates and times of items listed in the Quarantine are now displayed correctly

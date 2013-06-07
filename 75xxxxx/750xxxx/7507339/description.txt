@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+7Customizer is made to customize Windows 7 setup.
+
+With 7cusotmizer you can add your wallpapers, Icons, themes,you can also integrate 
+
+updates, drivers and remove components from the setup. It is claimed to replace 
+
+vLite.
+
+It is can customize both 32-bit & 64-bit version of Windows 7 with English and non 
+
+English sources.
+
+Features List:
+
+    Languages integration (Windows UI language not the setup language)
+    Updates integration
+    Basic unattended installation
+    Driver integration
+    Wallpapers Integration
+    Tweaks
+    Services
+    ISO Creation
+    Presets
+    UAC trigger
+    Clean mount folder
+
+System Requirements:
+
+    Host OS: Windows Vista or Windows 7 (32-bit or 64-bit)
+    .Net Framework 3.5 (for Windows Vista)
+    WAIK for Windows 7
+    Windows installation source
+
+Important Notes from the Developer before using the Tool:
+
+    Make sure you have enough free space (at least 5 GB) in your drive where 
+
+7Customizer is located (7Customizer will warn you if the drive does not have 
+
+sufficient space).
+    It is highly recommended to run the program in a folder that does not have 
+
+white spaces in its name. For example, C:7Customizer
+    It is highly recommended to place your installation source in a directory that 
+
+does not have white spaces in its name. For example, C:win7
+    When choosing the path for ImageX and DISM, make sure you choose the same exe 
+
+architecture (x86 or amd64) as your Windows, e.g. when using Windows 7 x64, choose 
+
+the ImageX located in amd64 inside the WAIK installation.
+    Always test the result in a virtual machine first.
+    It is highly recommended to use 7Customizer on an unmodified (clean, 
+
+untouched) Windows installation source.
+    Fill the whole information in the unattended part or the setup will fail.
+
+Known Issues:
+
+    7Customizer fails to read the images information correctly.
+    7Customizer might not label the ISO.
+    When selecting updates, sometime you will be able to select one update only. 
+
+If you select more than one update 7Customizer will crash.
+
+
+ENJOY  &  SEED!!!

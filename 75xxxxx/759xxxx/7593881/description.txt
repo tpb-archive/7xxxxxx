@@ -1,0 +1,8 @@
+Here we have a handy-dandy utility to reduce the size of the ever-bloating WinSXS folder, present in Windows Vista, "7," (6.1) and presumably "8," (6.2) though this has not been tested by me. It removes old versions of system files and duplicates of system files to (sometimes drastically!) reduce the size of C:WINDOWSWinSXS, which can become very burdensome, especially on SSD-based systems.
+
+This utility can be downloaded elsewhere, but if you do so, you will have to fish around for the half-dozen little gizmo programs it needs to function correctly. This ZIP file includes the main application AND the dependencies! Extract this ZIP to its own folder, and run the application with elevated privileges.
+
+WARNING: The modifications this application makes have the potential to cause undesired behavior or major system problems. Make a full partition backup of your system partition before attempting this, unless the machine's functionality is unimportant. If you don't know how to run the utility with elevated privileges or make a full-partition backup, you run a high risk of damaging something with this utility, and probably shouldn't use it. I will NOT give help in the comments
+
+As with all such utilities, use it at your own risk.
+

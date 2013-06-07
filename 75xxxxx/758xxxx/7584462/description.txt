@@ -1,0 +1,24 @@
+                                  By bobiras2009		
+
+
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+
+Changes in Version 3.2 (build 27636), 2012-07-30:
+- Change: add tracker.ccc.de as a default tracker
+- Feature: disallow http connections to tracker.openbittorrent.com and tracker.publicbt.com
+- Fix: disk cache size accounting
+
+
+Changes in Version 3.3 alpha (build 27841), 2012-08-29:
+- Feature: extend UDP trackers to send request string from url
+- Fix: gui freeze when downloading at high rates
+- Fix: ΓÇ£add at top of queueΓÇ¥ checkbox now works for magnet links
+- Fix: multi-file magnet links are now correctly downloaded into a directory with the torrentΓÇÖs name
+- Feature: donΓÇÖt use a consistent peer-id (to mitigate tracking)
+- Fix: remove play/app/antivitus buttons from torrent list, show hand cursor to indicate clickability
+
+
+                                  By bobiras2009		

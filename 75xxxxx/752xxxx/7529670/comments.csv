@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,moth1334,2012-08-15T13:05Z,cant get the serial to work
+,FrostC1,2012-08-15T23:32Z,ALWAYS RUN MIXCRAFT AS ADMINISTRATOR FIRST BEFORE ENTERING IN SERIAL!
+,theresdividnglines,2012-08-17T02:10Z,"Okay- For those unable to register I have found a solution... I was also unable to register/close the program/and have it remember I registered. So here's what I did to make it work...
+
+-Uninstall Acoustica 6 if you have it installed.
+
+-Remove Acoustica 6 folder from program folder if it's still there.
+
+-went to registry (run- ""regedit"") and search for ""Acoustica"" and basically deleted all things acoustica.
+
+-I have the acoustic6.exe blocked in windows firewall outbound rules, but I had it blocked when it wouldn't work so it's better to block it and be safe.
+
+-Install the acoustic 6 from this torrent with internet OFF
+
+-DO NOT copy all of the old VST folders/files into the new acoustica 6 folder after it installs. Every time I did this I would get the registration error... I'm not sure which vst plugin was doing this but one of them was...
+
+Hope this helps..."
+,vlad_ivx,2012-08-22T23:28Z,all works! thank you very much!
+,Shockwave83,2012-08-24T15:03Z,"Doesn't works for me (again). Same thing every time with this Union version, now worked for 2 days, after that the pop out window came out, saying to register (already did), ok, entered it AGAIN, but on the top still says 'Your trial period is over"" crap and cant mixdown my stuff... pretty anoying! I hope thats only me, cause i've read (and happened to me before this) that when u enter the serial, it works for 14 days and after that you're over, you'll be having popout windows every time and no mixdown ability, and judging by the comments dates, you are only in few days into program... hope i'm wrong, but... Also people said that too much are using this version with the same key (Union release), and cause of that, the key doesn't works. If some1 have some idea or solution, please...:)  "

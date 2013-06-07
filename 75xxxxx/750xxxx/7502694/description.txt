@@ -1,0 +1,20 @@
+Carbon Copy Cloner backups are better than ordinary backups. Suppose the unthinkable happens while you're under deadline to finish a project Ã¢â‚¬â€ your Mac is unresponsive and all you hear is an ominous, repetitive clicking noise coming from its hard drive. With ordinary backups, you'd spend your day rushing out to a store to buy a new hard drive and then sit in front of your computer reinstalling the operating system and restoring data.
+
+With Carbon Copy Cloner, your data and the operating system's data are all preserved on a bootable volume, ready for production at a moment's notice. When disaster strikes, simply boot from your backup and get back to using your Mac. At your convenience, replace the failed hard drive and then let CCC restore the OS, your data and your settings directly from the backup in one easy step.
+
+Any backup application can save your stuff. A CCC bootable backup will save your productivity too!
+
+What's New
+Version 3.5.1:
+- Fixed an issue in which CCC was unable to save scheduled tasks after being updated.
+- Resolved a permissions issue related to accessing some files on source when the destination was a network volume.
+- Made some minor UI adjustments in the Documentation window.
+- Fixed an intermittent exception at the end of a scheduled task that would result in the "Task finished" window disappearing early and failure of email notifications.
+- Fixed an exception that would cause a hang during the creation of a Recovery HD volume.
+- Non-admin users will no longer be prompted to authenticate when launching CCC on Lion or Mountain Lion. This authentication was leveraged to collect information about the Recovery HD volumes attached to your Mac, but CCC was unable to give that indication prior to the authentication dialog being presented. To avoid unnecessary concern, we chose to not collect that information when a user is logged in to a non-admin account.
+- When LateNite Software's "Clusters" software makes changes to .DS_Store files on the source volume, those changes can lead to errors during the backup. These errors are now suppressed.
+
+Requirements
+
+Intel
+Mac OS X 10.6 or later 

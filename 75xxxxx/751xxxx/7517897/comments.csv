@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,piratebrazilian,2012-08-09T19:17Z,not working. :/
+,rhizzu,2012-08-09T21:35Z,"[note]
+this is not work on DUMB. :D
+
+please RTFM
+
+What to do if it doesn't work:
+
+- Make sure you ran it as Admin
+- The KMS server might be down, more servers will be included in future releases
+- Make sure you have the proper KMS key that you need installed, more keys and auto OS detection will be added in future releases
+- Getting error saying something about non-core, you're inserting a key not for your version	"
+,japrage_s,2012-08-09T22:15Z,fake
+,techme21,2012-08-09T23:25Z,"I made a simple batch file that will connect to all three known kms servers
+and attempt activation with them automatically
+It does all commands silently so you don't have all of those annoying popups from every attempt
+and it will loop infinitely
+My goal is to make it stop Automatically when An activation server has been reached,
+And Echo Windows Successfully!
+Just paste the below code into a notepad and save as Activate.bat to C:    root directory
+Then make a shortcut to that file on your desktop.
+Then right click the shortcut and go to ""Properties""
+Then go to the Shortcut Tab
+Then click advanced
+Then check the ""Run as Administrator"" box
+Hit OK and OK again
+Now run it
+
+Maybe this could be a base idea for a Windows based KMS Activation Program
+Then you could add the option of adding your own KMS server.
+
+P.S. If the servers are down then my above script will not work.
+It will just keep trying until it does work.
+
+Here's what I got so far
+
+[CODE]
+@Echo Off
+
+Echo Attempting Windows Activation
+Echo Please Wait...
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org:1688
+cscript //B ""%windir%system32slmgr.vbs"" /ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+Echo Activation Status...
+
+cscript slmgr.vbs /dlv
+
+Echo Activation will Retry in 10 Seconds
+
+ping 1.1.1.1 -n 10 -w 1000 > nul
+
+cls
+
+start /b /i C:Activate.bat
+[/CODE]"
+,thorpeed,2012-08-10T12:00Z,"i googled this: cant access kms servers windows 8   and got a very surprising answer....: 
+
+1. Activating Windows 8 RTM from KMS Server can block your Microsoft Account?
+
+2. The main risk is the Microsoft can view the account being used on the activated Windows 8 RTM when a user accesses the Windows Store, signs into the Microsoft Account or use some apps. Technically speaking, Microsoft knows everything what we search or download from Store or apps. If, Microsoft comes to know that a specific user or a group of people are using the same KMS Server activation method then, the software giant has the authority to block the Microsoft accounts being used on those PCâs.
+
+3. Yikes... going back to win7 for now...."
+,aryandn,2012-08-10T16:41Z,It gaves me non-core error.please help me! I really need your help
+,FuckSholihin,2012-08-26T09:51Z,microsoft is seriously winning at this time over piracy. this so-called KMS Activator isn't come to as far as standalone KMS like the used to be KMS for OFFICE2010 and WINDOWS 7 enterprise. this is just a lame method of contacting kms server via online. such pity since it never worked for fucker like me and the rest of fuckers who are not residing in western region of the world.

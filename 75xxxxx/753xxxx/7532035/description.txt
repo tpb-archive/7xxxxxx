@@ -1,0 +1,20 @@
+MICROSOFT.WINDOWS.8.ENTERPRISE.RTM.X64.VOLUME.SWEDISH-TPB
+
+Build....: 6.2.9200.16384.WIN8_RTM.120725-1247
+File.....: 9200.16384.120725-1247_x64frev_Enterprise_VL_HRM_CENA_X64FREV_SV-SE_DVD.iso
+Size.....: 3,506,509,824 byte
+
+/*----------------------------------------------------------------------------*/
+
+1. Bränn till skiva och installera från boot. Ingen nyckel krävs under 
+   installationen.
+
+2. Aktivera med en nyckel från MDSN/VLSC. Skulle det finnas en hackad KMS server
+   tillgänlig för att aktivera enterprise, starta cmd.exe (run as adminstrator) och skriv in 
+   följande för att få en 6 månaders aktivering. Notera att du måste aktivera igen efter 6 månader.
+   
+   slmgr /skms namn-på-kms-servern tex: slmgr /skms benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net
+   slmgr /ato
+
+   
+/*----------------------------------------------------------------------------*/

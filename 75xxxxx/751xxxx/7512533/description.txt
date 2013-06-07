@@ -1,0 +1,46 @@
+Titanium Backup is the most powerful backup tool on Android, and then some.
+You can backup, restore, freeze (with Pro) your apps + data + Market links. This includes all protected apps & system apps, plus external data on your SD card. You can do 0-click batch & scheduled backups.
+
+Backups will operate without closing any apps (with Pro). You can move any app (or app data) to/from the SD card. You can browse any app's data and even query the Market to see detailed information about the app.
+
+PRO FEATURES ADDED:
+
+    Multiple backups per app
+    0-click batch restore
+    Multi-user support for some apps! (eg: games)
+    Batch verification
+    Backup apps without closing them!
+    Restore individual apps+data from CWM backups!
+    Restore individual apps+data from TWRP backups!
+    Hypershell speed
+    Migrate system data across different ROMs
+    Market Doctor (relink apps to Market)
+    "Destroy all Market links" feature
+    Apps freezer (incl. batch support)
+    Market "auto updating" manager
+    Convert user apps  system apps
+    Encryption
+    Unlimited schedules
+    Sync to/from Dropbox (manual/scheduled)
+    Sync to/from Box (manual/scheduled)
+    Sync to/from Google Drive (manual/scheduled)
+    Load/Save a Filter and use it in Widgets/Schedules
+    Protect backup against deletion
+    Send backup by e-mail
+    BackupΓåÆVerifyΓåÆUn-install an app in one shot
+    Freeze/defrost/launch apps in a single click
+    CSV export any app DB (e-mail or Google Docs)
+    Brand the app with your name
+    Bloatware Melter (experimental)
+    Convert app data to/from faster WAL DB format
+
+
+What's in this version : (Updated : Aug 5, 2012)
+
+    [PRO] Added full support for batch, scheduling, compression & encryption on XML backup elements. The "backup modified data" action is supported as well. XML elements are yellow in the app list and their backups are named ".xml.*". When attempting to batch restore both XML and snapshot elements, a dialog appears for choosing the preferred kind.
+    "Data usage" element supports Android 4.1+.
+    Fixed detection of "Web browser" element on Android 4.1+.
+    Misc UI tweaks.
+    Updated translations.
+
+Required Android O/S : 1.6+

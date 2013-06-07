@@ -1,0 +1,40 @@
+Inglourious Basterds (2009) 153 min (see notes below)
+
+DESCRIPTION:
+In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
+
+SPECS IN BRIEF:
+M4V file for iTunes/iDevices
+V: 1920x800 23.98 fps h.264 @ 3570 Kbps
+A: 160 Kbps 2.0 AAC & 448 Kbps 5.1 AC-3
+S: English / BD has English subs for foreign dialogue hard-coded into print
+C: 28 (Named)
+
+SOURCE:
+Retail Blu-ray Disc
+
+PLAYBACK:
+Encoded & tagged for iTunes (10.6 or later) and Apple devices that can handle *1080p HD* video. Playback is confirmed for:
+	2012 AppleTV
+*should* work on the other devices tr108 lists on his movies, but I can't guarantee it.  Those include:
+  1. 2012 iPad
+  2. 2011 iPad 2 with 5.1 software or later (synced; will not stream)
+  3. 2011 iPhone 4S (synced; will not stream)
+  4. 2010 AppleTV with 5.0 software or later (will output file as 720p)
+
+
+NOTES:
+Well, tr108 has inspired me to share some movies of my own.  I also encode movies for use with iTunes (1080p only.. sorry no 720p encodes).  I use Handbrake to encode all of myDon't let the "encoding tool" metadata fool youΓÇª I use iFlicks to do some of the tagging, and it always replaces "Handbrake" with "iFlicks".
+
+Anyway, I always use a Blu-ray source for the encode (I don't use someone else's encode, in other words).  I use Handbrake (recent nightly build) with the default AppleTV 3 setting (before the AppleTV setting was put in, it was recommended to use the High Profile setting for the ATV3), RF 20, which is also the default.  This will produce files a bit larger than tr108, but it's just the setting I chose to go with.  I honestly don't know if I could tell the difference between the two.  I do occasionally use some de-noise filtering on certain grainy movies (pretty much any Spielberg movie, for example) to keep the file size down a bit.  Other than that, I just go with the default settings for video.  
+
+For audio, I use 448k bit rate on the audio, always encoding from either the core DTS track if the Blu-ray had DTS Master, or straight from the True HD track if using Dolby's format.  I also encode any commentary tracks at 128k AAC.  I also name the chapters if I have the info.
+
+This is my first attempt at uploading a torrent, so hopefully all will go well.  That's why I'm choosing my one of my smallest movies first.. Inglourious Basterds (it compresses really well).  Let me know if you have any trouble.  
+
+Oh yeah, subtitlesΓÇª I don't spend much effort on subtitles.  I do always encode the original PGS subtitles into the video for foreign language parts.  I also let subler's OCR tool to convert from vobsub format (I use BDSup2sub to go from PGS to VOBSUB first) into an .srt file for the english sub only. This will have some "typos' of course, but I don't spend much time trying to correct them.  I only put the english subs in so if I don't quite understand what someone says, I can turn them on real quick to see what it was I missed.  If you need other subs, I'm sure you can grab something from opensubtitles.org or subscene.com and mux it right in (I use subler for that on my iMac). 
+
+Anyway, I'm sure the file works with the same devices he lists, but I can say I have only tested on the AppleTV 3 (current generation).  I KNOW it works there.
+
+Well, here it is...
+

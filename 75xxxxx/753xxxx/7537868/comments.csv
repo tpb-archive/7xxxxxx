@@ -1,0 +1,15 @@
+﻿User Type,Username,Date,Text
+,Biomecha,2012-08-18T22:11Z,"I much appreciate the effort put in, but unfortunately this movie and every other of yours I've tried viewing will *not* display on QuickTime (and hence won't import to iTunes and play through AppleTV).
+
+It plays fine on VLC, though.
+
+One possibility is the presence of ""B-Frames"" in the encoding. I don't know if QT is supporting them, but it apparently didn't in the past."
+,Biomecha,2012-08-19T02:06Z,"Addendum to my previous:
+
+While the videos don't play in QuickTime X (10) (audio works but video won't display at all), they *do* play in QuickTime 7. How's that for fucked up?
+
+For anyone else having a similar problem, I have not been able to find a solution that doesn't involve re-encoding the video - I'd suggest using MPEG Streamclip as it will give you the least amount of problems.
+
+I was hoping it was simply a wrapper file issue, and would be solved by creating a new MP4 with Subler and importing the video and audio streams from the downloaded file (as I do with MKVs, and MP4s with a bad public atom) as this takes literally minutes on my aged laptop, but this doesn't seem to be the case.
+
+Once again, TwentyForty, I in no way blame you as the files otherwise appear to be fine and look quite spiffy, thank you for uploading these nice rips of old movies, it just seems to be some sort of stupid problem in QT X."

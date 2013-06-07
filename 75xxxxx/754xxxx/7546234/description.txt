@@ -1,0 +1,19 @@
+JAM Software SpaceObServer Enterprise v5.1.0.817 retail ~HuNtEr~
+
+FOSI comes with SpaceObServer, powerful and flexible hard disk space manager for Windows.It scans local and network drives using a background service and stores their structure, sizes and properties in an SQL database.
+
+Features:
+The size of each folder is displayed directly in the file system tree.
+A background service, the SpaceObServer Agent, regularly scans selected drives and stores the collected data in an SQL database.
+Scan network drives without the need to install additional software on the servers you want to observe.
+By using the NTFS Change Journals SpaceObServer is able to update information about local NTFS drives continuously, which results in disk usage information that is always up to date.
+Duplicate files can be identified by the MD5 checksum of their content or a combination of name, size and last change date.
+
+DESCRiPTiON N' iNSTALLATiON
+SpaceObServer is a powerful and flexible hard disk space manager for Windows. It scans local and network drives using a background service and stores their structure, sizes and properties in an SQL database. Linux and Unix filesystems can be scanned via SSH (Secure Shell).In an Explorer-like user interface the collected data can be viewed and browsed in hierarchical or tabular views,3D bar, pie, line charts and tree maps. Using the archived data you are able to track the development of the space usage from past to present, and forecast future size usage.A flexible file search, with predefined searches for very big, old or obsolete files allows filtering and listing files directly from the database. A duplicate file search is also included.The SpaceObServer Remote Administration Client is a management tool to configure scans, view scan results and generate exports
+remotely from additional machines in your network.
+
+
+
+
+~HuNtEr~

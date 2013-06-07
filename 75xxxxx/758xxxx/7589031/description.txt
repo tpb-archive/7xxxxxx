@@ -1,0 +1,45 @@
+Web addition to HBO show ...
+
+---------------
+Lots of options, lots of choices - if it all goes wrong for you, leave a comment ...
+
+Cool new toys:
+
+FLV Extract 1.6.2
+DVBPortal MP4Muxer 0.9.3.0
+
+And old favorites:
+
+MP4Cam2AVI 2.98
+AtomicParsley win32-0.9.0 {not used in these examples}
+VirtualDub 1.(whatever floats your boat)
+
+Container changes galore!
+
+Here's *.FLV <demux> *.264 + *.AAC <remux> *.MP4 <CC2AVI> *.AVI {W/MP3}
+
+And all COMPLETELY lossless!
+
+Many current FLV files are x264/AAC
+The ones I've tried so far show a frame rate of 25.
+The real frame rate is 29.970
+So, I use VirtualDub 1.4.13 (had a bad audio experience with 1.5),
+But any version should work just fine.
+
+Run FLVExtract
+drop FLV file onto it & wait for the green check mark.
+Run MP4Muxer
+add *.264
+add *.AAC
+hit "multiplex"
+Run MP4Cam2AVI
+recommend convert audio to MP3 (VLC can't find AAC in AVI)
+select file in left pane, press "Start" in lower right
+returns "videoOut.avi" - can't do the name, but retains time/date stamp
+Run VirtualDub - set video to "direct stream copy"
+Video - Frame Rate - Change to - 29.970
+Save as <filename>.AVI
+
+Tada! you now have an AVI, just like the Goddess of all reality intended!
+
+MP4SUX

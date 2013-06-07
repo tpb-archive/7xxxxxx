@@ -1,0 +1,50 @@
+Snapshot time!
+
+
+1)Added item frames
+    
+2)Added cobblestone walls (yes, mossy too)
+
+3)Maps now align to a grid, making it easier to create adjacent maps. Maps can also be cloned
+    
+4)Stairs now auto-arrange into corners. This is a test and may change based on feedback
+    
+5)Mobs can travel through portals
+    
+6)Leather clothes can be dyed
+    
+7)Removed the "wip block" from the creative menu
+    
+8)Added two new crops and associated items
+    
+9)F3+P will toggle the auto-pause when the window loses focus (it's for debugging, mainly)
+    
+10)F3+H will toggle detailed item descriptions (also for debugging)
+    
+11)Added arrow-sensitive wooden buttons
+    
+12)Trapdoors can be placed in top-most position (based on cross-hair aim)
+
+---------------------------------------------------------
+
+INSTALL INSTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. Drag/Copy the new minecraft.jar file into /bin folder and replace it.
+
+4. Make a new folder named "server" .minecraft/server in that folder drag/copy the minecraft_server.jar file 
+
+-----------------------------------------------------------------------------------
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.
+
+-------------------------------------------------------------------------------------

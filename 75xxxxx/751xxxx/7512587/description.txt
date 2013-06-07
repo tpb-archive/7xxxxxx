@@ -1,0 +1,93 @@
+Alice In Chains (1995) - Custom Remaster by MC Lurken
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - Grind
+2 - Brush Away
+3 - Sludge Factory
+4 - Heaven Beside You
+5 - Head Creeps
+6 - Again
+7 - Shame In You
+8 - God Am
+9 - So Close
+10 - Nothin' Song
+11 - Frogs
+12 - Over Now
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (0.08db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.095db
+-DC Offset Removed - Apparent Bit Resolution = 24, Peak = -0.094db
+-Final Recording - Apparent Bit Resolution = 41, Peak = 0.229db
+
+-Resample 64-bit/384kHz to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+
+MBIT+ Dither Settings
+*Noise Shaping - Light
+*Bit Depth - 16
+*Dither Amount - Low
+*Auto-Blanking - on
+*Limit Peaks - off
+*Harmonic Suppression - on
+
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-08-06 14:13:19
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR8       -0.14 dB    -9.04 dB      4:46 ?-01 - Grind
+DR7       -0.28 dB    -8.92 dB      3:22 ?-02 - Brush Away
+DR8       -0.24 dB    -9.01 dB      7:13 ?-03 - Sludge Factory
+DR9       -0.50 dB   -11.34 dB      5:28 ?-04 - Heaven Beside You
+DR8       -0.22 dB    -9.37 dB      6:28 ?-05 - Head Creeps
+DR8       -0.27 dB    -9.27 dB      4:05 ?-06 - Again
+DR8       -0.29 dB   -10.17 dB      5:36 ?-07 - Shame In You
+DR8       -0.37 dB    -9.83 dB      4:08 ?-08 - God Am
+DR7       -0.19 dB    -8.93 dB      2:46 ?-09 - So Close
+DR8       -0.43 dB    -9.88 dB      5:41 ?-10 - Nothin' Song
+DR8       -0.28 dB   -10.87 dB      8:18 ?-11 - Frogs
+DR8       -1.44 dB   -11.40 dB      7:04 ?-12 - Over Now
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR8
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

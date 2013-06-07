@@ -1,0 +1,16 @@
+Changes in version 6.12 Build 10: 
+- Added support for Firefox 16. 
+- Added a feature to set file creation date as provided by the server (IDM Options-> Save To). 
+- Fixed an erroneous interception of attendant content of web pages in Chrome. 
+- Added the possibility to translate text for IDM installer and IDM uninstaller. 
+- Redeveloped file integrity verification during resume. 
+- Improved resume capability after power outages. 
+- Redeveloped IDM integration into IE. 
+- Optimized IE integration module and improved its speed performance. 
+- Added support of IDM download panel to Google Frame installed into IE. 
+- Improved integration into IE based browsers like AOL, MSN, etc .. 
+- Added support for SeaMonkey 2.10. 
+- Added support for new version of Adobe Flash Player. 
+- Improved support of several web players. 
+- Made a workaround for bugs in a new Outpost firewall. 
+- Fixed bugs. 

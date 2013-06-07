@@ -1,0 +1,111 @@
+﻿User Type,Username,Date,Text
+,cyberdoc999,2012-08-05T12:10Z,"one big problem is it
+will not install dot net 3.5
+but he warned ya"
+,nileshtambe,2012-08-05T13:20Z,"@cyberdoc999 
+try this solution ms given for rp can work on rtm if u have full rtm iso or internet 
+
+If installing the .NET Framework 3.5 on demand or enabling it in Control Panel fails, you may get error message 0x800f0906: âWindows couldn't connect to the Internet to download necessary files. Make sure that you're connected to the Internet, and click Retry to try again.â This message may be displayed for the following reasons:
+
+
+    Your computer is not connected to the Internet. Please connect, and then retry the operation.
+    If you are unable to connect your computer to the Internet, you can enable the .NET Framework 3.5 by using the installation media (ISO image or DVD) you installed Windows 8 Release Preview from. Mount the Windows 8 Release Preview installation media and type the following command from an elevated command prompt:
+    Dism /online /enable-feature /featurename:NetFx3 /All /Source:x:sourcessxs /LimitAccess
+    where x: is the drive letter for the Windows 8 Release Preview ISO image or DVD.
+
+    Your administrator has configured your computer to use Windows Server Update Services (WSUS) instead of Windows Update for servicing. Please ask your administrator to enable the policy to use Windows Update instead of WSUS."
+,Barrytoo,2012-08-05T15:09Z,"Nice one man!
+BTW how did u edit it?"
+,nileshtambe,2012-08-05T17:03Z,"@Barrytoo
+Thanks
+Wintoolkit>Gimagex>Vlite>manual Delete some files"
+,iamshahbaz,2012-08-06T12:38Z,"hey nilesh facing the same net framework prob i tried enabling internet but no help, even the command prompt says could not search for the file specified as my windows 8 release priew dvd loads in drive h so I name it Dism /online /enable-feature /featurename:NetFx3 /All /Source:H:sourcessxs /LimitAccess but still problem persist .
+I even have net framework 4 but when i try to install it says u have an updated version already in ur pc but i cant find any .
+Its a big issue as many important work stuff depends on net framework .
+.Will be waiting for ur maybe msdn version rip but dont remove net frameowrk.
+looking for a solution for the time being
+Thanks"
+,nileshtambe,2012-08-06T17:12Z,"@iamshahbaz
+hey do not try to install .net 4 as its already there u can`t install it, ms has done pretty crappy job with win 8 there is no wmc and dot net 3.5 in installed os, and most of programs req .net 3.5 , we have to find out the way to have both in lite os."
+,iamshahbaz,2012-08-06T18:47Z,"@nileshtambe
+well can we get 4 removed and than get 3.5 in as many app requires it and the whole work is at s stand still for the moment."
+,iamshahbaz,2012-08-06T22:58Z,"@ nilesh 
+tried all possible solution but cant come to  a fix fuck Microsoft morons working on it  just an important stuff and its not there.waiting for your reply did u got any fix"
+,aks.sin,2012-08-06T23:14Z,would like to have video or detailed instruction of yours regarding this Lite'ing of Windows 7 & 8. That would be the most helpful post of yours as it can help many others to do the same but according to own needs. thanks in advance.
+,nileshtambe,2012-08-06T23:57Z,"@iamshahbaz
+working on it, if i enable .net3.5 in iso> setup fails
+dont know d reason , why moron ms doing such things
+
+@aks.sin
+ya i will make video tutorial for ppl
+regarding this rtm i hardly removed anything that ppl want to keep, that .net 3.5 is now big joke"
+,iamshahbaz,2012-08-07T11:02Z,"@nilesh
+seems to be a weird stuff as due to 3.5 stuff it creates a lot of issues with softwares ,I dont understand wtf they tested while releasing even online installation, offline installation ,command line nothing works.
+seems to be that need to go back to windows 7 for the time being until unless there a fix though i like the smoothness and overall performance but still many bugs still there which are minor.  "
+,JaaniRox,2012-08-07T14:10Z,"@Hi nilesh
+can u tell me in detail which components u removed by win toolkit especially languages except eng offcourse..actually win toolkit is different than rt lite :( better if u post the full screenshot of win toolkit(component removal)"
+,nileshtambe,2012-08-07T16:21Z,"@JaaniRox
+nothing is removed with wintoolkit, i use wintoolkit only for adding  tweaks ,i never use it for removing componets
+
+i used vlite to remove component 
+
+component removed are
+Speech Support
+All Languages except us Eng
+Screensavers
+Shell event sounds
+Manual Install
+Natural Language
+Windows Defender
+"
+,hammer2085,2012-08-11T15:19Z,"So should I get this or are you going to redo/fix .NET 3.5 and create new Win 8 image.
+
+PS - I have a Net-book on which I use x32 and desktop with 8GB RAM so x64."
+,nileshtambe,2012-08-11T16:28Z,"@hammer2085 
+i will be doing   8 x64 pro with dot net 3.5 enabled"
+,daaudiome,2012-08-12T17:14Z,"Hi do you know why I don't have aero enabled on my laptop it's a core2duo pm965 chipset, and with nvidia 9600 I already downloaded latest driver for win8 on win7 everything works fine. Did you remove aero? "
+,nileshtambe,2012-08-12T17:43Z,"@daaudiome
+hi i have not removed aero , check ur drivers ..
+for me> in virtual box also i have aero..."
+,daaudiome,2012-08-12T20:49Z,"Hi niles thanks again for your reply, I did check my drivers and they're working fine.. but aero is not showing up under themes.. what could be going on? "
+,nileshtambe,2012-08-15T15:27Z,"@daaudiome
+hi, it might be possible that full aero need activated os, like changing user pic , os doesn't allow to change it before u activate os"
+,J0StrikE,2012-08-15T18:56Z,"For Net Framework 3.5 use this
+http://www.sereby.org/site/AiO
+greetings"
+,nileshtambe,2012-08-15T22:02Z,"@J0StrikE 
+thanks for ur kind help "
+,nileshtambe,2012-08-17T12:27Z,"Windows 8 x64 Enterprise preactivated Evaluation 90days
+
+About This Evaluation
+
+This evaluation provides a 90-day trial of Windows 8 Enterprise edition. 64-bit version English.
+Upon installation, you will have 10 days to activate this evaluation online. Windows will prompt you to activate.
+A product key is not required for this software.
+You must complete activation before August 15, 2013, to use this evaluation.
+Once you activate, you have up to 90 days to use the software.
+You can track the amount of time you have left by referring to the ""watermark"" in the lower right corner of the Windows desktop.
+The evaluation edition will expire and cannot be upgraded.
+To upgrade, the evaluation must be uninstalled and a non-evaluation version of Windows must be re-installed
+
+
+32 bit download links
+
+
+
+http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X86FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X86FREE_EN-US_DV5.ISO?lcid=1033
+
+
+64 bit download links
+
+
+http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X64FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X64FREE_EN-US_DV5.ISO?lcid=1033"
+,ruchirrathore,2012-08-31T19:56Z,"Hi Nilesh, I have just installed this build, with all the same drivers which I used with standard iso installation as well. Now, I am facing some issues which I didn't face with standard iso installation. 
+
+1. Windows can't read .gadget files. I'd like to install   some useful Windows gadgets. Add remove windows features does not have Windows Gadgets Platform in the list. How to enable it?
+2. Can't seem to change the screen brightness thru' power options, Windows Mobility Center, or desktop settings tile. The sidebar tile of brightness is disabled. How to fix it?
+3. Windows is not able to activate. I am getting the following error : 0x8007007B : ""the filename, directory name or volume label syntax is incorrect."" How to activate it? what will happen if I don't activate it in given 10 days period?
+
+I like your work, but if windows remains unactivated then probably I will be forced to go back to standard iso installation.
+
+Please find a solution to these problems and let me know...."

@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+[T],Gh0stNet,2012-08-23T01:06Z,Note! Update v1.0.0.47 is mandatory for this update.You can get it http://thepiratebay.se/torrent/7526431/Max_Payne_3_Update_v1.0.0.47-RELOADED_
+,rosscob,2012-08-23T04:27Z,I've done all the updates and applied the cracks and copied all the files but it keeps trying to log on to Rockstar Social Club and won't start the game. Any suggestions?
+,ChillyCrossFoot,2012-08-23T05:31Z,@roscob: You need to put this in your HOSTS file. patches.rockstargames.com This will effectively stop it from trying to update. I stopped patching the game when I realized the patches weren't doing anything. Good luck. 
+,IndigoAK,2012-08-23T06:09Z,Rockstar has a history of releasing patches in quick fashion to keep trainer makers having to update their stuff - with every patch they slightly alter a lot of the offsets.  It's one of the reasons CheatHappens stopped updating theirs for Grand Theft Auto IV.  This could be the reason there don't seem to be any major changes in any of these updates.
+,MLO89,2012-08-23T20:16Z,"@chillicrossfoot
+
+Thanks much for that Host file tip, it worked perfectly. I was having problems with the game trying to connect even with those 3 exe files being blocked in both Incoming and Outgoing in Windows 7 Firewall. Putting that entry in the Host file (127.0.0.1  patches.rockstargames.com) blocked MaxPayne 3 from trying to connect. Didn't even need to reboot. Thanks again"
+,rosscob,2012-08-27T01:02Z,"Which ""hosts"" file do I edit? I did a search of my ""Windows"" directory and found 3."
+,kcfunnthesun,2012-09-15T21:31Z,dangerous its fake

@@ -1,0 +1,29 @@
+This torrent contains:
+
+1.Skyrim Dawnguard DLC
+2.Update 9
+3.Update v1.7706
+
+How to install:
+
+1.Download torrent, run the installer, point it to you Skyrim folder
+2.At the Skyrim Launcher, go into Data Files and check the Dawnguard.esm option to Load. If Data Files is greyed out follow steps 3 and 4
+3.Locate or search for the SkyrimPrefs.ini file that should be under your My Games subfolder. For example, mine is located at:
+C:UsersELOCKLORANMy DocumentsMy GamesSkyrim
+4.Open that file and search for [Launcher] and add "bEnableFileSelection=1". It'll look something like this:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+So add that line so it looks like:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+bEnableFileSelection=1
+Now the Data Files option will be un-greyed and selectable
+5.Launch the game and go talk to any generic Skyrim Guard. They'll give you a new quest item, Dawnguard, and you'll get the screen popup of new quest added.
+This is how it worked for me. Some people won't have that greyed-out Data Files problem in steps 3-4, and it sounds like some people don't need to talk to a guard but get the Dawnguard quest automatically. 
+
+More info and support here: 
+http://www.aviara.ro/forum/index.php?topic=12825.0
+
+If you like this torrent seed it to others

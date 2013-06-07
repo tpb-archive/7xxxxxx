@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,winkywoowaa,2012-08-29T13:01Z,"first of all thanks for uploading this....but you could you tell me exactly what program I should use to decompress this to wbfs and how to go about it...I'm a bit thick you see...
+.much appreciated"
+,dt7ll5op,2012-08-29T13:27Z,"download WIT from http://wit.wiimm.de/download.html (assuming youre using windows: http://wit.wiimm.de/download/wit-v2.07a-r3955-cygwin.zip ), uncompress the downloaded .zip file with something like winzip somewhere in your path (that means somewhere where can and usually you run commands from), open a command shell from where you placed the downloaded .wia and type quote: wit copy ""Williams Pinball Classics [RWCP6M].wia"" --wbfs %X
+or use the word convert instead of copy if you dont want to keep the original .wia file"
+,winkywoowaa,2012-08-29T15:44Z,"thanks for the quick reply dude...I struggled abit with your method (I told you I was thick), anyways after a bit of googleing I came across a program called wii backup fusion that sorted it for me..hope this helps any other dumbass out there...and again thanks for sharing man"
+,paocer95,2012-09-13T01:22Z,"thanks winkywoowaa.... 
+
+people should remember that we do not want to be typing commands, just want to click a button....."

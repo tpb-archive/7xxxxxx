@@ -1,0 +1,11 @@
+What's New
+Version 2211
+
+* Fixed incorrect window position when dragging a tab in some scenarios
+* OSX: Fixed System Preferences menu not working
+* Added missing toggle_preserve_case command
+* About Window shows the license key details
+* word_wrap setting accepts "true" and "false" as synonyms to true and false
+* Linux: Added support for mice with more than 5 buttons
+
+Courtesy of i/o

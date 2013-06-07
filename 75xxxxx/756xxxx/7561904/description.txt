@@ -1,0 +1,27 @@
+                                  By bobiras2009				
+
+
+Gameboy Advance emulator based on VBA-M r1097 (GPL), designed and tested on the Xoom, Galaxy S2, and Xperia Play, but works on many devices with similar specs. I have made a number of custom optimizations to increase speed while maintaining VBA-M's excellent compatibility and audio quality. You should have at least a 1GHz CPU for best results.
+
+Features:
+
+    High-level BIOS emulation, no BIOS file needed
+    Backup memory and save state support, auto-save and ten manual slots for save states. State files are interchangeable with the PC version of VBA-M.
+    Supports games in .gba format, optionally in .zip files
+    Configurable on-screen multi-touch controls & keyboard support (up to 4 touches supported at once), and an Xperia Play optimized button layout
+    Wiimote + Classic Controller, iControlPad, and Zeemote JS1 support (no need to purchase a separate app, see website for full instructions)
+    Portrait/Landscape auto-orientation support
+
+
+What's in this version : (Updated : Aug 22, 2012)
+Reduced chance of crashing on some devices when toggling the status bar
+Fixed fast CPU->GPU copy in Android 4.1
+Sound buffering and latency improvements, see website for more info about new Strict Underrun Check option.
+Native x86 build included for Intel devices
+Required Android O/S : 2.3+
+
+
+
+
+
+                                  By bobiras2009				

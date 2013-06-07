@@ -1,0 +1,64 @@
+﻿User Type,Username,Date,Text
+,jersson,2012-08-16T01:50Z,Very good. Thank's
+,blouseopener,2012-08-19T07:58Z,"when i click to install it says THIS PROGRAM FILE CANNOT BE OPENED PLEASE CONTACT YOUR VENDOR.
+
+some one please help me to solve this problem
+
+"
+[T],bobiras2009,2012-08-19T13:31Z,"@blouseopener
+
+The problem is that you try to install first the update package.You must install first the 
+
+Adobe Acrobat X Professional 10.1.4 Multilingual By bobiras2009  Install.msi
+
+and then the update."
+,balldinger,2012-08-24T01:07Z,"Cant get either file to activate.  The installer starts but then I get the error:
+This installation package could not be opened.  Contact the application vendor to verify hat it is a valid windows installer package.
+
+Using Windows 7 Pro
+Any help?"
+[T],bobiras2009,2012-08-25T08:46Z,"@balldinger 
+
+You are sure that you try to install the install exe first?If you try to install the update exe first it will give you this error.First the install exe and then the update exe."
+,balldinger,2012-08-25T19:26Z,"@bobiras22
+
+Yes sir, i read blouseopeners comment first and made sure it was the correct one.  Actually both files give me the same error.
+
+I am new at this but the files are MSI files, not exe, which is what, Microsofts new install format??
+
+Thanks!"
+,das_rosh,2012-08-27T02:08Z,"Hi I'm having the same problem that blouseopener and balldinger... when I try to run any of the .msi files, I get that window. 
+
+Still thanks for uploading"
+,aliplus,2012-08-29T18:45Z,@ all. Having same issue here. Changed compatibility setting but still not working. The setup is corrupted I guess
+[T],bobiras2009,2012-08-29T19:22Z,"@For All
+
+The files are fine.In windows 7/8 you must run the msi files as admin and it will work.Also check your windows if you have the net framework 3.5 and above installed in your computer.In my windows xp i install it fine.If you do this and still have problem try to redownload the torrent and post here i will help you till you have a perfectly adobe reader program."
+,d_wop,2012-09-05T11:50Z,"Same problem for me. 'installer package cannot be opened'. I have .net 2, 3 3.5 and 4 installed. Haven't tried to redownload yet. I'm on a super slow connection and it takes all night..."
+[T],bobiras2009,2012-09-06T17:35Z,"@d_wop
+
+If you are in windows 8 try the compatibility options.In windows xp i have installed it many times and work fine.Please try it in windows 7 enviroment/windows 8 with compatibility mode and let me know if works.Also you must run it as administrator(right click and open as administrator in windows 7/8)"
+,tonyD19,2012-09-08T04:32Z,"The error message I got:
+
+""This installation package could not be opened. Contact the application vendor to verify that this is a valid Windows Installer package."""
+,MeeMy90,2012-09-10T19:31Z,"@blouseopener , @balldinger , @tonyD19 ,@d_wop .........you can extract the installer file with 7zip ..and install it from setup file in the extracted files.....I got the same problem as you...But now it is solved ...try that way...hope it works with u..."
+,MeeMy90,2012-09-10T19:43Z,"@blouseopener ,@balldinger ,@d_wop ,@tonyD19 .......................you can extract the installer file by (7zip)..then install it from setup file in the extracted files.....I got the same problem as you But it is solved now ....try this way.....hope it works for you..."
+,KuriousJorj,2012-09-12T03:46Z,Same problem as everyone else.  WinXP.  .Net 4.  Can't run either the exe or update or anything.
+,rajesh1215,2012-09-12T11:12Z,"ok let me first thanks bobiras for the upload.
+Hope my comment helps other.
+
+I also faced similar problems as above. I looked for the solution. Here it is.
+
+thanks MeeMy90  for first solution.
+
+Use 7-zip to extract install file (""Adobe Acrobat X Professional 10.1.4 Multilingual By bobiras2009 Update.msi""), run the setup.
+
+For the patch, 7-zip did not work but it worked with following command
+
+Type following on command prompt, 
+
+msiexec /p ""Adobe Acrobat X Professional 10.1.4 Multilingual By bobiras2009 Update.msi""
+
+that worked for me. hope for others too. bobiras thanks again, but so many having problem that means it has problem, may not be with the uploaded file.
+I am gussing some pre-requisite is missing, I did not investigate."
+,jersson,2012-09-13T15:57Z,Install is ok but everytime I go on line the serial gets blacklisted so I have to enter a new serial every time I'm using the appl. I think a crack or a patch is the only way to get around this. 

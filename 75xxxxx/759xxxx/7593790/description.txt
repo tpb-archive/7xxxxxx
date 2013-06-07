@@ -1,0 +1,6 @@
+CrystalDiskInfo is a HDD/SSD utility which support S.M.A.R.T. (Self-Monitoring, Analysis, and Reporting Technology). This includes such details as current drive temperature, firmware version, number of failed read or write attempts, how long the drive has been running and how often it's been started and stopped, and so on. As various factors approach thresholds of danger, CrystalDiskInfo will alert you, letting you know it's time to make backups while you still can.
+
+Changes in 5.0.4:
+Added Western Digital's Host Writes/Reads support
+Fixed access to FDD from ver. 5.0.1
+Updated language file

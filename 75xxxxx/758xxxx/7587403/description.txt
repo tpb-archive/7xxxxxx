@@ -1,0 +1,12 @@
+TransGamingΓÇÖs SwiftShader Software GPU Toolkit is the worldΓÇÖs fastest and most flexible general-purpose pure software 3D rendering technology.
+SwiftShaderΓÇÖs modular architecture is capable of supporting multiple application programming interfaces, such as DirectX┬« 9.0, and OpenGL┬« ES 2.0, the same APIs that developers are already using for existing games and applications. This makes it possible to directly integrate SwiftShader into applications without any changes to source code. SwiftShader technology can also support custom front-end APIs that have been explicitly built for a specific application.
+Rendering features available range from basic fixed function rendering through to Shader Model 3.0 level capabilities such as advanced shaders, floating point rendering, multi-sample anti-aliasing, and much more.
+SwiftShader performs as much as 100 times faster than traditional software renderers such as Microsoft's Direct3D┬« Reference Rasterizer. In benchmark tests on a modern CPU, SwiftShader-based renderers can achieve performance that surpasses integrated graphics hardware ΓÇô a modern quad-core Core i7 CPU at 3.2 GHz running SwiftShader scores 620 in 3DMark06. SwiftShader achieves this unprecedented level of performance by dynamically compiling highly optimized code specific to an application's 3D rendering needs, and executing that code across all available CPU cores in parallel.
+Multiple CPU back ends are available for SwiftShader, including both TransGamingΓÇÖs SwiftAsm high-performance x86 code generator as well as the LLVM compiler infrastructure, capable of targeting a variety of different CPU architectures. SwiftShader-based renderers can support both 32-bit and 64-bit architectures, and can run natively on several different operating systems, such as Windows┬«, Linux┬«, and Mac OS┬« X.
+Current SwiftShader licensees include well known technology companies such as Adobe┬« and Google┬«. 
+
+----------------------------------------------------------
+ 
+http://compressedpcgames.xomcom.com
+ 
+http://www.pcgamestrainers.xoomsite.com

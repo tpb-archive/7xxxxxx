@@ -1,0 +1,48 @@
+                                    By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android 2.1+
+Overview: Make free Skype-to-Skype video calls, and call phones at Skype rates on the move
+
+
+What's in this version: 2.9.0.315
+Bluetooth improvements
+ΓÇó More reliable connection with headsets
+ΓÇó More headsets supported
+Bug fixes
+ΓÇó No more random signing out
+ΓÇó Fixed green video on HTC devices
+ΓÇó Restored video quality on Nvidia-powered devices
+
+theos0o v17
+Changelog:
+~ Based on new Skype build 2.9.0.315
+Changes compared to original Skype:
+ΓÇó Exit button (kills app & service)
+ΓÇó Minor fixes here and there (vibration, chat, video-calls)
+ΓÇó Speaker toggle while in call (just press your phone's MENU button)
+ΓÇó Bluetooth audio toggle while in call (just press your phone's MENU button), uses *my* code for BT Audio, so you can try it for mono headsets or headsets that don't work with Skype's original BT support
+ΓÇó Camera LED/flash support while in video-call (just press your phone's MENU button)
+ΓÇó Advanced Settings:
+ΓåÆ Sign-in status picker, allows you to pick your desired status (availability), which will be applied automatically just after logging-in.
+ΓåÆ Keep screen alive, disables proximity sensor for calls
+ΓåÆ Force-enable video-calling, for phones that can't get video-calling enabled.
+*Video-calling needs compatible CPU (ARMv7). If your phone's CPU is not compatible, Skype will keep crashing/looping at login!*
+ΓåÆ Force enable camera rotation, will attempt to enable camera rotate option (under the camera selection popup)
+ΓåÆ Avoid setFPS, for some users that get black image in video-calls
+ΓåÆ Use valid preview surface, for some users that get black image in video-calls (a bit buggy at the moment, but better than nothing )
+ΓåÆ Prefer full-screen incoming video, won't allow your back camera image to take the whole screen leaving the incoming image minimized
+ΓåÆ Force notification LED/BLN, for users that "Pulse notification light" option (in Skype original settings) doesn't actually enable notification LEDs or BLN!
+ΓåÆ Advanced camera settings (resolution/focus/scene/white balance/color effect)
+ΓåÆ Ringtone picker!
+ΓåÆ Notification sound picker!
+ΓåÆ Disable vibration entirely
+ΓåÆ Disable sign-in/out vibration and/or sounds
+ΓåÆ Notifications' vibration pattern picker!
+ΓåÆ Verbose logging, use it for debugging, when capturing logs
+
+
+                                    By bobiras2009	

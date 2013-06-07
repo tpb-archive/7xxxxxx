@@ -1,0 +1,19 @@
+WinRing0
+ 
+http://sourceforge.net/projects/winring0/
+
+WinRing0 is a hardware access library for Windows. It provides your application to access I/O port, MSR, PCI bus, and etc... WinRing0 has Digitally-Signed driver, so it works fine on Windows Vista/7 x64 Edition.
+
+License: BSD License
+Project Status: Closed
+Last Update: 2010-07-06
+
+reference: 
+http://www.koders.com/info.aspx?c=ProjectInfo&pid=85MHDKAXNVXQBWCD2X6LCTQ9HH
+
+This is a rare little package i dug up and put together a while back.
+It includes the C++ source code and the matching *signed binaries.
+
+The original author has gone to great lengths to make sure
+no one anywhere is hosting these files..
+I guess he changed his mind on the whole open source routine lol

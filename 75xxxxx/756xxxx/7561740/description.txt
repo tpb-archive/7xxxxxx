@@ -1,0 +1,13 @@
+Fixed this time:
+
+    Fixed a client crash on exit (after connecting to a server using sv_pure)
+    Added sv_namechange_cooldown_seconds, to throttle clients from changing their name too rapidly. (Defaults to 20 seconds)
+    Added sv_netspike_on_reliable_snapshot_overflow to selectively enable the automatic dumping of netspike file if a client drops due to "reliable snapshot overflow" (defaults to 0, which disables the debugging)
+    Added check to prevent player names from containing color codes
+    setinfo console command will now reject attempts to set / change convars with any unusual characters
+    Marked mem_force_flush as a cheat to prevent client exploits
+    Fixed %n console crash in the client
+    Updated client rate value to default to 30000 to improve network performance for most players
+    Rate was previously set by SteamΓÇÖs Internet connection speed setting
+    Updated client rate value to be stored in the config.cfg file
+    Fixed a Linux dedicated server crash on exit

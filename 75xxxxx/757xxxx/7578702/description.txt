@@ -1,0 +1,22 @@
+                                  By bobiras2009		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.	
+
+
+Requirements: Android 2.1+
+Overview: A high battery drain is often a limiting factor for a great user experience.
+
+
+With BetterBatteryStats you can analyse the behavior of your phone, find applications causing the phone to drain battery while it is supposed to be asleep and measure the effect of corrective actions:
+- Spot drainers based on detailed information about the root cause
+- Use the online Knowledge-Base to find how to reduce or remove the wakelocks
+- measure the effect of actions to reduce drain
+- detect changes in the awake/sleep profile and quickly find the causes (rogue apps)
+In other words BetterBatteryStats helps you to get the best out of your Android smartphone.
+
+What's in this version:
+# missing cpu states file causes references to stay empty
+# battery level handling causes exception
+
+
+                                  By bobiras2009			

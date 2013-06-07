@@ -1,0 +1,70 @@
+﻿User Type,Username,Date,Text
+,dwiss,2012-08-05T11:22Z,"Since it's Enterprise, I know I don't need an install key, but what about activation?  Will a Win7 loader work on this?"
+,2010kaiser,2012-08-05T14:07Z,"dwiss
+
+Win7 loader won't work on Win8. It's a trial and you'll need to re-arm it when the trial is about to expire. You do that by:
+1. Open command prompt
+2. Type:
+
+slmgr /rearm 
+
+3. Hit enter."
+,Kenzeira,2012-08-06T02:00Z,"Since this is the non-N version, have this the Windows Media Center and Windows Media Player?"
+,2010kaiser,2012-08-06T14:33Z,"Yes it has Media Player. Not sure about media center.
+remember this will only give 5 re-arms and then it will start re-booting every 30mins approx.
+People saying that you can re-arm 1000 times and such are incorrect."
+,topjimmy68,2012-08-06T23:45Z,"Found this in the comments of http://thepiratebay.se/torrent/7500071/WINDOWS_8_ENTERPRISE-N_RTM_X64_VOLUME_ENGLISH_BOOT_DVD_%5BThumperD
+
+Open command promt as admin
+If you are using Pro, type these lines ONE BY ONE!
+slmgr -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms-c.no-ip.org:1688
+slmgr.vbs -ato
+
+If you are using Enterprise:
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms-c.no-ip.org:1688
+slmgr /ato
+slmgr /dli
+
+For me, activation details shows ""Your license to use Windows expires on 2/2/2013""
+Plenty of time for now, if this holds up. "
+,jeromesnail,2012-08-08T17:48Z,Activation does not work :/
+,2010kaiser,2012-08-09T00:07Z,"jeromesnail 
+
+Told you so!  All these ""quick fixes"" and ""activations""  DO NOT WORK."
+,jeromesnail,2012-08-09T00:25Z,"Well, they did before servers went down ;)"
+,drhitman,2012-08-09T19:45Z,"This key worked for vmware install 8M9BN-YB7W9-YV3VJ-7WMGG-MKH3V ,,,,Ive tried the N edition and this key work for Non N edition   "
+,drhitman,2012-08-09T19:56Z,"I used this key when installing inside vmware ,this is for non N x64 only 8M9BN-YB7W9-YV3VJ-7WMGG-MKH3V  and here is a screenshot of windows isn't activated yet. "
+,Alpha.Omega,2012-08-10T04:14Z,info does not say how many days is the trial.. simply says not yet activated blah blah.. where to find how many days left for the trial to expire..? pls educate...
+,jeromesnail,2012-08-14T12:48Z,"Just follow the instruction
+
+
+Clean Your DNS Cache
+
+1) Open CMD with Admin rights.
+
+ipconfig /flushdns
+
+2) Reboot system
+
+3)Set TCP/IPv4 server addresses:
+
+Preffered DNS server: 8 . 8 . 8 . 8
+Alternate DNS server: 8 . 8 . 4 . 4
+
+4). Restart the system. (restarting PC is important)
+
+5). Run cmd as administrator.
+
+6) Enter following commands one by one: 
+
+slmgr -skms benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net
+
+slmgr -ato 
+
+Restart the system"
+,Alpha.Omega,2012-08-20T05:47Z,"anyone else knows where or how to know how many days left before the trial expires, BECAUSE IT DOES NOT STATES in the info, IT ONLY SAYS ""NOT ACTIVATED,"" "
+,2010kaiser,2012-09-03T14:32Z,"Any requests for seeding/re-seeding should be posted at the forum below. You'll get a much quicker response from the uploader/s
+
+https://forum.suprbay.org/index.php"

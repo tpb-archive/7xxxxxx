@@ -1,0 +1,40 @@
+MICROSOFT.WINDOWS.8.PROFESSIONAL.RTM.X64.ENGLISH.DVD-WZT
+
+BUILD: 6.2.9200.16384.WIN8_RTM.120725-1247
+
+FILE: Windows_8_Pro_EN-US_x64.ISO
+
+SIZE: 3,581,853,696 byte
+
+SHA-1: E63C1D3733532ABC7AB28F3D61526E361E80271A
+
+MD5: 7A10316A79A543F2BF4953A4332B4323
+
+CRC: 5D7BB5F4
+
+NOTE: this is original M$ image.
+
+This distributive can be installed with Retail or Volume non WMC (Windows Media Center) license keys.
+by W.Z.T
+8|3|12
+
+p.S: greetings from sunny Finland, the country of Santa Claus and reindeer...
+
+Retail
+Core = FB4WR-32NVD-4RW79-XQFWH-CYQG3
+Professional = XKY4K-2NRWR-8F6P2-448RF-CRYQH - retail key
+ProfessionalWMC = RR3BN-3YY9P-9D7FC-7J4YF-QGJXW (Upgrade only, can't be used on WinPE) - retail key for Windows Media Center
+
+Volume
+gvlkCore=BN3D2-R7TKB-3YPBD-8DRP2-27GG4
+gvlkProfessional=NG4HW-VH26C-733KW-K6F98-J8CK4
+gvlkProfessionalWMC=GNBB8-YVD74-QJHX6-27H4K-8QHDG
+
+These keys are just for installing windows 8
+They DO not activate windows 8
+
+ReArm for 30days.
+
+1. regedit HKLMSoftwareMicrosoftWindows NTCurrentVersionSoftwareProtectionPlatform and change the value for SkipRearm to 1
+2. run "slmgr -rearm" (note! this will also reset the above mentined value to zero again)
+3. Now the 30 day activating time is reset to 0 once more (You can only do this reset 7 times)

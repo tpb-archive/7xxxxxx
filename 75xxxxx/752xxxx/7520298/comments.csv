@@ -1,0 +1,235 @@
+﻿User Type,Username,Date,Text
+,prodallas,2012-08-10T13:52Z,"the file is huge,i'm really wanting some of this info, you cant break this down or compress?No way is my connection gonna ever download 14 gigs on one file. Can you help?"
+,CAPTAINBEYEO2,2012-08-10T21:07Z," @prodallas    
+                 if you are using UTORRENT.
+download the file,and as it is downloading pause it. Then in utorrent window click on files at bottom middle of screen. you will see all in the D/L FILE. highlight the D/L IN MAIN WINDOW
+RIGHT CLICK ON WHAT YOU DO NOT WANT
+THEN ON DO NOT D/L THIS. It will take a liitle bit
+to get what you want but this is how i do it.
+Some one may have better way of doing it.
+
+                                good luck 
+
+
+
+"
+,luka1002,2012-08-13T20:58Z,"Part 1: Active Directory Infrastructure
+
+1.1 Introduction to Active Directory
+1.2 New features
+1.3 Active Directory under the hood
+1.4 Forest and trees
+1.5 Active Directory system requirements
+1.6 Installing Active Directory
+1.7 Installing Active Directory On Server Core
+1.8 Global Catalog
+1.9 Operation Master Roles
+1.10 Moving operational master roles
+1.11 Operation Master Role and Global Catalog Placement
+1.12 Seizing operation master roles
+1.13 Setting an external time source
+1.14 Domain function levels
+1.15 Forest function levels
+1.16 Upgrading Active Directory
+1.17 Adding a child domain
+1.18 Uninstalling Active Directory
+1.19 Trusts
+1.20 Sites and Subnets
+1.21 Replication"
+,luka1002,2012-08-13T20:59Z,"Part 2: Maintaining Active Directory objects
+
+2.01 User Accounts
+2.02 Creating a user
+2.03 Computer accounts
+2.04 Windows Groups
+2.05 Group Types
+2.06 Default Local Groups
+2.07 Built-in Domain Groups
+2.08 Domain Groups
+2.09 Special Identities
+2.10 AGDLP
+2.11 AGUDLP
+2.12 Universal Group Caching
+2.13 Contacts
+2.14 Protected Admin
+2.15 Managed Services Accounts
+2.16 Offline Domain Join
+2.17 Organizational Units
+2.18 Delegation of Control"
+,luka1002,2012-08-13T21:01Z,"70-642 Windows Server 2008 Network Infrastructure
+
+Part 1: Configuring Addressing and Services
+
+1.01 Introduction to IP
+1.02 How to convert decimal to binary
+1.03 The OSI Model
+1.04 IPv4
+1.05 IPv6
+1.06 IPv6 Transition Technology
+1.07 Configure DHCP
+1.08 Configure Routing
+1.09 Windows Firewall
+1.10 IPSec
+
+IPv6 Bonus Routing Video Part 1 Release date 2012/07/23
+IPv6 Bonus Routing Video Part 2 Release date 2012/07/23
+
+Part 2: Configuring Name Resolution
+
+2.1 DNS
+2.2 DNS Zones
+2.3 DNS Records
+2.4 DNS Replication
+2.5 Domain Name Resolution
+
+Part 3: Configuring Network Access
+
+3.1 Configure Remote Access
+3.2 Configure Network Access Protection
+3.3 Configure Network Authentication
+3.4 Configure Wireless Access
+
+Part 4: Configuring File and Print Services
+
+4.1 Configure a file server
+4.2 Configure Distributed File Server (DFS)
+4.3 Configure Shadow copy service
+4.4 Configure backup and restore
+4.5 Manage disk quotes
+4.6 Configure and monitor print services
+
+Part 5: Monitoring and Managing a Network Infrastructure
+
+5.1 Configure WSUS
+5.2 Capture performance data
+5.3 Monitor event logs
+5.4 Gather network data"
+,luka1002,2012-08-13T21:01Z,"70-643 Windows Server 2008 Applications Infrastructure
+
+Part 1: Deploying Servers
+
+1.1 Deploy Images Using Windows Deployment Services
+1.2 Microsoft Windows Activation
+1.3 Hyper-V and Virtual Machines
+1.4 Configure High Availability
+1.5 Storage
+
+
+Part 2: Remote Desktop Services
+
+2.1 Terminal Services RemoteApp
+2.2 Terminal Services Gateway
+2.3 Terminal Services Load Balancing
+2.4 Monitor Terminal Services Resources
+2.5 Terminal Services Licensing
+2.6 Terminal Services Client Connections
+2.7 Terminal Services Server Options
+
+Part 3: Web Services Infrastructure
+
+3.1 Web Applications
+3.2 Manage Web Sites
+3.3 Configure FTP server
+3.4 Simple Mail Transfer Protocol (SMTP)
+3.5 Manage Internet Information Services (IIS)
+3.6 SSL Security
+3.7 Configure Web site authentication and permissions
+
+
+Part 4: Network Application Services
+
+4.1 Windows Media Server
+4.2 Digital Rights Management
+4.3 Windows SharePoint Server Options
+4.4 Windows SharePoint e-mail integration"
+,luka1002,2012-08-13T21:02Z,"70-680 Windows 7
+
+Part 1: Installing, Upgrading, and Migrating to Windows 7
+
+1.1 Windows 7 Editions
+1.2 Clean install Of Windows 7
+1.3 Install methods and dual booting
+1.4 Upgrading to Windows 7
+1.5 Installing Windows 7 from the network
+1.6 Migrating to Windows 7
+
+Part 2: Deploying Windows
+
+2.1 Customizing Windows 7
+2.2 Creating A Reference Image
+2.3 Performing Maintenance On A Image
+2.4 Deploying a WIM Image
+2.5 MDT 2010
+
+Part 3: Configuring Hardware and Applications
+
+3.01 Virtual Hard disks
+3.02 Configuring devices drivers
+3.03 Troubleshooting devices drivers
+3.04 Configuring USB
+3.05 Application Compatibility
+3.06 Application Compatibly Toolkit
+3.07 XP Mode
+3.08 Application restrictions
+3.09 App Locker
+3.10 Internet Explorer
+
+Part 4: Configuring Network Connectivity
+
+4.1 Introduction to the Internet Protocol (IP)
+4.2 Internet Protocol Version 4
+4.3 Internet Protocol Version 6
+4.4 Troubleshooting IP
+4.5 Wireless Networking
+4.6 Windows Firewall
+4.7 Windows Firewall with advanced security
+4.8 Remote Management
+4.9 Remote Management Tools
+
+Part 5: Configuring Access to Resources
+
+5.01 Folder Virtualization
+5.02 HomeGroup
+5.03 Folder Sharing
+5.04 Managing Windows 7 Printers
+5.05 Configure File and folder access
+5.06 NTFS Special Permissions
+5.07 Encrypting File System
+5.08 Configure User Account Control
+5.09 Authentication and Authorization
+5.10 Certificates
+5.11 Smartcards
+5.12 Rights and elevating permissions
+5.13 BranchCache
+
+Part 6: Configuring Mobile Computing
+
+6.1 Bitlocker
+6.2 Bitlocker to go
+6.3 Bitlocker and Recovery
+6.4 DirectAccess
+6.5 Offline Files
+6.6 Transparent Caching
+6.7 Power Options
+
+Part 7: Monitoring and Maintaining Systems that Run Windows
+
+7.01 Remote Connections
+7.02 Windows Updates
+7.03 Manage disks
+7.04 Dynamic disks
+7.05 Disk Defragmentation
+7.06 Disk Tools and Removal Device Policy
+7.07 Event Viewer
+7.08 Event Forwarding
+7.09 Event Forwarding source initiated
+7.10 Data collector sets
+7.11 Performance Options
+
+Part 8: Configuring Backup and Recovery Options
+
+8.1 Backup and Restore
+8.2 System Recovery Image
+8.3 System Restore Points
+8.4 Previous versions
+8.5 System recovery options"

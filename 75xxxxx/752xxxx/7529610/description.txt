@@ -1,0 +1,13 @@
+The prevention of terrorist attacks on critical infrastructure requires the ability to detect various discreet but identifiable indicators of pre-attack preparations. Only by uncovering such attack preparations can we take actions designed to deter or intercept a terrorist strike before it begins. While international terrorist organizations are using increasingly sophisticated methods, their modus operandi does contain a critical vulnerability: meticulous pre-attack preparations require the terrorists to approach a target facility on multiple occasions to identify physical and procedural vulnerabilities, probe for weaknesses and conduct practice missions. For example, the terrorists planning the Khobar Towers attack in Saudi Arabia reportedly surveilled the facility on 40 occasions.
+
+The TrapWire system provides the following capabilities:
+
+ΓÇó A mechanism for a facilityΓÇÖs personnel to record suspicious activity data in a structured format;
+ΓÇó A mechanism to identify and link related events following human review;
+ΓÇó The ability for a facilityΓÇÖs Chief Security Officer (CSO) to identify threat trends at his/her facility (increasing or decreasing) and to drill down into the specific event reports that generated those threats;
+ΓÇó Alerts to the CSO of events that do not affect the threat score but may nevertheless be of interest;
+ΓÇó The ability to notify a facility of a changing threat level within its industry or geographical location;
+ΓÇó A mechanism to correlate external events such as watch list events for suspected terrorists or stolen vehicles with other observed event data already within the system;
+ΓÇó The ability to correlate events occurring at different facilities by related individuals, and to notify all affected facilities of the increased threat to their facility based on this related activity;
+ΓÇó A mechanism to reduce the system-calculated threat level at a facility, based upon the time since the last threatening event; and
+ΓÇó Notifications, alerts, and possible action recommendations based on a particular siteΓÇÖs security plan, implemented via a set of rules that act upon event information.

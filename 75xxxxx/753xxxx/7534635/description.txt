@@ -1,0 +1,22 @@
+Sistema desenvolvido nos mais altos padrões tecnológicos que tem por finalidade o controle total de uma empresa e também auxiliar na tomada de decisões. É um programa totalmente parametrizado, podendo se adaptar aos mais diversos ramos de atividades comerciais.
+
+Entre os diversos módulos que o sistema possui, pode-se citar controle de estoque, clientes, fornecedores, funcionários, vendedores, contas a pagar, contas a receber, cheques clientes, cheques emitidos, PRODUTO COMPOSTO, 2 tabelas de preço, controle de consignação, ponto de venda, orçamento, pedido de compra, controle de entregas, controle de caixa, cobrança bancária, agenda de compromissos, controle de recibos, controle de atendimento, ORDEM DE SERVIÇO, Devolução, etc..
+
+Característica 
+
+PAF-ECF homologado;
+Gerador de Nota Fiscal Eletrônica (NF-e); 
+Utilização do PDV (PAF-ECF) em modo online e offline;
+Todos os layouts de relatórios podem ser criados e editados pelo próprio usuário de acordo com a necessidade;
+Importador de dados: permite que os dados utilizados em outros sistemas, inclusive as contas a pagar/receber, pagas/recebidas e cheques de clientes sejam migrados para o C-Plus 4;
+Realiza a impressão integral do boleto bancário (folha em branco);
+Gerador de Sintegra;
+Business Intelligence: curva ABC de clientes, produtos e fornecedores;
+Auditoria com gerador de log;
+Permissões de usuário;
+Cadastro de diversas tabelas de preço;
+Configuração para bloqueio de clientes inadimplentes;
+Todos os relatórios podem ser pré-visualizados antes da impressão;
+Permite salvar relatórios em diversos formatos;
+Busca preço por integração com as máquinas (busca preço GERTEC, consultando diretamente o banco de dados do C-Plus);
+Atualização do estoque através de coletor de dados Metrologic.

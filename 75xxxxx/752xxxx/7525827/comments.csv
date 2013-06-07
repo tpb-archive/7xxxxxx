@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,pjp_76,2012-08-13T00:44Z,"Well, seems like this one is complete, I've seeded all day now with 10 GB uploaded so I am done with seeding for the day, maybe some more tomorrow - but most of you should have completed their download successfully from what I see here :) Enjoy everyone :)"
+,sly guy,2012-08-13T15:53Z,when i boot from the usb it tells me to restart only and nothing happens after that i couldn't load my old windows (or restore it) had to reinstall a fresh copy =(   
+,pjp_76,2012-08-13T21:21Z,The USB is incapable of altering your hard drive unless you boot into the OSX installer and alter the Partition with Disk Utility to prepare for the install of OS X. So your statement can not be accurate.  
+,pjp_76,2012-08-13T21:48Z,Please refer to this tutorial when preparing your USB Stick: http://www.mlosx86.com/forum/mountain-lion-desktop-installation-help/11-creating-os-x-10-8-usb-installer-under-windows-7#55
+,pjp_76,2012-08-13T22:47Z,"For those of you running discrete ATI/AMD Graphics, please keep in mind - if booting into the installer fails, add PCIRootUID=1 as a kernel flag prior to booting and it should work out just fine :)"
+,kallstrom_74,2012-08-15T20:18Z,"please tell how to ""add PCIRootUID=1 as a kernel flag"""
+,jjad,2012-08-15T20:37Z,"First of all THANK YOU!
+
+I tried this on my :
+
+Gigabyte X58A-UD7 + Xeon X5677 + 6gb Ram, bios settings are according to guides all over the net.
+
+It won't let me boot into the installer, no matter what I try. npci=0x2000 pcirootuid=1 -v -x graphicsenabler=no etc etc...
+
+On your other upload the lion usb stick creator I was able to boot it, install it and even got my gtx570 detected at boot. When i run multibeast (easybeast) my gtx570 disappears from about this mac. tried adding device id to info.plist still no go. 
+
+I downloaded this and hoped it was easier to get things going but unfortunately I can't even boot into installer
+
+Got any tips or can u point me to a guide that can help me out?"
+,Neked,2012-08-16T18:21Z,"This is NOT 10.8 ML its actually 10.7.4 Lion.
+From what I've read there is no hack of 10.8 yet."
+,pjp_76,2012-08-17T01:59Z,"OK first a reply for 'neked': I see your lips moving but I do not hear any sound, check your kext permissions ... that is if you have the right kexts installed.
+
+@jjad: please post your question in the forum @ http://www.mlosx86.com and we will see to it that you get a working install, sorry that I have not been monitoring this thread in the past few days but I had other things to do. I have however no doubt that we ail get it working :) P.S. at first ... I had similar issues with TonyMacx86 based installers, fixed it for my purposes thou - however, there is an alternative torrent I can create totally independent of what TonyMac does ... so if their install method fails you, perhaps the alternative would do, but we before we do double irk, lets discuss this, I'm sure there is a solution :)
+"
+,Neked,2012-08-17T09:56Z,"Ok, I might be wrong as I've downloaded about 10 of these 10.7 and 10.8 images and all have installed as 10.7.2 or 7.3 or even 7.4 but none have installed as 10.8 yet.
+
+Also how do you install this on a netbook with Atom CPU? 
+I have tried mach_atom and it didn't work. I'm a noob when it comes to command lines for installing MacOSX so what is the command for this one for Atom CPU? I have 3 different images and they all use a different command."
+,pjp_76,2012-08-17T11:04Z,"This is the real 10.8, I know because I am running it. There is yet no way to install this on Atom, at least none made available as of yet, it can be done if the xnu source for the kernel is released and patched to bypass the CPU checks. Either way considering the amount of cpu power necessary to have a pleasant working experience with 10.8, I seriously question the Atom performance (let alone the weak performance of the GMA graphics since there is yet to be released a kext for 3150). I installed 10.7.1 successfully on my netbook but you can't even watch a youtube video properly no QE/CI acceleration ..."
+,Neked,2012-08-17T15:18Z,"I can install 10.7.3 on my Netbook but things are asking for 10.7.4 and above. When I use the software update to 10.7.4 it kills it and I get kernel panics.
+
+Is there a 10.8 install for netbooks? Or an Atom patch for this?"
+,pjp_76,2012-08-20T09:33Z,"Negative - no atom patch, yet"
+,pjp_76,2012-08-20T10:04Z,"Ups, I stand corrected - I was just about to patch it, as it turns out there is a patched kernel for Atom on 10.8 already, however if it works I do not know, have not tested it yet - anyone wanna try?
+
+http://www.mlosx86.com/viewdownload/7-experimental-kernels/12-atom-kernel-for-10-8-10-8-1-experimental.html"
+,pjp_76,2012-08-20T20:55Z,Link corrected: http://www.mlosx86.com/viewdownload/7-experimental-kernels/12-atom-kernel-for-10-8-experimental.html
+,RebelUA,2012-08-21T00:39Z,What about Bridge Helper? Does ML require it if a have Ivy? 
+,RebelUA,2012-08-21T00:57Z,"No need in BH anymore, found it myself)"
+,davidrp84,2012-08-23T01:20Z,"I need help, i have ivy bridge processor how do i install bridge helper?"
+,davidrp84,2012-08-23T01:21Z,i need help i can't install. after installing os i get mac screen saying i need to retart the system. it wont boot into os. I think its cause i have ivy bridge. how do i get bridge helper working?
+,edukees,2012-08-29T16:09Z,Can i use this in a Hp Probook 4530s???

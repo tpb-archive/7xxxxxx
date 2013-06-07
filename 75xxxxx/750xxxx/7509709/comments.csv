@@ -1,0 +1,107 @@
+﻿User Type,Username,Date,Text
+,T.F.K,2012-08-06T18:49Z,SEED and ENJOY by T.F.K team
+,xk5,2012-08-07T00:01Z,Found trojan Dropper.Generic6.ARYU.dropper in Setup..exe.   Yes that's right the setup file is named Setup..exe instead of Setup.exe :P
+,T.F.K,2012-08-07T00:49Z,"SCANED with NOD 32 5,no virus."
+,uhohzombies,2012-08-07T01:13Z,"Scanned with up-to-date Symantec NIS 2012, no virus found. Will check it on a different PC running Kaspersky as well. "
+,uhohzombies,2012-08-07T01:52Z,NIS2012 detected suspicious file activity during install and deleted some files. 
+,uhohzombies,2012-08-07T03:27Z,"For what it's worth, once the antivirus deleted the 'suspicious file', the game works perfectly fine and another scan brought up nothing malicious."
+,indla,2012-08-07T03:44Z,"Game works fine also if you install the trojan :D Spent 6 hours removing win32:sirefef-PL,  win32:BitCoinMiner-u, win32:Malware-gen, win32:Downloader-PKU.
+
+I was sloppy and avast and some other AVs don't see this one. It infects services.exe."
+,T.F.K,2012-08-07T11:39Z,"Thats not virus,that is false positive,like false positivs in cracks,enjoy :)"
+,Jaguar45,2012-08-07T12:08Z,Unfortunately this is indeed infected. Got through my protection and now my firewall got turned off automaticly. Avoid!
+,OmniNegro,2012-08-07T12:50Z,"Can anyone actually confirm there is a real virus here? False positives are another matter. If you are in denial of this, please do not reply.
+
+What is the CRC32/MD5/SHA1 of the services.exe before and after infection? If you cannot say, then you are probably full of shit. Your antiviral software wants you to think everything is infected. That is the sole reason they get your money.
+
+Can anyone confirm or deny this is the same as the same release by Postmortem? If different, then that points the finger at TFK. if not, then that points at Postmortem."
+,pedo_bear,2012-08-07T17:11Z,i installed it but it doesn't work
+,drones200,2012-08-07T19:01Z,"Infected with win32:Malware-gen, win32:Downloader-PKU.
+
+Don't bother.
+
+Tried 2 different fresh installs after wiping virus, it's originating from this program somewhere. Disables windows programs and blah blah blah, wait for a better CLEAN release."
+,indla,2012-08-07T19:13Z,"I'm just the average amateur, who with some research can remove the whatever trojan or worm i get manually once every 3 years. I bothered to login to PB for the first time in 6 years or so to warn other nice amateur users. 
+
+If you don't believe it just run the install. Pretty please. Who posts something without testing anyway? Obviosly taking cred for someone else's hard work bundling trojans.
+
+Fix for amateurs who can't do it the right way using 端bernerdy programs: move services.exe (not terminate/delete - no can do), reboot, windows can't start but will repair, then clean up with your choice AV. "
+,Kaitian868,2012-08-07T19:23Z,"This ""POSTMORTEM"" group infected it on their end.  Do not say that they are false positives due to the nature of cracks.  It is really infected with multiple viruses."
+,OmniNegro,2012-08-08T01:29Z,Sounds like a prime candidate for a nuked release. Do not use. Postmortem made a big mistake here.
+,multika_xd,2012-08-08T02:08Z,"This is for sure infected with a virus/malware.
+
+The virus will redirect your browser to fishy websites."
+,multika_xd,2012-08-08T02:17Z,"Reported scumbag.
+
+Do not download! VIRUS!"
+,M00Shr00ms,2012-08-08T07:33Z,"I feel the need to warn all of you.    This version is indeed tampered with.    The clean version going around on Usenet will be compared.
+
+Let's start with comparing the .bin files.
+
+This version is 378,454 kb 
+Untampered is 381,339 kb 
+
+Which shows that the files were taken altered and then re-imaged back into a .bin  funny enough the altered version is less in size because of the better compression.
+
+Not convinced?   Let's take a look into the image itself when mounting it.   The most damning this is the error in the renaming of the .exe   
+
+The normal version is  Setup.exe  with a size of 327,446 kb
+
+This version is Setup..exe   and 324,943KB in size.
+
+Not the extra "" . "" in the exe a clumsy error which cannot be simply done to the file if it was in it's original image.   Go ahead and try renaming a file  while you are mounting it through a img  with D-tools.   You cannot do it.   
+
+This is proof of tampering as they had to copy and paste the files out,  alter them  and then create a whole new img file that can be mounted.
+
+While this is no doubt the game and will likely work it is certainly tampered with so the warning of infections others gave is no doubt true.       I would beware anything this T.F.K fellow is sharing.
+
+If  T.F.K.  himself or anyone here wishes to challenge my claims I am more than willing to take and post side by side screenshots proving all of this.
+
+Oh and T.F.K.  if your going to do this perhaps you should at-least   VPN, kid.    It would be a shame if somebody decides to have fun at your expense. "
+,DrunkPollock,2012-08-09T06:10Z,can someone upload a proper
+,Riael,2012-08-09T11:12Z,"Scanned with Avast Internet Security: No virus, Scanned with Malwarebytes: No Virus
+Scanned with HitMan Pro: No virus
+
+The setup is indeed setup..exe instead of setup.exe and it gave an error at first try but then it installed the game, and my firewall wasn't turned off and nothing changed... Scanned and rescanned everything with these 3 programs and nothing sooo... well for me it isn't virused, good luck getting rid of the virus in your computer."
+,Riael,2012-08-09T11:18Z,"Also the bin is 378,454 Kb, if you want screenshots I can give them to you, WTF I just downloaded now and it has no virus, and my setup..exe is neither 327,whatever or 324 is 332,741,120 bytes, post whatever side by side pictures you want, I'll post mine and show you the size of what's in this torrent."
+,Nanijirobi,2012-08-09T11:36Z,If this is infected with win32:sirefef-PL i seriously recommend not even trying to install. Last time it disabled all antivirus protection and uses up all available CPU processing power causing massive heat build up. Had to reformat last time I got this. It's a bitch. AVOID THIS DOWNLOAD! T.F.K should be banned.
+,I_Hate_TFK,2012-08-09T12:02Z,"This is my first post obviously. I would like to share my wonderful f-ing experience. So I downloaded this assuming it was legit torrent, and unfortunately the only one on piratebay. Whoever made this freaking virus infected torrent, should do the world a favor and... well you can figure it out. Nevertheless after installing the game, my computer shut down all my firewall and any anti-malware. It causes windows (so long as connected to internet) to restart every minute. I had to spend 2 hours just researching on how to fix this in layman terms (fortunately have an iPad, suck it virus makers) avast founded 3 viruses located in the ""windows"" folder. So I uninstall the game removed all the files and it seems to be stable even with it registering 3 infected files. Seems system restore will work and Thank God for so many wonderful system restore points. All seriousness whoever created this virus might feel high mighty now, but I'm sure there will be time where something will go right between your eyes scumbag. 
+
+Three infected files (Win32:Sirefef-PL (RTK) (twice), NSIS:Downloader-SZ(Trj)"
+,adawadawada,2012-08-11T16:37Z,"I guess I'm sort of lucky here, judging by the comments -- for me, the installation simply didn't work. Renamed setup..exe to setup.exe, sort of worked, but didn't.
+
+No crashes, no virus, but no game. "
+,Colsta,2012-08-11T16:53Z,"VIRUS, do NOT install!"
+,Arathian,2012-08-11T20:09Z,"God damnit you fucking asshole.
+
+Yes, this has a virus. No, it is NOT a false positive, I am sorry.
+
+Can somebody upload a good copy?"
+,M00Shr00ms,2012-08-12T04:11Z,"Riael learn to read I said the tampered (This version) is the 378,454 kb    when the   true release was a differing size.
+
+Furthermore how would you excuse the installer's name blunder.  This is clearly a tampered release as again my version taken off of Usenet lacks this blunder and differs in size.
+
+The reason why your anti-virus has failed to find anything is because compressed files are not as easy to scan. (and impossible if pass-worded)   The installer is not only a  tool to do a quick and easy install process but it also does compress.
+
+Go ahead begin to install the game with a good anti-virus that is up to date while having the real-time shield up it will surely pop up.
+
+In-fact just get Webroot's SecureAnywhere  do that.  Start the install process.  After it alerts you go ahead and assume it's a false positive and install anyways.  Then do a full system scan and then come back here and  try to tell everyone here it's not infected. 
+
+
+As for everyone else feel free to do the same. But please do not listen to this fool.  He is either a troll trying to get you infected,  T.F.K.  himself trying to get you infected,  or really is a idiot.
+"
+,NoName342,2012-08-12T10:57Z,"This is indeed infected. The game does work, however the torrent has been packed with a few wonderful 'extras' which will infect your windows services.exe among others. 
+
+You can remove the viruses, but I notices things like hidden remote desktop connections in my program files and random redirects to suspicious websites. 
+
+Avoid this torrent!"
+,dylanvncnt,2012-08-13T03:44Z,"Horrible, virus infested shit. Many of this guy's torrents are complete shit that he either stole from someone else (Hitman Sniper Challenge) or is virus infested (this one), he should get his account banned or removed or something."
+,neko_ceko,2012-08-13T15:30Z,Could someone upload a one without a virus please?
+,tadchav,2012-08-14T00:40Z,I have not yet downloaded this torrent but from seeing the comments I will probably not. If you want to take the risk then fine but ALWAYS take a look at the comments and see if the uploader has a skull. Remember pirating always has risks.
+,ArsenicJello,2012-08-17T19:25Z,"Definitely do not use.
+
+Avast picked up a MSIL:Dropper-XM virus in the ""Setup..exe""
+
+Really, two dots? How dumb can you be?"
+,DeathMan1999,2012-08-20T15:12Z,IT'S A VIRUS! DO NOT DOWNNLOAD! And yes it's not a false positive
+,ascorbic,2012-08-21T07:03Z,Why is this still even up? 

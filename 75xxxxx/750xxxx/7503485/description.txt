@@ -1,0 +1,57 @@
+
+Description
+
+Image capture, image editing and text authoring, together at last!
+
+Many screen capture applications let you work with one picture at a time. But combining multiple screenshots into clear documents is a pain. It's such a pain that most of us don't take the time to do it, even though we KNOW our clients, co-workers and friends would like us to use more pictures when we are trying to help them.
+
+Clarify gets rid of all of the hassle and frustration of creating documents out of screenshots. Say goodbye to working with multiple screen capture, image editing and word processing applications and say hello to instant productivity.
+
+Clarify lets you:
+
+ΓÇó Capture multiple images and turn them into a document
+ΓÇó Add text and annotations with simple, integrated tools
+ΓÇó Share your document via email, PDF, Dropbox or Clarify-it.com
+
+FEATURES
+
+ΓÇó Capture windows or regions
+ΓÇó Import photos or other image files
+ΓÇó Assemble multiple images or screen captures into a document
+ΓÇó Easily reorder screen captures
+ΓÇó Easily replace images (Clarify remembers the size and location of the original capture making updates a snap)
+ΓÇó Crop and resize images
+ΓÇó Add borders or picture frames
+ΓÇó Add arrows, boxes, circles, highlights, text annotations and numbers
+ΓÇó Blur out sensitive information
+ΓÇó Export as PDF
+ΓÇó Export individual images or all images in a document
+ΓÇó Share online via Dropbox or Clarify-it.com
+ΓÇó Copy RTF content to emails, word processing documents or Evernote
+
+
+What's new v1.1.3:
+
+Changes:
+
+Name of window captured is now inserted into the step title on Windows.
+
+
+Fixes:
+
+Clarify now works on Apple computers with Retina displays.
+Fixed a crash that was occurring on some Mountain Lion installs.
+Quitting Clarify during a screen capture session by means of a keyboard shortcut now works properly.
+Pressing the return key in the spell check suggestion field was not tabbing to the next control.
+Screen capture now includes all layered windows on Windows.
+When opening a document window an error could occur when positioning and sizing the document window.
+Certain characters were not being escaped in the header and footer strings. This would cause PDF generation to fail.
+Setting the text color for a PDF template would not update the template properly.
+Setting the footer text color for a PDF template would not affect PDF output.
+Fixed some issues with text running into the footer in PDF output.
+PDF footer text hint said to use html formatting when in fact it doesn't accept html formatting.
+Clicking the star icon in the web accounts/PDF template lists was not turning off the default account setting.
+
+Requirements: OS X 10.6.6 or later
+
+Credits to AJhacks

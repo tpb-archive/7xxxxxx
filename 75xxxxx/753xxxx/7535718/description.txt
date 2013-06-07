@@ -1,0 +1,28 @@
+ http://en.wikipedia.org/wiki/Windows_Preinstallation_Environment
+
+
+1. Paragon Hard Disk Manager 12 (v10.1.19.15808) Professional:  
+http://www.paragon-software.com/business/hdm-professional/
+
+
+2. Symantec Ghost 11.5.1 (build 2269) Corporate Edition:  
+http://en.wikipedia.org/wiki/Ghost_(software)#Symantec_Ghost_Solution_Suite_2.5
+
+
+3. EaseUS Partition Master 9.1.0 Server Edition:  
+http://www.partition-tool.com/easeus-partition-manager-server/
+
+
+4. EaseUS Todo Backup Advanced Server 4.6:  
+http://www.todo-backup.com/business/advanced-server-backup.htm
+
+
+5. HDClone 4 (v4.07) Professional Edition:  
+http://www.miray.de/products/sat.hdclone.html#prof
+
+
+
+
+Burn winpe_x86.iso onto cd/dvd to create bootable media including the above apps.
+
+In order to create a bootable USB, extract winpe_x86.iso using WinRAR and drop the contents onto bootable USB made using the following guide:  http://theitbros.com/formatting-winpe-3-1-flash-drive-dism

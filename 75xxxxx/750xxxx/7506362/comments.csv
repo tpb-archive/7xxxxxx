@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+,TheEmpathicEar,2012-08-05T19:46Z,"Does this need to be activated? And, if so, will Windows Loader work for Windows 8 as well as Windows 7?"
+[H],Chris-Aksel,2012-08-05T19:56Z,This needs to be activated but there isn't a loader yet to activate it. I think it will be out in 1-2 week so unitill you can try it for 30days.
+,TheEmpathicEar,2012-08-05T20:32Z,"Ok, thx. I think I will wait for a loader or something else before I invest myself in it."
+,boscoboscowitz,2012-08-05T22:38Z,"What does WZT stand for? I have tried to find a definition, and I have failed."
+[H],Chris-Aksel,2012-08-05T23:25Z,WZT is a release group. nothing to do with windows 8.
+,jonathan21,2012-08-06T05:36Z,thanks so much chris look forward to trying
+,akb1ajay,2012-08-06T08:43Z,Would Win 7 software and drivers work with Windows 8. 
+,extracube,2012-08-06T12:11Z,"@Chris-Aksel, re: ""you can try it for 30days.""
+
+From what I understand is even if a loader or crack doesn't come out soon, you can still extend the 30 days again by using the command ""slmgr.vbs /rearm"" (without the quotes) in the command bar.  I've never used it so I don't know a) how long it will extend the system functionality, and b) how many times you can use it.  Anyone know?  Please tell us."
+,future.computer,2012-08-06T16:00Z,thx man but I have small question ! yesterday I installed windows  8 enterprise non n I mean it's have windows media player so whet the different ?  between this and between enterprise ?
+[H],Chris-Aksel,2012-08-06T18:11Z,"Until some activating bypass thingy comes along you could always just rearm
+
+1. regedit HKLMSoftwareMicrosoftWindows NTCurrentVersionSoftwareProtectionPlatform and change the value for SkipRearm to 1
+2. run ""slmgr -rearm"" (note! this will also reset the above mentined value to zero again)
+3. Now the 30 day activating time is reset to 0 once more (You can only do this reset 7 times)"
+[H],Chris-Aksel,2012-08-06T18:13Z,Windows 7 drivers dont go to windows 8. ati & nvidia released they graphic drivers for windows 8 for others dont know yet.
+,topjimmy68,2012-08-06T23:26Z,"Found this in the comments of http://thepiratebay.se/torrent/7500071/WINDOWS_8_ENTERPRISE-N_RTM_X64_VOLUME_ENGLISH_BOOT_DVD_%5BThumperD
+
+Open command promt as admin
+If you are using Pro, type these lines ONE BY ONE!
+slmgr -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms-c.no-ip.org:1688
+slmgr.vbs -ato
+
+If you are using Enterprise:
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms-c.no-ip.org:1688
+slmgr /ato
+slmgr /dli
+
+For me, activation details shows ""Your license to use Windows expires on 2/2/2013""
+Plenty of time for now, if this holds up."
+,topjimmy68,2012-08-07T16:48Z,Unfortunately the KMS server in Russia looks to have been taken offline http://forums.mydigitallife.info/threads/35379-What-are-the-options-to-activate-Windows-8-RTM-if-any/page101
+,ziso1987,2012-08-07T18:13Z,i need to burn it or i can use the daemon tools?
+,Equnax,2012-08-07T23:21Z,"slmgr /skms 91.149.135.121
+slmgr /ato
+slmgr /dli
+
+THIS WORKED ON ENTERPRISE 9200 BUILD ! ! !"
+,andddrei,2012-08-08T07:57Z,http://7pmtech.com/topic/1803-windows-8-kms-activator/
+,andddrei,2012-08-08T08:44Z,"alternate activation server
+91.149.135.83
+activation servers are not up all the time.
+keep trying, search for others servers."
+,harry989,2012-08-08T18:45Z,"i am unable to boot from USB.
+what to do..
+pls help"
+,RASTAVIPER,2012-08-08T22:11Z,"How safe it to put our personal email and password to the MAIL service of this leaked version?
+I mean, can MS check us and ban us or close our email accounts?"
+,sharic19,2012-08-16T07:45Z,This KMS server is working till now 91.149.155.116. But I still get an error in the activation. http://img442.imageshack.us/img442/7420/capturenb.png
+,za3af,2012-08-16T10:43Z,"it seems to be a win7 kms server, not win8
+
+that's why it's not working"
+,salim_2294,2012-08-23T18:11Z,Can Please anyone tell me how to activate my windows 8......I m running windows 8 pro with WMC.............. it wud be of gr8 help............ thanx
+,narayanmu,2012-08-26T09:38Z,"Need to activate windows pro before it times out!
+
+Somebody help!
+
+But on my Acer MINI many features are disabled due to resolution issue!
+
+What to do?"
+,Mayanktaker,2012-08-31T14:10Z,"Working trick for both editions. :D - 
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms.sjtu.edu.cn
+slmgr.vbs -ato
+
+Note : Enterprise users try toskip first step first and let see if it works. Coz it works for me otherwise add 1st step too.
+
+Working and activated successfully ....
+Enjoy :)"
+,Blacker.Death.Metal,2012-09-02T14:45Z,"Everybody should now know that the server mentioned in the previous post is down. As of 02/09/2012, there are currently no kms servers to activate windows.
+
+So for the sake of not annoying people, please do not post any ""this is how i did it"" posts until you can confirm that the server is back online, or a new server is known."
+,wannabhacker,2012-09-11T06:17Z,Thanks and Chris is that you on the desktop pic  lol
+,ow42x1,2012-09-17T09:31Z,"STILL SELLING LEGIT RETAIL AND FULLY ACTIVATED KEYS FOR LIFE!!!
+
+So if you are still having trouble activating this copy of Windows or you just want a legit activation that won't get blacklisted I have plenty of keys left!
+
+$25 a piece.
+
+If you have any questions before or after ADD me on Skype: ow42x1"

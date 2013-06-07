@@ -1,0 +1,68 @@
+TutsPlus - WordPress Plugin Development Essentials
+
+So youΓÇÖve wrapped your mind around the process of creating WordPress themes, and now you want to take things to the next level? In that case, itΓÇÖs time to begin learning how to create plugins for WordPress. In this course, we start from the absolute basics, and work our way up to more advanced topics and techniques.
+
+
+Hooks 21m 48s
+Course Entrance 48s
+Make Your Plugin Visible to WordPress 2m 34s
+Filter Hooks 4m 32s
+Action Hooks 3m 48s
+Final Project - Additional Category Links 10m 6s
+
+Shortcodes 44m 46s
+Activating the Plugin 2m 48s
+The add_shortcode Method 3m 27s
+Attributes 3m 6s
+Specifying Content 1m 49s
+The shortcode_atts Function 4m 33s
+Tweets Project - Part 1 7m 50s
+Tweets Project - Part 2 10m 17s
+Tweets Project - Part 3 10m 56s
+
+Widgets 46m 53s
+Introduction to Widgets 1m 29s
+Making the Plugin Visible to WordPress 2m 8s
+The "Skin" for a Widget 4m 52s
+The Form Method 5m 43s
+The Widget Method 4m 31s
+Registering the Twitter Widget 1m 58s
+Creating the Twitter Widget Form 3m 30s
+Querying the Twitter API 6m 45s
+Regular Expressions 4m 11s
+The Transients API 4m 57s
+Echoing the Widget's HTML 3m 28s
+Completing the Widget 3m 21s
+
+WP_Cron 22m 55s
+Schedule Recurring Events 5m 54s
+Custom Intervals for Events 1m 49s
+Unschedule Events 3m 10s
+Create an Options Page 2m 5s
+Displaying Scheduled Events 4m 3s
+Schedule Single Events 5m 54s
+
+Options and Settings APIs 46m 40s
+Chapter Overview 1m 21s
+Adding an Options Page 4m 54s
+Beginning the Form 2m 55s
+Refactoring the Code 4m 1s
+The Settings API 11m 35s
+Creating the Submit Button 1m 28s
+Saving and Updating Options 5m 10s
+Uploading and Displaying Images 7m 57s
+Saving and Displaying Dropdowns 5m 10s
+Testing the Final Product 2m 9s
+
+Custom Post Types 30m 18s
+Chapter Overview 2m 34s
+Registering a New Post Type 4m 46s
+Menu Positioning and Custom Icons 2m 12s
+Specifying What the Post Type Supports 1m 57s
+Custom Taxonomies 6m 11s
+Custom Meta Boxes 5m 23s
+Creating a Shortcode for Testing 6m 31s
+Course Exit 44s
+
+
+Info: http://tutsplus.com/course/wordpress-plugin-development-essentials/

@@ -1,0 +1,9 @@
+Changes in 3.5.6:
+
+Fixed microphone drifting out of sync in long recordings under Windows 7 & Vista
+
+Fixed clipping with audio sources greater than 8 channels
+
+Fixed audio from mono USB devices only appearing in left channel
+
+Reduced latency of capture from external inputs

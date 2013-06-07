@@ -1,0 +1,23 @@
+All read the Activation Notes By bobiras2009.txt
+
+For Win 8 Enterprise:
+
+slmgr /skms 91.149.135.121
+slmgr.vbs -ato
+
+
+For Win 8 Professional:
+
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms 91.149.135.121
+slmgr.vbs -ato
+
+
+For Win 8 Professional With WMC:
+
+slmgr.vbs -ipk GNBB8-YVD74-QJHX6-27H4K-8QHDG
+slmgr /skms 91.149.135.121
+slmgr.vbs -ato
+
+Key to install Media Center(after you've installed Win 8 Pro):
+RR3BN-3YY9P-9D7FC-7J4YF-QGJXW

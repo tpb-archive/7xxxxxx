@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,B1ood4B1ood,2012-08-31T20:09Z,Does the video editing work on this version?  Other past cs6 versions I've seen here dont.
+,B1ood4B1ood,2012-09-01T05:31Z,so to answer my own question. NO. Video editing does not work in this version  >.<  
+,Kohaku3,2012-09-01T06:31Z,"I did everything as instructed, and when I opened the program, it said it was a 30 day trial.."
+[T],Ching_Liu,2012-09-01T06:39Z,@B1ood4B1ood - Video editing works for both versions. Please check your system's compatibility.
+,Kohaku3,2012-09-01T06:57Z,"Okay, did it again, still coming up as a trial."
+[T],Ching_Liu,2012-09-02T02:14Z,"@Kohaku3
+1. Remove the patched file amtlib.dll, by default it is located here:
+ For 32: SystemDrive  Program Files  Adobe  Adobe Photoshop CS6
+ For 64: SystemDrive  Program Files  Adobe  Adobe Photoshop CS6 (64 Bit)
+ ....OR.....SystemDrive  Program Files (x86)  Adobe  Adobe Photoshop CS6
+ 2. Copy and paste the original amtlib.dll.BAK in to the installation folder. Rename it  to amtlib.dll.
+ 3. Launch Photoshop, accept the agreement, close.
+ 4. Copy and paste the patched file amtlib.dll in to the installation folder again."
+,Tanlic,2012-09-02T16:15Z,good upload worked without a hitch :o) Thanks
+,Nutcracker,2012-09-05T20:12Z,"I only get a few languages to chose and not the one I want.
+Suggestions?"
+,shanehardy4,2012-09-05T23:41Z,What does it mean by close internet connection?
+,shanehardy4,2012-09-05T23:54Z,"It says, close internet connect, what do you mean by that?"
+,CREAM623,2012-09-06T00:30Z,"shanehardy4:
+meaning disable your internet connection after the torrent is downloaded, and durring the process of installing photoshop. Either pull the ethernet cord from your computer, or disable your wireless. Simplest step.
+
+Ching Liu:
+Thank you very much! Tried other uploads with no success, but followed your steps and succeeded first try. Cheers! +1. However, when launching program, It is showing the bubble screen for me as well. is there a way to get extended version (so screen loads with paint streaks)? thank you"
+,mcc6927,2012-09-06T05:25Z,I swapped out the amtlib.dll files and I still keep getting the trial version window
+,mcc6927,2012-09-06T05:30Z,"not exactly sure what I am doing wrong here. I renamed amtlib.dll to amtlib.dll.BAK and copied the amtlib.dll from the ""cracked.dll"" folder and pasted it into adobe photoshop folder. what did I do wrong?"
+,TONPumper,2012-09-07T16:57Z,"For everyone having issues, once you install Photoshop, you have to open it after the install without cracking it. This will bring up a screen to activate the trial. Click Agree, close Photoshop, and place the crack(s) in the proper folder(s)."
+,vonwisdom,2012-09-08T19:42Z,tks
+,Mortessa,2012-09-12T05:49Z,"So, I very stupidly installed without closing my internet connection. What is going to happen? Is it okay? What should I do?"
+,Mortessa,2012-09-12T05:54Z,"So, I did something very stupid and installed without closing my internet connection. 
+What does that mean? What should I do? does it matter? Once it was installed I realized what I did and unplugged my internet and i uninstalled."
+,aananhkr,2012-09-13T07:58Z,Can I update?? 
+,Chaos_An2neXx,2012-09-15T07:23Z,does update work?

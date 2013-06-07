@@ -1,0 +1,31 @@
+                                  By bobiras2009			
+
+Requirements: Android 2.3+
+Overview: This application act as service and use front camera of your phone for face recognition. When the face is detected, the application will prevent the locking of phone's screen. Just keep the screen on while you are looking on it.
+
+
+Keep the screen on while you are looking on it.
+
+This application act as service and use front camera of your phone for face recognition. When the face is detected, the application will prevent the locking of phone's screen. Just keep the screen on while you are looking on it.
+By other words, this app works like a Samsung Galaxy S3 Smart Stay feature but can detects eyes too.
+
+KEY FEATURES:
+
+* Compatibility mode: can run on almost all android devices
+* Run in background
+* Face detections
+* Eyes detections
+* Do not runs when screen goes off
+* Application binding: you can choose behaviour for individual application
+
+PLEASE NOTE:
+
+* When service or preview window is active, you can see a single dot (which can have different color and brightness) at the top right corner of the desktop, just behind the time. It is normal. It is a one and only possible one way to grab content from the camera of some android devices (like HTC One, Galaxy Nexus etc).
+
+* If your front camera have low resolution or small viewing angle, try to use eyes detection instead of face detection.
+
+* This application uses your phone's camera only during the face scanning. By default, it is 3 frame every 5 seconds. Between these intervals, you can run any other application which can lock and use the camera.
+
+
+
+                                  By bobiras2009			

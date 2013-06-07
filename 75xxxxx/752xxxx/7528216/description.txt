@@ -1,0 +1,7 @@
+From the Author
+
+This book has two goals: to make you a Perl expert, and, at a broader level, to supplement your current arsenal of techniques and tools for crafting applications. It covers advanced features of the Perl language, teaches you how the perl interpreter works, and presents areas of modern computing technology such as networking, user interfaces, persistence, and code generation.
+
+You will not merely dabble with language syntax or the APIs of different modules as you read this book. You will spend just as much time dealing with real-world issues such as avoiding deadlocks during remote procedure calls and switching smoothly between data storage using a flat file or a database. Along the way, you'll become comfortable with such Perl techniques as run-time evaluation, nested data structures, objects, and closures.
+
+This book expects you to know the essentials of Perl - a minimal subset, actually; you must be conversant with the basic data types (scalars, arrays, and hashes), regular expressions, subroutines, basic control structures (if, while, unless, for, foreach), file I/O, and standard variables such as @ARGV and $_. Should this not be the case, I recommend Randal Schwartz and Tom Christiansen's excellent tutorial, Learning Perl, Second Edition.

@@ -1,0 +1,29 @@
+Geopainting GPSMapEdit - this software is designed for visual authoring of GPS-maps in various proprietary cartographic formats such as Garmin, Polish format, ALAN Map 500/600, Holux, Navitel Navigator. GPSMapEdit is designed to help owners of Garmin, ALAN, Holux and Navitel Navigator. GPS receivers to create own maps. The software allows to quick loading and viewing vector maps in so-called "Polish format", comparing them with different geodetic data like raster maps, GPS tracks and waypoints.
+
+In addition, the software may be used for converting GPS-tracks, waypoints and routes among various formats. GPSMapEdit does not have installer now. The program installation does not require special efforts because the software is ready to run. Just download the latest version and unzip it into any suitable folder.
+
+Features:
+- Visualization of satellite images from Google Maps.
+- Loading of huge raster maps (format OziExplorer MAP) - over 20-30 megapixels.
+- Loading ECW and JPEG 2000 raster maps.
+- Import from MapInfo MIF/MID.
+- Export to MapInfo MIF/MID.
+- Import POI from external table file with address data, the formats are: CSV, MS Excel XLS, MS Access MDB, dBase DBF, Paradox DB, Visual FoxPro.
+- Splitting map to smaller files (the menu 'Tools | Split map to files...').
+- Saving to CRD format (ALAN Map 500 and Holux).
+
+GPSMapEdit 1.1 (update 75.1)
+The change log:
+New feature: Export to format Navikey 7 Ways .7W using the external convertor 7WaysConvC.exe (please see menu item 'File | Export | Navikey 7 Ways map (*.7w) / 7WaysConvC.exe'). 
+New feature: Export to format CityGuide .DCM using the external convertor GeoConstructor.exe (please see menu item 'File | Export | CityGuide map (*.dcm) / GeoConstructor'). 
+Enhancement: The type set "Navitel and Garmin" has been renamed to "Universal (Navitel, Garmin etc)". Now this type set is fully available in demo mode. 
+New feature: For the type set "Universal", new "3D" tab is available in the Properties window for polygons. It allows to define the number of floors of a building. This new feature corresponds to the non-standard attribute "Floors=", which one is supported by some of the format convertors (except cgpsmapper.exe).
+In addition, the number of floors may be modified using corresponding item of the context menu. 
+Enhancement: The context menu item 'Show in 3D' is enabled for the type set "Universal" for polygons having floors.
+The window "3D View" takes the floors into account on buildind 3D-scene. 
+Enhancement: In the "Map Properties" window, changing of the type set and pressing "Apply" button causes change of available tabs, if necessary. 
+Enhancement: In the "Map Properties" window, new tab for type set "Lowrance" and for "Navitel" is provided. 
+Enhancement: For the type set "Lowrance", the new non-standard attribute "LcmDivDepths=Y" is supported in the MP file header.
+It may be turned on/off using the new tab "lcmBuilder" of the "Map Properties" window.
+If the attribute is presented, all depth and elevation values are divided by 3.28084 (feet per meter) before exporting to Lowrance .LCM. 
+and more...

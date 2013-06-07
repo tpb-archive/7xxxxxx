@@ -1,0 +1,4060 @@
+﻿User Type,Username,Date,Text
+[V],ThumperTM,2012-08-06T23:40Z,enjoy & seed
+,toiiuvn,2012-08-07T00:05Z,"Where are the hash codes of these files? Are they untouched? 
+
+Thanks!!"
+,jmcc84,2012-08-07T00:10Z,is there a way to activate it already? how can i do it?
+,brucie36,2012-08-07T01:02Z,"This activation method is for 180 days only! It means you have to rearm it every 6 months or until a better activation method comes up in the next few weeks. Good luck!
+
+1. Install Win8 offline.
+2. Start Windows.
+3. Set the time properly according to your region. Additionally, click Internet Time tab > Change Settings > synchronize with ""time.windows.com"" > OK
+4. Point your cursor to the lower left hand corner of the screen. Right click. Open CMD as Admin.
+5. Type this (without the quotes): ""slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4""
+6. Press Enter.
+7. Type this (without the quotes): ""slmgr /skms kms-c.no-ip.org:1688""
+8. Press Enter.
+9. Type this (without the quotes): ""slmgr.vbs -ato""
+10. Press Enter.
+11. Click OK.
+12. Restart your computer.
+13. The End.
+
+PS. Connect to the internet and download the updates that you want and hope to the fucking spaghetti monster that Steve Ballmer doesn't find you ;)
+"
+,NumbedChaos,2012-08-07T05:01Z,"@brucie36 : I can't believe it worked ! Windows is activated, the watermark's gone and the Personalization options work ! Thank you oh so very much. "
+,pfragment,2012-08-07T09:05Z,"Is this bootable?? and  @ThumperTM whats the difference of this torrent to this you release (below)??
+
+http://thepiratebay.se/torrent/7500071/WINDOWS_8_ENTERPRISE-N_RTM_X64_VOLUME_ENGLISH_BOOT_DVD_[ThumperD"
+,jetbuster,2012-08-07T09:59Z,"@pfragment that is a European business edition http://en.wikipedia.org/wiki/Windows_8_editions
+have a look. I think because it's European there's no windows media player"
+,Alpha.Omega,2012-08-07T12:10Z,"fyi2otherswhodontknowyet:
+windows 8 has 3>> windows8_starter/basic vis.a.vis windows7_starter/basic, windows8Pro=Windows7Ent/Pro, Windows8Enterprise=Windows7Ultimate., the N version is the one released without the WMediaPlayer."
+,shitdog1234,2012-08-07T13:53Z,"Hi brucie 36.
+I have try your metode to activate my Win 8 Pro.
+But get an error , when I come to step 9 , the error say´s :"" The Software Licensing Service reported that the computer could not be activated . No Key Management Service (KMS) could be contacted.""
+I have install my win. 8 Prof.  without connection to the internet , do you have a solution for this error ?"
+,emil50,2012-08-07T17:06Z,"shitdog1234
+use first My_WCP_Watermark_Editor"
+,shitdog1234,2012-08-07T17:41Z,"Hi emil50.
+And where can I find this ? When I click on your username , you dont have any torrents here , please tell Me where I can find this , thank you ."
+,anonimul,2012-08-07T17:46Z,"If you are looking for a detailed step by step installation guide, you can find one here: http://www.7tutorials.com/how-make-clean-installation-windows-8"
+,shitdog1234,2012-08-07T17:59Z,"Hi again emil50.
+I google this program , and found it , I use this , but it dont remove my watermark .
+anonimul I will try go to your link , and see if it can help me , thank you."
+,emil50,2012-08-07T19:09Z,"try one of pirate bay,use after message,,activate
+windows,,appear on desktop"
+,JoeMatey,2012-08-07T21:55Z,"FYI, this ISO contains a virus:
+
+ Directory of W:supporttools
+
+07/26/2012  03:23 AM              .
+07/26/2012  03:23 AM              ..
+07/26/2012  03:23 AM            37,888 gbunicnv.exe
+               1 File(s)         38,192 bytes
+
+I have also been told that these leaked ISOs will be marked as non-genuine once the MSDN and retail ISOs are officially released."
+,MarcosDF,2012-08-07T22:20Z,the activation method is no longer working...
+,andddrei,2012-08-07T22:31Z,"this worked for me !
+slmgr /skms 91.149.135.121
+slmgr /ato
+i'm activated now :D"
+,andddrei,2012-08-07T22:49Z,"
+slmgr /skms 91.149.135.121
+slmgr /ato
+
+bam!"
+,andddrei,2012-08-07T23:04Z,http://7pmtech.com/topic/1803-windows-8-kms-activator/
+,brucie36,2012-08-08T01:18Z,"@shitdog, et.al.
+
+Sorry about that. The Russian KMS server went offline the whole day yesterday that is why you are getting that error.
+
+Fortunately, the server went online just an hour ago. Repeat the step-by-step procedure in my first post and you're good to go.
+
+I just hope that you read this before the server goes offline again. Good luck!
+
+ETA: Anddrei's post above also works."
+,KOLAVERI,2012-08-08T04:31Z,somebody post a valid screenshot of this please :)
+,KOLAVERI,2012-08-08T04:32Z,can this thing be installed and run virtually using virtuabox ???? or virtualPC???
+,andddrei,2012-08-08T08:41Z,"alternate activation server
+91.149.135.83
+activation servers are not up all the time.
+keep trying, search for others servers."
+,RyanDaLyon,2012-08-08T09:29Z,"@andddrei your other method say its invalid. Are there any other servers? And you say just search for other servers, whereabout would I search for those at, and what would I say during a google search? Thanks in Advance. "
+,andddrei,2012-08-08T09:54Z,"i'm sorry its not working for you. i got my activation using the 91.149.135.121 server.
+i posted different solutions hoping it will work for you guys also.
+i got my info from forum threads like http://forums.mydigitallife.info/threads/35640-Windows-8-KMS-Activation/page13
+you can try google with key words like ""kms server activation windows 8"" and limit the results for the past 24hours only.
+this is how i did it."
+,xpmule,2012-08-08T12:37Z,"@JoeMatey
+
+0 of 42 (no virus found)
+
+https://www.virustotal.com/file/18644e187b198cc953209a93b2076ce875021ab42be75773e3a85b5f1331b971/analysis/1344421622/
+
+its a unicode converter with english + chinese language support.
+
+I tried running it in a sandbox and nothing happened..
+
+I ran it in PEID and it is not packed.
+
+I ran it in PeExplorer and nothing looks unusual.
+
+So where are you getting your information from ?
+
+Found th virus your self ?
+Gimme the RVA where the malicious code starts and I'll debug it with OllyDBG or IDA and confirm..
+
+Also its been stated publicly by W.Z.T
+that when MSDN releases their images that none of the images from W.Z.T's RTM's releases are going to match.
+This is no secret, Its a note from the releaser.
+
+Proof ?
+If you can't prove bold claims don't make them ;)"
+,TJBab,2012-08-08T15:09Z,i couldn't install windows 8 release preview cos it didn't support PCs without NX boot....does this hav the same problem??
+,TJBab,2012-08-09T10:27Z,anyone??
+,lprshaun,2012-08-09T23:35Z,Is this iso bootable?
+,sirkam,2012-08-10T07:17Z,is only in english? I'm looking for an spanish version
+,anurag43,2012-08-10T07:28Z,y the hell no one is seeding.... getting 1 kbps.... guys seeeeeeeeeeeeeeeeed...
+,emil50,2012-08-10T14:16Z,"sirkam,install language from 9200.16384.WIN8_RTM.120725-1247_CLIENT_MULTI-HRM_CL1_X64FRE_MULT ,from pirate bay,Use CMD: lpksetup"
+,ardur,2012-08-11T01:25Z,@TJBab read this http://www.motherboards.org/gallery/8-changes-windows-8-will-drive-you-nuts?page=1  S.O.L sorry m8
+,brihan98,2012-08-11T01:50Z,"Okay ive done all the steps, but the last code wont go this is what it shows me.
+
+http://imageshack.us/photo/my-images/196/38652396.png/"
+,TJBab,2012-08-11T06:28Z,@ardur - no one was giving reply so i installed it and it's working -_-
+,YagoModz,2012-08-11T07:45Z,Will somboddy help me activate this please
+,TJBab,2012-08-11T08:53Z,installed it...but no activation.....i think the KMS servers won't be up till 15th oct...so i can wait but how long can i Run This Trial Version??
+,sly guy,2012-08-11T10:56Z,@TJBab i activated my windows till 2013/2/2 you can try and see if you are luck but they say that the server went off-line for now
+,M9999,2012-08-14T03:53Z,"guys its working,
+Just follow the instruction
+
+
+ Clean Your DNS Cache
+
+1) Open CMD with Admin rights.
+
+ ipconfig /flushdns
+
+2) Reboot system
+
+3)Set TCP/IPv4 server addresses:
+
+  Preffered DNS server: 8 . 8 . 8 . 8
+  Alternate DNS server: 8 . 8 . 4 . 4
+
+4). Restart the system. (restarting PC is important)
+
+ 5). Run cmd as administrator.
+
+6) Enter following commands one by one: 
+
+ slmgr.vbs -ipk ng4hw-vh26c-733kw-k6f98-j8ck4
+
+ slmgr -skms benderrodriguez-1-pt.tunnel.tserv28.waw1.ipv6.he.net
+
+ slmgr -ato 
+
+Restart the system
+
+it is done your computer will activate for 180 days,
+if is not activated repeat last step again.
+
+thanks to( ivaldirr ) for this useful information."
+,gorgotron,2012-08-14T05:47Z,"@M9999
+
+Thanks so much, shit worked perfect while all other servers wouldn't for me. 
+
+PS Rebooting is important. Like a dick I tried without and it did not work."
+,gorgotron,2012-08-14T05:50Z,"To clear server hosts after activation use this in command prompt ran in admin:
+
+slmgr /ckms"
+,TJBab,2012-08-14T06:58Z,how can i set the TCP/IPv4 server address??
+,TJBab,2012-08-14T07:12Z,never mind my last comment...ut shouldn't I get an activation successful or some kind of message like this??
+,TJBab,2012-08-14T07:26Z,"and also ignore my last two comments.....it's working....just do as M9999 said and u'll be activated easily.... 
+after slmgr -ato it'll say that they couldn't connect to the KMS server....just ignore it and restart the PC"
+,anurag43,2012-08-14T10:31Z,"yes this works, got my windows pro activated till feb 2013. thanks man...."
+,Blacker.Death.Metal,2012-08-14T10:34Z,"Registered win8 enterprise N, but having some issues with codecs.
+
+Now i'm trying to download this one... but its being leeched like a bitch. At this rate the kms server will be shut down before I can register  pro.
+
+And pro??? Really? What's professional about the word Pro???"
+,Sodacycle,2012-08-15T10:51Z,"For those having issues getting a KMS Activation (180 day activation);
+
+http://forums.mydigitallife.info/threads/35973-UPDATED-Windows-8-Activation-helper
+
+http://forums.mydigitallife.info/threads/35640-Windows-8-KMS-Activation
+
+_________________________________________________________________
+
+Now, anyone foresee any dangers in downloading apps or syncing with a MS Account while using this without the 180 day KMS Activation? I'm considering rolling back to the Consumer Preview until a retail activation for Professional comes out, or just buying it. ffs it's only going to be $39.99. "
+,TJBab,2012-08-15T12:11Z,what'll happen if I don't do the slmgr/ckms step??
+,ymon666,2012-08-15T23:54Z,"please tell me if I have to boot computer from DVD burned win8 or can I install from OS cuz when I install from OS I get an error in about 75% of installation ""Installation has failed""."
+,acsmith1972,2012-08-16T01:29Z,"Look, Windows 8 just sucks. The changes they made from 7 were like the change Windows ME made. It's just not worth it. It's annoying as hell to use. "
+,sharic19,2012-08-16T07:46Z,This KMS server is working till now 91.149.155.116. But I still get an error in the activation. http://img442.imageshack.us/img442/7420/capturenb.png
+,jayvon,2012-08-16T15:43Z,THE PRODUCT KEY FOR INSTALLING IS TO LONG WTF
+,vezao,2012-08-16T23:32Z,"SERIAL:
+
+NG4HW-VH26C-733KW-K6F98-J8CK4"
+,jayvon,2012-08-17T00:43Z,"@Sharic19 Can you send me a download link to that Windows 8 activator thing in your screenshot?
+My Email-jayvonswagg@gmail.com"
+,noekk,2012-08-17T04:15Z,"I tried all the activation servers and not one of them works. I get either 'not found' or 'invalid data'.
+
+Windows is still usable but it's not much fun :("
+,sachin96,2012-08-17T11:26Z,@jayvon here's the link http://7pmtech.com/threads/windows-8-kms-activator-v1-5-1.1803/
+,murganeitor,2012-08-17T18:08Z,is really that XBOX 360's games can run in this windows without emulators?
+,anakedape,2012-08-17T18:51Z,"@murganeitor
+
+Fuck no. Who said that?"
+,jayvon,2012-08-17T21:38Z,@murganeitor I wish! That would be awesome I could totally do with out the big ass game system. 
+,jayvon,2012-08-17T21:54Z,Man I cant get it activated I really want to customize Windows 8 Somebody Help!
+,FulcrumX,2012-08-18T04:19Z,"I successfully activated my W8 Enterprise by using the ff method:
+
+Volume MAK Key for Enterprise VL
+ PF9TR-KNB98-T7JPF-TWF8W-F3G7C 
+
+ How to activate your Windows 8 Pro/Enterprise:
+
+ 1. Run cmd as admin. Enter slmgr /ipk PF9TR-KNB98-T7JPF-TWF8W-F3G7C (Only for Enterprise and Pro)
+ 2. Turn off your internet connection
+ 3. Open activation window and click ""Activate"". It'll show your an error.
+ 4. After that you'll see ""Activate by phone"" button.
+ 5.  i chose united kingdom for the country, Call microsoft and enter code from message, which you will see.
+ 6. you should choose for business, If they ask about number of computer, where you will use this key, say 1
+
+this should work and your w8 should be activated for good. goodluck!"
+,thrice_a,2012-08-18T05:28Z,"@FulcrumX just tried it, in australia, they told me there was a problem with product id and they were going to transfer me to customer service so i hung up."
+,fibroptk,2012-08-18T05:34Z,Has anyone tried to VM this copy? I had another copy but it would just BSoD in VM... I figured it was just support from VMWare for the newest OS... but just seeing what others experience was.
+,FulcrumX,2012-08-18T07:42Z,"@thrice_a
+when you select the country, choose UK, always. i'm quite sure it'll work."
+,FulcrumX,2012-08-18T08:06Z,"you can also try tris product key BYXV8-9YN72-VTF7H-8G7PT-WW8X2 , go to cmd run as admin, type slmgr /ipk , then do the phone activation."
+,mihai_mix,2012-08-18T09:46Z,Windows 8 Official 32 AND 64 BIT ISO Image with Product Keys - released by MSDN and TechNet DIRECT LINKS: http://path.im/R676F2
+,asdhokker,2012-08-18T11:27Z,"yea, please do call microsoft and say that you want to activate an illegal copy of their software, lmao!"
+,umar_zulfiqar,2012-08-18T13:36Z,not activated
+,jayvon,2012-08-18T18:37Z,@ FulCrumx Call Microsoft to activate this  copy are you seriouse 
+,mohee23,2012-08-18T19:27Z,if i install on my windows 7 will all my previous data get deleted?
+,jayvon,2012-08-18T22:08Z,@mahee23 no it saves everything
+,jayvon,2012-08-18T22:10Z,@mahee23 no it saves everything even your settings.
+,UseGOOGLE,2012-08-19T00:24Z,"@asdhokker and @jayvon, really? you two can't be that idiotic. You must not realize that when you 'activate by phone' it's automated, which means your speaking to a MACHINE, you type in the code, then it's activated. Fucking idiots..."
+,raze18,2012-08-19T01:41Z,FulcrumX both product keys have been blocked
+,siomigadjura,2012-08-19T02:22Z,Works great. The only problem I've met was incompatibility with some Windows 7 drivers.
+,PARA_D0X,2012-08-19T02:44Z,I can confirm BYXV8-9YN72-VTF7H-8G7PT-WW8X2 is blocked. M$ did a much better job at locking this down this time.
+,PARA_D0X,2012-08-19T02:49Z,@FulcrumX I tried the UK phone line too same issue. I do like the girl UK bot vs the USA one less annoying. lol!
+,FulcrumX,2012-08-19T03:39Z,"yeah, seems they caught wind of the two product keys. let's just wait for new methods of activation to pop up."
+,cptbonex,2012-08-19T12:24Z,I used M9999 method for activation just now and it worked on my first try.
+,cptbonex,2012-08-19T12:25Z,In the middle of page 2 is M9999 method
+,fibroptk,2012-08-19T12:58Z,"UPDATE:
+
+This Windows version does run on VMWare. you must set it to be a Win Vista set... VM drivers won't install correctly due to the version issue, but don't try to run it as a Win 7 set because it wants a key entry before install which messes it up."
+,AJKL,2012-08-19T13:50Z,Running it currently on VMWare 8 Workstation as Windows 7 x64. Its not mandatory to put in key during new VM wizard.
+,darkangell18,2012-08-19T15:01Z,"Hello
+I try to install at vmware but every time tell me something for product key and restart the machine. Can you help me?"
+,syafique,2012-08-19T19:47Z,guys how to activated il already try the..m9999 nethod but still the same..please help me...i dont know what to do right now
+,AJKL,2012-08-19T20:33Z,"start VMware Workstation 8 
+
+create new virtual Machine
+
+CUstom -> next
+
+Hardware compatibility: Workstation 8 -> next
+
+Install the operating system later.  -> next
+
+Guest OS: Microsoft Windows ; Version Windows 7, -> next
+
+next , next, next,next, next, next,next,next,next,next (default values)
+
+FINISH
+
+
+
+DONT START THE MACHINE.
+
+You will se your created machine, you have to open Edit Virtual machine settings -> CD/DVD -> Use ISO Image file -> choose your Win dev Prev ISO FILE. -> OK button "
+,iAL3X60,2012-08-19T23:31Z,"NG4HW-VH26C-733KW-K6F98-J8CK4
+
+seems to be working mates.."
+,lky001,2012-08-20T05:28Z,So how do you activate it? It installs but the activation fails.
+,destroy2594,2012-08-20T08:48Z,Don't bother with this edition of Windows! Go here http://msdn.microsoft.com/en-us/evalcenter/jj554510.aspx and download Enterprise edition evaluated for 90 day. You only need to have an Microsoft acc ( same one using to sign in to Hotmail)
+,destroy2594,2012-08-20T08:53Z,"http://msdn.microsoft.com/en-us/evalcenter/jj554510.aspx
+
+Use this site and download Enterprise 90 days evaluated for free with Microsoft acc"
+,dilzo,2012-08-20T09:59Z,is it 32 bit or 64 bit?
+,destroy2594,2012-08-20T11:06Z,you can download both
+,georgep001,2012-08-20T16:14Z,Just wanted to say thx got mine activated threw the phone mines good forever now thx a lot thumper.
+,techranjit,2012-08-21T04:21Z,Thanks ThumperTM!! Activated  With UK NO!!
+,jayvon,2012-08-21T08:34Z,Windows 8
+,kund84,2012-08-21T10:04Z,"Professional=NG4HW-VH26C-733KW-K6F98-J8CK4
+ Professional = XKY4K-2NRWR-8F6P2-448RF-CRYQH – Retail key
+ Professional WMC = RR3BN-3YY9P-9D7FC-7J4YF-QGJXW – Retail key
+ for Windows Media Center
+ Core=BN3D2-R7TKB-3YPBD-8DRP2-27GG4
+ Core = FB4WR-32NVD-4RW79-XQFWH-CYQG3 – Retail key
+ Enterprise=32JNW-9KQ84-P47T8-D8GGY-CWCK7
+ EnterpriseN=JMNMF-RHW7P-DMY6X-RF3DR-X2BQT
+
+ Microsoft Windows 8 Default key's:
+ EnterpriseNEval =NF6DY-GHWQP-DPPBG-C32P2-DC73K
+ CoreARM =6D4CN-WMGRW-DG8M6-XX8W9-3RPT8
+ EmbeddedIndustryA =NXCTR-YXXWC-TK368-HGGTF-8YB99
+ EmbeddedE =29QNM-D667Q-9Q86B-Q93MQ-4F92H
+ CoreSingleLanguage =XBRND-QDJTG-CQJDB-7DRBW-RX6HB
+ EmbeddedAutomotive =J2ND2-BCW98-8669Y-HPBF3-RDY99
+ Professional =XKY4K-2NRWR-8F6P2-448RF-CRYQH - Retail key
+ ServerStorageStandard =RD9XF-6N3MC-2P2R3-MK2WX-C7GCW
+ ServerStorageWorkgroup =NYGPD-KK4W6-QC3XH-HX4P4-2J824
+ ServerStandardEval =QYVMN-YJ96P-79PM8-DMFC2-7CBTX
+ Starter =C3PVB-FNPQD-WR76V-FBYR7-PDG4W
+ ServerSolution =N4PDW-9PKPK-29XQJ-42MFM-CWCQ8
+ Embedded =MRPNR-JMHVH-DJYWH-TV7BT-72W4D
+ EmbeddedIndustryAE =VQ7FC-RTNC8-RHDFR-8THVR-J633X
+ ServerDatacenterEval =BJ67Q-FCN4J-82CXY-8HHQG-YG69T
+ EmbeddedIndustry =3HDCN-87G3V-FPCDF-C6HTB-79Q3X
+ Core =FB4WR-32NVD-4RW79-XQFWH-CYQG3
+ Enterprise =8M9BN-YB7W9-YV3VJ-7WMGG-MKH3V
+ EnterpriseEval =NXHGK-GRJQH-K7WVV-MTXP3-YBFDM
+ ServerHyperCore =Q8R8C-T2W6H-7MGPB-4CQ9R-KR36H
+ ThinPC =G3KNM-CHG6T-R36X3-9QDG6-8M8K9
+ ServerWinFoundation =PN24B-X6THG-274MF-YHM9G-H8MVG
+ ServerStandard =VN93G-8PVT3-W2X3H-F3X87-FJMTW
+ CoreN =VDKYM-JNKJ7-DC4X9-BT3QR-JHRDC
+ ServerMultiPointStandard =32TNQ-HMFWQ-8R933-X6VYY-WHRFX
+ ServerDatacenterCore =2GMNX-8K7D2-X968C-7P62F-8B2QK
+ ServerWeb =KN7PC-CJ492-TRM7Q-YY4R4-JHQMC
+ EmbeddedIndustryE =9VKDN-FDY34-HGK3H-TCC66-8TV98
+ ProfessionalN =BHHD4-FKNK8-89X83-HTGM4-3C73G
+ StarterN =744NM-C4FXY-YGM8B-7MVJC-BBFB9
+ CoreCountrySpecific =XYNVP-TW798-F8893-7B89K-8QHDK
+ ServerMultiPointPremium =CBR2N-2HG39-2TGGT-GQB27-46V47
+ ProfessionalWMC =RR3BN-3YY9P-9D7FC-7J4YF-QGJXW - Retail
+
+ Key for Windows Media Center
+ ServerDatacenter=2GMNX-8K7D2-X968C-7P62F-8B2QK
+ ServerStorageStandardEval=XNK3M-8V77Q-DC829-HW3Y9-GJCPY
+ EmbeddedA=9N28G-7WY7K-RMMD4-9J4BY-WHRJG
+ ServerStorageWorkgroupEval=G8PN6-MRB2V-34CDP-3838W-BWMTV
+ EnterpriseN=NCVKH-RB9D4-R86X8-GB8WG-4M2K6
+ ServerStandardCore=VN93G-8PVT3-W2X3H-F3X87-FJMTW
+ gvlkCoreARM=DXHJF-N9KQX-MFPVR-GHGQK-Y7RKV
+ gvlkServerStandard=XC9B7-NBPP2-83J2H-RHMBY-92BT4
+ gvlkCoreN=8N2M2-HWPGY-7PGT9-HGDD8-GVGGY
+ gvlkServerMultiPointStandard=HM7DN-YVMH3-46JC3-XYTG7-CYQJJ
+ gvlkCoreSingleLanguage=2WN2H-YGCQR-KFX6K-CD6TF-84YXQ
+ gvlkServerDatacenterCore=48HP8-DN98B-MYWDG-T2DCC-8W83P
+ gvlkProfessional=NG4HW-VH26C-733KW-K6F98-J8CK4 - volume key
+ gvlkProfessionalN=XCVCF-2NXM9-723PB-MHCB7-2RYQQ
+ gvlkCoreCountrySpecific=4K36P-JN4VD-GDC6V-KDT89-DYFKP
+ gvlkServerMultiPointPremium=XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G
+ gvlkProfessionalWMC=GNBB8-YVD74-QJHX6-27H4K-8QHDG
+
+ Volume key for Windows Media Center
+ gvlkServerDatacenter=48HP8-DN98B-MYWDG-T2DCC-8W83P
+ gvlkEnterpriseN=JMNMF-RHW7P-DMY6X-RF3DR-X2BQT
+ gvlkEnterprise=32JNW-9KQ84-P47T8-D8GGY-CWCK7
+ gvlkCore=BN3D2-R7TKB-3YPBD-8DRP2-27GG4
+ gvlkServerStandardCore=XC9B7-NBPP2-83J2H-RHMBY-92BT4"
+,jayvon,2012-08-21T17:55Z,@ kund84 if I enter one of your keys will windows 8 be activated
+,stratax,2012-08-21T18:52Z,"@jayvon I'm going to test out one of his keys soon, ill post my results.
+
+Thanks for the upload Thumper!"
+,adam54332,2012-08-21T21:25Z,It seems to be working without activation. Only personalisation is blocked.
+,stratax,2012-08-21T23:02Z,"Yeah, every key is blocked that I have seen. cant find a way to activate it"
+,x_IMAGINE_x,2012-08-22T06:56Z,"@jayvon Umm... hope that's not your main email address cos I think you might regret posting it publicly on the internet. Most people on the internet avoid doing that, but don't worry hun, you're new so you're still learning. x x"
+,umar_zulfiqar,2012-08-22T12:56Z,please visit below link
+,jayvon,2012-08-22T18:10Z,"@IMAGINE thanks for telling me that but I think it's to late to remove it, hope i don't get sued."
+,FulcrumX,2012-08-23T00:11Z,"there's still a way to use this blocked product key on 64bit Windows 8 Enterprise/Pro VL, go to cmd, run as admin type the ff: slmgr /ipk PF9TR-KNB98-T7JPF-TWF8W-F3G7C , press enter, after that type in slui 4. press enter. if you got the same set of numbers on blocks 1-9, then you should be able to use the codes shown on blocks A-H. remember this is for 64 bit Windows 8 Enterprise/Pro VL. refer to the pic on the link and just enter the numbers. http://i778.photobucket.com/albums/yy62/laxluster/CaptureF3G7Cx64.jpg"
+,FulcrumX,2012-08-23T00:56Z,"no need to phone in Microsoft by the way, choose United Kingdom for the country."
+,FulcrumX,2012-08-23T01:16Z,"no need to phone on Microsoft, choose United Kingdom for the country."
+,rapha288,2012-08-23T03:34Z,@FulcrumX I tryed ur method and it didnt work :S . when i enter the id it says that the confirmation id doenst match. And i choosed the United kingdom . Please some help...
+,rapha288,2012-08-23T03:35Z,"@FulcrumX 
+I tryed ur method and it didnt work :S . when i enter the id it says that the confirmation id doenst match. And i choosed the United kingdom . Please some help..."
+,rapha288,2012-08-23T03:36Z,"@FulcrumX
+Ur method didnt work it says that the conf. id its not a match"
+,rapha288,2012-08-23T03:38Z,"@FulcrumX
+Didnt work , it says that the conf. id its not the same"
+,FulcrumX,2012-08-23T05:01Z,"@rapha288
+
+are you using the 64bit version? did you do the slmgr /ipk  at the command prompt? can you post a screenshot of the numbers  you're getting when you enter slui 4. thanks."
+,Balerion,2012-08-23T08:25Z,@FulcrumX you don't have to call microsoft? then how can you get the confirmation ID? I'm using windows 8 pro.
+,Balerion,2012-08-23T08:28Z,@FulcrumX windows 8 pro 32 bit.
+,FulcrumX,2012-08-23T09:05Z,"@Balerion
+
+use this key: KM7FN-2WHWX-FMH2Y-43KXF-CRYQP. just press Windows key + R,type in slui 3, insert that key, then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt. I've tested it, works 100%"
+,FulcrumX,2012-08-23T09:10Z,"@Balerion
+
+use this key: KM7FN-2WHWX-FMH2Y-43KXF-CRYQP. just press Windows key + R,type in slui 3, insert that key, then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt choose for business use that's option # 2, then option # 1 then hash key. when it asks you on how many pc is this activated press 1. I've tested it, works 100%"
+,FulcrumX,2012-08-23T09:22Z,"@Balerion
+
+use this key: KM7FN-2WHWX-FMH2Y-43KXF-CRYQP. just press Windows key + R,type in slui 3, insert that key, then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt choose for business use that's option # 2, then option # 1 then hash key. when it asks you on how many pc is this activated press 1. I've tested it on both 32bit and 64bit Windows 8 Pro/Enterprise  works 100%"
+,Balerion,2012-08-23T10:30Z,@FulcrumX IT FREAKIN' WORKED! THANK YOU VERY MUCH!!!
+,Balerion,2012-08-23T10:42Z,@FulcrumX IT FREAKIN' WORKED! THANKS!!!
+,FulcrumX,2012-08-23T10:59Z,"@Balerion 
+
+you're welcome. you can still use those code you got if in case you re-install windows 8 on another pc. I took a screenshot of the codes I got, just for future use."
+,Blacker.Death.Metal,2012-08-23T11:22Z,"Wonder why people are all going for pro here over enterprise. Hell, you're missing out on Windows To Go. "
+,ariston213,2012-08-23T12:00Z,"@Fullcrum 
+
+Thanks fullcrum it works :)"
+,sdf855,2012-08-23T12:01Z,ok i am using VMware-player-4.0.2-591240 and installing it on there because i want to test it out without installing it on my only computer. what's the serial number to use?
+,Przitelj,2012-08-23T12:52Z,Why installing Windows 8 if you don't have touchscreen?I don't see any benefits.
+,manfunn,2012-08-23T13:40Z,@FulcrumX please show the screen... I get the confirmation id... but not worked ... 194906 213380 713020 943162 343842 641803 202796 024745 or I wrong type it... I`m using Windows 8 pro x86
+,manfunn,2012-08-23T13:43Z,@FulcrumX please show the screen... I get the confirmation id... but not worked ... 194906 213380 713020 943162 343842 641803 202796 024745 or I wrong type it... I`m using Windows 8 pro x86.
+,FulcrumX,2012-08-23T14:22Z,"@manfunn
+
+which product key did you use?"
+,manfunn,2012-08-23T14:26Z,This KM7FN-2WHWX-FMH2Y-43KXF-CRYQP ... please help...
+,manfunn,2012-08-23T14:31Z,"I tried to call again to verify again the confirmation but not worked, she send me to an operatpr :|"
+,FulcrumX,2012-08-23T15:39Z,"@manfunn
+
+try this key then: NK9CK-978CT-FQ7F7-RC8FQ-488X2 , follow the same procedure."
+,Isbinne,2012-08-23T16:13Z,"I tried your method FulcrumX, but i got this message; error, running microsoft windows on a none-core edition? I have tried every advise on TPB but so far nothing seems to work. I even re-installed windows 8... pls help"
+,manfunn,2012-08-23T16:20Z,"Thanks man ! it worked
+Cheers!
+Again thank you very very much."
+,FulcrumX,2012-08-23T16:47Z,"@isbinne
+
+the product key will only work with Windows 8 Enterprise/Professional."
+,jayvon,2012-08-23T17:07Z,l
+,Isbinne,2012-08-23T17:20Z,"@fulcrumX
+I downloaded this torrent which is supposed to be Professional. I re-installed again and was able to get to where i need to activate it by calling a number, I did, but she said it wasnt a valid code? "
+,FulcrumX,2012-08-23T17:28Z,"@isbinne
+
+follow the same procedure I gave to manfunn. use this key: NK9CK-978CT-FQ7F7-RC8FQ-488X2."
+,Isbinne,2012-08-23T18:06Z,"@FulcrumX
+Thank u, thank u, thank u. Have been trying for days now and finally someone knew what to do;)"
+,FulcrumX,2012-08-23T18:27Z,"^
+
+you're welcome. :)"
+,guimgbh,2012-08-23T18:29Z,"Good afternoon, I live in Brazil. If possible I need the key for the Windows 8 Pro Thanks."
+,guimgbh,2012-08-23T18:33Z,"@FulcrumX
+
+I already tried this: NK9CK-978CT-FQ7F7-RC8FQ-488X2, but gave error when the telephone activation."
+,FulcrumX,2012-08-23T18:59Z," @guimbh
+
+are you using 32 or 64 bit? can you post the numbers you got from blocks 1 - 9, thanks."
+,guimgbh,2012-08-23T19:05Z,"@FulcrumX
+
+I'm using Windows 8 Pro 64. 
+
+4783721 8884140 5088511 7765524 2810152 4404925 3740753 3437183 6969521."
+,FulcrumX,2012-08-23T19:10Z," @guimbh
+
+are you using 32 or 64 bit? insert this key: NK9CK-978CT-FQ7F7-RC8FQ-488X2  ,then type in slui 4. can you post the numbers you got from blocks 1 - 9, thanks."
+,guimgbh,2012-08-23T19:19Z,"@FulcrumX
+
+I use 64-bit. The blocks are: 4783721 8884140 5088511 7765524 2810152 4404925 3740753 3437183 6969521. At the end of the Call, I am moved to call."
+,guimgbh,2012-08-23T19:21Z,"@FulcrumX
+
+I tried to call again to verify again the confirmation but not worked, she send me to an operator."
+,FulcrumX,2012-08-23T19:51Z,"@guimbh
+
+try this key: N7RRX-RVH4P-PCPBM-89D8Y-X4PK2, just do the same procedure. that's my last key:)"
+,guimgbh,2012-08-23T20:05Z,"@FulcrumX
+
+
+Thank you, but unfortunately it did not work. :-( she send me to an operator.
+"
+,.Zenjin.,2012-08-23T20:17Z,All they Mass keys have been used too the limits! Even phone activation wont work! Or at the least that's what I have been running into as of the last 24 hours
+,s33rial,2012-08-23T22:10Z,I burned this to dvd but I can't get it to boot from it. Gives me an error message after the Windows blue logo image. What do you reckon might be the problem? Thnx!
+,s33rial,2012-08-23T22:19Z,"Also if I run it from within my current OS it says I need to free 16gb on drive C: to install, wtf? I have several partitions and want to install it to drive E: but he doesn't even prompt for that, are the 16gb for temporary install files?"
+,techranjit,2012-08-24T01:42Z,"hi! 
+  I need windows 8 32bit enterprise !!where can I get it ? pls upload!!!"
+,FulcrumX,2012-08-24T06:08Z,you can find the 32bit version of Windows 8 Enterprise here: http://thepiratebay.se/torrent/7542164/MICROSOFT.WINDOWS.8.ENGLISH-MSDN
+,rajz444,2012-08-24T18:52Z,Guys... Is there any way to activate win 8 now. I tried all the ways discussed above. Not working for me. pls help...
+,guccicar,2012-08-24T19:41Z,NK9CK-978CT-FQ7F7-RC8FQ-488X2 key still works
+,FulcrumX,2012-08-24T22:03Z,"^
+
+yup that key still works, to those whose Windows 8 Pro/Enterprise isn't activated yet, better take advantage of it while it still works."
+,circa1980,2012-08-25T01:27Z,"@FulcrumX
+
+Product key uses has been exceeded on the MS servers as of 18:26 CST"
+,luffypuff,2012-08-25T01:50Z,Are there any antivirus's that are compatible with this?
+,circa1980,2012-08-25T03:54Z,Are there any new keys out there
+,rajz444,2012-08-25T04:56Z,Any new keys..?
+,KingPin006,2012-08-25T14:08Z,@fulcrumx any idea for the enterprise-N x64 client? thank you
+,FulcrumX,2012-08-25T14:38Z,"@kingpin006
+
+can you try this: NK9CK-978CT-FQ7F7-RC8FQ-488X2, i'm using Windows 8 Enterprise 64bit , not sure if you'll generate the same codes from blocks 1-9. give me the codes and i'll check.
+"
+,rajz444,2012-08-25T15:30Z,4581773 1783973 8068120 3146871 6053436 6296773 0519475 3027224 6028400 pls check it.. I m using win 8 pro 32 bit..
+,FulcrumX,2012-08-25T15:40Z,"@rajz444
+
+sorry, I didn't find your codes o n the ones that I activated on windows 8 pro 32bit."
+,FulcrumX,2012-08-25T15:41Z,"@rajz444
+
+sorry, I didn't find your codes on the ones that I activated on windows 8 pro 32bit."
+,rajz444,2012-08-25T15:49Z,ok thanku...
+,rajz444,2012-08-25T16:01Z,3028404 8427471 6490132 9662306 0488786 6944600 1336434 0909172 9721764 can u check this pls...
+,rajz444,2012-08-25T16:02Z,"@fulcrumX
+3028404 8427471 6490132 9662306 0488786 6944600 1336434 0909172 9721764 can u check this pls..."
+,FulcrumX,2012-08-25T16:53Z,didn't find that either.
+,Meruz,2012-08-25T16:57Z,"Anytime I right click my desktop, I get a blue screen like Metro is going to open then it reloads my desktop. So... I can't even right click my desktop, Any ideas?"
+,inception69,2012-08-25T19:31Z,does it work good ?
+,mazcapone,2012-08-25T20:43Z,"check this out: justdonatemerich.com 
+:D:D:D"
+,YOSSI2010,2012-08-25T22:11Z,HOW LONG WILL IT WORK WITH NO ACTIVATION????
+,VBCoder,2012-08-26T00:01Z,Why seeds suddenly dropped out?
+,FuckSholihin,2012-08-26T01:06Z,"for activation by phone you got to do a clean install first and activate it before connecting to any internet available in order for it to work. once you go online,changing key will not do any good because internet will ruin your installation ID. only go online when you had it activated first and never go online until you computer is activated. it added up sence while phone activation is ultimately designed for offline computers."
+,FuckSholihin,2012-08-26T01:20Z,"choose either choices
+
+1.Do a clean install for phone activation.
+2.Wait for a fucking solution e.g. STANDALONE KMS for windows 8 and likewise that would come in 100 years later. DAZ tool for windows 8 is impossible since since no master key ever existed and OEM uses unique key for every machine that has windows 8 installled.
+
+REMOVE WAT method will not be possible in win8 even if you are able to remove activation, the shitty windows 8 will not going to work until it thinks it just activated. important/administrative settings in control panel will not be saved and reverted to default unless you had your copy activated now u see how smart Micro$hit preventing future version of REMOVE WAT."
+,FulcrumX,2012-08-26T01:40Z,"new keys for Windows 8 Pro / Windows 8 Pro N / Windows 8 Enterprise / Windows 8 Enterprise N:  
+
+4TP9N-CTM6K-4RVCH-92C3W-VH3HC    
+NYX2F-474CB-WVDH9-B3PKY-MY2K2     
+
+just follow the method I gave out, back read. "
+,FulcrumX,2012-08-26T01:58Z,"new keys for Windows 8 Pro / Windows 8 Pro N / Windows 8 Enterprise / Windows 8 Enterprise N: 
+
+ 4TP9N-CTM6K-4RVCH-92C3W-VH3HC 
+ NYX2F-474CB-WVDH9-B3PKY-MY2K2 
+
+ just follow the method I gave out, back read. "
+,Shizzle15,2012-08-26T02:03Z,"@FulcrumX
+I've tried going through your entire activation process with using the code: 4TP9N-CTM6K-4RVCH-92C3W-VH3HC and these are the numbers that show up:
+http://i462.photobucket.com/albums/qq344/Cooliosperosous/ScreenShot2012-08-25at55212PM.png
+Any help? and thank you so much for everything you've been doing, It's greatly appreciated."
+,FulcrumX,2012-08-26T02:12Z,"@shizzle15
+
+did you call the UK toll free number? just press 1 & it should give you the corresponding codes on blocks A-H."
+,FulcrumX,2012-08-26T02:15Z,"@shizzle15
+
+did you call the UK toll free number?choose for business use option # 2 then # 1 & then the hash key(#) it should give you the corresponding codes on blocks A-H."
+,FulcrumX,2012-08-26T02:28Z,"@shizzle15
+
+call the toll free number, press option #2 then 1 then hash key. when asked on how many computers press 1. it should give you the codes for block A-H after doing that."
+,NvySEAL667,2012-08-26T02:53Z,Is it alright if I select United States for my location on the activation screen? The toll free 0-800 number it gives me for selecting United Kingdom isn't a valid number in the US.
+,FulcrumX,2012-08-26T03:57Z,"yeah, you can try the US/Canada toll free number."
+,Meruz,2012-08-26T04:12Z,"Thanks a lot FulcrumX, I used:
+
+NYX2F-474CB-WVDH9-B3PKY-MY2K2 
+
+And it worked. I've been trying to find a functioning key for days."
+,FulcrumX,2012-08-26T04:57Z,"@Meruz
+
+you're welcome. :)"
+,inferno123,2012-08-26T04:59Z,"I've been trying the key that worked for you Meruz, but it's not working. I'm trying to activate Pro 64-bit.
+
+Also, it's not a ""fresh install"" per se, cuz I kept my previous files, is that an issue? Do I have to completely wipe it?"
+,FulcrumX,2012-08-26T05:14Z,"@infernno123
+
+have you tried the other key? and no, fresh install isn't necessary."
+,eggspensivetaste,2012-08-26T05:33Z,I cant get any of the new keys to work. im using Enterprise N and called to the US Phone line. Can you help? Thanks
+,inferno123,2012-08-26T05:34Z,"I also have no connected to the internet, however, before this  ainstall I was connected to the internet, so is it possible that my previous failed activation attempts are residing in windows.old? Maybe I'll try deleting the windows.old and see if it's still giving me trouble."
+,Donnyxox,2012-08-26T05:38Z,@FulcrumX - Ive been trying for days to register Enterprise. I've went back and fourth with the evaluation to try Enterprise again when I see new keys (NYX2F-474CB-WVDH9-B3PKY-MY2K2). Finally I called the UK # and hit the option #2 and 1 computer and OMFG it was accepted. Thank You ! I can finally stop reformattimg my poor laptop. :)
+,FulcrumX,2012-08-26T05:41Z,"@eggspensivetaste
+
+what are the codes that you got from blocks 1-9, on both keys. "
+,inferno123,2012-08-26T05:42Z,"@Fulcrum, yes I've tried both keys, and both times I get, ""I'm sorry but I was not able to validate your installation ID..."""
+,inferno123,2012-08-26T05:43Z,"Oh also, I keep using the US/Canada #, but you said that doesn't matter right? Btw, thank you sooooooo much for helping all of us out with this! "
+,FulcrumX,2012-08-26T05:45Z,"@inferno123
+
+seems MS had blocked the keys, i'll post some new ones if and when I get a hold of them.
+
+@dannydox
+
+glad to hear you were able to actvate yours."
+,inferno123,2012-08-26T05:47Z,"Alright, thanks Fulcrum! I'll be watching :)"
+,inferno123,2012-08-26T05:47Z,"Oh also, do I have to make sure I stay offline until I type in a working code?"
+,rajz444,2012-08-26T05:53Z,"@FulcrumX
+The second key NYX2F-474CB-WVDH9-B3PKY-MY2K2 works for me. thank u so much... just activated my win 8 pro 32. thank u so so much..."
+,wtstalin,2012-08-26T07:51Z,"i feel really stupid right now but how are you guys even getting to this phone activation stuff?
+i cant get the damn thing installed without a valid key unless im missing something "
+,FuckSholihin,2012-08-26T09:06Z,"inferno123 
+
+all i'm saying is fresh windows installation only. i never meant wiping entire hdd it's okay even if previous files were placed in folder windows.old"
+,FuckSholihin,2012-08-26T09:15Z,"guysss listen this key from fulcrum is hot damn at the moment:
+NYX2F-474CB-WVDH9-B3PKY-MY2K2 
+
+it's just a matter of luck if you ever gotten activated with the key!!!!! you can try but if you fail then fresh windows 8 installation is recommended but not necessarily by wiping or formating your entire HDD and it's ok if you kept you previous windows installation in the folder windows.old it doesnt hurt at all."
+,Hade7x,2012-08-26T09:15Z,So pretty much the deal is if ur in the USA ur fucked because u can't call the uk phone line and the American one invalidates all codes to date... Please help because I really need to access my programs
+,Hade7x,2012-08-26T09:16Z,I've tried everything listed in the comments from the first page and all has failed
+,FuckSholihin,2012-08-26T12:20Z,"oh hade7x i feel bad for you bro... perhaps M$ being a douche racist dickhead by putting some region restristion for their keys and KMS servers. WHAT A BASTARD M$. in my case KMS server contact is reachable and some dont but ludicrously showing message fail to activate windows no matter what i did even by setting up public google dns as suggested by others so i can tell that KMS servers thingy was a method for the people in region specific.
+
+on a lighter note, micro$hit is seriously winning at this very time over piracy. the so-called KMS Activator that has been floating around tpb isn't come to as far as at least a standalone KMS like the used to be KMS for OFFICE2010 and WINDOWS 7 enterprise. It is just a lame method of contacting kms servers via online. such pity since it never worked for fucker like me and the rest of fuckers who wont be buying the OS.
+
+LASTLY SORRY FOR MY FUCKED UP ENGLISH"
+,FulcrumX,2012-08-26T12:41Z,NYX2F-474CB-WVDH9-B3PKY-MY2K2 product key is still working. take advantage people.
+,aerzjee,2012-08-26T13:33Z,for this key (NYX2F-474CB-WVDH9-B3PKY-MY2K2) i have confirmation id
+,aerzjee,2012-08-26T13:34Z,http ://fixation dot tk/aero/confirmation_id.png
+,FulcrumX,2012-08-26T13:48Z,"^
+
+congrats! what edition of Windows 8 are you using? 32 or 64 bit?"
+,inferno123,2012-08-26T14:22Z,"So the keys don't work in North America? Also, I can't call the UK line (it just won't let me)"
+,FuckSholihin,2012-08-26T14:35Z,"aerzjee its activated forever, you should back up the license so if you need to reinstall you dont have to ring up again:
+
+http://forums.mydigitallife.info/threads/35737-GUIDE-How-to-backup-and-restore-Windows-8-activation?p=607160&viewfull=1#post607160"
+,inferno123,2012-08-26T14:37Z,Would it make a difference if I installed enterprise instead of pro? Cuz isn't enterprise meant to use MAKs? For business purposes?
+,FuckSholihin,2012-08-26T14:41Z,"inferno123, as for usa i'm not sure some people worked and some dont it really spins me into headache."
+,FulcrumX,2012-08-26T14:45Z,"@inferno123
+
+are you using Skype to call the toll free number? have you tried the Canadian number?"
+,31583,2012-08-26T14:46Z,"Derp lets post keys on a publicly available page, derp a dir dipshits"
+,fillmoree,2012-08-26T15:20Z,"i'm having some troubles with this windows, 
+
+anyone of you can open apps like weather, finance, news, sports etc?
+
+it opens but keeps rolling...."
+,fillmoree,2012-08-26T15:28Z,"so anyone have the weather, finance, news, travel apps working on metro?
+
+they keep rolling but dont open here..."
+,inferno123,2012-08-26T15:45Z,"@FulcrumX no, I've been using my cell phone, but I should try skype (although then I'd need to connect to the internet, is that ok, or would I have to use skype on another computer? Actually, I have skype on my phone, so maybe I'll try that). Do I need to have at least like $0.01 on my account to make a call, even if it's toll free? Or would I only need a balance if I actually made a call that requires a balance?"
+,FulcrumX,2012-08-26T15:58Z,"no problems here, using Windows 8 Enterprise."
+,FulcrumX,2012-08-26T16:09Z,"@inferno123
+
+you can still call the UK  toll free number on skype even if you don't have credits, on a computer anyway. not so sure  though with skype on your phone."
+,luitenant,2012-08-26T16:40Z,NYX2F-474CB-WVDH9-B3PKY-MY2K2 still works! W8 finally activated following FulcrumX instructions on page 5. Thanx Thanx Thanx!!!! 
+,FulcrumX,2012-08-26T16:51Z,"@luitenant
+
+good for you. :)"
+,inferno123,2012-08-26T18:09Z,"Ya, for whatever reason, I just don't get any dial-tone, response, anything when I dial the toll free number for UK in Skype on my phone. :("
+,FulcrumX,2012-08-26T18:20Z,"@inferno123
+
+It'll be a good idea if you use Skype on your pc to call the UK Toll free number, you don't need credits to call. better call fast while the key is still good."
+,inferno123,2012-08-26T18:21Z,"Would it help if you knew what my installation ID (the really long number sequence split into 9 sections) is? Also, can I be connected to the internet for now and just unplug it to use the phone activation? Or should I simply not connect to the internet at all until I'm activated?"
+,inferno123,2012-08-26T18:37Z,"Nope, just tried UK number on Skype on Computer and my installation ID was not verified :("
+,FulcrumX,2012-08-26T18:45Z,are you using windows 8 pro 32 bit? what the codes you got from blocks 1-9? did you use NYX2F-474CB-WVDH9-B3PKY-MY2K2?
+,taurus70,2012-08-26T19:21Z,"use this key: KM7FN-2WHWX-FMH2Y-43KXF-CRYQP. just press Windows key + R,type in slui 3, insert that key, then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt choose for business use that's option # 2, then option # 1 then hash key. when it asks you on how many pc is this activated press 1. I've tested it, works 100%  
+
+
+How and when do I do all these steps, and how do they move? Windows key + R, type in SLUI 3, That insert key, then close. press windows key + R again, then type SLUI 4. thank you"
+,inferno123,2012-08-26T19:22Z,"@FulcrumX
+
+No I'm using Windows 8 Pro 64-bit, and yes, I'm using the second code (the MY2K2 one) and my ID is:
+3150804   4490416   8188781   4377222   5210501   1703914   4053102   1897532   7257204"
+,taurus70,2012-08-26T19:25Z,"When I expression in CMD: slmgr.vbs-ato, an error message appears, how to solve this problem? thank you"
+,freedich,2012-08-26T19:31Z,"@FulcrumX
+
+Please help. I've tried all of the keys on this thread and the Slui 3 -> Slui 4 -> UK phone via skype activation method and each time either the key is not accepted or the automated phone person tells me that my installation code is invalid or that I may be a victim of piracy. Please help!"
+,inferno123,2012-08-26T19:32Z,@Taurus that didn't work :(
+,inferno123,2012-08-26T19:36Z,"also, the only time I've ever been asked for how many computers was when I activated my first install using one of those original keys (but then I ended up reformatting/reinstalling twice since then, so I have to re-activate)"
+,taurus70,2012-08-26T19:40Z,What is this and how can I get there? keys on this thread and the SLUI 3 -> 4 SLUI
+,FulcrumX,2012-08-26T19:44Z,"the key is blocked now, will have to wait for a new one."
+,taurus70,2012-08-26T19:45Z,"What is this and how can I get there?  ""keys on this thread and the SLUI 3 -> 4 SLUI"""
+,crawler00,2012-08-26T19:48Z,"Could someone in UK please try my ID
+
+4673624 6004130 2247744 7380272 5654322 3134815 8317203 9260686 7204005"
+,synestercaveman,2012-08-26T21:58Z,can some one help me activate my windows 8 pro 64bit? I used NYX2F-474CB-WVDH9-B3PKY-MY2K2 product key and tried activating by phone but havent had any luck my id is 6083894 1011091 2063871 0150373 3241136 2653964 5644985 3134945 5336881 can someone help me get conformation  id to activate please?? :(
+,kosonic,2012-08-26T22:29Z,"the second product id and the first worked for phone activation, the ones from fulcrum but first has become invalid"
+,SynisterSilence,2012-08-26T22:58Z,@kosonic Which one exactly?
+,Allanzin,2012-08-26T23:01Z,"Can someone help me activate my Windows 8 Pro x64? Key NYX2F-474CB-WVDH9-B3PKY-MY2K2
+and ID 2535016 0860030 5885603 1351943 2889873 4329671 6712466 0753050 8126886. I am not having success =/"
+,SynisterSilence,2012-08-26T23:08Z,"What's a current working method? Also preferred if I didnt have to call UK, I can't on skype nor my phone."
+,idontthinkso3,2012-08-26T23:56Z,"My god, people! Don't you know what a KMS is? You won't be able to activate Windows 8 because there's no KMS server just yet.
+
+Though Microsoft has released W8 to RTM, it is still not available to the general public. So keep your pants on and relax for a couple of months. Geez..."
+,SynisterSilence,2012-08-27T00:12Z,"@idontthinkso3
+
+I activated Win8 before. But I reinstalled and reset my activation. The method I used before is now not working.
+
+Keep YOUR pants on."
+,Hockeyboy946,2012-08-27T03:55Z,"This might be a stupid question, but I downloaded the .iso for the 64-bit version from the Microsoft website... is it the same .iso from this torrent or will I have to redownload this one to get it to work? Thanks in advance."
+,kosonic,2012-08-27T06:37Z, NYX2F-474CB-WVDH9-B3PKY-MY2K2 worked for me
+,lonhaker,2012-08-27T13:24Z,Can someone pls write whole tutorial on how to install step by step? pls
+,inferno123,2012-08-27T15:36Z,"@Kosonic, did you activate using the UK toll free number? using Skype?"
+,aman7777,2012-08-27T17:43Z,"I activated Windows 8 Pro Yesterday. Heres a Image: http://bayimg.com/oaBLFAAeJ
+
+How to activate your Windows 8 Pro/Enterprise:
+
+ 1. Run cmd as admin. Enter slmgr /ipk NYX2F-474CB-WVDH9-B3PKY-MY2K2 (Only for Pro)
+ 2. Turn off your internet connection
+ 3. Open activation window and click ""Activate"". It'll show your an error.
+ 4. After that you'll see ""Activate by phone"" button.
+ 5. i chose united kingdom for the country, Call microsoft and enter code from message, which you will see.
+ 6. you should choose for personal, If they ask about number of computer, where you will use this key, say 1
+
+ this should work and your w8 should be activated for good. goodluck!
+
+THIS IS FulcrumX Method!"
+,aman7777,2012-08-27T17:44Z,"I activated Windows 8 Pro Yesterday. Heres a Image: http://bayimg.com/oaBLFAAeJ
+
+How to activate your Windows 8 Pro:
+
+ 1. Run cmd as admin. Enter slmgr /ipk NYX2F-474CB-WVDH9-B3PKY-MY2K2 (Only for Pro)
+ 2. Turn off your internet connection
+ 3. Open activation window and click ""Activate"". It'll show your an error.
+ 4. After that you'll see ""Activate by phone"" button.
+ 5. i chose united kingdom for the country, Call microsoft and enter code from message, which you will see.
+ 6. you should choose for personal, If they ask about number of computer, where you will use this key, say 1
+
+ this should work and your w8 should be activated for good. goodluck!
+
+THIS IS FulcrumX Method!"
+,aman7777,2012-08-27T17:44Z,"I activated Windows 8 Pro Yesterday. Heres a Image: bayimg.com/oaBLFAAeJ
+
+How to activate your Windows 8 Pro:
+
+ 1. Run cmd as admin. Enter slmgr /ipk NYX2F-474CB-WVDH9-B3PKY-MY2K2 (Only for Pro)
+ 2. Turn off your internet connection
+ 3. Open activation window and click ""Activate"". It'll show your an error.
+ 4. After that you'll see ""Activate by phone"" button.
+ 5. i chose united kingdom for the country, Call microsoft and enter code from message, which you will see.
+ 6. you should choose for personal, If they ask about number of computer, where you will use this key, say 1
+
+ this should work and your w8 should be activated for good. goodluck!
+
+THIS IS FulcrumX Method!"
+,adam54332,2012-08-27T20:07Z,"http://forum.xda-developers.com/showthread.php?p=30547802
+Install this if you hate activation watermark"
+,kosonic,2012-08-27T20:17Z,use skype to call the uk toll free number
+,inferno123,2012-08-27T23:54Z,"@Aman777 Thank you!!!!!!! The reason that key wasn't working for me was because I was following the previous instructions and that was to select option 2 ""A Business User"". But when I selected 1, for a ""Personal User"", it worked! Thanks for the keys FulcrumX and thanks for the info guys! :)"
+,Allanzin,2012-08-28T00:21Z,"Inferno, como vc discou pelo Skype para UK?"
+,Allanzin,2012-08-28T00:41Z,Pra qual número de UK vc discou inferno123?
+,FulcrumX,2012-08-28T00:51Z,"@inferno
+
+good to hear you've finally  activated your windows 8. :) I would suggest that you back up the store folder in C:windowssystem32spp, just in case you re-install W8, you won't need to go through the hassle of activating again. for full info, here's the link: http://forums.mydigitallife.info/threads/35737-GUIDE-How-to-backup-and-restore-Windows-8-activation"
+,Shehwaz,2012-08-28T02:07Z,I can't get it to work. Whenever I call the UK number with the MY2K key it says it can't be verified and I followed all the steps properly. Someone please help I really want to get this activated D:.
+,Shehwaz,2012-08-28T02:08Z,"I can't get it to work. Whenever I call the UK number with the MY2K key it says it can't be verified and I followed all the steps properly. Someone please help I really want to get this activated D:.
+
+
+"
+,Shehwaz,2012-08-28T02:13Z,"I can't get it to work. Whenever I call the UK number with the MY2K key it says it can't be verified and I followed all the steps properly. Someone please help I really want to get this activated D:.
+
+"
+,Lucasito182,2012-08-28T09:35Z,I've successfully activated mine! But the watermark on the lower right is still there. Did I activate my windows right? On the activation window it says that my product is activated. How can I remove the watermark?
+,FulcrumX,2012-08-28T10:53Z,"^
+
+the watermark will go away by itself, give it some time."
+,fillmoree,2012-08-28T15:01Z,"hey,
+
+i installed this version of windows 8 pro, but dont know why i cant activate it with fulcrumx method cause it says the key is not for my version...
+
+and on System it says not activated and the windows version dont appear. i just see ""Microsoft Windows 2012 ALl rights reserverd and then the logo with Windows 8""
+"
+,Biazi10,2012-08-28T16:45Z,"Hello... I call from Brazil to UK via Skype, but when i press 1 it says no number was pressed. Anyone?"
+,Allanzin,2012-08-28T17:40Z,"Biazi, pra qual número vc discou pelo Skype? Estou tentando e não consigo... Valeu!"
+,sinfulsolutionz,2012-08-28T17:56Z,"I activated Windows 8 Pro 64-bit with ""activate by phone"", I called the US number, though I tried about 25 serials, about 20 of them were locked or did not work, and of the 5 that did work and allowed me to try activating by phone, the first 4 times the automated voice on the phone told me the number I entered was invalid, so I'd retry with a new serial, try ""activate by phone"" again  and it finally worked"
+,sinfulsolutionz,2012-08-28T17:57Z,"I activated Windows 8 Pro 64-bit with ""activate by phone"", I called the US number, though I tried about 25 serials, about 20 of them were locked or did not work, and of the 5 that did work and allowed me to try activating by phone, the first 4 times the automated voice on the phone told me the number I entered was invalid or can't be verified, so I'd retry with a new serial, try ""activate by phone"" again  and it finally worked"
+,Lucasito182,2012-08-28T19:38Z,Successfully activated Windows 8 on my laptop around 12 hours ago and my sister's laptop around 4 hours ago. :) FulcrumX you rock! Aman777 thanks for the summary!
+,FulcrumX,2012-08-28T20:20Z,"product key: NYX2F-474CB-WVDH9-B3PKY-MY2K2 is still working. you can either choose to disconnect from the internet  or not, it'll still work.  then type in slui 3 (press Window key + R), click activate and then close, press windows key + R again then type in slui 4, choose UK for the country, call the toll free number using Skype and follow the voice prompt, press 1 for home user then hash key. press 1 for number of pc's this key is activated. once the automated voice gives out the confirmation id, you're good to go!"
+,FulcrumX,2012-08-28T20:22Z,thanks to aman7777 for the update. :)
+,aman7777,2012-08-28T20:43Z,no problem guys. I have successfully activated on 2 laptops.
+,VBCoder,2012-08-28T20:45Z,"Guys, how many of you removed the x64 version? There is few seeders"
+,FulcrumX,2012-08-28T21:06Z,"something weird happened to my pc, I tried these 3 banned product keys: PF9TR-KNB98-T7JPF-TWF8W-F3G7C / NB7P3-C66T2-848FB-M3BJB-2PKVC /    
+BYXV8-9YN72-VTF7H-8G7PT-WW8X2 , I used he slui 3 command, didn't disconnect from the internet, to my surprise, all 3 keys worked. can someone else try this method and see if your pc gets activated."
+,FulcrumX,2012-08-28T21:15Z,"must've been a glitch on Microsoft's end, the keys no longer work."
+,otto311,2012-08-28T21:59Z,Will i have to dual boot in order to use windows 8 because i do not want to lose my programs/files/ect.
+,FulcrumX,2012-08-28T22:05Z,"are you using XP or 7? if you do not want to lose everything, then yes, just dual boot, install Windows 8 on another partition."
+,otto311,2012-08-28T22:13Z,"Thanks i have one question
+my main partition would be windows 7
+and the second one would be windows 8
+if i get all my files over to the second partition would i be able to get rid of the first or auto start into the second?"
+,zyguuutis,2012-08-28T22:26Z,hey aman7777.I just want to ask why I can phone to Microsoft? Is it meathers which time you call? And how I call it? I must write my country ( Lithuanians ) code which is +370 and then 10digits number? 8000188354. I don't get it.
+,FulcrumX,2012-08-29T00:55Z,"select the UK Flag in the dialer, then call the UK Toll Free Number."
+,Biazi10,2012-08-29T01:01Z,"Allanzin, o número é: 0800 018 8354. Selecione UK (Reino Unido) quando for discar pelo Skype. Se conseguir ativar me avise!"
+,Allanzin,2012-08-29T02:57Z,"Putz mano, nem ta completando a ligação =/ Ja tentei pelo Skype e pelo telefone fixo mesmo. Dá uma mensagem que o serviço esta desativado e bla bla bla rs"
+,lars1110,2012-08-29T04:38Z,They have blocked the MY2K2 dont even bother calling the uk number its a waste of time
+,balleron24z,2012-08-29T05:36Z,"Boss torrent, confirmed working Win 7 x64, with pretty much any of the mentioned keys.  I can't really specify which ones will actually work, but the one I did, worked.  To clarify as well, when using Skype (I recommend this, as it's the only way to dial the UK number for Microsoft, you HAVE to dial UK number) you need to use the UK country code, aka 44.  So dial it like +44800018xxxx can't remember the rest, but you get the idea.  Got mine activated and running quite smooth ;) thanks Thumper, props to a legit torrent."
+,balleron24z,2012-08-29T05:38Z,"Also to clarify, dual boot works great!  Just like Win 7 did, Win 8 will scan your current boot config and add existing Windows OS's to the list of available boots.  So I have Win 7 and Win 8 both, and it shows them and asks at boot.  As long as you have a separate partition ready, just select it, and the install disk does the rest.  Take in mind, this only works when you boot the DVD, NOT if you install while in existing OS."
+,Allanzin,2012-08-29T06:39Z,"@Biazi10, consegui! rsrsrs Vi que na tua msg anterior, tu apertava 1 mas não acontecia nada. Depois que você fizer a chamada, tem que clicar no desenho do discador que tem no skype, aí você clica no número, pq pelo teclado não funciona. Daí é só digitar 1 pra primeira pergunta, depois tu digita o ID todo e depois quando ela perguntar o número de computadores q vc deseja ativar a cópia, clica 1 também.
+
+@FulcrumX  Successfully activated Windows 8! THANKS for the tutorial! I used the key with final MY2K, about fifteen minutes ago. I chose option 1 for the first question and 1 too for the question about the number of  computers i wanted activate,"
+,Shizzle15,2012-08-29T06:49Z,"Oh my goodness I've been trying this for days and finally figured it out! This is everything I did just in case it helps anyone:
+Went to command prompt as administrator, typed:
+slmgr /ipk NYX2F-474CB-WVDH9-B3PKY-MY2K2
+then typed:
+slui 4
+Selected United Kingdom, then opened up Skype, dialed the toll-free number, pressed 1, then 1, then the #. Gave the robot-lady the numbers on my screen and for the first time it was actually accepted! Of course I got all my info from:
+@FulcrumX
+And I'm running Windows 8 x64 that I downloaded from this torrent.
+Fulcrum, you're amazing, I love you!"
+,Allanzin,2012-08-29T06:51Z,"Completing the post above, I called the number of UK using skype, you need to use the UK country code, 44. The Windows version i use is Pro x64."
+,asda99,2012-08-29T06:54Z,hey please help....what number do i put into the installation screen?
+,asda99,2012-08-29T07:28Z,"Thank you thumper, fulcrum and everyone else ! I happy bloke from Australia...."
+,GnomeX26,2012-08-29T07:53Z,"Ok, I've tried all of the activation codes I don't know how many times to no avail. I even used the MY2K2 activation code. None of them worked. I put it in through the Command Prompt as well as the Windows Explorer method. Called, got the same message over and over that the number isn't recognizable, ins't in their database, whatever. I turn my computer on today to check to see if any new numbers came out and realized that Windows was activated with the MY2K2. Weird, right? Anyone have an explanation for this?"
+,FulcrumX,2012-08-29T08:02Z,"@GnomeX26
+
+yeah, I think there was a glitch with the activation servers. good thing yours got activated."
+,ow42x1,2012-08-29T08:05Z,"Hey for everyone in desperate need of Windows 8 keys, add me on Skype: ow42x1
+
+I have several MSDN accounts, so I have keys for every single Microsoft product, already activated like 4 copies of Windows 8 Pro."
+,ow42x1,2012-08-29T08:13Z,"Oh just so no one is surprised, I'm selling Windows 8 Pro keys for $20, and just the plain Windows 8 keys for $10. And if you want keys for any other Microsoft software just add me and I'll see what I can do!
+
+Skype: ow42x1"
+,ow42x1,2012-08-29T08:15Z,"...forgot to mention for you Euro guys I have ""N"" version keys to."
+,ow42x1,2012-08-29T08:21Z,"@FulcrumX
+Do you have Skype or some type of IM? I'll give you a free key so you can vouch for me? :3"
+,ow42x1,2012-08-29T08:33Z,"Well I'm going to bed, so if anyone adds me and I'm not online I'm not avoiding you lol xD"
+,ow42x1,2012-08-29T10:00Z,"Ooops, sorry was checking all my accounts and 2 of them I need to renew.
+
+So slight price change.
+
+$25 Pro, $15 Basic
+
+Have a good day. :)"
+,Biazi10,2012-08-29T14:57Z,"@Allanzin, eu faço isso, mas retorna uma mensagem de erro dizendo que nenhum número foi ""apertado""."
+,Biazi10,2012-08-29T15:10Z,"@Allanzin, consegui. Conectei o microfone e foi o_o""
+
+Well done, I used the Shizzle15 key and activated calling to UK. Don't forget to connect your microphone!!! Thank you guys :)"
+,patfrank,2012-08-29T15:37Z,"I have tried for 2 days to activate the 64 bit version and nothing works. I tried Fulcrum method and Shizzle too, call the UK and was told by robot that I was the victim of Pirated software, any more help out there"
+,juuhb,2012-08-29T16:41Z,"sorry, but how can I find my ID? :l
+I'm from Brazil."
+,CrazySpartan,2012-08-29T16:41Z,"I used the instructions posted by aman7777 and used the MY2K2 key and it worked!!!
+Thanx!!"
+,juuhb,2012-08-29T17:08Z,Done! Thank you guys :)
+,juliouk99,2012-08-29T17:47Z,"Yes!!!! That realy works.
+As I don't have a mick, I pluged a earphone from my mobile on the pink slot (mick plug) and it work.
+That's the only way to activate the keyboard on the skype.
+Well done for everyone which has win8 activated.
+
+Isso realmente funciona.
+Como não tenho um microfone, eu conectei um fone de ouvidos do meu celular no slot rosa, (entrada p/ microfone) atrás do pc e funcionou.
+Essa foi a única maneira de ativar o teclado no skype.
+Parabéns a todos que tem o win8 ativado."
+,ow42x1,2012-08-29T18:50Z,"Alright sold two keys already. :) Still selling!
+
+$25 Windows 8 Pro
+$15 Windows 8 Basic
+
+Skype: ow42x1"
+,Sanitizer,2012-08-29T19:01Z,"I made a mistake! First on my desktop the UK thing totally worked. But then when I did my wife's laptop, i accidentally hit 2 computers and it said it was only good for one to get a new copy. I tried again, and it says it's connecting me to a MS rep. I don't know what to do because it gives me the same code. "
+,Sanitizer,2012-08-29T19:17Z,"This is my first ever comment on TPB. I just posted a comment and it did not show up. I am thinking that maybe thats why you see multiple comments and that it is going to show up after a while. But to be sure, Im re-posting. So I did the UK thing on my computer and it worked like a charm. However when I did my wife's computer, I accidentally hit 2 computers, and she said that was invalid and to contact my MS retailer for a valid copy. Then i tried again, but it gave me the same code. So when i entered it again she said there was a conflict detected with my code and I was being transferred to a MS rep. No matter what I do I get the same code, so I do not know what to do. Can you try a different country? What option do I have?  "
+,FulcrumX,2012-08-29T19:18Z,"@Sanitizer
+
+is the edition of Windows 8 the same on the desktop and laptop? not sure if this will work, but you can try this: on your desktop pc which is activated go to C:/Windows/System32/spp then copy the store folder and they try to paste that in the same directory on your wife's laptop. try to see if it gets activated."
+,otto311,2012-08-29T20:09Z,"Somebody please help
+I am running windows 7 right now. I created a partition and was not able to install onto the new partition. I believe it is because my disk is a ""dynamic"" disk. any help would be appreciated"
+,kosonic,2012-08-29T20:19Z,@Sanitizer Reinstall it will give you different keys when you do
+,ow42x1,2012-08-29T21:07Z,"Just sold another key! Literally a few minutes ago, I told the guy to vouch for me on here hopefully he posts! :D"
+,meid79,2012-08-29T21:15Z,Thanks ow42x1 you are 100% legit.
+,ow42x1,2012-08-29T21:26Z,"skype me if you wanna buy a key :P
+
+ow42x1"
+,ow42x1,2012-08-29T21:38Z,@meid79 No problem glad I could help! Thank you for buying one.
+,PoeticlyRaw,2012-08-29T22:44Z,"When i open the music, or peoples app from inside windows 8 they load, and then a couple seconds into it they close themselves out?
+Is anyone else having this problem, and if not can anyone tell me how i could possibly fix it, thank you."
+,PoeticlyRaw,2012-08-29T22:50Z,"Can anyone help me with this issue, i try to open up my peoples app in windows 8 or my music app in windows 8, and they load and open and then they close themselves out? Is anyone else having this issue, and if not can someone help me with being able to use those apps?"
+,FuckSholihin,2012-08-30T00:31Z,"Sanitizer,
+
+no you cannot try a different country only UK but some keys work for USA too.
+
+as for the installation ID, better switch to another MAK key so it will definitely change the installation ID to a new one and less hassle than doing another fresh windows installation. more keys from either the previous comment from previous page# and also here http://thepiratebay.se/torrent/7542182/
+
+sorry for my fucking enlish.
+
+inferno,
+finally, nice to know you finally activated. cheers:)"
+,FuckSholihin,2012-08-30T00:37Z,"Sanitizer
+just switch to another MAK key to generate new installation ID. visit thethingy profile and download the torrent of MAK keys only."
+,asda99,2012-08-30T01:33Z,Guys use Fulcrums x method....it works perfect:) i activated 3 samsung slates already by following that method.
+,asda99,2012-08-30T01:35Z,Guys use fulcrums method...i activated win8 on 3 samsung slates.
+,FuckSholihin,2012-08-30T07:57Z,the key is like a giveaway NYX2F-474CB-WVDH9-B3PKY-MY2K2 it still working today just activated on another machine.
+,tomppixu,2012-08-30T15:25Z,"GUYS !!!!!! this worked 4 me !!!
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms.sjtu.edu.cn
+slmgr.vbs -ato
+i think its a new kms server !!!"
+,patfrank,2012-08-30T15:27Z,"ow42x1, skype cant find you, please email me franklin.costarica@gmail.com, thanks"
+,tomppixu,2012-08-30T15:32Z,"slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms.sjtu.edu.cn
+slmgr.vbs -ato
+
+windows 8 pro activated today
+
+run cmd as admin  !!!
+"
+,matheo25,2012-08-30T15:41Z,"tomppixu solution works as of today!
+
+Run CMD as admin, copy/paste the following:
+
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms.sjtu.edu.cn
+slmgr.vbs -ato
+
+and you are set for 180days :)"
+,patfrank,2012-08-30T15:52Z,"thanks tomppixu, this worked great for 6 months"
+,Perfect14,2012-08-30T16:15Z,"Guys are these activation methods are just for 180 days or it will be activated for forever?? 
+I try to activate by calling Skype and computer said the product code you entered is not verified what's wrong ?
+
+On other side it says can't contact ...mean server lost!! I can't activate it please Help! :("
+,bebe407,2012-08-30T17:17Z,"How to activate your Windows 8 Pro:
+
+ 1. Run cmd as admin. Enter slmgr /ipk J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 (Only for Pro)
+ 2. Turn off your internet connection
+3. Open activation window and click ""Activate"". It'll show your an error.
+ 4. After that you'll see ""Activate by phone"" button.
+ 5. i chose united kingdom for the country, Call microsoft and enter code from message, which you will see.
+ 6. you should choose for personal, If they ask about number of computer, where you will use this key, say 1
+
+ this should work and your w8 should be activated for good. goodluck!
+
+ THIS IS FulcrumX Method! "
+,bebe407,2012-08-30T17:18Z,"NEW KEY....J7JBD-2NTPH-HXFHK-3FXFP-TMQG7..
+"
+,sharvinz,2012-08-30T18:29Z,"@bebe407 Thanks again, Just got it activated, FulcrumX Method.. people you should try that! Good Luck! :)"
+,ow42x1,2012-08-30T19:18Z,"For those still interested, I have plenty of fully genuine keys left, that won't be blacklisted because no one will use them but you, and that are activated for LIFE not 180 days.
+
+SKYPE ME @
+
+ow42x1"
+,ow42x1,2012-08-30T19:20Z,"REMINDER:
+
+Windows 8 Pro keys are $25 USD a piece.
+Windows 8 Basic keys are $15 USD a piece."
+,NathanEh,2012-08-30T19:26Z,can someone post the confirmation ID to the J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 you get over the phone? I got a security question asking how many computers had already been registered with that serial.
+,chairdom,2012-08-30T19:59Z,"I just bought a product key from ow42x1 and no bullshit, it works. I just activated it using the internet method and the watermark is gone and everything. If you guys want to get a legit key for cheap I suggest you hit ow42x1.
+
+that is all"
+,chairdom,2012-08-30T20:00Z,test
+,ow42x1,2012-08-30T20:27Z,"@chairdom thanks for the vouch! :)
+
+So again Skype me at ow42x1 and I'm charging $25 for Windows 8 Pro and $15 for Windows Basic.
+
+And if you buy one from me make sure to vouch it really helps!"
+,bebe407,2012-08-30T21:09Z,"@sharvinz,Ty...Im glad I could help.....
+
+@NathanEh,Press 1 when ask how many computers....Enjoy & don't forget to thanks FulcrumX....."
+,FulcrumX,2012-08-30T23:14Z,"phone activation if successful, is much better than kms activation."
+,CamS23,2012-08-30T23:18Z,"Tried calling the U.K number and when it says press 1, the dial pad does nothing. ideas?"
+,FulcrumX,2012-08-30T23:21Z,"^
+
+are you using Skype? click the dial pad."
+,dy.dx,2012-08-31T00:17Z,"Bought a key from ow42x1, and it worked great - fully activated! 
+
+Thank you =)!"
+,CamS23,2012-08-31T01:10Z,"yeah. i used skype, called the number and when it asks to press 1, it doesn't recognize that I pressed anything."
+,FulcrumX,2012-08-31T01:40Z,Try to check if the microphone is plugged in if you're using a pc.
+,CamS23,2012-08-31T03:00Z,"ok. i get to the point where it asks me to press 1 for personal use, then asks me to enter some code after that. what do i do at this point? sorry"
+,FulcrumX,2012-08-31T06:20Z,you'll find the instructions on what to do next on the previous pages.
+,sssongokuh,2012-08-31T07:27Z,"Bought a key from ow42x1, 25 bucks for fully working win 8 pro 64 bit key!"
+,ow42x1,2012-08-31T07:34Z,"I'm still selling keys, add me on Skype if you want one!
+
+ow42x1"
+,dj_unoxx,2012-08-31T08:27Z,"@bebe407 Your key works!! Thanks alot!! And @FulcrumX, thank you too for your method!! :D
+Just activated Windows 8 Pro x64!
+
+I advise you all not to spend $25 for a key since new keys are coming in for free!
+
+Thanks again guys! :D"
+,AeonSaber,2012-08-31T08:42Z,Is this safe to use a Microsoft account on?
+,AeonSaber,2012-08-31T08:43Z,Is this safe to use a Microsoft account on after it is activated?
+,FulcrumX,2012-08-31T08:46Z,"^
+
+yes, absolutely it's safe."
+,AeonSaber,2012-08-31T08:52Z,"sorry about the double post lol, Thank you for the quick reply."
+,AeonSaber,2012-08-31T08:53Z,tomppixu's solution on page 13 works (at least for now)
+,Code25,2012-08-31T09:01Z,Does anyone know when the activator for windows 8 will be released? :-)
+,A-v-i-z,2012-08-31T12:20Z,"slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms.sjtu.edu.cn
+slmgr.vbs -ato
+Working now..Just activated my windows 8 pro edition...
+Activated upto 2/27/2013
+Hurray !!!"
+,chivas318,2012-08-31T13:58Z,"bebe407 key and method worked !!!!!!!
+but u have to call uk no
+yeaahhhhh !!!!!!!!!!!!!!!!"
+,Mayanktaker,2012-08-31T14:05Z,"@ A-v-i-z at 2012-08-31 12:20 CET:
+
+Thanks a ton man /.. you made my day. :)
+Activated my enterprise x64. 
+Note : Not included first step."
+,CoreyJensen83,2012-08-31T14:27Z,Thanks Thumper. So far everything is awesome after using the method A-v-i-z used. No phone call just command prompt. Thanks A-v-i-z!
+,sharvinz,2012-08-31T16:44Z,yeA.. Phone activation is much better.. Once it is activated.. its like permanent.. we can do whatver we want and not for just 180 days.. Thanks FulcrumX .. just love your method :) 
+,FulcrumX,2012-08-31T17:02Z,"@sharvinz
+
+ur welcome. yeah, phone activation is more advisable as you said it's permanent not just for 6 months. NYX2F-474CB-WVDH9-B3PKY-MY2K2  product key still working by the way."
+,A-v-i-z,2012-08-31T17:57Z,Grab the servers before the get offline...njoy 180 days of windows 8 :D
+,FuckSholihin,2012-08-31T18:59Z,NYX2F-474CB-WVDH9-B3PKY-MY2K2 is still working and likely to work forever. People with a right mind like me would say why should I be buying from ow42x1? just because he doesn't have any proof of M$ authorized license dealer of couse it just a bunch of pirate key. if you want free of charge key email me right away chenur at the google mail that's it! I bet ow42x1 own the same tons of the exact keyssss like I did.
+,ow42x1,2012-08-31T19:01Z,"For those who can't activate it, I still have some serials left.
+
+Skype me @ ow42x1"
+,ow42x1,2012-08-31T19:03Z,"@FuckSholihin ask anyone that vouched for me here, I have several MSDN accounts, a bunch of serials untouched, won't be blacklisted, etc. It is basically buying an official copy of Windows 8, once I sell a key I delete it from my register."
+,ow42x1,2012-08-31T19:04Z,"@FuckSholihin No way you have the same keys I do, these are from all my MSDN accounts. They are unique individual keys, I have keys for every single Microsoft product. I'm legit. :)"
+,ow42x1,2012-08-31T19:10Z,"BTW here is a pros/cons list of buying a Win 8 Pro key.
+
+Pro: Your own unique key
+Con: Spend $25
+Pro: It won't be blacklisted like the ones being leaked on here and on Google, meaning you can reactivate it without the worry of it not working, it will always work so long as you don't share it with anyone.
+
+Only one con I can think of lol
+
+ls;dr
+
+Wait for free keys, maybe get it activated for life, but if you ever need to format your PC and reinstall with that FREE key it will more than likely be blacklisted.
+
+Good day. :P"
+,FulcrumX,2012-08-31T19:44Z,"@ow42x1
+
+selling of product keys that you got from your msdn account is illegal, i'm sure you're aware of that."
+,wallacedcg,2012-08-31T20:01Z,"Don't waste your time buy a key from ow42x1, just activated my Win8 Pro easy on internet! =D Thx ow42x1 ;)"
+,umbc_guy,2012-08-31T20:05Z,"I bit, paid ow42x1! Downloading torrent now! Very cordial, simple and enjoyable transaction, key is mine! ow42x1 more then willing to answer questions as well! "
+,ow42x1,2012-08-31T20:15Z,"@FulcrumX
+
+As is activating pirated software lmao"
+,ow42x1,2012-08-31T20:17Z,"@FulcrumX
+
+I have over 20 accounts, various people and friends of mine in microsoft, give me a key here, give me a key there, it adds up I have a lot."
+,ow42x1,2012-08-31T20:22Z,@wallacedcg @umbc_guy THANKS FOR THE VOUCHES GUYS ENJOY YOUR KEYS!!! :D
+,FulcrumX,2012-08-31T20:33Z,"@ow24x1
+
+as far as microsoft s concerned, the os i activated is legit. "
+,ow42x1,2012-08-31T20:41Z,@FulcrumX same here :)
+,NeoMegamanX,2012-08-31T21:49Z,"@FuckSholihin
+
+wuts your email? I'd like to get a key P:"
+,simon_cww,2012-08-31T22:12Z,Thanks to ow42x1. I bought the key and activated over the internet with no problem. Thanks again!!!
+,fillmoree,2012-08-31T22:35Z,"im getting a weird message when i do:
+
+""slmgr.vbs -ato""
+
+the message is
+
+Error: 0xC004F069 On a computer running Microsoft Windows non-core edition, run ""slui.exe 0x2a 0xC004F069"" to display the error text."
+,fillmoree,2012-08-31T22:45Z,"sorry the message appear not on that command but yes on this one:
+
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4"
+,Allanzin,2012-08-31T23:04Z,A noob question: I activated my Windows using the Skype method. How long the activation will be valid?
+,FulcrumX,2012-08-31T23:24Z,"^
+
+for all eternity. :)"
+,ow42x1,2012-09-01T00:10Z,"hey everybody if you still can't activate windows 8 add me on skype and i'll sell you one, still have plenty left. sold 13 on here so far all legit, full lifetime activation. :D"
+,ow42x1,2012-09-01T00:11Z,"Skype me @
+
+ow42x1"
+,NeoMegamanX,2012-09-01T00:34Z,"Anyone Installed recently? I've seen discussion about internet method, skype method and phone method ._. which one is working at the moment."
+,umbc_guy,2012-09-01T01:14Z,"Guys, ow42x1 is serious about what they have. I finally got my W8 Pro downloaded, entered the key given to me, and sure enough. Good as gold! Totally legit! "
+,greyfox04,2012-09-01T01:17Z,"Hit up ow42x1
+
+Completely legit!"
+,wtstalin,2012-09-01T01:58Z,"i keep seeing all of these activation methods yet no one ever answered my question about how the hell the hell do you even get it installed the run the cmd prompt in the first place?
+it requires a key for me to install and theres no other option "
+,FulcrumX,2012-09-01T02:00Z,"^
+
+you probably have the retail version, which means you need to put in a product key before you can even install windows 8. most of us here have the Volume version, meaning we don't need to put in a product key, we can do that later."
+,FuckSholihin,2012-09-01T05:00Z,"wtstalin,
+
+this is the key required for setup to run.
+Professional = XKY4K-2NRWR-8F6P2-448RF-CRYQH"
+,kjmfalcon,2012-09-01T08:49Z,"@ FulcrumX
+ please tell me how to call UK (i live in India)"
+,simmarjit,2012-09-01T08:52Z,"Erm, guys i have a question. What happens during installation i select Upgrade installation method instead of a custom one? Will i face any problems? "
+,FulcrumX,2012-09-01T09:09Z,"@kjmfalcon
+
+use Skype, on the dialpad. change the country to UK, after that dial the toll free number.
+
+@simmarjit
+
+if you have a previous version windows running on your pc, an upgrade installation will change that previous windows version to windows 8, no need to re-install programs. personally, i'd go for a custom or clean installation."
+,kjmfalcon,2012-09-01T10:15Z,"@fulcrum 
+ok was able to call uk using skype but now the robot lady says that i may be victim of piracy. i used  NYX2F-474CB-WVDH9-B3PKY-MY2K2 using cmd prompt . i have the enterprise version"
+,udunwanan0,2012-09-01T10:45Z,This is really dumb.. I know.. but whenever i try to skype the toll free UK number it just hangs and at the end it says fail to connect...
+,FulcrumX,2012-09-01T10:47Z,"@kjmfalcon
+
+try this: turn of ur internet then insert the same key that you used, then call the toll free # again."
+,ow42x1,2012-09-01T10:53Z,"sadly im on my last batch of windows 8 pro keys. :( i only have 17 left, yet 52 ppl on skype that want keys, so i have upped my price to 35 a key.
+
+i do have plenty of windows 8 basic keys for 15 dollars and windows 8 pro n keys for 20 dollars so if u want keys add me via skype.
+
+ow42x1"
+,parth_,2012-09-01T11:45Z,"@fulcrum 
+im having the same error as @kjmfalcon......im also from india
+i have entered the same key after turning off the internet in cmd...but still the robot lady says that i may be victim of piracy....pls help!!"
+,prplxr,2012-09-01T11:49Z,"Skype me too!
+
+djtsar404 "
+,parth_,2012-09-01T12:00Z,"@fulcrum 
+im having the same problem as @kjmfalcon.....im also from india
+i have tried entering the same key ( NYX2F-474CB-WVDH9-B3PKY-MY2K2) after switching off the internet....but still the robot lady says that i may be victim of piracy.......and now there is a transparent logo on th bottom right corner of my windows saying ACTIVATE WINDOWS....pls help!!"
+,kjmfalcon,2012-09-01T12:04Z,"@FulcrumX
+thanx for the quick replies  :) 
+tried that also,  same error  :( :( , is the key used up ? , any other method or key ?"
+,iSlim,2012-09-01T15:27Z,"hey guys am in Russia, downloaded and installed windows pro 64bit.no clue how to even start activating (damn, right?).Could someone walk me through? Thanx in advance. "
+,iSlim,2012-09-01T15:28Z,"hey guys am in Russia, downloaded and installed windows 8 pro 64bit.no clue how to even start activating (damn, right?).Could someone walk me through? Thanx in advance. "
+,figkikeron,2012-09-01T18:19Z,"any activation patch on the way? so we don't have to call, dial, buy codes from strangers..? "
+,xishan,2012-09-01T19:28Z,"@ThumperTM, @FulcrumX and @bebe407 many many thanks guys!
+
+installed using J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 as my key... called the UK toll free number using Skype for activation and have 3 activated installations running!!!"
+,iSlim,2012-09-01T19:46Z,"@ThumperTM, @FulcrumX ,someone please help me here....''iSlim at 2012-09-01 15:28 CET: 
+
+hey guys am in Russia, downloaded and installed windows 8 pro 64bit.no clue how to even start activating (damn, right?).Could someone walk me through? Thanx in advance''"
+,FulcrumX,2012-09-01T22:00Z,"@islim
+
+i'll just repost my instructions on how to activate:
+
+use this key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 or NYX2F-474CB-WVDH9-B3PKY-MY2K2. just press Windows key + R,type in slui 3, insert that key, then click activate, then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt, choose option # 1 then hash key. when it asks you on how many pc is this activated press 1.  "
+,parth_,2012-09-01T23:54Z,"@FulcrumX 
+thanx in advance
+after clicking activate using key (J7JBD-2NTPH-HXFHK-3FXFP-TMQG7) it  is saying that the product key has exceeded its unlock limit...."
+,FulcrumX,2012-09-02T00:05Z,"^
+
+yes, that's quite ok...press Windows key + r and then type in slui 4, choose UK and call the toll free number."
+,FulcrumX,2012-09-02T00:17Z,"parth, what are the numbers that you got from blocks 1 - 9? can you post them here. thanks."
+,parth_,2012-09-02T00:25Z,"@FulcrumX 
+now the robot lady is saying that your confirmation id was not verified!!....and says if you are activating for windows 8 press 1....and when i press 1 it tell me to contact my subscription center !!....pls help!!:("
+,parth_,2012-09-02T00:29Z,7512884  7037340 9765923 4042780 6055681 5218443 8987384 9205654 6514880.....
+,FulcrumX,2012-09-02T00:30Z,"^
+
+did you turn off your internet before you inserted the product key? if not, try it again, this time with no internet and then repeat the process."
+,FulcrumX,2012-09-02T00:40Z,are you using windows 8 pro? can you try this key: qgr4n-78pmd-kcrq7-83bxt-yg667
+,parth_,2012-09-02T00:54Z,"@FulcrumX
+thanx man ....windows 8 pro is now activated using the key qgr4n-78pmd-kcrq7-83bxt-yg667....:)"
+,FulcrumX,2012-09-02T00:58Z,"^
+
+glad to help. :)"
+,iSlim,2012-09-02T01:42Z,@FulcrumX. Thank you so very much. Did exactly as u said. Am fully activated now. You are the daddy!!!!
+,undercover_addict,2012-09-02T02:01Z,"@FulcrumX
+
+Do the codes run out about 4 minutes after you post them?  Can you post another?"
+,undercover_addict,2012-09-02T02:03Z,"@FulcrumX
+
+Do the codes run out 4 mins after u post them??  Can u post another?"
+,mr.green000,2012-09-02T02:31Z,"hi good day
+@FulcrumX
+
+im from the philippines... can you help me how to acivate windows 8 pro 64bit
+
+im new in here
+tnx"
+,FulcrumX,2012-09-02T03:02Z,"@mrgreen
+
+just follow the instructions that I've posted here and on the previous pages. thanks.
+
+guys, try these keys if you're Windows 8 isn't activated yet, remember this is for phone activation. Windows 8 Pro/Enterprise Only.
+
+XR2XH-NMBQJ-T79Q6-83T78-MR9VC 
+TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+J87JG-PXNR9-68BRP-DGJ9P-TMQHC
+QGR4N-78PMD-KCRQ7-83BXT-YG667"
+,djbond23,2012-09-02T03:58Z,"@FulcrumX
+
+plz help...i was trying ur methods for the past 2 days..but of no success...everytime the robot lady in uk says she is going to transfer the call to the next available customer service agent..i just cut the call..what to do?
+i am using win 8 pro 32 bit
+My 9 sets of confirmation id is here
+3926154 5502140 7487132 7968710 6955685 1408146 2759526 4764430 2927203"
+,FulcrumX,2012-09-02T04:11Z,"@djbond23
+
+try one of the new keys i posted."
+,MageVaRup,2012-09-02T04:47Z,Hey I just finished installing and everything went smooth thx a lot for the upload. My problem is that when I installed I click don't save everything from the old system and now when this one started my memory was still full(same amount of free space) did it not erase the old system or what? Need help. Thanks 
+,chocotaho,2012-09-02T05:40Z,@mr.green000 brad na activate ko yung akin.
+,chocotaho,2012-09-02T05:42Z,"Whoa, windows is activated. is it safe to use my Microsoft account? "
+,Royne_,2012-09-02T10:45Z,"hey i need some help! o toke a key from the comments and windows says it works but when he starts to ""activate"" the key windows says cant activate the key right now, and i cant change to another key and try :S any one got the same problem? plz help!"
+,mr.green000,2012-09-02T13:04Z,"@fulcrumx
+
+thanks :)
+
+ahm can you repost the step again??
+
+pls
+tnx"
+,FulcrumX,2012-09-02T14:44Z,"@mrgreen000
+
+choose any key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 / NYX2F-474CB-WVDH9-B3PKY-MY2K2 / XR2XH-NMBQJ-T79Q6-83T78-MR9VC /
+ TNHV9-74XMY-QVT69-CV8W6-RRDHC /
+ J87JG-PXNR9-68BRP-DGJ9P-TMQHC /
+ QGR4N-78PMD-KCRQ7-83BXT-YG667 & just press Windows key + R,type in slui 3, insert a product key, then click activate, then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt, choose option # 1 then hash key. when it asks you on how many pc is this activated press 1. "
+,Royne_,2012-09-02T15:47Z,Can any one help me with my problem plz?
+,left_,2012-09-02T16:51Z,"@FulcrumX
+
+The UK toll free phone number can't connect through for me.
+Please send a Win8 Pro key to ""anb123236anb@mailinator.com""
+
+Thanks alot!"
+,FulcrumX,2012-09-02T16:58Z,"@left
+
+what are the codes you got from blocks 1 - 9?"
+,left_,2012-09-02T17:01Z,"@FulcrumX
+
+4933715 9516365 3410650 0046904 8244073 9954371 7849715 4752516 063520
+
+Thank you so much."
+,heuir222,2012-09-02T17:04Z,"@FulcrumX: I made an account just to say thank you. Used J87JG-PXNR9-68BRP-DGJ9P-TMQHC and BAM! Activated :D
+
+You rock, my good man. Keep up the good work! :-)"
+,left_,2012-09-02T17:06Z,"@FulcrumX
+
+acutally please send email to 
+
+morgan.russell.wilson@gmail.com
+
+sorry for the inconvenience"
+,kanasaikuat,2012-09-02T17:31Z,"hi there, any key still available? I would like to have 1. Here'is my email weeliem@outlook.com. Many many thanks for help."
+,FulcrumX,2012-09-02T17:33Z,"try any of these keys.
+
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+NYX2F-474CB-WVDH9-B3PKY-MY2K2
+XR2XH-NMBQJ-T79Q6-83T78-MR9VC 
+TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+J87JG-PXNR9-68BRP-DGJ9P-TMQHC 
+QGR4N-78PMD-KCRQ7-83BXT-YG667"
+,kanasaikuat,2012-09-02T17:38Z,"@FulcrumX
+Do you still have extra key for me? I would like to have 1. Here's my email weeliem@outlook.com. Many many thanks to you."
+,kanasaikuat,2012-09-02T17:40Z,"@FulcrumX
+It mentioned that the key used by multiple users and unable to activate anymore."
+,FulcrumX,2012-09-02T17:43Z,"^
+
+you need to do the phone activation. you'll find the instructions on the previous pages."
+,kanasaikuat,2012-09-02T17:44Z,"@FulcrumX
+Your method works on every country right? I am not from UK."
+,FulcrumX,2012-09-02T17:47Z,"^
+
+yes, you just need to call the UK Toll Free Number."
+,kanasaikuat,2012-09-02T17:48Z,"@FulcrumX
+Thanks for the help :)"
+,PupySantiago,2012-09-02T18:47Z,I'm sorry to say this but I don't recommend installing Windows 8 if you are like me and you love to watch HD movies cause I don't know why but the Video quality is bad and it's not my computer or video card i have a GTX 550 and all the drivers up to date. I have googled it and some people saw the difference like me and posted in forums. 
+,kwstas22gr,2012-09-02T18:49Z,"@FulcrumX: The phone doesn't work for me :(
+
+1-9:
+
+3100633 3491273 2975731 6426344 7560435 5335951 8645646 9240602 8000884
+
+help please
+
+my e-mail is: kostas_22_dark@hotmail.com"
+,FulcrumX,2012-09-02T19:04Z,"@kwstas22gr
+
+have you tried changing the product key?"
+,kwstas22gr,2012-09-02T19:07Z,"yes, i used this key: J87JG-PXNR9-68BRP-DGJ9P-TMQHC but still... :("
+,FulcrumX,2012-09-02T19:10Z,"^
+
+try the other ones."
+,kwstas22gr,2012-09-02T19:12Z,the problem is i can't call the number.
+,kwstas22gr,2012-09-02T19:20Z,"i tried from my mobile phone and says ""the number doesn't not exist"" and i tried from skype too, and it simply does nothing :("
+,FulcrumX,2012-09-02T19:50Z,"This is the confirmation id i got from the codes you got @ blocks 1-9: 
+
+A-324234
+B-691176
+C-408213
+D-691661
+E-183171
+F-518253
+G-073714
+H-854446
+
+Press windows key + r, type slui 4."
+,kwstas22gr,2012-09-02T19:59Z,"It worked :D Thank you so much!!! ^^
+
+I have Windows 8 pro 32-bit build 9200
+
+Is the final edition? what about the watermark?"
+,FulcrumX,2012-09-02T20:01Z,"yeah, build 9200 is the final version and the watermark will go away by itself.:)"
+,left_,2012-09-02T20:28Z,"@FulcrumX
+
+could you get the conform. id for me too? 
+
+my 1-9
+
+4933715 9516365 3410650 0046904 8244073 9954371 7849715 4752516 0613520"
+,FulcrumX,2012-09-02T21:16Z,"@left
+
+A - 283161 
+B - 854286 
+C - 696980 
+D - 233796 
+E - 304070 
+F - 485420 
+G - 007306 
+H - 621336"
+,left_,2012-09-02T21:28Z,"fulcrum, i love you"
+,nazim12366,2012-09-02T21:31Z,"sorry if it's already been asked but does this work, will this expire at all, is it stable/solid and how do you install it. there's a lot of pages of comments and i'm too lazy to read them all. "
+,shettysajan,2012-09-02T21:33Z,"@fulcrum can u get the codes for me!
+1-5196486
+2-6126581
+3-8151056
+4-0566534
+5-8432274
+6-9003665
+7-4261553
+8-6995184
+9-1201681"
+,audio_AwD,2012-09-02T21:38Z,"Hi FulcrumX
+i was wondering whether KMS command line method work now..it worked freind a few weeks ago"
+,FulcrumX,2012-09-02T21:42Z,"@left
+
+you're welcome  :)
+
+@shettysajan
+
+your codes don't work,install the product key with no internet or change the product key altogether.
+
+@audio_awd
+
+last i heard all kms servers are down. phone activation method is the only option for now."
+,audio_AwD,2012-09-02T21:48Z,"i tried it but can't get connected..i'm from india anyway
+ can you do this for me?
+1-3745703
+2-4017734
+3-2018982
+4-2889695
+5-0438776
+6-4023106
+7-8841481
+8-6664235
+9-7847841"
+,FulcrumX,2012-09-02T21:58Z,"^
+
+codes not working, what edition of Windows 8 are you using? better change the product key."
+,audio_AwD,2012-09-02T22:20Z,"@FulcrumX
+can't get line connected
+can you get  the code for me?
+ my 1-9 code:
+6156175
+7785086
+3623161
+2581576
+8088572
+0906274
+1703390
+1753414
+8956160"
+,audio_AwD,2012-09-02T22:24Z,win 8 pro...used this product key :TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+,FulcrumX,2012-09-02T22:30Z,"@audio_awd
+
+A - 420691
+B - 310866
+C - 170574
+D - 336552
+E - 979074
+F - 594594
+G - 454121
+H - 089475"
+,audio_AwD,2012-09-02T22:30Z,"@falcrum
+
+win 8 pro
+product key ;TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+ 1-9 :
+6156175
+7785086
+3623161
+2581576
+8088572
+0906274
+1703390
+1753414
+8956160 
+
+
+please do this for me! "
+,audio_AwD,2012-09-02T22:33Z,"@falcrum
+
+ it worked!!!!!!!!!!!
+thanks a ton mate..sry fro the repost
+you could make a keygen out of this!"
+,audio_AwD,2012-09-02T22:47Z,falcrumX continues to rock  :D
+,FulcrumX,2012-09-02T22:48Z,"^
+
+no problem, yours is permanently activated while your friend's kms activated Windows 8 is only good for 6 months."
+,ndretex,2012-09-02T22:54Z,"fulcrum, help me please
+
+w8 pro, TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+
+1242966
+9116732
+7809360
+7126310
+5282036
+4827362
+6059001
+7854434
+0833365"
+,FulcrumX,2012-09-02T23:04Z,"@ndretex
+
+A-059031
+B-050335
+C-881810
+D-250155
+E-066486
+F-029032
+G-874833
+H-282502"
+,rb7smutje,2012-09-02T23:16Z,"@falcrum
+How you are doing this?
+Called Microsoft activation twice, but the voice told me there is a problem with my keys.
+Is there still any working key?
+Used: J87JG-PXNR9-68BRP-DGJ9P-TMQHC
+2172855
+1675120
+9184610
+1005442
+3451223
+7440426
+8280516
+7375351
+8857843"
+,mi3zu69,2012-09-02T23:44Z,"Hello FalcrumX.Please help me out.I need your help activating cause i tried to do you method but without succes and i really need my pc activated for work.
+Here is the code i used for activation:
+QGR4N-78PMD-KCRQ7-83BXT-YG667
+And here the numbers:
+1 - 5464646
+2 - 9938252
+3 - 3190053
+4 - 1809551
+5 - 2235080
+6 - 4428714
+7 - 3148122
+8 - 8807614
+9 - 8772005
+
+Thanks in advance for all you did for all of us :)"
+,mi3zu69,2012-09-02T23:45Z,"Hello FalcrumX.Please help me out.I need your help activating cause i tried to do you method but without succes and i really need my pc activated for work.
+Here is the code i used for activation:
+QGR4N-78PMD-KCRQ7-83BXT-YG667
+And here the numbers:
+1 - 5464646
+2 - 9938252
+3 - 3190053
+4 - 1809551
+5 - 2235080
+6 - 4428714
+7 - 3148122
+8 - 8807614
+9 - 8772005
+
+Thanks in advance for all you did for all of us :)"
+,FulcrumX,2012-09-02T23:54Z,"@rb7mutje
+
+a-157256
+b-150041
+c-742120
+d-483440
+e-429805
+f-604795
+g-023081
+h-316121
+
+@mi3zu69
+
+a-487273
+b-244883
+c-112283
+d-978510
+e-754241
+f-057084
+g-524273
+h-496722"
+,mi-45,2012-09-03T00:15Z,"@Fulcrum, im ready to test my new win8, help me to activate it properly:)
+1-4194683
+2-7292571
+3-3723264
+4-0496095
+5-5303583
+6-4507356
+7-8605452
+8-8212352
+9-4121525"
+,mi3zu69,2012-09-03T00:26Z,"Its not working....it says ""The confirmation ID you entered does not match the confirmation ID you received.Please retype your confirmation ID"".
+
+:( What else can i do?Try diferent code?Got one that works FalcrumX?
+Thanks alot."
+,qlaczek,2012-09-03T00:29Z,"@FulcrumX i need you help:
+
+win 8 pro
+product key ;XR2XH-NMBQJ-T79Q6-83T78-MR9VC
+
+1 - 6381083
+2 - 5964476
+3 - 4079001
+4 - 9662494
+5 - 3867721
+6 - 4254053
+7 - 1318116
+8 - 2999294
+9 - 5892403 
+
+Thx
+"
+,mi3zu69,2012-09-03T00:30Z,"FalcrumX can you please add me skype or yahoo messenger i really need your help...ID is mi3zu69 on both.
+Thanks"
+,FulcrumX,2012-09-03T00:31Z,"@mi-45
+
+a-171910
+b-279694
+c-762204
+d-082763
+e-808035
+f-515396
+g-211491
+h-201051"
+,mi3zu69,2012-09-03T00:35Z,"It seems my instalation code got changed...
+Here is the new one if you can help me again.
+2036850
+1484471
+6726326
+4253354
+9238293
+1679020
+4167650
+5404260
+8180721"
+,west188,2012-09-03T00:48Z,"@ FulcrumX
+thanks for your instruction, works great!"
+,FulcrumX,2012-09-03T00:52Z,"skype me people, here's my id: fulkrumx"
+,kacper23,2012-09-03T01:01Z,"1692823
+6217543
+6911550
+2171605
+8357313
+6303495
+2985756
+3720585
+8413601
+
+Help?"
+,Andr3sb0y,2012-09-03T01:14Z,"@FulcrumX  Please help. I am running Windows 8 Pro.
+
+1)3744025
+2)3191873
+3)3608465
+4)1014222
+5)9385265
+6)5673654
+7)0098454
+8)0501900
+9)3979603"
+,j-dip_23,2012-09-03T01:43Z,@fulcrum please send me the confirmation key for this product key TNHV9-74XMY-QVT69-CV8W6-RRDHC
+,j-dip_23,2012-09-03T01:44Z,@fulcrum please send me the confirmation key for this product key TNHV9-74XMY-QVT69-CV8W6-RRDHC
+,j-dip_23,2012-09-03T01:44Z,@fulcrumX please send me the confirmation key for this product key TNHV9-74XMY-QVT69-CV8W6-RRDHC
+,gaggid,2012-09-03T02:43Z,"
+@FulcrumX
+
+Buddy here is the list of my fone activation code.
+
+4466173
+1707576
+8890734
+3619836
+4635884
+0282991
+3506442
+7325425
+5580481
+
+Hope you can help."
+,gaggid,2012-09-03T02:45Z,"PF9TR-KNB98-T7JPF-TWF8W-F3G7C
+
+@FulcrumX
+
+Buddy here is the list of my fone activation code.
+
+4466173
+1707576
+8890734
+3619836
+4635884
+0282991
+3506442
+7325425
+5580481
+
+Hope you can help."
+,pdrhg,2012-09-03T03:06Z,"@FulcrumX
+Please help me:
+win 8 pro
+key: TNHV9-74XMY-QVT69-CV8W6-RRDHC
+code:
+4219776
+7342142
+9829400
+6803154
+1663192
+0495326
+6966361
+8394963
+8039126
+any help?"
+,kjmfalcon,2012-09-03T04:31Z,"@fulcrumX u the boss man , just activated ,thanx a zillion"
+,marcusolp,2012-09-03T05:55Z,"@FulcrumX
+
+Hi here is the list of my fone activation code.
+6543840
+6199505
+9488793
+4574475
+6331951
+8182814
+2151122
+6707870
+2091925"
+,RAPereira,2012-09-03T06:15Z,"@ FulcrumX
+
+Please help me FulcrumX
+Win 8 Pro 9200
+967N4-R7KXM-CJKJB-BHGCW-CPKT7
+
+3757304
+5710023
+3644692
+0463966
+0005862
+8046323
+0581136
+2916395
+0376004
+"
+,RAPereira,2012-09-03T06:15Z,"@ FulcrumX
+
+Please help me FulcrumX
+Win 8 Pro 9200
+967N4-R7KXM-CJKJB-BHGCW-CPKT7
+
+3757304
+5710023
+3644692
+0463966
+0005862
+8046323
+0581136
+2916395
+0376004
+
+Help me ! Please"
+,rajc2012,2012-09-03T07:08Z,"@ FulcrumX
+
+Please help me FulcrumX
+Win 8 Pro 9200
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7(BE QUICK)
+1)1908546
+2)9280681
+3)1832513
+4)2143611
+5)3317116
+6)1813311
+7)5517916
+8)5798601
+9)1350402"
+,ndretex,2012-09-03T08:30Z,"thanks fulcrum, it's work!"
+,kareemf,2012-09-03T08:41Z,"@ fulcrum x plz help me
+1- 0584840
+2- 7462502
+3- 4878915
+4- 6727920
+5- 5691611
+6- 8820270
+7- 9992823
+8- 7117323
+9- 7638323"
+,sameer516,2012-09-03T09:27Z,"ACTIVATION KEYS PLZ.......
+
+Win 8 Pro 9200
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+5089946
+
+4619260
+
+7709750
+
+9663200
+
+0853983
+
+8184645
+
+7604052
+
+0984035
+
+5918561
+"
+,rb7smutje,2012-09-03T13:49Z,"@FulcrumX
+You must be Bill Gates.
+Thanks a lot!"
+,Valigane,2012-09-03T14:06Z,"@FulcrumX
+
+Hi, could you help me please ? 
+
+Here is the list :
+
+6449285
+2082960
+4745805
+8781394
+6954161
+3326726
+7992891
+0914800
+
+Thanks a lot for your work
+
+"
+,hl2run,2012-09-03T15:01Z,"@FulcrumX
+Can you please help me?
+ Thanks a lot man
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+1) 0310664
+2) 2964913
+3) 5219303
+4) 2294570
+5) 6701795
+6) 6658846
+7) 3637620
+8) 6129770
+9) 7844166"
+,hazeblaze420,2012-09-03T17:39Z,"Ok guys, after about 15 failed activation attempts over the last couple of days, I have finally been able to activate via the FulcrumX method. Everyone needs to give FulcrumX as he most likely has a life outside of this thread. His method works, nothing has changed about that and nothing will change about that. The only thing that will change is the validity of certain activation keys. That being said, it is important to note that the KMS servers for phone activation do go offline from time to time and you must be cognizant of the time-zones. I was able to activate on the UK server @ 10:30 AM Eastern Coast time from the US. When you call the UK server from the States, you must first dial out internationally, then dial the UK country code. The number you will call is 011-44-800-018-8354. Dial (1) for personal use, (#) to skip the rest of the prompts, and begin to enter the 9 blocks. The worked for me and the blocks I received are as follows:
+
+1) Run CMD as Admin, and type:
+slmgr /ipk TNHV9-74XMY-QVT69-CV8W6-RRDHC
+
+2) You will receive a message that your key has been installed. Close the prompt. Hit (Windows key + R) and run ""slui 4""
+
+3) Select the United Kingdom from the drop-down list and hit next.
+
+4) The next screen will provide you with your 9 blocks. The ones I received were:
+1 - 6608591
+2 - 2734533
+3 - 1437241
+4 - 9971795
+5 - 4937716
+6 - 5862174
+7 - 0873665
+8 - 3201512
+9 - 3368246
+
+Use the phone method that I explained above and enter the blocks you are provided with.
+
+5) After you have dialed your blocks, you will be asked how many computers this key has been installed on. I selected ""1"". Then you will be provided with the corresponding numbers for blocks ""A-H"". The ones I received were:
+
+A - 402433
+B - 822445
+C - 921102
+D - 197753
+E - 920594
+F - 894885
+G - 370955
+H - 260022
+
+6) Click ""Activate"" and your Activation will be complete!!!!
+
+7) Make sure you thank @FulcrumX.
+
+If this does not work for you initially, don't worry, just keep trying different keys as they continue to be posted on this thread daily and eventually you will get it!!!
+
+Big thanks to @FulcrumX for his diligence and patience with the THB community. It is very much appreciated."
+,ddjj0022jjrr,2012-09-03T17:44Z,Is there a method to activate EnterpriseN yet?
+,matheo25,2012-09-03T17:54Z,"@FulcrumX vould you help with this one please?
+
+
+Active key:  TNHV9-74XMY-QVT69-CV8W6-RRDHC
+
+1: 6286861
+2: 6401250
+3: 4076613
+4: 7484910
+5: 7180393
+6: 5043001
+7: 8827556
+8: 3273646
+9: 1400726
+
+Thanks a lot!"
+,matheo25,2012-09-03T17:56Z,"oh and I'm installing Win8 PRO 9200
+:)"
+,200880,2012-09-03T18:08Z,"people, the phone activation is so simple, you're already halfway done with the codes from 1-9 you've posted. don't be afraid to call microsoft, you'll just get the robot lady.
+
+@matheo25
+
+A-348534
+B-552335
+C-468532
+D-308191
+E-579835
+F-209245
+G-161686
+H-353414"
+,ddjj0022jjrr,2012-09-03T18:09Z,Does calling the UK number work for any edition of Windows 8? I know it works on pro but I'm trying to activate EnterpriseN.
+,FulcrumX,2012-09-03T18:35Z,product keys i posted here will work for enterprise-n. 
+,IA4,2012-09-03T18:49Z,"Thank you ThumperTM. It is fully activated, took me less than 10 minutes."
+,ddjj0022jjrr,2012-09-03T18:54Z,ive tried a few times to call the UK number using various product keys but i havent had any luck getting a confirmation number
+,FulcrumX,2012-09-03T19:16Z,"XR2XH-NMBQJ-T79Q6-83T78-MR9VC 
+TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+J87JG-PXNR9-68BRP-DGJ9P-TMQHC
+
+try those, i'm using Windows 8 Enterprise."
+,ddjj0022jjrr,2012-09-03T19:25Z,@FulcrumX Thanks for those. First try it worked. Fully activated
+,jhiro0032,2012-09-03T22:10Z,@FULCRUMx thx for your info now im fully activated !....... ty many thnx !! god bless XD
+,husoka,2012-09-03T23:16Z,plz help why cant i activate it always says my code could not be verified i tried so many times :((
+,lonhaker,2012-09-03T23:18Z,"@FulcrumX 
+
+pls help!
+
+1:3397122
+2:4141604
+3:4839124
+4:9605614
+5:2836426
+6:7074083
+7:8921043
+8:8553304
+9:0984165"
+,matheo25,2012-09-03T23:21Z,"Thank you very much @200880 
+
+And for the record I did try to call microsoft, only called Canada number and the machine finally said there was a problem with the activation and it would transfer me to a person to assist me... That's why I posted here.. Anyways, thanks a lot it worked!"
+,lonhaker,2012-09-03T23:30Z,"how to call from skype??
+when i try to call it says no answer!-.-
+please can someone make a full tutorial??"
+,Aeoluz,2012-09-03T23:36Z,"@FulcrumX could you help me out too? (:
+
+1 - 5990673
+2 - 3465793
+3 - 6990241
+4 - 6334305
+5 - 9840220
+6 - 8871484
+7 - 2202720
+8 - 7164565
+9 - 8034241
+
+Oh, and I used this key: PF9TR-KNB98-T7JPF-TWF8W-F3G7C
+
+Thank you in advance, appreciate it!"
+,ow42x1,2012-09-03T23:41Z,"Hey! Selling Windows 8 keys, so if you don't want to bother with the KMS servers, or you can't activate it period add me on Skype @ ow42x1"
+,XInfamous,2012-09-04T02:11Z,"@FulcrumX
+
+Hey man i cant call internationally and ive seen you helping others if you dont mind helping me that would be awesome i used J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 this key and i got 
+
+6494833
+1969872
+0816973
+2266150
+0734413
+3573544
+7610456
+0017386
+4826242 
+
+If you get a chance id really appricate it thanks alot to you and Thumper for helping us all out here"
+,200880,2012-09-04T02:42Z,"@aeoluz
+your code didn't work, change the product key. try this one:  J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+@xinfamous
+
+a-485810
+b-721961
+c-951203
+d-894965
+e-578663
+f-784594
+g-053754
+h-362474"
+,XInfamous,2012-09-04T03:06Z,"@200880 
+
+thanks a lot man I appricate it so much worked like a charm :)"
+,XInfamous,2012-09-04T03:07Z,"@200880 
+
+thanks so much man worked like a charm "
+,ChromeZX,2012-09-04T03:21Z,"Hey mates,
+
+I tried giving the number a call but couldn't get it to connect.  It'd be a huge favor if someone could help me out and punch the numbers through.
+
+1 - 5564273
+2 - 1672162
+3 - 3278642
+4 - 4559760
+5 - 5822485
+6 - 8391341
+7 - 0012544
+8 - 8856545
+9 - 9416642"
+,matrix1994,2012-09-04T05:12Z,would u help me out too because i am deaf.. i installed windows 8 and now i need to activate it. tell me step by step or someone can do it for me..
+,freeride12,2012-09-04T05:25Z,"2226781
+7445961
+6548290
+3141300
+9849912
+5726395
+6296090
+4594773
+8617445
+
+help me please....thank"
+,brewcityriot,2012-09-04T06:30Z,"im using enterprise any help?
+
+A: 6563712
+B: 3864763
+C: 0486053
+D: 7035550
+E: 3139674
+F: 0768884
+G: 3542736
+H: 6564772
+I: 1353685"
+,techtipscentral,2012-09-04T06:52Z,"Hi there everyone!!! i need to activate windows 8 enterprise n...heres my codes and my product key i used is TNHV9-74XMY-QVT69-CV8W6-RRDHC
+
+3950236
+3612882
+9343762
+6211225
+6112853
+8573465
+1385791
+7067586
+6966320
+
+THank you very much, may god bless you all :)"
+,mxjchenn,2012-09-04T07:07Z,"@200880
+
+I'm having trouble dialing  internationally, would you be so kind to help me?
+
+Its x64 pro
+
+5211241
+1932301
+0325656
+5249311
+9662980
+5676042
+6678006
+0952663
+3359122"
+,ow42x1,2012-09-04T07:39Z,"Hey everyone, if your still having trouble activating add me I'm Skype! I'm selling legit, retail, keys that will be activated for LIFE for $25 a piece. 
+
+ADD ME ON SKYPE: ow42x1"
+,ow42x1,2012-09-04T07:41Z,"btw with the keys i have you don't have to activate via the phone method, you can activate it online and it's activated forever, you can get updates, etc. add me on skype!"
+,ow42x1,2012-09-04T07:43Z,"Selling keys for $25 a piece. These are retail, legit keys, that you can activate online and they will last forever on your individual PC. AGAIN ADD ME ON SKYPE: ow42x1
+
+GOODNIGHT!!! lol"
+,penglong,2012-09-04T08:40Z,"Try all that f**king install key to this torrent (x86) and cannot reach out of it.
+Just got ""We couldn't get verify the product key. Please check your installation media."" Bullshit!
+I just only to install not activate!
+does anyone have installing keys that work?"
+,penglong,2012-09-04T08:42Z,"Does anyone have installing key for this torrent (x86)?
+That f**king bullshit key provide is dead."
+,Aeoluz,2012-09-04T08:56Z,"@200880
+
+Thank you! That key worked for me like a charm ;)"
+,penglong,2012-09-04T09:39Z,"@FulcrumX
+
+Could you give me the instruction for installing Window 8 Final Pro x86 step by step again?
+I would be appreciate that!
+Thanks!"
+,xblink,2012-09-04T11:36Z,"can anyone help me to activate my windows 8 pro build 9200.. all servers are down, been trying to activate in kms mode.."
+,xblink,2012-09-04T11:39Z,"ive been trying this script..
+
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms.sjtu.edu.cn
+slmgr.vbs -ato"
+,Jeswinx,2012-09-04T12:21Z,when i try to activate...the message is showing that the service licensing service could not contact....:( plz help 
+,kamilmon,2012-09-04T12:35Z,"my 
+1:3943162
+2:1987420
+3:6068861
+4:9825815
+5:4130755
+6:1714891
+7:7969053
+8:9574355
+9:7107844
+please help me for confirmation code"
+,klaMorriz,2012-09-04T13:39Z,ow42x1 go sell your pussy shit some where else
+,sukants,2012-09-04T14:20Z,"@FulcrumX could you pls help me out here too?
+
+QGR4N-78PMD-KCRQ7-83BXT-YG667
+
+1- 6038192
+2- 8583471
+3- 9352470
+4- 5946964
+5- 1400002
+6- 5933952
+7- 2994916
+8- 8742642
+9- 2537600
+
+
+Pls mail me if you can munna.jena@gmail.com"
+,sukants,2012-09-04T14:21Z,"@FulcrumX could you pls help me out here too?
+
+QGR4N-78PMD-KCRQ7-83BXT-YG667
+
+1- 6038192
+2- 8583471
+3- 9352470
+4- 5946964
+5- 1400002
+6- 5933952
+7- 2994916
+8- 8742642
+9- 2537600
+
+Pls mail me if you can munna.jena@gmail.com"
+,sukants,2012-09-04T14:27Z,"@FulcrumX could you pls help me out here too?
+
+QGR4N-78PMD-KCRQ7-83BXT-YG667
+
+1- 6038192
+2- 8583471
+3- 9352470
+4- 5946964
+5- 1400002
+6- 5933952
+7- 2994916
+8- 8742642
+9- 2537600
+
+
+Pls mail me if you can munna.jena@gmail.com "
+[T],drunkbob,2012-09-04T14:46Z,Thanks ThumperTM
+,maxi888,2012-09-04T15:43Z,Got mine activated using activator
+,mnstrcpck,2012-09-04T16:12Z,"@hazeblaze420 @fulcrumx
+
+Thanks, guys! That solution worked perfectly.
+
+1. slui 3 - entered product key.
+2. slui 4 - generated toll-free UK number and 9 blocks.
+3. dialed the number, entered the 9 blocks.
+4. receivedreceived blocks A-H and entered those.
+5. clicked ""Activate"".
+
+Done! What a relief!"
+,sukants,2012-09-04T16:46Z,"@mnstrcpck dude can u help how u did that?
+can u pls explain it..
+whats your instalation key?
+pls help me out here.."
+,maxi888,2012-09-04T17:11Z,"For those who can't activate their windows , i suggest to go to youtube and in search box type this..Windows 8 RTM Offline Activator and Personalization Enabler.. watch this and your windows get activated finally
+I tried myself on win 8 pro and it worked,not sure about other versions 
+Enjoy :)"
+,max261980,2012-09-04T17:59Z,"@FulcrumX
+
+hi! 
+can you help me please, I cant activate my windows 8 pro!
+1-
+TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+2-
+I Select the United Kingdom
+
+1-9
+6205432
+8400233
+1492155
+2909205
+3728551
+2069414
+1083581
+3069490
+5608806
+
+can you send me in my email the code confirmation (a-h)
+bekotoj@yahoo.fr  . thanks"
+,xblink,2012-09-04T18:24Z,"@maxi888
+
+after your offline activation. can you customize you pc setting?"
+,thenewguy21,2012-09-04T19:14Z,"hey guys im pretty new to this torrent stuff and well its actually pretty cool i downloaded the windows 8 pro build 9200 and its pretty cool tks i was wondering if you guys could help me out with the activation key i called but it didnt work the numbers are:
+
+1---0777736
+2---3888701
+3---3139241
+4---4710936
+5---0118135
+6---4663611
+7---9089664
+8---9839661
+9---4118406
+
+thank you so much god bless you! "
+,thenewguy21,2012-09-04T19:15Z,oh you can reach me at vermejosa@yahoo.com thank you!
+,husoka,2012-09-04T19:33Z,"guys try with this key  J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 it finally worked for me 
+@200880 thnx man you are awesome :D"
+,ow42x1,2012-09-04T20:16Z,"If you STILL can't ACTIVATE Windows 8. Add me on Skype: ow42x1 I'm selling legit, retail keys for $25 a piece that are GUARANTEED to work for life, and you can activate it over the internet not the phone."
+,ow42x1,2012-09-04T20:18Z,"I've already sold several working keys to fellow piratebayers, check in the previous comments for my vouches.
+
+Again Skype me at: ow42x1
+
+:D"
+,200880,2012-09-04T21:49Z,"confirmed working product keys for Windows 8 Pro/Enterprise:
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+QGR4N-78PMD- KCRQ7-83BXT-YG667
+XR2XH-NMBQJ-T79Q6-83T78-MR9VC 
+TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+J87JG-PXNR9-68BRP-DGJ9P-TMQHC
+
+Just press the Windows key + R,type in slui 3, insert that key, then click activate, ignore any error message then close. press windows key + R again, then type slui 4, choose United Kingdom for the country and call the toll free number, if you have a Skype account use that. just follow the voice prompt, choose option # 1 for home user then hash key,after that it'll ask you for the codes from blocks 1-9,input those and when it asks you on how many pc is this activated press 1. once confirmation is is given out, you're good to go!"
+,200880,2012-09-04T21:50Z,"^
+
+credits to FulcrumX for the steps."
+,thenewguy21,2012-09-04T23:36Z,"@200880
+
+Hey how are you doing im trying to do what you recommended but i cant dial from my skype it just doesnt let me and i dont have credit and dont have money for that. do you think you could help me out? i used the first key:
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+and the numbers i got were:
+
+1093363
+
+3099291
+
+7478020
+
+8697636
+
+9473945
+
+4601935
+
+3154192
+
+7339913
+
+3382404"
+,thenewguy21,2012-09-04T23:37Z,thank you!
+,EMTCEE,2012-09-05T00:09Z,"Does anyone know how to revert back to the old KMS server, because I can't activate it. Keep getting error code 0x0C004F074"
+,ron2x69,2012-09-05T00:21Z,"@fulcrumx could you pls help me out here too?
+
+RR3BN-3YY9P-9D7FC-7J4YF-QGJXW
+
+6235541
+4979835
+9053331
+6613502
+1457782
+1514865
+7821343
+1452163
+2430326
+
+mail me ron2x69@gmail.com"
+,FulcrumX,2012-09-05T01:29Z,"@ron2x69
+
+the numbers you provided weren't recognized, change the product key. are you using Pro or Enterprise?"
+,FulcrumX,2012-09-05T01:35Z,"@sukants
+
+yours too wasn't recognized, try another product key."
+,FulcrumX,2012-09-05T01:39Z,"@thenewguy21
+
+this is your lucky day.
+
+
+a-454646
+b-020191
+c-865650
+d-488113
+e-362751
+f-427793
+g-774325
+h-721315"
+,Se7enex,2012-09-05T02:47Z,"Please help Fulcrum. Thanks in advance.
+
+1)
+
+6692424
+
+2)
+
+9221424
+
+3)
+
+1034270
+
+4)
+
+9178894
+
+5)
+
+7055932
+
+6)
+
+5457206
+
+7)
+
+1396101
+
+8)
+
+2922662
+
+9)
+
+2560805
+"
+,Se7enex,2012-09-05T02:48Z,"(I used J7JBD-2NTPH-HXFHK-3FXFP-TMQG7)
+
+I tried to call UK but couldn't get through. Please help me out."
+,tntdude,2012-09-05T02:54Z,"@FulcrumX
+
+Hi there, I seem to be having trouble activating via Phone as well. I used serial XR2XH-NMBQJ-T79Q6-83T78-MR9VC and got the following Installation ID:
+
+1: 1458190
+2: 5674851
+3: 0197370
+4: 2996360
+5: 6953385
+6: 4212812
+7: 8203911
+8: 0834182
+9: 6413926"
+,Andr3sb0y,2012-09-05T03:18Z,"@FulcrumX  Please help. I am running Windows 8 Pro. Used J87JG-PXNR9-68BRP-DGJ9P-TMQHC 
+1)3744025
+2)3191873
+3)3608465
+4)1014222
+5)9385265
+6)5673654
+7)0098454
+8)0501900
+9)3979603
+Thanks in advance if you can help me."
+,f4s7d3r3k,2012-09-05T05:04Z,Registered my version using fulcrimX method (skype). Thanks!
+,ron2x69,2012-09-05T05:33Z,"@FulcrumX, it's Win Pro 8
+
+QGR4N-78PMD- KCRQ7-83BXT-YG667
+
+
+5623365
+1011382
+3148572
+1462953
+2567062
+6177290
+8190265
+8056021
+9253845
+
+mail me ron2x69@gmail.com
+
+thank's"
+,mrcrazymode,2012-09-05T06:57Z,"HELP!! The size is 5.79 GB, how do i install it? it wouldn't fit a normal DVD"
+,FulcrumX,2012-09-05T07:11Z,"^
+
+use a dual layer dvd or at least 8GB
+ Flash Drive."
+,FulcrumX,2012-09-05T07:54Z,"@se7enex
+
+a-161996
+b-833335
+c-465503
+d-680220
+e-753342
+f-591612
+g-134015
+h-823931
+
+@tntdune
+
+the numbers you gave wasn't recognized, try this product key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+@andr3sboy
+
+a-089212
+b-384104
+c-495305
+d-696724
+e-128615
+f-478512
+g-728053
+h-143902
+
+"
+,kraddark,2012-09-05T08:17Z,"@FulcrumX Please help me out.
+
+I have win8 Pro RTM 
+   Key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+0082893
+2569244
+5612754
+2689503
+7447484
+4160674
+8313676
+0369423
+2898405
+
+thanks in advance!
+
+"
+,kraddark,2012-09-05T08:18Z,"@FulcrumX Please help me out.
+
+I have win8 Pro RTM 
+   Key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+0082893
+2569244
+5612754
+2689503
+7447484
+4160674
+8313676
+0369423
+2898405
+
+thanks in advance!"
+,tntdude,2012-09-05T08:18Z,"@FulcrumX
+Thanks for trying.
+How about below with key J7JBD-2NTPH-HXFHK-3FXFP-TMQG7:
+
+1: 1893264
+2: 7427352
+3: 4399815
+4: 4307732
+5: 1280740
+6: 8659795
+7: 4445484
+8: 6514466
+9: 6238725"
+,max261980,2012-09-05T08:36Z,"@FulcrumX
+
+hi!
+can you help me please, I cant activate my windows 8 pro 9200.
+1-
+TNHV9-74XMY-QVT69-CV8W6-RRDHC
+2-
+I Select the United Kingdom
+
+
+1-6205432
+2-8400233
+3-1492155
+4-2909205
+5-3728551
+6-2069414
+7-1083581
+8-3069490
+9-5608806
+
+can you send me in my email the code confirmation (a-h)
+bekotoj@yahoo.fr . thanks"
+,FulcrumX,2012-09-05T09:02Z,"@kraddark
+
+a-035544
+b-036144
+c-478272
+d-748874
+e-279121
+f-685914
+g-054066
+h-584096
+
+@tntdude
+
+sorry, still invalid.  can you give this a try: QGR4N-78PMD- KCRQ7-83BXT-YG667"
+,kraddark,2012-09-05T09:12Z,Thank you @FulcrumX
+,insect33,2012-09-05T09:13Z,"@FulcrumXan 
+
+can you help me out with my windows 8 pro activation?
+i used the key J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+
+0656261
+9330543
+8217516
+7738140
+0545821
+7663482
+3378276
+9747841
+0424004
+
+thanks in advance.."
+,FulcrumX,2012-09-05T09:29Z,"@insect33
+
+a-355405
+b-692406
+c-314072
+d-805160
+e-695782
+f-925694
+g-079600
+h-417776"
+,stlony,2012-09-05T09:53Z,"@FulcrumX
+
+Could you please help me too?
+I am using windows 8 Enterprise with this key 
+J87JG-PXNR9-68BRP-DGJ9P-TMQHC
+
+3670581
+4278655
+4441805
+6580222
+1450955
+9810241
+1136572
+8047200
+7765120"
+,maxi888,2012-09-05T10:05Z,"@FulcrumX
+
+Can you help me out with this..
+Win8 pro:- QGR4N-78PMD- KCRQ7-83BXT-YG667
+
+1-2933114
+2-2780583
+3-7316152
+4-8332623
+5-7745154
+6-5974566
+7-3748452
+8-7783931
+9-7984326"
+,FulcrumX,2012-09-05T10:26Z,"@stlony
+
+use this product key: TNHV9-74XMY-QVT69-CV8W6-RRDHC 
+
+@maxi888
+
+a-349834
+b-436980
+c-658164
+d-189250
+e-884503
+f-936354
+g-167550
+h-352734"
+,maxi888,2012-09-05T10:30Z,thanks! FulcrumX your'e genius bro :)
+,stlony,2012-09-05T11:06Z,"@FulcrumX
+
+thanks dear I changed it to the one you recomend
+
+1801200
+2207040
+0156900
+9156296
+0841095
+7379246
+1832891
+4271090
+7807601"
+,harty242,2012-09-05T11:11Z,Can someone help with activation on windows 8 Pro please
+,dray25,2012-09-05T11:45Z,"please can someone help, i used some voip services to call but didn't get any luck
+
+J87JG-PXNR9-68BRP-DGJ9P-TMQHC widows 8 vl pro
+
+1. 5595396
+2. 5079916
+3. 1168940
+4. 8095995
+5. 0582131
+6. 1759513
+7. 3287304
+8. 9100863
+9. 9001923
+"
+,Nonn1,2012-09-05T12:24Z,"@FulcrumX
+
+1 . 3066433
+2 . 8761440
+3 . 9796933`
+4 . 8215043
+5 . 0441623
+6 . 6141681
+7 . 4359953
+8 . 7103670
+9 . 1680883"
+,Nonn1,2012-09-05T12:32Z,"@FulcrumX
+
+
+3066433
+8761440
+9796933
+8215043
+0441623
+6141681
+4359953
+7103670
+1680883"
+,harty242,2012-09-05T12:33Z,I need activation key please and some help :) 
+,insect33,2012-09-05T12:38Z,"@FulcrumX
+
+works like a charm...thank you very much dude..."
+,Caelestls,2012-09-05T13:16Z,"@FulcrumX
+Mate can you help me with the Installing/Product Key for Win8 Pro (x64)? the one that's inserted in the torrent file is too long to write in, appreciate it."
+,ozxate,2012-09-05T13:33Z,"@FulcrumX
+
+Can you help me out with this.
+W8 pro  XR2XH-NMBQJ-T79Q6-83T78-MR9VC
+
+1-3285483
+2-6036243
+3-1092996
+4-2894955
+5-6346693
+6-0004001
+7-4690105
+8-9132805
+9-2636001"
+,magnumxxl1,2012-09-05T13:50Z,"@FulcrumX
+need help too...
+key: J87JG-PXNR9-68BRP-DGJ9P-TMQHC
+
+1:0495735
+2:1429814
+3:6556515
+4:8065174
+5:7989245
+6:4188322
+7:0377894
+8:2357112
+9:9488242
+
+thanks a ton! "
+,khaledmeid,2012-09-05T14:07Z,"@FulcrumXan
+
+please help, I can't call this UK toll free at all!
+
+I got:
+
+6284806
+4825050
+3292692
+9268154
+4064952
+0682905
+5087954
+4479524
+8346322
+
+Thanks in advance :)"
+,khaledmeid,2012-09-05T14:08Z,"@FulcrumXan
+
+please help, I can't call this UK toll free at all!
+
+I got:
+
+6284806
+4825050
+3292692
+9268154
+4064952
+0682905
+5087954
+4479524
+8346322"
+,khaledmeid,2012-09-05T14:11Z,"@FulcrumX
+
+please help, I can't call this UK no.!! tell me how or please help me I got:
+
+6284806
+4825050
+3292692
+9268154
+4064952
+0682905
+5087954
+4479524
+8346322
+
+Thanks in advance..."
+,khaledmeid,2012-09-05T14:13Z,"@Fulcrum
+
+pleas help, I can't call this UK no.!! tell me how or please help me I got:
+
+6284806
+4825050
+3292692
+9268154
+4064952
+0682905
+5087954
+4479524
+8346322
+
+Thanks in advance..."
+,khaledmeid,2012-09-05T14:13Z,"@Fulcrum
+
+6284806
+4825050
+3292692
+9268154
+4064952
+0682905
+5087954
+4479524
+8346322
+
+Thanks in advance..."
+,khaledmeid,2012-09-05T14:14Z,8346322
+,khaledmeid,2012-09-05T14:16Z,Hi
+,khaledmeid,2012-09-05T14:21Z,my comments doesn't appear ;(((
+,khaledmeid,2012-09-05T14:33Z,"So sorry I posted a lot of comments by mistake :$ and I even forgot to put the key :)
+
+The Key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7"
+,kinggene,2012-09-05T15:19Z,"@FulcramX
+
+I used key J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 
+can u help?
+4956880
+4362634
+1362816
+5410652
+8510022
+5019085
+7354241
+4089204
+9959126"
+,Andr3sb0y,2012-09-05T15:40Z,@FulcrumX that u so much it worked. 
+,Andr3sb0y,2012-09-05T15:41Z,@FulcrumX thank you so much it worked.
+,sharvinz,2012-09-05T15:49Z,"Does any one have wifi can't turn it on problem on your lap top? I'm having a major driver issue. My wifi can't turn it on , when i googled i got answers from answers.microsoft.com forrum  like un-installing and re-installing the wireless drives, but for me Sony VIO E series model no: SVE14112ENW and the wireless driver i had was Qualcomm Atheros AR9485WB-EG wireless network adapter, and there were only windows 7 version was available for that driver. And when  installed and reboot my laptop the os became error before get in into desktop and it begin automatic repairing and restored my pc back to normal.. but still i can't turn my wifi on :( Could anyone here please help me..?"
+,betop,2012-09-05T16:22Z,"@FulcrumX
+
+Pro 9200
+
+please.. use key J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+7537011
+4498565
+9255522
+2061934
+2063036
+1810526
+6333296
+1234945
+7357603
+
+www.betopereira@gmail.com
+thank´s..."
+,magnumxxl1,2012-09-05T16:25Z,nm. got it activated!
+,Nonn1,2012-09-05T16:56Z,"@FulcramX
+
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 
+
+0632650
+1005016
+6015501
+5309636
+1239705
+8516251
+5674875
+8793844
+4882560
+
+johnnoknee@yahoo.com   Pls."
+,Wlan11101,2012-09-05T17:00Z,"@FulcrumX
+
+Hi, please your help,
+
+Pro 9200 x64
+
+Key: XKY4K-2NRWR-8F6P2-448RF-CRYQH
+
+5285836
+8974314
+1660616
+9490005
+9282531
+1437792
+4692985
+2665991
+2585921
+
+Ty very much"
+,RaduBogdan,2012-09-05T17:10Z,"@FulcramX
+
+I use the key: WMJ3J-2NMH7-4WBDD-7BK7B-3GJXV
+
+I got:
+
+3071395
+2437776
+7066163
+2927771
+3846000
+0545210
+8343790
+9680855
+1710084
+
+Thank you anyway bro ;)"
+,Caelestls,2012-09-05T17:22Z,"@FulcrumX
+I just used NG4HW-VH26C-733KW-K6F98-J8CK4 for installing, can you help me activate it?, thanks"
+,xblink,2012-09-05T17:28Z,"@FulcramX
+
+Thank You Very Much..
+
+Done Activating...
+
+Windows 8 Pro Build 9200
+
+*** Read, Understand and Apply = 100% ACTIVATE
+*** Be Patience
+*** Thanks Again."
+,prodik,2012-09-05T17:46Z,Win 8 x64 100% activate via skype :D
+,Caelestls,2012-09-05T19:02Z,"@FulcrumX
+I just reinstalled Win8 PRO RTM with this product/k
+QGR4N-78PMD-KCRQ7-83BXT-YG667 please help for activation, appreciate it"
+,thenewguy21,2012-09-05T19:04Z,"@FulcrumX
+
+Tks bro your the best!"
+,mingtk,2012-09-05T19:28Z,"Hey guys. Pretty new to all this torrenting. I used the key J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 
+Can someone please help me with:
+0312596
+0483316
+9481011
+8607456
+2358725
+2561824
+1927000
+3801765
+2092641"
+,Pirate.Igor,2012-09-05T19:29Z,"Hi FulcrumX!
+
+Please help,
+
+I used key:J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+and this:
+
+5939683
+4318112
+2114971
+1737644
+7709016
+9283473
+4418451
+5605254
+6640405
+
+Big thanks!!!
+
+igor_feb77@yahoo.com"
+,hillbenny,2012-09-05T19:31Z,"@FulcramX
+
+Will you please help me?
+
+I used NG4HW-VH26C-733KW-K6F98-J8CK4
+
+1- 0173316
+2- 8175634
+3- 0128403
+4- 9126514
+5- 4305100
+6- 2004715
+7- 0861205
+8- 2134872
+9- 6778083
+
+Thank you so much!!"
+,santosh16,2012-09-05T19:36Z,"FulcramX
+you rock man great work!!!!
+i stay in ind when i am trying to call uk toll, it is connecting but when she ask to type #1,even though i type 1
+she could not able to recognise it and phone automatically cut off so please help me man!! "
+,konzu,2012-09-05T20:51Z,"@FulcrumX
+ I need help i activated windows pro 9200
+then i entered diferent key to activate windows media player and got blocked again :)
+Key of present version is :
+gnbb8-yvd74-qjhx6-27h4k-8qhdg
+
+4538253
+6454545
+0678474
+7362844
+9867684
+5581206
+5214531
+3899531
+0242561
+
+Help when u can :)
+"
+,FulcrumX,2012-09-05T21:04Z,"i'm a bit busy as of the moment, i'll try to help as many a i can, add me thru skype, my skype id: fulkrumx"
+,Pirate.Igor,2012-09-05T23:56Z,"Hi fulkrumx!
+
+DONE ACTIVATION!!!  
+
+And you THANKS very much!!!  
+
+Greetings from SERBIA,bro!"
+,tntdude,2012-09-06T00:29Z,"@FulcrumX
+
+Hi again, thanks for the new key (QGR4N-78PMD- KCRQ7-83BXT-YG667). Below is the install id:
+
+1: 2425552
+2: 7387895
+3: 7371220
+4: 2649143
+5: 7563172
+6: 5865481
+7: 3871931
+8: 3954136
+9: 3250645"
+,merlinkeith,2012-09-06T02:25Z,"Need help with activation
+0590301
+7070972
+4493516
+2614601
+3684210
+8387172
+4889774
+0672026
+7310166"
+,merlinkeith,2012-09-06T02:26Z,"Need help with activation
+0590301
+7070972
+4493516
+2614601
+3684210
+8387172
+4889774
+0672026
+7310166
+
+thanks for the help"
+,seansheep,2012-09-06T03:13Z,"1.7140093
+2.6188745
+3.4722946
+4.0304070
+5.4833903
+6.9724823
+7.4226304
+8.2883110
+9.0049446
+
+TNHV9-74XMY-QVT69-CV8W6-RRDHC
+
+Tried calling but said error at the end, thanks guys"
+,wukiee,2012-09-06T04:02Z,"Hi there can anyone pls help me out. Im abit scared tbh to call there. Ill be generous enough if i get a reply with the code..plus give me some contact so i can put some lil prize for it.
+
+code i used: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+1. 5617976
+2. 6988432
+3. 5365634
+4. 7392840
+5. 7303763
+6. 8694904
+7. 4666360
+8. 2873934
+9. 6590240
+
+Thanks in advance and again leave some sort of contact if you want a small prize :)"
+,FirstAidd,2012-09-06T05:22Z,"@FulcrumX You are awesome for helping out all of these people. If you get a chance I'd love it if you could help me out.
+
+2091213
+6224461
+3797941
+9759834
+5937556
+4560124
+3479795
+2680333
+3880081"
+,FirstAidd,2012-09-06T05:28Z,"@FulcrumX
+You are awesome for helping all of these people.
+Could you help me out?
+2091213
+6224461
+3797941
+9759834
+5937556
+4560124
+3479795
+2680333
+3880081"
+,techranjit,2012-09-06T05:39Z,What is the difference between Rtm Version And Retail Version? Do I need to install retail version later? Or shall I continue to use this version ??
+,ow42x1,2012-09-06T05:48Z,If you still can't activate Windows 8 add me on Skype I still have many legit retail keys for sale that will activate your copy for life via the internet so you don't have to activate it via phone. ADD ME ON SKYPE: ow42x1
+,JesterDev,2012-09-06T06:00Z,"It's really easy to activate. I did it myself with the following instructions and skype. To type the numbers in skype simply press the icons that looks like dots. Here is the number to call:
+
+44-0 800 018 8354 - Follow prompts from recording. No live person to deal with.  
+
+It's a toll free number so no charges apply, at least there was none for me from the US.
+
+From @hazeblaze420 @fulcrumx
+
+1. Press Winkey + R type in: slui 3 - enter product key. Press activate. Ignore the error, or any issues talking about the key being used to much, blocked etc. Don't worry about this. Just close the window.
+
+2. Press Winkey + R type in: slui 4 
+Select United Kingdom: Number again is: 
+
+44-0 800 018 8354 
+
+3. Dail the number in skype, or however you want. Enter the 9 blocks as asked to do so. 
+
+4. You will receive blocks to full in black sections. 
+
+5. Click ""Activate""
+
+If your blocks are not valid, try another Key. 
+
+You will not be talking to a human person, just a recording. "
+,JesterDev,2012-09-06T06:03Z,"Black = Blank
+
+Excuse the typos. :) 
+
+dial 1 then the number: 
+
+1 44 0 800 018 8354 "
+,mingtk,2012-09-06T06:42Z,Thanks man! Now activated. Worked great no problems.
+,CamS23,2012-09-06T08:37Z,"Everything is working fine on my end. I was wondering, will this version be able to update after the release or am I going to have to get another version?"
+,djbond23,2012-09-06T09:22Z,is it safe to inatall windows updates ??
+,evanb1987,2012-09-06T10:01Z,1
+,maxi888,2012-09-06T11:17Z,"@FirstAidd
+Enjoy..
+
+a-223910
+b-531406
+c-603611
+d-983215
+e-317775
+f-208521
+g-589976
+h-516182"
+,yasirya,2012-09-06T11:54Z,"please help..
+1. 2970776
+2. 2457903
+3. 4404023
+4. 4229344
+5. 2944021
+6. 8200775
+7. 4064495
+8. 3092844
+9. 7371042....
+please please please"
+,Salidor,2012-09-06T12:02Z,"2450475
+
+2763373
+
+4556910
+
+1938436
+
+5405363
+
+2626462
+
+8639360
+
+3234110
+
+8312325
+"
+,Salidor,2012-09-06T12:05Z,"2450475
+2763373
+4556910
+1938436
+5405363
+2626462
+8639360
+3234110
+8312325"
+,Salidor,2012-09-06T12:06Z,"@ Falcrum X - your truly amazing :) If you do get time, could you please help with this code?
+
+2450475
+2763373
+4556910
+1938436
+5405363
+2626462
+8639360
+3234110
+8312325"
+,konzu,2012-09-06T14:06Z,@Fulcram x thanks man..after weeks of searching for activator or something u  helped me..windows finaly activated thanks man .
+,gigo721,2012-09-06T15:32Z,"1.   5823944
+2.   2542870
+3.   6763105
+4.   9707856
+5.   1138903
+6.   1072515
+7.   7870250
+8.   0124520
+9.   9601524
+
+please help"
+,simon1121,2012-09-06T16:28Z,"Hello , I really need help with my activation, can't get it work when i was calling to them :/
+So please help me
+
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+2911161
+7223111
+3709361
+0597152
+7333215
+7942532
+0033392
+8757882
+4432722
+
+
+
+
+
+
+
+"
+,Altair6,2012-09-06T16:53Z,"I'd really like some help with the activation part.
+Tried the calling thing without luck.
+
+
+1. 3699416
+2. 1433223
+3. 0720873
+4. 0440780
+5. 7630196
+6. 4373452
+7. 4703275
+8. 0743874
+9. 3126965
+
+Code  i used :: 2GVN8-TV3C2-K3YM7-MMRVM-BBFDH"
+,bonyjosem,2012-09-06T17:01Z,"@FulcrumXan
+
+can you help me out with my windows 8 pro..
+i used the key    J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+1446086
+1267572
+3380660
+2005330
+8213864
+7681814
+0738941
+2755162
+4968084
+
+
+thanks in advance.. "
+,Altair6,2012-09-06T17:06Z,"@FulcrumXan 
+I'd really like some help with the activation part.
+Tried the calling thing without luck.
+
+
+1. 3699416
+2. 1433223
+3. 0720873
+4. 0440780
+5. 7630196
+6. 4373452
+7. 4703275
+8. 0743874
+9. 3126965
+
+Code i used :: 2GVN8-TV3C2-K3YM7-MMRVM-BBFDH    - Windows 8 Pro"
+,md8,2012-09-06T18:29Z,"
+help please....
+
+3261826
+2641591
+0071392
+8081603
+3457392
+9700351
+4802104
+1916911
+7796883
+
+windows 8 pro 
+XKY4K-2NRWR-8F6P2-448RF-CRYQH"
+,ahmoped,2012-09-06T21:43Z,"I used key J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 
+ can u help?
+
+4419773
+7478453
+4042835
+5745746
+6300616
+2408881
+2433965
+7964733
+2216080
+ahmedmoped@gmail.com"
+,dragop,2012-09-06T21:44Z,"well skype activation works , I have tried it and it works like a charm"
+,Leignheart,2012-09-07T05:49Z,I seriously cannot believe Microsoft is so stupid as to allow you to activate a copy of windows 8 which isn't even out over the phone. they scream pirate me.
+,cachoski,2012-09-07T08:15Z,"Please Help
+
+1- 4279893
+2- 7099355	
+3- 8220854
+4- 8164891
+5- 5788410
+6- 8013795
+7- 4866922
+8- 7810044
+9- 3150804
+
+Windows 8 pro
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+Thank You in Advance."
+,ahmoped,2012-09-07T12:35Z,"@FulcrumX
+help pls..."
+,arifakik,2012-09-07T13:49Z,"I m from india
+
+my codes are
+
+1. 7444266
+2. 9149650
+3. 8063550
+4. 5296553
+5. 4771064
+6. 7689174
+7. 6271806
+8. 5279663
+9. 4306725
+
+
+plz help dude"
+,arifakik,2012-09-07T13:49Z,"I m from india
+
+my codes are
+
+1. 7444266
+2. 9149650
+3. 8063550
+4. 5296553
+5. 4771064
+6. 7689174
+7. 6271806
+8. 5279663
+9. 4306725
+
+@FulcrumX
+plz help  "
+,mjrghost,2012-09-07T14:52Z,"Please Help
+
+my codes are
+
+7071743
+6422355
+4541882
+9170911
+1748883
+9226894
+2423086
+5459641
+2303842
+
+Pls Help ;/"
+,mjrghost,2012-09-07T15:02Z,i
+,mjrghost,2012-09-07T15:09Z,i
+,mjrghost,2012-09-07T15:17Z,p
+,santosh16,2012-09-07T16:08Z,"@FulcrumX
+on skype when i press ""1"" when she ask , she could not able to recognise plz help me "
+,evanb1987,2012-09-07T17:19Z,"
+5476615
+4574535
+0832031
+6563960
+1183660
+1273774
+1046251
+1215671
+6487042
+
+
+
+I Need Help With Activation to Thx
+
+
+windows7seven@live.ca"
+,vimarsh,2012-09-07T18:07Z,"@FulcrumX
+ help please... 
+
+1. 3999870
+2. 9118770
+3. 3532415
+4. 9658356
+5. 8230256
+6. 4476684
+7. 8802390
+8. 1605594
+9. 9907444"
+,insect33,2012-09-07T19:24Z,"@FulcrumX
+help pls... 
+
+my numbers are,
+
+3173110
+2826223
+9898172
+5349840
+3743230
+5795116
+0918580
+8521261
+5002406
+
+
+thks in advance.."
+,penglong,2012-09-07T19:30Z,Can I use Window Update through my phone activation?
+,evanb1987,2012-09-07T19:57Z,"@fulcrumx Help
+
+5476615
+4574535
+0832031
+6563960
+1183660
+1273774
+1046251
+1215671
+6487042
+
+
+
+I Need Help With Activation to Thx
+
+
+windows7seven@live.ca "
+,ow42x1,2012-09-07T20:02Z,"Well I might as well start up again...
+
+If you still have yet to activate Windows 8, I still have legit, retail, activation for life, keys. I'm selling them for $25 a piece.
+
+If your interested add me on Skype @: ow42x1
+
+I'm online GMT-7 Pacific Standard Time between 8AM-1AM."
+,pibio,2012-09-07T20:33Z,"Dude, i can´t install this version using a pendrive? I tried but, say To install windows, boot from the installation media or upgrade to windows xp service pack 3. HELP PLS Ty"
+,evanb1987,2012-09-08T02:15Z,@FulcrumX Thanks Buddy You Rock I'm Activated
+,genkds,2012-09-08T04:14Z,"@fulcrumx Can you help me, also?
+
+1: 3058660
+2: 1597170
+3: 9896045
+4: 7772223
+5: 5029774
+6: 9954953
+7: 0277483
+8: 3058174
+9: 6449126
+
+J7JBD-2NTPH-HXFHK-3FXFP-TMQG7"
+,genkds,2012-09-08T04:14Z,"Whoops, Genkds@gmail.com    Thanks!"
+,Balipton1,2012-09-08T04:26Z,"@Fulcrum X
+
+You have already helped so many. Could you help one more poor soul. 
+
+1. 1673342
+
+2. 3215466
+
+3. 7207163
+
+4. 0241393
+
+5. 6635465
+
+6. 3504842
+
+7. 9393950
+
+8. 3440451
+
+9. 6694883
+
+I would love you forever! balipton 1@ gmail . com"
+,NeoMegamanX,2012-09-08T08:14Z,So I tried calling and I got an unable to activate message ._. anyone knows how to fix that?
+,Sodacycle,2012-09-08T09:23Z,"When I call the number I get some Verizon Wireless Message about the number being disconnected. I dial, 1 - 44- 0-800-018-8354."
+,Albert62,2012-09-08T13:23Z,"Just use this http://thepiratebay.se/torrent/7593805/Windows_8_Activator_For_Build_9200_(Sep_2012)
+It will work..."
+,Sodacycle,2012-09-08T14:56Z,"My skype was just being stupid, I got mine to activate. Used the QGR4N code. 
+
+Someone at Microsoft is going to get hell over this little mistake. I think it's hilarious personally."
+,genkds,2012-09-08T15:40Z,"Got it to activate, thanks guys! Using Windows 8 before the official release makes me feel special!"
+,-WallpaperZ-,2012-09-08T16:05Z,Why do I get the feeling Fulcrum is a disgruntled Microsoft employee ;) thanks mate
+,-WallpaperZ-,2012-09-08T16:15Z,"Fulcrum help me please! You are a man of wisdom :)
+
+1. 7615950
+
+2. 4080645
+
+3. 9256173
+
+4. 0389656
+
+5. 3823331
+
+6. 6318422
+
+7. 0073586
+
+8. 4317122
+
+9. 2825204"
+,insect33,2012-09-08T16:49Z,"@Fulcrum, thanks for the solution..my windows 8 pro got activated using skype method..
+
+thank you very mch bro...you're the best.."
+,bonyjosem,2012-09-08T17:19Z,"@FulcrumX
+
+thank you very much bro...
+your skype method worked for me like 5 pc's
+
+thank you very much for helping out poor people who can't always afford new products like me..
+
+god bless you bro..."
+,achilles6,2012-09-08T21:07Z,"@FulcrumX
+
+You're a saviour..god bless!
+
+Your method worked like a charm..tried my own country number first..didnt work..tried UK number..voila..activated!
+
+registered here just to say thanks..u rock!"
+,RazorBlade200,2012-09-09T00:19Z,thanks fulcrum the method worked great
+,darknessplayboy,2012-09-09T03:30Z,"@FulcrumX
+
+Can you help me 
+
+2078745
+1479776
+7357223
+3583432
+1524801
+3451822
+2179665
+9999823
+1626403
+
+Thanks"
+,darknessplayboy,2012-09-09T03:32Z,"@FulcrumX
+
+Can you help me 
+
+2078745
+1479776
+7357223
+3583432
+1524801
+3451822
+2179665
+9999823
+1626403
+
+Thanks
+
+darknessplayboy@gmail.com"
+,szati12,2012-09-09T11:06Z,"@FulcrumX
+Help me please!
+
+NYX2F-474CB-WVDH9-B3PKY-MY2K2
+
+0400451
+9780205
+9829595
+3363972
+3222983
+0099093
+2851413
+9139620
+4219283
+
+szati64@gmail.com"
+,vishu1122,2012-09-09T16:43Z,"@FulcrumX
+
+thanks..i activate my windows 8..need to knw 1 thing if I want to format my pc...than it will again ask me to activate...wat to do in that case..plzz reply..plzz"
+,vishu1122,2012-09-09T16:45Z,"@FulcrumX
+
+thanks..i activate my windows 8..need to know 1 thing if I want to format my pc...than it will again ask me to activate...what to do in that case..plzz reply..plzz"
+,junitotz,2012-09-09T18:31Z,"@fulcrumX  
+
+i got mine activated.,. Thank you very much... your the best...:)"
+,Albert62,2012-09-09T19:38Z,"Still works, just need to find the right keys, here is a ss for anyone with my numbers :).
+Thanks @FulcrumX & @200880."
+,ow42x1,2012-09-09T19:45Z,"If you still haven't activated Windows 8, I have legit, retail keys that will work for life. Once you use it to activate your PC it doesn't matter if you format it or not the key will ALWAYS work for that ONE PC. 
+
+I'm selling them for $25 a piece so add me on Skype and I'll get you set up and show you proof."
+,ow42x1,2012-09-09T19:47Z,Skype is: ow42x1
+,tboots125,2012-09-09T20:09Z,"How come I did not get asked to insert cd 2??
+
+By the way thanks and I am activated without the use of cd 2."
+,chilean03n,2012-09-09T21:07Z,"IT WORKS!!! AWESOME!!!
+
+REMEMBER!----- When calling from Skype, select to call to UK!!!! Click on the flag in the call phones page and select UK! Didn't notice this and got an error because it was calling to the US"
+,lord5ky,2012-09-10T05:31Z,"@FulcrumX
+Please man help me.
+
+1. 6335875
+
+2. 9222140
+
+3. 0321205
+
+4. 6076762
+
+5. 8449174
+
+6. 2032132
+
+7. 9861941
+
+8. 5022543
+
+9. 5036485
+
+send for my email bruno.lord5ky@gmail.com"
+,Zissor,2012-09-10T09:21Z,"Hi! :)
+I am trying to call from Sweden but there is no answer. I call the UK number in the instructions from @FulcrumX.
+Here is my numbers. I'll be very thankful if somebody helped me. :)
+I used this code:J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 
+
+And here is my numbers:
+
+0613282
+7767473
+7641805
+8692792
+2344052
+6354526
+8121505
+9984826
+3362722
+
+Email: Zissor96@gmail.com
+Thank you! :)"
+,taegukki,2012-09-10T12:56Z,"I know you've already helped out heaps of people here, but I was wondering if you could help me out too. I'm trying to activate W8 Enterprise MSDN. The activation numbers that it is giving me are:
+
+1. 6012050
+2. 6531332
+3. 6069962
+4. 8374013
+5. 1402574
+6. 0810292
+7. 0948482
+8. 4186414
+9. 7796000
+
+If you could email the confirmation ID to my address taegukki@gmail.com I would be VERY grateful. Thanks heaps man!"
+,A5R33,2012-09-10T14:33Z,"Fulcrum help me please! 
+NYX2F-474CB-WVDH9-B3PKY-MY2K2
+
+6266770
+2065264
+9336933
+5429722
+0107512
+4926855
+0914100
+9017905
+2441921
+
+email me :asree75@gmail.com
+thanks in advanced"
+,smic18,2012-09-10T14:46Z,"Activation done with skype method,
+
+the question is if i reinstall win8 again, can i reactive it with the same code ??"
+,Zissor,2012-09-10T16:01Z,"I  got my win 8 activated today! :)
+
+
+(tip: email: rodneysaren@gmail.com Or. fulkrum.x@gmail.com
+
+;)"
+,ejoker,2012-09-10T21:51Z,"Fulcrum help me please! You are a man of wisdom :- plz
+ serial : QGR4N-78PMD- KCRQ7-83BXT-YG667
+0351372
+1886731
+2903561
+3077073
+5103793
+5025400
+9556131
+9778163
+1319443
+email: ejoker.07@gmail.com ty Fulcrum"
+,ejoker,2012-09-10T21:52Z,"Fulcrum help me please! You are a man of wisdom :-
+ serial : QGR4N-78PMD- KCRQ7-83BXT-YG667
+0351372
+1886731
+2903561
+3077073
+5103793
+5025400
+9556131
+9778163
+1319443
+email: ejoker.07@gmail.com "
+,ejoker,2012-09-10T21:55Z,"Fulcrum help me please! You are a man of wisdom :- plz
+ serial : QGR4N-78PMD- KCRQ7-83BXT-YG667
+0351372
+1886731
+2903561
+3077073
+5103793
+5025400
+9556131
+9778163
+1319443
+email: ejoker.07@gmail.com"
+,gonz621,2012-09-11T05:26Z,"i don't understand the part which you have to turn off the internet and use skype...
+Does it mean we will use skype via another device and not the computer with windows 8 to be activated?"
+,amankmr03,2012-09-11T05:36Z,windows 8 is awesome or it is okay ?? reply me and tell me the review guys ...
+,rickylee6904,2012-09-11T06:00Z,windows 8 is complete crap it SUCKS stick with windows 7 :)
+,CamS23,2012-09-11T08:39Z,"now that everything is working for me, can anyone tell me how to view the full product key? :)"
+,ahmoped,2012-09-11T15:26Z,"1-  4345412
+2-  1257595
+3-  7564162
+4-  9927636
+5-  1205831
+6-  1224653
+7-  6357494
+8-  4824743
+9-  3513841
+
+Fulcrum"
+,ahmoped,2012-09-11T15:32Z,"Fulcrum help mi pls...
+
+1-  4345412
+2-  1257595
+3-  7564162
+4-  9927636
+5-  1205831
+6-  1224653
+7-  6357494
+8-  4824743
+9-  3513841"
+,gilad215,2012-09-11T17:06Z,"hey Fulcrum please help me! thanks man
+key: NYX2F-474CB-WVDH9-B3PKY-MY2K2
+
+7052666
+3440102
+6719004
+6322911
+8833662
+2478313
+1446632
+6081755
+8194081"
+,gilad215,2012-09-11T17:07Z,my email: gilad215@gmail.com
+,fapmachine,2012-09-12T21:43Z,"thanks good work works like a charm i gt on my pc and lappy and my pals ,,,i luv win 8"
+,Alfohasibdar,2012-09-13T14:18Z," I call the UK number in the instructions from @FulcrumX.
+ Here is my numbers. I'll be very thankful if somebody helped me. :)
+ I used this code:XKY4K-2NRWR-8F6P2-448RF-CRYQH
+Fulcrum help me please! You are a man of wisdom :)
+
+ 1. 6966575
+
+ 2. 5433956
+
+ 3. 9535762
+
+ 4. 4089115
+
+ 5. 1095473
+
+ 6. 0526643
+
+ 7. 0501395
+
+ 8. 3412630
+
+ 9. 2036323
+
+can you send me in my email the code confirmation (a-h)
+ hasibdar@hotmail.com 
+ thanks:)
+
+Thank you in advance, appreciate it! "
+,Alfohasibdar,2012-09-13T14:42Z,"fulkrum.x@gmail.com
+
+
+ I call the UK number in the instructions from @FulcrumX.
+ Here is my numbers. I'll be very thankful if somebody helped me. :)
+ I used this code:XKY4K-2NRWR-8F6P2-448RF-CRYQH
+Fulcrum help me please! You are a man of wisdom :)
+
+ 1. 6966575
+
+ 2. 5433956
+
+ 3. 9535762
+
+ 4. 4089115
+
+ 5. 1095473
+
+ 6. 0526643
+
+ 7. 0501395
+
+ 8. 3412630
+
+ 9. 2036323
+
+can you send me in my email the code confirmation (a-h)
+ hasibdar@hotmail.com 
+ thanks:)
+
+Thank you in advance, appreciate it! "
+,Alfohasibdar,2012-09-13T15:30Z,"I call the UK number in the instructions from @FulcrumX.
+ Here is my numbers. I'll be very thankful if somebody helped me. :)
+ I used this code:XKY4K-2NRWR-8F6P2-448RF-CRYQH
+Fulcrum help me please! You are a man of wisdom :)
+
+ 1. 6966575
+
+ 2. 5433956
+
+ 3. 9535762
+
+ 4. 4089115
+
+ 5. 1095473
+
+ 6. 0526643
+
+ 7. 0501395
+
+ 8. 3412630
+
+ 9. 2036323
+
+can you send me in my email the code confirmation (a-h)
+ hasibdar@hotmail.com 
+ thanks:)
+
+Thank you in advance, appreciate it!"
+,Alfohasibdar,2012-09-13T19:17Z,Thanks fulcrum This Version of Windows 8 work like Ferrari Ops you are a Superman! everything works accurately Thanks for your help!
+,jthomas312,2012-09-13T23:53Z,"Hey @Fulkrum can you help me get a working code so I can personalize, please send it to jthomas60629@yahoo.com
+
+
+Thanks.."
+,ow42x1,2012-09-14T02:30Z,"hey everyone just got a new set of retail keys, i ran out when i was avertising here earlier but now i got more. i'm selling them for $25 a piece. these keys are %100 guaranteed to work, for life.
+
+ADD ME ON SKYPE: ow42x1"
+,ow42x1,2012-09-14T02:35Z,and if you scroll through older comments you can see that other users vouched for me so if you still can't activate or if you want to legitimately activate it with my keys add me on skype: ow42x1
+,deno28,2012-09-14T05:54Z,"@fulcrum please help me activate my windows 8 
+
+win8 pro build 9200 
+key-J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+1-  1609744
+2-  9395752
+3-  2916532
+4-  1380244
+5-  8597343
+6-  9008062
+7-  7096462
+8-  6303810
+9-  3271363
+
+thankyou in advance ^^"
+,deno28,2012-09-14T06:16Z,"@fulcrum please help me activate my windows 8 
+
+win8 pro build 9200 
+key-J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+1- 1609744
+2- 9395752
+3- 2916532
+4- 1380244
+5- 8597343
+6- 9008062
+7- 7096462
+8- 6303810
+9- 3271363
+
+thankyou in advance ^^
+
+email: darksiders_28@hotmail.com"
+,Ben-jamin,2012-09-14T10:27Z,"SHUT UP, JUST SHUT UP!!! READ THE FUC*ING COMMENTS. IT INSTALLS perfectly you tool bags. Quit begging for f'ing help.. Reach down, grab your nuts,, and man the hell up. Read you PUS8Ys!"
+,Ben-jamin,2012-09-14T10:31Z,"Look, seriously tho. The skype method worked for me last week. I'm not typing it up but seriously. He hasn't replied so quit crying and try it. "
+,deno28,2012-09-14T11:53Z,thankyou sir fulcrum thanks a ton man! really a life saver. thankyou so much!!!!!!
+,Gaben256,2012-09-14T16:03Z,"Anyone could help please? Just a call
+activated key : 
+NYX2F-474CB-WVDH9-B3PKY-MY2K2
+1725403
+6433743
+0147764
+0823790
+9091141
+1180442
+1428415
+0578806
+7421443
+
+mail: crystalsoundsociety@gmail.com
+thank you kind sir"
+,FringeRea,2012-09-14T18:30Z,"@deno28
+this is your lucky day.
+
+
+a-454646
+b-020191
+c-865650
+d-488113
+e-362751
+f-427793
+g-774325
+h-721315
+
+@Gaben256
+
+a-161996
+b-833335
+c-465503
+d-680220
+e-753342
+f-591612
+g-134015
+h-823931
+
+@Alfohasibdar
+
+the numbers you gave wasn't recognized, try this product key: J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+
+@gilad215
+
+a-089212
+b-384104
+c-495305
+d-696724
+e-128615
+f-478512
+g-728053
+h-143902
+
+
+@ejoker
+
+
+A - 420691
+B - 310866
+C - 170574
+D - 336552
+E - 979074
+F - 594594
+G - 454121
+H - 089475 "
+,FringeRea,2012-09-14T19:01Z,funny to see how prathaprabhu incarnated into ow42x1 selling keys. this guy is the biggest fuck-faced from shithole corrupted india tamil nadu cunt!!!!!!!!!!!!
+,Gaben256,2012-09-14T22:15Z,"@FringeRea
+
+Wow thanks the help mate, but for some reason it said that the confirmation ID does not match. I checked my numbers again and i selected that im from the UK but still. Any idea?"
+,silkerz,2012-09-14T22:59Z,"I used J7JBD-2NTPH-HXFHK-3FXFP-TMQG7 and called on skype, everything's working perfectly."
+,Chizach124,2012-09-14T23:02Z,"Hi!!:P
+When i installed windows 8 and went to install it using my phone, it didnt give me the option to install it my phone. What should i do??"
+,FulcrumX,2012-09-14T23:30Z,"@FringeRea
+
+stop posting made up confirmation codes. f*****g idiot."
+,knife_76,2012-09-15T06:44Z,Can anyone tell me how you guys activating Windows 8?
+,dwilliam1265,2012-09-15T08:00Z,"On this site, just grab a windows 8 activator. I downloaded and ran it. No skype, no input of serial numbers, none of that shit. I am now fully activated. Good luck."
+,FringeRea,2012-09-15T09:21Z,"@FulcrumX
+
+ahhhahaha M$ dont give a damn bitch! it's all becoz of your shallow kindness that makes this thread spammed by tons of iCryBabies!"
+,FringeRea,2012-09-15T09:23Z,"are there still iCryBabies askin' for activation help??? meh i could help please post your installation ID on this thread, plezzz!!!"
+,FringeRea,2012-09-15T11:02Z,"why shan't i be helpin'? of course i'm helpin'
+
+even FulcrumX didn't even bother to reply of these iCryBabies till the end of the world anymore."
+,korni99,2012-09-15T13:56Z,The x64 is the 64bit?:D
+,ow42x1,2012-09-15T19:49Z,"still selling keys, many happy customers! $25 a key. message me on skype: ow42x1"
+,venky716,2012-09-15T20:40Z,"G8YMN-J8F2P-WXF7F-KM4QB-2PKVC
+
+3846712
+7539696
+6363891
+0394731
+2297475
+4715184
+1686051
+4036265
+9095041
+
+Help if you can :)"
+,venky716,2012-09-15T20:41Z,WIN8 64 bit pro ....
+,drmmniac,2012-09-15T21:12Z,The other Activator works good but it locks up the personalization features. I activated via the UK phone number. I just hope it works after late October. If not I will shell out the $40-$70 and buy a genuine copy. I really like the new start menu!
+,temlin,2012-09-16T01:38Z,"serial
+HB39N-V9K6F-P436V-KWBTC-Q3R9V
+
+1
+5215646
+
+2
+7514674
+
+3
+0536341
+
+4
+0072235
+
+5
+6870285
+
+6
+8673835
+
+7
+8759400
+
+8
+5392732
+
+9
+3993203
+
+help is welcome"
+,gonz621,2012-09-16T02:53Z,"pls help
+i have no skype credit
+
+1
+3926303
+
+2
+5912226
+
+3
+4131822
+
+4
+2805332
+
+5
+9298862
+
+6
+3441306
+
+7
+0273436
+
+8
+1948074
+
+9
+3392725
+
+tnx"
+,FringeRea,2012-09-16T04:21Z,"@korni99
+
+no, The x64 is 6 x 4 = 24bit"
+,FringeRea,2012-09-16T04:31Z,"@temlin
+
+A - 420691
+B - 310866
+C - 170574
+D - 336552
+E - 979074
+F - 594594
+G - 454121
+H - 089475
+
+
+@gonz621
+wow you're saying you have no skype credits... yea i know since UK toll free number will definitely cost you hard credit and cash! anyway this is your lucky day!
+
+A - 283161
+B - 854286
+C - 696980
+D - 233796
+E - 304070
+F - 485420
+G - 007306
+H - 621336 
+
+@venky716
+A - 402433
+B - 822445
+C - 921102
+D - 197753
+E - 920594
+F - 894885
+G - 370955
+H - 260022
+
+@drmmniac 
+well... smart people with a massive brain won't give a fuck about the locked personalization features since they can unlock it using third party software along with the half-assed KJ activation crack from korea."
+,slickgeek,2012-09-16T04:43Z,"Please please please help me :D
+
+my product key: 39DQ2-N4FYQ-GCY6F-JX8QR-TVF9V 
+
+numbers are:
+
+1-5932156
+2-7901093
+3-1435143
+4-5212984
+5-6275545
+6-7578270
+7-4867200
+8-9041071
+9-0944642
+
+thank you so much. email: benjosencil@live.com... :)))"
+,slickgeek,2012-09-16T04:44Z,"Please please please help me :D
+
+my product key: 39DQ2-N4FYQ-GCY6F-JX8QR-TVF9V 
+
+numbers are:
+
+1-5932156
+2-7901093
+3-1435143
+4-5212984
+5-6275545
+6-7578270
+7-4867200
+8-9041071
+9-0944642
+
+thank you so much. email: benjosencil@live.com... :)))"
+,slickgeek,2012-09-16T04:45Z,"Please please please help me :D
+my product key:
+39DQ2-N4FYQ-GCY6F-JX8QR-TVF9V
+
+1-5932156
+2-7901093
+3-1435143
+4-5212984
+5-6275545
+6-7578270
+7-4867200
+8-9041071
+9-0944642
+
+thank you so much sir. email: benjosencil@live.com... :)))"
+,wandallo,2012-09-16T05:15Z,"Só tem neguinho burro!!!
+
+Usem o método de ativação pelo telefone>liguem via skype como seu fosse ligação local UK Reino Unido) faça o passo a passo que a atendente eletrônica pede> passe os seu número de serial que vc tem>receba os número que a atendente fala e coloque no campo de digitação do serial. 
+Aqui tá funcionando direitinho e tudo bem!"
+,gonz621,2012-09-16T05:23Z,"@fringe pls help, it says the confirmation id did not match."
+,Zeqk,2012-09-16T08:07Z,"@FringeRea
+
+Hey man, Could you help me out please?
+
+The Product Key that I used is:
+QGR4N-78PMD-KCRQ7-83BXT-YG667
+
+And the Phone Codes are:
+
+0786225
+3026003
+8006283
+5241244
+4266823
+0603805
+3372254
+5980696
+8112244
+
+Please & Thank you. "
+,FringeRea,2012-09-16T08:32Z,"lol funny iCryBabies cant get over it and too lazy to read all comments and moreover, they're too dumb to proceed the sarcasm.they seriously made my day thence i can't stop having roll on floor laughing my gut like a bastard. it all began from fulcrumX's magic. thank you fulcrumX for your magic you've brought me the sickest entertainment on this thread i loved it"
+,FringeRea,2012-09-16T08:45Z,"seriously the more i saw iCryBabies who don't grow the fuck up, the more i'm laughing like a bastard here ahhhahahaha thanks FulcrumX you had opened me a new door of sick pleasure here! somethin i could never forget seriously fun indeed.
+
+@slickgeek
+A - 095431
+B - 822999
+C - 921000
+D - 197753
+E - 929594
+F - 890075
+G - 640982
+H - 268472
+
+@Zeqk
+A - 332433
+B - 622445
+C - 921111
+D - 197712
+E - 977594
+F - 894191
+G - 375655
+H - 262202"
+,venky716,2012-09-16T10:01Z,"G8YMN-J8F2P-WXF7F-KM4QB-2PKVC
+
+3846712
+7539696
+6363891
+0394731
+2297475
+4715184
+1686051
+4036265
+9095041
+
+win8 64 pro
+
+@FringeRae
+A - 402433
+B - 822445
+C - 921102
+D - 197753
+E - 920594
+F - 894885
+G - 370955
+H - 260022
+
+'code does not match installed key'
+
+Thanks though ..."
+,FulcrumX,2012-09-16T10:13Z,"^
+
+of course the codes won't work, the product key you used no longer work. fringe is making fun of you guys asking for help in activating windows 8, that's why he's giving out made up confirmation id's."
+,JaroDot,2012-09-16T10:15Z,"Hey, can someone get me the activation numbers please? I can't get mine activated, tried all the methods :. Thanks a lot!!
+
+KEY: TNHV9-74XMY-QVT69-CV8W6-RRDHC
+
+1: 2556636
+2: 2756835
+3: 3040486
+4: 4777555
+5: 6329151
+6: 4944485
+7: 3733496
+8: 4299801
+9: 0765440
+
+Once again, thanks!"
+,dimitpap,2012-09-16T11:16Z,"@FringeRea
+
+Hey man, Could you help me out please? 
+codes are
+
+1:5002904
+2:1324626
+3:1016142 
+4:2108490 
+5:9439566 
+6:0111792 
+7:5109300
+8:6203286
+9:5787605"
+,venky716,2012-09-16T13:46Z,"@FulcrumX
+sorry missed the sarcastic comments above mine.. :|
+
+GUYS FringeRae IS GIVING OUT FAKE NUMBERS .... STOP BEING AN IDIOT LIKE ME AND ASKING HIM FOR KEYS"
+,techranjit,2012-09-16T15:36Z,"Guys I am Using Window Pro For about 1 month now I am facing lots of issues in terms of drivers compatibility,No drivers are Available Now ,Applications compatibility isssues,Many Applications are not  compatible with windows 8 ,graphic card compatibility Issues  and PC Games like crysis always struck  ..I Feel Windows 7 is better Now !!!according to me just wait for 1 year or so let Microsoft start removing bugs from windows 8 and then try!!!"
+,mokazhar,2012-09-16T18:48Z,"Used J7JBD-2NTPH-HXFHK-3FXFP-TMQG7
+and called UK Microsoft from Skype, no problems with the activation process but the 'add features to windows 8' app asks the serial number and when I provide the serial number I used it states 'This key won't work. Check it and try again, or try a different key.' What could happen?"
+,tomppixu,2012-09-17T06:31Z,@mokazhar windows 8 is being released October 25 why would there be any drivers yet :D
+,tomppixu,2012-09-17T06:32Z,sorry i meant techranjit xD
+,ow42x1,2012-09-17T07:26Z,"STILL SELLING LEGIT RETAIL AND FULLY ACTIVATED KEYS FOR LIFE!!! 
+
+So if you are still having trouble activating this copy of Windows or you just want a legit activation that won't get blacklisted I have plenty of keys left!
+
+$25 a piece.
+
+If you have any questions before or after ADD me on Skype: ow42x1"
+,Starbux,2012-09-17T08:09Z,"Can someone please help me ?
+
+1- 2203092
+2- 0586084
+3- 6038620
+4- 6558500
+5- 8071482
+6- 0409645
+7- 9325913
+8- 6663743
+9- 7393606"
+,klokovitz,2012-09-17T13:15Z,"@Starbux
+
+014754
+884263
+527232
+992114
+517525
+527185
+704074
+185242
+
+if ok, may i ur PK used?"
+,oobruceoo,2012-09-18T06:16Z,"Anyone could help please? Just a call activated key : 
+
+TNHV9-74XMY-QVT69-CV8W6-RRDHC
+
+1 - 7391566
+2 - 1439695
+3 - 2600315
+4 - 3381982
+5 - 2075046
+6 - 5520715
+7 - 7862792
+8 - 6207234
+9 - 5218881"
+,gonz621,2012-09-18T07:09Z,"@00bruce00
+
+1 - 7391566
+2 - 1439695
+3 - 2600315
+4 - 3381982
+5 - 2075046
+6 - 5520715
+7 - 7862792
+8 - 6207234
+9 - 5218881
+
+a-041382
+b-602392
+c-219706
+d-225180
+e-491371
+f-093904
+g-681586
+h-341005"

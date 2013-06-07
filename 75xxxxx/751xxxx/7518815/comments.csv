@@ -1,0 +1,37 @@
+﻿User Type,Username,Date,Text
+,netstart,2012-08-09T23:47Z,"@Echo Off
+
+Echo Attempting Windows Activation
+Echo Please Wait...
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org:1688
+cscript //B ""%windir%system32slmgr.vbs"" /ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+Echo Activation Status...
+
+cscript slmgr.vbs /dlv
+
+Echo Activation will Retry in 10 Seconds
+
+ping 1.1.1.1 -n 10 -w 1000 > nul
+
+cls
+
+start /b /i C:Activate.bat"
+,aldaytona,2012-08-18T00:29Z,Works perfectly thanks a lot.
+,makalisterx,2012-08-19T00:29Z,"no, its not. servers are offline"

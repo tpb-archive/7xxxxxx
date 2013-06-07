@@ -1,0 +1,59 @@
+
+-----------------
+
+If there is someone out there who CANNOT play the recent wave of MP4 files
+and would Like an AVI version (no promises) - I read all comments.
+
+Anyone can do this - here's how:
+
+You will need - MP4Cam2AVI
+You may need - AtomicParsley
+
+MP4Cam2AVI is a completely LossLess conversion process.
+I call it CC2AVI - "Container Conversion To AVI".
+It allows you to "pour" X264 MP4 encodes into an AVI container.
+You can keep the AAC audio in the conversion process.
+Since VLC doesn't recognize AAC audio in an AVI container,
+I convert the audio to MP3 for universal compatibility.
+
+Conversion takes a minute or so, depending on file size.
+For some MP4 files there's something in the header info that causes:
+"floating point division by zero" error.
+
+Looking high and low I found a way to rewrite the header.
+Now (almost) everything seems to work just fine.
+It's a command line utility. The syntax to use is:
+
+AtomicParsley <MP4 filename> -f true
+
+Unless the file is already flagged as a podcast (in which case, choose 'false')
+this rewrites the MP4 header so that it now thinks it's a podcast. Since the
+CC2AVI process does not carry this info to the AVI - this doesn't matter.
+What matters is that the header information is rewritten so you no longer
+get an error.
+
+There is still a very minor remaining problem - if the MP4 is too large,
+MP4cam2AVI just sits there failing to read the header. Sigh ...
+
+Have all those MP4 files and an old tablet that can't play them?
+Want to use your favorite AVI editing tools?
+Wish you could back up frame by frame in Media Player Classic?
+Now you too can turn any MP4 encode into your favorite AVI.
+
+--------------------
+
+I choose to remain (mostly) anonymous because we are being watched.
+... OK, because I'm paranoid ... that doesn't mean we're not being watched.
+I don't do movies (MPAA) or music (RIAA), but I'm still not sure if it's safe.
+You don't need to know me - you only need to know my work.
+
+I NEVER claim an x264 encoding credit. I GIVE proper credit where due.
+
+My offerings are clearly identifiable:
+use search term "x264.MP3*.avi"
+Without quotes for TPB.
+With quotes for Google.
+
+So, you've probably seen the last of MP4SUX XVID AVI encodes.
+
+Enjoy!

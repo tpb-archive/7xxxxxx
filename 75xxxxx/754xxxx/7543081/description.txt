@@ -1,0 +1,40 @@
+Format                           : Flash Video
+File size                        : 189 MiB
+Duration                         : 45mn 5s
+Overall bit rate                 : 587 Kbps
+httphostheader                   :
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Main@L3.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 3 frames
+Muxing mode                      : Container profile=Unknown@3.0
+Duration                         : 45mn 5s
+Bit rate                         : 449 Kbps
+Width                            : 628 pixels
+Height                           : 360 pixels
+Display aspect ratio             : 16:9
+Frame rate mode                  : Variable
+Frame rate                       : 29.970 fps
+Resolution                       : 24 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.066
+Stream size                      : 145 MiB (77%)
+
+Audio
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Duration                         : 45mn 5s
+Bit rate                         : 129 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 44.1 KHz
+Resolution                       : 16 bits
+Stream size                      : 41.5 MiB (22%)
+

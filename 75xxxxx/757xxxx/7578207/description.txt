@@ -1,0 +1,21 @@
+                                  By bobiras2009			
+
+THIS APPLICATION WILL NOT ROOT THE PHONE
+THIS APPLICATION DOES NOT REQUIRE ROOT ACCESS
+
+This application will allow the user to confirm they have proper root ( superuser ) access and a proper BusyBox installation.
+
+The goal of this application is to provide even the newest Android user with a simple method to check their device for root access. This application will also allow the user to verify a proper BusyBox installation.
+
+For the more advanced and technically inclined users, many important details are provided around the Root and BusyBox installation. The application presents all the details needed to properly troubleshoot any root or BusyBox issues.
+The Root Check mode displays, common su binary locations and file permissions, along with root uid/gid results, Superuser.apk installation and version, adb shell default user mode, and the System defined PATH.developers.com.
+
+What's in this version : (Updated : Aug 26, 2012)
+
+    Added detection and results for SuperSU application
+
+Required Android O/S : 1.6+
+
+
+
+                                  By bobiras2009			

@@ -1,0 +1,108 @@
+﻿Filename,Size,Unit
+00. Introduction/01. Welcome.mov,9.85,M
+00. Introduction/02. Unity basics.mov,1.31,M
+00. Introduction/03. Using the exercise files.mov,2.78,M
+01. Exploring Unity 3D/01. Exploring the interface.mov,7.62,M
+01. Exploring Unity 3D/02. Organizing your project.mov,15.02,M
+01. Exploring Unity 3D/03. Exploring Scene view.mov,6.43,M
+01. Exploring Unity 3D/04. Navigating Scene view.mov,8.23,M
+01. Exploring Unity 3D/05. Creating objects.mov,14.96,M
+01. Exploring Unity 3D/06. Transforming objects.mov,12.56,M
+02. Exploring the Terrain Editor/01. Setting up the terrain geometry.mov,6.87,M
+02. Exploring the Terrain Editor/02. Painting the topography.mov,6.99,M
+02. Exploring the Terrain Editor/03. Painting the terrain textures.mov,12.72,M
+02. Exploring the Terrain Editor/04. Painting trees and forests.mov,13.74,M
+"02. Exploring the Terrain Editor/05. Painting grass, shrubs, and 3D geometry.mov",10.94,M
+02. Exploring the Terrain Editor/06. Painting detail meshes.mov,15.96,M
+02. Exploring the Terrain Editor/07. Adjusting terrain settings.mov,10.87,M
+"03. Creating the Environment/01. Adding sun, sky, and fogg.mov",17.16,M
+03. Creating the Environment/02. Using the First Person Controller.mov,12.95,M
+03. Creating the Environment/03. Publishing project settings.mov,10.3,M
+03. Creating the Environment/04. Introducing the game environment.mov,13,M
+03. Creating the Environment/05. Fine-tuning the First Person Controller.mov,16.11,M
+04. Introducing Unity Scripting/01. Exploring Unity scripting.mov,5.66,M
+04. Introducing Unity Scripting/02. Using variables.mov,19.45,M
+04. Introducing Unity Scripting/03. Discovering functions.mov,8.52,M
+"04. Introducing Unity Scripting/04. Using syntax, punctuation, and the console.mov",9.4,M
+04. Introducing Unity Scripting/05. Looking at function syntax.mov,6.44,M
+04. Introducing Unity Scripting/06. Printing to the console.mov,17.95,M
+04. Introducing Unity Scripting/07. Exploring rotation and time functions.mov,17.29,M
+04. Introducing Unity Scripting/08. Scripting basic functions.mov,14.51,M
+04. Introducing Unity Scripting/09. Combining transforms.mov,11.29,M
+04. Introducing Unity Scripting/10. Setting transforms.mov,15.23,M
+04. Introducing Unity Scripting/11. Using conditionals to create gameplay.mov,15.4,M
+05. In-Game Scripting/01. Exploring distance and local variables.mov,18.13,M
+05. In-Game Scripting/02. Raycasting.mov,15.63,M
+05. In-Game Scripting/03. Building timers.mov,12.46,M
+05. In-Game Scripting/04. Creating a simple projectile.mov,25.17,M
+05. In-Game Scripting/05. Refining the projectile.mov,12.6,M
+05. In-Game Scripting/06. Exploring the OnCollision variable and tags.mov,28.18,M
+05. In-Game Scripting/07. Sending messages.mov,6.71,M
+05. In-Game Scripting/08. Reacting to messages.mov,13.35,M
+05. In-Game Scripting/09. Juggling Play and Edit modes.mov,21.51,M
+05. In-Game Scripting/10. Suppressing input.mov,18.27,M
+06. Working with GameObjects and Components/01. Creating GameObjects.mov,13.5,M
+06. Working with GameObjects and Components/02. Understanding components.mov,9.09,M
+06. Working with GameObjects and Components/03. Using colliders for barriers.mov,20.42,M
+06. Working with GameObjects and Components/04. Using colliders for triggers.mov,11.68,M
+06. Working with GameObjects and Components/05. Exploring physics.mov,12.7,M
+06. Working with GameObjects and Components/06. Working with physics component.mov,8.41,M
+06. Working with GameObjects and Components/07. Making cloth.mov,27.85,M
+06. Working with GameObjects and Components/08. Working with wind zones.mov,22.47,M
+06. Working with GameObjects and Components/09. Using an audio source.mov,20.1,M
+06. Working with GameObjects and Components/10. Creating a sound zone.mov,17.85,M
+06. Working with GameObjects and Components/11. Adding audio effects.mov,13,M
+07. Exploring Prefabs/01. Creating and reusing prefabs.mov,19.94,M
+07. Exploring Prefabs/02. Using prefabs with arrays.mov,11.42,M
+07. Exploring Prefabs/03. Introducing randomness.mov,10.99,M
+07. Exploring Prefabs/04. Creating particle systems.mov,11.35,M
+07. Exploring Prefabs/05. Refining particle systems.mov,8.76,M
+07. Exploring Prefabs/06. Combining particle systems.mov,20.23,M
+07. Exploring Prefabs/07. Upgrading weapons.mov,14.31,M
+07. Exploring Prefabs/08. Exploring water effects.mov,22.59,M
+08. Using Imported Assets/01. Importing static objects.mov,28.52,M
+08. Using Imported Assets/02. Manipulating textures.mov,12.29,M
+08. Using Imported Assets/03. Working with materials and shaders.mov,10.79,M
+08. Using Imported Assets/04. Handling multiple materials.mov,15.46,M
+08. Using Imported Assets/05. Animating UVs.mov,22.33,M
+08. Using Imported Assets/06. Tracking objects with LookAt.mov,16.15,M
+08. Using Imported Assets/07. Using Linecast and the Line Renderer.mov,12.23,M
+09. Understanding Lighting/01. Investigating ambient light.mov,4.74,M
+09. Understanding Lighting/02. Looking at light types.mov,8.87,M
+09. Understanding Lighting/03. Exploring shadows.mov,12.67,M
+09. Understanding Lighting/04. Baking lighting with Beast.mov,15.88,M
+09. Understanding Lighting/05. Experimenting with Beast.mov,16.08,M
+09. Understanding Lighting/06. Baking the game scene.mov,9.09,M
+09. Understanding Lighting/07. Creating lighting effects.mov,18.34,M
+09. Understanding Lighting/08. Adding a flashlight.mov,22.19,M
+09. Understanding Lighting/09. Exploring waypoints and death zones.mov,18.26,M
+10. Keyframing Animation/01. Platformer setup: Snaps and cosines.mov,20.96,M
+10. Keyframing Animation/02. Using the Animation view.mov,19.38,M
+10. Keyframing Animation/03. Working with multiple animation clips.mov,10.1,M
+10. Keyframing Animation/04. Triggering keyframe animations.mov,14.57,M
+10. Keyframing Animation/05. Animating transparency.mov,16.88,M
+10. Keyframing Animation/06. Keyframing events.mov,15.78,M
+10. Keyframing Animation/07. Avoiding keyframing pitfalls.mov,12.81,M
+11. Animating Skinned Meshes and Controlling Characters/01. Importing skinned meshes.mov,21.82,M
+11. Animating Skinned Meshes and Controlling Characters/02. Adding to imported animations.mov,7.51,M
+11. Animating Skinned Meshes and Controlling Characters/03. Dynamic parenting.mov,19.12,M
+11. Animating Skinned Meshes and Controlling Characters/04. Exploring character controllers.mov,14.74,M
+11. Animating Skinned Meshes and Controlling Characters/05. Importing an animated character.mov,16.86,M
+11. Animating Skinned Meshes and Controlling Characters/06. Activating the character animation.mov,16.3,M
+12. Working with Cameras and Layers/01. Introducing cameras.mov,10.09,M
+12. Working with Cameras and Layers/02. Working with cameras and layers.mov,10.01,M
+12. Working with Cameras and Layers/03. Activating the platformer scene.mov,16.27,M
+12. Working with Cameras and Layers/04. Adding obstacles and pushing physics.mov,12.42,M
+12. Working with Cameras and Layers/05. Managing multiple levels.mov,21.46,M
+13. Creating Game GUIs/01. Working with the Unity GUI.mov,19.05,M
+13. Creating Game GUIs/02. Using GUI skins.mov,11.2,M
+13. Creating Game GUIs/03. Exploring controls.mov,4.93,M
+13. Creating Game GUIs/04. Introducing fonts and styles.mov,9.75,M
+13. Creating Game GUIs/05. Scripting in-game menus.mov,9.32,M
+13. Creating Game GUIs/06. Hooking up an in-game menu.mov,12.96,M
+13. Creating Game GUIs/07. Creating custom cursors.mov,21.48,M
+14. Extra Techniques and Features/01. Creating fade transitionss.mov,12.39,M
+14. Extra Techniques and Features/02. Setting AI pathfinding.mov,28.17,M
+14. Extra Techniques and Features/03. Using render textures for spy cams.mov,9.66,M
+15. Conclusion/01. What's next.mov,2.42,M
+Exercise files/Ex_Files_Unity3D_35EssT_Free.zip,332.84,K

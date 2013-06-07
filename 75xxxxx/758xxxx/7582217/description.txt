@@ -1,0 +1,46 @@
+iUTA Macinhack 1.0b1
+
+iuta_macinhack@yahoo.com
+ 
+QUESTIONS, SUGGESTIONS AND HELPERS, THIS IS MY MAIL ADRESS FOR THIS PROJECT!!!!
+
+WHY I DID THIS:
+I was pissed up. Why did Apple kicked our good "old" Macs??? I have an Early 2008 MacBook with 4 Gigs of RAM. I was angry. After a bit of researching and experimenting I found a solution. Now I want you guys to be able to use OS X 10.8 on your "old" Mac, too :D
+
+PS: Please do NOT copy this. This costed me over a week of hard working and experimenting and this is only the beta. I integrated some backdoors so i can see if some d*ckheads copy my work. That would NOT be nice and I would NOT try to do it. If you are smart and discovered something, you can mail me, but, again, please do NOT copy parts or more from my modded ML setup. This is only a warning. Now let's get back to work.
+
+COMPATIBLE WITH:
+Open System Profiler (in Utilities-Folder). Please keep in mind this is still beta and just for testing.
+iUTA is tested with the following Macs:
+
+-Mac minis with X3100 > fine
+-Mac Pros with upgraded graphics > fine
+-MacBooks with X3100 > Works, display brightness and sleep not working (yet)
+-MacBookAir with X3100 > Works, display brightness & sleep issue 
+-MacBookPros with X1600 > Graphics don't work really well, don't found compatible kexts yet
+-MacBooks with GMA 950 > Works, some little issues
+-iMacs with GMA 950 >Works, some little issues
+-iMacs with X1900 > Graphics don't work really well, don't found compatible kexts yet
+-Mac Minis with GMA 950 > Graphics don't work really well, don't found compatible kexts yet
+
+Other Macs aren't tested but MAY work! Please mail me about your experience with your Mac.
+
+iuta-macinhack@yahoo.com
+
+For everything after setupΓÇª. :
+
+1. Software Update does NOT work (at the moment....keep in mind: beta). U have to download ur updates manually and then install 'em with Pacifist (google is ur friend)
+2. Some apps crashΓÇª u know, ur running ML on an officially unsupported Mac and iUTA is still in beta phaseΓÇª. I try my best to try out other kexts for making it more attractive for uΓÇª. Please contribute and help me making iUTA better. Our eMail is on the top of the description. 
+
+CHANGELOG:
+* 1.0b1 (this one): first version EVER, includes kext files and patched installer
+
+C R E D I T S:
+
+iUTA, general project and building:                     Felix Sebastian Uta 
+Some kexts:                                             MacRumors, hackerwayne   
+                                                       (thank you for the tips)
+Kext Utility:                                           Cvad-Mac (thanks, really        
+                                                        nice little tool)
+other stuff:                                            Google (one of the best   
+                                                        sources ;D)

@@ -1,0 +1,24 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+
+Version 0.8.9.1
+Fixed crash with stock manager.  This fixes the out of bounds crash with the market stall, crafting and stockpiles
+
+Version 0.8.9
+General:
+Added ranged weapons.  Ranged weapons are unlocked through tinkering and require ammo and ammo containers to use.  Weapon and ammo materials both factor into final damage.  Weapons are crafted at the Engineer shop.  Ammo can be crafted at Stonemason and Machine Shop.  Ammo pouch is crafted at the Tailor and quiver is crafted at the Leatherworker.
+Added clear and save buttons for combat logs
+Added dropdown box to filter combat logs by currently active combat and by date
+
+Bug Fixes:
+Knockback stat and blunt damage stat not loading properly
+Fixes for detecting stop and end of combat for combat logs
+Sausages not being allowed in crates
+
+
+Some people were having trouble loading games that had tons of combat logs.  Logs more than 12 days old are discarded when loading.  Also, some combat logs incorrectly were considered active.  These are fixed when loading but will show up as being finished on the current day.  So there may be a lot of logs when the most recent day is selected.
+
+Saved combat logs are stored in the "CombatLogs" folder in your Gnomoria save directory.  They are named by kingdom name and date.  Entries are prefixed with a combat message type for those who want to parse the log for any reason.
+
+
+I will be seeding newer versions as they will be released so keep an eye out :)	

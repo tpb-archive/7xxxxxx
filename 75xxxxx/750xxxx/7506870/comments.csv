@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,mike953100,2012-08-05T22:02Z,"Enjoy and please seed!
+
+If you like, feel free to check out my other uploads: 
+
+http://thepiratebay.se/user/mike953100/"
+,andrei.92brb,2012-08-05T22:18Z,the dictator please
+,mike953100,2012-08-05T22:48Z,"This is frustrating to upload.  Any time I try intital seeding (where I upload only to those who are uploading to others), the speed goes down to almost nothing, meaning that nobody is uploading and this torrent will take forever to get going.  Please don't be selfish and upload to your fellow peers!"
+,kluelos,2012-08-06T01:12Z,"mike, peers who don't upload to others have a download speed of zero. Try it yourself. Set your upload speed to zero, see what happens.
+
+Initial-seeding is badly misunderstood, and really should not be used by anybody except those who pay for their connection by the uploaded KB.
+"
+,andrei.92brb,2012-08-06T08:16Z,"please make the dictator with same quality, video bitrate and audio(overall bit rate 1800 kbps)"
+,andrei.92brb,2012-08-06T17:59Z,dont forget the dictator
+,linakhlewi,2012-08-06T18:36Z,breaking bad season 4 please :(
+,jamzkie,2012-08-06T21:15Z,better if higher video bitrate and ac3 audio maybe 448kbps. this seems more like kingdom's format but less than that of kingdom's quality. be unique. make it ac3 audio and higher bitrate. :)
+,mike953100,2012-08-06T22:24Z,"@ andrei, The Dictator has been uploaded. Enjoy!
+
+@ linakhlewi - be patient.  I will have to find a good bluray source, download it, and then encode it, all of which take quite some time.  Expect it in a week or two hopefully.
+
+@jamzkie - I did not know this, but I do not think  I will change my uploads.  I am not purposely copying them- looking at their info, we use different encoding programs as well as different codecs and forms of encoding, and end up with similar-sized torrents.  I will never use AC-3 anymore, as I have learned that it is far inferior to AAC.  AAC varies the audio bitrate, using more bits as necessary when there is more noise and then using less bits as necessary when there is less noise.  AC3 uses a constant bitrate, which is fine, but not as advanced or as good as AAC."
+,neo_v3x,2012-08-07T10:31Z,is there a problem in the sound .. cuz there's no sound with me at all and I checked my codec .. is there somthing I should do
+,mike953100,2012-08-07T10:45Z,"@ neo_v3x
+
+I am not sure why there is a problem with audio; there shouldn't be.  I would highly recommend downloading VLC Media Player (if you don't have it already)
+
+http://www.videolan.org/index.html
+
+Spacebar=play/pause, double click for full screen. V=Disable/Able Subtitles.  It is easily the best media player."
+,zathras69,2012-08-07T18:22Z,"The difference in sound depends on the output. If you're listening through your computer speakers, X-box, PS3, tablet or iwhatever (apple), your sound is probably fine. If your computer audio output is connected to a digital (modern) receiver via optical or coax (S/PDIF), AC3 and DTS sound MUCH better than AAC, the receiver is doing all the work. Saying that AAC is more advanced than AC3 is ridiculous, you have to consider where it's going, whether the signal is constant or variable really doesn't matter, the receivers' decoder makes the difference. And it's a huge difference in separation and clarity digitally.
+
+@jamzkie   just download TMF Audio tool and convert the AAC to AC3, then use mp4Muxer or mkvmerge (all free, Google them) and mux the AC3 back in. The whole process takes less than 5 minutes. (copy and use that file sos not to mess with your seeding the original!!) It's fast, easy and a lot better than waiting for the AC3 version to come out.  Set VLC in advanced audio preferences to ""Use S/PDIF when available"" and it will switch the output for you automatically.
+
+There's nothing wrong with ULing AACs if that's what you are comfortable with, the video quality is good for it's size, I'll keep DLing them because they are so easy to convert to AC3 with an improvement in audio quality while listening through a digital source. Keep up the good work mike."
+,jamzkie,2012-08-07T19:05Z,"zathras69 is right. ac3 is better than aac. you can really spot the big difference in dialogue scenes wherein ac3 is much clearer, more precise to hear and more audible than aac. aac is softer. and about dts, which is the original souce of blurays, not all HDTV's can hanldle dts audio. altough aac is good if higher bitrate (384kbps is fine). but a 320kbps ac3 is better than that :)
+
+better also if you post sample video of your every upload and also sample pics :)"
+,Dolmish,2012-08-07T19:25Z,Are there repeated scenes in this rip to as the yify release?
+,mike953100,2012-08-07T19:34Z,"@ Dolmish
+
+No there are not, as my source for this was from the RERIP."
+,dustyshot,2012-08-14T08:54Z,"How is better than a dvd? If I watch this on my 17 inch laptop its worse than 4 gig plus size bluray rips. This is not bluray rip at all. May look good on tiny devices, but laptops. Spare me."
+,dustyshot,2012-08-14T09:00Z,"Funny thing is normal dvd rips are 4.37 size and this is way small. Now you call this a bluray rip. Even if the source is bluray does not make this the same quality at all. The smaller the size the crappier it gets. I don't have small device so these so called wanna be bluray uploads don't do anything, but actually waste space, since not good enough quality to even have on the drive."
+,teruyo,2012-08-23T00:58Z,"@dustyshot Well, that's so simplified that it's wrong. The bigger size of a file, doesn't necessarily indicate a better video file... You see, if the source is bad, the file can get really big but still be crappy. However, if your source is good, you can do lots of variable compressions that makes the file much smaller, but still does not matter too much to the quality of the movie. For example you could change the audio from unnecessarily good, to just very good, and you could change the fps from 30 to 25... Which would make the file much smaller, and it can still be waaaay better than larger files. If it's badly compressed and has a bad source, it could be big and bad. "
+,YumiYumi,2012-08-28T11:42Z,"Thanks for the upload.
+And I would prefer AAC audio streams.
+
+For the uninformed, AC3 is NOT better.  In fact, the only purpose of it is if you have a shitty receiver that can only receive AC3 over optical (or the source is AC3 and you don't want to re-encode).
+In which case, you should already have on-the-fly AC3 encoding set up already, right?  Hint: ffdshow audio decoder config -> tick AC3 (S/PDIF encode mode)
+
+To correct a few earlier comments:
+""AC3 and DTS sound MUCH better than AAC, the receiver is doing all the work""
+The implication that the receiver is a better decoder, if that is a correct assumption, is incorrect.  In fact, software decoders often are better than hardware decoders.
+
+""ac3 is better than aac. you can really spot the big difference in dialogue scenes wherein ac3 is much clearer, more precise to hear and more audible than aac. aac is softer.""
+This is a pointless statement as it doesn't define bitrates compared, neither the profile, encoder etc.
+For the same bitrate, a typical AAC sample encoded with any 'usable' encoder will beat the shit out of AC3 or DTS in terms of quality.  And in this case, a 320kbps AAC sounds WAY better than a 448kbps AC3, since there's audio nerds in here.
+
+""and about dts, which is the original souce of blurays""
+I don't know about this Bluray in particular, but BDs actually support quite a number of audio codecs, including AC3, DTS, DTS THD, PCM and probably others I can't remember.
+
+AAC is also natively supported on more hardware devices, and, in general, is simply a superior codec to AC3.  If you're stuck with a shitty receiver only capable of AC3, set your system up to do on-the-fly encodes and don't bring down everyone else that has to cope with the bigger filesizes."

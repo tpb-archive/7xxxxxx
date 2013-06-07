@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,HitomiKun,2012-08-14T00:00Z,"Doesn't work, I always get an error. Did everything you said in the description."
+,fynxer,2012-08-14T10:33Z,I can confirm that the licence is NOT working. Why even upload it without testing first.
+,rhalls28,2012-08-15T16:48Z,"Man I've tested this before upload and it worked. After your stupid comment I've installed again in my laptop and it working again.
+Just shut down internet connection, install the program, seach for the license file with the screen that will apear after installation and you good to go.
+Then block the program in your firewall.
+If you cant do this simple steps dont say that the license dont work say that you brain is not"
+,rhalls28,2012-08-15T16:53Z,If you installed the program and let it have contact with the internet before use this key you will have problems. Make a clean instalation without connection. If you will uninstall the program be sure to delete the folder in program files. Make a clean instalation without internet connection. If possible manually delete the keys from the registry to...
+,Shasirax,2012-08-15T19:15Z,"I've searched through every part of the registry and I found some UID which I removed.
+Blocked the program from connecting with the firewall, disconnected the lan cable from the computer and then installed DxTory and tried to use the registration file. (Still disconnected)
+Still got the ""ERROR: Ignore License File. You have to buy New License!"" error...
+Anyone got it working? How?"
+,opsmatheus,2012-08-15T19:42Z,"shasirax, i got the same error, also blocked it on firewall, installed dxtory, put this file...says need a new license...everything with the cable unplugged"
+,rhalls28,2012-08-15T20:18Z,"If you have installed the program before and connected with the internet use this program to seach for traces of the program and delete then:
+http://thepiratebay.se/torrent/7532458/Mythicsoft_FileLocator_Pro_6.2.1263_%28x86-x64%29
+Just tipe dxtory in the search camp.
+Then try again"
+,HitomiKun,2012-08-15T21:29Z,"are you sure you are using ""Dxtory 2.0.118"" rhalls28? It seems you are using an older version, that still accepts this license file."
+,HitomiKun,2012-08-15T21:57Z,"Confirming that this key does not work with Dxtory 2.0.118, also confirming that rhalls28 is using an older version of Dxtory, that still accepts this license. Here's why:
+
+Alright I used ""Mythicsoft FileLocator Pro"" that you linked to delete all leftovers from Dxtory. I even used -> CCLEANER "

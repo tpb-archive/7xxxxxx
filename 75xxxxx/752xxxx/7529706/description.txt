@@ -1,0 +1,48 @@
+Format : MPEG-4
+Format profile : Base Media / Version 2
+Codec ID : mp42
+File size : 178 MiB
+Duration : 50mn 4s
+Overall bit rate mode : Variable
+Overall bit rate : 498 Kbps
+Video
+ID : 201
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L2.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 50mn 4s
+Bit rate mode : Variable
+Bit rate : 430 Kbps
+Maximum bit rate : 5 445 Kbps
+Width : 428 pixels
+Height : 240 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Variable
+Frame rate : 23.976 fps
+Minimum frame rate : 12.000 fps
+Maximum frame rate : 24.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.175
+Stream size : 154 MiB (86%)
+Writing library : x264 core 107
+Audio
+ID : 101
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 50mn 4s
+Bit rate mode : Variable
+Bit rate : 64.0 Kbps
+Maximum bit rate : 78.0 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy

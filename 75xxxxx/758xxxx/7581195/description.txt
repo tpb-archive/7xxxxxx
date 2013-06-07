@@ -1,0 +1,15 @@
+iPatch is an intuitive and easy to use patch-maker for Mac OS X. iPatch is an utility which can compare the resources of two applications and can produce a standalone patches to update an older version of an application to a newer version.
+Using iPatch you can create patches for your application with ease.
+iPatch is compatible with any package application (like any cocoa application).
+
+It takes about 5 minutes to make and save your patch with iPatch. Additionally, iPatch enables you to distribute small-sized upgrades of your application.
+
+Main Features:
+
+ΓÇó iPatch creates entirely standalone patches. 
+ΓÇó It takes less than 5 min to create a patch. The patch has a small size. 
+ΓÇó iPatch is written in Cocoa. iPatch creates standalone patches for Mac OS 10.2.8 and 10.3.x.
+
+Example: A 'blank' patch is 150 kb unstuffed. Compressed with StuffIt 7.0 (or newer), you obtain a 40 kb file.
+
+If your application is about 1.5 Mb with a 1 Mb executable file, and your new version has only a few changes, your patch will be about 210 kb unstuffed. Compressed with StuffIt 7.0, you obtain a 56 kb file ! If your application is 2.5 Mb with a 500 kb executable file, and your new version has only a few changes, your patch will be about 200 kb unstuffed. Compressed with StuffIt 7.0, you obtain a 45 ko file ! Of course iPatch can replace, create or delete pictures, .icns or .nibs that are contained within your application.

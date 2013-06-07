@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,b_addy,2012-08-16T12:32Z,Thanks for this x64 version too. My hdd is almost filled with your releases :P.
+,harke1983,2012-08-16T14:24Z,"Super Sharing , ALmost done with downloading , Will seeding soon"
+,harke1983,2012-08-16T15:08Z,Start seeding NOw
+,hammer2085,2012-08-17T05:46Z,"Hey Nil, is editing Windows 8 same as editing Windows 7 as you have shown in your youtube video? Like using gimagex, vlite, rtlite, etc?"
+,nileshtambe,2012-08-17T09:03Z,"@hammer2085 
+no no,i manually edited with gimagex
+rt lite will not work,vlite u can use for removing some components , wintool kit u can use for tweaks and  to enable dot net 3.5 in 32 bit only,
+
+i had hard time in enabling .net 3.5 in 64 but eventually done it manually wintool kit is no use for 64 bit 
+
+this iso contains all dot net till date like
+1 , 2 , 3.5 , 4 , 4.5 all of this by default  "
+,harke1983,2012-08-17T09:06Z,"@hammer2085
+
+No Is not possible to do this way for window 8, only window 7 is possible.
+you have manuly deleted for wait for new tool that suport Window 8"
+,nileshtambe,2012-08-17T12:26Z,"Windows 8 x64 Enterprise preactivated Evaluation 90days
+
+About This Evaluation
+
+This evaluation provides a 90-day trial of Windows 8 Enterprise edition. 64-bit version English.
+Upon installation, you will have 10 days to activate this evaluation online. Windows will prompt you to activate.
+A product key is not required for this software.
+You must complete activation before August 15, 2013, to use this evaluation.
+Once you activate, you have up to 90 days to use the software.
+You can track the amount of time you have left by referring to the ""watermark"" in the lower right corner of the Windows desktop.
+The evaluation edition will expire and cannot be upgraded.
+To upgrade, the evaluation must be uninstalled and a non-evaluation version of Windows must be re-installed
+
+
+32 bit download links
+
+
+
+http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X86FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X86FREE_EN-US_DV5.ISO?lcid=1033
+
+
+64 bit download links
+
+
+http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X64FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X64FREE_EN-US_DV5.ISO?lcid=1033"
+,hammer2085,2012-08-22T06:34Z,"Downloaded & installed @ VirtualBox 4.2 Beta, Works great. 
+
+Also what would you recommend as the best way to activate it or is no proper activator is available yet?"
+,nileshtambe,2012-08-22T09:17Z,"@hammer2085
+if u want extend trial to 120 days  3 rearm we can use 
+Run cmd  as administrator  
+Entering command. Please type “slmgr-rearm” in this window. Several seconds later, w dialogue will show up, saying the successful completeness of the entered command and asking you to restart the Windows 8 system for the changes to take effect
+
+details here
+http://www.forumswindows8.com/info/extending-windows-8-trial-164.html
+
+for activation i will dig and let u know by the time extend trial "
+,liuxb,2012-08-25T08:40Z,"Hi, nil
+I installed this version,get an issue: the IE window's scrolling bar display Abnormally, the arrow became a hand symbol?  
+If drag the scrol bar, there will appears some “ghosting”...
+here is some snapshots:
+http://i.imgur.com/eHy8S.png
+http://i.imgur.com/gr34e.png
+http://i.imgur.com/d7Qnx.png
+The same probems Occurred when opening CHM, MHT files.
+How to fix it? 
+Thanks."
+,nileshtambe,2012-08-25T19:52Z,"@liuxb
+hi  ur os appears corrupted ,reason may vary god knows
+but can u do afresh install on newly formatted partition and let me know if prob persist"
+,liuxb,2012-08-30T06:04Z,"It can be reproduced.
+I did a fresh installation in vmware, the problem persisted, both in x32 and x64 version.
+http://i.imgur.com/E46qM.png"
+,nileshtambe,2012-08-31T10:06Z,"@liuxb
+i thought u r using on real hdd, don't know about vmware may be latest might support win 8, never tried win 8 in vm , i use in virtual box 
+
+http://minus.com/lPJI9GbduuGxb
+http://minus.com/l45hCqnkgak6Y"
+,liuxb,2012-08-31T16:36Z,"Have you tested in IE window? 
+This problem looks ONLY occur in IE window or opening a .CHM file window, the explorer window is OK.
+In my real computer, i get the same results.
+and i tested in virtualbox also, the same as in VM.
+http://i.imgur.com/xPDnS.png"
+,dajmidivx,2012-08-31T17:42Z,"Hi Nil, just quick question: when is ""windows 7 ultimate sp1 64 bit lite v10"" coming out? Appreciate your work, thanks!"
+,dadme001,2012-09-16T22:54Z,"Please make a version without removed drivers. Tried on my laptop, but old intel express 4 drivers are only included in windows 8 install.wim, intel doesen't provide other drivers on intel download center. And i have strange rectangular signs on touch keyboard in place of ctrl, alt and other keys."

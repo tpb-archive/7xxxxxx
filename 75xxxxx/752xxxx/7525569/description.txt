@@ -1,0 +1,73 @@
+General
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.70 GiB
+Duration                                 : 1h 24mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 877 Kbps
+Movie name                               : Like Me On Facebook For My More Uploads  --- 
+
+
+Video
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 24mn
+Bit rate mode                            : Variable
+Nominal bit rate                         : 2 448 Kbps
+Maximum bit rate                         : 25.0 Mbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.111
+Title                                    : Cloverfield 2008 By Ecstasy
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Duration                                 : 1h 24mn
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Title                                    : AAC By Ecstasy
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : MPEG Audio
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 15mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 19s 250ms
+Stream size                              : 69.0 MiB (4%)
+Title                                    : MP3 By Ecstasy
+Language                                 : Hindi
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 4
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Compression mode                         : Lossless
+Title                                    : Subs By Ecstasy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Encoder note.......source.....IceBane........Thanks............

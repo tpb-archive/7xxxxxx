@@ -1,0 +1,67 @@
+﻿User Type,Username,Date,Text
+,Alpha.Omega,2012-08-09T13:25Z,"v 1.1 nor v1.2 will work.. all activations stopped by MS, for sure until the market launch sometime october.. it will be just a waste of time trying to activate the useless activators roaming around.."
+,kund84,2012-08-09T14:41Z,"This works for sure, ""Alpha Omega"" why is my windows 8 activated then?  I don't think that you have tried this, otherwise you have failed big-time trying."
+,Alpha.Omega,2012-08-09T15:24Z,"i've tried both. none works. the question is when did you use it.. all of us this past few days trying to activate with all sorts of activators and kms methods failed coz MS itselt stopped & blocked activation temporarily.. Windows8 on setting itself says no activation, try later.
+anyways congratz if ur one of the lucky few who are able to have yours activated. "
+,p9o1p,2012-08-09T15:29Z,"@kund84
+
+All activators not working, because KMS Servers are offline. Tested in Enterprise."
+,techme21,2012-08-09T23:21Z,"I made a simple batch file that will connect to all three known kms servers
+and attempt activation with them automatically
+It does all commands silently so you don't have all of those annoying popups from every attempt
+and it will loop infinitely
+My goal is to make it stop Automatically when An activation server has been reached,
+And Echo Windows Successfully!
+Just paste the below code into a notepad and save as Activate.bat to C:    root directory
+Then make a shortcut to that file on your desktop.
+Then right click the shortcut and go to ""Properties""
+Then go to the Shortcut Tab
+Then click advanced
+Then check the ""Run as Administrator"" box
+Hit OK and OK again
+Now run it
+
+Maybe this could be a base idea for a Windows based KMS Activation Program
+Then you could add the option of adding your own KMS server.
+
+P.S. If the servers are down then my above script will not work.
+It will just keep trying until it does work.
+
+Here's what I got so far
+
+[CODE]
+@Echo Off
+
+Echo Attempting Windows Activation
+Echo Please Wait...
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org:1688
+cscript //B ""%windir%system32slmgr.vbs"" /ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+Echo Activation Status...
+
+cscript slmgr.vbs /dlv
+
+Echo Activation will Retry in 10 Seconds
+
+ping 1.1.1.1 -n 10 -w 1000 > nul
+
+cls
+
+start /b /i C:Activate.bat
+[/CODE]"

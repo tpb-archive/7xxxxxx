@@ -1,0 +1,58 @@
+                                    By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android 1.5+
+Overview: The most complete all-in-1 Android system tuner for your phones and tablets!
+
+Monitor and record your phone's logs, app/process activities, CPU, memory (RAM, internal storage, internal & external SD).
+By far the lowest consumption monitoring app!
+
+App checked with Privacy Inspector! If you don't want WIFI, BT, PHONE and GPS permissions, please check app 'Limited System Tuner Pro'.
+
+Use logcat to debug or help debug your favorites apps :)
+Use terminal emulator for direct linux commands
+Highly configurable! Check web-site for app consumption!
+
+The app can:
+- Show data (cpu, memory) in the status bar
+- Sort processes by cpu time, total cpu time, start time, cpu consumption, memory used or simply by name
+- Filter system processes or user-defined excluded list
+- Shows cpu load/frequency, memory/internal/sd usage
+- Record (optionally at boot) activities in the background
+- Allows analyzing previous recordings
+- Display log(cat) for all/one process
+- Display memory details (RAM & internal)
+- Display SD details (internal & external)
+- Run command using terminal emulator
+- Kill non manually excluded apps automatically
+
+The app can also do the following on rooted phones:
+- Tweak SD cache size to boost performance (not all phones supported, please report)
+- Tweak Android auto-kill memory settings
+- Tweak CPU governor + frequencies
+
+The widget can:
+- Use different backgrounds (HTC or Google-like) half or fully transparent
+- Show cpu load, free/used memory (flash/internal/sd) available, process count, using text or 2 side levels.
+- Starts 2 different actions by clicking on the icon or label, including:
+. Start/stop recording process activity
+. Kill all non-excluded processes
+. Refresh
+. Start task manager
+. Open analyzer
+. Open settings
+
+All system apps are excluded by default!
+Kernel processes cannot be killed
+
+What's in this version:
+2.5:
+New Italian translation,
+thanks to Pasquale Boemio (boemianrapsodi@gmail.com)
+Fix missing size in backup list
+Minor bug fixes
+
+                                    By bobiras2009	

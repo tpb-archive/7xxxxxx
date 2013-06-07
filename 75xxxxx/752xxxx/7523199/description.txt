@@ -1,0 +1,25 @@
+avast AntiVirus Pro Internet Security Fix by ZeniX.
+
+Tested on avast! 7.0.1456.
+
+100% malware free (tested on virustotal.com).
+
+============
+Instruction:
+============
+
+1. Download from official avast site and install avast product (AV or IS).
+2. Run Windows in Safe Mode (press F8 before Windows boot).
+3. Copy "Version.dll" to:
+
+Program FilesAVAST SoftwareAvast
+
+AND
+
+Program FilesAVAST SoftwareAvastSetup
+
+If you have Windows XP add "Only.for.XP.reg" to registry (double click on it).
+
+4. Reebot.
+
+Seed and leave comment.

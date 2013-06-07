@@ -1,0 +1,22 @@
+Program name: Adguard
+Version: 5.4
+Release date: sep 03, 2012
+Language: Russian, English, Japanese, Portguese, German, Spanish, Serbian
+Website:
+OS: Windows
+File size: 1,4 Mb
+
+
+Added:
+
++ Fixed all issues with filtration speed
++ Simple SSL-traffic filtering
++ New network filtering algorythm
++ Extended filter rules
++ Waterfox browser support
+
+Fixed:
+
+- Fixed the problem with the synchronization of bookmarks in Maxthon with an active protection
+- Fixed displaying issues with some of the web-sites:pandawill.com, rakill.daportfolio.com & etc
+- Small bugfixes and optimizations

@@ -1,0 +1,55 @@
+Jon Stewart is funny, but Rick Mercer is FUN. Season 9 starts here.
+Ep 3 has solar panels & mud bogs.
+From the web site, converted losslessly (see below for how to).
+
+============
+
+Anonymous no longer, I increase fortitude to put my head above parapet ...
+
+Lots of options, lots of choices - if it all goes wrong for you, leave a comment ...
+
+Cool new toys:
+
+FLV Extract 1.6.2
+DVBPortal MP4Muxer 0.9.3.0
+
+And old favorites:
+
+MP4Cam2AVI 2.98
+AtomicParsley win32-0.9.0 {not used in this example}
+VirtualDub 1.(whatever floats your boat)
+
+Container changes galore!
+
+Here's:
+*.FLV (demux) to:
+*.264 + *.AAC (remux) to:
+*.MP4 (CC2AVI) *.AVI {W/MP3}
+Restore correct frame rate.
+
+And all COMPLETELY lossless!
+
+Many current FLV files are x264/AAC (codecs of choice for MP4 also)
+The ones I've tried so far show a frame rate of 25 - they lie.
+The real frame rate is 29.970 (so far).
+So, I use VirtualDub 1.4.13 (had a bad audio experience with 1.5)
+But any version should work just fine.
+
+Run FLVExtract
+drop (one or more) FLV file(s) onto it & wait for the green check mark(s).
+Run MP4Muxer
+add *.264
+add *.AAC
+hit "multiplex"
+Run MP4Cam2AVI
+recommend converting audio to MP3 (VLC can't find AAC inside AVI),
+from the drop down menu upper right.
+Select file left pane then press "Start" lower right.
+Returns "videoOut.avi" - can't do the name, but retain time/date stamp.
+Drop "videoOut.avi" into VirtualDub - set video to "direct stream copy".
+pulldown video - Frame Rate - Change to - 29.970
+Save as (filename).AVI
+
+Tada! you now have an AVI, just like the Goddess of all reality intended!
+
+MP4SUX

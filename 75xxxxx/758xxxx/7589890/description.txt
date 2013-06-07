@@ -1,0 +1,47 @@
+                             By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android version 2.1 and higher, supports App2SD
+Overview: MX Player - The best way to enjoy your
+
+
+a) MULTI-CORE DECODING - MX Player is the first Android video player that performs multi-core decoding. According to the test results on dual-core devices, it shows up to 70% performance improvement than single-core devices.
+b) CPU OPTIMIZATION - Provides highly optimized codecs and Rendering Engines for the processors including ARM┬« NEONΓäó and NVIDIA┬« TegraΓäó 2.
+c) PINCH TO ZOOM - Easily zoom in and out by pinching and swiping across screen.
+d) SUBTITLE SCROLL - Scroll on subtitle text and playback position will be adjusted to match previous or next subtitle timing.
+e) KIDS LOCK - Keep your kids entertained without having to worry about making calls or touching other apps. (plugin required)
+f) ANDROID 4.1 - Fully supports Android 4.1 Jelly Bean.
+
+Subtitle formats:
+- DVD, DVB, SSA/ASS Subtitle tracks.
+- SubStation Alpha(.ssa/.ass) with full styling.
+- SAMI(.smi/.sami) with ruby tag support.
+- SubRip(.srt)
+- MicroDVD(.sub/.txt)
+- SubViewer2.0(.sub)
+- MPL2(.mpl/.txt)
+- PowerDivX(.psb/.txt)
+- TMPlayer(.txt)
+******
+About "System Tools - display system-level alerts" permission: this permissions is required to block HOME button when input blocking is activated on video playback screen.
+******
+S/W decoding is unstable on Tegra 3 devices running Android 4.0. Please do not use S/W decoder if you encounter
+
+What's in this version:
+Added new hardware decoder named H/W+ in supported devices.
+Added support for x86 CPU.
+Added background play. (long presss play button)
+Added supprot for custom FFmpeg build.
+Added fast scrollbar on the video list screen.
+Improved a/v sync with S/W decoder.
+Fixed fullscreen switching error on 7" JB devices such as Nexus 7.
+Fixed incorrect video aspect ratio on some ICS/JB devices.
+Fixed color code parsing error on MicroDVD, MPL2, PowerDivX, TMPlayer subtitles.
+Fixed SSA subtitle rendering error.
+Removed S/W fast decoding mode. Fast decoding mode will be automatically selected.
+
+
+                             By bobiras2009	

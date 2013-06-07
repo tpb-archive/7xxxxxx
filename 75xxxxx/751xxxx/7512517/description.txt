@@ -1,0 +1,77 @@
+General
+Complete name                            : Gone.With.The.Wind.(1939).DVDRip.x264.Eng.AAC.5.1.AMX.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 1.86 GiB
+Duration                                 : 1h 43mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 563 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 8 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1h 43mn
+Bit rate                                 : 2 119 Kbps
+Maximum bit rate                         : 7 190 Kbps
+Width                                    : 720 pixels
+Height                                   : 528 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.223
+Stream size                              : 1.53 GiB (83%)
+Writing library                          : x264 core 125 r2208 d9d2288
+
+Audio #1
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 1h 43mn
+Bit rate mode                            : Variable
+Bit rate                                 : 280 Kbps
+Maximum bit rate                         : 356 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 207 MiB (11%)
+Title                                    : 6ch
+Language                                 : English
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC
+Duration                                 : 1h 43mn
+Bit rate                                 : 60.6 Kbps
+Maximum bit rate                         : 73.3 Kbps
+Channel(s)                               : 1 channel
+Channel positions                        : Front: C
+Stream size                              : 45.0 MiB (2%)
+Title                                    : Original Mono Track
+Language                                 : English
+
+Audio #3
+ID                                       : 4
+Format                                   : AAC
+Duration                                 : 1h 43mn
+Bit rate mode                            : Variable
+Bit rate                                 : 96.0 Kbps
+Maximum bit rate                         : 146 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Stream size                              : 72.0 MiB (4%)
+Title                                    : Commentary
+Language                                 : English

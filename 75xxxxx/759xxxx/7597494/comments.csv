@@ -1,0 +1,128 @@
+﻿User Type,Username,Date,Text
+,Revan22,2012-09-04T05:43Z,"before the nublets start complaining about this not working instructions are missing a step open LumaEmu.ini and change SteamClientDLL path to your Sleeping Dogs DLL location not the original Steam dll, u can also change your player name in that file too. Virus tested no results if u get a result on buddha.dll it's a false positive, running right now v1.5 with DLC minus Top Dog crap"
+,T3st1fy,2012-09-04T05:50Z,yes good call Revan22 forgot to add that change the path to your location its set to mine right now 
+,OmniNegro,2012-09-04T07:15Z,"I think that step is missing from almost all the Sleeping Dogs torrents at current. Nice to hear someone has a brain. I will remember that detail. Thank you.
+
+I am halfway tempted to spam that in every SD torrent on TPB."
+,Jason310M,2012-09-04T07:27Z,"Questionable torrent, was flagged by security essentials, and a few other virus programs I have. May be a false positive more than likely. I don't know, I will not install this though rather be safe than sorry. "
+,OmniNegro,2012-09-04T08:02Z,"It is clean. You should stop using antiviral programs that even have an option of ""Upgrading"" to a commercial version. That is a motive for them to have the entire Universe flagged as malware.
+
+It does work. And Clamwin finds no viruses. No malware. No nonsense. But Clamwin is freeware without a motive to make you think everyone is out to get you.
+
+If you want Clamwin, check Sourceforge. That should tell you it is trustworthy in and of itself.
+
+Jason310, can you name a SD torrent that is *NOT* flagged by your paranoia program? I do not think one exists.
+
+According to the idiots selling ""protection"" from malware, this entire site is full of nothing but malware. Even plain text files are sometime flagged by those dumb programs.
+
+I too was skeptical. But I tried it after scanning with an up-to-date Clamwin. It shows clean, runs fine, and all the DLC works in 1.5 and it causes no problems."
+,Jason310M,2012-09-04T08:41Z,"@OmniNegro
+
+Thanks guy! No need to be a dick about though. Yes I have downloaded SD files which were *NOT* flagged by  'my paranoia' programs, as you so derogatorily stated. This was the first. I even said it was probably a false positive. So go take a chill pill bro."
+,OmniNegro,2012-09-04T10:38Z,"Take your own advise. Relax.
+
+I have yet to get close to being derogatory. I offered advise. You directly insulted me for the high crime of insulting your program that leads you to suspect non-threats as real threats.
+
+Who is being a dick?"
+,boyznacne,2012-09-04T13:50Z,"I like this OmniNegro guy. +1
+
+It's about time that somebody began to put these imbecilic users in their place. 
+
+I'm tired of seeing these dimwits spew their bullshit claiming everything contains a virus and insult torrents/uploaders.
+
+If you amateurs don't know what the hell you are doing, then please shut up or GTFO.
+
+Even better, try to gather up some knowledge regarding warez related content. That way in the future you actually might NOT come off looking like an unintelligent pansy."
+,T3st1fy,2012-09-04T15:42Z,all these reasons and then some (mostly just retarted users) is why i dont use bittorrent very much and i stick to IRC lol... but i figured id try n help some people out seeing as it took me forever to get the dlc to work
+,T3st1fy,2012-09-04T15:43Z,all these reasons and then some (mostly just retarded users) is why i dont use bittorrent very much and i stick to IRC lol... but i figured id try n help some people out seeing as it took me forever to get the dlc to work
+,Machine4578,2012-09-04T16:00Z,"OmniNegro +100
+boyznacne +100
+god dam trolls and idiots!!! play your consoles you assholes"
+,Malcolm90210,2012-09-04T16:44Z,@Revan22 Pls Can U Explain More What I have to change in LumaEmu.ini??? It Would Be Very Helpful....
+,Ulquiorra151,2012-09-04T17:51Z,@Revan22 Can you please dumbify it for me. i dont understand what you mean on the LumaEmu.ini thing.
+,T3st1fy,2012-09-04T19:08Z,"im not sure how it could be dumbed down anymore...... open up lumaemu.ini find where it says
+
+[SteamClient]
+# Set path to steamclient.dll (not the original)
+SteamClientDll = D:Program FilesSquare EnixSleeping Dogssteamclient.dll
+
+at the bottom but change the filepath (meaning the D:Program Files part) to where your game is installed simple as that if you cant figure it out then i dont know what to tell ya you need help"
+,OmniNegro,2012-09-04T19:13Z,"To those questioning what path to set in LemaEmu.ini and how... Open it in any decent text editor. Look for the part where it mentions SteamClient.dll and delete the path to that file. Leave the file name in place. Just delete everything before it like D:Gameswhatever.
+
+Understand now? It looks for the file as it is specified and if you leave it blank except the name it looks where the ini file is for that named file."
+,OmniNegro,2012-09-04T19:29Z,"Believe me, we appreciate your hard work T3st1fy.
+
+Likewise we appreciate helpful people like Revan22.
+
+If all the scene were living like you two, we would be in a much better world.
+
+boyzacne and Machine4578, we love hearing from good minded people like you. Keep active. Fight the good fight against morons. They may outnumber us a million to one, but we will prevail because we can see where we are walking. (Since we have our heads removed from other parts of our anatomy.)
+
+I myself was not really interested in the DLC. But I thought it was likely a trojan/malware. I was going to rip a new one for T3st1fy until I realized it was clean.
+
+Now I have to find a trojan poster to go comment into oblivion. If each of us spent a few minutes each day doing this, they would be much easier to shut down.
+
+Do  not give up on torrents T3st1fy. I for one never forget a trustworthy poster who helps. Torrents and Usenet. That is it for me. IRC is too much trouble and to easily tracked.
+
+But either way you go, we really do appreciate your help. Thank you, and if you can find who made this, please take a moment to thank them for the hundreds or more that now have it installed."
+,cirios83,2012-09-04T19:57Z,Thanks! Now my DLC's is working!
+,Jason310M,2012-09-04T21:19Z,"Omninegro, et al.
+
+    So I am a moron and imbecile because I simply stated the FACT that the file was flagged and was most likely a false positive? You said YOURSELF you thought it was malware. SO I'm the moron for commenting what both you and I were thinking? Fuck you. You self-righteous assholes are a dime a dozen on the internet especially PB. Go take your ""I'm better than you"" self-righteous attitude and stick it up your ass. I have been using IRC's for over 10 years and Pirate Bay since it's inception. I hardly ever even comment on PB just knowing that some pricks out there like you will twist it around and use it for grandstanding their holier than thou attitudes. 
+
+     You know me from a comment board on PB and that's where it ends, don't act like your shit doesn't stink when you were thinking the same thing I was, so just because I made a comment that stated the fact I am an imbecile and moron. Again, fuck you, prick."
+,OmniNegro,2012-09-05T03:04Z,"Wow Jason. I am befuddled and flabbergasted by your cognitive abilities. I feel so bad now that you whipped out your massive e-penis and showed me who is boss. I guess I will have to do everything you said. 
+
+Have you noticed anything in all my comments? Even one thing that stands out? Let me spell it out for you. I never insulted you once. Not even here. So who is being insulting?
+
+If you want to bicker back and forth, I can, but I have better things to do. And it would not be kind to our hosts of TPB and T3st1fy.
+
+Try ignoring me and all those others you include in your blanket assault. You need nothing from me. You already have everything figured out. You're that damned good.
+
+If you want to continue this fight, take it to the forums so the moderators can tell us both to STFU. In the meantime, I wish you the best."
+,XxMATIxX,2012-09-05T20:35Z,does that include an update ?
+,OmniNegro,2012-09-06T03:21Z,"@XxMATIxX
+This torrent does not. It is 1.5 built as is said in the description. But you still need to update to 1.5 to apply this one. 
+
+The reasons are more than one, but suffice it to say that there is more than just a new executable in 1.5 to worry about. And this executable and the rest is applied over top of all that.
+
+Do follow the advise of removing the path from the lemaemu.ini file so it does not look for SteamClient.dll somewhere it is not. It defaults to looking where the ini file is if you just remove the path but not the filename."
+,MLO89,2012-09-06T09:34Z,Which of those files are needed for all DLC if you already have the game with 1.5 up and running.
+,OmniNegro,2012-09-06T16:46Z,"All of them. Just copy the whole damned thing over your existing files. If you already had 1.5 it will work fine. If not then you should have payed more attention to the details.
+
+If you think this will break your install that is running, backup each and every file before you copy over them. You can always revert by copying back the old files.
+
+I really do not understand why people always think there is a secret step they are not being told about."
+,MLO89,2012-09-06T18:23Z,Actually you don't need to copy all of them. Just 12 of the 17 files listed. Why do you always feel the need to criticize everyone's comments omnithenegro? Is it a black thing?
+,OmniNegro,2012-09-07T01:12Z,"@MLO89
+
+Why yes. everything is about race. Sure. And the Earth is flat too....
+
+Why do you feel the need to correct others with working solutions without bothering to specify what five files to omit? Is that a racial failing too?
+
+Have you never seen the Latin words for all black and thought it may not be directly racial? Are you too busy looking for ways to single others out?
+
+Do you think you are special? I do not know and do not ask your race. But know that if our blood types are the same, my blood will power your body just as easily as yours. So race matters none."
+,diamond-optic,2012-09-07T03:55Z,"used this and all seems fine, sort of.... DLC shows up in the menu and all, but i cant actually play lol. If i load a save or start a new game it just sits on the loading screen forever :-
+
+this game seems to be so picky or something.. works totally fine for some and not for others (but it worked fine for me prior to patching to 1.5)"
+,OmniNegro,2012-09-07T07:05Z,"@diamond-optic
+Can you tell us a bit more details? What release you installed and what patches you used and in what sequence? It could help others avoid this problem."
+,diamond-optic,2012-09-08T01:25Z,"ok figured out part of my problem..
+
+(and to answer the previous comment ive used both the vansik & skidrow main releases, with the skidrow 1.5 patch, then this torrent)
+
+seems to load into actual gameplay if i disable HD textures.. otherwise it just hangs on the loading screen.
+
+tried to do a complete reinstall but now when i goto apply the skidrow 1.5 patch it gives me a corrupt file error on GameHD.big (hence why it doesnt work with hd textures enabled i assume)
+
+Ive re-downloaded both the original skidrow release & the skidrow 1.5 patch and i still get that error when patching to 1.5.
+
+but that issue isnt with this torrent, this torrent seems to work fine (DLCs working again now)
+
+
+so i guess my actual problem is with the 1.5 patch not wanting to give me the GameHD.big file all of a sudden"
+,OmniNegro,2012-09-08T05:27Z,"Odd. It works fine for me with a Skidrow install followed by the 1.4 3DM patch followed by the Skidrow 1.5 patch followed by this. And yes, I have HD textures enabled.
+
+But thanks for the clarification diamond-optic. I appreciate the details. :)"
+,MLO89,2012-09-12T16:33Z,Omninegro = Omnidickhead or Total Dick. A person who can't seem to mind his own business. A big fuckin bird told me.

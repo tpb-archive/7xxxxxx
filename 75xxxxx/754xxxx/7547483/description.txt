@@ -1,0 +1,10 @@
+Included in this torrent are four files:
+        README - This document
+        cd51.iso - A 7MB bare-bones installer that requires a network connection
+        install51.iso - A 236MB full installer.
+        SHA256 - SHA256 checksums for the above
+
+The iso files are meant for 64-bit PC architectures.  They won't work on anything else.
+
+All files were originally downloaded from http://mirror.ece.vt.edu/pub/OpenBSD/5.1/amd64/
+OpenBSD's install guide is at: http://www.openbsd.org/faq/faq4.html

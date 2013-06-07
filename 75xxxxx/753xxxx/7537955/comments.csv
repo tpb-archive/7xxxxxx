@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,corrupt1,2012-08-24T03:30Z,The .reg file seems to do nothing as I'm still on a 30 day pro trial
+,diamond-optic,2012-09-01T02:43Z,"had trouble with the reg not working at firtst, but I think I got it now.
+
+I had AMM 3.4.2 or whatever installed already so i just searched the registry and changed all the SerialNumber3 & Username3 strings to what the reg file from this download has.
+
+I have a feeling since i had no HKEY_LOCAL_MACHINESOFTWAREActual Tools that this reg file uses, that it might have been the HKEY_LOCAL_MACHINESOFTWAREWow6432NodeActual Tools that I changed that made it work, running on Win7 x64 btw
+
+
+..also found it wierd that entering the strings from the reg file into the registration part of the app didnt work but putting them in the registry did"
+,fyrigoyeno,2012-09-02T18:05Z,"diamond-optic:
+Thanks for the tip, now it works"
+,diamond-optic,2012-09-07T00:02Z,"ahh shit it took out the slashes in my comment, oh well lol anyone with any common sense should be able to figure out where the slashes in those lines should be.."
+,gctzzz,2012-09-15T01:11Z,"
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeActual ToolsActual Multiple Monitors]
+
+in case the slashes are not shown on the previous line:
+[HKEY_LOCAL_MACHINEslashgoeshereSOFTWAREslashgoeshereWow6432NodeslashgoeshereActual ToolsActual Multiple Monitors]
+
+That did it for me in win764bit..hope it helps ppl with less knowledge...edit with notepad then save and run the reg...obvious right?? yeah for some i guess"

@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+[T],Tyr3ll,2012-08-22T16:44Z,"Complete name                  :
+ Le_Grand_Bleu-(2008).(L.Besson)-Remastered-HD.720p[)(]AC3-5.1-(FR)+(US_Sub).mkv
+
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 10.0 GiB
+Duration                       : 2h 48mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 8 513 Kbps
+Writing application            : Lavf51.12.1
+Writing library                : Lavf51.12.1
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Baseline@L3.1
+Format settings, CABAC         : No
+Format settings, ReFrames      : 1 frame
+Format settings, GOP           : M=1, N=12
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2h 48mn
+Bit rate mode                  : Variable
+Bit rate                       : 7 832 Kbps
+Maximum bit rate               : 12.0 Mbps
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 24.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.354
+Stream size                    : 9.21 GiB (92%)
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 2
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 2h 48mn
+Bit rate mode                  : Constant
+Bit rate                       : 512 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 616 MiB (6%)
+Default                        : Yes
+Forced                         : No
+
+Text
+ID                             : 3
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Default                        : Yes
+Forced                         : No
+
+Hummm may sub as not forced so...
+Anyway it works for sure ;)"

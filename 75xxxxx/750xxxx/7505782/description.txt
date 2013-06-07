@@ -1,0 +1,20 @@
+save its 100% veteran and 100% spec op 
+
+INSTRUCTIONS ON USING CALL OF DUTY MODERN WARFARE 2 SAVEGAMES
+
+
+
+
+1. Enter game main menu and start a new campaign. Wait for the first mission to start, then exit game completely. 
+
+2. Download desired Modern Warfare 2 save game file to your desktop. 
+
+3. Uzip it using WinZip or any similar tool, and you'll get a SVG (savegame) file.
+
+4. Seek for installation folder on your hard drive (usually C:/Program Files/Activision/Modern Warfare 2/) and copy SVG file to players/save/.
+
+5. Open players/settings_s.zip.iw4 file using previously installed Notepad++. Find this piece of text:
+
+savetrainer.svg
+
+Instead of "trainer" (or whatever else is written there), enter the name of downloaded savegame file. Press CTRL+S and exit Notepad++.

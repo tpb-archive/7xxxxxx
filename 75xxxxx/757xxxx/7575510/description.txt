@@ -1,0 +1,40 @@
+Protocol version 22
+Exe version 1.0.0.73 (cstrike)
+Exe build: 23:07:43 Aug 20 2012 (5028) (240)
+
+
+
+To change your name press ` and write in the console setname "name" without " "
+
+If you have problem changing your name please check this :
+ 
+http://csmega-bg.com/forum/viewtopic.php?f=24&t=1855&p=19697#p19697
+
+If your game is shutting down by itself please change the name of the main folder and try again.
+
+
+
+
+Fixed a client crash on exit (after connecting to a server using sv_pure)
+
+Added sv_namechange_cooldown_seconds, to throttle clients from changing their name too rapidly. (Defaults to 20 seconds)
+
+Added sv_netspike_on_reliable_snapshot_overflow to selectively enable the automatic dumping of netspike file if a client drops due to "reliable snapshot overflow" (defaults to 0, which disables the debugging)
+
+Added check to prevent player names from containing color codes
+setinfo console command will now reject attempts to set / change convars with any unusual characters
+
+Marked mem_force_flush as a cheat to prevent client exploits
+
+Fixed %n console crash in the client
+
+Updated client rate value to default to 30000 to improve network performance for most players
+
+
+Updated client rate value to be stored in the config.cfg file
+
+Fixed a Linux dedicated server crash on exit
+
+
+
+

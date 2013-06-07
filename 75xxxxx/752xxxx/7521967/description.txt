@@ -1,0 +1,91 @@
+Deftones - Around The Fur - Custom Remaster by MC Lurken(a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+!!!!!!!!!!!!!THIS IS NOT AN OFFICIAL REMASTER, THIS IS A FAN RELEASE!!!!!!!!!!!!!!
+
+
+
+1 - My Own Summer (Shove It)
+2 - Lhabia
+3 - Mascara
+4 - Around The Fur
+5 - Rickets
+6 - Be Quiet And Drive (Far Away)
+7 - Lotion
+8 - Dai The Flu
+9 - Headup
+10 - MX
+11 - Damone
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16/44.1 files joined in Wavelab 6
+-DC offset removed, this will yield a file with a bit depth of 18-24 bits
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (-0.02db gain)
+
+As reported in Wavelab:
+-Original 16/44 - Apparent Bit Resolution = 16, Peak = -0.009db
+-DC Offset Removed - Apparent Bit Resolution = No Offset (16), Peak = -0.009db
+-Final Recording - Apparent Bit Resolution = 42, Peak = 1.887db
+
+-Resample 64-bit/384kHz to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ Dither in Wavelab 6 w/Izotope Ozone 5 VST Plugin
+
+MBIT+ Dither Settings:
+*Noise Shaping - None
+*Bit Depth - 16
+*Dither Amount - None
+*Auto-Blanking - On
+*Limit Peaks - Off
+*Harmonic Suppression - On
+
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-08-09 05:23:22
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.08 dB    -8.44 dB      3:35 ?-01 - My Own Summer (Shove It)
+DR8       -0.09 dB    -8.87 dB      4:11 ?-02 - Lhabia
+DR9       -0.18 dB   -12.03 dB      3:45 ?-03 - Mascara
+DR8       -0.08 dB    -9.07 dB      3:32 ?-04 - Around The Fur
+DR9       -0.08 dB    -9.98 dB      2:43 ?-05 - Rickets
+DR8       -0.08 dB    -9.73 dB      5:08 ?-06 - Be Quiet And Drive (Far Away)
+DR8       -0.08 dB    -8.95 dB      3:58 ?-07 - Lotion
+DR8       -0.10 dB    -8.89 dB      4:37 ?-08 - Dai The Flu
+DR8       -0.13 dB   -10.67 dB      5:13 ?-09 - Headup
+DR9       -0.20 dB   -10.16 dB      4:51 ?-10 - MX
+DR8       -0.25 dB    -9.66 dB      4:43 ?-11 - Damone
+--------------------------------------------------------------------------------
+
+Number of tracks:  11
+Official DR value: DR8
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

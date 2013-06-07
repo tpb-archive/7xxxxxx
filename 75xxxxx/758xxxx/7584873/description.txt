@@ -1,0 +1,58 @@
+Format                           : MPEG-4
+Format profile                   : Base Media / Version 2
+Codec ID                         : mp42
+File size                        : 1.18 GiB
+Duration                         : 2h 29mn
+Overall bit rate                 : 1 123 Kbps
+Encoded date                     : UTC 2011-12-20 03:50:06
+Tagged date                      : UTC 2011-12-20 03:59:55
+Writing application              : mp4creator 1.6.1d
+
+Video
+ID                               : 1
+Format                           : MPEG-4 Visual
+Format profile                   : Simple@L1
+Format settings, BVOP            : No
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Codec ID                         : 20
+Duration                         : 2h 29mn
+Bit rate mode                    : Variable
+Bit rate                         : 995 Kbps
+Maximum bit rate                 : 5 188 Kbps
+Width                            : 480 pixels
+Height                           : 360 pixels
+Display aspect ratio             : 4:3
+Frame rate mode                  : Constant
+Frame rate                       : 25.000 fps
+Resolution                       : 24 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.230
+Stream size                      : 1.04 GiB (89%)
+Language                         : English
+Encoded date                     : UTC 2011-12-20 03:50:06
+Tagged date                      : UTC 2011-12-20 03:59:15
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format version                   : Version 4
+Format profile                   : LC
+Format settings, SBR             : No
+Codec ID                         : 40
+Duration                         : 2h 29mn
+Bit rate mode                    : Variable
+Bit rate                         : 126 Kbps
+Maximum bit rate                 : 199 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 44.1 KHz
+Resolution                       : 16 bits
+Stream size                      : 135 MiB (11%)
+Language                         : English
+Encoded date                     : UTC 2011-12-20 03:59:16
+Tagged date                      : UTC 2011-12-20 03:59:55
+

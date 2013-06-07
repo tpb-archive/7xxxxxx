@@ -1,0 +1,19 @@
+TextSoap is for people who work with text.
+
+TextSoap effortlessly cleans up text from endlessly different formats. Wash away unwanted characters, spaces, tabs. Fix paragraphs with hard returns at the end of each line, as well as a myriad of other formatting issues that come your way and do it all while retaining desired font styles.
+
+Unlike finding and replacing each of dozens of typical formatting issues or manually perusing through a file to find errors and fixing them by hand, TextSoap can automate that task down to just one click. And you can do it all from within your favorite app using the TextSoap Universal menu.
+
+
+What's New
+Version 7.3.2:
+
+Fixed: When using uHHHH to specify Unicode in regex replacement character, app could throw exception.
+Fixed: Title case would not work correctly with words that contained diacriticals.
+Fixed: Custom OS X Services were sometimes not correctly updated when custom cleaners or groups were changed.
+Fixed: Issues with individually importing older custom cleaners (from version 5 or 6).
+Fixed: In some cases, older database was not properly converted.
+Fixed: App could crash when user deleted last custom cleaner and then created a new custom cleaner.
+
+Requirements
+Intel, Mac OS X 10.6.6 or later 

@@ -1,0 +1,50 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 581 MiB
+Duration                                 : 20mn 50s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 900 Kbps
+Writing application                      : Lavf53.4.0
+Comment                                  : FlixEngineLinux_8.0.17.1 (www.on2.com)
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 16 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 20mn 50s
+Bit rate mode                            : Variable
+Bit rate                                 : 3 868 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.062
+Stream size                              : 575 MiB (99%)
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 20mn 50s
+Bit rate mode                            : Variable
+Bit rate                                 : 38.5 Kbps
+Maximum bit rate                         : 64.0 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 5.74 MiB (1%)
+

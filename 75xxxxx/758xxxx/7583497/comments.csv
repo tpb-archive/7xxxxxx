@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,Reproduzindo,2012-08-30T21:11Z,Qual a senha prรก descompactar o arquivo?
+,TunaHead,2012-08-31T06:07Z,"Problemado13, no problema esta aqui?"
+[T],dekeisha,2012-09-01T04:06Z,This is password protected.waste of time.
+,NaqiAliKhan,2012-09-03T00:17Z,"Windows Users can use this easy command to put Shutdown timer:
+Shutdown [/i | /l | /s | /r | /g | /a | /p | /h | /e] [/f] [/m \computer] [/t xxx][/d [p|u:]xx:yy [/c ""comment""]]
+
+/i         Display the graphical user interface (GUI). This must be the first option.
+
+/l         Log off. This cannot be used with /m or          /d options.
+
+/s         Shutdown the computer.
+
+/r         Shutdown and restart the computer.
+
+/g         Shutdown and restart the computer. After the system is rebooted, restart any registered applications.
+
+/a         Abort a system shutdown. This can only be used during the time-out period.
+
+/p         Turn off the local computer with no time-out or warning. Can be used with /d and /f options.
+
+/h         Hibernate the local computer.
+            Can be used with the /f option.
+
+/e         Document the reason for an unexpected shutdown of a computer.
+
+/m \computer Specify the target network computer.
+
+/t xxx     Set the time-out period before shutdown to xxx seconds. The valid range is 0-315360000 (10 years), with a default of 30. If the timeout period is greater than 0, the /f parameter is implied.
+
+/c ""comment"" Comment on the reason for the restart or shutdown. Maximum of 512 characters allowed.
+
+/f         Force running applications to close without forewarning users. The /f parameter is implied when a value greater than 0 is specified for the /t parameter.
+
+For Example if i need to shutdown my pc after 30 minutes i'll use:
+shutdown /s /t 1800"

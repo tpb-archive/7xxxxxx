@@ -1,0 +1,14 @@
+Ableton Suite 8.x.x Generic Patcher
+
+tested on:
+ableton suite 8.1.x
+ableton suite 8.2.x
+ableton suite 8.3.x
+ableton suite 8.4.bx
+
+may not work on eariler versions (< 8.1.1) of ableton
+
+instructions if using the patcher on versions < 8.3 or 8.4 betas:
+1. hit patch, when it says 'Can not find the file. Search the file?' click 'Yes'
+2. in the bottom right of the 'Open' window is a drop down box that says 'Ableton Live 8.exe' change this to 'Exe Files'
+3. select the 'Live 8.x.x.exe' to be patched (betas select 'Ableton Live 8 Beta.exe') and launch Authorizelive8xx.auz after patching

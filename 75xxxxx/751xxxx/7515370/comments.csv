@@ -1,0 +1,73 @@
+﻿User Type,Username,Date,Text
+[V],loverulz,2012-08-08T20:25Z,what about pro and enterprise only build 7850
+,japrage_s,2012-08-08T21:41Z,"I'm gonna call this bluff and raise with a FAKE.
+
+User reported too. This isn't meant for windows 8 rtm 9200."
+,bry68,2012-08-08T22:37Z,hey japrage r u sure? hes got a pink skull?
+,japrage_s,2012-08-08T23:57Z,"windows 8 build 7850 as said in the torrent.
+its for beta product
+
+final windows 8 is 9200 rtm. it dosnt work on rtm."
+,botakal,2012-08-09T07:56Z,"ok, this is useless. Why do we use a beta product when the final version has been released. We just have to wait the ""Windows Loader"" for 8. "
+,gozando,2012-08-09T11:50Z,"Not Fake, just an older activator  but this torrent is just what it says, so look also that pinky skully, means trusted"
+,gozando,2012-08-09T11:57Z,"@japrage_s    STOP WHINING DUDE !!! you are the bluff and raise and stop bitchin , or go buy the real deal,  re-read your comment and read the main title of this torrent, so shut the hell up,,what you post here ? nothing right ? so stop whining"
+,japrage_s,2012-08-09T17:30Z,"gozanda, u crazy"
+,techme21,2012-08-09T23:14Z,"I made a simple batch file that will connect to all three known kms servers
+and attempt activation with them automatically
+It does all commands silently so you don't have all of those annoying popups from every attempt
+and it will loop infinitely
+My goal is to make it stop Automatically when An activation server has been reached,
+And Echo Windows Successfully!
+Just paste the below code into a notepad and save as Activate.bat to C:    root directory
+Then make a shortcut to that file on your desktop.
+Then right click the shortcut and go to ""Properties""
+Then go to the Shortcut Tab
+Then click advanced
+Then check the ""Run as Administrator"" box
+Hit OK and OK again
+Now run it
+
+Maybe this could be a base idea for a Windows based KMS Activation Program
+Then you could add the option of adding your own KMS server.
+
+Here's what I got so far
+
+
+[CODE]
+@Echo Off
+
+Echo Attempting Windows Activation
+Echo Please Wait...
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org:1688
+cscript //B ""%windir%system32slmgr.vbs"" /ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms kms-c.no-ip.org
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.121
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83:1688
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+cscript //B ""%windir%system32slmgr.vbs"" /skms 91.149.135.83
+cscript //B ""%windir%system32slmgr.vbs"" -ato
+
+Echo Activation Status...
+
+cscript slmgr.vbs /dlv
+
+Echo Activation will Retry in 10 Seconds
+
+ping 1.1.1.1 -n 10 -w 1000 > nul
+
+cls
+
+start /b /i C:Activate.bat
+[/CODE]"
+,techme21,2012-08-09T23:15Z,"P.S. If the servers are down then my above script will not work.
+It will just keep trying until it does work."

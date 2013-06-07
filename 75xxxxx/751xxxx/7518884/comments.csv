@@ -1,0 +1,77 @@
+﻿User Type,Username,Date,Text
+,Sinio1988,2012-08-10T00:11Z,seed please
+,Sinio1988,2012-08-10T00:25Z,not working
+,Hajeil,2012-08-10T00:49Z,@Sinio1988 Do you have the game installed with the latest updates 1.03 and the RELOADED DLC Unlocker?  
+,Sinio1988,2012-08-10T01:21Z,yes
+,Sinio1988,2012-08-10T01:23Z,the RELOADED DLC Unlocker no
+,Sinio1988,2012-08-10T01:29Z,i use the RELOADED DLC Unlocker and noting
+,Rezzvane05,2012-08-10T02:06Z,"Hello , sorry to bother both of you, but could I trouble one of you two to post a link to the latest Reloaded Unlocker and Update 1.03 ?"
+,Sinio1988,2012-08-10T02:23Z,good idea Rezzvane05
+,Hajeil,2012-08-10T08:42Z,"Mass Effect 3 DLC Unlocker http://thepiratebay.se/torrent/7081986/Mass.Effect.3.DLC.Unlocker-RELOADED
+Mass Effect 3 Update 1.03 http://thepiratebay.se/torrent/7310545/Mass.Effect.3.Update.v1.03.5427.46-RELOADED"
+,Fantomnz,2012-08-10T10:13Z,"Hi thanks for the Up. Unfortunetly I cant seam to get it to work just yet either. I will once worked out the prob post a proper install guide such as many others for ME1 2 3. Must say this one has got me stumped just as yet. If anyone has the proper proceedure with trouble shooting available it would be vary much needed.
+I guess it will take some time as its just new to Us Pirates....Argh
+
+(Gamers)"
+,Semblance,2012-08-10T15:17Z,Doesn't seem to work at the moment. If I figure it out I will share my solution.
+,Serpent360,2012-08-10T15:56Z,"Not working. I did everithing right. Copy the files, re-update to 1.03 and crack it with co called ""unlocker"" Nothing happened. No weapons in-game"
+,An0nym0usPirate,2012-08-10T17:04Z,"Hajeil, did you actually buy this DLC?  I don't think it will work for us until we have an updated DLC unlocker or crack.  Thanks for uploading it though, there's no way I'm paying $5 (400 ms points) for some single player weapons."
+,Sinio1988,2012-08-10T17:42Z,"It's missing updated Coalesced.bin file. Withou it, it will not work"
+,Serpent360,2012-08-10T18:32Z,Sinio1988: I dont think so
+,flash8706,2012-08-10T18:59Z,"The extended cut DLC - reloaded worked without any additional crack or coalesced editing , just had to copy the dlc files to the main ME3 folder, wasn't expecting this piece of crap not to work"
+,Serpent360,2012-08-10T19:07Z,Same here
+,a0l4ni,2012-08-10T19:07Z,Modified Coalesced.bin is already available on tehPARADOX
+,An0nym0usPirate,2012-08-10T19:29Z,"The modified Coalesced file is here and it works.  I just tested it out in game plus it lets me upgrade all weapons to level X which is awesome!
+
+http://tehparadox.com/forum/f43/mass-effect-3-f-ref-ght-pack-f-x-4393914/"
+,An0nym0usPirate,2012-08-10T19:32Z,"You have to register to that forum before the link will show up.  I tried posting the direct link to the file, but it wouldn't let me. "
+,Serpent360,2012-08-10T19:33Z,Thanx man ;) I Downloaded it and its working now
+,Sinio1988,2012-08-10T22:40Z,An0nym0usPirate thanks it work
+,hamalta,2012-08-11T02:15Z,"
+If you prefer modify your Coalesced.bin yourself using ME3Coalesced tool this is how:
+
+Go to:
+
+bioui.ini > sfxgamecontent > sfxguidata > store > spectre > storeitemarray = (multiple)
+
+And add those lines:
+
+(ItemType=TYPE_WEAPON,ItemclassName=""SFXGameContentDLC_CON_GUN01.SFXWeapon_AssaultRifle_Cerb_GUN01"",BaseCost=0)
+
+(ItemType=TYPE_WEAPON,ItemclassName=""SFXGameContentDLC_CON_GUN01.SFXWeapon_AssaultRifle_Quarian"",BaseCost=0)
+
+(ItemType=TYPE_WEAPON,ItemclassName=""SFXGameContentDLC_CON_GUN01.SFXWeapon_Shotgun_Quarian_GUN01"",BaseCost=0)
+
+(ItemType=TYPE_WEAPON,ItemclassName=""SFXGameContentDLC_CON_GUN01.SFXWeapon_SMG_Bloodpack"",BaseCost=0)
+
+(ItemType=TYPE_WEAPON,ItemclassName=""SFXGameContentDLC_CON_GUN01.SFXWeapon_SniperRifle_Turian_GUN01"",BaseCost=0)
+
+This will make 5 weapons available in the spectre store(in the same order of the lines):
+
+Cerberus Harrier
+Adas Anti-Synthetic Rifle
+Reegar Carbine
+Blood Pack Punisher
+Krysae Sniper Rifle
+
+For the 2 other weapons (the M-90 Indra and the Geth Plasma SMG) I am supposing you alredy have them by now.
+
+If you don't like the 0 credit price of the new weapons change the 0 in 'BaseCost=0' in every line with what you see fit."
+,hamalta,2012-08-11T02:51Z,"Sorry for the incomplete lines but each line ends with:
+
+BaseCost=0)
+
+Like the 4th line"
+,Hajeil,2012-08-11T04:13Z,Purchasing the guns isn't supposed to be how this DLC works. They should be in your locker. So I don't know about modifying the .bin. But if it works for you guys and you are happy with it then more power to you. :)
+,Adam_21,2012-08-11T04:56Z,"I tried editing Coalesced.bin.  Guns are not properly showing up at the story.  There are no names, just empty lines with a base cost.  I tried purchasing just in case, doesn't work.  Hopefully someone will figure out how to unlock this the same way as other DLC."
+,hamalta,2012-08-11T05:31Z,"@Adam_21
+
+Usually this happens when the dcl files are missing.
+Maybe you didn't place the files included in this torrent correctly, or it could be something else."
+,Adam_21,2012-08-11T06:49Z,"@Hamalta, I followed all the instructions.  the only thing I can think of, is that up until this weapon pack, all my content was legal and registered with origin. Rather then re-downloading game from here, I installed DLC crack and reloaded 1.03 patch.  Other then weapon pack, everything else seems to work."
+[T],Gh0stNet,2012-08-12T19:25Z,please download the fix from here http://thepiratebay.se/torrent/7523214/Mass_Effect_3_DLC_Firefight__%5BFix%5D
+,Sinio1988,2012-08-12T23:18Z,hamalta i donÂ´t  have the Geth Plasma SMG
+,Ogre717,2012-08-27T17:54Z,Does this work with a official copy without effecting my online play???
+,Ogre717,2012-08-29T01:58Z,"I downloaded this file as said to do then, downloaded the fix just in case put it all in and I had the same issue as Adam21 here any clues. Also I am having problems with other dlc in lavithian. Could it be because I'm using a legit copy? I did make a copy of mt ME3 folder and I also I downloaded a crack for it as well any clues would help 
+
+Thx"

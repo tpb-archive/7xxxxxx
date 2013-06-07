@@ -1,0 +1,34 @@
+ main - avidemux.org
+ wiki - www.avidemux.org/admWiki
+ forum - www.avidemux.org/admForum
+ 
+ alt downloads - avidemux.razorbyte.com.au
+ beta builds - www.avidemux.org/nightly
+ 
+ Avidemux is a free video editor designed for simple cutting,
+ filtering and encoding tasks. It supports many file types, including AVI,
+ DVD compatible MPEG files, MP4 and ASF, using a variety of codecs.
+ Tasks can be automated using projects, job queue and powerful scripting.
+
+ - Free software :)
+ - Released on Aug 8th 2012
+ - Final non beta official build by "Gruntster"
+ - This torrent contains the binaries for Windows x64
+   So it does NOT have an installer. So if you want other versions
+   with or with out the installer please see the official site.
+
+If there are issues with this version consider using the experimental versions found at the same download locations. Personally i think they suck right now. Most of the XVID encoder options are missing :(
+
+I like Avidemux but it has a lot of bugs / issues
+I advise people to double check their conversions etc
+But its free so i can't complain right ?
+
+Changes: 
+http://www.avidemux.org/smf/index.php?topic=10881.0
+Same 2.5.6 codebase but all dependencies have been updated (libx264, etc).  An issue where the 32-bit version would crash for some users on start up has also been resolved.  ZoneAlarm is most likely still an issue though.
+
+So that means for example the x264 encoder was updated
+
+I think posting stuff like this is dumb but i almost missed this update !
+So posting it will hopefully get the word out to my fellow Avidemux users.
+They don't put out non beta updates too often so this is rare.

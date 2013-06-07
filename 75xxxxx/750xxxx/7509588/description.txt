@@ -1,0 +1,24 @@
+Disclaimer: This is a proof of concept and I'm doing this mostly for my own education. I am of the strong opinion that most HD releases are a waste bandwith and storage space. 
+
+I am attempting to deliver very good quality that holds up to scrutiny while finding an acceptable compromise between bitrate and image quality. Many people seem to forget that video encoders are made for moving images: It is not necessary to have a perfect image quality in still images as long as you can't tell the difference when the video is running.
+
+To achieve this drastic compression it was necessary to remove the extreme film grain that exists in the original source (fft3dfilter). Film grain is pure entropy and almost impossible to encode effectively at low bitrates. If you are a grain enthusiast I recommend using vlc and activating the 'film grain' option in 'effects and filters'. Computers are pro at generating noise, there's no need to preserve it.
+
+If you enjoy a clean/crisp image you will miss nothing in this encode.
+
+Release notes:
+Runtime: 1:31:24
+Resolution: 960x720
+Size: 668 MB
+Container format: Matroska (mkv)
+Video codec: x264 core 125 (crf 21, average bitrate 814 kbit/s)
+Audio codec: qaac v1.38; 5.1 Surround (VBR q0.36, average bitrate 207 kbit/s)
+
+x264 - core 125 r2200 999b753 - H.264/MPEG-4 AVC codec - Copyleft 2003-2012 -  http://www.videolan.org/x264.html - options: cabac=1 ref=8 deblock=1:-1:-1
+analyse=0x3:0x133 me=umh subme=10 psy=1 psy_rd=1.00:0.20 mixed_ref=1 
+me_range=32 chroma_me=1 trellis=2 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1
+chroma_qp_offset=-3 threads=6 lookahead_threads=1 sliced_threads=0 nr=0
+ decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=6 
+b_pyramid=2 b_adapt=2 b_bias=0 direct=3 weightb=1 open_gop=0 weightp=2 
+keyint=240 keyint_min=23 scenecut=40 intra_refresh=0 rc_lookahead=60 rc=crf 
+mbtree=1 crf=21.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=2:0.80

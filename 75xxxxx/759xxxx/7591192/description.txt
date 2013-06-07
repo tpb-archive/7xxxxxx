@@ -1,0 +1,36 @@
+Chainfire3D - Take control of your GPU (OpenGL) !
+
+!! This is an "upgrade" / "license file" for the normal Chainfire3D program, you must already have the free version installed or nothing will happen !!
+
+Take control over your GPU!
+
+Chainfire3D is an intermediary OpenGL driver. What does that mean? It means that Chainfire3D sits between your apps and the graphics drivers, and can intercept and/or change commands between the two. It has some built-in functions, and can be further extended with plugins to provide extra functionality.
+
+!! Android 2.1 and newer. Now available for Honeycomb - but still a big risk there !!
+
+!! Chainfire3D is for 1ghz+ devices only !!
+
+!! ROOT is required for this program, as well as a writable /system partition. S-OFF is also required on HTC devices !!
+
+Features include reducing texture size and quality to reduce memory use and potentially increase game performance, as well as increasing memory use potentially increase performance.
+
+If you also install the (experimental) EGL driver, AND your GPU supports it, AND you have the Pro version, you can enable 4xMSAA or 16xMSAA on a per-app bases. This can drastically improve image quality!
+
+Be sure to check the thread on XDA for available plugins !
+( http://forum.xda-developers.com/showthread.php?t=1087427 )
+
+Chainfire3D has been tested on:
+- HTC HD2
+- Samsung Galaxy S
+- Samsung Galaxy Tab 7"
+- Samsung Galaxy S II
+- Samsung Galaxy Note
+- Samsung Epic 4G
+- Motorola Atrix 4G
+- Motorola Droid 2
+- LG Optimus 2X
+- Google Nexus S
+
+Many users are running Chainfire3D on devices not listed here - it's likely to work on all modern devices. So far nobody has reported a failed install, so that's good. Doesn't mean problems can't happen.
+
+!! There is some risk involved installing the driver. Your device may not boot. If you have CWM, it would be prudent to create a backup before installing !!

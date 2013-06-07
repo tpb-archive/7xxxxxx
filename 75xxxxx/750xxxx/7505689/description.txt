@@ -1,0 +1,42 @@
+BBC London Olympics 2012 Cycling Track Womens Team Pursuit Heats and Mens Sprint Heats 468p HDTV x264 AAC
+
+Women's team pursuit heats and men's sprint heats from the Velodrome. Due to thunder and lightning the satellite signal went down after the first hour at the end of the mens sprint heat 5. This was meant to be a 3 hour programme.
+
+What's missing from this file:
+Mens sprint heat 6 onwards
+Men's omnium 30km points race
+Men's sprint 1/8 final repechages
+Women's team sprint final 7/8
+
+Technical Spec
+Container: MKV
+Video Codec: x264 CABAC High@L3.1
+Video Bitrate: CRF 23
+Video Aspect Ratio: 16:9
+Video Resolution: 832x468
+Audio Codec: HE-AAC
+Audio Bitrate: 128 Kbps ABR 48KHz
+Audio Channels: 2
+Run-Time: 59mins
+Framerate: 25FPS
+Number of Parts: 1
+Part Size: 659 MB
+Source: HDTV
+
+You can download the BBC One coverage of the womens team sprint directly from the BBC servers using get_iplayer. If you live outside the UK you'll first probably need a VPN to give you a temporary UK IP address. You can use ExpatShield to give yourself a temporary UK IP address. Once you have a UK IP address you can then download the un-DRM'ed BBC files using get_iplayer.
+
+The file you're looking for is called:
+Olympics_-_London_2012_BBC_One_Day_8_17.15-18.50_b01lpjjr_default.mp4
+
+The get_iplayer command will look something like this:
+get_iplayer --get XXX --modes flashvhigh
+This downloads the 832x468 BBC MP4 file.
+The smaller 640x360 is also available by just typing
+get_iplayer --get XXX
+
+The XXX is the 3 digit index number which changes each day as files are added and removed from the BBC servers.
+To get the index list just type
+get_iplayer > tv.txt
+and view the tv.txt file with Notepad
+
+All other coverage of the Olympics from BBC One is also available from the BBC servers. I'm capturing the cycling from the 24 special HD channels added for the Olympics - I'm not using BBC One coverage.

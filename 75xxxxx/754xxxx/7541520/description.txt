@@ -1,0 +1,35 @@
+                                 By bobiras2009		
+
+
+Microsoft Toolkit - Official KMS Solution for Windows and Office 2010
+
+This is a test for the next planned step for Office 2010 Toolkit. It is my plan to eventually phase out Office 2010 Toolkit for a new application, that is currently under development. App is stable as it is still well tested code in almost all cases, but I'm looking for new ideas, suggestions, and testing of new functions.
+
+Bugs/Quirks/Incompleteness
+
+-Almost all EZ-Activator settings apply only to office.
+-Readme is currently inconsistent but generally applies to windows the same as office.
+-I plan to add more Windows stuff but would like some ideas and want to get this out early in the development stage. A BETA of mine is usually just bug testing and last minute feature additions.
+-Currently using OTK changelog/Readme.
+-This topic still says references being BETA. This will change with MTK 3.0, which will have a new UI.
+
+
+Readme
+
+Click The Readme Button in Office 2010 Toolkit program, and Copy Button to copy the tabbed section contents.
+Requirements:
+Microsoft .NET Framework 3.5 (Not 4.0)
+Office 2010 for Office Toolkit Support
+Windows NT 6 era operating system (Vista or later) for Windows Tookit Support
+
+
+Microsoft Toolkit Changelog
+
+2.3.2
+-Fixed Auto Update button returning 404
+-Updates are downloaded to a separate folder, and kept, then copied to the selected Office 2010 Setup.
+
+
+
+
+                                 By bobiras2009		

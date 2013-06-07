@@ -1,0 +1,74 @@
+                             By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android 4.0+
+Overview: Powerful, fast, and highly customizable home replacement for Android 4.0+.
+
+Apex Launcher helps you create a customized homescreen experience on your Ice Cream Sandwich (Android 4.0) device.
+
+Features:
+- Customizable homescreen grid size and up to 9 homescreens
+- Scrollable dock with up to 7 icons per page and up to 5 pages
+- Infinite & elastic scrolling (homescreen, drawer and dock)
+- Fancy transition effects (tablet, cube, etc.)
+- Hide elements as you want (persistent search bar, status bar, or even the dock)
+- Customizable icons and labels for shortcuts and folders
+- Choose different folder preview styles and background
+- Multiple drawer styles (transparent/opaque, horizontal/vertical, paginated/continuous)
+- Drawer apps sorting (title, install date, mostly used)
+- Hide apps from the drawer
+- Lock your desktop to prevent accidental changes
+- Enjoy homescreen gestures (pinch, swipe up/down, double tap)
+- Backup/restore settings and data
+- Optimized for both phones and tablets
+- Lots of other customization options!
+
+Apex Launcher Pro (Paid Version) Features:
+- Multiple configurable drawer tabs
+- Unread count notifications
+- Dock swipe gestures
+- Two finger gestures
+- More transition effects
+- Batch add option for folders
+- Option to merge folder contents
+- Widgets in dock (1x1 only)
+- Overlapping widgets
+- More features on the way!
+
+Note: Due to limitations of the Android framework, you won't be able to add widgets from the app drawer without root access. If your device is rooted, please enable the Root Helper via Settings > Advanced settings > Enable Root Helper.
+
+Tips:
+- Pinch the screen to access screen previews (like Exposé or HTC Sense).
+- Long press an icon to drag and drop it over another one to create a folder.
+- Long press icons/folders on the desktop and choose edit from the popup menu to customize icons and labels.
+- Drag, hover, and drop app icons over the delete button at the top of the screen to quickly uninstall apps.
+- Long press an app in the hide apps list to quickly launch that app.
+- Switch to single screen wallpaper mode to fix wallpaper zooming issues.
+- Enable the Root Helper in advanced settings (root required) to add widgets from the drawer.
+
+Permissions:
+- BIND_APPWIDGET: Required to add widgets from the drawer (only if installed as system app).
+- CALL_PHONE: Create direct-dial shortcuts on the homescreen.
+- EXPAND_STATUS_BAR/SET_WALLPAPER/SET_WALLPAPER_HINTS/VIBRATE: Standard launcher functions.
+- INTERNET/ACCESS_NETWORK_STATE: Check for updates and anonymous usage/error reporting (optional).
+- WRITE_EXTERNAL_STORAGE: Backup/restore settings and data.
+- READ_CONTACTS/READ_SMS/GET_ACCOUNTS/READ_CONTENT_PROVIDER: Missed call and unread SMS/Gmail notifications (pro version).
+
+What's in this version:
+v1.3.0beta4 (Aug 31, 2012)
+Added drawer grid settings
+Added activity animation options
+Fixed some FC issues
+Updated translations
+
+Note:
+This is patched version, fully unlocked pro funstions.
+Please remove all previous versions before installing this.
+If your ROM came with Apex Launcher you'll have to remove it before installing this.
+
+
+
+                             By bobiras2009	

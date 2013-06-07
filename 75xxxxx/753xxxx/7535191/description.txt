@@ -1,0 +1,62 @@
+A touch of Frost. Complete, all 40 episodes (1992-2010), Dutch subs
+
+
+AVC x264 MKV, with integrated (not hardcoded) Dutch VobSubs, taken right of the DVD.
+
+First 26 episodes are 4:3 aspect ratio, from series 8 on they are 16:9.
+Encoded with Handbrake, contstant quality (RF20), Audio AAC Stereo.
+Subs are VobSub, wich means, its a bitmap image, this can look soft/fuzzy when upscaled.
+
+Enjoy and keep seeding this huge one!
+
+
+
+---------------------------------------------------------------
+MediaInfo:
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 41mn
+Width                                    : 720 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 41mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : VobSub
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : The same subtitle format used on DVDs
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+---------------------------------------------------------------

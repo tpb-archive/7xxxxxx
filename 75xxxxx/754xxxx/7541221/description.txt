@@ -1,0 +1,21 @@
+System Requirements:
+
+Any version of Windows 7, Vista, XP, Server 2008 or 2003.
+Features: 
+ 
+Read and write Mac format disks, CD/DVD(DL)/Blu-ray media, high density floppies and disk image files (dmg and sparseimage).
+Supports standard HFS (Mac OS Standard), HFS+ (Mac OS Extended) and HFSX (with case sensitive file names) volumes.
+Access Mac volumes on boot drive (like Boot Camp).
+Create, read and write Mac disk image files(dmg and sparseimage).
+Compress and expand (convert to iso) dmg files.
+Built in burner function to create Mac format CD, DVD(DL), and Blu-ray media.
+Burn ISO and dmg files to CD/DVD/Blu-Ray.
+Format disks for use on Mac.
+Read Mac multisession and hybrid CDs.
+
+
+Instructions:
+1. Install "tmsetup.exe"
+2. After your trial has expired (15 days), run "TransMac Trial Reset.bat"
+3. Say yes (y) to all results it returns
+4. Enjoy!

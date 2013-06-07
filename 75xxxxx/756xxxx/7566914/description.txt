@@ -1,0 +1,26 @@
+                                  By bobiras2009		
+
+Changelog:
+
+Changes in Version 3.2 (build 27636), 2012-07-30:
+- Change: add tracker.ccc.de as a default tracker
+- Feature: disallow http connections to tracker.openbittorrent.com and tracker.publicbt.com
+- Fix: disk cache size accounting
+
+Changes in Version 3.2.1 beta (build 27718), 2012-08-08:
+- New layout of the Add Torrent Dialog
+- Feature: never try a tracker again if it returns status code 410
+- Change: add tracker.ccc.de as a default tracker
+- Fix: donΓÇÖt write the block list in a part file in 4-byte increments
+
+Changes in Version 3.3 alpha (build 27745), 2012-08-13:
+- Fix: /proxy request parser crash
+- Fix: mp4/mov parser crash
+- Fix: GUI refresh crash
+
+
+┬╡Torrent is an efficient and feature rich BitTorrent client for Windows sporting a very small footprint. ┬╡Torrent was designed to use as little cpu, space and memory as possible while offering all the functionalites expected from advanced clients. With BitTorrent, you can download files faster and contribute by sharing files and bandwidth. Most of the features present in other BitTorrent clients are present in ┬╡Torrent, including bandwidth prioritization, scheduling, RSS auto-downloading and Mainline DHT (compatible with BitComet). Additionally, ┬╡Torrent supports the Protocol Encryption joint specification (compatible with Azureus 2.4.0.0 and above, BitComet 0.63 and above) and peer exchange. ┬╡Torrent was written with efficiency in mind. Unlike many torrent clients, it does not hog valuable system resources ΓÇô typically using less than 6MB of memory, allowing you to use the computer as if it werenΓÇÖt there at all. Additionally, the program itself is contained within a single executable less than 1 MB in size.
+Various icon, toolbar graphic and status icon replacements are available, and creating your own is very simple. ┬╡Torrent also has support for localization, and with a language file present, will automatically switch to your system language. If your language isnΓÇÖt available, you can easily add your own, or edit other existing translations to improve them!
+
+
+                                  By bobiras2009		

@@ -1,0 +1,37 @@
+Before - http://www.abload.de/img/data2012-08-2401-28-0xepj9.png
+After - http://www.abload.de/img/data2012-08-2401-24-0c4qnh.png
+
+"If you have a 120Hz monitor, you might run into one of two problems:
+Framerate locked at 15Hz, or resolution is locked at 720x540.
+
+The fix is to open up the DarkSouls.ini file and manually set your fullscreen resolution and monitor's framerate there.
+
+The .ini file is located here: C:Users[YourUserName]AppDataLocalNBGIDarkSoulsDarkSouls.ini
+
+Some people have reported that using HDMI rather than DisplayPort also resolves the issue."
+
+
+"As most of you may know, the Dark Souls port for PC has a fixed rendering resolution of 1024x720. I couldn't believe this when it was first rumoured, and when it turned out true I vowed to do my best to fix it.
+
+
+What is it?
+It's an interception d3d9.dll that you place in the same folder as the game executable. It intercepts the game's calls to the DirectX 9 API and changes them as necessary to enable a higher internal rendering resolution.
+
+
+How do I use it?
+Place d3d9.dll and DSfix.ini into the game's binary directory. (The place where DARKSOULS.exe is)
+You can open DSfix.ini with a text editor to adjust the desired internal resolution.
+
+
+Will it work?
+So far, this has only been tested on my computer, on the first half hour or so of the game. I can not and will not guarantee that it will work for anyone else, or not have any adverse effect on your game/computer. Use at your own risk! If you encounter any issues that seem like they could be caused by DSfix, let me know.
+
+
+Why is it still blurry?
+I don't know at this point in time. It's already clear that there is a lot more detail and less aliasing using an increased framebuffer resolution -- as you would expect! -- but there is some residual blur. I'm trying to work out if this is due to my method or something inherent in the game. I will certainly continue working on this.
+
+
+Will it cause performance problems?
+That depends on your system configuration. Usually, performance scales rather linearly with framebuffer size, and so far this game does not seem different. My 660 maintained a locked 30 FPS throughout ~ 1/2 hour of testing in the starting area of the game at 2560x1440."
+
+   -- Compliments of Durante @ http://www.neogaf.com/forum/member.php?u=14988

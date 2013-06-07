@@ -1,0 +1,9 @@
+This torrent contains the complete Guild Wars soundtrack, including the Wintersday theme (but not the Halloween theme) all in 320Kb/s, within the DirectSong folder, ready to use with the game.
+
+
+Just store the folder in the desired path (e.g.: C:Documents[Username]MusicDirectSong ) keeping the structure, and run the RegisterDirectSongDirectory.exe once.
+
+If you didn't alter the folder structure and kept the GuildWars.ds and ds_GuildWars.dll files there, that folder will become DirectSong's folder, and Guild Wars will try to load ds_GuildWars.dll, which in turn will check the GuildWars.ds file for the playlists upon request by gw.exe.
+
+
+You can also use the included GW DirectSong Playlist Editor to help you edit the GuildWars.ds file, if you want to customize the tracks that play in certain areas and situations (just remember to backup the GuildWars.ds file just in case!).

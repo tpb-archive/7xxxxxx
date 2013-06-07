@@ -1,0 +1,16 @@
+1. Install (if not installed) Oracle JDK (jdk-7-windows-i586.exe) (Included)
+2. Add to the PATH environment variable the path to the JDK (for example c:  Program Files  Java  jdk1.7.0  bin)
+3. Edit the file hosts (c:  WINDOWS  system32  drivers  etc  hosts), add the entry "127.0.0.1 dl-ssl.google.com"
+It's important! Port 80 must be free at the time of installation Android SDK
+4. Run the Abyss Web Server X1 (abyssws.exe)
+5. Option a - Manual Option B - Recommends Google
+5a. Extract sdk_installer  android-sdk_rXX-windows.zip to the folder where will be to establish and run the Android SDK "SDK Manager.exe"
+5b. Run sdk_installer  android-sdk_rXX-windows.exe click "Next"))) then message saying that the JDK is not found)) is nothing then "Back" and then again "Next" and follow the installation instructions
+6. In the "Android SDK Mannager" in the menu "Tools" -> "Options" put the check ("force https:// ... sources to be fetched using http:// ...")
+7. Next, select and install packages))
+8. After installation, be sure to comment out or delete the file hosts (c:  WINDOWS  system32  drivers  etc  hosts) entry "127.0.0.1 dl-ssl.google.com"
+it is necessary to update))
+9. Good luck)))
+P/S You can, in principle, and LAN setup)) on a network need to be competent in paragraph 3 instead of 127.0.0.1 IP to enter the Web server to the repository
+
+Sorry for my English)))

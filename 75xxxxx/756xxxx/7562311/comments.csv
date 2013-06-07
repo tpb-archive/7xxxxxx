@@ -1,0 +1,191 @@
+﻿User Type,Username,Date,Text
+,catsicknic,2012-08-24T15:22Z,"hello keysofanxiety! i was wondering if this perhaps work on lion. I've been trying to get logic onto it but it's being a right arse!
+
+cheers
+catsicknic"
+,tim637,2012-08-24T18:06Z,Works on ML 4 me
+,keysofanxiety,2012-08-24T18:08Z,"Hi catsicknic,
+
+This should run perfectly on Lion; I can't see why it shouldn't. Please download & post results? I'll try help you where I can if it's not compatible. "
+,keysofanxiety,2012-08-24T20:20Z,"Sorry guys, forgot to add:
+
+This is fully compatible with the additional content, once Logic has been installed. Once you're in Logic, select 'Logic Pro' along the top Apple Menu, and select 'Download Additional Content'. I'm hoping this means it'll update to the next version without any problems, but we obviously can't know until Apple release the next patch. 
+
+Thanks for all your seeding, you guys are awesome. Please feedback any problems (or successes) you've had, so we can keep this going and share it with the community. :) "
+,Duplix,2012-08-24T22:58Z,I hope this will work. Please seed people!
+,SoeJergio,2012-08-25T16:13Z,where can I find this folder?
+,Duplix,2012-08-26T02:59Z,"I can confirm that this works on OS X: Lion. Great upload, keusofanxiety. It would help a lot if you all could seed. This is fantastic!"
+,keysofanxiety,2012-08-26T04:05Z,"SoeJergio: The folder is located in: Macintosh HD > Library > Application Support > Pro Apps
+
+tim637 & Duplix: thank you hugely for your feedback, we do appreciate it! :)"
+,the0chimp,2012-08-27T12:06Z,"hey, I have Moutain Lion (10.8) and after following the steps i got an alert that the logic pro.app is not compatible with my operating system. (and there is like a forbidden logo over the logic logo). When I tried to install again, the serial code didn't work anymore.. Any suggestions? help higly appreciated :) thanks"
+,keysofanxiety,2012-08-27T12:56Z,"@the0chimp: It sounds like you haven't installed the 9.1.7 patch. If you've already got Logic 9 installed, don't worry about reinstalling -- just install the 9.1.7 patch included in this torrent, then drag the two System IDs to overwrite the existing ones in the ProApps folder. 
+
+Should work after that. :)"
+,whsadhv,2012-08-27T15:41Z,"Keys! First off, Mahalo from Hawaii.
+
+I tried this process according to your instructions on mountain lion - when I first inputted the SN on install it all worked fine
+
+I then experienced an invalid SN error, and when I went into my library (AFTER having done the patch) 
+
+I don't seem to have a ProApps folder in Application Support. 
+
+Any hints? What could be happening here?"
+,keysofanxiety,2012-08-27T17:50Z,"Hi Mahalo, pleased to make your acquaintance. It seems a little unusual you don't have a ProApps folder; are you definitely looking in the Application Support in Macintosh HD? As memory recalls, there are two libraries -- one which you can access through the Finder (hold Alt under the 'Go' menu), and the other by going through Macintosh HD.
+
+I would suggest closing Logic, restart computer, reinstall the patch (just the patch, not the whole program), and then having another look? 
+
+Also, this 'serial code' error that you're mentioning is a little disconcerting. Did you install Logic, install the Logic update, then try to have a look for the files to overwrite? If you tried to open it before applying the patch, it may have screwed it up a little -- although I doubt it'd have deleted an entire folder!
+
+I would also suggest searching for the 'ProAppsSystemID' manually; Cmd+F in Finder, select it to search name only, and do a full sweep of your HDD -- it may be hiding somewhere?
+
+If you'd also be able to go into Disk Utility and do a Permissions repair, in addition to verifying and repairing the disk -- has that cropped up with anything?
+
+If you could also let me know any error codes you got. Apologies for the essay, please let me know what crops up when you try the above. :)"
+,rasmil2012,2012-08-27T18:01Z,i'm having the same problem. the ProApps folder simply isn't in the specified location. can someone please help?
+,rasmil2012,2012-08-27T20:43Z,"i wasn't accessing Mac HD, got it now. thanks for the support."
+,keysofanxiety,2012-08-27T21:51Z,"No problem Rasmil, glad you got it working!"
+,mfreund6288,2012-08-28T02:12Z,Hey I downloaded everything and followed the instructions perfectly but when I actually tried to open the application it just bounces in the dock and a window pops up that says Logic Pro closed unexpectedly. HOW DO I FIX THIS???
+,keysofanxiety,2012-08-28T02:24Z,"mfreund6288, a few things to help us diagnose what could be the issue:
+
+- What version of OS X are you running? Is it 10.7 or higher?
+- What model/year is your Apple computer? Are there any third-party upgrades? (If you say it's a PowerPC or a Hackintosh, I will cry. :P)
+- Please can you try verifying your disk & repairing permissions through Disk Utility? 
+- How much free hard-drive space do you have?
+
+I'm absolutely convinced that if you clean up using Disk Utility, it should fix the issue. If it doesn't, I'd suggest reinstalling the 9.1.7 patch only (not the Logic Pro 9, just the patch), reapplying the cracks in the ProApps folder, and then trying to run it again.
+
+Please let us know what you try, and whether it works? There are a few other things we can have a look at if you do all of the above. Cheers!"
+,whsadhv,2012-08-28T02:51Z,"Keys, YES.
+
+That was it. Mountain Lion is a tricky son of a bitch and I had to go searching for ""mac hd"" to find the correct library folder you were talking about.
+
+And surrrre enough - there was the pro apps folder. It is all working now to perfection, and I can't thank you enough!
+
+Aloha from Hawaii,
+
+WHSV"
+,mfreund6288,2012-08-28T05:59Z,I have a late 2011 model and the OS X is indeed 10.7.2
+,keysofanxiety,2012-08-28T08:51Z,"mfreund6288, if you could please try verifying the disk through Disk Utility -- is the volume OK or corrupted? If you could also repair all your permissions, then restart the computer. 
+
+If it still doesn't work, please reinstall the 9.1.7 patch & then patch the ProApps folder. 
+
+Please let me know what happens if it still doesn't work."
+,keysofanxiety,2012-08-28T08:54Z,"Sorry mfreund6288, forgot to add: 
+
+It probably wouldn't hurt doing a software update as well -- Lion's on 10.7.4, I think. Please try verifications & repairs through DU -- let me know what the news is. I'll be checking this page in 8 hours time, after I finish work. :)"
+,the0chimp,2012-08-28T15:35Z,"hey, it's working, don't know how i forgot about the update at first :) but it's running beatifully now. thanks again!"
+,mfreund6288,2012-08-28T21:21Z,Do you have skype as well? IN case I cant get it
+,GuitarzMyThing,2012-08-28T21:36Z,"Okay, I am all new to the MacBook. I have 2 questions: 1 - Where is my ProApps folder, When i'm in Application Support it doesn't show a ProApps folder, I searched my computer and no ProApps folder is found. 2 - When I even try to load up Logic Pro, It asks for the serial number again and I type in the one you gave us for a second time and it doesn't work. Any help?"
+,GuitarzMyThing,2012-08-28T21:57Z,"Never mind, I wasn't looking in the right location, Found the ProApps folder, lets hope that solves all my problems."
+,Streebor,2012-08-28T23:03Z,PERFECT! Just follow the guide and it works. I am running Mountain Lion on Hackintosh. GL
+,keysofanxiety,2012-08-28T23:20Z,"Right everybody, there seems to be a bit of confusion when it comes to finding the 'ProApps' folder, as OS X has two libraries. Please could you do the following: 
+
+1) Close Logic Pro by pressing Cmd+Q
+2) Cycle through to 'Finder' by pressing Cmd+Tab
+3) Click 'Finder' (it's just to the right of the Apple icon in the top left of your screen), and then select 'Preferences'. 
+4) When you've selected the Preferences, tick 'Hard Disks' which is under 'Show these items on the desktop'. 
+5) Macintosh HD will now be visible on the desktop. 
+
+You can access the ProApps folder from there!
+
+Hope this helps,
+
+-keys"
+,gavinre,2012-08-31T22:51Z,"Hi!
+
+I've done everything as instructed but can't find 'Logic Studio System ID' and 'ProAppsSystemID'. I can find the folder where they should go but even running a search wont bring them up.
+
+Any help please?"
+,keysofanxiety,2012-09-01T13:54Z,"gavinre -- Reapply the 9.1.7 patch, then go through Macintosh HD and you should find the ProApps folder, with the files inside it. 
+
+Not sure who keeps voting this torrent down -- if you've got an issue with it, just message here and I'll try to help. "
+,gavinre,2012-09-01T14:52Z,"Hey,
+
+That worked and everything is running perfectly. Thanks very much, great torrent!"
+,wflyingv,2012-09-02T00:59Z,"HI There, works awesome for me!!!
+very easy to install too!!
+
+I have a question: 
+
+After downloading , and patching , can I update the updates that the Apple store is giving me? 
+or I wont be able to run it afterwards without a new crack? somebody knows about this? 
+
+THanks!!
+"
+,YoMamaIsBeast,2012-09-02T03:07Z,"serial number doesnt seem to work - i installed Logic Pro from the First DMG. Then I Loaded up the update, then after that ejected both dmg's and then moved the systemIDs and that into the ProApps folder, opened Logic Pro, it asked me for details eg, name, organisation and serial number etc. Typed my name and the serial no you provided and said Serial Number valid.
+
+Please help thanks. Im running Mountain Lion 10.8.1"
+,keysofanxiety,2012-09-02T11:24Z,"YoMamaIsBeast: Close Logic (Cmd+Q), reapply the 9.1.7 patch from the 2nd dmg. Open Macintosh HD and navigate to ProApps folder. When you copy 'Logic Studio System ID' and 'ProAppsSystemID', make sure you select them to overwrite (Move & Replace). Logic should now work.
+
+wflyingv: Quite frankly, I've got no idea, because this is the latest version. As of now, you can download all the additional content. If Apple know about this torrent, they'd most likely take steps to prevent it working in the same way, so it's impossible to say. 
+
+But I'm going out on a limb here and say that we *will* be able to update it. We'll find out soon, though!"
+,vladzima,2012-09-03T19:12Z,"Hello.
+
+I could not install Logic at all. I mounted the ISO, started the installation, but installer just don't launch â the icon bounces and then the installer turns unresponsive.
+
+What could be the problem, any suggestions?
+
+OS X 10.8.1"
+,keysofanxiety,2012-09-03T21:13Z,"vladzima:
+
+1) Open Disk Utility
+2) Highlight 'Macintosh HD', then click 'Verify Disk'. 
+3) If your disk needs to be repaired, that'll be the issue (comment here if you need help repairing it).
+
+If your disk doesn't need to be repaired, keep reading: 
+
+4) With Macintosh HD still highlighted, click 'Repair Permissions'. 
+5) Once that's gone through the whole permissions repair, press Cmd+Q to close Disk Utility. 
+6) Press Apple Menu > Restart. When prompted, uncheck the option 'Reopen windows when logging back in'. 
+
+Does the Logic installer work now?"
+,kewapineapple,2012-09-04T05:42Z,"please seed guys, i only have a ~10kb down rate.
+
+
+ I will seed as much as possible afterward "
+,kewapineapple,2012-09-04T05:43Z,"please seed guys, i only have a "
+,vladzima,2012-09-04T12:19Z,"keysofanxiety,
+thanks for your help, it seems that installer just needed more time to unfreeze and launch. It took half an hour and everything is ok now :-)"
+,audio_man,2012-09-04T16:33Z,"HELP! I successfully downloaded the torrent, but I'll double-click on the .iso, double click ""Install Logic Pro"" and then the installer just sits there bouncing. It'll stop after a while and no window will appear. I'm running Mac OS 10.8.0"
+,Geebow17,2012-09-05T07:46Z,"My proapps folder contains a folder titled Bundles, Internal Plug-Ins and SharedA, where exactly am I dragging the Logic ID and ProApp ID???"
+,keysofanxiety,2012-09-05T20:45Z,"audio_man: Update your operating system, then try again. If that doesn't work, verify & repair in Disk Utility. 
+
+Geebow17: You haven't installed the 9.1.7 update. "
+,vladzima,2012-09-05T22:12Z,"btw, it didn't ask me for a serial at all."
+,Geebow17,2012-09-05T22:47Z,"I installed the update but when I drag said files to proapps it just drops them in and doesnt ask to overwrite, sorry guys im relatively new to mac :/"
+,Geebow17,2012-09-05T23:16Z,"NVM found a way to work around it, ended up not using the proapps method, but thanks for the help"
+,waermespender,2012-09-11T13:34Z,"Hey guys, and girls
+I got the same problem as the ones with the not working installer.
+
+The Console says:
+
+11.09.12 13:23:34,066 CoreServicesUIAgent[821]: Error: qtn_file_init_with_path error: No such file or directory
+
+11.09.12 13:27:50,390 WindowServer[78]: CGXSetWindowListAlpha: Invalid window 0
+
+11.09.12 13:27:51,392 Dock[157]: CGSReleaseWindowList: called with 9 invalid window(s)
+
+I had tried 
+http://thepiratebay.se/torrent/6135904/Logic_Pro_Studio9_%5BMAC-OSX%5D
+ before and stepped to this, cause it says anyway its for Mountain Lion.
+It was the exactly same thing with that before, are these the same images and here is just the update included?
+
+Its not that bad at all cause in a month iÂ´ll have the money for the really good price of 150 bucks
+
+And for the User Behaviour is: OSX 10.8.1 (12B19)   Intel i7 2,2ghz
+tried to repair, recheck download, repair, Diskutility said Image ok.
+This with both torrents.  
+
+1. Image gets mounted
+2. All files accessable
+3a. opening install link (and directly) on the image
+and 3b.  opening install link (and directly) from copied to Desktop
+4. Installer is in Dock (sometimes stops to jump and keeps there)
+5. no Installer windows open and no white point under it.
+6. OSX says ""Program does not react"" when i right click the icon and offer me to ""stop imediately""   (i translate the OSX words from another language)
+
+Hm, if if, then thanks, if not, thanks too. bye"
+,the0chimp,2012-09-14T17:58Z,"hey, I just got a new iMac and it can't complete the installation, when the installation bar is full, an alert says: installation failed, please contact your software provider. I installed this version before on a macbook pro. But now it wont work. Help higly appreciated"
+,the0chimp,2012-09-14T19:17Z,"ps I also followed your tips on repair permissions, but still not working"

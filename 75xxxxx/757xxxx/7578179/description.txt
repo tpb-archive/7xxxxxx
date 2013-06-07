@@ -1,0 +1,37 @@
+                                  By bobiras2009			
+
+Requirements: Android 1.5+
+Overview: The most complete all-in-1 Android system tuner for your phones and tablets!
+
+
+
+The app can:
+- Show data (cpu, memory) in the status bar
+- Sort processes by cpu time, total cpu time, start time, cpu consumption, memory used or simply by name
+- Filter system processes or user-defined excluded list
+- Shows cpu load/frequency, memory/internal/sd usage
+- Record (optionally at boot) activities in the background
+- Allows analyzing previous recordings
+- Display log(cat) for all/one process
+- Display memory details (RAM & internal)
+- Display SD details (internal & external)
+- Run command using terminal emulator
+- Kill non manually excluded apps automatically
+
+The app can also do the following on rooted phones:
+- Tweak SD cache size to boost performance (not all phones supported, please report)
+- Tweak Android auto-kill memory settings
+- Tweak CPU governor + frequencies
+
+
+All system apps are excluded by default!
+Kernel processes cannot be killed
+
+What's in this version:
+2.4.2:
+Removed JB logcat method uncessarily used on Android 4.0.x
+STSystem.apk can be uninstalled on Android 4.0 and lower
+
+
+
+                                  By bobiras2009			

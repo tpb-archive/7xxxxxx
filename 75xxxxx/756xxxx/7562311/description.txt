@@ -1,0 +1,27 @@
+Reuploaded due to previous one being corrupted -- really sorry to those who started downloading.
+
+********I WILL BE SEEDING 24/7*******
+
+This is an easy torrent to get Logic Pro 9.1.7 running. It's just Logic Pro -- there isn't any additional Logic Studio content. 
+
+It's Mountain Lion compatible, tested on my machine, and I've used lots of knowledge from people far cleverer than I to get this working. I hope this helps a lot of people. 
+
+There are four stages to this:
+
+1) Double-click 'LogicStudio.iso'. Once it's mounted, double-click 'Install Logic Studio', and use the serial code: E-342-PXV-169-TMH-378-IKJ-435-KXZ-FFS-41PX. Enter your first name & surname. You will also have to deselect the 'Logic Studio Content', else it'll ask for DVDs. 
+
+2) Once it's installed, install the 'LogicPro9.1.7Update'. 
+
+3) Once the update has been installed, drag the 'Logic Studio System ID' and 'ProAppsSystemID' to the following folder: 
+
+Volume/Library/Application Support/ProApps
+
+When prompted, ensure you overwrite all the files. 
+
+Also remember that 'Volume' is your hard-drive (usually called Macintosh HD).
+
+4) Enjoy Logic Studio!
+
+Regards,
+
+keysofanxiety	

@@ -1,0 +1,8 @@
+Egy egyszerü  program, ami törli az "ei.cfg" fájlt, igy a Windows ISO fájlból Universal Disc-et alkot, igy bootolás közben elérhetövé teszi az összes verziószámot.
+Kezelése egyszerü nem igényel fejlesztöi tudást.
+
+1. Adminisztrátor módban inditsuk el a letöltött csomagot ( ezen a bloggon elérhetö )
+
+2. Keressük ki az eredeti ISO fájlt amelyiket szerkeszteni szeretnénk
+
+3. Ezek után a Patch-elt ISO-t irjuk ki DVD, USB-Stick-re, mint Image 

@@ -1,0 +1,24 @@
+This is something of a test - please leave feedback ...
+
+If you do not have an AAC codec or if you're using VLC ...
+put this mp3 into the same folder as the AVI.
+There are three ways to use this MP3 audio with the original AVI.
+
+1) Use Media Player Classic. right click on video, select audio and sub select the second track on the list.
+
+2) Use Virtualdub (set A & V to 'direct stream copy') to physically replace the audio track. Help can be found if you don't see how.
+
+3) VLC - boy, how to take something simple and make it REALLY hard!
+
+Click Media-Advanced Open File.
+Select video to play.
+Check "show more options"
+Select audio to play.
+Click "play" (file will start playing silently)
+Click Audio-Audio Track-Track 2
+
+you should be hearing the external mp3 in sync with the AVI
+
+Tada!
+
+Leave some feedback, please ...

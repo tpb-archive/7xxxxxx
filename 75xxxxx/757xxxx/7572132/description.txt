@@ -1,0 +1,22 @@
+ Flashtool is a flashing software that can be used to :
+
+    Flash original Images (Android 1.6, 2.1, 2.3 Images)
+    Root your phone
+    Install Recovery, Busybox, custom kernels
+    Clean your Rom (remove /system/apps apps of your choice) (Be careful, unless you really know what you do, do not modify the default list. This can make your phone stuck at the SE Logo)
+    Clear dalvik cache
+    Optimize (install of JIT v2) (Disabled in 0.4, will readd it as a plugin for 2.1 phones only)
+    Customize (installs apps found in the custom/apps folder of the flashtool)
+    Clean uninstalled (remove any references to system apps removed in the Clean (root needed) step)
+    Edit any text file on the device
+    Rebrand your device
+
+
+Full install :
+
+    Windows Edition - v0.9.0.0 (MD5 : 0A8CA4A2A0F89EA7F458DA60C709C0D9)
+
+* 0.9.0.0
+- Updated Java to jre7u5
+- Added support for Xperia GO
+- Decryption features can now extract loader.sin from Sony Filesets (Loader fileset is usually 63Kb big)

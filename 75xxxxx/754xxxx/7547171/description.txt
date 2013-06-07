@@ -1,0 +1,24 @@
+Po┼íto me je nekoliko ljudi kontaktiralo koji su na 3.41 JailBreak i koriste dongl, re┼íio sam da im i ovo UPNem na seedbox, da pomognu sebi.
+
+Dakle, vi┼íe vam ne treba JailBreak USB Dongle, imate slobodan USB i imate mnogo ve─çu kompatibilnost sa igrama.
+
+U torentu se nalaze 3.55 firmware oficijelni sonijev, 3.55 firmware KMEAW, "preradjeni", i MultiMan, program.
+
+Prvo i osnovno, u SETTINGSima Disejblujte (isklju─ìite) internet konekciju, i jo┼í bitnije, isklju─ìite automatski update firmwarea. Mada, ako ste ve─ç na 3.41, to bi ve─ç trebalo tako da stoji, ali proverite.
+Ako ste na 3.41, prvo prebacite na USB Fle┼í ili nare┼╛ite na CD ili DVD oficijelni FirmWare, ubacite u konzolu, i idite na System Update, ali ne VIA INTERNET nego OBAVEZNO na opciju VIA MEDIA STORAGE  FirmWare prebacujete (ili re┼╛ete) tako ┼íto PS# folder prebacujete. Dakle, ne da udjete u PS3 pa u UPDATE pa da iskopirate samo onaj PUP fajl, nego na fle┼íu mora biti vidljiv PS3 folder, pa u njemu UPDATE folder, pa u njemu fajl. Tako konzola prepoznaje da je to "njen" folder, folder koji ona upotrebljava.
+
+
+Konzola ─çe na─çi update na medijumu koji ste ubacili, i pita─çe da updateuje. Odradite UpDate, i pustite je da radi. Za nekoliko minuta, kada se restartuje, ima─çete PS3 konzolu sa zvani─ìnim PS3 3.55 FirmWareom.
+
+Sada ponovite isti postupak, ali sada na fle┼í (ili DVD /CD ) nabacite nabacite KMEAW FirmWare.
+
+Konzola ─çe misliti da radi UpDate, ali u stvari instalira FirmWare koji ─çe vam pomo─çi da igrate sa HDDa. Opet, kroz nekoliko minuta, i posle automatskog restarta, ima─çete konzolu sa "preradjenim" firmwareom.
+
+
+Ovo ─çete znati tako ┼íto u XMB meniju odete na games (d┼╛ojstik) i idete gore / dole dok ne nadjete opciju  INSTALL APK ili sli─ìno. Ako ovo imate, onda ste sigurni da imate CUSTOM FIRMWARE (CFW)
+
+Sada na USB fle┼í nabacite MultiMan aplikaciju, ima nastavak .apk , idite u INSTALL APK, i instalirajte ga.
+
+Odgovorite potvrdno na tri pitanja, i instalacije kre─çe. Za nekoliko minuta, imate Multiman instaliran, i spremni ste za u┼╛ivanciju .... ovo je MM 4.02, najnoviji je 4.04 , mo┼╛ete ga updateovati preko neta, onda morate uklju─ìiti intenret, ali uverite se da je isklju─ìeno automatsko updateovanje same konzole. Dakle uklju─ìite internet, startujte mutiman, pa iz njega negde u setting imate opciju UpDate mutiman, kliknite, on ─çe skinuti opet .APK fajl, i posle opet njega instalirate, i onda ste na 4.04 ... i ne zaboravite da isklju─ìite internet, POD OBAVEZNO ...
+
+Ostalo vam je sve isto, GAMES folderi za igre, itd itd ...

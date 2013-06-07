@@ -1,0 +1,41 @@
+Daemon Tools Pro/Standard & SCSI Pass Through Direct (SPTD)
+ 
+                      by Bundle puP_E
+
+-----------------------------------------------------------
+              Daemon Tools Pro/Standard
+-----------------------------------------------------------
+
+Professional but not Advanced product that offers essential tools 
+for emulation and image making.
+
+Functionality
+
+Mount *.mdx, *.mds/*.mdf, *.iso, *.b5t, *.b6t, *.bwt, *.ccd, *.cdi, *.bin/*.cue, *.ape/*.cue, *.flac/*.cue, *.nrg, *.isz disc images to a virtual drive
+Create .iso, *.mds/*.mdf and *.mdx images of CD, DVD, Blu-ray discs
+Make a compressed disc image or split the image to several files
+Protect images with password
+
+
+-----------------------------------------------------------
+            SCSI Pass Through Direct (SPTD)
+-----------------------------------------------------------
+
+SPTD is used by Daemon Tools and Alcohol 120%. It is also utilized in PowerArchiver Pro 2010 (v11.60+); however, a configurable option is available to disable it.[1] It is known to be incompatible with kernel-mode debugging including WinDbg and Microsoft's other command line debuggers as well as SoftICE. Further, certain versions of the freeware optical media burning software ImgBurn will issue a warning, "SPTD can have a detrimental effect on drive performance", if the application detects that SPTD is active or installed.
+
+ConeXware, Inc. (the maker of PowerArchiver) claims that in their internal testing, SPTD improved optical drive performance by up to 20 percent in comparison to the "old school" SCSI Pass Through Interface.[1]
+
+
+-----------------------------------------------------------
+                        Files
+-----------------------------------------------------------
+
+  Install_Guide_Readme!.txt   =simple install instructions
+
++ DAEMONToolsPro510-0333.exe  =installer
+
++ SPTDinst-v175-x86.exe       =scsi pass threw device drivers
+
++ DTP_regfix.reg              =Registry Fix
+
++ MSIMG32.dll                 =dll crack

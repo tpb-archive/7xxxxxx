@@ -1,0 +1,41 @@
+All must read the FPse For Android 0.11.29 Final By bobiras2009.txt
+
+Requested By Varvaras
+
+FPse for Android is the fastest and most compatible PSone emulator for handheld devices.(also known as PSX or Playstation 1)
+
+NEW!! FPse support OpenGL via external Plugin, see below!!!!
+
+Recent changes can be read here: 
+http://www.fpsece.net/forum2/viewtopic.php?p=24904#p24904
+
+You can read the full documentation here: http://www.fpsece.net/readme.html
+
+Create an ISO image from your favorite games and enjoy playing them on your Android phone.
+
+FPse features the following:
+
+-High performance
+-High compatibility
+-High sound quality
+-Real-time save states
+-Audio track emulation (using .cue files)
+-Force-feedback
+-Dynamically loadable Overlay Pads
+-Guncon emulation
+-Analog Stick emulation
+-Compatible with G-Sensor, Touchscreen and Hardware keys
+-Supports .img, .iso, .bin, .cue, .nrg , .mdf and .Z disc image formats
+-Full Support for IcontrolPAD, BGP100,Zeemote (via Bluez IME)
+-OpenGL support via external plugin!
+
+Whats new in this version:
+
+FPse 0.11.29 changes:
+- Important Fix (workaround) for Samsung Galaxy SII, SIII and Note , and all other MALI400 devices with OpenGL plugin!
+Now you'll have huge speed without any trick and without need to switch to interpreter!
+- Attempt to fix the Xperia Play circle button problem
+FPse 0.11.28 changes:
+- Fixed loadstate crash
+for more details on changes and changes history: 
+http://www.fpsece.net/forum2/viewtopic.php?p=24904#p24904

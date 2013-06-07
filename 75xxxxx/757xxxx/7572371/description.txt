@@ -1,0 +1,92 @@
+Butthole Surfers - Electriclarryland - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+!!!!!!!!!!This is a custom remaster intended to increase the dynamic range and is NOT an official remaster!!!!!!!!!!
+
+
+
+1 - Birds
+2 - Cough Syrup
+3 - Pepper
+4 - Thermador
+5 - Ulcer Breakout
+6 - Jingle Of A Dog's Collar
+7 - TV Star
+8 - My Brother's Wife
+9 - Ah Ha
+10 - The Lord Is A Monkey
+11 - Lets Talk About Cars
+12 - L.A.
+13 - Space
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = -0.2db
+-With DC Offset Removed: Apparent Bit Resolution = 21, Peak = -0.2db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 41, Peak = 1.225db
+
+-Resample 64-bit/384kHz to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+
+MBIT+ Dither Settings:
+*Noise Shaping - Light
+*Bit Depth - 24
+*Dither Amount - Low
+*Auto-Blanking - On
+*Limit Peaks - Off
+*Harmonic Suppression - On
+
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-08-26 13:38:47
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -0.10 dB    -8.29 dB      3:10 ?-01 - Birds
+DR8       -0.18 dB    -8.87 dB      4:33 ?-02 - Cough Syrup
+DR7       -0.53 dB   -10.20 dB      4:57 ?-03 - Pepper
+DR6       -0.45 dB    -8.28 dB      4:36 ?-04 - Thermador
+DR6       -0.48 dB    -8.28 dB      2:35 ?-05 - Ulcer Breakout
+DR8       -0.53 dB   -10.87 dB      3:08 ?-06 - Jingle Of A Dog's Collar
+DR9       -0.83 dB   -11.21 dB      3:07 ?-07 - TV Star
+DR8       -0.66 dB   -11.42 dB      5:13 ?-08 - My Brother's Wife
+DR6       -0.77 dB    -9.12 dB      3:31 ?-09 - Ah Ha
+DR7       -0.36 dB    -9.61 dB      4:47 ?-10 - The Lord Is A Monkey
+DR12      -2.69 dB   -18.00 dB      4:34 ?-11 - Lets Talk About Cars
+DR7       -0.35 dB    -8.40 dB      2:47 ?-12 - L.A.
+DR8        0.00 dB   -12.91 dB      4:25 ?-13 - Space
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR8
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

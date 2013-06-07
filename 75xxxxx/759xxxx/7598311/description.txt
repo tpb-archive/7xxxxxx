@@ -1,0 +1,74 @@
+Sassy Blonde, three guests, an interview & Chuy
+
+-----------------
+
+I have but one mission - to keep AVI alive for those who need or desire it.
+I only stepped up because it was something that needed doing.
+Not saying I'm the best at any part of this.
+I hope more talented people will continue to step up.
+The future is being written and there's plenty of room for your bit too.
+
+
+CC2AVI stands for - "Container Conversion To AVI".
+This text is CC2AVI in a nutshell (I'm the nut, this is my shell).
+Or "it's a power we all have, I'm just a little more 'full of it'".
+
+Anyone can do this - here's how with versions current as of "now":
+
+Should mention you actually need the MP4 source file first ...
+And a Windows PC, I don't know about Mac or Linux yet or maybe never.
+
+You will need - MP4Cam2AVI 2.98
+You may need - AtomicParsley win32-0.9.0
+You don't need - FLV Extract 1.6.2 (not used in this example)
+You may need - DVBPortal MP4Muxer 0.9.3.0
+
+MP4Cam2AVI is a completely LossLess conversion process.
+It allows you to "pour" X264 MP4 encodes into an AVI container.
+You can keep the AAC audio in the conversion process, but ...
+VLC doesn't recognize AAC audio in an AVI container so ...
+I convert the audio to MP3 for universal compatibility.
+
+Conversion takes a minute or so, depending on file size.
+For some MP4 files there's something in the header info that causes:
+"floating point division by zero" error.
+
+Looking high and low I found two solutions, so take your pick:
+
+One is to rewrite the header, the other is to demux / remux.
+
+The command line utility syntax to use is:
+AtomicParsley <MP4 filename> -f true
+
+Unless the file is already flagged as a podcast (in which case, choose 'false')
+this rewrites the MP4 header so that it now thinks it's a podcast. Since the
+CC2AVI process does not carry this info to the AVI - this doesn't matter.
+What matters is that the header information is rewritten so you no longer
+get an error.
+
+There are a couple of items that still may not lend themselves to dissection
+and this makes MP4Muxer the only choice ...
+Demux, remux & MP4Cam2AVI works ...
+Fingers crossed.
+
+Have all those MP4 files and an old tablet that can't play them?
+Want to use your favorite AVI editing tools?
+Wish you could back up frame by frame in Media Player Classic?
+Now you too can turn any MP4 encode into your favorite AVI.
+
+--------------------
+
+I NEVER claim an x264 encoding credit. I GIVE proper credit where due.
+
+My offerings are clearly identifiable:
+use search term "x264.MP3*.avi"
+use search term "MP4SUX"
+Without quotes for TPB.
+With quotes for Google.
+
+Most of my offerings won't have "MP4SUX" in the name unless ...
+I do a re-encode OR I convert from a source web site (FLV mostly).
+
+MP4SUX
+
+Not just an opinion, a state of mind

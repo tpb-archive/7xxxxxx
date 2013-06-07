@@ -1,0 +1,57 @@
+imagem 10
+audio 10
+
+SEMEIE NAO DEIXE O ARQUIVO MORRER
+
+
+
+
+Format                                   : Matroska
+Format version                           : Version 1
+File size                                : 946 MiB
+Duration                                 : 1h 36mn
+Overall bit rate                         : 1 366 Kbps
+Encoded date                             : UTC 2012-07-29 01:41:29
+Writing application                      : AVSMatroskaFile
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L5.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 36mn
+Bit rate                                 : 1 147 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.023
+Stream size                              : 794 MiB (84%)
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 36mn
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 133 MiB (14%)
+Writing library                          : LAMELAME_MAJOR_VERSI
+Default                                  : Yes
+Forced                                   : No

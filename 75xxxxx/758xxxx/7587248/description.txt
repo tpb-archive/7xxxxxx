@@ -1,0 +1,77 @@
+Pink Floyd - Dark Side Of The Moon - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+From Pink Floyd ΓÇÄΓÇô Dark Side Of The Moon EMI United Kingdom ΓÇô 7243 8 29752 2 9
+
+
+
+1 - Speak to Me
+2 - Breathe
+3 - On the Run
+4 - Time
+5 - The Great Gig in the Sky
+6 - Money
+7 - Us and Them
+8 - Any Colour You Like
+9 - Brain Damage
+10 - Eclipse
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 23, Peak = 0db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 41, Peak = 0.355db
+
+-Resample 64-bit/384kHz to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.13 / Dynamic Range Meter 1.1.1
+log date: 2012-08-30 15:54:51
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -9.42 dB   -22.61 dB      1:08 ?-01 - Speak to Me
+DR10      -0.81 dB   -14.14 dB      2:49 ?-02 - Breathe in the Air
+DR10      -0.86 dB   -15.96 dB      3:51 ?-03 - On the Run
+DR10      -0.65 dB   -12.88 dB      6:50 ?-04 - Time
+DR9       -0.71 dB   -14.41 dB      4:44 ?-05 - The Great Gig in the Sky
+DR8        0.00 dB   -11.38 dB      6:23 ?-06 - Money
+DR9       -1.64 dB   -15.06 dB      7:50 ?-07 - Us and Them
+DR10      -0.12 dB   -11.83 dB      3:26 ?-08 - Any Colour You Like
+DR10      -0.13 dB   -14.78 dB      3:47 ?-09 - Brain Damage
+DR7       -0.13 dB   -11.29 dB      2:12 ?-10 - Eclipse
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

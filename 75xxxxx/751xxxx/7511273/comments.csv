@@ -1,0 +1,92 @@
+﻿User Type,Username,Date,Text
+,Lexie._.,2012-08-07T10:32Z,"A BIG Thanks to Kronzky for providing the Single player mission ! ^,^"
+,Xolitude,2012-08-07T11:45Z,Please seed bro :)
+,Xolitude,2012-08-07T11:49Z,Please seed!
+,Lexie._.,2012-08-07T12:15Z,"My bandwidth allocation is set to high and i'm seeding at 500 kb's.
+
+To the seeders of now and the future ""heres your pirate bay cookie ! "" :3 nom nom xD"
+,The4X3R,2012-08-07T13:39Z,Is this scenario or just free play?
+,Lexie._.,2012-08-07T13:56Z,"Its free play do whatever you want, exactly like the multiplayer version. Except you are alone in the world with a crap load of zombies! "
+,Lexie._.,2012-08-07T14:07Z,"There is a cheat menu also i forgot to mention. 
+
+How to enable cheats tutorial:
+
+While playing do the following
+
+Take 2 Steps left, Then 2 steps right, then 2 steps back. 
+
+Now if you press 0 then press it again and it will pop up the cheats to spawn weapons, cars, supplies etc:..."
+,dahakadahaka,2012-08-07T18:23Z,"lexie can u fix this?? pls help
+Addon 'dayz_code' requires addon 'CABuildingParts'"
+,Lexie._.,2012-08-07T20:11Z,"dahakadahaka
+
+Try this
+
+1. Open up @DayZ and then open up the ""addons"" folder within the @DayZ folder
+
+2. Now copy everything inside of that folder and put it into your Arma 2 directory AddOns folder. Example: C:Program Files (x86)ArmA 2AddOns
+
+Comment back and tell me if that works."
+,fishboy11,2012-08-08T01:05Z,"game keeps bugging out on me, screen will go black but i can still move and shoot"
+,The4X3R,2012-08-08T05:03Z,ok thanks
+,Lexie._.,2012-08-08T08:57Z,"fishboy11 
+
+Try restarting DayZ, and make sure no other mods are activated other than DayZ."
+,cappyice,2012-08-08T13:42Z,"hey... just downloaded... did what had to be done, then launched the game, but when i tried to play dayz it said ""can't play/edit this game because i dont have the necesary files downloaded/chernarus.'' please help !!!!"
+,Lexie._.,2012-08-08T14:17Z,"cappyice 
+
+You need ""Arma 2: OA"" Why? Because DayZ Runs off of the Chernarus Map without that map you can't play DayZ"
+,fatman12,2012-08-08T15:12Z,"thanks lexie._. works like a charm
+
+one problem the screen flickers black every 2second or so. would you know what causes this or of any solution. thanks in advance"
+,cappyice,2012-08-08T15:14Z,ok im not a complete noob :D ... i know it needs arma 2 OA... i even had the 1.60 update installed and still it didnt lauch..
+,fatman12,2012-08-08T15:20Z,"if your screen is fading to black every few seconds grab the dayz files
+
+dayz_code 1.7.2.2
+dayz_anim 0.4
+
+and put them in Lexies._. @dayz addons folder.  there should be 4fiiles in all and replace.
+
+Have fun"
+,fatman12,2012-08-08T15:44Z,"and to get the cheat menu up you just have to press zero twice.
+
+Again thanks Lexie tis a great way to play the game when my friends r offline, cant go in on my own im to scared!"
+,fishboy11,2012-08-08T17:59Z,"for some reason none of the vehicles will spawn correctly with the cheats, they all spawn without tires and it says failed to spawn correctly"
+,Lexie._.,2012-08-08T20:06Z,"fatman12
+
+I installed it on my friend's computer and he had no problems with it. Some people are having some issues with the single player version, but thanks for helping with some fixes!
+
+When you spawn a car you have to also spawn the tires, windshield, a gas can, engine parts etc:... You have to repair it yourself.
+
+I want to make an infection count down for this mod, so you can play as a zombie ^,^ and also add other survivors other than yourself. 
+"
+,fatman12,2012-08-08T20:35Z,"hey Lexie do ya know if it would be possible to get the Lingor island map goin with this mod?
+
+again great stuff!"
+,Lexie._.,2012-08-09T05:17Z,"fatman12
+
+
+Defiantly possible, i just need to get some assistance from my friend kronzky and i can get it done."
+,dahakadahaka,2012-08-09T11:53Z,"so lexie
+thanks for answering
+i did a few changings in the folders and now it goes like this
+i start the game, scenarios, i have dayz, i select it and then it comes with this error 
+""can't play/edit this game because i dont have the necesary files downloaded/chernarus""
+now the wierd thing is that i have installed both armas and modify at both shortcuts at properties with -mod=@dayz
+i even tried to start it in steam but when i do that, when selecting dayz in scenarios it errors with close, any ideeas?"
+,dahakadahaka,2012-08-09T13:17Z,":)) this is funny, i did a clean install of both games and now when i hit dayz it's loading to the half and than it gives me this error
+""u cannot play this mission, bla bla, it's dependent on files that have been deleted.cacharacters_pmc"" i've searched for that file in game dir arma 2 and arma 2 OA and i couldn't find it, i googel it and still can't find it"
+,x_XSHADOWLINKX_x,2012-08-13T04:39Z,I've been seeding for 2 days . . . I'm still waiting for that cookie ._.
+,herpthederp,2012-08-18T21:32Z,"Thanks, this worked! Pretty sweet."
+,sebirazvan,2012-08-20T20:45Z,"Lexie i installed this mod do all you say to do in readme but when i want to play it give me this error
+You cannont play/edit this mission,it is dependent on downloadable content that has been delete/chermorus"
+,Ralkahn,2012-08-20T22:37Z,"Clarification: in this version, tents can't be deployed and hatchets can't be used as weapons. Am I right or am I doing it wrong?"
+,AllYoYens,2012-08-23T00:47Z,"I hate to be a noob, but where do you add in the no splash line? At step 3, I'm utterly confused on where to insert the line."
+,AllYoYens,2012-08-23T19:55Z,I found out where to put it. For some reason my shortcut was not a shortcut file and I couldn't find the target field. But now I'm getting an error where it says the mission is deleted and I can't play it.
+,AllYoYens,2012-08-23T21:00Z,"Alright. In step 3 you need to replace the -mod=DayZ with OA (-mod=@dayz) 
+
+Now the screen just goes to black immediately when I get the game and there's a missing file that only shows up for a quarter of a second."
+,AllYoYens,2012-08-23T21:10Z,"If you can help, the error message before the screen goes black is: 
+
+Script zaddonsdayz_serverintserver_functions.sqf not found"
+,ayybigguy,2012-08-29T01:58Z,"Hey Lexie._. i downloaded it and did everything you said but when i click on the mission it says deleted /chermorus file or something. i only have operation arrowhead and i have the pirated version of it, could this be the problem"

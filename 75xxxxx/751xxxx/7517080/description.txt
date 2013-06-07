@@ -1,0 +1,20 @@
+Description
+
+- OCRTOOLS can recognize the image files or clipboard images converts the text data by OCR technology.
+- iTunes can not copy text from the description, it is ideal for converting to character data.
+- Click "Open image" button to choose image (JPEG / TIFF / PNG / BMP / PDF) . Or the image file drag & drop to image view.
+- If you want to recognize image into clipboard, then choose the file menu "From Clipboard"
+- You can translate other language from OCR result.
+- Recognizable / translate language has increased to 33 languages that listed below.
+
+English/German/French/Italian/Dutch/Spanish/
+Japanese/Simplified Chinese/Traditional Chinese/Korean/Vietnamese/Turkish/Ukrainian/Tagalog/
+Swedish/Serbian/Slovenian/Slovak/Russian/Romanian/Portuguese/Polish/Norwegian/
+Lithuanian/Latvian/Indonesian/Hungarian/Finnish/Greek/Danish/Czech/Catalan/Bulgarian
+
+What's New in Version 1.6.1
+
+- Fixed crash issue when open image into OS X10.8.
+- Change toolbar items.
+
+Requirements: Mac OS X 10.6.6 or later

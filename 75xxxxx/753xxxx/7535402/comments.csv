@@ -1,0 +1,86 @@
+﻿User Type,Username,Date,Text
+,xpmule,2012-08-16T03:18Z,WTF is this ? lol
+,GladGulGubbe,2012-08-16T13:46Z,"""Tilemap is null!"" How do I fix this? :)
+And I don't understand the readme file where it says to run 'hb_dump -help' , It makes no sense to me. Help me out please :)"
+,_alexz_,2012-08-16T14:11Z,"Download meshes from 
+https://thepiratebay.se/torrent/7408680/HB_meshes
+Put it in Mesh folder.
+Edit your hosts file (as said in readme). Run wow (in dx9 mode). Run ""HB auth server.exe"" 
+That's it. You dont need hb_dump.exe"
+,GladGulGubbe,2012-08-16T15:51Z,"Thank you, Alex."
+,EchoTiger,2012-08-17T17:03Z,"Awesome!  I've been waiting on this fix!   Oh, _alexz_, I've created an installer that does all the patches / installations / extracts for you so the only ""hardwork"" for the seeders/leechers is starting the Authentication and HonorBuddy.  
+
+If you want, I can send you it and you can host it in the torrent.
+
+What it does:
+*Patch Host Files
+
+*Download/Extract all Mesh files into HonorBuddy
+
+*(Optional)  Download HonorBuddy
+
+The only thing I didn't add to it was your authentication server.  Which, the download to HonorBuddy option could easily include them. (Only with your permission. :3 )"
+,_alexz_,2012-08-17T19:40Z,"Ok, you can include this fix for your tool, i don't mind. 
+P.S i am not the author of this thing, i have taken  Teq's work and patched it."
+,EchoTiger,2012-08-18T00:19Z,"_alexz_
+
+Ah, alright.  I'll include this version of the patch into the HonorBuddy download for the installer.
+
+I just need to hardcode it and make sure it's bulletproof before I release it."
+,faerskfesk,2012-08-23T23:50Z,"""Tilemap is null!"" Worked perfectly with Tec's release, when im opening honorbuddy with this hb_auth, all i get is Tilemap is null, i've downloaded meshes and installed them, same goes for the hosts folder.
+
+Any clue how to fix? 
+
+Thanks in advance"
+,itadeu,2012-08-24T02:53Z,"im upload the mash files 
+run 100%
+
+http://thepiratebay.se/torrent/7562437/HonorBuddy_Meshs"
+,Johnwantsacar,2012-09-03T01:23Z,"I can't choose a valid World Of Warcraft instance, its blank for me and I've followed the instructions to a tee.
+
+It just shows up blank meaning i can't pick archabuddy or anything like so.
+
+Help please."
+,krashed,2012-09-03T07:13Z,"to anyone who cant get this to work, WoW updated to 5.0.4 and if you READ honorbuddy doesnt work with 5.0.4 the client should be released soon. One can only hope teq or _alexz_ here will cook up a new HB emulator"
+,EchoTiger,2012-09-03T16:38Z,"HonorBuddy 5.0.4 will be ready pretty soon.
+
+Will anybody be able to get the new Offsets / Mesh files?"
+,krashed,2012-09-06T03:42Z,"i tried the dev copy with no such success, i think teq or _alexz_ needs to rework this or svn over the source so i can update it"
+,mich1112,2012-09-07T05:49Z,"@krashed 
+
+Did you try dumping meshes (i bet they didn't change) and offsets(they did)? If you haven't then i'm gonna buy 1âŹ 1 day pass to dump it.
+
+Btw tryed developer version and it still passes authentication, so we just need new offsets and thats it."
+,mich1112,2012-09-07T05:56Z,"@krashed
+
+Did you dump meshes and offsets?"
+,mich1112,2012-09-07T12:56Z,Developer version of Honorbuddy2 for 5.0.4 is working with new offsets with this authenticator.
+,krashed,2012-09-08T22:17Z,@ mich1112 does anyone have the latest meshes i can download?
+,krashed,2012-09-08T22:19Z,"if anyone has thee latest meshes and offsets, can someone please upload them? can never seem to get a successful charge on the 1day pass"
+,sexiround,2012-09-09T03:02Z,"New offsets: 
+Just copy file from archive to your HB_auth folder."
+,sexiround,2012-09-09T03:05Z,"Sorry, link escaped. sendspace*com/file/5da6m4
+Change ""*"" to ""."""
+,sexiround,2012-09-09T04:14Z,"Double sorry :)
+Link above with old offsets.
+There new offsets: sendspace*com/file/6ozmky
+Replace ""*"" to ""."""
+,TheNemic,2012-09-10T01:08Z,"Hi _alexz_ do you have icq or skype? I got ""Tilemap is null!"" :( how to fix it"
+,sexiround,2012-09-14T00:52Z,"Honorbuddy Offsets for 5.0.5 sendspace*com/file/jpdj5t
+How to:
+- Replace ""*"" to ""."" in link
+- Download file
+- Replace Offsets.dat in folder ""HB_auth_fixed"" to this file.
+- Run ""HB auth server"" (don't forget change hosts, see in readme in this torrent)
+- Run new version of honorbuddy, and enter any login&pass
+- This works!"
+,john_wow1,2012-09-14T10:22Z,The offsets in the previous post are they for tuesdays patch or todays patch?
+,TheNemic,2012-09-14T12:48Z,Offsets 16057 -> sendspace*com/file/3rra85
+,EchoTiger,2012-09-15T04:01Z,"www,echonetworks,net/downloads/A-installer.exe
+
+^-   This program will:
+*Download all the mesh files
+
+*Blacklist your host filesand
+
+*Download an updated HonorBuddy (with the updated AuthServer and the updated offsets)"

@@ -1,0 +1,33 @@
+Description
+
+DropSync efficiently syncs folders from one computer to another, or from a computer to a hard drive. It's seriously fast, works with removable hard drives, other computers on local networks and even remote computers using SSH.
+
+Features:
+ΓÇó Automated (one-way) syncing when a file changes in the source folder
+ΓÇó Detailed searchable previews
+ΓÇó Fine grained control over purging of deleted files (choose direction and folder)
+ΓÇó An sftp based browser that lets you see and select folders on remote computers
+ΓÇó Browsable history of syncing activity, including detailed logs of every change
+ΓÇó Only transfers the parts of files that have changed for maximum speed over a network
+ΓÇó AppleScript support lets you create custom syncing workflows
+ΓÇó Support for custom syncing engine (rsync) options
+
+It is ideal for:
+ΓÇó Updating on-the-go documents to a USB stick
+ΓÇó Mirroring a website from a remote host to your local computer or vice-versa
+ΓÇó Web development. Edit files locally and have them automatically and efficiently uploaded to a server
+ΓÇó Duplicating files like photos, music and websites to a second computer or external hard drive.
+ΓÇó Backing up files to a remote server. Works with any server that supports ssh and rsync.
+ΓÇó Scientific applications involving large amounts of frequently updated data.
+
+Under the hood, DropSync uses an industrial-strength syncing engine (rsync), which means that it is both fast and reliable. It works by updating only the parts of files that have changed between source and destination. This makes it particularly suited to syncing over a network because the amount of data that needs to be transferred is minimised.
+
+What's New in Version 2.4.6
+
+- Retina graphics
+- Advanced options now correctly retain their ordering
+- Improved help for setting up ssh key pairs
+
+Requirements: OS X 10.6.6 or later
+
+Credits to AJhacks

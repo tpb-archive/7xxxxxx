@@ -1,0 +1,24 @@
+Deutsch: Im AlterRepZ-Ordner die clientfix.exe starten um das spiel zu spielen weil ein kleiner fehler vorhanden ist, 
+davor aber in die alterIWnet_configure.exe den Namen eingeben den man haben möchte ihr 
+könnt auch unterschiedliche farben nehmen hier sind die farbcodes:
+
+English: You have to start the clientfix.exe in the AlterRepZ-folder to start the game because there is a 
+little bug but before you start the game please choose your gamename what you wanna have in the 
+alterIWnet_configure.exe. You can also choose you namecolor here are the colorcodes:
+
+^1=Rot (Red)
+^2=Grün (Green)
+^3=Gelb (Yellow)
+^4=Dunkelblau (Dark Blue)
+^5=Cyanblau (Cyan Blue)
+^6=Pink (Pink)
+^7=Weiß (White)
+^8=Braun (Brown)
+^9=Grau (Grey)
+^0=Schwarz (Black)
+
+Hier ist ein Beispiel: ^2Name^4 (die letzte Zahl ist dafür da um alles was nach dem Namen geschrieben wird in die gewünschte Farbe zu ändern)
+
+Here is a example: ^2Name^4 (the last number ist for changing the color for the words that are coming after the name)
+
+Please understand my english is horrible

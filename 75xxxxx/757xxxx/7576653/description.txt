@@ -1,0 +1,60 @@
+Found this on the net. I watched it.. and its the right episode
+And it looks fine, totally watchable
+
+although the site i got it from listed it as a release from NTB
+and the file extension was .mkv but when after checking the video
+it did NOT have a matroska container it was actualy an FLV container.
+AND the file size for NTB's release is suppose to be about 110mb
+but this release is about 41 mb.
+
+This will have to do until something better comes along.
+
+here is the MediaInfo report.
+
+
+Complete name:
+
+Aqua.Teen.Hunger.Force.S09E10.Totem.Pole.480p.WEB-DL.AAC2.0.H264.flv
+
+Format                                   : Flash Video
+File size                                : 41.1 MiB
+Duration                                 : 11mn 15s
+Overall bit rate                         : 510 Kbps
+Tagging application                      : Yet Another..
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : 7
+Duration                                 : 11mn 15s
+Bit rate                                 : 398 Kbps
+Width                                    : 640 pixels
+Height                                   : 352 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.074
+Stream size                              : 32.7 MiB (80%)
+Writing library                          : x264 core 107
+
+Audio
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 10
+Duration                                 : 11mn 15s
+Bit rate                                 : 96.2 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 40ms
+Stream size                              : 8.24 MiB (20%)
+

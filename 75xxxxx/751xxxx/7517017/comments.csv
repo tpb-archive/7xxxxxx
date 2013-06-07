@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,inri13666,2012-08-24T09:08Z,"""abyssws.exe error:
+Quote:
+Abyss Web Server X1 (v 2.7)
+Copyright © Aprelium - 2001-2011
+
+-- Default host on port 80 has errors and is stopped (Local URL http://127.0.0.1)
+Не удается найти указанный файл. (key: root/server/host/scripting/cgi/errorfile - file: E:downloadOffline_Android_SDKserverabyss.conf - line: 48 - col: 5)
+Error while reading/setting the configuration of module scripting (key: root/server/host/scripting/cgi/errorfile - file: E:downloadOffline_Android_SDKserverabyss.conf - line: 48 - col: 5)
+Console local URL: http://127.0.0.1:9999""
+
+Solution:
+
+Create in ""4.1server"" folder ""log"" and put empty file in created folder with name ""cgi.log"""

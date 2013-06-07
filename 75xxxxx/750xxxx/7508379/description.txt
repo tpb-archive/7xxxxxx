@@ -1,0 +1,11 @@
+GFI FAXmaker is a fax server that allows you to send and receive faxes via your email infrastructure. Its email integration is unparalleled, resulting in minimal administration overhead and user training. GFI FAXmaker for Exchange/SMTP integrates with Microsoft Exchange Server 2000/2003/5.5, Lotus Notes and with most popular SMTP/POP3 Mail servers. GFI FAXmaker consists of:
+ 
+
+ΓÇóA FAX Server service which handles the sending and receiving of faxes via the fax hardware. 
+
+ΓÇóAn Email2Fax gateway service that retrieves the faxes to be sent via a sink or pop3 and sends inbound faxes and fax transmission reports via SMTP.
+ 
+ΓÇóA fax printer driver and a fax message form which allow users to send faxes via their e-mail client.
+ 
+The fax message form integrates with the email architecture, i.e. it does not have any direct links with the GFI FAXmaker Fax server software. This allows for better scalability and manageability. Other fax servers (including Microsoft fax) have proprietary communication links between the fax client and the fax server, which is much less scalable and results in more administration and troubleshooting.
+ 

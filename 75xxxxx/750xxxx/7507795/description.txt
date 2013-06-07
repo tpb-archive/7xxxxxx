@@ -1,0 +1,28 @@
+ANTI - AKA: Android Network Tool Kit. Anti can do a LOT! 
+
+[+] Scan - This will scan the selected target for open ports and vulnerabilities, also allowing the user to select a specific scanning script for a more advanced/targeted scan.
+
+[+] Spy - This will 'sniff' images transferred to/from the selected device and display them on your phone in a nice gallery layout. If you choose a network subnet/range as target, then all images transferred on that network - for all connected devices - will be shown. Another feature of the Spy plugin is to sniff URLs (web sites) and non-secured (ie, not HTTPS) username/passwords logins, shown on the bottom drawer.
+
+[+] D.O.S - This will cause a Denial Of Service (D.O.S) for the selected target, ie. it will deny them any further access to the internet until you exit the attack.
+
+[+] Replace images - This will replace all images transferred to/from the target with an Anti logo, thus preventing from attacked used seeing any images on their browsers while the browse the internet, except for a nice looking Anti logo...
+
+[+] M.I.T.M - The Man In The Middle attack (M.I.T.M) is an advanced attack used mainly in combination with other attack. It allows invoking specific filters to manipulate the network data. Users can also add their own mitm filters to create more mitm attacks.
+
+[+] Attack - This will initiate a vulnerability attack using our Cloud service against a specific target. Once executed successfully, it will allow the attack to control the device remotely from your phone.
+
+[+] Report - This will generate a vulnerability report with findings, recommendations and tips on how to fix found vulnerabilities or bad practices used.
+
+Anti supports & uses the followings OSS tools :
+nmap
+Ettercap
+driftnet
+THC-Hydra
+Metasploit
+We will be releasing patch sets for OSS shortly. This should assist developers to compile binaries used by Anti!
+
+MY REVIEW:
+
+Anti Can Steal SSL Encrypted logins (GMAIL ETC), Anti uses driftnet to spy on images a slave computer is viewing, Anti Can Brute Force passwords and even remote exploit a computer using metasploit! Anti also uses nmap to map targets and uses OS Detection! Not to mention anti has the ability to DOS a network. The only downside is that if you want to use a Metasploit hackable computer you need to buy credits however everything else works! 
+

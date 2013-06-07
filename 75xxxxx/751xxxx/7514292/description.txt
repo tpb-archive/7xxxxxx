@@ -1,0 +1,12 @@
+
+DaisyDisk allows you to visualize your disk usage and free up disk space by quickly finding and deleting big unused files.
+
+The program scans your disk and displays its content as a sector diagram where the biggest files and folders at once become obvious. To drill down to a folder, just click on a segment. To bubble up, click in the center. Move the mouse over the diagram and see the name and path of each file, and enclosed files (if any). Hit Space to quickly preview file content, without launching another application. In this way, walk around your disk and drag-and-drop all unneeded files into the "collector". Expand the collector to check its contents. When done, clean it up with a single click.
+
+What's New
+Version 2.1.2:
+
+* Added support of Gatekeeper in OS X 10.8 Mountain Lion
+
+REQUIREMENTS
+PPC / Intel, Mac OS X 10.5 or later.

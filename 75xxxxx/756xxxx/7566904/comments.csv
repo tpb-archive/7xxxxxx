@@ -1,0 +1,69 @@
+﻿User Type,Username,Date,Text
+,Crash2701,2012-08-25T15:00Z,"Sweet, thanx a lot amigo!"
+,thesaguaro,2012-08-26T16:34Z,"Thanks for the post. Where would I look to see whether I have a license file? Or, what would be the name of the file?
+
+Have a great weekend!"
+,Crash2701,2012-08-27T18:19Z,Arghhhh!!!!!  Same problem as before: They all land like 1 to 2 miles before the airport...
+,Romgun,2012-08-28T11:40Z,"THIS SMALL FIX FOR DINAMIC
+
+http://thepiratebay.se/torrent/7577484"
+,cjhffm,2012-08-29T13:53Z,"This AI add on pack is excellent, thank you!
+
+I have only a couple of comments/problems:
+
+- after installing, the traffic for Lufthansa Cityline is missing. I also noticed there is no schedule.
+
+- in the next update, maybe you could make the special livery aircraft (I.e. not the generic repaints) only show up about 10% or so of the time. At the moment, too many of the planes are special liveries. This is quite unrealistic.
+
+Otherwise, you did a great job. Thanks!"
+,Romgun,2012-08-31T12:23Z,"cjhffm,
+thank u for advice. I've added 'Lufthansa Regional' (Air Dolomiti, Augsburg Airways,Contact Air,Eurowings,Lufthansa CityLine).
+I also try to change max usage of some special livery (airfrance, alitalia,british airways, iberia, klm, lufthansa, transavia).
+
+Please see http://thepiratebay.se/torrent/7586498"
+,Romgun,2012-08-31T12:28Z,"cjhffm,
+thank u for advice. I've added 'Lufthansa Regional' (Air Dolomiti, Augsburg Airways,Contact Air,Eurowings,Lufthansa CityLine).
+I also try to change max usage of some special livery (airfrance, alitalia,british airways, iberia, klm, lufthansa, transavia).
+Actual version of update http://thepiratebay.se/torrent/7586498
+
+installation procedure:
+1) ATP F1UT-2  - in this torrent
+2) ATP UPDATE-08-2012  - in this torrent
+3) Voicepack Update-08-2012  -in this torrent
+4) Update-31_08_2012 --  http://thepiratebay.se/torrent/7586498"
+,Romgun,2012-09-01T09:22Z,"Some guys report about errors after update (duplicated titles of aircrafts).
+I think that the problem occurs because FSX was installed in the ""Program Files (x86)"". In a short time I will do a complete package and inform you!"
+,Romgun,2012-09-01T09:43Z,"If after installation of update you have an error (duplicated names of aircraft) try this:
+
+1) delete folder Microsoft Flight Simulator XSimObjectsUT2 Aircraft
+
+2) reinstall ATP F1UT-2.exe
+(choose the actual location of FSX!!)
+
+2) move the folder “UT2 Aircraft” to  disk D (for example)
+
+3) open FSX.CFG and  in the section [Main] replace:
+
+SimObjectPaths.*** = SimObjects  UT2 Aircraft 
+to
+ SimObjectPaths.*** = D:UT2 Aircraft (for example)
+
+4) install “ATP UPDATE-08-2012.exe”
+(choose the actual location of FSX!!)
+
+5) install “Voicepack Update-08-2012.exe” (optional)
+
+6) install “Update-31_08_2012.exe”
+(choose the actual location of FSX!!)
+
+7) move  folder “UT2 Aircraft”  back to  and restore FSX.CFG."
+,Romgun,2012-09-01T10:33Z,8) and install “Update-31_08_2012.exe” again
+,cjhffm,2012-09-02T14:06Z,"hi Romgun,
+
+This is working well, thank you! I haven't got an errors. It seemed to install correctly. 
+
+I noticed that you adjusted the frequency of special liveries!  That's perfect. 
+
+Well done!!  So far this is the best AI addon available
+
+cjhffm"

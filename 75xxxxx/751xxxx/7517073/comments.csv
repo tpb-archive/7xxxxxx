@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,Whobuysgames,2012-08-09T12:36Z,The installer is pretty odd. but works nonetheless
+,cturtle41,2012-08-10T03:15Z,"Not working for me. I get the message:
+
+""The procedure entry point SHGetKnownFolderPath could not be located in the dynamic link library SHELL32.dll""
+
+Any ideas?"
+,isilox,2012-08-10T09:23Z,It seems this problems occurs because of windows XP.
+,cturtle41,2012-08-10T13:33Z,So this can't be run in XP? That's a little strange.
+,asdfkjjj,2012-08-10T14:27Z,"Yep,  entry point error here. XPsp3. Shouldn't be any reason a game this small won't work in XP, bogus. Nuke."
+,Magic_friendly,2012-08-11T06:25Z,"Did you guys try running it with Windows XP Service Pack 2? Also, try running as an administrator. Only advice I can give. Both installers of Rigonauts and Hero Academy are weird, with a lot of ? marks but Rigonauts runs great. Thanks =)"
+,Chiitah,2012-08-11T12:58Z,"""Shouldn't be any reason a game this small won't work in XP""
+
+There shouldn't be any reason that you're trying to run a brand new game on an 11 year old outdated OS either.  Game size isn't the issue."
+,cturtle41,2012-08-11T18:04Z,"Give me a break, Chiitah. More people are still using XP than any other OS on the planet."
+,IzayaOrihara,2012-08-12T01:16Z,"@cturtle 
+
+Actually no. Some websites that collect data are beginning to show that there are equally as many, and sometimes more Windows 7 users than XP users. They are toe to toe now."
+,IzayaOrihara,2012-08-12T01:18Z,"Also as more fun facts: 
+-More people use Linux or Macs than Vista
+-More people are beginning to use Chrome than Firefox, but it's still extremely close"
+,cturtle41,2012-08-12T02:20Z,"Oh, excuse me, you're right. XP is currently only the 2nd most popular OS in the world. I guess that's why it won't run this game. :p
+
+Either way, my point was that there's no reason this shouldn't run in XP, and Chiitah is a moron."
+,IzayaOrihara,2012-08-12T03:10Z,"@Cturtle
+
+What problems are you having? 
+
+If it's the installer appearing as a ton of Question marks like someone above said, I've gotten games like that before with those installers off of torrents. They still work, you just have to navigate through them in the right order. It's supposed to be some foreign language or something with missing codecs for any English version of an OS."
+,IzayaOrihara,2012-08-12T03:11Z,"Codecs/Language packs. 
+Unsure how to word that."
+,Shieldz,2012-08-17T22:02Z,"I'm getting this error ""Bad File at /root/data/swfTempls/objects.xml, 0 1 1:os path C:ProgramFiles(x86)Games/data/swfTempls/objexts.xml"" I tried re-installing and re-booting but nothing works. I'm running W7. Any help?"
+,toonek,2012-08-23T14:17Z,Could somebody upload newer version ? An update on steam allow play on Win XP.

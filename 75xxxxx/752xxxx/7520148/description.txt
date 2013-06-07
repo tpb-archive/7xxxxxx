@@ -1,0 +1,16 @@
+Appriority is an easy-to-use tool for Mac OS X that simply makes the app you're working in go faster by allowing you to optimize the CPU load on your computer. Once fully configured, Appriority works by suspending and resuming applications as you switch among them. Inactive applications can be set for suspension which will eliminate their CPU usage until you switch back to them. The benefits of this are improved performance in the application you currently have active, less battery power used while mobile, and less heat produced by your computer.
+
+The Free Market edition of Appriority also uses the renice command to put the highest priority on the active application you are currently working in. Open applications that are inactive will automatically be reniced to a lower priority. Renicing is done automatically as you switch among your open applications. (This feature is not available in the Mac App Store edition).
+
+Appriority tells you what applications are using the most cpu resources and makes it easy to bring their usage to a halt. It reports your average CPU load and more.
+
+Appriority is designed to be easy to use and makes no permanent changes to your system. Simply launch it to turn it on, and quit it to return all of your applications to normal. 
+
+What's New
+Version 1.1.6:
+
+Codesigned for Gatekeeper
+Improves auto configuration for new users.
+Fixes reported issues with Tiger systems.
+This release makes minor optimizations and improvements.
+Requirements: Universal Binary requires OS X 10.4 - 10.7.2

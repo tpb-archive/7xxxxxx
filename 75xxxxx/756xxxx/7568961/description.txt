@@ -1,0 +1,29 @@
+                                  By bobiras2009				
+
+Requirements: Android OS 1.5+
+Overview: Complete battery monitoring with notification icon, history, graphics and alarms
+
+
+
+
+The most complete tool to manage your battery: Shows historical data (%, mA, mW, mV and temperature), calculates estimated run-times and battery aging, helps calibrate battery and improve your battery run-time.
+
+NB:
+- NOT all phones report accurate mA - Check app web-site for more information
+- The app displays the % remaining, voltage and temperature data reported by Android
+
+What's in this version:
+PRO only: Add BLUETOOTH permission to cope with ICS bug reading battery stats on some devices. App DOES NOT actually use BLUETOOTH at all!
+2.6.1:
+New scale themes: white, yellow, orange and automatic
+Workaround for on Android 2.3.x to ensure app refreshes
+Fix repeating full charge alarms on HTC devices
+Support for HTC One V and Galaxy Tab 2
+2.6:
+Added support for TF700 dock-less model
+(use Transformer Battery Monitor for dock model)
+Added SD read permission for Jelly Bean Android 4.1
+
+
+
+                                  By bobiras2009				

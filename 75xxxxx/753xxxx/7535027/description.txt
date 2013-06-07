@@ -1,0 +1,28 @@
+This series of tutorials guides you through the steps required to create an ASP.NET Web Forms application using Visual Studio 11 Express Beta for Web and ASP.NET 4.5 Beta.
+
+The application you'll create is named the Wingtip Toys. It's a simplified example of a store front web site that sells items online. This tutorial series highlights several of the new features available in ASP.NET 4.5 Beta.
+
+Audience
+The intended audience of this tutorial series is experienced developers who are new to ASP.NET Web Forms. A developer interested in this tutorial series should have the following skills:
+Familiar with an object oriented programming language
+Familiar with Web development concepts (HTML, CSS, JavaScript)
+Familiar with relational database concepts
+Familiar with n-tier architecture concepts
+
+Application Features
+The ASP.NET Web Form features presented in this series include:
+The Web Application Project (not Web Site Project)
+Web Forms
+Master Pages, Configuration
+Entity Framework Code First, LocalDB
+Request Validation
+Strongly Typed Data Controls, Model Binding, Data Annotations, and Value Providers
+
+Application Scenarios and Tasks
+Tasks demonstrated in this first series include:
+Creating, reviewing and running the new project
+Creating the database structure
+Initializing and seeding the database
+Customizing the UI using styles, graphics and a master page
+Adding pages and navigation
+Displaying menu details and product data

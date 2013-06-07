@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,Crash2701,2012-08-31T12:41Z,"Boy, you are one busy beaver! 
+Thanx so much!"
+,grandfred29,2012-09-01T03:55Z,"Hi Romgun,
+
+Why in the pdf file it's not possible to watch the video after download it? 
+
+Thanks"
+,cjhffm,2012-09-01T09:37Z,"Hey Romgun, you're a star! Thanks for reacting to my comment!  This is absolutely brilliant.
+
+Many thanks!"
+,Romgun,2012-09-01T09:48Z,"Some guys report about errors after update (duplicated titles of aircrafts).
+I think that the problem occurs because FSX was installed in the ""Program Files (x86)"". 
+
+Try this:
+(simbol ""*"" is a back slash)
+
+1) delete folder Microsoft Flight Simulator X*SimObjects*UT2 Aircraft
+2) reinstall ATP F1UT-2.exe
+2) move the folder “UT2 Aircraft” to disk D (for example)
+3) open FSX.CFG and  in the section [Main] replace:
+
+SimObjectPaths.*** = SimObjects*UT2 Aircraft 
+to
+SimObjectPaths.*** = D:*UT2 Aircraft (for example)
+
+4) install “ATP UPDATE-08-2012.exe”
+5) install “Voicepack Update-08-2012.exe” (optional)
+6) install “Update-31_08_2012.exe”
+7) move  folder “UT2 Aircraft”  back to  and restore FSX.CFG."
+,Romgun,2012-09-01T10:37Z, 8) and install “Update-31_08_2012.exe” again 
+,yuca,2012-09-05T15:53Z,"How come my ATC goes back to normal speaking speed after this update? I had accelerated the speed in which ATC communicates and after this update it is gone. Running EditVoicePack gives and error locating USEnglishBig.evpORG. I locate this file on the ATC_before_082012 folder and move it to the new created ATC folder and run EVP an nothing happens. It does not even give the option to accelerate the ATC. Any help?
+
+Thanks for all the hard work. :)"

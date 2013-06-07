@@ -1,0 +1,15 @@
+This torrent contains the complete Guild Wars soundtrack excepting the Halloween theme, in mp3 format, 320Kb/s. 
+
+
+It's also ready to use with the game, replacing all wma files with the mp3, and allowing users who purchased the soundtrack to use it with their game even if DirectSong no longer supports the licenses in their wma files.
+
+Just save the entire folder into a desired location (e.g.: C:Users[Username]MusicDirectSong) without altering the directory structure, and run the RegisterDirectSongDirectory.exe file.
+If you didn't alter the folder structure and didn't replace, alter or remove the GuildWars.ds file or removed the ds_GuildWars.dll file, Guild Wars will recognize the mp3s as additional music from music packs.
+You can quickly try if it worked in the loading screen by pressing F11 and checking the Sound tab in the Options panel.
+
+
+If you already have Guild Wars DirectSong files, you will have to replace your GuildWars.ds file with this one if you want to play the mp3 files instead the wma. If you want to keep a customized GuildWars.ds, just  open it with a text editor and do a "Replace All" search, replacing ".wma" with ".mp3".
+If you have no other DirectSong files other than Guild Wars' you can safely rename or remove the already existing DirectSong directory and replace it with this one.
+
+
+You can also use the included Guild Wars Directsong Playlist Editor to edit the GuildWars.ds file, customizing its playlists, and even adding your own music.

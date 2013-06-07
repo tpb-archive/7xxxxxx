@@ -1,0 +1,38 @@
+                             By bobiras2009	
+		
+
+If you appreciate my work you can leave a commnent and seed this for as long you can to help me upload more.
+
+
+Requirements: Android version 2.1 and higher
+Overview: Mobile ODIN - Full firmware flashing straight from the device itself!
+
+
+Mobile ODIN is the on-device firmware flasher of choice. Just throw those firmware files on your (internal or external) SD card, start Mobile ODIN and flash away.
+
+!!! Your device must be rooted to be able to use Mobile ODIN. Check the list below to see if your device is supported !!!
+
+If you use the EverRoot option, Mobile ODIN will root the firmware while you flash it. Checking out that new leaked firmware? No reason to lose root!
+
+
+Flashing with Mobile ODIN is easy. You start off by starting the app. The app will check your system has everything the app needs to continue (like root). It may need to download an additional package, so it is advised you have Wi-Fi available.
+
+Now you should see the main Mobile ODIN screen. It will list a set of partitions. Clicking a partition will allow you to select a file from your SD card to flash to that partition. Do not worry about selecting the wrong file - Mobile ODIN will not let you. Separate files (named after the partition) as well as .tar and .tar.md5 files are supported.
+
+From the desktop ODIN you may be used to "PDA", "PHONE", and "CSC" buttons. All three of these buttons have been replaced by the "Open file ..." button. This button will open the file you select from the SD card, and find all the partitions it can flash inside that file. So if you select a .tar file containing kernel and modem, the Kernel and Modem partitions will be set up to use that .tar file for flashing.
+
+Now that we have selected what we want to flash, if you have the Pro version you can proceed to the EverRoot section. The EverRoot options allows you to root your firmware while it is being flashed. Never again will you be without root! Select here which apps you want to inject in the firmware that is being flashed.
+
+Now that we are all done selecting partitions and configuring EverRoot, we continue to "Flash firmware". Mobile ODIN will gather all the information it needs and perform the flash. Before starting, however, it will check that your battery level is over 50%, and if applicable offer to verify MD5 checksums on the files you have selected to flash. If all is well, it will reboot into recovery mode, and flash the firmware you have selected.
+
+What's in this version:
+- Updated: SuperSU v0.96
+- Fixed: Jelly Bean Mobile ODIN injection with multiple versions installed
+- Added: SuperSU Pro is now also injected if installed
+- Added: (experimental, selective, partial) Update ZIP and OTA flashing (Pro version only) to most devices. Might sound like a minor change, but this is the single largest code update yet!
+- Added: Option to extract ZIP files containing partitions
+- Added: Support for:
+--- Samsung Galaxy Tab 7.0 Plus GT-P6200L
+
+
+                             By bobiras2009	

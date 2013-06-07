@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,extracube,2012-08-19T14:40Z,"I have 2.2.37, I wonder what the benefits are to upgrade to 2.2.38.
+
+By the way I get really slow performance with ToR in general.  A 20mb gmail upload attachment that takes ~3 mins regular takes a little over 20 minutes through TOR.  Browsing about the same."
+,CCnOSnBT,2012-08-19T15:04Z,"Bundle Changelog:
+* Update Tor to 0.2.2.38
+* Update NoScript to 2.5
+* Update HTTPS Everywhere to 2.1
+
+Tor 0.2.2.38 fixes a rare race condition that can crash exit relays; fixes a remotely triggerable crash bug; and fixes a timing attack that could in theory leak path information.
+
+Why is Tor so slow?: 
+https://tor.eff.org/docs/faq.html.en#WhySlow"

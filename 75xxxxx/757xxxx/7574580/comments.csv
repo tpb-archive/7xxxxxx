@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,cbtlover,2012-08-27T16:50Z,this doesnt work on my Samsung Galaxy S2 ICS. it says your trial on this device has expired. Even though I have removed the earlier installation and its data from the device. Is there any way I can get it working. Thx
+[T],bobiras22,2012-08-27T17:02Z,"@cbtlover
+
+Maybe some old keys from the other version is expired and the new one cant overwrite them.You must delete the app completely also the folder for the app in you internal sd.Also i must mention this:
+
+Due to the way Android implements input methods, if you would like to use LastPass for Android's input method to fill into apps, you must not move the app to the SD card. It will be disabled upon each reboot if you do so.
+
+So you must not move it in external sd"
+,Xero14,2012-08-27T17:09Z,I'll let you know if this works when I get off work tonight.

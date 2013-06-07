@@ -1,0 +1,50 @@
+General
+Complete name                            : Sherlock.Holmes.(2009).DVDRip.x264.Eng.AAC.5.1.AMX.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom
+File size                                : 1.30 GiB
+Duration                                 : 2h 3mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 507 Kbps
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 8 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 2h 3mn
+Bit rate                                 : 1 173 Kbps
+Maximum bit rate                         : 7 431 Kbps
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.163
+Stream size                              : 1.01 GiB (78%)
+Writing library                          : x264 core 125 r2200 999b753
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 2h 3mn
+Bit rate mode                            : Variable
+Bit rate                                 : 330 Kbps
+Maximum bit rate                         : 393 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 291 MiB (22%)

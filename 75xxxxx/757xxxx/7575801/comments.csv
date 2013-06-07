@@ -1,0 +1,39 @@
+﻿User Type,Username,Date,Text
+,aniket.,2012-08-28T00:42Z,Bobiras Thank you for uploading but still invalid license on my sgs2 plz tell me something. 
+,makasif,2012-08-28T08:45Z,hey bobiras after installing the apk when i m starting the game it says that this game is not compatible with this device .... i m using SE xperia neo v ......so pls help me what to do.
+[T],bobiras22,2012-08-28T15:12Z,"@aniket.
+
+Hey mate.Do this:
+
+do a clean installation
+wipe data, uninstall then install the apk
+turn on wifi or 3G to verify the license
+then launch the game
+
+I will upload the Checking Compatibility OFF in a minute for the Gangstar rio so it wont check the license.
+
+@makasif
+
+You must edit the build.prop in system folder and change the name of your device to for example HTC Desire HD for playing most gameloft games.This is the olny way to play these games."
+,makasif,2012-08-28T16:38Z,hey bobiras can u tell me the steps how to change the build.prop
+,namos,2012-08-28T16:45Z,"No need for all that people, works fine on Samsung galaxy note, just downloaded 840mb of game data. "
+[T],bobiras22,2012-08-28T17:36Z,"@makasif
+
+Check here mate:
+
+http://forum.xda-developers.com/showthread.php?t=1556612
+
+you must edit the lines:
+
+ro.product.device - Change the device name
+ro.product.model - change the model number
+
+to ro.product.device HTC
+ro.product.model Desire HD
+
+It requires root but with this you can play any gameloft game.
+
+@namos
+
+In most devices it is ok with the license and it plays fine.There are some also that need the remove license apk for the gangstar rio"
+,dighode,2012-09-11T17:23Z,will this game work for samsung galaxy s2(non rooted) and can you please upload the sd data

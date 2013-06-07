@@ -1,0 +1,82 @@
+This is a scene group packed release.
+If you do not want to extract it ?
+Then find another torrent ;)
+
+
+UltraEdit v18.20.0.1014
+(c) IDM Computer Solutions, Inc.
+
+Release Date : 2012-08-30
+Disks        : 07 x 5,00 MB
+Protection   : bypassed
+Requirements : PC
+Language     : English
+URL          : http://www.ultraedit.com/
+
+
+        UltraEdit is more than a text editor. While perfection in text
+        editing is our goal, UltraEdit comes standard with an impressive
+        feature set including a powerful search and replace engine,
+        search/replace in files, syntax highlighting, code folding,
+        Unicode support, a configurable spell checker for many
+        languages, FTP/SFTP browser, SSH/Telnet console, workspace
+        organization window, integrated scripting (based on javascript),
+        a powerful macro engine, HTML building tools, column/block mode
+        editing, templates, and so much more.
+        
+        UltraEdit is the optimal solution for quick editing on the fly,
+        or multiple large resource files at once. And with our
+        world-renowned support staff on hand to quickly answer your
+        support requests, you're sure to find a fast and easy solution
+        for every task.
+
+
+        Unzip, unrar and install the application.
+        
+        Add the line
+        127.0.0.1	licensing.ultraedit.com
+        to your %WINDOWS%system32driversetchosts file
+        
+        Enter any data for license-id and password (license-id must be a
+        number)
+        
+        Choose Offline activation and generate corresponding activation
+        codes for your user codes
+        
+        Enjoy.
+
+
+// History
+
+v18.20.0
+  - Smart Template improvements:
+    * Project-based templates
+    * Insert templates by name via macros/scripting (refer to Help
+      documentation for syntax)
+    * Drag-and-drop text to template list to create new templates
+    * Modify template name directly in template list
+    * Open template file directly in editor (right-click template group in
+      template list)
+    * Description field for templates (displayed in tooltip in template list)
+  - Line Change Indicator improvements:
+    * Jump to next or previous change in active file
+    * Ability to configure LCI width
+    * All reported LCI issues fixed
+  - Option to delete unencrypted backup file(s) when encrypting files
+  - Improved configuration options for File Associations
+  - Several improvements for running macros on large amounts of data
+  - Addressed issues with Backup/Restore User Customizations
+  - Addressed issues with Delete All Hidden Lines
+  - Several other enhancements and improvements
+
+
+more..
+
+[HKEY_CURRENT_USER - Software - IDM Computer Solutions - uedit32 - Locks]
+"Updates"=dword:00000001
+
+note -> 'replace dashes with back slashes'
+
+Add above to registry to block being able to update (option greyed out)
+
+Tested the release / keygen and it works just make sure you patch your hosts file first before trying to activate (it will block it from going online)

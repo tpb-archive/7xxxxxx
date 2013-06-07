@@ -1,0 +1,16 @@
+The Art of SQL 
+
+Publisher: O'Reilly 
+Pub Date: March 2006 
+Print ISBN-10: 0-596-00894-5 
+Print ISBN-13: 978-0-59-600894-9 
+Pages: 367 
+Format: CHM
+
+For all the buzz about trendy IT techniques, data processing is still at the core of our systems, especially now that enterprises all over the world are confronted with exploding volumes of data. Database performance has become a major headache, and most IT departments believe that developers should provide simple SQL code to solve immediate problems and let DBAs tune any "bad SQL" later.
+
+In The Art of SQL, author and SQL expert Stephane Faroult argues that this "safe approach" only leads to disaster. His insightful book, named after Art of War by Sun Tzu, contends that writing quick inefficient code is sweeping the dirt under the rug. SQL code may run for 5 to 10 years, surviving several major releases of the database management system and on several generations of hardware. The code must be fast and sound from the start, and that requires a firm understanding of SQL and relational theory.
+
+The Art of SQL offers best practices that teach experienced SQL users to focus on strategy rather than specifics. Faroult's approach takes a page from Sun Tzu's classic treatise by viewing database design as a military campaign. You need knowledge, skills, and talent. Talent can't be taught, but every strategist from Sun Tzu to modern-day generals believed that it can be nurtured through the experience of others. They passed on their experience acquired in the field through basic principles that served as guiding stars amid the sound and fury of battle. This is what Faroult does with SQL.
+
+Like a successful battle plan, good architectural choices are based on contingencies. What if the volume of this or that table increases unexpectedly? What if, following a merger, the number of users doubles? What if you want to keep several years of data online? Faroult's way of looking at SQL performance may be unconventional and unique, but he's deadly serious about writing good SQL and using SQL well. The Art of SQL is not a cookbook, listing problems and giving recipes. The aim is to get you-and your manager-to raise good questions.

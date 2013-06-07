@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,murphy78,2012-08-31T08:22Z,This is x86 32bit version of Windows 7 ultimate sp1
+,anarchist9027,2012-08-31T18:11Z,"""Do NOT download KB971033 - This is the anti-piracy crawler that searches your system.  If you accidently download this, refer to the web on how to fix it.  I have never downloaded it.""
+
+If you use Daz's Windows Loader, you do not have to worry about installing this KB or not because Windows Loader is unaffected "
+,murphy78,2012-09-01T00:15Z,"OK so this was upped on 8-30-12 not 9-30-12, It's August :P My bad.  Anyhow I tested this pretty extensively over the last few days and I'm using it as my OS myself, so all should be well."
+,murphy78,2012-09-05T12:25Z,"Newer version is at 
+http://thepiratebay.se/torrent/7595193/Windows_7_Ultimate_sp1_x86_IE9_.Net_4.5_Sep3_2012
+
+Uses dism instead of winnt6x integration and has kb2533552 installed via wusa.exe at setupcomplete stage.  It is not a drastic end result difference, but if you are a stickler for using microsoft integration methods, the new one might be your cup of tea."
+,murphy78,2012-09-12T05:44Z,"There are a few updates available that just got hotfixed on sep11, but I will not make a new version of this until the Tuesday patch day in October."

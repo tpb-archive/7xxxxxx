@@ -1,0 +1,52 @@
+Example
+=========
+ep 201
+Format                           : Matroska
+File size                        : 685 MiB
+Duration                         : 22mn 46s
+Overall bit rate                 : 4 204 Kbps
+Encoded date                     : UTC 2012-07-31 19:57:42
+Writing application              : mkvmerge v4.0.0 ('The Stars were mine') built on Jun  6 2010 16:18:42
+Writing library                  : libebml v1.0.0 + libmatroska v1.0.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : No
+Format settings, ReFrames        : 2 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 22mn 46s
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Language                         : English
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 22mn 46s
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Language                         : English
+
+Example Screenshots
+=================
+
+[URL=http://img23.imageshack.us/i/scoobydoomysteryincorpoq.jpg/][IMG]http://img23.imageshack.us/img23/9541/scoobydoomysteryincorpoq.jpg[/IMG][/URL]
+
+[URL=http://img256.imageshack.us/i/scoobydoomysteryincorpo.jpg/][IMG]http://img256.imageshack.us/img256/9849/scoobydoomysteryincorpo.jpg[/IMG][/URL]

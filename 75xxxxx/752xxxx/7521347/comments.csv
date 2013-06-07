@@ -1,0 +1,93 @@
+﻿User Type,Username,Date,Text
+,hsarci1,2012-08-10T23:59Z,thanks bro
+,Code2Free,2012-08-11T03:12Z,"you are king 
+thank you my bro"
+,harshads,2012-08-11T16:38Z,does this need root ???
+[T],bobiras2009,2012-08-11T16:44Z,"@harshads
+
+No it will work fine without root."
+,sen3ca,2012-08-12T00:02Z,for some reason I can't get this to work on the Nexus 7.  Anyone able to troubleshoot with me?
+[T],bobiras2009,2012-08-12T04:54Z,"@sen3ca
+
+State your exactly problem i will try to help you."
+,vicky103,2012-08-12T06:55Z,Thanks
+,cop3rth,2012-08-12T07:26Z,"good day :)
+i did try installing the apk and copy the extracted data to /sdcard/android/data
+but when i open the game, its still trying to download 800+ MB data 
+did i do something wrong or?
+some pointers would help :)
+thank u"
+,vicky103,2012-08-12T08:41Z,"when i try to install apk file , it shows ""There is a problem parsing the package"""
+,vicky103,2012-08-12T08:57Z,@cop3rth   Just rename the sd data folder to 'com.ea.game.realracing2_row' and it will work :)
+,vicky103,2012-08-12T09:15Z,"working great on my S2 , thanks"
+[T],bobiras2009,2012-08-12T09:20Z,"@cop3rth
+
+Good day.Did what vicky103 said and you will be fine.If it will ask again to download the data open wifi and download them it takes only some minutes with a high speed connection.
+
+@vicky103
+
+Look here:
+
+http://forum.xda-developers.com/showthread.php?t=1652758
+
+Maybe the apk version isnt compatible with your device."
+[T],bobiras2009,2012-08-12T09:21Z,"@vicky103
+
+You said it says the parsing errors before.Its in other phone or you do something else to overpass this problem?"
+,vicky103,2012-08-12T09:32Z,@bobiras22  I downloaded another apk torrent  and it worked
+[T],bobiras2009,2012-08-12T09:45Z,"@vicky103
+
+So maybe this apk is not for your device chipset because in others galaxy s2 it worked fine.The data is the same of all devices.Happy gaming."
+,sen3ca,2012-08-12T17:47Z,"@bobiras22
+
+I've double checked the data is placed /Android/Data/ and the name of the folder is correct, but whenever I boot it requests to download the data again.
+
+Due to a bug with the Nexus 7, even if I am to download the data again, it'll hang at 42%.
+
+The APK installs fine, but it isn't recognizing I have the data installed."
+[T],bobiras2009,2012-08-12T18:10Z,"@sen3ca
+
+Make the data folder name (com.ea.game.realracing2_row) and run the game again."
+,sen3ca,2012-08-12T18:26Z,"I renamed it that without the brackets... same results.
+
+Are you on IRC?"
+[T],bobiras2009,2012-08-12T18:40Z,"@sen3ca
+
+Wait you extract the rar file that i have in the torrent?"
+,sen3ca,2012-08-12T19:07Z,"Yes, I extract your .rar and get com.ea.game.realracing2_OTD_row
+
+I then dragged this folder on sdcard/Android/Data
+and renamed it to com.ea.game.realracing2_row
+
+Unfortunately I'm still prompt to download via wifi.
+
+Am I supposed to edit the real racing folder in data/data?
+
+Thanks for the help."
+,sen3ca,2012-08-12T19:13Z,weird my comment disappeared..
+[T],bobiras2009,2012-08-12T19:35Z,"@sen3ca
+
+In some devices the real racing need to download some extra data.In a high speed connection it will make only some minutes.Download the extra data and enjoy the game."
+,emazek,2012-08-20T00:35Z,"HI guys. First of all tnx bobiras2009 for your help and game. 
+I tryed all real racing 2 versions i have samsung galaxy note and on one didn't work. 
+But this one i managed to work following the instructions. Only once i was able to play it was smoth without problems i have ics 4.0.3
+but next time i wanted to go in the game. Game crashed at checking licence. So my question is can u help me with this? I tryed allot of thing but nothing didn't help.
+Sry for my english. tnx "
+[T],bobiras2009,2012-08-24T23:04Z,"@emazek
+
+Can you try to unistall and install again?Try to open it without wifi."
+,nitz.tbk,2012-08-25T16:33Z,"Hi bobiras22.. Firstly Thanks fer d wonderful uploads.. Keep up the wonderful work..
+
+I had the same problem as vicky103.. The apk file has a parsing error... So 
+1. I downloaded another APK (which installed correctly), 
+2. renamed and copied the SD data..
+
+The game works fine but there is a huge problem.. Everything apart from the menu is very dark.. I can just see the outline of the cars.... Audio is fine too.. but it is impossible to play... 
+
+Really appricate any help... I tried in game settings  but no use...
+"
+,ej123a,2012-09-01T19:09Z,is this a demo?
+,ej123a,2012-09-05T02:57Z,"after i rename the files and install it it need 400+mb to download then after i finish it it won't work.
+then i try another apk then it work but its only a demo version.
+
+it this a full version of real racing?"

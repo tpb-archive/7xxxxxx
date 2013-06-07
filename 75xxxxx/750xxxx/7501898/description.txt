@@ -1,0 +1,6 @@
+This is a fix for patch 1.01 BLES01287, controllers working 100% (tested)
+
+Apply first the official 1.01 patch
+
+then copy EBOOT.BIN and PARAM.SFO not to GAMES or GAMEZ 
+but to dev_hdd0gameBLES01287 and overwrite old ones

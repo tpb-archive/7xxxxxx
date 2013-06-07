@@ -1,0 +1,91 @@
+﻿User Type,Username,Date,Text
+,anonimul,2012-08-06T21:41Z,Is this the real deal? Did anyone test this version?
+[H],Chris-Aksel,2012-08-06T21:54Z,"this is real , if it wasn't then it would not be here."
+,shitdog1234,2012-08-06T21:57Z,"Hi Chris-Aksel , thank you for this great upload , have a nice summer up there in Finland , I download here now , but itÂ´s goes a little slow.
+Greetings from Denmark ."
+,Anunn4ki,2012-08-06T22:25Z,The same keys work or have to wait out the crack?
+[H],Chris-Aksel,2012-08-06T22:45Z,keys work only for install but you can't activate with these.
+,topjimmy68,2012-08-06T23:24Z,"Found this in the comments of http://thepiratebay.se/torrent/7500071/WINDOWS_8_ENTERPRISE-N_RTM_X64_VOLUME_ENGLISH_BOOT_DVD_%5BThumperD
+
+Open command promt as admin
+If you are using Pro, type these lines ONE BY ONE!
+slmgr -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms-c.no-ip.org:1688
+slmgr.vbs -ato
+
+If you are using Enterprise:
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms kms-c.no-ip.org:1688
+slmgr /ato
+slmgr /dli
+
+For me, activation details shows ""Your license to use Windows expires on 2/2/2013""
+Plenty of time for now, if this holds up."
+,jmcc84,2012-08-07T00:14Z,can anyone confirm that the way the topjimmy68 posted works for activation?
+,Ciurlo76,2012-08-07T01:03Z,"topjimmy68  posted works for activation; but  activation details shows ""Your license to use Windows expires on 2/2/2013""
+tested on enterprise 64 bit"
+,Ciurlo76,2012-08-07T01:04Z,I confirm that   topjimmy68 posted works !!!
+,i_have_returned,2012-08-07T02:41Z,Thanks muchly topjimmy68 cause it definitely worked for me on Enterprise 64 bit :)
+,madeinmexico,2012-08-07T02:55Z,It does really work that Comand prompt activation method! Im pretty sure it will only temporarily. Other thing: ANYONE KNOWS ANYTHING ABOUT ENABLING APP SNAP fpr those who we dont have a 13666 Pix resolution! I heard it was possible!! help! cheers averyone!
+,madeinmexico,2012-08-07T02:55Z,i meant 1366x screen resol! cheers!
+,dvxini,2012-08-07T08:33Z,"i am getting error to use that activate method i m using it offline, however i was online when i insalled the windows that could be the problem??"
+,topjimmy68,2012-08-07T16:49Z,Unfortunately the KMS server in Russia looks to have been taken offline http://forums.mydigitallife.info/threads/35379-What-are-the-options-to-activate-Windows-8-RTM-if-any/page101
+,anonimul,2012-08-07T17:45Z,"If you are looking for a detailed step by step installation guide, you can find one here: http://www.7tutorials.com/how-make-clean-installation-windows-8"
+,anonimul,2012-08-07T17:52Z,You can find a good install guide here: http://www.7tutorials.com/how-make-clean-installation-windows-8
+,anonimul,2012-08-07T17:57Z,"If you are looking for a good installation guide, you can find one here: http://www.7tutorials.com/how-make-clean-installation-windows-8"
+,mswing777,2012-08-08T01:41Z,"The original KMS server was taken offline, but lucky, a new KMS server is online. I think this server is temporary as well, but here's the new activation method:
+
+Run cmd.exe as Administrator
+Enter these commands one by one:
+
+For Win 8 Professional:
+
+slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+
+slmgr /skms 91.149.135.121
+
+slmgr.vbs -ato
+
+
+For Win 8 Enterprise:
+
+slmgr /skms 91.149.135.121
+
+slmgr.vbs -ato
+
+
+Windows 8 Pro w/ WMC is still not supported so don't try, unless you want to reinstall Windows.
+
+Source: http://forums.mydigitallife.info/threads/35640-Windows-8-KMS-Activation"
+,FulcrumX,2012-08-08T05:04Z,[img]http://img16.imageshack.us/img16/3826/capturehqo.png[/img]
+,FulcrumX,2012-08-08T05:04Z,http://img16.imageshack.us/img16/3826/capturehqo.png
+,gocazd,2012-08-08T05:12Z,"What's different in this version than the Enterprise N, that leaked several days ago?"
+,seSAMPAH,2012-08-08T06:08Z,can we make this boot from hard drive/ flash drive using the way same as windows 7?
+,oatgarum,2012-08-09T05:46Z,hello chris is this different in enterprise ? and it has Windows Media Player ? coz enterprise no wmp thnx.
+,bha1982,2012-08-11T04:53Z,THE KEYS DOESN'T WORK! COULD ANYONE HELP PLZ?
+,sharic19,2012-08-16T07:44Z,This KMS server is working till now 91.149.155.116. But I still get an error in the activation. http://img442.imageshack.us/img442/7420/capturenb.png
+,FulcrumX,2012-08-18T04:19Z,"I successfully activated my W8 Enterprise by using the ff method:
+
+Volume MAK Key for Enterprise VL
+ PF9TR-KNB98-T7JPF-TWF8W-F3G7C 
+
+ How to activate your Windows 8 Pro/Enterprise:
+
+ 1. Run cmd as admin. Enter slmgr /ipk PF9TR-KNB98-T7JPF-TWF8W-F3G7C (Only for Enterprise and Pro)
+ 2. Turn off your internet connection
+ 3. Open activation window and click ""Activate"". It'll show your an error.
+ 4. After that you'll see ""Activate by phone"" button.
+ 5.  i chose united kingdom for the country, Call microsoft and enter code from message, which you will see.
+ 6. you should choose for business, If they ask about number of computer, where you will use this key, say 1
+
+this should work and your w8 should be activated for good. goodluck!"
+,salim_2294,2012-08-23T18:17Z,Can Please anyone tell me how to activate my windows 8......I m running windows 8 pro with WMC.............. it wud be of gr8 help............ thanx.. it is X86
+,lif3isfr33,2012-09-16T03:01Z,Too much fucking hussle for this crappy win 8. Was easier to do when win 7 came out.. im stayin at win7. but i wanted to try out win 8 (just for fun..) but not even that.. hopefully someday soon we get something as easy as daz win 8 activator..
+,kuklei,2012-09-16T20:34Z,Im waiting for DAZ WIN8 Activator too. but hey if anyone want to try out you dont need to wait since this should already have a trial period in it. Am I right?
+,ow42x1,2012-09-17T09:34Z,"STILL SELLING LEGIT RETAIL AND FULLY ACTIVATED KEYS FOR LIFE!!!
+
+So if you are still having trouble activating this copy of Windows or you just want a legit activation that won't get blacklisted I have plenty of keys left!
+
+$25 a piece.
+
+If you have any questions before or after ADD me on Skype: ow42x1"

@@ -1,0 +1,26 @@
+
+
+VLC (initially VideoLAN Client) Media Player is a highly portable multi-platform multimedia player for various audio and Video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, Ogg, OGM, MOV, wma, wmv...) as well as DVDs, VCDs, and various streaming protocols. The VideoLAN project targets multimedia streaming of MPEG-1, MPEG-2, MPEG-4 and DivX files, DVDs, digital satellite channels, digital terrestial television channels and live videos on a high-bandwidth IPv4 or IPv6 network in unicast or multicast under many OSes. VideoLAN also features a cross-platform multimedia player, VLC, which can be used to read the stream from the network or display video read locally on the computer under all GNU/Linux flavours, all BSD flavours, Windows, Mac OS X, BeOS, Solaris, QNX...
+
+Rewrite of the playlist (tree structure, input preparsing ...)
+Preferences improvements
+XML parsers
+Client-side SSL/TLS support
+Massive Matroska improvements
+Support for SOCKS proxy
+Support for Shoutcast Meta-data
+Support for (HE-)AAC raw-audio streams
+TiVo demuxer
+Samba (Windows shares) access module
+Dirac decoder and encoder
+PNG decoder/encoder
+Support for Apple Lossless Audio Codec
+Services discovery modules (brand new SAP module, HAL discovery, DAAP (iTunes shares), shoutcast)
+Support for 20/24 bits LPCM
+Video snapshot support (png or jpg)
+Image file video output (png)
+Mosaic (picture-in-picture system)
+Pocket PC port
+Brand new Internet Explorer ActiveX plugin
+
+Homepage: http://www.videolan.org/
