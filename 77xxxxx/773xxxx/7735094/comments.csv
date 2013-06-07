@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+[T],MP4SUX,2012-10-17T13:45Z,"Something really odd is going on. Tonight I've uploaded 4 torrents (in order):
+
+Hart.of.Dixie.S02E03.If It Makes You Happy.HDTV.XVID-AVIGUY.avi
+Criminal.Minds.S08E03.Through.the.Looking.Glass.XVID-AVIGUY.avi
+Covert.Affairs.S03E11.Rock 'n' Roll Suicide.HDTV.XVID.AVIGUY.avi
+The.Daily.Show.2012.10.16.Eugene.Jarecki.HDTV.XVID-AVIGUY.avi
+
+The first two are seeding just fine. But the last two are not and I don't know why.
+
+Everything is the same - settings, tracker list, all the same.
+
+People have slowly been dropping off as they don't get any data, but currently:
+
+connected(peers)
+20(74) Covert.Affairs.S03E11
+3(42) The.Daily.Show.2012.10.16
+
+It's not uTorrent (I use ancient 1.6.1) because I try seeding with recent VUZE
+And it doesn't work there either.
+
+If anyone has any ideas - I'd sure like to hear it - I'm completely stumped.
+All connected have ""X"" flag set (X: peer was included in peer lists obtained through Peer Exchange (PEX))
+Most have ""H"" flag set (H: peer was obtained through DHT)
+Most have ""E"" flag set (E: peer is using Protocol Encryption (all traffic))
+
+AVIGUY"
+[T],MP4SUX,2012-10-18T10:23Z,"My seeding days here are (temporarily?) halted.
+
+I seed, I get peers, but no data flows and I don't know why.
+
+This file posted to UseNet now.
+
+AVIGUY"

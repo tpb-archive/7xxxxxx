@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,moeburn1,2012-10-23T20:53Z,"Changelog?  
+
+also, what does ""download another pirated players can directly run MOHW.exe directly into the game"" mean?  Please use a better internet translator, or post in your original language and let us do the translating."
+,iammorbius,2012-10-26T08:12Z,"After the sniper mission, the game freezes up with an error. The error message say something about ""Origin"" having an error, it is not found and ""origin"" is required to play the game."
+,levin123,2012-11-04T11:58Z,"Those having difficulties to proceed to load the car mission(hot pursuit) kindly
+change the language from english to russian.
+After you beat the level,then change it back to english. It's working for me!
+
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_en_US.dll""
+
+""Locale""=""en_us""
+
+
+to
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+
+""Locale""=""ru_RU"""

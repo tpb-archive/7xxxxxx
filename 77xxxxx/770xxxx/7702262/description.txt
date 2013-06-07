@@ -1,0 +1,23 @@
+Fully compatible with PSP and Playstation Vita with 1.81 urbanix exploit at the time of this upload.
+
+Instructions for PSVITA:
+
+1. Install the Urbanix exploit as directed here and http://wololo.net/downloads/index.php/download/7672
+
+THE SAVE FOLDER IS NPUZ00177 for the US version of the game and NOT NPEZ00176
+
+2. Get FTP for VITA and install it with the instructions from the tutorial linked above http://wololo.net/downloads/index.php/download/7673
+
+3. Install FileZilla on your PC http://filezilla-project.org/
+
+4. Edit settings on FileZilla and change all values not grayed out in Transfers to 1
+
+5. Launch FTP4VITA on your Vita with WiFi enabled and FileZilla on your PC
+
+6. Connect FileZilla to the IP address displayed when you launch FTP4VITA
+
+7. Create a new folder in the "/"(root) directory of your Vita with FileZilla and name it ISO
+
+8. Drag and drop this and any other PSP games you want into /iso/ on your vita with FileZilla
+
+RIP in peace Sony.

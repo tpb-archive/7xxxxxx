@@ -1,0 +1,82 @@
+-------------------------------------------------------------------------------
+\//\//\//\//\/┬ª\//  / /+-++-++-+\//\//\//\//\//\//\//\//\//\
+//\//\//\//┬ª┬»┬ª┬ª┬»┬ª┬ª┬»┬ª/ /  -┬ª+-+┬ª ┬ª//\//\//\//\//\//\//\//\//\//
+                       ┬»┬»┬»
+Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+G:360 Gameslord of the rings battle for middle earth 2 NTSC-U.dvd needs to be
+created
+G:360 Gameslord of the rings battle for middle earth 2 NTSC-U.dvd was created
+
+Checking Game
+     ISO: "G:360 Gameslord of the rings battle for middle earth 2 NTSC-U.iso"
+     Size: 7834892288 bytes
+     Files in ISO: 748, Folders in ISO: 12
+     Total bytes used: 3715169730 (50.90%)
+Game appears to have random padding
+
+Checking default.xex
+     Original PE Filename:  default.pe
+     Original PE Timestamp: 2006/06/14 01:05:56
+     Min Kernel Required:   v2.0.2258.0
+     Game Name:             LOTR, BFME II
+     No Avatar Awards
+     Achievements:          35 Achievements totaling 705 Gamerscore
+     XEX CRC = 8F2721B5
+     XEX Media ID: 534AC9D14E5052371F32904E-15EBA2C6
+
+Region Code: 0x000000FF
+     NTSC/U
+
+Checking SS
+     Timestamp of Authoring: 2006/06/16 00:00:00
+     Timestamp of Mastering: 2006/06/22 05:35:21
+     SS Version: 1
+     SS CRC = BBB9DC39 (RawSS = 06AA0262)
+     SS Media ID: 534AC9D14E5052371F32904E-15EBA2C6 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2006/06/16 00:00:00 (matches SS)
+     DMI CRC = E7288D69
+     DMI Media ID: 534AC9D14E5052371F32904E-15EBA2C6 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = 739CEAB3
+PFI matches known data (1st Wave)
+
+Video partition found
+     Video CRC = 66D0CB54 (V0 = C506923B, V1 = 1F51DA34)
+Video partition matches known data (1st Wave)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for BBB9DC398F2721B5.ini in the online verified database
+Downloading BBB9DC398F2721B5.ini
+100% [================================>] 297
+     BBB9DC398F2721B5.ini was downloaded successfully
+
+     Using BBB9DC398F2721B5.ini (297 bytes)
+     Video CRC matches
+     V0    CRC matches
+     V1    CRC matches
+     PFI   CRC matches
+     DMI   CRC matches
+     SS    CRC matches
+     Xex   CRC matches
+
+Checking Game CRC... (press Q to cancel)
+ Percent  Elapsed  Estimated   Time     Average     Current     Errors    Total
+    Done     Time       Time   Left       Speed       Speed  Recovered  Retries
+    100%     4:32       4:32   0:00   25.6 MB/s   27.0 MB/s
+
+     AnyDVD style corruption was not detected
+     Game CRC = 1F8FAFE5 (matches)
+
+All CRCs match
+Verification was successful!
+
+Press any key to exit . . .

@@ -1,0 +1,17 @@
+MP3 Stream Editor is an MP3 cutter/splitter/joiner/editor, and multi channel audio file editor and music manager, an all in one tool for MP3s and audio files. Main advantage over other audio editors is that you edit (MPEG - MP3, MP2) files without decoding (without quality loss), graphicaly on a 3D sample display easely with a mouse. Multi channel AC3, AAC, MP4, Flac, Opus, etc. audio files are also supported for editing. Cut, copy, paste, paste mix, insert silence, change selection volume functions. You have the option to repair corrupted MP3 files, free encode, re-encode, convert to MP3/MP2/AAC/MP4/WMA/Flac/WAV, cut and join MP3s, tag MP3s and other audio files with a professional ID3v2 and APEv2 Tag editor, or even directly Record MP3/WAV/WMA/Flac streams (or use any command line encoder). Burn them as audio CD or MP3 CD/DVD compilations, etc. MP3 Stream Editor is also a fully featured audio file player, with playlist support, WinAmp DSP, VST DSP and visualisation plugin support (Sonique, WMP) and with full support for multi channel audio files with matrix mixing output. An all in one music manager and jukebox for audio related tasks.
+
+Support for the new Opus audio codec (opening, playing, encoding to and CD ripping to)
+All plugins support multiple instances
+Sample edit commands to apply MP3SE and VST DSP effect plugins
+Encoding to AAC/MP4
+Full support for RF64 WAV audio files
+Freely configureable matrix mixing with savable profiles
+VST DSP plugin support
+Detailed advanced search functionality
+Audio system rewritten for BASS 2.4 and implemented a main mixer channel
+Sample display switched to multi channel supported TGraphDisplay3D
+On program exit playlist status is saved and playback is resumed on program start
+Audio CD cover printing option
+Unicode support
+Improved secondary display full screen visualisation
+Updated Filesystem Dialogs (with unicode support)

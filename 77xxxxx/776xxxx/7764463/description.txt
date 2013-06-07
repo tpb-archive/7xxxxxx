@@ -1,0 +1,58 @@
+General
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 154 MiB
+Duration                                 : 3mn 33s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 069 Kbps
+Encoded date                             : UTC 2012-10-25 00:48:04
+Tagged date                              : UTC 2012-10-25 00:48:04
+gsst                                     : 0
+gstd                                     : 213390
+gssd                                     : BC5508007HH1351323613692927
+gshh                                     :
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 3mn 33s
+Bit rate                                 : 5 874 Kbps
+Maximum bit rate                         : 12.5 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.118
+Stream size                              : 149 MiB (97%)
+Tagged date                              : UTC 2012-10-25 00:48:05
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 3mn 33s
+Bit rate mode                            : Variable
+Bit rate                                 : 192 Kbps
+Maximum bit rate                         : 202 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 4.88 MiB (3%)
+Title                                    : IsoMedia File Produced by Google, 5-11-2011
+Encoded date                             : UTC 2012-10-25 00:48:05
+Tagged date                              : UTC 2012-10-25 00:48:05

@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,reiberkuchen,2012-11-04T03:57Z,"Thanks Footy, I was faithfully waiting for the BBC coverage and you delivered as always. Much apprecated!"
+,Candyman75,2012-11-04T16:14Z,thanks footy. U rule mate.
+,strouf3,2012-11-04T20:26Z,Thank you so much! Really don't understand why people seem to like sky coverage better!
+,EdoSensei,2012-11-05T02:13Z,"I don't understand either. The main presenter is terrible and the Skypad thing is annoying, especially that Georgie bird! 
+
+On a different matter, I don't know why Footy but your MP4 files play on my PS3 but only the video, no audio??? All other MP4 is download work fine. Why would this be?"
+,just_afr,2012-11-07T05:49Z,EdoSensei - maybe it's because PS3 don't support HE-AAC+SBR ? if so then try something like this: ffmpeg -i file.mp4 -vcodec copy -acodec libvo_aacenc -ab 96k -ac 2 out-file.mp4
+,just_afr,2012-11-07T05:53Z,test

@@ -1,0 +1,50 @@
+Don't usually do Folders, but with three you get eggroll ... ahem ... NFO
+
+These are my remaining x264 CC2AVI offerings.
+Video is EXACTLY what HBO offers - the audio has been converted to MP3.
+
+========= IMDB.com/title/tt0350448/
+
+Release Name: Real.Time.With.Bill.Maher.2012.11.02.OverTime.x264.MP3-AVIGUY.avi
+
+From AVIGUY:
+Release Date.: 2012-11-02
+Release Size: 168 Mb
+Run Time: 09:54
+Resolution.....: 960x544
+Video: x264 AVI
+Audio: MP3 192kbps 44KHz CBR
+CC2AVI: FLVExtract [Extract x264 video, AAC audio]
+CC2AVI: MP4Muxer [Create MP4 @ wrong framerate]
+CC2AVI: MP4cam2AVI [conversion to AVI]
+CC2AVI: VirtualDub 1.4.13 [frame rate fix 25 to 29.970]
+
+========= IMDB.com/title/tt0350448/
+
+Release Name: Real.Time.With.Bill.Maher.2012.11.02.DownTime.x264.MP3-AVIGUY.avi
+
+From AVIGUY:
+Release Date.: 2012-11-02
+Release Size: 41 Mb
+Run Time: 02:26
+Resolution.....: 960x540
+Video: x264 AVI
+Audio: MP3 192kbps 44KHz CBR
+CC2AVI: MP4Muxer [DeMux MOV to x264/AAC]
+CC2AVI: MP4Muxer [Create MP4]
+CC2AVI: MP4cam2AVI [conversion to AVI]
+
+========= IMDB.com/title/tt0350448/
+
+Release Name: Real.Time.With.Bill.Maher.2012.11.02.BackStage.x264.MP3-AVIGUY.avi
+
+From AVIGUY:
+Release Date.: 2012-11-02
+Release Size: 47 Mb
+Run Time: 02:46
+Resolution.....: 960x540
+Video: x264 AVI
+Audio: MP3 192kbps 44KHz CBR
+CC2AVI: MP4Muxer [DeMux MOV to x264/AAC]
+CC2AVI: MP4Muxer [Create MP4]
+CC2AVI: MP4cam2AVI [conversion to AVI]

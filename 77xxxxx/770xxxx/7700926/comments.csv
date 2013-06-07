@@ -1,0 +1,16 @@
+﻿User Type,Username,Date,Text
+,beavis39,2012-10-06T18:44Z,There is no distortion on this release. Stop getting your friends to come in here and lie for you.
+,gnubeest,2012-10-16T09:47Z,"It does, and after reading what was done it's no wonder. (Actually, anyone trying to ""remaster"" from a CD-A typically doesn't know what they're doing anyway.) All ""remove DC offset"" usually does from an already mastered digital source is potentially ADD DC bias, which is why the peaks were higher afterward. It's only useful for fixing recorded broken gear and is usually used by people who like to feel like they're doing something with notoriously undependable automatic offset reports and don't know how to read a waveform. Also, if the end result is a peak that's over 3dB, that's called clipping, kids, and will result in a distorted mess -- that's also why all of your peaks ended up at 0 all nice and neatly, because as soon as you resampled it again it just lopped off the overs. And jacking everything to 64/384 isn't going to magically get those bits you killed (or anything else) back, it just adds more noise when you have to dither again. What you end up with is something that could be achieved just as easily with a broken stereo. ALL of these CD ""remasters"" you see around are a sham, period."
+,gnubeest,2012-10-16T10:01Z,"Nevermind, I should have just noticed that you were doing all this stuff on a Sound Blaster and called it a day. I read some of your responses on other releases and just shook my head. Dude, please. It's great that you like to play with Wavelab, but you need to learn how to use it before wasting bandwidth with stuff like this."
+,beavis39,2012-11-21T14:45Z,"Ok first off you can't go over 0db, not 3db. However the 0db rule goes out the window when dealing with float point digital audio.
+
+You should read up on floating point digital audio before you comment."
+,beavis39,2012-11-21T14:53Z,"Anyone who actually listened to this cannot honestly say it is distorted. That is because there is none.
+
+I go over my remasters with a fine tooth comb before uploading to enure that no problems exist.
+
+Had there been distortion of ANY kind I would have heard it in my test listen before uploading phase and I simply would not have uploaded it.
+
+I have personally shot down about 6 of my own remasters because they didn't make the cut as I saw it.
+
+To say that I uploaded crap is extremely insulting and completely unfounded.  "

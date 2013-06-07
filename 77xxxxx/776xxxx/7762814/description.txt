@@ -1,0 +1,45 @@
+General
+Complete name                    : JULAYI
+Format                           : MPEG-PS
+File size                        : 4GB
+Overall bit rate                 : 3 766 Kbps
+
+Video
+ID                               : 224 (0xE0)
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@Main
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Default
+Duration                         : 38mn 0s
+Bit rate mode                    : Constant
+Bit rate                         : 3 243 Kbps
+Nominal bit rate                 : 5 200 Kbps
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Scan order                       : 2:3 Pulldown
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.391
+Stream size                      : 882 MiB (86%)
+
+Audio
+ID                               : 128 (0x80)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Duration                         : 38mn 0s
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 122 MiB (12%)

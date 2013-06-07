@@ -1,0 +1,25 @@
+AIDA64 Extreme Edition is a streamlined Windows diagnostic and benchmarking software for home users. It provides a wide range of features to assist in over-clocking, hardware error diagnosis, stress testing, and sensor monitoring. It has unique capabilities to assess the performance of the processor, system memory, and disk drives. AIDA64 Business Edition adds network management solutions. AIDA64 is compatible with all current 32-bit and 64-bit Microsoft Windows operating systems, including Windows 7, 8 and Windows Server 2008 R2.
+
+Changes in 2.60.2146 Beta:
+extended CPUID features (Extended Page Table, INVEPT Instruction, INVVPID Instruction, Virtual Processor ID)
+sensor support for Nuvoton NCT6791D sensor chip
+motherboard specific sensor info for Asus P8B75-M LX
+motherboard specific sensor info for Sapphire PC-A9RD580 Series, PC-AM2RD580Adv
+improved motherboard specific sensor info for ASRock boards
+GPU information for nVIDIA GeForce GT 645M (GK107M)
+GPU information for nVIDIA GeForce GTS 150M (G94M)
+GPU information for nVIDIA GeForce GTX 650 Ti (GK106)
+GPU information for nVIDIA GeForce GTX 670MX (GK104M)
+GPU information for nVIDIA GeForce GTX 675MX (GK104M)
+GPU information for nVIDIA Quadro K600 (GK107GL)
+GPU information for nVIDIA Quadro K2000D (GK107GL)
+GPU information for nVIDIA Quadro NVS 510 (GK107GL)
+fixed: identification of AMD FX-xxxx (aka Vishera)
+fixed: identification of AMD Opteron 33xx (aka Delhi)
+fixed: identification of AMD Opteron 43xx (aka Seoul)
+fixed: identification of AMD Opteron 63xx (aka Abu Dhabi)
+
+install:
+
+run app
+use keygen

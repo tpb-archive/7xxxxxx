@@ -1,0 +1,6 @@
+﻿User Type,Username,Date,Text
+,fZAP,2012-10-10T09:16Z,"cue/log files don't make sense.
+The log file shows that the cd was ripped as single wav files, even though the cue file indicates a single wav file. And what's with the cue.vw file? So this is converted from a WavPack image file to single flac files? 
+Please explain."
+,fZAP,2012-10-10T10:03Z,"okay, that makes sense, thanks for replying"
+,ruthejudge,2012-10-11T03:06Z,"You post some great stuff, but you ruin it by using Medieval Cue Splitter.  I'm not sure exactly what it does to the files, but the files never verify with AccurateRip after they're split.  You need to use either CueTools or EAC to split from the image cue.  Or, just post the image/cue."

@@ -1,0 +1,18 @@
+
+This Audio-Only torrent is the companion to the torrent here: 
+https://thepiratebay.se/torrent/7734959/Ed_Sheeran_-_iTunes_Festival_2012_(02-09-2012)_1080p_
+
+You basically need to mux (multiplex) the Audio Track (This one, AAC) to the Video Track (H264) into a new container (TS) in order to obtain a "lossless copy". This is different to transcoding to MP4 and the like, where you lose quality (but you can do as well in order to reduce size considerably).
+
+The hard way is to use a command line tool such as ffmpeg to demux (extract) the video from the Video Torrent and then mux AAC and H264 into a new container file.
+You can also use tsMuxeR (Win, Linux, OS X).
+
+The problem I encountered was getting the video and audio in sync. I don't have much time but so you guys will have to try yourselves.
+
+If you know video editing then this doesn't apply and you probably stopped reading by now. If you are a newbie or don't know anything then you can:
+1. Run tsMuxeR and open the original video (TS) and this audio track (AAC).
+2. Select 25 FPS for Video (you can try otherwise and then peek and poke what happens).
+3. Select a delay for the audio (I found a negative -2450ms is close to the sweet spot).
+4. MUX.
+5. Open the new TS in VLC and then use the delay audio function to see what is the perfect delay to be applied (-2450+/-). If you get confused with math, then in step (3) DONT select anything, leave it at zero.
+6. Once you found the perfect sync thanks to VLC, then start from step (1) and make sure to enter the perfect delay in step (3). AND DONT FORGET TO SHARE HERE!!!!

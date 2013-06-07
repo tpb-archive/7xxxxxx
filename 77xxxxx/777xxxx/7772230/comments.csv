@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,brian02,2012-10-30T02:23Z,"Precision: I tested on Windows 8 Pro WMC 32 bits installed on my mid 2009 13"" MacBook Pro (MBP 5,5) and it did work.
+
+Any feedback on other machines is appreciated (especially with 64 bits W8)"
+,mechoui,2012-11-04T23:59Z,"Works like a charm on Windows 8 Pro x64 on macbook late 2009 (Core 2 Duo 2.26GHz, 4 Go DDR3, GeForce 9400M)
+
+I just needed to update the graphics driver (from nvidia.com) because it's not compatible with Windows 8 (causes random freezes).
+
+But, by updating this driver with the latest WHQL, I lost the capability to control brightness from the keyboard (known bug for all nvidia drivers newer than the one released by Apple with Bootcamp).
+
+I don't know who is to blame to lost this control : Nvidia for having change something in the driver API ? Or Apple for having modify the Nvidia driver to fit his need ?
+
+After all, thanks for that upload : Apple sucks at not providing this on his website.
+
+We're waiting for them to release Bootcamp for Windows 8 !"
+,brian02,2012-11-06T17:18Z,"@mechoui
+
+I didn't have any problem with the Nvidia driver provided in this version of Bootcamp running on Windows 8 Pro x86 on my MBP (same year as yours, but better proc). Maybe there are compatibility issues with the 64 bits Windows 8.
+
+Anyway, I also tested it on a later MacBook Pro (Geforce 320M chip) with Win 8 Pro x86 and it worked :-)
+
+And you're welcome, I spent hours trying to find this on Apple's website but they don't provide it... Glad to help !"
+,oldrocks,2012-11-16T17:58Z,Thanks!
+,zjc1995,2012-11-26T01:13Z,SEED pls!!!!! thx

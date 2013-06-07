@@ -1,0 +1,13 @@
+This is a beta test of a Bitcoin blockchain torrent project. Interested participants are invited to try, and comment (chech forum link bellow).
+
+Bitcoin client version 0.7.1, which just entered testing, includes a new feature:
+
+If the file "bootstrap.dat" is found in the bitcoin data directory, it will validate and import all blockchain data found in that file. The following torrent presents a bootstrap.dat file for that feature.
+
+What is bootstrap.dat?
+
+It is a flat, binary file containing bitcoin blockchain data, from the genesis block through height 193,000.  Height 193,000 is the height of the current checkpoint baked into the reference client.
+ 
+https://bitcointalk.org/index.php?topic=117982.0
+
+Jump in and seed, thanks!

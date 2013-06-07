@@ -1,0 +1,30 @@
+Cisco CCNP Security Firewall 642-618 by Keith Barker
+Deploying Cisco ASA Firewall Solutions v2.0 
+https://secure.cbtnuggets.com/it-training-videos/cisco_security/series/csco_642_618
+
+
+Firewalls have come a long way over the years, and the Cisco Adaptive Security Appliance (ASA) firewall has as well. In this "soup-to-dessert" video series, trainer Keith Barker walks you through the entire process of implementing the ASA on the network, beginning with bootstrapping the ASA so that it will allow basic management, all the way to configuring advanced features such as the new Network Address Translation (NAT, which changed between versions 8.2 and 8.3), redundant interfaces, etherchannel, transparent L2 firewall services, multiple-contexts (virtual firewalls), application layer inspection, failover for high availability (HA), and more. By the time you finish this series, you'll be able to return to your network with confidence in the care and feeding of the ASA.
+
+This series addresses all the objectives for exam 642-618 (Firewall v2), which is part of the Cisco Firewall Specialist, ASA Specialist and CCNP Security certifications. Plus, a GNS3 Nugget covers how to create a complete ASA virtual lab environment, for hands-on practice.
+
+Viewers who have taken the CCNA Security (or has the equivalent knowledge) will get the most out of this series. Exam 642-618 is one of the requirements for ASA Specialist, Firewall Specialist and CCNP Security certifications; pre-requisites for these 3 certifications include CCNA (RS) and CCNA Security. This series is also valuable if you're applying for network/security positions where the employer has ASAs in place and are looking for skilled ASA network technicians and engineers.
+
+Content:
+01 - Firewall v2.0 Introduction
+02 - Out of the Box
+03 - ASA & ASDM Essentials
+04 - NAT on the ASA, 8.2, 8.3 and beyond
+05 - ACLs on the ASA
+06 - Routing on the ASA
+07 - MPF 101
+08 - TCP Advanced Options
+09 - Layer 5-7 Advanced Inspection
+10 - Interfaces - Sub, Ether-channel and Redundant
+11 - Transparent Firewall
+12 - AAA on the ASA
+13 - Active-Standby Failover
+14 - Virtual Firewalls (contexts)
+15 - Active-Active Failover
+16 - Botnet Filtering
+17 - Management, Logging, Anti-spoofing and More
+18 - GNS3 and the ASA

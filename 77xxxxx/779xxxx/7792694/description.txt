@@ -1,0 +1,34 @@
+BRICKPROOF INSTALL METHOD FOR ROGERO CFW 4.30
+
+If you are on 3.55 or below, skip to the "Enable QA Flag" and start there
+
+
+Go to folder: 1 ROGERO 4.25 to 3.55 DOWNGRADER
+
+Rename the file to "PS3UPDAT.PUP" and put it on your USB in: "USBPS3UPDATEPS3UPDAT.PUP"
+
+Go to System Update from XMB and install the Downgrader PUP.
+
+After the Downgrader PUP installs you'll be on a hybrid CFW3.55 that will still shows ver4.21/4.30 from system settings.
+
+Enable QA flag by following these steps:
+
+Put the "toggle_qa.pkg" on USB and Install it on the PS3
+
+Run the "Rebug Toggle QA" from XMB, the screen will go Black and you will see HDD Led activity then if all went fine you will hear 2 or 3 Beeps and the PS3 will Restart back to XMB.
+
+If you want to make sure QA flag was set, go to "Network Settings" then apply the following key combo (all at the same time):  L1 + L2 + L3 (press left stick) + R1 + R2 + dpad_down
+
+(You should see Edy Viewer, Debug Settings, and Install Package Files if done correctly.)
+
+Now go to folder: 2 ROGERO 3.55 3.7, put on your USB in: "USBPS3UPDATEPS3UPDAT.PUP
+
+Start the PS3 into Recovery Menu and install the pup from USB (from Recovery Menu, this is important)
+
+Once you're back on Rogero CFW3.55 v3.7 copy and rename the 4.30 PUP file from the folder: 3 ROGERO 4.30 to "USBPS3UPDATEPS3UPDAT.PUP"
+
+Start the PS3 into Recovery Menu and install the 4.30 CFW.
+
+Install Multiman.
+
+Enjoy.

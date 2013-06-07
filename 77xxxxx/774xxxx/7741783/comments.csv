@@ -1,0 +1,33 @@
+﻿User Type,Username,Date,Text
+,Aryus31,2012-10-19T15:18Z,Activation code don't work.
+,SiwaLi,2012-10-19T18:16Z,"Activation not poping up. I did replace the DLL as you mentiond ( in C:Program FilesCommon FilesMediafour directory), but after reboot, there is a yellow alert icon over the programs icon in the notification. And i can not open Activating page. Neither by 
+
+- MacDrive Pro Quick Start
+- Double Clicking the program in the Program Fiels folder
+
+So, any guide on this ?"
+,bigcid10,2012-10-21T12:50Z,"same as above yellow alert on tray icon and I can't activate it
+thanks,bigcid10"
+,ap3rus,2012-10-26T22:57Z,"@SiwaLi and to all:
+works only with x86, on x64 this dll is useless."
+,PeterHolbrook,2012-10-31T00:32Z,"Tried it on a 32-bit virtual machine. There was no DLL to replace (meaning the names of the existing DLLs were different from the supposedly cracked one). Naturally, the purported crack never worked. The supposedly cracked activation system still requires an algorithm that uses a provided serial and a unique machine identifier as parameters. No go."
+,capted1,2012-11-01T16:04Z,"Anyone; please post 64bit activation.
+Thanks"
+,joan16v,2012-11-03T20:58Z,x64 activation pls...
+,jamyz77,2012-11-04T22:07Z,Yes. Don't works with Windows 8 Pro.
+,pskandall,2012-11-13T22:01Z,"This torrent only works on x86 Windows.
+
+PS: Tested on Windows 8 Pro WMC x86
+
+
+Anybody have the x64 dll?"
+,pskandall,2012-11-13T22:13Z,"Just found the complete one (with both x86 and x64 cracked dll's) here:
+
+magnet:?xt=urn:btih:a9a43134e5bdd5871d65cd9b6f6a96536915e643&dn=MacDrive%20Pro%209.0.3.35&tr=http%3A%2F%2Fretracker.perm.ertelecom.ru%2Fannounce&tr=http%3A%2F%2Fretracker.hq.ertelecom.ru%2Fannounce"
+,PeterHolbrook,2012-11-14T18:54Z,"Sorry, but the supposedly ""cracked"" DLL doesn't replace anything, and the activation code provided in the instructions doesn't work AT ALL. Tested in W7Ux86 and W8Prox86. Entirely invalid."
+,godovic,2012-11-14T20:48Z,"- cracked DLL doesn't replace anything
+- activation code doesn't work
+Thats true :("
+,PeterHolbrook,2012-11-15T01:12Z,"OK. Here's the deal: The first step of the instructions is defective. It says the relevant crakced DLL should be copied ""to program folder"", which is ""Program FilesMediaFourMacDrive 9"". That's the wrong path. It is to be copied to ""Program FilesCommon FilesMediaFour"". This way, it does replace something and the crack works as advertised. Thank you, wall wallpwallpapers, but the instructions should be modified!"
+,PeterHolbrook,2012-11-15T01:21Z,"For some reason, backslashes don't appear in my previous instructions, so I'll try to repeat the correct path using normal slashes. Sorry.
+""/Program Files/Common Files/MediaFour"""

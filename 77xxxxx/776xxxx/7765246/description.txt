@@ -1,0 +1,44 @@
+============================================================================
+|There are no well established activation bypass as of yet, so I have not  |
+|included them.                                                            |
+|----------------------------------murphy78--------------------------------|
+|I have made it a point not to modify or customize any windows programs or |
+|settings in any way.                                                      |
+|Either burn the included .iso file to a dvdr or use a usb flash drive.    |
+|I have included diskpart instructions and the win7usb tool.               |
+|I personally use diskpart and winrar, but the tool may be easier.         |
+|----------------------------------murphy78--------------------------------|
+|Source: MICROSOFT.WINDOWS.8.PROFESSIONAL.RTM.X86.ENGLISH.DVD-WZT          |
+|This 32-bit RTM is Build 9200                                             |
+|----------------------------------murphy78--------------------------------|
+|DVDR installation requires a product key.                                 |
+|You may use: XKY4K-2NRWR-8F6P2-448RF-CRYQH                                |
+|This will not activate once in windows, it just lets you run setup.       |
+|----------------------------------murphy78--------------------------------|
+|Languages included:                                                       |
+|de-DE (German), en-US (English), es-ES (Spanish)                          |
+|fr-FR (French), it-IT (Italian)                                           |
+|----------------------------------murphy78--------------------------------|
+|You still need to add the languages via (Control Panel-Add a language) if |
+|you want to switch between them. You simply do not need to download them. |
+|You can select the system language during installation, and even the boot |
+|languages are included.                                                   |
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction                                               |
+|dism for file package addition                                            |
+|oscdimg for iso mastering                                                 |
+|Windows assessment and deployment kit for PE languages                    |
+|en_windows_8_x86_dvd_915417.iso  for install.wim languages                |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703          |
+|----------------------------------murphy78--------------------------------|
+|Oct25 version had an install glitch for some users.                       |
+|Killed that torrent, re-integrated from scratch.                          |
+|Tested all 5 language and even burn tested this iso.                      |
+|I'm typing this on the dvdr install right now.                            |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 - TPB :)                                                         |
+============================================================================

@@ -1,0 +1,34 @@
+Here is the crack for Rocksmith (Finally)
+
+you DO need the cable to play this game though..
+
+Thank Sam2k5/sam2k8 for the crack and me for delivering all the needed files to him :P
+
+This crack should work with the other torrents for rocksmith that I have uploaded,
+
+(The retail DVD won't work as you'll need to install it then)
+
+so you'll need this:
+ 
+http://thepiratebay.se/torrent/7745402/Rocksmith_Installed_Steam_Files (which seems to have a corrupted file in it (sorry))
+
+or this:
+ 
+http://thepiratebay.se/torrent/7745439/Rocksmith_PC_Steam_Backup_Files
+
+
+Copy paste all the files over in the directory where the .exe is
+
+(SteamsteamappscommonRocksmith)
+
+and edit the LumaEmu.ini 
+so that this line:
+
+
+[SteamClient]
+# Set path to steamclient.dll (not the original)
+SteamClientDll = C:steamclient.dll
+
+points to the path where you have the steamclient.dll (Which is included in the rar)
+
+(do not point it to the original dll, it won't work)

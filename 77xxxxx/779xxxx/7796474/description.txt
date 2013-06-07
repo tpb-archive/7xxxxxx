@@ -1,0 +1,106 @@
+                         TRAKTOR PRO v2.6
+
+              TRAKTOR 2 is the most powerful and versatile DJ soft                
+              ware on the market. With TRAKTOR 2, you can mix your                
+              tracks traditionally as well as combine your tracks                 
+              and loops in a non-linear way using it as a powerful                
+              live remixing tool.
+
+        ============================
+        What's New in TRAKTOR 2.6.0
+        ============================
+          
+          KEY FEATURES :
+      - Integration of TRAKTOR KONTROL Z2
+      - Macro FX: 11 new "combination effects" which are controllable
+        from a single knob. When using the update installer of TRAKTOR
+        2.6.0, new Macro FX can be added to the list of available FX
+        by importing the following TSI:
+        [USER]/Documents/Native Instruments/Traktor 2.6.0/Settings/
+        Default Settings/Effects/Macro FX.tsi
+      - Flux Mode: allows various transport actions (jumping to HotCues,
+        performing Beatjumps, and creating Loops) to be used while
+        preserving the original progression of the track
+      
+         CONTROLLER MANAGER :
+      - Factory Map Override: It's now possible to change the behavior
+        of only specific controls in a hard-coded mapping (such as the
+        KONTROL S4/S2 or Z2) by overriding their default behaviors. The
+        option shows up in the "Mapping Details" section of Controller
+        Manager only when it's available.
+      
+         EFFECTS :
+      - FX Units can now be configured for Post-Fader operation in
+        Internal Mixing mode. For External Mixing mode, the Post-Fader
+        option will put the FX Unit last in the signal chain before
+        being output from the audio interface
+      
+         LIVE INPUT DECK :
+      - Minor gain-staging adjustments for Live Input Deck 
+	  
+         MIXER :
+		
+      - New "Z ISO" EQ type which is full kill at the left end of knobs
+        path 
+      - New "Z" filter type
+      - "QuickSnap" behavior for the EQ and Filter controls: Hold the
+        SHIFT button on your hardware controller and move the EQ/Filter
+        knobs. The positions of the knobs in the software will not be 
+        updated until the SHIFT button is released. This allows for 
+        instantaneous EQ and Filter cuts.
+      - New gain system with independent Channel Gain and Auto-Gain
+        knobs. The button next to the Gain knob is used to switch the
+        view of the knob between Gain and the Auto-Gain value for the
+        track. When the button is blue, you're viewing the gain for the
+        channel. Clicking the button to turn it orange makes the knob
+        display the track's Auto-Gain level. Changes made to the
+        Auto-Gain amount can be heard immediately and are automatically
+        saved to the track. Channel Gain can now be mapped to an
+        absolute knob without worry of takeover issues. NOTE: if you've
+        disabled the "Set Autogain when Loading Track" preference, then
+        do not use the Auto-Gain view. Adjusting this knob while the
+        preference is off will end up overwriting the track's Auto-Gain
+        value.
+      
+         SYNC :
+      - A new Transport Preference preventing Remix Decks from becoming
+        Tempo Master
+      - New Transport Preference allowing only On-Air Decks to become
+        Tempo Master. Turning preference off will no longer cause the
+        Tempo Master to switch when manipulating mixer controls.
+      
+         TRAKTOR KONTROL Z2 :
+      - The Deck Focus Select buttons (buttons C and A on the left side
+        and buttons B and D on the right side, just above the HotCue
+        Pads) no longer require the use of the SHIFT key to enter the
+        Secondary Mode. If a button is already on and lit solid, this
+        indicates Primary Mode for the HotCue pads. Pressing the same
+        button again will engage Secondary Mode for the pad, which can
+        be seen by the button's backlight fading on and off. Pressing
+        the same button again will revert the pads back to Primary Mode.
+      
+         THIRD PARTY CONTROLLERS :
+      - Advanced HID support for the Pioneer CDJ-2000nexus (SLIP button
+        being mapped to Flux mode)
+
+
+         SYSTEM REQUIREMENTS
+         Windows 7 (latest Service Pack, 32/64 Bit), 2.0 GHz Intel Core 2 Duo or          AMD Athlon 64 X2, 2 GB RAM (4 GB recommended) 
+
+
+               Install Traktor Pro.
+                                               
+               Copyapply a Patch (the one you need) in the Install-Dir.               
+               Use any Serial at this Patch-Process.
+
+
+	Additional Notes: 
+			 
+        The different Versions of Traktor-Pro are stored in ONE 
+	File (the "Traktor.exe") BOTH PATCHERS for:"Traktor Pro" 
+	and the "Scratch Pro" (for Timecode-Support) are aviable 
+	Just use the right Patch of your choise from the "Cracks" 
+			   Directory!*
+
+        * lol or do like me install twice one with original name 
+        and other with name scratch!!!

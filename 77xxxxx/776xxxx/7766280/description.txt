@@ -1,0 +1,33 @@
+CONTENT
+---------------------------------------------
+eso1242a_10820x8150.jpg - 10% scaled JPEG.
+eso1242a_27050x20376.jpg - 25% scaled JPEG.
+eso1242a_54100x40752.jpg - 50% scaled JPEG. Most users should not try to open this file due to huge memory requirements.
+eso1242a_15000x10000_core_only.jpg - 50%-scaled crop of galaxy core.
+
+eso1242a_65500x65500_LQ.jpg - very low quality maximum dimensions JPEG for software testing.
+eso1242a_65500x65500.jpg - 100% center crop, maximum dimensions allowed by majority of software. If it fails for you - it's your software, not broken file.
+eso1242a_108199x81503.raw.data - raw RGB data, converted from original .psb file, compatible with most open source software. Unfortunately GIMP can only load ~2100 lines due to internal limitations.
+
+wallpapers* - Should be obvious.
+---------------------------------------------
+Hints for working with huge JPEG images using ImageMagick:
+
+convert -size 108199x81503 -depth 8 RGB:eso1242a_108199x81503.raw.data -scale 50% -quality 95 -define jpeg:optimize-coding=false eso1242a.jpg
+convert -size 108199x81503 -depth 8 RGB:eso1242a_108199x81503.raw.data -crop "65500x65500+22500-0!" -gravity North  -quality 95 -define jpeg:optimize-coding=false eso1242a_sq.jpg
+
+Beware that these commands consume ~45Gb of RAM for Q8 binary version of ImageMagick, and ~73Gb of RAM for Q16 version. Also, this obviously requires x64 software. 
+
+JPEG encoding would fail without "-define jpeg:optimize-coding=false" due to Huffman table implementation issues.
+---------------------------------------------
+Original raw image:
+
+Credit:ESO/VVV Consortium
+Released under the Creative Commons Attribution 3.0 Unported license
+Acknowledgement: Ignacio Toledo, Martin Kornmesser 
+http://www.vista.ac.uk/ 
+http://www.stfc.ac.uk/News%20and%20Events/42932.aspx 
+http://www.eso.org/public/images/eso1242a/zoomable/
+
+Minor JPEG recompression: Mikhail Svarichevsky 
+http://3.14.by/

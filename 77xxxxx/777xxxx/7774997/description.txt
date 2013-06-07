@@ -1,0 +1,28 @@
+What is new
+- new option: colored waveforms (in Config->Options)
+- video fade-to-black independent from audio volume (with VDJScript "video_level")
+- changed volume faders default curve (quadratic by default, can be changed with VDJScript "levelfader_curve")
+- video can be delayed from audio (with VDJScript "video_delay")
+- fix cover download from google and from amazon
+- fix adding cached netsearch results to cloudLists
+- added 9 new controllers
+MINIMUM system requirements:
+* Intel┬« Pentium┬« 4 or AMD AthlonΓäó XP 
+* 1024x768 resolution 
+* DirectX compatible soundcard 
+* 512MB RAM 
+* 50MB free on the hard drive 
+RECOMENDED system requirements:
+* Intel┬« CoreΓäó 2 or AMD AthlonΓäó X2 
+* 1280x1024 resolution 
+* Multi-channel DirectX compatible soundcard 
+* 1024MB RAM 
+* 200MB free on the hard drive 
+Additional requirements for Video mixing:
+* 2048MB (2GB) RAM 
+* ATIΓäó or NVIDIA┬« video card w/256MB of Dedicated DDR3 RAM 
+* Video card must support dual-screen output 
+Supported Operating System:
+* MINIMUM: Microsoft┬« Windows XP SP3 or newer 
+* RECOMMENDED: Microsoft┬« Windows 7 Professional 32-bit 
+Homepage : http://www.virtualdj.com/products/virtualdj/index.html

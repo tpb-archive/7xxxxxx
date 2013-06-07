@@ -1,0 +1,9 @@
+Recoursively decode all your url encoded filenames like: "Man%20On%20Mars.jpg" to normal filenames like "Man On Mars.jpg" on your hard drive or local network.
+
+Features:
+
+Specify folders to process
+Recourse all subfolders
+Test mode only
+Logs changes
+Undo option

@@ -1,0 +1,228 @@
+﻿User Type,Username,Date,Text
+[T],T.F.K,2012-11-06T09:53Z,SEED and ENJOY by T.F.K team
+[T],T.F.K,2012-11-06T09:58Z,"More screens:
+
+http://i1143.photobucket.com/albums/n638/rainbob1/RANBOB/29.png
+http://i1143.photobucket.com/albums/n638/rainbob1/RANBOB/30.png
+
+NOTE:
+
+Install Notes :-
+
+1. Burn Iso with any burner
+2. then reboot your system
+3. then press any key
+4. format and Install it after use given activator (Run as Admin)"
+,creative3,2012-11-06T10:49Z,"There is no difference between RTM and Retail Channel release. in fact, the retail channel build was compiled a day before the RTM build.
+
+this is the update (Windows8-RT-KB2756872) which was released on 10th Oct 2012 makes it GDR release.
+
+Further, MS has no plan in future to integrate these updates/patches to the windows 8 ISO to make it one like it was done in Windows 7. all patches and updates will be always available on online.
+the current version of windows 8 Pro x64 bits after updateds and patches is 9200.16424.amd64fre.win8_gdr.120926-1855
+but yes, people are making it one after integrating these updates and patches (customized ISO) using MS Assessment and Deployment Tools.
+
+so either you use RTM or so called retail, makes it no difference."
+,SM-003,2012-11-06T11:07Z,"@creative3
+
+could you please tell me how to check the build string along with compilation date in win7 & win8 as you mentioned in your comment? I'll be grateful "
+,creative3,2012-11-06T12:58Z,"@SM-003 ,
+please open Registry Editor (to open it please type in search 
+
+REGEDIT
+
+works well in both win7 and win8 os.
+
+now just expand the following key in sequence:
+
+HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersion
+and click the last key CurrentVersion.
+
+now in the right pane please look for the following two ValueName:
+BuildLab
+BuildLabEx
+
+these two valueName tell you the build and version of your current OS.
+here is mine:
+http://img837.imageshack.us/img837/7821/11105405.png"
+,creative3,2012-11-06T13:23Z,"@@creative3
+dear,
+
+9200.16424.amd64fre.win8_gdr.120926-1855
+
+in the above value the last 10 digits denotes date and time of the build. in the above value 
+120926-1855
+yymmdd-hhmm
+means: 
+12 = year 2012
+09=  Month September
+26= date 26
+18= Hours
+55= minutes
+so this build is compiled on
+26th September 2012 at 18 hours 55 minutes.
+
+please remember that this is the date when windows was released for public (you can say it for retail)
+
+but please note that I have installed RTM build which was compiled on 120725-1247 means on 25th July 2012 at 12 hours 47 minutes. but I have installed updates Windows8-RT-KB2756872-x64 and after this the build becomes gdr and shows compiled on 26th September 2012 at 18 hours 55 minutes.
+
+is it clear this time dear?"
+,iru5555,2012-11-06T13:39Z,"the 6th png file shows EULAID @Only the rain 
+
+
+What is that"
+[T],T.F.K,2012-11-06T16:55Z,THE RAIN is one of the creators.
+,sunil.2492,2012-11-06T17:00Z,please upload 64 bit version
+,SM-003,2012-11-06T18:25Z,"@creative3
+
+Thank you so much for replying ..Yes I got that.
+
+but I have some more queries in this case. Hope you 'll clear that too.
+
+1. Is gdr stands for Retail copy while rtm stands for RTM copy? If I see gdr in buildlab string then it's assuming a retail copy of my win7 (yes, current I'm using Win7) right??
+
+2. Next in the BuildLabEx string everyone (including you & me) got the common parameter that is 'amd64fre'. what's that? could you pls explain??
+
+3. What are the main differences between RTM & Retail copy 
+
+4. If I use RTM vr of win8 instead of retail then what 'll be the pros & cons and vice-versa?
+
+5. You wrote in your last comment that ';please remember that this is the date when windows was released for public (you can say it for retail)' but as we all know Win8 publicly released on 26th oct for general availability. then??
+"
+,lovewhisper,2012-11-06T21:23Z,Great upload...thx
+,SMOAK-inc,2012-11-06T22:10Z,"Downloading now. Will this pass Genuine, and be able to connect to the Microsoft Market? Thanks none the less. Appreciate your piracy."
+,alzen69,2012-11-06T22:58Z,Is this activation able to survive windows updates?
+,Orwell-84,2012-11-07T02:31Z,Appears the activator contains a dropper.. Double check your files. I just am skipping it and have nuked it. Thanx for the up T.F.K ...
+,creative3,2012-11-07T02:37Z,"@SM-003,
+
+GDR = General Distribution Release
+amd64fre = x64 bits 
+RTM = Release to Manufacturer. this copy is released to manufacturer to build their system for sale. 
+Retail : this copy is available for general users which is General Distribution Release (GDR)
+
+if you use rtm copy of windows 8 instead of retail copy then it makes no difference as after all online updates it will become retail builds (gdr).
+Please note that microsoft did not release any different build of retail copy than RTM. both copies have same build. it just after updates which makes different.
+
+few users have slipstreamed  the updates with RTM copy and uploaded with the name retail copy.
+
+26th Oct 2012 is the date when windows 8 was made available to General users but 26th Sep 2012 (120926-1855) is the date when it was finally compiled and signed off for general public. it is called GDR build date and time and not release time.
+do not bother to download so called retail copy. no difference between rtm and retail compiled by MS.
+RTM which is also available at MSDN and TEchnet account which is as follows:
+File Name: en_windows_8_x64_dvd_915440.iso
+Languages: English
+SHA1: 1CE53AD5F60419CF04A715CF3233F247E48BEEC4
+
+the above iso includes two windows 8 namely 1. windows 8 core and 2. windows 8 Pro, therefore its size is 4.3 GB for 64 bits if you exclude windows 8 core edition from this ISO to make it only windows 8 pro then its size will become 2.76 GB approx. which is available via MS download on and after 26th Oct 2012 but no difference in build of windows 8 pro for RTM and Retail so far."
+,creative3,2012-11-07T02:45Z,"I am sorry as I wrongly mentioned the size of windows 8 msdn copy 64 bits 4.3 GB which is not correct. its size is 3.33 GB.
+so please read it 3.44 GB.
+thanks."
+,SM-003,2012-11-07T07:30Z,"Thanks again creative3 ..I really appreciate it. 
+
+Can you tell me one more thing that I've see a N edition in MSDN site when I was looking for the Win8 Enterprise x64 iso. What's that actually?
+
+And can you provide me the direct dl link of Windows 8 Enterprise Edition x64 via MS download site (preferred) or via MSDN or something else? 
+
+I wanna to use Wib8 Ent to test the Windo to go features in my Seagate goflex external hdd. Have you or anyone over here tried this feature? then plz give us the feedback. 
+
+And one more thing creative3...if i use a x86 os then what 'd be the sting for that instead of amd64fre??"
+,SM-003,2012-11-07T08:27Z,Also another thing I forgot to ask....is there any official new retail ISO that MS launched /released  for win8 after 26th oct (for public availability) that includes those KB2756872 updates officially 
+,AjayDusa1,2012-11-07T10:15Z,"@TFK
+Dont know why The Rain doesnt upload in piratebay.....he upload only in extratorrent,katph....."
+[T],T.F.K,2012-11-07T12:16Z,He is in our team.
+,B.mane,2012-11-07T13:20Z,no seeders online??????????????????? what happend uncle bill kill u all looooool
+,B.mane,2012-11-07T16:58Z,TK..F you mother fuker come and suck my dick with your software. waste of fking time 
+,gab_themagic,2012-11-07T19:50Z,"guys, I've downloaded the windows 8 all versions AIO and tried to activate windows. I'm confused because the windows message after restarting the host pc, says she was permanently disabled and also the personalization option is unlocked ... but when I give the shortcut windows + pause break to go pro system, it appears that the windows is not activated. Being that when I type slmgr / dli appears that enabled forever. Is this a bug or is not activated? Thanks people."
+,murphy78,2012-11-07T22:05Z,"There is no such thing as an Enterprise retail copy.  They are simply not sold in retail stores.  You are confusing MSDN with Retail stores like most people.
+
+GDR just stands for General Development Release.
+LDR stands for Limited Development Release.
+
+Honestly, I've never even seen a LDR release.  GDR controls the kind of hotfixes you download. It does not show any sort of validity of retail.
+
+From the eula I can tell that someone added an ei.cfg, but it also shows that it is an RTM with the RM in the file name.
+
+Anyhow, nice try but Enterprise is not available in retail stores."
+,JBiz1,2012-11-07T22:57Z,"Why use a activator? You can use KMS Server method and get activated 180 days then it will reactivate every 180 days!!! Then you dont have to worry about updates and M$ blocking you on future updates!!!! Sounds alot better than using a activator and safer to me....DO NOT RUN THE ACTIVATOR IF YOU WANT TO USE KMS SERVER METHOD!!!!
+
+Email me for the KMS Server info:
+jbiz1.tpb@gmail.com
+
+Sync Time: (YOU MUST SYNC YOUR TIME!)
+net stop w32time
+net start w32time
+w32tm /config /manualpeerlist:time.windows.com /syncfromflags:manual /reliable:yes /update
+
+Activate: (RUN THIS TO ACTIVATE!)
+slmgr /ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr /skms xxxx.xx-xx.xxxx:1688
+slmgr /ato
+slmgr /dlv
+
+Again email me for the server! Cheers!"
+,murphy78,2012-11-08T00:29Z,"sorry, forgot you don't need ei.cfg for enterprise to show that eula.  Still, it's RTM.  In fact, it's the same iso file name as the WZT RTM release.  I'm sure the hashes probably match too."
+,Orwell-84,2012-11-08T05:49Z,Ponytail! Does you A/v NOT show the activator as a dropper? :debug: it and see that it is NOT cool.. Nuff said.. Bonehead..
+,Orwell-84,2012-11-08T05:57Z,"You got KMS . private... or public act. .. Maybe a MSDN/key. else.. 
+
+Also NO GDR.. seems to be LDR only
+
+Thanx Murphy78. Man thats hard to say.. my ex has a name so close to that I wanted to hit you :)... 
+
+Quick look at what is REAL!
+
+http://technet.microsoft.com/en-us/library/dd981009.aspx
+
+Settle down back there before I pull this thing over and whoop some ass! Oh and love and peace to all.."
+,JBiz1,2012-11-08T15:41Z,"congradulations to the ones that used my KMS server....you are welcome to help your friend PLEASE DONT POST IT ON WEB SITES IS ALL I ASK OR I WILL TAKE IT DOWN!!!
+
+Thanks T.F.K. For the ISO!!!
+
+JBiz1"
+,anu24592,2012-11-08T18:38Z,I don't know how to burn iso image. please help me? weather i'm supposed to burn it to DVD or what? plez help..................
+,CUETOON,2012-11-09T01:22Z,kms server activation is much better.. i used it my self with the help of sir jbiz1. i install updates with no problems..
+,murphy78,2012-11-10T01:14Z,"sorry to hear that orwell :(  I'm a good guy I promise.  I'm not an ex wife trojan horse.
+
+This is still not retail.  Enterprise is not sold in stores."
+,ALGOOGLE,2012-11-10T03:58Z,work perfect for me thanks man. but there's one problem so far I can't change account picture start screen or lock screen which is not a real problem but every thing else look good so far. 
+,kovalkopa,2012-11-10T12:59Z,"seeeeeed plz
+"
+,biebie26,2012-11-10T21:32Z,"OK i think i found a cure for the whole activation thing and i tested it it works for me first use the p8_25 for the personalize and  account picture activation an then use the one on the final retail release for the activation if you use the 2 together it works and if you don't have the p8_25 activator here is the best place i found it 
+
+http://www.thepiratebay.mk/application-torrents/P8-v25.exe_422359673.html
+
+click on 
+torrentbay.pl
+
+for the download to it hope it helps you to  "
+,sin.sinatra,2012-11-11T18:40Z,"I'm unable to download any app from windows store. they all get stuck while downloading. i activated this version of windows using KMS(180 days) as the activator provided in the torrent didn't work for me. also I'm not able to update pre-installed apps. any help is appreciated.
+
+this is my first comment on TPB."
+,Bmuzammil,2012-11-12T12:09Z,"Feedback Alerts and Advice......
+Downloaded torrent :
+Windows 8 AllInOne 16-in-1 (Final Build 9200) + Permanent Activator 
+#!#!#!#!#!#!#!#!#!#!#! x32 & x64
+http://thepiratebay.se/torrent/7786020/Windows_8_AIO_16-in-1_%28Final_Build_9200%29___Permanent_Activator
+#!#!#!#!#!#!#!#!#!#!#!
+hi everyone, 
+(1)there is a virus in the Activators so avoid using antivirus as it will delete the files and windows will crash.
+(2) In Windows updates, change settings to check but don't install automatically and by installing (KB2756872 update) you have to run the activator again but not fix.
+(3) Buy Windows 8 if affordable for you!!!!!!!!!!~
+(4) If you are not an advance user and that also means if you don't know what restore points are then disable windows update.
+(5) Every single time you guy install any software or update please create Windows Restore Points, only if you think windows is out of bad luck.
+
+Works!~ Enjoy New OS as I am :) x32 & x64"
+,Bmuzammil,2012-11-16T18:01Z,"*=*=*=*=*=*=*=*=!!!Alert!!!*=*=*=*=*=*=*=*=*=*=*=
+If anyone installed (Anti-Virus) and you are seeing a black screen after you log-in. Here is what you need to do to fix that problem:
+0: Go to Processes and select one (any) and right click and select Open file location to open explorer and go to control panel and uninstall your anti-virus.
+1: Press Ctrl + Alt + Delete 
+2: Run Task Manager
+3: Select File from top menu and open (Run New Task)
+4: Click Browse and Find the crack (Activator) and select and (Right-Click) and Run as Administrator. Y = yes.
+
+After updates are installed you're OS will be deactivated so Run the Activator if so.
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+If you have better way if fixing this problem,
+let us all know. I do want to use anti-virus but I can't :( .
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Also Disable!~ Windows Defender because Microsoft has added that it's now anti-virus too.
+Take Care"
+,TheBillGates,2012-11-27T02:51Z,"Yet Another Working MAK Key (for permanent activation via Phone/Skype) for Windows 8 Pro & Windows 8 Enterprise:
+967B6-N7KXM-CJKJB-BHGCW-CPKVC"

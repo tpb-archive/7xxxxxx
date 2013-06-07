@@ -1,0 +1,72 @@
+TTS Pro Acapela International Voices for iGO Primo Android
+By Zervdim & ScorpioPirate
+
+TTS Pro International Voices:
+
+Greek
+Arabic
+Belgium
+Czech
+Danish
+Dutch
+English UK
+English US
+Finnich
+French
+German
+Hungarian
+Indonesian
+Italian
+Polish
+Portuguese
+Romanian
+Russia
+Slovak
+Spanish
+Swedish
+Turkish
+
+
+Instructions for TTS Engine installation
+Connect your mobile phone to PC,
+Download free the TTS-Engine Acapela: 
+https://play.google.com/store/search?q=acapela&c=apps
+the engine it will be installed automatically to your phone.
+
+Open your mobile phone, connect it with internet,press the 
+https://play.google.com/store in order to buy the voice
+and find the Acapela voice for your country, select buy.
+Pay for voice with a credit or prepaid visa card (the cost for Acapela voice is 3,99 Γé¼ per voice).
+The apk file for Acapela voice will be downloading to your phone.
+Install the apk voice file in your mobile phone from your settings.
+
+Go to settings of your mobile phone:
+Settings/Voice input and output/Voice output/Text-to-speech settings
+
+From the menu Default settings/Default engine
+select Acapela TTS
+
+Go to the menu lanquage and select the voice you have bought from android market.
+Select it.
+
+Go to the menu : Listen to an example
+Here you can here the message from voice Acapela.
+
+Download the lua International voices
+
+
+Instructions
+Copy the add sys.txt file in your sys.txt.
+Copy the downloading lua TTS Pro voices to the path:
+iGO/content/voice
+Run iGO Primo Android and then go to the main menu/More../Settings/Sound and Warnings and select a voice for your country.
+
+Warning!!!
+Those TTS Pro International lua voices you can use with any tts-engine , for example you can use with SVOX voices.
+
+Credits to:
+johntgrk, ScorpioPirate, furat52, chatikib, Knoj, Nico, Newbie, galonet, Andreij, Gabriel, Batojatsu
+
+Have fun guy's :)
+
+Zervdim & ScorpioPirate

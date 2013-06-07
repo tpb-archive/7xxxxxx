@@ -1,0 +1,131 @@
+﻿User Type,Username,Date,Text
+,Piratechnix,2012-10-23T11:43Z,Can someone confirm this one works plz ?
+,tuk1305,2012-10-23T11:49Z,i never saw Hero upload whih desnt work
+,vladguy,2012-10-23T12:18Z,Does this game come with the guitar?
+,bobomsin,2012-10-23T13:15Z,"Yes it works, downloaded it yesterday, installed and started it up. Still waiting for my cable to arrive."
+,Switchak,2012-10-23T14:01Z,@bobomsin its awseome game..I have original copy..but im waiting for DLCs cause theyre fkin expensive. Hope someone will upload them
+,medalcue,2012-10-23T14:33Z,"@vladguy
+Yes it comes with the guitar. Theres a link in the torrent to download and print the guitar. Works perfectly."
+,starstrid,2012-10-23T14:37Z,does this include pre-purchase DLCs like a Heavy Metal Gear?
+,9mmninja,2012-10-23T16:42Z,"@medalcue
+i downloaded and printed the guitar but when i try to do the bass it keeps cutting off the head. i neeeeed longer paper..."
+,dilinwe,2012-10-23T20:46Z,where are the goods dlc's?
+,Piratechnix,2012-10-23T21:45Z,Downloaded this from a different source but I can confirm it works!!!  Need the F'in cable now!!!   =D
+,chiphead,2012-10-23T22:05Z,"For those who don't have the cable, check out this comment from the crack torrent:
+
+piratefrs at 2012-10-23 01:52 CET:
+i've added one fix made by Sadler2, i am not sure if it will help ppl with problems with my exe, but still, here it is:
+bayfiles . com / file / oOoH / 4sjK7g / RocksmithNoCable3DevCapFix.7z
+
+i tested it on my pc, and like the other one it worked just fine.
+if it dont work, then i have no idea what may be causing that error.
+btw, this exe is the same as this release, but modified with a cable bypass."
+,fellipepv,2012-10-24T03:56Z,Do I really need the cable? I mean i can't plug the guitar in the line in or mic ?
+,seaboundrhino813,2012-10-24T04:15Z,"It worked!!!! key word, worked, I've played for an hour or so doing two venues and then it didn't respond, and now ever time I try starting it up, it'll get past all the title screens then crash to desktop"
+,waterl00,2012-10-24T04:16Z,"This is opening to a white window then I get the message ""Rocksmith.exe has stopped working""... is this an issue with windows 7 64 bit, or an issue with my having steam installed?"
+,Rzeractor,2012-10-24T08:33Z,"@ Waterl00 - I'm having the -exact- same issue..i can only alt tab it but when I get ot the sound check it hangs.
+w7 64bit
+ati 6870
+sound blaster audigy
+rocksmith usb cable"
+,FredWedge,2012-10-24T11:37Z,"Hey, it works perfectly, i still going to get a cable...the only problem is that the intro screen, the ubisoft logo, etc. doesnt play any sound and only loads when it's minimized, and in the profile menu, it doesnt play any sound at all, really want it to work when i get my cable! thanks!"
+,FredWedge,2012-10-24T11:39Z,"C'mon, i need help, to get the sound to work! please..."
+,Phil2003,2012-10-24T14:02Z,You need to adapt settings in the rocksmith.ini!
+,gtei,2012-10-24T18:06Z,"@ Waterl00 @ Rzeractor
+For Windows 7 64bit:Try to run it as administrator. It worked perfectly for me. :D"
+,JimmyJames1992,2012-10-24T18:15Z,"White screen, ""rocksmith.exe has stopped working"".
+Any ideas? 
+Thanks very much for the up though. 
+I bought the xbox version, might have to drop the $37 at amazon for the pc version though if I can't get this to work. Tough to justify buying all the dlc again though. "
+,JimmyJames1992,2012-10-24T19:52Z,@gtei Run as admin worked like a champ! Working perfectly. Thanks again to all. 
+,waterl00,2012-10-24T20:46Z,"""run as admin"" fixes the white screen issue, and the  ""RocksmithNoCable3DevCapFix"" crack lets me use my M-Audio Fasttrack Ultra interface, so thanks to everyone for those tips.
+
+Interface latency still seems to be giving me trouble... I see the option to compensate for visual latency, but I need to compensate for interface latency... any ideas?"
+,azoo134,2012-10-24T22:55Z,Thanks for the upload! Can you possibly upload the dlc as well? thanks in advance!
+,piratefrs,2012-10-24T23:54Z,"new exe for multiplayer fix, no cable required.
+bayfiles . com / file / p2Kt / 9hE8Es / RocksmithNoCableNew.7z
+
+ollydbg ROCKS"
+,Rzeractor,2012-10-25T05:12Z,"Phil2003 was on the money. For those having 'freezing' issues at the intro, play around with the rocksmith ini, more specifically, the buffer size and forcewdm."
+,Rzeractor,2012-10-25T05:17Z,"Edit: here are my audio settings in rocksmith.ini that made it work:
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=6
+ExclusiveMode=1
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=1
+MaxOutputBufferSize=0"
+,Flamuri,2012-10-25T13:50Z,It Works! stfu bitches learn to install!
+,Replenish,2012-10-25T20:11Z,"Got it all done, crack applied, audio working, I finally get in game and it says its the Demo version, even with the crack applied"
+,vatney94,2012-10-26T02:00Z,worked perfectly but can someone please upload the dlc it would be greatly appreciated.
+,vctrt,2012-10-26T09:21Z,"After installation the game wouldn't start, it got stuck with black screen. To fix I changed the MaxOutputBufferSize to 0 (i.e. MaxOutputBufferSize=0) and voila! Game works perfectly! Can't wait to get the cable.
+Thank you Hero, you are a master ;-)"
+,Phil2003,2012-10-26T22:45Z,Still waiting for the DLC's.
+,starstrid,2012-10-26T23:55Z,can somebody upload pre-purchase DLCs?
+,maf08d,2012-10-26T23:56Z,Works great! Please upload DLC's. Thanks!
+,Piratechnix,2012-10-27T00:20Z,Got the cable for this today ...works great ..... what a cool game for a beginner....
+,Scyrthis,2012-10-27T13:32Z,Why even bother downloading tis when you stil need the required cable the game comes with?
+,TheRoko121,2012-10-27T13:58Z,U don't need the cable http://thepiratebay.se/torrent/7748964/Rocksmith_Crack_%28By_Themperror_and_Sam2k8%29_CRACK_ONLY here in the comment section is a no-cable crack
+,ChocoboDreams,2012-10-27T20:30Z,"Not everyone needs the cable either. I have the game already for PS3, and it seems that's the case for a lot of people. I'm getting this for both the free Bass DLC already installed, and the potential for the rest of the DLC uploads, -and- mods. Even if I didn't have the cable already, it'd be worth it to buy one just for those reasons alone."
+,Aerionix,2012-10-28T05:56Z,"yep.  Have it for xbox and just eventually found it a pain to get the disc out, fire up the console, deal with the load times, etc.  Pc version solves every issue I've had with the game.  Had it come out at the beginning, it would have been my version of choice, instead of wasting a good $150 on dlc for the xbox.  Guess that won't be an issue now that dlc is being uploaded, thanks again to Themperror for starting the ball rolling."
+,roadkill123,2012-10-28T15:12Z,does anyone know where your profile is save to in this game. have reformat 
+,TudaOpp,2012-10-29T20:16Z,"where do I put the DLCs? I cant see a ""ubisoft/content"" folder in ""Program Files(x 86)"""
+,tein076,2012-10-29T22:29Z,"Can someone please upload ALL DLC's in one torrent please, Thanks!"
+,Leonof,2012-10-30T03:30Z,"hey, im having a little trouble with getting this to work.  i installed and copied everything from the crack over to the file but when i start up it says Appid not configured and then boots up to black.  any solutions?"
+,roytheflame,2012-10-30T04:28Z,A mac version would be nice =P. I can't wait for the avenged sevenfold dlc tomorrow.
+,Demonsthere,2012-10-31T09:03Z,Every time I play I get the crack (NoCableNew) crashed and a white screen both using this and the Theemperors version. What can I do to fix that ? 
+,Hidengrey,2012-11-01T01:27Z,"Works like a charm!
+
+Using Win 7 64bits and Xbox cable.
+
+Thanks +1!"
+,gtei,2012-11-02T02:05Z,"After a few minutes of gameplay, my PC simply shuts down. Wtf, srsly. Does anybody else have the same problem as I?"
+,Nakorentreri,2012-11-02T14:15Z,"Hi everyone ^^ ive installed hundreds of cracked games and ive never had the probs im having with this game... cant get it to work without doing it in '' Run as administrator"" mode wich is weird since its the only game that needs that. Also once in it still wont work correctly. I tried editing the .ini file but that also wont let me do it saying acess denied when i try to save the edited file. This is really weird. I got win 7 64bits with the xbox cable. Id luv some suggestions ^^ and id luv to play this game...thx everyone"
+,Xpl0siv,2012-11-03T12:24Z,"Did anyone found a solution for the white screen at the start of the game and ""Rocksmith has stopped working"" problem( well, let's call it black/white screen, when you turn on the game with adm rights, the R loading sign appears, but then still white screen appears)? I know it's not me only, and many more people have it, i've searched thru countless solutions, but none of them work( adm rights, changing regedit), i know it's not graphics related cause videodump was all success, so gotta be something else.  I would love a constructive comment or a solution( even better ;) ), i'd like to give that thing a try, been waiting quite some time for it."
+,foggy231,2012-11-04T05:16Z,Can anyone tell me where the profile save is located?  I am trying to copy my save from my computer to my laptop.
+,guile78,2012-11-04T16:57Z,"My solution for the white screen at the start of the game with win7: edit rocksmith.ini and change
+MaxOutputBufferSize=0
+
+Probably you must edit as administrator, and save de ini file.
+Then ""run as administrator"" the Rocksmith.exe."
+,kumar94,2012-11-04T22:23Z,"GOT IT TO WORK!!!! 
+
+here are my settings:
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=4
+ExclusiveMode=1
+ForceWDM=1
+ForceDirectXSink=1
+DumpAudioLog=0
+MaxOutputBufferSize=0
+[Renderer.Win32]
+ScreenWidth=1280
+ScreenHeight=720
+MinScreenWidth=640
+MinScreenHeight=480
+Fullscreen=0
+VisualQuality=10
+
+I ALSO RAN IT IN COMPATIBILITY MODE, for win xp service pack 2. nothing else worked until i ran it in compatibility mode. just an FYI"
+,Acid6D94,2012-11-06T22:18Z,"I crash on the second note every time, I have no lag what so ever but as soon as I pluck the second note on any song it will crash. Does anyone else do this and is there a fix?"
+,ziuber18,2012-11-08T16:56Z,"Doesn't work for me. I get white screen.
+Win XP pro SP3.
+Anyone knows how to fix it?"
+,viper7491,2012-11-09T03:33Z,"Kumar94: How do you make this work, I have the crack too, new at this. viper7491@yahoo.com"
+,ian2035,2012-11-11T01:31Z,"Anyone else have an issue that you can't run the game in full screen? The minute I put it to full screen, It freezes my pc and I have to restart it."
+,Anteara,2012-11-12T04:04Z,Can someone please send me their profile? For some reason my profile disappeared while I was pretty progressed in to the game :/
+,fedebettu,2012-11-12T23:33Z,"I can't launch the game, it says i'm missing de d3dx9_42.dll file 
+Am I de only one who gets this error when tries to launch de game?"
+,muffbuffer69er,2012-11-13T21:23Z,"it works and works well, just follow instructions , only thing run as admin , "
+,swemex820,2012-11-14T02:23Z,"Guys I may sound like a nOOb here, sorry I've installed many cracks before..but this is the first time Im having so much issues.. The problem is  that after install, I get the message that Steam isn't running? Do I need to install steam first then apply install RS, if so where do the steam files included in this download go? No matter what I have tried it always complains about steam.  Thanks in advance for any suggestions!"
+,apatiae,2012-11-19T18:55Z,Where are the rocksmith profile stored?
+,apatiae,2012-11-19T22:30Z,Where are the rocksmith profile stored? 
+,apatiae,2012-11-20T15:54Z,never mind i have find it
+,tricloud,2012-11-21T23:58Z,apatiae can you share with us where you found profile?
+,EricLoco,2012-11-22T05:24Z,can I play using the line-in jack?
+,apatiae,2012-11-22T16:47Z,saves are on C:Users(username)AppDataLocalSKIDROW205190 but you have to be pro to make them work in another pc
+,drizt5565,2012-11-23T01:28Z,"Installed w/ no cable crack. first there was crackling! Though everything worked and the notes were recognized.  Then there was ""forceWDm =1"" and there was no crackling yet notes stopped being recognized. Then there was a switch to ""Line in"", still the notes were not recognized.  And Lastly there was configuration of ""line in"" to set the recording quality to above (dvd)level.  Low and behold the notes were recognized once more.  AMEN."
+,psicofrog,2012-11-23T15:20Z,this one has bass dlc?
+,4dri3l,2012-11-23T19:51Z,"hey, to work with m-audio fast trak just install the asio4all driver... set the onboard sondcard as outputs , or hdmi audio output, and fast track as input.... and use the nocable crack..."

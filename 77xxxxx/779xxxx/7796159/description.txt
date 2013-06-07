@@ -1,0 +1,60 @@
+JaSFtp
+
+JaSFtp - Automated Secure File Transfer Protocol (SFTP)
+
+Secure FTP (SFTP), designed with automation in mind, so you do not have to spend time interactively transferring files. For Windows, Mac OSX, Linux and other Unix platforms. 
+
+Easy to use: no programming or scripting required, graphical interface
+Powerful, flexible, reliable and affordable
+Run 1000+ tasks a day
+
+Features:
+
+Simple User Interface helps you transfer files interactively; but the Goal is to let you create advanced automated SFTP and FTP tasks. The tasks can be scheduled to run automatically, or can be run manually.
+
+Automate Secure FTP to/from an intranet or internet server. Schedule FTP of files between your PC and the server, and automatically rename the files based on current month, day or time, if needed. Secure FTP supports wildcards (*). Transfer multiple files at once. Supports subdirectory transfers.
+
+Scheduler software is easy to use, yet has very powerful scheduling, tasking and automation capabilities. 
+
+FTP Command task can run RFC FTP commands in sequence.
+
+Email notification of task failure based on task exit code.
+
+Remote FTP directory monitor can detect directory change and trigger the tasks, such as: FTP , zip, copy, delete. It can detect file size, total number of files, file modification dates and trigger other tasks, if required.
+
+Local directory monitor works similar to the Remote FTP directory monitor.
+
+Zip files and directories using wildcards on a schedule. Can append date/time to filename, for archive purposes.
+
+Copy files and directories using wildcards on a schedule. Can append date/time to filename for archive purposes.
+
+Delete files on a schedule based on wildcards.
+
+Technical Information:
+
+Support for both SSH protocols, SSH1 and SSH2
+SFTP transfer protocols supported
+Password, Public key authentication
+3DES, DES & Blowfish ciphers
+Optional Twofish, AES & CAST ciphers
+Stateful decryption counter (SDCTR) mode cipher for AES
+SHA1, MD5 Message Authentication Codes (MACS)
+RSA, DSA public/private key file generation, in SSHTools, OpenSSH and SSH1 formats
+Supports reading of PuTTY and SSH.com public/private keys
+Public key subsystem
+ZLIB compression
+SSH2 custom channels
+HTTP, SOCKS 4 and SOCKS 5 proxy support
+diffie-hellman-group-exchange-sha1 Key Exchange
+
+Supported OS:
+
+Windows 2000,XP,2003,Vista,2008,7,8
+
+Homepage: http://www.hiteksoftware.com/index.html
+
+Installation Instructions:
+
+1. Install Program.
+2. Generate Key. Instructions given in key folder.
+3. Done, Enjoy.

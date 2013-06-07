@@ -1,0 +1,28 @@
+Diablo III 1.05 DemonBuddy Bot Cracked
+
+[img]http://www.diablo3farming.com/wp-content/uploads/2012/07/diablo3farming.com-demonbuddy-D3-bot.jpg[/img]
+
+1. Download all the files
+2. Create folder on Desktop, name the folder whatever you want (We'll call it Betabot)
+3. Extract Demonbuddy in new 'Betabot' folder
+4. Extract Auth in new 'Betabot' folder
+5. Extract offsets in offsets folder ('Betabot' - Offsets - file) 
+6. Add to C:WindowsSystem32driversetchosts file (I realize it is redundant to implement all 6)
+127.0.0.1 auth3.buddyauth.com 
+127.0.0.1 auth2.buddyauth.com
+127.0.0.1 www.buddyauth.com
+188.165.234.190 auth3.buddyauth.com 
+188.165.234.190 auth2.buddyauth.com 
+188.165.234.190 http://buddyauth.com
+7. Extract Patch in new 'Betabot' folder
+8. Run patch as admin and when prompted show it Demonbuddy.exe, tick "Disable serverside navigation" if you wish. If failed run again as admin.
+9. Open Diablo 3, Run Auth, Run Demonbuddy, Login to Demonbuddy software when prompted as whatever you like (IE. 123 or 1234).
+10. Demonbuddy will now generate new folders in the root folder 'Betabot' named Plugins ect ect.
+11. Download profiles(pathing to kill monsters), plugins (profile run order/loot customization/ect), combat routines from Ciggarc or the official Demonbuddy forums. 
+
+You should be setup now, if your DB crashes you most likely don't have the correct .net framework. Run the tool in your 'Betabot' - help folder.
+
+Recommended:
+Plugins: Radsatom, Giles Trinity
+Routines: Giles blank combat routine (for use with Trinity)
+Profiles: Act1 or 2 or 3 Champion Hunting

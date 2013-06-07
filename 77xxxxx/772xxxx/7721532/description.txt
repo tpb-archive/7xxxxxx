@@ -1,0 +1,31 @@
+Xshell is a powerful terminal emulator that supports SSH, SFTP,
+TELNET, RLOGIN and SERIAL. It delivers industry leading
+performance and feature sets that are not available in its free
+alternatives. Features that enterprise users find useful include
+tabbed environment, dynamic port forwarding, custom key mapping,
+user defined buttons, VB scripting, and UNICODE terminal for
+displaying 2 byte characters and international language support.
+
+Xshell offers many user friendly features that are not available
+in other terminal emulators. These features include Zmodem file
+upload by drag and drop, Zmodem file download by selecting the
+file name, simple mode, full screen mode, transparency option and
+custom layout mode. These features will save time and effort when
+performing terminal tasks.
+
+Specification:
+
+General
+Supports SSH1, SSH2, SFTP, TELNET, RLOGIN and SERIAL protocols
+Windows 2000 SP4 and above
+Multi-user configuration
+Keep-alive option
+Supports Multi-session (Session tab, Session bar)
+User defined key mapping
+VB Scripting support
+Auto reconnect lost connections
+
+Install:
+
+- run setup
+- insert serial

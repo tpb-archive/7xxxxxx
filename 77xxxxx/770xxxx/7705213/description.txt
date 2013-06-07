@@ -1,0 +1,37 @@
+FPse for Android is the fastest and most compatible PSone (also known as PSX or Playstation 1) emulator for handheld devices.
+Create an ISO image from your favorite games and enjoy playing them on your Android phone.
+
+FPse features the following:
+-High performance
+-High compatibility
+-High sound quality
+-Real-time save states
+-Audio track emulation (using .cue files)
+-Force-feedback
+-Dynamically loadable Overlay Pads
+-Guncon emulation
+-Analog Stick emulation (using touchscreen slide)
+-Compatible with G-Sensor, Touchscreen and Hardware keys
+-Supports .img, .iso, .bin, .cue, .nrg and .Z disc image formats
+
+Grab and enjoy this initial release!
+
+A few tips to improve your gameplay experience:
+-in Landscape orientation DPAD and Main 4 buttons are activated, if you want to activate all others, go in menu/input/touchscreen and select others buttons.
+-Create a default configuration by setting your desired options and then selecting ΓÇ£Default Config SaveΓÇ¥ in the System Menu.
+-CALL, BACK, VOLUME UP/DOWN buttons can be assigned as PSone buttons but can be used is not assigned.
+-Guncon emulation requires the A and B buttons to be mapped to Hardware keys. By default: L3 = A and R3 = B.
+-SPUSync is required for proper sound quality in certain games such as MGS and FFVII.
+-Frameskip set to 50 will avoid sound stuttering on load end device or with somes games that use much CPU.
+
+What's in this version:
+FPse 0.11.53 Changes:
+- Fixed crash in enable/disable cheats menu.
+
+Note:
+1.Install Fpse and don't launch application
+2.Install fpse.activator.apk
+3.Run the fpse activator choose patch it
+4.Enjoy!
+
+Or you can remove verification via lucky patcher custom patch.

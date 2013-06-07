@@ -1,0 +1,88 @@
+===================== General =====================
+Complete name               : Joan of Arc.mp4
+Format                      : MPEG-4
+Format profile              : Base Media / Version 2
+Codec Id                    : mp42
+File size                   : 3.50 GB
+Duration (ms)               : 3h 9mn
+Total bitrate               : 2 650 Kbps
+Encoded date                : UTC 2012-01-02 15:43:48
+Tagged date                 : UTC 2012-01-03 07:16:15
+Encoded application         : HandBrake 0.9.5 2011010300
+Cover                       : Yes
+
+===================== Video =====================
+Id                          : 1
+Format                      : AVC
+Format info                 : Advanced Video Codec
+Format profile              : High@L3.1
+Use of CABAC                : Yes
+RefFrames                   : 4 frames
+Codec Id                    : avc1
+Codec info                  : Advanced Video Coding
+Duration (ms)               : 3h 9mn
+Bitrate mode                : Variable
+Bitrate                     : 2 327 Kbps
+Width                       : 720 pixels
+Height                      : 720 pixels
+Aspect ratio                : 16:9
+Framerate mode              : Variable
+Framerate                   : 23.961 fps
+FrameRate_Minimum/String    : 8.563 fps
+FrameRate_Maximum/String    : 38.347 fps
+Colorimetry                 : YUV
+Colos space                 : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.187
+Stream size                 : 3.08 GB (88%)
+Encoded library             : x264 core 112
+Encoded library settings    : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=51 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Encoded date                : UTC 2012-01-02 15:43:48
+Tagged date                 : UTC 2012-01-03 07:16:14
+Color primaries             : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics    : BT.709-5, BT.1361
+Matrix coefficients         : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+===================== Audio =====================
+Id                          : 2
+Format                      : AAC
+Format info                 : Advanced Audio Codec
+Format profile              : LC
+Codec Id                    : 40
+Duration (ms)               : 3h 9mn
+Bitrate mode                : Variable
+Bitrate                     : 316 Kbps
+Bitrate maximum             : 389 Kbps
+Channel(s)                  : 2 channels
+ChannelPositions            : Front: L R
+Sampling rate               : 48.0 KHz
+Compression_Mode/String     : Lossy
+Stream size                 : 429 MB (12%)
+Language                    : English
+Encoded date                : UTC 2012-01-02 15:43:48
+Tagged date                 : UTC 2012-01-03 07:16:12
+
+===================== Text #1 =====================
+Id                          : 3
+Format                      : Timed text
+Muxing mode                 : sbtl
+Codec Id                    : tx3g
+Duration (ms)               : 3h 7mn
+Bitrate mode                : Variable
+Bitrate                     : 59 bps
+Stream size                 : 81.4 KB (0%)
+Language                    : English
+Encoded date                : UTC 2012-01-02 15:43:48
+Tagged date                 : UTC 2012-01-03 07:14:27
+
+===================== Text #2 =====================
+Id                          : 4
+Format                      : Apple text
+Codec Id                    : text
+Duration (ms)               : 3h 9mn
+Bitrate mode                : Variable
+Bitrate                     : 1 bps
+Stream size                 : 855 Bytes (0%)
+Encoded date                : UTC 2012-01-02 15:43:48
+Tagged date                 : UTC 2012-01-03 07:16:14

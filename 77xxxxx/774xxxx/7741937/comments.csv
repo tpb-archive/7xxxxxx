@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+[T],Gh0stNet,2012-10-19T13:30Z,This update contains  all the previous updates and Enjoy!
+[T],Gh0stNet,2012-10-19T13:47Z,"ChangeLog:-
+
+GRAPHICS
+*Intel HD graphics cards should not show ghosting/smearing effects if shadows are enabled
+
+PERFORMANCE
+*LARGE performance optimization to buff/debuff bar displays when there are a large number of overlapping, nonexclusive effects (damage over time, and duration based effects or knockback )
+
+SKILLS
+*Shield Bash bonus damage now deals the stated amount(charged and uncharged)
+*Wolfpack will properly strike turrets
+*Bonuses due to proximity now always expire properly
+*Damage bonuses/reductions for Battle Rage properly expire
+*Fixed Critical Hit bonuses on some effects not properly incorporating bonuses to crit
+*Pet damage bonuses are applied to effects
+
+LEVELS
+*Three Sisters zone now has an appropriate level range for proper NG+ reward scaling
+*Various issues resolved in Luminous Arena in multiplayer
+*Level determinism fixed (Was broken with precacheing in previous patch - could result in triggerable elements and some structural elements re-randomizing on load, or in multiplayer)
+
+ITEMS
+*Set reward for Inquisitor set altered to a functional bonus
+*Fixes to the summon skull proc on equipment (prevents it from spawning exactly on a target)
+*Effects based on proximate monsters now work properly with socketables
+*DOTs were not properly attributing experience if the effect was applied from an item instead of a skill
+
+MISC
+*Target Dummy is Charm resistant
+*Fixed issue where rebinding Close All Menus could lock you in pause mode
+*Fix for shift-click casting a left-click spell and then selecting an item (would previously auto-attack)
+*Pet enhancing bonuses work more consistently for pets attached to OTHER pets"
+,nofear2161,2012-10-19T14:25Z,So fast
+,TaZeRz,2012-10-19T14:46Z,Thanks Torchlight 2 is the best game ever made.
+,xTravand,2012-10-19T17:02Z,Gh0stNet thanks! Soooo fast and dependable...you are the best :)
+,Tsuzuriko,2012-10-19T17:05Z,I wonder if this update will fix my crashes when playing on LAN...
+,Beograd_011,2012-10-19T23:32Z,mp works or not ? with update 1 2 3 no working multiplayer for me :( ?
+,SharkillerARG,2012-10-20T00:41Z,"all version works for me. (multipleyer)
+
+use Evolve for lan gamming, never a problem."
+,DDManiac,2012-10-20T05:33Z,does this include patch 1.15.5.2 that stops crashes in multiplayer?
+,xTravand,2012-10-20T11:57Z,this version is still at 1.14. Is it true that the multiplayer crashes?
+,xTravand,2012-10-21T12:23Z,Hi Gh0stNet! Just want to know if you are going to release the v1.15 of this game. Been waiting for it. Thanks and more power!
+,kudaj316,2012-10-28T16:18Z,"TIPS: ATI Graphics users having FRAME RATE issues
+
+1.Download Torchlight 2-reloaded and install
+2.do not download reloaded updates, instead download THETA updates, and install
+3.your good to go
+
+reloaded updates has issues on ati cards, which will cause memory leaks after 
+playing for several minutes, hope this helps.."
+,ttusa,2012-11-07T18:38Z,"First off, thanks for all the great uploads you've given us Gh0st.  This is the first time one of yours hasn't worked for me, upon launch I'm getting an error message:
+
+""Curses! Torchlight II has crashed!""
+
+Any ideas?"
+,lolnope,2012-11-09T09:15Z,"@ttusa:Instal the game then download update 2 
+here's the link http://thepiratebay.se/torrent/7698671/Torchlight.II.Update.2-RELOADED"
+,ttusa,2012-11-11T06:51Z,"@lolnope
+Thanks for the help, I figured out my problem...I didn't realize this was just a patch not the full game, once I got that too everything seems to be running fine :)"

@@ -1,0 +1,69 @@
+This is my remux with AC3 Audio done with an older version of MKVMerge to be compatible 
+
+with more devices.                                               				
+
+												
+
+												
+
+Enjoy and please share.										
+
+												
+
+												
+
+TTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTLTTL						
+
+												
+
+												
+
+												
+
+Hunted_S01_E04_720p_WEB-DL_AC3_TTL.mkv
+Format                           : Matroska
+File size                        : 1.05 GiB
+Duration                         : 59mn 21s
+Overall bit rate                 : 2 529 Kbps
+Encoded date                     : UTC 2012-10-29 13:44:59
+Writing application              : mkvmerge v2.4.0 ('Fumbling Towards Ecstasy') built on 
+
+Oct 11 2008 20:13:15
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 6 frames
+Muxing mode                      : Container profile=Unknown@4.1
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 59mn 21s
+Bit rate                         : 2 158 Kbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Standard                         : PAL
+Resolution                       : 8 bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.094
+Stream size                      : 916 MiB (85%)
+Language                         : English
+
+Audio                            : English
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 59mn 21s
+Bit rate mode                    : Constant
+Bit rate                         : 320 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : L R
+Sampling rate                    : 48.0 KHz
+Stream size                      : 136 MiB (13%)
+

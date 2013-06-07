@@ -1,0 +1,61 @@
+﻿User Type,Username,Date,Text
+,potito,2012-10-26T11:12Z,"Hi 
+
+I tried, and follow your directions, but when I finish the installation, I get a pop-up warning: no license found, you need a licensed.
+
+I checked the version installed as says that is the ""standard"" version, not the ""advanced"" one. I don't know what happened but I'm a 100% sure I selected the advanced version during the installation procedure. 
+
+Despite that, if seems to work this first time I'm using it..... but since I installed the trial version, as instructed, I might have a problem later on.
+
+What did I do wrong??? 
+
+Thanks for your help 
+
+
+"
+,OMBN00B,2012-10-27T01:05Z,"I've got the same problem as potito. I did exactly like the instructions said and all I've got is
+
+No license found
+DT Pro Standard install
+Could not add any drives because I already reached maximum (when I didn't even have 1)"
+,aznpr1de,2012-10-27T01:30Z,"Nope same here, followed instructions and still says the same error. I believe its a bad crack"
+,XERJIE,2012-10-27T03:03Z,"After Installation And Applying Cracks
+
+1.Open DAEMON TOOLS PRO Then You'll See An Error Message ""  "" 
+
+2.Go To HELP > LICENSE > CHANGE > PAID LICENSE > Enter Any Number In The SERIAL (Example: 98989898989898999999989898989989)
+
+3.Exit DAEMON TOOLS PRO Then OPEN It Again
+
+4.Done! Works Like A Charm :]"
+,macblasterbr,2012-10-28T02:45Z,Yep XERJIE... works like you said. thx!!!
+,kxt2009,2012-10-28T10:31Z,Thanks XERJIE !!!
+,fernav71,2012-11-01T19:44Z,"Thanks, but the .reg file must be added AFTER INSTALLING, not before, then it works fine as XERJIE said."
+,XERJIE,2012-11-03T01:03Z,"Yeah! It's Important,I Forgot To Mention"
+,antoonb,2012-11-04T06:24Z,"===========================
+Instruction:
+===========================
+
+1. Run Setup. Select Trial license - Advanced Edition and install program. 
+2. Make sure that program is closed.
+3. Now install regfile ""ConnectionSettings.reg"" to the registry (double click on it).
+4. Copy MSIMG32.dll to install folder with program.
+5. Copy dtpro.dat to: Windows XP: C: > Documents and Settings > Allusers > Application Data > Daemon Tools Pro
+		      Windows Vista/7/8: C > ProgramData > Daemon Tools Pro		
+6. Now open Daemon Tools click help, license then Change select paid then next.
+   cancel the warning and close the program on reopen it will be Daemon Tools Pro Advanced. 
+
+That`s all. You have full cracked Advanced Edition :)
+
+If you made a mistake on other 5.2.0.0348 cracks then you will have to fix your registry first.
+
+Easy Fix: Uninstall Daemon Tools First then
+	  Click Run then type regedit enter.
+	  Click find then search for Dt Soft and delete all entries use the f3 button on keyboard to search all entries.
+	  Back to find then search for Daemon Tools delete all entries on the same way.
+	  Do not delete your download directory folder with Daemon tool.exe in it.
+	  If you do delete it then you will have to download it again"
+,thersmore,2012-11-11T14:07Z,"I have installed the program, but i have no idea where to find  the ""ConnectionSettings.reg"" or how to install it to the registry. Ima kinda new to this whole torrent thing honestly so any help would be pretty awsome at this point"
+,SkmanG,2012-11-12T13:28Z,Thanks guys.
+,XERJIE,2012-11-13T22:23Z,"thersmore - Just Double Click ""ConnectionSetting.reg"" Then Click ""OK"" And You're DONE!"
+,NTY,2012-11-13T22:56Z,Thank you for the crack whoever made it.

@@ -1,0 +1,11 @@
+The HERiTAGE crack for v9.0.1 had just one file different within the .jar archive compared to the unmodified installation.
+The file (com/zend/php/core/core/key/b.class) does not differ between versions 9.0.1 to 9.0.4.
+So I just replaced the file for v9.0.4 with the one from HERiTAGE's original crack.
+
+Installation:
+
+1. Download and install the v9.0.4 trial from Zend's HP
+2. Replace the file com.zend.php.core_9.0.4.201210081806.jar
+   inside C:\Program Files\Zend\Zend Studio 9.0.4\plugins
+   with the one from this crack
+3. Use the "Zend Studio Standard" key inside the Keys.txt file to register

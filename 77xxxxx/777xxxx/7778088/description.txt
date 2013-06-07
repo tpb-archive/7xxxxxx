@@ -1,0 +1,20 @@
+otrtool aims to provide an open source tool to deal with otrkey-files from
+onlinetvrecoder.com. At the moment it is able to decrypt them, in the
+future a download manager and/or EPG could be added.
+
+
+This version is precompiled for MAC OS X 10.8
+
+In Short:
+put encrypted blah.otrkey file in otrtool folder
+open terminal and cd to folder
+run ./otrtool and follow instructions
+
+
+original idea by Eddy14 
+c version by  PyroPeter 
+mac compiling+linking by kaktus
+
+
+--
+kaktus66

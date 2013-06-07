@@ -1,0 +1,19 @@
+mIRC is a popular Internet Relay Chat client used by millions of people, and thousands of organizations, to communicate, share, play and work with each other on IRC networks around the world. Serving the Internet community for over a decade, mIRC has evolved into a powerful, reliable and fun piece of technology. mIRC is a full featured Internet Relay Chat client for Windows that can be used to communicate, share, play or work with others on IRC networks around the world, either in multi-user group conferences or in one-to-one private discussions. It has a clean, practical interface that is highly configurable and supports features such as buddy lists, file transfers, multi-server connections, SSL encryption, proxy support, UTF-8 display, customizable sounds, spoken messages, tray notifications, message logging, and more.
+
+WhatΓÇÖs New:
+
+*A ΓÇ£Mark As ReadΓÇ¥ option has been added to the treebar, switchbar, toolbar and MDI popup menus to allow you to clear all flashing/highlighted windows.
+*The $hfind() identifier has been extended to allow results to be saved to a @window listbox or passed to a command.
+*An SSL connection issue has been fixed that prevented mIRC from connecting to servers with certificates that used unrecognized date formats.
+*A hotlink display issue has been fixed that caused text to flicker when hovering the mouse over a link.
+*SSL support for Subject Alternative Names (SAN) has been added when verifying whether a certificate is valid for the connection.
+*A number of issues with the reload logs feature have been fixed, including incorrect line indentation and missing lines at the end of a log in some situations.
+*An issue with the split long messages feature has been fixed which occurred when handling color formats in some contexts.
+*An Address Book bug that prevented removal of an existing timed unignore has been fixed.
+*The way incremental search works in channel nickname listboxes has been changed so that it behaves more like Windows explorer.
+*The /localinfo -p option has been changed to use a random UPnP port outside the first 1056 services port range as some routers block these ports.
+
+Install:
+
+- run application
+- copy the included cracked file to the installed folder, then register it with any registration information

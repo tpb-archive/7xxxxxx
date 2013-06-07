@@ -1,0 +1,68 @@
+Linux Firewalls
+
+V413HAV
+
+For More Quality Uploads : 
+
+The Piratebay : https://thepiratebay.se/user/V413HAV/
+
+Facebook Page Address And E-Mail ID In Read Me.txt
+
+E-Book On Amazon - http://www.amazon.com/Linux-Firewalls-Detection-Response-iptables/dp/1593271417
+
+Support The Developers. If You Like It, Buy It.
+
+
+     ||     ||    ||||||| TM
+   ||||     ||         ||
+  || ||     ||         ||
+ ||  ||     ||    |||||||
+||||||||||  ||         ||
+     ||     ||         ||
+     ||     ||    |||||||
+
+Formats: EPUB, PDF
+
+Book Description
+System administrators need to stay ahead of new security vulnerabilities that leave their networks exposed every day. A firewall and an intrusion detection systems (IDS) are two important weapons in that fight, enabling you to proactively deny access and monitor network traffic for signs of an attack.
+
+Linux Firewalls discusses the technical details of the iptables firewall and the Netfilter framework that are built into the Linux kernel, and it explains how they provide strong filtering, Network Address Translation (NAT), state tracking, and application layer inspection capabilities that rival many commercial tools. YouΓÇÖll learn how to deploy iptables as an IDS with psad and fwsnort and how to build a strong, passive authentication layer around iptables with fwknop.
+
+Concrete examples illustrate concepts such as firewall log analysis and policies, passive network authentication and authorization, exploit packet traces, Snort ruleset emulation, and more with coverage of these topics:
+
+- Passive network authentication and OS fingerprinting
+- iptables log analysis and policies
+- Application layer attack detection with the iptables string match extension
+- Building an iptables ruleset that emulates a Snort ruleset
+- Port knocking vs. Single Packet Authorization (SPA)
+- Tools for visualizing iptables logs
+
+Perl and C code snippets offer practical examples that will help you to maximize your deployment of Linux firewalls. If youΓÇÖre responsible for keeping a network secure, youΓÇÖll find Linux Firewalls invaluable in your attempt to understand attacks and use iptablesΓÇöalong with psad and fwsnortΓÇöto detect and even prevent compromises.
+
+Visit the bookΓÇÖs companion site for supporting files, downloads, errata, and more.
+
+Table of Contents
+Chapter 1. Care and Feeding of iptables
+Chapter 2. Network Layer Attacks and Defense
+Chapter 3. Transport Layer Attacks and Defense
+Chapter 4. Application Layer Attacks and Defense
+Chapter 5. Introducing psad. The Port Scan Attack Detector
+Chapter 6. psad Operations. Detecting Suspicious Traffic
+Chapter 7. Advanced psad Topics. From Signature Matching to OS Fingerprinting
+Chapter 8. Active Response with psad
+Chapter 9. Translating Snort Rules into iptables Rules
+Chapter 10. Deploying Fwsnort
+Chapter 11. Combining psad and Fwsnort
+Chapter 12. Port-Knocking vs. Single Packet Authorization
+Chapter 13. Introducing fwknop
+Chapter 14. Visualizing iptables Logs
+
+Appendix A. Attack Spoofing
+Appendix B. A Complete fwsnort Script
+
+Book Details
+Paperback: 336 pages
+Publisher: No Starch Press (September 2007)
+Language: English
+ISBN-10: 1593271417
+ISBN-13: 978-1593271411

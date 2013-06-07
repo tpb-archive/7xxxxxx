@@ -1,0 +1,76 @@
+﻿User Type,Username,Date,Text
+,sizons,2012-10-23T12:45Z,PC gameplay from moh warfighter : 
+,grufu,2012-10-23T16:03Z,How to register this game in regedit to change language ?
+,grufu,2012-10-23T16:11Z,People please I need a register >? enyone ?
+,mboveiri,2012-10-23T17:25Z,"@grufu
+its in russian and need english language pack for english.
+read more : http://www.gaming-globe.co.in/2012/10/dl-medal-of-honor-wf-crack-fixupdate.html"
+,Worldm4g3,2012-10-23T20:52Z,"I'm having a hard time actually chaning language in this game, and the link mboveiri provided didn't really seem to help. I don't suppose anyone can actually tell me how to do this in a rather simple manner? thanks."
+,rocky0412,2012-10-23T23:02Z,"How to change
+
+Open notepad and paste the below lines
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWAREDanger Close GamesMedal of Honor Warfighter]
+""GDFBinary""=""C:\Games\Medal of Honor Warfighter\GDFBinary_ru_RU.dll""
+""Locale""=""ru_RU""
+""Install Dir""=""C:\Games\Medal of Honor Warfighter\""
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+""GDFBinary""=""C:\Games\Medal of Honor Warfighter\GDFBinary_ru_RU.dll""
+""Locale""=""ru_RU""
+""Install Dir""=""C:\Games\Medal of Honor Warfighter\""
+
+Change GDFBinary dll name & path, Locale, Dir path
+Save as warfighter.reg
+Run the reg file
+
+NOTE: if you want French change GDFBinary_ru_RU.dll to GDFBinary_fr_FR.dl
+
+Same for other languages..
+JP,KO,PL,RU,FR,DE,ES,EN "
+,n944la,2012-10-24T04:49Z,"Hi guys
+
+I have this downloaded okay, however, I was wondering which 'crack' I should be looking to download for this. 
+
+I have seen a few out there with versions approaching x.x.3 & 4 and I was told those were not even out yet. 
+
+Could someone post a link to the proper file please. 
+
+Thank you very much
+
+Tim"
+,fahfts,2012-10-24T19:06Z,"What do was edited, it was removed?"
+,fahfts,2012-10-24T19:25Z,"what do has changed, been removed?
+ ..."
+,fahfts,2012-10-25T09:25Z, how to change language ?
+,mrehabaly,2012-10-25T13:08Z,"HELLOOO  GUYES  ,,, HERE IS THE ENGLISH LANGUAGE PACK  ......   GO ON  I DID IT  
+
+http://thepiratebay.se/torrent/7758753"
+,MohammadSarrar,2012-10-25T15:56Z,Please i have this copy and i have a black screen when car chase start and i tired of cracks and updates nothing help me :(
+,dwilly66,2012-10-28T21:16Z,mrehabaly GO FUCK YOURSELF YOU HAVE NO CLUE AND YOUR DUMB ASS LANGUAGE PACK DOESN'T WORK SO FUCK OFF AND DIE
+,gino1965,2012-10-31T19:04Z,"Thank you for your work!, it's working fine in english after applying mrehabaly's language pack."
+,gino1965,2012-10-31T19:07Z,Thank you rocky0412. The reg updated well with your procedure. and game is working fine!
+,gino1965,2012-10-31T19:13Z,"Thank you rocky0412. The reg updated well with your procedure. and game is working fine, in english!"
+,levin123,2012-11-04T12:01Z,"Those having difficulties to proceed to load the car mission(hot pursuit) kindly
+change the language from english to russian.
+After you beat the level,then change it back to english. It's working for me!
+
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_en_US.dll""
+
+""Locale""=""en_us""
+
+
+to
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+
+""Locale""=""ru_RU"""
+,asd-08,2012-11-20T20:06Z,"Medal of Honor Airborne v1.3 Eng/Rus Repack (3.61 GB Only) Easy Installation - without Any Win7 or Win8 Installation Problem :
+http://thepiratebay.se/torrent/7434904/Medal_of_Honor_Airborne_v1.3__Eng_Repack"

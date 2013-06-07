@@ -1,0 +1,39 @@
+Installing Stalkersoup
+
+Step 1) patch your copy of Shadow of Chernobyl to v1.0005
+
+
+this is the main mod and all the patches needed as well as the first five (5) pre-patches
+
+Step 2) unpack these files using any program that can handle .7z (7zip) extensions to a directory of your choice (i.e winrar/7zip)
+
+now you should have a directory containing the following:
+_appdata_ (directory)
+gamedata (directory)
+gamedata.dbd
+gamedata.dbe
+gamedata.dbf
+gamedata.dbg
+gamedata.dbh
+gamedata.dbi
+gamedata.dbj
+gamedata.dbk
+gamedata.dbl
+fsgame.ltx
+
+copy all these files/folders to your Shadow of Chernobyl installation directory
+
+Step 3) extract the pre-patches 6 -> 8
+specifically the files:
+TB3D_1_0_9_9_1_fix6.zip
+TB3D_1_0_9_9_1_fix7.zip
+TB3D_1_0_9_9_1_fix8.zip
+
+unpack the gamedata directory within these files, in the order that they are numbered (6, 7, 8) to your Shadow of Chernobyl installation directory, overwriting when asked
+
+Step 4) open your Shadow of Chernobyl installation directory and go to the directory named bin, find the file named xrGame.dll and make a backup copy of this file (I usually rename it to .bak, instead of .dll, but either way make sure to keep a backup of it somewhere)
+
+
+
+copy xrGame.dll to your Shadow of Chernobylbin directory (replacing the file you may have there, after having made a backup of it)
+(this file is needed in order for the engine to be able of handling more RAM for the mod)

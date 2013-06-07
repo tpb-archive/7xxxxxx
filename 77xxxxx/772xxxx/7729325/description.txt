@@ -1,0 +1,30 @@
+Note: This will not fit on a single layer 4.5gb dvdr.
+
+There are no well established activation bypasses as of yet, so I have not included them.
+
+Sources:
+MICROSOFT.WINDOWS.8.PROFESSIONAL.RTM.X86.ENGLISH.DVD-WZT,
+MICROSOFT.WINDOWS.8.ENTERPRISE.RTM.X86.VOLUME.ENGLISH.DVD-WZT
+This 32-bit RTM is Build 9200
+Indexes: Win 8 Pro x86, Win 8 Enterprise x86, Win 8 x86 
+
+MICROSOFT.WINDOWS.8.PROFESSIONAL.RTM.X64.ENGLISH.DVD-WZT,
+MICROSOFT.WINDOWS.8.ENTERPRISE.RTM.X64.VOLUME.ENGLISH.DVD-WZT
+This 64-bit RTM is Build 9200
+Indexes: Win 8 Pro x64, Win 8 Enterprise x64, Win 8 x64
+
+Tools used:
+gimagex2 for image extraction and maximum recompression
+Dism for .msu file package addition
+oscdimg for iso creation with boot sector
+
+x86 KB Files added via add-package dism:
+KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703
+
+x64 KB Files added via add-package dism:
+KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703
+
+I have made it a point not to modify or customize any windows programs or settings in any way.
+
+Enjoy,
+Murphy78 :)

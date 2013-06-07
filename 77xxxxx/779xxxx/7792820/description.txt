@@ -1,0 +1,18 @@
+Diskeeper┬« 12 keeps your PCs and Servers running like new, extending their useful life. Everyone has experienced the pain of a Windows machine becoming progressively slower the longer you use it and the more software you install on it. Diskeeper with its patented, proactive IntelliWrite technology eliminates this experience by preventing files from fragmenting at the Windows level, so you get maximum performance out of every application and system immediately. This proactive technology keeps systems running like new whether you are a large enterprise, small business, government agency or a home user.
+
+Key Benefits of Diskeeper:
+Keep Your Servers, Storage & Applications Running Like New
+Make Sure Microsoft Applications Work at Top Speed
+Increase PC, Workstation and Server Performance
+Help Reclaim Free Space for Improved Storage Utilization
+Easy to Buy, Install and Use Minimizing Impact on IT Staff
+Centrally Manage Using Administrator
+Microsoft Certified for the Latest Windows Environment
+
+Install:
+
+- Install Diskeeper Trialware
+- When ending, open "Task Manager" to close "DkService"
+- Open "regedit" and go to: HKEY_LOCAL_MACHINESOFTWAREDiskeeper CorporationDiskeeper Delete Licensing
+- Copy "Pro TW45.DAL" Files in the Installation Folder C:Program FilesCondusiv TechnologiesDiskeeper
+- Launch Diskeeper 12

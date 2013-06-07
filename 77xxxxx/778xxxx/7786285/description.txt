@@ -1,0 +1,12 @@
+This download contains all the paid plugins I was able to get.
+Some plugins when uploading says it inst capable with your version of mybb so to fix this issue do the following.
+
+Navigate to the plugin you would like to activate and open it with notepad.
+
+Find
+
+" "compatibility" => "14*" "
+
+Change to
+
+" "compatibility" => "16*" "

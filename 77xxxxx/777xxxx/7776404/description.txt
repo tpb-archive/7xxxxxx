@@ -1,0 +1,29 @@
+A rootkit is a program or a program kit that hides the presence of malware in the system.
+
+A rootkit for Windows systems is a program that penetrates into the system and intercepts the system functions (Windows API). It can effectively hide its presence by intercepting and modifying low-level API functions. Moreover it can hide the presence of particular processes, folders, files and registry keys. Some rootkits install its own drivers and services in the system (they also remain ΓÇ£invisibleΓÇ¥).
+
+
+Kaspersky Lab has developed the TDSSKiller utility that allows removing rootkits.
+
+The utility supports 32-bit and 64-bit operation systems.
+The utility can be run in Normal Mode and Safe Mode.
+
+It detects and removes the following malware:
+
+
+malware family Rootkit.Win32.TDSS;
+bootkits;
+rootkits.
+
+
+List of malicious programs:
+
+Rootkit.Win32.TDSS, Rootkit.Win32.Stoned.d, Rootkit.Boot.Cidox.a, Rootkit.Boot.SST.a, Rootkit.Boot.Pihar.a,b,c, Rootkit.Boot.CPD.a, Rootkit.Boot.Bootkor.a, Rootkit.Boot.MyBios.b, Rootkit.Win32.TDSS.mbr, Rootkit.Boot.Wistler.a, Rootkit.Win32.ZAccess.aml,c,e,f,g,h,i,j,k, Rootkit.Boot.SST.b, Rootkit.Boot.Fisp.a, Rootkit.Boot.Nimnul.a, Rootkit.Boot.Batan.a, Rootkit.Boot.Lapka.a, Rootkit.Boot.Goodkit.a, Rootkit.Boot.Clones.a, Rootkit.Boot.Xpaj.a, Rootkit.Boot.Yurn.a, Rootkit.Boot.Prothean.a, Rootkit.Boot.Plite.a, Rootkit.Boot.Geth.a, Rootkit.Boot.CPD.b, Backdoor.Win32.Trup.a,b, Backdoor.Win32.Sinowal.knf,kmy, Backdoor.Win32.Phanta.a,b, Virus.Win32.TDSS.a,b,c,d,e, Virus.Win32.Rloader.a, Virus.Win32.Cmoser.a, Virus.Win32.Zhaba.a,b,c, Trojan-Clicker.Win32.Wistler.a,b,c, Trojan-Dropper.Boot.Niwa.a, Trojan-Ransom.Boot.Mbro.d, e, Trojan-Ransom.Boot.Siob.a, Trojan-Ransom.Boot.Mbro.f.
+
+
+How to disinfect a compromised system
+
+Download the TDSSKiller.zip archive and extract it into a folder on the infected (or possibly infected) computer with an archiver (WinZip, for example);
+Run the TDSSKiller.exe file;
+Wait until the scanning and disinfection completes. A reboot might require after the disinfection has been completed.
+Read more at

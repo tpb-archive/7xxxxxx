@@ -1,0 +1,13 @@
+Inquisitor is an open-source hardware testing and certification system, suitable for both enterprise and home use, customizable, modular and available in both serverless Live CD/DVD format and server-controlled network boot production system.
+
+It can analyse and test your hardware from top to the bottom and assure that it wonΓÇÖt fail easily under the production stress.
+
+Inquisitor is:
+
+    Flexible: you can adjust just about any parameter in analysis or testing process and customize the system to the widest extent.
+    Modular: itΓÇÖs made up from a series of interchangeable modules; one can easily add new modules to add new tests, detections, production steps, etc.
+    Intelligent: server-based version includes a database that stores all the data on all computers that were tested by Inquisitor. If only some parts of hardware will change, clever scheduler wonΓÇÖt redo all the long testing, but only tests relevant to hardware changes.
+    Distributed: due to modular architecture, Inquisitor can be easily distributed across a cluster to distribute load or make a geographically distributed system.
+    Scalable: it could be helpful to analyse/test just one home computer or all the computers in your organization, up to multiple thousands computers in manufacturing enterprise.
+    Free as in speech: the base platform is distributed under the GPL license.
+    Mature: Inquisitor is based on a rock-solid Linux technology and is under active development since 2004. There are multiple production enterprise installations relying on it.

@@ -1,0 +1,52 @@
+- Copy the .raw file to an USB stick using SUSE Studio Image Writer  
+http://en.opensuse.org/SDB:Live_USB_stick#Download_ImageWriter
+
+If you have error during copy, eject and re-connect the pen drive. When Windows asks if you want to format it, cancel and run Image Writer again.
+
+If the problem persists, disable your anti-virus software, it may be blocking raw write to the drive.
+
+Another Image Writer for Windows, if SUSE doesn't work  
+https://launchpad.net/win32-image-writer/+download
+
+
+- Boot the USB drive and install.
+
+Default boot loader is Clover  
+http://www.projectosx.com/forum/index.php?showtopic=2304
+
+If you want to use Chameleon press 1 at boot0 screen
+
+If you need, use TransMac to delete kexts which are causing problems (System/Library/Extensions) and delete Extensions.mkext (System/Library/Caches/com.apple.kext.caches/Startup)  
+http://www.asy.com/scrtm.htm
+
+If boot stops right before reaching the installer, or graphics aren't working right, delete video kexts:
+ATI = ATI*
+Intel = AppleIntelIntegratedFramebuffer and AppleIntelGMA*
+nVidia = GeForce* and NVDA*
+
+You need at least one free partition, use Disk Utility (in the Utilities menu) to erase it as Mac Os Extended (Journaled).
+
+If you want to install the boot loader in this partition and you use MBR (not GUID, like if you already have Windows in the HD), it must be a primary (not extended/logical) partition.
+
+Wait for the installation to finish and restart.
+
+
+- Boot the USB drive, then choose to boot the HD you just installed OS X (not the installer USB again).
+
+
+- Install boot loader to the HD.
+
+
+- Install essential and other kexts you may need (network, audio, etc).
+
+FakeSMC.kext is always needed
+
+While you don't have power management fixed, you will probably need NullCPUPowerManagement.kext
+
+If you use PS/2 keyboard or a laptop you will need VoodooPS2Controller.kext (or ApplePS2Controller.kext) and AppleACPIPS2Nub.kext
+
+How to find kexts for your hardware  
+http://olarila.com/forum/viewtopic.php?f=18&t=1694
+
+
+- When you format the USB drive as FAT/NTFS you'll notice its size was reduced. Just open Disk Management (Administrative Tools), remove the 7 GB partition and create a new one using all the drive.

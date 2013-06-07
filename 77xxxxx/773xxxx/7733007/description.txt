@@ -1,0 +1,84 @@
+ http://en.wikipedia.org/wiki/Song_of_the_South
+
+This is an HDTV to DVD to MKV media file conversion. I muxed the A/V
+streams from this
+ 
+http://thepiratebay.se/torrent/7558961/
+
+I didn't compress it, just muxed the streams into MKV and added chapters.
+ 
+http://www.imdb.com/title/tt0038969/
+
+TMI:
+General
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 4.26 GiB
+Duration                         : 1h 34mn
+Overall bit rate                 : 6 458 Kbps
+Movie name                       : Song of the South 1946
+Encoded date                     : UTC 2012-10-08 20:54:59
+Writing application              : mkvmerge v5.8.0 ('No Sleep / Pillow') built 
+
+on Sep  2 2012 15:37:04
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@Main
+Format settings, BVOP            : No
+Format settings, Matrix          : Custom
+Codec ID                         : V_MPEG2
+Codec ID/Info                    : MPEG 1 or 2 Video
+Duration                         : 1h 34mn
+Bit rate mode                    : Variable
+Bit rate                         : 6 073 Kbps
+Maximum bit rate                 : 9 500 Kbps
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 59.940 fps
+Original frame rate              : 29.970 fps
+Standard                         : NTSC
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.293
+Stream size                      : 4.01 GiB (94%)
+Language                         : English
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Muxing mode                      : Header stripping
+Codec ID                         : A_AC3
+Duration                         : 1h 34mn
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 173 MiB (4%)
+Language                         : English
+
+Menu
+00:00:00.000                     : 01 Opening Titles
+00:01:33.001                     : 02 The Plantation
+00:07:55.366                     : 03 Meeting Uncle Remus
+00:16:58.984                     : 04 Zip A Dee Do Dah
+00:30:33.113                     : 05 The Frog
+00:36:22.318                     : 06 Taking the Puppy
+00:43:48.146                     : 07 The Tar Baby
+01:00:14.547                     : 08 Sooner or Later
+01:08:53.100                     : 09 The Party
+01:13:45.988                     : 10 The Laughing Place
+01:20:30.784                     : 11 Uncle Remus Leaves
+01:31:32.837                     : 12 Zip A Dee Do Dah Reprise
+

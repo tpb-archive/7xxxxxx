@@ -1,0 +1,88 @@
+Running Scared (1986)
+ 
+http://www.imdb.com/title/tt0091875/
+
+This is my own rip, with no logos.
+
+
+General
+Unique ID                        : 237061454679549600875979505296783795492 (0xB258601BB44DA5D7884C2274BD356524)
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 3.94 GiB
+Duration                         : 1h 46mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 5 285 Kbps
+Encoded date                     : UTC 2012-10-17 16:47:40
+Writing application              : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 4 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 46mn
+Bit rate mode                    : Variable
+Bit rate                         : 4 796 Kbps
+Maximum bit rate                 : 50.0 Mbps
+Width                            : 1 912 pixels
+Height                           : 816 pixels
+Display aspect ratio             : 2.35:1
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.128
+Stream size                      : 3.57 GiB (91%)
+Writing library                  : x264 core 125 r2208 d9d2288
+Encoding settings                : cabac=1 / ref=5 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=120 / keyint_min=12 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.75 / qpmin=0 / qpmax=69 / qpstep=8 / vbv_maxrate=50000 / vbv_bufsize=32000 / crf_max=0.0 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00 / zones=149653,153361,crf=25
+Language                         : English
+Default                          : Yes
+Forced                           : No
+Color primaries                  : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format profile                   : Dolby Digital
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 46mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 293 MiB (7%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Main Title/"No Foul"
+00:04:07.247                     : Snagging a Snake
+00:11:42.035                     : A Funeral & a Robbery
+00:16:24.984                     : Partners & Friends
+00:24:31.845                     : "Spanish Godfather"
+00:35:29.461                     : "The Good Life"
+00:43:50.211                     : Undressed to Kill
+00:54:13.292                     : He's No Rookie
+01:00:41.535                     : "Police Procedure"
+01:04:41.775                     : Chasing Decoy Dope
+01:15:59.160                     : Canned Cops
+01:21:24.755                     : A Phony Phone Tip
+01:26:34.523                     : "Gonzales Has Anna!"
+01:30:03.712                     : Scamming & Jamming
+01:33:55.380                     : Elevating Experience
+01:40:32.443                     : "Got Him!"
+01:43:44.468                     : End Credits

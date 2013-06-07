@@ -1,0 +1,20 @@
+Did you ever receive this message in Windows 7 trying to open an old .hlp file:
+
+Why can't I get Help from this program? 
+
+The Help for the program was created in Windows Help format, which depends on a feature that isn't included in this version of Windows. However, you can download a program that will allow you to view Help created in the Windows Help format.
+
+For more information, go to the Microsoft Help and Support website. 
+
+Starting with the release of Windows Vista and Windows Server 2008, Microsoft has decided to no longer include in WinHlp32.exe as a component of the Windows operating system. Microsoft made this decision because WinHlp32.exe has not had a major update for many years, and it does not meet their standards for all new Microsoft programs. Microsoft realizes that this may cause some problems for customers who want to upgrade to Windows Vista or to Windows Server 2008 but still rely on 32-bit .hlp files. Therefore, Microsoft is making WinHlp32.exe available as a download from the Microsoft Download Center, but (the annoying!) VALIDATION check of your version of Windows is required.
+
+I your version of Windows is not legal then this program avoid the validation check.
+
+Please note users who have tried to replace winhlp32.exe manually in Windows folder and winhlp32.exe.mui in Windowsen-US folder of Windows 7 (32/64 bits), was faced with overwrite restrictions due to ownership and permission problems.
+
+
+Just run as Administrator the file Install.cmd 
+
+Thnx to Komeil Bahmanpour.
+
+

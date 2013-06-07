@@ -1,0 +1,18 @@
+Book Description
+
+Capitalize on the faster GPU processors in todayΓÇÖs computers with the C++ AMP code libraryΓÇöand bring massive parallelism to your project. With this practical book, experienced C++ developers will learn parallel programming fundamentals with C++ AMP through detailed examples, code snippets, and case studies. Learn the advantages of parallelism and get best practices for harnessing this technology in your applications.
+
+Discover how to:
+
+Gain greater code performance using graphics processing units (GPUs)
+Choose accelerators that enable you to write code for GPUs
+Apply thread tiles, tile barriers, and tile static memory
+Debug C++ AMP code with Microsoft Visual Studio┬«
+Use profiling tools to track the performance of your code
+
+Table of Contents
+Chapter 1. Overview and C++ AMP Approach
+Chapter 2. NBody Case Study
+Chapter 3. C++ AMP Fundamentals
+Chapter 4. Tiling
+Chapter 5. Tiled NBody Case Study

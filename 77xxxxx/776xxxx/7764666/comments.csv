@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,HelpOthers,2012-11-03T10:41Z,"Release Notes
+
+1) Run PM Fastrack v7
+2) Click 'Activate'
+3) Click 'Accept'
+4) Type in ""MANUAL"" (without the quotes) as serial number. Click 'Next'
+5) Copy 'Site Code' (18 chars)
+6) Run 'Keygen.bat'.
+7) Paste Keygen in command prompt window. Press 'Enter'
+8) Copy and Paste 'Encrypting Key' (26 chars) in 'Site Key' field of PM Fastrack.
+9) Relaunch PM Fastrack.
+
+Voila!!! Program is now activated.
+
+It works flawlessly. You first have to edit the pmfastrack.ckInfo file and change the values of these keys:
+
+KeyLevel=7
+KeyOptions=3
+
+To resolve (Authorization Error, number: -7) error.
+
+Make the 'Program data' folder visible in C drive since it is hidden and then search for
+
+C:ProgramDataCrypKeyLicenses
+-OR-
+C:UsersvikassiApplicationDataLocalVirtualStoreProgramDataCrypKeyLicense
+
+and delete the Crypkey folder along with all of its contents. For best results, uninstall any folder version of Fastrack.
+Reboot.
+Install/Reinstall the v7
+Follow the instructions for activating the SW as mentioned above
+
+IMPORTANT - Make sure you change the KeyLevel=7 and KeyOptions=3 in pmfastrack.ckInfo
+file before following the activation algorithm. Works 100% on v7 English.
+
+Also remember to delete the folder inside of here: C:ProgramDataCrypKeyLicenses"
+,navynaga,2012-11-10T20:38Z,I am not able to get through the activation......... please help me out ......need this badly .........after typing the key it takes throught the regestration process and then says serial no is invalid.......
+,biglou33,2012-11-11T20:29Z,I still cannot activate as I run the batch file and it just says to hit any key and than closes.  Please help as I am running windows 7.
+,HelpOthers,2012-11-13T18:31Z,"I'm also running Win 7 and it worked for me. I just had to type the site code in the command prompt, I wasn't able to paste it but typing it worked just fine. I also had to type the encrypting key in 'Site Key' field of PM Fastrack.
+
+Do you follow the instructions exactly and precisely?"
+,HelpOthers,2012-11-13T18:37Z,"
+I'm also running Win 7 and it worked for me. I just had to type the site code in the command prompt, I wasn't able to paste it but typing it worked just fine. I also had to type the encrypting key in 'Site Key' field of PM Fastrack.
+
+Do you follow the instructions exactly and precisely?"

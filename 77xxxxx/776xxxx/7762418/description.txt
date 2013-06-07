@@ -1,0 +1,65 @@
+TomTom Android description and instructions.
+Requirements:
+Android 2.3 or higher on a GPS enabled 800x480/480x800 resolution device.
+Operation and use on a higher or lower resolution device is not currently recommended...it may not work.
+All install APKs and map/voice data included...nothing more to download.
+
+Regional versions included in Torrent:
+Baltics
+Benelux
+Brazil
+Europe
+Germany-Austria-Switzerland
+Iberia
+Italy
+Southeast Asia
+UK-Ireland
+US-Canada
+West Europe
+
+Each available region is RAR compressed in the Torrent so that it is easier to pick and choose what you want to download. You can choose/not choose to download any or all that you like.
+
+UnRar from the Torrent download the desired region to install.
+Copy desired region tomtom folder to SD Card.
+Copy desired matching region APK file to phone or SD Card.
+Disable any Data or WiFi connection.
+Install APK and run the program. Done!
+Warning: to prevent the program from ever 'phoning home' and possibly disabling the navigation, always turn Data and WiFi OFF before using!
+Do not attempt any in-app purchases or 'live data' features...use in off-line mode only.
+
+Every one of the regional installs included in the Torrent has been fully tested and found to be working completely at the time of publication.
+
+Currently it is not possible to add your own maps...each regional installation provides for only the maps and data for that region....they cannot be 'mixed'.
+You can add your own POIs by using the TomTom *.ovl/*.bmp files available at places like POI Plaza. Put any custom POI files on the SD Card in tomtomcom.tomtom.{region name}files{region map name}*.*
+
+
+Maps included per region (if not obvious by the region name):
+---------------------
+Europe:
+AD, AT, BE, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HU, IC, IE, IT, LI, LT, LU, MC, MT, NL, NO, PL, PT, SE, SI, SK, SM, VA, RU (42%), LV (63%), BG (53%), HR (60%)
+---------------------
+West Europe:
+AD, AT, BE, CH, DE, DK, ES, FR, FI, GB, IC, IE, IT, LI, LU, MC, MT, NL, NO, PT, SE, SM, VA
+---------------------
+Benelux:
+BE, NL, LU
+---------------------
+Iberia:
+ES, PT
+---------------------
+GermanyAustriaSwitzerland:
+DE, AT, CH
+---------------------
+Baltics:
+FI, LI, EE, LT (63%), UA (39%), RU (45%)
+---------------------
+SE Asia:
+SG, MY, ID, TH, BN
+---------------------
+Country Code definitions here: 
+http://ftp.ics.uci.edu/pub/websoft/wwwstat/country-codes.txt
+
+For more information or answers to questions, go here: 
+http://www.navitotal.com/showthread.php?11098-TomTom-Android-Europe-and-Others-v-1.0
+Or here: 
+http://www.navitotal.com/forumdisplay.php?172-Android-Apps

@@ -1,0 +1,28 @@
+[b]Microsoft Toolkit 2.4 Beta 5 ~HuNtEr~[/b]
+
+
+Microsoft Toolkit - a set of tools to manage the licensing and activation of Microsoft Office and Windows Incl windows 8.All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed),AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported.
+
+
+
+Requirements:
+Microsoft. NET Framework 4.0 or 4.5 (Not 3.5)
+Microsoft Office 2010 or Later for Office Toolkit Support
+Windows Vista or Later for Windows Tookit Support
+
+
+Changelog:
+-Fixed Office Detection issues.
+-KMSEmulator doesn't require Visual C++ 2010 x86 Runtimes.
+-Removed PIDX Check of Keys entered during License Backup as it fails KMS Host Keys.
+-Removed License Refreshing/Caching.
+-Will override a custom KMS Host with 127.0.0.1 if KMS Activation fails for that custom KMS Host.
+
+
+OS: Windows ┬« XP/Vista/Seven/8
+Language: Multilanguage
+Year: 2012
+Size: 26.3 MB
+
+[b]No special guide for installation .
+Open the app . You'll know what to do :)[/b]

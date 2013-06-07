@@ -1,0 +1,61 @@
+FTL: Faster Than Light v.102.6
+
+Version 1.02.6 EditRelease Date: 2012-09-30 
+
+ΓûáFixed some texture rendering issues on Mac OS X and older Windows/Linux machines 
+ΓûáFullscreen - FTL Native Resolution fixed to accurately provide the pre-1.02 Fullscreen method for older PCs 
+ΓûáTough Little Ship Achievement fixed 
+ΓûáFixed exploit that allowed player crew to walk through enemy blast doors, which is also a potential fix for the AI bug of walking through walls/doors (Thanks Unlucky Scarecrow!) 
+ΓûáDefense Drones Don't Do D'Anything and Master of Patience Achievements potentially fixed 
+ΓûáProtection against quests spawning at unreachable nodes 
+ΓûáCrystal Weapons / Missile Weapons will accurately state the number of shots they fire per cooldown 
+ΓûáMinor UI help - clearer tooltips for Cloaking/Teleporting and hotkey numbers for drones 
+ΓûáMore event/descriptions/tooltip typos fixed 
+Version 1.02.5 EditRelease Date: 2012-09-27 
+
+ΓûáRestored functionality to those that don't support certain OpenGL features 
+ΓûáFixed Zoltan shield display 
+ΓûáAdded some additional logging/overrides to help in support 
+New Content: 
+
+ΓûáSlug random encounter: overhear two slug ships in a nebula. If you eavesdrop on their comms chatter, you get a quest marker. 
+Γûá(Need more info!) 
+Version 1.03 EditCompatibility Changes: 
+
+ΓûáOlder laptops experiencing "overly pixelated" or distorted images should now function 
+ΓûáMacBooks with ATI X1600 video cards will potentially function both in fullscreen and windowed. I do not have access to a MacBook with that video card, so if you're experiencing that problem please update me! 
+ΓûáMac OS X version now implements Left-Ctrl+Left-Click to be equivalent to Right-Click 
+Fullscreen Changes: 
+
+ΓûáFullscreen stretch now works differently and should be more effective at properly "stretching" to fill your screen 
+ΓûáMonitors that support 2560x1440 should be properly scaling and look much better (I'm jealous) 
+ΓûáMonitors with resolutions less than 1280x720 may now function in Fullscreen Stretched depending on your OpenGL support 
+ΓûáA more elaborate manual mode is available for tweaking your desired resolution effect within settings.ini 
+Additional Video Settings: 
+
+ΓûáV-Sync can be activated within options mode. Depending on your system, you still might need to force it on or off from your video card control panel as well. 
+ΓûáFrame limiting is also available from the options. Between the two (V-Sync vs. Frame Limiting), pick the one that works best for you to balance performance and cpu use. 
+Additional Game Settings: 
+
+ΓûáWithin options you can enable paths to be drawn when hovering over a beacon. 
+ΓûáDialog keys will now have a brief delay before they are active, this can be disabled within the options. 
+Other Bugs: 
+
+ΓûáStart Crash Fix: Sometimes unidentified USB devices could cause FTL to fail to start 
+ΓûáRemoved bugged weapon from the secret sector 
+ΓûáMoving crewmembers will still teleport assuming they are in the room of their final destination 
+ΓûáKilling the crew of an enemy ship will count as defeating it for stats 
+ΓûáSelling the Zoltan Energy shield will no longer be bugged 
+ΓûáFederation Ship will properly unlock on victory (and will unlock retroactively for those that experienced this bug) 
+ΓûáSecret Cruiser Type B stealth imagery has been fixed 
+ΓûáFixed situation where a defense drone could become permanently powered 
+ΓûáEnergy Shield can no longer be damaged while jumping, preventing it from properly recharging 
+ΓûáFixed: Ion Storm and Nebula effects would disappear at beacons where you leave behind an enemy 
+ΓûáSaving in sector maps can no longer sometimes cause you to skip a sector 
+ΓûáExcess error message repeats removed 
+ΓûáRepeated "victory" in Sector 1 after restart fixed 
+ΓûáPossible fix for disappearing quests after Save & Quit 
+ΓûáPossible fix for enemies jumping away despite destroyed piloting 
+ΓûáFixed freezing enemy AI when low on health and medbay is on fire 
+ΓûáSave & Quit in a store will no longer reduce repair costs 
+ΓûáTypos corrected in tooltips/weapons/events 

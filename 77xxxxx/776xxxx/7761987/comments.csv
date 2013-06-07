@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,crazyzone,2012-10-26T17:03Z,"What made â&#x20AC;&#x2039;â&#x20AC;&#x2039;the fixes in this update?
+Looks good, but you better hope the released version..."
+,ralof8,2012-10-26T17:41Z,"@ab00
+Thanks, it's worked properly to me, and work with the latest skse, thanks a million to you ;)"
+,Michel88974,2012-10-27T14:02Z,Wrye Bash says that update.esm is corrupt... true or false?
+,Michel88974,2012-10-27T14:17Z,Wrye Bash says update.esm is corrupt... is it true?
+,ab00,2012-10-27T19:26Z,"@Michel88974
+
+hmm. it's not corrupt but the header version is wrong. 
+You can fix it yourself by changing it with TESVSnip. Change the header file version from 1,7 to 0,94 for Update.esm. Remember to save."
+,darkII2,2012-10-27T21:19Z,"every time I click in the skyrim launcher it says, ""unable to find an INI file. Please re install skyrim.""
+
+Help?"
+,Michel88974,2012-10-28T13:42Z,Thanks for the reply! I'll have a look
+,Michel88974,2012-10-28T13:52Z,It worked like you said. The size of the update.esm decreased in size after changing it to 0.94 but i have a backup of it just in case.
+,Valamyr82,2012-10-31T02:37Z,Anyone has the matching creation kit version?
+,russianhornybear,2012-11-01T23:42Z,"hmmmmmmmmm....
+i have now 1.7.7.0 Dawnguard & HearthFires ,everything working fine.
+i need this  new beta?
+sexy update?"
+,russianhornybear,2012-11-02T00:42Z,"so many updates omg... i hope next year this game will be finally fixed.
+downloading :("
+,fragsnipa,2012-11-02T06:14Z,"Please upload latest patch, its now out of beta thnx"
+,melooo182,2012-11-02T13:12Z,"Here is a list of what the patch does: http://www.uesp.net/wiki/Skyrim:Patch
+AFAIK this is the same 1.8.151.0.7 that just got out of BETA"
+,Wywy83,2012-11-07T12:15Z,"Seed you bloody leechers, get on the plank !"
+,231tyler,2012-11-09T06:06Z,"why does it say ""unable to find INI file. please reinstall skyrim"" i already have twice"
+,jxoesneon,2012-11-12T09:07Z,"to those that get the error about the .ini file try running skyrimlauncher.exe, click on ""options"" default"
+,Cryllix,2012-11-13T20:11Z,"It's been a long time since I have updated (still running v1.1.21), is this still just  a copy and paste or do I need to download all the old updates first?"
+,Cryllix,2012-11-13T20:24Z,It has been a long time since I have updated (still using v1.1.21) is it still copy and paste or do I have to download some older updates first?

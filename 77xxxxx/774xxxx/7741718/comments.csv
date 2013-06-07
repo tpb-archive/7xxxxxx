@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,jalucian,2012-10-19T12:05Z,"Vicerock why are all your 720p's such a large file size? You can get the same quality with 1/3 - 1/2 the file size youre producing. 720 resolution can be done under 850megs for a movie under 2 hours. Might wanna learn a little more about your settings, or switch encoding software or something. Look at YIFY's work for examples."
+,RipperDaVe,2012-10-19T14:56Z,"the imdb links seems to be wrong - here ya go
+http://www.imdb.com/title/tt0783532/"
+,w0rtez,2012-10-19T15:54Z,"@jalucia... You dont want vice releases, go to YIFY's, and if you dont know what your talking about dont talk SH!T, you cant get the same quality with 1/3, 1/2 size as you claim... So please dont talk what you dont know... 
+
+Thanks vice for your work... Keep giving us your nice releases..."
+,SectorVector,2012-10-19T19:44Z,"
+jalucian, am no expert. Am assuming you are new to this too. I see you have raised this question more than once on tpb. Here is a simple explanation i can offer. For more, atleast i need to read up on image and video processing. :)
+
+Just as pixels begin to show up when you zoom into a image file, you will likewise start _seeing_ 'squares' instead of dots as you start viewing the movie on bigger screens. Not always, but that is true in general.
+
+One frame of a 720p picture is 1280x720 pixels. That is 1 mega pixels ! At even 8bits per pixel (for color) you have/need a bitrate of 8 Mbps ! But ofcourse it is more than 256 colours and compression algorithms comes into play from the other side. So we settle somewhere in between around 5 Mbps. That seems the recommended value for a 720p movie. Proly more.
+
+In addition, a video is frames at a certain rate. Depending on the scene, much may change. If the scene doesn't change much, as in a news reporter (not newsreader) speaking, a low bitrate would do the job just fine. You might have seen these on BBC's telecasts, where the video is transmitted in low bitrate but the audio is held up. The reporters usually hold their head steady while talking. Should they move a bit, the low bit rate shows up; the picture loses clarity.
+
+That said, YIFY _is_ doing a good job. His Planet Earth torrent is good, at 350 MB each. I downloaded and watched the first few minutes of the episode ""Oceans"". On my 19 inch LCD monitor, the difference, compared to the 2 GB mkv i have, shows up as soon as the underwater sequence starts. In that scene colours are more and subtle. At a lower bitrate, the YIFY video shows 'squares'. But try playing it on a 'crt' monitor. The quality would _appear_ good to the human eye; the square disappears into a dot.
+
+There is am sure more to it. You could proly try out an encoder yourself to see all other parameters influencing picture quality.
+
+If you are still not satisfied or have more questions, may i suggest suprbay and google ofcourse. Cheers. :)"
+,w0rtez,2012-10-22T18:36Z,"@SectorVector 
+Thanks for your Explanation... You shouldnt have worried about looking and searching about that... he should do it himself... anyone who knows about the subject is not going to waste time on that... Obviously hes looking YiFY's releases on a PSP and that's why quality is outstanding for him... Don't waste your time explaining to trollers... 
+PS: Good Job on your info..."
+,SectorVector,2012-10-23T14:26Z,"If i may add one more point to answer your question.
+
+Consider a m x n picture (pixels). Now, lets say you are not happy with the _resolution_ or clarity and lets suppose you wanted to _double_ the resolution. To be fair and correct, you would double it vertically and horizontally. That is each pixel splits into two vertically and into two horizontally. So, we end up with 4 pixels for each original pixel, in our desire to _double_ the clarity. So if the original image was 2 MB the next _level_ so to say is not 4 MB but 4*2=8 MB. Arguing the other way about, a YIFY image (and by rough extrapolation the video) would require 4 times more storage space to _double_ the clarity, 9 times more space to _treble_ the clarity and so on. So it is O(n^2) and hence file sizes jump _heavily_ when more clarity is required.
+
+I hope this explanation helps too.
+
+It was no problem w0rtez. Just sharing my thoughts as they occur !"

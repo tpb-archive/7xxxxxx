@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,GM128,2012-11-24T18:01Z,"Thank you for the serial. I wasn't able to find a new keygen.
+
+BTW, if you can't enter the serial due to your trial being expiredâ&#x20AC;&#x201D;add the following to Notepad, save it as RemoveEvaluation.reg, and then open it (without Syncovery running):
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWARESuperFlexibleSynchronizer]
+""DaysProV4""=-
+""DaysProV5""=-
+""DaysProV6""=-
+
+[HKEY_CURRENT_USERSoftwareSuperFlexibleSynchronizer]
+""DaysProV4""=-
+""DaysProV5""=-
+""DaysProV6""=-
+
+[HKEY_LOCAL_MACHINESOFTWARESyncovery]
+""DaysProV4""=-
+""DaysProV5""=-
+""DaysProV6""=-
+
+[HKEY_CURRENT_USERSoftwareSyncovery]
+""DaysProV4""=-
+""DaysProV5""=-
+""DaysProV6""=-
+
+[HKEY_CURRENT_USERControl PanelMouse]
+""Special_Flags5""=-
+""Special_Flags6""=-
+""Special_Flags7""=-
+""Special_Flags8""=-"

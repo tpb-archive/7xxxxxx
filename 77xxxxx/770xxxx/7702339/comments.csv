@@ -1,0 +1,49 @@
+﻿User Type,Username,Date,Text
+,RusskiyAmbassador,2012-10-06T22:32Z,"chromium 24 portable build 160574 Win + flash [RAMBA]
+
+
+what is it:
+this is preconfigured version of chromium (Chrome Nightly 24.0.1289.0) with adoble flash (11.5.500.85 Beta) and https-everywhere plugin. also default search engine changed to ixquick.com
+
+how to use:
+1. extract to any folder and run ""profile_1_ixquick_httpseverywhere.bat"" or ""profile_2_clean.bat""
+your settings will be stored in /profile/1 or /profile/2/ directory
+(you can add more, if you wish (-: )
+
+2.if you want to restore default preconfigured settings: simply delete contents of /profile/$yournumber/ folder and copy contents of /profile/default/ into it
+
+
+tech info:
+/profile/1:
+default search engine:  ixquick.com/do/search?query=%s&cat=web&pl=chrome&language=english
+altern search engine:   startpage.com/eng/  (ixquick's google proxy)
+extensions:             eff.org/files/https-everywhere-chrome-2012.9.10.crx
+
+/profile/2/
+empty
+
+/profile/default/
+default settings from /profile/1
+
+in directory
+/program/plugins/
+Flash Player 11.5.500.85 Beta (Non-IE)
+ labsdownload.adobe.com/pub/labs/flashplatformruntimes/flashplayer11-5/flashplayer11-5_install_win_pi.exe
+
+to update chromium:
+1. current build for chromium can be downloaded from  commondatastorage.googleapis.com/chromium-browser-snapshots/index.html?path=Win/
+2. get latest version of ""chrome-win32.zip"" from folder with bigger build number (at bottom of page)
+3. copy contents of chrome-win32.zip to /program/ directory overwriting files
+
+to update flash:
+it is not so easy:
+1.download and install sandboxie from  sandboxie.com/index.php?DownloadSandboxie (direct link is  sandboxie.com/SandboxieInstall.exe)
+2. dowload flash player from  filehippo.com/download_flashplayer_firefox/
+3. right click on flashplayer_xx-x_install_xxxx.exe, select ""Run Sandboxed"", select DefaultBox, click OK
+4. install as usal, dont select ""install flash player updates automatically""
+5. copy contents of  c:sandbox$yourusernameDefaultBoxdriveCWindowssystem32MacromedFlash and c:sandbox$yourusernameDefaultBoxdriveCWindowssystem32 to ""plugins"" directory in chromium folder (programplugins)
+
+to remove flash (maybe by privacy concerns, because it always stores something in %userprofile%usercurrentAppDataRoaming outside chromium profile directory): remove plugins directory
+
+
+RusskiyAmbassador @ thepiratebay"

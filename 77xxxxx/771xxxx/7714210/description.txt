@@ -1,0 +1,23 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+
+General
+Optimizations for merging and splitting navigation graphs (This fixes performance issues with digging ramps, building walls, etc)
+
+Art
+Updated tree tiles
+
+Fixed
+Crash when mining stairs up directly above another mine stairs up job
+Crash when loading certain older saves
+Crash when loading an older save that had an in progress butcher job
+Crash when creating obsidian at the lowest depth
+Crash when items fall into lava at the lowest depth
+Crash when changing to Full Screen Borderless when the current desktop resolution isn't supported
+Deconstructing something that blocked movement continuing to block movement, ie statues
+Quiver and ammo pouch getting stuck on a game when leaving a squad
+Battle axes doing 0 damage
+Items on top of stairs not falling when the stairs are destroyed
+Build door not being allowed on a room
+Contents of storage not being removed from a stockpile when the storage was deconstructed
+Formation perks not saving in some cases

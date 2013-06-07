@@ -1,0 +1,18 @@
+HyperSnap is the fastest and easiest way to take screen captures from Windows screen and full screen games, and text capture (TextSnapΓäó) from places where normal text copy is not possible. HyperSnap combines the power of a first-class screen capture application with an advanced image editing utility wrapped into one easy-to-use tool!
+
+It's perfect for capturing images that you want to include in your Help system, online tutorials, manuals, training handouts, presentations, marketing materials, Web pages, emails and more. Captures screens from full-screen games using DirectX/Direct3D technology. Use HyperSnap to quickly share a picture-perfect representation of anything on your screen.
+
+HyperSnap is versatile and extremely easy-to-use. You can quickly customize menus and toolbars to fit your needs. Assign your own keyboard shortcuts, create instant toolbars, and even control HyperSnap with voice commands!
+
+New Features in Version 7
+- New user interface, using Ribbon instead of menu and toolbars. However you can still switch to the old menu/toolbars interface if you want. We recommend that you give try to the new UI though, as some features are not available or more difficult to access with the old interface.
+- Big enhancements to HyperSnap drawing editor - all shapes drawn are now kept as separate objects. You may select them at any time, move, modify, delete. You may also imprint them permanently on the image at any time.
+- New shapes in drawing editor - different types of callouts, arc, opened and closed polylines. When needed, you may switch to "draw directly on image" mode. This could be useful e.g. to edit small icons, where each pixel counts, while for bigger images we recommend the new shape drawing mode.
+- New native HyperSnap file format .dhs - preserves the drawn shapes as separate objects for later editing.
+- Support for opacity (alpha channel) - any part of an image can be made completely or partially transparent.
+- A much enhanced color picker on the Ribbon "Edit" tab - select colors from standard palette, define up to 8 user colors, switch between using the foreground/line color or background/fill color, pick color form anywhere on the screen, set RGB or HSL color codes with sliders or by typing values, displays and offers a quick copy of HTML color code like #E6C01A, "pin" colors to use the same colors in all editied images or have separate selections for each image and more.
+- Optional thumbnail list showing small previews of all images captured or opened in HyperSnap window. Click on thumbnails to switch the big window to that image. Select multiple images in Thumbnails View window, then right click to apply group operations on selected images, e.g. resize them, print, save to one multi-page file (TIFF or PDF) or to separate image files in one operation.
+- Save images to PDF files. Can also open PDF files created with HyperSnap 7, but not other PDFs.
+- Region capture enhancements - select unrestrained or pre-defined aspect ratio of captured region (e.g. 4:3, 16:9 or user defined), select a pre-defined fixed size of captured region, e.g. 640x480 pixels, and move it around the screen.
+- Support for FireFox 4 and newer with FireFox add-on to capture entire pages etc.
+- Many more smaller enhancements.

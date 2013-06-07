@@ -1,0 +1,56 @@
+
+Report for file: From.Inside.2008.mp4
+
+General / Container Stream #1
+	Total Video Streams for this File.................1
+	Total Audio Streams for this File.................1
+	Total Subtitle Streams for this File..............1
+	Video Codecs Used.................................AVC
+	Audio Codecs Used.................................AAC LC
+	SubTitle Codecs Used..............................text
+	File Format.......................................MPEG-4
+	Play Time.........................................1h 10mn
+	Total File Size...................................529 MiB
+	Total Stream BitRate..............................1 043 Kbps
+	Encoded with......................................HandBrake 0.9.8 2012071700
+Video Stream #1
+	Codec (Human Name)................................AVC
+	Codec (FourCC)....................................avc1
+	Codec Profile.....................................Main@L3.0
+	Frame Width.......................................720 pixels
+	Frame Height......................................480 pixels
+	Frame Rate........................................23.976 fps
+	Total Frames......................................101950
+	Display Aspect Ratio..............................16:9
+	Video Standard....................................NTSC
+	Scan Type.........................................Progressive
+	Color Space.......................................YUV
+	Codec Settings (Summary)..........................CABAC / 4 Ref Frames
+	QF (like Gordian Knot)............................0.106
+	Codec Settings (CABAC)............................Yes
+	Codec Settings (Reference Frames).................4
+	Video Stream Length...............................1h 10mn 52s 173ms
+	Video Stream BitRate..............................877 Kbps
+	Video Stream BitRate Mode.........................VBR
+	Bit Depth.........................................8 bits
+	Video Stream Size.................................445 MiB (84%)
+	Video Encoder.....................................x264 - core 120
+	Video Encoder (Settings)..........................cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+	Date of Original Encoding.........................UTC 2012-10-21 23:08:19
+	Color Primaries...................................BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+	Transfer Characteristics..........................BT.709-5, BT.1361
+	Matrix Coefficients...............................BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Audio Stream #1
+	Codec.............................................AAC
+	Codec (FourCC)....................................40
+	Audio Stream Length...............................1h 10mn 52s 181ms
+	Audio Stream BitRate..............................160 Kbps
+	Audio Stream BitRate Mode.........................VBR
+	Number of Audio Channels..........................2
+	Audio Channel's Positions.........................Front: L R
+	Sampling Rate.....................................48.0 KHz
+	Audio Stream Size.................................81.1 MiB (15%)
+	Date of Original Encoding.........................UTC 2012-10-21 23:08:19
+Subtitle Stream #1
+	Format............................................Apple text
+	Codec ID..........................................text

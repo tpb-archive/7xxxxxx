@@ -1,0 +1,484 @@
+﻿Filename,Size,Unit
+00_Introduction/00_01-welcome.mov,10.74,M
+00_Introduction/00_02-exerciseFiles.mov,1.13,M
+01_Getting_Started/01_01-interface.mov,2.85,M
+01_Getting_Started/01_02-preference.mov,5.05,M
+01_Getting_Started/01_03-projectFolder.mov,5.05,M
+02_The_3ds_Max_Interface/02_01-familiar.mov,6.3,M
+02_The_3ds_Max_Interface/02_02-createModify.mov,6.21,M
+02_The_3ds_Max_Interface/02_03-navigation.mov,4.75,M
+02_The_3ds_Max_Interface/02_04-hotkeys.mov,8.61,M
+02_The_3ds_Max_Interface/02_05-transforms.mov,8.08,M
+02_The_3ds_Max_Interface/02_06-axisConstraints.mov,3.87,M
+02_The_3ds_Max_Interface/02_07-shadingModes.mov,8.86,M
+02_The_3ds_Max_Interface/02_08-configViewport.mov,5.62,M
+03_Modeling_Basics/03_01-modelingMethods.mov,7.11,M
+03_Modeling_Basics/03_02-unitsSetup.mov,10.91,M
+03_Modeling_Basics/03_03-grid.mov,5.34,M
+03_Modeling_Basics/03_04-levelOfDetail.mov,11.09,M
+03_Modeling_Basics/03_05-modifierStack.mov,9.47,M
+03_Modeling_Basics/03_06-dependencies.mov,12.92,M
+03_Modeling_Basics/03_07-collapseStack.mov,5.63,M
+03_Modeling_Basics/03_08-subObjects.mov,9.04,M
+04_Modeling_with_Splines/04_01-shapes.mov,9.65,M
+04_Modeling_with_Splines/04_02-lines.mov,7.04,M
+04_Modeling_with_Splines/04_03-editableSpline.mov,3.95,M
+04_Modeling_with_Splines/04_04-vertexTypes.mov,7.72,M
+05_Lofting/05_01-loftingVase.mov,11.1,M
+05_Lofting/05_02-loftParameters.mov,9.74,M
+05_Lofting/05_03-editingPath.mov,8.95,M
+05_Lofting/05_04-loftSubObjects.mov,7.81,M
+05_Lofting/05_05-scaleDeformation.mov,10.02,M
+05_Lofting/05_06-shellModifier.mov,5.2,M
+05_Lofting/05_07-finishing.mov,10.17,M
+06_Modeling_with_Primitives/06_01-settingScene.mov,3.28,M
+06_Modeling_with_Primitives/06_02-chamferBox.mov,8.37,M
+06_Modeling_with_Primitives/06_03-cloningObject.mov,5,M
+06_Modeling_with_Primitives/06_04-array.mov,10.9,M
+06_Modeling_with_Primitives/06_05-tapeHelper.mov,4.01,M
+06_Modeling_with_Primitives/06_06-grouping.mov,3.41,M
+07_Using_the_Modifier_Stack/07_01-layingOut.mov,5.9,M
+07_Using_the_Modifier_Stack/07_02-rectangle.mov,5.84,M
+07_Using_the_Modifier_Stack/07_03-editableSpline.mov,12.99,M
+07_Using_the_Modifier_Stack/07_04-sweepModifier.mov,5.1,M
+07_Using_the_Modifier_Stack/07_05-softSelect.mov,10.59,M
+07_Using_the_Modifier_Stack/07_06-deleteMesh.mov,4.59,M
+07_Using_the_Modifier_Stack/07_07-clearingSubObject.mov,4.96,M
+07_Using_the_Modifier_Stack/07_08-randomNoise.mov,5.75,M
+07_Using_the_Modifier_Stack/07_09-instancingModifiers.mov,7.27,M
+08_Polygon_Modeling/08_01-editablePolyGraphite.mov,2.13,M
+08_Polygon_Modeling/08_02-graphiteInterface.mov,7.26,M
+08_Polygon_Modeling/08_03-subObject.mov,7.1,M
+08_Polygon_Modeling/08_04-selectionRegion.mov,4.68,M
+08_Polygon_Modeling/08_05-caddyExtrude.mov,8.75,M
+08_Polygon_Modeling/08_06-detailRemoveCut.mov,11.11,M
+08_Polygon_Modeling/08_07-swiftLoop.mov,2.99,M
+08_Polygon_Modeling/08_08-constrainSubObject.mov,5.25,M
+08_Polygon_Modeling/08_09-attach.mov,7.41,M
+08_Polygon_Modeling/08_10-bridge.mov,7.72,M
+08_Polygon_Modeling/08_11-smoothEdges.mov,12.65,M
+09_Subdivision_Surface_Modeling/09_01-understandSubd.mov,8.93,M
+09_Subdivision_Surface_Modeling/09_02-boxConvertToPoly.mov,8.45,M
+09_Subdivision_Surface_Modeling/09_03-symmetry.mov,5.19,M
+09_Subdivision_Surface_Modeling/09_04-turboSmooth.mov,7.09,M
+09_Subdivision_Surface_Modeling/09_05-extrudePolygons.mov,6.11,M
+09_Subdivision_Surface_Modeling/09_06-roundingOut.mov,9.29,M
+09_Subdivision_Surface_Modeling/09_07-transformCenter.mov,15.44,M
+09_Subdivision_Surface_Modeling/09_08-editingEdgeLoops.mov,7.31,M
+09_Subdivision_Surface_Modeling/09_09-shapingTheModel.mov,14.24,M
+09_Subdivision_Surface_Modeling/09_10-bakingSubds.mov,14.56,M
+10_NURBS_Modeling/10_01-understandNURBS.mov,1.7,M
+10_NURBS_Modeling/10_02-NURBSCurves.mov,5.67,M
+10_NURBS_Modeling/10_03-arcsAndLines.mov,7,M
+10_NURBS_Modeling/10_04-convert.mov,6.38,M
+10_NURBS_Modeling/10_05-cloningSubObject.mov,3.68,M
+10_NURBS_Modeling/10_06-offsetCurve.mov,5.31,M
+10_NURBS_Modeling/10_07-U-Loft.mov,9.33,M
+10_NURBS_Modeling/10_08-dependentSurface.mov,7.01,M
+10_NURBS_Modeling/10_09-extrudeSurface.mov,2.87,M
+10_NURBS_Modeling/10_10-surfaceApprox.mov,17.19,M
+11_Modeling_for_Motion_Graphics/11_01-setup.mov,4.47,M
+11_Modeling_for_Motion_Graphics/11_02-createText.mov,5.35,M
+11_Modeling_for_Motion_Graphics/11_03-applyBevel.mov,3.55,M
+11_Modeling_for_Motion_Graphics/11_04-bevelParameters.mov,7.23,M
+11_Modeling_for_Motion_Graphics/11_05-levelOfDetail.mov,12.15,M
+11_Modeling_for_Motion_Graphics/11_06-deformingBevel.mov,3.8,M
+11_Modeling_for_Motion_Graphics/11_07-exportPathsIllust.mov,3.82,M
+11_Modeling_for_Motion_Graphics/11_08-importIllust.mov,7.79,M
+12_Materials_Basics/12_01-materialEditor.mov,4.84,M
+12_Materials_Basics/12_02-navigatingCompact.mov,3.34,M
+12_Materials_Basics/12_03-sceneMaterials.mov,7.28,M
+12_Materials_Basics/12_04-materialType.mov,5.64,M
+12_Materials_Basics/12_05-specular.mov,2.58,M
+12_Materials_Basics/12_06-previewActiveShade.mov,4.96,M
+12_Materials_Basics/12_07-opacityRefraction.mov,5.71,M
+13_Mapping_Textures/13_01-proceduralMaps.mov,8.72,M
+13_Mapping_Textures/13_02-navigatingShaderTrees.mov,2.34,M
+13_Mapping_Textures/13_03-managingSourceImageFiles.mov,10.54,M
+13_Mapping_Textures/13_04-trackingSceneAssets.mov,13.15,M
+13_Mapping_Textures/13_05-projecting.mov,10.52,M
+13_Mapping_Textures/13_06-realWorldMap.mov,5.21,M
+13_Mapping_Textures/13_07-reflections.mov,10.84,M
+13_Mapping_Textures/13_08-selfIlluminated.mov,10.8,M
+13_Mapping_Textures/13_09-mappingBump.mov,3.96,M
+13_Mapping_Textures/13_10-instanceSampleSlot.mov,3.31,M
+14_Camera_Basics/14_01-displayLayers.mov,12.57,M
+14_Camera_Basics/14_02-freeCamera.mov,5.05,M
+14_Camera_Basics/14_03-movingCamera.mov,7.43,M
+14_Camera_Basics/14_04-targetCamera.mov,7.38,M
+14_Camera_Basics/14_05-fieldOfView.mov,4.87,M
+14_Camera_Basics/14_06-aspectRatio.mov,9.98,M
+15_Lighting_Basics/15_01-cgLighting.mov,13.77,M
+15_Lighting_Basics/15_02-objectShadowProperties.mov,3.03,M
+15_Lighting_Basics/15_03-spotLight.mov,7.39,M
+15_Lighting_Basics/15_04-intensityColor.mov,3.47,M
+15_Lighting_Basics/15_05-contrastAndHighlights.mov,2.72,M
+15_Lighting_Basics/15_06-hotspotFalloff.mov,9.99,M
+15_Lighting_Basics/15_07-shadowType.mov,5.22,M
+15_Lighting_Basics/15_08-optimizeShadowMap.mov,9.37,M
+15_Lighting_Basics/15_09-optimizeAreaShadow.mov,7.61,M
+15_Lighting_Basics/15_10-omniLights.mov,7.84,M
+15_Lighting_Basics/15_11-excludeObject.mov,4.21,M
+15_Lighting_Basics/15_12-lightLister.mov,3.29,M
+16_Keyframe_Animation/16_01-understandingKeyframes.mov,2.11,M
+16_Keyframe_Animation/16_02-setupTime.mov,5.92,M
+16_Keyframe_Animation/16_03-setKeyFilters.mov,3.01,M
+16_Keyframe_Animation/16_04-createKeyframesSetKey.mov,5.07,M
+16_Keyframe_Animation/16_05-editKeyframesTimeline.mov,5.7,M
+16_Keyframe_Animation/16_06-autoKey.mov,4.4,M
+16_Keyframe_Animation/16_07-animationPasses.mov,5.28,M
+16_Keyframe_Animation/16_08-dopeSheet.mov,12.81,M
+16_Keyframe_Animation/16_09-curveEditor.mov,10.89,M
+16_Keyframe_Animation/16_10-cycleAndExtrapolate.mov,13.13,M
+17_Hierarchies/17_01-understandHierarches.mov,4.06,M
+17_Hierarchies/17_02-understandCoordinate.mov,4.62,M
+17_Hierarchies/17_03-controlRotations.mov,22.09,M
+17_Hierarchies/17_04-pivotPoints.mov,8.94,M
+17_Hierarchies/17_05-lockingTransforms.mov,3.79,M
+17_Hierarchies/17_06-linkingObjects.mov,8.11,M
+17_Hierarchies/17_07-schematicView.mov,4.91,M
+17_Hierarchies/17_08-solvingProblemsWithScale.mov,19.79,M
+18_Controllers_and_Constraints/18_01-understandingControllers.mov,8.55,M
+18_Controllers_and_Constraints/18_02-constrainToPath.mov,8.41,M
+18_Controllers_and_Constraints/18_03-assignLinkConstraint.mov,3.43,M
+18_Controllers_and_Constraints/18_04-addLinkTarget.mov,2.74,M
+18_Controllers_and_Constraints/18_05-animateConstrainedObject.mov,5.01,M
+19_Rendering/19_01-understandImageSequence.mov,3.57,M
+19_Rendering/19_02-renderSetup.mov,4.91,M
+19_Rendering/19_03-fileOutput.mov,9.07,M
+20_Conclusion/20_01-goodbye.mov,740.59,K
+Exercise Files/fonts/Timepiece.ttf,90.96,K
+Exercise Files/import/myLogo.ai,249.28,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0000.png,94.89,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0001.png,95.09,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0002.png,95.53,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0003.png,95.11,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0004.png,95.26,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0005.png,95.17,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0006.png,95.02,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0007.png,94.9,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0008.png,95.08,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0009.png,95.13,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0010.png,95.14,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0011.png,95.03,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0012.png,95.11,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0013.png,95.11,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0014.png,95.1,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0015.png,95.05,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0016.png,95.2,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0017.png,95.26,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0018.png,95.29,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0019.png,95.03,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0020.png,95.15,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0021.png,94.96,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0022.png,95.59,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0023.png,97.32,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0024.png,98.91,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0025.png,100.63,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0026.png,102.36,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0027.png,104.02,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0028.png,105.71,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0029.png,107.6,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0030.png,109.56,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0031.png,111.15,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0032.png,112.4,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0033.png,113.72,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0034.png,114.67,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0035.png,115.44,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0036.png,116.64,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0037.png,118.11,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0038.png,120.34,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0039.png,120.96,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0040.png,121.56,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0041.png,123.75,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0042.png,125.05,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0043.png,125.63,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0044.png,125.96,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0045.png,127.07,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0046.png,129.25,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0047.png,130.05,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0048.png,129.82,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0049.png,130.2,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0050.png,131.03,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0051.png,133.7,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0052.png,134.31,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0053.png,134.68,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0054.png,135.44,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0055.png,135.3,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0056.png,135.49,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0057.png,133.54,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0058.png,132.04,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0059.png,130.12,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0060.png,128.97,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0061.png,128.16,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0062.png,126.53,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0063.png,124.97,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0064.png,124.39,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0065.png,125,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0066.png,126.01,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0067.png,126.63,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0068.png,126.06,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0069.png,126.79,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0070.png,124.88,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0071.png,123.9,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0072.png,121.13,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0073.png,120.88,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0074.png,120.32,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0075.png,120.06,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0076.png,119.25,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0077.png,116.33,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0078.png,114.5,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0079.png,113.06,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0080.png,111.14,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0081.png,109.44,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0082.png,106.7,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0083.png,104.29,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0084.png,104.72,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0085.png,105.74,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0086.png,106.59,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0087.png,108.18,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0088.png,109.65,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0089.png,110.97,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0090.png,113.61,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0091.png,115.06,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0092.png,116.49,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0093.png,118.49,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0094.png,119.56,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0095.png,120.09,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0096.png,120.71,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0097.png,122.03,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0098.png,123.56,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0099.png,123.14,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0100.png,123.7,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0101.png,124.98,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0102.png,125.96,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0103.png,126.56,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0104.png,129.31,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0105.png,130.29,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0106.png,130.17,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0107.png,132.73,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0108.png,134.05,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0109.png,135.81,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0110.png,136.44,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0111.png,139.12,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0112.png,141,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0113.png,141.13,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0114.png,140.59,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0115.png,139.57,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0116.png,138.96,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0117.png,137.32,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0118.png,136.24,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0119.png,132.61,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0120.png,130.95,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0121.png,130.47,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0122.png,129.46,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0123.png,126.57,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0124.png,126.62,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0125.png,127.87,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0126.png,127.49,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0127.png,127.25,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0128.png,128.1,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0129.png,127.86,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0130.png,125.41,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0131.png,123.2,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0132.png,121.65,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0133.png,119.55,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0134.png,119.3,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0135.png,119.33,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0136.png,118.12,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0137.png,116.3,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0138.png,114.52,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0139.png,114.56,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0140.png,112.36,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0141.png,110.09,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0142.png,107.03,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0143.png,106.01,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0144.png,108.9,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0145.png,111.22,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0146.png,113.91,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0147.png,115.88,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0148.png,118.66,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0149.png,118.45,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0150.png,118.33,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0151.png,118.98,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0152.png,120.37,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0153.png,120.69,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0154.png,120.71,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0155.png,121.18,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0156.png,123.05,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0157.png,124.7,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0158.png,124.77,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0159.png,124.8,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0160.png,125.64,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0161.png,126.17,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0162.png,126.77,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0163.png,127.9,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0164.png,128.38,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0165.png,127.42,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0166.png,128.81,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0167.png,131.71,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0168.png,132.39,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0169.png,133.04,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0170.png,132.74,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0171.png,134.29,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0172.png,136.71,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0173.png,136.55,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0174.png,136.69,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0175.png,135.84,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0176.png,135.54,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0177.png,133.63,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0178.png,131.87,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0179.png,130.14,K
+Exercise Files/renderoutput/logoAnimation/flyingLogo0180.png,128.54,K
+Exercise Files/sceneassets/images/galactic_2K.png,1.25,M
+Exercise Files/sceneassets/images/leopard_print.jpg,1.64,M
+Exercise Files/sceneassets/images/Sky.Day.1024x512.png,441.62,K
+Exercise Files/scenes/ch02/03_navigation.max,196,K
+Exercise Files/scenes/ch02/04_hotkeys.max,196,K
+Exercise Files/scenes/ch02/05_transforms.max,196,K
+Exercise Files/scenes/ch02/06_axisConstraints.max,196,K
+Exercise Files/scenes/ch02/07_shadingModes.max,196,K
+Exercise Files/scenes/ch02/08_configureViewports.max,196,K
+Exercise Files/scenes/ch03/01_modelingMethods.max,292,K
+Exercise Files/scenes/ch03/02_units.max,220,K
+Exercise Files/scenes/ch03/03_grid.max,180,K
+Exercise Files/scenes/ch03/04_levelOfDetail.max,180,K
+Exercise Files/scenes/ch03/05_modifierStack.max,184,K
+Exercise Files/scenes/ch03/06_dependencies.max,184,K
+Exercise Files/scenes/ch03/07_collapseStack.max,188,K
+Exercise Files/scenes/ch03/08_sub-objects.max,216,K
+Exercise Files/scenes/ch03/08_sub-objects_complete.max,216,K
+Exercise Files/scenes/ch04/01_creatingShapes.max,192,K
+Exercise Files/scenes/ch04/02_creatingLines.max,180,K
+Exercise Files/scenes/ch04/03_editableSpline.max,184,K
+Exercise Files/scenes/ch04/04_vertexTypes.max,192,K
+Exercise Files/scenes/ch05/01_loftingVase.max,192,K
+Exercise Files/scenes/ch05/01_vaseComplete.max,200,K
+Exercise Files/scenes/ch05/02_loftParameters.max,196,K
+Exercise Files/scenes/ch05/03_editingPath.max,196,K
+Exercise Files/scenes/ch05/04_loftSubObjects.max,196,K
+Exercise Files/scenes/ch05/05_scaleDeformation.max,196,K
+Exercise Files/scenes/ch05/06_shellModifier.max,196,K
+Exercise Files/scenes/ch05/07_finishing.max,200,K
+Exercise Files/scenes/ch05/07_vaseLoft.max,200,K
+Exercise Files/scenes/ch05/07_vaseMesh.max,792,K
+Exercise Files/scenes/ch06/01_bookshelf_dimensions.txt,155,B
+Exercise Files/scenes/ch06/01_bookshelf_finished.max,236,K
+Exercise Files/scenes/ch06/02_creatingChamferBoxes.max,188,K
+Exercise Files/scenes/ch06/03_cloningObject.max,196,K
+Exercise Files/scenes/ch06/04_array.max,200,K
+Exercise Files/scenes/ch06/05_tapeHelper.max,236,K
+Exercise Files/scenes/ch06/06_groupingObjects.max,240,K
+Exercise Files/scenes/ch07/01_sofa_dimensions.txt,70,B
+Exercise Files/scenes/ch07/01_sofa_finished.max,276,K
+Exercise Files/scenes/ch07/02_rectanglePrimitives.max,184,K
+Exercise Files/scenes/ch07/03_editableSpline.max,192,K
+Exercise Files/scenes/ch07/04_sweepModifier.max,192,K
+Exercise Files/scenes/ch07/05_softSelect.max,220,K
+Exercise Files/scenes/ch07/06_deleteMesh.max,224,K
+Exercise Files/scenes/ch07/07_clearingSubObjectSelection.max,228,K
+Exercise Files/scenes/ch07/08_randomNoise.max,228,K
+Exercise Files/scenes/ch07/09_instancingModifiers.max,284,K
+Exercise Files/scenes/ch08/01_robot_finished.max,524,K
+Exercise Files/scenes/ch08/03_selectSubObject.max,216,K
+Exercise Files/scenes/ch08/04_selectionRegion.max,216,K
+Exercise Files/scenes/ch08/05_caddyExtrude.max,216,K
+Exercise Files/scenes/ch08/06_detailRemoveCut.max,232,K
+Exercise Files/scenes/ch08/07_swiftLoop.max,232,K
+Exercise Files/scenes/ch08/08_constrainSubObject.max,240,K
+Exercise Files/scenes/ch08/09_attachPolygonMeshes.max,240,K
+Exercise Files/scenes/ch08/10_bridge.max,336,K
+Exercise Files/scenes/ch08/11_smoothingAndHardening.max,320,K
+Exercise Files/scenes/ch08/11_turntableFinished.max,316,K
+Exercise Files/scenes/ch09/01_subdivisionSurface.max,216,K
+Exercise Files/scenes/ch09/02_boxConvertToPoly.max,200,K
+Exercise Files/scenes/ch09/03_symmetry.max,220,K
+Exercise Files/scenes/ch09/04_turboSmooth.max,212,K
+Exercise Files/scenes/ch09/05_extrudePolygons.max,212,K
+Exercise Files/scenes/ch09/06_roundingOut.max,220,K
+Exercise Files/scenes/ch09/07_transformCenter.max,220,K
+Exercise Files/scenes/ch09/08_editingEdgeLoops.max,216,K
+Exercise Files/scenes/ch09/09_shapingTheModel.max,220,K
+Exercise Files/scenes/ch09/10_bakingSubdivisions.max,220,K
+Exercise Files/scenes/ch09/10_subdCompleted.max,344,K
+Exercise Files/scenes/ch10/01_NURBS.max,204,K
+Exercise Files/scenes/ch10/04_convertBezierToNURBS.max,196,K
+Exercise Files/scenes/ch10/05_cloningSubObjects.max,192,K
+Exercise Files/scenes/ch10/06_offsetCurve.max,196,K
+Exercise Files/scenes/ch10/07_U-LoftSurface.max,200,K
+Exercise Files/scenes/ch10/08_editingDependentSurface.max,204,K
+Exercise Files/scenes/ch10/09_extrudeSurface.max,204,K
+Exercise Files/scenes/ch10/10_surfaceApproximation.max,208,K
+Exercise Files/scenes/ch11/01_logoFinished.max,216,K
+Exercise Files/scenes/ch11/02_creatingText.max,176,K
+Exercise Files/scenes/ch11/03_applyBevel.max,188,K
+Exercise Files/scenes/ch11/04_bevelParameters.max,196,K
+Exercise Files/scenes/ch11/05_levelOfDetail.max,196,K
+Exercise Files/scenes/ch11/06_deformingBevel.max,196,K
+Exercise Files/scenes/ch12/01_materialEditor.max,204,K
+Exercise Files/scenes/ch12/02_navigatingCompact.max,204,K
+Exercise Files/scenes/ch12/03_sceneMaterials.max,204,K
+Exercise Files/scenes/ch12/04_materialType.max,204,K
+Exercise Files/scenes/ch12/05_specularParameters.max,204,K
+Exercise Files/scenes/ch12/06_previewWithActiveShade.max,204,K
+Exercise Files/scenes/ch12/07_opacityAndRefraction.max,204,K
+Exercise Files/scenes/ch12/07_refractionFinished.max,208,K
+Exercise Files/scenes/ch13/01_proceduralMaps.max,208,K
+Exercise Files/scenes/ch13/02_navigatingShaderTrees.max,208,K
+Exercise Files/scenes/ch13/03_managingSourceImageFiles.max,208,K
+Exercise Files/scenes/ch13/04_trackingSceneAssets.max,212,K
+Exercise Files/scenes/ch13/04_trackingSceneAssets2.max,212,K
+Exercise Files/scenes/ch13/05_projectingUVmap.max,212,K
+Exercise Files/scenes/ch13/06_realWorldMapSize.max,212,K
+Exercise Files/scenes/ch13/07_reflections.max,212,K
+Exercise Files/scenes/ch13/08_selfIlluminatedEnvironment.max,212,K
+Exercise Files/scenes/ch13/09_mappingBump.max,216,K
+Exercise Files/scenes/ch13/10_instancingSampleSlots.max,216,K
+Exercise Files/scenes/ch14/01_displayLayers.max,216,K
+Exercise Files/scenes/ch14/02_freeCamera.max,216,K
+Exercise Files/scenes/ch14/03_movingCamera.max,224,K
+Exercise Files/scenes/ch14/04_targetCamera.max,224,K
+Exercise Files/scenes/ch14/05_fieldOfView.max,224,K
+Exercise Files/scenes/ch14/06_aspectRatio.max,224,K
+Exercise Files/scenes/ch15/15_01_cgLighting.max,196,K
+Exercise Files/scenes/ch15/15_02_objectShadowProperties.max,224,K
+Exercise Files/scenes/ch15/15_03_spotLight.max,224,K
+Exercise Files/scenes/ch15/15_04_intensityAndColor.max,232,K
+Exercise Files/scenes/ch15/15_05_contrastAndHighlights.max,204,K
+Exercise Files/scenes/ch15/15_06_hotspotFalloff.max,232,K
+Exercise Files/scenes/ch15/15_07_shadowType.max,232,K
+Exercise Files/scenes/ch15/15_08_optimizeShadowMap.max,232,K
+Exercise Files/scenes/ch15/15_09_optimizeAreaShadow.max,232,K
+Exercise Files/scenes/ch15/15_10_omniLights.max,232,K
+Exercise Files/scenes/ch15/15_11_excludingObjects.max,240,K
+Exercise Files/scenes/ch15/15_12_lightingFinished.max,240,K
+Exercise Files/scenes/ch15/15_12_lightLister.max,240,K
+Exercise Files/scenes/ch16/01_understandingKeyframes.max,256,K
+Exercise Files/scenes/ch16/02_setupTimeConfiguration.max,256,K
+Exercise Files/scenes/ch16/03_setKeyFilters.max,256,K
+Exercise Files/scenes/ch16/04_createKeyframesSetKey.max,256,K
+Exercise Files/scenes/ch16/05_editKeyframesTimeline.max,256,K
+Exercise Files/scenes/ch16/06_autoKey.max,256,K
+Exercise Files/scenes/ch16/07_animationPasses.max,256,K
+Exercise Files/scenes/ch16/08_dopeSheet.max,256,K
+Exercise Files/scenes/ch16/09_curveEditor.max,260,K
+Exercise Files/scenes/ch16/10_cycleAndExtrapolate.max,256,K
+Exercise Files/scenes/ch16/10_cycleFinished.max,256,K
+Exercise Files/scenes/ch17/01_understandHierarchies.max,524,K
+Exercise Files/scenes/ch17/02_understandCoordinateSystems.max,524,K
+Exercise Files/scenes/ch17/03_controlRotations.max,524,K
+Exercise Files/scenes/ch17/04_pivotPoints.max,524,K
+Exercise Files/scenes/ch17/05_lockingTransforms.max,524,K
+Exercise Files/scenes/ch17/06_linkingObjects.max,524,K
+Exercise Files/scenes/ch17/07_schematicView.max,528,K
+Exercise Files/scenes/ch17/08_solvingProblemsWithScale.max,196,K
+Exercise Files/scenes/ch18/01_waveformFloatFinished.max,200,K
+Exercise Files/scenes/ch18/02_constrainToPath.max,496,K
+Exercise Files/scenes/ch18/02_constrainToPathFinished.max,508,K
+Exercise Files/scenes/ch18/03_assignLinkConstraint.max,516,K
+Exercise Files/scenes/ch18/04_addLinkTargets.max,516,K
+Exercise Files/scenes/ch18/05_animateConstrainedObject.max,516,K
+Exercise Files/scenes/ch18/05_animateConstrainedObjectFinished.max,520,K
+Exercise Files/scenes/ch19/02_renderSetup.max,256,K
+Exercise Files/scenes/ch19/03_fileOutput.max,256,K
+Exercise Files/scenes/ch19/03_fileOutputFinished.max,256,K

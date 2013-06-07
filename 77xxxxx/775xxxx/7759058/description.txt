@@ -1,0 +1,48 @@
+EmEditor Text Editor is a lightweight, yet extendable, easy-to-use text editor for Windows. EmEditor is very customizable, and it supports Unicode and powerful macros. EmEditor now supports very large files - up to 248 GB or 2.1 billion lines! In Professional version there are many new features including a Large File Controller, Vertical Selection Editing, Binary Editing, Optimized Search and Replace, improved Projects Plug-in, and many more! EmEditor is now able to open even larger than 248 GB by opening a portion of the file with the new custom bar - Large File Controller. The Large File Controller allows you to specify the beginning point, end point, and range of the file to be opened. It also allows you to stop the opening of the file and monitor the real size of the file and the size of the temporary disk available.
+
+You can write a macro to do almost whatever you want within EmEditor!
+Not only can you define a macro which records keystrokes that you use and reference repeatedly, but you can also write your own macros that can manipulate other applications, Windows-based files, or network functionalities. The macros are based on the Windows Scripting Host (WSH) engine, so you can use all of the powerful, robust objects available under the Windows Scripting Host. You can program macros with popular script languages including javascript and VBScript. You can even program with PerlScript, Python, PHPScript, Ruby, and other ActiveScript languages as long as the script engines you want to use are installed on your system. Nevertheless, EmEditor barely forefeits its light-weightedness when using macros. EmEditor macros are modules designed independently of EmEditor executable and are implemented as a Dynamic Link Library (DLL) file. To conserve system resources, the DLL is only loaded during the macro execution.
+
+The Unicode support is a must for anyone who uses international languages. Many text editors claim they support Unicode (UTF-7, UTF-8 and UTF-16), however, they only convert Unicode to the system encoding (or ANSI) internally when they open files, so they cannot actually edit characters that are not supported by the system encoding. For instance, many text editors cannot actually edit Shift-JIS (Japanese) encoding on English Windows. Most text editors cannot even open Unicode file names. EmEditor supports Unicode natively, and in fact, the whole program is built as a Unicode application. EmEditor allows you to open a file with any encoding supported in the Windows system, and you can easily convert from one encoding to another within EmEditor. EmEditor allows you to open Unicode file names, and allows you to search for Unicode characters. Since EmEditor supports Unicode characters even outside of the Basic Multilingual Plane (BMP), it can display the CJK Extension B characters as long as a supporting font is available on the system. With EmEditor plug-ins, EmEditor allows you to convert a selected text to HTML/XML Character Reference or Universal Character Names, and vice versa.
+
+Features:
+- Large File Controller
+- Vertical Selection Editing
+- Binary Editing
+- Optimized Search and Replace
+- Improved Projects Plug-in
+- The Function Bar can now be displayed
+- Speed is optimized when each line is very long
+- Marks (CR, LF, Tab, Space, EOF) can be customized (Tools > Customize > Marks)
+- Extended Katakana support is available
+- Auto-panning by clicking the mouse wheel
+- The Indent Guides can be displayed (Configuration Properties > Marks > Show Indent Guides)
+- Right-click in the line numbers or the left side of the window to move the cursor to start of that line
+- Tag Format can be specified with regular expressions (Customize > Edit > Tag Format)
+- Drag and drop editing can be disabled (Customize > Edit > Enable Text Drag and Drop)
+- Temporary folders can be specified (Customize > Advanced > Use System Temporary Folder)
+- The Keyboard Map window can be sorted by clicking each column
+- INI files can be imported to the Registry (Import and Export Wizard > Import Personal INI files to the Registry)
+- The Copy command now copies the entire current line when no text is selected. The old behavior can be also selected by using the Copy Selection command
+- The Cut command now cuts the entire current line when no text is selected. The old behavior can be also selected by using the Cut Selection command
+- A new dialog appears when invalid characters are contained in the opening file
+- A new dialog appears when the document contains characters which will be lost if saved as selected encoding for saving
+- Find in Files results can be redirected in the Output Bar (Find in Files > Use Output Bar)
+- The new Jump Next and Jump Previous commands can be used to jump between results in the Output bar
+- Mouse wheel with CTRL increases or decreases the font size
+- Mouse wheel with Right-click moves to next or previous document
+
+Plug-ins:
+The following plug-ins are installed by default with EmEditor Professional.
+* Projects plug-in
+* Snippets plug-in
+* HTMLBar plug-in
+* Diff plug-in
+* Explorer plug-in
+* FindBar plug-in
+* Open Documents plug-in
+* Outline plug-in
+* Search plug-in
+* Web Preview plug-in
+* Word Complete plug-in
+* Word Count plug-in

@@ -1,0 +1,38 @@
+Roses and Wine
+For Final Fantasy VIII
+
+Final Fantasy VIII Original Soundtrack (NOT PSF OR OTHERWISE)
+in looping Vorbis ogg format.
+
+This is the sister project of Anxious Heart.
+
+Credits:
+
+DLPB:
+  Looping ogg Vorbis, Normalising, 
+  Editing, Installer, TextChange, RaW.dll
+
+un4seen
+Bass.dll
+
+Nobuo Uematsu: Original Soundtrack and Composer
+
+Individual credits for the fan contributions are in the Readme. 
+Special thanks to Kranmer for helping me test this.
+
+
+Problem: Midi does not represent the original game audio.
+
+Solution:  I have creating looping music from the uncompressed
+official OST. To make this pack a tradeoff between quality and
+size, I have used Adobe Audition to create music with a target
+bitrate of 192 in ogg Vorbis format.  The OST has superior 
+audio quality to PSF and the original game.
+
+Final Fantasy VIII came with midi only and no way to use stream
+data like ogg Vorbis.  For this reason I have also created a DLL
+called RaW, coded in Delphi 7, to play the music in the game 
+using bass.dll.  
+
+The DLL loads automatically on game start via Aali's driver.
+The DLL supports all known languages of Final Fantasy VIII

@@ -1,0 +1,52 @@
+Release Info:
+
+Live HD Video Mixing on your PC
+
+vMix is a new Software Video Mixer and Switcher that utilises the latest advances in computer hardware to provide live hd video mixing, a task previously only possible on expensive dedicated hardware mixers. vMix runs on the Windows XP, Windows Vista and Windows 7 platforms.
+
+vMix is a complete live video production software solution with features including LIVE mixing, switching and streaming of SD and HD (up to 1080p) video sources including cameras, video files, DVDs, images and much much more.
+
+Feature: 
+http://www.shotpix.com/images/20670636534361176656.jpg 
+http://www.shotpix.com/images/44175182740839250011.jpg 
+http://www.shotpix.com/images/07684189831645728699.jpg 
+http://www.shotpix.com/images/47882800531372217602.jpg
+
+Minimum System Requirements
+
+Windows XP, Windows Vista or Windows 7 based system
+2Ghz Dual-Core Processor
+1GB Memory
+Direct3D 10 Compatible Video Card. Modern dedicated graphics card required for HD Cameras.
+1GB Free Disk Space
+Recommended System Requirements
+
+The following system supports three live HD sources output to a secondary screen while recording at 1080p 30fps
+
+Windows 7 Professional
+Intel Core i5 Processor
+GigaByte motherboard with 1x PCI-Express x16 and 3x PCI-Express x1
+NVIDIA 250/450 GTS 1GB Graphics Card
+3x Blackmagic Design Intensity Pro
+4GB DDR3 Memory
+7200RPM Hard Drive
+Graphics Hardware
+
+NVIDIA 240 GT or above recommended
+Video Capture Hardware
+
+Supported Hardware
+Blackmagic-Design DeckLink series (DeckLink Quad etc)
+Blackmagic-Design Intensity
+Blackmagic-Design Intensity Pro
+Blackmagic-Design Intensity Shuttle
+
+Untested Hardware
+(The devices below will likely work vMix but have not been tested)
+PCI-Express Video Capture cards
+PCI Analog Video Capture cards
+USB 2.0 Analog Video Capture devices (Separate USB input card is required for each device)
+
+DV/HDV
+DV and HDV sources are supported through FireWire. (Separate FireWire card required for each camera)
+These sources introduce a delay of half a second.

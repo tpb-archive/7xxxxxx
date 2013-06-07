@@ -1,0 +1,63 @@
+X Lossless Decoder version 20120908 (141.1)
+
+XLD extraction logfile from 2012-10-11 16:38:44 +0200
+
+Hoffmaestro & Chraa / The Storm
+
+Used drive : HL-DT-ST DVDRW  GX30N (revision RP09)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:34:50 |         0    |    16099   
+        2  | 03:34:50 | 03:49:44 |     16100    |    33318   
+        3  | 07:24:19 | 04:13:15 |     33319    |    52308   
+        4  | 11:37:34 | 03:48:28 |     52309    |    69436   
+        5  | 15:25:62 | 03:45:63 |     69437    |    86374   
+        6  | 19:11:50 | 03:19:35 |     86375    |   101334   
+        7  | 22:31:10 | 04:12:13 |    101335    |   120247   
+        8  | 26:43:23 | 04:15:54 |    120248    |   139426   
+        9  | 30:59:02 | 03:01:36 |    139427    |   153037   
+       10  | 34:00:38 | 03:34:21 |    153038    |   169108   
+       11  | 37:34:59 | 03:51:24 |    169109    |   186457   
+       12  | 41:26:08 | 03:52:32 |    186458    |   203889   
+       13  | 45:18:40 | 11:04:69 |    203890    |   253758   
+
+AccurateRip Summary (DiscID: 00182ea4-00f39870-ad0d370d)
+    Track 01 : OK (v1+v2, confidence 6/6)
+    Track 02 : OK (v1+v2, confidence 6/6)
+    Track 03 : OK (v1+v2, confidence 6/6)
+    Track 04 : OK (v1+v2, confidence 6/6)
+    Track 05 : OK (v1+v2, confidence 6/6)
+    Track 06 : OK (v1+v2, confidence 6/6)
+    Track 07 : OK (v1+v2, confidence 6/6)
+    Track 08 : OK (v1+v2, confidence 6/6)
+    Track 09 : OK (v1+v2, confidence 6/6)
+    Track 10 : OK (v1+v2, confidence 6/6)
+    Track 11 : OK (v1+v2, confidence 6/6)
+    Track 12 : OK (v1+v2, confidence 6/6)
+    Track 13 : OK (v1+v2, confidence 6/6)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+
+No errors occurred
+
+End of status report
+ 

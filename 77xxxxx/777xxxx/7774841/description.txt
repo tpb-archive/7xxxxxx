@@ -1,0 +1,49 @@
+Runtime's RAID Reconstructor
+
+Product Highlights
+
+Recover data from a broken RAID Array
+Recovers both hardware and software RAID
+Automatically finds RAID parameters
+Destriper and Analyzer
+Safe, read-only design
+Run from the Runtime Live CD or a WinPE boot CD-ROM
+
+
+Runtime's RAID Reconstructor will help you recover data from broken:
+
+RAID Level 5 Array consisting of 3 to 14 drives
+RAID Level 0 Array (Striping) consisting of 2 to 14 drives
+Even if you do not know the RAID parameters, such as start sector, drive order, block size and direction of rotation, RAID Reconstructor will analyze your drives and determine the correct values. You will then be able to create a copy of the reconstructed RAID in a virtual image (.vim), an image file (.img) or on a physical drive.
+
+Unlike other products that require you to know the RAID parameters, RAID Reconstructor is not only a "destriper" but an "analyzer" as well. It finds the unknown parameters for you.
+
+Once you created an image you can either mount it with Captain Nemo or use it for further data recovery processing with Runtime's GetDataBack. If you create the image on another physical drive, you can process it with Captain Nemo or GetDataBack too or you might even be able to directly boot from it.
+
+Watch these screenshots on how you recover your files using RAID Reconstructor together with Captain Nemo.
+
+NEW: If you want to recover a broken NAS RAID, you might be interested in our new all-in-one NAS Data Recovery software.
+NEW: If you want to recover a broken Windows RAID, you might be interested in our new all-in-one RAID Recovery for Windows software.
+
+RAID Reconstructor is safe and read-only.
+
+It will not try to "fix" your RAID. It will merely create a copy of your RAID at another location. It will collect sector by sector from each single drive involved and write these sectors in the correct order to the designated destination. This process is also called "de-striping".
+
+Because one drive is redundant in RAID 5, it is sufficient to have one less than the original number of drives (N) in the array. RAID Reconstructor can recalculate the original data from the N-1 drives. For a RAID-0 (striped) array you will need all drives.
+
+The RAID Reconstructor will recover both, hardware and software RAIDs. It will recover from broken Windows Dynamic Disk sets.
+
+System Requirements: 
+
+Pentium processor 3
+2 MB RAM. 
+Windows 95, 98, ME, NT, 2000, XP, 2003, Vista, Windows 7, Windows 8. 
+Disk controller card capable of handling all the drives in your RAID individually, and storage space for holding the reconstructed RAID.
+
+Homepage: http://www.runtime.org/raid.htm
+
+Installation Instructions:
+
+1. Install program.
+2. Use given serial to register application.
+3. Done, Enjoy.

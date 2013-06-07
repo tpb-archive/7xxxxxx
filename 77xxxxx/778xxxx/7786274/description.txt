@@ -1,0 +1,87 @@
+Plugin Name: Tabbed Menu
+Plugin Author: Jesse Labrocca
+Plugin Website: http://www.MybbCentral.com
+Plugin Version: 2.0.2
+Plugin Mybb Compatibility: 1.6x
+Plugin File Edits: None
+Plugin File Uploads: 4
+Plugin Description: Creates a tabbed menu on the index page to help organize forums.
+
+Installation
+
+1. Upload the files from the zip to your forum directory.
+/inc/plugins/tab_menu.php
+/inc/languages/english/admin/forum_tabmenu.lang.php
+/admin/modules/forum/tabmenu.php (if you have renamed your admin directory make sure to upload this properly)
+/jscripts/tabcontent.js
+
+
+2. Login to your admincp and INSTALL & ACTIVATE the plugin (Tabbed Menu) in the plugin manager.
+
+3. You will see a new option in the admin under "Forums & Posts" for "Tab Menu". Be aware you cannot use a category in more than one tab else this will not work. Also be sure to assign all categories to a tab.
+
+The rest is self explanatory and instructions are on the page.
+
+Screenshots are all available inside the extras folder.
+
+TEMPLATE TROUBLESHOOTING
+=================================
+If after install you have issues with your index page template please check to make sure these changes were made:
+
+"index"
+-----------------
+1. After {$header} add {$tabmenu}
+2. After {$forums} add
+
+<script type="text/javascript">
+<!--//
+var myflowers=new ddtabcontent("menutabs")
+myflowers.setpersist(true)
+myflowers.init()
+-->
+</script>
+
+"forumbit_depth1_cat"
+------------------------
+1. Start the template with this line:
+<div id="tabmenu_{$forum['fid']}">
+
+2. Add to the very end </div>
+
+Also check the index page source code. In the header you should see the tabbed.css listed:
+<link type="text/css" rel="stylesheet" href="http://domain.com/cache/themes/theme2/tabbed.css" />
+If it's not there see the next section on customizing.
+
+For members the tabs work but for guests they do not.
+================================================
+If you have tabs with hidden fid's they cannot be the first sorted forum.
+
+What does that mean you ask?
+
+fid 1 (staff hidden)
+fid 2 (member only)
+fid 3
+fid 4
+
+You have 2 tabs...
+
+Tab1 = fid 1, fid 3
+Tab2 = fid 2, fid 4
+
+Staff can see the tabs normally because they have access to all forums.
+
+Member will have a problem because they can't see fid 1 and Tab1 has fid1 sorted first. To correct you alter the sort order of fid 1 to be last so that fid 3 is the first sorted.
+
+
+CUSTOMIZING
+===================================
+This adds a CSS to your database called tabbed.css. It should be in your theme listing for css in admincp. You can alter that css for custom changes. Currently the css uses the images/thead_bg.gif as the background image. Alter to suit your needs. You can run multiple templates and have a different menu for each by altering the tabbed.css. If your theme does not have the tabbed.css installed please take the text out of the file inside the extras folder and paste it.
+extras/tabbed.css is the file just in case you need it.
+
+.shadetabs li a.selected is the selected tab...the one that's active.
+.shadetabs li a are the other tabs.
+
+
+Demo
+
+This plugin currently offers full language support.

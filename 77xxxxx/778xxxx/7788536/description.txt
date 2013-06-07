@@ -1,0 +1,37 @@
+Uninstall Tool - Unique And Powerful Uninstaller. Make your Computer Work Faster Now by using Uninstall Tool! It's a fast, secure and convenient way to remove unneeded applications and system components. Great, powerful and reliable alternative to standard Windows Add/Remove program. The program has lots of features and options mising in Microsoft's applet. Uninstall Tool works with LIGHTNING SPEED and COMPLETELY removes any program from your computer.
+
+Main:
+- Revised and improved User Interface (including new icons)
+- Secondary toolbar with addional functions (can be hidden)
+- Adjustable positions of toolbars (top/bottom/side)
+- Simplified and more convenient use of task panel (in the left of Uninstaller and Startup managers), added keyboard navigation for task panel controls
+- Automatic check for updates (optional) and new version dialog with 'what's new' list
+- Improved preferences dialog
+- New HTML report (both for Uninstaller and Startup manager)
+- Running different Windows Tools (Tools menu)
+- Program preferences are always saved to the 'preferences.xml' file (located in CSIDL_APPDATACrystalIdea SoftwareUninstall Tool)
+- 90% of program code is rewritten/reviewed/optimized
+- Improved program stability
+
+Uninstaller:
+- Uninstall Wizard: faster scanning
+- Uninstall Wizard: detection of running processes among found traces; termination on request
+- Better program listing, better icon detection
+- Ability to force stop uninstall processes (when third-party uninstaller is freezed)
+- Show recent items in the secondary toolbar (not in status bar) with grouping items (Apps/System/Hidden) in a popup menu
+- Improved cache algorithms
+- Improved search filter usage
+- List view with small icons looks better now
+- Google for program name (Ctrl+G) and its publisher (see 'Action' menu)
+- Uninstaller cache is now saved to 'CachedData.dat' file (located in CSIDL_APPDATACrystalIdea SoftwareUninstall Tool). One can manually refresh the cache by simply pressing the Refresh button in the toolbar (F5)
+
+Startup:
+- Multiple items selection
+- Company column to display item's publisher/author
+- Google for program name (Ctrl+G), .exe name and publisher (see 'Action' menu)
+- Better way of handling situation when there're no items in the list
+
+Install:
+
+- run application
+- replace file

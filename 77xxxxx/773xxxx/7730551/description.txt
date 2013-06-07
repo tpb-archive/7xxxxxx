@@ -1,0 +1,56 @@
+Vopt9
+
+Vopt lets you quickly defrag and pack your disk drives to maintain optimal performance and reliability. Vopt's speed makes daily defragging both practical and desirable. Vopt also provides tools to assist you in maintaining your system, reclaiming wasted disk space, and protecting your privacy.
+
+Vopt offers many different lanquage choices to give you the comfort of working in your own native language.
+
+Main window map
+
+Vopt's initial main display is a graphic map of the drive showing which clusters are fully used, partially used, and free (unused). After you do an analyze or defrag, the map shows which clusters contain normal files, fragmented files, fixed (immovable) files, excluded files, metafiles, system restore files, startup files, and the hiberfile.
+When you click on the map after an analyze or defrag, Vopt displays a window which lists the files using that area. You can drag a file from the list and drop it into a new location on the drive. Be sure to right-click on the list for options -- you can even compress, uncompress, encrypt or decrypt files from this window.
+
+Buttons
+
+Defrag drive - Defragments the currently selected drive.
+Analyze drive - Determines and displays what each cluster of the drive is being used for
+Cleanup - Lets you view and delete cookies, internet history, temporary files, the USN Journal, etc. Cookies you don't want deleted ("Subscriptions") can be entered so that you don't lose access to your favorite web sites when using cleanup.
+
+Defragmenting menu
+
+Defrag drive (tighter packing) - Performs extra work to reduce the number of small gaps left after defragmenting. This takes more time.
+Quick defrag (VSS compatible) - Files larger than 64 MB are not defragmented, and file packing is minimal.
+Batch defrag - Defragments the multiple drives you select, and turns off the system afterward if you like.
+Defrag pagefile - Defragments the pagefile.
+Exclusions - Lets you exclude files from being moved.
+Schedule - Lets you schedule automatic defragging.
+Advanced settings - Lets you set Vopt's relative priority and other options for faster defragmenting.
+
+Status menu
+
+Following an Analyze or Defrag, displays important information about the drive..
+
+Health menu
+
+Check disk for errors - Provides a more informative access to Window's drive checking facility. 
+Drive failure prediction - Checks the drives' hardware status to ensure that they are in good working order.
+Drive performance - Provides a realistic measurement of actual drive throughput.
+Tools menu
+
+The tools menu provides several useful tools for viewing system information and enhancing performance.
+
+Limitations
+
+Maximum partition size: 16 TB (terabytes) for volumes formatted with a normal 4096 byte cluster size. Larger cluster sizes will increase capacity; smaller cluster sizes will decrease capacity (e.g. 2 TB maximum for a 512 byte cluster size).
+NAS (Network Attached Storage) drives cannot be defragmented, and are not displayed in Vopt's drive list. 
+
+Supported OS: 
+
+Windows 2000, 2003, XP, Vista, and Windows 7
+
+Homepage: http://www.vopt.com/nuvopt9.htm
+
+Installation Instructions:
+
+1. Install Program (windows 7/vista user's Run as Administrator)
+2. Copy content from key folder and paste into default installation directory.
+3. Done, Enjoy.

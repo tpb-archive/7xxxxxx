@@ -1,0 +1,129 @@
+﻿User Type,Username,Date,Text
+,Antraxy,2012-10-12T02:53Z,"Thanks.
+Really good Windows XP with every update and the first Windows XP i see with SATA drivers and Recovery Console good jop. ;-)"
+,puli9,2012-10-12T06:24Z,keep it up bro. you are the best.
+,TunaHead,2012-10-12T08:15Z,"I didn't like Windows 8, now I'm back to windows XP. Thanks uploader."
+,prodallasosoft,2012-10-12T23:29Z,Im with tunahead on the whole win 8 exp. I was using college ed. xp but would not load my storage devices. Im hoping for good stuff on this edition.
+,nikhil1911,2012-10-13T06:25Z,Does this XP support SATA III? Does it support SSD? What else does this XP support?
+,LuxLOL,2012-10-13T07:07Z,"Yes it does support SATA 3 and SSD. ;-)
+
+The second question is little bit harder to answer but in the Read Me file you will find for example this improvements.
+
+* MF4SBF Patch v2.0: Fixes the Windows XP slow boot bug which is caused by the ""Microsoft .NET Framework NGEN v4.0.30319"" Service.
+* TCP/IP Patch: Allows you to have 16777214 (Max) Half-Open TCP Connections instead of 10.
+* Uxtheme Patch: Allows you to use un-signed Custom visual styles.
+* SFC Patch: Allows you to disable and enable Windows File Protection with a registry key.
+* RAID-5 Patch: This will enable Software RAID-5 Support."
+,nikhil1911,2012-10-14T03:01Z,"The MAN LuxLOL!
+
+Damn, I am impressed! Shit, I wouldn't have XP without you, I love you! ;)"
+,nikhil1911,2012-10-14T03:05Z,"Just wanted to say man, imagine how many thousands and thousands of people get XP that too with SATA and RAID support and are now able to play old classic games like Midtown Madness, Age Of Empires, Rise of Nations, Halo that too with OFFICIAL EAX support that is DirectSound3D not available in any other Windows.
+
+The MAN once again! I am just sharing my happiness. 
+"
+,LuxLOL,2012-10-14T06:19Z,True no DirectSound in WinVista and Win7 was a stupid move by microsoft but they have added it again in Win8. ;-)
+,pirateok1,2012-10-15T01:16Z,"Hey LuxLOL Thanks for the upload.
+
+After downloading i tried saving the file in USB and running it and even tried via dvd. I was not able to do it. 
+
+After downloading whats the best way to make it work. 
+thank you"
+,LuxLOL,2012-10-15T02:35Z,"The easiest way to install WinXP is with a CD/DVD disc.
+Extract the .iso file from the .zip file and then select in your burn program the option to brun a .iso (image) file."
+,RustyMcclintock,2012-10-17T23:59Z,"Asks for key, tried supplying an actual legit key, would not work. Tried several keys for ""black edition"" would not work. Skip this torrent unless you want a headache."
+,LuxLOL,2012-10-18T04:50Z,"@Julaybib
+It will work no different like a normal WinXP go to "" www.wintoflash.com/home/en/ "" to learn how to make a WinXP USB installation.
+
+@RustyMcclintock
+You have to make sure you format your hard disk drive before reinstalling or you will do an upgrade and then you get problems like this."
+,eodpapa,2012-10-20T20:47Z,"I can't understand the setup procces. This is what i have done:
+1. I unziped the .zip file
+2. I made a dvd containing the following:
+     a. Windows XP Professional SP3 32-bit - Black Edition 2012.10.11 file (not .iso)
+     b. Keyfinder (Key Changer) v1.51.exe
+     c. Windows XP Professional SP3 32-bit - Black Edition 2012.10.11.iso.md5
+     d. WinXP 32-bit BE 2012.10.11 Changelog.txt
+     e. WinXP 32-bit BE 2012.10.11 Read Me.txt
+     f. WinXP 32-bit BE 2012.10.11 Screenshot.jpg
+     g.  Working Windows XP WGA Keys.txt
+     h. Windows XP Professional SP3 32-bit - Black Edition 2012.10.11.iso
+Then i restarted my pc but it does not boot from the dvd
+
+Any idea anyone?"
+,LuxLOL,2012-10-21T06:22Z,You should only brun the .ISO file as and IMAGE file don't add stuff to the CD/DVD after you burned the disc or your break the bootable CD/DVD stuff that the .ISO file creates.
+,nzraj,2012-10-22T11:12Z,"@LuxLOL
+I am the greatest fan of your Win XP Black Edition :D Keep it up man.
+I wanted to know how can I edit the list of programs to be installed during the setup? Like I dont want 7zip, I want Winrar."
+,LuxLOL,2012-10-22T12:44Z,"READ ME file ->
+
+* It is possible to add Extra Programs or Custom Settings by using an ISO Editor and editing the files ""*.cmd"" with an Text Editor in the directory ""(source)OEMRunOnce"" and the file ""WINNT.SIF"" in the directory ""(source)I386""."
+,nzraj,2012-10-22T16:23Z,thank you LuxLOL.
+,gasxero,2012-10-22T18:47Z,"I ran dban on this locked up laptop I came across and then installed XP on the blank partition...
+
+the description mentions a driver pack...how do I access it and install them? I am currently unable to use the internet, audio etc. on the laptop.
+
+Thank you"
+,LuxLOL,2012-10-22T20:15Z,"The WLAN and LAN drivers will be automatically installed if they are available in the DriverPack for your PC, if not then you need to install them by yourself. That's way you should always backup your stuff before re-installing a Operating System that's is also written in the Read ME file."
+,SYNRUM,2012-10-23T12:00Z,Thanks LuxLOL. It works great
+,nzraj,2012-10-23T19:38Z,"I wanted to know if you have add/remove anything from this version as compare to previous versions of your windows xp.
+I cannot find Media player classic in one of your recent version (dont remember exactly which one....)"
+,LuxLOL,2012-10-24T09:35Z,"Since 2012.2.20 MPC is included in WinXP_BE but it will not get install if you selected ""NO"" to install the few extra programs."
+,bobshishka,2012-10-26T00:18Z,Which in your opinion is better between this one and Maherz and what is the difference? Not trying to start any rivalry just want to know which to get.
+,Antraxy,2012-10-26T00:49Z,"No doubt that this one is the best.
+This one has all the updates including WMP11/IE8 and the recovery console is also working and a full readme file is also included and also more updates are included.
+And you can choose if you want the few extra programs and the preconfigured setting to be installed or not."
+,LuxLOL,2012-10-26T10:31Z,"@bobshishka
+I would say read the Readme file and then decide what you like to use. ;-)"
+[T],Kurbaan,2012-10-27T12:11Z,"@LuxLOL 
+
+I want to install this but the problem is that i am not able to find the SATA drives(textmode drivers) of Intel® 82801G (ICH7 Family) Ultra ATA Storage Controllers - 27DF & Intel® 82801GB/GR/GH (ICH7 Family) Serial ATA Storage Controller - 27C0
+
+Can u pls help me out with that."
+,LuxLOL,2012-10-27T14:06Z,"I would first try this one here:
+http://downloadcenter.intel.com/Detail_Desc.aspx?ProductID=2101&DwnldID=21852〈=eng&iid=dc_rss
+
+And then this one here:
+http://downloadcenter.intel.com/Detail_Desc.aspx?agr=Y&DwnldID=17882&ProdId=3136〈=eng
+
+And this one should be also full:
+http://www.msfn.org/board/topic/107504-integration-of-intels-sata-ahci-and-raid-drivers/"
+,fawaz1,2012-10-28T12:41Z,Can I choose not to install the additional drivers.
+,LuxLOL,2012-10-28T14:47Z,"You can only remove them from the ISO file.
+Not all drivers are installed only the LAN. WLAN and SATA/AHCI driver you computer needs are installed if you have no LAN. WLAN or SATA/AHCI component in your PC then no driver for it will be installed. "
+,pontoon,2012-10-29T15:10Z,Thank you very much. Εὐχαριστῶ.
+,Rajkrishna,2012-10-31T13:37Z,"@luxlol pls ans 
+what version of .net is in this?
+SATA drivers included?
+Upgradable or not?(can upgrade existing one or not?
+my email id is rajkrishna.verma@gmail.com pls add I want some more knowledge from u!! I u wish to give!"
+,Rajkrishna,2012-10-31T13:58Z,"Thanks for Upload but I need a win XP SP3 which have followings at least--
+
+Latest Updates
+.Net 4 (including 1,2 ,3 ,3.5)
+IE-8
+WMP11
+SATA drivers
+Directx updated
+Upgrade feature(can upgrade existing one)
+Recovery console working one
+Just these features and if extra can be aded then it will be bonus!!
+Pls make this or ple let me know how to make it for myself!
+My email id is rajkrishna.verma@gmail.com"
+,LuxLOL,2012-10-31T15:39Z,"It has the following things, only the .NET is not included but in the download section you can find an All-in-One .NET Pack and the reason why i have not included it directly into WinXP_BE."
+,Subhodip,2012-11-02T16:06Z,"@LuxLOL
+In Win XP If I have to send or receive some files I have to do them one by one(i.e we have to click next and finish).
+But in Win 7 i can do it by selecting all and sending or receiving takes automatically.
+pls. help me to make this feature available in win xp"
+,Subhodip,2012-11-02T16:08Z,I mean transfer files through bluetooth dongle and my mobile phone
+,LuxLOL,2012-11-02T18:41Z,I never used bluetooth for that but i'm sure you will find your answer in google. ;-)
+,Yonito123,2012-11-06T00:48Z,Can I install this on a Mac?
+,LuxLOL,2012-11-06T01:58Z,If it is a PC then yes.
+,Jeejay,2012-11-06T03:51Z,"Thanks LuxLOL !
+
+Im gonna test it. hope it works perfect :)"
+,Jeejay,2012-11-06T11:13Z,"@LuxLOL
+
+can i install this on my laptop?"
+,LuxLOL,2012-11-06T11:42Z,Like it is written in the Read Me file if you want to be sure that it works on your computer then install VirtualBox and set the virtual hard disk driver to SATA and try it.
+,LuxLOL,2012-11-18T15:46Z,"New version is out:
+http://thepiratebay.se/torrent/7837980/Windows_XP_Professional_SP3_32-bit_-_Black_Edition_2012.11.18"

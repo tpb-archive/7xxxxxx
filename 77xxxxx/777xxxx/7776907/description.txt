@@ -1,0 +1,75 @@
+Codeweavers Crossover 11.3 (Linux 32-bits / 64-bits & MacOSX )
+
+=================================================
+Installers					=
+=================================================
+
+64 bit Debian / Ubuntu
+ia32-crossover_11.3.1-1_amd64.deb
+
+32 bit Debian / Ubuntu
+crossover_11.3.1-1_i386.deb
+
+32 or 64 bit Red Hat (Fedora, SUSE, Mandriva)
+crossover-11.3.1-1.i386.rpm
+
+Installer for all other Linux distributions
+install-crossover-11.3.1.bin 
+
+MacOSX
+crossover-11.3.1-macosx.zip
+
+=================================================
+System Requirements 				=
+=================================================
+
+==== Linux Version
+
+    x86 compatible PC system
+    32-bit Linux distribution (or 64-bit with compatibility libraries installed)
+
+    Tested on the current release of
+        Ubuntu
+        Mint
+        Fedora
+        Debian
+        openSUSE
+
+    CrossOver should also be able to run on older versions as well as variants of these distributions. However our ability to test and support these versions is limited.
+
+    Arch Linux, Gentoo, and Slackware are not supported. CrossOver should work on relatively complete installs of these distributions, but because of their variable nature it is extremely difficult for our support staff to try and troubleshoot issues.
+    python >= 2.4
+    gtk2 >= 2.10
+    python-gtk2 >= 2.10
+    X.org with XRender and GLX support
+    150 MB of free disk space and space for installed applications
+
+
+==== Mac Version
+
+    Intel-based Macintosh system running Mac OS X
+    (note: CrossOver will not run on iPads, iPhones, Android devices, or PowerPC systems)
+    120 MB of free disk space
+    Mac OS X Snow Leopard (10.6.x) or later is recommended. Please note that CrossOver v. 11 is the final version that will support Leopard (10.5.x).
+    OS X Version Compatibility: 
+
+macosx 10.8 and 10.7
+
+=================================================
+ Bottle Functionality				=
+=================================================
+
+CrossOver's bottles give the user the ability to pick and choose how they deploy their applications.
+
+A bottle is a virtual Windows environment. Each bottle contains a unique C: drive and all its standard sub directories: Windows, Program Files, etc. A bottle also contains a complete Windows registry, a full set of most CrossOver settings, and one or more Windows applications.
+
+CrossOver allows you to maintain multiple bottles. It's like having several different Windows machines operating together on your computer.
+Why are Bottles Cool?
+
+    Lets you emulate multiple different versions of Windows
+    Prevents applications in separate bottles from interacting with each other
+    Bottles are easy to back up, and move around to different machines
+    Linux users can use our bottle manager to create RPM and Debian packages
+
+
+

@@ -1,0 +1,35 @@
+Movies : Crime : VHS Rip : English, 60mins 28secs
+This is a redo of my torrent to reduce file size.
+
+the Dead End Kids & the Little Tough Guys in Mob Town - 1941
+
+good flick.
+  
+http://www.imdb.com/title/tt0033914/	
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[11:06:31] job configuration:
+[11:06:31]  * source
+[11:06:31]    + C:Mob TownVIDEO_TS
+[11:06:31]    + title 1, chapter(s) 1 to 1
+[11:06:31]  * destination
+[11:06:31]    + C:Documents and SettingsDead End KidsMy DocumentsMob Town.mkv
+[11:06:31]    + container: Matroska (.mkv)
+[11:06:31]      + chapter markers
+[11:06:31]  * video track
+[11:06:31]    + decoder: mpeg2
+[11:06:31]      + bitrate 8000 kbps
+[11:06:31]    + frame rate: same as source (around 23.976 fps)
+[11:06:31]    + strict anamorphic
+[11:06:31]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[11:06:31]      + pixel aspect ratio: 8 / 9
+[11:06:31]      + display dimensions: 640 * 480
+[11:06:31]    + encoder: x264
+[11:06:31]      + options: ref=2:bframes=2:me=umh
+[11:06:31]      + bitrate: 303 kbps, pass: 2
+[11:06:31]  * audio track 0
+[11:06:31]    + decoder: Unknown (LPCM) (2.0 ch) (track 1, id a0bd)
+[11:06:31]    + mixdown: Stereo
+[11:06:31]    + encoder: faac
+[11:06:31]      + bitrate: 160 kbps, samplerate: 48000 Hz

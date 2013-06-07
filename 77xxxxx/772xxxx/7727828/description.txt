@@ -1,0 +1,28 @@
+.NET Framework 4.5 offline/standalone installer(x86/x64) - 2010kaiser
+
+
+Since public availability of Windows 8 is set to date Oct 26 Microsoft is giving more than two months time for for developers to build their apps on this platform. Since .NET framework 4.5 is component of Windows 8 you donΓÇÖt need to install this in Windows 8 when it is released or made available to public (in fact DP and RP of Windows 8 comes with .NET 4.5 by default), you can install .NET 4.5 in Windows 7 and Windows Vista, yes! you canΓÇÖt install .NET 4.5 in Windows XP.
+
+Many apps on Windows require .NET framework to be installed to run, this framework is also required for developers to build apps .NET 4.5 has more significance with Windows 8 -developers using .NET 4.5 along with Visual Basic or C# programming language can write metro style apps for Windows 8.
+
+In Windows 7 and Windows Vista you shouldnΓÇÖt need to uninstall previous versions of .NET framework such as .NET 3.5 and .NET 4.0 because those dependent apps on that Framework may fail to work.
+
+.NET 4.5 System Requirements
+
+    Windows Vista SP2 (x86 and x64)
+    Windows 7 SP1 (x86 and x64)
+    Windows 8 (x86 and x64)
+    Windows Server 2008 R2 SP1 (x64)
+    Windows Server 2008 SP2 (x64)
+    Windows Server 2012 (x86 and x64)
+
+Hardware requirements
+
+    1 GHz or faster processor
+    512 MB of RAM
+    850 MB of available hard disk space (x86)
+    2 GB of available hard disk space (x64)
+    350 MB of available hard disk space (language pack)
+
+
+ENJOY AND SEED!!!

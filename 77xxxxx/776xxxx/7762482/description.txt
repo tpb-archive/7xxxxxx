@@ -1,0 +1,10 @@
+1. Install [Avast PRO] or [Avast Internet Security] as trail (DEMO)
+2. Disable Self-Protection module from Avast.
+You can re-enable it later.
+
+3. please double click [AVAST XP .reg] to activate my 2050.
+4. Copy Version.dll to these folders
+A)c:Program FilesAVAST SoftwareAvast
+B)c:Program FilesAVAST SoftwareAvastSetup
+5. Delete Userenv.dll from above folers, if you find any.
+6. Reboot                                                                     

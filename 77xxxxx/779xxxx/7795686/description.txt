@@ -1,0 +1,10 @@
+So I found this onbut there are no seeders there, maybe I can get it popular here. It totally works, don't mind the readme, it says don't use Cry of Fear Launcher, use Cry of Fear... well there is no Cry of Fear application... so use the Launcher and it works fine... I have that other cry of fear.rar from this site, but the inventory is bugged, so i can't put thing in my quick slots... that works in this version.
+
+
+Extract one of the rars and mount the .iso, then install
+
+LAN works fine, you should create a shortcut onto your desktop, and type -console after your games destination... for me it looks like: "C:Program FilesGamesCry of FearCryOfFearLauncher.exe" -console
+
+if you are the host, type sv_lan 0 in the console, and host a game. friends will be able to connect by simply inserting your hamachi ipv4 addressin the console, like this: connect 5.123.123.123
+
+have fun

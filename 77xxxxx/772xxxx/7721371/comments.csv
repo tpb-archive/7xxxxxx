@@ -1,0 +1,96 @@
+﻿User Type,Username,Date,Text
+,ohyaeh,2012-10-12T21:44Z,any chance you can find the iso bro?
+[V],thenoobish,2012-10-12T21:57Z,"Sry I have not found it yet but when I will I will upload it, if noone uploads it before me! :)"
+,seanwu159,2012-10-12T22:05Z,thanks. IOS coming soon?
+,ohyaeh,2012-10-12T22:25Z,thnks man your a good dude
+,ohyaeh,2012-10-12T22:28Z,"thanks bro, your a good dude"
+,vaultboypiratebay,2012-10-12T22:40Z,Real? Fake?
+,farr3ll,2012-10-12T22:43Z,"thanks man, what a way to wake up and find this UP!.. Weekend sorted !!!"
+,farr3ll,2012-10-13T00:17Z,"@vaultboypiratebay.. this is real man, you can always trust thenoobish. If ever in doubt, click on an uploaders username and check the comments on their previous uploads. ENJOY!"
+,deahhoop,2012-10-13T02:09Z,come on guys seed gonna take me 12weeks at the rate its going
+,farr3ll,2012-10-13T10:27Z,if anyone is wondering this works 100%... 
+,Mantuxsaz,2012-10-13T17:42Z,"Install God2Iso and create iso of this jtag version of forza horizon. Then run abgx and create .dvd file. You know the rest when this is done :)
+
+Enjoy!"
+,gumph1688,2012-10-13T20:49Z,"@Mantuxsaz- Sweet cheers, learn something new everyday :)"
+,mrowa52,2012-10-13T21:08Z,@Mantuxsaz- you tried to do this? I read that its impossible because ISO wont have padding like in normal DVDs images
+,rfltp,2012-10-13T21:28Z,"I have created the .iso file from the file that I downloaded here, but the abgx can't create the .dvd file, it says that the .iso file is to small and will not run on any xbox. What am I doing wrong ?"
+,leonsolary,2012-10-13T21:48Z,Written and spoken language in Portuguese?
+,dcmg36,2012-10-13T23:26Z,"created the .iso file from the file used god2iso but the abgx can't create the .dvd file, it says that the .iso file is to small. was there something missing? didnt i do it right did i forget something or is there another step to all this madness  lol...help pls..."
+,Mantuxsaz,2012-10-13T23:43Z,"Open note pad. Then copy and paste the bottom info not the info in """"
+
+
+LayerBreak= ""Place the layer break number here based on the game you are burning. AP2.5,XGD3 ETC.""
+
+AP2.5 is = 1913760
+XGD3 is =213352
+
+""This line below the layer break will have the exact name as your game that you are burning. Example (Skyrim.iso)""
+
+Example:
+LayerBreak=2133520
+Skyrim.iso
+
+Folder:
+Skyrim.iso
+Skyrim.dvd
+
+
+
+Once done save notepad file and change extension to .dvd from .txt. and rename file to the name of your iso.
+Now you can double click .dvd and IMGBRN will launch. 
+Keep .dvd and iso in same folder.
+LayerBreak=2133520
+Skyrim.iso
+
+
+
+Thanks to Rico724"
+,rfltp,2012-10-13T23:54Z,"I'm having exactly the same problem as ""dcmg36""."
+,dcmg36,2012-10-14T00:50Z,my bad i was trying too do this for my lt.3 xbox not a j/tag or rgh  so ill just have to wait because its not possiable but thanks anyways...
+,gumph1688,2012-10-14T00:56Z,@Mantuxsaz - Copy and paste what info?? the info hash thing?
+,gumph1688,2012-10-14T01:02Z,doesnt abgx create the dvd file?
+,ruther24,2012-10-14T01:48Z,does anyone know if this will work with the x360key ??
+,Mantuxsaz,2012-10-14T02:02Z,"Copy this info : 
+
+LayerBreak=2133520
+Skyrim.iso
+
+
+I read that it is impossible to perform this God2Iso thing, but i tried it anyways, and it seems to be working so far. It is impossible to create .dvd file via abgx, so i used notepad instead.
+
+Hope it works for you too."
+,rfltp,2012-10-14T02:07Z,"I have a unlocked xbox, not a j/tag or rgh, I tried to do what Mantuxsaz said but it didn't worked. "
+,dcmg36,2012-10-14T05:14Z,only works with a jtag or rgh :( guess we will have to wait for the real iso for us flashed xbox users...
+,mrowa52,2012-10-14T11:28Z,@Mantuxsaz- give us some proof that it works on LT console. Make video when you put dvd in and playing the game
+,deahhoop,2012-10-14T11:59Z,game works fine on my rgh slim. use god2iso then use XBOX360 ISO Extract. put on a usb drive and your away 
+,Flameis,2012-10-14T19:13Z,"Hi Mantuxsaz. Does it work with xk3y? I cant get it to work, but that might be my fault :)"
+,Flameis,2012-10-14T19:35Z,Hi Mantuxsaz. My xbox tells me to clean the disc with a soft cloth. LOL
+,jp310,2012-10-15T03:38Z,GOD2ISO if anyone with a flashed xbox wants the game. Im downloading now so ill comment later if it works but it should. AgbX360 will create the .dvd file. 
+,jp310,2012-10-15T03:39Z,My bad for the re post didnt notice :D
+,mrowa52,2012-10-15T13:39Z,so does it work? i bet it doesnt because GOD2ISO won't make full iso file.
+,deahhoop,2012-10-16T03:41Z,@mrowa52 it works g8. do what i said before and you will be able to play the game to the cows come home
+,mrowa52,2012-10-16T10:11Z,@deahhoop  im talking about LT! idiot said that it works on flashed console when you will make iso using GOD2ISO and i think it won't work
+,p1otr3k,2012-10-16T18:15Z,"Anyone know if this game does have split screen mode? And if it does, how to turn it on? I get an error every time I try to enter Multiplayer mode and it sends me right back to main menu"
+,deahhoop,2012-10-17T04:57Z,@mrowa52. oh sorry cant help with that one as ive only got a rgh slim with stock dvd drive
+,xstationbr,2012-10-19T17:06Z,"If You Want Split Screen Buy an PS2 LOL.
+Actually games is Multiplayer only LAN or ONLINE.
+
+Forza Horizon - RGH
+IN BIG TEXT.
+Then No more Ask about Burn this game disk to play on moded consoles with LT.
+
+This is Only for RGH ( RESET GLITCH HACK)
+Thanks Lot.
+"
+,Maltor2378,2012-10-20T05:07Z,Does anyone know where I can get Superman Returns for NTSC. That game is almost impossible to find. 
+,lordofshadow23,2012-10-22T15:15Z,thank you very much.this is a lot more better than any other nfs bullshit recently released
+,vaultboypiratebay,2012-10-23T04:35Z,"@farr3ll Thanks man! I didn't know about that feature. Yeah, he looks like a 5* uploader. Downloading, thanks to the uploader as well."
+,SaaaJ,2012-11-06T16:40Z,"how do u use this? is not having a default.xex.....
+
+am i supposed to inject this with horizon? , if yes then what files do i inject?
+
+i know thats a lot of questions..."
+,SaaaJ,2012-11-06T16:43Z,btw i have a jtag
+,SaaaJ,2012-11-06T18:14Z,"allrigt, so i used god2iso and got an iso, then i use wx360 extract it and the media folder gets an error while extracting, everythig else extracts but not the media folder.... any solutions?"
+,polivk,2012-11-07T01:54Z,Thanks men! OK 100%

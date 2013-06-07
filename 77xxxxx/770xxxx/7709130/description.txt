@@ -1,0 +1,45 @@
+RoboForm Pro Desktop and RoboForm2Go v7.8.3.5 ┬⌐2012 with patch by novice2 / RU-Board [brought to you by onttm]
+
+RoboForm - Easy and Secure password manager and information vault. Remembers passwords, logs you into web sites and fills forms with one-click.
+RoboForm2Go - Secure password manager that works directly from USB key. Take your passwords wherever you go and experience one-click logins.
+
+Just install your choice of RoboForm (Desktop vs Portable) and run the patch (read the patch txt file forarguments[/url] to patch Portable). No need to close RoboForm before patching; the patch will kill the processes for you.  All you need to do is run the RoboForm TaskBar Icon after patching.
+
+Enjoy!
+
+[b][color=Red]NOTE: To date, there is no universal patch for roboform-x64.dll[/color][/b], so you will have to continue using a 32-bit browser or pay for a legitimate Roboform license to enable 64-bit browser support.  When I find a reliable patch/solution I will package it in a new torrent release.
+
+[IMG]http://image.bayimg.com/fadjfaaem.jpg[/IMG]
+[Superfluous info - screens grabbed with Greenshot and stiched together at pixlr.com]
+
+News and details from current and past versions of RoboForm.
+
+Version 7.8.3
+* Editor: Add Summary View mode: select a folder, click Summary View button.
+* Identity Editor: fix Western Australia (WA AU) changing to Washington (WA US).
+* Automatically activate RF license when syncing with active Everywhere account.
+* Fix RF creates new activation info passcard even if one already exists.
+* Firefox: fix AutoSave does not work sometimes, it happens randomly.
+* Firefox: fix AutoSave bar sometimes appears in the wrong tab.
+* AutoSave Bar: fix OK button is not shown in some cases.
+* AutoSave Bar: fix Virtual Keyboard popup does not close after clicking OK.
+* AutoSave Bar: fix Folder selection button is redrawn with visual artifacts.
+* Firefox 15+: fix FF may crash when pressing back/forward buttons during page loading.
+* Firefox: fix text in AutoSave bar is partially transparent on light backgrounds.
+* Firefox: fix RF shows 'access denied' message when switching on RF integration.
+* Firefox: fix Add To Links command is present in Firefox but adds to IE favorite.
+* Firefox: fix pure RF2Go does not inject into Firefox-based browser.
+* Firefox: set max supported Firefox version to 20.
+* Filler: fix Contact Us page and login for SaladBars.com is very slow.
+* Chrome: fix assert happens when AutoFill finds no visible inputs on the page.
+* IE 10: fix RF does not fill user account name on gmail.com in IE 10 (Win8).
+* Chrome: make keyboard shortcuts work when there is no lower toolbar.
+* Identity Minidialog: memorize instance selection even before Fill button is clicked.
+* Chrome, Opera: fix RF not doing all checks for phishing and sensitive fields.
+* Make RF attach to 64-bit processes from outside, used to be only 32-bit processes.
+* Sync: fix Clear History command does not work - sync restores the erased history.
+* Sync: fix if auto-sync is turned off, popup may come earlier than requested.
+* Editors: fix minor bugs in editing, speed up Japanese text editing.
+* Do not attach to Citi Virtual Account Numbers login box.
+* Import: add import wizard screen showing results.
+* Import: fix import of Chrome bookmarks, get all of them. 

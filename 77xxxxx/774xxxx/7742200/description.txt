@@ -1,0 +1,24 @@
+Here is Community Builder Profile Pro for CB v1.1.8 + The current version of Community Builder (1.8.1) as of (October 19, 2012)enjoy!
+
+"CB_Profile_Pro_v1.1.0_J1.6_J1.7_J2.5_UNZIP_1st.zip"
+
+Can be installed on Joomla! 2.5.7
+
+--------------------------------------------------------------------------------
+
+1. Unzip the downloaded package.
+
+2. Install packages com_cbprofilepro.zip and plg_cbppmagicwindow.zip in Joomla! Extension Manager, enable plugin Button - Magic Window for CB Profile Pro in Joomla! Plugin Manager.
+
+3. Install package cb.plug_cbprofilepro.zip in Community Builder Plugin Management, enable it.
+
+ 
+
+In order to access all the powerful features of CB Profile Pro (e.g. customization of profile edit and registration pages of Community Builder), follow step 4.1 (recommended).
+If you wish to customize profile page only, follow step 4.2.
+ 
+
+4.1. Replace file comprofiler.html.php located in components/com_comprofiler/ on your site with the file from folder files for replacement (recommended) of product package (further choose the folder that corresponds to your Community Builder version).
+Disable Profile Pro tab in Community Builder Tab Management.
+
+4.2. Enable Profile Pro tab in Community Builder Tab Management.

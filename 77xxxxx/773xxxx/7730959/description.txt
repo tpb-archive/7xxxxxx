@@ -1,0 +1,77 @@
+Nine Inch Nails - Pretty Hate Machine - Custom Remaster by MC Lurken
+
+
+
+1 - Head Like A Hole
+2 - Terrible Lie
+3 - Down In It
+4 - Sanctified
+5 - Something I Can Never Have
+6 - Kinda I Want To
+7 - Sin
+8 - That's What I Get
+9 - The Only Time
+10 - Ringfinger
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-16-bit/44.1kHz files from 1989 release joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = -0.005db
+-With DC Offset Removed: Apparent Bit Resolution = 19, Peak = -0.045db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 38, Peak = 0.317db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-10-15 13:29:12
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR13       0.00 dB   -15.68 dB      5:00 ?-01 - Head Like A Hole
+DR12      -0.58 dB   -15.08 dB      4:39 ?-02 - Terrible Lie
+DR11      -0.29 dB   -13.54 dB      3:46 ?-03 - Down In It
+DR15       0.00 dB   -19.43 dB      5:48 ?-04 - Sanctified
+DR13      -0.86 dB   -17.71 dB      5:55 ?-05 - Something I Can Never Have
+DR13       0.00 dB   -15.53 dB      4:33 ?-06 - Kinda I Want To
+DR12       0.00 dB   -14.08 dB      4:06 ?-07 - Sin
+DR13       0.00 dB   -15.93 dB      4:31 ?-08 - That's What I Get
+DR13       0.00 dB   -15.67 dB      4:48 ?-09 - The Only Time
+DR12       0.00 dB   -15.27 dB      5:41 ?-10 - Ringfinger
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR13
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

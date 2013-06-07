@@ -1,0 +1,39 @@
+Movies : Crime : VHS Rip : English, 61mins
+A remastered version.
+This is a redo of my torrent to reduce file size, new format mkv.
+
+the East Side Kids in 'Neath Brooklyn Bridge - 1942
+
+Featuring Leo Gorcey, Stanley Clements, Bobby Stone, Gabriel Dell, Ernie Morrison & Huntz Hall.
+
+Also starring Dave O'Brien, Marc Lawrence, Ann Gillis & Noah Beery Jr.
+  
+http://www.imdb.com/title/tt0034420/
+ 
+http://thepiratebay.se/user/jmmybttm	
+
+[12:52:11] job configuration: Handbrake 0.9.3
+[12:52:11]  * source
+[12:52:11]    + C:'Neath Brooklyn BridgeVIDEO_TS
+[12:52:11]    + title 1, chapter(s) 1 to 1
+[12:52:11]  * destination
+[12:52:11]    + C:Documents and SettingsDead End KidsMy Documents'Neath Brooklyn Bridge.mkv
+[12:52:11]    + container: Matroska (.mkv)
+[12:52:11]      + chapter markers
+[12:52:11]  * video track
+[12:52:11]    + decoder: mpeg2
+[12:52:11]      + bitrate 8000 kbps
+[12:52:11]    + frame rate: same as source (around 23.976 fps)
+[12:52:11]    + strict anamorphic
+[12:52:11]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[12:52:11]      + pixel aspect ratio: 8 / 9
+[12:52:11]      + display dimensions: 640 * 478
+[12:52:11]    + encoder: x264
+[12:52:11]      + options: ref=2:bframes=2:me=umh
+[12:52:11]      + bitrate: 305 kbps, pass: 2
+[12:52:11]  * audio track 0
+[12:52:11]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[12:52:11]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[12:52:11]    + mixdown: Stereo
+[12:52:11]    + encoder: faac
+[12:52:11]      + bitrate: 160 kbps, samplerate: 48000 Hz

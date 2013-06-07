@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,mroboto,2012-10-06T04:12Z,"Suspect, because you only need to modify this key to .OLD (but doing that causes little troubles... (not in Vista, only troubles with Windows 7...)
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOTlnkfile]
+""IsShortcut.OLD""="""""
+,mroboto,2012-10-06T04:14Z,"I have a backslash \ between HKEY_CLASSES_ROOT and lnkfile in my regfile.
+
+Dont use this as a regfile"
+,mroboto,2012-10-06T04:38Z,"Ok, this is a workaround...
+
+Thanks."
+,poffdata,2012-10-06T07:01Z,"the programm , dosent just remove the arrows, u can select 5 different levels of transparency to. "

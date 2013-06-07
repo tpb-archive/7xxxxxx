@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 63min19secs
+
+The Bowery Boys 1946 In Fast Company
+ 
+http://www.imdb.com/title/tt0038636/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[17:02:11] starting job
+[17:02:11] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[17:02:11] job configuration:
+[17:02:11]  * source
+[17:02:11]    + C:In Fast Company editVIDEO_TS
+[17:02:11]    + title 1, chapter(s) 1 to 1
+[17:02:11]  * destination
+[17:02:11]    + C:Documents and SettingsDead End KidsMy DocumentsIn Fast Company.mkv
+[17:02:11]    + container: Matroska (.mkv)
+[17:02:11]      + chapter markers
+[17:02:11]  * video track
+[17:02:11]    + decoder: mpeg2
+[17:02:11]      + bitrate 8000 kbps
+[17:02:11]    + frame rate: same as source (around 23.976 fps)
+[17:02:11]    + strict anamorphic
+[17:02:11]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[17:02:11]      + pixel aspect ratio: 8 / 9
+[17:02:11]      + display dimensions: 640 * 480
+[17:02:11]    + encoder: x264
+[17:02:11]      + options: ref=2:bframes=2:me=umh
+[17:02:11]      + bitrate: 397 kbps, pass: 2
+[17:02:11]  * audio track 0
+[17:02:11]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[17:02:11]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[17:02:11]    + mixdown: Stereo
+[17:02:11]    + encoder: faac
+[17:02:11]      + bitrate: 160 kbps, samplerate: 48000 Hz

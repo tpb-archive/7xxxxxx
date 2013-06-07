@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+[T],tikasukaz,2012-10-10T10:47Z,"
+Add language to your game:
+
+Works with both the below releases : 
+
+SKIDROW
+https://thepiratebay.se/torrent/7711245/Dishonored-SKIDROW
+
+3DM
+https://thepiratebay.se/torrent/7708799/Dishonored-3DM
+
+Seed & Enjoy !
+"
+,nobodyfresh3,2012-10-10T11:08Z,no polish??
+,SHADOWLEXX,2012-10-10T11:24Z,How do i choose what to download in Vuze?
+,PaulNo2,2012-10-10T12:01Z,Thank you very much!
+,PaulNo2,2012-10-10T14:12Z,"OK, this does NOT work. It may contain language files but there is NO WAY OF CHANGING THE GAME LANGUAGE.
+
+Closest thing to select language is in DishonoredGameConfigDefaultEngine.ini
+
+There's this line: 
+Language=int
+
+I changed it to Language=esn and it does not work. I also changed it in My DocumentsMy gamesDishonored files, and it doesn't change a thing either."
+,Mice07,2012-10-10T16:24Z,"@PaulNo2
+
+You have to change the language in crack folder steam.ini (for me Steam_rld.ini from Reloaded). 
+
+;-)
+"
+,vidcruzz,2012-10-10T18:17Z,http://thepiratebay.se/torrent/7714529/DISHONORED_SPANISH_LANGUAGE_PACK
+,PaulNo2,2012-10-10T23:31Z,"@Mice07
+
+Thank you, none of the cracks I downloaded (Skidrow, FLT, 3DM) have that steam.ini file. Guess I'll have to try the Reloaded one!"
+,EEEEMMMM,2012-10-11T19:57Z,How do i choose just one?
+,phadeb,2012-10-15T03:02Z,"@EEEEMMMM
+
+Go into your torrent client and ignore the ones you dont wanna download
+
+@all
+
+Tested with one language + changing the language in ""skidrow.ini"" and removing the ""#"" but didn't work.
+
+Any ideas ?"
+,Tobinass,2012-10-16T12:18Z,Pls Seed // German Language Stucks now -.-
+,psicopara,2012-10-21T18:20Z,"Consegui resolver  o problema. Troquei o idioma de ""English"" para ""Spanish"", no arquivo ""steam_rld_original.ini"", que esta na pasta  ""DishonoredBinariesWin32""."
+,jschenk,2012-10-27T15:00Z,"Language = ""german""
+
+in
+
+SKIDROW.ini
+
+and it works!"
+,jschenk,2012-10-27T15:02Z,"Language = ""german""
+
+in SKIDROW.ini
+
+and it works!"
+,Hirngespinst,2012-11-05T23:01Z,how can i put the german in the game? where do i put it? please explain! bitte erkl채ren! thx
+,wutlol,2012-11-16T09:54Z,Language=spanish
+,wutlol,2012-11-16T09:55Z,and it works that way on the SKIDROW.ini

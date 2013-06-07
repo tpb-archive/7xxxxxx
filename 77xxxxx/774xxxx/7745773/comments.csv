@@ -1,0 +1,94 @@
+﻿User Type,Username,Date,Text
+,bigorna12,2012-10-20T20:16Z,activate windows 8 permanently ?
+,Lowe9,2012-10-20T21:36Z,"Тhis is a joke.
+
+KMS server - only for 180 days.
+
+Permanently activation for windows 8 only by phone so far."
+,jacob5800,2012-10-20T23:07Z,they can activate window 8 they change someting in the bios  which is part of the bios of the new generation  every wondow will have its onw licence key  and will work only in one pc not transferable to another pc  a moin qu il y est un genie qui trouve la solution a ce probleme  thanks
+,Lowe9,2012-10-20T23:31Z,"Which is they ... :)  
+
+http://image.bayimg.com/haedjaaef.jpg"
+,TunaHead,2012-10-21T02:57Z,In other words this doesn't work?
+,emil50,2012-10-21T06:28Z,"please,how it works?"
+,moviekil,2012-10-21T07:28Z,"This is what is in this torrent,    
+
+Windows.7.KMS.rar	2.97 GiB
+Windows.7.GUEST.rar	2.96 GiB
+VMware-player-5.0.0-812388.exe	72.29 MiB
+
+
+  I dont see any windows 8 kms register inside your torrent ,, How the hell you call this ""KMS Server for Windows 8 ?"
+,BeatZero,2012-10-21T07:48Z,"hmmm.. not working, pls, more information to use it"
+,BeatZero,2012-10-21T07:50Z,"i running machine KMS and try activate machine guest and not work, errors only...
+pls help!"
+,473577249,2012-10-21T10:35Z,"Extras. information
+• Set VMPlayer 
+• Unpack Windows 7 KMS 
+• Open it in VMPlayer. Be sure to answer the question Moved VMWare 
+• Wait for a window
+• On a machine with Windows 8
+
+• If the version of Professional, change the key - slmgr / ipk-NG4HW VH26C-733KW-K6F98-J8CK4 
+• If the version of Enterprise - no changes not necessary 
+• IT Professional WMC so not activated 
+• To activate the Windows 8 is required to specify the server address KMS, for this at the command prompt running as administrator execute commands 
+slmgr / skms KMS: 1688 
+slmgr / ato 
+where KMS: 1688 indicates IP (name ) KMS server to port 1688 
+to check the status of activation, use the command 
+slmgr / dlv"
+,473577249,2012-10-21T10:37Z,"Extras. information
+1. Set VMPlayer 
+2. Unpack Windows 7 KMS 
+3. Open it in VMPlayer. Be sure to answer the question Moved VMWare 
+4. Wait for a window
+5. On a machine with Windows 8
+
+6. If the version of Professional, change the key - slmgr / ipk-NG4HW VH26C-733KW-K6F98-J8CK4 
+7. If the version of Enterprise - no changes not necessary 
+8. IT Professional WMC so not activated 
+9. To activate the Windows 8 is required to specify the server address KMS, for this at the command prompt running as administrator execute commands 
+slmgr / skms KMS: 1688 
+slmgr / ato 
+where KMS: 1688 indicates IP (name ) KMS server to port 1688 
+to check the status of activation, use the command 
+slmgr / dlv"
+,BeatZero,2012-10-21T14:15Z,running virtual machine KMS or GUEST? 
+,moviekil,2012-10-21T16:07Z,"i'm not messing with this,, you can explain all you want but i am not convince ... @ 473577249  writing the keys on comments that is how the get black listed faster than a speedy bullet,, Dont blame us but your torrent is kind of spooky,,next time pal"
+,somestuff,2012-10-21T16:43Z,"Thanks!
+After tinkering around with the Windows 7 KMS, I was finally able to activate both Win 8 Pro & Enterprise with it.  There is no manual with this and you have to kinda use trial and error meathod before getting it to work.  I was also able to set it up using a no-ip link to my IP no.  and port forward 1688 through my router, then go off site to another location and activate from there too.  So, in my opinion, this really works for now.  Interested to see how long this thing continues to work.  By the way, it also activates win 7 Pro and Enterprise."
+,ROCKnTIME,2012-10-21T20:30Z,"@473577249,
+
+Thanks man..Great post.. As somestuff pointed out it has to be tweaked but it does work 100%.. "
+,ROCKnTIME,2012-10-21T21:56Z,"Corrected & Tweaked info::
+
+• Install VMPlayer
+• Unpack Windows.7.KMS.rar
+• Open Windows 7 KMS.vmlk in VMPlayer from extracted rar. Be sure to answer the question ""Moved VMWare"" Important to work!!!!!
+• Wait for the KMS server window to open on the virtual drive
+• Open command prompt on the KMS virtual drive and type ""ipconfig /all"" to find your servers ip address. No quotes! Important to work!!!
+
+Now on the computer that needs to be activated..
+
+• If your copy of Windows 8 is Professional, then you need to change the key using command prompt as administrator...
+• If your copy of Windows 8 is Enterprise - NO key changes are necessary so used step two.
+• This KMS server will not activate Windows Professional WMC so your SOL..
+• To activate Windows 8 execute the following commands using command prompt as administrator Important to work!!
+
+
+slmgr / ipk NG4HW VH26C-733KW-K6F98-J8CK4  (note.. ONLY Run this command for Windows 8 Professional) wait for confirmation
+slmgr -skms IpAddress:1688  (note.. substitute Ip Address with your servers Ip address (example slmgr -skms 192.168.1.1:1688) wait for confirmation
+slmgr -ato   (note.. this command activates Windows 8) wait for confirmation
+slmgr /dlv   (note.. this command visually shows if your activated)"
+,sxmen1234,2012-10-22T01:22Z,"thank you so much for this amazing torrent, I was able to activate my other windows 8 VMware client , but when I try to activate my real machine I get an error. Is their something to do to activate outside of VMware."
+,sxmen1234,2012-10-22T01:26Z,thank you so much for this. I was able to activate within VMware but not outside of VMware.
+,BeatZero,2012-10-22T02:15Z,"@sxmen1234 to activate external machines, you need to set NAT from your router, google for it ;-)"
+,BeatZero,2012-10-22T05:20Z,wow!!! working now! only local network
+,emil50,2012-10-22T18:26Z,"Thank you,man."
+,emil50,2012-10-22T18:27Z,"sorry,thank you men."
+,sxmen1234,2012-11-04T20:57Z,"Everything is working good , but when I try to put the kms server on my laptop so I could activate on the go I get an error , about out of tolerance or grace period . does anyone know why but on my main desktop it is still working."
+,sxmen1234,2012-11-04T21:09Z,"Everything is working good , but when I try to put the server on my laptop so I could activate on the go, I get an error , about license expired  out of tolerance or grace period . does anyone know why but on my main desktop it is still working."
+[T],XxFukenGruvenxX,2012-11-07T17:48Z,"incredible work.
+
+thank you very much."

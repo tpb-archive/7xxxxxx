@@ -1,0 +1,36 @@
+Movies : Crime : VHS Rip : English, 59mins
+This is a redo of my torrent to reduce file size.
+
+the Dead End Kids & the Little Tough Guys in Mug Town - 1942
+
+Billy Halop & Bernard Punsly's last film in any of the series. Billy gives a crisp salute at the very end, entering the service, in the movie & real life.
+  
+http://www.imdb.com/title/tt0036176/
+ 
+http://thepiratebay.se/user/jmmybttm	
+
+[13:32:22] job configuration:
+[13:32:22]  * source
+[13:32:22]    + C:Mug TownVIDEO_TS
+[13:32:22]    + title 1, chapter(s) 1 to 7
+[13:32:22]  * destination
+[13:32:22]    + C:Documents and SettingsDead End KidsMy DocumentsMug Town.mkv
+[13:32:22]    + container: Matroska (.mkv)
+[13:32:22]      + chapter markers
+[13:32:22]  * video track
+[13:32:22]    + decoder: mpeg2
+[13:32:22]      + bitrate 8000 kbps
+[13:32:22]    + frame rate: same as source (around 23.976 fps)
+[13:32:22]    + strict anamorphic
+[13:32:22]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[13:32:22]      + pixel aspect ratio: 8 / 9
+[13:32:22]      + display dimensions: 640 * 480
+[13:32:22]    + encoder: x264
+[13:32:22]      + options: ref=2:bframes=2:me=umh
+[13:32:22]      + bitrate: 304 kbps, pass: 2
+[13:32:22]  * audio track 0
+[13:32:22]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:32:22]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[13:32:22]    + mixdown: Stereo
+[13:32:22]    + encoder: faac
+[13:32:22]      + bitrate: 160 kbps, samplerate: 48000 Hz

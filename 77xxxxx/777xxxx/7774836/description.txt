@@ -1,0 +1,32 @@
+Sunset.Blvd.1950.PROPER.1080p.BluRay.X264-AMIABLE
+
+A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.
+
+
+Date: 26th October 2012
+Runtime: 01:50:18
+Size: 4480mb
+Video: 1472x1080 (X264 @ 23.976fps)
+Audio: AC3 640k
+Source: Retail Blu-Ray
+sweetest downfall.. Lang: English
+Subs: English / French / Spanish / Portuguese
+IMDB:   http://www.imdb.com/title/tt0043014/
+
+Genre: Drama | Film-Noir
+||
+||, Notes: HD4U used the AC3 core from the TrueHD audio stream core which is only 224k
+|| Rules require high bitrate sources which can't be used in their original format
+to be transcoded to a minimum bitrate of 640k. In this case the THD peak bitrate
+is 1302k with an average of 1141k and should have been transcoded to a higher
+bitrate than core
+Our release uses ref 5 to "respect Level 4.1". The rules sadly lack when it comes
+to ref in 1080p for FS sources. "vertical resolution is greater than 864, then 4
+must be used to respect L4.1". That is true for WS sources however for FS sources
+ref 5 is actually what "respects L4.1". Rules assume (wrongly) a constant horiziontal
+resolution of 1920 which isn't valid for scene 1080p as the sides are cropped off
+Under the current rules both are ok cause of the conflicting wording - ref 4 is specified
+as well as "must respect L4.1"
+A calculation Formula can be found in "high.definition.x264.standards.revision.3.1.addendum.1": ref = 12288 * 1024 / (vertical resolution * horizontal resolution * 1.5)
+
+Tomorrow's just your future yesterday!

@@ -1,0 +1,31 @@
+Juste l'ISO VISTA SP2 X64 FRENCH AIO (toutes les versions)
+
+
+
+Pour un PC OEM , trouvez un certificat s'accordant a votre marque et une clé OEM.
+
+C'est facile a trouver.
+
+Commande a entrer pour installer le certificat OEM
+
+slmgr -ilc EMPLACEMENTDUCERTIFICAT
+
+
+Commande a entrer pour installer la clé OEM
+
+slmgr -ipk CLÉ-DE-PRODUIT
+
+
+Commande = Menu démarrer - Accessoires - Invite de commande.
+
+Au préalable, faites un clic droit sur "Invite de commande", sélectionnez "Propriétés", dans l'onglet "Raccourci", bouton "Avancé", et cochez "Exécuter en tant qu'administrateur"
+
+
+
+Pour ceux qui n'ont pas de PC OEM, trouvez un Windows Loader
+
+C'est facile a trouver.
+
+
+
+Merci de rester en seed le plus longtemps possible.

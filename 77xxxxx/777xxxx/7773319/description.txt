@@ -1,0 +1,22 @@
+                        Smart Home Systems-2010kaiser
+
+
+
+The pervasive computing area has recently gained major importance from both industry and academia and is changing the way we interact with our environment [1]. This computing domain emphasizes the use of small, intelligent and communicating daily life objects to interact with the computing infrastructure. These devices tend to blend in their environment. This is especially true in our homes where new electronic devices such as photo frames aim to be as decorative as powerful. Devices are then not always perceivable by human beings. These new equipments have the ability to communicate with each other,to configure or repair themselves, and perform context-based cognitive and physical actions.The vision of coordinated or cooperating devices teaming up transparently to provide human beings with services of all sorts is actually getting closer and closer.
+
+However, the main part of research efforts has focused so far on providing hardware that can actually enable such interactions. Consequently, plenty of devices providing this kind of features are already commercialized, whereas very few interesting applications take advantages of this new infrastructure.
+
+
+Indeed, the complexity of building software that can actually benefit from this underlying hardware is often underestimated. Usual software engineering techniques and tools are not suitable. Several software engineering challenges remain to be solved before fulfilling the vision of a true pervasive world. Notably the high degree of dynamism, distribution,heterogeneity and autonomy of the devices involved raises important problems. Major security and privacy concerns have also to be considered while building such systems.
+
+
+Indeed, the Home Network emphasizes the envisioned environment openness to networked entities. It is open to dynamic connections: devices may enter and leave the network spontaneously, providing context-dependent features (e.g. according to userΓÇÖs activity). It is also open to heterogeneous devices: protocols and device types differ according to application domains and service providers. Moreover, devices are spread over the home space, which is not clearly delimited for wireless communicating devices.
+
+ 
+
+
+In this chapter we describe our work dealing with the provision of a natural execution environment simplifying the construction of pervasive applications. More specifically, we describe our vision of smart home environments, and propose an infrastructure to support the execution of home applications providing end user services using different features provided on the home network.
+
+The rest of this chapter is composed of a background part on the pervasive computing domain and its requirements. This is followed by our vision of the home environment, and how devices, networks and applications should be organized. Then, we describe our work on proposing a home gateway to support the home applications execution. This chapter is then concluded by describing the lessons learned from our experience on providing high level services in the home environment and the perspectives of this work.
+
+ENJOY AND SEED!!!

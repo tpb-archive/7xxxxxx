@@ -1,0 +1,31 @@
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Duration                                 : 41mn 44s
+Bit rate mode                            : Variable
+Bit rate                                 : 14.1 Mbps
+Maximum bit rate                         : 9 500 Kbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Muxing mode                              : DVD-Video
+Duration                                 : 41mn 44s
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -8ms

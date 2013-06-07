@@ -1,0 +1,84 @@
+﻿User Type,Username,Date,Text
+,virtualanarchy,2012-10-14T01:16Z,"Not picking this one up, just coming here to say you're amazing "
+[T],_SnakEye,2012-10-14T01:27Z,how come? you not into Austria flying?
+,virtualanarchy,2012-10-14T02:02Z,More of a US kinda guy :) 
+,pumpernickel,2012-10-14T11:20Z,"The SP1 does not accept the serial number.
+
+What is the ""Enable Button"" for?"
+,eg.mo3taz,2012-10-14T16:10Z,"""next' not active in setup .. help!"
+,2asterix,2012-10-14T16:41Z,Run all as ADMIN... :)
+,pumpernickel,2012-10-14T17:57Z,"Run as admin, started also the enablebutton.exe (after googling ;-). The ""next"" button now works and the programme says it installed correctly. Unfortunately not a singe file is added or changed to the existing ones. The log-file also confirms that no files have been copied.
+So SP1 with enablebutton.exe certainly does not work, at least not for me.
+
+Any hints?"
+[T],_SnakEye,2012-10-14T21:25Z,"yeah, I had noticed the same. it could be the Install
+already with SP1 in it.
+did it designate the reason why it skipped the files?"
+,Brrr1955,2012-10-14T22:03Z,"I have Austria Professional X v1.0 installed few years ago. Today, I installed only SP1 and there are no change since the previous version (v1.0).    "
+[T],_SnakEye,2012-10-15T01:18Z,it appears the SP1 is not working.
+,pumpernickel,2012-10-15T08:14Z,"No, the reason is not given. Error 76 I ignore since the installer does not find the scenery.cfg and one has to enter the data by hand.
+Below is the log-file:
+
+2012.10.15  08:10:28 | --------------------------------------------------------------------
+2012.10.15  08:10:28 | AUSTRIA Professional X (SP1) Setup v3.1a
+2012.10.15  08:10:28 | --------------------------------------------------------------------
+2012.10.15  08:10:28 | Application-Path = C:TempRarSFX0
+2012.10.15  08:10:28 | Screen Width = 1920
+2012.10.15  08:10:28 | SystemlanguageID = 0x0407
+2012.10.15  08:10:30 | Select FSX path manually...
+2012.10.15  08:10:30 | gsFSXPath= D:FSX
+2012.10.15  08:10:30 | FSX Path found in registry: D:FSX
+2012.10.15  08:10:34 | License read
+2012.10.15  08:10:42 | Correct CD-Key entered: f
+2012.10.15  08:10:47 | Installation directory selected: D:FSXAddon Sceneryatpx
+2012.10.15  08:10:48 | Copying Files...
+2012.10.15  08:10:48 | Extracting archive C:TempRarSFX0update002.000 to D:FSXAddon Sceneryatpx
+2012.10.15  08:10:48 | Simulation: no files are copied!
+2012.10.15  08:10:48 | Extracting archive C:TempRarSFX0update005.000 to D:FSXAddon Sceneryatpx
+2012.10.15  08:10:48 | Simulation: no files are copied!
+2012.10.15  08:10:48 | Extracting archive C:TempRarSFX0update006.000 to D:FSXAddon Sceneryatpx
+2012.10.15  08:10:48 | Simulation: no files are copied!
+2012.10.15  08:10:49 | Extracting archive C:TempRarSFX0update007.000 to D:FSXAddon Sceneryatpx
+2012.10.15  08:10:49 | Simulation: no files are copied!
+2012.10.15  08:10:49 | Extracting archive C:TempRarSFX0update008.000 to D:FSXAddon Sceneryatpx
+2012.10.15  08:10:49 | Simulation: no files are copied!
+2012.10.15  08:10:49 | Copy of 'scenery.cfg' written
+2012.10.15  08:10:49 | Error Nr.76 : Path not found in Line 620 in Module AustriaSetup
+2012.10.15  08:11:06 | Copy of 'terrain.cfg' written
+2012.10.15  08:11:07 | Entry for guid {F30A4A52-DC84-4e88-BA65-0459FF0B211E} exists! Nothing written!
+2012.10.15  08:11:07 | Entry for guid {4DE6B877-2B71-4bd3-95D9-584605F5FB4A} exists! Nothing written!
+2012.10.15  08:11:07 | Entry for guid {B30C3606-4461-4b46-8D9E-45C373ACD8DB} exists! Nothing written!
+2012.10.15  08:11:07 | Entry for guid {52EC9ABA-F275-4b70-AF6B-DEFDCE110C6A} exists! Nothing written!
+2012.10.15  08:11:07 | Entry for guid {B07C3211-2BA1-4b54-AE21-F5110D2892A9} exists! Nothing written!
+2012.10.15  08:11:08 | Entry for guid {3FC6BE92-4A29-40ef-AC25-7D30E3251500} exists! Nothing written!
+2012.10.15  08:11:08 | Entry for guid {748FC18A-D3F4-4296-92EC-ACCF6DF3A47C} exists! Nothing written!
+2012.10.15  08:11:08 | Entry for guid {11C9884F-B3BC-4f86-9FE4-4BD84FAF2A98} exists! Nothing written!
+2012.10.15  08:11:08 | Entry for guid {D8878551-EBF5-4469-BE2A-2B19C876A48E} exists! Nothing written!
+2012.10.15  08:11:08 | Entry for guid {5E3ECEBC-6A6B-4c2b-B2AD-C4A6E52CA7FE} exists! Nothing written!
+2012.10.15  08:11:08 | Installation finished!
+2012.10.15  08:11:09 | Closing all forms...
+2012.10.15  08:11:09 | Aborting..."
+[T],_SnakEye,2012-10-15T21:43Z,"I have no idea what to tell you,I am clueless. I guess we can't head over to Aerosoft Support can't we :)"
+,Brrr1955,2012-10-15T22:53Z,"Great torrent, _SnakeEye. Austria Professional is beautiful. We can live without SP1 :)"
+,fsxking08,2012-10-22T05:25Z,Requesting flightbeam KPHX
+,Velse,2012-10-22T17:00Z,"_SnakEye, I just created an account to thank you for the uploads.
+I'd like to pay for this kind of software, imo they deserve it more than douches like EA or Activision... but unfortunately i can not afford it for now.
+So ye, thanks man! I love your uploads!"
+,toff1969,2012-10-23T22:20Z,MARCHE NICKEL MERCI
+,snapshot88,2012-11-01T21:15Z,"Thank you for the upload but does anyone have these?
+
+Req: 
+
+DINO CATTANEO - F-35 -A,-B,-C LIGHTNING II   PROJECT. (only the A model has been uploaded here before!)
+
+JUSTFLIGHT - F-111 AARDVARK
+
+IRIS AIRFORCE SERIES - AIR DOMINANCE FIGHTER
+
+LJL-SIMULATIONS - TORNADO FSX
+
+TAXI2GATE - ST. LOUIS INTERNATIONAL AIRPORT KSTL FSX
+
+IMAGINE SIM - KSJC SAN JOSE INTL, USA FSX
+
+Thank you!"

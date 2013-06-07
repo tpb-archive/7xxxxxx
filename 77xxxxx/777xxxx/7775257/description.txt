@@ -1,0 +1,36 @@
+Movies : Comedy : VHS Rip : English, 67min24secs
+
+The Bowery Boys 1950 Blues Busters
+ 
+http://www.imdb.com/title/tt0042266/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+
+[10:27:46] starting job
+[10:27:46] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[10:27:46] job configuration:
+[10:27:46]  * source
+[10:27:46]    + C:Blues BustersBluesVIDEO_TS
+[10:27:46]    + title 1, chapter(s) 1 to 1
+[10:27:46]  * destination
+[10:27:46]    + C:Documents and SettingsDead End KidsMy DocumentsBlues Busters.mkv
+[10:27:46]    + container: Matroska (.mkv)
+[10:27:46]      + chapter markers
+[10:27:46]  * video track
+[10:27:46]    + decoder: mpeg2
+[10:27:46]      + bitrate 8000 kbps
+[10:27:46]    + frame rate: same as source (around 23.976 fps)
+[10:27:46]    + strict anamorphic
+[10:27:46]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[10:27:46]      + pixel aspect ratio: 8 / 9
+[10:27:46]      + display dimensions: 640 * 480
+[10:27:46]    + encoder: x264
+[10:27:46]      + options: ref=2:bframes=2:me=umh
+[10:27:46]      + bitrate: 396 kbps, pass: 2
+[10:27:46]  * audio track 0
+[10:27:46]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[10:27:46]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[10:27:46]    + mixdown: Stereo
+[10:27:46]    + encoder: faac
+[10:27:46]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,26 @@
+ProgDVB is the universal and very power software for watching digital TV and listening to radio channels! ProgDVB allows you to watch SAT-Television and listen to Radio channels directly from satellite by using DVB-PCI cards with hardware decoders on the board, SAT-dish, and personal computers with Microsoft Windows installed. It has options for working with network broadcasting and Audio/Video recording of the stream to different digital-media formats.
+
+Support for various types of data sources: Internet TV and Radio. About 4000 channels in the list; DVB-S (satellite), DVB-S2, DVB-C (cable), DVB-T, ATSC, ISDB-T, IPTV. Analog TV or playback from a file. Requires Microsoft .NET Framework installed.
+
+Main functions:
+* High Definition TV support including H.264/AVC
+* Picture-in-picture support as well as independent simultaneous recording/playback of several channels from one or more devices
+* Support for the majority of DVB, ISDB-T and ATSC devices including DiSEqC and CAM interfaces support
+* Support for all digital TV audio formats: MPEG, AC3, AAC,...
+* Time shifting functionality using the RAM or disk buffer of unlimited size
+* 10 Bands equalizer
+* TV and Radio channels recording
+* Playback from disk based files
+* Electronic program guide (EPG) from Digital TV or XmlTV,JTV.
+* Teletext
+* Subtile(Teletext, image-based and closed captions)
+* Support for VR, VMR7,VMR9 and EVR renderers including OSD (except VR) independently from channel type or signal presence
+* Network broadcasting
+* Skins for OSD and GUI
+* Both Win32 and full-fledged Win64 versions are available
+* Interface Language Localizations
+
+Install:
+
+- run application
+- use Reseter for activate

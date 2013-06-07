@@ -1,0 +1,22 @@
+Full Hyper-V VHD image, I started with "hack's" empty VHD image and filled it in.
+
+
+The OS in this VHD image comes pre-charged (25), It's fully setup and ready to Host.
+
+
+VHD image was taken from Windows Server 2012 Standard
+
+
+Hyper-V VHD image OS: Windows 8 Enterprise x86 (VOLUME_KMS_W8 channel)
+
+
+Setup:
+
+1. Import VHD (restore image using existing ID)
+
+2. Choose Network adapter for KMS_Host VHD under "Settings"
+
+3. Start KMS_Host VHD set Time Zone inside OS.
+
+
+Thank's goes to "hack" for making this possible.

@@ -1,0 +1,36 @@
+Movies : Crime : VHS Rip : English, 58mins, good condition
+This is a redo of my torrent to reduce file size.
+
+Juvenile Court - 1938
+
+Featuring Frankie Darro & David Gorcey, one of David's better parts. Also starring Hally Chester, Don Latorre, Richard Selzer, Paul Kelly & a young, beautiful Rita Hayworth.
+  
+http://www.imdb.com/title/tt0030303/
+ 
+http://thepiratebay.se/user/jmmybttm	
+
+[10:38:35] job configuration:
+[10:38:35]  * source
+[10:38:35]    + C:Juvenile CourtVIDEO_TS
+[10:38:35]    + title 1, chapter(s) 1 to 1
+[10:38:35]  * destination
+[10:38:35]    + C:Documents and SettingsDead End KidsMy DocumentsJuvenile Court.mkv
+[10:38:35]    + container: Matroska (.mkv)
+[10:38:35]      + chapter markers
+[10:38:35]  * video track
+[10:38:35]    + decoder: mpeg2
+[10:38:35]      + bitrate 8000 kbps
+[10:38:35]    + frame rate: same as source (around 23.976 fps)
+[10:38:35]    + strict anamorphic
+[10:38:35]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[10:38:35]      + pixel aspect ratio: 8 / 9
+[10:38:35]      + display dimensions: 640 * 480
+[10:38:35]    + encoder: x264
+[10:38:35]      + options: ref=2:bframes=2:me=umh
+[10:38:35]      + bitrate: 304 kbps, pass: 2
+[10:38:35]  * audio track 0
+[10:38:35]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[10:38:35]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[10:38:35]    + mixdown: Stereo
+[10:38:35]    + encoder: faac
+[10:38:35]      + bitrate: 160 kbps, samplerate: 48000 Hz

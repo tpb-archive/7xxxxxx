@@ -1,0 +1,19 @@
+Problem: Midi does not represent the original game audio.
+
+Solution:  I have creating looping music from the uncompressed
+official OST. To make this pack a tradeoff between quality and
+size, I have used Adobe Audition to create music with a target
+bitrate of 192 in ogg Vorbis format.  The OST has superior
+audio quality to PSF and the original game.
+
+Final Fantasy VIII came with midi only and no way to use stream
+data like ogg Vorbis.  For this reason I have also created a DLL
+called RaW, coded in Delphi 7, to play the music in the game
+using bass.dll. 
+
+The DLL loads automatically on game start via Aali's driver.
+The DLL supports all known languages of Final Fantasy VIII.
+
+You can see game information and set effects/volume by
+pressing F1 to bring up the RaW menu.  To display the
+information window, double click the info area. 

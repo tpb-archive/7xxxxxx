@@ -1,0 +1,83 @@
+Smashing Pumpkins - Siamese Dream - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+1 - Cherub Rock
+2 - Quiet
+3 - Today
+4 - Hummer
+5 - Rocket
+6 - Disarm
+7 - Soma
+8 - Geek U.S.A.
+9 - Mayonaise
+10 - Spaceboy
+11 - Silverfuck
+12 - Sweet Sweet
+13 - Luna
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = -0.2db
+-With DC Offset Removed: Apparent Bit Resolution = 20, Peak = -0.198db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 42, Peak = 0.482db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-10-10 02:43:13
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -0.06 dB   -11.41 dB      4:58 ?-01 - Cherub Rock
+DR11       0.00 dB   -11.93 dB      3:42 ?-02 - Quiet
+DR11       0.00 dB   -12.70 dB      3:20 ?-03 - Today
+DR11       0.00 dB   -13.99 dB      6:57 ?-04 - Hummer
+DR10      -0.25 dB   -11.74 dB      4:07 ?-05 - Rocket
+DR10       0.00 dB   -13.37 dB      3:17 ?-06 - Disarm
+DR10      -0.09 dB   -14.18 dB      6:40 ?-07 - Soma
+DR10       0.00 dB   -12.04 dB      5:14 ?-08 - Geek U.S.A.
+DR11       0.00 dB   -12.86 dB      5:49 ?-09 - Mayonaise
+DR12       0.00 dB   -14.47 dB      4:29 ?-10 - Spaceboy
+DR11      -0.04 dB   -13.57 dB      8:43 ?-11 - Silverfuck
+DR10      -4.66 dB   -16.41 dB      1:39 ?-12 - Sweet Sweet
+DR10      -0.29 dB   -13.13 dB      3:20 ?-13 - Luna
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR11 (Increased from DR10)
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

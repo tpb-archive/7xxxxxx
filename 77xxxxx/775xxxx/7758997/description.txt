@@ -1,0 +1,67 @@
+[b]Current Version:[/b]  v1.29
+[b]Requires Android:[/b]  2.2 and up
+[b]Category:[/b]  Productivity
+Vv1.29 update:
+ v1.29:
+[b] New layouts:[/b] Turkish (Türkçe), Italian (Italiano), Serbian (Српски)
+
+[img]http://www.apktops.com/wp-content/uploads/2011/09/Hackers-Keyboard-1.jpg[/img]
+
+[img]http://www.apktops.com/wp-content/uploads/2011/09/Hackers-Keyboard-2.jpg[/img]
+
+ Support for Ctrl key in compatible Android apps, Ctrl-X/C/V cut&paste for Android 3.0 (Honeycomb) or newer
+ True AutoCaps/Caps Lock instead of Shift Lock.
+ Basic theming support, including an ICS-inspired theme.
+ Lots of new config options, bugfixes, and some experimental new features. See the full release notes on the developer web page for details.
+
+[b]Overview:[/b]
+ A full 5-row keyboard including arrow and Esc/Ctrl keys, intended for tablets.
+
+Are you missing the key layout you’re used to from your computer? This keyboard has separate number keys, punctuation in the usual places, and arrow keys. It is based on the AOSP Gingerbread soft keyboard, so it supports multitouch for the modifier keys.
+
+This keyboard is especially useful if you use ConnectBot for SSH access. It provides working Tab/Ctrl/Esc keys, and the arrow keys are essential for devices such as the Xoom tablet or Nexus S that don’t have a trackball or D-Pad.
+
+HAVE FEEDBACK, QUESTIONS, OR BUG REPORTS? Please send me email or check the project’s web page using the “Developer” links below. I can’t help you if you leave questions or comments in a Market review since I don’t have any way to contact review authors.
+
+[b]The supported keyboard layouts include:[/b]
+ - Arabic (العربية)
+ - Bulgarian (български език)
+ - Czech (Čeština)
+ - Danish (dansk)
+ - English Dvorak (language “en_DV”)
+ - English (QWERTY)
+ - English/British (en_GB)
+ - Finnish (Suomi)
+ - French (Français, AZERTY)
+ - German (Deutsch, QWERTZ)
+ - Greek (ελληνικά)
+ - Hebrew (עברית)
+ - Italian (Italiano)
+ - Lao (ພາສາລາວ)
+ - Norwegian (Norsk bokmål)
+ - Portugese (Português)
+ - Romanian (Română)
+ - Russian (Русский)
+ - Serbian (Српски)
+ - Slovenian (Slovenščina)/Bosnian/Croatian/Latin Serbian
+ - Spanish (Español)
+ - Swedish (Svenska)
+ - Thai (ไทย)
+ - Turkish (Türkçe)
+ - Ukrainian (українська мова)
+
+Completion dictionaries are provided by plug-in packages, see the “other applications by this developer” section for the currently available list. The keyboard also supports use of dictionaries (but not keyboard layouts) provided by AnySoftKeyboard language packs.
+
+For more information, including the user’s guide, FAQ/known issues, alternate version downloads, and the source code, please check out the developer web page: http://code.google.com/p/hackerskeyboard/
+
+[b]Known issues include:[/b]
+
+- Localization for the keyboard layout is incomplete, currently the Spanish, Finnish, Lao, Romanian, and Thai are only localized in 4-row mode and show the English QWERTY layout in 5-row mode.
+
+- Some languages and layouts may not be usable on your phone if it lacks the necessary fonts.
+
+- Right-to-left languages (Arabic, Hebrew) are apparently not fully supported on pre-Honeycomb devices, YMMV.
+
+- Many applications don’t react to additional keys since they aren’t programmed to handle them.
+
+The permissions requested by the application are those needed by the underlying Gingerbread keyboard. It uses the contacts information for completion of names and email addresses, and audio recording for the voice input feature.

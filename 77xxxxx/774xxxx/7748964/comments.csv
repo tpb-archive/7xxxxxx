@@ -1,0 +1,1449 @@
+﻿User Type,Username,Date,Text
+,Synopis,2012-10-21T19:40Z,Works but I have no sound. At all. Not to mention the opening credits are laggy as fuck.
+,ThaSirPeka,2012-10-21T19:55Z,"How does it works?
+I've never used LumeEmu...
+
+I've copied all the files in C:Program Files (x86)SteamSteamAppscommonRocksmith.
+I've extrades LumaEmu and the crack in that directory and i've edited the LumaEmu.ini:
+
+SteamClientDll = C:Program Files (x86)SteamSteamAppscommonRocksmithsteamclient.dll
+
+But when i execute the .exe it shows all in black and if i press any key it exits to windows.
+
+Any help?
+
+PD. Thanks for the crack. You are awesome guys 
+And thanks to themperror also for the files."
+,t0d,2012-10-21T20:18Z,"Thanks guys! That's so awesome. One question - will it work with this torrent? http://thepiratebay.se/torrent/7730545/Rocksmith_PC_Retail_DVD_(no-crack) or do I need the ""Backup Files"" one?"
+,medalcue,2012-10-21T20:24Z,The official crack from Skidrow is now out.
+,TC91,2012-10-21T20:40Z,"I have the same issue that ""Synopis"" has
+
+The crack works, but i have no sound, it crashes some times and the intro is laggy as crap
+
+@ Win 7 x64"
+,Themperror,2012-10-21T20:47Z,"Forgot to say that the steam_appid.txt needs to be set READ only (right click, properties, read only etc)
+
+This should fix the black screen issue.
+
+As for the sound issue, I do not know..
+
+try the basics.
+Reinstall Direct X (latest version)
+C++ redist 2010 (both the x86 and x64 version)
+updating sound card drivers..
+make sure you follow this guide:
+
+http://forums.ubi.c*o*m/showthread.php/716851-Rocksmith-PC-Configuration-and-FAQ-s?s=1d77402caf1d791a3a25fecb4e5376eb
+
+If things still don't work 100%.. Then I really don't know.. maybe there will be a later version of the crack (if that's so then I will upload it again for you guys)"
+,ThaSirPeka,2012-10-21T21:15Z,"Thank you so much Themperror.
+
+The crack is working fine for me right now.
+
+Sounds with noise sometimes but it's not a problem at all."
+,piratefrs,2012-10-21T21:28Z,"it's awesome that someone made the crack, I could'nt work on it last night i had a party to go.
+
+@tod, that release comes with packed and encrypted files, phoenix fails to extract then, so u need to download the first release on the description.
+
+the crack is working for me, but i dont have the cable to test it, the sounds from the intro videos works(ubisoft logo and shit).
+
+could anyone post the full cable descriptions so i can try to make a virtual driver for it?
+on Device manager/(cable) properties/Details, 
+from Device description to class Co installers
+lets see we can pull this off.
+thanks
+
+@ThaSirPeka, on the rar there's a file called steam_appid.txt, make sure u extracted it and make it read-only
+
+"
+,Thonace,2012-10-21T21:49Z,"@ piratefrs
+
+Is this it?
+mmcico.dll,MediaClassCoInstaller"
+,Qasdrtg,2012-10-21T21:57Z,"I have no sound either. I am running Windows 7 x64 and getting my sound from a USB audio interface. I checked that ubi forum post and set my audio to 48khz 16 bit mode and allowed exclusive mode but still nothing. Also worth mentioning, the game only runs when i change the compatibility mode on the .exe to windows xp sp3 (windows 7 and windows vista don't work, i get the first loading screen and it freezes before i even see the ubisoft logo)"
+,Thonace,2012-10-21T21:58Z,"@piratefrs
+
+I don't see my other comment so I don't know if it went through so I'll just post it again.
+
+mmcico.dll,MediaClassCoInstaller"
+,piratefrs,2012-10-21T22:04Z,"code  msdn  microsoft  com  windowshardware  virtual-audio-device-3d4e6150 
+i am going to use that, just need the cable details, not just the hardwareID"
+,piratefrs,2012-10-21T22:06Z,"@Thonace sorry but I wasnt made myself clear, I need all the information on that info tab"
+,Michaelcr13,2012-10-21T22:23Z,"Can someone make a step by step instructions on how to do this? Just seems like its all over the place. Also, http://thepiratebay.se/torrent/7745402/Rocksmith_Installed_Steam_Files or http://thepiratebay.se/torrent/7745439/Rocksmith_PC_Steam_Backup_Files will work, does it matter which one i have?"
+,Qasdrtg,2012-10-21T22:26Z,"I fixed the no audio issue i was having. I just replaced this line in Rocksmith.ini
+MaxOutputBufferSize=256
+with
+MaxOutputBufferSize=0"
+,DrgMuka,2012-10-21T23:05Z,thanks works great for me.
+,piratefrs,2012-10-21T23:28Z,"@Michaelcr13 no, just the first works, the backup one is packed with steam shitty packer, and phoenix is currently not working for that."
+,Thonace,2012-10-22T01:13Z,"Damn there's a lot but I guess I got nothing better to do.
+
+I uploaded it to Medafire. "
+,Thonace,2012-10-22T01:17Z,"Pirate bay is letting me link to Medafire.
+
+I'll just post it to Pastebay.
+http://pastebay.net/1151245
+
+The pass is rocksmith btw."
+,piratefrs,2012-10-22T01:52Z,@Thonace thanks so much
+,piratefrs,2012-10-22T02:17Z,"this cable shit has been a massive pain in the ass....
+can anyone send me the driver for it?
+this can be done by apps like this: sourceforge .. net  /// projects  /  drvback  "
+,korosiv,2012-10-22T02:25Z,"@Themperror Sam2k5 Sam2k8 Thanks guys for your amazing work ! its awesome 100% working ! if u're planning to bring us the DLCs you're my gods!  
+@piratefrs let me know if u need more details on that cable "
+,piratefrs,2012-10-22T03:00Z,"@korosiv could you upload me the driver?
+on my last post i gave a link to a program that backups drivers.
+thanks"
+,Aerionix,2012-10-22T03:40Z,"Concrete answer to the which version should we get please?  In the description, it says the first one has a corrupt file...  yet another person saying that just the first one works.  Uploader doesn't recommend one over the other, so maybe someone that downloaded the entire thing and its working properly for, offer advice?
+
+And Themperror/Sam2k5/8, I've been following this from the beginning, great job you guys.  Thanks."
+,Aerionix,2012-10-22T03:43Z,"disregard, hadn't checked the other pages yet.  Got the replacements and all will be well.  Thanks again."
+,piratefrs,2012-10-22T04:02Z,@Aerionix you should get the first one and replace the corrupted file from a linke of the comments of that release
+,piratefrs,2012-10-22T04:06Z,"rocksmith looks for the vid_ and pid_ of the device
+already found where it does that, 009F088E and 009F087F (might be more comparers)"
+,korosiv,2012-10-22T04:09Z,"1st download this https://thepiratebay.se/torrent/7745402/Rocksmith_Installed_Steam_Files
+	and un-rar the files to c:/Rocksmith
+
+2nd download this mediafire.*** /?b2mm9gxobkce225 And put in:
+				Rocksmith/Base/GRAssets/GR_Props/GR_Amp/JC
+
+3rd download Rocksmith Crack (By Themperror and Sam2k8) CRACK ONLY 
+	un-rar and put them in Rocksmith/ (overwrite existing files)
+
+4th edit the LumaEmu.ini file (located in Rocksmith/)
+so that this line:
+
+[SteamClient]
+# Set path to steamclient.dll (not the original)
+SteamClientDll = C:steamclient.dll
+
+points to the path where you have the steamclient.dll (Which is included in the rar 
+	, and should have paste with otherfiles in Rocksmith/) it should be c:/Rocksmith/steamclient.dll
+
+(do not point it to the original dll, it won’t work) 
+
+5th the steam_appid.txt needs to be set READ only (right click, properties, read only etc)"
+,korosiv,2012-10-22T04:12Z,"@piratefrs wich driver? it didn't appear under the name of ""rocksmith usb cable"" when plugged just see xbox controller device (? Oo ) and all of my other hardware of course"
+,korosiv,2012-10-22T04:14Z,"@piratefrs wich driver do u want it didnt appear with driver backup under the name of "" rocksmith usb cable"" so... jusy see an xbox controller device oO and all of my other hardware"
+,korosiv,2012-10-22T04:26Z,take a look at this maybe u can find something helpful www.mediafire.###/?9vgf5ia57gaao01
+,RMJ113,2012-10-22T04:32Z,"Thanks this worked for a differnt version, some songs I have never heard of! And I would never wanna play sadly!"
+,MushyMouth,2012-10-22T05:30Z,"thank the heavens.
+
+Now someone grab the DLC!"
+,kdobbs74,2012-10-22T05:57Z,@Themperror and @Sam2k8 and everyone else who worked so hard on this...... YOU ROCK!!!!  The game works perfect!!!  Thank you!!!!
+,piratefrs,2012-10-22T06:02Z,"ppl should start uploading the DLC's they've bought, so we can start adding then to the game.
+
+does this crack works well with the cable?"
+,piratefrs,2012-10-22T06:16Z,"ok, after several hours debugging the rocksmith exe with ollydbg i gave up(but i was close, i think)
+it uses pid and vid(from hardwareID (probably getting then on the registry)) and the name
+perhaps it looks for other things as well, but that's the only ones that i've seen.
+here is some address that might be helpful to anyone trying to bypass the cable check:
+
+86c960
+9ed920 -> audio output detectors
+9eeae0 -> calls 9ed920
+9f06B0 -> calls 9eeae0
+9f0920
+009F087F "
+,itsover8000,2012-10-22T07:38Z,"@piratefrs
+just get the realtone cable, at least you save $60 on the game, $25-30 is not too much"
+,Aerionix,2012-10-22T07:51Z,"Just another confirmation that this does work.  Follow the instructions to the letter.  I also had to crank up the volume on the recording tab for the real tone cable sound settings in Windows (treats it as a microphone)  Before I did that, it wasn't picking up any sound from the guitar at all.  Now it's flawless and no lag that I can detect at default settings.  Can't thank you guys enough for this.  Hated the load times on xbox for it."
+,Sadler2,2012-10-22T08:51Z,"@piratefrs as I see, it may use 3 input modes: PortAudio (by default), WaveIn and one more. If we will select the WaveIn mode, it will stop checking the pid, vid; instead it will check the device name, sample rate, channel count etc."
+,medalcue,2012-10-22T09:48Z,Im trying to follow korosiv's tutorial but I have a few problems. How do you do the 2nd part? The mediafire link has stars in it. Also how do you extract the crack in part 3? It wont even open with winrar.
+,Simpan92,2012-10-22T10:25Z,Works! But says Demo. Why? Isn't this the whole game?
+,qdft665,2012-10-22T11:03Z,"i'm having problems, i've been following all of the scattered instructions to the best of my ability, but i can't seem to get it to work. it just goes to the black screen and sits there, not even any errors when i get out of it. can anyone help me out or post some step by step instructions to help everyone out?"
+,applepure,2012-10-22T11:03Z,"here is a proper toturial and the way it worked for me:
+1. Download http://thepiratebay.se/torrent/7745402/Rocksmith_Installed_Steam_Files
+
+and unrar it into any folder you like. u will notice that 1 file is corrupted. press close and it will continue unraring.
+
+2. replace the corrupted file with this file:
+mediafire.*** /?b2mm9gxobkce225
+change the *** to com
+
+3. extract the file into
+......RocksmithBaseGRAssetsGR_PropsGR_AmpJC
+
+4. Download: http://thepiratebay.se/torrent/7748964/Rocksmith_Crack_(By_Themperror_and_Sam2k8)_CRACK_ONLY
+
+you can open this rar with winrar and extract it into the games main folder
+
+5. open with double click LumaEmu.ini and change the last row into the address that SteamClient.Dll is in. it should be in the games main directory by now..
+last row should be: SteamClientDll = (The place u extracted)Rocksmithsteamclient.dll
+press file save
+
+if the game gets stuck at start you need to change your playback sound configuration. there are some formats that wont work. 
+also update your drivers.
+
+6. right click on steam_appid.txt -> properties and check read only.
+
+and the run the game like a pro.
+enjoy 
+real thx to all the people that helped, you are awesome."
+,piratefrs,2012-10-22T12:20Z,"@itsover8000 i will have to buy that damm cable...
+well, the cable plus the xbox game, since they dont sell the cable separatedly in my country(or the PC game...)
+once i buy the cable, i plan to make a bypass(to fuck ubisoft income even more...), it may just take some weeks."
+,korosiv,2012-10-22T12:22Z,"1 more thing guys this game got English / French/German/Italian/Spanish an Japanese   just modify the Lumaemu.ini   to put  the 1 youi want , it should be like this 
+
+
+[Language]
+GameLanguage = English   ( replace English by the 1 u want)  i tried frnch it works well so give it a try"
+,piratefrs,2012-10-22T12:24Z,@Sadler2 how to make it use wavert? thanks
+,Sadler2,2012-10-22T12:50Z,"@piratefrs
+
+0086D927 NOP -- GR.Audio.ForceUseNWin32
+0086D9A2 JMP ... -- Disable GR.Audio.ForceUsePortAudio
+0086DA1D NOP -- GR.Audio.ForceUseWaveIn
+
+And don't forget add 
+
+[Audio]
+DumpAudioLog=1
+
+into your rocksmith.ini."
+,timmy9,2012-10-22T13:46Z,"The game crashes during the guitar setup, also i need to alt+tab and get back in game once every five seconds during start up screen in order for it to advance. I have follewed the steps in de desription. "
+,icetech,2012-10-22T14:04Z,Bah.. what happened to the all in 1 torrent with game+crack?
+,piratefrs,2012-10-22T14:36Z,"@Sadler2 wow man, thanks, by using virtual audio cable i managed to get it to work.
+does anyone knows a way of changing the device name so i dont need to use virtual audio cable?"
+,Sadler2,2012-10-22T14:44Z,"@piratefrs
+
+Give me your patch, please (in text, if you can). I tried to start it whole day, but don't think to try with VAC.
+
+> does anyone knows a way of changing the device name so i dont need to use virtual audio cable?
+
+Just disable the device name check, catch every device in system, or just first device."
+,piratefrs,2012-10-22T15:01Z,"@Sadler2, i am trying to find where it does the name check, but no luck...
+i found where i gets the name tough, it uses registry shit
+0086DA1D -> NOP (like u said to enable wavert)
+bayfiles  .  com  /  file  /  oKmF  /  oJGL3u  /  vac  .  7z
+dont forget to set it to 1 channel 16 bits dvd quality.
+it will go to the resume window saying to connect the cable, but when u click resume it works."
+,OxygenFX,2012-10-22T15:11Z,@piratefrs Can you make a tutorial on how to make it work with virtual audio cable?
+,piratefrs,2012-10-22T15:35Z,"you dont even need virtual audio cable, u just gotta change ur device Friendly Name to Rocksmith USB uitar Cable"
+,Sadler2,2012-10-22T15:42Z,"@piratefrs
+
+Sorry but not works for me. Rocksmith freezes on initialization (white screen) and infinitelly writes to audiodump :
+
+00000041:  : GetConnectionFrom: Returning 001AF4B8
+00000041:  : GetConnectionFrom: Checking 6 connections... (pTo = 001AF4B8)
+00000041:  : GetConnectionFrom: Returning 001AF4D8
+00000041:  : GetConnectedPin: count=3, forward=0, muxPosition=0
+00000041:  : GetNumberOfConnectionsTo: Checking 6 connections...00000041:  : GetConnectionFrom: Checking 6 connections... (pTo = 001AF4D8)
+
+My cable params are: SR:48khz, bps:16, NC:1 (device name: Rocksmith USB Guitar Adapter)"
+,bobomsin,2012-10-22T15:54Z,"Rocksmith TiNYiSO is out - scene release.
+Not on PB yet. "
+,korosiv,2012-10-22T16:16Z,i confirm rocksmith tiny iso is out not yet tested
+,qdft665,2012-10-22T16:34Z,"now i saw you should put that amp.nif file in Rocksmith/Base/GRAssets/GR_Props/GR_Amp/JC so should i have made those folders and put the file in there? that's what i did. and also, the pc steam backup files had a disk1 folder, which i took the files from and just put it in a general rocksmith folder, was that okay to do as well?"
+,applepure,2012-10-22T17:27Z,"Well i don't really know if it helps or not but i 
+uploaded Rocksmith xbox 360 DLC
+www.mediafire.***/?n4f41xycgr5zrt6"
+,RMJ113,2012-10-22T17:41Z,"TinyISO crack is much better then this , no fus, not modding !
+
+sad thing is I lost my game save! oh well!
+
+ it is worth it to have a better crack, allso when I turn the game off with the tinyiso crack I no longer get the ERROR!"
+,piratefrs,2012-10-22T18:02Z,"thats my log: www.pastebay.xxx /1151305
+
+i've changed those: High Definition Audio Device and HD Audio Muxed capture to Rocksmith USB Guitar Adapter in the registry
+
+those values depends on ur audio card thing..
+it's working perfectly for me
+
+im going to upload the wavert exe soon"
+,SLivik,2012-10-22T18:09Z,How to play without Real Tone Cable? Not possible?
+,Qasdrtg,2012-10-22T18:41Z,"@piratefrs
+Can you please name which values in the registry to edit? I know it changes from card to card, but where should i be looking and for what? I have a tascam usb audio card if that helps :)
+I greatly appreciate the work everyone is putting into this!"
+,Sadler2,2012-10-22T18:58Z,"@piratefrs
+
+I had to fix something else to start the game without cable:
+
+0086F4C6 ADD ESP,224
+0086F4CC MOV EAX,1
+0086F4D1 RETN 4
+
+That's because, I think, not every sound card support some mixer controls."
+,piratefrs,2012-10-22T19:10Z,"this is the wavert patch:
+bayfiles .  com /  file  /  oLR3  /  qfu8U2  /  Rocksmith _ - _ Copy . exe
+
+required to play without the cable doing the registry modification.
+bayfiles . com / file / oMjj / Jipp88 / rocksmt  . png
+that indicates the thing u should replace on the registry(mine was already replaced, was High Definition Audio Device before)
+you should also replace the HD Audio Muxed capture as well to Rocksmith USB Guitar Adapter"
+,piratefrs,2012-10-22T19:13Z,"@Sadler2 awesome, is it working for you as well?
+have u done the registry modification? or u patched for it to find all sound cards?"
+,xebato,2012-10-22T19:20Z,"I hereby fall on my knees , please please please
+help me. 
+I changed the FriendlyName values both to Rocksmith USB Guitar Adapter  and it still doesnt work.
+1 . Everytime i start there is a minor crash and a box is appearing saying ERROR SOUND INITIALISATION , YES , NO , HELP
+and i get sometimes no sound at all and sometimes sound. 
+BUT  even with your new file from bayfiles it says steam api missing , please for the love of , god , i will fall on my knees , help me pls via skype or teamspeak or whatever , "
+,Sadler2,2012-10-22T19:38Z,"@piratefrs
+
+Now i'm mainly using the modificated Virtual Audio Cable and my M-Audio FireWire Solo card (see 0086CA22), but if I'll eliminate all of the checks, it will work with any card. In fact, i'm not fully test last patched version with real card, because I feel damn tired, but it starts to title, and maybe it will work... But, of course, I don't know, how it will work on stereo input instead of mono etc.
+
+Without last patch it doesn't work for me even on VAC (4.0)."
+,piratefrs,2012-10-22T19:44Z,"@applepure thanks for the dlc, but can u tell me where were those files?(full path to then)
+thanks"
+,piratefrs,2012-10-22T19:46Z,"@Sadler2 it's working with my stereo sound card perfectly, and i am not using the VAC at all, it's getting the audio directly from the sound card."
+,ganono,2012-10-22T19:50Z,"@piratefrs the exe don't work in x64, can u fix that?"
+,Sadler2,2012-10-22T19:51Z,"@piratefrs 
+
+Ok, tomorrow I will try to run it on my soundcard. I think, the input configuration may be implemented as a separate binary configurator/patcher. User starts this configurator, selects the input device, clicks ""patch"" and the program changes device name inside the rocksmith binary.
+
+Main problem: it must work not only on your or my soundcards :)"
+,xebato,2012-10-22T19:59Z,"@piratefrs   
+Please could you tell me how to enable Rocksmith for my Behringer USB Interface , with your method.
+I would be really grateful if you could help me via Skype : xebat.d or steam : sagichnicht3000"
+,RMJ113,2012-10-22T20:24Z,"a tutorial ,for just windows line in would be great, your not recording so the audio qwuality is not important
+
+and your pastebay link don't work?"
+,applepure,2012-10-22T20:41Z,"It works like a charm, now we need a cable to connect our guitars to the pc.
+
+ anyway i think the dlc's should go into:
+RocksmithBaseGRAssetsDLC
+i hope u noticed that its the xbox version of the dlc's"
+,piratefrs,2012-10-22T21:11Z,bayfiles . com /file/oMWD/fexquQ/RocksmithNoCable.exe
+,piratefrs,2012-10-22T21:12Z,"bayfiles . com /file/oMWD/fexquQ/RocksmithNoCable.exe
+can anyone test that without the cable(with sound card, third party usb devices, etc)?
+thanks"
+,applepure,2012-10-22T21:18Z,".it works, got into soundcheck"
+,RMJ113,2012-10-22T21:29Z,"I cannot access the bay files
+???
+media fire?"
+,RMJ113,2012-10-22T21:32Z,"i remove the spaces and still error to that site
+?"
+,RMJ113,2012-10-22T21:34Z,my error I missed a space
+,sebastiennn,2012-10-22T21:38Z,"Please, what is written in steam_apid.txt"
+,RMJ113,2012-10-22T21:46Z,"it works sort of , when I get to the playin part it sayes cable is unpluged"
+,korosiv,2012-10-22T21:54Z,"by plugin jack jack in line entry of the sound card  it "" sounds"" i can use Amp mode  but if i try to play a song or tune the guitar or whatever that need 3d (i mean loading screen and the game or tune) its check the presence of the cable n says no cable plugged . "
+,piratefrs,2012-10-22T21:55Z,"@applepure have u done any register modification?
+or it just worked?"
+,RMJ113,2012-10-22T22:02Z,"I was testing with line in for windows, I have a cheap usb  device Beringer and expensive motus, but they use asio so dought they will work"
+,RMJ113,2012-10-22T22:04Z,I used no registry mod
+,korosiv,2012-10-22T22:07Z,no registry mode for me either
+,piratefrs,2012-10-22T22:15Z,"@applepure have u modified the register?
+or it worked right away?
+thanks"
+,piratefrs,2012-10-22T22:17Z,"humm, i must have forgot some check"
+,applepure,2012-10-22T22:23Z,"installed VAC and replaced rocksmith.exe
+nothing more."
+,RMJ113,2012-10-22T22:29Z,"It will not recognize my USB or Motu, they work under ASIO"
+,Dominik93,2012-10-22T22:37Z,"piratefrs, you are a god. I tried this crack + your registry and the nocable.exe on the demo version and it worked just fine. I got a bit of latency but I guess that's because it won't use my Line 6's ASIO. Atleast I can play now. Thanks man!"
+,tiagosykes,2012-10-22T22:41Z,this work for the USB Cable who uses ASIO driver? (Behringer..)
+,RMJ113,2012-10-22T22:48Z,ASIO = PRO SOUND CARD! zero latency
+,korosiv,2012-10-22T22:49Z,@piratefrs / Dominik93        what have u moidified in the registry and where please ?
+,RMJ113,2012-10-22T22:50Z,My game no longer starts
+,piratefrs,2012-10-22T23:16Z,"can anyone test this? :
+bayfiles . com / file / oNF5 / lTU9CZ / RocksmithNoCable2.7z
+
+slowly i am trying to remove all checks"
+,korosiv,2012-10-22T23:29Z,"@piratefrs you're doin a great job!
+
+so i've tryd your last exe  so  :
+--without VAC installed it didnt work for guitar tuning says cable been unplugged
+--with VAC installed seems to work  didn't say any message but got pb ( maybe only mine ^^ ) 
+
+it didnt dedect any sound got vac installed  set to chnl 1 44800 DVD quality    i see the new entry but didnt detect sounds in control panel 
+
+ my sound card line entry DID detect the sound its set toi chnl 2   44800 dvd quality  so  i here sound of my guitar but didnt been detected by vac or rocksmith could u help?  "
+,TudaOpp,2012-10-22T23:35Z,"Is it possible to play without official cable?
+Can I connect my guitarr to PC with a 5,25 -> 3.5mm plugg into the line in on soundcard somehow? "
+,RMJ113,2012-10-22T23:38Z,same thing - cable unpluged
+,RMJ113,2012-10-22T23:39Z,it hass something to do with the 3d section
+,just133,2012-10-22T23:42Z,i missed one thing - how to change a name of the soundcard. can you help me with it?
+,r3nd3r,2012-10-22T23:45Z,More latency (approximately a few millenia) than humanly imaginable but at least it works.
+,korosiv,2012-10-22T23:56Z,"so your first exe and the second works well with VAC just have to run Audiorepeater , and find the good setup to avoid latency"
+,korosiv,2012-10-22T23:57Z,previous msg   @ piratefrs
+,scrappy569,2012-10-23T00:17Z,dose anyone have the pc dlc's ? i have tried the 360 ones i only got the music and cover ingame but then it freezes..
+,avoroll,2012-10-23T00:35Z,"@piratefrs
+Question. Does your method work with line in into the sound card(using a 1/4"" to 2.5mm adapter) or is it for something else.  I dont know what setups people are testing your method with.
+
+Good job fucking up Ubi."
+,piratefrs,2012-10-23T00:38Z,"bayfiles . com / file / oO3d / pdqtqQ / RocksmithNoCable3.7z
+this one dont requires the registry mod at all, it should work right away, no repeater needed, just plug the guitar into a sound card/usb cable.
+after an entire day of debugging, it seems to be working."
+,korosiv,2012-10-23T00:52Z,@piratefrs  i'm sorry but it didn't work for me  game freeze  at ESRB/PEGI  screen  didn't launch the intr video cant close with alt+f4 totally not responding  VAC uninstalled btw
+,korosiv,2012-10-23T01:07Z,@piratefrs forgot to say i'm using line-in entry on the soundcard ( inboard hd audio realtek )
+,kzl666,2012-10-23T01:19Z,"piratefrs, now it is stuck on ""esrb not rated"" and won't go any further"
+,kljones21,2012-10-23T01:24Z,"same error for me too, crashed at PEGI ESRB Screen"
+,hellaxe,2012-10-23T01:24Z,"@piratefrs, i've played by line-in, and game lost connection with guitar, i passed  through 1st noise check and on 2nd check nothing happens but my guitar was heard in game. After restart i passed through checks but on first note game lost connect again.
+PS. Thanks for what you do.
+Sorry for my bad english =)"
+,SgtMeowmers,2012-10-23T01:25Z,"For some reason bayfiles refuses to work for me. Downloaded a file like 20 min ago but now everytime I hit premium download it simply reloads and nothing happens. Any chance to have that file uploaded to mediafire? I'll keep trying to download it from bayfiles just in case, thanks in advance"
+,piratefrs,2012-10-23T01:27Z,"@korosiv weird, maybe ur sound card isnt supported?"
+,TC91,2012-10-23T01:42Z,"@piratefrs it happens the same to me that is happen to the @korosiv
+
+i didnt installed the VAC btw"
+,SgtMeowmers,2012-10-23T01:48Z,"Nevermind, the download worked after waiting, will test it asap"
+,piratefrs,2012-10-23T01:52Z,"i've added one fix made by Sadler2, i am not sure if it will help ppl with problems with my exe, but still, here it is:
+bayfiles . com / file / oOoH / 4sjK7g / RocksmithNoCable3DevCapFix.7z
+
+i tested it on my pc, and like the other one it worked just fine.
+if it dont work, then i have no idea what may be causing that error.
+btw, this exe is the same as this release, but modified with a cable bypass."
+,RMJ113,2012-10-23T01:59Z,"YEP LOCKS UP ON ""PEGI"" SCREEN"
+,RMJ113,2012-10-23T02:04Z,MESSEGE SUCKS HERE
+,RMJ113,2012-10-23T02:06Z,"I have a full intell rig, with realtec hd"
+,RMJ113,2012-10-23T02:08Z,"I bought the cable , I would just like to get it workin with realtec so I can pass the game on to my CHEAP bro"
+,kzl666,2012-10-23T02:30Z,"piratefrs, PEGI again, no resolve"
+,kljones21,2012-10-23T03:17Z,"YES!!!
+I finally got it to work and got past the PEGI Screen.
+
+I simply deactivated all Sound/Mic Inputs in Windows Sound Settings that I dont use. (Only my Firewire Interface is activated)
+Game works without any problems now.
+
+Thank you Piratefrs so much for this patch, you ROCK!"
+,piratefrs,2012-10-23T03:18Z,"since i am writing to the stack trough mov, it might be DEP or some shit like that.... try disabling it and/or running as admin..
+or perhaps it's something that's diff from my pc that's causing that error, install everything from the resources folder"
+,korosiv,2012-10-23T04:29Z,"@piratefrs  omg your my hero it works ! and incredibly well (as good as the real tone minimum ) Thank you so much !
+
+so your NoCable3.exe works fine just have to deactivate all the recording entries you didn't use for Rocksmith in Windows (recording peripherals thing like this) like Kijones21 said on his last post !
+
+Hurra! and well done piratefrs !
+
+Now we need some nice people to upload PCs DLCs they've bought ^^ ( or manage to have )
+
+Thanks all guys workin on that , Christmas before time ! "
+,itsover8000,2012-10-23T04:31Z,Anyone found out how to get dlc? I used the Rocksmith 100mb torrent because I only had to do 2 steps instead of 5 with it.
+,dilinwe,2012-10-23T05:41Z,will this works with a usb 7.1 ch 3d external sound pocket?? because that im using with guitar rig & amplitube and i get working without problems.
+,piratefrs,2012-10-23T06:25Z,"@dilinwe it should work ok, but the only way to know is to test it"
+,Petri1968,2012-10-23T08:47Z,rocksmithnocable.exe works with behringer uca222 usb. only need to turn of all other microphones. 
+,just133,2012-10-23T09:34Z,"yay, it's worked on my M-Audio Fireware Solo but not correctly. it uses my input 1 (XLR, microphone), not input 2 (1/4 jack, guitar). any ideas how to fix it?"
+,redmiko,2012-10-23T10:14Z,"anyone getting the problem where halfway during some songs it stopped registering notes you play but you can hear your guitar playing it? btw 
+"
+,xebato,2012-10-23T10:33Z,"Fucking Hell , yesterday everything worked fine , but now when i start Rocksmith , i get a freeze at the Ubisoft/other logos .  I deactivated ALL i  mean ALL my sound devices and it starts , but it doesnt work when i have one single device activated >:("
+,hellaxe,2012-10-23T10:51Z,"2redmiko
+same thing"
+,redmiko,2012-10-23T11:42Z,"@hellaxe what cable do you have maybe we have the same one o_o
+
+I forgot the name of my cable i think its something snake idk.. sound check was a bitch freakin make some noise didnt go so well"
+,hellaxe,2012-10-23T11:56Z,"@redmiko
+i play through normal jack cable in line-in"
+,Sadler2,2012-10-23T12:15Z,"@just133
+
+I'm working on this problem."
+,redmiko,2012-10-23T13:16Z,@hellaxe I guess my cable isnt the problem... I really hate to see i get really high scores during the event then the song fucks up in the beginning and i cant play any notes -_- 
+,Switchak,2012-10-23T13:31Z,And what about dlcs? Someone has them?
+,kljones21,2012-10-23T14:06Z,"@redmiko & hellaxe
+
+I got the same problem, it stops detecting the notes I play, but I can still here the guitar ingame.
+
+I'm using a firewire Interface btw."
+,kljones21,2012-10-23T14:11Z,"the comment  system here sucks, after refreshing you have to go back and then forward in the comments page to see the newest posts.."
+,starstrid,2012-10-23T14:16Z,"yeah, what about DLC? is it possible that we'll see all of them one time or no?"
+,Bush3L0,2012-10-23T14:16Z,DLC's plz.. or it's not make sense
+,Petri1968,2012-10-23T14:20Z,"@redmiko try connecting your computer to a grounded outlet to remove noise, worked for me."
+,kzl666,2012-10-23T15:15Z,"All those who have a problem with game not recognizing plucked notes, but playing sound, try to use onboard audio (realtek preferably) instead of usb devices. I Have the same issue with my Creative Xtreme Gamer, but with realtek all is fine and there is noticeably less input lag. Just set input and output devices to 16/48."
+,moeburn1,2012-10-23T16:10Z,"I downloaded the steam backup files, but it's just a bunch of csd, csm, and sis files.  What am I supposed to do with those?  I figured it would be a better choice than the one with the corrupted file in it, but maybe not?"
+,xebato,2012-10-23T16:13Z,I can confirm what kzl666 is saying !
+,moeburn1,2012-10-23T16:25Z,"Well I tried to restore the backup with Steam, but it is asking for a CD key.  Anyone have one?"
+,Replenish,2012-10-23T16:54Z,"Tried two cracks, and both tell me ""You need steam running in order to launch this""
+
+Even with Smartsteam open? Does everyone else have to use smartsteam for this?"
+,Replenish,2012-10-23T17:41Z,"Got it to work:
+
+In Lumaemu.ini edit-->at the bottom set the right path to the DLL
+
+download the file steam_appid.txt and place in same folder-->Unlock it--->Read only
+
+Done
+
+
+Now to fix my lack of audio"
+,redmiko,2012-10-23T18:00Z,wiat what? im lost i have a usb to guitar cable. so guitar straight to pc. 
+,Bair_morritt,2012-10-23T19:56Z,Time to break out the DLC
+,applepure,2012-10-23T20:07Z,"for anyone who's experiencing latency issues makes the game playable:
+
+http://burianek.***/blog/archives/513
+
+notice that if you use method 2 disable method 1."
+,korosiv,2012-10-23T20:15Z,"@piratefrs i've noticed if u start game with 1 guitar on the line in and for ewample in my case plugged with official cable game blocks at esrb screen seems that it didn't manage 2 different entries , did have not teste by plugin the cable after like in multiplayer mode"
+,TC91,2012-10-23T20:44Z,"@Replenish go yo your Rocksmith folder, you will find the file ""Rocksmith.ini"" open that file, and find ""MaxOutputBufferSize=x"" replace the x for 0 (i think you have 216 by default
+
+Save the file and you're good to go"
+,rafaelca,2012-10-23T21:11Z,"All executable files post here and helps work for Rocksmith Real Tone Cable Original or adapters?
+
+Crack is Fine.
+
+I creat a cable, USB - P2. The Windows 7 not recognized.
+Guys your have idea, how connect my alternative cable in Rocksmith?
+Thx
+Sorry my bad english"
+,warpedcj,2012-10-23T22:02Z,"I have the actual Rocksmith cable that came with PS3 game. I follow the instructions, and when I launch the game, I see the Rocksmith logo and then my screen goes black. I can do Alt + Tab and go back to game, and I will see another snippet of the intro video. No Sound. Any ideas?"
+,chiphead,2012-10-23T22:08Z,"warpedcj, I had the same problem. Renamed rocksmith.ini -> rocksmith.old, the game created a new .ini and everything worked. YMMV."
+,kljones21,2012-10-23T22:39Z,@kzl666 Thanks for the tip! Works like a charm now.
+,Alucardsniper,2012-10-23T22:40Z,"There is an error early in the game, when you tune the guitar. He recognizes the sound, asks to stop touching the ropes, but then asks to play again (no sound now) and check the volume or connection.  Only once could pass this screen, but in the following screen to tune the guitar, not tuning any strings. Does anyone have a solution for this? Theemperror, Korosiv or @piratefrs? Please help me! ^^
+PS. My cable is a P10 and plugged into the sound card (no is USB cable ). Thanks for all and sorry my english!"
+,TevenxD,2012-10-23T23:45Z,Got It To Work But It Says Its The Demo?? Only Has Demo Songs To... Help??? 
+,korosiv,2012-10-23T23:45Z,"@Alucardsniper   how is your input set ?  must be DVD quality  16bits 48000hz i think , and maybe its ur input volume (recordin or playback) or even the guitar sounds too high for the input try reducing volume , for me your problem sound like one i've had by using the mic input on a laptop to play , finally i managed it to work by tuning the volumes , recording playback and on my guitar , and you must avoid any post effect on your input at any cost ^^ for the mic input have to de-activated some like amplifying , noise reduction and so on try lookin that way, hope it will help"
+,korosiv,2012-10-23T23:48Z,@warpedcj if u got a realtone cable just go with the crack in the torrent  no need to use the NoCable.exe
+,TevenxD,2012-10-23T23:55Z,Why Does It Say Demo?? I Can Only Play The Content On The Demo To... 
+,TevenxD,2012-10-24T00:00Z,Says Its The Demo After Cracking??? 
+,TevenxD,2012-10-24T00:04Z,Demo?
+,dalc789,2012-10-24T00:21Z,"Awesome crack, but I'm a little confused here.  Will the nocable exe let me use other cables besides the realtone cable?  Also, can someone upload the exe to mediafire or something, BayFiles is being a bitch."
+,redmiko,2012-10-24T01:05Z,@kzl666 I need help! :/ i have no clue what you are saying
+,warpedcj,2012-10-24T01:33Z,"@chiphead You're a genius! Works great! The only issue I'm having now is I can't get it to go complete full screen. It is like I'm viewing it in letterbox mode, although I changed the resolution in game.
+
+I'm not much of a PC gamer, so I'm not used to settings like this. What do I need to do?"
+,warpedcj,2012-10-24T01:49Z,"@chiphead You are a genius! That fixed it.
+
+Only issue I'm having now is that the game isn't exactly full screen, although I changed the resolution settings in game. It has the black bars on top and bottom. How do I fix this?
+
+I'm not much of a PC gamer, so bare with me."
+,kdobbs74,2012-10-24T02:11Z,The game plays fine BUT I can't get to the store... If anyone has any tips on getting the store to work I will buy some of the DLs and up them for everyone.   
+,kdobbs74,2012-10-24T02:15Z,DLCs
+,redmiko,2012-10-24T02:23Z,"@warpedcj try shift+enter, usually alt+enter but give both a try"
+,redpip,2012-10-24T02:26Z,"Has anyone been able to get multiplayer to work using the no cable thing?
+
+I have an actual realtone cable and a line in. As soon as I plug more than 1 in the thing crashes. Any chance of a fix or anything? "
+,redmiko,2012-10-24T02:47Z,So umm can anyone help me with the un registering notes but heard guitar play? step by step? I am using a guitar to usb (not original rocksmith cable)
+,warpedcj,2012-10-24T03:03Z,"@redmiko Shift + Enter brings it in Window Mode. Still have the black bars.
+
+Also, I am on the second set, and the notes registered fine for the first two songs, Higher Ground and Go With The Flow, but it stopped working on In Bloom by Nirvana."
+,dalc789,2012-10-24T03:57Z,Yeah does anybody know how to fix that note problem?  I can play but sometimes it'll just stop recognizing notes mid song and i have to end the song then go back into it for it to work again.
+,kaworu11,2012-10-24T05:50Z,"@piratefrs so your nocable fix is seems to be working, but I have a problem — I cannot turn off the mic input, so game picks mic signal (left channel) instead of guitar (right). Is it possible to make a .exe which uses a second (right channel) input istead of first?"
+,applepure,2012-10-24T11:35Z,warpedcj have you tried to change the resolution in the options menu? 
+,redmiko,2012-10-24T14:43Z,;/ would really appreciate it if someone could help us with the mid game unregistering note problem
+,warpedcj,2012-10-24T14:44Z,"@applepure Yes, I have changed it in game, and it does match the resolution of my OS. I don't know if it is the fact that I don't have a widescreen monitor. I might have to toy around some more with the resolution. Maybe I have a widescreen resolution on my OS."
+,just133,2012-10-24T15:48Z,"@kaworu11 i have the same problem on my m-audio fireware solo, but i plugged my guitar to the unbalanced line input (rear side of my soundcard) to the left channel and now it seems to work, but i can't play notes, even my guitar sounds well"
+,Redante,2012-10-24T18:41Z,I have the same problem with the game stopping to recognize notes during the song. Tried with my audigy 4 and with on-board realtek audio. 16/48 everywhere. Any help?
+,VldMe5,2012-10-24T21:03Z,"Guys, please lend me a hand with something.I've followed the steps to install the game, used piratefrs 's(dude, you're awesome) no cable exe and worked like a charm for a while. Just that, after tutorial(make some noise was a bitch), just when i start playing the first song i choose (or tuning my guitar in-game before playing the song)i get an error and a white screen. I've noticed some other person had the same error, yet no one posted the answer.Please help"
+,redpip,2012-10-24T21:22Z,anyone managed to get multiplayer working with the no cable fix?
+,piratefrs,2012-10-24T22:22Z,"fixed the multiplayer issue, exe coming soon"
+,piratefrs,2012-10-24T22:26Z,"new exe for multiplayer fix, no cable required.
+bayfiles . com / file / p2Kt / 9hE8Es / RocksmithNoCableNew.7z
+
+ollydbg ROCKS"
+,rafaelca,2012-10-25T00:15Z,"I using all executable files post here and don't work.
+
+have a basic tuto for me?
+
+help, Thx"
+,rafaelca,2012-10-25T00:19Z,Cable P2 to p10 work in game? using nocable.exe?
+,kaworu11,2012-10-25T07:19Z,@piratefrs so .exe with different input any time soon?
+,TheRoko121,2012-10-25T08:19Z,"@piratefrs and other good people
+Tried every one of the NoCable exe's, used to lock up at the rating screen now it continues but my sound's completely screwed up, there's some weird noises coming.
+Also it gets into soundcheck (nice bypassing the Real Tone Cable there) but i don't think it recognizes my guitar... Using M-Audio Fast Track, it's probably using the wrong (left) channel or something. Help help help would be much appreciated."
+,TheRoko121,2012-10-25T08:25Z,"Got it working with VAC but in Soundcheck when it gets to the 2nd Make Some Noise, it doesn't want to get the bar going up :P"
+,TheRoko121,2012-10-25T08:34Z,"Got it working but it can't fill the second bar in Make Some Noise... I hear the guitar IN the game, but the game won't listen to it"
+,redmiko,2012-10-25T09:06Z,@TheRocko121 Try going to ur mic properties and put level up
+,clearstatic,2012-10-25T09:25Z,"I would like to thank piratefs for his awesome work! Keep it up, lots of kudos to you!
+
+I finally have got it to work with a M-Audio Fast Track USB Interface.
+
+In short:
+Download RocksmithNoCable exe
+Ctrl-F to find a key folder containing sound card name and label i.e;
+""Input"" in one key
+""M-Audio Fast Track C400"" in another but in the same folder! And rename to Rocksmith USB Guitar Adapter.
+Plug in guitar to input 1 on sound card.
+
+Rock your neighbours socks off!"
+,TheRoko121,2012-10-25T09:34Z,"@redmiko
+yeah its already at 100... i guess i can work it out
+right now i'm having another problem, it used to work ok but now it's telling me i have two devices connected (true, i've enabled VAC and my sound card cause i need them both because when only the sound card is connected it picks up the left channel...) so i'm working that out right now
+but still this crack is showing great progress
+for now ill just screw around in soundcheck making the crowd go crazy :D"
+,TheRoko121,2012-10-25T10:25Z,"Finally got it to work again, this time used an adapter to connect directly into the microphone input on the PC (not using my USB soundcard anymore)
+But again on Make Some Noise the first time it works but then it says stop so i stop playing and then Make Some Noise again but the meter doesn fill"
+,clearstatic,2012-10-25T11:39Z,"@theroko
+I too had the problem with multiple connected devices. I solved that problem by just renaming my USB sound card and using the NoCable exe and NOT the NoCableNew. My card had two inputs. 1=mic, 2=guitar. The game wanted to use input 1, but when I tried to plug in the guitar to that input instead it worked! Then I had to fiddle with the volume knob on both the guitar and sound card a bit. Hope this helps!"
+,redmiko,2012-10-25T11:47Z,@TheRoko121 It was really a bitch for me too. I had to fucking keep strumming and strumming almost took me half an hour to get through
+,TheRoko121,2012-10-25T12:32Z,"FINALLY DID IT
+FUCKING SOUNDCHECK IS SUCH A PAIN"
+,TheRoko121,2012-10-25T12:56Z,Ok great it works except for the fact that sometimes the game just stops registering my notes and also there's latency - not much but it's pissing me off. Any advice?
+,xebato,2012-10-25T13:47Z,"@clearstatic  how did you exactly do it ? 
+And it works with my usb interface too but after a while , everytime , it stops registering notes .
+
+How did you fix that problem?
+
+Could you please add me in Skype or steam 
+Skype : xebat.d
+Steam : sagichnicht3000"
+,TudaOpp,2012-10-25T14:34Z,"So if I want this to work without hassle, I have to buy the original cable?
+Seems like a lot of work to get it to work with all other options?"
+,tzeusd,2012-10-25T16:29Z,"@TheRoko121 and others:
+How did u get past the sound check. The first one is ok, but the second make some noise nothing happens, i tried strumming really hard, even tried every chord i know but nothing happens. I can hear the sound ok but nothing else. Any response to this ? "
+,theonewithboringusername,2012-10-25T16:47Z,"What is the ""correct app id?"" None of the instructions are clear to me..."
+,snpwolf22,2012-10-25T18:04Z,"Hi, after a 2 hours of working it alredy ork for me thats what i do:
+
+1-put the rocksmithnocablenew.exe in the game folder
+2-open window sounds config, and put the min and the output in DVD 16bit 4800HZ.
+3-i rename the rocksmith.ini to rocksmith.old the game make a new .ini
+4- i shut down all the mics an sounds in my pc, i just left the behringer ucg102 (this is the interface i use)
+5-i open the rocksmithnocablenew.exe in administrator.
+
+then the game ork normaly the notes work an everyting is fine, i didnt test too much but maybe it help someone. "
+,Alucardsniper,2012-10-25T19:38Z,"I GIVE UP!!! I tried everything and it did not work! I am always caught in part of Soundcheck where the game recognizes the sound, asks to stop playing, but then again asked to play (MAKE A NOISE) but now without recognizing the sound (asking to increase the volume of the guitar). JUST HAVING THE SOUND OF GUITAR PLAYING!!! I tried changing Crack, tried changing sound input, have disabled, upped and decreases the sound of everything!! Follow all the tips and still does not work! Two days trying and nothing! I give up ... =("
+,Replenish,2012-10-25T19:53Z,"Finally got it all working, and now it says ""Demo"" and just has the demo songs, after applying the crack.
+_____________
+
+Same problem as TevenxD"
+,icetech,2012-10-25T20:49Z,14 hours into this version... crack and game working perfect on 2 machines.. thanks emp
+,Smells,2012-10-25T21:15Z,"snpwolf22: what is ""min"" ??
+Unplug you UCG102 or not ??
+I have UCG102 too,but my is not working with rocksmith.Thanks"
+,tzeusd,2012-10-25T21:19Z,"I still CANNOT PLAY IT, but,
+Let me share you some of my experiences. 
+Installed tinyiso version, used nocablenew crack.
+at first it got stuck at ubi logo, advancing only when alt tabbed. 
+I managed to make it work by changing the rocksmith.ini, with one that someone posted in the comments. 
+I got to the soundcheck, first it recognized my sound, at the second ""Make some noise"" it didnt. Someone helped me and made a few changes in the ini so it works, but now the game has no sound.
+in short: if i keep ForceWDM=0, i have sound in game but it does not recognize the sound i play.
+if i keep ForceWDM=1, i have absolutely no sound in the game(no game sound, no guitar sound) but the game recognizes my sounds.
+Either way i have no way of playing yet. If someone know more about this ForceWDM pls let me know. 
+Also i did disable all recording devices, etc.
+I have an ASUS Xonar DG, onboard soundcard is deactivated."
+,clearstatic,2012-10-25T21:40Z,"@xebato
+I've encountered that problem too. Sometimes the game just don't register the notes. Can't play notes or tune the guitar. I'm not sure but I think it has something to do with whether or not I play in the loading screens. 
+
+It always works if I go back to the main menu and try again without playing before the soundcheck."
+,snpwolf22,2012-10-25T22:08Z,"well the min, is the mic i make a mistake.no i didnt unplug the ucg102,  and mine dint work at the begining, but i do all the things i say here, and i forgot one thing, i change the ExclusiveMode=1 to 0, in the rocksmith.ini.
+
+Now, i have problems again, the game didnt recognizes the notes again, i use the tinyiso version of the game and the behringer ucg102, the rocksmithnocable, need a fix for this, great job doing this btw."
+,TudaOpp,2012-10-25T22:21Z,tzeusd: are you connecting thorrough the 3.5mm mic in?
+,kom1rok,2012-10-25T22:38Z,"@piratefrs : Thank you for the fix !
+It's working for me, i unplugged my microphone and desactivated in my sound panel. The guitar is plugged in the blue jack (input line).
+
+Do not forget to use the .exe from piratefrs (the shorcut on the desktop is not this one by default ... )
+
+-Think to ACTIVATE your device ""input line"", even  if you heard your guitar in the speakers !!!
+-Use a ""clean"" cable, not a shitty one with 2 adaptator and low cost.
+I just played ""satisfaction"" but it's good, no lag or latency
+
+THANKS"
+,TudaOpp,2012-10-25T23:31Z,ebay link for recomended cable?
+,Smells,2012-10-26T00:01Z,"snpwolf22: I've done everything you said but it still does not work.Rocksmith shows ""Realtone cable is unpuged"" Of course I use RocksmithNoCable3.exe
+When is pluged mic all is OK but I have latency.thanks"
+,snpwolf22,2012-10-26T01:57Z,"yeah, at the begining that say to me too, but when i change the sound configuration in advance options to 48000HZ DVD quality, the game work for me.
+
+I found one way to avoid the note problem but is there sometimes, if you put the LatencyBuffer=1 it goes better, but idk if without my interface ucg102 it work. i hope the note problem get fixed :("
+,chiphead,2012-10-26T02:03Z,Any news on DLC?
+,jfms,2012-10-26T02:24Z,"For me the game works fine. I’m using a P10 – P2 cable plugged to the line-in of my onboard sound device (Realtek ALC 892). 
+
+I followed korosiv instructons in page 2, but I’m using RocksmithNoCableNew.exe (posted by piratefrs in page 8). Don’t forget to change the LumaEmu.ini file and set the steam_appid.txt to read only. 
+
+In the line-in properties, I have unchecked “listen to this device” and set the audio format to 16 bits, 48000 Hz. In the Speakers properties, I set the line in level to 100, but keep it in mute, I also set the output of the speaker to 16 bits, 48000 Hz.
+
+In the Rocksmith.ini file, I have LatencyBuffer=2, ExclusiveMode=1 and setting the ForceWDM=1 helped decrease the latency. I still have some latency, but I found that changing MaxOutputBufferSize helps with this. Now I’m searching for the best value to this option."
+,medalcue,2012-10-26T02:27Z,We need some DLC peeps!
+,starstrid,2012-10-26T02:48Z,"yup! dlc would be appreciated!
+does this version have at least pre-purchase DLC like a Heavy Metal Gear Pack and Guitarcades Pack?"
+,sephiam,2012-10-26T04:06Z,"i have a feeling this is gonna help tons of people:
+
+if you're having trouble getting through the 2nd sound check (the game suddenly stops responding to your guitar)
+
+try changing ExclusiveMode=1
+to
+ExclusiveMode=0
+
+in the rocksmith.ini
+
+worked for me
+
+good luck
+
+thank you piratefrs & Sadler1, you are gods among men ^_^"
+,tzeusd,2012-10-26T09:12Z,"@TudaOpp
+Yes i use normal guitar cable in the line in port of my soundcard."
+,tzeusd,2012-10-26T09:18Z,"LE Little progress
+I used exclusive mode, and latency 1, and i manage to get to the first 2-4 notes of the first song. After that. It's all silence the game registers nothing. How do i fix this ?"
+,TudaOpp,2012-10-26T09:50Z,"question:
+when buying a 6,3mm -> 3,5mm adapter, should it be mono/stereo or mono/mono? or it doesn´t matter?
+The output from the guitar is in mono right? The mono/stereo adapter would send the same signal to both channels?"
+,TheRoko121,2012-10-26T09:52Z,"@tzeusd
+I got past soundcheck but I've no idea how;
+I first restarted my computer, then i got into the game (soundcheck failed twice)
+I ran it as administrator and when the first make some noise ended and you see the countdown timer i started playing something just for the heck of it (it's fun to hear the crowd) expecting it to fail again.
+Then the game asked me to mute the wires so i did.
+The countdown starts again, i start screwing with the game.
+After a couple of times i finally let the thing reach 0 and then make some noise worked.
+You could try that, but it sounds so silly "
+,avoroll,2012-10-26T10:26Z,"Is there a way to play two player using piratefrs' method.
+
+Perhaps one guitar into mic, and another into line in?"
+,TheRoko121,2012-10-26T10:34Z,"Got it working, piratefrs and Sadler you are gods, i agree
+If someone can help with latency (right now i'm playing through the onboard realtek thing using some sh1t adapter), I'd appreciate it
+(or if someone could help me make my Fast Track USB use the Left channel or Mono for my guitar)"
+,mrlambo,2012-10-26T11:32Z,"@TudaOpp the guitar cable is mono and the 3,5mm should be stereo, it worked here."
+,Zendal,2012-10-26T12:37Z,"I got it working too, but with the same problem where the note recognition stops working after a moment :(. 
+
+Using ""Nocablenew"" and TinYiso's version on w7 64"
+,sephiam,2012-10-26T13:14Z,"regarding latency:
+
+it all has to do with the rocksmith.ini
+and getting the lowest values to work with
+LatencyBuffer
+and
+MaxOutputBufferSize
+-------------------------------------------------
+without noise and sound cracking (it has to do with how good your soundcard regarding WDM - ASIO DOESN'T WORK AND DOESN'T MATTER!)
+--------------------------------------------------
+LatencyBuffer should ideally be 1
+and MaxOutPutBufferSize has to be divided by 16
+-------------------------------------------------
+try getting it to work with LatencyBuffer 1
+and MaxOutputBufferSize 128
+
+if it gets stuck/the noise crackles, double the maxoutputbuffersize to 256..
+keep going untill it's good
+
+LatencyBuffer has a bigger effect and adds way more latency if enhanced.. so avoid it
+
+
+i'm using 176 and 1
+on my proffesional fast audio card i could only get 512 - 1 which sucks"
+,icetech,2012-10-26T14:00Z,"To the people having sound issues, is this with the real tone cable or some homemade bullshit? I have never had a issue using the real cable..."
+,snpwolf22,2012-10-26T17:57Z,"Is  a homade, with the official realtone there not problems the game run perfecltly, but alot of people didnt have money to buy this cable, or alrey have 1 interface. like me."
+,tzeusd,2012-10-26T19:18Z,I have a normal cable as well. No money for the realtone one.
+,TheRoko121,2012-10-26T20:02Z,"@sephiam
+i have the MaxOutputBufferSize set to 0
+does this make it better or worse?"
+,PPachec0,2012-10-26T20:59Z,Anyone has a fix for notes not beeing registered?
+,Nihon32,2012-10-26T21:08Z,I got the real original cable.. and also I am having the suddently not recognition of notes in the guitar. I think is a copy protection. Not because the cable.
+,dalc789,2012-10-26T22:03Z,"I don't think it's a copy protection, because some people who bought the game and cable have had the same problem on the rocksmith forum.  It might be a software/configuration issue, I don't know."
+,vision139,2012-10-27T00:29Z,"This game is nuked i got everything working with sound but the game just randomly stops recognizing notes
+
+ It seems to me that either crack is nuked or nocable fix isnt really working for some people. 
+
+We need to wait for someone else to just do it right.
+
+I am using Behringer soundcard btw..."
+,sephiam,2012-10-27T03:01Z,"@TheRoko121
+
+setting 0 to either MaxOutputBufferSize or LatencyBuffer just lets the software determine the value itself, automatically, which isn't.. hmm.. precise.
+
+i'd suggest fine tuning manually instead of using 0 on either setting
+
+also, guys getting notes not registering/lossy reception - i'd suggest playing with those settings too.. if either of them (MaxOutputBufferSize/LatencyBuffer) is too low for your sound card to handle, it'll probably won't work
+
+and try ""listening"" to your device (through audio settings) to make sure you don't get too much feedback/noise from your connection. that'll obviously make things work bad.
+
+good luck"
+,SgtMeowmers,2012-10-27T04:13Z,"I doubt the game is nuked. I've been playing nonestop without issues since  the release of the nocable.exe. Got one time the error of notes not registering, but it might have been my fault, probably I just messed up the connection.
+
+ Right now my only problem is that i get some FPS drops during events , it might be a memory/cpu usage issue since my graphics card should be more than enough to run this (hd7870) anyone with the same problem?"
+,Braescher,2012-10-27T05:17Z,"Can't get out of the black screen! Tried setting read only stuff, editing Luma etc. It's just not working for me!"
+,ld666,2012-10-27T05:45Z,"I've been playing this daily using a 1/4"" to 1/8"" mono adapter that I cobbled together by ripping a 1/4"" input jack out of an old tuner and soldering on a 1/4"" connector since the no cable release and haven't had any problems with notes not registering.
+
+the only issue I'm having is some pretty bad visual input lag. This might be what's causing notes not to register for some people. I have to stay about .25-.50 seconds ahead of the note highway to get the notes to register on time. I just play with the groove of the songs to get the timing right. I'm getting almost zero audio lag so I don't get why I'm getting such bad input lag. I've tried using the USB connection on my fender mustang amp and get even worse input lag. I expect some input lag but not as much as half a second.
+
+@SgtMeowmers
+I get some fps problems during events sometimes too using a 5770 overclocked to 990/1400 and a athlonII x3 at 3.6ghz with 4gb of ram. My system isn't amazing but it plays much more demanding games than Rocksmith just fine. A lot of people complained about this happening on the console version too so I think it's just a poorly coded game. It seems to happen mostly when the game zooms out on the note highway to show most of the fretboard. Turning the visual settings to low makes no difference."
+,dilinwe,2012-10-27T05:55Z,"The solution that finaly work for me are below:
+
+1- Changed Rocksmith.ini to new.old to avoid the ubisoft logo freezes at startup.
+
+2- Im using the usb 7.1 external sound device and i get the message that there are 2 devices connected, that problem i solved by connecting the guitar to the fucking mic on my onboard asus notebook conexant cx20671 smart audio hd, then no problems about lag. latency almost perfect, freezes, all working perfect even online.
+
+3- Nothing more changed, the .ini file is default.
+
+4- I have a Ephipone Zakk Wylde model with the bullseyes, moded with a floyd rose tremolo, so to pass the checksound, i only play the tremolo until i get the correct tone.
+
+Cheers and sorry my bad english, im just from The Kingdom of Araucanía and Patagonia."
+,Braescher,2012-10-27T06:30Z,"Managed to make it work by combining TyniIso crack with the NoCableNew. However, I'm having the note recognition problem. I can play like 3 notes in satisfaction. Using a M-Audio USB Fast Track Pro."
+,Braescher,2012-10-27T06:39Z,"Apparently my previous comment was deleted or something. I managed to make it work with the TinyIso crack but using NoCableNew.exe but I'm experience the same problem as many people. The game does recognize the guitar sound on tuning and soundcheck, but only three notes on any song. Playing via M-Audio USB Fast Track Pro."
+,Braescher,2012-10-27T06:51Z,"@ld666 There is video lag calibration at the game menu. But the strange part is, if our problem is video lag, it will  be hard to fix because the came recognizes some of the first notes of the song. It stops suddenly. This can't be calibrated dynamicaly"
+,AnTiS1990,2012-10-27T07:09Z,"I am sorry for my broken English, the problem with the registration of music can be solved by setting ForceWDM = 1 but then disappears in the game sound. This setting tells Rocksmith to use an older audio interface provided by Windows. If this is set, the audio settings for “Exclusive Mode”, “LatencyBuffer” and “MaxOutputBufferSize” will be ignored."
+,TheRoko121,2012-10-27T10:22Z,"@Braescher
+How did you get your Fast Track to work?
+Mine doesn't because the game takes the left channel and the guitar goes through the right channel so I have to connect it to the onboard mic on my PC"
+,applepure,2012-10-27T11:44Z,if someone will buy the dlc's and post them here ill give him a present.
+,sephiam,2012-10-27T12:05Z,"listen guys, professional sound cards and audio devices usually use a technology called ASIO to get minimum latency.. Rocksmith doesn't support that natively - it means that you might get better latency with your onboard soundcard than with your professional one/external device..
+
+Also, if it freezes on the first video (ubisoft) it means the values on you rocksmith.ini are too low. read my previous posts."
+,TheRoko121,2012-10-27T12:37Z,"OK so ASIO drivers are a no for Rocksmith
+But still we need some sort of fix for the non-registering notes halfway through your song
+'Cause if I have a 5-song setlist (and Unnatural Selection is a 7-minute song) it kinda pisses me off when it dies on me after playing for 10 minutes...
+(Sure I'll try it again but that's just because i like Muse)"
+,tzeusd,2012-10-27T13:28Z,"Ok.
+New update. 
+I deactivated my ASUS Xonar DG, and used the onboard sound device. 
+It works, It really does work !!!
+WooHoo !! :)
+Now for the DCL's"
+,redmiko,2012-10-27T13:41Z,"Im guessing everyone who has the same problem with the no note register has USB cord huh? 
+
+SOMEONE PLAEASSEE HELP :D?!"
+,TheRoko121,2012-10-27T13:59Z,"Can ANYONE here play the game relatively without issues?
+I can't get through an event right now because of the non-registering notes.
+Is it possible to get the ForceWDM thing to work?
+Anything? Any help? Anywhere? I'm desperate!"
+,sephiam,2012-10-27T14:58Z,"I've been playing the game for 2 days with relatively no issues.. here and there some notes don't register, but all and all it's alright
+
+i'm using my onboard VIA HD (realtec) line in connection, it has some noise (especially when they add distortion and overdrive in some songs)
+
+had no issue of notes stop registering midway..
+
+i noticed the ForceWDM is kinda like setting BufferSize/LatencyBuffer to 0, meaning everything's automated and delayed.. so i rather not use it.
+
+ExclusiveMode1 also let me have better latency.
+
+when i first started i had my input volume at 100 and guitar volume at 100 and it did register worst then it does now - now i'm at halfway volume on both settings..
+
+again, i advice you to ""listen"" to your device to make sure you have no noise/the connections are good/the adapter is good/you're using your cleanest pickup on the guitar etc..
+
+if it stops registering notes AT ALL midway then it's probably settings (rocksmithini) related, though..
+
+good luck buddy"
+,TheRoko121,2012-10-27T15:14Z,"It's definitely AT ALL midway, not guitar related 'cause I can hear the guitar well.
+Plus, it's a Gibson Les Paul Studio so I seriously doubt we're talking about low-quality guitar issues.
+Here's the .ini:
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=2
+ExclusiveMode=1
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=0
+MaxOutputBufferSize=128
+(video settings are irrelevant, right?)"
+,TheRoko121,2012-10-27T15:17Z,"BTW also using my onboard Realtek crap, but it doesnt have a line-in so I am using a P10/P2 adapter"
+,sephiam,2012-10-27T15:56Z,"err, everything seems okay
+just consider that your latency is a factor of
+MaxBufferSize x LatencyBuffer
+
+meaning what you have now is basically the same as MaxBufferSize 256 and LatencyBuffer 1..
+
+I'd stick to latencybuffer 1, it seems to have a negative effect - placing a higher number
+
+other than that i have no idea.. make sure no other software that might interfere with rocksmith runs in the background, anything sound related.. eliminate windows sounds too and other input devices..
+
+midway writing this comment i realised something - the whole latency-soundcard ordeal is completely output related, meaning i can probably use my Hi-Z low noise professional input device (and audio card) and get better results, as long as i make sure it outputs to the crappy onboard sound card.. i'll come back with results
+
+good luck dude"
+,sephiam,2012-10-27T16:54Z,"ok, so that didn't go as planned but i learned something along the way
+
+switching to the good audio card's input worked, and the notes did register better, up untill they stopped registering after 8 minutes of playing..
+
+meaning any problem you might have has something to do with Rocksmith's compability with your soundcard's input - my line in works well, but my good input sucks..
+
+so now that we know the problem, try updating your sound card drivers / using a different input (if you have any)..
+
+good luck"
+,icetech,2012-10-27T18:44Z,I dont know whats going on with the latency for some people:( I play on 3 machines using a real tone cable and have almost no lag at all... wish it could be figured whats causing issues for so many people... 
+,TheRoko121,2012-10-27T18:54Z,"Yeah I'd try that but the game picks up the L channel from my quality soundcard and the guitar unfortunately ends up in the R channel... No idea how to fix that except by using Virtual Audio Cable but then Rocksmith cries that I have 2 devices connected...
+what happens to me is exactly what you said there ""up untill they stopped registering after 8 minutes of playing..""
+thats what happens to me I can play for a while and then it stops but I can still hear my guitar"
+,starstrid,2012-10-27T18:54Z,"could somebody check is this gear available in game or not? please.
+ 1. SicSicSicS Distortion Pedal
+ 2. Caverb Delay Pedal
+ 3. Scooped Filter Pedal
+ 4. RSMP-12 High-Gain Amp
+ 5. RSMP-12 4×12 Cabinet"
+,TheRoko121,2012-10-27T18:55Z,"@icetech
+we dont use a realtone cable :D"
+,applepure,2012-10-27T20:07Z,"icetech. read this: latency problems are caused by the cable+rocksmith itself and makes it somthing like 130 ms of latency
+im playing with the realtone cable and with some    
+speakers machines  soundcards 
+and the results change all the time
+i have managed to make the game playable as much 
+as i could with my realtek on board card
+ alot of people in ubisoft forums are complaining about latency as well.
+maybe you got lucky with good speakers and soundcard output ..
+Latency will always be in rocksmith no matter what machine you have got.
+
+"
+,SgtMeowmers,2012-10-27T22:08Z,"Someone asked if it's possible to play multiplayer, well it is. I've played a few song with a friend (guitar+bass) but setting everything up was kinda tricky. I have only one line in, so I ended up connecting my friend's bass to the mic in, at first I tried using the mic input on the front panel of my pc but that didn't work (dunno why). Also you have to connect both instruments BEFORE starting the game or it won't work. If you want to play singleplayer afterwards you will have to shut down the game, unplug the 2nd player and restart."
+,moeburn1,2012-10-28T00:56Z,"is there any way to skip the ""make some noise"" section?  even with the volume boost in my recording control panel set to +30db, I can't fill the noise meter.  I can get pretty damn close with constant strumming, but then it seems to fall back down even though I continue to strum even harder."
+,sephiam,2012-10-28T00:57Z,"latency has more to do with your soundcard/cards than with the cable you're using.
+
+but notes not registering - that's a cable/input issue.
+
+and it's good to know you can play multiplayer, awesome ^^"
+,korosiv,2012-10-28T01:30Z,@piratefrs    Thanks dude for the multiplayer fix i'll give it a try but no doubt it will works ;) you're definitly the One :) lot of people enjoyin your work around the world what a great job you've done ;) keep rockin dude keep crakin n take care ;) lml 
+,korosiv,2012-10-28T01:34Z,"@moeburn1      de activate every post effect on mic input ( noise reduction , +30DB amp , n so on ) if u cant fill the ""make some noise bar"" its not cause of your sound too low maybe its due to your guitar sounds too high for mic input , just tune your input level low and avoid post effect on input and it will work i manage to do it on a mic input so you can do it "
+,tzeusd,2012-10-28T01:35Z,"@sephiam
+Not an input issue, more like a driver/hardware issue. 
+I have an ASUS Xonar DG that i use with Guitar Rig and works like a charm with little to no latency. That won't work in Rocksmith. I have to use the onboard Realtek chip. So either ASUS screwed up with the drivers, or Ubisoft screwed up with the Rocksmith. Or the crack team screwed up. Someone screwed up :D"
+,woa997,2012-10-28T01:36Z,dlc not working with nocablefix :< working just with tinyiso crack ;/
+,korosiv,2012-10-28T01:39Z,"@icetec  and others with latency issues  , guys i've noticed 1 important thing , if you are playing with TiNYiSo version of the game you WILL have MORE latency than using Themperror version ( installed steam files ) i've got both and the difference is very big even with same cable/input (realtone or not) so....   "
+,moeburn1,2012-10-28T01:43Z,"I'm having a really weird bug involving the score getting stuck at a very low level.  
+
+I'll be hitting every note perfectly, and my score will go up to about 200 or 300, and then it just won't increase. No matter how perfectly I hit the notes from then on, it's just stuck there.
+
+Is this because of the crack?"
+,korosiv,2012-10-28T01:44Z,"@everybody    if u wanna play the "" nocablefix "" avoid using TiNYiSO version   use Themperror version (installed steam files) should be better cause the fix was made for this version at start ... and don't forget to thanks our lord for this fix PIRATEFRS :) thank u so much dudue :) "
+,woa997,2012-10-28T01:56Z,I dont have any problems with latency on tinyiso release. I do with dlc tho. Songs just dont show up on nocablefix ;/ 
+,moeburn1,2012-10-28T02:29Z,"So apparently my problem is that the notes are being played through the speakers, but the game is not recognizing them at all.  Other than making sure both my input and output are set to 16bit,48khz, is there anything else I can try?"
+,piratefrs,2012-10-28T03:38Z,"@woa997 can you upload the dlcs?
+
+@korosiv thanks man"
+,Off.Barbrady,2012-10-28T06:28Z,"DLC Megadeth:
+http://thepiratebay.se/torrent/7765959/_Rocksmith_DLC_(3-Song_Megadeth_pack)"
+,Mateka111,2012-10-28T08:40Z,"Piratefs, could you please remove the cable checks from the TinyISO crack? Because it works with DLCs, while this Themperror crack doesn't. (just do the same thing to the TinyISO crack that you did to this themperror crack)"
+,Mateka111,2012-10-28T08:50Z,Btw when the game doesn't recognize notes it's not always the game's fault. If your guitar's intonation is NOT set properly notes can't be played properly on the given frets. Check the internet for more information. I just intonated my guitar before playing this game and with Piratefs' crack it works and always recognizes my notes.(I'm using TinyISO with Piratefs crack)
+,woa997,2012-10-28T10:32Z,"@piratefrs
+sorry, got only megadeth from here :)"
+,TheRoko121,2012-10-28T11:22Z,"@moeburn1
+same here"
+,TheRoko121,2012-10-28T11:26Z,"After changing the crack I'm even more f-ed up (i used to use the TINYiSO thing now I'm ugin this)
+can't even play two songs in a row, rocksmith just ignores my playing
+seriously considering buying that cable now...but I can't find it in my country
+also when i exit the game it says that ""rocksmith stopped working"" as if it crashed"
+,TheRoko121,2012-10-28T11:28Z,"@Mateka111
+Yes, BUT if it's about the guitar then it will register your notes but on the wrong frets. So basically it will tell you you are playing the wrong fret.
+To us it doesn't say ANYTHING, it's like we're not playing at all.
+And it's definitely not intonation issues in my case I've got a Gibson LP Studio that i got last month. Maybe I'll try with my previous guitar..."
+,Mateka111,2012-10-28T11:58Z,"Freshly bought guitars are never properly intonated:) Just check intonation. The game doesn't tell you if you're playing the wrong notes, only accepts the right ones. I just intonated my guitar and I never have any problems with TinyISO using this crack."
+,TheRoko121,2012-10-28T12:30Z,"I've checked even the octaves are properly set
+The game tells you if you play wrong (it shows those arrows that tell you go right or go up etc.)
+I'm just hoping this will get fixed"
+,Mateka111,2012-10-28T12:51Z,"How did you check it? The game and the crack is full functional for me, so it would be logical to think the problem is in your audio device or guitar. Btw tell me more about this problem. Does that occur for only some notes or when the problem occurs it doesn't recognize any notes even those that were working before?"
+,moeburn1,2012-10-28T14:30Z,"@Mateka111 - If it was an issue of intonation, the game would recognize that as a wrong note; either too high or too low, and it would show a little icon on the higher or lower fret and tell you so.
+
+Our issue is not intonation, or the guitar playing the wrong notes.  Our issue is that the game suddenly stops recognizing the guitar is being played at all (while still playing it through the speakers)"
+,moeburn1,2012-10-28T14:32Z,"on MY rocksmith, it will work completely fine for about the first 10% of the song.  Then even when the next bit of the song is the SAME notes, on the SAME frets, it just suddenly stops hearing my guitar."
+,vision139,2012-10-28T15:39Z,"Same thing for me the notes that worked just stoped working so its not my guitar its the game or the crack...
+
+I wish i could just buy the cable but its not available in Croatia yet...."
+,moeburn1,2012-10-28T16:29Z,"So unfortunately I did the ""make some noise"" noise check with the ""dc offset"" and ""noise cancellation"" enhancements checked in the windows control panel.  I also had to plug in my MP3 player into the microphone input to get past the ""make some noise"" part because I couldn't play my guitar loud enough to completely fill the bar, I'd get to 90% and then it would just drop back down again.  
+
+Those two factors are probably what's causing the problem.  But if I uncheck the ""dc offset"" and ""noise cancellation"" in the windows control panel, the game doesn't hear my guitar at all for some reason, probably because the noise check calibrated that way.  "
+,woa997,2012-10-28T16:45Z,"ur doing it wrong, cause for me its working like a charm :) check recording volume and your guitar volume. And plug into INline port behind the computer(front panel making noise for me)"
+,Mateka111,2012-10-28T17:14Z,"Piratefs I also noticed that your exe(NoCableNew) also disables Rocksmith Shop, that might be the cause of DLCs not showing up problem."
+,woa997,2012-10-28T17:25Z,"thats not it, on tinyiso it doesnt work too, yet the dlcs are there"
+,TheRoko121,2012-10-28T17:30Z,"Exactly the same like vision139...
+2 Croatian guitarists looking for the Real Tone Cable huehuehue"
+,TheRoko121,2012-10-28T17:31Z,"@Mateka111
+Look at moeburn1's description, he described it pretty well... it stops recognizing COMPLETELY, ANY notes played and the guitar is STILL heard..."
+,Mateka111,2012-10-28T18:19Z,Ok I get it...Now back to the DLCs. Piratefs please make a new exe that allows us to play with DLCs.
+,vision139,2012-10-28T18:33Z,"Internet i am disapoint, i expected that someone else will make no cable fix that actually works...
+
+I guess im just gonna have to buy it..
+
+gg Ubisoft 
+
+bg pirates..."
+,vossenw,2012-10-28T18:43Z,"Thanks piratefrs, Sadler2, korosiv, and others. I have managed to get the fixed no cable exe working but unfortunately the interface i use, M-audio Fast Track, has one channel split into left and right. In other words the mic input is the left channel and the 1/4 input is the right channel - Rocksmith always chooses the mic input. There are a couple others around the web with this problem, but I am sure there are even more who just gave up. Any tips? Thanks."
+,woa997,2012-10-28T18:49Z,Im sure u wont :D
+,Mateka111,2012-10-28T19:12Z,"vossenw
+
+If you can't manage to block mic input then buy a jack adapter(6.3 to 3.5) so you can plug your guitar into mic input."
+,vossenw,2012-10-28T19:16Z,"Its an xlr input, and it cannot be disabled."
+,sephiam,2012-10-28T19:18Z,"hey guys
+
+vision, don't be an a-hole.. piratefs' & sadler's crack works for some, doesn't work for others.. it's more than anyone else on the internetz did, and you should appriciate it even if doesn't work for you.
+
+2.due to the fact i've had the problem mentioned  - notes stop registering mid-game but i can still hear the guitar - with one of my inputs - oddly enough the better one, but the mobo's linein works almost perfectly (90% registering solid),
+
+and due to the fact that basically real tone's cable is just a different audio device,
+
+i conclude that the problem with piratefs' crack has something to do with the input's comparability with Rocksmith.
+
+i doubt anyone would ever create a list of compatible realtone-alternative-linein devices, and even if they do, it might also be a matter of drivers/operating system, but that's the deal..
+
+your best chance is either trying different soundcards/slots for input (if you have more than one) or just buying the damned cable.
+
+consider that you CAN use one device's input and another device's output, and that's preffered if that device's WDM/MME output is better and has less latency.
+
+me? i'm waiting for someone capable of figuring out how to make the dlcs work with nocablefixnew, cause theemperor's awesome and he just released queen's catalog ^_^"
+,vossenw,2012-10-28T19:20Z,The device works as 1 input - Left channel is xlr mic Right channel is 1/4 instrument but they are both 1 input.
+,Mateka111,2012-10-28T19:27Z,"There's a slider in audio settings(not in the game), push it all the way to the right so it will record only using the right channel. It's somewhere in your audio driver's settings.
+
+#sephiam
+
+I'm waiting for the nocable fix too so we can play DLCs:)"
+,sephiam,2012-10-28T19:27Z,"vision, dont be an ahole - piratefs sadlers crack works for some, doesnt work for others - its more than anyone else on the internetz did, and you should appriciate it even if doesnt work for you.
+
+i have a long comment pending on a notepad file explaining my take on the whole thing but this site wont let me post it. err."
+,sephiam,2012-10-28T19:29Z,"due to the fact ive had the problem mentioned of notes stop registering mid-game but i can still hear the guitar with one of my inputs oddly enough the better one, but the mobos linein works almost perfectly
+
+and due to the fact that basically real tones cable is just a different audio device
+
+i conclude that the problem with piratefs crack has something to do with the inputs compatibility with Rocksmith"
+,vossenw,2012-10-28T19:30Z,"Mateka, thanks for the replys. Unfortunately I have tried that which leads me to think that the game is explicitly selecting the Left channel of the input. Any other thoughts?"
+,sephiam,2012-10-28T19:30Z,"i doubt anyone would ever create a list of compatible realtone alternative linein devices,and even if they do, it might also be a matter of drivers or operating system but thats the deal
+
+your best chance is either trying different soundcards or slots for input. if you have more than one or just buying the damned cable.
+
+consider that you CAN use one devices input and another devices output, and thats preffered if that devices WDM or MME output is better and has less latency
+
+im waiting for someone capable of figuring out how to make the dlcs work with nocablefixnew cause theemperors awesome and he just released queens catalog"
+,moeburn1,2012-10-28T20:17Z,"well I've narrowed down the problem.  Every time I try something new, I make a new profile and go through the ""make some noise"" check thing, to let the game recalibrate.  It has something to do with ""DC Offset Cancellation"".  With it unchecked, I can hear my guitar through the speakers in-game, but the game can't hear it at all.  With it checked, the game suddenly works fine.
+
+Originally, I was using my motherboard's onboard Realtek's front mic for input and my Creative SB Audigy for speaker output.  That worked for about 5% of the time, even with DC Offset checked, and then it would suddenly stop working.
+
+So I switched the mic to the  Realtek rear mic for input, and the same onboard Realtek for speaker output.  As long as I had DC Offset Cancellation checked, it was working great!  For a while...
+
+I managed to get up to about 250,000 RSP in about 6 songs until it suddenly stopped working again.  ARGH!!!"
+,moeburn1,2012-10-28T20:19Z,"By the way, for anyone wondering, DC Offset Cancellation can be found my microphone's properties dialog, under the ""enhancements"" tab.  It is present on both the Realtek and the Creative inputs, which leads me to believe it isn't hardware-specific.  But it might only be available on Windows 7."
+,piratefrs,2012-10-28T20:56Z,"The fix for DLC: ul->to   /    ejou57am
+
+
+use with tinyiso crack."
+,piratefrs,2012-10-28T21:20Z,"depositfiles_com   /   files   /   2vd5wwbqx
+
+upped to another server"
+,czpl,2012-10-28T21:20Z,"what about notes stop being recognized problem? 
+In audiodump.txt it looks like this: NSoundInputMgr_Win32::waveInGetDevCaps 0 
+Im using tinyiso version with RocksmithNoCable3DevCapFix"
+,moeburn1,2012-10-28T21:53Z,"not sure if it's related, but the output audio also cuts out pretty often in the game too.  Only for a second or two every minute or so, but it can be pretty annoying.  During that time when the audio has cut out, the game keeps going and (if it was working at the time) continues recognizing the notes you are playing, so as long as you don't need to hear the song you can keep scoring points.  
+
+But it might be related to the notes not getting recognized.  Although if the input was getting cut out, then we wouldn't be able to hear the guitar through the speakers."
+,moeburn1,2012-10-28T21:55Z,"can anyone that has the proper cable for this game confirm the bug we're having?  Where the game suddenly stops recognizing notes are being played, even though you can hear the guitar through the speaker?
+
+That way we could tell if its because of the nocable-crack or not."
+,twinx3,2012-10-28T23:07Z,"piratefrs
+
+man, it's worked
+thanks"
+,Thonace,2012-10-28T23:16Z,This version doesn't work with DLC sadly. You have to switch to the tinyiso crack but you're profiles will have to be restarted.
+,guusert,2012-10-29T00:21Z,"Guys I want to share my experience so far and also ask a question. I've almost no lag or unrecognized notes. Sometimes after an hour it totally stops recognizing the notes. You should restart the game and eventually replug your cable into your PC. But some minigames just won't work. For some minigames the reconizition is really bad. Not that I really care about it.
+
+What I installed and how:
+1. I've installed the TinyISO version+crack
+
+2. I've put NoCableNew.exe (page 8) in the Rocksmith folder
+
+3. I deleted Rocksmith.ini and restarted my PC
+
+4. I plug my cable in in my mic jag on the front (otherwise I might get noise) of my PC before I start Rocksmith. I'm using a 6.3mm male to 3.5mm female plug into my guitar and a 3.5mm extension cable of 1.5 metres.
+
+5. I set the mic volume to 100% +0 dB (+0 dB! otherwise you will get noise)
+
+6. I disable all other microphone devices, like my G35 Logitech headset mic and the StereoMix
+The microphones I use for my guitar are 
+Line-in VIA High Defenition Audio and Microphone VIA High Defenition Audio
+
+7. I run Rocksmith as admin
+
+I've experienced almost no problems so far. To get better latency you can also try plugging the cable in the back of your PC in the blue jag. You might get noise, but the latency is possibly better. Just try out what's the best for you. Maybe it's the red jag on the back of your PC. IDK! To get less noise you can also try to remove as many hardware as possible (mouse, usb sticks, etc.)
+
+I'm gonna try the DLC fix tomorrow.
+
+My question:
+How to play multiplayer? I know piratefrs made a crack for it. But I can't connect two 3.5 mm plugs. I'll have to choose which one I use. Windows doesn't let me use 2 mics. Do I need to use a 3.5mm to USB adapter instead? I don't wanna spend alot of money on an adapter though (very max $30!). Or do I need to rename my cable to something? Help please..."
+,vision139,2012-10-29T01:13Z,"Playing this game trhough mic input must be pretty lame, i know how bad Guitar Rig and Amplitube sound when connecting like that..."
+,twinx3,2012-10-29T03:17Z,change the channel to 16 bit 48000hz
+,moeburn1,2012-10-29T04:06Z,"@vision139, you must have a pretty lame mic input then.  "
+,moeburn1,2012-10-29T04:07Z,"@twinx3, not sure who you're talking to, but I think we all set it to 16bit/48khz a half dozen pages ago..."
+,twinx3,2012-10-29T13:30Z,"moeburn1
+
+sorry, i didn't saw that. i just read in the RocksmithConfiguration. anyway, i didn't refer to you"
+,vision139,2012-10-29T18:08Z,"I just tried to buy Real Tone fucking Cable but guess what noobdy ships in my country. 
+
+WHYYYYYYYYYYY GOD WHYYYYYYYYYYYYYYYYY
+
+
+I wanna play this so bad..."
+,TheRoko121,2012-10-29T19:00Z,"FINALLY!
+It somehow managed to work through this whole day without A SINGLE ERROR!
+
+Now about that fix... can it be used with THIS crack???
+'Cause I really DO NOT want to go through the entire game again just because i switched cracks, I've worked hours to get to this point :D"
+,vision139,2012-10-29T19:15Z,It would be nice that people who got the game working without the cable paste theiy Rocksmith.ini file so that we could see what are we doing wrong...
+,moeburn1,2012-10-29T21:06Z,"well here's my rocksmith.ini, but getting the game to work requires a lot more than that:
+
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=4
+ExclusiveMode=1
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=0
+MaxOutputBufferSize=0
+[Renderer.Win32]
+ScreenWidth=1920
+ScreenHeight=1080
+MinScreenWidth=640
+MinScreenHeight=480
+Fullscreen=1
+VisualQuality=8
+
+Here's what I did, from start to finish:
+
+1) Downloaded the FIRST torrent linked in the description of this torrent, and the ""amp.nif"" that someone posted in these comments (because it was corrupted in the first torrent)
+
+2) Downloaded this crack
+
+3) Downloaded RocksmithNoCableNew.exe from these comments
+
+4) Pasted contents of crack into Rocksmith dir, set ""steam_appid.txt"" to read-only (or the game deletes it when you run it)
+
+5) Game crashes, delete rocksmith.ini, re-run game, game works great! Exit game to go config my microphone
+
+6) Plug my guitar into a 1/4""fem-1/8""male adapter, into my rear motherboard mic input
+
+7) Go into sound control panel, recording tab, right click on every recording device and hit 'disable' on all except the one i'm using (rear motherboard mic input)
+
+8) Right click on rear motherboard mic input (Microphone - Realtek, in my case), click properties
+
+==IMPORTANT==
+9) Click 'Enhancements' tab, uncheck ""disable all sound effects"", check ""DC Offset Cancellation"" and ""Noise suppression"" "
+,moeburn1,2012-10-29T21:07Z,"Whoops #9 and the rest got cut off.  Here's the rest:
+
+
+==IMPORTANT==
+9) Click 'Enhancements' tab, uncheck ""disable all sound effects"", check ""DC Offset Cancellation"" and ""Noise suppression"" "
+,moeburn1,2012-10-29T21:08Z,"
+==IMPORTANT==
+9) Click 'Enhancements' tab, uncheck ""disable all sound effects"", check ""DC Offset Cancellation"" and ""Noise suppression""  I don't know why, or which one it was, but I couldn't get the game to hear my guitar AT ALL without these.  Couldn't even hear it through the speakers.
+
+10) Click 'advanced' tab, select ""2 Channel, 16bit, 48000hz (DVD Quality)""
+
+Thats about all I can remember.  Good luck!"
+,moeburn1,2012-10-29T21:09Z,"[TPB is being pissy and cutting off my comments.  Let's try that again]
+
+well here's my rocksmith.ini, but getting the game to work requires a lot more than that:
+
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=4
+ExclusiveMode=1
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=0
+MaxOutputBufferSize=0
+[Renderer.Win32]
+ScreenWidth=1920
+ScreenHeight=1080
+MinScreenWidth=640
+MinScreenHeight=480
+Fullscreen=1
+VisualQuality=8
+
+Here's what I did, from start to finish:
+
+1) Downloaded the FIRST torrent linked in the description of this torrent, and the ""amp.nif"" that someone posted in these comments (because it was corrupted in the first torrent)
+
+2) Downloaded this crack
+
+3) Downloaded RocksmithNoCableNew.exe from these comments
+
+4) Pasted contents of crack into Rocksmith dir, set ""steam_appid.txt"" to read-only (or the game deletes it when you run it)
+
+5) Game crashes, delete rocksmith.ini, re-run game, game works great! Exit game to go config my microphone
+
+6) Plug my guitar into a 1/4""fem-1/8""male adapter, into my rear motherboard mic input
+
+7) Go into sound control panel, recording tab, right click on every recording device and hit 'disable' on all except the one i'm using (rear motherboard mic input)
+
+8) Right click on rear motherboard mic input (Microphone - Realtek, in my case), click properties
+
+==IMPORTANT==
+9) Click 'Enhancements' tab, uncheck ""disable all sound effects"", check ""DC Offset Cancellation"" and ""Noise suppression"" IMPORTANT, I don't know why, or which one it was, but I couldn't get the game to hear my guitar AT ALL without these.  Couldn't even hear it through the speakers.
+
+10) Click 'advanced' tab, select ""2 Channel, 16bit, 48000hz (DVD Quality)""
+
+Thats about all I can remember.  Good luck!"
+,vision139,2012-10-29T23:14Z,"Thanks man, i guess im gonna try to play trough my mic input, need to obtain adapter first...."
+,moeburn1,2012-10-30T00:17Z,"you might be more likely to have lying around a 1/4"" male to 1/8"" female adapter (used to plug headphones into big stereos/amplifiers) and a 1/8"" male-to-male cord (used to plug MP3 players into speakers and cars and such), if you don't feel like buying one."
+,vision139,2012-10-30T00:36Z,I had one but it broke im just now gonna have to buy another one lol...
+,JapaneaseGuy,2012-10-30T01:51Z,Does anyone have an idea as to why it says it's the demo when I downloaded the full game?
+,warpedcj,2012-10-30T13:38Z,"The best solution I have found is to use the TiNYiSO install files and TiNYiSO crack. No latency, no lag, and all DLC shows."
+,moeburn1,2012-10-30T14:20Z,"@warpedcj, does the TinyISO crack require the USB cable, or can you use your microphone input with it?"
+,moeburn1,2012-10-30T14:22Z,"Whoops, forgot to mention in my instructions, you also need to do this:
+
+""and edit the LumaEmu.ini 
+so that this line:
+
+
+[SteamClient]
+# Set path to steamclient.dll (not the original)
+SteamClientDll = C:steamclient.dll""""
+
+just take out the ""c:"".  As long as steamclient.dll is in the same folder as the game (and it should be if you copied the whole crack, it should just read ""SteamClientDll = steamclient.dll"" and it'll work fine."
+,guusert,2012-10-30T15:05Z,"@moeburn Latencybuffer=1
+Also eventually set MaxOutputBufferSize=1024 . 512 is better, but idk if your pc can handle that.
+Also, I might know how to get the multiplayer to work. I'm gonna test it this weekend."
+,guusert,2012-10-30T15:09Z,Oh yeah @vision139 I'll never buy a cable for $30! I'll pay $5 max for that shit. And you'll have a big chance you'll still have a latency problem with that cable.
+,TheRoko121,2012-10-30T20:04Z,"@vision123
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=2
+ExclusiveMode=0
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=0
+MaxOutputBufferSize=0
+[Renderer.Win32]
+ScreenWidth=1920
+ScreenHeight=1080
+MinScreenWidth=640
+MinScreenHeight=480
+Fullscreen=1
+VisualQuality=8
+All effects on the mic are disabled
+P10-P2 adapter
+Good luck
+I wish this shit came to Croatia"
+,TheRoko121,2012-10-30T20:15Z,"PLEASE
+PLEASE
+If someone knows where the save games are located I'd be happy to hear
+'Cause I don't want to switch cracks and lose all my saves and scores and shit
+Thanks"
+,Demonsthere,2012-10-30T20:32Z,"Hey guys, after the tutorial posted up the game is working just fine , latency is great, but I got a problem a few people in this thread had, but no answer was given. 
+After using the NoCableNew crack from piratef the game brings me after the sound check, to tuning and after tuning all string when you are about to test all of them I get a white screen and the .exe stops working. Any advice ? "
+,vision139,2012-10-30T21:31Z,I would be glad to buy the cable for 30 bucks if i had the privilege to do so in this shithole of a country....
+,Demonsthere,2012-10-30T22:22Z,"Edit :
+I used the moeburns tutorial and program gets crashed after playing the first of second tune in any song or even during tuning. Any advice ? "
+,wass08,2012-10-31T15:36Z,"I've got the same problem """"a cable has been unplugged"" with tinyiso and RocksmithNoCableNew.exe
+
+I followed the tutorial page 13, and can't get it.. 
+I have a presonus AudioBox USB and my guitar is plugged in, what should I do?"
+,kom1rok,2012-11-01T00:37Z,"@wass08 : use the last fix provided by piratefrs , page 13 : ""The fix for DLC: ul->to / ejou57am""
+The game should totally ignore the cable presence.  Even if nothing is plugged or activated, my game runs"
+,wass08,2012-11-01T11:01Z,"@kom1rok : Thanks for your answer but I still have the same error.. Is there a file to modify or something else to do? I can't hear my guitar, and it says the cable is unplugged, but with the crack I shouldn't have this problem.. "
+,DarkKnight_6,2012-11-01T12:10Z,"Okay IT WORKS!!!!
+Now I followed the instruction on page 14 by moeburn1 (thank you very much)
+I'm using my homemade cable not the super expensive usb.
+Now this is very important i didnt have a enhancments tab and everything worked fine so don't get alarmed if you dont have one.
+You have to follow exactly how he said step by step. Now i noticed a couple of things i was playing for hours and everything worked fine and then when i entered the game again notes stop working but then again next time everything worked fine.
+Make sure you disable all recording devices except the mic in. YOUR GUITAR MUST BE PLUGGED IN THE MIC IN IN THE BACK.
+Make sure you dont have your browser open close EVERYTHING when you enter the game.
+I also right click on your speaker properties and select dvd quaility there not sure if it does anything but i did.
+I also downloaded the dlc crack here and that works fine aswel.
+Any other errors your getting is because you havent followed the instructions closely or you havent set up that your using the mic in. Il be watching here the comments and try to help in any way possible :)
+Good luck
+p.s. Thank you Themperror for an awesome torrent your the only one who got this game working all credit goes to you :)"
+,Selphiphi,2012-11-01T17:07Z,"Hi folks!
+Since I had some difficulties to get the DLCs (search 40 songs rocksmith on Piratebay) to work properly in my game, I registered to say thank you ('cause everything works perfectly now) and explain what I did if some of you have problems to get those awesome DLCs :
+
+1) If you have no 'Content' folder in your Rocksmith directory, create one named like this, then copy all the .dat files inside.
+2) ... Yet it might not be enough! Remember to do some editing in your LunaEmu.ini file (if you got Themperror's version of the crack, of course).
+The important parts of this file are the [Log] (very useful to spot functionning issues) and the [DLC]. I set mine like this:
+
+[Log]
+# Create LumaEmu.log and LumaEmu_Steamclient.log
+LogFile = 1
+
+[DLC]
+# Use this if you see the line ""BGetDLCDataByIndex"" in the log file.
+AppID = 205190 #You'll find this value in the steam_appid file, if you wanna be sure
+
+The AppID was useful for me since I was getting the error mentionned here in my log files, and the DLCs couldn't load inside the game.
+
+3) If it's still not working (no DLCs in the songs menu of the game, damn) go on and replace your game launcher (Rocksmith.exe) by the one you'll find here :
+depositfiles_com / files / 2vd5wwbqx (remove spaces, change _ to .)
+It does fix the DLC loading issues I encountered. (/! don't forget to make a copy of your olds file everytime you replace some, just in case.)
+
+4) YET, it is a double-function crack, 'cause it also allows NoCable playing.
+I didn't mean to enable this feature but it was part of the crack and I really wanted these DLCs. So right after I got the crack to replace my launcher, and launched the game, I saw the DLCs in my songs list. Hurray!
+BUT! When I wanted to play some guitar, the game started telling me I had several instruments connected to my PC, and that I should keep just one plugged in.
+I assume this is because the NoCable part of the crack enables another mode of recording, or something.
+To fix this issue, go to the sound mixer of your computer, to Recording Devices, and disable every item in the list except the Rocksmith plug.
+This should finally do the trick, I personnally could play perfectly, once I got through all this :)
+
+ I hope my research will help some people saving time when trying to install DLCs. Thank you again Themperror, you rock! m/(>_"
+,Demonsthere,2012-11-01T19:30Z,"@ DarkKnight
+I have done everything acording to the tutorial, using the mic input and a jack/jack adapter. Set the mic and all is good but the game (NoCableNew) crashes after the second tune played. Any suggestion to that what could be wrong ? I am running it on a laptop win7 and the version of skidrow / tinyiso "
+,vision139,2012-11-01T20:03Z," Try messing with the ini. file.
+
+For me game isnt working no matter if i use my usb guitar link or connect guitar in the mic input, i allways get the same shit. It just stops recognizing notes after 30 seconds.
+
+I am using Creative Audigiy moded drivers that might be the problem..."
+,WhiteTemplar,2012-11-01T20:14Z,"I have a Berhinger Guitar Link USB too and it stops registering inputs too :/
+My guitar is well intonated(just checked it) so I don't think it comes from here."
+,DarkKnight_6,2012-11-01T22:15Z,"@Demonsthere
+I am using the game from the description and i suggest you use the same one i know its a pain to download but you know that might be also an issue so to make sure you need the one from the description from this torrent. I was using the same one like you but the notes wouldnt register.
+Everyone has to realise that these people who created the crack did it one single setup and it worked for them so our job is to recreate that anything different and there is no quarantee that it will work good.
+p.s. if your laptop crashes after 2 songs it might be for different reasons how is it playing other games? might be a laptop problem ( overheting, old graphics drivers ) you have to know that almost all of us couldnt even play 1 song all the way before some kind of problem happened.
+Im here to help in any way i can :)"
+,DarkKnight_6,2012-11-01T22:18Z,"One more thing if your intonation is off you will still notice that rocksmith is getting your notes and will tell you that you should play higher or lower cause the detuned intonation sounds a little bit lower of higher tuned note. But when it stop registering you will just see that no matter what you play and how you play it its like not even playing.
+p.s. i also noticed sometimes when you mess around with the volume know or strum the strings too hard during the loading and menu notes will stop registering who knows why"
+,smk3D,2012-11-01T23:42Z,"I'm also getting the non registering notes after a couple of seconds problem, I have the Tinyiso release with the nocable crack.
+
+I'm on a W7x64 machine with an Audigy2 soundcrap, card*"
+,Demonsthere,2012-11-02T09:44Z,"@DarkKnight 
+The laptop is ok, it is a decent lenovo bought laast year and is capable of running Wither 2 with 75% graphics. The laptop is not crushing but the crack file (NoCableNew) and not after a song, after the first, sometimes second tune played. Interesting is that if I don't play at all the game works... Can there be an issue in the tone recognition that causes an crash ? "
+,alexusm,2012-11-02T13:08Z,"Is there any way to use Line-In instead of Mic-In?
+
+I'm using ASUS D1 sound card. In Mic mode i have background noise, so i cant go through 3rd check, where u must tune the guitar. In Line-In mode sound is clear, but game cant recognize notes during 2nd ""Make some noise"".
+Anyone know the solution?"
+,wass08,2012-11-02T13:12Z,"Okay now it works but I've got the registering notes problem, if I put the game on ForceWDM=1 it works fine for registering notes, but I don't have sound.. 
+Any solutions? I tried every one solution in the comments !"
+,kom1rok,2012-11-02T13:54Z,"I used the cable in mic-in but it's annoying to re-set my mic when i want to use teamspeak or mumble ...
+So i put the cable in line-in, checked if this entry is properly active in the sound panel, and i had desactived other devices.
+
+My rocksmith.ini contains this : 
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=4
+ExclusiveMode=1
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=0
+
+Line-in at 100%"
+,WhiteTemplar,2012-11-02T21:42Z,"Okay so I finished downloading Themperror's version and notes are perfectly recognized (played 7 songs in a row, Guitarcade made notes crash, nothing this times).So the bug may come from TinyISO's version."
+,guitarico34,2012-11-03T11:58Z,"hi, 
+quiet perfect for me , except i would like to use my ugc102 berhinger instead of micro in cause the sound is awfull , got lot of noise (even with noise reduction active which is like a noise gate so, difficult to play long sustain note)
+
+So, i have tinyiso version with the latest nocable-DLC fix crack and have all dlc active (thanx for the great job... )
+
+The problem is with my usb ugc102. Note detection is not working ( like others, first notes ok, and nothing after.... )  But the sound of guitar is working perfectly, no noise, perfect like when playing whith guitar rig 5.
+
+DOes anyone have solution ?
+
+WhiteTemplar, what about your solution ? DOnt understand the difference between emperor version and tyniso cause the emperor crack not working for me. Have a steam app id error at launch .
+"
+,WhiteTemplar,2012-11-03T12:42Z,"Did you follow Moeburn's instructions on page 14? (the one which starts with TPB is being pissy) and the comment a bit later ?
+Try doing a full clean install. I didn't think it would work changing from TinyISO to Themperror neither but it did, I still don't know why tho, it just does)
+
+Good luck!"
+,moeburn1,2012-11-03T22:49Z,"Glad to see I was able to help so many people!  I hate it when theres like a million steps to follow to get a game/crack working, and when people have been following the comments from page 1 finally get it working, they don't let anyone else know how they did it.  And worse yet, when you ask, they just say ""if you bother to READ, your question has been answered before!"" yeah not all of us want to sift through 15 pages of comments all at once just to get the game working.  
+
+Lemme know if anyone figures out why, or a fix for, the game suddenly stops recognizing notes despite the sound still playing through your speakers!  I managed to get through 7 songs and +150,000RSP, thinking ""okay the game is working great I finally got it working 100%"", and then I switched from career mode to go and practise a song from the list of songs and it suddenly stopped recognizing notes altogether.  "
+,tzeusd,2012-11-04T09:08Z,"The note thing happens to me too. I won't post here the settings i use, they are like everybody in here(almost). The thing that bothers me most, and i haven't found a solution yet is that when i use line in the game stops recognizing the notes on the first song. Although i can still heat the sound my guitar is producing, just like anyone else here. If i use Mic input, All works fine, but i have a terrible noise on the high gain/distortion songs. And i don't know how to get rid of it. Anyone has a solution to one of this problems yet?  They are very annoying. I did read trough these comments pages, but so far nothing works."
+,wass08,2012-11-04T11:36Z,I tried with Themperror instead of TinyIso version and still the registering notes problem.. Why the fuck it's okay in the test zone and in the game the notes aren't registering !!!!
+,WhiteTemplar,2012-11-04T15:23Z,"I'm starting to give up, my usb guitar link is 2 channels and it looks like I need one channel but I can't change this(well I can in amplitube but it won't apply in windows or anything).
+It worked flawlessly yesterday but it doesn't work anymore now :/
+I don't get any of this, guys who own the cracked version but the real tone cable do you have any problems?"
+,WhiteTemplar,2012-11-04T16:51Z,"Nah actually it doesn't look like it comes from the 2 channel thing, with a jack adaptor (= not my guitar link) it works fine."
+,peyol,2012-11-04T19:22Z,"Hello guys, I think I found a way to bypass a annoying bug with regognizing notes. I have spent all day on that, and for me recipe was changing the line in on microphone in in my Realtek Hd Audio Driver. Now I don't have that problem and don't have fcking noise that was in microphone. :} I hope it will be useful for you and sorry for my shitty English."
+,smk3D,2012-11-04T22:06Z,"Still not working for me, tried this version, looked good at the start but same not recognizing after first two notes"
+,vision139,2012-11-04T22:48Z,"I also finally managed to get the game working properly with my usb berhinger guitar link, 
+
+What i did is i switched to my onboard realtek soundcard and disabled Creative Audigy. 
+
+The game is playable but after few songs it stops recognizing notes then i just restart the game and it works again..."
+,smk3D,2012-11-05T02:32Z,"YES! thanks vision139, I disabled the audigy, and worked! nice. It stops recognizing in the techniques and mini games, but the songs work flawlessly"
+,WhiteTemplar,2012-11-05T11:40Z,"Ok it works again for me(berhinger usb guitar link) I uninstalled every drivers of it (you have to do it in device manager and in the usb category too and check delete driver's files too)
+
+But it stills only work on Themperror version so I think there really is some kind of problem with TINYIso's version.
+I'll try with official berhinger drivers installed now and see what it does but basically with windows' native driver I could ask for 1Channel so the issue may come from here actually."
+,snpwolf22,2012-11-05T16:32Z,"Ok WhiteTemplar i have the usb behringer too, with the themperror version it recognice all the notes???? or the problem is still there?"
+,WhiteTemplar,2012-11-05T17:32Z,"Works fine on my desktop but not on my laptop(well it's really bad, 30fps in low and low res :D ) no problem, but I don't really know how to explain what I did :/
+I'll play some more to make sure this really works."
+,spr333,2012-11-06T04:11Z,"MY FIX FOR THE NOTES NOT REGISTERING:
+
+Close more programs!  I was having the problem with notes not registering partway through a song (still could hear the guitar).  I closed Skype and immediately the problem went away entirely.  My guess is that Skype (and probably other programs) try and access the recording device in some way which somehow breaks the exclusive lock on the device.  So try closing other programs, especially any programs that might potentially use microphone input."
+,spr333,2012-11-06T04:13Z,"Also, my setup is:
+Tinyiso version
+Plugged into line in input on motherboard
+
+I tried (much much earlier) with an M-Audio FastTrack Pro on my laptop but had no success there :/"
+,DarkKnight_6,2012-11-06T23:10Z,"I'm glad more and more people are getting this to work.
+So to sum up it works (for most of the people) with these rules. You have to have this steam version of the game from the torrent description, your guitar needs to be plugged in in the mic in NOT the line in.
+Disable all recording devices except the mic in.
+CLOSE all programs running in the background like skpye, internet browser and etc.
+For people using the mic in and have noise look your gonna have noise ether way your using an on board sound card try disabling microphone boost in the microphone properties. I also noticed a big thing it has to do with your output if i play on my speakers everything works fine if i try my headset it doesnt anymore. So keep that in mind disable all third party software for sound. Hope it helps :) Good luck !!!!"
+,WhiteTemplar,2012-11-07T15:24Z,"When I use my guitar link with windows' native driver it's recognized as mic in, so +1 for mic in instead of line in)
+And +1 for Themperror's first link too :D
+But I can play fine with Skype in background :/"
+,guitarico34,2012-11-07T17:46Z,"whitetemplar : could you please explain how you get a native windows mic-in driver ? 
+i tryed to uninstall the behringer usb driver, but after, no way to install another driver to this new usb device found by the sytem ?
+can you explain a step by step guide to do this ?"
+,WhiteTemplar,2012-11-07T19:21Z,"Go into Computer(Right Click) then go in manage then device manager, and unroll USB bus thing and audio, video, and game controllers then please do a screen.
+But if in recording devices your usb guitar link is recognized as X(as a number)-Mic device or something like this it should be fine, but I don't know if it stills works fine I didn't try enough."
+,Alucardsniper,2012-11-07T22:13Z,"Finally!! Now is working!! Without any error!!
+After days trying various configurations, Cracks and other things, FINALLY WORKED!!
+How?? I just bought the official cable from Ubisoft!!! :P
+No more problems to me! ;) 
+But anyway, thank's all who tried to help...
+( bad english )"
+,Keishee,2012-11-09T13:57Z,Any news for the notes not recognized issue?
+,tein076,2012-11-09T20:19Z,"I finally managed to get the soundcheck to start, it told me to strum and i did than it told me to stop, and than strum again but the second strum part didnt pickup any sound for some reason, anyone know whats wrong? (im using no cable crack)"
+,Keishee,2012-11-09T20:49Z,"Follow the moeburn1 tuto p14
+i managed to play like 30mins, then the game stop recognizing the notes"
+,Kyo3000,2012-11-10T01:06Z,"Heya! I downloaded this torrent and the first link: ""Steam files"". Question is, what do I do? Is it all in just this one pack? OR do I have to go on and install it?
+
+Two, I'm reading through all of the comments. I'm seeing that you gotta go and change some file names and shiz... Can someone provide specific instructions and locations for windows users? It would be very much appreciated. 
+
+The mediafire thing? Is that something to actually download because I cant find it anywhere or the file I have to change. 
+
+~~~~~~~~~~~
+
+Let me just quote : ""here is a proper tutorial and the way it worked for me:
+1. Download http://thepiratebay.se/torrent/7745402/Rocksmith_Installed_Steam_Files
+
+and unrar it into any folder you like. u will notice that 1 file is corrupted. press close and it will continue unraring.
+
+2. replace the corrupted file with this file:
+mediafire.*** /?b2mm9gxobkce225
+change the *** to com
+
+3. extract the file into
+......RocksmithBaseGRAssetsGR_PropsGR_AmpJC
+
+4. Download: http://thepiratebay.se/torrent/7748964/Rocksmith_Crack_(By_Themperror_and_Sam2k8)_CRACK_ONLY
+
+you can open this rar with winrar and extract it into the games main folder
+
+5. open with double click LumaEmu.ini and change the last row into the address that SteamClient.Dll is in. it should be in the games main directory by now..
+last row should be: SteamClientDll = (The place u extracted)Rocksmithsteamclient.dll
+press file save
+
+if the game gets stuck at start you need to change your playback sound configuration. there are some formats that wont work. 
+also update your drivers.
+
+6. right click on steam_appid.txt -> properties and check read only.
+
+and the run the game like a pro.
+enjoy 
+real thx to all the people that helped, you are awesome.""
+
+Awesome instructions, but I still don't get it. Sorry, but again, do I use skidrow's iso to install and alter it or do I download the demo from steam? OR none? I'm not used to this, thanks in advance! "
+,Keishee,2012-11-10T10:38Z,"@Kyo3000
+
+1) Download that http://thepiratebay.se/torrent/7745402/Rocksmith_Installed_Steam_Files
+When finished, extract it, it will say something like 'zomg file corrupted', ignore that for the moment
+
+2) Download that mediafire.***/?b2mm9gxobkce225 (Replace *** by com)
+And put it in   Rocksmith / Base / GRAssets / GR_Props / GR_Amp/ JC
+This folder is located in the folder you just created by extracting the .rar
+
+3) Download http://thepiratebay.se/torrent/7748964/Rocksmith_Crack_(By_Themperror_and_Sam2k8)_CRACK_ONLY
+Extract it and put all the files in the Rocksmith folder
+
+4) Open the 'LumaEmu' file (which is in Rocksmith folder now) and edit the line
+[SteamClient]
+# Set path to steamclient.dll (not the original)
+SteamClientDll = XXXXX
+So that the XXXXX point where the file 'Steamclient.dll' is located
+exemple: for me it's 
+SteamClientDll = C:/Program Files (x86)/Rocksmith/steamclient.dll
+
+5) Right click the 'Steam_appid.txt' file, then click properties, and finally check ""READ ONLY""
+
+6) To play without the USB cable the game needs, download 
+bayfiles . com /file/p2Kt/9hE8Es/RocksmithNoCableNew.7z [Erases the spaces]
+Unrar it and put it in the Rocksmith Folder
+
+7) Plug your guitar into Line in OR mic input
+
+8) In the sound control panel, click the 'Recording tab' and disable (Right click - Disable) everything except your guitar (Which is 'Line in' or 'something mic realtek blabla')
+
+9) Right click - Properties on your guitar then Click 'advanced' tab, select ""2 Channel, 16bit, 48000hz (DVD Quality)""
+
+It should run now"
+,WhiteTemplar,2012-11-10T10:44Z,Specific instructions on page 14.
+,Sant237,2012-11-11T15:17Z,"I've done everything right, but when i try to start it a box pops up and says
+Rocksmith.exe - System Error
+The program can't start because MSVCR100.dll is missing. What do i Do??! PLEASE HELP"
+,Sant237,2012-11-11T15:30Z,"ok i fixed that problem sorry ,newbie here >"
+,Sant237,2012-11-11T15:31Z,"When i try to run the game a box pops up snd say something like making sure steam is set to run?
+What do i do??!"
+,Sant237,2012-11-11T15:48Z,"Also, how do i get the Steam/steamapps/rocksmith?"
+,Sant237,2012-11-11T15:49Z,Also how do i get Steam/steamapps/common/rocksmith? o.O
+,vision139,2012-11-11T19:19Z,You need to crack the game right it depends on where did you install it. 
+,PSPbr,2012-11-14T00:44Z,"Soo, anyone got past the notes problem?"
+,Keishee,2012-11-14T18:54Z,"@PSPbr
+I don't have it anymore actually.. I don't really know why
+
+I use this config
+[Audio]
+EnableMicrophone=0
+LatencyBuffer=2
+ExclusiveMode=1
+ForceWDM=0
+ForceDirectXSink=0
+DumpAudioLog=0
+MaxOutputBufferSize=0
+
+My guitar is plugged in Line in (volume 100%) 16/48"
+,PSPbr,2012-11-15T14:02Z,"@Keishee 
+I am using my guitar through a USB device, that might be the problem, the guitar sound is just beautiful in game, but then there is this problem.
+
+Ill buy an ""p10 - p2"" adaptor to plug in the guitar, is that what you are using?"
+,Keishee,2012-11-18T11:44Z,"@PSPbr
+
+Yep, in line in
+
+But i think my problem was that i was using my Corsair vengeance headset as the main speakers (they have a built in soundcard)
+
+now that i'm using a normal headset without integrated soundcard, the sound is less good, but no more notes being not recognized"
+,ralf0,2012-11-21T20:01Z,OK I've odd problem with detecting guitar. I can't go past a soundcheck. I'm plugged through line-in and vol is maxed up. Everything works on normal amp.

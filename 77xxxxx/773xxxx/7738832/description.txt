@@ -1,0 +1,58 @@
+Kubuntu is a GNU/Linux operating system built by a worldwide team of expert developers. It contains all the applications you need: a web browser, an office suite, media apps, an instant messaging client and many more. It's based on KDE Plasma desktop and KDE software. This is a Long Term Support release.
+
+
+
+Kubuntu 12.10 Highlights
+
+
+1GB Images
+
+We're bursting out of our increasingly limited CD-sized images. The 12.10 images need to be installed from a DVD or USB drive. This will give us the room to ship more of the world-class KDE Software.
+
+
+KDE Plasma and Applications 4.9
+
+The latest release of KDE's Plasma Workspaces and Applications brings new features and improvements all around. Highlights include further integration of Qt Quick in plasmoids making them more attractive, easier to enhance and extend and behave better on touchscreens. Dolphin file manager has improved its display and sorting and searching based on metadata. Deeper integration of Activities for files, windows and other resources. Kontact PIM suite sees bug fixes and performance improvements and introduces new tools to import mail, filters, account information, calendar data and address book entries from Thunderbird and Evolution. A mail backup and restore tool has also been added. Okular document viewer and Gwenview image browser both also see added functionality and improvements.
+
+
+New Software Selections
+
+We have added some new software to the default setup.
+
+Calligra Suite
+We have added two world class apps from KDE's creativity suite. Krita is a painting programme to draw beautiful image and manipulate your images. Kexi is a desktop database application, suitable for large use or a small home address book.
+The Calligra site includes many other applications for document and creative use, install from from Muon Software Centre to try them all.
+
+LightDM-KDE
+We have replaced the login manager with LightDM which uses shiny QML based themes.
+
+KDE Telepathy
+Telepathy-KDE replaces the unmaintained Kopete as the default IM client. This new and active software project provides for easy access to Facebook, Google, Yahoo and many other instant messaging protocols. Version 0.5 brings new video and chat log support, in-line images in chats and some user interface enhancements. Run it from KDE IM Contacts from the K-menu.
+
+Skanlite - scanning
+Now included on the image is Skanlite, KDE's simple image scanning application
+
+Kamoso - camera
+Use your webcam to make video recordings or snapshot photos using a simple interface that makes it very easy to use.
+
+Kde-Config-Tablet
+We have added a Wacom configuration tool for those with tablet input devices, this needs testing by anyone with the hardware necessary and feedback let for us.
+
+OwnCloud
+OwnCloud 4 adds a host of new features to the cloud platform including shared calendars, easier sharing of files and a prettier photo gallery. See http://owncloud.org/changelog
+New in this release is owncloud-client, a desktop app to sync your folders to your OwnCloud.
+
+Print Manager
+A new manage and admin tool for printers. Print manager adds a Plasma UI to the panel applet.
+
+Colord KDE
+A new tool to calibrate your screen, webcam and printer colours.
+
+GTK Configuration
+GTK Configuration replaces GTK Settings to tweak themes of GTK applications and lets you set both GTK 2 and newer GTK 3 applications.
+
+Kontact Facebook and Google Integration
+Kontact now integrates with your Facebook and Google addresses and calendar through akonadi-facebook and akonadi-googledata.
+
+Kubuntu Active
+Still in Tech Preview but with an updated version of Plasma Active, the tablet remix of Kubuntu has images available with this beta.

@@ -1,0 +1,57 @@
+Uploaded by: Torrentgame.info
+
+
+IMPORTANT: I have NOT tested this and will not be responsible if you brick your PS3, However it has come from BG and that is a respectable source.
+
+Rogero v1.09 Details and Changes
+
+    Compatibility problem with some Slim models (CECH-25xx) is now fully fixed.
+    XMB Icons problem from in-game PS button is now fixed.
+    Loading games from App_home Icon is now fixed.
+    Many other fixes from version 1.00 for a better performance and added stability.
+    It was tested by hundreds of testers on all PS3 models (FAT & Slim) and no problems were encountered.
+    It can run games signed with Keys up to version 4.21 without any Eboot/Sprx patching needed
+    Games can be loaded from Disc Icon (with Original game in BD) and from app_home (Disc-less, but not all games).
+    Current 3.55 homebrew applications can't be loaded on this CFW, applications must be re-signed properly for FW4.21.
+
+ATTENTION:
+
+1- This CFW doesn't have LV1 checks disabled and can't be installed on Downgraded PS3 consoles unless you have Dehashed/Reset Syscon Properly (if you're not sure about your PS3, Dehash it anyway to avoid any risk)
+
+2- Always make a NOR/Nand dump using multiMAN or memdump before installing any CFW to have a recovery backup in case of any bricks. Having a valid NOR/Nand dump is an essential step before upgrading, because you will always have a way to recover (using hardware flashers) when you have a valid dump.
+
+** A Hardware Flasher alone without a valid dump cannot fix your bricked PS3 **
+
+3- The QA flag must be always Enabled on your PS3 for safer upgrading/downgrading operations. Link:
+
+4- Always use the Recovery Menu while installing this CFW to avoid possible bricks (XMB update works, but Recovery Menu is safer).
+
+6- Please Check the MD5 of the downloaded PUP file before installing any CFW to avoid possible bricks.
+
+7- DO NOT HAVE DISC IN PS3 WHEN UPDATING FIRMWARES.. As the PS3 will take the UPDATE from the DISC First.
+
+8- You need to already be on 3.55 to install this. Installing from any firmware other than 3.55 will simply not work
+
+Downgrading back to 3.55 is always possible using the following steps:
+
+    Download the 4.25 downgrader PUP: 4.25 Downgrader Size 176MB
+Link:
+    Rename the downloaded file to "PS3UPDAT.PUP" and put it on your USB in: "USBPS3UPDATEPS3UPDAT.PUP"
+    While on Rogero CFW4.21, go to System Update from XMB and install the 4.25 downgrader CFW.
+    Once installed, now put "Rogero CEX-3.55 CFW V3.7" on your USB in: "USBPS3UPDATEPS3UPDAT.PUP" ---> Rogero CEX-3.55 CFW V3.7.PUP
+    Start the PS3 into Recovery Menu and install "Rogero CEX-3.55 CFW V3.7" (from Recovery Menu, this is important)
+    Once the install is finished, you're now back on Rogero CFW3.55 v3.7 (from here it's better to dehash again before installing any other OFW/CFW 3.55)
+
+Updating from CFW4.21 v1.00 to the CFW4.21 v1.09 should be done using the following steps:
+
+1- Proper Way (CFW4.21 v1.00 --> CFW3.55 --> CFW4.21 v1.09)
+
+    Downgrade back to ver3.55 using the guide above.
+    Once on Rogero CEX3.55 v3.7 you can update again from Recovery Menu into the new CFW4.21 v1.09
+
+2- Alternative Way (CFW4.21 v1.00 --> Recovery Menu --> CFW4.21 v1.09)
+
+    You can try updating from CFW4.21 v1.00 to CFW4.21 v1.09 from Recovery Mode first.
+    If it didn't work, then you'll have to use the first Proper Way (CFW4.21 v1.00 --> CFW3.55 --> CFW4.21 v1.09)
+
+Credits to eussNL and the PS3 Dev Wiki for the valuable and always up-to-date source of information. Credits to Deank for his continuous efforts on Multiman and many other PS3 tools/fixes.

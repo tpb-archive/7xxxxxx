@@ -1,0 +1,22 @@
+FTP Synchronizer can synchronize files between local computers and remote FTP servers. FTP Synchronizer will identify changed web pages automatically so you don't need to pick and upload them one-by-one via normal FTP client. It has all of the necessary functions for updating web sites!
+
+Main Features:
+
+Only changed files will be synchronized!
+Unlike other software which copy all files every time, even if they are not changed. FTP Synchronizer syncs changed files only. It'll save a lot of bandwidth, and more important, your precious time.
+
+Automatic FTP sync. Sync files automatically without user interaction and receive email notification when it's completed. You can use any scheduler, e.g. Windows Task Scheduler, to automate FTP sync and run FTP Synchronizer as a Windows service
+
+Secure FTP connections, SSL and SFTP , ensure nobody can see your data during transfer. And integrity verification makes sure your files will be synchronized 100% correctly .
+
+High performance multiple connections file transferring
+Uploading/downloading multiple files with different servers at the same time.
+
+Handle different time zone
+Synchronize files correctly even if the time zone between local computer and FTP server is different.
+
+Conflict detection
+How about if you modified a same file in both local and remote computer? Most software can NOT handle this, they simply overwrite older files with newer. Please, don't do this! FTP Synchronizer takes care this situation. You can ensure your files will not be overwritten by mistakes!
+
+Proxy and firewall support
+SOCKS4, SOCKS5, HTTP Proxy, Simply Relay, SOCKS4A, SITE hostname, OPEN hostname, USER user@host. etc

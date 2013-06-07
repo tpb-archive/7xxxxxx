@@ -1,0 +1,83 @@
+﻿User Type,Username,Date,Text
+,marcus100868,2012-10-12T22:35Z,"General 
+Unique ID : 176486461817175206947180367846601994124 (0x84C60E60741F84758F767309E4492F8C) 
+Complete name : C:UsersMARCVideosNew folderA Musicares Tribute To Neil Young Mkv 1080i Dts.mkv 
+Format : Matroska 
+Format version : Version 2 
+File size : 4.82 GiB 
+Duration : 59mn 52s 
+Overall bit rate mode : Variable 
+Overall bit rate : 11.5 Mbps 
+Movie name : video 
+Encoded date : UTC 2012-10-11 08:45:38 
+Writing application : mkvmerge v5.7.0 ('The Whirlwind') built on Jul 8 2012 20:08:51 
+Writing library : libebml v1.2.3 + libmatroska v1.3.0 
+
+Video 
+ID : 1 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4.0 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 3 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 59mn 52s 
+Bit rate mode : Variable 
+Bit rate : 9 792 Kbps 
+Maximum bit rate : 25.0 Mbps 
+Width : 1 920 pixels 
+Height : 1 080 pixels 
+Display aspect ratio : 16:9 
+Frame rate mode : Constant 
+Frame rate : 29.970 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Bits/(Pixel*Frame) : 0.158 
+Stream size : 4.10 GiB (85%) 
+Writing library : x264 core 125 r2208 d9d2288 
+Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=0 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=300 / keyint_min=30 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=24.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=25000 / vbv_bufsize=25000 / crf_max=0.0 / nal_hrd=vbr / ip_ratio=1.40 / aq=1:1.00 
+Default : Yes 
+Forced : No 
+
+Audio 
+ID : 2 
+Format : DTS 
+Format/Info : Digital Theater Systems 
+Codec ID : A_DTS 
+Duration : 59mn 52s 
+Bit rate mode : Constant 
+Bit rate : 1 510 Kbps 
+Channel(s) : 6 channels 
+Channel positions : Front: L C R, Side: L R, LFE 
+Sampling rate : 48.0 KHz 
+Bit depth : 24 bits 
+Compression mode : Lossy 
+Stream size : 647 MiB (13%) 
+Language : English 
+Default : Yes 
+Forced : No 
+
+Menu 
+00:00:00.000 : en:00:00:00.000 
+00:06:06.533 : en:00:06:06.533 
+00:09:12.052 : en:00:09:12.052 
+00:11:21.514 : en:00:11:21.514 
+00:14:56.429 : en:00:14:56.429 
+00:17:44.130 : en:00:17:44.130 
+00:22:30.382 : en:00:22:30.382 
+00:25:44.076 : en:00:25:44.076 
+00:28:32.811 : en:00:28:32.811 
+00:33:09.921 : en:00:33:09.921 
+00:36:35.493 : en:00:36:35.493 
+00:40:34.465 : en:00:40:34.465 
+00:43:34.178 : en:00:43:34.178 
+00:48:33.644 : en:00:48:33.644 
+00:51:31.322 : en:00:51:31.322 "
+,CSNYguy,2012-10-20T20:17Z,"marcus100868 Thank You For uploading this, I've been wanting this since the show. Not sure if I have a codec problem or what. The picture is perfect but the sound is continuously jittery. Never had any problems with MKv in the past. ??????? Please  "
+,marcus100868,2012-10-22T09:26Z,Hi CSNYguy what player are you using on your pc?
+,marcus100868,2012-10-22T10:21Z,"I always use Vlc player and it works fine i always check my files before i upload them could be a codec problem not sure but usually i stream my mkv files with twonky server to my home theater and never have any problems even with my dts hd master audio try checking your audio codecs let me know how you go.
+Regards Marcus100868
+
+"

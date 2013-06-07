@@ -1,0 +1,34 @@
+Movies : Comedy : VHS Rip : English, 62min37secs
+This print has blurriness in spots, in the source.
+
+The Bowery Boys 1946 Mr Hex
+ 
+http://www.imdb.com/title/tt0038753/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[12:53:49] job configuration:
+[12:53:49]  * source
+[12:53:49]    + C:Mr HexMr HexVIDEO_TS
+[12:53:49]    + title 1, chapter(s) 1 to 1
+[12:53:49]  * destination
+[12:53:49]    + C:Documents and SettingsDead End KidsMy DocumentsMr Hex.mkv
+[12:53:49]    + container: Matroska (.mkv)
+[12:53:49]      + chapter markers
+[12:53:49]  * video track
+[12:53:49]    + decoder: mpeg2
+[12:53:49]      + bitrate 8000 kbps
+[12:53:49]    + frame rate: same as source (around 23.976 fps)
+[12:53:49]    + strict anamorphic
+[12:53:49]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[12:53:49]      + pixel aspect ratio: 8 / 9
+[12:53:49]      + display dimensions: 640 * 480
+[12:53:49]    + encoder: x264
+[12:53:49]      + options: ref=2:bframes=2:me=umh
+[12:53:49]      + bitrate: 396 kbps, pass: 2
+[12:53:49]  * audio track 0
+[12:53:49]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[12:53:49]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[12:53:49]    + mixdown: Stereo
+[12:53:49]    + encoder: faac
+[12:53:49]      + bitrate: 160 kbps, samplerate: 48000 Hz

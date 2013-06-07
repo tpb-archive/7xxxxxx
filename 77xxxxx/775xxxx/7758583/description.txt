@@ -1,0 +1,38 @@
+Gnomoria is a sandbox village management game where you help lead a small group of gnomes, who have set out on their own, to thrive into a bustling kingdom! Anything you see can be broken down and rebuilt elsewhere. Craft items, build structures, set traps and dig deep underground in search of precious resources to help your gnomes survive the harsh lands. Build your kingdom and stockpile wealth to attract wandering gnomads to your cause, but be wary of also attracting enemies!
+
+
+Goblins
+Goblins have discovered how to make bronze.  Bronze armored goblins will start to show up between copper and iron
+Goblins have enlisted the help of their ogre cousins to fight gnomes.  Ogres don't wear armor but have thick hides that are resistant to blunt damage and vulnerable to slashing attacks.
+Gnomes have developed a taste for goblin meat (it tastes exactly like revenge) and goblins and ogres can now be butchered.
+
+Wild Animals
+Honey badgers, monitor lizards and bears have been spotted
+Wild animals will avoid gnomes typically but will attack if caught by surprise or cornered
+Wild animals can be butchered for meat and hides.  Bear hides are tougher than the other animals but weaker than ogre hide
+
+Mants
+Mants are a race of ant people that have started to raid gnome settlements
+Mants will send a single scout to look for gnomes.  If the scout returns to the colony, they will return with a larger attack force
+Mants will attack in greater numbers if the gnomes have an abundance of food or drink
+
+Beetles
+Beetles can now be found underground in the dark
+If left alone, beetles will make cocoons.  A cocoon can mature into a beetle and the process will continue.
+Typically beetles will stay near their nest but will attack if there are enough of them.
+
+General
+Doors now block enemy movement.  Enemies will attack and can destroy doors if they want to get through.
+Training doesn't use ammo
+If a gnome has higher Fighting skill than Brawling and they aren't currently carrying anything, they won't pick up random items to fight with.
+Yaks and alpacas will now kick enemies in defense
+
+Fixed
+Crash on load in a rare case
+Golems spawning in light and goblins sneaking past gnomes
+Squad members getting stuck trying to pick up ammo with a full ammo container, when better ammo exists
+
+v0.8.16.1
+Fixed
+Squad members with "Defend gnomes" checked getting stuck when a spotted animal leaves the area
+Crash on save after loading a game with stuck squad members from animals leaving

@@ -1,0 +1,19 @@
+﻿Filename,Size,Unit
+CHECKSUMS,1.27,K
+FORMAT EXPLANATION.TXT,1.55,K
+JarchCD2-TODO.list,60,B
+cdrom-image.bin,33.04,M
+cdrom-image.img-dir,21,B
+cdrom-image.lead.bin,0,B
+cdrom-image.lead.img-dir,21,B
+cdrom-image.lead.ripmap.xz,68,B
+cdrom-image.ripmap.xz,96,B
+cdrom-image.sub.bin.xz,71.83,K
+cdrom-image.sub.img-dir,21,B
+cdrom-image.sub.ripmap.xz,112,B
+cdrom-image.timeout.ripfail.ripmap.xz,68,B
+cdrom-image.verified.ripmap.xz,96,B
+cdrom.toc,1.47,K
+cleanup.sh,51,B
+mk-checksums.sh,577,B
+mk-iso.pl,2.5,K

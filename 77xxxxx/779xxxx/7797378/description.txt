@@ -1,0 +1,17 @@
+This course introduces the features of the V-Ray 2.0 rendering engine and demonstrates how to extend the range of Maya with its state-of-the-art tools, such as irradiance mapping, fur and hair textures and shaders, and stereoscopic 3D rendering. The course covers critical concepts such as creating basic materials, image sampling, color mapping, subdivs, and lighting, as well as the Render Elements, RT, and physical rendering workflows in V-Ray. Exercise files are included with the course.
+Topics include:
+
+    Installing and setting up V-Ray
+    Using the DMC Sampler
+    Understanding color mapping modes
+    Adding a spherical fill light
+    Working with the V-Ray Dome Light
+    Using irradiance mapping and the Light cache
+    Creating diffuse color
+    Making reflective materials
+    Creating translucency
+    Ensuring quality with image sampling
+    Controlling the V-Ray physical camera
+    Creating a motion blur effect
+    Compositing V-Ray elements
+

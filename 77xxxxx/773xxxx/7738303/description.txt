@@ -1,0 +1,62 @@
+***************************************
+CoreTemp 1.0 RC4............................................
+*************************************** 
+http://www.alcpu.com/CoreTemp/
+Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.
+What makes Core Temp unique is the way it works. It is capable of displaying a temperature of each individual core of every processor in your system!
+You can see temperature fluctuations in real time with varying workloads. Core Temp is also motherboard agnostic.
+
+All major processor manufacturers have implemented a "DTS" (Digital Thermal Sensor) in their products. The DTS provides more accurate and higher resolution temperature readings than conventional onboard thermal sensors. (How does it work?).
+This feature is supported by all recent x86 processors. Processors by Intel, AMD and VIA are supported. A complete list of supported processors is available.
+Core Temp is easy to use, while also enabling a high level of customization and expandability.
+Core Temp provides a platform for plug-ins, which allows developers to add new features and extend its functionality. You can find our plug-ins and add-ons here.
+If you are a developer and you are interested in creating your own addition, please see the developer's page.
+
+***************************************
+CPU-Z 1.61
+*************************************** 
+http://www.cpuid.com/softwares/cpu-z.html#whatiscpuz
+CPU-Z is a freeware that gathers information on some of the main devices of your system. 
+CPU
+Name and number. 
+Core stepping and process. 
+Package. 
+Core voltage. 
+Internal and external clocks, clock multiplier. 
+Supported instruction sets. 
+Cache information.
+Mainboard
+Vendor, model and revision. 
+BIOS model and date. 
+Chipset (northbridge and southbridge) and sensor. 
+Graphic interface.
+Memory
+Frequency and timings. 
+Module(s) specification using SPD (Serial Presence Detect) : vendor, serial number, timings table.
+System
+Windows and DirectX version.
+
+***************************************
+HWMonitor 1.20
+*************************************** 
+http://www.cpuid.com/softwares/hwmonitor.html#whatishwmonitor
+HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+The program handles the most common sensor chips, like ITE┬« IT87 series, most Winbond┬« ICs, and others. In addition, it can read modern CPUs on-die core thermal sensors, as well has hard drives temperature via S.M.A.R.T, and video card GPU temperature.
+
+Special hardware monitors such as abit┬« uGuru and Gigabyte┬« ODINΓäó power supplies serie are supported too. 
+
+***************************************
+GPU-Z 0.6.5
+*************************************** 
+http://www.techpowerup.com/gpuz/
+GPU-Z is a lightweight utility designed to give you all information about your video card and GPU.
+
+Main Features
+Support NVIDIA and ATI cards 
+Displays adapter, GPU and display information 
+Displays overclock, default clocks and 3D clocks (if available) 
+Includes a GPU load test to verify PCI-Express lane configuration 
+Validation of results 
+No installation required 
+Support for Windows 2000 / XP / Vista / Windows 7 (both 32 and 64 bit versions are supported) 
+.. and yes, the author of CPU-Z has granted us permission to use a name similar to his product. Thanks Franck. 

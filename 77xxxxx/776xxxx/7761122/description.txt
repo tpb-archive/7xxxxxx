@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 66min27secs
+
+Trouble Makers 1948 The Bowery Boys
+ 
+http://www.imdb.com/title/tt0040905/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[10:11:14] job configuration:
+[10:11:14]  * source
+[10:11:14]    + C:Trouble MakersVIDEO_TS
+[10:11:14]    + title 4, chapter(s) 1 to 1
+[10:11:14]  * destination
+[10:11:14]    + C:Documents and SettingsDead End KidsMy DocumentsTrouble Makers.mkv
+[10:11:14]    + container: Matroska (.mkv)
+[10:11:14]      + chapter markers
+[10:11:14]  * video track
+[10:11:14]    + decoder: mpeg2
+[10:11:14]      + bitrate 8000 kbps
+[10:11:14]    + frame rate: same as source (around 23.976 fps)
+[10:11:14]    + strict anamorphic
+[10:11:14]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[10:11:14]      + pixel aspect ratio: 8 / 9
+[10:11:14]      + display dimensions: 640 * 480
+[10:11:14]    + encoder: x264
+[10:11:14]      + options: ref=2:bframes=2:me=umh
+[10:11:14]      + bitrate: 396 kbps, pass: 2
+[10:11:14]  * audio track 0
+[10:11:14]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[10:11:14]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[10:11:14]    + mixdown: Stereo
+[10:11:14]    + encoder: faac
+[10:11:14]      + bitrate: 160 kbps, samplerate: 48000 Hz

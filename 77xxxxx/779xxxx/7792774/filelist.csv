@@ -1,0 +1,50 @@
+﻿Filename,Size,Unit
+1 - 1 - Why do we need machine learning [13 min].mp4,15.05,M
+1 - 2 - What are neural networks [8 min].mp4,9.76,M
+1 - 3 - Some simple models of neurons [8 min].mp4,9.26,M
+1 - 4 - A simple example of learning [6 min].mp4,6.57,M
+1 - 5 - Three types of learning [8 min].mp4,8.96,M
+10 - 1 - Why it helps to combine models [13 min].mp4,15.12,M
+10 - 2 - Mixtures of Experts [13 min].mp4,14.98,M
+10 - 3 - The idea of full Bayesian learning [7 min].mp4,8.39,M
+10 - 4 - Making full Bayesian learning practical [7 min].mp4,8.13,M
+10 - 5 - Dropout [9 min].mp4,9.69,M
+2 - 1 - Types of neural network architectures [7 min].mp4,8.78,M
+2 - 2 - Perceptrons The first generation of neural networks [8 min].mp4,9.39,M
+2 - 3 - A geometrical view of perceptrons [6 min].mp4,7.32,M
+2 - 4 - Why the learning works [5 min].mp4,5.9,M
+2 - 5 - What perceptrons cant do [15 min].mp4,16.57,M
+3 - 1 - Learning the weights of a linear neuron [12 min].mp4,13.52,M
+3 - 2 - The error surface for a linear neuron [5 min].mp4,5.89,M
+3 - 3 - Learning the weights of a logistic output neuron [4 min].mp4,4.37,M
+3 - 4 - The backpropagation algorithm [12 min].mp4,13.35,M
+3 - 5 - Using the derivatives computed by backpropagation [10 min].mp4,11.15,M
+4 - 1 - Learning to predict the next word [13 min].mp4,14.28,M
+4 - 2 - A brief diversion into cognitive science [4 min].mp4,5.31,M
+4 - 3 - Another diversion The softmax output function [7 min].mp4,8.03,M
+4 - 4 - Neuro-probabilistic language models [8 min].mp4,8.93,M
+4 - 5 - Ways to deal with the large number of possible outputs [15 min].mp4,14.26,M
+5 - 1 - Why object recognition is difficult [5 min].mp4,5.37,M
+5 - 2 - Achieving viewpoint invariance [6 min].mp4,6.89,M
+5 - 3 - Convolutional nets for digit recognition [16 min].mp4,18.46,M
+5 - 4 - Convolutional nets for object recognition [17min].mp4,23.03,M
+6 - 1 - Overview of mini-batch gradient descent.mp4,9.6,M
+6 - 2 - A bag of tricks for mini-batch gradient descent.mp4,14.9,M
+6 - 3 - The momentum method.mp4,9.74,M
+6 - 4 - Adaptive learning rates for each connection.mp4,6.63,M
+6 - 5 - Rmsprop Divide the gradient by a running average of its recent magnitude.mp4,15.12,M
+7 - 1 - Modeling sequences A brief overview.mp4,20.13,M
+7 - 2 - Training RNNs with back propagation.mp4,7.33,M
+7 - 3 - A toy example of training an RNN.mp4,7.24,M
+7 - 4 - Why it is difficult to train an RNN.mp4,8.89,M
+7 - 5 - Long-term Short-term-memory.mp4,10.23,M
+8 - 1 - A brief overview of Hessian Free optimization.mp4,16.24,M
+8 - 2 - Modeling character strings with multiplicative connections [14 mins].mp4,16.56,M
+8 - 3 - Learning to predict the next character using HF [12  mins].mp4,13.92,M
+8 - 4 - Echo State Networks [9 min].mp4,11.28,M
+9 - 1 - Overview of ways to improve generalization [12 min].mp4,13.57,M
+9 - 2 - Limiting the size of the weights [6 min].mp4,7.36,M
+9 - 3 - Using noise as a regularizer [7 min].mp4,8.48,M
+9 - 4 - Introduction to the full Bayesian approach [12 min].mp4,12,M
+9 - 5 - The Bayesian interpretation of weight decay [11 min].mp4,12.27,M
+9 - 6 - MacKays quick and dirty method of setting weight costs [4 min].mp4,4.37,M

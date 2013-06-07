@@ -1,0 +1,27 @@
+Sticky Password Pro is a full-featured password manager designed to help you log into web accounts automatically, without having to look for the credentials yourself. The application is suited with support for automatic filling of the data as well as capturing user name and password from login pages.
+Besides safely keeping passwords and user names, Sticky Password also lets you store bookmarks as well as identities and secure memos. This comes in extremely handy especially when you create a portable version of the application and carry it on a removable device in order to use on different computers.
+Access to the data can be protected through a master password, but additional options are available, such as detection of a Bluetooth or USB device.
+One of the advantages available in Sticky Password is that it can work with a great number of web browsers, from the popular IE, Chrome, Opera or Firefox to less known ones such as Maxthon, Flock, or SeaMonkey. It integrates via its own add-on - you are prompted to install it in the browsers available on the system.
+Since the application can detect the credential fields on a web page filling them with the required information is done automatically. Adding a new entry to the database is also automatic.
+Sticky Password features an import function which helps you easily transfer credentials stored in PWS, XML or INI format from a different password manager or from a web browser into the application. Export is also available as XML, HTML or plain text.
+The built-in password generator lets you create countersigns as lengthy as 99 characters. It also features a tool that assesses the strength of the generated string and a history section.
+Handling Sticky Password does not pose any difficulty and it is a useful tool especially for those with large collections of login credentials.
+
+WHAT'S NEW IN VERSION Build 6.0.5.415 (October 9, 2012)
+
+fadded Dutch language
+added support for Firefox/Thunderbird 17 and Seamonkey 2.14
+added support for Mail.ru Agent 6.0
+added localized Spanish default Secure Memo templates
+fixed Sticky Password not starting after upgrade from previous version
+fixed Sticky Password not working with applications under limited rights Windows XP user account
+fixed import from KeePass CSV files
+fixed imported items not showing on Groups tab
+fixed not working resetting password expiration reminders from systray balloon
+fixed issue when Firefox extension stops working if portable version is run after desktop version
+fixed slow performance in Firefox under certain circumstances
+fixed inactive or invisible button in Firefox under certain circumstances
+fixed new Identity not marked as active in FREE version
+fixed Remove Limitations dialog displaying too often under certain circumstances in FREE version
+various GUI and internal performance improvements
+fixed support for autofill on many websites

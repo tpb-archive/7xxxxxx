@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,stmux,2012-11-02T05:00Z,"I got it to work with Windows 7 but not with Windows 8.
+mux"
+,damianfox,2012-11-02T05:21Z,Works perfect on my Windows Server 2012 Standard machine  :)
+,damianfox,2012-11-02T19:33Z,"Just a FYI: I charged the host on Oct, 29th so if no client activations are made within 30days from that date youll have to re-charge the host."
+,somestuff,2012-11-02T20:41Z,Will this activate Server 2012 Standard?
+,damianfox,2012-11-02T21:41Z,"No, Just Vista, Win7, Win8 VL clients
+
+VOLUME_KMS_W8 channel = Vista, Win7, Win8 VL clients
+
+VOLUME_KMS_2012_C channel = Vista, Win7, Win8, Server 2008, 2008 R2, Server 2012 VL clients"

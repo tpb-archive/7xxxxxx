@@ -1,0 +1,24 @@
+Important Notes
+
+Remember this is a BETA version and not a "Stable" release so you might not want to waste your time. Who knows how many more BETA versions will come out before the next Stable release.
+
+Description
+
+This is a set of tools and functions for managing licensing, deploying, and activating Microsoft Office and Windows. All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed), AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported.
+
+Since v2.3.2 (Stable)
+2.4 BETA 4
+
+-AutoKMS and AutoRearm properly create Startup task (only Daily was being made).
+-KMSEmulator no longer crashes on Windows XP.
+
+2.4 BETA 3
+
+-Show Exception Details if the Exception on Activation Error Lookup is not an XmlException.
+-Show Exception Message if Scheduled Task creation fails.
+-Validate User Entered Product Keys on License Backup using PIDX Check.
+
+2.4 BETA 2
+
+-Fixed switch to Windows Mode crash on other languages due to .NET Convert.ToDouble using different Culture.
+

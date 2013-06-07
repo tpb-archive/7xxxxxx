@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,z111111,2012-11-02T09:09Z,It keeps telling me I should run slui.exe and your windows are non-cored edition...
+,dmaja,2012-11-02T10:13Z,@z111111 are you using an untouched version of windows 8 or a pre cracked one? 
+,ncslacker,2012-11-02T16:42Z,"Worked great, thanks krixx.
+
+Used the following settings for Windows 8 Pro
+
+@shift
+@echo off
+color fc
+title Windows 8 PRO KMS Activation
+echo Windows 8 PRO KMS Activation
+echo *Please remove any other activator, connect to the internet and synchronize the time with the Windows Time service before applying this program
+echo ================================
+echo.
+@echo Starting Activation...
+@echo.
+@slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+@echo.
+@slmgr -skms jbiz1.no-ip.org:1688
+@echo.
+@slmgr.vbs -ato
+@echo.
+@echo Activation COMPLETED!
+@echo.
+@pause"
+,ncslacker,2012-11-02T16:44Z,"Worked great, thanks krixx.
+
+Used the following server form your list.
+
+jbiz1.no-ip.org:1688"
+,EFA11,2012-11-02T23:53Z,"krixx, this is the way it should be done. well done. "
+,alzen69,2012-11-03T02:31Z,Please can somebody tell us if any of this is a permanent activation?
+,lavir74,2012-11-03T17:35Z,"After having done this, get the product key for Windows Media Center, to turn the 180 days activation to a permanent one.
+
+IT'S FREE UNTIL JANUARY 2013, SO HURRY UP.
+
+After you have activated PERMANENTLY using the WMC key then I suggest to backup the activation using Advanced Tokens Manager.
+
+FOR NOW THIS IS THE ONLY WAY TO PERMANENTLY ACTIVATE, SO DO IT AND BACKUP THE ACTIVATION."
+,ruffryder007,2012-11-04T04:07Z,"after I run the first line.... slmgr.vbs -ipk NG4HW-VH26C-733KW-K6F98-J8CK4 , I keep getting an error messege saying that it doesn't work on Microsoft windows non-core edition... WHAT THE HELL DOES THAT MEAN??"
+,lavir74,2012-11-04T10:43Z,"@ruffryder007
+
+You have probably an N version of W8 (Pro N, the european one), use the according serial, (XCVCF etc.) that you find on the description here."
+,AltairEzioAssassin,2012-11-06T16:49Z,"Error: 500 Variable is Undefined (Microsoft VBScript Runtime Error) 
+
+What Should I Do Now ??? :( 
+Please HELP!! :("

@@ -1,0 +1,18 @@
+Book Description
+
+Android Apps Security provides guiding principles for how to best design and develop Android apps with security in mind. It explores concepts that can be used to secure apps and how developers can use and incorporate these security features into their apps.
+
+This book will provide developers with the information they need to design useful, high-performing, and secure apps that expose end-users to as little risk as possible.
+
+    Overview of Android OS versions, features, architecture and security.
+    Detailed examination of areas where attacks on applications can take place and what controls should be implemented to protect private user data
+    In-depth guide to data encryption, authentication techniques, enterprise security and applied real-world examples of these concepts
+
+What youΓÇÖll learn
+
+    How to identify data that should be secured
+    How to use the Android APIs to ensure confidentiality and integrity of data
+    How to build secure apps for the enterprise
+    About Public Key Infrastructure, encryption APIs and how to implement them in apps
+    About owners, access control lists and permissions to allow user control over App properties
+    About client-server apps and how to manage authentication 

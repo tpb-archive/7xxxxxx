@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,Cavemann,2012-10-13T01:55Z,Thanks
+,desiemmett,2012-10-13T23:19Z,"Are the libraries installable on a Mac?
+Thanks!"
+[T],deepstatus,2012-10-14T15:24Z,desiemmett extract them mannualy should work..
+,FilLuvMuz,2012-10-15T15:42Z,"followed the instructions carefully, the vsti does not appear on my DAW. "
+[T],deepstatus,2012-10-15T21:13Z,"
+ ΓÇó You should install the library at first.
+
+also follow the link to see if your host is supported
+http://www.xlnaudio.com/productline/1"
+,Tetsur,2012-10-23T02:14Z,"Essa bateria virtual muito bom.
+Agradecimentos ao psydeep por disponibilizar esse software.
+
+Muito obrigado.
+
+São Paulo-Brasil.   /"
+,Tetsur,2012-10-23T02:19Z,"Essa bateria virtual é muito boa.
+Agradecimentos ao psydeep por disponibilizar esse software.
+
+Muito obrigado.
+
+São Paulo-Brasil.   /"
+,bigdrums,2012-10-26T21:34Z,I also followed the instructions and it does not show up in my DAW.  I am using Cubase 5 which is supported. I have tried both 32 and 64 bit installs and triple checked that Cubase was pointed to the proper VST folder.  Any help would be greatly appreciated. 
+,hendrixspirit,2012-10-29T03:53Z,"I'm having the same problem that had been described twice, can't install this version of Addictive drums on Cubase 5. Installed the library, run setup, the Addictive Drums.dll file is on the correct folder, but the VST is not showed on my PC
+
+Getting myself crazy, if anyone's knows the solution :("
+,hendrixspirit,2012-10-29T19:23Z,"I FIXED IT!!!
+
+Very easy, (and weird) Fix, You have to rename the ""addictive drums.dll"" to ""addictivedrums.dll"", yes, without an space, and it will work!! "
+,soundscape,2012-10-30T00:39Z,This doesn't work for me at all in any windows vst client.  It refuses to show up and if I actually select to load the vst manually in any supporting client it fails.  I even tried renaming the dll.
+,soundscape,2012-11-13T02:59Z,confirmed on different forums that this release doesn't work on win7 x64

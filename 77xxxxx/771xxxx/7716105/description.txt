@@ -1,0 +1,33 @@
+Movies : Boxing drama : VHS Rip : English, 69mins
+
+The Bowery Boys in Fighting Fools - 1949
+ 
+http://www.imdb.com/title/tt0041360/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[14:39:00] job configuration:
+[14:39:00]  * source
+[14:39:00]    + C:Fighting FoolsVIDEO_TS
+[14:39:00]    + title 1, chapter(s) 1 to 1
+[14:39:00]  * destination
+[14:39:00]    + C:Documents and SettingsDead End KidsMy DocumentsFighting Fools.mkv
+[14:39:00]    + container: Matroska (.mkv)
+[14:39:00]      + chapter markers
+[14:39:00]  * video track
+[14:39:00]    + decoder: mpeg2
+[14:39:00]      + bitrate 8000 kbps
+[14:39:00]    + frame rate: same as source (around 23.976 fps)
+[14:39:00]    + strict anamorphic
+[14:39:00]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[14:39:00]      + pixel aspect ratio: 8 / 9
+[14:39:00]      + display dimensions: 640 * 480
+[14:39:00]    + encoder: x264
+[14:39:00]      + options: ref=2:bframes=2:me=umh
+[14:39:00]      + bitrate: 302 kbps, pass: 2
+[14:39:00]  * audio track 0
+[14:39:00]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:39:00]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[14:39:00]    + mixdown: Stereo
+[14:39:00]    + encoder: faac
+[14:39:00]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,267 @@
+﻿User Type,Username,Date,Text
+,scodoo2,2012-10-16T06:54Z,"Thanks Maherz, been waiting for this :-)"
+[V],Maherz,2012-10-16T13:54Z,"@scodoo2
+You're welcome :)"
+,KoreyCX,2012-10-16T23:49Z,"So, what's the difference between this one and the September one, may I ask? C:"
+,kingcover,2012-10-17T02:45Z,"LOL, I was getting so pissed off of the download speed and realized, shit, it was just uploaded today! xD  Thanks for the up Maherz, you rock buddy! :D"
+,Heartofthorns,2012-10-17T06:53Z,"@ KoreyCX
+This one has the October updates included. If you have the September one, just update it using Windows Update."
+,torrent_xlr8r,2012-10-18T04:32Z,"@Heartofthorns 
+
+Hey man, you seem to know your shit so maybe you can help me out.
+
+I am using Maherz ""Microsoft Windows 7 Ultimate SP1 (x64) Integrated September 2012,"" and everything seems to be working fine except all Microsoft/Windows programs. 
+
+E.g. 
+1. My windows update keeps telling me to update the same updates, no matter how many times they are successfully installed 
+2. Microsoft Office, and all other Microsoft/Windows software (e.g. Windows Live Mail, Windows Live Messenger, etc) start installing themselves every time I try and use them, instead of opening the program.
+
+Any help would be appreciated; should I try another version of Windows?
+
+Thanks"
+,DarthBubba,2012-10-18T05:25Z,"Thanks Maherz, you're a highly valued PB'er in my book!"
+,Heartofthorns,2012-10-18T11:19Z,"@ torrent_xlr8r
+It's an issue with the Windows Update feature. 
+Here's one of the fixes I found.
+http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_update/windows-update-repeatedly-prompting-to-install-the/1838bc26-19b9-4eb2-9f52-d96cf2e398e1
+Try the 2nd answer, then the 1st one. Personally, I have the ""Check for Updates but let me choose whether to download and install them"" option ticked. I check which updates I have to install, then install them. See if that works for you.
+Alternatively, if the problem persists, you could
+a. Google for additional solutions (Search for windows update telling you to install same updates)
+b. Post in Maherz's support forums (mentioned in the torrent description)
+c. Post in piratebay forums ( https://forum.suprbay.org/  ) Many others will help you get help faster there."
+,Heartofthorns,2012-10-18T11:46Z,"@ torrent_xlr8r
+Oops, forgot about the 2nd part of your question.
+I searched google for it. Do you have multiple copies of Office installed? The Windows Installer Cleanup Utility fixed the problems for many of them who had the same problem as you (i.e. Office and Live messenger installing every time you run it)
+Here's the link : http://support.microsoft.com/kb/290301
+Again, you could google about the problem and follow their steps if you want ;)
+Hope that helped."
+[V],Maherz,2012-10-18T22:26Z,"@KoreyCX
+It's the same, except that October updates added to it.
+
+@kingcover
+You're welcome :)
+
+@Heartofthorns
+Thank you man :) You're my Robin!
+
+@torrent_xlr8r
+This is a problem with Windows Update from Microsoft.
+Try what my friend Heartofthorns suggested.
+Good luck.
+
+@DarthBubba
+Anytime ;)"
+,Accolon9,2012-10-18T22:46Z,"@Maherz
+
+""
+3) After the system is ready use Windows Loader to activate.
+""
+
+I think you forgot to add the Loader to the iso file.
+
+You can find it here:
+https://thepiratebay.se/torrent/7483130/Windows_Loader_v2.1.7-Daz_Final"
+,Accolon9,2012-10-18T22:47Z,PS: oh yeah...and obviously: THANKS for your great work with these monthly releases!!!
+,torrent_xlr8r,2012-10-19T01:18Z,"Thanks Heartofthorns, really appreciate the assistance you provide strangers. 
+
+UPDATE: For anyone who is experiencing similar symptoms (see original post).
+
+1. Windows Update Issue: Use the steps/links posted by Heartofthorns 
+2. Windows Installer Issue: Try the steps/links posted by Heartofthorns. If the problem persists, go to Program Files > Microsoft Office > Office 14 and find the relevant Office Applications (e.g. WINWORD) and create shortcuts from those, or add them to the start menu. Using these shortcuts should solve the problem."
+,dredre999,2012-10-19T04:29Z,Having an issue installing that maybe you can help with...I can dl and burn to disk just fine. However when I try to instal I can get a few screens in then my comp seems to freeze. Mouse pointer is on screen but can't move it that sort of thing. I at one point let it sit for a half hour but I can't figure it out.
+,Heartofthorns,2012-10-19T12:59Z,"@ dredre999
+Does your computer support 64-bit Windows? There's a 32-bit version for you if it doesn't. Also from what I searched on google it could be a Ram/Ram slot problem. Try putting your Ram into the other slot. I'm sorry I can't be of much help here. Post your problem on  https://forum.suprbay.org/
+You will get better help from people who know better about this problem there mate."
+,ADhillon1,2012-10-20T13:25Z,Do i have to unzip the folder at all before burning onto a cd or do i burn it as is when its done downloading............?
+,Heartofthorns,2012-10-20T15:02Z,"@ ADhillon1
+It's a .iso file. So you directly burn it to a dvd. No need to unzip or anything.
+It is 3.71 Gb. So it won't fit on a CD. You'll need a DVD."
+[V],Maherz,2012-10-20T20:39Z,"@Accolon9
+That was intended.
+Some anti-virus software gives alarm about the loader, and people start to think that my torrents contain viruses! That's why I left it out :)
+
+@Heartofthorns
+Thank you again :)"
+,leozdad,2012-10-21T09:08Z,"my vista home edition is running 32 bit system but my machine says that it is able to run 64 bit. i downloaded the 64 bit version and it says it is not comaptible with my current system set up. how do i change the setup to be able to upgrade to 64 bit ? 
+thanks for you help and uploads Maherz"
+,Heartofthorns,2012-10-21T14:29Z,"@ leozdad
+Are you trying to upgrade? You have a 32 bit operating system and want to install a 64 bit one, so you'll have to do a clean install instead. This torrent is 64-bit Windows 7. You really don't expect a 64 bit software to open in 32 bit operating system now do you? :P 
+
+In short, if you want to install the 64 bit windows 7, you'll have to do a CLEAN install.  Search google/youtube, there's information and videos on how to do it if you don't know. And NO, you don't click on setup.exe to install it because that's what I'm thinking you did. You will have to burn this to a DVD and install it from there at boot."
+,csabaxb,2012-10-21T15:34Z,"Download, scan with Panda, say:clean, easy install, working good, thanx uploader and seeders"
+,jaymax2k,2012-10-22T06:27Z,Should this work on a MacBook Pro using Boot Camp?
+,jaymax2k,2012-10-22T06:37Z,"Should this work with a Macbook Pro using boot camp? When I try to run the install, it says that there is no bootable device."
+,zeidman,2012-10-24T01:25Z,"Does anybody know how to install this from a flash drive? I'm using Ultimate 32-bit but It won't let me create a bootable flash drive.... plz plz 
+
+thanks"
+,Heartofthorns,2012-10-24T14:30Z,"@ zeidman
+Use wintoflash to create a bootable flash drive.
+http://www.wintoflash.com/home/en/
+There is a video tutorial on their home page which shows you how to do it."
+,eloflo,2012-10-25T00:36Z,"@Maherz
+Hi, i installed windows before 2 days and just keeps turning off by itself (five times till now). Any suggestion? (sorry for my english). thank's for your help and the good job."
+,RodWall5,2012-10-26T20:53Z,Great! Thank you very much. Working perfectly. Didn't need any activation.
+,Heartofthorns,2012-10-26T21:15Z,"@ RodWall5
+You will have to activate it using Daz loader mate. "
+,Kunal_Sharma,2012-10-28T20:48Z,"@ Maherz
+
+Thank you so much for this, installed perfectly. I was just wondering what activator you use to activate this, could you please give me the link. Thanks :)"
+,Skullsquisher,2012-10-28T21:47Z,"This is the one to get, no up dates to worry about 10-20-12 (so far). burned one for an idiot and he got it working with out help. Just back up your raid drivers prior to clean install (if you raid)"
+,Skullsquisher,2012-10-28T21:51Z,I used Daz 2.1.5 loader also.
+,lamportyx,2012-10-29T02:06Z,"this is great just use loader 2.1.7 by daz and turn your windows update this will work..and download latest updates from microsoft just like 
+the original one.."
+,realful,2012-10-29T04:04Z,"Hey there,I'm completely new to this stuff and would love if someone could help me out here?
+I want to download this torrent, but I've got a few questions? 
+-Do I have to copy the files onto a disc?
+-If so how do I go about doing that?
+-If no, how do I go about installing it without a disc?
+Thank youuu! :)"
+,rayomand96,2012-10-29T06:51Z,"Hi Maherz / Heartofthorns,
+Would like to request you to upload a 32 bit version of Windows 7 with the latest updates as i have a HP netbook which was running Vista and i am not sure it will support the 64 bit version.
+awaiting your inputs....
+Thanks and Cheers"
+,Heartofthorns,2012-10-29T14:44Z,"@ rayomand96
+There is already a 32 bit version mate. Here's the link : https://thepiratebay.se/torrent/7731353/Microsoft_Windows_7_Ultimate_SP1_(x86)_Integrated_October_2012
+
+@ Kunal_Sharma
+Use this to activate it : https://thepiratebay.se/torrent/7463060/Windows_Loader_2.1.7_By_Daz
+
+@ realful
+Read the instructions in the torrent description mate. It says burn the iso file to a DVD with minimal speed (the lowest speed, so that all tracks on the dvd are written without errors).
+1. If you're using ImgBurn to burn the DVD,
+(i) Open ImgBurn
+(ii) Click on ""Write image file to disc""
+(iii) Select the source where you have downloaded the .iso file (In short select the place where you have downloaded the file)
+(iv) Click on Write (the big icon at bottom)
+OR
+2. If you're using Nero Burning ROM
+(i) Open Nero Burning ROM
+(ii) Click on New
+(iii) Select ""DVD"" in the drop down menu (top left corner)
+(iv) Select DVD-ROM (UDF)
+(v) Click New and then drag the iso file there.
+(vi) It will ask to burn the compilation, select yes. Then Burn it.
+Note : Remember, burn at the lowest speed."
+,Kunal_Sharma,2012-10-29T16:20Z,"@ Heartofthorns
+
+Thanks! :)"
+,zero1zero,2012-10-29T21:05Z,Why couldn't you include the activator or have it auto-activate during install?
+,aaaaaaarg,2012-10-30T02:43Z,When trying to load with bootcamp on os x I am getting the Bootmgr missing error. Anyone else have this problem or know of a way around it. 
+,zero1zero,2012-10-30T04:17Z,Ok the loader is included in the torrent. Can you have it auto-activate in the next release?
+,m80thebrawler,2012-10-30T06:23Z,"thanks mahers for the uploads, thanks heart of thorns for answering the questions.. great upload and big ups to keeping up to date"
+,ketoto,2012-10-31T22:23Z,"How do I go about installing this through a USB?
+
+My computer has no optical drive."
+,Heartofthorns,2012-11-01T00:37Z,"@ ketoto
+Use WinToFlash. Here's the link for it : http://wintoflash.com/home/en/
+There's a video tutorial on that page which shows you how to install it on a USB."
+,ketoto,2012-11-02T13:54Z,"Alright, so this all worked fine and dandy.
+
+I'm curious though; is it a good idea to turn on automatic updates or should I leave that off and only install certain updates? If so; which?"
+,Heartofthorns,2012-11-02T15:15Z,"@ ketoto
+AFTER activating you can set it to 'Download and Install updates automatically'. If you have some issues (some people get some problems with the automatic thing), or you are worried, then set it to 'Check for updates but let me choose whether to download or install them'. You can then choose which updates you want and so on and so forth."
+,ketoto,2012-11-02T20:32Z,"@Heartofthorns Alright. I'll just try setting it to automatic.
+
+But in case something does go wrong, i.e. my Windows becomes invalid or whatnot - is there any way to fix it so that I don't have to re-install all my programs and driver etc.?
+
+Thanks for the help btw!"
+,XclusionNL,2012-11-03T01:43Z,"@Heartofthorns or anyone else who knows:
+
+let me get this right, this will install w7-64bit ultimate with the sp1 and all that, but you will have to activate it with the loader(?). 
+but AFTER that, will you have activated w7 'forever'? (so it doesnt come with ""not genuine"" notification)? 
+and can you just update normally and use office programs and whatnot? Sorry but this was still a little unclear to me..
+
+also the security update k9701033; does it get installed with w7 or the sp1? do i have to disable/hide it? and importantly: are there other updates i have to watch out for?
+
+thx in advance anyone who can provide me any answers, and big thx ofcourse to the uploader!"
+,lowbatre,2012-11-03T11:22Z,"@XclusionNL
+-let me get this right, this will install w7-64bit ultimate with the sp1 and all that, but you will have to activate it with the loader(?)..... YES
+
+-but AFTER that, will you have activated w7 'forever'? (so it doesnt come with ""not genuine"" notification)?..... YES (so far)
+
+-and can you just update normally and use office programs and whatnot?..... YES, u can update win normally and get office updates too (if you install office)
+
+-also the security update k9701033; does it get installed with w7 or the sp1?..... NO
+-do i have to disable/hide it?..... not necessarily but can can hide it
+-and importantly: are there other updates i have to watch out for?..... beside kb9701033 afaik NO"
+,hakim462000,2012-11-05T08:53Z,"Hey, i have a 32-bit win7 enterprise. i burned the iso to a dvd and then re-enter the disc to launch the autoplay.
+But then, there's a warning box tells me that the setup.exe does not compatible with my current os. What should i do?"
+,Trevor1978,2012-11-06T01:03Z,Thank you Maherz. Works excellent!!
+,duriotic,2012-11-07T15:31Z,"@hakim462000:  You make sure your computer will BOOT from your DVD drive FIRST, not your hard drive.  Then put in the Windows disc, and restart the computer.  You will have a new operating system and NO FILES from before when you are finished.  Enjoy."
+,daviznino,2012-11-08T17:16Z,Is this multi-language by any chance ? or just english?
+,QuincyORG,2012-11-08T19:32Z,"Hey I have windows 7 ultimate SP1 x32 bit op system.
+My question is: can I activate SP1 x64 bit op system with my existing key? or i have to search for a  loader? "
+,Heartofthorns,2012-11-09T01:04Z,"@ daviznino
+English. You can download other languages from Windows Update > Optional Updates. Select the language you want there and install it."
+,Heartofthorns,2012-11-09T01:11Z,"@ QuincyORG
+Did a quick google search. Apparently you can use it. Both have to be the same edition though. Like if your 32 bit win7 was professional, the 64 bit too has to be professional. Read this post for more information.
+http://www.tomshardware.com/forum/25969-63-using-install-instead"
+,m2cl4k,2012-11-09T10:07Z,If you experience black wallpaper I recommend you this app: http://coldlust.com/wallpaper/ which allows you to set your own wallpaper.
+,mongulenhetsig,2012-11-10T02:24Z,So does this work with installing through a USB? Cus Im tried that but dont work so dont know if thats not possible or if its something else
+,Heartofthorns,2012-11-10T14:15Z,"@ mongulenhetsig
+It does work using USB.
+1. I dunno about other software, but try using WinToFlash. http://wintoflash.com/home/en/  There is a video tutorial on the home page which shows you how to do it.
+2. Is your bios set so that your first boot device is USB drive or Pen drive or Removable drive? If not, set it as first, then the computer will boot through the USB. First go into BIOS, then it should be somewhere under Boot > Boot Priority Options.
+Hope that helps."
+,Wiskyeye,2012-11-10T15:29Z,For those asking about Booting from usb flash drive -- http://images2.store.microsoft.com/prod/clustera/framework/w7udt/1.0/en-us/Windows7-USB-DVD-tool.exe
+,Bmuzammil,2012-11-12T11:58Z,"Feedback 
+Alerts and Advice......
+Downloaded torrent :
+Windows 8 AllInOne 16-in-1 (Final Build 9200) + Permanent Activator 
+#!#!#!#!#!#!#!#!#!#!#! x32 & x64
+http://thepiratebay.se/torrent/7786020/Windows_8_AIO_16-in-1_%28Final_Build_9200%29___Permanent_Activator
+#!#!#!#!#!#!#!#!#!#!#!
+hi everyone, 
+(1)there is a virus in the Activators so avoid using antivirus as it will delete the files and windows will crash.
+(2) In Windows updates, change settings to check but don't install automatically and by installing (KB2756872 update) you have to run the activator again but not fix.
+(3) Buy Windows 8 if affordable for you!!!!!!!!!!~
+(4) If you are not an advance user and that also means if you don't know what restore points are then disable windows update.
+(5) Every single time you guy install any software or update please create Windows Restore Points, only if you think windows is out of bad luck.
+
+Works!~ Enjoy New OS as I am :) x32 & x64"
+,Gcentral,2012-11-14T21:37Z,"Downloaded. Installed. Now using with no issues.
+
+After using Windows XP Pro for nearly six years, I though of going for Windows 7 Ultimate but wanted to try out first. ""Maherz"" has done a great job compiling this download here. I have two hard drives and I have now installed Windows 7 on the second drive. I did have some issue with booting after installing Windows Loader but following the boot recovery steps mentioned in the ""read me"" file solved the issue. Everything including Windows update is working fine.
+
+Just follow the instructions. But when downloading and installing updates be sure to avoid KB971033 because it is designed to detect the pirated versions."
+,numbskull20,2012-11-16T16:40Z,"The disk won't boot for me. When I insert the disk the only Autoplay option is ""Open folder to view files'. 
+
+I've burned 4 different disks and still the same problem.
+
+I don't think there's anything wrong with the way I burned the discs because I tried mounting the image using Virtual CloneDrive. When Autoplay popped up the only option was still ""Open folder to view files""
+
+What's wrong. I recently downloaded and installed your 32-bit version and that worked fine. "
+,Heartofthorns,2012-11-17T00:53Z,"@ numbskull20
+Dude, to install you have to boot the disk at boot i.e. when you start the comp. When you start the comp and the disk is in the DVD drive, you'll get a message on the screen ""Press any key to boot from CD/DVD"" Press any key and then it boots. Then you can install it. I have no idea what you are trying to do by mounting the image and installing it."
+,numbskull20,2012-11-17T01:19Z,@Heartofthorns I already tried that. When I select my DVD drive in the boot menu I just get a black screen with a white cursor in the top-left corner. 
+,Heartofthorns,2012-11-17T08:03Z,"@ numbskull20
+In BIOS, go to Boot > Boot Device Priority. 
+There select your CD/DVD drive as the first priority and hard disk as second. It should then boot from the DVD."
+,Heartofthorns,2012-11-17T08:08Z,"@ numbskull20
+Sorry I may have misread your comment as I think you already tried that.
+
+For burning the DVD, I hope you burned it at minimum speed. Sometimes if you burn at high speeds, some sectors may not get written and you may get an error. Also to burn, here's something I posted few comments ago : 
+Burn the iso file to a DVD with minimal speed (the lowest speed, so that all tracks on the dvd are written without errors).
+1. If you're using ImgBurn to burn the DVD,
+(i) Open ImgBurn
+(ii) Click on ""Write image file to disc""
+(iii) Select the source where you have downloaded the .iso file (In short select the place where you have downloaded the file)
+(iv) Click on Write (the big icon at bottom)
+OR
+2. If you're using Nero Burning ROM
+(i) Open Nero Burning ROM
+(ii) Click on New
+(iii) Select ""DVD"" in the drop down menu (top left corner)
+(iv) Select DVD-ROM (UDF)
+(v) Click New and then drag the iso file there.
+(vi) It will ask to burn the compilation, select yes. Then Burn it.
+Note : Remember, burn at the lowest speed. 
+
+If the problem persists, ask on Maherz's forums (the link is in the torrent description) or in the piratebay forums (  https://forum.suprbay.org ). More qualified people might be able to help there."
+,johnplayerson,2012-11-18T00:22Z,How about making a windows 7 disc that will boot from uefi bios. A lot of people could use and easy to boot disc via uefi
+,khansahib007,2012-11-21T12:06Z,"i'm using vista on dell 1545, and want to install windows 7 on secondary partition.. so my question is whether this version would work on my laptop?? 
+
+Thanks.. :)"
+,rockNrollaBgd,2012-11-23T13:02Z,when u upload win7 with updates for november?
+,pirate_LD,2012-11-24T18:43Z,"I cant boot this, I do everything right I burn the iso file, I change my bios settings first boot from hhd to my dvd drive, and i cant boot it."
+,nairbseever21,2012-11-25T00:05Z,"Okay. So I am downloading Windows 7 on my Mac. I've made a partition, and I have this Windows torrent on my computer. I have run into the problem that I now have a partition, but for some reason Windows didn't install on the partition and I can't figure out how to make it install on the partition so that I can boot from Windows on startup. Anybody have any ideas? I'm on a late 2010 macbook air with OSX Mountain Lion"

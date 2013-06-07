@@ -1,0 +1,22 @@
+From the developer...
+
+
+
+iTMS Scrubber for Mac 1.1
+
+This is a basic droplet that removes the personal account information from your purchased files. It uses AtomicParsley to remove only the atoms/tags which contain your account info. This includes your name, email address, purchase date and the store country.
+
+To use it, simply drop any iTunes audio or music video files onto the icon. It will process the files and write out two reports in the containing folder. These show the tags before and after scrubbing. It's useful to ensure that the process completed successfully. The pinf atom (which contains your name) isn't visible using AtomicParsley so to show it's presence (and lack thereof) any instances of it will be printed at the top of the report files. If the After report contains a pinf line then it's possible that some or all of the files have not been scrubbed successfully. This is unlikely, however it's best to check.
+
+Dropping any other files onto the droplet (like digital booklets) will break the process. Until I can work out how to filter the dropped filetypes take care to only drop audio and video files onto the icon.
+
+Release History
+
+
+v1.1a	Fixed a bug in album art extraction.
+
+v1.1		Compiled AtomicParsley from current SVN code. 
+		Added support for G3 processors.
+		Added album art extraction.	
+
+v1.0		Initial release.

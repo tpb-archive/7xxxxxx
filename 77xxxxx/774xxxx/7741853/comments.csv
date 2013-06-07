@@ -1,0 +1,121 @@
+﻿User Type,Username,Date,Text
+,gevaarlik,2012-11-09T11:17Z,"I installed everything, didn't work so i unstalled everything i tried again. But when everything's finished installing I click on the desktop shortcut, my screen goes grey for a few seconds and then i get this, saying there's an error in the installation: 
+
+QA Timing INIT: 000000ms
+D3BFG 1.1400 win-x86 Oct  5 2012 11:38:38
+2394 MHz Intel CPU with MMX & SSE & SSE2 & SSE3 & HTT
+2032 MB System Memory
+1024 MB Video Memory
+Winsock Initialized
+Found interface: {14CFA791-2F0F-4BE5-9D8C-A040FCC6A60D} Atheros AR8131 PCI-E Gigabit Ethernet Controller - 192.168.0.4/255.255.255.0
+Sys_InitNetworking: adding loopback interface
+doom using MMX & SSE for SIMD processing
+enabled Flush-To-Zero mode
+enabled Denormals-Are-Zero mode
+------ Initializing File System ------
+Loaded resource file _common.resources
+Loaded resource file _ordered.resources
+Loaded resource file _sound_pc.resources
+Loaded resource file _sound_pc_en.resources
+Current search path:
+D:Doom 3 BFG Edition/base
+C:UsersRichieSaved Gamesid SoftwareDOOM 3 BFG/base
+file system initialized.
+--------------------------------------
+WARNING: Unable to open resource file maps/_startup.resources
+----- Initializing Decls -----
+------------------------------
+Couldn't open journal files
+execing default.cfg
+couldn't exec D3BFGConfig.cfg
+couldn't exec autoexec.cfg
+----- R_InitOpenGL -----
+Initializing OpenGL subsystem with multisamples:0 stereo:0 fullscreen:1
+...registered window class
+...registered fake window class
+...initializing QGL
+...calling LoadLibrary( 'opengl32' ): succeeded
+X..WGL_EXT_swap_control_tear not found
+display device: 0
+  DeviceName  : \.DISPLAY1
+  DeviceString: NVIDIA GeForce GT 335M  
+  StateFlags  : 0x5
+  DeviceID    : PCIVEN_10DE&DEV_0CAF&SUBSYS_0831152D&REV_A2
+  DeviceKey   : RegistryMachineSystemCurrentControlSetControlVideo{EAB83EC0-C234-4099-9344-194A3973C583} 000
+      DeviceName  : \.DISPLAY1Monitor0
+      DeviceString: Generic PnP Monitor
+      StateFlags  : 0x3
+      DeviceID    : MONITORAUO22EC{4d36e96e-e325-11ce-bfc1-08002be10318} 002
+      DeviceKey   : RegistryMachineSystemCurrentControlSetControlClass{4d36e96e-e325-11ce-bfc1-08002be10318} 002
+          dmPosition.x      : 0
+          dmPosition.y      : 0
+          dmBitsPerPel      : 32
+          dmPelsWidth       : 1366
+          dmPelsHeight      : 768
+          dmDisplayFlags    : 0x0
+          dmDisplayFrequency: 60
+...calling CDS: ok
+display device: 0
+  DeviceName  : \.DISPLAY1
+  DeviceString: NVIDIA GeForce GT 335M  
+  StateFlags  : 0x5
+  DeviceID    : PCIVEN_10DE&DEV_0CAF&SUBSYS_0831152D&REV_A2
+  DeviceKey   : RegistryMachineSystemCurrentControlSetControlVideo{EAB83EC0-C234-4099-9344-194A3973C583} 000
+      DeviceName  : \.DISPLAY1Monitor0
+      DeviceString: Generic PnP Monitor
+      StateFlags  : 0x3
+      DeviceID    : MONITORAUO22EC{4d36e96e-e325-11ce-bfc1-08002be10318} 002
+      DeviceKey   : RegistryMachineSystemCurrentControlSetControlClass{4d36e96e-e325-11ce-bfc1-08002be10318} 002
+          dmPosition.x      : 0
+          dmPosition.y      : 0
+          dmBitsPerPel      : 32
+          dmPelsWidth       : 1280
+          dmPelsHeight      : 720
+          dmDisplayFlags    : 0x0
+          dmDisplayFrequency: 60
+...created window @ 0,0 (1280x720)
+Initializing OpenGL driver
+...creating GL context: failed to create OpenGL 3.2 context
+created OpenGL 2.0 context
+succeeded
+...making context current: succeeded
+X..WGL_EXT_swap_control_tear not found
+
+------- Input Initialization -------
+Initializing DirectInput...
+mouse: DirectInput initialized.
+keyboard: DirectInput initialized.
+freespace_version: 0.6
+0 freespace devices
+------------------------------------
+OpenGL Version: 2.1
+OpenGL Vendor : NVIDIA Corporation
+OpenGL GLSL   : 1.2
+...using GL_ARB_multitexture
+...using GL_EXT_direct_state_access
+...using GL_ARB_texture_compression
+...using GL_EXT_texture_compression_s3tc
+...using GL_EXT_texture_filter_anisotropic
+   maxTextureAnisotropy: 16.000000
+...using GL_EXT_texture_lod_bias
+X..GL_ARB_seamless_cube_map not found
+X..GL_ARB_framebuffer_sRGB"
+,gevaarlik,2012-11-09T11:19Z,"This is the last part: 
+
+0: Speakers (Realtek High Definition Audio)
+     2 channels, 192000 Hz
+     Front Left and Front Right
+     Default Console Device, Multimedia Device, Communications Device, and Game Device
+Using device 0
+********************
+ERROR: GL_ARB_draw_elements_base_vertex not available
+********************
+Error during initialization
+Shutting down OpenGL subsystem
+...wglMakeCurrent( NULL, NULL ): success
+...deleting GL context: success
+...releasing DC: success
+...destroying window
+...resetting display
+...shutting down QGL
+...unloading OpenGL DLL"

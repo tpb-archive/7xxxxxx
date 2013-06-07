@@ -1,0 +1,28 @@
+Changelog - 09 October, 2012: Snagit 11.1 
+
+- Added system audio recording.
+- Added Video COM support.
+- Updated the look of Snagit Editor's toolbars and added a File tab.
+- Resolved the DLL Preloading Vulnerability due to Snagit loading libraries with elevated privileges.
+- Fixed a scrolling bug in Firefox that results in a corrupt image if Firefox's zoom setting is set to anything but 100%.
+- Fixed a bug where Snagit failed to capture a web page's URL in Chrome.
+- Fixed a video recording bug that resulted in green ghosting when attempting to record the taskbar.
+- Fixed a bug where Snagit activated a webcam on start up.
+- Fixed a bug where the second arrow added to a line does not match the first arrow.
+
+Windows System Requirements
+
+* Microsoft Windows XP with SP2 (32-bit only), Vista, Windows 7, or Windows 8 installed and configured on your system
+* Internet Explorer 8.0 or later required 
+* .NET 4.0 or later required for video 
+* 2.4 GHz single core processor (2.4 GHz dual core required for video) 
+* 1 GB of RAM (2 GB required for video) 
+* 125 MB of free hard disk space
+* Video capture on Windows 7 requires Windows 7 supported video and audio hardware
+* Video capture on Windows 7 N requires the Media Feature Pack for Windows 7 N
+* Snagit add-ins for Microsoft Word, Excel, PowerPoint, and Outlook work with Office 2000, Office XP, or later
+* Snagit add-in for Microsoft Internet Explorer works with Internet Explorer 6.0 or later
+* Snagit requires Active Accessibility 2.0 to capture links from webpages
+* Snagit Stamps requires Snagit 6.3 or later 
+
+Homepage : http://www.techsmith.com/snagit.html

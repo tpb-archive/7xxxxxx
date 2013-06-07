@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,Guizin239,2012-11-05T11:04Z,Uhmmm....Can 5.1 videos be played on 2.0 sound system?
+[T],SecTPB,2012-11-05T11:21Z,"@Guizin239
+Of course. Though it wouldn't sound as good. You can always use a video player to downmix the audio track to 2.0 Stereo.
+
+In VLC, open the video, right-click on the screen, go to ""Audio,"" then ""Audio Devices"" and select ""Stereo.""
+
+In Media Player Classic, open the video and right-click on the screen, go to ""Audio,"" then ""Options"" and make sure ""Enable Custom Channel Mapping"" is enabled, and make sure ""Input Channels"" is set to ""2."" Then click ""Apply.""
+"
+,Guizin239,2012-11-05T12:20Z,Thank you for the help.
+[T],SecTPB,2012-11-05T12:25Z,.
+,Leopardi,2012-11-05T13:49Z,I'm watching with PS3 Media Server and theres option to downmix to 2.0.
+[T],SecTPB,2012-11-05T13:54Z,"@Guizin239 
+No problem."
+[T],SecTPB,2012-11-05T13:56Z,"@Leopardi
+Yes, you're right. PS3 Media Server has that option, and if you want to watch on an Xbox using PS3 Media Server, you NEED to downmix to 2.0 Stereo since Xbox does not support 5 channels and will not play the file."
+,veejayman,2012-11-05T16:42Z,"THANKS SO MUCH FIOR SHARINg and in such EX quality! I burn the data file on a BD-R and its plays perfect on my BLU RAY PLAYER - again I appreciate wnd will seed!
+
+WHERE'S CARL???"
+,Darkness2179,2012-11-05T19:50Z,"Great job in uploading such high quality episodes!
+
+Thanks man!"
+,21Rick,2012-11-06T15:02Z,"Runs smooth in media player, without ffdshow.
+The video and audio is syncronized.
+
+But I want to have subtitles, so played it in media player classic with ffdshow, the video and sound is not syncronized with each other because the video is running too slow.
+Any advise?"
+[T],SecTPB,2012-11-07T00:01Z,"@21Rick
+Download, install, and load LAV Video and Audio codecs inside MPC instead. If you're on Win7, just install Shark007's Win7 codec back and use his suggested settings for your system, then just load LAV Video & LAV Audio in MPC External Filter options and check the ""Prefer"" button for both of them. LAV is far superior to FFDShow."

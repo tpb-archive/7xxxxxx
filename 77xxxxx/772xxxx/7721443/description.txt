@@ -1,0 +1,40 @@
+Dishonored SweetFX SMAA Injector:
+Color Correction, Luma sharpening, SMAA
+
+See the difference here, search for 'Dishonored SweetFX SMAA Injector' on YouTube:
+
+SweetFX:
+
+SweetFX Shader Suite (or just SweetFX) is a mod built on the InjectSMAA shader injector, that allows you to apply a suite of 
+
+post processing shader effects to your games.
+
+You can add SMAA anti-aliasing , sharpening and tweak the color, gamma , exposure and more.
+It's meant to allow you to improve the look of your games and change the look and mood of it to your liking.
+If you use SMAA antialiasing instead of MSAA or an even more expensive antialaliasing technique you can also make the game 
+
+run faster (than with MSAA)
+
+It can currently add:
+
+* SMAA (anti-aliases the image using the SMAA technique )
+* LumaSharpen (Sharpens the image, making details easier to see)
+* Bloom (Makes strong lights bleed their light into their surroundings)
+* HDR (mimics an HDR look)
+* Technicolor (Makes the image look like it was processed using a three-strip Technicolor process )
+* Tonemap (Light and color adjustments)
+* Vibrance (Intelligently saturates (or desaturates if you use negative values) the pixels depending on their original 
+
+saturation)
+* Sepia (Sepia tones the image )
+* Vignette (Adds a vignette that darkens the borders to the image )
+* Dither (Dithers the image making it look like it was displayed on a monitor with more colors than actually present )
+
+It works with all 32bit DirectX 9 , 10 and 11 games.
+It does NOT work with 64bit game executables - use the 32bit version of your game if it gives you a choice between 32 and 
+
+64bit.
+It works with all graphics cards as long as they support at least shader model 3.
+
+All Credits 7 Kudos go to:
+CeeJay.dk & Shadowzack.

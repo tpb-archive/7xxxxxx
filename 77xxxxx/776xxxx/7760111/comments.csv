@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,ceneq,2012-10-26T01:30Z,Thanks ScorpioPirate. Can you upload TomTom with maps of Brazil? Tks.
+,scerrone,2012-10-26T19:48Z,doesn't work. I put all in a folder tomtom but program ask me to connect with internet and after it tries it failed and can't go on
+,ScorpioPirate,2012-10-27T13:45Z," ##scerrone p책 2012-10-26 19:48 CET:
+doesn't work. I put all in a folder tomtom but program ask me to connect with internet and after it tries it failed and can't go on##
+
+It works perfect, you have to try one more time.
+In the ""metadata.xml"" files, try to remove the numbers between size size >xxx<
+Have fun :)"
+,Abaris777,2012-10-27T19:09Z,Does this work offline? Thnx
+,Abaris777,2012-10-27T19:16Z,can u please upload australia as well?
+,ScorpioPirate,2012-11-02T14:30Z,""""" ceneq p책 2012-10-26 01:30 CET:
+Thanks ScorpioPirate. Can you upload TomTom with maps of Brazil? Tks.""""
+
+Hi... will upload Brazil later in this week :)"
+,ScorpioPirate,2012-11-02T14:31Z,""""" Abaris777 p책 2012-10-27 19:16 CET:
+can u please upload australia as well?""""
+
+When I got it I will upload Australia to :)"
+,ScorpioPirate,2012-11-02T14:57Z,"If some have problems to run TomTom:
+
+A piece of advice: To get tomtom working if not running yet you must:
+open metadata.xml in text editor and change the xxxxxxxxxxx (xx.. are numbers) to ""0""
+after that, you can delete uneeded languages from folder com.tomtom.europe/files/VautoTTS/languages/ leave just language what u need
+You save arround 1GB!!!
+
+Have fun :)
+
+ScorpioPirate :)"
+,javamanden,2012-11-20T21:14Z,"Hi, ScorpioPirate..
+
+What year is the Map??"

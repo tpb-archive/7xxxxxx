@@ -1,0 +1,14 @@
+Original Windows 8 x64 pro med indbygget dansk sprog (også original cab-fil).
+
+Serienr. til installation NG4HW-VH26C-733KW-K6F98-J8CK4
+
+Aktiveringsmetode hentet fra en anden torrent, der giver 180 dages aktivering - til den tid er der sikkert en bedre løsning:
+
+"Mouse down to bottom left corner. Right click on the Start/desktop button.
+Click "Command Prompt (Admin)" and type in these 3 commands at the command prompt:
+
+slmgr /ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr -skms kms.creighton.edu
+slmgr -ato"
+
+eller kør kms.bat

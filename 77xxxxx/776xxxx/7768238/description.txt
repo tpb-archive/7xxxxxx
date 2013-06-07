@@ -1,0 +1,5 @@
+Review: A C programming book for experienced programmers.
+
+When I started programming in C I was doing embedded operating system design and this was the only book I found that clearly explained what a stack frame was and how to unwind it in assembler to handle errors. It contains information for the experienced C programmer that I have never found elsewhere on how C code works 'behind the scenes' (assembly language, binary arithmetic, complex pointer math, stack frames, function call jump tables, etc.). It is not a book for beginning programmers, and it is not in any way an introduction to the C language, it is however, an unusual resource for the experienced programmer.
+
+rr

@@ -1,0 +1,22 @@
+This one if you want the highest quality available from the web site.
+And you don't mind x264 in an AVI container
+
+========= IMDB.com/title/tt0350448/
+
+Release Name: Real.Time.With.Bill.Maher.2012.10.19.OverTime.x264.MP3-AVIGUY.avi
+
+From AVIGUY:
+Release Size: 127 Mb
+Run Time: 7:36
+Resolution.....: 960x544
+Video: x264 AVI
+Audio: MP3 160kbps 44KHz CBR
+CC2AVI: FLVExtract [Extract x264 video, AAC audio]
+CC2AVI: MP4Muxer [Create MP4 @ wrong framerate]
+CC2AVI: MP4cam2AVI [conversion to AVI]
+CC2AVI: VirtualDub 1.4.13 [audio compression, frame rate fix 25 to 29.970]
+
+This is one of my remaining x264 CC2AVI offerings.
+Re-encoding of this never comes out quite right.
+If someone REALLY needs it XVID, I may give it a shot.
+Video is EXACTLY what HBO offers - the audio has been converted to MP3.

@@ -1,0 +1,85 @@
+Piratas del Caribe, la maldición de la Perla Negra
+
+General
+Format : Matroska
+Format version : Version 2
+File size : 13.1 GiB
+Duration : 2 h 23 min
+Overall bit rate : 13.1 Mb/s
+Encoded date : UTC 2012-10-01 12:17:19
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L5.1
+Format settings, CABAC : Yes
+Format settings, ReFrames : 8 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 2 h 23 min
+Bit rate : 10.8 Mb/s
+Width : 1 920 pixels
+Height : 800 pixels
+Display aspect ratio : 2.40:1
+Frame rate mode : Constant
+Frame rate : 23.976 FPS
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.293
+Stream size : 10.5 GiB (81%)
+Writing library : x264 core 55
+Audio #1
+ID : 2
+Format : DTS
+Format/Info : Digital Theater Systems
+Muxing mode : Header stripping
+Codec ID : A_DTS
+Duration : 2 h 23 min
+Bit rate mode : Constant
+Bit rate : 755 kb/s
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 kHz
+Bit depth : 24 bits
+Compression mode : Lossy
+Stream size : 773 MiB (6%)
+Language : Spanish
+Default : Yes
+Forced : No
+Audio #2
+ID : 3
+Format : DTS
+Format/Info : Digital Theater Systems
+Muxing mode : Header stripping
+Codec ID : A_DTS
+Duration : 2 h 23 min
+Bit rate mode : Constant
+Bit rate : 1510 kb/s
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 kHz
+Bit depth : 24 bits
+Compression mode : Lossy
+Stream size : 1.51 GiB (12%)
+Language : English
+Text #1
+ID : 4
+Format : ASS
+Codec ID : S_TEXT/ASS
+Codec ID/Info : Advanced Sub Station Alpha
+Compression mode : Lossless
+Language : Spanish
+Default : Yes
+Forced : Yes
+Text #2
+ID : 5
+Format : ASS
+Codec ID : S_TEXT/ASS
+Codec ID/Info : Advanced Sub Station Alpha
+Compression mode : Lossless
+Language : English
+Default : No
+Forced : No
+
+¡Disfruta y siembra!

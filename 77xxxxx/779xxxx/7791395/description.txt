@@ -1,0 +1,68 @@
+============================================================================
+|There are no well established activation bypass as of yet, so I have not  |
+|included them.                                                            |
+|----------------------------------murphy78--------------------------------|
+|No Windows 8 Settings were harmed in the making of this ISO.              |
+|No Programs are added.                                                    |
+|No Unattended Settings were added to the installation.                    |
+|No Registry Settings were modified.                                       |
+|--------------------------------------------------------------------------|
+|Either burn the included .iso file to a dvdr or use a usb flash drive.    |
+|I have included diskpart instructions and the win7usb tool.               |
+|I personally use diskpart and winrar, but the tool may be easier.         |
+|----------------------------------murphy78--------------------------------|
+|---32-bit Build 9200 MSDN Sources:                                        |
+|en_windows_8_x86_dvd_915417                                               |
+|en_windows_8_pro_vl_x86_dvd_917830                                        |
+|en_windows_8_pro_n_vl_x86_dvd_918877                                      |
+|en_windows_8_n_x86_dvd_916097                                             |
+|en_windows_8_enterprise_n_x86_dvd_918707                                  |
+|en_windows_8_enterprise_x86_dvd_917587                                    |
+|----------------------------------murphy78--------------------------------|
+|Installations included:                                                   |
+|Windows 8 32-bit, Windows 8 N 32-bit, Windows 8 Pro 32-bit,               |
+|Windows 8 Pro N 32-bit, Windows 8 Pro VL 32-bit,                          |
+|Windows 8 PRO N VL 32-bit, Windows 8 Pro with Media Center 32-bit,        |
+|Windows 8 Enterprise 32-bit, Windows 8 Enterprise N 32-bit                |
+|----------------------------------murphy78--------------------------------|
+|NOTE: The only known method of being able to activate the Pro with Media  |
+|Center editions is to first install with Pro; Activate that pro online or |
+|Using the phone method (Turn off your internet and try to activate).      |
+|After Activating Pro, BACKUP YOUR activation with Advanced Tokens Manager |
+|3.5 beta 3 or later.  Then disable your internet and attempt to activate a|
+|Windows 8 Media Pack key via Phone Method. To start adding the Media Pack |
+|Key press windows+f and type "add fe", click on settings, then click on   |
+|the Add Features program.  The rest is self explanatory. If you manage to |
+|get Pro with Media Center activated, make sure to BACKUP the activation.  |
+|Attempt this at your own risk.                                            |
+|----------------------------------murphy78--------------------------------|
+|To restore a backed up key with Advanced Tokens Manager you need to first |
+|open an Admin Command Prompt (winkey+x, click admin prompt)               |
+|Then, in the command prompt type "slmgr /upk" without the quotes. Press   |
+|enter and you should get a popup window saying key removed.  Run the      |
+|Advanced Tokens Manager as admin (right click, select run as admin)       |
+|If the backup directory is found, you should be able to click restore.    |
+|To restore a Pro WMC install, repeat the process twice. It's just a quirk.|
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction                                               |
+|dism for file package addition                                            |
+|oscdimg for iso mastering                                                 |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703          |
+|NetFX 2.0-3.5.1 added with DISM using SXS folder.                         |
+|----------------------------------murphy78--------------------------------|
+|I have personally tested every install on this ISO.  It should not        |
+|require a setup key as there is a skip button, but if it does, I have     |
+|included some default install keys.  I have not verified them as working. |
+|Use them at your own risk.                                                |
+|----------------------------------murphy78--------------------------------|
+|These MSDN iso sources have pre-release EULA on some of the installations.|
+|All reports indicate that the binaries are exactly the same as the ones   |
+|in the retail dvds.  If you don't like it, don't use it. If you want to   |
+|use a retail version, you need a retail key. The programs are the same.   |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 - TPB :)                                                         |
+============================================================================

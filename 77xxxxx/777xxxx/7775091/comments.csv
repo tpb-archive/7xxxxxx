@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,hairyleg,2012-10-31T05:45Z,"Some links were deleted from description. For complete instructions and support visit
+http://olarila.com/forum/viewtopic.php?f=27&t=2197"
+,Zombeeeh,2012-11-04T08:57Z,"Hey Dude ,I have a problem,My PC Freezes in ""System uptime in nanoseconds= 'some random numbers' "" .,So what should i do "
+,lemarqx,2012-11-05T08:36Z,"How do ypu proceed, guys, when you boot from USB ?
+I followed the instructions, enter the BIOS, boot from USB HDD, but nothing happent.
+Windows is booting up.
+What am i doing wrong ??"
+,hairyleg,2012-11-05T22:20Z,"Use topic in my first comment for support, post full hardware specs."
+,awqurt,2012-11-12T11:07Z,"""Install boot loader to the HD""
+I installed clover ... does not boot. I installed chameleon ... always kernel panic ... any ideas?"
+,oldnapalm,2012-11-12T21:53Z,"Next step, ""Install essential and other kexts you may need"".
+
+Did you install *essential kexts* (FakeSMC, NullCPUPowerManagement)?"
+,hairyleg,2012-11-13T01:45Z,"@lemarqx
+
+try this
+http://olarila.com/forum/viewtopic.php?f=18&t=2238"

@@ -1,0 +1,39 @@
+﻿Filename,Size,Unit
+00 Introduction/01 Welcome.mp4,3.41,M
+00 Introduction/02 What you need to Know.mp4,2.82,M
+00 Introduction/03 Using the exercise files.mp4,1.18,M
+01 Getting Started/01 Learning Core Data .mp4,7.52,M
+01 Getting Started/02 Why use Core Data.mp4,9.35,M
+01 Getting Started/03 Understanding what Core Data Provides.mp4,10.12,M
+01 Getting Started/04 Creating a Core Data project.mp4,15.21,M
+02 Modeling in Core Data/01 Introduction to data modeling in Core Data.mp4,7.02,M
+02 Modeling in Core Data/02 Creating entities.mp4,7.1,M
+02 Modeling in Core Data/03 Creating and configuring attributes.mp4,13.77,M
+02 Modeling in Core Data/04 Modeling relationships.mp4,15.75,M
+03 Saving in Core Data/01 Creating managed objects.mp4,26.97,M
+03 Saving in Core Data/02 Understanding the managed object context.mp4,14.86,M
+03 Saving in Core Data/03 Saving the managed object context.mp4,9.67,M
+03 Saving in Core Data/04 Creating custom managed object subclasses.mp4,15.41,M
+04 Fetching in Core Data/01 Ctreating and using a fetch request.mp4,17.6,M
+04 Fetching in Core Data/02 Ordering with sort descriptors.mp4,9.89,M
+04 Fetching in Core Data/03 Using predicates.mp4,20.46,M
+04 Fetching in Core Data/04 Creating fetch request templates.mp4,10.55,M
+05 Putting It Together - iOS/01 Creating the project and the data model.mp4,27.48,M
+05 Putting It Together - iOS/02 Configuring the fetched results controller.mp4,28.42,M
+05 Putting It Together - iOS/03 Creating and configurin the modal view controller.mp4,41.82,M
+05 Putting It Together - iOS/04 Responding to changes in the underlying objects.mp4,19.62,M
+05 Putting It Together - iOS/05 Deleting objects from the table view.mp4,8.03,M
+05 Putting It Together - iOS/06 Creating a display view controller.mp4,17.65,M
+05 Putting It Together - iOS/07 Switching modes in a view controller.mp4,19.62,M
+06 Putting It Together - Cocoa/01 Creating a Core Data Cocoa app without code.mp4,23.86,M
+06 Putting It Together - Cocoa/02 Creating a drilldown application using multiple entities.mp4,24.58,M
+06 Putting It Together - Cocoa/03 Responding to validation issues.mp4,14.98,M
+06 Putting It Together - Cocoa/04 Working with relationship and delete rules.mp4,6.82,M
+06 Putting It Together - Cocoa/05 Implementing undo and redo functionality.mp4,12.13,M
+07 Store Types and Model Changes/01 Revisiting Core Data store types.mp4,8.44,M
+07 Store Types and Model Changes/02 Converting store types.mp4,13.42,M
+07 Store Types and Model Changes/03 Preloading default data.mp4,15.21,M
+07 Store Types and Model Changes/04 Dealing with schema changes.mp4,8.84,M
+07 Store Types and Model Changes/05 Exploring lightweight migration.mp4,17.68,M
+08 Conclusion/08.mp4,8.06,M
+Ex_Files_CoreData_iOS_OSX.zip,1.77,M

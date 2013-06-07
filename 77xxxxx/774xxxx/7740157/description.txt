@@ -1,0 +1,33 @@
+HereΓÇÖs the next snapshot, 12w42b! We are pushing these very rapidly now because we need to get ready for the 1.4 pre-release (which needs to be out before the official release on October 24). Since yesterdayΓÇÖs snapshot weΓÇÖve doneΓÇª
+
+1.Falling sand now properly ΓÇ£popsΓÇ¥ when falling on non-solid blocks (such as torches)
+2.The redstone repeater lock mechanism is now slightly more stable / predictable. ItΓÇÖs still not 100% as we want it, but fixing it completely will require bigger changes that weΓÇÖve planned for Minecraft 1.5.
+3.Fixed tooltip width for renamed items
+4.Added a number of sound events, but the sound effects are not added yet
+5.Server ping will now tell if the server and client have mismatching protocol versions
+6.Updated translation files
+
+
+---------------------------------------------------------
+
+INSTALL INSTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. Drag/Copy the new minecraft.jar file into /bin folder and replace it.
+
+4. Make a new folder named "server" .minecraft/server in that folder drag/copy the minecraft_server.jar file 
+
+-----------------------------------------------------------------------------------
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.
+
+-------------------------------------------------------------------------------------

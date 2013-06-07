@@ -1,0 +1,53 @@
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 542 MiB
+Duration                                 : 1h 41mn
+Overall bit rate                         : 746 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+TITLE                                    : EbFTTs.mp4
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 41mn
+Width                                    : 848 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 41mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 24.0 KHz
+Compression mode                         : Lossy
+Default                                  : Yes
+Forced                                   : No
+
+SCREENS:
+ 
+http://s14.postimage.org/90l3gdys1/eb0eba0094a295a38e6dd8992c1bcc58.jpg

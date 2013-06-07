@@ -1,0 +1,40 @@
+Pro PHP Security: From Application Security Principles to the Implementation of XSS Defenses (Expert's Voice in Open Source)
+
+
+Publication Date: December 9, 2010 | ISBN-10: 1430233184 | ISBN-13: 978-1430233183 | Edition: 2
+Published by: Apress
+
+PHP security, just like PHP itself, has advanced. Updated for PHP 5.3, the second edition of this authoritative PHP security book covers foundational PHP security topics like SQL injection, XSS, user authentication, and secure PHP development. Chris Snyder and Tom Myer also delve into recent developments like mobile security, the impact of JavaScript, and the advantages of recent PHP hardening efforts. 
+
+Pro PHP Security, Second Edition will serve as your complete guide for taking defensive and proactive security measures within your PHP applications. Beginners in secure programming will find a lot of material on secure PHP development, the basics of encryption, secure protocols, as well as how to reconcile the demands of server-side and web application security.
+
+What youΓÇÖll learn:
+
+Secure PHP development principles
+PHP web application security
+User and file security
+Mobile security
+Encryption and secure protocols
+Dealing with JavaScript
+Who this book is for
+Pro PHP Security appeals to all intermediate and advanced PHP programmers who need to keep websites safe. It also contains material of interest to all who are concerned with web application security.
+
+-Table of Contents
+
+Why Is Secure Programming a Concern?
+Validating and Sanitizing User Input
+Preventing SQL Injection
+Preventing Cross-Site Scripting
+Preventing Remote Execution
+Enforcing Security for Temporary Files
+Preventing Session Hijacking
+Securing REST Services
+Using CAPTCHAs
+User Authentication, Authorization, and Logging
+Preventing Data Loss
+Safe Execution of System and Remote Procedure Calls
+Securing Unix
+Securing Your Database
+Using Encryption
+Securing Network Connections: SSL and SSH
+Final Recommendations

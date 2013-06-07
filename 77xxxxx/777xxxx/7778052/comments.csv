@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,coolguy555,2012-10-31T17:31Z,Unlock all missions
+,gino1965,2012-11-01T14:09Z,Thank you so much. With that I could avoid origin checkpoint. Nice!.
+,hank266,2012-11-01T20:58Z,"Thx alot for this. It ""Saved"" my day^^"
+,levin123,2012-11-04T11:52Z,"Those having difficulties to proceed to load the car mission(hot pursuit) kindly
+change the language from english to russian.
+After you beat the level,then change it back to english. It's working for me!
+
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_en_US.dll""
+
+""Locale""=""en_us""
+
+
+to
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+
+""Locale""=""ru_RU"""

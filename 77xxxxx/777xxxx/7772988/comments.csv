@@ -1,0 +1,58 @@
+﻿User Type,Username,Date,Text
+,trex456,2012-10-30T09:20Z,"+1
+thanks 
+after 10 days I guess
+I have requested Casino Royale 1080p(Unrated) Kindly tell me the status of it..."
+,dhjudasx,2012-10-30T18:47Z,"I ran into Real life things, Death in family tends to throw a wrench into predicted dates and such.
+
+The moment i can get casino royal up and running i'll post it... but as it stands I still haven't received it as expected from the family member responcible for getting it. I would hope to have it this week, but life has tendency to keep throwing wrenches in everywhere. Check back in a week or so. ;)"
+,trex456,2012-10-31T08:35Z,Sorry for the loss Buddy ...Please take your time ..No hurry ..Thanks for the reply
+,dhjudasx,2012-11-17T08:10Z,trex... currently ripping the casino royal disk... so it'll be in encoding quere here soon... just figured i'd update you on that.
+,ironrush,2012-11-19T16:34Z,"Hi Judas!
+Great quality! But I can't make my home theater recognize the 5.1 audio. I extracted both audio tracks, but isn't showing 5.1.
+Any tip to this man?
+Thanks!"
+,dhjudasx,2012-11-20T17:29Z,"ironrush...
+
+5.1 audio is supported by devices that allow you to choose the 2nd audio stream... 
+
+Additionally your computer/device MUST be able to read 5.1 AAC and either decode it at the source before transmitting to your 5.1 receiver.. OR you must have a relatively new receiver capable of decoding 5.1 AAC (assuming your device your playing the movie on allows for passthrough of the aac digital format)
+
+If your using Toslink/Coax/Fiber digital connection to your receiver.... this is likely going to be the biggest obstackle and reason for your issues. These are now dead/obsolete standards.
+
+IF you use HDMI from the device to the receiver, lets take for example a Computer or PS3, If either of these devices are attached directly to your 5.1 receiver via HDMI, then you should be able to decode then transmit 5.1 audio DIRECTLY to the receiver without any special settings.
+
+I've personally tested a PS3 connected via HDMI to a home receiver, after selecting the movie to play, then selecting the audio option for that file after it starts, making sure to select the 2nd audio stream/track, 5.1 works.
+
+On a PC.. using VLC.... via HDMI or Analog... simply select the movie, start it, and then right click, select audio~>Audio Track ~> Track 2
+
+By default if 5.1 audio is setup properly on the computer, it should automatically attempt to play 5.1 audio... otherwise right click again... select AUDIO ~> AUDIO DEVICE ~> 5.1.
+
+If your machine/hardware/devices are not compliant with 5.1 AAC playback, you'll only be able to experience 2 channel stereo unfortunately.
+
+There is however ONE last special case senario...
+
+If your using toslink/coax/fiber digital audio connection from a PC.... there are 2 options...
+
+1: you can check and see if your pc have Dolby Digital LIVE! or DTS-Connect, these are software based technologies that allow for on the fly encoding of all 5.1 audio into a DD/DTS 5.1 Format that can be transmitted to any receiver capable of this.
+
+Unfortunately this isn't commonly bundled with i'd say 99% of the machines on the planet... Creative however does allow for you to purchase this package addon.
+
+2: This option is free and imo, much less friendly and may introduce headaches. Using AC3 Filter codec/package, you can tell it to convert all incoming 5.1 audio into a specific AC3/DTS/DD 5.1 digital audio format to pass through to your receiver. Some people have luck.. others have experienced nightmares.
+
+Do these things at your own risk obviously. But hopefully i cleared up a few questions.
+
+AAC5.1 Is relatively a newish format that not many devices support. Hell even Apple flat out refuses to play 5.1 AAC... This is why i've provided a 2.0 AAC primary audio channel to Ensure 100% capability/playback support for all devices.
+
+To implement true 5.1 DTS/DD... the file size would grow by about 500 to as much as 800MB or more in size."
+,Wiseguydude,2012-11-22T02:40Z,I was wondering if this has alien subtitles. Thanks a lot dhjudasx
+,dhjudasx,2012-11-23T17:47Z,"This has everything subtitled...
+
+If you disable the subtitles.. then you won't be able to see anything for the alien dialogue.
+
+However i do beleive if you visit http://subscene.com/
+You can download the SRT/subtitles for JUST the alien parts.
+
+OR
+
+you can manually Duplicate then open the SRT file using notepad/wordpad/Word or any other of your favorite word document program.... and delete everything except for the alien parts, then save it."

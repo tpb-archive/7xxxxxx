@@ -1,0 +1,9 @@
+W32DASM is a program disassembler designed for educational purposes. It provides you with the possibility to take a look at the code of any application, thus giving you some insight into the world of programming. It includes save, print and search functions and bundles an easy-to-use 32-bit program debugger. Other abilities consist of full cross referencing for Call / Jump instructions, functions for importing and exporting and a hex utility.
+
+There is no installation process, so your efforts are reduced to simply launching an executable file. The user interface has a rather basic appearance, but simplicity in terms of look is what makes it intuitive and easy-to-use. ThereΓÇÖs nothing complicated about the programΓÇÖs usage: just load the file of interest, disassemble it and use the additional functions that the application offers. Once you open a project, you might be struck by the strange looking font. Make sure to switch to another one in the Disassembler menu by checking with the font sample. You are going to love W32DASM if you're a fan of reverse engineering (start with the ending and work through the beginning). What can you do with it? For example, you can create a key generator. In addition, the application takes up minimum CPU and memory resources, so the costs involve only your attention. Possibilities to learn about code are endless with this application. So, if you want to get the true programmer experience and ΓÇ£time travel to low-level programmingΓÇ¥, then use W32DASM with confidence.
+
+Here are some key features of "W32DASM":
+┬╖ Disassembles Both 16 and 32 Bit Windows Programs
+┬╖ Displays for Exports, Imports, Menu, Dialog, and Text References
+┬╖ Integrated Debugger for 32 Bit Programs (16 Bit Debug Not Available)
+┬╖ Includes Text Search and Navigation Functions

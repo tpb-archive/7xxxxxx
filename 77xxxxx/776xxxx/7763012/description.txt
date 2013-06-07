@@ -1,0 +1,15 @@
+Content :
+Source code of Ran Online EP7v1 Server files + client files + almost all tools
+Missing : Item Editor, Skill Editor, Quest Editor, Mob Editor, GM Char Editor, World Editor, Effect Editor source code
+
+You might have to clear the _rbuilddata folder if you get unexplained error on compiling
+There are 2 errors in the code, easy to fix for anyone who has the slightest idea about C++
+
+The code is written in C/C++ it has poor coding style, and 50% of the comments are korean
+
+extract it, use VM Ware player to open it
+
+IF IT GETS STUCK ON LOADING WINDOWS THEN USE SAFE MODE
+
+
+All you have to do is open vs2003, source compiles right away, no configuration

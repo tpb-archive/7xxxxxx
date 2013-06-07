@@ -1,0 +1,27 @@
+easyHDR PRO
+
+High Dynamic Range image processing software
+
+
+EasyHDR PRO is an image processing software that produces and tone maps High Dynamic Range (HDR) images out of photo sequences taken with a digital camera. It is capable of importing several image formats: JPEG, 24/48-bit TIFF, FITS or any RAW photo (thanks to integration with DCRAW). EasyHDR PRO can also import OpenEXR (*.exr), Radiance RGBE (*.hdr) and 96-bit floating point TIFF HDR images that were previously generated with any other HDR image processing software.
+
+In order to produce a well exposed and dramatic-looking photo it is not always necessary to use a series of differently	exposed images. Sometimes just one photo is sufficient. That's why easyHDR PRO gives you the ability to process a single image - the feature is called LDR (Low Dynamic Range) enhancement.
+
+What is a HDR image?
+High Dynamic Range image covers much wider dynamic range (light to dark ratio) than a normal digital camera can	record (due to noise and overexposure). A HDR image is created by blending an image sequence of photos taken at different exposure values (various shutter speed, ISO sensitivity or aperture). Each photo in the sequence shall cover a part of the dynamic range of the photographed scene. The resulting HDR image will therefore contain the full information from all of the photos.
+
+How to take an image sequence?
+If you try to photograph a scene and get some unwanted over- or underexposured areas you may consider taking a bracketed sequence that could be later blended to HDR and processed. The easiest way to do so is to turn on autobracketing (AEB) in your digital camera, set the number of photos in the sequence and the EV (Exposure Value) spacing. The 0EV photo will be taken at the exposure time, ISO and the f-number measured by the camera as the	best for the particular scene. The other photos will be deliberately underexposed (negative EV) or overexposed (positive EV) so they will contain details that are lost in the 0EV photo due to noise and overexposure. The photographed scene should be static - there should be no movement or light change during the photo sequence acquisition, otherwise ghosting effect will be visible in the assembled HDR image. Most ghosts however can be removed with easyHDR's manual or automatic ghost removal tools. You should use a tripod while taking the photo sequence, but hand-held photos that are misaligned can be aligned with easyHDR PRO, which features both: manual and automatic alignment methods. It is possible to compensate for shift, rotation and perspective. If the autobracketing is not sufficient you may want to manually vary the exposure time, preferably with constant ISO and f-number. When you take for example three photos at 1/200 (A), 1/100 (B) and 1/25 sec (C), this will mean that the photo (A) is underexposed by 1 EV relatively to the photo (B) and the photo (C) is overexposed relatively to (B) by 2EV - so you have a photo sequence: -1EV, 0EV and +2EV
+
+Operating system:
+
+Windows (XP/Vista/Win7, 32 or 64 bit).
+
+Homepage: http://www.easyhdr.com/about.php
+
+Installation Instructions:
+
+1. Install Program.
+2. Copy content from crack folder and paste into default installation directory.
+3. Run "Regme" and merge it.
+4. Done, Enjoy.

@@ -1,0 +1,34 @@
+﻿User Type,Username,Date,Text
+,mac18326,2012-10-29T23:46Z,Can't get the keygen to work in the application.  Anyone else having a problem?  I run the application - it automatically asks you to register (I select register from another computer).  Run the Keygen and select 'Patch'  It askes me to find both the 'ACID Music Studio 9.0x Directory' (works fine) and the 'Shared Plug-ins' Directory (this is where I get an error = DI Keygen: An error has occured while patching the file(s)!  HELP! 
+,mac18326,2012-10-30T00:04Z,"The installation steps I am taking.
+
+
+Stop All Internet Traffic temporarily 
+
+1) Installed ""musicstudio9.0.35.exe"". When install is complete, then I
+2) Copyied Keygen into ACID Pro 9 Installation directory. 
+2) Ran the Keygen. 
+3) From the drop-down ""Product Name"" menu, choose ""ACID Music Studio 
+
+9.0"" 
+4) Then click Patch. Window will ask that I inform that I locate the the 'ACID Music Studio 9.0x Directory' this workd FINE then I am asked to locate the 'Shared Plug-ins' Directory.  I locate it but I get the following = = DI Keygen: An error has occured while patching the file(s)! 
+
+After this error when I continue with the following steps:
+
+
+5) Start up ACID 9.
+6) Copy the ""Serial Number"" from Keygen window (starts with ""1KB"") 
+
+into the serial number box. 
+7) Click ""Authorize from another Computer."" 
+8) Fill out information; computer will save it somewhere. 
+9) Copy the ""Activation/Authentication Code"" from the Keygen and paste into 
+
+the activation code box in ACID. 
+
+Click OK.
+
+Message indicate that the Authentication Code is not correct.
+
+HELP?!"
+,mmi1403,2012-11-23T03:55Z,You must run keygen as administrator (Right click on keygen and choose run as admin)

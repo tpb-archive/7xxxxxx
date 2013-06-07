@@ -1,0 +1,73 @@
+ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+\//\//\//\//\/Û\//  / /ÚÄ¿ÚÄ¿ÚÄ¿\//\//\//\//\//\//\//\//\//\
+//\//\//\//ÛßÛÛßÛÛßÛ/ /  Ä´ÃÄ¿| |//\//\//\//\//\//\//\//\//\//
+                       ßßß
+Checking for updates to abgx360.dat...
+     Server file abgx360.dat no newer than local file - not retrieving
+
+Z:hometeamoziedownloadsForza.Horizon.XBOX360-X360CLUB-XBXLNDForza.Horizon.XBOX360-X360CLUB-XBXLND.dvd is valid
+
+Checking Game
+     ISO: "Z:hometeamoziedownloadsForza.Horizon.XBOX360-X360CLUB-XBXLNDForza.Horizon.XBOX360-X360CLUB-XBXLND.iso"
+     Size: 8738846720 bytes
+     Files in ISO: 2446, Folders in ISO: 73
+     Total bytes used: 7628030559 (88.06%)
+Game appears to have random padding
+
+Checking default.xex
+     Title ID:              4D5309C9 (MS-2505)
+     Original PE Filename:  default.exe
+     Original PE Timestamp: 2012/09/04 09:51:40
+     Min Kernel Required:   v2.0.15574.0
+     title icon
+     Game Name:             Forza Horizon
+     No Avatar Awards
+     Achievements:          50 Achievements totaling 1000 Gamerscore
+     XEX CRC = 7C2C3240
+     XEX Media ID: DD04A22D0F8E35E0C3EE744E-2B7A1346
+
+Region Code: 0xFFFFFFFF
+     Region Free!
+
+Checking topology data
+Querying the online database to find the appropriate verified data to use...
+     Topology information was downloaded successfully
+
+     Looking for TOP_XGD3-DID-F87A804E_v1.sha1 in the online verified database
+     Server file TOP_XGD3-DID-F87A804E_v1.sha1 no newer than local file - not retrieving
+Your topology data doesn't match the file in the database!
+
+Set AutoFix Threshold to Level 1 or higher in order to fix the topology data
+
+Checking SS
+     Timestamp of Authoring: 2012/09/06 00:00:00
+     Timestamp of Mastering: 2012/09/28 09:08:04
+     SS Version: 2 (trusted)
+     SS CRC = 6E214C66 (RawSS = 98382578)
+     SS Media ID: DD04A22D0F8E35E0C3EE744E-2B7A1346 (matches game)
+SS looks valid
+
+Checking DMI
+     Timestamp of Authoring: 2012/09/06 00:00:00 (matches SS)
+     DMI CRC = 100E9EDD
+     DMI Media ID: DD04A22D0F8E35E0C3EE744E-2B7A1346 (matches game)
+DMI looks valid
+
+Checking PFI
+     PFI CRC = 26AF4C58
+PFI matches known data (XGD3)
+
+Video partition found
+     Video CRC = 9401220C (V0 = 2C048F68, V1 = BF9ADA5F)
+
+Basic Stealth check passed!
+
+Starting Verification
+     Looking for 6E214C667C2C3240.ini in the online verified database
+     There is no verified rip of this Xex/SS combination in the online database
+Failed to find a verified ini file for this Xex/SS combination
+Attempting to at least verify the PFI, Video and game data
+     Looking for Xex_7C2C3240.ini in the online verified database
+     There is no verified rip of Xex CRC 7C2C3240 in the online database
+Failed to find a verified ini file for this Xex
+Verification failed

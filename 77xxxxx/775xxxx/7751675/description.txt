@@ -1,0 +1,33 @@
+NTFS/NTFS 5 + EFS, FAT 12/16/32, HFS/HFS+ file systems support
+Handy Recovery supports all MS Windows file systems for hard and floppy drives, including modern versions of NTFS used in Windows XP. It can recover compressed and encrypted files on NTFS drives.
+	In-depth disk scanning for certain file types
+The information about each file on the disk is stored in a file record. When a file is deleted usually its file record is not destroyed immediately, so typical recovery software can use it to restore the file. However in some cases the file record can be deleted too. In this case Handy Recovery can perform in-depth disk scanning and try to find such files.
+	Option to create disk images for deferred recovery
+You can create an exact image of a logical drive and save it to a special file on another drive. Later you will be able to open this image and recover files from it.
+	Preview window to show the content of deleted files
+You can preview the content of a file before recovering it. This is especially useful if you want to find a file among many similar files appeared after the extended analysis, because in this case file names are missed.
+	Shows probability of successful recovery for each file
+Handy recovery estimates chances of successful recovery for each deleted file. If chances are small, you will probably recover the file only partially. In this case some parts of the file can contain incorrect data.
+	Recovers files from deleted and formatted partitions
+If you quick format a partition, Handy Recovery still tries to show files that were on it before formatting. If a file record was not completely overwritten with a new one, you will see the file in the list and will be able to recover it. You can also search for deleted partitions on the disk and recover files from them. 
+	File filtering by name, mask, date and size
+You can search for deleted files on a disk by filename or mask. You can also filter the content of a disk by name, mask, date and size and see only required files.
+
+OTHER FEATURES:
+Recovers files deleted without Recycle Bin
+Restores the structure of deleted folders
+Explorer-style disk content browser showing deleted files
+One-click filter button to show only the deleted files
+
+- support systems FAT12/16/32, NTFS and NTFS 5 + EFS file 
+- Searching the deep drive to find the file and play it blue 
+- the perfect image of a partition and store it on a partition the other as a backup 
+- View the likelihood of successful recovery for each file along with its health 
+- recover files from deleted or formatted partitions 
+- the search for more accurate filtering capabilities for deleted files by name, date, sizes and other ... 
+- Ability to recover files that suddenly, and without going to trash the windows have been removed 
+- Building recover deleted files 
+- filtering to display only deleted files 
+- files deleted from Recycle Bin during recovery are in a special folder 
+- Preview recoverable files before recovery 
+- Support HFS file / HFS + 

@@ -1,0 +1,14 @@
+Release highlights:
+
+Disk I/O system completely rewritten. Now multi-threaded and high performance. It will take advantage of multiple disks, perform better with even just one, and no one disk job can block everything (e.g slow network blocking local I/O, or allocating files)
+Auto-labeling and per-label download directories (Preferences -> Label)
+Search items in Advanced preferences
+Paired device removal
+Changelog:
+
+--2012-10-12: Version 3.3 alpha (build 28203)
+- Fix: possible crash on startup
+- Feature: Add TCP-style slow-start to uTP
+- Fix: make Force Recheck circumvent file timestamp optimization (to actually force a recheck)
+- Change: improve status message for magnet links that need DHT when DHT is disabled
+- Fix: disable comment fields when disabling comment support

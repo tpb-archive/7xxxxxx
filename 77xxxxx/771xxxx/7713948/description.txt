@@ -1,0 +1,16 @@
+SimpleTV handy software for watching digital TV and listening to radio, watching IPTV and normal playback files. To use this program - see 'Net TV, you need network access at speeds of 256 kilobits per min, and the installation of additional equipment is required.
+
+features of the player:
+Is a very flexible and customizable interface (switchable channels in one click, the ability to customize your hotkeys, etc.)
+-The ability to play and record rtmp streams (support librtmp)
+-PIP and Multi PiP (Cntr + P or Menu ? Channels ? Multi PiP)
+-Downloadable Schedule and record programs on the program
+-Ability to edit the list of channels / files in the player (moving, deleting, creating and etc.)
+-Versatile ordering channels (creating groups, favorite channels, search by name, advanced filter)
+-Support for LUA script (download channels, processing address channel playback, etc.)
+-Search for a multicast channel
+-Working with UDPPROXY
+Record up to eight channels simultaneously, schedule recording, Time Shift - shift in time, the screenshots of the flow
+Run-in tray mode
+-Playback of video files at the same time with the flow
+-Full support WinLirc

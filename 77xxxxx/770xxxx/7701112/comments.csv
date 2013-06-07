@@ -1,0 +1,29 @@
+﻿User Type,Username,Date,Text
+,Person6,2012-10-06T14:56Z,"Do you mean to extract directly to C:Program Files (x86)CompanyThe Elder Scrolls V Skyrim or to C:Program Files (x86)CompanyThe Elder Scrolls V SkyrimData
+
+I am confused on which path.."
+,SnJester,2012-10-10T16:48Z,"@Person6 go back one space so it's the main skyrim directory, not the data directory"
+,KiKaily,2012-11-10T02:11Z,"Please help.
+
+I've been trying to activate heartfire for a while now and nothing happened.
+
+I have the Razor1911 version 1.7.7.0.6 of Skyrim > http://thepiratebay.se/torrent/6808323/The_Elder_Scrolls_V_Skyrim-Razor1911
+I have this Update 10 + Dawnguard > http://thepiratebay.se/torrent/7502589/The.Elder.Scrolls.V.Skyrim.Update.10.Incl.Dawnguard
+
+And this hearthfire files.
+
+I copied all files dawnguard and hearthfire (.bsa and .esm) into the Data folder, and just in case, also in the Skyrim main folder, in the directory.
+
+
+I added the line ""bEnableFileSelection=1"" into prefs to enter the data files from the launcher, checked both dawnguard and heartfire.
+
+At the moment I have dawnguard working, but not hearthfire, the one I wanted to play. I tried different orders, first dawnguard, first heartfire... 
+
+Everything I tried made dawnguard work, but not heartfire.
+
+I even created a line (read it no where, but just to try) ""bEnableFileSelection=2"" Nothing changed.
+
+
+Please, help. I hope I gave the necesary details. And please forgive my english, I'm spanish.
+
+Thanks in advance."

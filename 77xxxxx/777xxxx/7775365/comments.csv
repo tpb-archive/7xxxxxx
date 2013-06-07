@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,khadill,2012-11-03T20:15Z,not even workin !!
+,steelcityhomer,2012-11-04T05:36Z,Worked like a charm.  Great upload.
+,brianxxx,2012-11-09T17:56Z,"Worked fine for me. Tested on Win 7 32 and 64bit.
+
+Please note - 
+1 - Block all the program's .exe files with firewall. (This applies to almost all programs and situations these days since most programs are set to phone home for activation and serial checks)
+
+2 - Xilisoft added a hidden registry key, which prevents you from adding keys after the first key gets blocked. Here is the workaround to fix that!
+
+BACKUP YOUR REG just in case - then
+1-Start
+2-Run
+3-Type in Regedit
+4-Select HKEY_USERS
+5-Press Ctrl + f (Search)
+6-Search for {C06F4056-C35F-4bf8-A93A-9F098F3E503D}
+7-Delete the Key, including the subkeys
+Try entering serial key again and all should be well.
+*********************
+
+3 - Upgrading from a previous version from iahq76 works without need for key. So try that and stick with his releases in the future for painless upgrades."
+,kurnel,2012-11-15T19:50Z,"Thanx for the tip, worked after I deleted the registry key."
+,libellus2,2012-11-17T05:18Z,"It's important to make sure you manually create an inbound firewall block for xilisoft.exe before attempting to register. Simply disconnecting your internet isn't going to cut it.
+
+Also brianxxx, thanks for the tip!"

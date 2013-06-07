@@ -1,0 +1,30 @@
+This is Kamidori Alchemy Meister by Eushully, with the append discs and English translation 1.1 by Seiha Translations, plus a couple modifications.
+
+Install isn't required, just unpack and run. Read readme for additional information of interest.
+
+Original game website 
+http://www.eukleia.co.jp/eushully/eu012.html
+
+VNDB entry for the game 
+http://vndb.org/v5652
+
+Translation website 
+http://games.seiha.org/viewforum.php?f=11
+
+The modifications on that are the following two:
+- For unknown reasons, the translation changed the title screen. That change
+  has now been disabled by the renaming of patch/SO005.AGF to .aroduc
+- Translation left the battle interface half translated, in a way that some
+  incomplete work in map tile overlays is missing information the japanese
+  version had. The affected tiles have been restored to the original ones. A
+  copy of the translator's version is available in patch/SO009.AGF.aroduc
+
+The tools that were used for the original translation are included.
+They can be found inside KamiModTools/ in the archive.
+
+If you find this game interesting and want to learn more about visual novels: 
+http://vndb.org 
+http://fuwanovel.org
+
+Consider supporting the game authors by spreading the word and/or buying this
+work, future works or other merchandise from them.

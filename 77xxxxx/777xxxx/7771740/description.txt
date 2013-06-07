@@ -1,0 +1,68 @@
+64-bit benchmarks & 64-bit System Stability Test
+All CPU, FPU and memory benchmarks are fully ported to 64-bit, utilizing MMX, 3DNow! and SSE instruction set
+extensions, and scale up to 32 processor cores. An enhanced 64-bit System Stability Test module is also available to stress the whole system to its limits. For legacy processors all benchmarks and the System Stability Test are available in 32-bit version as well.
+
+Hash benchmark with SSE2 & SSSE3 optimizations
+A brand new 64-bit security benchmark to measure CPU performance using the SHA1 hashing algorythm. The Hash benchmark is optimized for every popular AMD, Intel and VIA processor core variants by utilizing the appropriate MMX, MMX+/SSE, SSE2, or SSSE3 instruction set extension. It is hardware accelerated on VIA PadLock Security Engine capable VIA C7 and VIA Nano processors. SSD database with SSD-specific SMART disk health status
+AIDA64 further extends its exhaustive hardware database by adding 300 solid-state drives (SSD), making the database count over 115,000 entries total. On top of the usual ATA auto-detect information the new SSD database enables AIDA64 to display flash memory type, controller model, physical dimensions, and data transfer performance data. AIDA64 v1.00 also implements SSD-specific SMART disk health information for Indilinx, Intel, JMicron, Samsung, and SandForce controllers.
+
+Fine-tunable Alerting module
+Overheating, over-voltage, and cooling fan alerts are now fine-tunable with alert sound and emergency application launch. In AIDA64 alert methods are individually customizable for each alert triggers.
+
+DIMM thermal sensor, QST 2.0, Koolance TMS-200 support
+The real-time hardware monitoring module was further improved by adding Intel QST 2.0, Koolance TMS-200, Koolance TMS-EB200and DIMM thermal sensor device support. Improved cooling fan speed measurement on Fintek, ITE and Winbond sensor chips. Sensor support for the latest Fintek, Nuvoton and SMSC hardware monitoring devices.
+
+Support for the latest graphics technologies
+Graphics processor and GPGPU details, temperature and cooling fan monitoring for the latest GPUs: AMD Mobility Radeon HD 5430/5450, AMD Radeon E4690, AMD Radeon HD 5550, AMD Radeon HD 6850/6870, nVIDIA GeForce GTS 450, nVIDIA GeForce GTX 460, nVIDIA GeForce GTX 465, nVIDIA GeForce GTX 580. Exhaustive Direc3D and OpenGL video card capabilities detection with DirectX 11 and OpenGL 4.1 support.  
+
+What's New:
+The new AIDA64 release revamps the Desktop Gadget module, further enhances its Uninterruptible Power Supply and
+
+Smart Battery monitoring capabilities, and implements full support for the complete AMD Radeon HD 7000 GPU family and the latest generation Intel SSD drives.
+
+New features & improvements
+October 29, 2012 - FinalWire Ltd. today announced the immediate availability of AIDA64 Extreme Edition 2.70 software, a streamlined diagnostic and benchmarking tool for home users; and the immediate availability of AIDA64 Business Edition 2.70 software, an essential network management solution for small and medium scale enterprises.
+
+The latest AIDA64 update introduces completely rewritten PhotoWorxx and AES benchmarks, optimized for AESNI, AVX, SSE4.1, VIA PadLock, and XOP capable AMD, Intel and VIA processors. The new AIDA64 release also implements full support for Socket FM2 motherboards, adds optimized 64-bit benchmarks for AMD FX-Series Vishera processors, and supports the latest GeForce and Quadro graphics accelerators by nVIDIA.
+
+  Revamped PhotoWorxx digital photo processing benchmark with AVX, SSE4.1 and XOP optimizations
+  Rewritten AES data encryption benchmark with AESNI, SSE4.1 and VIA PadLock optimizations
+  Optimized 64-bit benchmarks for AMD FX-Series Vishera CPU
+  Preliminary support for AMD Kabini APU
+  Socket FM2 motherboards support
+  Support for VirtualBox v4.2 and VMware Workstation v9
+  Samsung 840 and 840 Pro SSD support
+  GPU details for nVIDIA GeForce GTX 650 Ti, Quadro K-Series, VGX K-Series
+
+
+System Requirements
+AIDA64 Extreme Edition is designed to run on 32-bit and 64-bit Microsoft Windows operating systems.
+It can be run directly from an optical disc, but in such case any configuration changes made in the Preferences of the software will be lost.
+
+Changes:
+VIA VX11 platform, Nano X2 and QuadCore CPU support
+Optimized 64-bit benchmarks for AMD A-Series Trinity APU
+Microsoft Windows 8 RTM and Windows Server 2012 RTM support
+OpenGL 4.3, APP SDK 2.7, CUDA 5.0 support
+GPU details for nVIDIA GeForce GTX 650, 660 Series
+
+System requirements in detail:
+Operating system:
+Windows 95/98/Me
+Windows NT4/2000
+Windows XP
+Windows XP x64 Edition
+Windows PE
+Windows Server 2003
+Windows Vista
+Windows Vista x64 Edition
+Windows Server 2008
+Windows 7
+Windows Server 2008 R2
+
+Install:
+
+- run application
+- use keygen
+
+Please continue to seed for as long as possible. Thanks...

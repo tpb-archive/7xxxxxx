@@ -1,0 +1,55 @@
+iND | Oct 27 2012 | WiN 52.8 MB 
+
+
+MixbusΓäó is a full-featured Digital Audio Workstation (DAW) with "True Analog Mixing"Γäó: a combination of Harrison's world-renowned sound and features in a knob-per-function interface. MixbusΓäó provides a solution for engineers and mixers who need a recorder, editor and mixing system with world-class sound and features.
+
+Mixbus Features:
+
+    Straightforward ΓÇ£knob per functionΓÇ¥ mixer layout based on Harrison's renowned 32-series and MR-series music consoles.
+    DSP sounds based on Harrison's world-renowned analog and digital mixing console experience.
+    Precision algorithms for EQ, Filter, Compression, Analog Tape Saturation, and Summing.
+    Unlimited stereo or mono input channels, each with unlimited plugins, sends, and hardware inserts. (limited only by CPU speed)
+    Phase, Input trim, High-pass Filter, Sweepable 3-band EQ, Compression, and 8 Mix Bus sends on every track.
+    8 Stereo Mix Buses featuring Tone controls, Compression, Sidechaining, and Analog Tape Saturation.
+    Stereo Master Bus that features Tone controls, Analog Tape Saturation, K-meter, Stereo Correlation Meter, and Limiter.
+    Automatic plugin delay compensation to support effects such as parallel compression without time misalignment.
+    Comprehensive "at-a-glance" metering with peak, peak hold, and compressor gain reduction visible on every track and bus.
+    Extensive DAW features via the Ardour Digital Audio Workstation, refined by Harrison engineers to be smooth and stable.
+    Industry standard plugin support:  Mixbus loads VST plugins on Windows, AudioUnit plugins on OSX, and LV2 plugins on Linux.
+    Industry standard audio I/O support:  Mixbus uses ASIO/Directsound on Windows, CoreAudio on OSX, and JACK on Linux.
+
+
+
+Windows-specific changes:
+
+Clicking on the timebar ruler to locate the playhead while playing might cause an offset of 1-2 buffer periods between tracks. This has been fixed.
+If multiple monitors were used in the past, the Mixer & Edit windows have their position stored in that location which would make them unavailable when only one monitor is connected. This has been fixed.
+
+
+
+REQUIREMENTS:
+
+CPU Architecture:
+Intel or AMD,   64bit or 32 bit
+2+ cores/processors required
+
+OS Version:
+Windows XP Pro or newer
+
+Audio:
+Any system soundcard should work.  High-quality ASIO-based soundcard with modern drivers is highly recommended for better performance.
+
+
+INSTALLATION:
+
+ΓÇó You need WinRar or other extractor of your choice to extract the rar file
+
+ΓÇó Run setup.exe
+
+ΓÇó Place Mixbus license file on your desktop
+  When Mixbus opens it will find the licence
+
+        ΓÇó  That's it! Done.
+
+
+                   3Nj0Y!!!

@@ -1,0 +1,8 @@
+﻿User Type,Username,Date,Text
+,apsololab,2012-10-17T14:59Z,"The follow feature is Bugged in this version.
+
+The file handling is not working as it should, and it will occasionally try and follow itself, or someone with protected tweets that you are already following. So be careful!"
+,-xbt-,2012-11-15T15:09Z,"I GET AN ERROR MESSAGE WHEN I TRY TO LOG IN. IT SAYS THIS:
+
+Unable to find ""body.user-style-"". Maybe twitter is throwing a captcha?"
+,apsololab,2012-11-16T11:13Z,"That happens because the bot was unable to locate ""body.user-style-"" in the HTML after logging in. Can happen if you login to many times, and twitter throws a captcha image verification thing. It can also happen if twitter changed something, and i have not used the bot for some time, so i don't know if thats the case."

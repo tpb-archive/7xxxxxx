@@ -1,0 +1,81 @@
+        MeldaProduction MTotalBundle v7.05
+           R2R | 31.10.2012 | 366 MB
+
+
+   Turn your computer into a professional studio!
+
+
+MeldaProduction MTotalBundle is the ultimate collection of effects, and it currently contains 68 of them. MTotalBundle will convert your computer into a top-class professional sound studio. It contains all of our effects covering all required tasks: Composing, mixing and mastering. With our included free for life updates, any new effect we release moving forward will be free for you! And it takes just a few clicks using our update system...
+
+The bundle contains traditional plugins as well as our revolutionary technologies, which give you the power to make your recordings sound incredible even if you haven't spent last 50 years as an audio engineer. High speed, simplicity, crystal clear sound and minimal noise level is standard in MeldaProduction. 
+
+
+
+
+
+MTotalBundle 7.05 changes
+
+    
+    Added MStereoSpread plugin.
+    MStereoScope: Added M/S meters.
+    Documentations highly extended and available from within the plugin.
+    MStereoGenerator, MStereoProcessor, MStereoScope: Panorama direction meter inside the phase meter.
+    Modulator editors slightly restructuralized for better compactness.
+    MMultiBandHarmonizer: Added pitch-bend range parameter.
+    All peak/loudness/.. meters are now reset by clicking on them. Hold ctrl to reset individual meters.
+    MMultiAnalyzer: Added name & visual presets, visual settings can be changed from any instance, added multi-track loudness & collision meters.
+    In surround mode you can now enable individual channels for processing.
+    Analyzers are now surround capable.
+    Added phases sync groups to all modulators, so they can now be synchronized with each other and potentially with other parts of the plugin.
+    Most modulator sliders/knobs now send automation (before it was possible to automate them, but they didn't send it).
+    Modulator synchronization can now be automated/modulated.
+    Multi-band plugins: Bands can now be inserted before or after the selected one.
+    Step sequencer grid now follows the number of steps.
+    Plugin configurations and presets on Windows moved to MeldaProduction subfolder.
+    Improved MStereoGenerator audio quality.
+    Fix: Plugins could have failed AU validation when default settings contained upsampling of 2x or higher.
+    Fix: Plugins sometimes caused high CPU usage on some CPUs when input was silent.
+    Fix: Peak/loudness meters on easy screen were always showing real channels not affected by channel mode.
+    Fix: MDynamics & MMultiBandDynamics was reporting look-ahead latency in "only-gain" mode.
+    Fix: MDynamicEq & MAutoDynamicEq wasn't enabling a band-pass/notch band if the gain was 0.
+    Fix: Vocoder could cause invalid gain under certain cirsumstances with LR encoding.
+    Fix: Ranges of additional parameters associated to multiparameter didn't update when modulated.
+    Fix: Keyboard input on Mac OS X with older Carbon interfaces sometimes generated backspaces instead of letters.
+    Fix: MAutoDynamicEq, MDynamicEq and MAutoEqualizer analyzers were always showing "pre" analysis.
+    Fix: MStereoGenerator could occasionally freeze on start-up in some hosts.
+
+
+
+
+
+
+
+Requirements:
+
+Windows XP/Vista/7 (32-bit or 64-bit)
+VST/VST3 compatible host (32-bit or 64-bit)
+Intel/AMD processor, SSE2 & multi-core support recommended
+RTAS has officially been dropped, but AAX shall be implemented instead.
+
+
+
+
+
+INSTALLATION:
+
+  ΓÇó  Unistall any previous versions.
+
+  ΓÇó  Next open the .rar file by double clicking it. If you can't open it you need to get an archiver which supports rar files such as Winrar and extract.
+
+  ΓÇó Install the setup...
+
+
+
+
+        ΓÇó  That's it! Done.
+
+
+
+                       3Nj0Y!!!
+
+

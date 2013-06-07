@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,ronaldo2020,2012-10-27T22:02Z,Thanks! Working win8 x64 :D
+,GngnmStyl,2012-10-27T22:09Z,No problem
+,SooperX77,2012-10-28T01:21Z,"This is not entirely working for me. I am running Windows 8 Professional x64. I used the SKiDROW original files and nosTEAM's All DLC's + 1.1.2 patch and had it working with Windows 98/ME compatibility mode. The Launcher itself has never worked for me on Win8. I then installed SKiDROW's 1.1.3 patch so I could use this fix. After applying that and copying over these files (and disabling compatibility mode on the Borderlands2.exe), the game now says that MSCVR110.dll is missing and won't start. I verified that it it is in the System32 folder and have tried reinstalling Visual C++ 2010. Any suggestions?"
+,SooperX77,2012-10-28T01:35Z,MSVCR.dll*
+,goldeye_2,2012-10-28T01:59Z,""" unable to start correctly (0xc000142) ""
+help me :]"
+,goldeye_2,2012-10-28T02:02Z,this crack only work on 64 bit??????
+,SooperX77,2012-10-28T02:06Z,MSVCR110.dll**
+,IndigoAK,2012-10-28T02:24Z,Scooper: Trying putting the file in the same directory as Borderlands2.exe or if that doesn't work try putting it in SysWOW64 instead.
+,SooperX77,2012-10-28T02:54Z,"@Indigo
+With your suggestion, I now get ""The application was unable to start correctly (0xc000007b). Click OK to close the application."""
+,vargth,2012-10-28T02:21Z,"working fine here on windows 8 x64.
+just launch with the exe and not the launcher"
+,GngnmStyl,2012-10-28T02:59Z,http://thepiratebay.se/torrent/7765811/Borderlands_2_v1.1.3_Windows_8_Fix
+,GngnmStyl,2012-10-28T03:03Z,"go to send space with file ID xc7hed
+
+for new version that doesnt require MSCVR110.dll in same dir
+"
+,SooperX77,2012-10-28T04:57Z,Thanks for the help. I'll try it out when i get back to my PC. 
+,rickodogg,2012-10-28T09:11Z,"to SooperX77
+try this http://www.microsoft.com/en-us/download/details.aspx?id=30679"
+,goldeye_2,2012-10-28T12:18Z,"@Gngmstyl 
+  can u make 1 for win 8 32-bit ????"
+,Performer81,2012-10-28T17:49Z,doesnt start at all here.
+,darkgamerX,2012-10-28T18:38Z,this works flawlessly! THANK YOU! i really appreciate it! if you dont mind can you also do TRANSFORMERS FALL OF CYBERTRON? thats another game that isnt working on windows 8. it gets the same error that borderlands 2 was getting before you fixed it.  
+,SooperX77,2012-10-28T18:54Z,"@rickodogg
+I already have that."
+,GngnmStyl,2012-10-29T01:39Z,"This doesn't seem to work on 32 bit systems since i don't have one to test it on, i'll look into it.
+
+On a side note this general method of patching seems to work on most skidrow x64 cracks on windows 8"
+,gutko,2012-10-29T02:38Z,"GngnmStyl thank you for this patch, i can only hope that you wont disappear as suddenly as you have appeared :P"
+,GngnmStyl,2012-10-29T02:56Z,"Please get 
+
+http://thepiratebay.se/torrent/7769511/Borderlands_2_1.1.3_Windows_8_-_32_and_64_bit_Updated
+
+If you have issues on 32 bit
+"
+,SooperX77,2012-10-29T06:13Z,Works great now! Thanks for the Fix.
+,xhumix,2012-11-01T00:04Z,"I am running win 8 enterprise x64, installed the skidrow 6 patch and followed the instructions in this torrent but when i am trying to run the game nothing happens...help plz!"
+,koorinosekai,2012-11-06T15:26Z,"just a heads up btw
+you can use it to run ANY version of the borderlands2 on windows 8 thru the Borderlands2.exe with that.
+wanted to let you guys know because some people only download the game to try it and do some testing and not really playing it all the way.
+
+But yeah, if you want to use the DLCs, isntall those, run thru the BLlauncher.exe after installing the fix and you are good to go.
+
+-and it will run on dx9 by default, so if you want to try it on dx10 or 11 you will need to add cmd to the shortcut-"
+,GhostlyVG,2012-11-17T22:18Z,It dosent seem to work for me i have win 8 pro 64bit maybe that's it but still not working i select English then start and just nothing happens. help

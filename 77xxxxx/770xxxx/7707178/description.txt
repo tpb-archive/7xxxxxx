@@ -1,0 +1,16 @@
+Intel Extreme Tuning Utility (XTU) is a simple Windows -based performance tuning software for novice and experienced enthusiasts to overclock, monitor, and stress a system. The software interface exposes a set of robust capabilities common in most enthusiast platforms along with special new features available on new Intel┬« processors and motherboards.
+
+Features:
+Overclock CPU, memory, and bus speeds for optimal performance
+Integrated auto-tuning makes system optimization easy while maintaining system stability
+Monitor voltages, temperatures, and fan speeds and view/graph changes over time
+
+Change in 3.2.0.24
+Fixed Issues
+Various minor UI issues fixed.
+
+New Features
+Support for Windows 8 added to the installer and service.
+Update to the reference clock frequency monitor to use a high precision event timer for accurate measurement.
+Implementation of a software update mechanism for future product updates.
+Microsoft Windows 8 certified drivers included.

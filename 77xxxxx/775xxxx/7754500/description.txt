@@ -1,0 +1,30 @@
+There are no well established activation bypass as of yet, so I have not 
+included them.
+-----------------------------------murphy78---------------------------------
+I have made it a point not to modify or customize any windows programs or 
+settings in any way.
+Either burn the included .iso file to a dvdr or use a usb flash drive.
+I have included diskpart instructions and the win7usb tool.
+I personally use diskpart and winrar, but the tool may be easier.
+-----------------------------------murphy78---------------------------------
+Source: MICROSOFT.WINDOWS.8.PROFESSIONAL.RTM.X86.ENGLISH.DVD-WZT
+This 32-bit RTM is Build 9200
+-----------------------------------murphy78---------------------------------
+Languages included:
+de-DE (German), en-US (English), es-ES (Spanish)
+fr-FR (French), it-IT (Italian)
+-----------------------------------murphy78---------------------------------
+You still need to add the languages via Control Panel -> Add a language 
+if you want to switch between them. You simply do not need to download them.
+You can select the system language during installation, and even the boot 
+languages are included.
+-----------------------------------murphy78---------------------------------
+Tools used:
+imagex for image extraction
+dism for file package addition
+oscdimg for iso mastering
+-----------------------------------murphy78---------------------------------
+Hotfixes are not included in this release.
+
+Enjoy,
+murphy78 - TPB :)

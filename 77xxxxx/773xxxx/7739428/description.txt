@@ -1,0 +1,28 @@
+Intel Chipset Device Software - the package is a driver for the Intel chipset from the manufacturer. The system user shall INF-files that define the configuration of the chipset components necessary for proper functioning of the PCI, ISAPNP, AGP, IDE/ATA33/ATA66, USB, etc. and their precise identification in Device Manager.
+
+Name changes:
+Intel┬« Chipset Device Software is the new name for the Intel┬« Chipset Software Installation Utility; this name will be seen when running the installation package.
+
+About this file/download:
+The Intel┬« Chipset Device Software installs the Windows* INF files. An INF is a text file that provides the operating system with information about a piece of hardware on the system. In the case of the current Intel Chipset Device Software, that information is primarily the product name for the piece of hardware. This allows the operating system to show the correct name for that piece of hardware in Device Manager.
+
+**Important**
+The Intel Chipset Device Software does not install drivers for AGP or USB. DO NOT DOWNLOAD THIS UTILITY IF YOUR DEVICE MANUFACTURER IS RECOMMENDING IT TO CORRECT AN "AGP DRIVER," "AGP GART," OR "USB DRIVER" ISSUE; IT WILL NOT CORRECT YOUR ISSUE.
+
+This download is valid for the product(s) listed below:
+Intel┬« 3 Series Chipsets
+Intel┬« 3100 Chipset
+Intel┬« 3210 Chipset (embedded)
+Intel┬« 3400 Chipset
+Intel┬« 4 Series Chipset
+Intel┬« 5 Series Chipset
+Intel┬« 5000P Chipset
+Intel┬« 5000V Chipset
+Intel┬« 5000X Chipset
+Intel┬« 5100 Memory Controller Hub Chipset (embedded)
+Intel┬« 5500 Chipset
+Intel┬« 6 Series Chipset
+Intel┬« 6300ESB I/O Controller Hub
+Intel┬« 7500 Chipset
+Intel┬« 82801HM I/O Controller Hub (ICH8M)
+...and others

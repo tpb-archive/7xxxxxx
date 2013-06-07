@@ -1,0 +1,77 @@
+Bob Marley & The Wailers - Exodus - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+1 - Natural Mystic
+2 - So Much Things to Say
+3 - Guiltiness
+4 - The Heathen
+5 - Exodus
+6 - Jamming
+7 - Waiting in Vain
+8 - Turn Your Lights Down Low
+9 - Three Little Birds
+10 - One Love, People Get Ready
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 19, Peak = 0.001db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 0.365db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-10-07 19:32:30
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR12       0.00 dB   -15.06 dB      3:28 ?-01 - Natural Mystic
+DR13       0.00 dB   -15.14 dB      3:08 ?-02 - So Much Things to Say
+DR13      -0.51 dB   -15.94 dB      3:19 ?-03 - Guiltiness
+DR12      -1.28 dB   -15.71 dB      2:32 ?-04 - The Heathen
+DR13      -0.34 dB   -14.53 dB      7:39 ?-05 - Exodus
+DR12       0.00 dB   -13.48 dB      3:31 ?-06 - Jamming
+DR13      -1.22 dB   -15.97 dB      4:15 ?-07 - Waiting in Vain
+DR12      -1.17 dB   -16.05 dB      3:39 ?-08 - Turn Your Lights Down Low
+DR14      -0.07 dB   -15.69 dB      3:00 ?-09 - Three Little Birds
+DR14       0.00 dB   -14.98 dB      2:53 ?-10 - One Love, People Get Ready
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR13
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

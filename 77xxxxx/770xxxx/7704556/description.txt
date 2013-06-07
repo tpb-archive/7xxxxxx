@@ -1,0 +1,47 @@
+What it does
+It combines all the input files into one iso which contains all the inputed installers.
+It can convert the activation channel of the input products from retail into volume or visa versa.
+
+
+What it doesn't
+It doesn't activate/crack the products, unless you do it yourself with an unattended file.
+It doesn't add any other crap to the installer.
+
+
+Guide
+1) Input all the installers you want. Those can be exe files or iso images. Only trusted installers should be used, with unmodded files (original Microsoft installers, Wzor select editions and installers made by this program are ok). If you use installers with modded/corrupted files, this can result in a corrupted output installer. You can also add for example two x86 Visio installers with a different language, you will then have the choice between these languages during setup. (This requires the note at the bottom of the post!)
+
+2) Choose one activation channel for all the output files, or check "Use advanced options". If you didn't check "Use advanced options go to step 5, otherwise proceed with step 3.
+
+3) On the Advanced options tab select the desired activation channel for all inputted products.
+
+4) If you want to add additional files or folders or want to make moddifications to the files then you can check "Add additional files/folders to the installer". This option will open an explorer window in the right directory before creating the output iso image.
+Never give an already moddified input installer, if you want to make moddifications always use this option or do it afterwards.
+
+5) Specify an output file.
+
+6) Click "Start channel switching" and wait until you iso is created.
+
+Supported products
+- Office Professional Plus
+- Office Standard
+- Office Small Business Basics
+- Office Single Image, this is Office Home and Student, Office Home and Business and Office Professional in 1 installer. (integration only, volume versions of this product don't exist)
+- Visio
+- Project Professional
+- Project Standard
+- Access*
+- InfoPath*
+- Publisher*
+- OneNote*
+- Excel*
+- Word*
+- Powerpoint*
+- Outlook*
+- SharePoint Workspace*
+- SharePoint Designer (integration only, this product does not require any form of activation)
+
+For all these products both x86 and x64 and all languages are supported.
+* These products are also available in the office suits like Office Professional Plus, but now also the separate versions are supported.
+
+All Credit goes to Stannieman from MDL

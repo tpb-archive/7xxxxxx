@@ -1,0 +1,8 @@
+This is the Android port of id Software's id Tech 3 engine. It will let you play Quake 3 Arena and various mods on your phone.
+You can now press Menu key in game and configure the controls. The default control is to use one joystick for both movement and shooting. Press the inner ring to move and strafe, and press outer ring to shoot. The phone will vibrate once you touch the outer ring so you know you are shooting.
+If you are more comfortable to move with joystick and shoot with trigger, press menu key in game to switch to traditional control.
+Note:
+1)The game will download Quake 3 Arena Free Demo when you launch it for first time. This is a one time only download. Make sure you have turned WiFi on before you start the game, so you will not be billed any wireless data rates by your carrier.
+2)To play the full game on phone, you need to own a retail copy of Quake 3. Otherwise you can continue playing the free demo or download mods;
+3)To install the full retail game, copy all pk3 files from your Quake 3 Arena CD to /quake3/baseq3 on your phone's sd card;
+4)Multiplayer game is supported as well. You can start a game server on your PC or phone, then play with friends and families using WiFi. Or you can play on any public 1.32 Quake 3 Arena servers.

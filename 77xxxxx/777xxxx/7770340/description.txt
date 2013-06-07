@@ -1,0 +1,11 @@
+Book Description
+
+In 2011, a big corporation suffered a 23-day network outage after a breach of security that allowed the theft of millions of registered accounts on its gaming network. A month later, hackers claimed in a press release to have stolen personal information of 1 million users by a single SQL injection attack. In these days of high-profile hacking, SQL Server 2012 database security has become of prime importance.
+
+ΓÇ£Microsoft SQL Server 2012 Security CookbookΓÇ¥ will show you how to secure your database using cutting-edge methods and protect it from hackers and other security threats. You will learn the latest techniques for data and code encryption, user authentication and authorization, protection against brute force attacks, denial-of-service attacks, and SQL Injection, securing business intelligence, and more.
+
+We will start with securing SQL Server right from the point where you install it. You will learn to secure your server and network with recipes such as managing service SIDs, configuring a firewall for SQL Server access, and encrypting the session by SSL. We will then address internal security : creating logins to connect to SQL Server, and users to gain access to a database. We will also see how to grant privileges to securable objects on the server or inside the database.
+
+After having managed authentication through logins and users, we will assign privileges inside a database using permissions. We will then learn about symmetric keys, asymmetric keys and certificates, which can be used to encrypt data or sign data and modules with a choice of cipher algorithms, as well as creating hash representations of data.
+
+Then we will cover methods to protect your database against brute force attacks, denial-of-service attacks, and SQL Injection. Finally we will learn about auditing and compliance and securing SQL Server Analysis Services (SSAS) and Reporting Services (SSRS). 

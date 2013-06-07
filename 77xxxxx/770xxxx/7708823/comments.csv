@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,RexRexroth,2012-10-09T17:01Z,"Dear DKA - Why did you take down all of your earlier DTS upmixes from TPB?  I am still seeding ""American Idiot"" (share ratio: 34.733 and rising)?
+
+Anyway, I started to download ""Uno!"" but I see there is only the .iso file.
+
+Can I please bother you to again post the instructions on how to convert the DTS-MA format to simple 5.1 DTS?  You did this with ""American Idiot"" and I was able to make a really great 5.1 DTS CD using various tools you suggested (AviSynth, AudioMuxer, ArcSoft DTS Decoder, etc., all of which are still on my computer), but when the torrent to ""American Idiot "" was deleted, so were your instructions.
+
+Maybe I will do something sensible like copy them this time!
+
+Many thanks!"
+,DynamiteKidA,2012-10-10T04:05Z,"There was an issue with my account here.  They should be back up soon.
+
+I have the instructions up on my FB page as well.  Check them out there."
+,RexRexroth,2012-10-10T15:30Z,"Sorry: not to brag, but in real life I am a journalist and rather well-known.  Since literally hundreds of thousands of people read my work, I don't do social networking.  I do not want to be friended nor do I tweet.  People contact me by writing to my editors or to the e-mail address which often appears at the end of my articles.
+
+That being said, could you please just one more time cut-and-paste the instructions here?  I promise to copy them and store them in a safe place and stay out of your face after that.
+
+By the way, I have been downloading ""Uno"" for more than a day now, and there are no seeders with more than 75.7%.
+
+Thanks!"
+,RexRexroth,2012-10-11T03:44Z,"OK: It finished downloading and my share ratio is already above 7.0 (and above 35.0 for ""American Idiot"").  NOW can I please have the instructions again?"
+,DynamiteKidA,2012-10-11T05:21Z,"Sure, bud.  Not trying to make it difficult for you in the least.
+
+---
+
+In order to be able to extract the full 24/96 stream from DTS-MA with AudioMuxer, you must have ArcSoft DTS Decoder installed somewhere on your PC.  Otherwise, AudioMuxer will only extract the 24/48 DTS core stream.
+
+Use ISOBuster, PowerISO, or your ISO-busting software of choice to extract ""BDMV"" and ""CERTIFICATE"" folders from the ISO file.
+
+With AudioMuxer, select ""Extract Audio from Blu-Ray"" under ""Tools.""
+
+The MPLS file will be in the ""playlists"" folder in the ""BDMV"" folder.
+
+You can extract the files as DTSHD (which can be played in Foobar with the DTS-HD component), or as either MCH FLAC or MCH WAV.  You will also have both a working cue file and chapter file at your disposal.
+
+Utilizing AudioMuxer, you can then extract further to 6 mono wavs utilizing the ""Audio Conversion"" function under ""Tools.""
+
+From there, you can encode to your format of choice.
+"
+,RexRexroth,2012-10-11T06:12Z,"You are my hero (well, after Raul Ibanez)."
+,DynamiteKidA,2012-10-11T23:47Z,RAAAAAAUUUUUUUUUULLLLLLLLLLL!!!!!!!!!!!

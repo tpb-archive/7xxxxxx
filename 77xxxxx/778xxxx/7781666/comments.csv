@@ -1,0 +1,95 @@
+﻿User Type,Username,Date,Text
+,harke1983,2012-11-01T17:34Z,Thanks for Great Share
+,gnufella,2012-11-01T19:26Z,"hi nilesh,
+
+i'd like to use this on a new laptop that has win7 home basic pre-installed.
+
+1. can i choose the partition to install, so that dual-boot is achieved without losing orginal bundled os?
+
+2. till when has this been updated?
+
+many thanks in advance."
+,gnufella,2012-11-01T19:37Z,"> only language on winsxs removal is done
+does this mean this is english only? en-us?"
+,nileshtambe,2012-11-01T20:26Z,"@gnufella
+yes eng only
+speech is also removed
+iso made from msdn refresh media 7 sp1
+no update are integrated"
+,gnufella,2012-11-01T21:38Z,"can i choose the partition to install, so that dual-boot is achieved without losing orginal bundled os?"
+,nileshtambe,2012-11-02T00:53Z,"@gnufella
+yeah sure "
+,gnufella,2012-11-02T12:33Z,"@nileshtambe
+thanks, pal."
+,Addryann,2012-11-02T13:13Z,Thanks for the new release. Windows update works on this? (Not for the updates as much as for drivers). Can we expect a x86 release? Thanks.
+,nileshtambe,2012-11-02T14:20Z,"@gnufella 
+u r welcome
+
+@Addryann
+if u want i will make 32 bit, this i made 1 month back
+tested for 1 month and released
+use this and let me know anything u want to add modify in x86
+
+updates r not possible because it requires  winsxs full folder of 4-5 gb which we generally remove"
+,Addryann,2012-11-02T16:10Z,"nileshtambe, I am unable to test this release, maybe on some friend's pc or something, my laptop is pretty old with 1 GB of RAM. Maybe when I'l make an upgrade, that's 4,5,6 years from now lol."
+,ohmatthew,2012-11-05T03:37Z,"hey nil, would i be able to use a repair cd to install a more complete windows 7 over this? so i could keep my data if i wanted to upgrade to a complete windows 7. thanks so much for your uploads, it's helped me out a lot"
+,cabrapst786,2012-11-05T06:15Z,"Nil I could say that you nailed it, but you are still perfecting it.
+THANK YOU!!
+I was using the older ie9 version, and it was kinda rough at some points.
+I think that that is what windows should be like, just the enough amount, ahahhaha.
+Tell me something, last time when I put portuguesebrazil language in vistalizator, it worked, but somehow, I couldnt acces any proporties in the files, region and language, and other contexts menus, I clicked but I got nothing all the time.
+Do you think it`ll be the same with this one?
+I have already installed anyway, used the other for more than a week."
+,Addryann,2012-11-05T08:18Z,"@cabrapst786
+
+That's a trick, I know it, I've been there. Aply what language you want with Vistalizator, then do a restart, not just a logoff, after that go to control panel and regional settings, under admnistrative tab change to your desired language and restart again. After that, you'll be able to acces your settings normaly."
+,nEducado2323,2012-11-05T15:00Z,How old are u 20-25 right? YOUR WINDOWS are the best dude you rock !!
+,run3,2012-11-05T18:01Z,"Thanks! But can't you make a version like v9, but without the reg tweaks? Removing the clutter like firewell, IE, games, UAC et.c. That would be great!"
+,yet1016,2012-11-06T08:42Z,"nileshtambe, pls. make 32 bit. tnx in advance.."
+,cabrapst786,2012-11-06T23:13Z,"@Addryann
+
+That didn't worked, because I can't acces the region panel, I click but nothing happens.
+I even tried going back to english, and doing everything by the region panel, assigned everything as portugues-brazilian, in the administrator too, even in the copy settings link above, and restarted it, but I got the same problem as before, so it didn't change a thing."
+,RinTosaka,2012-11-07T00:04Z,"If this is vanilla Win7 minus the languages, then it's not really a ""lite"" version no?  If anything wouldn't this be more like your ""full"" versions, just without the languages?
+
+Either way, I still would really like to have one of your performance ""lite"" x64 versions but with Japanese language support included."
+,Addryann,2012-11-07T07:52Z,"@cabrapst786
+
+Sorry, man, that really worked for me, otherwise I would'nt be telling you that. Are you sure you are using the latest version of Vistalizator? (2.51)"
+,lemonkeyman,2012-11-11T16:58Z,"I was happy with the earlier version, I only needed
+Remote Desktop to control my little box remotely on a LAN without internet (what depends on Windows Firewall service) and
+Windows Installer service to to install some nasty applications that require that.
+
+Now it's full of useless features again that takes memory and HDD space, running services and scheduled tasks that keep the HDD busy.
+
+Still better than the factory version, though - your work is appreciated!
+
+Other than those two missing services your tweaked Windows editions would be just the thing I need, badly...
+
+I know it's a big thing to ask, but couldn't you make a usual tweaked version that support those two services?"
+,emil50,2012-11-11T17:45Z,"thanks man,very fast,but how can i add another
+lamguage?"
+,cabrapst786,2012-11-12T19:48Z,"@Addryann
+
+I wouldn't know, maybe that was the problem, but my HD wasn't good either, kept crash dumping all the time, so now I have a ssd and decided to put normal windows 7, cause it already runs really fast, and I wouldn't have any problems with the language.
+Thanks for trying to help, and I'll keep that in mind for the next time I install it in any pc, because it worked for you anyways."
+,Ahmad_se,2012-11-18T06:19Z,"Can you making New Excellent work like 
+Win 7 Ultimate sp1 x32 lite with Windows Media Center (698mb)
+without Media Center
+But please
+Without the Photo the beautiful girl
+Or any slogans
+ just add the New Released Internet Explorer 10
+Thank you"
+,ibitha,2012-11-20T08:34Z,"Thanks nilesh. Installed great on a new MacBook Air w/ Bootcamp. 
+
+After installing the Bootcamp support files, the total space used by the Windows partition is: 18.9GB (20,357,210,112 bytes), or 17.6GB (18,962,051,072 bytes) before the added drivers. This leaves 4.76GB free on a 25GB partition."
+,ibitha,2012-11-20T09:11Z,"Also if you turn off hibernation that saves 5GB instantly, and reducing the page file from 8GB to 2GB means the entire Win7 footprint can be easily reduced to 8GB."
+,krhthkos,2012-11-27T19:17Z,"Dear Niles
+
+Make please and windows 7 ultimate lite sp1 x64 with latest updates for non fast connections on the internet also i need Greek keyboard i do not know if you have it on this windows v10n just tell it.
+
+Thanks"
+,krhthkos,2012-11-27T19:19Z,"also please add the dot.net 4.5 with latest updates.
+
+thanks"

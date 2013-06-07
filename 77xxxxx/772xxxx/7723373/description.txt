@@ -1,0 +1,83 @@
+In Flames - Clayman - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+
+1 - Bullet Ride
+2 - Pinball Map
+3 - Only For The Weak
+4 - ...As The Future Repeats Today
+5 - Square Nothing
+6 - Clayman
+7 - Satellites And Astronauts
+8 - Brush The Dust Away
+9 - Swim
+10 - Suburban Me
+11 - Another Day In Quicksand
+12 - Strong And Smart
+13 - World Of Promises
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = -0.092db
+-With DC Offset Removed: Apparent Bit Resolution = 19, Peak = -0.092db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 0.911db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-10-13 01:03:36
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR6        0.00 dB    -6.76 dB      4:42 ?-01 - Bullet Ride
+DR6        0.00 dB    -6.12 dB      4:07 ?-02 - Pinball Map
+DR6        0.00 dB    -6.61 dB      4:55 ?-03 - Only For The Weak
+DR6        0.00 dB    -6.27 dB      3:28 ?-04 - ...As The Future Repeats Today
+DR6        0.00 dB    -6.74 dB      3:56 ?-05 - Square Nothing
+DR6        0.00 dB    -5.93 dB      3:27 ?-06 - Clayman
+DR6        0.00 dB    -7.41 dB      5:01 ?-07 - Satellites And Astronauts
+DR6        0.00 dB    -6.05 dB      3:15 ?-08 - Brush The Dust Away
+DR6        0.00 dB    -6.35 dB      3:13 ?-09 - Swim
+DR6        0.00 dB    -6.54 dB      3:34 ?-10 - Suburban Me
+DR6        0.00 dB    -5.93 dB      3:48 ?-11 - Another Day In Quicksand
+DR6       -0.01 dB    -6.34 dB      2:23 ?-12 - Strong And Smart
+DR6        0.00 dB    -7.37 dB      4:05 ?-13 - World Of Promises
+--------------------------------------------------------------------------------
+
+Number of tracks:  13
+Official DR value: DR6
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+
+enjoy :)

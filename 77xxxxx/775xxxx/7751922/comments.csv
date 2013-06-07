@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,MrShredder,2012-10-24T21:39Z,I am getting a error! it says ISDOME error!
+,pritisg,2012-10-30T15:16Z,"hey guys after a mission it is asking for the origin.
+how do we get it?"
+,pritisg,2012-10-30T18:05Z,hey i got the origin but then also the game freezes after the sniper rifle mission
+,pritisg,2012-10-30T18:06Z,how can we sort it out?
+,levin123,2012-11-04T12:01Z,"Those having difficulties to proceed to load the car mission(hot pursuit) kindly
+change the language from english to russian.
+After you beat the level,then change it back to english. It's working for me!
+
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_en_US.dll""
+
+""Locale""=""en_us""
+
+
+to
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+
+""Locale""=""ru_RU"""

@@ -1,0 +1,42 @@
+If your ISP is any of the following:
+AT&T, Cablevision, Comcast, Time Warner Cable or Verizon, You should switch
+They plan to track and punish your usage here starting November 28th (TorrentFreak)
+a VPN (NOT ipvanish!) or proxy may be a good idea
+Dumping these ISPs is ALWAYS a good idea
+
+Certified Free of all "Gross Pixelation Errors" (all of them)
+
+========= IMDB.com/title/tt1196946/
+
+Release Name: The.Mentalist.S05E03.Not.One.Red.Cent.HDTV.XVID.AVIGUY.avi
+
+From AVIGUY:
+Release Date.: 2012-10-14
+Release Size: 288 Mb
+Run Time.......: 42:50
+Resolution.....: 640x360
+Video Codec...: XVID
+Video Bitrate..: 768 Kbps
+Audio: MP3 160kbps 44KHz VBR
+
+OK, ready for a math lesson?
+Or maybe you just want to know why I use 640x360 instead of 624x352 or 720x400?
+
+Well, there's this odd reason for 1920x1080 (1080p) & 1280x720 (720p) & mine.
+1920+1080=3000
+1280+720=2000
+640+360=1000
+
+I don't know that there's any real significance to round thousands, but the industry
+seems to like them, so who am I to complain. Plus, when re-encoding from 1080p or
+720p, it strikes me as an easy conversion as 360+360=720 & 720+360=1080.
+
+The calculation is easy - H+W=X*1000. You do X=5, here's X=1-4:
+
+Aspect ratio is 16:9 | 16+9=25
+1000/25=40 | 16*40=640 | 9*40=360
+2000/25=80 | 16*80=1280 | 9*80=720
+3000/25=120 | 16*120=1920 | 9*120=1080
+4000/25=160 | 16*160=2560 | 9*160=1440
+
+Yes?

@@ -1,0 +1,129 @@
+ROM Toolbox is the MUST HAVE app for any rooted user.
+
+
+ROM Toolbox combines all the great root apps all tied up into one monster app with a beautiful and user-friendly interface. It also adds many more unseen features!
+This app requires root permission.
+
+**************
+FEATURE LIST:
+**************
+
+==== TOOLS ====
+
+-- ROM Manager --
+Γÿå Install full ROMs and other zips from a growing list of ROMs
+Γÿå Create, manage and restore nandroid backups
+Γÿå Wipe data, cache, dalvik-cache, battery stats
+Γÿå Install a ROM from your SD card
+
+-- App Manager --
+Γÿå Batch backup & restore
+Γÿå Automatically backup apps when they are installed
+Γÿå Automatically delete backups when uninstalled (off by default)
+Γÿå Send backups via gmail/email or dropbox
+Γÿå Sort backups by already installed, same as installed, older versions, etc.
+Γÿå Backup/restore app data
+Γÿå Backup/restore Android Market link
+Γÿå Task manager
+Γÿå View memory usage
+Γÿå Show/hide different processes
+Γÿå Automated batch uninstaller
+Γÿå E-mail your apps to friends
+Γÿå Share with other applications which accept text (SMS, facebook, google reader, etc...)
+Γÿå Move *any* user app to the SD card
+Γÿå Freeze/Defrost system & user apps
+Γÿå Market Doctor (Link *any* app to the Android Market)
+Γÿå Break market links
+Γÿå Clean up dalvik-cache
+Γÿå Zipalign all apks
+Γÿå Fix permissions on all apps
+Γÿå Wipe data or cache for apps
+Γÿå Force close apps
+
+-- Root File Browser --
+Γÿå Access the whole of android's file system (including the elusive data folder!).
+Γÿå Batch copy/paste, zip, tar, delete, move any file or folder
+Γÿå Change file permissions and ownership
+Γÿå View, edit and share files
+Γÿå Add new files & folders in any directory
+
+-- Scripter & Terminal Emulator --
+Γÿå Create and run scripts as root
+Γÿå Download & run new scripts from an ever-growing list
+
+-- Auto Start Manager --
+Γÿå Enable/disable apps that run on start-up
+Γÿå Enable/disable any intent/action apps receive
+
+-- Ad Blocker --
+Γÿå Choose to block ads, porn, casino & risky sites
+Γÿå Add new sites to the hosts file
+Γÿå Use custom IP
+
+-- Configure Apps2SD --
+Γÿå Select the default install location for apps
+
+-- Rebooter --
+Γÿå Reboot recovery, powerdown, bootloader, restart status bar, etc.
+
+==== INTERFACE ====
+
+-- Font Installer --
+Γÿå Install custom fonts to your whole device from a list of over 150
+Γÿå Set fonts as favorites and send them to friends
+
+-- Boot Animation Installer --
+Γÿå Install custom boot animations from over 100+
+Γÿå Preview boot animations
+Γÿå Backup & preview your current animation
+
+-- Theme Manager --
+Γÿå Create themes to install to your system
+Γÿå Install a theme from other users
+
+-- Icon Changer --
+Γÿå Customize your status bar by installing custom icons for wifi, 3g/4g, gps, usb, etc.
+Γÿå Change your battery icons in the status bar to a custom one from a list of 150+
+
+-- Boot Logo Changer --
+Γÿå Change your boot logo (splash screen) for supported phones
+
+-- Theme Chooser Themes --
+Γÿå View a list of themes for the CM7 theme chooser
+
+==== PERFORMANCE ====
+
+-- CPU Sliders --
+Γÿå SetCPU and scaling governor
+Γÿå Apply cpu at boot
+Γÿå View cpu info
+
+-- Build.prop Tweaks --
+Γÿå Easily edit your build.prop
+Γÿå Change lcd density, improve battery life, increase performance
+
+-- Auto Memomory Manager --
+Γÿå Set minfree values and select from presets
+Γÿå Apply minfree at boot
+
+-- SD Boost --
+Γÿå Increase the speed of your SD card
+
+-- Sysctl Tweaks --
+Γÿå Easily modify sysctl values
+
+**************
+
+Are you a ROM developer? Get your ROM in Rom Toolbox today! Email us, what are you waiting for? We would also love if you put ROM Toolbox (free) in your ROM. Email us and we will offer support
+
+We have tons of features we are working on! This is what's new in the latest version:
+<b>Version 5.4.0</b>:
+Γÿà Re-wrote CPU Control & Kernel Tweaks
+Γÿà Added CPU info, benchmarks, more sysctl tweaks & governor tweaks
+Γÿà Misc. Bug fixes
+
+Installation instructions :
+1. Remove version 5.3.9 or other previous version including data first.
+2. Clear Data to Luckypatcher, and run LuckyPatcher the custom patch will be saved to /sdcard/LuckyPatcher/
+3. Install 5.4.0 and don't run ROM toolbox pro, then use Lucky Patcher to remove the protection via custom patch
+4. Reboot Phone

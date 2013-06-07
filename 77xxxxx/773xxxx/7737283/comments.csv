@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,smokey786,2012-10-18T00:01Z,HOW DO YOU INSTALL ?
+,Lowe9,2012-10-18T00:11Z,http://image.bayimg.com/maenkaaed.jpg
+,robsinbc23,2012-10-18T03:13Z,"this should not be an exe - it is just a registry entry..
+
+http://www.sevenforums.com/tutorials/1911-take-ownership-shortcut.html
+
+good thing he is not even seeding.. lol
+
+be careful.."
+,jacob5800,2012-10-18T13:21Z,i use it before and every time i boot there is a page that open and asking with which program it want to be open i have to press cancel two time  impossible to take it out do not use this thaks
+,Lowe9,2012-10-18T16:09Z,"Little example:
+
+The ""Metro"" Apps in Windows 8 are installed in the WindowsApps folder 
+located in the C:Program Files folder.
+It is a Hidden folder, so in order to see it, 
+you will have to first open Folder Options and check the Hidden items.
+If you try to click on it to open it, you will not be allowed to.
+
+With this tool can open it and see its contents.
+
+http://image.bayimg.com/faeggaaee.jpg
+
+! But remember:
+Malware that gains access to this (or another) folder, 
+could potentially modify the apps source code maliciously.
+
+So it might be a good idea to change the permissions back to their defaults, 
+after you have completed your work."
+,bert16,2012-10-22T02:12Z,"You don't necessarily need this tool to see the Windows Apps folder. With Total Commander you can see it just as well. It just prompts you ""as Administrator"" and you click Yes."

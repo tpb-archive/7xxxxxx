@@ -1,0 +1,39 @@
+Kylie Minogue
+"Timebomb (Tootie Edit)"
+Music Video
+
+Container: MKV
+
+Video:
+1080p h.264 (23.976 fps)
+Source:
+1080p YouTube FLV
+Notes:
+The music video has been cut so that the song is utilized non-stop.
+(Mostly) Direct stream copy of 1080p H.264 video stream.
+Frames around an edit point were re-encoded as keyframes as needed.
+Syncronized via (possibly imprecise) timecode offset.
+Audio extends beyond the beginning and end of the video stream.
+
+Audio Stream 1: "Single FLAC" (Default)
+FLAC
+Source:
+Timebomb CD Single (Direct mux)
+Note: Leading silence removed
+
+Audio Stream 2: "Minimal Sound Effect Edit"
+FLAC
+Source:
+Timebomb CD Single & 1080p YouTube FLV AAC
+Note: Utilized as little of the AAC audio as possible to place a few sound effects from the original video into the audio.
+
+Audio Stream 3: "Max Sound Effect Edit"
+FLAC
+Source:
+Timebomb CD Single & 1080p YouTube FLV AAC
+Note: Included as many sound effects as the video edit would permit without going overboard on the source switching. Almost all of the second verse uses the AAC audio.
+
+Overall average bitrate: 7533 kbps
+
+
+Please note that media players might not handle this video correctly due to the fact the video stream does not start when the audio streams do. Also, the use of infused re-encoded keyframes has been known to cause problems in some players. Playback tested with ffdshow tryouts decoder.

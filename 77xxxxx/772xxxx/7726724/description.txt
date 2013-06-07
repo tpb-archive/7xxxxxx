@@ -1,0 +1,34 @@
+TotalFinder 1.4.2 + Crack.
+
+Description : 
+
+Tabbed Browsing
+Add tabs on top of Finder. The same tabs as seen in Google Chrome.
+Dual Mode
+Display two Finder windows side-by-side in dual mode.
+Folders on Top
+Don't make me think. Folders should always go first in list view.
+Show System Files
+Show me all files on the disk. I'm not afraid to see the cruft.
+Visor
+Convenient system-wide Finder always one key-press away.
+Cut & Paste
+Use keyboard shortcuts to move files around. Faster than drag & drop.
+
+
+What's New in Version 1.4.2
+
+NEW
+Added Vietnamese translation by Craig Nguyen
+NEW
+Compatibility with Finder 10.8.1 (which is included in OS X update 10.8.2).
+FIXED
+Fixed unreliable "Reveal in Finder" requests from other apps (issue).
+FIXED
+Fixed "Folders On Top" issues when list was displayed as unsorted and caused weird dragging bugs (issue).
+FIXED
+Fixed issues with missing sidebar or toolbar in some scenarios (issue, issue).
+FIXED
+Fixed a minor memory leak.
+IMPROVED
+New tabs get created in the last browser on the current space.

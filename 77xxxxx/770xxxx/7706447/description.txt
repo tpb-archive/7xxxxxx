@@ -1,0 +1,38 @@
+If you've tried to play the PC version of DarkSouls with a mouse and keyboard, you probably have been tearing your hair out in frustration!
+
+I have compiled here in an easy-to-install package three mods which fix the following issues (among others):
+-Choppy camera
+-Mouse pointer not disappearing
+-FPS limited at 30
+-The default icons for buttons are based on an Xbox 360 controller, making it very confusing to learn the controls. (Now they display icons for the default keyboard and mouse bindings instead.)
+-Mouse is not "grabbed" by the window and will stop you from turning when it hits the edges of the screen.
+-Autotargeting goes totally crazy
+
+
+
+========= INSTALLATION: =========
+
+Simply copy the files to your DarkSouls directory.
+
+
+It works out of the box, but here are some recommendations:
+1. By default, I have disabled the 60 FPS limit. You will need to enable it in the DSfix ini if you want a fps over 30.
+
+2. Make sure to disable AA ingame--and use DSfix settings instead.
+
+3. Set your "Camera" setting ingame to 10.
+
+=================================
+
+
+CREDIT:
+This package includes three mods, listed here. I have also provided links to where you can find the original mods yourself.
+
+1. Durante's excellent "DSFix" mod. Enables +60 fps and basic image-quality improving stuff. Very nice:  
+http://darksouls.nexusmods.com/mods/19/
+
+2. "DS Mouse Fix" by Petska:  
+http://pages.cs.wisc.edu/~petska/
+
+3. "Black keyboard buttons icons" by taro8  
+http://darksouls.nexusmods.com/mods/41	

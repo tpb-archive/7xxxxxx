@@ -1,0 +1,75 @@
+﻿User Type,Username,Date,Text
+,Sadler2,2012-10-30T10:17Z,A cable has been unplugged. Please make sure your Rocksmith Real Tone Cable (TM) is properly connected.
+,TudaOpp,2012-10-30T17:50Z,"This lets me play DLCs although Rocksmith stopped regestering my notes half way in the song. I dont have this problem with the ""RocksmithNoCableNew"" version.. Although with that version I cant play DLCs.
+So close now.. :P"
+,TudaOpp,2012-10-30T19:28Z,"sorry, I was wrong. It works great. Thanks!"
+,Demonsthere,2012-10-30T20:51Z,"Hey guys, after the tutorial posted up the game is working just fine , latency is great, but I got a problem a few people in this thread had, but no answer was given.
+After using the NoCableNew crack from piratef the game brings me after the sound check, to tuning and after tuning all string when you are about to test all of them I get a white screen and the .exe stops working. 
+I get so after this crack as well. Any advice ? "
+,Demonsthere,2012-10-30T20:53Z,"Hey guys, after the tutorial posted up the game is working just fine , latency is great, but I got a problem a few people in this thread had, but no answer was given.
+After using the NoCableNew crack from piratef the game brings me after the sound check, to tuning and after tuning all string when you are about to test all of them I get a white screen and the .exe stops working. Any advice ? "
+,theoriginalmack123,2012-10-30T23:45Z,"I'm using the tiny iso and crack along with this fix..
+I'm getting an error that says I have 2 instruments plugged in.. any advice?"
+,SgtMeowmers,2012-10-31T00:09Z,"@theoriginalmack123
+Try disabling in control panel> sound any other microphones you might have. To be sure disable everything except your line in (or whatever input your guitar is connected to) under the record tab "
+,alexusm,2012-10-31T05:30Z,"@theoriginalmack123
+try to delete rocksmith.ini in game folder"
+,Robert_Surcouf,2012-10-31T13:15Z,"Hi,
+
+working fine for me with ""USB guitar link"".
+
+Thanks for sharing"
+,WhiteTemplar,2012-10-31T13:32Z,"Hey, I have a Beringher UCG102 will tihs work? I guess it will but the fact it's asio makes me wonder :/
+Anyway good job for this amazing software !"
+,HedbeH,2012-10-31T14:11Z,"""A cable has been unplugged. Please make sure your Rocksmith Real Tone Cable (TM) is properly connected.""
+FAKE fix ! Not working !"
+,Robert_Surcouf,2012-11-01T23:05Z,"@WhiteTemplar: My usb cable link is a ""clone"" of the Beringher so it will certainly work (in fact I use officials beringher's driver and asio4all) 
+
+Don't know how this fix works but I can play the game with it, so you'll be able too.
+
+@HedbeH: it's not a fake fix, you just don't know how to set up your pc perhaps ? what are your settings ?
+
+@TudaOpp: sometimes the game stops recognizing the notes also for me, how did you fix it please ? I've tyniso version + this fix.
+
+
+"
+,HedbeH,2012-11-02T00:51Z,"@Robert_Surcouf, the ""nocable"" fix is working, but this ""nocable dlc"" is NOT working. Same settings."
+,Danny1905,2012-11-02T05:25Z,"thank you so much for the no cable fix, now the DLC's works perfect!!!"
+,veky12,2012-11-02T08:33Z,Everything works flawless now. You rock
+,WhiteTemplar,2012-11-02T08:46Z,"@HedbeH Did you put your mic and speakers to 48kHz? (and please try to ask before saying ""it's fake"")
+"
+,Robert_Surcouf,2012-11-02T12:23Z,"TO ALL: Guys, do you know why the game stops recognizing the notes from time to time (today I can't play more than 5 notes ! ... v_v).
+
+I use 48Khz, exe is in admin mode, I can hear the sound of guitar in game... Yesterday it was more or less playable, today it's not.
+
+Thank you for your help"
+,dragzt,2012-11-02T12:36Z,"""@TudaOpp: sometimes the game stops recognizing the notes also for me, how did you fix it please ? I've tyniso version + this fix.""
+
+I guess it's a game bug.
+
+Got same problem with original game and cable 2-3 times a week ;) Was hearing guitar from speakers but game didn't picked teh notes, or guitar stopped playing alltogether."
+,HedbeH,2012-11-02T13:27Z,"@WhiteTemplar, of course my sound card is configured to 48Khz. I tried 16bit/48khz, 24bit/48khz, 16bit/44.1khz & 24bit/44.1khz... NOT WORKING ! I repeat : the ""nocable"" fix is working, but this ""nocable dlc"" is NOT working. Same settings."
+,WhiteTemplar,2012-11-02T13:39Z,"@Robert are you using TinyISO's version or Temperror's ?
+I need to know to see if this bug actually comes from TinyISO's retail.
+
+@dragtz : For us it's around once every 5 notes, it's not 3 times a week :D"
+,WhiteTemplar,2012-11-02T13:40Z,"@HedbeH : Running as admin?
+Ini settings?
+
+The fix works fine apart from the notes bug for some of us."
+,HedbeH,2012-11-02T15:37Z,"@WhiteTemplar, yes. Same settings than the ""nocable"" fix."
+,WhiteTemplar,2012-11-02T17:53Z,Try a clean install.
+,HedbeH,2012-11-02T20:32Z,I will try next week. :(
+,Robert_Surcouf,2012-11-03T11:43Z,"@Whitetemplar: I'm using TinyISO. Checking on forums, I am not an isolate case =)"
+,cl0n32,2012-11-03T20:21Z,"tinyiso + rocksmithnocable + m-audio usb interface + win7 x64: quit resgister notes.
+ Same problem with rocksmithnocablenew. The guitarcade 'ducks' seems to be the worst mode for this problem, i was never able to complete it due to the notes not registering"
+,stephenfg,2012-11-04T07:02Z,"For anyone having problems with the note recognition, try chaging the second line in the rocksmith.ini file to ""EnableMicrophone=0"" (without the quotes). Or, go into the game options, disable the microfone and restart the game. Hope it works =)"
+,Demonsthere,2012-11-04T12:55Z,Crashes on the second note as like as the cracks from piratefen 
+,cl0n32,2012-11-04T18:36Z,"notes quit registering while trying all kinds of settings: EnableMicrophone=0, ForceWDM=1, you name it"
+,peyol,2012-11-04T19:22Z,"Hello guys, I think I found a way to bypass a annoying bug with regognizing notes. I have spent all day on that, and for me recipe was changing the line in on microphone in in my Realtek Hd Audio Driver. Now I don't have that problem and don't have fcking noise that was in microphone. :} I hope it will be useful for you and sorry for my shitty English."
+,sulsa23,2012-11-06T04:32Z,Why is this fix needed? Is this so you can play rocksmith with a different cable than the one that comes with the game?
+,WhiteTemplar,2012-11-06T12:52Z,Yes sulsa23.
+,PSPbr,2012-11-06T16:49Z,"@Peyol, and how do you do that exactly? I am using an alternate USB cable, and i have the Realtek audio driver, by changing the line in, you are saying like, change the jack you use for the mic? Sorry, my english is bad."
+,Acid6D94,2012-11-06T22:04Z,"@Demonsthere Mine does too, have you got a fix or does anyone else have this happen to them as well.
+
+My specs are exactly what the minimum requirements are, other than I have 3gb of ram."

@@ -1,0 +1,50 @@
+                       .__ __   .__                        
+___  ______  ___ _____ |__|  | _|  |   _______  ______  ___
+  /  /  /  //     |  |  |/ /  |  /  _   /  /  /  /
+ >    <  >        < 
+/__/_ /__/_ __|_|  /__|__|_ ____/____/__/_ /__/_ 
+      /      /     /        /                /      /
+
+***I DID NOT DEVELOP THIS PROGRAM/APP NOR ANY OF THE ASSOCIATED FILES***
+
+The Android Central Sideload Wonder Machine (SWM) was designed to allow you to sideload applications to your Android device, without the need to install the Android SDK, or to use cumbersome command prompt commands. While specifically designed for phones where the ability to install from "Unknown Sources" has been disabled, this program will work with any Android device.
+
+What is 'sideloading'?
+
+Sideloading refers to the practice of installing applications on your Android device that have not been downloaded from the official Android Market. Android developers may choose to have their application hosted elsewhere, and via a direct download and sideloading the applications can be used like any other application you have downloaded from the official Market. Normally, this can be done directly on the device, but this has been disabled on some Android phones.
+
+1. This has not been publicly tested, so it gets the BETA tag. It has been through a good bit of private testing, and it's time to put it out there for bug reports. The download is attached to the bottom of this post. The source will follow once I'm satisfied the BETA isn't broken.
+
+2. You will still need to install the Microsoft .NET 4 framework. 
+
+3. To install version 1.2 of the SWM, you need to place the AC_SWM folder that is inside the zip file you downloaded on your C: drive. Don't place it in any subfolder. Don't remove any files or folders from the AC_SWM folder. Doing it this way (manually copying the folder) keeps us from having to write to the Windows registry. Nobody wants to do that.
+
+Open the downloaded zip file with your favorite zip file utility. Or just use Windows and double click it.
+In a separate window, open My Computer and navigate to your C: drive. If you don't have a C: drive, you already know what you're doing and will need to create one.
+Drag the AC_SWM folder from the zip file into your C: drive.
+
+Inside the AC_SWM folder is the program itself. LEAVE IT WHERE IT IS. You can create a shortcut to the application anywhere you like, but the program itself needs to stay put.
+
+You will also need to install the adb USB driver for your phone. You can find this at the manufacturers site. The application will not, and can not function without this. Refer to your device specific forum for help if needed.
+
+You will need to enable USB debugging to use the SWM. On your phone:
+menu->settings->Applications->Development . Check the box that says USB Debugging.
+
+To use the SWM:
+Connect your phone to your computer.
+Make sure your phone is not set to act as a USB device.
+Make sure your phone is not set to act as a USB modem.
+Make sure any applications or windows that open and run when you plug your phone in are disabled. This includes doubleTwist and WinAmp, as well as device or carrier specific programs.
+Open the Sideload Wonder Machine program on your computer.
+Use the "Choose APK" button to find the .apk file of the application you want to install. It's a standard windows dialog. Just select it and choose "open".
+You'll see a popup that tells you exactly what file is being prepared to be installed. If this is correct, click OK in that window.
+Press the "Install" button to install the application to your phone. If you are upgrading an app that already exists, be sure to check the box to let the program know.
+A window will open. Read what the window says. If there is no error message, everything went as planned and your application is now installed.
+
+
+If there is an error, while your phone is plugged in open the diagnostics window via the "Diagnostics" button. Run both diagnostic tools. Read the output of them, and look for the error. If you are unable to resolve the error, please provide a screenshot of both diagnostic windows for better help.
+
+
+Thank you for downloading and please continue seeding :)
+
+Also, If you're interested in joining the FoneLab Development Team or contributing please email us at xdadev.aw@gmail.com

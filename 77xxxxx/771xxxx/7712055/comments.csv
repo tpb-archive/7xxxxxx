@@ -1,0 +1,115 @@
+﻿User Type,Username,Date,Text
+,Green.Banana,2012-10-10T01:53Z,"And I was worried that it wasn't out for the Wii first!  I can just play it for free, instead!  Thanks, VBlank!  "
+,Kenji99,2012-10-10T02:16Z,Does this one have the save issue?
+,Green.Banana,2012-10-10T02:27Z,"You'd think the uploader would say, especially as EXE files are typically suspicious.  "
+,Fabhar,2012-10-10T02:41Z,"I downloaded this, and when I went to install it, everything was question marks and I had no idea what to do. Does anyone know what the problem is? Do I need to download it again?"
+,zooss,2012-10-10T03:19Z,"@Green.Banana
+Yea, but typically the uploaders with the skulls are trusted members in the community.
+
+@Fabhar
+No, I believe this is how it is suppose to be, just press the button to the left(there are two buttons on the bottom) and it should install.
+
+I didn't detect any viruses or anything, seem clean. The installer is quite goofy but can't complain. As well I'm pretty sure this doesn't have save issues, I didn't test it too much but I got to a point where I could save, saved, then exited and came back and the save worked(as well as the Continue Game).
+
+Thanks for uploading!"
+,Fabhar,2012-10-10T03:29Z,"@zooss
+
+ Thanks for the info, I appreciate it."
+,hustlakid,2012-10-10T06:29Z,"This game is amazing.  I played this for about 10 minutes just to see what it was all about, and I was sold.  I bought it over on steam for less than $14.  It's great!
+
+The save issue you are having is that it saves it to the server and not locally.  The developer made a cloud so you can sync your game between PC and PS3/PSP/etc.  The $15 is worth it to me to have leaderboards and saving, plus the guy who made deserves it.  A lot of time went in to this for sure.  Good stuff.
+
+Thanks to the uploader.  :)"
+,Nazrat84,2012-10-10T07:22Z,"Packer.ModifiedUPX. Picked up with Malwarebytes.
+
+Although it's most likely false positive, do take caution."
+,anonymous-t,2012-10-10T12:02Z,It doesnt work for me! i get a black screen after i putted it on compatible mode windows xp sp2. Else if i dont put it on windows xp mode it crashes
+,DalastHNIC,2012-10-10T22:52Z,"@ anonymous-t
+
+I was getting that issue to. The reason why it's doing that is because you need to update your ""DirectX"" to the latest one.  I had an old ""DirectX"" player but I updated it to ""DirectX11"" and the game booted up like it was nothing. Give it a shot bro."
+,kreverwas,2012-10-11T18:44Z,"Works great on my Directx 11 compatible pc, but doesn't work on my older DX 9.0c Notebook. (black screen after start) The developers should have made a 8-bit-like game compatible with DirectX9. Thanks for the upload! "
+,thanotron,2012-10-11T22:00Z,"has anyone gotten this working with wine on ubuntu 12.04? after i install through wine and try to run the game it says wine has run into a serious error and shuts down.. if anyone has any suggestions, id really appreciate it. was really looking forward to playing this one."
+,kreverwas,2012-10-12T00:08Z,"OK, for anyone who has the black screen error after starting the game: Download 3D Analyze 2.36, install the program, run it, click on select! select the retrocityrampage.exe from program filesretro city rampage, and use these settings: 4319 VendorID ; 816 DeviceID
+Under the Pixel and vertex Shader options turn on the following options: 
+                          skip pixel shader version 1.1
+                          skip pixel shader version 1.4
+                          skip pixel shader version 2.0
+Click on RUN! And the game will work perfectly under Directx 9.0c with any video card.
+At least it works for me in Windows XP Pro sp3.
+Good Luck!"
+,KuhLeeTing123,2012-10-12T00:09Z,"Aah, old school thank you!"
+,Mr_Ceiling_Cat,2012-10-12T08:59Z,this works but is not THETA
+,thanotron,2012-10-12T10:07Z,"i swapped over to windows to play but im still getting errors. after i install (tried with multiple releases) i get something about the instruction at 0x00blahblah referenced memory at 0x00blahblah. the memory could not be read.. im guessing its some graphical error as a couple times, it booted with black screen and i could hear sound effects.. anyone have any idea whats wrong? im losin my mind.."
+,whatthefuckpassword,2012-10-13T23:06Z,Official torrent: http://torrents.humblebundle.com/retro_city_rampage-windows-setup.exe.torrent
+,Karnager,2012-10-15T23:07Z,an EXE?? is it safe? since when games cames straitgh in exe format on torrents? SUSPICIOUS
+,urretado,2012-10-19T00:29Z,"Also having problems with the black screen. Running on a notebook with Windows XP SP3.
+
+Tried Keverwars' solution, but unfortunately it didn't work for me. Gonna try updating my DirectX"
+,urretado,2012-10-19T00:36Z,"I also had the black screen problem. I just had to update the DirectX.
+Downloaded it off micro$oft site. Running on a notebook with Windows XP"
+,sarhento_t,2012-10-19T07:48Z,"Guys listen, whatthefuckpassword's link is the DRM-FREE release by the developer for the Humble Store. This is the real deal.
+
+By any chance my good man that you have their other torrent releases? Thank you!
+
+If you still missed the legit torrent link, here you go: 
+
+http://torrents.humblebundle.com/retro_city_rampage-windows-setup.exe.torrent"
+,Brooce,2012-10-19T23:55Z,"Karnager, it's a self extracting rar file. Rename it to .rar and open it in WinRAR to see for yourself. I do agree that people should avoid .exe extractors in torrents though, as it does end up looking suspicious."
+,jaime_lex,2012-10-20T20:35Z,Does anyone have the link to the latest version available (v1.03)? 
+,whatthefuckpassword,2012-10-21T00:51Z,"Karnager, you're a fucking moron."
+,jaime_lex,2012-10-21T06:25Z,¿What is the latest version that is in the HumbleStore?
+,whatthefuckpassword,2012-10-27T19:25Z,"You're getting it for free, but you're still whining for the latest version.  If you want the latest version so bad, why not buy it yourself and share the link with us?
+
+v1.02: http://torrents.humblebundle.com/RetroCityRampageSetup102.exe.torrent
+
+v1.04: http://torrents.humblebundle.com/retro_city_rampage-1.04-setup.exe.torrent
+
+The GOG version apparently has extra content - that's some bullshit right there, I bought it from the official website, but still got screwed.  Can someone please post a link (or upload) the GOG version?"
+,jaime_lex,2012-11-03T19:26Z,"New Update
+
+v1.05: http://torrents.humblebundle.com/retro_city_rampage-1.05-setup.exe.torrent
+
+#### RETRO CITY RAMPAGE (PC) v1.05 CHANGES | 2012/11/01 ####
+
+• Stomp and Dodge Tutorials Added (to Pay Attention Noob)
+- To emphasize the importance of stomping and jumping
+(which are required to beat certain missions)
+- Trains the player how to avoid Police Cars running them down
+
+• Sound fix
+- Fixes an issue which occurred with a small number of sound drivers
+
+STORY MISSIONS TWEAKED
+
+• Many story missions significantly tuned
+- more checkpoints, health pick ups, faster parked vehicles to speed up travel
+- including:
+Holy Secret Identification, Guilty Conscience, Drunk Trialing,
+Streets of Urban Bouncing, Pawn That Noob's TV,
+Loose Change Laundry Caper, Super Stomp Shenanigans
+• Castle boss now easier
+- shields dropped which render you immune from wreaking ball attacks
+- more walls/floor added reducing chance of falling into gears
+• Prison stomp now easier
+- split into two parts with a checkpoint in the middle
+• Side missions - added depth
+- Increased the challenge on the Trailer Park and Milky's missions
+(they now require more strategy to beat)
+
+• Tips Screens
+- Now include German translations"
+,kingeli,2012-11-07T11:17Z,can someone upload the steam version please???
+,jaime_lex,2012-11-07T23:27Z,"NEW UPDATE
+v1.06: http://torrents.humblebundle.com/retro_city_rampage-1.06-setup.exe.torrent
+
+#### RETRO CITY RAMPAGE (PC) v1.06 CHANGES | 2012/11/06 ####
+
+• Sweat Bomber platforming stage now skippable after three deaths
+  - Also made soul boosters more visible with louder arrows
+
+• Police Siren Adjusted
+
+• Misc Bug Fixes"
+,froggyskins,2012-11-08T23:24Z,"@kingeli: Why the hell would you want the Steam version? You realize that Steam authenticates purchases, right? Unless I'm mistaken there's no way to play games via Steam unless you buy them or redeem them with a code. The DRM-Free version is the same game just without copy protection!"
+,whatthefuckpassword,2012-11-09T05:26Z,"v1.06 torrent is broken.  The file in that torrent is 8,355,840 bytes, the full exe should be 22,754,646 bytes."
+,froggyskins,2012-11-09T19:43Z,damnit...whatthefuckpassword is right....the file is too small and opening it states that the files are corrupted. Can someone up a working file for 1.06?

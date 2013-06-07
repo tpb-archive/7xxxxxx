@@ -1,0 +1,15 @@
+This is what I've been working on for the past couple of days; an ISO which allows installation and activation of Windows 8 using the free Windows Media Center keys offered on Microsoft's Add Features page.
+
+The Technical Stuff
+
+This was created by using dism to upgrade Windows 8 Professional x64 to ProfessionalWMC, and then integrating a data.dat file produced by using the method developed over at mydigitallife.info.
+
+This will install either without a key at all, or using the trial ProfessionalWMC key from MSDN, or - more importantly - using YOUR WMC upgrade key. If you do the latter, and have an active network connection, you'll end up at a fully activated desktop ready for use :)
+
+This method is good until 31st of January, 2013, so get going!
+
+To register for your free key, please visit: 
+http://windows.microsoft.com/en-US/windows-8/feature-packs
+
+And for support on this release, visit: 
+http://forums.mydigitallife.info/threads/39215-DELTA-Windows-8-Professional-with-Media-Center

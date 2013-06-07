@@ -1,0 +1,38 @@
+Movies : Action : VHS Rip : English, 60mins
+This is a redo of my torrent to reduce file size.
+
+the East Side Kids in Mr. Muggs Rides Again - 1945
+  
+http://www.imdb.com/title/tt0037930/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+Featuring Leo Gorcey, Johnny Duncan & Minerva Urecal.
+
+Also starring Mende Koenig, Buddy Gorman, Billy Benedict & Huntz Hall and of course, Bernard Gorcey.		
+
+[11:11:30] job configuration:
+[11:11:30]  * source
+[11:11:30]    + C:Mr Muggs Rides AgainVIDEO_TS
+[11:11:30]    + title 1, chapter(s) 1 to 1
+[11:11:30]  * destination
+[11:11:30]    + C:Documents and SettingsDead End KidsMy DocumentsMr Muggs Rides Again.mkv
+[11:11:30]    + container: Matroska (.mkv)
+[11:11:30]      + chapter markers
+[11:11:30]  * video track
+[11:11:30]    + decoder: mpeg2
+[11:11:30]      + bitrate 8000 kbps
+[11:11:30]    + frame rate: same as source (around 23.976 fps)
+[11:11:30]    + strict anamorphic
+[11:11:30]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[11:11:30]      + pixel aspect ratio: 8 / 9
+[11:11:30]      + display dimensions: 640 * 480
+[11:11:30]    + encoder: x264
+[11:11:30]      + options: ref=2:bframes=2:me=umh
+[11:11:30]      + bitrate: 303 kbps, pass: 2
+[11:11:30]  * audio track 0
+[11:11:30]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[11:11:30]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[11:11:30]    + mixdown: Stereo
+[11:11:30]    + encoder: faac
+[11:11:30]      + bitrate: 160 kbps, samplerate: 48000 Hz

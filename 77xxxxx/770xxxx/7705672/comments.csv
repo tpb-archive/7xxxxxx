@@ -1,0 +1,7 @@
+﻿User Type,Username,Date,Text
+,KuromiBun,2012-10-09T00:42Z,"Has anyone been having trouble with extensions lately with torrents from eztv? The file format becomes ""X264-EVOLVE File (.x264-EVOLVE)"" and I have to add "".mp4"" to fix it. This was not happening a month ago, and I didn't change any settings. Running uTorrent and Win7 64-Bit Ultimate (fresh install two weeks ago though problem started on old install). K-Lite Codec pack installed as well.
+
+Anyone else having this problem?"
+,jackson5more,2012-10-09T20:25Z,@kuromibun - Win7 default settings in 'cntrlpnl/folders' is to 'Hide extensions of known file types'.  Get rid of this and you might see that the files were always correct. This setting is for no0bs imo
+,KuromiBun,2012-10-10T22:06Z,@jackson5more- Was actually the first thing I tried. Same result. I have had it both showing the extensions and hiding the extensions. Gonna check to see if maybe its something wrong with the torrent client. Thanks for the good suggestion though!
+,NoMoreAVI,2012-10-11T17:51Z,Losing file types in single file torrents is a uTorrent 3.2 feature.

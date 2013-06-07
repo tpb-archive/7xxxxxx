@@ -1,0 +1,54 @@
+============================================================================
+|There are no well established activation bypass as of yet, so I have not  |
+|included them.                                                            |
+|----------------------------------murphy78--------------------------------|
+|No Windows 8 Settings were harmed in the making of this ISO.              |
+|No Programs are added.                                                    |
+|No Unattended Settings were added to the installation.                    |
+|No Registry Settings were modified.                                       |
+|--------------------------------------------------------------------------|
+|Either burn the included .iso file to a dvdr or use a usb flash drive.    |
+|I have included diskpart instructions and the win7usb tool.               |
+|I personally use diskpart and winrar, but the tool may be easier.         |
+|----------------------------------murphy78--------------------------------|
+|Languages included: English (en-US), German (de-DE), Spanish (es-ES),     |
+|French (fr-FR), Italian (it-IT)                                           |
+|----------------------------------murphy78--------------------------------|
+|---32-bit Build 9200 MSDN Sources:                                        |
+|en_windows_8_x86_dvd_915417                                               |
+|en_windows_8_pro_vl_x86_dvd_917830                                        |
+|en_windows_8_pro_n_vl_x86_dvd_918877                                      |
+|en_windows_8_n_x86_dvd_916097                                             |
+|en_windows_8_enterprise_n_x86_dvd_918707                                  |
+|en_windows_8_enterprise_x86_dvd_917587                                    |
+|----------------------------------murphy78--------------------------------|
+|Installations included:                                                   |
+|Windows 8 32-bit, Windows 8 N 32-bit, Windows 8 Pro 32-bit,               |
+|Windows 8 Pro N 32-bit, Windows 8 Pro VL 32-bit,                          |
+|Windows 8 PRO N VL 32-bit, Windows 8 Pro with Media Center 32-bit,        |
+|Windows 8 Enterprise 32-bit, Windows 8 Enterprise N 32-bit                |
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction                                               |
+|dism for file package addition                                            |
+|oscdimg for iso mastering                                                 |
+|Windows APK for Windows 8 for WinPE languages                             |
+|MSDN language packs for Install.wim language pack addition                |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703          |
+|NetFX 2.0-3.5.1 added with DISM using SXS folder.                         |
+|----------------------------------murphy78--------------------------------|
+|I have personally tested every install on this ISO.  It should not        |
+|require a setup key as there is a skip button, but if it does, I have     |
+|included some default install keys.  I have not verified them as working. |
+|Use them at your own risk. I tested a different language for each install.|
+|----------------------------------murphy78--------------------------------|
+|These MSDN iso sources are the best images available on the internet at   |
+|the time of integration.  There will never be retail images on half of    |
+|these installs.                                                           |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 - TPB :)                                                         |
+============================================================================
+Description abridged to upload

@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,elnekko,2012-11-05T14:02Z,"Hey man, I have deleted my previous waves installations:
+
+-Program Files(x86)/Waves
+-User/../AppData/Roaming/Waves...
+-Cleaned Registry
+
+But I still get ""Select Waves Folder"" when trying to open the program either in PT or FL 9. Any suggestions? Thanks."
+,waves_user,2012-11-05T15:02Z,"@elnekko
+remove program with control panel
+delete ALL!! waves folders and files (search your drive)
+Delete Reg. Keys
+
+32bit : HKEY_LOCAL_MACHINESoftwareWaves
+64bit : HKEY_LOCAL_MACHINESoftwareWow6432NodeWaves
+Pay attention when the waves install is finished, look where your 32-bit and 64-bit waves plugins are installed. run crack and install to each directory e.g. 32-bit to 32-bit etc. (this avoids the issue of ""No license found"" error)
+I had the same issue as you on Team R2R's release of v9r5 for mac osx. A clean install of OS X and (re-install of)Windows (felt like starting fresh). but to avoid you having to do that lets cover our bases and fix this.
+
+Running fine on  legit PT 10.3.2 (and cracked HD) and FL Studio 10.8 beta
+let us know if this helps or not."
+,Muskatnuss,2012-11-23T21:44Z,"Works perfecly, THANK YOU!!!
+
+:) :) :)"
+,kunee51,2012-11-26T06:28Z,is L316 on the crack list too? last V9r2 crack missing that plugin on my Sonar X1..thanks a lot
+,waves_user,2012-11-26T08:42Z,"@Kunee51
+
+Yes"

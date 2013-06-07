@@ -1,0 +1,22 @@
+SSDlife Pro application provides the possibility to run disk checks (scheduled) in the background mode, display detailed information about SMART attributes and tweak the system for use with SSD drives. 
+
+You cna now use this accessible and simple tool to monitor the status of your Solid State Drives.
+
+Here are some key features of "SSDlife Pro":
+
+┬╖ Show general information about SSD
+┬╖ Show technical information about SSD
+┬╖ Check SSD health status working in background
+┬╖ SmartCheck - check SSD health status on schedule (each 4 hours) on program startup and exit if no changes in health, shows message only if health changes.
+┬╖ Show S.M.A.R.T. attributes in program window
+┬╖ Show detailed online SSD health status report online
+┬╖ Keep online report for more than 30 days
+
+Requirements:
+
+┬╖ SSD device
+
+What's New in This Release: 
+
+┬╖ Support for mSATA LiteON M3M added.
+┬╖ some other important changes,

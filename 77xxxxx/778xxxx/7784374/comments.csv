@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+[T],T.F.K,2012-11-02T12:19Z,SEED and ENJOY by T.F.K team
+,27jason27,2012-11-02T12:54Z,"This game does not work, or crack from FLT ....."
+,markusios,2012-11-02T13:29Z,Game works! Go to regedit Activision/007 Legends/ language and set the language to 1 and it starts :)
+[T],T.F.K,2012-11-02T13:48Z,"Will be more release today,just wait."
+,Camo_Killer8,2012-11-02T14:06Z,Seed maybe so at least someone can get the game
+,IQ98,2012-11-02T14:22Z,markusios Your a quite liar.
+,IQ98,2012-11-02T14:41Z,markusios is just lying!
+,divesh8_4,2012-11-02T16:59Z,"actually i havnt downloaded it yet but got this fix in skidrows site
+""FIX
+
+Change EUROSOUND_USA_STR.BIN to EUROSOUND_USA_STR1.BIN
+Change EUROSOUND_USA.BIN to EUROSOUND_USA1.BIN
+
+or
+
+Change EUROSOUND_USA_STR.BIN to EUROSOUND_ENG_STR1.BIN
+Change EUROSOUND_USA.BIN to EUROSOUND_ENG1.BIN ""
+
+so 1 who have downloaded plz confirm whether it works or not and comment back 
+actually i want to confirm it before download"
+,XHaloXX,2012-11-02T18:07Z,"WTF, do we have to redownload the repack, or just this one do?"
+,rap2pac,2012-11-02T19:40Z,"@divesh8_4  yes its working with the fix. 
+Change EUROSOUND_USA_STR.BIN to EUROSOUND_ENG_STR1.BIN  
+Change EUROSOUND_USA.BIN to EUROSOUND_ENG1.BIN """
+,rap2pac,2012-11-02T20:20Z,But no voice sound
+,Ghostin012,2012-11-03T11:08Z,"It does work. You need to change ALL USA. to ENG1 even the 000 files. So the Eurosound_USA_str.000 >> Eurosound_ENG_STR1.000 
+
+after that everything worked perfectly voice and all."
+,myers97,2012-11-03T18:45Z,"@rap2pac 
+
+It worked perfectly following your instructions."
+,ViolentReaper,2012-11-04T05:39Z,"So, I have tried what has been suggested pertaining to those EUROSOUND.BIN files in the DATA folder, but I still cannot get the voice to work in the game. Everything else works except for the voices.
+
+Right now I have these 4 lines as:
+
+EUROSOUND_ENG_STR1.000
+EUROSOUND_ENG_STR1.BIN
+EUROSOUND_ENG1.000
+EUROSOUND_ENG1.BIN
+
+Is there something here I am not doing right ?"
+,levin123,2012-11-11T12:45Z,"Those having issues with mouse acceleration kindly
+open the nvidia control panel and change the max prerendered  frames settings to 0"

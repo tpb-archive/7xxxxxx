@@ -1,0 +1,28 @@
+
+1. Download Everything link.
+2. Create folder on Desktop, name the folder whatever you want (We'll call it Betabot)
+3. Extract Demonbuddy in new 'Betabot' folder
+4. Extract Auth in 'Betabot' folder
+5. Extract offsets in offsets folder (offsets folder is located within the Auth folder!!) 
+6. Add the following 3 lines to C:WindowsSystem32driversetchosts file
+127.0.0.1 auth3.buddyauth.com 
+127.0.0.1 auth2.buddyauth.com
+127.0.0.1 http://www.buddyauth.com
+7. Extract Patch into 'Betabot' folder
+8. Run patch as admin and when prompted show it Demonbuddy.exe, tick "Disable serverside navigation" if you wish (I would). If failed run again as admin. If failed again you don't have admin privs.
+9. Open Diablo 3, Run Auth, Run Demonbuddy, Login to Demonbuddy software when prompted as whatever you like (IE. 123 or 1234).
+10. Demonbuddy will now generate new folders in the root folder 'Betabot' named Plugins ect ect.
+11. Download profiles(pathing to kill monsters), plugins (profile run order/loot customization/ect), combat routines from Ciggarc or the official Demonbuddy forums. 
+
+If you download plugins be sure to visit the Plugins tab on demonbuddy after youve placed them in the plugin folder. Activate them by ticking the boxes and config them one by one by highlighting and clicking the config button.
+
+If you download the routine file for giles Trinity, you need to place it within the 'Routines' folder.
+(Folder hierarchy: Routines - GilesBlankCombatRoutine - file)
+
+You should be setup now, if your DB crashes you most likely don't have the correct .net framework. Run the tool in your 'Betabot' - help folder.
+
+Fyi: The ciggarc links require forum registration but nothing more. Doesn't make sense to me either.
+Recommended:
+Plugins: Radsatom, Giles Trinity
+Routines: Giles blank combat routine (for use with Trinity - download from the same place as trinity)
+Profiles: Act1 or 2 or 3 Champion Hunting

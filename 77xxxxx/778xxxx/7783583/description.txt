@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 64min36secs
+
+The Bowery Boys 1946 Live Wires
+ 
+http://www.imdb.com/title/tt0038699/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[14:19:36] starting job
+[14:19:37] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:19:37] job configuration:
+[14:19:37]  * source
+[14:19:37]    + C:Live WiresVIDEO_TS
+[14:19:37]    + title 2, chapter(s) 1 to 1
+[14:19:37]  * destination
+[14:19:37]    + C:Documents and SettingsDead End KidsMy DocumentsLive Wires.mkv
+[14:19:37]    + container: Matroska (.mkv)
+[14:19:37]      + chapter markers
+[14:19:37]  * video track
+[14:19:37]    + decoder: mpeg2
+[14:19:37]      + bitrate 8000 kbps
+[14:19:37]    + frame rate: same as source (around 23.976 fps)
+[14:19:37]    + strict anamorphic
+[14:19:37]      + storage dimensions: 720 * 480 -> 704 * 480, crop 0/0/8/8
+[14:19:37]      + pixel aspect ratio: 8 / 9
+[14:19:37]      + display dimensions: 625 * 480
+[14:19:37]    + encoder: x264
+[14:19:37]      + options: ref=2:bframes=2:me=umh
+[14:19:37]      + bitrate: 396 kbps, pass: 2
+[14:19:37]  * audio track 0
+[14:19:37]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:19:37]      + bitrate: 128 kbps, samplerate: 48000 Hz
+[14:19:37]    + mixdown: Stereo
+[14:19:37]    + encoder: faac
+[14:19:37]      + bitrate: 160 kbps, samplerate: 48000 Hz

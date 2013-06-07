@@ -1,0 +1,72 @@
+Hunter Windows 8 Professional 32/64bit NL V.1.1 DVD 4.7GB
+
+Vernieuwde spot met werkende activatie!
+
+Deze onofficiele Windows 8 Versie samengesteld door Hunter, bevat veel grote aanpassingen zodat het nog beter werkt. Metro is in deze versie vervangen door het vertrouwde Start-menu van Windows 7. Ook het Watermerk is van het bureaublad verwijderd. Windows 8 word doormiddel van een onofficiele KMS Server geactiveerd. als er tijdens de installatie geen internet verbinding is kan je later via deze computer -> Eigenschappen Windows alsnog activeren. Deze Installatie verloopt volledig automatisch, alleen de harddisk partitie moet worden opgegeven. na de installatie is het standaard account Administrator aangezien in Windows 8een account met administrator rechten niet het zelfde is.
+Aangeraden is om hier een wachtwoord op te zetten. Deze installatie verloopt volledig automatisch,
+alleen de harddisk partitie moet worden opgegeven.
+
+Dit resulteert in een vertrouwde werkomgeving die heel erg lijkt op dit van Windows 7. Met de snelheid van Windows 8.
+
+De meest bekende oplossing om het start menu terug te krijgen in Windows 8 is door gebruik van het programma "Classic Shell".
+Het nadeel hiervan is dat Metro én classic shell gestart worden. In deze versie is er voor gekozen om het startmenu uit Windows 7 te gebruiken hierdoor wordt metro niet geladen tijdens het opstarten dit bespaart werkgeheugen.
+
+Op deze DVD staan zowel de 32 als 64bit versie van Windows 8 Pro. Meer dan 4GB werkgeheugen voor een 64 besturingsysteem is helemaal niet nodig, mijn advies is een 64bit versie te installeren als deprocessor dit ondersteund.
+
+Wil je toch een Windows 8 met Metro? dan kan je beter een orginele versie installeren.
+
+Wanneer er op Windows 8 geen viruscanner geinstalleerd wordt gaan Windows Defender aan, dit is eigelijk gewoon Security Essentails de gratis viruscanner van Microsoft. Dit is een prima scanner en ik raad daarom ook aan deze te gebruiken.
+
+Veranderingen tenopzichte van versie 1.0:
+*****************************************
+. er is in deze versie gekozen voor professional ipv van Enterprise omdat enterprise maar periode van 180 dagen gebruikt kan worden.
+. naast de 64bit versie nu ook een 32bit versie, op verzoek van velen!
+. er zijn geen third party programma's geinstallerd, alleen het start-menu is de enige aanvulling.
+. hoop kleine bugs gefixt.
+
+Verwerkte Windows Updates en toevoegingen:
+******************************************
+.Net framework 3.5
+Windows 7 Start menu V.1.0
+Alle Windows Updates t/m 9 oktober
+Rocketdock (Optioneel, Keuze aan het eind van de installatie.)
+
+Doorgevoerde Tweaks/aanpassingen:
+*********************************
+1. Windows Explorer is vervangen door een versie afkomstig uit Windows 7, hierdoor beschik je weer over het start-menu, Metro is ook geheel verdwenen!
+
+2. Gebruikersaccountbeheer is uitgeschakeld. hierdoor krijg je geen vraag meer als je een programma wilt installeren of wilt uitvoeren.
+
+3. Het watermerk met de tekst Windows 8 Enterprise is van het bureaublad verwijderd.
+
+4. door een aanpassing in het host bestand is het mogelijk the Piratebay te bezoeken.
+
+5. Het energie schema staat op Hoge prestatie, zodat de computer niet in stand-by gaat.
+
+7. Microsoft Smartscreen is uitgeschakeld. hierdoor kan Microsoft niet kijken wat er op je pc geinstalleerd word.
+
+8. De standaard account is de Administrator account, hierdoor heb je alle rechten.
+
+Windows 8 Activeren:
+********************
+Is Windows na de installatie niet vanzelf geactiveerd? Dan kun je dit proberen handmatig te doen:
+Ga naar deze computer -> Eigenschappen. En probeer Windows nu te activeren.
+
+Een Gebruikersaccount aanmaken:
+*******************************
+Het aanmaken van een nieuwe Gebruikersaccount is helaas niet mogelijk via het configuratie-scherm. dit doe je nu zo:
+
+Start CMD op
+
+Vervolgens maak je met dit commando een nieuwe gebruikersaccont aan:
+
+net user gebruikersnaam /add
+
+net localgroup administrators gebruikersnaam /add
+
+Vervolgens log je in op dit account, zoals je ziet komt metro tevoorschijn. Dit willen we natuurlijk niet!
+Open nu weer CMD en start C:WindowsSystem32settings.msi en kies voor de optie "repareren".
+
+Herstart vervolgens de pc.
+
+Heel veel Plezier met deze snelle Windows 8 Versie!

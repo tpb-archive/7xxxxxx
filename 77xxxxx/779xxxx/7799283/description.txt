@@ -1,0 +1,19 @@
+
+Learn how to find and manipulate text quickly and easily using regular expressions. Author Kevin Skoglund covers the basic syntax of regular expressions, shows how to create flexible matching patterns, and demonstrates how the regular expression engine parses text to find matches. The course also covers referring back to previous matches with backreferences and creating complex matching patterns with lookaround assertions, and explores the most common applications of regular expressions.
+
+Topics include:
+
+- Creating flexible patterns using character sets
+- Achieving efficiency when using repetition
+- Understanding different types of search strategies
+- Writing logical and efficient alternations
+- Capturing groups and reusing them with backreferences
+- Developing complex patterns with lookaround assertions
+- Working with Unicode and multibyte characters
+- Matching email addresses, URLs, dates, HTML tags, and credit card numbers
+- Using search and replace to format a document
+
+The Exercise Files winrar included:
+
+1. Regexpal
+2. Transcript text file

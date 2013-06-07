@@ -1,0 +1,27 @@
+Ajax Security
+
+Publication Date: December 6, 2007
+
+The Hands-On, Practical Guide to Preventing Ajax-Related Security Vulnerabilities
+ 
+More and more Web sites are being rewritten as Ajax applications; even traditional desktop software is rapidly moving to the Web via Ajax. But, all too often, this transition is being made with reckless disregard for security. If Ajax applications arenΓÇÖt designed and coded properly, they can be susceptible to far more dangerous security vulnerabilities than conventional Web or desktop software. Ajax developers desperately need guidance on securing their applications: knowledge thatΓÇÖs been virtually impossible to find, until now.
+            
+Ajax Security systematically debunks todayΓÇÖs most dangerous myths about Ajax security, illustrating key points with detailed case studies of actual exploited Ajax vulnerabilities, ranging from MySpaceΓÇÖs Samy worm to MacWorldΓÇÖs conference code validator. Even more important, it delivers specific, up-to-the-minute recommendations for securing Ajax applications in each major Web programming language and environment, including .NET, Java, PHP, and even Ruby on Rails. YouΓÇÖll learn how to:
+ 
+┬╖       
+Mitigate unique risks associated with Ajax, including overly granular Web services, application control flow tampering, and manipulation of program logic.
+
+Write new Ajax code more safelyΓÇöand identify and fix flaws in existing code.
+┬╖        
+Prevent emerging Ajax-specific attacks, including JavaScript hijacking and persistent storage theft.
+┬╖        
+Avoid attacks based on XSS and SQL InjectionΓÇöincluding a dangerous SQL Injection variant that can extract an entire backend database with just two requests.
+┬╖        
+Leverage security built into Ajax frameworks like Prototype, Dojo, and ASP.NET AJAX ExtensionsΓÇöand recognize what you still must implement on your own.
+┬╖        
+Create more secure ΓÇ£mashupΓÇ¥ applications.
+ 
+Ajax Security will be an indispensable resource for developers coding or maintaining Ajax applications; architects and development managers planning or designing new Ajax software, and all software security professionals, from QA specialists to penetration testers.
+ 
+
+

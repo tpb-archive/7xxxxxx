@@ -1,0 +1,72 @@
+This is OpenBSD 5.2/i386
+
+Built from CVS release sources. Official release date is 2012-11-01.
+
+ISO File size: 541417472 bytes
+MD5 (openbsd-5.2-i386.iso) = 394df6cf8790c321ed3afb8567f72131
+
+CD is bootable and contains the entire x86 distribution + complete sources.
+
+New features in OpenBSD 5.2: see www.openbsd.org/52.html
+
+CD contents (or see ls-alR in CD root directory):
+---
+00_OpenBSD-5.2-i386
+ls-alR
+root.mail
+INSTALL.i386
+INSTALL.linux
+5.2
+5.2/i386
+5.2/i386/INSTALL.i386
+5.2/i386/INSTALL.linux
+5.2/i386/SHA256
+5.2/i386/base52.tgz
+5.2/i386/bsd
+5.2/i386/bsd.mp
+5.2/i386/bsd.rd
+5.2/i386/cd52.iso
+5.2/i386/cdboot
+5.2/i386/cdbr
+5.2/i386/cdemu52.iso
+5.2/i386/cdrom52.fs
+5.2/i386/comp52.tgz
+5.2/i386/etc52.tgz
+5.2/i386/floppy52.fs
+5.2/i386/floppyB52.fs
+5.2/i386/floppyC52.fs
+5.2/i386/game52.tgz
+5.2/i386/man52.tgz
+5.2/i386/pxeboot
+5.2/i386/xbase52.tgz
+5.2/i386/xetc52.tgz
+5.2/i386/xfont52.tgz
+5.2/i386/xserv52.tgz
+5.2/i386/xshare52.tgz
+source/ports.tar.gz
+source/src.tar.gz
+source/sys.tar.gz
+source/xenocara.tar.gz
+tools/README
+tools/fdimage.exe
+tools/fips/MD5
+tools/fips/README
+tools/fips/copying
+tools/fips/errors.txt
+tools/fips/fips.doc
+tools/fips/fips.exe
+tools/fips/fips.faq
+tools/fips/history.txt
+tools/fips/readme.1st
+tools/fips/restorrb.exe
+tools/fips/special.doc
+tools/fips/techinfo.txt
+tools/gzip.exe
+tools/ntrw.exe
+tools/os-bs.doc
+tools/os-bs135.exe
+tools/pfdisk.doc
+tools/pfdisk.exe
+tools/rawrite.doc
+tools/rawrite.exe
+---

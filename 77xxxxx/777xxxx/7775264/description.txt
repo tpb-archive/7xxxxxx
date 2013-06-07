@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 61min09secs
+
+The Bowery Boys 1955 Jail Busters
+ 
+http://www.imdb.com/title/tt0048222/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[15:35:36] starting job
+[15:35:36] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[15:35:36] job configuration:
+[15:35:36]  * source
+[15:35:36]    + C:Jail BustersJail BustersVIDEO_TS
+[15:35:36]    + title 2, chapter(s) 1 to 1
+[15:35:36]  * destination
+[15:35:36]    + C:Documents and SettingsDead End KidsMy DocumentsJail Busters.mkv
+[15:35:36]    + container: Matroska (.mkv)
+[15:35:36]      + chapter markers
+[15:35:36]  * video track
+[15:35:36]    + decoder: mpeg2
+[15:35:36]      + bitrate 8000 kbps
+[15:35:36]    + frame rate: same as source (around 23.976 fps)
+[15:35:36]    + strict anamorphic
+[15:35:36]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[15:35:36]      + pixel aspect ratio: 8 / 9
+[15:35:36]      + display dimensions: 640 * 480
+[15:35:36]    + encoder: x264
+[15:35:36]      + options: ref=2:bframes=2:me=umh
+[15:35:36]      + bitrate: 396 kbps, pass: 2
+[15:35:36]  * audio track 0
+[15:35:36]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[15:35:36]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[15:35:36]    + mixdown: Stereo
+[15:35:36]    + encoder: faac
+[15:35:36]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 68min05secs
+
+The Bowery Boys 1947 News Hounds Dead End Kids
+ 
+http://www.imdb.com/title/tt0039656/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[11:00:53] starting job
+[11:00:53] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[11:00:53] job configuration:
+[11:00:53]  * source
+[11:00:53]    + C:News HoundsVIDEO_TS
+[11:00:53]    + title 1, chapter(s) 1 to 1
+[11:00:53]  * destination
+[11:00:53]    + C:Documents and SettingsDead End KidsMy DocumentsNews Hounds.mkv
+[11:00:53]    + container: Matroska (.mkv)
+[11:00:53]      + chapter markers
+[11:00:53]  * video track
+[11:00:53]    + decoder: mpeg2
+[11:00:53]      + bitrate 8000 kbps
+[11:00:53]    + frame rate: same as source (around 23.976 fps)
+[11:00:53]    + strict anamorphic
+[11:00:53]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[11:00:53]      + pixel aspect ratio: 8 / 9
+[11:00:53]      + display dimensions: 640 * 480
+[11:00:53]    + encoder: x264
+[11:00:53]      + options: ref=2:bframes=2:me=umh
+[11:00:53]      + bitrate: 395 kbps, pass: 2
+[11:00:53]  * audio track 0
+[11:00:53]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[11:00:53]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[11:00:53]    + mixdown: Stereo
+[11:00:53]    + encoder: faac
+[11:00:53]      + bitrate: 160 kbps, samplerate: 48000 Hz

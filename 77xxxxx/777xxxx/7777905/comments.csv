@@ -1,0 +1,75 @@
+﻿User Type,Username,Date,Text
+,Themperror,2012-10-31T16:37Z,Enjoy guys :P
+,cartman6666,2012-10-31T16:51Z,Dude YOU ARE FUCKING AWESOME!!!
+,kdobbs74,2012-10-31T17:05Z,Foster The People - Pumped Up Kicks is in the torrent also.
+,necrovamp,2012-10-31T18:14Z,G G G Godlike
+,drdoodoo,2012-10-31T18:47Z,Thanks!
+,gongh95,2012-10-31T19:25Z,i'm seeding all your torrents ;) great!
+,maf08d,2012-10-31T19:27Z,You sir are the man!
+,godfitzham7,2012-10-31T20:17Z,"Thank you Themperror, much appreciated and, my man, you ARE Numero Uno ! The King if you ask me ! One thing I noticed though, there is no Bass content for the A7X songs even though there is bass in them from the pictures on Steam ! Steam at fault again, I suppose, as this has happened before. "
+,OxygenFX,2012-10-31T20:30Z,Where is BBKing?
+,nottakenname,2012-10-31T21:47Z,"So does these songs have bass support? Also, can anybody tell me where to stick them, I can't find a folder called Content, nor songs starting with RS001."
+,vatney94,2012-10-31T21:49Z,"if anyone has jessica by allman brothers that would be sweet, but other than that thank you so much been waiting to play the MCR songs and now the A7X ones even though i know i won't be even colse to being able to play them decently. thank you so much"
+,Hynixx,2012-10-31T22:38Z,Great upload.  Thx to everyone involved with sharing this!
+,SgtMeowmers,2012-11-01T00:08Z,"Thank you very much sir, you really rock (see what I did there?)
+@nottakenname
+Haven't checked for bass support, but you just have to create a Content folder in your Rocksmith folder and drop the songs there. Also use a crack that allows DLC"
+,SgtMeowmers,2012-11-01T00:18Z,"@nottakenname Just cheked the download, it's nicelly packaged (ty again Themperror) so just extract the rar to your Rocksmith folder and you should end up with the Content folder ready to play."
+,itsover8000,2012-11-01T01:54Z,what is the tspk and the pc preorder file?
+,itsover8000,2012-11-01T01:59Z,at this point i have a total of 44 items in my content folder is this the number of files in this torrent?
+,ibanz0r,2012-11-01T02:26Z,can someone please explain how to install these!!!?
+,nottakenname,2012-11-01T02:29Z,"Thanks Meowmers.
+
+Does anybody know if the tinyiso version is DLC compatible?"
+,kdobbs74,2012-11-01T04:29Z,"I am using the Tinyiso version and the DLCs work great. Just create a ""Content"" folder where your Rocksmith.exe is and place the DLC .dat files in the ""Content"" folder and they will show up in the game."
+,medalcue,2012-11-01T04:35Z,Yes it works with the tinyiso version. All you do is create a folder called content in the rock smith directory and copy all the songs and you're good to go. 
+,Aerionix,2012-11-01T04:37Z,"yep, fully compatible with tinyiso release"
+,hugocnt,2012-11-01T06:24Z,You are awesome Themperror; thanks a lot. You are the man!
+,WhiteTemplar,2012-11-01T08:00Z,You are godlike man.
+,gioragnini,2012-11-01T12:20Z,"AOOOOOOOOOOOOOOOOOOO
+AHHHHHHHHHAHAHAHAHHA PERFECTTTTTTTTTTTT
+THANKS A LOT THEMPERROR"
+,Selphiphi,2012-11-01T17:09Z,"Hi folks!
+Since I had some difficulties to get the DLCs (search 40 songs rocksmith on Piratebay) to work properly in my game, I registered to say thank you ('cause everything works perfectly now) and explain what I did if some of you have problems to get those awesome DLCs :
+
+1) If you have no 'Content' folder in your Rocksmith directory, create one named like this, then copy all the .dat files inside.
+2) ... Yet it might not be enough! Remember to do some editing in your LunaEmu.ini file (if you got Themperror's version of the crack, of course).
+The important parts of this file are the [Log] (very useful to spot functionning issues) and the [DLC]. I set mine like this:
+
+[Log]
+# Create LumaEmu.log and LumaEmu_Steamclient.log
+LogFile = 1
+
+[DLC]
+# Use this if you see the line ""BGetDLCDataByIndex"" in the log file.
+AppID = 205190 #You'll find this value in the steam_appid file, if you wanna be sure
+
+The AppID was useful for me since I was getting the error mentionned here in my log files, and the DLCs couldn't load inside the game.
+
+3) If it's still not working (no DLCs in the songs menu of the game, damn) go on and replace your game launcher (Rocksmith.exe) by the one you'll find here :
+depositfiles_com / files / 2vd5wwbqx (remove spaces, change _ to .)
+It does fix the DLC loading issues I encountered. (don't forget to make a copy of your olds file everytime you replace some, just in case.)
+
+4) YET, it is a double-function crack, 'cause it also allows NoCable playing.
+I didn't mean to enable this feature but it was part of the crack and I really wanted these DLCs. So right after I got the crack to replace my launcher, and launched the game, I saw the DLCs in my songs list. Hurray!
+BUT! When I wanted to play some guitar, the game started telling me I had several instruments connected to my PC, and that I should keep just one plugged in.
+I assume this is because the NoCable part of the crack enables another mode of recording, or something.
+To fix this issue, go to the sound mixer of your computer, to Recording Devices, and disable every item in the list except the Rocksmith plug.
+This should finally do the trick, I personnally could play perfectly, once I got through all this :)
+
+ I hope my research will help some people saving time when trying to install DLCs. Thank you again Themperror, you rock!"
+,nonamerus,2012-11-01T18:43Z,"@Selphiphi Thanks a lot man, that did it for me!
+The no cablecrack"
+,icetech,2012-11-01T22:34Z,Anyone figured how to move your profile/saved from one machine to another? Copying the 3 files to the proper directory just ends with no profile being seen...
+,icetech,2012-11-01T22:50Z,Has anyone been able to figure how to move your profile/saves from one computer to another? Moving the 3 files from the storage folder to a new machine just makes it not see a profile...
+,icetech,2012-11-01T22:51Z,ugh.. double post.. didnt see it show up the first time sorry
+,dallasdave22,2012-11-02T03:20Z,"Thank you so much for posting this.  If you happen to get the The Police pack, please post.  As others have said, the A7X songs do not have bass support.  The ones currently on steam do, so maybe we will get a repost when the Rush pack comes out...?"
+,jake2122,2012-11-02T03:40Z,Can you please get the Venues - Time Saver Pack. I can't seem to get through the Hanger venue without crashing when drop tuning. 
+,Danny1905,2012-11-02T05:24Z,"thank you so mach man!!! it works perfect without problems whit the no cable fix of ""prodik"", thanks to both"
+,veky12,2012-11-02T08:40Z,"Please if anyone has some more dlcs send them to themperror so he can do upload it for everyone , and somebody else will return the favor.
+Thanks to everybody that helped us to get to 40 dlc songs. You are the best."
+,Slayer159,2012-11-02T11:40Z,Thanks! Any chance to upload The Police?
+,casltes,2012-11-02T13:02Z,this a great list but still missing a few like mississippi queen plus id like to see the bonus song time saver
+,icetech,2012-11-02T17:24Z,The time saver pack has been released.. and there is a ongoing list of missing songs on the main forum the work is being done on.. people are paying for the dlc's to get them for release.. feel free to donate to them..
+,bobbintb,2012-11-02T21:22Z,"icetech, what forum do you speak of?"
+,WhiteTemplar,2012-11-03T09:05Z,Yeah I hear a lot of people talking about this forum but link nowhere to be found. But I guess they want to keep some kind of privacy or something.

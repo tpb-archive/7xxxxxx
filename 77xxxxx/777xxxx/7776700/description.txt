@@ -1,0 +1,46 @@
+Terabyte Image for Windows
+
+Image for Windows - allows you to make a "snapshot" of a PC hard disk partition or its part and then save the resulting image on another drive or directly create a bootable CD / DVD-ROM with the necessary information. Thus, in the case of any problems you can always restore from the backup information.
+
+Image for Windows Features
+
+Total Reliability - Provides the option to verify each and every byte it backs up.
+Convenience - Runs directly from Windows and when used with the free PHYLockΓäó add-on, it can create a true image of the Windows partition itself, without requiring a reboot.
+Security - Your backups can be secured using simple password protection, or full 256-bit AES encryption.
+Backup Changed Data - Differential backup option allows you to backup only data that has changed since the last full backup was created.
+Simple, Wizard-Driven interface - Easy to use the first time, and every time.
+Maximum Compression - By default, compression is applied to the drive images you create.
+Maximum Speed - If backup speed is paramount, you can bypass compression entirely.
+Optical Drive Support - You can save directly to a CD, DVD, DVD-DL, BD.
+Bootable Rescue Discs - Whenever you save directly to a CD, DVD, DVD-DL, BD, it will automatically become a bootable restore disc.
+Large drive support - GPT compatible supporting drives larger than 2TiB.
+Restore Individual Files or Folders - Using the free TBIView and TBIMount add-ons, you can view the contents of the drive image files, and optionally restore individual files or folders within them.
+Compatibility - Automatically recognizes and backs up used area of FAT16, FAT32, NTFS, HFS+, Ext2, Ext3, Ext4, ReiserFS, and XFS partitions. Partitions with other file system types can be backed up in their entirety. Supports all standard partitions in an MBR, EMBR, or GPT
+Windows Servers - Supports both Workstation and Server versions of Windows.
+Cost Effectiveness - Includes Image for DOS, Image for Linux, and TBOSDT at no additional charge, making it a uniquely affordable and complete disk imaging solution.
+Flexibility - Restore partitions, regardless of the file system on the partition being restored. This gives you the power to restore NTFS partitions from Windows 98 or even DOS (as just a couple of examples).
+Wide-Ranging Device Support - Compatible with USB 2 and IEEE 1394 external drives. Better yet, Image for DOS supports these drives directly, without requiring complicated driver installation. (Image for Windows simply uses the drivers already available under Windows.)
+Power - Using Image for DOS or Image for Linux (each of which is included with the purchase of Image for Windows) versions gives you the ability to recover your data, even if Windows won't start.
+Network Support - Save backups to any drive accessible to Windows itself.
+RAID Support - Works seamlessly with on-board hardware- and firmware-based RAID.
+Command Line Support - Powerful, complete command line support is built in, allowing you to automate backup or restore procedures. 
+Scheduling - Leverages the built-in Windows scheduler via the simple click of a Schedule Backup button.
+Image File Validation - Allows you to thoroughly check the integrity of the disk image files, either as part of the backup process, or at any time thereafter. TeraByte imaging products are renown for their thorough and accurate validation process.
+Restored Partition Expansion - When restoring an image, you can expand the restored partition to occupy any free space that would be left over.
+Selectable Image File Sizes - If desired, you can specify a maximum size for the disk image files that are created. This allows you to create image files that readily fit on the removable media of your choice.
+Hardware Independent Restore - Restore Windows to completely different hardware and then use the TeraByte OSD Tool Suite to install the drivers required to support the new hardware.
+
+
+Supported OS:
+
+Compatible with Windows x86 and Windows x64 versions.
+Compatible with Windows NT4, 2000, XP, Vista, 7, 8.
+Compatible with Windows Server and SBS versions (NT4, 2000, 2003, 2008, 2008R2, 2011, etc..)
+
+Homepage: http://www.terabyteunlimited.com/
+
+Installation Instructions:
+
+1. Install Program.
+2. Use given serial to register application.
+3. Done, Enjoy.

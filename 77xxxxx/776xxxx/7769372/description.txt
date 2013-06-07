@@ -1,0 +1,24 @@
+Crypto Obfuscator supports all versions of the .Net framework from v1.0 to v4.0 and Visual Studio 2002 to Visual Studio 2010. It also supports the .Net Compact Framework, .Net Micro Framework, Silverlight and XNA. It can protect assemblies created with any .Net language including C#, VB.Net, Managed C++, J#, etc.The new version features new protections like external and internal method call hiding, improvements and optimizations to existing protections like string encryption, Anti-Reflector and Anti-Reflection, .Net Micro Framework, improved support for x64 assemblies, LINQ, XNA and WCF projects, support for satellite assemblies. The new version also fixes miscellaneous bugs in obfuscation logic and has improved obfuscation speed.
+
+Here are its features at a glance:
+
+* Symbol Renaming
+* Advanced Overload Renaming
+* Method Call Hiding
+* String Encryption
+* Control Flow Obfuscation
+* ILDASM Protection
+* Anti-Reflection Protection
+* Anti-Decompiler Protection
+* Advanced Tamper Detection
+* Advanced Anti-Debug & Anti-Tracer Protection
+* Resource Encryption & Compression
+* Assembly Embedding, Encryption & Compression
+* Digital Watermarking For License Tracking
+* Metadata Reduction
+* Runtime Performance Optimizations
+
+Install:
+
+- run application
+- copy crack in install dir and replace it

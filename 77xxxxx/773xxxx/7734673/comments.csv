@@ -1,0 +1,148 @@
+﻿User Type,Username,Date,Text
+,Relaq,2012-10-17T09:41Z,Great Game but only Multiplayer.:(
+,Sero1,2012-10-17T11:36Z,Be sure to download and use tungle to play online. :)
+,smatchimo,2012-10-18T10:29Z,how many people are on tunngle playin this
+,orrzxz,2012-10-18T14:07Z,"Y MY DOWNLOAD IS SO SLOWWWWWWWWWW
+theres 1114 seeders!!!!"
+,Rydevil,2012-10-18T19:48Z,"@orrzxz Im getting about 650kb, it may be your cconnection"
+,baroku,2012-10-18T21:25Z,how to change language? the game is in RUS i don't understand anything ;p
+,AngeloCardesteus,2012-10-18T22:47Z,"@baroku - It says it in the description.
+
+@smatchimo - I saw about 140 on tunngle today.
+
+@orrzxz - it finished in an hour for me, you could be getting throttled
+
+Tunngle works by opening the console with ""~"" key and typing ""open x.xxx.xxx.xxx"" replace the x's with the ip of the host. You will need to change your game User ID which I have not yet found out how to do."
+,AngeloCardesteus,2012-10-19T03:44Z,"actually, you don't need to edit your user id, you can though change your name once you are in a server by typing ""setname xxxxx"" in the console ""~"""
+,conam,2012-10-19T11:32Z,guys please help how i change the language and HOW I SAVE AS
+,baroku,2012-10-19T11:56Z,"@AngeloCardestus where can I find servers? I mean ip's of chivalry medieval warfare tunngle servers?
+Oh and thank you about the language, I haven't seen the solution in description ;)"
+,RadDouwg,2012-10-20T00:29Z,Can i install and LAN with a friend as soon as im in the game or are der patches that are needed to activate LAN?
+,Doomlemur,2012-10-20T08:06Z,When I try to change language it asks me to save and then when i try to save it asks me to replace and then says i need adminatrator to to do that. help?
+,Doomlemur,2012-10-20T08:13Z,Help? I cant change the language it says i need to be administrator. 
+,bjalava,2012-10-20T16:57Z,why i cant unlock new weapons
+,bjalava,2012-10-20T16:57Z,"why i cant unlock new weapons
+why i cant unlock new weapons
+
+??????????
+???"
+,bjalava,2012-10-20T17:00Z,WHY I CAN NOT UNLOCK NEW WEAPONS??????????????????????
+,dirtbanger1990,2012-10-20T21:24Z,Hey guys. Is this running smoothly for anyone and is Tunngle absolutely necessary to play it?
+,Pavlezzz,2012-10-21T02:18Z,"Great game :D @ Relaq there's In a way ""Singleplayer"" just host a game and play with bots It's fun as hell I am laughing my ass of actually :D"
+,bobtiker,2012-10-21T03:58Z,"It keeps saying access is denied when i try to chance RUS to INT, please help."
+,bobtiker,2012-10-21T04:05Z,I keep trying to change the language from RUS to INT and it keeps telling me access denied. please help
+,GrayHD,2012-10-21T05:28Z,"To change the language right click on the BaseEngine.ini file and go to properties, security, advanced and make sure everyone has full access."
+,BlasianGamer,2012-10-21T06:17Z,When i try and open I get a black screen? Any help?
+,UNIT427,2012-10-21T17:34Z,"I get blackscreen too, says ""D3D device initialization failed, cause was locked desktop""
+
+WTF is a locked desktop?"
+,UNIT427,2012-10-21T18:11Z,"Nevermind, open up Documents/my games/Chivalry Medieval Warfare/ UDK/ Config/UDKSystemSettings and change the resX and RexY to your monitor size."
+,skotosa,2012-10-22T00:17Z,"Can't play using Tunngle keep getting duplicate UID no matter what. 
+
+Tried Setname doesn't help. "
+,mzisette,2012-10-22T02:17Z,"Hey guys, how do you change the language?"
+,DirkGntly,2012-10-22T07:53Z,"haha. I raged pretty hard for a second before coming here to read the comments. Editing the .ini was tricky, I had to open the folder properties and disable 'read-only' and then click apply but NOT ok. after clicking 'ok' it reverted back to read-only."
+,FatBoxx,2012-10-22T11:57Z,"Great game, usually at least 150 people playing on Tunngle at all times. Been having a blast with no issues at all. Thanks for the great upload!"
+,Infirer,2012-10-22T16:38Z,"@AngeloCardesteus
+What is the console ""~""
+Can't figure out the multiplayer..
+Thanks"
+,Kalawar,2012-10-23T13:35Z,How do I play through Tunngle? 
+,Infirer,2012-10-23T14:59Z,"@Kalawar
+I've asked people on Tunngle, and i haven't figured it all out yet but try and take a look at 'AngeloCardesteus' comments. Helped me.."
+,Infirer,2012-10-23T18:29Z,"@Kalawar
+Did it. Found out how to play on Tunngle.
+- Open Tunngle and enter one of the 'Chivalry: Medieval Warfare' lobbys.
+- Open the game through Tunngle.
+- Open the console (the button opening the console varies between a couple of different buttons according to which keyboard type you use. Until now i know of ~, ½, ö. one of those should open your console.)
+- When in console write 'open x.xxx.xxx.xxx' replace the x's with the ip of the host.
+- You should now automatically join the server.
+- BE SURE TO CHANGE YOUR NAME when logging into the server. This you do by opening the console and write 'setname xxxxx' if you try to join a server and the error 'Duplicate UID' occurs this is because someone on the server haven't changed their name and there can't exist two players with the same names on one server. (standard name should be something like 'RLD!' i believe)."
+,hugoneon,2012-10-24T00:21Z,"@mzisette
+
+Just read kid
+
+* Open game_folder/Engine/Config/BaseEngine.ini
+* Find the line Language=RUS and change it to Language=INT (also DEU,ESN,FRA,ITA)"
+,Fridjon15,2012-10-24T20:09Z,"why does this heppen ??? 
+"" Failed to create D3D9 device! This can heppen if the desktop is locked ????
+
+HELP"
+,hAWK_22,2012-10-25T03:25Z,"HOW TO: UNLOCK WEAPONS
+Open UDKStats.ini file for editing
+C:Users\DocumentsMy GamesChivalry Medieval WarfareUDKGameConfigUDKStats.ini
+Change all values of CacheAllExpValues variable to be 100 or higher"
+,F4113ND3M0N,2012-10-25T16:30Z,"I couldn't get it to work. It installed and everything just fine, but when I ran it, it got to the ""Torn Banner Studios"" logo and crashes. I un- and re-installed it 3 times, trying run as admin on the setup and leaving languange on RUS or setting it to INT. nothing seemed to work."
+,irishmight,2012-10-25T20:07Z,is there a way to find servers through tunngle rather then having to wait for someone to post a working ip in the chat?
+,Yiu113,2012-10-25T22:21Z,"Wish I could actually get to the language files.
+
+Not able to find them, despite following exactly what I was told to do."
+,FatMarauder,2012-10-26T23:55Z,how do i change the language people please i really want to play the game.  >:(
+,Jcomliller,2012-10-27T18:06Z,I keep spining in the game uncontrollably? any ideas why?
+,thamaligz,2012-10-27T21:04Z,Maybe try setting your mouse sensitivity down?? (not sure if spelled right)
+,Infirer,2012-10-27T22:17Z,"@irishmight
+I don't believe there is. i've been playing for about a week on tunngle, so except if you find a site on the web with a 24 hour server supporting the cracked version.
+Though i don't think it's that big a problem once you get used to it. people post ip's on tunngle all the time. Therefore my advice would be that you open the tunngle chivalry lobby 5-10 minutes before playing, making you able to look in the latest chat history and won't have to camp the chat until someone posts an ip working.."
+,SpaceCadet6969754,2012-10-28T04:18Z,"To change Language it might be different folder if you using x86.
+C:Program Files (x86)Chivalry Medieval WarfareEngineBaseEngine - копия.ini
+C:Program Files (x86)Chivalry Medieval WarfareEngineBaseEngine.ini
+
+Open them with text editor like notepad, go to edit click find type 'language'.
+Where it says, 
+; The language used by the engine
+Language=RUS
+Change it to Language=INT, in both files, do not need to lock them.
+Start game, will be in English."
+,davidxdavidson,2012-10-31T16:02Z,"So I can't seem to change my name in the game. I've tried doing it via console, where I type ""setname xxxxx"" without the quotation marks, as well as via the DefaultGameUDK.ini file. I've saved the ini file, and when I open it up, it shows that I DID change my nickname, yet I can rarely play due to a dupe UID error, and when I can finally get onto a server, my name shows up as something like player270 or something similar. Tried googling, but no luck as of yet. Any suggestions?"
+,OmarKH,2012-10-31T22:18Z,"I haven't tried the Tunngle thing yet, but when I enter training, and even on the lowest video setting, the game is very laggy
+I can run ACR on medium-low settings without any lagging
+Do I need to apply some patches or something?"
+,Shatbird,2012-11-01T00:46Z,"Okay, so I followed the directions to change to English, when i click save it says i have no permission to save, SOLUTION. I dragged the ""BaseEngine"" file to my desktop and edited once more, and dragged it back to the config folder. POOF it works ;)"
+,sniper200_627121,2012-11-01T04:28Z,Wonderful game
+,boazcstrike,2012-11-01T12:30Z,couldnt find a .dll file.... wth
+,davidxdavidson,2012-11-01T14:21Z,"@BoazCStrike
+
+Just do what everyone does when there's a dll file missing from anything; google the specific file. There's a decent chance that it'll be available for download. If it's not available, just redownload the game."
+,afgzkid,2012-11-01T23:28Z,"Can any one help me? for some reason nothing happens when i write ""open x.xx.xx.x.x"" in consol using a ip from Tunggle.. Any ip i use does nothing. i can create my own game and play with bots but all the ip's from tunggle do not work. Occasionaly i will get a disconnected from host but besides that nothing. Any help?"
+,boazcstrike,2012-11-02T10:41Z,"@davidxdavidson thanks for the tip, but i got it working.
+
+i made sure to install those directX files and microsoft runtime .NET files... AVG blocked them while i was trying to install the game so i had to do it manually.. thanks for the torrent! happy killing"
+,iPwnTehNetwork,2012-11-04T04:06Z,"Everytimne i try to edit the language it says ""Access Denied"". 
+
+Please Help!"
+,putenegre,2012-11-07T03:49Z,i cant change the language cause it does not let me save it when i modify it
+,Vallencre,2012-11-08T00:32Z,"Extremely poor torrent, you are required to edit files in order to utilize it because the original cracker was too fucking stupid to figure out how to do it himself, but managed to configure it so that every time you change the permissions, they immediately revert to a setting that will not allow you to edit files. This means no english, no unlocked weapons, and no working multiplayer about 50% of the time due to the duplicate ID error that you cannot fix because you cannot edit anything."
+,bloodhoun210,2012-11-11T11:10Z,"Find the line Language=RUS and change it to Language=INT (also DEU,ESN,FRA,ITA)"
+,crack3rd,2012-11-15T08:24Z,"It Works!
+but cause AppCrash when i play offline with bots
+playing online works fine on Tunngle
+
+Users of TPB Thx for support to solve problems here in comments
+
+Aqui está funcionando normal, apesar de dar AppCrash quando jogo com Bots
+
+Nos comentários os usuários ensinam como jogar online através do Tunggle, muito agradecido!"
+,frederikomr,2012-11-16T01:27Z,"Hi players, I have a problem, everytime when I run the 'setup.exe' (that is near the 'data0' and 'autorun') the setup crashes... I can't install it! 
+
+Help! 
+
+And thx, the speed is good! "
+,acidrain9,2012-11-16T08:56Z,I got a virus dected thing and it dedected a virus
+,DamDSx,2012-11-18T04:19Z,"In the many years ive been using this site, this is the first time I get a virus.
+
+Fuck you uploader. Catacat games? computer restarting when the install finished to show me some TOS I had to accept to get into windows? you sir are a fucking douchebag. dont download this shit, it will infect your computer. 
+
+My name is Damian Gonzalez. IT proffessional. DO NOT download. anyone wishint to talk to me about this, let me know, I got nothing to hide."
+,McMcee,2012-11-18T17:08Z,"FOR ALL THE HUMANS OUT THERE!!
+
+There is a virus in that program FiY I use PAID Nortron Antivirus 2012 not that shitty AVG."
+,Shupcina,2012-11-22T17:01Z,"Can somebody help me... On the last step of installation when i mark UE3Redist i got error ""Unable to execute file dxwebsetup.exe
+
+CreateProcess failed; code 740. ""
+
+And when i run game, and play vs bots, after 1 min i i got error ""Program stopped working"""
+,OmarKH,2012-11-23T05:53Z,"great upload, works for me and I play with tunngle :)
+but will someone upload the new patch?"
+,aasfd123,2012-11-25T05:47Z,"This game isn't patched and will NOT WORK if you have a SINGLE CORE CPU
+
+Someone please upload the Beta Patch 4"

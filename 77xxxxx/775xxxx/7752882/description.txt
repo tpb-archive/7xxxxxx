@@ -1,0 +1,17 @@
+Core Data for iOS and OS X
+==========================
+
+Core Data is an object-oriented persistence framework used to manipulate and store data in iOS and OS X applications, and it's a core competency for any Apple developer. This course introduces the concepts behind Core Data: what it is, what it does, and how to get started. Author Simon Allardice explores the Core Data stack of objects and steps through the hands-on process of using Core Data in both iOS and Cocoa. The course shows how to shift from a database-focused or file-focused approach into a true object persistence approach: working with saving, loading, searching, and filtering. Discover how to model your data correctly, integrate Core Data objects with iOS and Cocoa user interfaces, and take existing data and load it into your app.
+
+Topics include:
+*Understanding Core Data and object persistence frameworks
+*Creating a Core Data project
+*Exploring data modeling
+*Creating entities, attributes, and relationships
+*Creating managed objects
+*Fetching in Core Data
+*Implementing undo and redo support
+*Creating a Core Data Cocoa app without code
+*Responding to validation issues
+*Converting store types
+*Preloading default data

@@ -1,0 +1,85 @@
+﻿User Type,Username,Date,Text
+,mrehabaly,2012-10-25T14:20Z,"IF IT WORKS WITH YOU ,, LET ALL PEOPLE KNOW  PLEASE "
+,russianhornybear,2012-10-25T14:24Z,Whats wrong about Russian language ?:P And most important why are you was in such a rush?Something fishy here ;)
+,mrehabaly,2012-10-25T15:13Z,"NOTHING ABOUT RUSSHIAN , MAN ,, BUT ALOT OF PEOPLE GET TIRED  OF NOT UNDERSTANDING WHAT IN THE GAME  AND SEARCH EVERY WHERE  FOR THE ENGLISH PACK >>>>   I WILL LEARN  RUSSIAN  FOR SITUATIONS LIKE  THIS  ,,,   YOU ARE MOST WELCOME COMMRADE  ,,,HAA I TRY"
+,laukis1122,2012-10-25T18:49Z,stoped downloadding at 55.3%
+,princecoc,2012-10-25T19:27Z,Thank you
+[V],DeGun,2012-10-25T20:18Z,"@ mrehabaly
+
+may be you could ""tap"" that little button on your keyboard left side ... the one with a lock on it you know ? 
+
+BECAUSE WRITING LIKE YOU DO SEEMS LIKE YOU ARE SHOUTING LOUD  and so you are doing our headin :)
+"
+,MohammadSarrar,2012-10-25T20:48Z,Stopped downloading in 57.8%!!
+,mrehabaly,2012-10-25T22:09Z,MR DEGUN ... TAKE IT OR FIND YOUR SELF BETTER SOLUTION
+,Dafton,2012-10-26T01:06Z,Question from a russian: Can I keep subtitles in russian or it completely replaces both voices/subtitles? (Sorry for engrish)
+,mrehabaly,2012-10-26T13:47Z,"actually it replaces all   ,,,, every thing will be english ....   spoken and written  ....  i do not know  if u keep  both files for english and russian language  u can switch between them later or not  ...  you are welcome  .. "
+,MarvinFS,2012-10-26T16:06Z,THANK YOU THANK YOU TAHNKYOU!!!! Nevertheless i'm russian but stiil i cant play those crappy google translated games  - it's just awful! now u made up my day! 
+,MarvinFS,2012-10-26T16:34Z,Stalled at 77% - seederz?
+,LKOOX,2012-10-26T17:23Z,SEED this Fukin' shit.... stopped at 77%
+,LKOOX,2012-10-26T17:23Z,SEEEEEEEEEEEEDDDDDDDDDDDDDDDD......................................................................................................................................
+,mizran,2012-10-26T19:14Z,"Seed, chukram"
+,Leftren,2012-10-27T13:55Z,Thanks! but why RAR ? Why you just don't fucking put the files so some advanced users like me can take the files we need to change the language ?
+,dwilly66,2012-10-28T21:10Z,DO NOT DOWNLOAD!!! THIS FUCKING PIG FUCKER HAS NO IDEA WHAT HE'S DOING!!
+,dwilly66,2012-10-28T21:14Z,mrehabaly GO FUCK YOURSELF YOU HAVE NO CLUE AND YOUR DUMB ASS LANGUAGE PACK DOESN'T WORK SO FUCK OFF AND DIE
+,mrehabaly,2012-10-29T05:47Z,"mr dwilly66 iam not responsible for ur fucken ignorance  ,,,,   if u do not understand  this is ur problem ,,,  next time i iwill post some software to scan ur mind  for virus stupid ,,,,if u do not understand go buy the game  and fuck off "
+,dwilly66,2012-10-29T11:32Z,go fuck your goat you stupid fucking prick you don't have any clue what you are doing you gutless fucking piece of shit
+,gino1965,2012-10-31T19:01Z,"Thank you so much mrehabaly. With the repack of the game and this files it's working normal for me. Everything in English now.
+
+I did the mod of the .reg file exactly as you wrote in the repack torrent. I see that here is not complete, so I will post it here again just to make sure everybody do it right.
+
+So, after doing everything for unraring and copying the files from this torrent, the next procedure has to be done as last step: 
+.......................................................................
+How to change
+
+Open notepad and paste the below lines
+
+Windows Registry Editor Version 5.00
+
+ [HKEY_LOCAL_MACHINESOFTWAREDanger Close GamesMedal of Honor Warfighter]
+ ""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+ ""Locale""=""ru_RU""
+ ""Install Dir""=""C:GamesMedal of Honor Warfighter""
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+ ""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+ ""Locale""=""ru_RU""
+ ""Install Dir""=""C:GamesMedal of Honor Warfighter""
+
+Change GDFBinary dll name & path, Locale, Dir path
+ Save as warfighter.reg
+ Run the reg file
+
+NOTE: if you want French change GDFBinary_ru_RU.dll to GDFBinary_fr_FR.dl
+
+Same for other languages..
+ JP,KO,PL,RU,FR,DE,ES,EN "
+,mrehabaly,2012-11-02T15:48Z,"nothing to thank for mr gino1965  ,,, but you  can  do it the easy way from the regestry directly  ,, u will find every thing ready  just change the value from RU TO EN_US 
+any how  u manage to do it  ,, keep seeding please ,,  and say it works  for the people  coz if u read the comments u will find really good stuff  of commenting  , u r welcome"
+,levin123,2012-11-03T04:35Z,"it's working bro...
+dwilly66...are you crazy"
+,levin123,2012-11-03T04:36Z,mrehabaly...10q
+,mrehabaly,2012-11-03T21:06Z,thank you so much 
+,levin123,2012-11-04T11:55Z,"Those having difficulties to proceed to load the car mission(hot pursuit) kindly
+change the language from english to russian.
+After you beat the level,then change it back to english. It's working for me!
+
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_en_US.dll""
+
+""Locale""=""en_us""
+
+
+to
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeDanger Close GamesMedal of Honor Warfighter]
+
+""GDFBinary""=""C:GamesMedal of Honor WarfighterGDFBinary_ru_RU.dll""
+
+""Locale""=""ru_RU"""
+,theaznkid92,2012-11-05T19:33Z,"Lmao. Trashing a respected uploader. Not to mention, I'm surprised you can understand the English release considering your obvious lack of mastery over it. And your shameless trashing of other releases in order to promote yours is obnoxious as well. -1 all please :D"
+,mrehabaly,2012-11-06T04:44Z,fools are every where 
+,pwilson05,2012-11-19T23:03Z,works great for me... thanks
+,Gerodar,2012-11-21T09:20Z,Add!1

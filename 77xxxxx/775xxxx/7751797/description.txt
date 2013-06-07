@@ -1,0 +1,56 @@
+Fixade video (tog bort överflödig data från svt:s ström) och srt (ändrade felaktiga wsrt-taggar).
+
+-------------
+
+Video-rip och undertexter från http://www.svtplay.se/video/363105/del-3-av-3
+
+Del 3 av 3. Benjamin har blivit förskjuten av sina föräldrar. Rasmus insjuknar, likaså Paul. Få av vännerna finns kvar i livet och sorgen är nattsvart. Men mitt i mörkret överraskar Paul med en praktfull hyllning till livet. Manus: Jonas Gardell. Regi: Simon Kaijser. I rollerna: Adam Pålsson, Adam Lundgren, Marie Richardson, Stefan Sauk m.fl.
+
+Nyskriven dramaserie i tre entimmes delar av Jonas Gardell
+
+Format                                   : MPEG-TS
+File size                                : 1.16 GiB
+Duration                                 : 58mn 17s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 859 Kbps
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=3, N=50
+Codec ID                                 : 27
+Duration                                 : 58mn 17s
+Bit rate mode                            : Constant
+Nominal bit rate                         : 2 600 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.113
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 58mn 17s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -40ms

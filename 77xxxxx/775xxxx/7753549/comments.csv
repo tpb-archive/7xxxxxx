@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,Mno74,2012-10-24T19:11Z,"!!!!!!!!!!!!!! Warning !!!!!!!!!!!!!!!
+
+Okay, so maybe I'm exaggerating that number but I can speak from personal experience. My CECH-2001A PS3 is among the unlucky bricks after installing one of the new CFW's by BlueDisk or Rogero. It seems that it does not matter what model you have. Right now it's a crap shoot on whether or not you will be among the unlucky paper weight owners.
+
+I've been seeing countless reports of bricks using these new firmwares. Rogero has stated that he is working on an updated version that is safer but nothing is 100% foolproof so take this warning to heart.
+
+IF YOU DO NOT OWN A HARDWARE FLASHER DO NOT INSTALL ANY NEW CFW UNTIL FURTHER NOTICE"
+,Mno74,2012-10-24T19:15Z,"Take a look at: 
+psx-scene                                                            /forums/content/tale-two-thousand-bricks-counting-2662/"
+,Mno74,2012-10-25T05:54Z,"After Testing with some bricked Slim consoles ( from updating to CFW4.21 ) with different friends and testers around the world,
+I can confirm that Bricked consoles can be recovered back to CFW3.55 even if you didn't have a NOR Dump/Backup .
+
+
+Requirements are:
+1- a Hardware Flasher so you can read/write to the PS3 NOR flash
+2- A Dongle with PSgrade payload (any old jailbreak dongle + PSGrade hex will do) used to Enter Factory Service Mode (FSM)
+3- Rogero CEX3.55 v3.7 PUP
+
+for more details about Recovering from the Brick please check this new thread ----> Brick-Recovery Procedure from CFW4.21 back to CFW3.55
+
+Note:
+- I didn't receive any Brick report from any FAT PS3 that updated to CFW4.21, so it seems FAT consoles are not being affected by the bug.
+
+- Apparently only the last downgradable Slim models are affected (CECH-25xx with Datecode 1A and base FW version = 3.50)
+
+- I Also know that there are also few Slims that bricked with model CECH-20xx but 90% of the reports were model
+(CECH-25xx with Datecode 1A and base FW version = 3.50).
+
+- The Brick may be caused by the boot-loaders not being written correctly into the NOR during the Update process.
+
+Please note also that all the above info may not be 100% accurate,
+things are still being worked on so nothing is confirmed at all and I don't promise anything about an updated CFW.
+
+-RogerO "
+,Mno74,2012-10-25T05:59Z,"Recovery Procedure :
+1- Dump the current NOR Flash of the bricked PS3 at least 3 times using a hardware flasher (Progskeet / E3 / TEENSY++) 
+2- Verify that it is properly dumped and you have a valid dump by comparing your dumps or following these steps ---> Validating_flash_dumps
+3- Patch the dump using Rogero PS3 NOR Auto Patcher ---> PS3_Nor_Dump_Auto_Patcher_v0.01.rar ( Clicked 1057 times )
+3- Flash the Patched Dump back into the PS3 NOR using the Hardware flasher.
+4- From this point you can continue as a normal Downgrade Procedure by entering Factory Service Mode using the dongle and Flashing Rogero CEX-3.55 v3.7 from the USB stick."

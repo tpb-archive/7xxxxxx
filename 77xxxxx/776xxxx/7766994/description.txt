@@ -1,0 +1,31 @@
+C4droid is a simple C/C++ IDE + C/C++ compiler for Android with Makefile support.
+C4droid already has almost full C language support, so you don't need to wait when it will be added.
+You can to write your own applications on Android phone, and run them. This app uses TCC and uClibc, so it has full support of ANSI C and some support of ISO C99. C4droid can be used for educational purposes or to practice in C language.
+Some components of C4droid are LGPL-licensed. You can download used source code of TCC and uClibc on their websites (But TCC had been modified by me, so I recommend to email me to get modified source).
+To get C++ support you need:
+0) Enough internal memory OR root rights.
+1) Install GCC plugin (C4droid will ask you to install it).
+2) Select G++ compiler in C4droid preferences.
+3*) Use iostream, not iostream.h
+4*) Add "using namespace std;" to your program (before int main)
+To compile Makefile projects, open any file in the same folder with Makefile and long-click "Compile" to configure current directory (C4droid will create .c4droid configuration file when you'll press Ok). After configuring folder, you can press compile button and C4droid will build your project.
+Don't forget to enter executable name and select compilation mode (and press ok also, else changes will be discarded)
+C4droid supports SDL, NativeActivity and Qt for GUI now, install SDL plugin for C4droid to use it (only GCC/G++ compiler is supported, so you need GCC plugin).
+(SDL is detected with #include "SDL.h", NativeActivity is detected with #include "android_native_app_glue.h", Qt is detected with #include "QtGui").
+There is an experimental support for Qt using necessitas, but note that it's in alpha stage.
+Qt support limitations:
+1) Path to Ministro libraries is hardcoded (/data/data/org.kde.necessitas.ministro/files/qt/lib), so email me if it will change.
+2) Only QtCore and QtGui libraries are supported by C4droid for now.
+3) If you're compiling a single-file Qt app, you must add #include "yoursourcefilenamewithcpp.moc" to the end of file. If you're using .pro file for compilation, you don't need to do that.
+Quick manual:
+If you have found a bug or app is not working, email me.
+Long click actions:
+Save button: save as.
+Open button: recent files.
+Run button: run with arguments.
+Compile button: configure current directory.
+Tab: close tab.
+Result of compilation (binary or APK) can be exported using menu->export.
+If you have "Illegal instruction" error, using internal compiler (TCC), install GCC plugin, GCC supports softfloat (by default).
+
+THIS IS MY FIRST EVER TORRENT ,SO PLZZ SEED AND ENJOY

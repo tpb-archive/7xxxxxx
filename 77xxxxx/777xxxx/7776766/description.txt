@@ -1,0 +1,82 @@
+***** CrackMyDay brings you USBlyzer 2.0 Build 25 x86 & x64 versions *****
+ 
+USBlyzer is a featured software-based USB analysis tool that enables you to view USB device descriptors, capture and analyze USB devices activity in real time, save captured data for later protocol analysis. USBlyzer not only shows you a raw hex dump of the data that was sent to or received from a USB device. USBlyzer looks at that data and decodes it into human readable form. This feature greatly speeds up usb analysis efforts. Simple to use, this USB analysis software is the ideal companion for anyone who is developing USB device drivers and software.
+
+Explore USB Tree, Capture USB Drivers Activity, Analyze USB Devices Traffic
+
+The following are the key USB analysis features of USBlyzer:
+
+    Completely customizable interface with docked windows and user-defined screen sets.
+
+
+    Exploring USB Device Tree
+
+    The USB device tree explorer visualizes USB tree topology. You can browse and explore all connected USB devices (including host controllers and hubs) and view the additional information about them.
+
+    Display all plugged USB devices in a hierarchical auto-refreshed tree-view.
+
+    View and explore the USB Devices and their components.
+
+    View detailed USB-related information about each USB device: Device Descriptor, Configuration, Interfaces, Endpoints, etc.
+
+    Verify the general compliance of all standard USB descriptors with the USB Specification.
+        Click to see all supported USB descriptors 
+
+    View detailed PnP-related information about each USB device: Hardware IDs, Instance ID, Software Key, PDO Name, etc.
+
+
+    Capturing IRPs, URBs and IOCTLs
+
+    The real-time capture feature allows you to intercept the IRPs, URBs, IOCTLs and data transferred through any USB device stack.
+
+    Real-Time monitoring at any level in the USB driver stack from USB Host Controller to target USB Device.
+
+    Capture several USB devices simultaneously.
+
+    Separate log records for request issue and completion.
+
+    Capture almost all types of USB Request Block (URB).
+        Click to see all supported URB function's values 
+
+    Capture almost all types of USB-related kernel-mode device I/O control requests.
+        Click to see all supported kernel-mode device I/O control code's values 
+
+    Capture almost all types of user-mode device I/O control requests to USB Host Controller and USB Hub.
+        Click to see all supported user-mode device I/O control code's values 
+
+    Capture all PnP IRPs.
+
+    Automatically capture hot plugged devices. Can be used to monitor device enumeration process.
+
+
+    USB Device Activity Analysis
+
+    Analyze USB devices I/O activity with ease.
+
+    Provide comprehensive USB protocol analysis.
+
+    Display detailed analysis of all USB standard requests such as Set Feature, Get Descriptor etc.
+
+    Includes comprehensive Communications Device Class (CDC), HID Class and Hub Class decoders.
+
+    Display detailed information about IRP, IO_STACK_LOCATION and URB structures associated with each captured request.
+
+    Display the buffer contents, if any, associated with the request in hex format.
+
+    Configurable filtering to exclude non-essential information from the view.
+
+    Search feature to search the capture file for the particular request types.
+
+
+    Saving and Exporting USB Data
+
+    The save and export features are extended functionality of the USB analysis software allowing analyzed data to be saved for later analysis or exported in several formats. The export functionality can be used in conjunction with the filter for maximum versatility.
+
+    Save captured data in binary file for later USB protocol analysis.
+
+    Export Capture List content or any part of it to plain text, CSV, XML or HTML formats.
+
+    Export USB Descriptor hierarchy of any USB Device to HTML formats.
+
+
+Add USBlyzer to your USB analysis tools arsenal!

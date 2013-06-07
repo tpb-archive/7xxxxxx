@@ -1,0 +1,77 @@
+PS2 - NeoGeo/CD - Projeto: FINAL 
+
+
+NEOGEO/CD
+
+
+Projeto: FINAL
+
+
+
+
+
+
+
+
+
+
+Reuni nesta compilação todos os jogos dos três primeiros projetos, após resolver a questão dos famosos "32 itens" na Raiz do projeto, imposto pelo PS2.
+
+
+Testei TODOS os games do NeoGeo/CD.
+Se o game que procura não estiver disponível nesta compilação,  é porque os problemas na emulação destes games comprometem a diversão.
+
+
+ 
+79 Games do NeoGeo/CD incluídos nesta compilação! 
+
+
+Após visualizar a tela acima, você terá as seguintes opções nos botões do controle:
+X - Inicia o game selecionado;
+R1 - Avança para os próximos 6 games disponíveis na compilação;
+L1 - Retorna para os 6 games anteriores disponíveis na compilação;
+START - Informação sobre a compilação;
+[_] - Informação sobre o game ou compilação;
+
+
+Após o carregamento do emulador, pressione X para iniciar a emulação do Game, ou troque o DVD da compilação por qualquer CD do NeoGeo/CD, caso possua, e a emulação irá iniciar.
+
+Como rodar esta compilação pelo pendrive usando o OPL?
+Siga estes procedimentos abaixo, uma grande dica postada por DiegoA:
+
+
+Utilizada a versão 0.9 NOVMC
+
+
+Extraia os arquivos da Imagem para um diretório de projeto.
+
+Mova o arquivo "MULTI.ELF" do diretório MODULES para a raiz, renomeando-o, por exemplo, como SLUS_666.66. (número do capeta! he he he he...)
+
+Edite o arquivo SYSTEM.CNF trocando o path de:
+BOOT2 = cdrom0:MODULESMULTI.ELF;1
+por:
+BOOT2 = cdrom0:SLUS_666.66;1
+
+Monte novamente a imagem com o UltraIso.
+
+Renomeie a ISO para SLUS_666.66.NEOGEOCD.iso, segundo nosso exemplo. 
+
+Formate um pendrive em Fat32, crie um diretório com nome "DVD" e salve a imagem dentro dele.
+
+Obrigado, DiegoA!
+
+Para mais detalhes do procedimento acima, veja este tutorial
+
+
+
+Compatível com 2 Controles/Jogadores
+Compatível com controle analógico
+Compatível com Memory Card = 45kb por save
+
+
+Clique AQUI para informações sobre os 3 projetos anteriores.
+
+
+Download (diretório de links)
+Atenção: Extraia primeiramente o último arquivo e em seguida a imagem ISO.
+Senha: hotplug

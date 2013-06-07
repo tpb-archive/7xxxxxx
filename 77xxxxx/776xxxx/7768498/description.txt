@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 63min56secs
+
+The Bowery Boys 1952 Hold That Line
+ 
+http://www.imdb.com/title/tt0044714/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[12:10:51] starting job
+[12:10:51] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[12:10:51] job configuration:
+[12:10:51]  * source
+[12:10:51]    + C:Hold That LineVIDEO_TS
+[12:10:51]    + title 1, chapter(s) 1 to 1
+[12:10:51]  * destination
+[12:10:51]    + C:Documents and SettingsDead End KidsMy DocumentsHold That Line.mkv
+[12:10:51]    + container: Matroska (.mkv)
+[12:10:51]      + chapter markers
+[12:10:51]  * video track
+[12:10:51]    + decoder: mpeg2
+[12:10:51]      + bitrate 8000 kbps
+[12:10:51]    + frame rate: same as source (around 23.976 fps)
+[12:10:51]    + strict anamorphic
+[12:10:51]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[12:10:51]      + pixel aspect ratio: 8 / 9
+[12:10:51]      + display dimensions: 640 * 480
+[12:10:51]    + encoder: x264
+[12:10:51]      + options: ref=2:bframes=2:me=umh
+[12:10:51]      + bitrate: 396 kbps, pass: 2
+[12:10:51]  * audio track 0
+[12:10:51]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[12:10:51]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[12:10:51]    + mixdown: Stereo
+[12:10:51]    + encoder: faac
+[12:10:51]      + bitrate: 160 kbps, samplerate: 48000 Hz

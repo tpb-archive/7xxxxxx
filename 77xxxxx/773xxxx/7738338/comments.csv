@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,chop007,2012-10-20T20:18Z,"Freakin awesome monitor, simple but spot on, this is the most handy app I have found in ages, thanks a ton bro, clean and works flawless."
+,XtraZoom,2012-11-01T08:37Z,Its now DU Meter 6.03 hope you can upload that too!
+,XtraZoom,2012-11-02T08:50Z,Btw anyone using this version gets a pop from Hagel that says you are using pirated software? Along with my vpn ip. I thought its fully cracked
+,MrCabana,2012-11-04T16:49Z,@ XtraZoom I had that one too just this morning :(
+,MrCabana,2012-11-06T19:22Z,No working crack yet?
+,MrCabana,2012-11-10T00:48Z,"Ok, I found a what seems to be a workaround for those having problems with the message ""pirated software bla bla bla"" ....
+
+1) add the following lines to the end of your WindowsSystem32DriversetcHosts :
+
+127.0.0.1 www.dumeter.com
+127.0.0.1 dumeter.com
+127.0.0.1 www.hageltech.com
+127.0.0.1 hageltech.com
+
+2) Add the following keys to your registry:
+
+REGEDIT4
+
+[HKEY_LOCAL_MACHINESOFTWAREHagelDU MeterRegistration]
+""IID""=""adea8665969445cf879d0f350888eaf9""
+""UserName""=""LiveLong""
+""SerialNum""=""00000-00000-00000-00000-00000""
+
+[HKEY_CURRENT_USERSoftwareHagelDU MeterRegistration]
+""IID""=""adea8665969445cf879d0f350888eaf9""
+""UserName""=""LiveLong""
+""SerialNum""=""00000-00000-00000-00000-00000""
+
+
+Seems to be working for me!"
+,XtraZoom,2012-11-12T12:13Z,"MrCabana, I am no longer using this version, I have been using the 6.03 dl from some foreign lang site probably russian. It uses a patch/crack named dum5.0x_patch
+
+Google it or use Filestube to look for latest DU Meter
+
+Just installed 6.05 also seems to be same patch/crack. Normal I prefer fixed exe to a crack but so far after using 6.03 for several days there is no issues and no annoying pirated software popup."
+,h4hammad,2012-11-22T22:47Z,"@XtraZoom your given file ""dum5.0x_patch"" is contain virus dude."
+,XtraZoom,2012-11-23T14:35Z,"h4hammad, KIS2013 never warn me about any virus however Malwarebytes Anti Malware did warn me. I have no issues using it. I don't see any virus/trojans popup after using it. However I cannot guarantee it is virus free only that I don't have issues using it. Might be false positives or might not. Most patches will show up as virus/trojans which is why I normally use fixed exe but this current fixed exe have piracy popups."

@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 68min13secs
+
+The Bowery Boys 1946 Spook Busters
+ 
+http://www.imdb.com/title/tt0038976/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[11:25:42] starting job
+[11:25:42] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[11:25:42] job configuration:
+[11:25:42]  * source
+[11:25:42]    + C:Spook BustersSpookVIDEO_TS
+[11:25:42]    + title 1, chapter(s) 1 to 1
+[11:25:42]  * destination
+[11:25:42]    + C:Documents and SettingsDead End KidsMy DocumentsSpook Busters.mkv
+[11:25:42]    + container: Matroska (.mkv)
+[11:25:42]      + chapter markers
+[11:25:42]  * video track
+[11:25:42]    + decoder: mpeg2
+[11:25:42]      + bitrate 8000 kbps
+[11:25:42]    + frame rate: same as source (around 23.976 fps)
+[11:25:42]    + strict anamorphic
+[11:25:42]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[11:25:42]      + pixel aspect ratio: 8 / 9
+[11:25:42]      + display dimensions: 640 * 478
+[11:25:42]    + encoder: x264
+[11:25:42]      + options: ref=2:bframes=2:me=umh
+[11:25:42]      + bitrate: 395 kbps, pass: 2
+[11:25:42]  * audio track 0
+[11:25:42]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[11:25:42]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[11:25:42]    + mixdown: Stereo
+[11:25:42]    + encoder: faac
+[11:25:42]      + bitrate: 160 kbps, samplerate: 48000 Hz

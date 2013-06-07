@@ -1,0 +1,51 @@
+Emurasoft EmEditor Professional v12.0.2 (x86x64) +Portable [souravfile]
+
+Description:
+
+Time to Launch Program (no sidebars)
+ 
+http://www.emeditor.com/images/testlaunchprogram.png
+
+Time to Open a Medium File (141MB)
+ 
+http://www.emeditor.com/images/testopenfile1m.png
+
+Time to Open a Large File (809MB)
+ 
+http://www.emeditor.com/images/testopenfile10m.png
+
+Time to Complete Replace (case sensitive)
+ 
+http://www.emeditor.com/images/testreplace200k.png
+
+Conclusion
+
+Some text editors are optimized for speed and size, and others are not. There are text editors which include optimization options and others that simply operate quickly, and still others that just crash. For these tests, here are the overall best text editors.
+The following text editor completed all four tests in less than 1 minute each, every time.
+EmEditor Professional 8.02
+The following text editors (quickly) completed all four tests.
+EmEditor Professional 8.02
+U 14.20
+T1 5.2.0
+These text editors completed 3/4 of the tests in less than 1 minute; however, they failed to complete the Time to Open a Large File (809MB) test.
+N2 5.7b
+H 7.10
+If you would like to view the raw data, please see Text Editor Speed Test Results (PDF).
+* Notes
+- We tested the text editors on a clean Windows Vista SP1 (512MB RAM) on a Microsoft Virtual PC 2007. The host machine was a Dell Dimension C521 Athlon 64 X2 4600 2.40 GHz (3GB RAM), Windows Vista.
+- All compared and reported results are the average of 5 tests.
+- For each program we recorded six times for each test. The first time was always discarded, since this time tended to be much higher than the other test times.
+- Then we calculated the average of the remaining 5 timesΓÇöthis is the reported time.
+- For the first testΓÇöTime to Launch Program (no sidebars)ΓÇöthe times are reported in MM:SS.000.
+- For the remaining three testsΓÇöTime to Open a Medium File (141 MB), Time to Open a Large File (809 MB), and Time to Complete Replace (case sensitive)ΓÇöthe times are reported in MM:SS.00.
+- Any text editor that returned a test time higher than 10 minutes was tagged as too slow or error, as appropriate. These text editors were given a 00:00.00 test time for the tests they failed, and display gray results on the graphs.
+- In the Time to Complete Replace (case sensitive) test, besides the Match Case option, we used all default settings. All undo information was kept.
+- In the Time to Complete Replace (case sensitive) test, for H 7.10, we used the option "Go Faster". Without this option, the replace would be too slow to be measured.
+- In the Time to Complete Replace (case sensitive) test, for U 14.20 we used the option "Use temporary files for editing (normal operation)". If we used the option "Open file without temp file but prompt for each file (CAUTION: Edits are permanent, decreases load time for large files)" the replace would be too fast to be measured.
+- For the Time to Launch Program (no sidebars) test, we conducted the test with no sidebars, to optimize launching speeds.
+- The programs, Notepad 6.0 and WordPad 6.0, are Microsoft programs included with the Windows Vista install.
+- For the text editors other than EmEditor and the Microsoft programs, their names have been abbreviated for anonymity.
+- For those commercial programs not included with the Windows Vista install, we used the available trial versions of the products.
+- The Japanese text editor, H 7.10, included an English version, so we used the English version.
+- We ran the Japanese text editor, T2 0.93, on the Regional and Language Administrative Options Japanese option.
+- We used Application Launch Speed Measuring Program (Japanese) to measure program launch time.

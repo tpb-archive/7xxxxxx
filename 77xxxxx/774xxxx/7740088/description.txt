@@ -1,0 +1,32 @@
+Releasing an early snapshot this week because we need to crunch out the pre-release as soon as possible. This snapshot has the following changes:
+
+1.Anvil block has been tweaked (it's cheaper to create, minor visual changes, and you can repair tools using wood/ingots/diamonds)
+2.Bats no longer trample crops or trigger pressure plates
+3.Redstone repeaters can be "locked" (fixed output) by having a powered repeater connected to its left or right side
+4.Added an option to hide a serverΓÇÖs IP address
+5.Updated language files
+6.More bugfixes & tweaks!
+
+---------------------------------------------------------
+
+INSTALL INSTRUCTIONS 
+
+
+Windows- 
+
+1. Type %appdata% in the search bar 
+
+2. .minecraft/bin
+
+3. Drag/Copy the new minecraft.jar file into /bin folder and replace it.
+
+4. Make a new folder named "server" .minecraft/server in that folder drag/copy the minecraft_server.jar file 
+
+-----------------------------------------------------------------------------------
+MAC - 
+
+1. goto Finder/User/Library/Application Support/minecraft 
+
+2. FOLLOW STEPS 2-4 above.
+
+-------------------------------------------------------------------------------------

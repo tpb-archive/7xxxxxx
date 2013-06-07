@@ -1,0 +1,112 @@
+*******************************************************************************
+                Ableton Suite 8 v8.3.4 MACOSX INTEL
+*******************************************************************************
+
+
+Type.................: Utility
+Platform.............: MAC INTEL
+More Info............: http://www.ableton.com/
+Compression Format...: zip
+
+
+Ableton Suite is a complete software studio. Suite 8 gives you all of the 
+features in Live 8 plus sound, with a radically new Library packed with 
+beautiful new sounds and a wealth of useful resources. Suite 8 contains 11 
+Ableton instruments and effects including synths, a sampler, electric and 
+acoustic drums, mallets, numerous sampled instruments, the new, reworked 
+Operator and amp modeling effects. Two completely new instruments, Collision and 
+Latin Percussion, round off the set. Ableton Suite 8 is a complete package: the 
+tools and the sounds.
+
+
+Key features
+
+    Multitrack recording up to 32-bit/192 kHz
+    Nondestructive editing with unlimited undo
+    Powerful MIDI sequencing of software and hardware instruments
+    Advanced warping and real-time time-stretching
+    Library with over 1600 expressive sounds, each with versatile control 
+options
+    A comprehensive selection of built-in audio and MIDI effects
+    A wide range of software instruments
+    Instrument Racks for simple management of complex instrument setups
+    Drum Racks for intuitive and responsive beat-making
+    Effect Racks for professional-grade mastering, mixing and creative sound 
+processing
+    New groove engine; apply and extract grooves in real time
+    Construction kits containing loops and phrases in a number of styles
+    Sound Objects Lite, from SonArte: a toolkit of real world object recordings
+    1000s of single-device presets: simple components for making new sounds and 
+exploring synthesis
+    Song templates with pre-configured tracks and routing
+    Supports AIFF, WAV, MP3, Ogg Vorbis and FLAC files
+    VST and AU support; automatic plug-in delay compensation
+    REX file support plus built-in audio to MIDI slicing
+    Video import and export for scoring, video warping
+    Simple MIDI mapping plus instant mapping for selected hardware
+    Full ReWire support; runs as Slave or Master
+    Multicore and multiprocessor support
+    Support for The Bridge, Ableton's collaboration with Serato
+
+
+8.3.4 Release Notes
+Improvements and feature changes:
+
+    The word size of the Live application is now shown in the splash screen.
+    Live is now showing the email address of the currently authorized user 
+account in the "About" window.
+    Improved the authorization dialogue when launching Live as a Trial version.
+
+Bugfixes:
+
+    Fixed a bug which could cause a "memory corruption error" when launching 
+Live.
+    Fixed a memory leak which could occur when using the "Complex" warp mode. 
+    The Session View selection frame of the APC40 or Launchpad could get stuck 
+after deleting scenes or undoing the creation of scenes.
+    Live device parameters would no longer update correctly after deleting a Max 
+for Live device which was mapped to that parameter via live.remote~.
+    Fixed a problem with the Max for Live engine, which would cause Live to 
+freeze when setting an audio buffer size smaller than 21 samples.
+    Fixed a graphical glitch in the Session- / Arrangement View amoeba after 
+toggling views (mixer, crossfader, etc.). 
+    Fixed a problem with the Windows installer which could lead to an incomplete 
+installation on some computers. Symptom: The Live application would not launch 
+at all and an error message "The application has failed to start due to a side-
+by-side configuration error" would be shown instead.
+    Under certain conditions, the playback position in audio clips was incorrect 
+after changing clip start markers in unwarped clips and then re-enabling 'warp'. 
+    Fixed a bug which prevented some VST plugins stored in the OS X system 
+library folder to show up in Live's browser.
+
+
+
+System requirements
+
+Mac: 1.8 GHz G4/G5 or faster (Intel┬« Mac recommended), 2 GB RAM (4 GB recommended, if supported by your computer), Mac OS X 10.4.11 (10.5 or later recommended), DVD-ROM drive
+
+INSTALLATION:
+
+     ΓÇó Next unzip files. 
+       If you can't open it you need to get an archiver which supports 
+       rar files such as stuffitexpander.
+
+     ΓÇó  Open the DMG .
+
+     ΓÇó  Drag the live folder into your applications folder.*
+
+     ΓÇó  Open I/O Patch Program.**
+
+     *Just drag and drop Live 8 Logo Into Patch Window When You Open Application      List Folder.
+
+     ΓÇó When Patch Finish, Just Open Live 8 you will see authorize Window, Click       "Start" Button.*
+
+     ΓÇó If it stays in trial (i doubt that) its included 2 auz files just Double        Click on it to Open AB8 
+
+     * Block with Little Snitch
+
+     ** Just drag and drop Live 8 Logo Into Patch Window When You Open           Application List Folder.
+
+           ΓÇó That's it! Done.
+
+                     3Nj0Y!!!

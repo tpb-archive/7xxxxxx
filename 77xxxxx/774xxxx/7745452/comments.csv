@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,amy9,2012-10-27T10:22Z,"hey guys, i'm getting security failure when try to run this program.
+anyone know how to solve this?
+
+step by step installation. pls tell me if i'm missing something:
+1. install moldflow insight ultimate
+2. update moldflow insight to sp1
+3. copy what in MAGNITUDE folder to installation dir.
+4. setup autodesk network license manager
+5. install moldflow synergy.
+6. copy what in MAGNITUDE folder to installation dir.
+7. run the lmtools
+8. start the server license & re-read license. Everything OK. i'm using license server 11.7.
+9. run the moldflow synergy but getting security failure.
+
+am i missing something? pls help."
+,racer2222,2012-11-06T22:40Z,I am getting the same results what are we missing?

@@ -1,0 +1,38 @@
+Movies : Crime : VHS Rip : English, 62mins
+This is a redo of my torrent to reduce file size, new format mkv.
+
+the East Side Kids in Follow The Leader - 1944
+
+WWII war espionage & the East Side Kids, mix well! Good flick.
+
+Billy Benedict & Gabriel Dell both plays roles outside the gang.
+  
+http://www.imdb.com/title/tt0036833/
+ 
+http://thepiratebay.se/user/jmmybttm		
+
+[09:17:44] job configuration: Handbrake 0.9.3
+[09:17:44]  * source
+[09:17:44]    + C:Follow The LeaderVIDEO_TS
+[09:17:44]    + title 1, chapter(s) 1 to 1
+[09:17:44]  * destination
+[09:17:44]    + C:Documents and SettingsDead End KidsMy DocumentsFollow The Leader.mkv
+[09:17:44]    + container: Matroska (.mkv)
+[09:17:44]      + chapter markers
+[09:17:44]  * video track
+[09:17:44]    + decoder: mpeg2
+[09:17:44]      + bitrate 8000 kbps
+[09:17:44]    + frame rate: same as source (around 23.976 fps)
+[09:17:44]    + strict anamorphic
+[09:17:44]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[09:17:44]      + pixel aspect ratio: 8 / 9
+[09:17:44]      + display dimensions: 640 * 480
+[09:17:44]    + encoder: x264
+[09:17:44]      + options: ref=2:bframes=2:me=umh
+[09:17:44]      + bitrate: 304 kbps, pass: 2
+[09:17:44]  * audio track 0
+[09:17:44]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[09:17:44]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[09:17:44]    + mixdown: Stereo
+[09:17:44]    + encoder: faac
+[09:17:44]      + bitrate: 160 kbps, samplerate: 48000 Hz

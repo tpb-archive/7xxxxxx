@@ -1,0 +1,28 @@
+EasyTable
+
+Distribute your application with EasyTable and forget Borland Database Engine (BDE). EasyTable is a compact yet powerful, extremely fast, reliable and easy-to-use BDE alternative single-file embedded database for Delphi and C++ Builder. With EasyTable you do not need special installation and configuration, it compiles right into your .EXE file. The great advantage of EasyTable compared to other database systems is that it allows to integrate a database file into the application executable file. EasyTable contains TEasySession component that allows to use it in multithreaded environment, including web server applications. TEasyQuery component provides powerful subset of SQL'92 (DDL and DML) commands. Make your application faster and more flexible using EasyTable BDE replacement Delphi database.
+
+Key Features:
+No BDE; no DLLs
+SQL'92 (DML & DDL) support
+Full source code included
+Unmatched ease-of-use
+Small footprint
+Storing multiple tables inside the single database file
+Fully compatible with standard DB-aware controls
+Encryption, BLOB data compression
+Capability of database embedding inside the executable file
+ODBC Dirver
+Multi-thread access
+
+Requirements
+
+EasyTable is available for Delphi 4, Delphi 5, Delphi 6, Delphi 7, Delphi 2005, Delphi 2006 and for C++Builder 4, C++Builder 5, C++Builder 6, C++Builder 2006. As the Delphi Standard and Personal editions do not support TDataset class EasyTable will not work there as most other BDE alternatives. EasyTable Free, Lite and Com are not compatible with trial versions of Delphi (C++ Builder)
+
+Homepage: [url]http://www.aidaim.com/easytable_single-file_embedded_database_bde_replacement_delphi_c++builder.htm[/url]
+
+Installation Instructions:
+
+1. Extract "easytable_d15" and install application.
+2. Use given serial to register application.
+3. Done, Enjoy.

@@ -1,0 +1,22 @@
+***** CrackMyDay brings you USBTrace v2.7.0 Build 77 x86 & x64 versions *****
+
+
+ USBTrace is an easy to use and powerful USB analyzer. USBTrace can analyze USB traffic at host controllers, hubs and devices. This is a 100% software product. USBTrace supports Windows 2000, XP, 2003/2008 Server, Vista, Windows 7 and Windows 8 Beta operating systems and works with USB 1.x, 2.0 and 3.0 (low, full, high & super speed) host controllers, hubs and devices.
+
+
+USB 3.0 Support (Super Speed USB)
+    Captures USB 3.0 controllers and devices. Decodes 3.0 standard descriptors and requests.
+Supports Device Class Decoding.
+    HID, Hub, Video, Audio, Mass Storage, Bluetooth,
+    Still Image Capture, Vendor Specific, WUSB HWA Printer, CDC, Smart Card (CCID), PHDC, TMC
+Complete Enumeration Monitoring.
+    Monitors all USB requests exchanged during device enumeration. Does not use filter drivers.
+Search / Filter / Trigger / Export.
+    Search captured data. Filter out unwanted data.
+    Set trigger points. Export captured data.
+Background/Continuous capturing.
+    For high performance/non-stop capture sessions.
+Performance Statistics.
+    Detailed performance analysis for your device/driver.
+64 bit support.
+    Supports all Windows editions (both 32 and 64 bit) including Windows 7 and Windows 8 Beta. 	

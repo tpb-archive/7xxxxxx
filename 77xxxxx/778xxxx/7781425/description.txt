@@ -1,0 +1,84 @@
+###############################################################################
+#                                                                             # 
+# FUCKERS WHO DO NOT KNOW HOW TO SEED PLEASE DO NOT DOWNLOAD THIS TORRENT !!! #
+#                                                                             #
+###############################################################################
+
+
+Bring back the Windows┬« "Start" menu with Start8Γäó!
+
+Return the Start Button to Windows 8
+Windows 7-style Start menu with Windows 8 enhancements
+
+Search for Windows 8-style (Modern UI) apps
+Pin desktop and Metro apps to the start menu
+Jump List support
+Unified Search for apps, settings and files
+Boot directly to the Windows 8 desktop
+One click access to shut down, devices, music, documents, and videos
+
+
+download link   http://www.stardock.com/products/start8/download.asp
+
+
+##########################
+#                        #
+# install instructions   #
+#                        #
+##########################
+
+----------------------------
+: ...:: Installation ::... :
+----------------------------
+
+
+1 - Install the file "setup.exe-Start8" and complete normally be asked to register, select the Trial
+
+"Continue Trial"
+
+---------------------------------
+: ...:: Disabling Service ::... :
+---------------------------------
+
+1 - Press "Ctrl + Alt + Del", select "Task Manager", select the tab "Services" at the bottom select
+
+"Open Services"
+
+2 - Look for the Service "Stardock Start8" and 2 clicks on it
+
+3 - In the options of Services, click stop
+
+4 - In the "Startup Type" select "Disabled"
+
+5 - Restart the Computer
+
+
+------------------------------
+: ...:: Applying Patch ::... :
+------------------------------
+
+1 - Copy the file "stardock.start8-patch.painter" to the folder "C:  Program Files  Stardock  Start8"
+
+2 - Right-click on the file and "Run as Administrator", will pop up a security message, click
+
+on "More Information" later "Run anyway"
+
+3 - When open, click on "Patch" and wait for the message "---PATCHING DONE---", then click "Exit"
+
+4 - Restart your computer
+
+------------------------------------
+: ...:: Reactivating Service ::... :
+------------------------------------
+
+1 - Press "Ctrl + Alt + Del", select "Task Manager", select the tab "Services" at the bottom select
+
+"Open Services"
+
+2 - Look for the Service "Stardock Start8" and 2 clicks on it
+
+4 - In the "Startup Type" select "Automatic"
+
+5 - Restart the Computer
+
+6 - Ready, is on!

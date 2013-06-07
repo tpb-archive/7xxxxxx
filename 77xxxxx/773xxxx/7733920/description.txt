@@ -1,0 +1,34 @@
+Movies : Comedy : VHS Rip : English, 63mins
+
+The Bowery Boys 1948 Smugglers' Cove
+ 
+http://www.imdb.com/title/tt0039447/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+
+[10:38:47] job configuration:
+[10:38:47]  * source
+[10:38:47]    + C:Smugglers' CoveVIDEO_TS
+[10:38:47]    + title 1, chapter(s) 1 to 1
+[10:38:47]  * destination
+[10:38:47]    + C:Documents and SettingsDead End KidsMy DocumentsSmugglers' Cove.mkv
+[10:38:47]    + container: Matroska (.mkv)
+[10:38:47]      + chapter markers
+[10:38:47]  * video track
+[10:38:47]    + decoder: mpeg2
+[10:38:47]      + bitrate 8000 kbps
+[10:38:47]    + frame rate: same as source (around 23.976 fps)
+[10:38:47]    + strict anamorphic
+[10:38:47]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[10:38:47]      + pixel aspect ratio: 8 / 9
+[10:38:47]      + display dimensions: 640 * 478
+[10:38:47]    + encoder: x264
+[10:38:47]      + options: ref=2:bframes=2:me=umh
+[10:38:47]      + bitrate: 303 kbps, pass: 2
+[10:38:47]  * audio track 0
+[10:38:47]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[10:38:47]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[10:38:47]    + mixdown: Stereo
+[10:38:47]    + encoder: faac
+[10:38:47]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,15 @@
+Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It
+
+Publication Date: January 25, 2012
+
+If youΓÇÖre an app developer with a solid foundation in Objective-C, this book is an absolute mustΓÇöchances are very high that your companyΓÇÖs iOS applications are vulnerable to attack. ThatΓÇÖs because malicious attackers now use an arsenal of tools to reverse-engineer, trace, and manipulate applications in ways that most programmers arenΓÇÖt aware of.
+
+This guide illustrates several types of iOS attacks, as well as the tools and techniques that hackers use. YouΓÇÖll learn best practices to help protect your applications, and discover how important it is to understand and strategize like your adversary.
+
+Examine subtle vulnerabilities in real-world applicationsΓÇöand avoid the same problems in your apps
+Learn how attackers infect apps with malware through code injection
+Discover how attackers defeat iOS keychain and data-protection encryption
+Use a debugger and custom code injection to manipulate the runtime Objective-C environment
+Prevent attackers from hijacking SSL sessions and stealing traffic
+Securely delete files and design your apps to prevent forensic data leakage
+Avoid debugging abuse, validate the integrity of run-time classes, and make your code harder to trace

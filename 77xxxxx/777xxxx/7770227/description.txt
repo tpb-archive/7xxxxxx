@@ -1,0 +1,38 @@
+SpaceEngine - is a free space simulation software that lets you explore the universe in three dimensions, starting from planet Earth to the most distant galaxies. Areas of the known universe are represented using actual astronomical data, while regions uncharted by human astronomy are generated procedurally. Millions of galaxies, trillions of stars, countless planets!
+
+Capabilities
+
+    All types of celestial objects are represented: planets, moons, asteroids, stars, star clusters, nebulae and galaxies.
+    The observer is free to move around the universe. Transition between any celestial body and any scale occurs continuously.
+    The observer can move around in space using the WASD keys, like in First Person Shooters. Movement with inertia is made possible in Spacecraft mode or Aircraft mode.
+    "Select and fly" autopilot: just click on any object with the mouse and hit the 'G' key to automatically go directly to the object.
+    Search for celestial objects by name. Scalable map of the Universe and the planetary system map. Saving locations and an autopilot's journal.
+    The orbital motion of planets and stars is calculated in real time, with the ability to accelerate, decelerate, or reverse the flow of time.
+    The orbital paths of celestial objects can be shown, along with their labels and grids.
+    Automatic binding of the observer to the moving object and automatic selection of optimum flight speed.
+    Known celestial objects are represented using data from the catalogs: galaxies (NGC/IC), stars (HIPPARCOS), star clusters, nebulae, planets (our Solar system data and known extrasolar planets).
+    Uncharted regions of space feature procedurally generated objects: galaxies, stars, star clusters, nebulae and planetary systems.
+    3D landscapes of planets and stars: for many solar system bodies actual data from space probes is used. For uncharted exo-planets the surface is generated procedurally.
+    Volumetric 3D sprite models of galaxies and nebulae including light-absorbing dust clouds, optimized render to a skybox and impostors.
+    Lighting effects: lens flares, solar eclipses, shadows of planetary rings. Celestial objects cast light and shadow on to each other.
+    The accurate model of the Earth's atmosphere (code by Eric Bruneton), adapted for the other planets.
+    [New!] Controlable spaceships.
+    Ability to import users addons: models, catalogs, and textures.
+
+System requirements
+
+	Minimum
+CPU	2 GHz
+RAM	2 Gb
+Video	512 Mb
+OpenGL	3.0
+OS	Windows XP
+
+        Recommended
+CPU	3 GHz
+RAM	2 Gb
+Video	1024 Mb
+OpenGL	3.0
+OS	Windows 7
+
+Video - youtube:

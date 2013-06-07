@@ -1,0 +1,5 @@
+Sticky Header is the top navigation bar that remains at the top of the page even when a user scrolls the page. This makes navigating to other parts of the site easy.
+
+The main functionnality of the Sticky Header is controlled by the CSS, javascript is used to show or hide the header. That means that if javascript is disabled, it will work fine in all browsers.
+
+It also uses some CSS3 features like rounded corners or text shadow, and those effects won't apply on older browsers , but this doesn't affect the functionnality.

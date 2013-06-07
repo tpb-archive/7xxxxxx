@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 67min23secs
+
+The Bowery Boys 1948 Angels' Alley Dead End Kids
+ 
+http://www.imdb.com/title/tt0040097/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[09:09:19] starting job
+[09:09:19] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[09:09:19] job configuration:
+[09:09:19]  * source
+[09:09:19]    + C:Angels' AlleyVIDEO_TS
+[09:09:19]    + title 5, chapter(s) 1 to 1
+[09:09:19]  * destination
+[09:09:19]    + C:Documents and SettingsDead End KidsMy DocumentsAngels' Alley.mkv
+[09:09:19]    + container: Matroska (.mkv)
+[09:09:19]      + chapter markers
+[09:09:19]  * video track
+[09:09:19]    + decoder: mpeg2
+[09:09:19]      + bitrate 8000 kbps
+[09:09:19]    + frame rate: same as source (around 23.976 fps)
+[09:09:19]    + strict anamorphic
+[09:09:19]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[09:09:19]      + pixel aspect ratio: 8 / 9
+[09:09:19]      + display dimensions: 640 * 480
+[09:09:19]    + encoder: x264
+[09:09:19]      + options: ref=2:bframes=2:me=umh
+[09:09:19]      + bitrate: 397 kbps, pass: 2
+[09:09:19]  * audio track 0
+[09:09:19]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[09:09:19]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[09:09:19]    + mixdown: Stereo
+[09:09:19]    + encoder: faac
+[09:09:19]      + bitrate: 160 kbps, samplerate: 48000 Hz

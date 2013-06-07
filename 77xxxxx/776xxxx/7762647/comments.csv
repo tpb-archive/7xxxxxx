@@ -1,0 +1,118 @@
+﻿User Type,Username,Date,Text
+,FlakMonkey,2012-10-26T18:59Z,"Wow. Awesome torrent! Awesome client! Thanks TeamExtremeMc, this is perfect!"
+,ultra_69,2012-10-26T20:58Z,"Right on! Keep it up, bro!"
+,GrymsinMiew,2012-10-26T21:00Z,yayyy soo great. no viruses and a great in game staff. :D
+,Chrishankhah,2012-10-26T21:22Z,"Best 1.4.2 client on PirateBay, hands down!"
+,sdfsdfsda,2012-10-27T03:48Z,WTF!! The server is out of date! Jkjk great Torrent can't wait till the server's up!
+,slopp23,2012-10-28T02:13Z,how do u run this on mac? or can u?
+,vorton2,2012-10-28T21:01Z,Thanks a lot for the upload! btw make sure you enter a username when you go to play the game or you will be plagued but A LOT of wolves. I'm a new minecraft user so it took me forever to figure that one out.
+,kxploit,2012-10-29T05:54Z,"Very cool, thank you very much TE."
+,raynor009,2012-11-01T18:54Z,"Thanks for this torrent, will seed a week :)"
+,lifesaveyear,2012-11-01T23:38Z,"This a very good download, guys support the server 
+my good comments and go on the server for free!!!!!!!! No hassle, no virus, no nothing!!! 
+
+The catch to it is to get as many players on their server as possible. =)"
+,lifesaveyear,2012-11-01T23:42Z,"
+Sorry Let me rephrase what i said before i can rush it so their so few mistakes in the sentences..
+
+What i mean to say
+
+This is a very good download. Guys support the server by good comments and go on the server for free!!!!!!!! No hassle, no virus, no nothing!!! 
+
+The catch is to get as many players on their server as possible. =)"
+,ordz,2012-11-02T04:01Z,now downloading..
+,ordz,2012-11-02T04:02Z,10 mins to go
+,roman95,2012-11-02T13:40Z,a great torrent but i'm a bit noobish does it support save games from 1.3.2    
+,TeamExtremeMc,2012-11-02T14:02Z,@roman95 it sure does.
+,Malakore,2012-11-04T14:51Z,"I'm not sure what I did wrong but after installing (Win7), typing in some random name and clicking Login I end up with ""Login Failed"" error.
+
+Play Offline button is gray and it says ""Not downloaded""
+
+I checked the ReadMe forum page, but it didn't give me any other instructions.
+
+Any ideas? Thank you."
+,TeamExtremeMc,2012-11-04T20:04Z,"Malakore what are you talking about, you have this torrent confused with another..."
+[V],wushdishmeen,2012-11-05T13:58Z,"Can you please tell me how to remove whatever ""crack"" this torrent uses?  I installed this first so I could try out the game and then decided I liked it.  So I purchased the legit version to support the developers and connect to real multiplayer servers.
+
+Of course now when I try to login to my legit copy it says ""Login Failed"".  Which I'm assuming is because this torrent does something,  and doesn't reverse it when you use the uninstaller that is included.
+
+I already tried deleting the .minecraft folder.   The web browser version works for me and installs the legit files,  so then I can use the desktop version and do ""Play offline"" once the login fails.
+
+BUT I cannot login... thats the issue.  PLEASE HELP!"
+,torrent_fan1001,2012-11-05T18:21Z,"awesome torrent like usual guys, thanks"
+,ThePoisonedYouth,2012-11-06T00:06Z,"I need a little help guys, how do I get this to run on my Windows 7? It says I have bad video card drivers, but there seems to be no new updates for my video card driver (I checked over and over)."
+,mo2377,2012-11-06T21:43Z,why cant i go on multiplayer servers
+,TerrydaSauce,2012-11-07T09:32Z,i downloaded this. but its not working for me. i will click on the desktop or dl file icon and adobe will open up instead of the game. can someone tell me how to fix this so i can finally play?
+,TerrydaSauce,2012-11-07T09:38Z,"its not working for me. i try and open up the game, but adobe just comes up. did i mess something up?"
+,Malakore,2012-11-09T09:32Z,"Yes you are right TeamExtremeMc, I'm sorry. It installed itself into the admin appdata (where was leftover of previous different installation), instead of my user appdata, and my old shortcut was trying to run old install.
+
+This release is working fine."
+,Malakore,2012-11-09T14:49Z,"@ThePoisonedYouth:
+
+Have you tried updating LWJGL (thats the game library Minecraft uses for graphics, sounds and input)? Minecraft never ships with latest version, yet I never run into problem with it and it actually solved few issues for me and my friends in the past.
+
+There is tutorial on Minecraftwiki called ""Update LWJGL"" with all the info you may need."
+,JocaDASA,2012-11-12T01:37Z,"Guys pls help.... I'm on Windows 8
+
+ Bad video card drivers!      
+      -----------------------      
+
+Minecraft was unable to start because it failed to find an accelerated OpenGL mode.
+This can usually be fixed by updating the video card drivers.
+
+
+
+--- BEGIN ERROR REPORT 7fe0271 --------
+Generated 12.11.12. 01.24
+
+- Minecraft Version: 1.3.2
+- Operating System: Windows 7 (amd64) version 6.1
+- Java Version: 1.7.0_09, Oracle Corporation
+- Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+- Memory: 419728448 bytes (400 MB) / 518979584 bytes (494 MB) up to 1037959168 bytes (989 MB)
+- JVM Flags: 2 total; -Xms512m -Xmx1024m
+- LWJGL: 2.8.5
+- OpenGL: ~ERROR~ RuntimeException: No OpenGL context found in the current thread.
+- Is Modded: Probably not
+- Type: Client
+- Texture Pack: ~ERROR~ NullPointerException: null
+- Profiler Position: N/A (disabled)[failed to get system properties (java.lang.RuntimeException: No OpenGL context found in the current thread.)]
+
+
+org.lwjgl.LWJGLException: Pixel format not accelerated
+	at org.lwjgl.opengl.WindowsPeerInfo.nChoosePixelFormat(Native Method)
+	at org.lwjgl.opengl.WindowsPeerInfo.choosePixelFormat(WindowsPeerInfo.java:52)
+	at org.lwjgl.opengl.WindowsDisplay.createWindow(WindowsDisplay.java:229)
+	at org.lwjgl.opengl.Display.createWindow(Display.java:303)
+	at org.lwjgl.opengl.Display.create(Display.java:845)
+	at org.lwjgl.opengl.Display.create(Display.java:754)
+	at org.lwjgl.opengl.Display.create(Display.java:736)
+	at net.minecraft.client.Minecraft.a(SourceFile:233)
+	at net.minecraft.client.Minecraft.run(SourceFile:516)
+	at java.lang.Thread.run(Unknown Source)
+--- END ERROR REPORT bf01cf2c ----------
+
+By just the look of this i've checked my video card driver,it's up to date....and updated java and LWJGL and opengl library....I really want to play this game and i've looked on 100 forums but i can't find a solution for my problem pls help...
+And Thanks in advance. :)"
+,swiftmadness,2012-11-12T02:35Z,"I'm not sure what's going on, but I installed this as per the instructions, and every time I open it via the  desktop shortcut it opens the wrong application. This is the target of the shortcut: 
+
+""C:UsersMyUserNameAppDataRoaming.minecraftMinecraft Launcher.jar""
+
+I also tried manually going into the minecraft folder and opening it with the same result. It opens another application. Any help would be greatly appreciated!"
+,swiftmadness,2012-11-12T02:55Z,"I can't get it to work at all. It opens a different and completely unrelated application. It seems to be similar to TerrydaSauce's issue. I have checked the shortcut's target location and everything is correct and the files are there, but it opens something else. If anyone has encountered this and corrected it help would be appreciated."
+,TeamExtremeMc,2012-11-12T13:35Z,"@swiftmadness
+
+Just go to the file, right click, open with, choose default programs and make sure that little box is ticked that says ""always use the selected program..."" and then choose ,java from the list, then click OK.
+
+@JocaDASA
+
+Your running windows 8 and the error says ""bad video card drive"" just google ""windows 8 Minecraft bad video card driver"""
+,Penitence,2012-11-14T19:10Z,"@TeamExtremeMC
+I'm having the problem where the minecraft shortcut brings up the ""open with which program"" issue and i tried setting it to run with java but that doesn't work, also java wasn't on the program list so i had to find it manually. I tried changing file extensions to .exe as well, is ""minecraft launcher.jar"" even supposed to open the game?"
+,Penitence,2012-11-14T19:49Z,"also i tried installing your 1.3 version and that one at least had the minecraft icon but still the same problem, is there not supposed to be an .exe file?"
+,Malakore,2012-11-14T19:50Z,"@Penitence: Verify that your Java is installed properly (you can type  ""java -version"" in the command line) and then make sure that you open it with Java Web Start (javaw.exe, located in the ""bin"" directory of your Java install)."
+,JocaDASA,2012-11-14T22:15Z,"@TeamExtremeMc
+I've already done that and everything points me to drivers...And i've done what everybody says but still nothing... :P"
+,Penitence,2012-11-15T02:00Z,"@Malakore
+thanks for responding but i had already tried javaw.exe i saw it mentioned on another forum but it still did not help, regardless TeamExtremeMc's newest update of Minecraft seems to start off without the problems i previously encountered, might just be a rare problem on my account"
+,048scott,2012-11-22T00:10Z,"so main screen of the game,options,i think it was video but some were in opions on bottom of screen red letters telling me too change 64 bit too 32 bit.no more lag works thanks ;-)"

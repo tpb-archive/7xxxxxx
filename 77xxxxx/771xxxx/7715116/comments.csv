@@ -1,0 +1,65 @@
+﻿User Type,Username,Date,Text
+,neptoess,2012-10-14T19:30Z,"This torrent is great. I'd recommend converting to .mkv first though. I used:
+ffmpeg -i ./4x24 Reign of Gunthers.ogx -vcodec copy -acodec copy ~/4x24 - Reign of Gunthers.mkv
+to convert the .ogx. After that, mkvinfo outputs:
++ EBML head
+|+ EBML version: 1
+|+ EBML read version: 1
+|+ EBML maximum ID length: 4
+|+ EBML maximum size length: 8
+|+ Doc type: matroska
+|+ Doc type version: 2
+|+ Doc type read version: 2
++ Segment, size 183114161
+|+ Seek head (subentries will be skipped)
+|+ EbmlVoid (size: 147)
+|+ Segment information
+| + Timecode scale: 1000000
+| + Muxing application: Lavf53.32.100
+| + Writing application: Lavf53.32.100
+| + Segment UID: 0x6f 0x68 0x64 0x75 0x50 0xd2 0xa3 0x07 0x07 0xb2 0xf5 0xb1 0xf6 0xb7 0x6e 0x11
+| + Duration: 671.210s (00:11:11.210)
+|+ Segment tracks
+| + A track
+|  + Track number: 1 (track ID for mkvmerge & mkvextract: 0)
+|  + Track UID: 1
+|  + Lacing flag: 0
+|  + Language: eng
+|  + Default flag: 1
+|  + Codec ID: V_MPEG4/ISO/AVC
+|  + Track type: video
+|  + Default duration: 33.367ms (29.970 frames/fields per second for a video track)
+|  + Video track
+|   + Pixel width: 1280
+|   + Pixel height: 720
+|   + Display width: 1280
+|   + Display height: 720
+|   + Display unit: 3
+|  + CodecPrivate, length 42 (h.264 profile: Main @L3.1)
+| + A track
+|  + Track number: 2 (track ID for mkvmerge & mkvextract: 1)
+|  + Track UID: 2
+|  + Lacing flag: 0
+|  + Language: und
+|  + Default flag: 1
+|  + Codec ID: A_AAC
+|  + Track type: audio
+|  + Audio track
+|   + Channels: 2
+|   + Sampling frequency: 48000
+|  + CodecPrivate, length 2
+|+ Tags
+| + Tag
+|  + Targets
+|  + Simple
+|   + Name: ENCODER
+|   + String: Lavf53.32.100
+| + Tag
+|  + Targets
+|   + TrackUID: 1
+|  + Simple
+|   + Name: LANGUAGE
+|   + String: eng
+|+ Cluster"
+,Artfail,2012-10-16T02:06Z,"Thank you The9mm and 23545427 for the upload, and thank you neptoess for the ffmpeg reminder! I'd forgotten I ever downloaded that. Not that you need to be giving tech advice, but I wonder if you might have an idea why terminal returns an ""unknown format"" error when taking your advice. It also throws up ""[matroska @ 0x5597b8]Matroska demuxer version 1 too old for file version 2"" ... I know the ffmpeg binaries are old, but I'm not sure why it's having trouble. Penny for your thoughts?"
+,Artfail,2012-10-16T02:17Z,"Why is it that simply posting a comment always solves my problem? Please ignore my last, forgot to redirect the terminal window to updated ffmpeg in /usr/local/bin. Durr."

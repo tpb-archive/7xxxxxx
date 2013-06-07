@@ -1,0 +1,23 @@
+Raxco Software, the leader in disk defragmentation, now provides the power of enterprise defragmentation for desktop and laptop users with PerfectDisk. PerfectDisk's easy to use interface and powerful defrag engine were designed for users who do not require the capabilities of network defragmentation and advanced features for the enterprise. PerfectDisk is a software that helps you to defrag disks. If you want to optimize your computer to run faster and perform better so you can do more ΓÇô whether work or surfing the Web ΓÇô and don't run in a networked environment like many companies, then PerfectDisk is for you.
+
+Changes in 12.5 Build 312:
+PefectDisk is now compatible with Windows 8 and Windows Server 2012.
+Consistent handling of SSD drives, Flash and USB removable drives in accordance with the selected global settings.
+Fixed handling of missed schedules when the computer is in sleep or hibernation mode.
+Blocked drivers list has been updated.
+Fixed compatibility issues with SoftPerfect RamDisk software.
+Improved GUI responsiveness and CPU usage.
+Fixed occasional system lock-ups in OptiWrite driver and its compatibility with ESET Antivirus software.
+Fixed occasional hanging during volume defragmentation.
+Fixed crashes occurring during unattended schedule runs.
+Eliminated excessive running instances of update check executable.
+Improved PD log display.
+More detailed display of support info.
+Multiple GUI fixes in PefectDisk connected to a remote computer.
+Fixed errors in vSphere virtual guest on non English versions of Windows.
+Several fixes related to deployment of configuration settings to the PerfectDisk computer.
+Fixed several issues with storage of volume statistics in the PerfectDisk database.
+
+Home Page: www.perfectdisk.com
+OS: Windows 2000/XP/Vista/7/8
+Interface: English

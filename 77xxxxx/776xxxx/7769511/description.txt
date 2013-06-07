@@ -1,0 +1,10 @@
+Release 2 of this fix.
+
+
+This should address issues with missing MSVCR110.dll and 32 bit systems.
+
+****INSTALLATION*****
+
+Simply overwrite steam_api.dll and add winderlands8.dll to the Binaries/Win32/ Directory ( the dir which contains Borderlands2.exe and Launcher.exe)
+
+Please comment if you experience problems

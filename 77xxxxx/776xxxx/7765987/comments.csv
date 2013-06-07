@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,Goldfinger69,2012-10-27T22:10Z,"PC PC PC PC
+ PLEASE !!!  That would be greate !"
+,AN-124,2012-10-27T23:18Z,thanksssss
+,precursor1188,2012-10-28T05:53Z,Thank You very much
+,expediteclimb,2012-10-28T08:48Z,Thank you VERY much !!!
+,el_barto7,2012-10-28T09:03Z,Thank You Sr.!!!! may the Force be with You
+,TheTraveller15,2012-10-28T13:02Z,"Thank you very much!
+
+How do I get the VFR charts update?"
+,cruizg,2012-10-28T16:32Z,thanksssssss!!!!!!!
+,Skyhawk01,2012-10-28T19:20Z,Is it possible to use this cycle also for Android?
+,glounk,2012-10-28T19:30Z,"cycle for PC windows please guys, thanks"
+,mlpilot,2012-10-29T04:22Z,someone please... vfr airportlist.bin................. 
+,zlozla,2012-10-31T15:51Z,for PC plse
+,BOG002,2012-11-02T13:07Z,Please PC cycle. Thks.
+,JAB69,2012-11-03T09:30Z,"Whats the point with this ipad sheit, PC version please"
+,JWRBlack,2012-11-03T21:43Z,"PC users can extract files from the IPAD version to (partially) update their systems.
+For the terminal charts take the files airports.dbf, charts.bin and charts.ini. Rename the first two to Airports.dbf and Charts.bin then copy all 3 to the 'Terminalcharts' folder under jeppesen/common. Check if you have more than 1 'terminalcharts' folder, and replace the files in the others also."
+,JWRBlack,2012-11-03T21:44Z,Might be possible to also update the text data on the PC with the IPAD files. Have not tried that yet.
+,samizzzzz,2012-11-04T22:43Z,"HELP!!!!!
+I can't update my enroute charts , can anybody help me on it plzzzzzzz , I just can update my Charts , what should I do ????? and you should know I am using MAC system , plz help me plz "
+,samizzzzz,2012-11-04T22:47Z,"hi there ! I am using mac system , and I cant update my enroute charts i just can update the charts , when I want to update my world (enroutes) , it shows the world in white color , so there isn't any point any ground , and etc..... , I need somebody to solve my problem plzzzzzz......."
+,giuse101,2012-11-05T04:16Z,How or where can I get the airportlist.bin file???
+,cy1997,2012-11-06T12:03Z,Thank you very much indeed - Any idea when the PC version is coming?
+,ronytol,2012-11-06T12:33Z,"hi, first of all  THANK YOU for the cycles.
+I have an ipad 1 ios 5.1.1 i'm not able to have terminal charts and enroute.
+cycle 18 only terninal charts and no enroute. I erase jepp fd download again reboot ipad and install cycle 1219 and I get enroute and I can see the terminal charts menu and title but i always have the same ils russian chart and I message saying that I have no permission or subscription with jepp...
+I load the  cycles with Itools tried with Iexplorer..
+tried to copy the all folders .. only the contents... mixing cycle 1218 and 1219, installed the 1220 the 1222 and same thing always enroute but not terminal. I've tried to copy the folder first openning the jepp in demo to create the folder, then clear the app and download again the app and copy the cycle without pressing the demo button.... and  nothing... even tried to copy the terminal charts folder in the jeppfd.app/startup TC and allways the same error and same domodedovo moscow ils chart.only the title change (kjfk ils ..) but the charts is always the same and in route I can plan routes from any airport.
+Please any clue any Idea?
+Thanks"
+,dementie,2012-11-06T15:59Z,"New users of JeppFD:
+ When you run the app, ignore the fields and just click the ""Demo"" button. 
+The first run creates the folders in the /documents folder. You see only the Demo coverage. Once this is done, fully shut down JeppFD (double click the home button, find JeppFD on the row of apps below, press and hold JeppFD icon until a black X appears, then tap the X. The app icon disappears, indicating full shutdown.
+ Then: 
+run iTools on your PC (google to get), connect your iPad via USB, navigate to the /applications/jeppFD/documents folder and overwrite the files/folders inside , using the files from the update. Do NOT delete anything first!. Check the box with the Chinese label when the Overwrite? dialog box is displayed to avoid being asked each and every time. Let the process complete, then restart JeppFD.
+ Examine the enroute map. If nothing but the basemap is shown, zoom in, then turn on the features from the box on the right. The features should appear. They DON'T appear if zoomed all the way out.
+ If no enroute info still, do this:
+ 1) delete the app.
+ 2) Reboot the iPAD just to be sure.
+ 3) Reinstall the app.
+ 4) Follow the instructions above, but USE 12-16, a version known to work.
+ 5) Start JeppFD, and verifiy that enroute data are displayed. If not (this shouldn't happen), try an earlier version still.
+ 6) Shut down JeppFD.
+ 7) Install 12-19 update data as explained above.
+ 8) Restart JeppFD. The enroute data should display.
+ I installed this on an iPAD 3 and and iPAD 2, the first running iOS 5.1, the second running iOS 5.01. Both worked."
+,DakotaDC3,2012-11-07T23:13Z,"Fuck this shit, we want the PC version!"
+,DAviator,2012-11-09T22:18Z,"Jeppview 1222 PC - Tested
+
+Full world 036PP32470 "
+,el_barto7,2012-11-12T06:22Z,"FYI, safe to upgrade the app. JeppFD v2.0"
+,el_barto7,2012-11-12T06:30Z,"FYI, Safe to upgrade app. JeppFD v2.0"
+,el_barto7,2012-11-12T06:40Z,"FYI, it's safe to upgrade the JeppFD app. V2.0"
+,Razgriz.MX,2012-11-13T21:21Z,"I update to 2.0, no problem so far
+
+Regards"
+,Swervin000,2012-11-14T18:12Z,"Certain waypoints appear to be missing.  I can't find MIGLO.  it's just outside of CYUL, but doing a search in Jepp mobile Fd won't bring it up.  Any one else have issues with missing waypoints?"
+,JWRBlack,2012-11-24T08:12Z,"1224 for IPad is on rutracker:
+
+rutracker dot org/forum/viewtopic dot php?t=4260428"

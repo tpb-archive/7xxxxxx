@@ -1,0 +1,33 @@
+7-Zip is a file archiver with a high compression ratio. Usually, 7-Zip compresses to 7z format 30-70% better than to zip format. High compression ratio in new 7z format with LZMA compression. Supported formats - Packing / unpacking: 7z, ZIP, GZIP, BZIP2 and TAR. Unpacking only: 7z, ZIP, RAR, GZIP, GZ, BZIP2, BZ2, TAR, CAB, ISO, ARJ, LZH, LHA, CHM, MSI, WIM, Z, CPIO, RPM, DEB, CPIO, DMG, FAT, HFS, LZMA, NTFS, SPLIT, SWM, TAZ, TBZ, TBZ2, TGZ, TPZ, VHD, XAR, XZ, Z and NSIS. For ZIP and GZIP formats, 7-Zip provides a compression ratio that is 2-10 % better than the ratio provided by PKZip and WinZip. Self-extracting capability for 7z format. Integration with Windows Shell. Powerful File Manager. Localizations for 70 languages.
+
+Powerful command line version
+Plugin for FAR Manager
+7-Zip works in Windows 98/ME/NT/2000/XP/Vista. There is a port of the command line version to Linux/Unix.
+Compression ratio results are very dependent upon the data used for the tests.
+
+The main features of 7z format:
+Open architecture
+High compression ratio
+Strong AES-256 encryption
+Ability to use any compression, conversion or encryption method
+Supports files with sizes up to 16000000000 GB
+Unicode file names
+Solid compression
+Archive header compression
+
+7z has an open architecture, so it can support any new compression method, too. The following methods currently are integrated into 7z:
+LZMA - Improved and optimized version of LZ77 algorithm
+PPMD - Dmitry Shkarin's PPMdH with small changes
+BCJ - Converter for 32-bit x86 executables
+BCJ2 - Converter for 32-bit x86 executables
+BZip2 - Standard BWT algorithm
+Deflate - Standard LZ77-based algorithm
+
+LZMA is the default and general compression method of 7z format. The main features of LZMA are:
+High compression ratio
+Variable dictionary size (up to 4 GB)
+Compression speed: about 1 MB/s on 2 GHz CPU
+Decompression speed: about 10-20 MB/s on 2 GHz CPU
+Small memory requirement for decompression (depend from dictionary size)
+Small code size for decompression: about 5 KB
+Supports multi-threading and P4's hyper-threading

@@ -1,0 +1,68 @@
+﻿User Type,Username,Date,Text
+,ashah98,2012-11-06T19:04Z,Time wasting torrent
+,mdcdesign,2012-11-06T19:28Z,How so? :-
+,mdcdesign,2012-11-06T19:29Z,How so? Does exactly what it says on the tin :)
+,Inter95,2012-11-06T20:03Z,"ashah98, what did you mean? did you download and didnt work? cause it is true, you can activate windows 8 pro MC using your upgrade key from http://windows.microsoft.com/en-US/windows-8/feature-packs I already activated mine with another windows 8 MC downloaded but it is in UK language. so im going to try this one in US language."
+,raze18,2012-11-06T21:25Z,This is based off the rtm version of windows 8 pro not the retail version of windows 8 pro. I checked the source ISO that the patch needs against the windows 8 pro msdn iso that I downloaded back in August and verified it.
+,raze18,2012-11-06T21:27Z,Don't wast your download speed or time unless you want the rtm version.
+,icetech,2012-11-06T23:20Z,Installed and activated exactly as said.. just finished updates... thanks uploader:) 
+,BKKJack,2012-11-06T23:21Z,Seems fine to me...
+,BKKJack,2012-11-06T23:21Z,Thanks!!! I'm forgetting me manners! Head up me arse...
+,spinner6296,2012-11-07T00:51Z,"mdcdesign-
+
+I have a question. I installed windows 8 pro and sent for my wmc upgrade key. I upgraded with new key and activation was set. Now... if I formatted and reinstalled your version of windows 8 with media center and entered the key that Microsoft sent me when upgrading my previous install, would it reactivate with that same key used on the same machine? Or is it a one shot deal? Also... after the Jan. deadline, can that key be used if I need to reinstall again on that same machine later down the road? "
+,mdcdesign,2012-11-07T01:47Z,"Just to answer a few of the questions on here :)
+
+1) RTM is the same as Retail, there's no difference in the code whatsoever, the only thing which differs between the WUA (Windows Upgrade Assistant) ISOs is that the installation image is a compressed ESD file, rather than a WIM file, which means you can't slipstream service packs and features such as WMC. This, as someone correctly pointed out, is based on the MSDN ISOs, which are the primary distribution media for Windows 8.
+
+2) If you've already activated your box using your WMC prior to installing this, then essentially that key is tied to your hardware. From what we've been able to ascertain on MyDigitalLife, that key can then be used to activate on that same machine an infinite number of times; so reformatting and reinstalling should work fine, until you change your hardware. If you change your hardware, you can still use the automated phone activation, and will pass with no issues."
+,spinner6296,2012-11-07T04:43Z,Thanks for the Info! Exactly what I was looking for.
+,Jumpst0r,2012-11-07T10:26Z,"Working! Thanks for upload. And for those bitching about rtm, its the same as retail, execpt its sold directly as a new computers OS, where retail is just sold in CDs"
+,icetech,2012-11-07T14:27Z,Yeah i love people that don't understand what RTM means:)
+,mdcdesign,2012-11-07T17:58Z,"How the hell is it fake? It's had what... a couple of thousand downloads so far, nobody's had any issues with it, and there's even a support thread for the release...
+
+But no, it must be fake because I saw no reason to register/upload anything in the past? The faith you have in human nature is astonishing."
+,aLsordon,2012-11-09T12:39Z,"i have win 7, can i install this and dont lose all my files?"
+,yhawardz,2012-11-09T18:35Z,"mdcdesign
+thanks for the share...can you help how to appear the add features of the media center?i already try but only features on off will appear"
+,mdcdesign,2012-11-09T20:22Z,"If you've installed using this ISO, Media Center is already installed; just go to the Start Page and type ""Media Center"" :)"
+,BKKJack,2012-11-09T22:37Z,Still working fine for me
+,BKKJack,2012-11-09T22:43Z,"aLsordon,
+
+You can either create a partition on your drive or do a clean install as Windows now saves files from old installations in a folder called ""Windows Old"" which will appear in your new install. 
+
+If they are truly important files than you should back them up just in case. "
+,superboniton,2012-11-10T00:43Z,"Windows 8 Activator 09/11 work
+https://docs.google.com/document/d/1fu70YJikswiH0chDcw10DIV94hUZJN2ngdeXvfbMs0o/edit
+Work For Me"
+,yhawardz,2012-11-10T10:24Z,"mdcdesign
+i try already about my problem but not work
+try to response if my installing is not in process bcoz when i finish download i did not used a cd i used only daemon tools....
+plsss give feedback"
+,icetech,2012-11-10T19:14Z,to people posting activators.. you dont need one.. this works and uses 100% activation from MS... screw hacks...
+,xfactr,2012-11-11T03:48Z,"http://forums.mydigitallife.info/threads/38896-Activate-win8ProWMC-without-first-activate-the-Pro-version
+
+here is the method used and it is reported legit by many"
+,mdcdesign,2012-11-11T19:32Z,Even that isn't needed with this xfactr; that method is for installation of the vanilla MSDN ISOs; this is specifically modified so that you can just use the ProWMC key.
+,tequilapr,2012-11-11T21:55Z,I need to do a fresh install or can I update my windows 7 with this?
+,Crowed,2012-11-15T02:59Z,"Cool... :)
+
+Works just as advertised. Activated with the WMC serial and all looks genuine.
+
+No hassle, no fuss.
+
+Migrated all my files and programs back in after a clean install. I'm on a 2.0 GHz dual core AMD Athlon X II w/ 4GB RAM and nVidia GPU. Boot time was 35 seconds.
+
+I'm really digging it.
+
+Thanks, mdcdesign. Great job and a great torrent. I'll be seeding for awhile. :D"
+,Crowed,2012-11-15T19:43Z,"For those leaving - Quality... It must be User Fault. This works flawless on Install and Passes as Genuine. Just follow the very simple directions. The OP made it super easy. If you don't know how to properly burn an ISO that is your fault.
+
+For those with upgrade questions. You can upgrade. Win 7 users retain files/programs during upgrade. XP/Vista users will not be able to keep files. All other legacy users must do full install...
+
+However - why upgrade? Only advantage is that it saves work and only if you are migrating from Win 7. A clean install is ALWAYS best. Do the work. Back up all your files and program installs. Wipe that hard drive clean 3x. (I use System Rescue CD - Google it, it will save your sanity on a regular basis as it kicks ***) Install a fresh Windows 8 and enjoy that new computer feeling. Ahhhhh... Metrolicious. :D"
+,BKKJack,2012-11-23T21:35Z,"This is where its at folks. All of those buffoons chasing Murphy's efforts...
+
+Mwhahahahaha
+
+Over here...it's heeeeeeeeeeeeeeeeere"

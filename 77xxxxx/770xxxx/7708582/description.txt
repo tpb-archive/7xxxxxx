@@ -1,0 +1,11 @@
+ePSXe for Android v1.7.10
+Requirements: ANDROID 2.2 and up
+Overview: ePSXe for Android is a Playstation emulator (PSX and PSOne). 
+
+It is a port from the famous ePSXe for PC. ePSXe provides high compatibility and good speed. It is designed for smartphones and tablets, including a fun 2 players option for tablets using split screen mode.
+
+What's in this version:
+Version 1.7.10
+* Added a new hardware renderer. It is faster and smoother than software one. If you have speed or graphics problems, you can enable the old software renderer again in preferences.
+* Fixed some GPU bugs (Bof3, Medievil, Detana Twinbee Yahho)(Jader, Clement)
+* Removed filtering option in preferences (Hardware renderer is always filtered, and software renderer no).

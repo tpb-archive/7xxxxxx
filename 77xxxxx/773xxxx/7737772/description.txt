@@ -1,0 +1,15 @@
+GO.R3.NAVTEQ.2012.Q2.Europe.Maps.Update.iPLAY
+
+The latest full Europe maps from 2012.
+
+How to:
+1. Enter the Storage Card 
+2. Enter the IGO R3 (8.3 or up) directory
+3. Copy the .fbl/fda, fpa/fsp/ and hnr files to the igo8/content/map directory
+4. Copy the .poi files to the igo8/content/poi
+(5. Copy the .3dc files to the igo8/content/building)
+
+Try to remove old maps/files from directories. Use the new ones.
+
+
+thanks to iplay.ro

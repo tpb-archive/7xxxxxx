@@ -1,0 +1,17 @@
+There are no well established activation bypass as of yet, so I have not included them.
+
+Source: MICROSOFT.WINDOWS.8.PROFESSIONAL.RTM.X64.ENGLISH.DVD-WZT
+This 64-bit RTM is Build 9200
+
+Tools used:
+gimagex2 for image extraction and maximum recompression
+Dism for .msu file package addition
+oscdimg for iso creation with boot sector
+
+KB Files added via add-package dism:
+KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703
+
+I have made it a point not to modify or customize any windows programs or settings in any way.
+
+Enjoy,
+Murphy78 :)

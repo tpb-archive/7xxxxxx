@@ -1,0 +1,33 @@
+AIDA64 Extreme Edition is a streamlined Windows diagnostic and benchmarking software for home users. AIDA64 Extreme Edition provides a wide range of features to assist in overclocking, hardware error diagnosis, stress testing, and sensor monitoring
+
+VIA VX11 platform, Nano X2 and QuadCore CPU support
+
+Optimized benchmarks for VIA Nano X2 and QuadCore processors, and for the upcoming VIA VX11 platform. Detailed chipset information for VIA VX11 and VX900 platform controllers, VN1000 north bridge, VT8261 south bridge. Preliminary multi-threaded OpenCL-based GPGPU stress test for VIA VX11 platform. For legacy processors all benchmarks and the System Stability Test are available in 32-bit version as well.
+
+Optimized 64-bit benchmarks for AMD A-Series ΓÇ£TrinityΓÇ¥ APU
+
+AIDA64 CPUID Panel, Cache & Memory Benchmark panel, System Stability Test, and all memory and processor benchmarks are fully optimized for AMD A-Series ΓÇ£TrinityΓÇ¥ desktop and mobile APUs, utilizing FMA4 and XOP instructions. Detailed chipset information for AMD A55, A60M, A68, A68M, A70M, A75, A85X ΓÇ£HudsonΓÇ¥ Fusion Controller Hubs. Preliminary support for AMD ΓÇ£VisheraΓÇ¥ processors and high performance DDR3 memory modules with AMD Memory Profiles.
+Microsoft Windows 8 RTM and Windows Server 2012 RTM support
+
+Operating system details, installed programs list, and security software information for the final production build of Microsoft Windows 8 and Windows Server 2012. Optimized ACPI query and temperature measurement module; anti-virus and anti-spyware software details for the new generation Microsoft Windows Defender. A series of bug fixes related to the latest Windows release: CPU clock measurement via APIC timer, Windows product key decoding, Windows product activation status detection.
+OpenGL 4.3, APP SDK 2.7, CUDA 5.0 support
+
+OpenGL video adapter details, OpenGL extensions list, OpenGL complicancy test with OpenGL 4.3 support. GPGPU information is available for Direct3D Compute Shader, AMD Stream, nVIDIA CUDA, and OpenCL devices, now with APP SDK 2.7, CUDA 5.0 and OpenCL 1.2 updates.
+Support for the latest hardware technologies
+
+Graphics processor, OpenGL and GPGPU details, temperature and cooling fan monitoring for the latest GPUs: nVIDIA GeForce 620M, GeForce GTX 650, GeForce GTX 650M, GeForce GTX 660, GeForce GTX 660 Ti, GeForce GTX 680M, Quadro K-Series, Tesla K10, AMD FirePro V-Series, FirePro W-Series. Improved support for Marvell 88SS9174 controller based SSDs. Fixed RAID member enumeration and RAID SMART support for Intel RAID controllers.
+
+System requirements
+
+Operating system: 
+Windows 95/98/Me 
+Windows NT4/2000
+Windows XP
+Windows PE
+Windows Server 2003
+Windows Vista
+Windows Server 2008
+Windows 7
+Windows Server 2008 R2
+Windows 8
+Windows Server 2012	

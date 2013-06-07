@@ -1,0 +1,15 @@
+VistaDB is the only .Net embedded database that allows you to Xcopy a single DLL for both 32 and 64 bit runtime support. Want ClickOnce deployment for your .Net application? VistaDB requires zero config on the client. No more worries about COM deployment for the database engine! Even our database files are built for ease of deployment - a single database file with no external logs or complex permissions.
+
+.Net Database Basics
+If a relational database doesn't have advanced features like updatable SQL Views, true referential integrity, cascading updates / deletes, table value params, T-SQL stored procedures, CLR Triggers, and CLR stored procs then why would you bother? Database engines that only provide basic ADO.NET features are a waste of your time. VistaDB is the most advanced embedded SQL desktop database engine in the world. We built VistaDB from the ground up to be a managed database engine, this is not some unmananged C++ database with a .Net wrapper!
+
+Work with Visual Studio 2008 and 2010?
+VistaDB has full Visual Studio integration giving you the familiar tools you need to be productive quickly, including full Server Explorer integration. Developers who have used other desktop databases in Visual Studio will be able to immediately start working with VistaDB.
+
+.Net Database Admin Tools?
+Some embedded databases give you an engine and nothing to edit or maintain the actual database. You usually have to purchase a third party DBA tool, build you own, or tell users to go download the large bulky tool from the vendor.
+
+Install:
+
+- run application
+- replace files

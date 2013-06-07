@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,l.moudni,2012-11-03T20:02Z,"Hi @YurbuhTuggly thanks for your upload , but i just wonder if you have Moroccan version of TomTom. Thanks"
+,YurbuhTuggly,2012-11-04T07:48Z,"No such thing that I know of..see here:
+https://play.google.com/store/apps/developer?id=TomTom+International+BV&start=0&num=12"
+,theshyboy,2012-11-04T12:00Z,"After install APK, when run the program its said no network connection try again or exit."
+,theshyboy,2012-11-05T03:36Z,"when run the program, why still asked for network connection can not go any further, any idea?"
+,YurbuhTuggly,2012-11-05T06:53Z,"That means the path to the data on your device is not:
+mnt/sdcard/tomtom/com.tomtom.*
+When the path is correct, no connection is attempted. When the path is not correct, the app assumes there is no data and wants to download (which no fixed APKS can do any more). For your device, you may need a modified APK that includes your SD Card path..most devices it is //mnt/sdcard (built in as the path in original APK files).
+Some devices, it is something different."
+,theshyboy,2012-11-05T12:55Z,"Thank you for your reply, i'm appreciated that."
+,YurbuhTuggly,2012-11-10T08:30Z,"For modified APKs that include the following SD Card paths:
+/mnt/external_sd,
+/mnt/sdcard2,
+/mnt/sdcard/external_sd,
+/mnt/sdcard-ext,
+/mnt/sdcard,
+/storage/sdcard0,
+/mnt/extSdCard,
+/mnt/ext_sd,
+/mnt/ext_card,
+/mnt/sdcard/_ExternalSD,
+/storage/extSdCard,
+/mnt/extsd,
+/mnt/emmc,
+/mnt/extern_sd/
+
+Go here:
+http://www.navitotal.com/showthread.php?11287-TomTom-Android-full-with-Data-big-Torrent/page5
+
+Post number 45"

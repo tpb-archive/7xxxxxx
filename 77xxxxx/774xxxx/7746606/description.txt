@@ -1,0 +1,73 @@
+WII Backup Manager Version 0.4.5 build 78
+
+Welcome to the official Wii Backup Manager Website.
+
+Wii Backup Manager is a program to work with DVD backups, FAT32, NTFS and WBFS drives to convert between DVD, ISO, CISO and WBFS. It can also extract Wii games to the format used by SNEEK.
+
+A partial list of features is below.
+Import/Export
+
+    Read RAR, ISO, CISO, WBFS File.
+    Write ISO, CISO, WBFS File, SNEEK extraction.
+    Direct conversion from any of the readable formats, to any of the writable formats.
+    Transfer any readable format to WBFS or simulated WBFS drives.
+    Multiboot ISO support. An entry is added to the file list for each game partition.
+
+General
+
+    Format drives to WBFS, FAT32 or NTFS.
+    Extract archives files when adding to the files list, or automatically when needed for transfer/conversion.
+    Add folders recursively.
+    Automatic or manual selection of WBFS file split size. Automatic means unlimited on NTFS, otherwise 4GB.
+    Select Wii disc partitions to keep. (Game, remove update or keep all)
+    Select Display unit size (auto, MB, GB).
+    Hide any drive you don't want to see in the drive menus, format dialog etc.
+    Set friendly display names for drives.
+    Multi-threaded. Start more than 1 operation at a time. eg. It's possible to rip a DVD to one drive, while transferring files to another.
+    Progress panels are shown on the relevent pages for current operations showing ETA/Total expected time, transfer speed, current transferred size, percentage complete.
+    Any operation can be paused or stopped at any time. Safely stop drive transfers etc. without damaging the file system.
+    Buffered transfers for maximum speed, but the speed and ETA etc. can be erratic because of it. Speed is more important IMO.
+    An MD5 Hash is calculated and stored in each disc transferred to a drive, so it's possible to verify the data integrity at a later date. The hash isn't calculated for ISO yet.
+    Show/Hide list columns. Drag and drop to rearrange them..
+    Incremental search on lists.eg. Quickly type "mar" to go to the next entry that contains that text. Uppercase = Full text search, Lowercase = Use only the start of the title
+    Multi-language interface.
+    Export game lists using easy to create templates.
+
+Titles database
+
+    Support for Multi-language GameTDB titles.txt.
+    Inline editing of titles and region.
+    Use custom-titles.txt to store manual entry edits.
+    Different colours for each title source.
+    Original = Titles that don't exist in the databases.
+    GameTDB = Title renamed on the fly from GameTDB database.
+    Custom = Title renamed on the fly from Custom database.
+    Enable WiiTDB/Custom titles in the settings dialog.
+    Auto rename titles during drive/WBFS file transfers
+    Use on-the-fly titles for FAT32/NTFS files/folders, without changing the internal titles.
+
+WBFS Drives
+
+    Convert WBFS to CISO, ISO, WBFS File.
+    Add to WBFS drives from any of the readable file formats.
+    Direct drive to drive transfers.
+
+Simulated WBFS drives (FAT32/NTFS)
+
+    Mount any drive with a WBFS folder and use it just like the WBFS drives.
+    Use any Filesystem for backup of WBFS files. eg. Mount an NTFS drive with WBFS folder.
+    Use the old or new .wbfs storage conventions. ie.A single WBFS folder, or multiple sub-folders. Switch between them in the settings dialog, with the option to auto convert when a drive is mounted.
+    Multiple folder layouts. Title [GameID], Title_[GameID], GameID_Title
+    Use sparse ISO on NTFS drives, instead of WBFS files.
+    Select WBFS file split size. Auto, Unlimited, 1GB, 2GB, 4GB.
+    Mount custom folders on the drive pages.
+
+Backup DVDs
+
+    Direct rip to ISO, CISO, WBFS file, WBFS.
+    Support for Multiboot discs, convert each game partition back to full ISO or transfer to WBFS etc. recovering the game's original disc title and ID.
+    Batch mode. After a rip is complete, the disc is ejected and the next disc processed immediately when it's inserted.
+    Direct burn from ISO, CISO, WBFS file, WBFS.
+
+ 
+http://www.wiibackupmanager.co.uk/

@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,bifbof41,2012-10-21T17:41Z,Looking forward for the nordic country. In the Wester Europa card are several small cities witch can`t be find.  
+,Abaris777,2012-10-28T17:42Z,"Unable to connect to TomTom. Try Again later.!!!!!!!!!!!!!
+
+FAKE"
+,vctrt,2012-11-06T22:26Z,"@Abaris777
+Do some research before you start throwing accusations. 
+These are bare apk and don't have the data so they try to connect to the tomtom servers and download it. That's when you get the network connection error.
+To work around this simply download the data for your country/region and put it under /mnt/sdcard/tomtom/com.tomtom.*
+When you have this folder with the data then tomtom will not try to connect to the servers. 
+There are a couple of torrents on TPB with the data. Just look them up.
+Beware though, the application is not compatible with many devices, mainly the ones with high resolution screens such as the galaxy and transformer etc.. If you install the application and it crashes then probably it's not compatible with your device ..."

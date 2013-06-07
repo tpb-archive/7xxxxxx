@@ -1,0 +1,4 @@
+﻿User Type,Username,Date,Text
+,narfbutt,2012-10-15T00:42Z,"the gcc binaries seem to be in /bin rather than /usr/bin but since you'll be manually updating your gcc/gpp/cpp symlinks to use this it doesn't actually matter
+
+don't forget to put a hold on gcc/gmp/mpc/mpfr so it doesn't get borked by an apt-get upgrade!"

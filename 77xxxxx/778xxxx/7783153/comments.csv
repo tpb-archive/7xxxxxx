@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,luisbaeta,2012-11-02T10:58Z,Excellent thanks
+,pinkku,2012-11-02T11:25Z,"WARNING: Audio is way out of sync. 
+
+Thanks for the effort though!"
+,Hanne70,2012-11-02T14:01Z,"As pinkku tells... The audio is OUT of sync. You have to use VLC and adjust the audio sync to watch this  one... :-(
+
+I prefer to have xvid files in my series collection, and I was happy when I saw this AVI was out... but as it is Friday and ""Crime time"" on my tv... I have to download the MP4 version, as I wait for a in-sync version of this in AVI..."
+[T],MP4SUX,2012-11-03T00:22Z,"I don't know what to say - watched it and noticed nothing.
+But went back and sure enough, it audio is late by about 150ms.
+MPC also allows for such adjustment.
+
+I doubt most people will notice anything, but since you did - here's the fix.
+Get a copy of VirtualDub, set the video to direct stream copy.
+The audio needs to be re-encoded CBR (Vdub hates VBR).
+audio-compression-mp3-160/44.
+
+Depending on version, it should be under Audio-interleave.
+Set the delay to -150 (or maybe -200 - some of this is subjectvie).
+
+Sorry to all, don't know how it happened, source was fine.
+Since it's such a slight error, I don't think reposting is warranted (unless there's a clamoring).
+
+AVIGUY"

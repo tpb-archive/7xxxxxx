@@ -1,0 +1,82 @@
+Megadeth - Rust In Peace - Custom Remaster by MC Lurken
+
+
+
+Produced from original 1990 release, not 2004 remaster
+
+
+
+1 - Holy Wars... The Punishment Due
+2 - Hangar 18
+3 - Take No Prisoners
+4 - Five Magics
+5 - Poison Was The Cure
+6 - Lucretia
+7 - Tornado Of Souls
+8 - Dawn Patrol
+9 - Rust In Peace... Polaris
+
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-Original 16-bit/44.1kHz files joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab (3.25db recording gain)
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 18, Peak = 0.031db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 35, Peak = 3.479db*     (*after 3.25db recording gain)
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/44.1kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 16-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2012-10-05 18:31:49
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11       0.00 dB   -11.88 dB      6:36 ?-01 - Holy Wars... The Punishment Due
+DR10       0.00 dB   -10.93 dB      5:15 ?-02 - Hangar 18
+DR9        0.00 dB   -11.16 dB      3:29 ?-03 - Take No Prisoners
+DR9        0.00 dB   -11.17 dB      5:43 ?-04 - Five Magics
+DR9        0.00 dB   -11.13 dB      2:58 ?-05 - Poison Was The Cure
+DR9        0.00 dB   -10.72 dB      3:58 ?-06 - Lucretia
+DR9        0.00 dB   -10.70 dB      5:23 ?-07 - Tornado Of Souls
+DR13       0.00 dB   -14.46 dB      1:51 ?-08 - Dawn Patrol
+DR12       0.00 dB   -12.42 dB      5:37 ?-09 - Rust In Peace... Polaris
+--------------------------------------------------------------------------------
+
+Number of tracks:  9
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1411 kbps
+Codec:             PCM
+
+
+***Disclaimer*** DR decreased in this custom remaster. Original release is very dynamic (DR13) but at a low volume. This custom remaster intended to give this album a louder, more "metal" sound. If you want the dynamics of the original release then DO NOT DOWNLOAD. Coming in at DR10 this custom remaster is still fairly dynamic.
+
+
+
+enjoy :)	

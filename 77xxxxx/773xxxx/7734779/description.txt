@@ -1,0 +1,22 @@
+ Bot Version: 2
+ Author:         Camouflaged Software Studio
+ Secret MD5 hash: f864a0a29795e8e6b0ef2afe1675bda9
+ 
+   Whoever knows the original string used to generate the above MD5 hash,
+   is likely the maker of this software.
+   The string consists of a single line written in plain English.
+
+  Changes in V2:
+   1. Re-wrote the GUI to easily allow for more features to be added.
+   2. The "follow" feature was added to the bot.
+   3. Added a login Button.
+   4. Improved the login. The bot should now only login if required.
+   5. Moved certain code to their own include files, this should make it easier to
+      develop the bot further! "This is simplifying the code..."
+
+ Script Function:
+	The Best Twitter Bot
+	 Unfollow Your Non-Followers
+	 Follow Following/Followers of User
+
+The source code for the bot is included for those interested. If your security/antivirus flags the .exe, then it is a false posetive. Compiled AutoIt scripts often get flagged without reason, even the source files can sometimes get flagged.

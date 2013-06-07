@@ -1,0 +1,80 @@
+The Brew - Live At Rockpalast Crossroads Festival, Harmonie, Bonn 03-24-2012 
+
+Setlist:
+
+01 Six Dead
+02 Sirens Of War
+03 Every Gig Has A Neighbour
+04 Postcode Hero
+05 Reached The Sky
+06 Ode To Eugene
+07 Master And The Pupeteer
+08 The Third Floor
+09 Imogen Molly
+10 Kam
+11 A Smile To Lift The Doubt
+12 Piper Of Greed
+
+Band:
+
+Jason Barwick - Vocals, Guitar
+Tim Smith - Bass, Backing Vocals
+Kurtis Smith - Drums
+
+Info:
+
+TBS 6920 - DVBDream - TSMuxer - Mpeg2Schnitt - TSMuxer
+Recorded from a satellite feed used for the webcast on www.rockpalast.de
+Transport stream as broadcast - no re-encoding.
+
+General
+ID                               : 1 (0x1)
+Complete name                    : H:RecordingsCrossroadsthebrew24mar2012.ts
+Format                           : MPEG-TS
+File size                        : 2.57 GiB
+Duration                         : 1h 30mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 4 077 Kbps
+Maximum Overall bit rate         : 35.5 Mbps
+
+Video
+ID                               : 4113 (0x1011)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@Main
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Custom
+Format settings, GOP             : M=3, N=12
+Codec ID                         : 2
+Duration                         : 1h 30mn
+Bit rate mode                    : Variable
+Bit rate                         : 3 617 Kbps
+Width                            : 720 pixels
+Height                           : 576 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Standard                         : PAL
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.349
+Stream size                      : 2.28 GiB (89%)
+
+Audio
+ID                               : 4352 (0x1100)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 2
+Codec ID                         : 4
+Duration                         : 1h 30mn
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 165 MiB (6%)

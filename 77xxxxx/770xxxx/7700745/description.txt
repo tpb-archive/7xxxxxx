@@ -1,0 +1,20 @@
+ASAP goofed somehow and the sound slowly goes out of sync by almost a second at the end.
+This cheap and dirty fix changes the framerate slightly from 23.976 to 23.981
+
+========= IMDB.com/title/tt2191613/
+
+Release Name: Made.in.Jersey.S01E02.Cacti.SyncFiX.x264.MP3-ASAP[AVIGUY].avi
+
+From ASAP:
+Release Date.: 2012-10-05
+Run Time.......: 41:40
+Resolution.....: 720x404
+Video Codec...: x264
+Video Bitrate..: 879 Kbps
+
+From AVIGUY:
+Release Size: 313 Mb
+Audio: MP3 160Kbps 44KHz CBR
+CC2AVI: AtomicParsley -f true [compatibility with MP4cam2AVI]
+CC2AVI: MP4cam2AVI [conversion to AVI]
+CC2AVI: VirtualDub 1.4.13 [audio compression]

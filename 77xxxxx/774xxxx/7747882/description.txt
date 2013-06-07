@@ -1,0 +1,25 @@
+Description:
+------------
+mIRC is a full featured Internet Relay Chat client for Windows that can be used to communicate, share, play or work with others on IRC networks around the world, either in multi-user group conferences or in one-to-one private discussions.
+
+It has a clean, practical interface that is highly configurable and supports features such as buddy lists, file transfers, multi-server connections, IPv6, SSL encryption, proxy support, UTF-8 display, UPnP, customizable sounds, spoken messages, tray notifications, message logging, and more.
+
+mIRC also has a powerful scripting language that can be used both to automate mIRC and to create applications that perform a wide range of functions from network communications to playing games.
+
+WhatΓÇÖs New:
+-----------
+This is a small update that addresses a number of issues reported by users since the last release. It includes improvements, changes and fixes to a number of features, including:
+*A "Mark As Read" option has been added to the treebar, switchbar, toolbar and MDI popup menus to allow you to clear all flashing/highlighted windows.
+*The $hfind() identifier has been extended to allow results to be saved to a @window listbox or passed to a command.
+*An SSL connection issue has been fixed that prevented mIRC from connecting to servers with certificates that used unrecognized date formats.
+*A hotlink display issue has been fixed that caused text to flicker when hovering the mouse over a link.
+*SSL support for Subject Alternative Names (SAN) has been added when verifying whether a certificate is valid for the connection.
+*A number of issues with the reload logs feature have been fixed, including incorrect line indentation and missing lines at the end of a log in some situations.
+*An issue with the split long messages feature has been fixed which occurred when handling color formats in some contexts.
+*An Address Book bug that prevented removal of an existing timed unignore has been fixed.
+*The way incremental search works in channel nickname listboxes has been changed so that it behaves more like Windows explorer.
+*The /localinfo -p option has been changed to use a random UPnP port outside the first 1056 services port range as some routers block these ports.
+*An $inellipse() bug caused by a compiler optimization issue has been fixed.
+
+Other changes and bug fixes.
+In total there have been around 27 changes to this version and although most of them are only small fixes and tweaks, we hope that they result in a more useful and stable mIRC for you.
