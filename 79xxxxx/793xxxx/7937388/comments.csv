@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+[T],bill_214,2012-12-24T16:13Z,"This never, ever connects.
+
+If the uploader ever looks ar this and it's not some bullshit, here's what you need to do:
+
+Delete the torrent you made from your client NOT the file (in uTorrent choose ""remove and delete .torrent"" NOT  ""remove and delete .torrent=data"")
+
+Login to your account
+
+Go to your ""preferences"" page
+
+Click on the page for this upload and download either the .torrent file OR the magnet link
+
+Choose ""force recheck""
+
+If your client checks the file and shows it complete then start the torrent and upload it
+
+IF your client doesn't find the file you have it somewhere other than your default download folder... you can either put the file in that folder (in uTorrent right click and choose ""force recheck"" and it will likely say something like ""the path C:'DownloadsAverage Joes Muddy Christmas doesn't exist"" and if that's the case put the file in the download folder  
+
+OR
+
+Right click and choose ""advanced"" and then drill down until you find the folder where you have it already, then start and seed.
+"

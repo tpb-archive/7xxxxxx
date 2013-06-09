@@ -1,0 +1,15 @@
+SpellForce 2 - Gold Edition presents the award-winning SpellForce saga hits: "SpellForce 2 ΓÇô Shadow Wars" and the add-on "SpellForce 2 ΓÇô Dragon Storm" for a spectacular game experience! Experience the age of heroes: roleplaying action & realtime strategy in a perfect mix of genres.
+
+Installation: Unzip. Copy app to your Applications folder and launch.
+
+This game runs perfectly, actually better than on Windows 7 on which it doesn't run at all! LOL. I have pre-patched the game to version 2.01.
+
+Note: Don't click the options button in-game unless you have to (I've maxed everything anyway) due a high-res widescreen hack explained below..
+
+Widescreen hack: Going into the options screen in-game will wipe any custom widescreen resolution changing it to the default 1024x768. This is just a limitation of the game, however it can be worked around fairly easily. I have already set it for you at the most compatible widescreen mac res (1280x800), which is best suited for 13" Macbooks. Anyone with a higher res screen will want to change this..
+
+Changing resoluton: The easiest way to set your own res is to right-click on the app and choose "Show Package Contents" then type in the search bar (next to magnify glass): config.xml then click "Spellforce 2" next to Search:. If it doesn't show up the path is found at the location on this image (the path so fucking long I couldn't be bothered typing it ;p):
+
+Right click on this file and select Open With -> Textedit or Other.. then type textedit and open. Find the values screenheight="800" screenwidth="1280" and change them to your native res (ie. screenheight="1080" screenwidth="1920" for 1920x1080). Save your file (Command+S) and exit textedit. Now when you launch the game it will be in your specified resolution.
+
+Enjoy and please seed.

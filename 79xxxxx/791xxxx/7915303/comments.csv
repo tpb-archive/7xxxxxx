@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,The-S-Man,2012-12-13T02:40Z,It won't open for me. I have downloaded it multiple times and still just pops up that it is corrupt.
+[T],STFmaryville,2012-12-13T03:49Z,"Sorry The-S-Man if you're having trouble, but there's nothing wrong with the torrent or the .cbz file. The plot of the comic's another case, but this torrent isn't corrupt. :-)"
+,wynterbourne,2012-12-13T05:20Z,"Failed to load in ComicRack. Each image displays an image stating ""Page failed to load. Please refresh and try again."" 
+
+So I extracted the archive and took a look. Rather than bundling the images into a single archive, the images were archived inside of a folder. This causes a problem with many of the modern viewers. "
+[T],STFmaryville,2012-12-13T18:16Z,"Man I respect that you two had problems with it, but CDisplayEx loads and displays it fine. If it's a ""modern image viewer"" it shouldn't have a problem loading and displaying this file. Ditch ComicRack and get CDisplayEx."
+,The-S-Man,2012-12-13T18:31Z,"Thanks wynterbourne, I will try this out and see if that is the problem."
+,minusblindfold02,2012-12-14T01:20Z,It worked fine for me.

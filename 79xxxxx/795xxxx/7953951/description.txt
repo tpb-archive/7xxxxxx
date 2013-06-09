@@ -1,0 +1,32 @@
+Some programs, like ADR patcher, already allowed you to patch 
+your game from NTSC from PAL. But the screen was not centered!
+
+Most of the times you had to search for a specific patch.
+No any more, I hope!
+
+Support ISO and BIN CD/DVD PS2 images and single ELF files as well.
+!!!!!!!! NEW: Now you have the option to build a P/N Selector !!!!!!!!!
+
+Attention:
+	Case 1) This program will modify the ELF file.
+		BACKUP THE ELF FILE FIRST, PLEASE.
+	Case 2) For CD/DVD PS2 images the ELF file is backuped automatically.
+
+
+USAGE:
+	Click on 'Browse' and then choose an ELF file or a CD/DVD PS2 image.
+	Check the 'MAKE PN SELECTOR' Box for building a P/N selector. Otherwise, uncheck it.
+	Click on 'Patch File' and read the text output.
+	AFTER BURN, please report the result at http://www.nofuzz.com/ktd.
+	
+	NEW: if the patching did not work you can restore the ELF file 
+of the PS2 CD/DVD image with the backuped one.
+	Click on 'Browse' and then choose the CD/DVD PS2 image.
+	Click on 'RESTORE' and select the backup ELF.
+
+
+The program will first try to change the video mode from NTSC to PAL.
+It will indicate you if found any locations to patch, if the ELF is 
+already patched and the number of locations to patch.
+Then it will try to patch the screen Y position. It will indicate you if
+can not find any patch locations or if can not patch the locations found.

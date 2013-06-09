@@ -1,0 +1,20 @@
+Malwarebytes' Anti-Malware is considered to be the next step in the detection and removal of malware. We compiled a number of new technologies that are designed to quickly detect, destroy, and prevent malware. Malwarebytes' Anti-Malware can detect and remove malware that even the most well-known Anti-Virus and Anti-Malware applications on the market today cannot.
+
+Malwarebytes Anti-Malware 1.70.0.1100 Final:
+ New program logo and icons
+ Heuristics for 0-day exploit detection now implemented in protection module for PRO version
+ Threats detected by the protection module are now quarantined automatically by default
+ Malwarebytes Anti-Malware now shows Windows 8 START screen notifications
+ More Tools tab enhanced with tons of new content and more to come in the future
+ Option to allow a threat to run temporarily (Allow Temporarily) added to filesystem protection prompts
+ Option to add a detected item to the Ignore List (Allow Always) added to filesystem protection prompts
+ Heuristics for detecting new and unknown threats improved
+ Scanner efficiency improved
+ Microsoft Windows 8 and Internet Explorer 10 now identified correctly in scan logs
+ Help file updated to include information on new features
+ Better compatibility with many other security products in realtime
+ Minor issue with password creation from CLI fixed
+
+Support for Windows 2000, XP, Vista and 7/8 (32-bit and 64-bit).
+
+Home Page www.malwarebytes.org

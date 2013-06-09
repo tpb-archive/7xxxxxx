@@ -1,0 +1,59 @@
+Ross Bencina AudioMulch v2.2.3
+
+
+
+
+
+audiomulch.jpg
+
+
+
+AudioMulch is an interactive musician's environment for PC .
+It is used for live electronic music performance, composition and sound design.
+
+
+
+AudioMulch allows you to make music by patching together a range of sound producing and processing modules. Unlike some patcher-based programming environments, AudioMulch's modules perform high-level musical functions, so you don't have to create things from the ground up using individual oscillators and filters. AudioMulch is designed for live performance and improvisation - you can process live audio sources and control every knob and slider on the user interface using a MIDI controller.
+
+
+
+Changes:
+
+Fixed bug where clicking the LiveLooper Start button would sometimes not start recording, especially with high CPU load or when the audio driver buffer size was not set to a multiple of 64 samples.
+Fixed crash: assertion failure "length >= fadeLengthSamples_" if you changed the sample rate in AudioMulch's Audio General settings while LiveLooper was recording.
+Fixed bug where PulseComb hold would get permanently stuck on if you set the Hold Quantize Divisions multiplier to zero with Quantize Amount set to non-zero.
+Fixed bug in PulseComb hold quantize behavior (present since version 2.1): Hold Quantize was taking priority over the Hold Period causing rapid holds when the hold duration should have been at least as long as Hold Period. To get the previous "buggy" behavior use a very short Hold Period.
+Fixed bug in SDelay where delay times would not be displayed correctly (clamped to a maximum value of 32) when recalling presets that switched delay units from rhythmic units to milliseconds.
+Display preset names in preset automation hover tooltips.
+Fixed crash when recalling AudioMulch presets with DFX Transverb VST Plugin.
+
+
+
+
+AudioMulch 2.2.3 works with
+
+Windows XP, Vista and Windows 7.
+It does not work with Windows 98.
+Windows 2000 is not officially supported but it works with a few minor display glitches.
+
+
+
+INSTALLATION:
+
+ΓÇó Uninstall previous versions.
+
+ΓÇó You need WinRAR to extract the rar's files.
+
+ΓÇó Run the setup to install.
+
+ΓÇó Go to crack folder and copy the crack to the installation dir by default*
+C / program files / AudioMulch / and paste replacing the original.
+
+
+
+ΓÇó That's it! Done.
+
+ΓÇó Supp0rt th3 D3v3lop3r if you liK3 it.
+
+
+3Nj0Y!!!

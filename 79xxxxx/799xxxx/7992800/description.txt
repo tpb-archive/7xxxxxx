@@ -1,0 +1,78 @@
+Formato                                  : Matroska
+Formato de la versión                    : Version 2
+Tamaño del archivo                       : 7,15GIB
+Duración                                 : 2h 28min.
+Tasa de bits total                       : 6 914Kbps
+Fecha de codificación                    : UTC 2012-11-27 05:49:41
+Aplicación de codifición                 : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Librería de codificación                 : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L4.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 8marcos
+Modo Muxing                              : Header stripping
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 2h 28min.
+Tasa de bits nominal                     : 4 767Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 534pixeles
+Relación de aspecto                      : 2,40:1
+Modo de velocidad de cuadro              : Constante
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.291
+Librería de codificación                 : x264 core 66 r1093M 1df50b9
+
+
+Audio #1
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : LC
+ID Códec                                 : A_AAC
+Duración                                 : 2h 28min.
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+Título                                   : Español
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Formato                                  : DTS
+Formato/Info                             : Digital Theater Systems
+Format_Settings_Mode                     : 16
+Ajustes del formato, Endianness          : Big
+Modo Muxing                              : Header stripping
+ID Códec                                 : A_DTS
+Duración                                 : 2h 28min.
+Tipo de tasa de bits                     : Constante
+Tasa de bits                             : 1 510Kbps
+Canal(es)                                : 6canales
+Posiciones del canal                     : Front: L C R, Side: L R, LFE
+Velocidad de muestreo                    : 48,0KHz
+BitDepth/String                          : 24bits
+Tamaño de pista                          : 1,56GIB (22%)
+Título                                   : Inglés
+Idioma                                   : Inglés
+Default                                  : No
+Forced                                   : No
+
+Texto
+ID                                       : 4
+Formato                                  : UTF-8
+ID Códec                                 : S_TEXT/UTF8
+ID Códec/Info                            : UTF-8 Plain Text
+Título                                   : Español forzado
+Idioma                                   : Español
+Default                                  : Si
+Forced                                   : No		

@@ -1,0 +1,19 @@
+Title: sed & awk, 2nd Edition 
+
+By: Dale Dougherty, Arnold Robbins 
+
+Print: March 1997 
+
+Ebook: November 2010 
+
+Pages: 434
+
+sed & awk describes two text processing programs that are mainstays of the UNIX programmer's toolbox.
+
+sed is a "stream editor" for editing streams of text that might be too large to edit as a single file, or that might be generated on the fly as part of a larger data processing step. The most common operation done with sed is substitution, replacing one block of text with another.
+
+awk is a complete programming language. Unlike many conventional languages, awk is "data driven" -- you specify what kind of data you are interested in and the operations to be performed when that data is found. awk does many things for you, including automatically opening and closing data files, reading records, breaking the records up into fields, and counting the records. While awk provides the features of most conventional programming languages, it also includes some unconventional features, such as extended regular expression matching and associative arrays. sed & awk describes both programs in detail and includes a chapter of example sed and awk scripts.
+
+This edition covers features of sed and awk that are mandated by the POSIX standard. This most notably affects awk, where POSIX standardized a new variable, CONVFMT, and new functions, toupper() and tolower(). The CONVFMT variable specifies the conversion format to use when converting numbers to strings (awk used to use OFMT for this purpose). The toupper() and tolower() functions each take a (presumably mixed case) string argument and return a new version of the string with all letters translated to the corresponding case.
+
+In addition, this edition covers GNU sed, newly available since the first edition. It also updates the first edition coverage of Bell Labs nawk and GNU awk (gawk), covers mawk, an additional freely available implementation of awk, and briefly discusses three commercial versions of awk, MKS awk, Thompson Automation awk (tawk), and Videosoft (VSAwk).

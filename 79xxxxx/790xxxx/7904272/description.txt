@@ -1,0 +1,65 @@
+Genre: Techno | Tech House
+
+T/L:
+
+01.Kris Menace feat Miss Kitten - Hide (Alexander Maier remix)
+02.Nick Hoppner - Ipso Facto
+03.Hanfry Martinez - Disco 90
+04.Matthias Vogt - Copying The Future (DJ Le Roi remix)
+05.Friendly Fires - Why Don`T You Answer (Hot Since 92 dub)
+06.Lana Del Ray - Blue Velvet (Penguin Prison remix)
+07.Monty Luke - Bomb On Bomb (Gerd remix)
+08.Sebastian Radimeier - Is It Me Or Is It You (Carlo Lio remix)
+09.Maceo Plex - Stimulation
+
+Encodings:
+
+Encoding as 48 kHz stereo MPEG-1 Layer III (12x) 128 kbps qval=0
+
+misc:
+
+        scaling: 0.95
+        ch0 (left) scaling: 1
+        ch1 (right) scaling: 1
+        huffman search: best (outside loop)
+        experimental Y=0
+        ...
+
+stream format:
+
+        MPEG-1 Layer 3
+        2 channel - stereo
+        padding: off
+        constant bitrate - CBR
+        ...
+
+psychoacoustic:
+
+        using short blocks: channel coupled
+        subblock gain: 1
+        adjust masking: 0 dB
+        adjust masking short: 0 dB
+        quantization comparison: 9
+         ^ comparison short blocks: 9
+        noise shaping: 2
+         ^ amplification: 2
+         ^ stopping: 1
+        ATH: using
+         ^ type: 4
+         ^ shape: 4 (only for type 4)
+         ^ level adjustement: -3 dB
+         ^ adjust type: 3
+         ^ adjust sensitivity power: 1.000000
+        experimental psy tunings by Naoki Shibata
+           adjust masking bass=-0.5 dB, alto=-0.25 dB, treble=-0.025 dB, sfb21=0.5 dB
+        using temporal masking effect: yes
+        interchannel masking ratio: 0.0002
+        ...
+-------------------------------------------------------------------------------
+   kbps        LR  %     long switch short %
+  128.0      100.0        90.2   5.5   4.3
+-------------------------------------------------------------------------------
+
+Enjoy !
+
+nesmeured

@@ -1,0 +1,47 @@
+Julkalendern 2012 - Mysteriet på Greveholm - Grevens återkomst
+Episode 1-24
+
+Standard ISO MPEG-4 container
+
+  episode 2-15
+
+  Video AVC/H264 1280x720 25fps
+  Audio Swedish AAC LC Stereo 48kHz 160kbit
+  Text Swedish 3GPP/MPEG-4 Timed Text
+
+or
+
+  episode 1 and 16-24
+
+  Video AVC/H264 1280x720 50fps
+  Audio Swedish AAC LC SBR Stereo 48kHz 96kbit
+  Text Swedish 3GPP/MPEG-4 Timed Text
+
+
+Merry Christmas to you all!
+
+
+
+Note:
+
+
+Swedish subtitle track is marked as disabled so compliant videoplayers shouldn't show it by default.
+
+Still, if subtitles do bother you, you can simply get rid of them by removing the text stream from the MPEG-4 file.
+
+
+Use mp4box from command prompt:
+
+
+> mp4box -rem 3 "Mysteriet på Greveholm - Grevens återkomst - 17 - Ägg i fara.mp4"
+
+
+If you need separate subtitle files you can simply extract them with:
+
+
+> mp4box -srt 3 "Mysteriet på Greveholm - Grevens återkomst - 17 - Ägg i fara.mp4"
+
+
+mp4box can be found here:
+ 
+http://www.videohelp.com/tools/mp4box

@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,th4tdude,2012-12-15T21:35Z,does not work i always get the prison architect.exe has stopped working error. what do i do
+,iored94,2012-12-15T22:25Z,"Game works perfectly fine for me, though I need to run it as admin."
+,th4tdude,2012-12-15T22:40Z,yea i tried that an still didnt work 
+,Dwarth,2012-12-16T14:41Z,"Try searching on the official forum like here :
+http://forums.introversion.co.uk/prisonarchitect/viewtopic.php?t=1153&start=0"
+,Dwarth,2012-12-16T14:42Z,"Search ""prison architect.exe has stopped working error"" on google and try to see what they say on the official forum, some people say you got to delete some files"
+,MrCraack,2012-12-26T16:42Z,It worked for me on win7 x64
+,impdr,2013-01-01T06:46Z,"If it's crashing for you, try going to the preferences.txt file (one way to get there is to go to %appdata%, go up one folder so you're truly in the ""appdata"" folder, go to ""local"", then introversion, then ""prison architect"")
+
+Change the values by ScreenW to something (width) and ScreenH to something (height) for example 800(w) x 600(h), and change ScreenWindowed to true.
+
+This worked for me, and it might work for you, too."
+,fraxd,2013-01-01T15:34Z,"
+try your method and I worked keeps sending the error. :/
+thanks anyway.
+(sorry for my English I'm using google translate)"

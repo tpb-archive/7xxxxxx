@@ -1,0 +1,233 @@
+﻿User Type,Username,Date,Text
+,ebudget,2012-12-22T16:42Z,thanks
+,muzhik,2012-12-22T18:21Z,thanks
+,ebudget,2012-12-22T18:46Z,"not working on windows 9 i think...
+
+error is that POS is unable to open the company file, unable to creat new company, unable to open backup file and also unable to open any pratice mode data... all happening when patchers says this...
+
+am i missing something or... 
+
+NOTICE!!! The patched file should now be in place.
+Follow the steps below to activate Quickbooks 2013 Products.
+
+
+1. Open Quickbooks
+2. Click ""Help"" then ""About""
+3. Press CTRL+R then CTRL+P
+4. Enter the code 99999930 (the same code as in Beast_iND's patcher)
+5. Click Next
+6. Click Finish
+7. Close Quickbooks
+Press any key to continue . . ."
+,ebudget,2012-12-22T18:47Z,i Mean windows 8
+,ebudget,2012-12-22T19:03Z,"@wakbokaya this key is not working for multi store is not working on pos 2013 pro multistore...... 
+Quickbooks POS 2013 PRO MultiStore
+License no.: 1063-0575-1585-222
+Product no.: 015-985
+
+the key above which is for v13 pos basic is working flawlessly"
+,rgam,2012-12-22T20:18Z,great job dechronic. Thank you. It works fine on Win 7 64 
+,dechronic,2012-12-22T21:35Z,"@budget
+For Point of Sale 2013/v11 and Point of Sale 2013/v11 Multistore (with wakbokaya's keys)
+
+To upgrade to Multistore if you have already activated it, jump to step 21
+
+NOTE: POS MUST be opened as administrator, which is done by right clicking the shortcut
+      clicking and click Run as administrator. To make that action permanent, right click 
+      the shortcut, click the Compatibility tab and click the box Run this program as an
+      administrator and click OK.
+
+1. Open POS 2013
+2. You will be prompted about the need for Administrator access.
+3. Click Next
+4. Approve the prompt by clicking Yes or Continue, if the prompt appears.
+5. Click Open Practice Mode
+6. Click Next
+7. Make sure Open existing practice company is selected.
+8. Click Next
+9. Click OK
+NOTE 1: Do not click Register now or press the Enter key at this point.
+NOTE 2: If you clicked Register later you go back to the dialog box by clicking on Help
+        then Click Registration.
+10. Click Register by phone now "
+,dechronic,2012-12-22T21:50Z,10. Click Register by phone now 
+,dechronic,2012-12-22T22:35Z,"11. Enter the code 99999930
+12. Click Next
+13. Click Finish
+NOTE: The following step is optional
+14. To add more users, click Help
+15. Click Manage My License
+16. Click Buy Additional User License
+17. Enter the code for the number of users you want
+NOTE: For 5 users use 9999995
+      For 30 users use 99999930, etc.
+18. Click Next
+19. Click Finish
+NOTE: To upgrade to Multistore skip to Step 21
+20. Follow the remaining instructions in the activator to finish the activation.
+
+To upgrade to Multistore with the product key provided by wakbokaya.
+21. With the activator running, Click Help
+22. Click Try Point of Sale Multistore FREE
+23. Click Next
+24. Click Continue
+25. After a few moments, click Finish
+26. Click Help
+27. Click Buy Now
+28. Enter the product code for Multistore provided by wakbokaya (015-985)
+29. Enter the Validation code as 99999930
+30. Click Next
+31. Click Next
+32. Click Continue
+33. A message ""Welcome to Point of Sale ProMS Level"" will appear
+34. Click Finish
+35. ALL DONE! (I am finally finished writing all of that!) Phew
+NOTE: To add users to Multistore redo Steps 14 - 19"
+,love404,2012-12-23T02:20Z,"Any idea if this works with QuickBooks UK 2013 or QuickBook UK Enterprise 13?
+
+And can it activate the ""Advanced Inventory add-on subscription""?
+
+Thanks"
+,ebudget,2012-12-23T14:31Z,"Hi all... everything seems to be working flawlessly...
+
+but the problem is with multi user environment...
+when setting multi user environment it asks for the license number of headquarter Server... and we only have one license number so far for installing POS basic and Multi User. POS at remote sides and at the HQ Server needs to be different from each other to connect them.... 
+
+so @wakbokaya we need more license numbers for POS to work sucessfully in Multi Store mode... other wise it is of no USE.
+
+thanks for your work...."
+,dechronic,2012-12-23T17:30Z,"2060-3140-2137-757
+4313-3083-4404-680
+7288-6213-0008-368
+3065-6411-0050-601
+5412-4172-2117-785
+3539-4034-6268-323
+1063-0575-1585-222
+5723-8023-1742-127
+3514-8257-2451-340
+8084-0146-5102-389
+2871-6668-0234-740
+8125-0740-6632-044
+5603-1063-2219-399
+1677-1051-7358-766
+6085-1651-5843-639
+8334-3508-1503-607
+3786-3463-4323-932
+1018-0261-5280-366
+1085-7173-8518-953
+5845-4664-6404-787
+2680-8280-0226-715
+6467-4834-0352-604
+6050-7526-8385-286
+3223-7706-6704-588
+5887-3854-6143-045
+2600-8546-3187-971
+2432-8350-0765-232
+3671-4811-7368-433
+2615-2667-8462-033
+1155-0644-7120-676
+4028-1687-5054-653
+3226-1853-4637-229
+5412-4172-2117-785
+2476-4075-0259-061
+7782-7368-3420-980"
+,jawaidali,2012-12-23T18:21Z,"hi love404 
+
+plz first you update quickqooks 2013. after updates you will restar computer. and Advanced Inventory add-on subscription will be inable. 
+
+try it"
+,hardwareman64,2012-12-23T18:32Z,"I cannot seem to get the client workstations to be on the ""Pro"" level. I am only able to get it to work on the Basic level. I think this is due to the product number being for the basic. The server is running at the Pro Multistore just fine. Thanks for the activator!"
+,miruchan,2012-12-23T18:57Z,"With Win 8 (64bit), confirm working. Many thanks!"
+,ebudget,2012-12-23T19:53Z,"Don't know why but when I try to register pos basic... it doesn't open company file in simple way practice mode, creating new company and then practice mode and open from backup. Nothign works and then out of no where on of thr option works after trying many zttempts with every given option... "
+,ganie1608,2012-12-23T20:38Z,Can anyone please post license and product numbers for qb2013 UK versions. Will be greatly appreciated
+,hardwareman64,2012-12-23T21:02Z,"I am having the same problem, ebudget. It has something to do with the entitlement file I think. I am guessing maybe that some sort of verification isn't passing, but sometimes it does."
+,ganie1608,2012-12-23T21:13Z,"Can anyone please post license and product numbers for qb2013 UK versions. Will be greatly appreciated If u do not want to publish, please email to gn.napier@gmail.com"
+,hardwareman64,2012-12-23T21:19Z,The same thing is happening for me too ebudget.
+,ebudget,2012-12-24T06:56Z,we can only wait until some of the DEV here respond and recommend us what we can do....
+,dechronic,2012-12-25T00:35Z,"That problem with the POS 2013/v11 seems to be a problem with the POS itself, which only Intuit can fix, as I was having the same problem with the latest release of R3.
+A few things that you can try.
+1. Make sure to Run as administrator (right click the shortcut and click Run as administrator)
+2. Try loading the practice company file. If that doesn't work try the sample company file. Sometimes it works with one and not the other (random?)
+3. If trying that doesn't work, close the program and repeat steps 1 and 2 until it (magically) does what it is supposed to do."
+,DemonInfernos,2012-12-25T00:42Z,Can anyone please post license and product numbers for qb2013 CANADA versions. Will be greatly appreciated.
+,Mortal88,2012-12-25T04:30Z,Thank you Dechronic for the great job! I really appreciate you putting everything together. Merry Christmas and happy New Years!
+,hardwareman64,2012-12-25T05:51Z,"Has anyone been able to install the client version of pro multistore yet? I cracked it with the server version, but I am only able to install the basic version due to not having the right product code. Unless anyone else knows how to install the client version. There doesn't seem to be any upgrade for it on the client side.Thanks for the activator again dechronic and Beast_iND for his previous work and more to come!"
+,Mortal88,2012-12-26T02:07Z,"dechronic,
+
+Do you have a key for QB POS Pro 2013?
+
+Thank you!
+
+"
+,Mortal88,2012-12-26T03:37Z,"dechronic,
+
+Thank you again for the instructions.
+I was able to upgrade"
+,dsteelspecialist,2012-12-26T05:12Z,"thanks dechronic, beast et al. its working for me. and i have 300 multi-users"
+,hardwareman64,2012-12-26T18:44Z,"@dsteelspecialist
+
+Are you just using the basic version on the client machines or did you come up with a pro key?"
+,ashrafkln,2012-12-26T21:51Z,seeding... unlimited time 
+,babeesgurl,2012-12-27T02:25Z,I have downloaded QB 13 enterprise and tried ALL of the license numbers and product codes and cannot get past the install because it is asking for the correct product codes and license numbers. PLEASE HELP!
+,love404,2012-12-27T02:28Z,Anyone know product code for UK version of QB Enterprise v13 or UK Premiere version 2013? Thank you!
+,urfinished,2012-12-27T18:32Z,"Quickbooks Enterprise 2013 UK Key
+5108-5360-0832-409 (114-886)
+using full version https://thepiratebay.se/torrent/7649229/QuickBooks_Enterprise_13
+
+Note: I been trying some cracking/workaround techniques
+not sure it works for all
+Please comment, so that I can explain the workaround steps"
+,hardwareman64,2012-12-27T20:44Z,"I finally found a POS product key for Pro (Not multistore) 023-147 
+It only took me 8 hours.
+
+If you have the multistore version as the server using wakbokaya's keys, it will automatically upgrade the clients to multistore with the key I provided."
+,ganie1608,2012-12-27T20:56Z,"@urfinished
+
+Thanks for the product code, but it is for the trial version. Do you have the code for Enterprise and Premier 2013 (not trial). Much appreciated."
+,ganie1608,2012-12-27T21:04Z,"@urfinished
+
+Please explain the workaround steps for qb2013 uk."
+,jawaidali,2012-12-28T10:14Z,US cracker no working on UK QB2013. plz find out UK Cracker....
+,XIchaosIX,2012-12-28T14:03Z,"Any update on quickbooks enterprise 2013 US edition? 
+
+Any help would greatly be appreciated!
+"
+,MrMan99,2012-12-28T17:28Z,"@dechronic I know this is a long shot, but can you use Credit card processing with Quickbooks POS?"
+,wakbokaya,2012-12-28T21:49Z,"@MrMan99
+I don't think it's save to use credit card processing on a cracked software.
+You should use your bank merchant services."
+,MrGenius1,2012-12-29T03:23Z,"@MrMann99
+
+You can use credit card processing. I currently have been for 4 years. No problems"
+,dive8,2012-12-29T08:00Z,"@urfinished
+
+Activator works great on QBEntUK2013 using the trial key that you posted. Please advise workaround to get more than 60days."
+,dechronic,2012-12-29T13:05Z,"@babeesgurl
+Quickbooks Enterprise 13 US
+Product Number: 875 560  (5 users)
+P4ssw0rd had provided this code in the comments of this torrent http://thepiratebay.se/torrent/7649229. I have tested it at it works and it works with the activator as well."
+,dechronic,2012-12-29T14:32Z,"Please use the slightly newer version of the Quickbooks 2013 activator to prevent the unnecessary messages that appear at times. Sorry about that.
+http://thepiratebay.se/torrent/7969413"
+,dechronic,2012-12-30T03:50Z,"VERY TO SORRY EVERYONE ABOUT Quickbooks 2013 Activator v0.12 as I missed one bracket that ""broke"" it and that version does NOT work.
+
+Please use version 0.13 at http://thepiratebay.se/torrent/7970916
+Thanks to jzelaya for pointing this out to me."
+,ganie1608,2012-12-30T07:02Z,"Please share product code for QB2013 UK Enterprise. On 27/12/2012, you posted a request on PBay for this code as you did not have it. In your post to dechronic on 30/12/2012, you indicate that you have it. Please share it with PBay community or are you one of those who just wants (a leecher) and is not prepared to share."
+,love404,2012-12-30T07:20Z,"Hi jawaidali, what version (pro,premiere,enterprise) and edition (US,UK,CA) are you using to get Advanced Inventory working? I followed your instructions and they didn't work with Enterprise UK."
+,love404,2012-12-30T07:22Z,@ganie1608 I will post it shortly
+,love404,2012-12-30T07:24Z,"UK Enterprise product code with payroll and 30 user licenses:
+346-856
+
+Enjoy"
+,neorez,2012-12-30T07:45Z,"sorry but can you help me to activate advence inventory!
+can you unify one page, lot of comments we cn't get the right way to do it from beginning to end"
+,neorez,2012-12-30T07:58Z,"love404
+what is the serial for UK;
+what is the difference bettween UK and US version?"
+,dive8,2012-12-30T13:05Z,"@love404
+
+You rock!!! Thanks for the product code. It works perfectly with the activator. Is there anyone who has a crack for advanced inventory? In the cracked QB Ent US 2012 by cool release, they had a cracked features.dll file that enabled this feature."
+,dechronic,2012-12-30T14:43Z,"I am deleting the torrents for Quickbooks 2013 Activator v0.12 and v0.13 as they do not work.
+
+v0.14 below does work and will probably be the final release.
+http://thepiratebay.se/torrent/7971965"

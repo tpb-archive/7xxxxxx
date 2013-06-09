@@ -1,0 +1,56 @@
+----------------------------------------------------------------
+NATIVE INSTRUMENTS MASSIVE 1.3 (MAC) 
+----------------------------------------------------------------
+
+Big thanks to 5YNERGY for this one. This is version 1.3 of Massive, compatible with all .nsmv files!
+
+----------------------------------------------------------------
+IMPORTANT IF YOU'VE INSTALLED MASSIVE BEFORE: 
+----------------------------------------------------------------
+
+1) Delete all your previous Massive plugins before installing this program. You can find these at Macintosh HD/Library/Audio/Plug-Ins/Components, and USERNAME/Library/Audio/Plug-Ins/Components. 
+
+Remember that there are TWO libraries in OS X. One you can access by holding down the 'Alt' key in the 'Go' menu bar when you're in Finder. The other you access through your hard-drive. They look almost identical, but don't get confused. 
+
+----------------------------------------------------------------
+IF MASSIVE 1.3 WON'T OPEN .NSMV FILES: 
+----------------------------------------------------------------
+
+... then you're not running it in 64-bit mode. Make sure that your program (I use Logic 9) is set to open in 64-bit. Also remember that you can only detect the plugin when you're in 32-bit mode; then, you close Logic & re-open in 64-bit mode. 
+
+----------------------------------------------------------------
+IF MASSIVE 1.3 WON'T OPEN STAND-ALONE: 
+----------------------------------------------------------------
+
+You've done it wrong. Read the installation instructions again, which are in the .dmg file. 
+
+----------------------------------------------------------------
+INSTALLATION INSTRUCTIONS: 
+----------------------------------------------------------------
+
+1. Mount the .dmg file
+2. Install Massive_130_Mac from the .dmg
+3. Run the massive 1.3.0 AU patch
+4. run the Massive 1.3.0 VST fix 
+5. Run the 1.3.0 .DPM fix for ProTools
+
+Then, got to applications folder and launch BatCHmod and drag the massive.app from Applications/Native Instruments/Massive into the main window of BatCHmod or browse for it at the top of the window. once it comes up apply the following settings:-
+
+1 set the 'Owner' and 'group' drop down menus to show '-------------'
+2 make sure all the R, W, & X boxes have a tick not just a dash 
+3 click the boxes for 'Change ownership and privilages', 'Unlock', and 'Clear ACLs (10.5+)".
+4 do not click the box for Clear xattrs
+5 tick the box for apply to enclosed folders and files 
+6 click apply and put in your password
+ 
+DONE
+
+----------------------------------------------------------------
+IF THIS DOESN'T WORK:
+---------------------------------------------------------------- 
+
+You're doing it wrong. Read the instructions again. 
+
+Again, thank you to 5YNERGY. 
+
+-keysofanxiety

@@ -1,0 +1,77 @@
+Requirements: Android OS 2.1 +, Lucky Patcher, Google Play Store v3.10.9 Mod
+Overview: Powerful Music Player for Android. Poweramp is a powerful music player for Android.
+
+[break]
+Key Features:
+- plays mp3, mp4/m4a (including alac), ogg, wma*, flac, wav, ape, wv, tta, mpc, aiff (* some wma pro files may require NEON support)
+- 10 band optimized graphical equalizer for all supported formats, presets, custom presets
+- separate powerful Bass and Treble adjustment
+- stereo eXpansion, mono mixing, balance
+- crossfade
+- gapless
+- replay gain
+- plays songs from folders and from own library
+- dynamic queue
+- lyrics support, including lyrics search via musiXmatch plugin
+- embed and standalone .cue files support
+- support for m3u, m3u8, pls, wpl playlists
+- OpenGL based cover art animation
+- downloads missing album art
+- 4 configurable widget types
+- configurable lock screen with optional Direct Unlock
+- headset support, automatic Resume on headset and/or BT connection (can be disabled in settings)
+- scrobbling
+- tag editor
+- visual themes, including support for external/3rd party skins
+- fast library scan
+- high level of customization via settings
+
+New/updated localizations (some of them are in beta-test stage). Huge thanks to all crowdin.net translators!
+- Bulgarian (Dimitar Dimitrov, donjo, efgenni, vlado05, WizardBGR)
+- Chinese Simplified (Cye3s, 琳 曹)
+- Czech (Ghull, karanco, Jan Havlík, Michal, Dominik Matus, Inkvizition, jiri.havelka1, exabyte55242, kutead, Ondřej Šisle, and 29 others)
+- Danish (chreddy, John Hansen)
+- French (Fauque Benoit, Sceap, tictac, Rose, Frédéric Michel, Fr33lancer, Sebastien Grapain)
+- German (Vincent T., Saintscar, Stefan Druwe)
+- Hebrew (benjo24, elyashiv_sabach, עמרי עטייה, Yoel IL, Aviad Aviad, kavkatan, Yogev Haham, gadiheiman, ron razo)
+- Japanese ("sunatomo", kik0220)
+- Polish (Povilas Grebliunas)
+- Portuguese, Brazilian (Vinicius Camargo, Leandro Rodrigues de Sales, Eduardo Bertin, Rodrigo Damasceno)
+- Romanian (Andrei Sângeorzan)
+- Russian (Ka3u6y6a)
+- Spanish (maxelo, Jose Martin)
+- Swedish (Timmy Fox)
+- Slovak (Maťo, marttin, wupuchim, profile.trool)
+- Turkish (sonysinger, elmasevmem, rserdar, Oğuzcan)
+- Ukrainian (rapkonig, Ka3u6y6a)
+
+Method 1
+Tutorial:
+1.) Install Lucky Patcher
+2.) Run Lucky Patcher > Menu > Select 'Patch to Android'
+3.) Select √ 'Signature Verify always True' and 'Disable Zip Signature Verify' > Apply > Yes
+4.) After reboot go to 'Patch to Android' and check (Patch applied). If applied exit from Lucky patcher. otherwise do 3rd step again.
+5.) Backup current Google play with Titanium backup if you want to restore original version in case.
+6.) Install GoogleMarket.by.Chelpus.TrueLicenseMod.apk
+7.) Install PowerAMP and PowerAMP unlocker app, run PowerAMP!
+
+Method 2
+Tutorial: (Thanks to kaltorak)
+1.) Install PowerAMP v2.0.7.apk: [Don't Run] (Then go to Apps -> PowerAMP -> Click Force stop then click Clear data)
+2.) Install PowerAMP Unlocker.apk: [Don't Run] (You can Force stop/Clear data on Unlocker just in case)
+3.) Install Lucky Patcher [Don't Run]
+4.) Run PowerAMP v2.0.7 once (don't run the PowerAMP unlocker app, just run the actual PowerAMP v2.0.7 app one time - and you should see the "Thanks for purchasing Full version" popup window)
+5.) Exit PowerAMP
+6.) Go to Apps -> PowerAMP -> Click Force stop (Don't click Clear data this time)
+7.) Run Lucky Patcher and run the custom patch ( patch.by.sanx_com.maxmpz.audioplayer) on PowerAMP
+8.) Run PowerAMP v2.0.7 and it should work fine now. (You can check by going to Settings -> About - You shouldn't see that upsidedown orange triangle anywhere about the license being invalid)
+
+* If not full, please patch again and reboot.
+
+This app has no advertisements
+
+More Info:
+Code:
+ 
+https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer
+

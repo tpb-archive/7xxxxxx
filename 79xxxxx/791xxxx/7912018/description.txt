@@ -1,0 +1,79 @@
+Android Ice Cream Sandwich (ICS) 4.0.4 for Samsung GT-N7000 Galaxy Note
+instructions, tools and files
+
+don't wipe, repartitioning or hardreset on unsafe kernel http://forum.xda-developers.com/showthread.php?t=1633938
+
+==PC==
+install Note drivers
+	SAMSUNG_USB_Driver_for_Mobile_Phones.exe
+
+install (unpack) Odin flasher
+	Odin_v1.87.zip
+
+unpack firmware (SER N7000XXLRU is network locked but it's fixable)
+	Samsung-Updates.com-GT-N7000_SER_1_20121101112257_828wnvtwbn.zip
+
+start Odin, click on PDA button and select *.tar.md5 file from unpacked firmware
+
+==Note==
+switch off device, put in download mode (Vol down + Home + Power, Vol up)
+
+connect it to the PC
+
+ID com port should turn yellow in Odin window
+
+now simply press Start button in Odin window
+
+wait
+
+as soon as Odin finished the process, ID:COM section will turn Green & will show Pass in the box above ID:COM section
+
+disconnect your Note from PC
+
+reboot Note
+
+if you see "enter network lock control key" press dismiss, unlock instructions follows
+
+==Safe kernel + root==
+put the xxx-signed.zip file on your external sd card
+	PhilZ-cwm6-XXLRU-VDI-3.71-signed.zip
+
+power off, boot into stock recovery (volume up+home+power)
+
+select "apply update from external storage" - Vol up/down move cursor, power to pick
+
+now select the xxx-signed.zip file you copied in previous step
+
+select reboot from recovery menu
+
+==Unlock and tune==
+install from GPlay: busybox by stephen (stericson) and Ktool and Galaxy_S Unlock by Helroz
+	BusyBox.apk
+	kTool.apk
+	TriangleAway-v1.50.apk
+
+backup EFS folder with Ktool
+
+put Criskelo Rom Fix on your external sd card
+	CriskeloRom-Fix-Network-Lock-InstallCWM.zip
+
+boot in CWM, install fix (turn off, vol up+home+power, select apply update from ext.storage and so on...)
+
+reboot
+
+turn off device, get out SIM card, turn on, connect to Internet
+
+run Galaxy_S Unlock, make backup - step 1, apply patch - step 2
+
+turn off device, insert SIM card, turn on, check cell net
+
+if all OK, make step 3 in Galaxy_S Unlock app, if not - try unlock more thoroughly or restore from backup and flash another firmware
+
+
+by courtesy of forum.xda-developers.com
+ 
+http://forum.xda-developers.com/showthread.php?t=1633938 
+http://forum.xda-developers.com/showthread.php?t=1424997 
+http://forum.xda-developers.com/showthread.php?t=1329360 
+http://forum.xda-developers.com/showthread.php?t=1841468 
+http://forum.xda-developers.com/showthread.php?t=1808629

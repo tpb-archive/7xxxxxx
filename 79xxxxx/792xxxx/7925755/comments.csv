@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,trace535,2012-12-15T22:42Z,"Congrats on the green skull, you have the niche of the insufficient (768 kbps) and the overkill (1536 kbps), while the real green skulls give us the correct compromise of ~1024 kbps xvid.
+
+Yes, you totally know what you are doing..."
+[V],MP4SUX,2012-12-16T13:30Z,"trace535:
+
+Never had an actual nemesis before - welcome back.
+
+The 1536Kbps was for something I considered truly special.
+My QI posts (not my rips) are all 1500+ bit rates, so it's more standard than you'd think. Yesterday's XL is nowhere to be seen yet, but it apparently did broadcast.
+
+You should read my ""general mission statement"" at the end of the description for:
+The.Daily.Show.2012.12.12.Cory.Booker.PROPER.XVID-AVIGUY.avi
+
+However, all that aside - you asked one very pertinent question:
+Why the odd frame rates?
+
+Did some testing and actually looking and found out where the problem lies:
+MKV encoding ADDS frames. Not many, but enough to add up.
+From 1 frame every 6 video minutes to as many as 6 frames every 6 video minutes.
+This throws sync out from 300ms near the end of the video to a full two seconds.
+
+AVC (AnyVideoConverter) does this
+MeGui does this.
+HandBrake does this
+If you can think of another MKV converter, I'd like to try as much as I can.
+It doesn't even have to encode to AVI (HandBrake does not).
+
+My XIII.2 encodes don't suffer from this problem because I changed container to AVI and then encoded with VirtualDub and the source / encoding have exactly the same number of frames. In fact, I re-downloaded the XIII ep 213 from scratch and used it for this test. Originally 64991, AVC produces 64999, the other two both 65001.
+
+Not all videos do this. My recent WEB-DL of Whitney did not.
+
+Also, my curiosity still abounds over why you spend time in a place that will never offer what you want.
+
+AVIGUY"

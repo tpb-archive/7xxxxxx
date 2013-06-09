@@ -1,0 +1,25 @@
+720x480 (480p), original DVD dual audio (English+Japanese AC3 passthrough), original bitmap subtitles from DVD and SRT subtitles.
+
+Kanon is a harem anime produced by Kyoto Animation in 2006, based on an adult visual novel from Key.
+
+Publisher description: Can the future exist without a past? Yuichi hasnΓÇÖt seen his cousin Nayuki in years. Now that heΓÇÖs back, all knowledge of ever visiting has vanished. He tries to adjust to the vaguely familiar surroundings, but the gaps in his memory haunt him as time grows short. The pieces of the puzzle have appeared ΓÇô an eerily silent beauty with blazing tresses, the mysterious girl with the winged backpack, and the sword-wielding demon slayer ΓÇô but itΓÇÖs up to Yuichi to discover how they fit together.
+
+Summary: These episodes and subtitles are ripped from the FUNimation Kanon Complete Collection. It comes on four DVDs and includes all episodes, 1-24, at 720x480 resolution. As of 2012 it can be purchased for about $20-30 USD from a number of sellers:
+ 
+http://www.amazon.com/Kanon-The-Complete-Series/dp/B001R10BD2
+
+If you enjoy this series as much as I do, please purchase the collection and help support the creators.
+
+Each episode includes four subtitle tracks. These are:
+
+1. English (forced): Intended to be used with the English dub, only subtitles Japanese text and lyrics. Lyrics subtitles alternate between English and Japanese (romaji) in each episode.
+
+2. English: Intended to be used with the Japanese audio, translates all dialogue. Includes translation of onscreen text, lyrics, and some culture notes.
+
+3. SRT version of (1). Many players like VLC and Media Player Classic will render SRT subtitles at much higher resolution, so they will appear much sharper and easier to read. On the downside, SRT subtitles can only render at the bottom, not both the top and bottom. This is the default subtitle channel.
+
+4. SRT version of (2).
+
+In some episodes subtitles (1) and (2) are reversed.
+
+Encoding: Encoded from original DVDs using Handbrake at H.264 Constant Quality RF:19, the maximum recommended quality for DVDs. Audio is original AC3 audio from DVDs (passthrough). All other settings were set to achieve the maximum possible compression (b-adapt=2:rc-lookahead=50:bframes=5:ref=6:direct=auto:subq=10:analyse=all:me=tesa:trellis=2). Episodes differ in size based on how compressible they are. SRT files were produced using a combination of SubRip, Jubler, custom tools, and manual editing.

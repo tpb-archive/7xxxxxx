@@ -1,0 +1,57 @@
+﻿User Type,Username,Date,Text
+,CosminRadulescu,2012-12-25T11:00Z,Merry Christmas everyone!!!
+,airbusflyer,2012-12-25T12:07Z,Thanks for the upload and Merry Christmas to everyone :)
+,Radeanus,2012-12-25T12:16Z,"La multi ani Caine turbat!
+
+Mie imi buleste datele de ruta... habar n-am de ce :("
+,airbusflyer,2012-12-25T16:48Z,"Someone knows how to get the 1226 working with JeppFD v2 and iOS 6.0.1 iPad 1? I tried several tipps but I only got the charts working.
+When checking the map no datas are displayed but everything is checked etc.
+
+Thanks
+PS: JeppTC is working very fine :)"
+,avcalva,2012-12-25T22:13Z,"
+airbusflyer... I had the same problem.... it can be solve if you follow this upload by V1rotateV2. It really works
+HEY GUYS! Finally I've been able to make run 1225 FULLY, VFR-enabled, under IOS 6.0.1 and app v2.0, using Diskaid v5.42!
+
+- Erase JEPP FD application and download it from APPLE store.
+- Open it once, without having updated anything.
+- Close it completely (with X)
+- Copy only TermCharts from 1225.
+- Erase Enroute Charts (whatever you find in Documents)
+- Copy Enroute Charts from 1213.
+- Copy OVER PREVIOUS FOLDER, Enroute Charts from 1225.
+- If you want to enable VFR Terminal Charts, create your own airportlist.bin file (need jepp.exe application and JeppView for Windows)
+- Overwrite the older airportlist.bin with newer one in TermCharts
+- Copy FROM ""C:ProgramDataJeppesenCommonTerminalCharts"" TO your IPAD folder ""JeppFDDocumentsdataTermCharts""
+theese files: vfrcharts.bin, vfrchrts.dbf, vfrntms.dbf and vfrntms.dbt.
+
+* Note 1: vfrcharts.bin must be writen in LOWERCASE letters, NOT IN CAPITALS.
+* Note 2: Google to find jepp.exe application and it's manual.
+
+Voila! FULL JeppFD ;-)"
+,precursor1188,2012-12-26T10:45Z,Happy New Year to all.
+,AN-124,2012-12-27T13:42Z,thankssssss                                                         Merry Christmas everyone!!! 
+,glounk,2012-12-28T11:24Z,"thanx for the work,
+i would like the Windows PC version!!
+tnank you again."
+,elrubio41,2012-12-28T16:39Z,"hello. To solve the problem with ""chart library problem"", only we must to delete the file ""current_chart.tcl"" into termchart folder. That's all. Jeppfd automatically writte the new file according our jeppfd installation.
+
+Thanks very much for this new cycle.
+
+Merry christmas and a happy new year from spain!!"
+,elrubio41,2012-12-28T16:40Z,"hello. To solve the problem with ""chart library problem"", only we must to delete the file ""current_chart.tcl"" into termchart folder. That's all. Jeppfd automatically writte the new file according our jeppfd installation, and fully working.
+
+Thanks very much for this new cycle.
+
+Merry christmas and a happy new year from spain!!"
+,V1RotateV2,2012-12-29T01:51Z,"Please, post JV1226 for PC!!"
+,strikon,2012-12-30T23:01Z,Thanks avcalva. Works great
+,dementie,2012-12-31T11:19Z,"Thanks.
+Happy New Year to all. ..............."
+,mateoqv95,2013-01-02T21:57Z,Can somebody help me! i don't know how to move the files to my ipad :S i hope u can help me
+,V1RotateV2,2013-01-04T00:43Z,Download DiskAid from the inet :-)
+,kmik3nn,2013-01-04T18:04Z,No more vfr charts?
+,glounk,2013-01-05T12:53Z,"hello
+Any news about cycle 1301 for Windows PCs ???
+thank you folks ;-)  ."
+,goonre,2013-01-06T07:52Z,so i followed the instructions for the 1225 install and still no enr charts. one thing i noticed is that on the initial installation there is no enr folder in data is that normal?

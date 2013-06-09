@@ -1,0 +1,49 @@
+SAME AS NOVEMBER'S EPISODE !!!
+
+-------------------------------------------------------------------------------
+
+Encoding as 48 kHz stereo MPEG-1 Layer III (4.8x) 320 kbps qval=0
+
+misc:
+
+        scaling: 1
+        ch0 (left) scaling: 1
+        ch1 (right) scaling: 1
+        huffman search: best (outside loop)
+        experimental Y=0
+        ...
+
+stream format:
+
+        MPEG-1 Layer 3
+        2 channel - stereo
+        padding: off
+        constant bitrate - CBR
+        ...
+
+psychoacoustic:
+
+        using short blocks: channel coupled
+        subblock gain: 1
+        adjust masking: -10 dB
+        adjust masking short: -11 dB
+        quantization comparison: 9
+         ^ comparison short blocks: 9
+        noise shaping: 1
+         ^ amplification: 2
+         ^ stopping: 1
+        ATH: using
+         ^ type: 4
+         ^ shape: 0 (only for type 4)
+         ^ level adjustement: -12 dB
+         ^ adjust type: 3
+         ^ adjust sensitivity power: 1.000000
+        experimental psy tunings by Naoki Shibata
+           adjust masking bass=-0.5 dB, alto=-0.25 dB, treble=-0.025 dB, sfb21=0.5 dB
+        using temporal masking effect: yes
+        interchannel masking ratio: 0
+        ...
+-------------------------------------------------------------------------------
+   kbps        LR  %     long switch short %
+  320.0      100.0        92.3   4.4   3.3
+-------------------------------------------------------------------------------

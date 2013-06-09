@@ -1,0 +1,31 @@
+ http://www.adiirc.com/index.php
+
+A small, fast application designed to be a powerful IRC client
+
+AdiRC is a handy and useful application designed to help you easily connect to a channel / server and start chating with your friends. AdiRC is a small and fast application designed to be a powerful IRC client.
+
+AdiIRC stores all its settings in text files, this way you can grab the adiirc folder and put in on a usb device or external harddrive. Take all your settings and servers with you everywhere!
+
+Here are some key features of "AdiIRC":
+
+┬╖ Written in C# to be flexible and to implement neat features fast
+┬╖ Threaded multiserver support
+┬╖ Full DCC Send/Get support
+┬╖ Sysinfo, like cpu,gfx,hd,mem,uptime etc
+┬╖ Winamp support, play,pause,stop,next,prev,playlist search buttons and commands
+┬╖ Fullscreen and opacity options
+┬╖ Rawlog output window
+┬╖ Channels/private windows logging
+┬╖ Customizable colors (inc mIRC colors)
+┬╖ Runs on all versions of Windows and out of the box in Windows Vista
+┬╖ Basic Identd features
+┬╖ Clean but customizable User Interface
+┬╖ Does not need an installer, everything stored in textfiles
+┬╖ Can update itself
+┬╖ Transparent background images
+┬╖ Away system
+┬╖ Channel text search panel (ctrl + f)
+
+Requirements:
+
+┬╖ Microsoft .NET 2.0

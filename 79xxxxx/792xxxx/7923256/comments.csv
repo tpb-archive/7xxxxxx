@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-14T21:04Z,Forgot to change the source file info.  I used the MSDN: en_windows_8_pro_n_vl_x64_dvd_918677.iso
+[T],murphy78,2012-12-14T21:07Z,Forgot to change the source file info. I used the MSDN: en_windows_8_pro_n_vl_x86_dvd_918877.iso
+[T],murphy78,2012-12-14T21:07Z,wrong torrent. meant that comment for the x86
+[T],murphy78,2012-12-14T21:17Z,"I've included info for a kms server, but WHEN it gets blocked, you need to search for another online KMS server.  If the key gets blocked, it has just hit it's limit for the month.  You can either try a different Win8 like pro N, enterprise, or enterprise N.  There are 4 volume versions you can use with different keys and everyone that uses a Volume version activates with the same keys using a KMS server.
+
+Don't give me any false positive crap about virus file in the tokens manager. It backs up and overwrites the data.dat and tokens.dat system files, that's it.  There is nothing infected about it."
+[T],murphy78,2012-12-14T21:56Z,"One of these days I'll get my description right on my win8 torrents.  Anyhow, I took down the pre-activated torrent because it wouldn't work for everyone and it could potentially cause problems trying to install other kms products that use the data.dat and tokens.dat files like office2013 etc. I don't expect anyone who is using the files will have any problems because I used the data.dat and tokens.dat from a legit activation of mine.  The recent blocking of the free wmc method leaves me with the impression that I shouldn't mess with them to prevent future kb files from possibly causing problems with activation.
+
+I also forgot to mention that the kb files in this torrent will bring you up to current with the dec 11 2012 hotfixes available for d/l in windows update."
+,OnionRex,2012-12-15T01:27Z,"Murphy thanks for fixing this man!
+
+You should know that you can do KMS offline; this is great in case more online KMS servers go down.
+
+This KMS nano torrent has a micro kms server/emulator that activates Windows products (Vista, 7, 8, Office '10, Office '13) with KMS. It's pretty cool, you should check it out!
+
+http://thepiratebay.se/torrent/7885531/KMSnano_AIO_Final_Version_by_heldigard"
+[T],murphy78,2012-12-15T10:45Z,"If that's true then that's what we've been waiting for.  The only issue now would be what MS does about it. I'm really big on having all the kb files in my stuff, but with kms activation lasting 180 days, they could potentially introduce an activation crawler like they did at first with the kb971033 from win7.
+
+Either way it's really exciting that they're actually making progress on that.  Someone must have leaked the kms data from a server.
+
+It's important to mention that if anyone is planning on messing with that stuff that you back up any important data in case something unanticipated goes wrong.  Especially if you try and use that KJ activator to convert a kms activation to permanent.  I wouldn't recommend doing it unless you are simply curious and have nothing to lose.  MS could make a kb file at any time to fix any irregularities in your data.dat and tokens.dat.  They could also potentially fubar your system if they notice stuff like that."
+,OnionRex,2012-12-15T17:10Z,"The cool part is instead of using a hosted KMS server like:
+
+win8kms4_mooo_com or jbiz1.no-ip.org 
+
+it will use:
+
+127.0.0.1:1688 
+
+as the location of the KMS server. (Which I'm sure you know people like to call ""There's no place like HOME"") You could unplug your Ethernet because the activation is offline, I love it!"
+,Acezedge,2012-12-15T19:27Z,"I'm downloading it right now, then I'll check how well it works compared to the last one. Thanks again for these Win 8 isos murph! "
+[T],murphy78,2012-12-16T07:11Z,Yah onion I'ma put up the latest version any sec. Thanks for the tipoff. That kms activator is amazing. I tried it on all the windows 8 volume versions. Works perfectly.
+[T],murphy78,2012-12-16T08:27Z,"There is a pack of kb files that didn't show up on windows update for a kb file for pro.  I believe it was just a short-term error on MS's part that will be fixed soon.  If it bugs you, you can try my AIO VL releases or wait till January patch day.
+
+I'm fairly certain it is an oversight because MS had them on windows update until patch day. I figured they might have been made obsolete by a newer kb file, but they weren't. I've searched around a bit and they still show up on other windows 8 versions."
+,Acezedge,2012-12-16T23:21Z,"I installed it fine this morning, though the installation process was a bit odd compared to the others, with longer preparation times and the random update. It and  the nano 9 KMS installed great overall, but I think I'm gonna wait till the January patch for a next one to try. "
+[T],murphy78,2012-12-17T14:47Z,I upped a newer one with the missing kb files that actually did use 915440 as the source for those that want to play with my new wmc fix. Click my name and look for the dec17 one if you wanna try it.

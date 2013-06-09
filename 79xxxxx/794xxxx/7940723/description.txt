@@ -1,0 +1,22 @@
+Nmap 6: Network exploration and security auditing Cookbook
+
+
+Publication Date: November 23, 2012
+
+In Detail
+
+Nmap is a well known security tool used by penetration testers and system administrators. The Nmap Scripting Engine (NSE) has added the possibility to perform additional tasks using the collected host information. Tasks like advanced fingerprinting and service discovery, information gathering, and detection of security vulnerabilities.
+
+Nmap 6: Network exploration and security auditing cookbook will help you master Nmap and its scripting engine. You will learn how to use this tool to do a wide variety of practical tasks for pentesting and network monitoring. Finally, after harvesting the power of NSE, you will also learn how to write your own NSE scripts.
+
+Nmap 6: Network exploration and security auditing cookbook is a book full of practical knowledge for every security consultant, administrator or enthusiast looking to master Nmap. The book overviews the most important port scanning and host discovery techniques supported by Nmap. You will learn how to detect mis-configurations in web, mail and database servers and also how to implement your own monitoring system.
+
+The book also covers tasks for reporting, scanning numerous hosts, vulnerability detection and exploitation, and its strongest aspect; information gathering.
+
+Approach:
+
+The book is a collection of easy to follow, practical recipes with explanations of the code, and links to further information.
+
+Who this book is for:
+
+This book is for any security consultant, administrator or enthusiast looking to learn how to use and master Nmap and the Nmap Scripting Engine.

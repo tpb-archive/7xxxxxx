@@ -1,0 +1,12 @@
+Programming Ruby 1.9: The Pragmatic Programmers' Guide (Facets of Ruby)
+
+
+Publication Date: April 28, 2009 | Series: Facets of Ruby | Format: PDF
+
+Would you like to go from first idea to working code much, much faster? Do you currently spend more time satisfying the compiler instead of your clients or end users? Are you frustrated with demanding languages that seem to get in your way, instead of getting the work done? Are you using Rails, and want to dig deeper into the underlying Ruby language? If so, then we've got a language and book for you!
+
+Ruby 1.9 is the latest version of Ruby. It has many compelling features, including multinationalization support, new block scoping, and better performance. At the same time, the current Ruby 1.8 is still being maintained and is widely used. We're therefore releasing both the Ruby 1.9 version of the PickAxe (this book) alongside the 1.8 version of the PickAxe. Readers can choose the book that matches their environment.
+
+Ruby is a fully object-oriented language, much like the classic object-oriented language, Smalltalk. Like Smalltalk, it is dynamically typed (as opposed to Java or C++), but unlike Smalltalk, Ruby features the same conveniences found in modern scripting languages, making Ruby a favorite tool of intelligent, forward-thinking programmers and the basis for the Rails web framework.
+
+This is the reference manual for Ruby, including a description of all the standard library modules, a complete reference to all built-in classes and modules (including all the new and changed methods introduced by Ruby 1.9). It also includes all the new and changed syntax and semantics introduced since Ruby 1.8. Learn about the new parameter passing rules, local variable scoping in blocks, fibers, multinationalization, and the new block declaration syntax, among other exciting new features.

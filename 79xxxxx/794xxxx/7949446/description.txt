@@ -1,0 +1,65 @@
+Zygor Guides update v4.0.5595, released December 21st, 2012. (Horde and Alliance)
+
+
+Patch Notes (since last upload):
+
+
+Version: 4.0.5595
+Released on: December 21st, 2012
+[A] Achievements
+Fixed an issue that caused a guide to not parse.
+
+[B] Professions - Fishing
+Fixed an error with the routing when beyond level 500
+
+[Quest Item Popup]
+Fixed an issue for not Auto Equip users that caused the popup to appear incorrectly.
+
+
+Version: 4.0.5593
+Released on: December 21st, 2012
+[A] Professions
+Fixed an error in the routing of the profession guides. Skill over level 500 should be available again.
+
+[H] Leveling
+Fixed some coordinates and instructions in Northern Barrens.
+
+[B] Archaeology
+Made minor changes, describing where they can farm. Also adjusted the level at which you train.
+
+[A] Dailies
+Added missing turn in steps to the August Celestials guides.
+
+[Travel]
+Fixed hearthstone locations for Aldor's Rise in Shat as well as the Horde Landing Site.
+The nightrider cats in Darkshore will now always connect correctly, as well as prompt the user to arrive. Similar to the Taxi system.
+
+
+Version: 4.0.5587
+Released on: December 21st, 2012
+[B] Achievements
+Fixed errors in the Limnologist and Oceanographer guides
+
+[H] Dailies/Reps
+Fixed issues in the Dominance Offensive guide
+
+[A] Leveling
+Fixed errors in the Outland guide
+
+[H] Pets/ Mounts
+Reworked the Battle Pet leveling guide.
+
+[A] Dailies/Reps
+Fixed a map parameter in the Operation:Shieldwall Dailies
+
+[A] Leveling
+Edited errors in the Outland Loremaster guides
+
+[H] Leveling
+Fixed a reported error in the Sholazar Basin guide
+
+[New Feature!]
+*Some quests require players to equip an item so that the quest can be completed. Previously we just had a step to instruct the use and removal of these items but now a popup should appear instructing the user to equip the appropriate item and then after the item is done being used, another popup will appear to equip your previous item.
+
+[Auto Equip]
+*Fixed an Issue with Frost Death Knights that handled 2h/2x1h incorrectly.

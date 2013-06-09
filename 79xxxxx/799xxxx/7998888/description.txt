@@ -1,0 +1,97 @@
+Marilyn Manson - Antichrist Superstar - Custom Remaster by MC Lurken (a.k.a. Beavis39)
+
+
+Cycle I: The Heirophant
+
+1 - Irresponsible Hate Anthem
+2 - The Beautiful People
+3 - Dried Up, Tied and Dead to the World
+4 - Tourniquet
+
+Cycle II: Inauguration of the Worm
+
+5 - Little Horn
+6 - Cryptorchid
+7 - Deformography
+8 - Wormboy
+9 - Mister Superstar
+10 - Angel with the Scabbed Wings
+11 - Kinderfeld
+
+Cycle III: Disintegrator Rising
+
+12 - Antichrist Superstar
+13 - 1996
+14 - Minute of Decay
+15 - The Reflecting God
+16 - Man That You Fear
+99 - Track 99
+
+
+Setup:
+-HP G72-250US
+-Intel Core i3 M350 2.27GHz
+-8Gb PC3-10700 RAM
+-Win7 64-bit SP1
+-SB X-Fi Surround 5.1
+
+
+Process:
+-16-bit/44.1kHz files from 1989 release joined in Wavelab 6
+-Remove DC offset and save as 64-bit float/44.1kHz
+-Resample to 384kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Create new 64-bit/384kHz master recording in Wavelab
+
+
+As reported in Wavelab:
+-Original 16-bit/44.1kHz: Apparent Bit Resolution = 16, Peak = 0db
+-With DC Offset Removed: Apparent Bit Resolution = 20, Peak = 0.008db
+-64-bit/384kHz Recording: Apparent Bit Resolution = 39, Peak = 0.614db
+
+
+-Resample new 64-bit/384kHz master recording to 64-bit/96kHz in Wavelab w/crystal resampler ultra(slow) relax background priority
+-Apply MBIT+ 24-bit Dither in Wavelab w/Izotope Ozone 5 VST Plugin
+-Flac encode level 0 with Trader's Little Helper
+-Tag and pic with xrecode II
+
+
+foobar2000 1.1.14a / Dynamic Range Meter 1.1.1
+log date: 2013-01-07 23:16:40
+
+--------------------------------------------------------------------------------
+Analyzed: ? / ?
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9      0.00 dB   -11.17 dB      4:18 ?-01 - Irresponsible Hate Anthem
+DR10     0.00 dB   -10.84 dB      3:39 ?-02 - The Beautiful People
+DR9      0.00 dB   -11.21 dB      4:16 ?-03 - Dried Up, Tied and Dead to the World
+DR7      0.00 dB    -9.11 dB      4:29 ?-04 - Tourniquet
+DR9      0.00 dB   -10.58 dB      2:43 ?-05 - Little Horn
+DR12    -0.39 dB   -14.45 dB      2:44 ?-06 - Cryptorchid
+DR8      0.00 dB   -10.10 dB      4:31 ?-07 - Deformography
+DR8      0.00 dB    -9.99 dB      3:56 ?-08 - Wormboy
+DR8      0.00 dB   -10.46 dB      5:04 ?-09 - Mister Superstar
+DR10     0.00 dB   -12.10 dB      3:52 ?-10 - Angel with the Scabbed Wings
+DR8      0.00 dB    -9.54 dB      4:52 ?-11 - Kinderfeld
+DR9      0.00 dB   -10.62 dB      5:14 ?-12 - Antichrist Superstar
+DR7      0.00 dB    -8.54 dB      4:01 ?-13 - 1996
+DR9     -0.01 dB   -12.26 dB      4:44 ?-14 - Minute of Decay
+DR7      0.00 dB    -9.13 dB      5:36 ?-15 - The Reflecting God
+DR8      0.00 dB   -11.06 dB      6:11 ?-16 - Man That You Fear
+DR14   -12.10 dB   -29.46 dB      1:39 ?-99 - Track 99
+--------------------------------------------------------------------------------
+
+Number of tracks:  17
+Official DR value: DR9
+
+Samplerate:        96000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           4608 kbps
+Codec:             PCM
+
+
+
+enjoy :)

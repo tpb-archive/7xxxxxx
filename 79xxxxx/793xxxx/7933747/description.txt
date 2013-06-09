@@ -1,0 +1,38 @@
+
+
+Release info:
+
+[code]Notepad + + software powerful text editor with support for programming languages ??and systems plug is professional. 
+language programming variety by this software are supported, which can be used as examples of languages ??C / C + + / Java / XML / HTML / PHP / CSS and named. 
+than the useful features of this software, you can print color codes if you have a color printer is. features software Notepad + +: - High Performance for working with large files. - Full Auto Expressions for most programming languages. - edit multiple documents simultaneously. - View 2 text simultaneously so that the video can view two different documents. - Support string search and replace words in a document. - Support Features full Drag & Drop: You can open a document using Darg & Drop or move it from one place to another.
+The version 6.2.3 contains some fixes and few new features/changed behaviours:
+
+Fix find "rn" bug in RegExpr mode.
+Change "Delete file" command to "Move to Recycle Bin".
+Add Remove empty lines feature.
+Change document default value from ANSI to UTF8 w/o BOM.
+Enable Word-completion under CJK environment for unicode document.
+
+Features
+Syntax Highlighting and Syntax Folding
+User Defined Syntax Highlighting and Folding: screenshot 1, screenshot 2, screenshot 3 and screenshot 4
+PCRE (Perl Compatible Regular Expression) Search/Replace
+GUI entirely customizable: minimalist, tab with close button, multi-line tab, vertical tab and vertical document list
+Document Map
+Auto-completion: Word completion, Function completion and  Function parameters hint
+Multi-Document (Tab interface)
+Multi-View
+WYSIWYG (Printing)
+Zoom in and zoom out
+Multi-Language environment supported
+Bookmark
+Macro recording and playback
+Launch with different arguments
+
+Install:
+
+No installation needed.
+just run notepad++.exe as admin.
+
+ 
+http://notepad-plus-plus.org/assets/images/screenshot4.png

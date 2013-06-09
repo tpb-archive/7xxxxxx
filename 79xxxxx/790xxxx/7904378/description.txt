@@ -1,0 +1,80 @@
+Genre: Trance | Progressive
+
+T/L:
+
+01.Festen - Give It To Them
+02.Digitalism - Zdarlight (Thomas Gold rework / Markus Schulz big room reconstruction)
+03.Jerome Isma-Ae - Speed
+04.Arnej - The Second Coming
+05.Marcel Woods vs W&W - Trigger
+06.Aerofoil vs. E&G - One Word (Markus Schulz Big Room reconstruction)
+07.Rank 1 vs Jochen Miller - Instead Of The Gr8 Escape (Markus Schulz mashup)
+08.Fisherman & Hawkins - Apache
+09.Ummet Ozcan - The Box (Markus Schulz big room reconstruction)
+10.Markus Schulz & Ferry Corsten - Loops & Tings
+11.Khomha - Dusk Riddles
+12.Markus Schulz & Elevation - Finish Line
+13.Ferry Corsten & Markus Schulz - Stella
+14.Cosmic Gate - Fire Wire (Cosmic Gate's Back 2 The Future dub)
+15.Skytech - Out Of Nowhere
+16.Khomha - The Dark Knight
+17.Stoneface & Terminal - Venus (Markus Schulz big room reconstruction)
+18.Markus Schulz - Digital Madness
+19.Markus Schulz feat. Ana Diaz - Nothing Without Me (Beat Service remix)
+20.Der Dritte Raum - Hale Bopp (Sultan & Tonedepth Revival Remix / Markus Schulz big room reconstruction)
+21.Markus Schulz feat. Fiora - Deep In The Night
+22.Khomha - Genesis
+23.Markus Schulz feat. Justine Suissa - Perception (Rafael Frost remix)
+24.Paul Van Dyk vs. Rex Mundi & Susana - For An Angel At All (Markus Schulz mashup)
+
+Encodings:
+
+Encoding as 48 kHz stereo MPEG-1 Layer III (12x) 128 kbps qval=0
+
+misc:
+
+        scaling: 0.95
+        ch0 (left) scaling: 1
+        ch1 (right) scaling: 1
+        huffman search: best (outside loop)
+        experimental Y=0
+        ...
+
+stream format:
+
+        MPEG-1 Layer 3
+        2 channel - stereo
+        padding: off
+        constant bitrate - CBR
+        ...
+
+psychoacoustic:
+
+        using short blocks: channel coupled
+        subblock gain: 1
+        adjust masking: 0 dB
+        adjust masking short: 0 dB
+        quantization comparison: 9
+         ^ comparison short blocks: 9
+        noise shaping: 2
+         ^ amplification: 2
+         ^ stopping: 1
+        ATH: using
+         ^ type: 4
+         ^ shape: 4 (only for type 4)
+         ^ level adjustement: -3 dB
+         ^ adjust type: 3
+         ^ adjust sensitivity power: 1.000000
+        experimental psy tunings by Naoki Shibata
+           adjust masking bass=-0.5 dB, alto=-0.25 dB, treble=-0.025 dB, sfb21=0.5 dB
+        using temporal masking effect: yes
+        interchannel masking ratio: 0.0002
+        ...
+-------------------------------------------------------------------------------
+   kbps        LR  %     long switch short %
+  128.0      100.0        96.4   2.1   1.5
+-------------------------------------------------------------------------------
+
+Enjoy !
+
+nesmeured

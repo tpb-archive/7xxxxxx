@@ -1,0 +1,90 @@
+﻿User Type,Username,Date,Text
+,Mivoo,2013-01-07T16:04Z,"2.Windows 8 Enterprise & Professional Emulators
+
+The emulators for activating Windows 8 RTM (Professional and Enterprise) are here!
+
+These scripts were made by the russian WZOR team.this included 2 scripts for activating Enterprise edition (just in case that the first script doesent work) and 1 script for Professional edition and they'll activate you OS for 180 days.
+
+This way works on both x86 and x64 editions.
+
+install notes 
+
+For activating your OS just run one of the scripts As Administrator and restart!
+1. First, if you are running an enterprise evaluation from Microsoft, after installation you will see a 90-day watermark at the bottom right of the screen. There is no need to run the emulator only if the trial is left with round 10 days.
+2.Run the first emulator with elevated privileges(right click run with administrator.)This will be a quick process. Note: There is no need to disable or to turn off the internet connection.
+3.You are done! The trial shows a 90-day before the expiration date. 
+N.B. This is not an automated process by a program installed on the computer. You will need to run the scripts again once the trial expires. This emulator cannot be guaranteed of working after the non-evaluation Enterprise version is out. 
+*Note: If you get any errors by running one of the files just add the following line to your hosts file by using notepad 
+3.Windows 8 Final Enterprise x64 key
+Use the Keys Given In the Notepad When Asked
+4.Windows 8 KMS Activator v1 5
+
+Windows 8 KMS Activator v1 5
+
+Activates Windows 8 via KMS activation. Activation lasts for 180 days, after 180 days simply run the program again!
+
+Features:
+- Serial insertion
+- KMS Server Selection
+- KMS Activating
+- KMS Background activating (Constantly looks for and tries servers for activation)
+- Metro inspired UI
+- Language Pack Installing
+- Windows Rearm (Works on 7 as well)
+- Auto Server Updating
+Just open the EXE file (run it as administrator) and choose the option you want!
+
+5.windows 8 kms activators with working kms server
+
+-Windows 8 Manual KMS Activation ( Recommended)
+=====================================================================================
+IMPORTANT!! BEFORE PROCEEDING WITH THE ACTIVATION (do not skip this): 
+---------------------------------------------------------------------
+*IF YOU ALREADY TRIED TO ACTIVATE USING SOME KIND OF UNOFFICIAL/UNTRUSTED ACTIVATOR, FIRST UNINSTALL IT, THEN RUN ""sfc /scannow"" IN COMMAND PROMPT (as admin) TO FIX CORRUPTED/MODIFIED SYSTEM FILES.
+*MAKE SURE YOUR TIME ZONE IS CORRECT AND SYNCHRONIZE THE TIME WITH THE WINDOWS TIME SERVICE.
+*NOW YOU'RE GOOD TO GO! JUST FOLLOW THE INSTRUCTIONS BELOW...
+=====================================================================================
+
+INSTRUCTIONS :
+#1) Open CMD (as admin)
+#2) Run these commands -one line after the other- by replacing  and  with a KMS key/server from the links:
+
+slmgr.vbs -ipk 
+slmgr -skms 
+slmgr.vbs -ato
+
+-Windows 8 One-Click KMS Activation
+
+You have to run the programs based on your version given in the folder ""as Administrator"".
+6.windows 8 serial keys for online activation
+
+
+How to activate your Windows 8 
+
+1. Run cmd as admin. 
+2. Enter slmgr /ipk PF9TR-KNB98-T7JPF-TWF8W-F3G7C (Only for Enterprise and Pro)
+
+3. Turn off your internet connection
+
+4. Open activation window and click ""Activate"". It'll show your an error.
+
+5. After that you'll see ""Activate by phone"" button.
+
+6. Call to microsoft and enter code from message, which you will see.
+
+7. If they ask about number of computer, where you will use this key, say 1 
+*************************************
+asd-08 
+
+for use the VL key will require you to find a working KMS-server(non online at this point) and using the retail keys will require you to activate windows later using an OEM-loader if one becomes available.
+
+(seemes unlikely at this time given the improved security of the OEM activation process).
+
+
+
+For good measure here is the default keys allowing you to install this as both core and pro as well as retail and VL
+All these were uploaded"
+,tristanyork,2013-01-08T06:49Z,"Thanx uploader!
+...working for me:)"
+,milantr78pk,2013-01-09T06:24Z,"windows is activated,tnx"
+,xkevx,2013-01-10T06:32Z,Thanx a lot man !!!

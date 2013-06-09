@@ -1,0 +1,57 @@
+ValhallaVintageVerb v1.0.0
+
+
+
+
+
+
+
+ValhallaVintageVerb is a postmodern reverb plugin, inspired by the classic hardware digital reverbs of the 1970s and 1980s.
+Features
+8 true stereo reverb algorithms:
+
+   Concert Hall. Based on the hall algorithms of the late 1970s and early 1980s. Huge spatial image, echo density that can be adjusted from very sparse to very dense, and lush chorusing modulation.
+   Bright Hall. Similar to the Concert Hall algorithm, but with a brighter initial sound, and deeper and lusher modulation.
+   Plate. Inspired by early 1980s plate algorithms. Highly diffuse, bright initial sound, high echo density, lush chorused modulation.
+   Room. Emulates the sound of early 1980s room algorithms. Medium diffusion/early echo density, somewhat darker sound, chorused modulation.
+   Chamber. A transparent and dense algorithm. Highly diffuse, high echo density, less coloration than Plate/Room algorithms, chorused modulation.
+   Random Space. This generates DEEP and WIDE reverbs, with a slow attack, and more diffusion than the late 1980s algorithms that inspired it. The modulation uses internal delay randomization, to reduce metallic artifacts without the pitch change that can occur in the algorithms with chorused modulation.
+   Chorus Space. Same as Random Space, but with the delay randomization replaced with lush chorused modulation.
+   Ambience. Combines time varying randomized early reflections with a full-featured reverb tail, with the balance between early and late reverb controlled by the Attack knob. Useful for adding ΓÇ£airΓÇ¥ to drums, vocals, and any place where a reverb should be felt but not heard.
+
+3 color modes for dialing in the tone color and sonic artifacts of a specific reverb era:
+
+   1970s. Replicates the reduced bandwidth of the earliest digital reverberators (10 kHz maximum output frequency). Downsampled internally, to reproduce the artifacts of running at a lower sampling rate. The modulation is dark and noisy, and can produce strange and random sidebands with sustained notes. This is intentional.
+   1980s. Full bandwidth / sampling rate, for a brighter sound than the 1970s. The modulation is still dark and noisy, but will produce different artifacts than the 1970s mode as it is running at the full sampling rate.
+   NOW. Full bandwidth / sampling rate. The modulation is clean and colorless, versus the funky artifacts of the 1970s/1980s modes.
+
+The interface has been designed to be instantly accessible and user friendly:
+
+   Streamlined set of powerful parameters, organized into logical categories.
+   All controls on one panel. No menu diving required.
+   Tooltips at the bottom of the plugin window, that describe the currently selected reverb mode and color mode, as well as any parameters the user is adjusting. The goal is for the plugin to be self-documenting.
+   A powerful cross-platform preset menu, with the ability to copy and paste presets in a text format. Share presets via emails, forum posts, etc.
+   Continuously resizable ΓÇô just click on the lower right corner and drag to the desired size.
+   Modernist, minimalist 2D graphic design.
+
+
+
+
+Windows (VST32/VST64/RTAS)
+
+
+INSTALLATION
+
+ΓÇó Uninstall previous versions.
+
+ΓÇó You need WinRAR to extract the rar's files.
+
+ΓÇó Install
+
+
+         ΓÇó  That's it! Done.
+
+         ΓÇó  Supp0rt th3 D3v3lop3r if you liK3 it.
+
+
+                       3Nj0Y!!!

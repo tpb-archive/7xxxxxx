@@ -1,0 +1,40 @@
+HostMonitor
+
+HostMonitor is a highly scalable network monitoring software
+suitable for small and enterprise-level networks
+
+Probably you will say "There are dozens of programs like this"? That is right! But please check what HostMonitor offers and compare its power and flexibility to surprisingly low price:
+
+using 68 test methods our software can check almost any parameter of your servers;
+highly flexible action profiles allow you to start actions in predefined order depending on the test results;
+HostMonitor creates various log files using different detail levels and file formats (Text, HTML, DBF and ODBC);
+built-in Report Manager allows you to create and customize reports to your liking in a variety of ways;
+using Remote Monitoring Agents for Windows, FreeBSD, Linux, NetBSD, OpenBSD and Solaris you may easily monitor remote networks;
+Web Service, Telnet Service and Remote Control Console simplifies remote management;
+and this is not all...
+
+System Requirements:
+
+Minimum system requirements
+
+Windows XP Professional SP2, Windows Server 2003 SP2, Vista SP2, Windows Server 2008 SP2/R2 or Windows 7
+Internet Explorer 5.5 or higher
+Free disk space: from 22 MB (if you install HostMonitor only) to 39 MB (for all components)
+Minimum screen resolution: 800 x 600
+
+Recommended:
+
+Windows Server 2003 Service Pack 2
+Screen resolution: 1024 x 768 or higher
+Windows x64:
+
+HostMonitor is 32-bit application, however it can be used on Windows x64 Edition running on x86-64 (AMD64) systems (not on Itanuim/IA-64). E.g. you can start HostMonitor on Windows XP Professional x64 Edition or Windows Server 2003 x64 Edition.
+If you are using Windows x64 Edition and you want to setup ODBC Logging or ODBC test method, you should setup ODBC datasources using 32-bit ODBC Data Source Administrator (e.g. C:WINDOWSSysWOW64odbcad32.exe).
+
+Homepage: http://www.ks-soft.net/hostmon.eng/
+
+Installation Instructions:
+
+- Install Program.
+- Use given name and key to register application.
+- Done, Enjoy.

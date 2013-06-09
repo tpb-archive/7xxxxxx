@@ -1,0 +1,23 @@
+The following text is taken from readme.txt that is included in the torrent:
+
+----------------------------------------------------------------------------------
+
+This fix is going to address the "unknown network" problem that occurs when you install Hamachi v2.1.0.215 directly.
+
+1. Install the latest version of Hamachi (2.1.0.296) normally.
+
+2. After the installation configure all the Hamachi settings as you wish. Join all the networks you need and so on. You also need to disable the automatic updates from Hamachi System Properties.
+
+2. After the Hamachi settings are ok and you have verified that Hamachi is working normally, terminate hamachi-2.exe and hamachi-2-ui.exe from Windows Task Manager.
+
+3. Go to Hamachi installation directory (e.g. C:Program Files (x86)LogMeIn Hamachi). Replace hamachi-2.exe, hamachi-2-ui.exe and hamachi.lng with the included files. Those files are from the version 2.1.0.215 of Hamachi.
+
+4. Reboot your computer.
+
+Congratulations! Now you have a fully working network configuration for Hamachi v2.1.0.215 which is the last free server-friendly version of Hamachi. All the settings concerning Hamachi Network Interface in Windows Network and Sharing Center are working normally now. Hamachi VPN is not shown as "unknown network" anymore. The "server-friendly" means that you don't have to be "in touch" with your computer, or even logged in, to maintain Hamachi connection.
+
+P.S. Remember, you must not update the version 2.1.0.215 of Hamachi or you lose the server-friendly features!
+
+P.P.S. I recommend setting up Windows Homegroup Network before installing Hamachi to avoid any possible conflicts.
+
+Note: This fix has been tested with Windows 7 SP1 64-bit.

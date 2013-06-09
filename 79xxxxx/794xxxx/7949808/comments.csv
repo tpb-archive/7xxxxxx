@@ -1,0 +1,89 @@
+﻿User Type,Username,Date,Text
+,sami1953,2012-12-23T10:05Z,is it offline or online activator ???
+,LifeIsCode,2012-12-23T11:19Z,"@sami1953
+
+offline activator"
+,TunaHead,2012-12-23T14:35Z,"Any luck, anyone?"
+,kmi28,2012-12-23T14:52Z,Nice subject
+,edtbognot,2012-12-24T13:29Z,This one works very well
+,georgep1922,2012-12-24T14:07Z,"Excellent, just activated win8 pro wmc permanently! Thnx a lot!"
+,sabyasachi123,2012-12-25T19:11Z,Didn't work for me. I have Windows 8 Pro.
+,intelarmamd,2012-12-26T01:31Z,"
+
+Is this permanent activator, updates enabled?"
+,LifeIsCode,2012-12-26T19:08Z,"@ intelarmamd 
+
+You can update ! But if then you see having problems, then run again the activator !
+
+No problem !"
+,ADIDUTTA,2012-12-27T07:15Z,"I followed all the comments and opened with administrator, but then this blue screen cme and i waited for like 20 mins and it still was a blank blue screen. So i restarted my laptop and it resumes back into the un-activated windows 8 pro with media centre. Can anyone help??"
+,rezvanim,2012-12-27T10:32Z,"my antivirus complains about malware, didn't work for me"
+,pyamrepse,2012-12-27T23:59Z,Malware Win32/Somoto.A detected dont works for me.
+,ocwo92,2012-12-29T15:31Z,Infected with malware according to Clamscan.
+,herejasonnero,2012-12-30T17:20Z,avast scan bv malware
+,punksterhd,2013-01-02T17:27Z,"Tested, it works. All antivirus engines are going to detect it has an Mad-ware or like any security threat. Be sure to stop your antivirus engine or uninstall it. 
+
+
+This activator has been tested with full installation on different computers and Vmware virtual installations.
+
+Once again, yes, every activator is an mad-ware, obviously it is going to be an illegal stuff to activate the operating system."
+,dudes999,2013-01-07T20:44Z,malware
+,demessiah,2013-01-08T06:48Z,Not work for me. I got Win 8 enterprise 6 months activation will expire 5/11/2013 and did not change perma activation. will try in new install win 8 in vm and post comment again
+,demessiah,2013-01-08T08:51Z,Ok tested in VMware win 8 enterprise and it is working. perma actevated and personalazation is ok not tested yet in win pro but am sure this will work. For those who got a blue screen and do not auto restart dis able any other activation and your anti virus. if still not work make a clean install.
+,demessiah,2013-01-08T11:00Z,"ok got it working also in my machine that has only 6 months activation, win 8 enterprise. 
+for those who have problem with this and does not work just press control-alt-delete then
+click task manager. @ task manager click file open explorer to bring back your desktop 
+again in normal way. 
+to make this activator work your wind0ws 8 must have the following:
+1. BUILD 9200 ONLY!!! to check if it contains build 9200 open command prompt in admin 
+(just to make sure) copy and paste this 
+    reg QUERY ""HKLMSOFTWAREMicrosoftWindows NTCurrentVersion"" /v ""BuildLab""
+if the value has no 9200  then this will not work
+2. check your locaname if it contains one of the following: by pasting this one in 
+the command prompt
+   reg QUERY ""HKEY_CURRENT_USERControl PanelInternational"" /v ""LocaleName""
+ar-SA
+bg-BG
+cs-CZ
+da-DK
+de-DE
+el-GR
+en-GB
+en-US
+es-ES
+et-EE
+fi-FI
+fr-FR
+he-IL
+hr-HR
+hu-HU
+it-IT
+ja-JP
+ko-KR
+lv-LV
+nb-NO
+nl-NL
+pl-PL
+pt-BR
+pt-PT
+ro-RO
+ru-RU
+sk-SK
+sl-SI
+sv-SE
+th-TH
+tr-TR
+uk-UA
+zh-CN
+zh-HK
+zh-TW
+if your local name is not included in the aove list change it to us(en-US) by changing 
+the value in the registry or do it in control panel (region) click region and in format 
+tab change format ot English (United States) click apply and retype 
+reg QUERY ""HKEY_CURRENT_USERControl PanelInternational"" /v ""LocaleName""
+should now be en-US
+
+Thanks to the uploader LifeisCode!!!! 
+Scan by KIS its clean
+scan by malwarebytes clean
+you can see the script by extracting it twice and run and view install.cmd"

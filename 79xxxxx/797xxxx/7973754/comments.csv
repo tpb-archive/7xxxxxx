@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,TeamxSRK,2013-01-07T10:36Z,"For MS Outlook 2010 do the followings:
+For Windows 7, Windows Vista, Windows Server 2008 and Windows Server 2008 R2
+Click Start, and in the Search box type regedit, and then click regedit.exe in the search results.
+3. Locate, and then click the following subkey: 
+HKEY_CURRENT_USERSOFTWAREMicrosoftOfficeOutlookAddinsMicrosoft.OutlookBackup.1
+4. Click on Edit, and then New - DWORD Value.
+5. Rename the value to RequireShutdownNotification.
+6. Right click on RequireShutdownNotification and then click Modify.
+7. In the Edit DWORD Value dialog box, type 1 in the Value data box, and then click OK.
+8. Quit Registry Editor. Enjoy!!!!!!!!!!!!!!"

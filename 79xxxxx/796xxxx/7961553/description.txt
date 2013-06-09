@@ -1,0 +1,62 @@
+General
+Unique ID                      : 199396857416609370478664434405603276478 (0x9602701709CBA8919262A95DE37FF6BE)
+Complete name                  :Tom And Jerry Robin Hood And His Merry Mouse 2012 BluRay 720p English--Invisible-HSRG-HKRG.mkv
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 681 MiB
+Duration                       : 57mn 40s
+Overall bit rate               : 1 650 Kbps
+Movie name                     : Tom And Jerry Robin Hood And His Merry Mouse 2012 BluRay 720p English--Invisible-HSRG-HKRG
+Encoded date                   : UTC 2012-12-26 09:27:14
+Writing application            : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Muxing mode                    : Header stripping
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 57mn 40s
+Nominal bit rate               : 1 464 Kbps
+Width                          : 1 280 pixels
+Height                         : 704 pixels
+Display aspect ratio           : 16:9
+Original display aspect ratio  : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.068
+Title                          : Invisible-HSRG-HKRG
+Writing library                : x264 core 120
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=6 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=1464 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Color primaries                : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics       : BT.709-5, BT.1361
+Matrix coefficients            : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : A_AAC
+Duration                       : 57mn 40s
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Title                          : Invisible-HSRG-HKRG
+Language                       : English
+
+Text
+ID                             : 3
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Title                          : Invisible-HSRG-HKRG

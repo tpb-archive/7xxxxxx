@@ -1,0 +1,26 @@
+
+Source file(s):
+
+1595MB	OpusnBill.iso
+
+Ripper:
+
+HandBrakeCLI 0.9.8
+
+HandBrakeCLI options:
+
+--main-feature
+--x264-preset placebo
+--markers
+--encoder x264
+--two-pass
+--vb 800
+--aencoder vorbis
+--aq 4
+--loose-anamorphic
+--subtitle 1,2,3 .. etc
+
+MD5 sum(s):
+
+d94f02750e3916c285c45d9166c4452a *OpusnBill.iso
+3435d928ed700c956347de933c2fa90f *Opus n Bill - A Wish for Wings That Work.mkv

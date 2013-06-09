@@ -1,0 +1,9 @@
+install required kexts for your hackintosh
+includes chimera bootloader
+
+recommended: backup your extensions (/mach_kernel and /System/Library/Extensions ) before installing anything
+it sometimes causes kernel panics
+
+
+
+WARNING : DO NOT INSTALL ON REAL MAC !!!

@@ -1,0 +1,25 @@
+﻿User Type,Username,Date,Text
+,boral1,2012-12-25T05:12Z,Is this sid working for you ? Please comment.
+,ajuhack,2012-12-26T21:30Z,Perfectly Work ..
+,ajuhack,2012-12-26T21:32Z,Hey Any one have idea of SAS 9.3 TS1M2
+,boral1,2012-12-27T06:41Z,"ajuhack. It is good to know that this sid works for you. Thanks for commenting. Many people are so ungrateful that they did not even comment back.
+
+I haven't heard of SAS 9.3 TS1M2."
+,boral1,2012-12-27T07:06Z,If you want to download sas 9.3 64 bit program ( 8.804 GB ) with IDM read this post https://forum.suprbay.org/showthread.php?tid=138942&pid=829318#pid829318
+,ajuhack,2012-12-27T16:34Z,"Thank Boral1 .
+
+and from where you are "
+,ajuhack,2012-12-27T16:38Z,"well i think link is not working  
+please recheck .... "
+,boral1,2012-12-27T17:33Z,"@ajuhack, I have modified the link. Now check that. Actually when I was trying to post the link here, some kind of database error is shown."
+,ajuhack,2012-12-27T19:56Z,"Thanks buddy Link is also perfactly working ..  
+do you have idea of SAS Tutorials .."
+,boral1,2012-12-28T05:26Z,"@ajuhack
+I have around 30 ebooks and documentation on my computer. I also know a link where there are lots of sas ebooks . But the main problem is that my internet connection is very very slow. If you can arrange some volunteers who will seed these valuable tutorials and ebooks , then I am ready to share."
+,techJ,2013-01-06T00:14Z,"Hey this did not work for me.  I have SAS 9.2.  the SID I had expired Dec 2012.  I got the same message when I tried to renew with the Feb 2013 SID posted.
+
+An error occurred applying the setinit file. Please refer to the log file for additional information.
+
+C:Program FilesSASSASFoundation9.2(32-bit)setinit.log"
+,boral1,2013-01-06T06:41Z,"techJ 
+This sid is for sas 9.3 only. It will not work for sas 9.2 ( as far as I know ). Download sas 9.3 and then apply this sid. If your OS is of 32 bit and you want to use sas 9.3 , I advise you to use virtual box."

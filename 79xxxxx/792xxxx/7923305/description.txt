@@ -1,0 +1,128 @@
+Dati Tecnici
+
+[spoiler][ Info sul file ]
+Nome: Colpi.Di.Fulmine.2012.iTALiAN.720p.HDCAM.x264-REV.mkv
+Data: Wed, 14 Dec 2012 14:23:20 +0100
+Dimensione: 937,665,097 bytes (901.404757 MiB)
+
+[ Magic ]
+Tipo file: Matroska data
+
+[ Info generiche ]
+Durata: 01:31:03 (5463.48 s)
+Contenitore: matroska
+Production date: Tue, 11 Dec 2012 23:45:26 +0100
+Totale tracce: 2
+Traccia n. 1: video (V_MPEG4/ISO/AVC) {und}
+Traccia n. 2: audio (A_MPEG/L3) [Italian - MD REV] {ita}
+Muxing library: libebml v0.7.7 + libmatroska v0.8.1
+Writing application: mkvmerge v2.8.0 ('The Tree') built on May 9 2009 18:02:06
+
+[ Dati rilevanti ]
+Risoluzione: 1280 x 654
+Larghezza: multipla di 32
+Altezza: multipla di 2
+DRF medio: 30.916368
+Deviazione standard: 0.42936
+Media pesata dev. std.: 0.270606
+
+[ Traccia video ]
+Codec ID: V_MPEG4/ISO/AVC
+Risoluzione: 1280 x 654
+Frame aspect ratio: 640:327 = 1.957187
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 640:327 = 1.957187
+Framerate: 25 fps
+Dimensione stream: 853,744,562 bytes (814.194262 MiB)
+Durata: 01:31:03 (5463.44 s)
+Bitrate (bs): 1250.120162 kbps
+Qf: 0.059734
+
+[ Traccia audio ]
+Codec ID: A_MPEG/L3
+Freq. campionamento: 48000 Hz
+Canali: 2
+Dimensione stream: 87,415,680 bytes (83.366089 MiB)
+Tipo di bitstream (bs): MPEG-1 Layer III
+Encoder (bs): LAME3.99r
+Frames (bs): 227,645
+Durata: 01:31:03 (5463.48 s)
+Chunk-aligned (bs): Sì
+Bitrate (bs): 128 kbps CBR
+Freq. campionamento (bs): 48000 Hz
+Modo (bs): joint stereo
+Padding (bs): No
+Emphasis (bs): none
+
+[ Bitstream video ]
+Tipo di bitstream: MPEG-4 Part 10
+User data: x264 | core 125 r2200 999b753 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2012 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=3 | deblock=1:-1:-1 | analyse=0x3:0x113 | me=hex | subme=7
+User data: psy=1 | psy_rd=1.00:0.15 | mixed_ref=1 | me_range=16 | chroma_me=1
+User data: trellis=1 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-3 | threads=6 | lookahead_threads=1
+User data: sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=3 | b_pyramid=2
+User data: b_adapt=1 | b_bias=0 | direct=1 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=250 | keyint_min=25 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=40 | rc=2pass | mbtree=1 | bitrate=1250 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=0 | qpmax=69 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+Profile: High@L3.1
+Num ref frames: 4
+Aspect ratio: Square pixels
+Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+Tipo di codifica entropica: CABAC
+Weighted prediction: P slices - explicit weighted prediction
+Weighted bipred idc: B slices - implicit weighted prediction
+8x8dct: Sì
+Totale frames: 136,586
+Drop/delay frames: 0
+Frames corrotti: 0
+
+P-slices: 107553 ( 78.744 %) ################
+B-slices: 27199 ( 19.913 %) ####
+I-slices: 1834 ( 1.343 %)
+SP-slices: 0 ( 0.000 %)
+SI-slices: 0 ( 0.000 %)
+
+[ Analisi DRF ]
+DRF nedio: 30.916368
+deviazione standard: 0.42936
+max DRF: 37
+
+DRF<26: 0 ( 0.000 %)
+DRF=26: 9 ( 0.007 %)
+DRF=27: 32 ( 0.023 %)
+DRF=28: 1637 ( 1.199 %)
+DRF=29: 1230 ( 0.901 %)
+DRF=30: 4663 ( 3.414 %) #
+DRF=31: 128315 ( 93.944 %) ###################
+DRF=32: 649 ( 0.475 %)
+DRF=33: 36 ( 0.026 %)
+DRF=34: 7 ( 0.005 %)
+DRF=35: 2 ( 0.001 %)
+DRF=36: 2 ( 0.001 %)
+DRF=37: 4 ( 0.003 %)
+DRF>37: 0 ( 0.000 %)
+
+P-slices DRF medio: 30.955854
+P-slices deviazione std.: 0.271678
+P-slices max DRF: 37
+
+B-slices DRF medio: 30.952792
+B-slices deviazione std.: 0.260617
+B-slices max DRF: 32
+
+I-slices DRF medio: 28.060523
+I-slices deviazione std.: 0.355884
+I-slices max DRF: 30
+
+[ Conformità al profilo ]
+Profilo selezionato: MTK PAL 6000
+Risoluzione: 1280 x 654 > 720 x 576
+Framerate: Ok
+Min riempimento buffer: 79%

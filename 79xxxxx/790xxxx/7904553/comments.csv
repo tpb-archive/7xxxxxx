@@ -1,0 +1,108 @@
+﻿User Type,Username,Date,Text
+,hurukh,2012-12-09T17:59Z,"Hey thanks for uploading this.
+
+What are the minimum specs needed to run this game, do you know?"
+,ryballs,2012-12-10T01:36Z,Any mac with dedicated graphics (2009 onwards) should run this fine.. ATI will have a few graphics glitches even using the alternate wrapper but should still be playable.
+,ryballs,2012-12-10T03:16Z,Anyone with framerate issues check my comment @ porting team for a max performance settings file: http://portingteam.com/files/file/7568-xcom-enemy-unknown/page__st__60#comment_37607
+,BagoWheed,2012-12-12T00:10Z,"Thanks for the upload, but please seed! Im stuck at 94%"
+,peaceman150,2012-12-12T08:26Z,"Crashes at start up. help please?
+
+Macbook Pro OSX 10.6.8 2.3 GHz Intel Core i5"
+,ryballs,2012-12-12T08:55Z,"I'm guessing you have a macbook pro 13"" 2011? Intel shared graphics cards may not work well with this, this game is made for Nvidia/ATI dedicated graphics. I'd try using the performance settings file I mentioned earlier. If it just bounces then nothing try opening it a few times, wrappers are funny like that the first time they are being executed. What exactly happens when it crashes?"
+,bigramey52,2012-12-12T18:00Z,I have a Mid 2011 iMac 27 with a AMD Radeon HD graphics. I try to open game and it just sits in my dock and does not open or bounce. Any help? Thanks.
+,BagoWheed,2012-12-12T23:41Z,13 gig zip file unzips into a 44mb corrupted game file that wont open..
+,malthus0,2012-12-13T00:04Z,"Two questions:
+1) After i finishs moving the files as stated in the description, should i eliminate one of the XCom Enemy Unkown.app? Because i'm playing with the 350mb one, but there is the other of 14GB that i imagine i shouldn't delete.
+2) After the 2nd mission i have to go to engineering room and start manufacturing a vest. I click to do it, and the vest goes to the list of work, but the mission doesnÂ´t change. It still says to build a vest, so i can't advance any further.
+
+Thanks for the game and the help!"
+,hagehun,2012-12-13T01:37Z,"@malthus0
+
+1. The bigger wrapper is for NVIDIA users, the smaller is for ATI users. If you have ATI card copy the files to the smaller wrapper from the bigger as explained in the info and use that for better performance.
+
+2. That's the tutorial problem. Start a new game on a supported difficulty level (not the first two) and on the advanced tab deselect the tutorial (two options here, one is the ""ironman"", you need to deselect the other). That should help you out."
+,BagoWheed,2012-12-13T01:49Z,"the only folder i get when I unzip is for the ATI wrapper, but I have a Nvidia card. Anyone know what I should do?"
+,malthus0,2012-12-13T02:21Z,thanks a lot!
+,peaceman150,2012-12-13T02:44Z,@ryballs - the screen goes black and the cursor turns into an x.  then the game just crashes.  is there no fix for intel HD?
+,ryballs,2012-12-13T05:35Z,"Bagoweed: For NVIDIA cards just ignore the ATI folder and use the app as per instructions.
+
+Peaceman: Maybe try the ATI wrapper? The person who created the wrapper (not me) says if the NVIDIA one doesnt work on intel try the ATI."
+,ryballs,2012-12-13T05:38Z,"Also everyone TURN OFF VSYNC, for some reason it defaults to ON which of course slows down the game even further.."
+,ryballs,2012-12-13T05:46Z,I post replies on here and they don't show up.. :/
+,conir,2012-12-13T13:37Z,"is there any way to mod this release?
+would like to change the recovery-time back to normal... sucks to wait for 52days to get your troops back :)
+
+any idea how to do this?
+
+
+and thanks for the upload! works perfectly!"
+,hagehun,2012-12-13T14:36Z,"@conir
+
+You can download the basic game and install it inside the wrapper downloaded from http://portingteam.com
+Or you can use this wrapper, just make sure you delete the game files properly.
+Also there is a mod patcher for the game, so if you manage to run it under the wrapper, maybe you can delete the mod. Or do it under windows and send the files back to the wrapper."
+,conir,2012-12-13T18:41Z,"@hagehun
+
+hey, i downloaded the modpatch.exe and ran it with parallels inside the app folder - worked :)
+
+thanks everyone! still cant belive i am playing xcom on a mac :)"
+,BagoWheed,2012-12-13T18:42Z,"@ryballs I dont have the normal app when I unzip, only the ATI folder.. Going to try to re download"
+,FrankZappa17,2012-12-13T21:21Z,"This torrent works GREAT for me. I have:
+Imac mid-2010
+10.8.2
+2,66GHz Intel Core i5
+ATI Radeon HD 4850 512Mo
+
+Just a problem : I have a lot of graphic glitches in-game, and I don't know how to use the ATI wrapper you gave.. Is there a way to improve graphic performances by using it?"
+,FrankZappa17,2012-12-13T21:47Z,"Nevermind, I followed the instructions in the description.
+
+But now it doesn't open anymore. The game icon bounces for 2 minutes, then stops. Is there something to do with this?"
+,ryballs,2012-12-14T00:32Z,@Frank: are you running the app from the ATI folder?
+,FrankZappa17,2012-12-14T00:58Z,"@ryballs
+
+No, I moved it to the application folder.
+So I tried to play with the GeForce wrapper, and it is playable, the glitches only alter the immersion (missing soldier texture, luminosity fails). But if you have a solution for the ATI wrapper, i'll be glad to hear it
+Anyway thanks a lot for this torrent, this game is awesome!"
+,ryballs,2012-12-14T06:48Z,"@frank: Try going into the wrapper options (via show package contents, double click on wineskin), then go to advanced and make sure its pointed to the correct path i.e. program files/whatever/xcom/bin/xcom.exe (i forget the exact path but u get the idea lol) the other way is to redownload the ati wrapper from portingteam, download the flt iso, flt update and warspace mod and install them yourself via the ati wrapper. That will definitely work. The mod is a bitch to install via wrapper tho, you gotta install jre first then run .bat files from wrapper command line. Apparently without it not only is the game not as good, there a bug with psi shielding not working in flt release. Good luck!"
+,BagoWheed,2012-12-14T09:47Z,downloaded it again and it still wont unzip correctly. help?
+,ryballs,2012-12-14T12:50Z,bagoweed: I think you smoked too much weed.. puff puff PASS
+,FrankZappa17,2012-12-14T18:43Z,"@ryballs
+
+I tried again (the correct .exe was linked, so the problem didn't come from there), and actually, at the first launch (of the ATI wrapper), it takes five minutes to the computer to announce ""This app is provided by a non-knowed developer, do you want to open it?"", then five other minutes to open XCom. That's why it didn't work the first time I tried, because I didn't wait. So no more glitches! I finally discovered that my crew is composed by 4 blond YMCA kind of dudes :)
+The app is still a little bit unstable (random crashes in-game even with low graphics), but I can't reproach it to a crack.
+So thanks a lot!"
+,grandslammer,2012-12-14T20:42Z,"The app won't open for me. I open it, I get the dialogue asking me if I want to open the app, I click yes, and then the app just sits there in my dock and doesn't seem to do anything (yet it remains open).
+
+I've waited for over ten minutes and still nothing.
+
+I'm using a Geforce graphics card.
+
+Any help would be much appreciated!!!"
+,grandslammer,2012-12-14T21:51Z,"Since my last comment I have tried updating the Winewrapper Engine to version 1.5.19 (the latest version).
+
+Now when I try launching the game I just get a black screen for about 5 seconds, then the application quits."
+,ryballs,2012-12-15T02:17Z,@frank: Well done and thanks for the info. Those people having trouble with ATI wrapper read FrankZappa17's comment.
+,peaceman150,2012-12-15T18:06Z,"@ryballs, Got it to work.  It needs mountain lion to work!  still crashes though"
+,ryballs,2012-12-16T15:28Z,"@peaceman: Thats good, thanks for the info. Bear in mind that this game has bugs and crashes on windows also lol. But still.. What a great game :)"
+,brizester,2012-12-18T07:40Z,"Hey, I am so bad at computers so I'm hoping you can help me? I downloaded the file and got the .zip file, but when I try and unzip it it loads a little and then says:
+
+""Unable to unarchive ""Xcom enemy unknown for mac.zip"" into ""Desktop"". (Error 1- Operation not permitted.)""
+
+Help!"
+,ryballs,2012-12-18T09:58Z,brizester: Try moving it from the desktop to a different folder then unzipping it there.
+,brizester,2012-12-18T23:52Z,It just won't unzip for me. I downloaded another program to unzip it and it keeps saying simply that the file is corrupted? Ughhh
+,tinderboxes,2012-12-22T19:25Z,"It's all working, but my computer isn't up to the task (2007 MBP), even with the ultra low settings file. But the game is awesome and I recommend that torrent to anybody with a decent mac. :)"
+,Decdec123,2012-12-27T13:24Z,"Do you know a torrent for a unmodded version?
+I'd rather play vanilla, even tho warspace is AWESOME."
+,C41337,2012-12-30T03:07Z,"@ryballs
+is there anyway to un-mod the game?"
+,Radeanus,2013-01-03T12:04Z,"Unfortunatele it doesn't work for me :(
+
+As I double click on the file, the icon is shown in the dock, the graphic card switches to the Nvidia GT650M ut nothing else happens :(
+
+I waited for about an hour then I gave up!
+
+Thank you very much for porting great games to the Mac comunity!!
+
+My system is a MacbookPro Retina 2.6, 16Gb"
+,ryballs,2013-01-04T18:29Z,apparently psi-defences dont work in cracked copy without mod.. but if u still want vanilla check my previous comment regarding manual install

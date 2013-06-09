@@ -1,0 +1,35 @@
+﻿User Type,Username,Date,Text
+,jaxx1rr,2012-12-29T18:29Z,Seed after you downloaded and tell me if you got it to work..
+,F3NR1Z,2012-12-31T12:00Z,"i got bad cd key at the start of the game and running options.cmd didn't help. I manually typed new keys in registry.reg. The game is working now, but whenever I want to join my own server it says bad cd key. I blocked port 29910 in windows firewall, AVG firewall and even on my router. And i tried more than 10 cd keys. Still says bad cd key"
+,irekslayer,2012-12-31T14:38Z,"""bad cd-key given in setup"" did as u wrote, tried also cd-keys from that option.cmd but didnt help either. Made me sad :("
+,jaxx1rr,2013-01-01T07:47Z,dude use options bat to put key in.. the key is the second thing in the keygen not the first u need to put for arma 2 and armored operations.. read desc pls
+,F3NR1Z,2013-01-01T13:31Z,"I used options.cmd. I know i have to put in the lower key without spaces. I did it dozen of times but  the key never changed. There was always the same key at the top where it says which key I am currently using. And I couldn't even get in to the game at all. After I double clicked file it was loading for some time then it gave me bad cd key. But after changing the key in registry and running it I finally could run the game to get in the menu. And now running options.cmd shows the new keys I put in registry. But again, I can't change them through options.cmd. 
+I did it all just like it says in description and I just can't get it to run. This is the 4th torrent I downloaded. No one worked for me. But if I put back dayz 1.7.1 with server, everything works fine. I think I'm just gonna wait for dayz standalone. 
+I'm gonna seed anyway though"
+,jaxx1rr,2013-01-01T14:33Z,"you dont need to seed I see theres enough seeders for now..
+I know it should work without install because:
+I installed the game using installers and it worked fine (server+client)
+then I installed windows 8 and did not reinstall game.. just exported reg and imported in 8 ... so location was same (d:\games\Arma 2) and it worked.. so thats where you should have it..
+the included reg is created by jimbo.. maybe I should have included mine..
+also if you cant use your server just install tunngle it has 100+ players in lan and try there.."
+,jaxx1rr,2013-01-01T14:33Z,can anyone else write a message that actually got it to work ??
+,jaxx1rr,2013-01-01T14:35Z,wrote a long comment and it got lost.. fuking thepirateshit
+,jaxx1rr,2013-01-01T14:37Z,Ill install it at some friends and see if theres a problem and how to fix it..
+,Martin-z-Prahy,2013-01-01T15:54Z,"Hi Jaxx1rr - I put the lower key from the keygen using options.cmd for Arma 2 and for AO (sp I used the same key twice) - and I could only launch Arma 2.exe. Than I tried number 9 from options.cmd (so I used different keys) and that worked, now I can launch Arma 2 and AO. But the game is somehow not working for me - its so slow, like my pc isnt good enough - even when I lower the settings to minimum - I still have almost the same perfomance. Oh - and if I could help you try something in this release - feel free to tell me."
+,Martin-z-Prahy,2013-01-01T16:31Z,"Okay - the issue with lag was completely my problem - this torrent works great - but when I execute ""dayz-game.bat"" and try to join some server it tells me I have an invalid cd-key. I used option 9 from options.cmd cause the keys from keygen didnt work for me (or I have done something wrong). As I said I tried the lower key for both serial keys and than the upper key with the lower key - but only the otions from options.cmd worked for me."
+,knaken1234,2013-01-01T17:30Z,works perfect with tunngle! thank you Jaxx1rr! :)
+,karlinnG,2013-01-01T21:59Z,"ok so i start server but it is stuck on creating and when i join it says waiting for host
+when i check server log it says creating lingor bank
+help?"
+,karlinnG,2013-01-01T22:09Z,"ok it just says waiting for host when i join my server.
+any fix?"
+,karlinnG,2013-01-01T22:11Z,and status on server is just creating
+,jaxx1rr,2013-01-01T23:13Z,"ok i managed to install this torrent at a friend in d://games//Arma 2 (my orig location) .. so basically modify all entries in the reg file but make sure u use double //// so its d:////games////Arma2
+After that use options.cmd go to change key and use option 10 to put in key manually and start keygen to generate for Arma 2 ( copy paste and remove spaces) then for Arma 2 AO same and u should be set.. also block UDP OUTBOUND port 29910 in firewall like its written in desc"
+,jaxx1rr,2013-01-01T23:15Z,dammit ... in last comment it should be D:\Games\Arma 2 not D:////Games////Arma 2.. I confused  with / and also I put to many coz in torrent creation every // gets turned into /
+,jaxx1rr,2013-01-01T23:18Z,the worst thing about this is I cant see my new created comments.. happen to anyone else? :D
+,jaxx1rr,2013-01-01T23:20Z,"mmkay .. the best location in REG file is D:\\Games\\Arma 2 ... (i had to put 4 \ so 2 will appear in this shit comment)
+Maybe others work, I dont know.. as for hosting dunno check if firewall rule is up.. peace im out"
+,knaken1234,2013-01-03T15:57Z,"on step 3, Open keygen, open registry reg file and change the cd keys ( ArmA 2 and ArmA 2 OA) remember to take away spaces and put out commas(,) just like it was, Then SAVE the reg file.
+Now just open the REG file as ""REGISTRY EDITOR"" and then the game should work. PLAY WITH TUNNGLE aka LAN not via internet."
+,knaken1234,2013-01-03T15:59Z,also you need change location in the same file if you installed it somewhere else then D. 

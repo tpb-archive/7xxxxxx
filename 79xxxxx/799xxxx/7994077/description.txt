@@ -1,0 +1,51 @@
+Artist  : Kerber
+Album   : The Best Of (1986 - 1993)
+Year    : 2008
+Genre   : Hard Rock
+Country : Serbia
+Codec   : FLAC (image+cue)
+
+---------- LOG ----------
+This log is created by Rubyripper, version 0.6.2
+Website: http://code.google.com/p/rubyripper
+
+Cdrom player used to rip:
+TSSTcorp CDDVDW SH-224BB SB00
+Cdrom offset used: 6
+
+Ripper used: cdparanoia 
+Matches required for all chunks: 2
+Matches required for erroneous chunks: 2
+
+Codec(s) used:
+-flac 	-> --best -V (flac 1.2.1)
+
+CDDB INFO
+
+Artist	= Kerber
+Album	= The Best Of (1986 - 1993)
+Year	= 0
+Genre	= Unknown
+Tracks	= 17 (1 selected)
+
+
+ADVANCED TOC ANALYSIS (with cdrdao)
+...please be patient, this may take a while
+
+No pregaps, silences or pre-emphasis detected
+
+
+STATUS
+
+Starting to rip CD image, trial #1 (384 seconds)
+Starting to rip CD image, trial #2 (385 seconds)
+Analyzing files for mismatching chunks (52 second(s))
+Every chunk matched 2 times :)
+MD5 sum: d67c36231ad5f71ddfd40f300bea22f8
+
+
+RIPPING SUMMARY
+
+All chunks were tried to match at least 2 times.
+None of the tracks gave any problems
+---------- EOL ----------

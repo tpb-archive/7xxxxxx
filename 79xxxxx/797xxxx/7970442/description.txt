@@ -1,0 +1,91 @@
+This is my own rip.
+
+There is a small logo for 10 seconds every 30 minutes.
+
+General
+Unique ID                        : 206630260783433275951864086485698912248 (0x9B738A6915303078BA5CBEA186A89FF8)
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 1.85 GiB
+Duration                         : 1h 46mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 2 488 Kbps
+Encoded date                     : UTC 2012-12-29 19:35:49
+Writing application              : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 46mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 054 Kbps
+Maximum bit rate                 : 50.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 692 pixels
+Display aspect ratio             : 1.850
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.097
+Stream size                      : 1.53 GiB (83%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 46mn
+Bit rate mode                    : Constant
+Bit rate                         : 384 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 293 MiB (15%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : en:Title/Credits
+00:03:28.250                     : en:New Doc in Town
+00:08:33.596                     : en:Speak of the Devil
+00:10:25.333                     : en:Funny Wife
+00:13:02.907                     : en:Boy in the Window
+00:15:28.469                     : en:Lunch Break
+00:18:02.873                     : en:Room and Board
+00:20:37.278                     : en:Reasonable Request
+00:23:29.074                     : en:Stomach Pains
+00:27:17.803                     : en:Ditching Class
+00:30:34.916                     : en:Self-Worth
+00:33:37.849                     : en:Suspect
+00:37:29.164                     : en:Vital Surgery
+00:44:05.017                     : en:Healthy Ovary
+00:46:46.470                     : en:Shattered Lives
+00:49:20.916                     : en:God Complex
+00:55:50.931                     : en:Killer Instinct
+01:01:10.542                     : en:Blunt Honesty
+01:03:08.785                     : en:Thirst for Revenge
+01:06:02.625                     : en:Legal Advice
+01:09:04.849                     : en:Mother Knows Best
+01:15:58.095                     : en:Double Doublecrossed
+01:23:59.576                     : en:Needle in a Haystack
+01:28:40.607                     : en:Post-Nuptial Agreement
+01:33:30.563                     : en:Deadly Options
+01:36:19.816                     : en:Dummy
+01:41:00.137                     : en:Blind Irony
+01:43:06.055                     : en:End Credits

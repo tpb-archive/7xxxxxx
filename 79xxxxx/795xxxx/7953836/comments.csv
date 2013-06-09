@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-24T13:52Z,versions of versions.... hmmm shoulda worded that differently
+,baldiepie,2012-12-25T09:16Z,https://www.virustotal.com/file/38a6deb67aff75038d9873e71a5d9f0398aaedc35127faf01cd081d55ad4a113/analysis/
+[T],murphy78,2012-12-25T11:16Z,"yes, it will give a false positive on some virus programs.  They love to falsely claim that hacktools such as this are Trojans.  Should be no surprise."
+[T],murphy78,2012-12-25T11:17Z,The link is in the description to the original download site if you don't trust mine. I have not repacked it. You can compare hash tables.
+,mrmagoo25,2012-12-25T19:09Z,"Murphy glad to see you finally have a skull now, congrats and well deserved!"
+[T],murphy78,2012-12-26T04:37Z,thanks bud
+,naopakko,2012-12-26T18:26Z,you gotta love those pink skulls. thanks!
+,alvester,2012-12-29T08:09Z,Hey murphy...Windows Loader 2.2 is released...
+,alvester,2012-12-29T08:39Z,"Daz's comment breaks my heart that there won't be a permanent activator for Windows 8. He says, ""I've read in some places where (clueless) people have said that I'm wrong and that a Windows 8 activator is possible. To me these people seem confused and delusional as they don't understand, no matter how many times they've been told, that Windows 8 keys are different to Windows 7 keys.
+
+ The reason the loader works for Vista, 7 and Server editions is because the keys could be shared. So for example, if I ordered an Acer laptop online with Windows 7 Home Premium then I know the key will be VQB3X-Q3KP8-WJ2H8-R6B6D-7QJB7 because that's the Home Premium OEM:SLP key used in every Acer laptop. However, in Windows 8 each user has a key that's unique to their system and it's basically a retail key. Now, what do Microsoft do with leaked retail keys? They block them. So how smart would it be for me to use a key which I know will get blocked on say a million PC's  And that also means that I've just got some innocent persons key banned. A key which they paid for and expect to remain working as it come with their PC.
+
+ It's impossible to make a clean activator for Windows 8 because the license channels that allowed it have been removed/replaced. And to be clear, when I say ""activator"" I mean something that doesn't modify system files, permissions or the registry. If it does any of them things then it'd be a hacktivator. The difference? Hacktivation leaves you at the mercy of Windows updates, virus scanners and WAT. Activation, however, is clean and doesn't modify any of Windows's files and Windows updates, virus scanners and WAT aren't a problem.
+
+ Now, you could be thinking ""nothings impossible, just look at jailbroken iPhones or Xbox firmware"". But they're devices with only a few variations. To target PC's you have to think about every motherboard ever made, graphics cards in use, CPU's, chipsets and even memory. They're not even close to being the same.
+
+ Backing up and restoring activation info for KMS or MAK may work, but are you going to do that every time it happens? And what if Microsoft release a WAT update that's required and not optional? Are you going to play cat and mouse with Microsoft or are you going to get a cheap Windows 8 Pro upgrade key? They're like what, $39.99 / ÂŁ24.99? You can buy some clothes that cost more than that and it costs less than a single Xbox or Playstation game.
+
+ Microsoft's goal was to make pirates jump through hoops once again and that's exactly what you're doing by trying to get Windows 8 for free. And you'll never be able to relax about updates or know for sure that your systems going to be activated if you leave it running over night.
+
+ There will never be a clean activator for Windows 8 that's as efficient as the loader has been for Windows 7. That's a fact too. I wish it wasn't, but without keys that can be shared it's a dead end."""
+,hotnutz,2013-01-05T23:27Z,when my antivirus says it found a virus when i am installing these types of things i simply check the trust or allow box and it never comes up again.thanks for this
+[T],murphy78,2013-01-06T04:45Z,"Yah, it really wouldn't make sense to do a loader for windows 8 because it is a lot more sophisticated. I don't know everything about it, but I know enough to know that it's not a simple fix.
+
+The main way they will do activation in Windows 8 will probably come from the 2 activation files that are generated.  data.dat and tokens.dat store all of the history of activation, your machine crc, and the corresponding product keys.  They are encrypted, and though you could probably change small things in them such as activation date, most of the rest of the data is encrypted in a way that throws off the crc checks if you modify them.  What that means is that you simply have to make it correct from the beginning or don't bother.
+
+The main workhorse of windows 8 is explorer.exe and it handles most of the windows security, but other programs and files check to see if explorer has been modified, and certain dll files handle the watermark, etc.  It's not nearly as simple a process as preceding windows versions were.  It also phones home with explorer.exe so in the future we might have to add the activation server in the hosts file to prevent non-genuine messages.  Right now I'm not exactly sure if Microsoft is putting up with people using kms activation to achieve market-share or are simply working on an appropriate solution.  I know they could definitely stop the prowmc workaround if they wanted to.  I think there may be a balance between what they can do, and what they are actively pursuing to fix problems.
+
+Either way, it seems to make windows 8 more interesting having the activation challenge..."

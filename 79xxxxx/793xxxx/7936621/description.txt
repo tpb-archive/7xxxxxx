@@ -1,0 +1,23 @@
+General:
+
+Simulation of the Airbus A320 and A321 focused on the day to day operation of the aircraft from the left seat. 
+Five models: A320 IAE engines, A320 CFM engines, A321 IAE engines, A321 CFM engines, A320 NEO demonstrator (A320 CFM with sharklets). 
+Late model cockpit (with LCD and updated ADIRS). Note we do default to the A321 CFM cockpit for all models (that is is also flown with N1 displays btw). 
+Twenty-one liveries, extensive paint kit. Over 100 additional liveries available on release. 
+Sublime modeling/texturing based on the latest technologies. Very easy on frame-rates. 
+Landing lights, taxi lights, taxiway turn-off lights created with the best technology which actually lights objects up. 
+Dozens of non-standard animations, all with sound effects (sun screens, windows,  tables, tiller, jump seat, standby compass, drooping flight surfaces etc). 
+Included web server that allows you to access (and use) the MCDU via any web browser; ideal for tablet computers. 
+Automated State Save that saves (and loads) all the aircraft systems when the standard FSX save (load) option is used. 
+Extensive options to show ground objects (cones, ground power etc) and to actually provide ground power. 
+All main doors and cargo hatches can be opened. 
+Many systems programmed in XML to allows users to change code. 
+Extensive manuals, with highly detailed step-by-step section in (at least) 12 languages. 
+Prepared for Airport Enhancement Services. Fully compatible with GSX. 
+SDK will be available, LINDA connectivity available. 
+Add-in system that allows the aircraft to be extended with 3rd party applications (all using the right MCDU). 
+Add-in View system: adds many pre-defined views for easy use, emulates 2D panel views. 
+Add-in Sound system: adds hundreds of background sounds to enhance the immersion. 
+Add-in Checklist system: semi-automated audio checklists. Checklist has two options, callouts only, or callouts with semi-automation (think virtual co-pilot). 
+We opened part of the support sections already so the FAQ section could assist in answering some of the frequently asked questions: http://forum.aerosoft.com/index.php?/forum/518-faq/ 
+Fully tested under Windows 8.

@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,Scrusoe,2012-12-29T05:34Z,"thanks a lot, it's working. 
+
+@ My comp. spec.:
+# OS X Lion
+# Intel i5 2.3 ghz
+# Intel HD 3000
+# 4 GB of RAM
+
+To solve low frame rate issue, go to :
+
+1.Your Username.
+2.Document.
+3.CAPCOM file
+4.SFTK
+5.Open config.ini (use TextEdit )
+6.Change the FrameRate from VARIABLE to  
+   FIXED.
+7.Enjoy.
+
+For me,this game runs very smoothly likes on Windows machine."
+,igorpl,2012-12-30T15:49Z,seed please
+,Qualikage,2012-12-31T04:55Z,"Mac OS X Lion 10.7.5
+Processor  2.6 GHz Intel Core i7
+Memory  8 GB 1600 MHz DDR3
+Graphics  NVIDIA GeForce GT 650M 1024 MB
+
+I new to wineskin When it comes on wine dialogue box labeled Microsoft Xaudio2  says CPU does not meet requirements, need Stream SIMD extension support.I Press ok then in the middle of the game(can't hear no sound) another error pops up wine has encountered an error and the game  shuts off. Any help?"
+,iCDirty,2012-12-31T05:25Z,No sound? Help please...
+,Scrusoe,2012-12-31T17:08Z,"@Qualikage
+ First, you need to download wineskin winery application.Run the app and create or update the wrapper. Add the newest engine that are available.
+
+Then, go to the game app and right click on it.Go to show package contain.
+
+Run the wineskin app inside the the game app.Click the advance button and then the tool tab. Click change engine used and change it to the engine that you had downloaded earlier.
+
+Then,click the update wrapper button.Update it to the newest wrapper.just Follow the instruction and you are good to go.
+
+I had the same problem before and it solved after I followed all these steps. Hope it will works for you."
+,Scrusoe,2012-12-31T17:31Z,"@Qualikage,
+
+first, you need to download wineskin winery application. Run the app.Create or update the wrapper to the newest wrapper. You also need to add the newest engine available ( i used WS9Wine1.5.19AMDSpeedHack).Close the app.
+
+Then, go to the game app and right click on the icon.choose show package contents. Click the wineskin app inside the game app. Click advance button and then the tools tab. Change the engine to the newest engine that you had created before by clicking the ""Change engine used"" button. Do not forget to update your wrapper.Just follow the all the instructions and you good to go.  
+
+I had the same problem before but it solved after I followed all these steps. Hope it is working for you."
+,Qualikage,2012-12-31T20:09Z,"I followed your instructions  I updated the wrapper with latest update land it works! The sound plays well, the framerate is Fixed, but in the middle of playing the game Im still having that same wine error pops up and closes the game. how can I fix that?"
+,Jabroni40,2012-12-31T20:22Z,"OP, the wrapper always crashes just after the Criware logo in the intro. It says ""the application sftk.exe has encountered a problem and needs to close down"".
+
+I am using mountain lion. Any tips?"
+,Crystalhead,2012-12-31T22:00Z,"All that shows up for the graphics when I'm actually in a game is a white box on a black screen, help?"
+,pokeluna,2013-01-03T04:52Z,"I have the same issue as @Jabroni40 , anyone know the solution?"
+,mikehouston09,2013-01-04T11:50Z,i followed the instruction but wen i start the game show me a error sftk  data in wine can somebody help me thanks
+,pokeluna,2013-01-05T01:01Z,"If you have the stfk problem when you start, you can play by pressing ""enter"" quickly to skip the logos but but it will crash if u play in the arcade"
+,2high334,2013-01-06T00:50Z,taking forever to download... but hopefully this works .. ...
+,Scrusoe,2013-01-06T06:25Z,"@Jabroni40, firstly, I think you better check your wineskin's engine and wrapper first. Try to click your mouse when the first message appears and keep pushing the spacebar each time you see any logo until the game menu appears. This trick works for me so far."

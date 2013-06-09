@@ -1,0 +1,11 @@
+Gentoo Linux is proud to announce the availability of a new LiveDVD to celebrate the continued collaboration between Gentoo users and developers, ready to rock the end of the world (or at least mid-winter/Southern Solstice)! The LiveDVD features a superb list of packages, some of which are listed below.
+
+A special thanks to the Gentoo Infrastructure Team. Their hard work behind the scenes provide the resources, services and technology necessary to support the Gentoo Linux project.
+
+    Packages included in this release: Linux Kernel 3.6.8, Xorg 1.12.4, KDE 4.9.4, Gnome 3.4.2, XFCE 4.10, Fluxbox 1.3.2, Firefox 17.0.1, LibreOffice 3.6.4.3, Gimp 2.8.2-r1, Blender 2.64a, Amarok 2.6.0, Mplayer 2.2.0, Chromium 24.0.1312.35 and much more ...
+    If you want to see if your package is included we have generated both the x86 package list, and amd64 package list. There is no new FAQ or artwork the 20121221 release, but you can still get the 12.0 artwork plus DVD cases and covers for the 12.0 release; and view the 12.1 FAQ (persistence mode is not available in 20121221).
+    Special Features:
+        ZFSOnLinux
+        Writable file systems using AUFS so you can emerge new packages!
+
+The LiveDVD is available in two flavors: a hybrid x86/x86_64 version, and an x86_64 multi lib version. The livedvd-x86-amd64-32ul-20121221 version will work on 32-bit x86 or 64-bit x86_64. If your CPU architecture is x86, then boot with the default gentoo kernel. If your arch is amd64, boot with the gentoo64 kernel. This means you can boot a 64-bit kernel and install a customized 64-bit user land while using the provided 32-bit user land. The livedvd-amd64-multilib-20121221 version is for x86_64 only. 		

@@ -1,0 +1,44 @@
+[Software INFO:]
+================
+Windows 7 Explorer For Windows 8 v1.0 | 3.37 Mb
+
+This program restores native Windows 7 start menu and desktop by bringing Windows 7 explorer.exe.
+Start menu retains full configurability you expect from Windows 7 start menu.
+This program includes sophisticated lightweight wrapper, install/uninstall/patch program.
+You can use it on Windows 8 or Windows Server 2012 RTM or RP versions, any edition, any language!
+
+PRECAUTIONS:
+This program does not modify system files and system protected registry entries.
+You can switch back to unaltered Windows 8 UI any time.
+Windows 7 shell is enabled only to users which switched to it.
+Other users can use Windows 8 shell without any problems.
+
+LIMITATIONS:
+* Metro (Modern) UI is not loaded into memory. As a bonus you save dozens MB of RAM.
+* Metro UI screens and programs are unavailable.
+* Toasts (like "You have new program to handle this stuff") won't show. You need to use Default programs to change associations.
+* You may get more UAC prompts.
+* No default language input indicator. Enable language bar via Control Panel->Language->Advanced Settings->Use desktop language bar.
+* No multi-monitor taskbars. Maybe more multimon issues.
+* No immersive hotkeys (Win+X, Win+PrtScr too).
+
+INSTALLATION:
+Launch Ex7ForW8_setup.exe. Follow instructions. You'll need Windows 7 installation DVD or files ready; keep in mind that they should be same language and bitness.
+
+UNINSTALLATION:
+Uninstall program from Programs and Features. If you're using portable install, just switch shell to Windows 8 and delete folder.
+
+ALSO NOTE:
+All Programs shown in explorer7 has the same shortcuts that explorer8 shows on Start Screen. So the changes you do reflect here and there; better backup desktop.lnk from start menu.
+
+Explorer Ribbon is still there, it's not explorer.exe related!
+Using explorer.exe from Windows 8 DP or other Windows versions is not supported and won't be.
+
+
+================
+[INSTALL NOTES]
+================
+
+Step 1: unpack rar archive
+Step 2: run the setup
+Step 3: Use the given reg key to activate

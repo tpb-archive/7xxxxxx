@@ -1,0 +1,55 @@
+LiquidSonics Reverberate v1.777
+
+
+
+
+
+
+Reverberate provides a rich and dynamic reverb from impulse responses by modulating an amalgamation of two, separately controllable true stereo IRs using an LFO. Further modulation is possible using the post-processing effects; an all-pass interpolator chorus and delay unit provide a fuller sound and an over-sampled analogue prototype paragraphic equaliser is provided with dual LFOs. These features make for a livelier, more creative sound than typically associated with some convolution reverbs.
+
+In addition to loading impulse responses from audio files Reverberate is able to generate supplementary independent early reflections and tails for additional control over a roomΓÇÖs sonic characteristics.
+
+   Dual true-stereo convolution reverb
+   Zero latency (or select up to 8192 samples latency)
+   Early reflections and tails modules
+   True stereo simulation for stereo IRs
+   168 Presets (including 104 true-stereo files)
+   Double oversampled EQ with modulation per IR
+   Linear-interpolation choruses for IR1, IR2 and post effects
+   Stereo delays with modulation for IR2, IR2 and post effects
+   Post EQ with LFO modulation
+   Modulation via MIDI-CC
+   Stereo widener with anti-phase reduction
+   ADSHR envelopes with shape control
+   Low CPU downsampling mode option
+   Presence filter for adding synthetic high frequency content to dark IRs
+   Impulse response chaining
+   Integrated preset and sample browsers
+   Drag and drop IRs from OS file browsers
+   Wav, WIR, SDIR, Aiff and Flac file support
+   64-bit VST and AU on Mac and PC
+
+
+
+System Requirements
+
+   Windows XP, Windows Vista or Windows 7
+   RTAS, VST 2.4
+   64-bit VST versions require a 64-bit capable host
+
+
+INSTALLATION
+
+ΓÇó Uninstall previous versions.
+
+ΓÇó You need WinRAR to extract the rar's files.
+
+ΓÇó Install
+
+
+         ΓÇó  That's it! Done.
+
+         ΓÇó  Supp0rt th3 D3v3lop3r if you liK3 it.
+
+
+                       3Nj0Y!!!

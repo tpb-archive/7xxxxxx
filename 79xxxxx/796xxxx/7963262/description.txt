@@ -1,0 +1,71 @@
+After a twenty-seven year absence, Adolfas and his brother Jonas returned to their birthplace in Lithuania. They had left Lithuania as young men, destined for a German labor camp. Now they came home for a visit, Adolfas with his wife, the singer Pola Chapelle.
+
+"The film consists of three parts. The first part is made up of footage I shot with my first Bolex, during my first years in America, mostly from 1950-1953. It shows me and my brother Adolfas, how we looked in those days; miscellaneous footage of immigrants in Brooklyn, picnicking, dancing, singing; the streets of Williamsburg.
+
+"The second part was shot in August 1971, in Lithuania. Almost all of the footage comes from Semeniskiai, the village I was born in. You see the old house, my mother (born 1887), all the brothers, goofing, celebrating our homecoming. You don't really see how Lithuania is today: you see it only through the memories of a Displaced Person back home for the first time in twenty-five years.
+
+"The third part begins with a parenthesis in Elmshorn, a suburb of Manburg, where we spent a year in a forced labor camp during the war. After the parenthesis closes, we are in Vienna where we see some of my best friends - Peter Kubelka, Hermann Nitsch, Annette Michelson, Ken Jacobs. The film ends with the burning of the Vienna fruit market, August, 1971."
+
+-- Jonas Mekas
+
+__________________________________________
+
+Subtitles: English, French, Lithuanian
+
+__________________________________________
+
+
+General
+Complete name                    : Reminiscences of a Journey to Lithuania (Jonas Mekas, 1972).mkv
+Format                           : Matroska
+File size                        : 1.28 GiB
+Duration                         : 1h 18mn
+Overall bit rate                 : 2 344 Kbps
+Writing application              : HandBrake 0.9.8
+Writing library                  : libmkv 0.6.5
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L3.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 11 frames
+Format settings, GOP             : M=5, N=32
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 18mn
+Bit rate                         : 2 150 Kbps
+Width                            : 630 pixels
+Height                           : 518 pixels
+Display aspect ratio             : 1.297
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.264
+Stream size                      : 1.15 GiB (90%)
+Writing library                  : x264 core 120
+Encoding settings                : cabac=1 / ref=11 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=50 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=9 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=abr / mbtree=1 / bitrate=2150 / ratetol=1.0 / qcomp=0.60 / qpmin=3 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=2:1.00
+Language                         : English
+Color primaries                  : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+Transfer characteristics         : BT.709-5, BT.1361
+Matrix coefficients              : BT.601-6 525, BT.1358 525, BT.1700 NTSC, SMPTE 170M
+
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 18mn
+Bit rate mode                    : Constant
+Bit rate                         : 192 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 107 MiB (8%)
+Language                         : English
+

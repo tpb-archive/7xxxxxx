@@ -1,0 +1,56 @@
+Full Name of the book:
+
+Statistical Graphics in SAS: An Introduction to the Graph Template Language and the Statistical Graphics Procedures
+
+Contents:
+
+Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+About This Book . . . . . . . . . . . . . . . . . . . . . . . . . . . xv
+Chapter 1. GTL and the SG Procedures . . . . . . . . . . . . . . . . . . 1
+Chapter 2. Panels . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+Chapter 3. Style Templates . . . . . . . . . . . . . . . . . . . . . . . 115
+Chapter 4. Graph Template Modi∩¼ücation . . . . . . . . . . . . . . . . . . 153
+Appendix A. Introduction to ODS Graphics . . . . . . . . . . . . . . . . . 187
+Appendix B. Some Tips and Techniques for Understanding the GTL . . . . . . . . 195
+Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 201
+
+
+Preface:
+
+Effective graphics are indispensable for modern statistical analysis. They reveal patterns, differ-
+ences, and uncertainty that are not readily apparent in tabular output. Graphics provoke questions
+that stimulate deeper investigation, and they add visual clarity and rich content to reports and
+presentations.
+There are three major ways in which you can use statistical graphics:
+∩┐┐ Exploring your data. Many statistical analyses are begun by producing simple graphs of data
+such as scatter plots, histograms, and box plots.
+∩┐┐ Analyzing your data. Graphical results are an integral part of the results of modern statistical
+analyses.
+∩┐┐ Presenting your data. The ∩¼ünal results of statistical analyses are often presented with graphs.
+Presentation graphics might be the same as the graphical results of analyses or they might be
+customized in various ways.
+The SAS System provides many tools for creating statistical graphics. In many cases, multiple tools
+can be used to make a graph.
+∩┐┐ Automatically created graphs. With SAS 9.2, statistical graphs are created with an extension
+of the Output Delivery System (ODS). ODS manages procedure output and lets you display it
+in a variety of destinations, such as HTML and RTF. With ODS Statistical Graphics (or ODS
+Graphics for short), statistical procedures produce graphs as automatically as they produce
+tables, and graphs are integrated with tables in the ODS output. You only need to enable ODS
+Graphics with the ods graphics on statement to get default graphical output. Some graphs
+require you to additionally specify one or more simple options.
+∩┐┐ SG Procedures. The SG (Statistical Graphics) procedures SGPLOT, SGSCATTER, and
+SGPANEL provide a simple and convenient syntax for producing many types of statistical
+graphs. They are particularly convenient for exploring and presenting data.
+∩┐┐ The GTL. The GTL (Graph Template Language) and PROC SGRENDER provide a powerful
+syntax for creating custom graphs. You can also modify the templates that SAS provides for
+use with SAS/STAT procedures to create customized results.
+
+---------------------------
+
+Pages: 233
+
+Author: Warren F. Kuhfeld
+
+Published: 2010
+
+This is a very good book. So please seed after download completes.

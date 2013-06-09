@@ -1,0 +1,18 @@
+===================================================================================
+Version 0.8.24
+General
+=Added Advanced New Game options for terrain generation and difficulty.
+=Added option to change from Peaceful to non-Peaceful
+
+Audio
+=Changed to irrKlang audio library. This fixes the requirement to have WMP installed
+
+Fixed
+=Risen gnomes sometimes appearing as skeletons. Previous zombies will still show as      
+ skeletons.
+=Building constructions over planted seeds causing unforagable crops
+
+Next week, I'll be out of town visiting family for the holidays, so there won't be a patch.  There may or may not be a patch the week after that depending on what gets in by then.
+===================================================================================
+
+Merry Christmas and a Happy New Year everyone! :)

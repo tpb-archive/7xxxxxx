@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,mojo-666,2012-12-25T18:13Z,"Thanks for sharing this! Game works fine so far, with the Ultra High graphics preset I get 28/25 fps in the benchmark, on a mid 2011 iMac 21"" with the ATI 6770 built in.
+
+Had to jump through a few loops however to make it work. First off, The Unarchiver would report a corrupted archive, which is wrong because 7z extracted everything just fine. Secondly, the game wouldn't start, the executeable flag was missing, I had to do 
+
+chmod a+x ./F1 2012.app/Contents/MacOS/F1 2012
+
+to get it to work. After that, just click play as the instructions say."
+,mate123,2012-12-25T18:55Z,how to extract this files to one????
+,lostinostin,2012-12-25T21:42Z,"DAT LEECHERS!!!
+
+Keep da seeds comin'"
+,mikehouston09,2012-12-26T11:55Z,can some one  seed i'm stuck at 40% for 24 hour
+,anthony0224,2012-12-26T15:03Z,"If you are on a Mac, BetterZip will allow you to unzip this file correctly also. All i did was unzip with betterzip then play, works great."
+,PS13DOD,2012-12-26T15:07Z,"I download this 2 times all ready and still have issue if checksum is failed. How to unpack this to f12012.app ?? Any ideas ?? I`m use ""The Unarchiver"" to extract this to one file."
+,mojo-666,2012-12-26T22:23Z,"Problem with ""The Unarchiver"" has been reported before: http://code.google.com/p/theunarchiver/issues/detail?id=594"
+,lostinostin,2012-12-26T22:24Z,@anthony0224 I used BetterZip but it only creates one zip file of the 42 .rar files...how do I play?
+,o.rashid,2012-12-27T01:18Z,god damn people need to seed
+,lostinostin,2012-12-27T05:01Z,"Ok so because this is a split archive, simply open mo-f12012.r00.  This is the first file in the download.  However, if you use the Unarchiver, it will tell you there are a couple of files that are corrupt and I don't know how to get around this problem.  @mojo-666 suggested using 7-zip will extract the .rar files without any problems, however, 7-zip is a windows application, so I don't know how to get past this problem."
+,mojo-666,2012-12-27T05:41Z,"@lostinostin: the first main rar file isn't mo-f12012.r00, it is mo-f12012.rar. Also I didn't write anything about 7-zip, I wrote 7z, which is a native OS X command line app."
+,mikehouston09,2012-12-28T11:28Z,fist get the unrarx free  after install unrarx grab all the file and drop to the box of unrarx and waite until he finish and boom u have the f1 and then drop the f1 to the application thanks 
+,mikehouston09,2012-12-28T11:29Z,great work thenoobish  like always thanks 
+,mikehouston09,2012-12-28T11:30Z,i forget is work in my macbook pro 2011
+,Radeanus,2012-12-28T17:17Z,"@mojo-666
+
+Could you be more specific on how to use the
+chmod a+x ./F1 2012.app/Contents/MacOS/F1 2012?
+
+I guess I should use Terminal but a just copy/paste doesn't do the trick :("
+,mojo-666,2012-12-29T03:12Z,"@Radeanus: problem is PB chokes the backslash. Well suppose you installed the game in /Applications then this should work:
+
+chmod a+x Applications/F1\ 2012.app/Contents/MacOS/F1\ 2012
+
+If there are no backslashes then you have to add  one after each ""F1"". HTH."
+,mojo-666,2012-12-29T03:13Z,"crap I missed the first slash..
+
+chmod a+x /Applications/F1\ 2012.app/Contents/MacOS/F1\ 2012"
+,Radeanus,2012-12-29T09:54Z,"Worked flawlessly...
+
+Thank you!"
+,kax3,2013-01-04T15:37Z,"No problem with unpacking using Stuffit. Thank you thenoobish, for the upload. 
+
+I bought this game for PC cause I thought it was not available for Mac. Now I don't have to reboot my Mac as PC just to play :)"

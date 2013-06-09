@@ -1,0 +1,12 @@
+﻿User Type,Username,Date,Text
+,jernhenrik,2012-12-19T10:52Z,"Hi
+I get this error when testing track 10:
+1 file failed
+E: -MusikRay CharlesStrong Love Affair10 Separate Ways.flac	(FRAME_CRC_MISMATCH @ 1m 06s)
+
+And if i try to convert to other format i get:
+Error converting to FLAC, 'E:MusikRay CharlesStrong Love Affair10 Separate Ways.flac' to 'E: 10 Separate Ways.flac'
+   Encountered 'FLAC__STREAM_DECODER_SEARCH_FOR_FRAME_SYNC' in FLAC File 'E: -MusikRay CharlesStrong Love Affair10 Separate Ways.flac'
+
+regards"
+[V],jmz619,2012-12-19T11:31Z,Thanks for the mention if DeVOiD notices they might  make a PROPER.

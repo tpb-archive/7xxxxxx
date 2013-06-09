@@ -1,0 +1,12 @@
+From http://www.cbtnuggets.com/it-training-videos/series/gns3 :
+
+GNS3 is a free, open-source tool that provides emulation of network hardware (such as Cisco routers and firewalls), so that customers can practice, configure, and troubleshoot network scenarios all in a virtual environment running right on their Windows, Mac OSX or Linux computers. Multiple network topologies can be saved, paused and/or resumed on the fly so that the learner can practice at the convenience of their own schedule. GNS3 provides the emulation of the physical devices, and the user provides the OS image for the version/vendor of the software they want to practice on.
+
+GNS3 is a fantastic tool, but there are a few stumbling blocks facing the typical user. In this video series, CBT Nuggets trainer Keith Barker becomes your tour guide and introduces the typical issues facing every GNS3 user and, more importantly, how to overcome and solve each of these challenges. Topics in the video series include running GNS3 in Windows, Mac and Linux environments; how to integrate virtual workstations into the GNS3 topology; how to connect the virtual GNS3 network to a live network; and much more. 
+
+And about Keith Barker:
+
+Keith Barker is a trainer and consultant with more than 27 years of IT experience. He has been named a Cisco Designated VIP and is the author of numerous Cisco Press books and articles. Keith also posts IT videos to his YouTube channel, Keith6783.
+
+I uploaded the files in .flv format, just like i found them
+You can always convert them to whatever you need by using WinFF (or just FFmpeg)

@@ -1,0 +1,76 @@
+DriverPacks for Windows (2000-XP-2003-Vista7) 25.12.2012 (X86X64)
+ 
+http://driverpacks.net/
+
+Year: 2012
+Version: 12.12.1
+Developer: driverpacks.net
+Platform: Windows 2000 / XP / 2003 / Vista / 7
+System Requirements: Windows 2000 / XP / 2003 / Vista / 7
+License: Freeware
+Size: 3.41 GB
+archives with drivers for many devices 1) in the properties of the device you need to install the driver in the line "device instance ID" search text DEV_ (instead of 4 stars - 4 digits or letters) .2) looking for (eg searching in total commander) contents drayverpakov files. inf text DEV_ (instead of 4 stars - your 4 numbers or letters).
+
+3) The search result will show you which folder / folders likely to lie right driver for this device.
+If the line "device instance ID" no text DEV_ ****, you can search on what else the text of this stroki.esli not, you can intuitively poperebirat several putatively necessary folders, folder names that begin with the same letter, which begins the name of the device manufacturer.
+information about the devices may for example give the program hwinfo32.
+
+windows 2000-xp-2003 (x86) driverpacks
+dp bluetooth wnt5 x86-32910
+dp chipset wnt5 x86-32 1209
+dp cpu wnt5 x86-32 1005
+dp graphics a wnt5 x86-32 1206
+dp graphics b wnt5 x86-32 1206
+dp graphics c wnt5 x86-32 1206
+dp graphics languages ??wnt5 x86-32 1206
+dp graphics physx wnt5 x86-32 1206
+dp hid wnt5 x86-32 1209
+dp lan wnt5 x86-32 1205
+dp lan-ris wnt5 x86-32 1011
+dp massstorage wnt5 x86-32 1209
+dp misc wnt5 x86-32 1201
+dp modem wnt5 x86-32 1205
+dp monitor wnt5 x86-32 1005
+dp runtimes wnt5 x86-32 1206
+dp sound a wnt5 x86-32 1111
+dp sound b wnt5 x86-32 1111
+dp tv wnt5 x86-32 1005
+dp webcam wnt5 x86-32 1107
+dp wlan wnt5 x86-32 1202
+
+windows vista-7 (x86) driverpacks
+dp amdfilter wnt6-x86 1110
+dp audio wnt6-x86 1111
+dp cablemodem wnt6-x86 1001
+dp cardreaders wnt6-x86 11041
+dp chipset wnt6-x86 1212
+dp gaming wnt6-x86 1001
+dp graphics a wnt6-x86 1203
+dp graphics b wnt6-x86 1203
+dp graphics mobile wnt6-x86 1203
+dp lan wnt6-x86 1208
+dp massstorage wnt6-x86 12121
+dp misc wnt6-x86 1202
+dp modem wnt6-x86 1001
+dp monitors wnt6-x86 1001
+dp touchpad mouse wnt6-x86 1203
+dp tvcard wnt6-x86 1001
+dp webcam wnt6-x86 1103
+dp wlan wnt6-x86 1203
+
+windows vista-7 (x64) driverpacks
+dp amdfilter wnt6-x64 1110
+dp audio wnt6-x64 1111
+dp cardreaders wnt6-x64 11041
+dp chipset wnt6-x64 1212
+dp graphics a wnt6-x64 1203
+dp graphics b wnt6-x64 1203
+dp graphics mobile wnt6-x64 1203
+dp lan wnt6-x64 1208
+dp massstorage wnt6-x64 12121
+dp misc wnt6-x64 1202
+dp touchpad mouse wnt6-x64 1203
+dp webcam wnt6-x64 1103
+dp wlan wnt6-x64 1203
+gaming x64 812
+monitors x64 911

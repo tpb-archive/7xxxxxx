@@ -1,0 +1,60 @@
+===================================================================
+Please make one account and visit me at:  http://thumperdc.com/
+===================================================================
+
+
+TeraCopy v2.3 Beta 2
+One of the most common complaints about newer versions of Windows is the slow copying speed, especially when transferring lots of files over the network. If you want to speed up your copying or if you regularly transfer large amounts of data and have to stop the process to perform some other disk-intensive task, this program may be just what you need.
+
+TeraCopy is designed to copy and move files at the maximum possible speed. It skips bad files during the copying process, and then displays them at the end of the transfer so that you can see which ones need attention. TeraCopy can automatically check the copied files for errors by calculating their CRC checksum values. It also provides a lot more information about the files being copied than its Windows counterpart. TeraCopy integrates with Windows Explorer's right-click menu and can be set as the default copy handler.
+
+* Copy files faster 
+TeraCopy uses dynamically adjusted buffers to reduce the seek times. Asynchronous copying speeds up the file transfer between two physical hard drives.
+
+* Pause and resume file transfer
+activities Pause the copy process at any time in order to free up system resources and continue with a single click.
+
+* Error recovery
+In case of a copy error, TeraCopy will try several times to recover and, in the worse case scenario, will simply skip the file, not terminating the entire transfer.
+
+* Interactive file list
+TeraCopy shows the failed file transfers and lets you fix the problem and recopy only the problem files.
+
+* Copy/move to your favorite folders.
+
+* Save reports as HTML and CSV files.
+
+* Select files with the same extension/folder.
+
+* Remove the selected files from the copy queue.
+
+* Shell integration
+TeraCopy can completely replace the Explorer copy and move functions, in turn enabling you to work with files as usual.
+
+* Full Unicode support.
+
+* Windows 8 x64 support.
+
+* Compatible with Windows 2K (x32 & x64), Windows XP (x32 & x64), Windows Vista (x32 & x64), Windows 7 (x32 & x64), Windows 8 (x32 & x64)
+
+What is new in TeraCopy 2.3 beta 2?
+- Added: Support for Total Commander 8.01 x64.
+- Added: Auto-splitting files on FAT32 file systems.
+- Added: Additional check for trimming file, useful on D-Link NAS devices.
+- Added: ΓÇÿConfirm drag and dropΓÇÖ option.
+- Fixed: Removing files from filelist when not enough disk space.
+- Fixed: Skip button now works on error files.
+- Changed: Flashing window instead of tray notification.
+
+Install Notes
+Install the program and register with the given serial. 
+
+Note: To register, run the program, then click respectively "More", "Menu", and "About", then copy the serial, and click "Register" and paste the serial in there.
+
+
+
+Support:  http://thumperdc.com/forum/support-f12.html
+
+====================================================================================
+If you need help please post in my forum, Thanks  http://thumperdc.com/	
+====================================================================================

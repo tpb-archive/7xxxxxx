@@ -1,0 +1,35 @@
+There's nothing that hard-core Unix and Linux users are more fanatical about than their text editor. Editors are the subject of adoration and worship, or of scorn and ridicule, depending upon whether the topic of discussion is your editor or someone else's. 
+
+vi has been the standard editor for close to 30 years. Popular on Unix and Linux, it has a growing following on Windows systems, too. Most experienced system administrators cite vi as their tool of choice. And since 1986, this book has been the guide for vi. 
+
+However, Unix systems are not what they were 30 years ago, and neither is this book. While retaining all the valuable features of previous editions, the 7th edition of Learning the vi and vim Editors has been expanded to include detailed information on vim, the leading vi clone. vim is the default version of vi on most Linux systems and on Mac OS X, and is available for many other operating systems too.
+
+With this guide, you learn text editing basics and advanced tools for both editors, such as multi-window editing, how to write both interactive macros and scripts to extend the editor, and power tools for programmers -- all in the easy-to-follow style that has made this book a classic.
+
+Learning the vi and vim Editors includes:
+
+A complete introduction to text editing with vi:
+
+How to move around vi in a hurry
+Beyond the basics, such as using buffers
+vi's global search and replacement
+Advanced editing, including customizing vi and executing Unix commands
+
+
+How to make full use of vim:
+Extended text objects and more powerful regular expressions
+Multi-window editing and powerful vim scripts
+How to make full use of the GUI version of vim, called gvim
+vim's enhancements for programmers, such as syntax highlighting, folding and extended tags
+
+
+Coverage of three other popular vi clones -- nvi, elvis, and vile -- is also included. You'll find several valuable appendixes, including an alphabetical quick reference to both vi and ex mode commands for regular vi and for vim, plus an updated appendix on vi and the Internet.
+
+Learning either vi or vim is required knowledge if you use Linux or Unix, and in either case, reading this book is essential. After reading this book, the choice of editor will be obvious for you too.
+
+
+     =======================================================================
+ 
+                                      UA-07
+                               Γò¼┬┐ Together For Ever Γò¼┬┐ 
+     =======================================================================	

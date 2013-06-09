@@ -1,0 +1,87 @@
+=============
+Key Features:|
+=============
+
+
+a) MULTI-CORE DECODING - MX Video Player is the first Android video player that performs multi-core decoding. According to the test results on dual-core devices, it shows up to 70% performance improvement than single-core devices.
+
+
+b) CPU OPTIMIZATION - Provides highly optimized Codecs and Rendering Engines for the processors including ARM┬« NEONΓäó and NVIDIA┬« TegraΓäó 2.
+
+
+c) PINCH ZOOM - Easily zoom in and out by pinching and swiping across screen.
+
+
+d) SUBTITLE SCROLL - Scroll on subtitle text and playback position will be adjusted to match previous or next subtitle timing.
+
+
+e) BETTER SUBTITLE READABILITY - Increased subtitle readability with thicker border and shadow around text.
+
+
+f) ANDROID 4.1 - Fully supports Android 4.1 Jelly Bean.
+
+
+================
+Subtitle Formats
+================
+
+
+- DVD, DVB, SSA/ASS Subtitle Tracks.
+- Sub Station Alpha(.ssa/.ass) with full styling.
+- SAMI(.smi/.sami) with ruby tag support.
+- SubRip(.srt)
+- MicroDVD(.sub/.txt)
+- SubViewer2.0(.sub)
+- MPL2(.mpl/.txt)
+- PowerDivX(.psb/.txt)
+- TMPlayer(.txt)
+
+******
+
+Sometimes license checking could fail on the first run.
+It typically happens when current time or time zone settings are incorrect, or Internet connection is unavailable. Please check the time setting and Internet connectivity.
+
+******
+If you can't buy from Android Market, please check our home page. We support more payment methods. (https://sites.google.com/site/mxvpen/buy)
+******
+
+
+About "modify battery statistics" permission: MX Video Player displays current battery state while playing video. To do this permission to read battery state is required. However Android does not distinguish between reading battery state permission and writing battery permission. This is why, despite battery state is only being read, permission to write battery state is required.
+******
+
+
+About "System Tools - display system-level alerts" permission: This permissions is required to block HOME key when input blocking is activated on video playback screen.
+
+******
+KRW 6,000 is about USD $5-$6.
+******
+----------------------
+What's in this version:
+----------------------
+
+(1.7.10)
+Fixed not automatically advancing to next video/audio when screen is locked.
+Fixed broken Tegra3 s/w video playback.
+Fixed broken MIPS s/w audio playback.
+
+
+------------------------------
+This app has NO advertisements
+------------------------------
+
+-----
+Note:
+-----
+
+Please remove all previous version and codec at first!!!
+
+
+ 
+https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro
+
+===============================
+
+this torrent contain both normal and neon version.
+
+=============================
+

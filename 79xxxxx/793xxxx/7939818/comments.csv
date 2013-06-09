@@ -1,0 +1,46 @@
+﻿User Type,Username,Date,Text
+,6monkeys,2013-01-01T04:17Z,"Great V10 : A10
+
+What application was used?
+
+What settings were used?
+
+Really good...."
+,6monkeys,2013-01-01T07:03Z,"What app was used?
+
+Got encoding settings:
+
+cabac=1 / ref=3 / deblock=1:1:1 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=0.40:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=2pass / mbtree=1 / bitrate=2228 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=25000 / vbv_bufsize=25000 / nal_hrd=none / ip_ratio=1.40 / aq=1:0.60"
+[T],dhjudasx,2013-01-01T08:10Z,"Settings used is a combination of following a template I had made... then creating my own script with more settings which clearly aren't in the log.
+
+If your wondering.. all my encodes use a 3 pass process, not 2. And the first pass is slow.. so no shortcuts or anything to speed up encoding times. There are numerous programs out there that can allow you to feed similar settings in, but the Quality factors and such aren't all spelled out. It's not the same for every movie... I change the script slightly each time depending on the movie. Some of the trilogies usually use the same settings because further testing has proved to be identical. The LOTR series for example.
+
+While as I stated in the end.. I don't technically use a program to do it, just have the libraries up to date (stable) and have the script ready.
+
+People seem to flock to Handbrake or one of the ""factory"" programs.. megui and so forth.
+
+Personally having tried numerous I've been relatively satisfied with how relatively simple and powerful Staxrip is. Highly recommend it. There is a lot of things to toy with, takes a bit of time to understand what it all does but a little patience and research will get you far."
+,6monkeys,2013-01-01T08:44Z,"Hi,
+
+Thanks so much for the comprehensive response.
+
+I have spent all afternoon trying to find apps....I have used handbrake in the past but want the best app / settings etc to get exactly what you have as an output / size. Believe it or not I decided to use Staxrip but there are very little up to date end to end tutorials. Do you know of any good ones.
+
+I would REALLY appreciate it if you could help me with my first rip settings by providing some bullet point style steps the movie I have is animated so should be similar settings as yours with M3.
+
+I can leave an email address if required.
+
+What app do you use to prepare the bluray to BDrip?
+
+Any help would be greatly appreciated.
+
+Thx"
+[T],dhjudasx,2013-01-01T18:12Z,"when I get a moment... i'll perhaps make up some tutorial info to get started...
+
+I use anydvd hd to rip the bd removing the copy protections and such in the process.
+
+quite busy with things atm though."
+,clu.kai,2013-01-01T23:06Z,"A: 100/10
+V: 100/10
+
+GREAT WORK! KEEP IT UP! :) #1 SUPPORTER HERE!"

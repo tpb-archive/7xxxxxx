@@ -1,0 +1,718 @@
+﻿Filename,Size,Unit
+atmc_ce.dll,20,K
+AUDIO/HU/voice_female/!PASSCAM.WAV,362.29,K
+AUDIO/HU/voice_female/!redlight.wav,780.79,K
+AUDIO/HU/voice_female/!USER2.WAV,364.04,K
+AUDIO/HU/voice_female/!USER4.WAV,364.04,K
+AUDIO/HU/voice_female/Sound5.wav,364.04,K
+AUDIO/HU/voice_female/Sound7.wav,364.04,K
+AUDIO/HU/voice_male/!PASSCAM.WAV,362.29,K
+AUDIO/HU/voice_male/!RADAR.WAV,361.79,K
+AUDIO/HU/voice_male/!redlight.wav,780.79,K
+AUDIO/HU/voice_male/!USER1.WAV,304.04,K
+AUDIO/HU/voice_male/!USER2.WAV,364.04,K
+AUDIO/HU/voice_male/!USER4.WAV,364.04,K
+AUDIO/HU/voice_male/Sound5.wav,364.04,K
+AUDIO/HU/voice_male/Sound7.wav,364.04,K
+AUDIO/HU/voice_male/Speed_Limit_010_kph.wav,392.04,K
+AUDIO/HU/voice_male/Speed_Limit_015_kph.wav,400.04,K
+AUDIO/HU/voice_male/Speed_Limit_020_kph.wav,400.04,K
+AUDIO/HU/voice_male/Speed_Limit_025_kph.wav,424.04,K
+AUDIO/HU/voice_male/Speed_Limit_030_kph.wav,424.04,K
+AUDIO/HU/voice_male/Speed_Limit_035_kph.wav,420.04,K
+AUDIO/HU/voice_male/Speed_Limit_040_kph.wav,420.04,K
+AUDIO/HU/voice_male/Speed_Limit_045_kph.wav,408.04,K
+AUDIO/HU/voice_male/Speed_Limit_050_kph.wav,408.04,K
+AUDIO/HU/voice_male/Speed_Limit_055_kph.wav,424.04,K
+AUDIO/HU/voice_male/Speed_Limit_060_kph.wav,424.04,K
+AUDIO/HU/voice_male/Speed_Limit_065_kph.wav,420.04,K
+AUDIO/HU/voice_male/Speed_Limit_070_kph.wav,420.04,K
+AUDIO/HU/voice_male/Speed_Limit_080_kph.wav,432.04,K
+AUDIO/HU/voice_male/Speed_Limit_090_kph.wav,452.04,K
+AUDIO/HU/voice_male/Speed_Limit_100_kph.wav,408.04,K
+AUDIO/HU/voice_male/Speed_Limit_110_kph.wav,436.04,K
+AUDIO/HU/voice_male/Speed_Limit_120_kph.wav,444.04,K
+AUDIO/HU/voice_male/Speed_Limit_130_kph.wav,460.04,K
+avqtmc.dll,16,K
+branding.zip,228,B
+content/building/Hungary.3dc,23.04,M
+content/building/Hungary.3dl,560.22,K
+content/building/Hungary_NQ_2012.Q3.3dc,2.01,M
+content/building/Hungary_NQ_2012.Q3.3dl,2.92,M
+content/car/06GN.ZIP,30.42,K
+content/car/06RD.ZIP,31.37,K
+content/car/1UP.ZIP,8.95,K
+content/car/2106.ZIP,35.3,K
+content/car/2109dps.zip,58.75,K
+content/car/51.zip,50,K
+content/car/52.zip,37.79,K
+content/car/76.ZIP,49.21,K
+content/car/8.zip,51.56,K
+content/car/Airbus.zip,54.64,K
+content/car/Audi_Q5.zip,81.88,K
+content/car/AudiA4.zip,67.04,K
+content/car/AudiQ5.zip,98.1,K
+content/car/AudiQ7_silv.zip,68.85,K
+content/car/AudiQ7B.zip,101.01,K
+content/car/AudiQ7blue.zip,84.8,K
+content/car/AudiQ7Gold.zip,76.69,K
+content/car/AudiTT.zip,53.46,K
+content/car/Bee.zip,10.82,K
+content/car/Bicycle.zip,31.04,K
+content/car/Big_Rig.zip,37.88,K
+content/car/Buggy.zip,29.68,K
+content/car/Bus.zip,20.46,K
+content/car/Car.zip,31.6,K
+content/dem/Brazil.dem,199.62,M
+content/global_cfg/global_cfg.zip,6.97,M
+content/histspeed/Austria_UNAV_60_2012.05_120522.hsp,1.59,M
+content/histspeed/Belgium_UNAV_60_2012.05_120522.hsp,516.22,K
+content/histspeed/Brazil_NQ_15_11Q4_120127.hsp,20.52,M
+content/histspeed/Denmark_UNAV_60_2012.05_120522.hsp,447.88,K
+content/histspeed/France_UNAV_60_2012.05_120522.hsp,1.55,M
+content/histspeed/Germany_UNAV_60_2012.05_120522.hsp,6.95,M
+content/histspeed/Italy_UNAV_60_2012.05_120522.hsp,1.85,M
+content/histspeed/Liechtenstein_UNAV_60_2012.05_120522.hsp,2.77,K
+content/histspeed/Luxembourg_UNAV_60_2012.05_120522.hsp,156.88,K
+content/histspeed/Netherlands_UNAV_60_2012.05_120522.hsp,851.63,K
+content/histspeed/Switzerland_UNAV_60_2012.05_120522.hsp,1.33,M
+content/lang/Lang_English-aus.zip,148.01,K
+content/lang/Lang_English-uk.zip,188.02,K
+content/lang/Lang_English-us.zip,151.14,K
+content/lang/Lang_Hungarian.zip,157.91,K
+content/lang/Lang_Portuguese-BR.zip,240.5,K
+content/lang/Lang_Portuguese.zip,153.01,K
+content/map/Austria_R3_NQ_2012.Q1_120522.fbl,29.37,M
+content/map/Croatia_R3_NQ_2012.Q1_120522.fbl,10.96,M
+content/map/EasternEuropeEasy.hnr,52.81,M
+content/map/EasternEuropeEconomic.hnr,34.87,M
+content/map/EasternEuropeFastest.hnr,54.71,M
+content/map/EasternEuropeShortest.hnr,14.17,M
+content/map/FYROM.fbl,1.82,M
+content/map/FYROM.fda,9.52,K
+content/map/FYROM.fpa,322.02,K
+content/map/Hungary.fbl,18.42,M
+content/map/Hungary.fda,215.52,K
+content/map/Hungary.fsp,4.61,M
+content/map/Western Europe_NQ_Easy_2012.Q1_120619.hnr,32.25,M
+content/map/Western Europe_NQ_Economical_2012.Q1_120619.hnr,31.99,M
+content/map/Western Europe_NQ_Fast_2012.Q1_120619.hnr,30.55,M
+content/map/Western Europe_NQ_Short_2012.Q1_120619.hnr,37.85,M
+content/scheme/autochanger-night.zip,9.67,K
+content/scheme/autochanger.zip,9.68,K
+content/scheme/Becker_Day.zip,4.38,K
+content/scheme/Becker_Day_Dark.zip,4.39,K
+content/scheme/Becker_Night-Bright.zip,3.85,K
+content/scheme/Becker_Night.zip,3.23,K
+content/scheme/Choto_ArbolesInvierno_day.zip,9.94,K
+content/scheme/Choto_ArbolesOtoÃ±o_day.zip,10.04,K
+content/scheme/Choto_ArbolesPrimavera_day.zip,12.45,K
+content/scheme/Choto_ArbolesVerano_day.zip,11.22,K
+content/scheme/Choto_Climax_day.zip,7.35,K
+content/scheme/Choto_energy green.zip,11.58,K
+content/scheme/Choto_Estrellas3D N.zip,3.83,K
+content/scheme/Choto_invierno_day.zip,9.77,K
+content/scheme/Choto_ManoDios_N.zip,3.25,K
+content/scheme/Choto_montaÃ±as invierno.zip,12.63,K
+content/scheme/Choto_montaÃ±as otoÃ±o.zip,11.61,K
+content/scheme/Choto_montaÃ±as primavera.zip,12.67,K
+content/scheme/Choto_montaÃ±as verano.zip,14.32,K
+content/scheme/Choto_OtoÃ±o_day.zip,9.87,K
+content/scheme/Choto_Pink love N.zip,3.26,K
+content/scheme/Choto_polar_night.zip,8.82,K
+content/scheme/Choto_primavera_day.zip,12.33,K
+content/scheme/Choto_Quijote_Night.zip,3.28,K
+content/scheme/Choto_ReyesMagos_N.zip,3.26,K
+content/scheme/Choto_Santa Claus N.zip,3.25,K
+content/scheme/Choto_Tormenta_N.zip,3.25,K
+content/scheme/Choto_verano_day.zip,11.05,K
+content/scheme/CristoCiudadBrasil.zip,4.19,K
+content/scheme/DGT_day.zip,10.9,K
+content/scheme/Easy-Day.zip,2.68,K
+content/scheme/Easy-Night.zip,2.37,K
+content/scheme/gj_ak_1.1_day.zip,4.55,K
+content/scheme/gj_ak_1.1_night.zip,4.1,K
+content/scheme/gj_ak_1.3_day.zip,4.61,K
+content/scheme/gj_ak_1.3_night.zip,4.08,K
+content/scheme/GjAk_sch2_day.zip,5.59,K
+content/scheme/GjAk_sch2_night.zip,3.87,K
+content/scheme/GjAk_sch_day.zip,5.54,K
+content/scheme/GjAk_sch_night.zip,3.82,K
+content/scheme/GJpp1.5_gre_black_d.zip,5.14,K
+content/scheme/GJpp1.5_gre_d.zip,5.14,K
+content/scheme/GJpp1.5_gre_n.zip,4.47,K
+content/scheme/GJpp1.5_org_d.zip,5.12,K
+content/scheme/GJpp1.5_org_n.zip,4.46,K
+content/scheme/GJpp1.5_red_d.zip,5.13,K
+content/scheme/GJpp1.5_red_n.zip,4.47,K
+content/scheme/GJpp1.6_red_d.zip,5.23,K
+content/skin/Arimi_v1.1.zip,4.12,M
+content/skin/diMkaWA_aP113.zip,6.35,M
+content/skin/diMkaWA_aP113_default.zip,3.75,M
+content/skin/diMkaWA_P156_pt_ls.zip,16.23,M
+content/skin/diMkaWA_P156_pt_ls_default.zip,7.8,M
+content/skin/GjAk_v1.3_BigRes+.zip,4.05,M
+content/speedcam/area escolar_br.txt,332.62,K
+content/speedcam/area perigosa_br.txt,85.86,K
+content/speedcam/bombeiros_br.txt,10.23,K
+content/speedcam/cruzamento de trem_br.txt,34.72,K
+content/speedcam/curva perigosa_br.txt,16.63,K
+content/speedcam/hospital_br.txt,124.09,K
+content/speedcam/preferencial_br.txt,18.1,K
+content/speedcam/sau_br.txt,132,B
+content/speedcam/speedcam.spdb,1.09,M
+content/speedcam/speedcam.txt,654.41,K
+content/speedcam/SpeedcamUpdates.spud,185,B
+content/speedcam/tunel_br.TXT,8.21,K
+content/tmc/Brazil_NavteqTraffic.tmc,8.36,K
+content/userdata/mydest/readme.txt,174,B
+content/userdata/poi/POIplaza-Garmin Notes.txt,692,B
+content/userdata/poi/POIplaza-iGO8 Notes.txt,2.93,K
+content/userdata/poi/POIplaza-iGO_Primo_Notes.txt,2.93,K
+content/userdata/poi/POIplaza-Navman Notes.txt,1.99,K
+content/userdata/poi/speedcam.txt,7.31,K
+content/userdata/poi/SRB-1-2-3.kix,66,B
+content/userdata/poi/SRB-1-2-3.kml,375,B
+content/userdata/poi/SRB-1-2-3.kns,42,B
+content/userdata/poi/SRB-AdultOnly.kix,114,B
+content/userdata/poi/SRB-AdultOnly.kml,817,B
+content/userdata/poi/SRB-AdultOnly.kns,170,B
+content/userdata/poi/SRB-AdventistChurch.kix,866,B
+content/userdata/poi/SRB-AdventistChurch.kml,14.71,K
+content/userdata/poi/SRB-AdventistChurch.kns,384,B
+content/userdata/poi/SRB-AdvertisementAgency.kix,126,B
+content/userdata/poi/SRB-AdvertisementAgency.kml,455,B
+content/userdata/poi/SRB-AdvertisementAgency.kns,70,B
+content/userdata/poi/SRB-Aeroclub.kix,78,B
+content/userdata/poi/SRB-Aeroclub.kml,371,B
+content/userdata/poi/SRB-Aeroclub.kns,64,B
+content/userdata/poi/SRB-Agrobanka.kix,82,B
+content/userdata/poi/SRB-Agrobanka.kml,361,B
+content/userdata/poi/SRB-Agrobanka.kns,50,B
+content/userdata/poi/SRB-Airport.kix,228,B
+content/userdata/poi/SRB-Airport.kml,2.7,K
+content/userdata/poi/SRB-Airport.kns,330,B
+content/userdata/poi/SRB-Ambulance.kix,1.58,K
+content/userdata/poi/SRB-Ambulance.kml,25.85,K
+content/userdata/poi/SRB-Ambulance.kns,4.53,K
+content/userdata/poi/SRB-Apartments.kix,142,B
+content/userdata/poi/SRB-Apartments.kml,1.37,K
+content/userdata/poi/SRB-Apartments.kns,238,B
+content/userdata/poi/SRB-ArtistAtelier.kix,110,B
+content/userdata/poi/SRB-ArtistAtelier.kml,411,B
+content/userdata/poi/SRB-ArtistAtelier.kns,62,B
+content/userdata/poi/SRB-Avia.kix,188,B
+content/userdata/poi/SRB-Avia.kml,2.24,K
+content/userdata/poi/SRB-Avia.kns,84,B
+content/userdata/poi/SRB-BancaIntesa.kix,2.85,K
+content/userdata/poi/SRB-BancaIntesa.kml,46.8,K
+content/userdata/poi/SRB-BancaIntesa.kns,906,B
+content/userdata/poi/SRB-BandEnsemble.kix,102,B
+content/userdata/poi/SRB-BandEnsemble.kml,404,B
+content/userdata/poi/SRB-BandEnsemble.kns,60,B
+content/userdata/poi/SRB-BaptistChurch.kix,102,B
+content/userdata/poi/SRB-BaptistChurch.kml,373,B
+content/userdata/poi/SRB-BaptistChurch.kns,66,B
+content/userdata/poi/SRB-Basketball.kix,100,B
+content/userdata/poi/SRB-Basketball.kml,644,B
+content/userdata/poi/SRB-Basketball.kns,106,B
+content/userdata/poi/SRB-Beach.kix,66,B
+content/userdata/poi/SRB-Beach.kml,364,B
+content/userdata/poi/SRB-Beach.kns,54,B
+content/userdata/poi/SRB-BeautySalon.kix,94,B
+content/userdata/poi/SRB-BeautySalon.kml,410,B
+content/userdata/poi/SRB-BeautySalon.kns,54,B
+content/userdata/poi/SRB-BlackSpot.kix,156,B
+content/userdata/poi/SRB-BlackSpot.kml,1.55,K
+content/userdata/poi/SRB-BlackSpot.kns,318,B
+content/userdata/poi/SRB-BoatRestaurant.kix,750,B
+content/userdata/poi/SRB-BoatRestaurant.kml,10.27,K
+content/userdata/poi/SRB-BoatRestaurant.kns,1.8,K
+content/userdata/poi/SRB-BorderCrossing.kix,274,B
+content/userdata/poi/SRB-BorderCrossing.kml,3.01,K
+content/userdata/poi/SRB-BorderCrossing.kns,248,B
+content/userdata/poi/SRB-Burek.kix,66,B
+content/userdata/poi/SRB-Burek.kml,357,B
+content/userdata/poi/SRB-Burek.kns,44,B
+content/userdata/poi/SRB-BusLaneCamera.kix,106,B
+content/userdata/poi/SRB-BusLaneCamera.kml,380,B
+content/userdata/poi/SRB-BusLaneCamera.kns,70,B
+content/userdata/poi/SRB-BusStation.kix,552,B
+content/userdata/poi/SRB-BusStation.kml,7.7,K
+content/userdata/poi/SRB-BusStation.kns,332,B
+content/userdata/poi/SRB-Cafe.kix,7.09,K
+content/userdata/poi/SRB-Cafe.kml,109.75,K
+content/userdata/poi/SRB-Cafe.kns,16.57,K
+content/userdata/poi/SRB-CampingSite.kix,346,B
+content/userdata/poi/SRB-CampingSite.kml,4.31,K
+content/userdata/poi/SRB-CampingSite.kns,786,B
+content/userdata/poi/SRB-CarBody.kix,78,B
+content/userdata/poi/SRB-CarBody.kml,414,B
+content/userdata/poi/SRB-CarBody.kns,50,B
+content/userdata/poi/SRB-CarPark.kix,92,B
+content/userdata/poi/SRB-CarPark.kml,586,B
+content/userdata/poi/SRB-CarPark.kns,68,B
+content/userdata/poi/SRB-CarWash.bmp,822,B
+content/userdata/poi/SRB-CarWash.csv,1.02,K
+content/userdata/poi/SRB-CarWash.kix,274,B
+content/userdata/poi/SRB-CarWash.kml,3.66,K
+content/userdata/poi/SRB-CarWash.kns,542,B
+content/userdata/poi/SRB-Casino.kix,112,B
+content/userdata/poi/SRB-Casino.kml,1023,B
+content/userdata/poi/SRB-Casino.kns,86,B
+content/userdata/poi/SRB-Cemetary.kix,484,B
+content/userdata/poi/SRB-Cemetary.kml,6.73,K
+content/userdata/poi/SRB-Cemetary.kns,1.13,K
+content/userdata/poi/SRB-Change.kix,84,B
+content/userdata/poi/SRB-Change.kml,634,B
+content/userdata/poi/SRB-Change.kns,108,B
+content/userdata/poi/SRB-Church.kix,2.5,K
+content/userdata/poi/SRB-Church.kml,40.43,K
+content/userdata/poi/SRB-Church.kns,8.29,K
+content/userdata/poi/SRB-ChurchesMonasteriesReligiousSites.kix,4.56,K
+content/userdata/poi/SRB-ChurchesMonasteriesReligiousSites.kml,69.67,K
+content/userdata/poi/SRB-ChurchesMonasteriesReligiousSites.kns,16.82,K
+content/userdata/poi/SRB-CNG.kix,100,B
+content/userdata/poi/SRB-CNG.kml,1.1,K
+content/userdata/poi/SRB-CNG.kns,58,B
+content/userdata/poi/SRB-Communications.kix,102,B
+content/userdata/poi/SRB-Communications.kml,453,B
+content/userdata/poi/SRB-Communications.kns,52,B
+content/userdata/poi/SRB-Company.kix,130,B
+content/userdata/poi/SRB-Company.kml,1.71,K
+content/userdata/poi/SRB-Company.kns,180,B
+content/userdata/poi/SRB-ComputerStore.kix,116,B
+content/userdata/poi/SRB-ComputerStore.kml,639,B
+content/userdata/poi/SRB-ComputerStore.kns,88,B
+content/userdata/poi/SRB-Confectionary.kix,168,B
+content/userdata/poi/SRB-Confectionary.kml,1.51,K
+content/userdata/poi/SRB-Confectionary.kns,324,B
+content/userdata/poi/SRB-Court.kix,164,B
+content/userdata/poi/SRB-Court.kml,2,K
+content/userdata/poi/SRB-Court.kns,244,B
+content/userdata/poi/SRB-CulturalCenter.kix,106,B
+content/userdata/poi/SRB-CulturalCenter.kml,385,B
+content/userdata/poi/SRB-CulturalCenter.kns,66,B
+content/userdata/poi/SRB-Customs.kix,74,B
+content/userdata/poi/SRB-Customs.kml,359,B
+content/userdata/poi/SRB-Customs.kns,44,B
+content/userdata/poi/SRB-DangerousRailwayCrossing.kix,178,B
+content/userdata/poi/SRB-DangerousRailwayCrossing.kml,960,B
+content/userdata/poi/SRB-DangerousRailwayCrossing.kns,132,B
+content/userdata/poi/SRB-HistoricalSitesMonuments.kix,2.44,K
+content/userdata/poi/SRB-HistoricalSitesMonuments.kml,37.23,K
+content/userdata/poi/SRB-HistoricalSitesMonuments.kns,7.92,K
+content/userdata/poi/SRB-Hotel.kix,1.64,K
+content/userdata/poi/SRB-Hotel.kml,25.09,K
+content/userdata/poi/SRB-Hotel.kns,3.49,K
+content/userdata/poi/SRB-Komercijalnabanka.kix,426,B
+content/userdata/poi/SRB-Komercijalnabanka.kml,5.68,K
+content/userdata/poi/SRB-Komercijalnabanka.kns,210,B
+content/userdata/poi/SRB-LPG.kix,4.66,K
+content/userdata/poi/SRB-LPG.kml,76.24,K
+content/userdata/poi/SRB-LPG.kns,5.16,K
+content/userdata/poi/SRB-MaxiDelhaize.kix,1.64,K
+content/userdata/poi/SRB-MaxiDelhaize.kml,30.1,K
+content/userdata/poi/SRB-MaxiDelhaize.kns,522,B
+content/userdata/poi/SRB-Mercator.kix,106,B
+content/userdata/poi/SRB-Mercator.kml,901,B
+content/userdata/poi/SRB-Mercator.kns,64,B
+content/userdata/poi/SRB-Metro.kix,150,B
+content/userdata/poi/SRB-Metro.kml,1.9,K
+content/userdata/poi/SRB-Metro.kns,74,B
+content/userdata/poi/SRB-Mol.kix,408,B
+content/userdata/poi/SRB-Mol.kml,5.75,K
+content/userdata/poi/SRB-Mol.kns,174,B
+content/userdata/poi/SRB-Monastery.kix,1.34,K
+content/userdata/poi/SRB-Monastery.kml,20.28,K
+content/userdata/poi/SRB-Monastery.kns,3.67,K
+content/userdata/poi/SRB-Pharmacy.kix,6.06,K
+content/userdata/poi/SRB-Pharmacy.kml,94.98,K
+content/userdata/poi/SRB-Pharmacy.kns,15.09,K
+content/userdata/poi/SRB-PiraeusBank.kix,640,B
+content/userdata/poi/SRB-PiraeusBank.kml,9.04,K
+content/userdata/poi/SRB-PiraeusBank.kns,220,B
+content/userdata/poi/SRB-Pizzeria.kix,932,B
+content/userdata/poi/SRB-Pizzeria.kml,13.53,K
+content/userdata/poi/SRB-Pizzeria.kns,2.2,K
+content/userdata/poi/SRB-Playground.kix,86,B
+content/userdata/poi/SRB-Playground.kml,373,B
+content/userdata/poi/SRB-Playground.kns,56,B
+content/userdata/poi/SRB-Policija-Srbija.kix,184,B
+content/userdata/poi/SRB-Policija-Srbija.kml,1.64,K
+content/userdata/poi/SRB-Policija-Srbija.kns,294,B
+content/userdata/poi/SRB-PopulatedPlacesinVojvodina.kix,3.89,K
+content/userdata/poi/SRB-PopulatedPlacesinVojvodina.kml,58.41,K
+content/userdata/poi/SRB-PopulatedPlacesinVojvodina.kns,13.86,K
+content/userdata/poi/SRB-Restaurants.kix,8.89,K
+content/userdata/poi/SRB-Restaurants.kml,140.08,K
+content/userdata/poi/SRB-Restaurants.kns,25.36,K
+content/userdata/poi/SRB-SkodaDealerService.kix,148,B
+content/userdata/poi/SRB-SkodaDealerService.kml,663,B
+content/userdata/poi/SRB-SkodaDealerService.kns,80,B
+content/userdata/poi/SRB-TollGate.kix,194,B
+content/userdata/poi/SRB-TollGate.kml,2.06,K
+content/userdata/poi/SRB-TollGate.kns,120,B
+content/userdata/poi/SRB-Toys.kix,62,B
+content/userdata/poi/SRB-Toys.kml,407,B
+content/userdata/poi/SRB-Toys.kns,46,B
+content/userdata/poi/SRB-TrafficLights.kix,606,B
+content/userdata/poi/SRB-TrafficLights.kml,9.17,K
+content/userdata/poi/SRB-TrafficLights.kns,198,B
+content/userdata/poi/SRB-TravelAgency.kix,98,B
+content/userdata/poi/SRB-TravelAgency.kml,417,B
+content/userdata/poi/SRB-TravelAgency.kns,64,B
+content/userdata/poi/SRB-TruckShop.kix,86,B
+content/userdata/poi/SRB-TruckShop.kml,409,B
+content/userdata/poi/SRB-TruckShop.kns,58,B
+content/userdata/poi/SRB-TyreService.kix,178,B
+content/userdata/poi/SRB-TyreService.kml,1.73,K
+content/userdata/poi/SRB-TyreService.kns,160,B
+content/userdata/poi/SRB-University.kix,128,B
+content/userdata/poi/SRB-University.kml,1.15,K
+content/userdata/poi/SRB-University.kns,162,B
+content/userdata/poi/SRB-Valdi.kix,220,B
+content/userdata/poi/SRB-Valdi.kml,2.84,K
+content/userdata/poi/SRB-Valdi.kns,94,B
+content/userdata/poi/SRB-Vapiano.kix,74,B
+content/userdata/poi/SRB-Vapiano.kml,368,B
+content/userdata/poi/SRB-Vapiano.kns,46,B
+content/userdata/poi/SRB-Vip.kix,58,B
+content/userdata/poi/SRB-Vip.kml,357,B
+content/userdata/poi/SRB-Vip.kns,38,B
+content/userdata/poi/SRB-Vojvodjanskabanka.kix,118,B
+content/userdata/poi/SRB-Vojvodjanskabanka.kml,394,B
+content/userdata/poi/SRB-Vojvodjanskabanka.kns,68,B
+content/userdata/poi/SRB-Volksbank.kix,82,B
+content/userdata/poi/SRB-Volksbank.kml,404,B
+content/userdata/poi/SRB-Volksbank.kns,50,B
+content/userdata/poi/SRB-Workshop.kix,176,B
+content/userdata/poi/SRB-Workshop.kml,2.19,K
+content/userdata/poi/SRB-Workshop.kns,338,B
+content/userdata/poi/SRB-WorldHeritage.kix,144,B
+content/userdata/poi/SRB-WorldHeritage.kml,3.14,K
+content/userdata/poi/SRB-WorldHeritage.kns,268,B
+content/userdata/route/readme.txt,294,B
+content/voice/Voice_Eng-uk-f3-lua.zip,2.22,M
+content/voice/Voice_Eng-uk-m2-lua.zip,2.39,M
+content/voice/Voice_Eng-us-f1 - Amy v1.2.zip,904.04,K
+content/voice/Voice_Eng-us-f1-lua.zip,907.07,K
+content/voice/Voice_Eng-us-f1.zip,904.37,K
+content/voice/Voice_Eng-us-m1 - Jason v1.2.zip,799.79,K
+content/voice/Voice_Eng-us-m2 - Dave v1.1.zip,1.11,M
+content/voice/Voice_Eng-us-m3 - Kenneth v1.0.zip,2.04,M
+content/voice/Voice_Hun-f2.zip,3.52,M
+content/voice/Voice_Por-bra-f2-lua.zip,3.75,M
+content/voice/Voice_Por-bra-m1-lua.zip,3.35,M
+content/voice/Voice_Por-f4-lua.zip,1.35,M
+content/voice/Voice_Por-m4-lua.zip,1.42,M
+content/voice/Voice_TTS-loq-por-bra-f1-Pro.zip,123.73,K
+content/voice/Voice_TTS-nua-pbr-f3-lua-vssq5f22.zip,123.59,K
+data.zip,35.95,M
+gpstmc.dll,99,K
+iGO Primo-thin-v1.1+JB.apk,5.84,M
+license/ACTIVATION_CODES,0,B
+license/device.nng,264,B
+"license/Navon_Primo_FEU@10Q1_(NQ+NNG,_DEM,_CAR,_TMC,_3DLM,_HNR,_DA,_HNR,_HSP)_F_.lyc",3.21,K
+license/NQ_2011Q1_A5.lyc,1.15,K
+license/NQ_2011Q_W4.lyc,1.3,K
+license/server_configs/www.naviextras.com/config.ini,178,B
+nnghal.dll,31,K
+Outras Resulocoes/android-1024_600/data.zip,53.49,M
+Outras Resulocoes/android-1024_600/sys.txt,19,K
+Outras Resulocoes/android-1024_768/data.zip,44.05,M
+Outras Resulocoes/android-1024_768/sys.txt,19.01,K
+Outras Resulocoes/android-1280-800/data.zip,46.41,M
+Outras Resulocoes/android-1280-800/sys.txt,19.01,K
+Outras Resulocoes/android-1280_720/data.zip,46.41,M
+Outras Resulocoes/android-1280_720/sys.txt,19.01,K
+Outras Resulocoes/android-1920_1200-1200_1920-1920_1128-1200_1848/data.zip,35.86,M
+Outras Resulocoes/android-1920_1200-1200_1920-1920_1128-1200_1848/sys.txt,19.01,K
+Outras Resulocoes/android-320_240/data.zip,13.62,M
+Outras Resulocoes/android-320_240/sys.txt,19.01,K
+Outras Resulocoes/android-480_320/data.zip,17.31,M
+Outras Resulocoes/android-480_320/sys.txt,19.01,K
+Outras Resulocoes/android-800_480/data.zip,35.93,M
+Outras Resulocoes/android-800_480/sys.txt,19.01,K
+Outras Resulocoes/android-960_540/data.zip,35.93,M
+Outras Resulocoes/android-960_540/sys.txt,19.01,K
+save/driver_profiles.dat,20,B
+save/fm_cache.txt,0,B
+save/preloads/bjunc.prl,68,B
+save/preloads/buildings.prl,1.94,K
+save/preloads/carmodels.prl,11.06,K
+save/preloads/colorprofile.prl,1.66,K
+save/preloads/compiled_lua_config_condfun.prl,2.19,K
+save/preloads/compiled_lua_config_database.prl,19.27,K
+save/preloads/compiled_lua_config_numbers.prl,11.64,K
+save/preloads/compiled_lua_config_transform_tables.prl,14.09,K
+save/preloads/compiled_lua_config_transforms.prl,9.78,K
+save/preloads/compiled_lua_voice.prl,542,B
+save/preloads/country_info.prl,13.7,K
+save/preloads/fp_3dl_3dc.prl,744,B
+save/preloads/fp_dem.prl,4.55,K
+save/preloads/geodb_largestfile.prl,28,B
+save/preloads/imgr.prl,250.73,K
+save/preloads/lang_key.prl,90,B
+save/preloads/mapmanager.prl,2.91,K
+save/preloads/poi_mapping.prl,26.96,K
+save/preloads/shieldinfo.prl,2.49,K
+save/preloads/visualconfig_shieldvisualdesc.prl,837,B
+save/preloads/voice_key.prl,575,B
+save/profiles/01/history.sav,200,B
+save/profiles/01/lua__persistent_.sav,2.45,K
+save/profiles/01/mapstates.ini,26.04,K
+save/profiles/01/persistent_vars.sav,273,B
+save/profiles/01/poi_visiblities.txt,2.06,K
+save/profiles/01/route.dat,200,B
+save/profiles/01/settings_v2.sav,59,B
+save/profiles/01/street_history.sav,115,B
+save/profiles/01/system.ini,3.7,K
+save/stats/content.ids,56,B
+save/stats/usage.log,9.21,K
+save/trafficevents.txt,0,B
+sys.txt,19.77,K
+tmcgps.dll,118.5,K
+tts_nua_v5/huh/speech/components/synth_eszter_dri40_155mrf22_270_06.dat,21.44,M
+tts_nua_v5/huh/speech/components/synth_Eszter_dri40_vssq5_f22.dat,76.93,M
+tts_nua_v5/Hun8/Hun8/Primo/content/lang/Lang_Hungarian.zip,157.91,K
+tts_nua_v5/Hun8/Hun8/Primo/content/voice/Voice_TTS-Pro-Hungary-Ariadne-zervdim-V8.zip,28.94,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/common/speech/components/pp.dat,7.74,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/common/speech/components/synth_med_fxd_bet2f22.dat,20.91,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/depes_huh.dat,67.35,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/depes_huh_Ariadne.dat,8.38,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/phonmap_huh_Ariadne.dat,1.9,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/pp_huh.dat,11.36,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/sapi5_conv_huh.dat,944,B
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/synth_Ariadne_dri40_vssq5_f22.dat,81.36,M
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/sysdct_huh_cfg1.dat,83.32,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/tokentn_huh.dat,121.54,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/components/uselect_Ariadne_dri40.dat,2.39,M
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/vautov5/vauto_pipeline_huh_Ariadne_22_dri40_vssq5f22.hdr,2.43,K
+tts_nua_v5/Hun8/Hun8/Primo/tts_nua_v5/huh/speech/vautov5/vauto_sapi5_phonmap_huh.hdr,235,B
+tts_nua_v5/Hun8/Hun8/Primo/VAUTOV5.DLL,1.87,M
+tts_nua_v5/Hun8/Hun8/Readme.txt,8.43,K
+tts_nua_v5/Hun8/Hun8/sys.txt for TTS with International Edition.txt,9.31,K
+tts_nua_v5/Primo/AUDIO/HU/voice_female/!PASSCAM.WAV,362.29,K
+tts_nua_v5/Primo/AUDIO/HU/voice_female/!redlight.wav,780.79,K
+tts_nua_v5/Primo/AUDIO/HU/voice_female/!USER2.WAV,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_female/!USER4.WAV,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_female/Sound5.wav,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_female/Sound7.wav,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/!PASSCAM.WAV,362.29,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/!RADAR.WAV,361.79,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/!redlight.wav,780.79,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/!USER1.WAV,304.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/!USER2.WAV,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/!USER4.WAV,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Sound5.wav,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Sound7.wav,364.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_010_kph.wav,392.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_015_kph.wav,400.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_020_kph.wav,400.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_025_kph.wav,424.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_030_kph.wav,424.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_035_kph.wav,420.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_040_kph.wav,420.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_045_kph.wav,408.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_050_kph.wav,408.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_055_kph.wav,424.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_060_kph.wav,424.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_065_kph.wav,420.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_070_kph.wav,420.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_080_kph.wav,432.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_090_kph.wav,452.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_100_kph.wav,408.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_110_kph.wav,436.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_120_kph.wav,444.04,K
+tts_nua_v5/Primo/AUDIO/HU/voice_male/Speed_Limit_130_kph.wav,460.04,K
+tts_nua_v5/Primo/CONTENT/DEM/Europe_83_NASA_071128.dem,257.07,M
+tts_nua_v5/Primo/CONTENT/MAP_TT/Eastern Europe_TomTom_Easy_2011.06_110830.hnr,10.75,M
+tts_nua_v5/Primo/CONTENT/MAP_TT/Hungary_R3_TomTom_2011.06_110829.ftr,760.02,K
+tts_nua_v5/Primo/GFX/NIGHT/SKY0.BMP,659.23,K
+tts_nua_v5/Primo/tts_nua_v5/huh/speech/components/synth_eszter_dri40_155mrf22_270_06.dat,21.44,M
+tts_nua_v5/Primo/tts_nua_v5/huh/speech/components/synth_Eszter_dri40_vssq5_f22.dat,81.36,M
+tts_nua_v5/Primo/ui_igo9/480_272/loading_1.bmp,382.55,K
+tts_nua_v5/Primo/ui_igo9/480_272/loading_10.bmp,382.55,K
+tts_nua_v5/Primo/ui_igo9/480_272/loading_11.bmp,382.55,K
+tts_nua_v5/Primo/ui_igo9/480_272/loading_7.bmp,382.55,K
+ui_android/audio/!user1.wav,166.06,K
+ui_android/audio/!user10.wav,204.06,K
+ui_android/audio/!user11.wav,90.06,K
+ui_android/audio/!user12.wav,266.06,K
+ui_android/audio/!user13.wav,92.06,K
+ui_android/audio/!user14.wav,194.06,K
+ui_android/audio/!user15.wav,50.06,K
+ui_android/audio/!user16.wav,207.44,K
+ui_android/audio/!user17.wav,157.46,K
+ui_android/audio/!user18.wav,194.96,K
+ui_android/audio/!user19.wav,159.91,K
+ui_android/audio/!user2.wav,182.06,K
+ui_android/audio/!user20.wav,380.73,K
+ui_android/audio/!user21.wav,296.96,K
+ui_android/audio/!user22.wav,161.08,K
+ui_android/audio/!user23.wav,307.23,K
+ui_android/audio/!user24.wav,175.18,K
+ui_android/audio/!user25.wav,438,B
+ui_android/audio/!user26.wav,438,B
+ui_android/audio/!user27.wav,68.82,K
+ui_android/audio/!user28.wav,68.91,K
+ui_android/audio/!user3.wav,130.06,K
+ui_android/audio/!user30.wav,27.57,K
+ui_android/audio/!user4.wav,358.06,K
+ui_android/audio/!user5.wav,690.06,K
+ui_android/audio/!user6.wav,240.06,K
+ui_android/audio/!user7.wav,130.06,K
+ui_android/audio/!user8.wav,182.06,K
+ui_android/audio/!user9.wav,204.06,K
+ui_android/common/keyboard.ini,22.54,K
+ui_android/common/keyboard_old.ini,4.63,K
+utility/backup.EXE,67,K
+utility/backup.nfrun,2.74,K
+utility/backup.TXT,260,B
+utility/backup_exit.exe,66.5,K
+utility/backup_exit.nfrun,3.91,K
+utility/esc.EXE,66.5,K
+utility/esc.nfrun,34,B
+utility/MapChanger.exe,67,K
+utility/MapChanger.nfrun,7.07,K
+utility/restore.EXE,67,K
+utility/restore.nfrun,3.47,K
+utility/set.WAV,2.65,K
+utility/utility.EXE,67,K
+utility/utility.INI,324,B
+utility/utility.nfRun,1.99,K
+ux/800400-jv_20.zip,1.78,K
+ux/eta_tts_20.zip,1.67,K
+ux/minijv_20.zip,1.78,K
+ux/tmc_fix_frequency_20.zip,2.64,K
+ux/toll_booth_warning_20.zip,27.24,K
+VAUTOV5.DLL,1.87,M
+Vozes TTS para Android/loquendo.tts-all.apk,5.45,M
+Vozes TTS para Android/LoquendoTTS/Arabic.ttsconf,1017,B
+Vozes TTS para Android/LoquendoTTS/Catalan.ttsconf,1.97,K
+Vozes TTS para Android/LoquendoTTS/Chinese.ttsconf,952,B
+Vozes TTS para Android/LoquendoTTS/Danish.ttsconf,1020,B
+Vozes TTS para Android/LoquendoTTS/doc/GabrielaGildedParalinguistics.txt,712,B
+Vozes TTS para Android/LoquendoTTS/doc/GabrielaGildedPhrases.txt,3.14,K
+Vozes TTS para Android/LoquendoTTS/Dutch.ttsconf,1.01,K
+Vozes TTS para Android/LoquendoTTS/English.ttsconf,6.99,K
+Vozes TTS para Android/LoquendoTTS/Finnish.ttsconf,1019,B
+Vozes TTS para Android/LoquendoTTS/French.ttsconf,2.52,K
+Vozes TTS para Android/LoquendoTTS/Gabriela.ttsconf,1.93,K
+Vozes TTS para Android/LoquendoTTS/Galician.ttsconf,977,B
+Vozes TTS para Android/LoquendoTTS/German.ttsconf,1.56,K
+Vozes TTS para Android/LoquendoTTS/global.ttsconf,637,B
+Vozes TTS para Android/LoquendoTTS/Greek.ttsconf,1015,B
+Vozes TTS para Android/LoquendoTTS/Italian.ttsconf,1.11,K
+Vozes TTS para Android/LoquendoTTS/LicenseCode.txt,185,B
+Vozes TTS para Android/LoquendoTTS/log.txt,18.28,K
+Vozes TTS para Android/LoquendoTTS/LoquendoTTSLicense.txt,185,B
+Vozes TTS para Android/LoquendoTTS/modules/Arabic/Arabic.gpr,489.3,K
+Vozes TTS para Android/LoquendoTTS/modules/Catalan/CatalanCe.lex,2.45,K
+Vozes TTS para Android/LoquendoTTS/modules/Catalan/CatalanCe.linfo,120.97,K
+Vozes TTS para Android/LoquendoTTS/modules/Catalan/CatalanVa.lex,3.11,K
+Vozes TTS para Android/LoquendoTTS/modules/Catalan/CatalanVa.linfo,139.29,K
+Vozes TTS para Android/LoquendoTTS/modules/Chinese/Chinese.chd,923.04,K
+Vozes TTS para Android/LoquendoTTS/modules/Danish/Danish.lex,16.14,K
+Vozes TTS para Android/LoquendoTTS/modules/Dutch/Dutch.gpr,902.06,K
+Vozes TTS para Android/LoquendoTTS/modules/Dutch/Dutch.lex,4.99,K
+Vozes TTS para Android/LoquendoTTS/modules/Dutch/Dutch.linfo,83.92,K
+Vozes TTS para Android/LoquendoTTS/modules/English/American English Address Digits.lex,443,B
+Vozes TTS para Android/LoquendoTTS/modules/English/American English Address Pronunciation.lex,626,B
+Vozes TTS para Android/LoquendoTTS/modules/English/American English Address.lex,20.38,K
+Vozes TTS para Android/LoquendoTTS/modules/English/American English USCities.lex,12.26,K
+Vozes TTS para Android/LoquendoTTS/modules/English/Australian English AUCities.lex,670.1,K
+Vozes TTS para Android/LoquendoTTS/modules/English/Australian English Names.lex,812.81,K
+Vozes TTS para Android/LoquendoTTS/modules/English/Australian English Proper Names.lex,94.31,K
+Vozes TTS para Android/LoquendoTTS/modules/English/British English Address.lex,2.76,K
+Vozes TTS para Android/LoquendoTTS/modules/English/British English Proper Names.lex,68.42,K
+Vozes TTS para Android/LoquendoTTS/modules/English/British English USCities.lex,9.78,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishAu.gpr,1.17,M
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishAu.lex,5.08,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishAu.linfo,75.86,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishGb.gpr,1.17,M
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishGb.lex,5.98,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishGb.linfo,72.13,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishIn.gpr,1.54,M
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishIn.lex,40.84,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishIn.linfo,72.13,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishUs.gpr,985.75,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishUs.lex,5.27,K
+Vozes TTS para Android/LoquendoTTS/modules/English/EnglishUs.linfo,100.25,K
+Vozes TTS para Android/LoquendoTTS/modules/English/SMSEnglishAu.lex,4.29,K
+Vozes TTS para Android/LoquendoTTS/modules/English/SMSEnglishGb.lex,4.29,K
+Vozes TTS para Android/LoquendoTTS/modules/English/SMSEnglishIn.lex,4.26,K
+Vozes TTS para Android/LoquendoTTS/modules/English/SMSEnglishUs.lex,4.29,K
+Vozes TTS para Android/LoquendoTTS/modules/Finnish/Finnish.lex,5.83,K
+Vozes TTS para Android/LoquendoTTS/modules/Finnish/Finnish.linfo,42.55,K
+Vozes TTS para Android/LoquendoTTS/modules/French/French Address Digits.lex,445,B
+Vozes TTS para Android/LoquendoTTS/modules/French/French Address.lex,5.94,K
+Vozes TTS para Android/LoquendoTTS/modules/French/FrenchCa.lex,1.88,K
+Vozes TTS para Android/LoquendoTTS/modules/French/FrenchCa.linfo,78.01,K
+Vozes TTS para Android/LoquendoTTS/modules/French/FrenchFr.lex,1.88,K
+Vozes TTS para Android/LoquendoTTS/modules/French/FrenchFr.linfo,80.45,K
+Vozes TTS para Android/LoquendoTTS/modules/French/SMSFrenchFr.lex,4.56,K
+Vozes TTS para Android/LoquendoTTS/modules/Gabriela/Gabriela.16000.LTTS7CodecMsx.32800.10.bin,32.71,M
+Vozes TTS para Android/LoquendoTTS/modules/Gabriela/Gabriela.sde,1.88,M
+Vozes TTS para Android/LoquendoTTS/modules/Gabriela/GabrielaGildedParalinguistics.16000.LTTS7CodecMsx.32800.10.bin,671.36,K
+Vozes TTS para Android/LoquendoTTS/modules/Gabriela/GabrielaGildedParalinguistics.sde,3.97,K
+Vozes TTS para Android/LoquendoTTS/modules/Gabriela/GabrielaGildedPhrases.16000.LTTS7CodecMsx.32800.10.bin,1.15,M
+Vozes TTS para Android/LoquendoTTS/modules/Gabriela/GabrielaGildedPhrases.sde,58.43,K
+Vozes TTS para Android/LoquendoTTS/modules/Galician/Galician.lex,1.9,K
+Vozes TTS para Android/LoquendoTTS/modules/Galician/Galician.linfo,88.06,K
+Vozes TTS para Android/LoquendoTTS/modules/German/German Address.lex,3.7,K
+Vozes TTS para Android/LoquendoTTS/modules/German/German Cities.lex,1.01,K
+Vozes TTS para Android/LoquendoTTS/modules/German/German.lex,149.24,K
+Vozes TTS para Android/LoquendoTTS/modules/German/German.linfo,168.8,K
+Vozes TTS para Android/LoquendoTTS/modules/German/SMSGerman.lex,3.42,K
+Vozes TTS para Android/LoquendoTTS/modules/Greek/Greek.lex,5.23,K
+Vozes TTS para Android/LoquendoTTS/modules/Greek/Greek.linfo,34.32,K
+Vozes TTS para Android/LoquendoTTS/modules/Italian/Italian.lex,4.4,K
+Vozes TTS para Android/LoquendoTTS/modules/Italian/SMSItalian.lex,7.51,K
+Vozes TTS para Android/LoquendoTTS/modules/Norwegian/Norwegian.lex,150.62,K
+Vozes TTS para Android/LoquendoTTS/modules/Polish/Polish.lex,14.23,K
+Vozes TTS para Android/LoquendoTTS/modules/Polish/Polish.linfo,6.54,K
+Vozes TTS para Android/LoquendoTTS/modules/Portuguese/PortugueseBr.lex,5.43,K
+Vozes TTS para Android/LoquendoTTS/modules/Portuguese/PortugueseBr.linfo,37.28,K
+Vozes TTS para Android/LoquendoTTS/modules/Portuguese/PortuguesePt.lex,11.81,K
+Vozes TTS para Android/LoquendoTTS/modules/Portuguese/PortuguesePt.linfo,76.96,K
+Vozes TTS para Android/LoquendoTTS/modules/Romanian/Romanian.lex,14.33,K
+Vozes TTS para Android/LoquendoTTS/modules/Russian/Russian.lex,56.72,K
+Vozes TTS para Android/LoquendoTTS/modules/Russian/SMSRussian.lex,5.93,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/American Spanish Address Ordinals.lex,4.03,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/American Spanish Address Pronunciation.lex,12.18,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/American Spanish Address.lex,16.16,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/Spanish Address.lex,5.44,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishAm.lex,4.31,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishAm.linfo,112.04,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishAr.lex,4.28,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishAr.linfo,112.09,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishCl.lex,4.28,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishCl.linfo,111.94,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishEs.lex,4.34,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishEs.linfo,112.07,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishMx.lex,4.42,K
+Vozes TTS para Android/LoquendoTTS/modules/Spanish/SpanishMx.linfo,111.97,K
+Vozes TTS para Android/LoquendoTTS/modules/Swedish/Swedish.lex,2.44,K
+Vozes TTS para Android/LoquendoTTS/modules/Turkish/Turkish.lex,15.1,K
+Vozes TTS para Android/LoquendoTTS/Norwegian.ttsconf,957,B
+Vozes TTS para Android/LoquendoTTS/Polish.ttsconf,973,B
+Vozes TTS para Android/LoquendoTTS/Portuguese.ttsconf,2.01,K
+Vozes TTS para Android/LoquendoTTS/readme.txt,1.92,K
+Vozes TTS para Android/LoquendoTTS/Romanian.ttsconf,908,B
+Vozes TTS para Android/LoquendoTTS/Russian.ttsconf,1.11,K
+Vozes TTS para Android/LoquendoTTS/Spanish.ttsconf,6.09,K
+Vozes TTS para Android/LoquendoTTS/Swedish.ttsconf,975,B
+Vozes TTS para Android/LoquendoTTS/Turkish.ttsconf,906,B
+Vozes TTS para Android/Lucky Patcher.apk,1.59,M
+Vozes TTS para Android/SVOX Br. Portug. Luciana Voice 3.1.0.apk,257.31,K
+Vozes TTS para Android/svox-Peco75BR.txt,943,B
+Vozes TTS para Android/svox/classic/extensions/pxp_x-all-all.bin,1.64,M
+Vozes TTS para Android/svox/classic/pt-BR/rb0pt2pt-BR22_sg.bin,3.28,M
+Vozes TTS para Android/svox/classic/pt-BR/rb0pt2pt-BR22_sg_0.pil,8.54,M
+Vozes TTS para Android/svox/classic/pt-BR/rb0pt2pt-BR22_sg_1.pil,2.85,M
+Vozes TTS para Android/svox/classic/pt-BR/rb0pt2pt-BR22pt-BR_ta.bin,3.06,M
+Vozes TTS para Android/svox/classic/pt-BR/svox-rb0pt2pt-BR22.bin,1.5,K
+Vozes TTS para Android/svox/classic/svoc.dat,3.4,K
+Vozes TTS para Android/svox/classic/svoxconfig.txt,13.68,K

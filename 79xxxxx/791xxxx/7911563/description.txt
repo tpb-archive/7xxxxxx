@@ -1,0 +1,18 @@
+This is a Ubuntu Server 12.04 LTS Virtual Box Image (http://VirtualBoxImages.com/GettingStarted)
+
+with an already installed time tracking http service (http://www.kimai.org)
+
+Kimai is reachable over: 
+http://127.0.0.1:8080
+
+If you want to use Kimai in your group/LAN, change the network mode to  "Bridge Mode" here:  
+http://media.cdn.ubuntu-de.org/wiki/attachments/39/03/Bildschirmfoto_am_2012-01-18_220315.png
+
+Ubuntu Server 12.04 LTS (login=ubuntu pw=reverse) 
+MySQL (login=root pw=reverse) 
+Kimai (login=admin pw=reverse)
+
+
+Plz help seed
+
+- Peponi -

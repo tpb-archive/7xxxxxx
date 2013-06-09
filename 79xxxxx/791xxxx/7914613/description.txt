@@ -1,0 +1,53 @@
+This program downloads Maps for Sygic Navigation.
+It helps you if you don't have huge plan on your 3G network.
+Just download maps onto your computer and copy Aura folder to the root of your SD card in phone.
+
+
+For Symbian users to work you have to unzip contents of 
+
+Symbianplace_in_sygic_aura maps.zip
+
+file to your aura maps folder.
+
+ 
+http://img829.imageshack.us/img829/9318/sygicdownloader.png
+
+Usage:
+- Pick your maps
+- Set download folder (may be temp folder on computer or directly do your SD card)
+- Check if you want base files to download
+- Press start
+- Wait
+
+
+Plans for future:
+- Drink a beer, maybe two
+
+
+FAQ:
+Q: Can you add cancel button?
+A: I lack beer to do so. You willing to donate me beer for cancel button?
+
+Q: Any plans for showing download speed/ETA?
+A: See above.
+
+Q: The big Start button doesn't work. It's grey. Help
+A: Select maps... you're sooo stupid...
+
+Q: Can you add Iran/Argentina/Cyprus map?
+A: No, I will not add more maps. This program downloads all maps from Sygic website. If your map isn't there - use another software. Sygic hates you.
+
+Q: Program won't run. Can you help?
+A: If you have .NET 4.0 installed and the program still won't run, there's no help for you. Reinstall windows.
+
+Q: Any plans for linux version?
+A: Nope.
+
+Q: Any plans for Android version?
+A: Use original Sygic Downloader.
+
+
+====================
+
+
+ARMANI.

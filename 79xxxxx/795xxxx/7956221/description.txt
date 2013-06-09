@@ -1,0 +1,49 @@
+      Format : MPEG-4
+      Format profile : Base Media
+      Codec ID : isom
+      File size : 96.5 MiB
+      Duration : 15mn 55s
+      Overall bit rate mode : Variable
+      Overall bit rate : 847 Kbps
+      Writing application : Lavf52.64.2
+   Video #1
+      ID : 1
+      Format : AVC
+      Format/Info : Advanced Video Codec
+      Format profile : High@L3.0
+      Format settings, CABAC : Yes
+      Format settings, ReFrames : 4 frames
+      Codec ID : avc1
+      Codec ID/Info : Advanced Video Coding
+      Duration : 15mn 55s
+      Bit rate : 750 Kbps
+      Width : 720 pixels
+      Height : 404 pixels
+      Display aspect ratio : 16:9
+      Frame rate mode : Variable
+      Frame rate : 24.935 fps
+      Minimum frame rate : 12.500 fps
+      Maximum frame rate : 25.000 fps
+      Color space : YUV
+      Chroma subsampling : 4:2:0
+      Bit depth : 8 bits
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.103
+      Stream size : 84.1 MiB (87%)
+      Writing library : x264 core 107
+      
+   Audio #2
+      ID : 2
+      Format : AAC
+      Format/Info : Advanced Audio Codec
+      Format profile : LC
+      Codec ID : 40
+      Duration : 15mn 55s
+      Bit rate mode : Variable
+      Bit rate : 102 Kbps
+      Channel(s) : 2 channels
+      Channel positions : Front: L R
+      Sampling rate : 48.0 KHz
+      Compression mode : Lossy
+      Delay relative to video : 40ms
+      Stream size : 11.7 MiB (12%)

@@ -1,0 +1,194 @@
+﻿User Type,Username,Date,Text
+[T],vctrt,2012-12-19T08:12Z,"Log:
+
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 26. November 2012, 10:24
+
+Unknown Artist / Unknown Title
+
+Used drive  : HL-DT-STDVDRAM GSA-E40L   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : Yes
+
+Combined read/write offset correction       : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 768 kBit/s
+Quality                         : High
+Add ID3 tag                     : Yes
+Command line compressor         : C:Program Files (x86)Exact Audio CopyFLACFLAC.EXE
+Additional command line options : -6 -V -T ""ARTIST=%artist%"" -T ""TITLE=%title%"" -T ""ALBUM=%albumtitle%"" -T ""DATE=%year%"" -T ""TRACKNUMBER=%tracknr%"" -T ""GENRE=%genre%"" -T ""COMMENT=%comment%"" -T ""BAND=%albuminterpret%"" -T ""ALBUMARTIST=%albuminterpret%"" -T ""COMPOSER=%composer%"" %haslyrics%--tag-from-file=LYRICS=""%lyricsfile%""%haslyrics% -T ""DISCNUMBER=%cdnumber%"" -T ""TOTALDISCS=%totalcds%"" -T ""TOTALTRACKS=%numtracks%"" %hascover%--picture=""%coverfile%""%hascover% %source% -o %dest%
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector
+    ---------------------------------------------------------
+        1  |  0:00.00 |  5:54.59 |         0    |    26608
+        2  |  5:54.59 |  3:35.70 |     26609    |    42803
+        3  |  9:30.54 |  4:24.07 |     42804    |    62610
+        4  | 13:54.61 |  5:41.42 |     62611    |    88227
+        5  | 19:36.28 |  3:45.52 |     88228    |   105154
+        6  | 23:22.05 |  3:28.38 |    105155    |   120792
+        7  | 26:50.43 |  4:29.74 |    120793    |   141041
+        8  | 31:20.42 |  3:45.05 |    141042    |   157921
+        9  | 35:05.47 |  4:41.59 |    157922    |   179055
+       10  | 39:47.31 |  4:00.68 |    179056    |   197123
+       11  | 43:48.24 |  3:38.37 |    197124    |   213510
+       12  | 47:26.61 |  4:51.48 |    213511    |   235383
+       13  | 52:18.34 |  3:43.19 |    235384    |   252127
+       14  | 56:01.53 |  4:23.37 |    252128    |   271889
+
+Track  1
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 1 Track01.wav
+
+     Peak level 98.4 %
+     Extraction speed 4.7 X
+     Track quality 100.0 %
+     Copy CRC 38D68807
+     Copy OK
+
+Track  2
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 2 Track02.wav
+
+     Peak level 98.3 %
+     Extraction speed 5.1 X
+     Track quality 100.0 %
+     Copy CRC BFC171DA
+     Copy OK
+
+Track  3
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 3 Track03.wav
+
+     Peak level 98.6 %
+     Extraction speed 13.1 X
+     Track quality 100.0 %
+     Copy CRC E8449A24
+     Copy OK
+
+Track  4
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 4 Track04.wav
+
+     Peak level 98.3 %
+     Extraction speed 14.5 X
+     Track quality 100.0 %
+     Copy CRC F5EEB27A
+     Copy OK
+
+Track  5
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 5 Track05.wav
+
+     Peak level 98.8 %
+     Extraction speed 16.6 X
+     Track quality 100.0 %
+     Copy CRC BDD0127C
+     Copy OK
+
+Track  6
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 6 Track06.wav
+
+     Peak level 98.5 %
+     Extraction speed 17.5 X
+     Track quality 100.0 %
+     Copy CRC 12A4EB34
+     Copy OK
+
+Track  7
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 7 Track07.wav
+
+     Peak level 99.8 %
+     Ext"
+[T],vctrt,2012-12-19T08:13Z,"     Extraction speed 18.5 X
+     Track quality 100.0 %
+     Copy CRC 78998023
+     Copy OK
+
+Track  8
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 8 Track08.wav
+
+     Peak level 98.5 %
+     Extraction speed 19.2 X
+     Track quality 100.0 %
+     Copy CRC FCE6CEA1
+     Copy OK
+
+Track  9
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac) 9 Track09.wav
+
+     Peak level 98.2 %
+     Extraction speed 20.1 X
+     Track quality 100.0 %
+     Copy CRC 25810DEF
+     Copy OK
+
+Track 10
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac)10 Track10.wav
+
+     Peak level 98.4 %
+     Extraction speed 18.8 X
+     Track quality 99.9 %
+     Copy CRC 1CB1DC3F
+     Copy OK
+
+Track 11
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac)11 Track11.wav
+
+     Peak level 98.8 %
+     Extraction speed 19.6 X
+     Track quality 100.0 %
+     Copy CRC 67D8A49F
+     Copy OK
+
+Track 12
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac)12 Track12.wav
+
+     Peak level 98.2 %
+     Extraction speed 22.3 X
+     Track quality 100.0 %
+     Copy CRC 0BBFAEF9
+     Copy OK
+
+Track 13
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac)13 Track13.wav
+
+     Peak level 99.7 %
+     Extraction speed 20.8 X
+     Track quality 100.0 %
+     Copy CRC E24C64AC
+     Copy OK
+
+Track 14
+
+     Filename N:MusicOtherCirque du Soleil(2012) AmalunaCirque du Soleil - 2012 - Amaluna (flac)14 Track14.wav
+
+     Peak level 98.4 %
+     Extraction speed 0.8 X
+     Track quality 99.2 %
+     Copy CRC C334F97A
+     Copy finished
+
+End of status report
+
+---- CUETools DB Plugin V2.1.3"

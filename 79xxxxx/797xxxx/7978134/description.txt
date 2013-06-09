@@ -1,0 +1,18 @@
+StartIsBack restores original Windows 7 start menu with all its features: search, drag&drop, pinned and recently used apps, fully customizable settings. Start button and Start menu look and behave exactly as they used to in Windows 7.
+
+Version 1.3ΓÇâ26 Dec 2012 
+-Fix: MFU app list could contain duplicate item
+-Fix: Start orb could be moved by rogue programs
+-Fix: license activation for all users could fail on some systems
+-Fix: shortcuts created by Windows Installer didn't show 'Pin to Start Menu'
+-Hot corners are enabled for Modern apps only for monitor where they're open on
+-Newly installed programs are properly highlighted
+-Right-to-left Windows languages are now supported
+-License key is no longer stored as a plain text
+-Improved start menu performance
+-AeroByDesign skin updated
+-New translations
+
+Fully translated: English, Russian, Brazilian Portuguese, European Portuguese, French, Danish, Greek, Italian, Turkish, Spanish, German, Polish, Czech, Croatian, Slovak, Finnish, Korean, Dutch, Norwegian, Serbian, Slovenian, Bangla. RTL languages are not supported.
+
+Homepage: www.startisback.com

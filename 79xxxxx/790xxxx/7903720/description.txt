@@ -1,0 +1,48 @@
+WirelessMon is a software tool that allows users to monitor the status of wireless WiFi adapter(s) and gather information about nearby wireless access points and hot spots in real time. WirelessMon can log the information it collects into a file, while also providing comprehensive graphing of signal level and real time IP and 802.11 WiFi statistics.
+
+ Verify 802.11 network configuration is correct.
+ Test WiFi hardware and device drivers are functioning correctly.
+ Check signal levels from your local WiFi network and nearby networks.
+ Help locate sources of interference to your network.
+ WirelessMon supports the MetaGeek Wi-Spy (2.4i, 2,4 x e DBx) useful for finding interference from non 802.11A/B/G/N devices transmitting on the same frequencies
+ Scan for hot spots in your local area (wardriving)
+ Create signal strength maps of an area (also known as heat maps)
+ GPS support for logging and mapping signal strength
+ Mapping can be performed with or without a GPS unit
+ Correctly locate your wireless antenna (especially important for directional antennas).
+ Verify the security settings for local access points.
+ Measure network speed & throughput and view available data rates.
+ Help check Wifi network coverage and range
+ A feature-rich, value-for-money alternative to NetStumbler.
+
+ More info http://www.passmark.com/products/wirelessmonitor.htm
+
+
+Compatibility
+
+ Any wireless adapter complies with the NDIS_802.11 should be able to report information to WirelessMon. Note that only Windows XP, 2003, Vista & Win7 support this software. Windows 95, 98 and NT are not supported. Windows 2000 (Service pack 4 and above) may work but is not actively supported.
+
+ All the various IEEE 802.11 standards are supported, including 802.11a, 802.11b and 802.11g. 802.11N is supported to the extent provided by Windows, as the draft becomes a completed standard more 802.11N support should become available. Some features may not be supported by some wireless adapters, typically they will report only partial information in this case. It has been also been noted that several wireless adapter manufacturers are not providing device drivers that are fully Windows compliant.
+
+ From version 4 Garmin USB GPS devices are supported via USB connection.
+
+Wireless LAN information
+
+ The following wireless LAN information is displayed by WirelessMon (when available, as not all wireless adapters will support all of these features).
+
+ Current connection information: SSID; Connected access point MAC address; Signal strength; Tx Power; Authentication type; RTS Threshold; Fragmentation Threshold; Channel in use; Frequency being used; Number of Antennas; Beacon Period; ATIM Window; Dwell Time; Hop Pattern; Hop Set.
+
+ Statistics information: More than 30 parameters are reported. Including a detailed break down of frames sent and received, error counts, transmission retry counters and related low level data.
+
+ IP information: Information about the current TCP/IP connection is reported. Including the adapter MAC address; Adapter device driver name; the IP Address; Subnet Mask; if DHCP is enabled; the Gateway Address and the DHCP server IP address.
+
+ IP counter information: Network throughput is monitored and displayed. This includes the maximum bandwidth available from the network adapter hardware, the current send and receive data rates in bytes per second and packets per second, plus error counters.
+
+
+INSTALLATION:
+ 1. Unpack & Install.
+ 2. Run keygen.
+ 3. Patch the software.
+ 4. Generate a valid key!
+
+

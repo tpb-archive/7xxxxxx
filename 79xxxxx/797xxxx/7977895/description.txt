@@ -1,0 +1,39 @@
+Gmail Notifier Pro
+
+Gmail Notifier Pro is a Windows application capable of checking multiple Google Gmail accounts for new mail and display notifications. Google Calendar, Google Reader, Google News, Google Docs, Google+ and RSS/Atom feeds are also supported.
+
+In addition to the Google services, Gmail Notifier Pro provides notifications for any IMAP or POP mail account, including Microsoft Outlook.com (formerly Live Hotmail) and Yahoo! Mail.
+
+Quote:
+Changes: 
+
+Gmail Notifier Pro 4.5.1
+December 29, 2012
+
+Gmail Notifier Pro 4.5.1 is a minor update with the following improvements:
+
+Account text will be highlighted when being checked for new messages.
+The log file can easily be attached when reporting issues.
+The Check Now operation is available for disabled accounts as well.
+Additional icons available for the notification area.
+
+This is the last release for 2012.
+
+
+System Requirements:
+
+Supports 32-bit and 64-bit editions of Windows XP, Windows Vista and Windows 7
+Requires Microsoft .NET Framework 3.5 (already included in Windows 7).
+
+Homepage: http://www.gmailnotifier.se
+
+Installation Instruction:
+
+- Install program.
+- Run the program once and quit it (not just minimize).
+- Use keygen to generate a code.
+- Xp Users: open %userprofile%Local SettingsApplication DataGmailNotifierProConfigData.xml and replace the existing line containing RegisteredUser.
+- vista/7 Users: open %userprofile%AppDataRoamingGmailNotifierProConfigData.xml and replace the existing line containing RegisteredUser. 
+- Done, Enjoy.
+
+Note: Right click on ConfigData.xml file and hit edit, replace line <RegisteredUser> with generated one, save and exit. 

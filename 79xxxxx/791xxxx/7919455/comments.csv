@@ -1,0 +1,75 @@
+﻿User Type,Username,Date,Text
+,xandrescu,2012-12-14T00:20Z,"Se me olvidaba, también incluye el activador y un manual para activarlo."
+,nabuconosodor,2012-12-16T05:06Z,Me agrege al torrent para apoyar n_n
+,xandrescu,2012-12-16T14:44Z,Muchas gracias @nabuconosodor por tu ayuda :)
+,makolin,2012-12-18T08:11Z,"Gracias, xandrescu bajando luego comento de la instalacion"
+,KrloOs,2012-12-18T09:05Z,"Este ISO es solo para 32 bits, no me deja instalar en x64 ya que indica que uses el disco correcto, gracias por hacerme perder el tiempo"
+,xandrescu,2012-12-19T15:26Z,"@KrloOs, dudo que te haya hecho perder el tiempo, pero podrías consultame en los comentarios antes de echar mierda a tu alrededor. Atendiendo a tu reclamación, tienes que iniciar la instalación desde el propio arranque del DVD, no desde Windows. Si ejecutas el setup.exe del DVD desde un Windows 7 x64 te da el error que comentas, porque ese archivo setup en concreto no está hecho para 64 bits. Si arrancas el PC desde el DVD (sin iniciar Windows), verás que te da la opción de elegir entre 32 bits y 64 bits, incluyendo la opción posterior de actualizar desde un windows 7 64 bits o 32 bits (por si no quieres hacer una instalación limpia). Ten en cuenta que si quieres actualizar un Windows 7 a Windows 8 deberás pasar el test de compatiblidad que eso conlleva. Personalmente te recomiendo que hagas una copia de tus datos e instales Windows 8 limpio, desde cero. Un saludo.
+PD: En este enlace se comprueba que que hay opción de 32 bits y 64 bits:
+
+http://bayimg.com/fAhDnAaEf"
+,kura25,2012-12-20T11:56Z,"Una pregunta xandrescu, ¿la activación es válida por unos meses o es permanente?. Gracias de antemano por la respuesta."
+,xandrescu,2012-12-21T00:22Z,"Hola @kura25, de momento parece que es permanente, no he tenido ningún problema desde que lo activé (llevo casi un mes con él) , de todas formas si falla la activación vuelve a parchearlo con el mismo activador. En el caso de que falle algún día el activador, publicaré aquí el enlace de un activador válido.
+PD: Gracias a todos por descargar y seguir compartiendo. Para agilizar y mejorar la descarga al resto de usuarios, una vez que acabe de descargarse el torrent, seleccionarlo > click en Propiedades > marcar ""Semilla Inicial"" > click en Ok. Con esto se compartirá más rápido el torrent."
+,flakonet,2012-12-21T20:19Z,"Gracias por compartir,... bajando y comapratiendo ;)"
+,farfan666,2012-12-22T01:02Z,"Gracias por el torrent, anda muy bien la ISO y en efecto tiene las 2 opciones de x86 y x64 al instalar desde el boot, solo tuve un problema con el activador, al ejecutarlo jamas se reinicio opte por otro activador, pero con la ISO ningun problema (: gracias!"
+,OakAphid,2012-12-23T10:36Z,"Exelente descargando...Esta es la vercion qu eme hace falta :D 
+
+Gracias este ISO es el heroe de mi Laptop xD
+
+Saludos."
+,OakAphid,2012-12-23T10:40Z,"Muy buen torrent realmente es el mejor Windows 8 ya que havia bajado uno anterior mente y cuando lo verifique era solamente x86 -_- xD
+
+Confio que con este voy a poder volver a usar mi Laptop corriendo x64 otraves...Ya que x86 no reconoce 4Gb de RAM....Saludos"
+,bermarher,2012-12-24T11:47Z,"Muy buenas ante todo gracias a ""xandrescu"", excelente aporte!
+
+por otro lado, una vez lo descargo, lo intento instalar desde el setup.exe, pero me sale un mensaje de que ""la instalacion de windows no puede empezar desde el sistema operativo actual. Para instalar windows, arranca desde installation media, o descargate la version SP3""
+
+decir que lo estoy intentando instalar desde un disco duro extraible, y el sistema operativo que hay en el pc, es Windows XP Profesional SP2 Version 2002. Mi PC cumple con todos los requisitos minimos para la instalacion.
+
+Un saludo y a ver quien me puede ayudar! Gracias!"
+,bermarher,2012-12-24T12:34Z,"me acabo de dar cuenta que uno de los tres archivos descargados  (manual, activador,SO) es un .iso ... 
+
+De todas formas lo intento montar con el daemon tools, y cuando esta montado y lo intento arrancar, nada me dice que Sin disco en la unidad montada."
+,bermarher,2012-12-24T13:31Z,"finalmente era problema del daemon, de todas formas logra montar la imagen correctamente , y cuando ejecuto el disco virtual me dice lo mismo de siempre, ""no puede empezar desde el sistema operativo actual. Para instalar windows, arranca desde installation media, o descargate la version SP3"""
+,xandrescu,2012-12-25T01:12Z,"Hola, ante todo agradecer a los que habéis descargado, compartido y comentado el torrent: @nabuconosodor, @makolin, @kura25, @flakonet, @farfan666, @OakAphid, @bermarher y a muchos mas que lo vayan a hacer.
+
+En contestación a @farfan666, he comprobado el activador y me ha funcionado bien, puede ser algún problema ajeno al activador. De todas formas creo que lo as solucionado con un activador diferente, enhorabuena. :)
+
+En cuanto al problema de @bermarher, creo que deberás instalar primero el SP3 de Windows XP para arrancar la instalación desde Windows XP. Aquí te dejo el enlace de la página ofical de Microsoft:
+
+http://www.microsoft.com/es-es/download/details.aspx?id=24
+
+ Te recomiendo lo mismo que a @KrloOs, que tambíen debería ser válido para pasar de Windows XP a Windows 8:
+
+ ---> ""Si arrancas el PC desde el DVD (sin iniciar Windows), verás que te da la opción de elegir entre 32 bits y 64 bits, incluyendo la opción posterior de actualizar desde un windows 7 64 bits o 32 bits (por si no quieres hacer una instalación limpia). Ten en cuenta que si quieres actualizar un Windows 7 a Windows 8 deberás pasar el test de compatiblidad que eso conlleva. Personalmente te recomiendo que hagas una copia de tus datos e instales Windows 8 limpio, desde cero."" "
+,xandrescu,2012-12-25T01:13Z,"Una vez instalado el SP3 para Windows XP, sería conveniente descargar y ejecutar el ""Asistente para actualización"" de Windows 8 que podrás encontrar en este enlace:
+
+http://windows.microsoft.com/es-ES/windows-8/upgrade-to-windows-8
+
+Espero que os sirva de ayuda para vuestros problemillas de instalación.
+
+Un saludo :)"
+,bermarher,2012-12-26T15:42Z,"Muy buenas otra vez! bueno xandrescu por fin, he conseguido instalarlo! al final opte por descargarme la SP3 e instalarlo desde el xp, la otra opción era hacer un disco booteable...
+
+Parece que de momento va genial, veremos a ver con el tiempo como avanza la cosa, lo he instalado en 32 bits, que solo tengo 2gb en este ordenador de ram, pero en cuanto la amplie vamos a ver como funcionan esos 64bits!
+
+Un saludo y gracias por el aporte!"
+,camillionario,2012-12-30T16:40Z,"Muchas gracias Xandrescu, pero tengo una duda,,,esta iso es autoactivable o tienes que ejecutar Tu el activador,,, lo digo porque lo he instalado y se ha activado solo. he ejecutado el comando slmgr -xpr y me dice que mi version de windows esta activada permanentemente.
+Si pudieses aclarar el tema te lo agradezco, ya que he puesto las actualizaciones automaticas.
+"
+,zneto,2012-12-30T17:39Z,puede cambiar el idioma después de la instalación?
+,xandrescu,2012-12-31T11:48Z,"Hola, @camillionario, una vez instalado Windows 8 hay que activarlo manualmente con el activador que incluye el torrent. Una vez que lo ejecutas se reiniciará y ya lo tendrás activado. Te dejo unas capturas para que lo veas:
+http://image.bayimg.com/d3a6e3fc135bf234351f70848a9f00ca37968e11.jpg
+http://image.bayimg.com/8ce82a750fe043d83b883ae493a4b16acdec0908.jpg"
+,xandrescu,2012-12-31T12:00Z,"Hola, @zneto. Se puede cambiar el idioma, te dejo un link con unas capturas de pantalla para que veas el preoceso de cambio de idioma:
+
+http://bayfiles.com/file/yrrB/7iMI5L/IdiomaWindows8.zip
+
+Un saludo."
+,camillionario,2012-12-31T19:55Z,"Pues no se lo que pasa Xandrescu,,, he vuelto a instalar el SO en su version de Enterprise x64 y otra vez se ha activado solo.  El problema es que necesito activarlo telefoneando a Microsoft para que quede activado sin problemas y poner las actualizaciones automaticas.  
+La instalacion se inicia y al terminar carga el sistema y sin mas se cierra solo y se reinicia supongo que el activador se inicia automaticamente y lo activa.
+
+De todas maneras gracias por tu aporte amigo,, seguire buscando la version Enterprise x64 sin activar que es la que necesito."
+,xandrescu,2012-12-31T22:01Z,"@camillionario, no se, es muy raro... De todas formas la ISO de este torrent no incluye la versión de Enterprise x64 que comentas, solo incluye la versión PRO x86 y PRO x64, puede que lo estés instalando con otra ISO diferete a esta y dicha ISO venga preactivada... Un saludo ;)"
+,16carlos75,2013-01-06T01:42Z,exelente el super aporte....todo al 100% y estamos como semilla

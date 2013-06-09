@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-16T20:45Z,"This will undoubtedly be on a virus program's blacklist some time in the future as a hacktool.  Note that it doesn't actually hack anything. It simply emulates a KMS server and sends the normal activation data to and from the emulated server in your memory.
+
+Also, this guy likes to claim every other day that his releases are FINAL releases. He then releases a new one a few days later fixing something or compressing more effectively, etc.
+The guy is a genius, but he doesn't know the release terminology.
+
+This was the latest version I could find as of Dec15 2012 by scouring the MDL forums where this guy and others who are working on similar activation issues spend their time.
+
+If I were a betting man, I'd say this guy will undoubtedly release more versions.  I will try to check for them every so often."
+,TAxxOUTBR3AKxx,2012-12-16T20:57Z,"Here's my important question: Does this unlock the Personalization tab?
+
+I tried using the One Three Seas Personalization and it loop-crashed my Explorer upon login so I had to refresh my PC. Really don't wanna use that, so Im still searching for a way to activate AND use Personalization."
+[T],murphy78,2012-12-16T21:57Z,"TAxx, that's a hack. This is not a hack. So NO, it will not unlock any personalization tab if windows doesn't allow it with legit activation."
+,bigorna12,2012-12-16T23:38Z,Windows 8 permanent activation ?
+[T],murphy78,2012-12-17T07:35Z,"no bigorna, kms activation is every 180 days. only retail activation is permanent"
+[T],murphy78,2012-12-17T10:56Z,"To get this to work on a normal Win8Pro version that isn't Volume by default, extract the kmsnano.exe with 7z or winrar to a subdirectory and run the Convert_Windows_Retail2VL.cmd
+
+When the program finishes, you can run kmsnano.exe to activate."
+[T],murphy78,2012-12-17T13:36Z,"Just to note that to get this to work on a win8pro retail image the Convert_Windows_Retail2VL.cmd worked for x64, but on x86 I had to run the Fix Hacktivations.cmd  The retail2vl just didn't run.
+
+Just a heads up."

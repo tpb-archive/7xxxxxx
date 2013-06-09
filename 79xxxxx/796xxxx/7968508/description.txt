@@ -1,0 +1,40 @@
+What is new in build 2418 (December 27, 2012)
+
+New features:
+- Adds the MPEG-4 AVC production profile for Sony PS Vita.
+- Adds the following output resolutions for H.264 AVC, WMV, MPEG-4 and MKV file production: 2048 x 1080, 3840 x 2160, and 4096 x 2160 for 16:9.
+- Adds support for editing GoPro HERO3 clips.
+- Adds 7 transitions to the Transition Room.
+
+Updates:
+- Improves program stability in Create Disc page and when burning AVCHD discs.
+- Improves program stability with specific Intel graphics card drivers.
+- Improves frame accuracy with some CABAC parameters in H.264 AVC file production.
+- Improves program stability in Batch Produce.
+- Improves program stability when saving PiP templates.
+- Improves program stability when importing projects with ColorDirector effects.
+- Resolves issue where 3D MVC files become 2D after production when Intel hardware encoding is enabled.
+- Resolves issue where photos in slideshow are stretched when face detection is enabled.
+- Resolves issue where fade effects cannot display correctly when modifying Particle templates.
+
+Recommended System Requirements
+
+Operating Systems
+Microsoft Windows┬« 8, 7, Vista or XP (Service Pack 3).
+
+Screen Resolution
+1024 x 768, 16-bit color or above
+
+CPU Processor
+* PowerDirector 11 is optimized for CPUs with MMX/SSE/SSE2/3DNow!/3DNow! Extension/HyperThreading technology.
+* AVI Capture/Produce: Profiles: Pentium 4 3.0 Ghz or AMD Athlon 64 X2
+* DVD Quality (MPEG-2) Profiles: Pentium 4 3.0 Ghz or AMD Athlon 64 X2
+* High Quality MPEG-4 and Streaming WMV, QuickTime) Profiles: Pentium 4 3.0 Ghz or AMD Athlon 64 X2
+* Full-HD quality H.264 and MPEG2 Profiles: Intel Corei5/7 or AMD Phenom II X4
+* AVCHD and BD burning Profiles: Pentium Core 2 Duo E6400, or AMD Phenom II X2
+* 2K/4K/3D* video editing profile: Intel Corei7 or AMD Phenom II X4 with 64 bit OS 6 GB RAM
+
+Languages : English, French, German, Italian, Spanish, Chinese (Traditional), Chinese (Simplified), Japanese, Korean, Dutch, Russian, Polish, Czech, Portuguese (Brazil), Portuguese (Portugal)
+
+Homepage :  
+http://www.cyberlink.com/products/powerdirector-ultra/features_en_US.html

@@ -1,0 +1,57 @@
+What is My MP4Box GUI?
+
+My MP4Box GUI is a Graphical User Interface for the well-known command line tool mp4box. My MP4Box GUI, like mp4box, is freeware. Meaning that it is complete and functional software that does not require payment or other compensation (such as nags or advertising) for its use.
+
+MP4Box is an MP4 muxer. It can import MPEG-4 video (H.264 or ASP, encoded for example with x264, DivX, Xvid, 3ivx or FFmpeg) and audio streams into the MP4 container. The end result is ISO compliant MP4 streams. It can also produce MPEG-4 Timed Text streams by importing subtitles formats such as srt. It can also split MP4 files into sections, which can be useful when transferring files to portable media players. MP4Box is part of the GPAC Project framework. It provides only a command line interface, and, for legal reasons, the author only distributes its source code.
+Why My MP4Box GUI?
+
+My MP4Box GUI makes using mp4box much easier. Instead of having to type out all the commands that you want mp4box to do, My MP4Box GUI does all this for you. So you only have to click a few buttons to get the job done; not type a paragraph, to get the job done.
+
+ 
+List of features:
+
+    Create mp4 files containing:
+    - video streams with m4v, cmp, h264, 264, h263, 263 as input format or from avi, mpg, mpeg, vob, mp4, mov, ogg, qcp and 3gp format.
+    - audio streams with aac, ac3, amr, awb, evc, mp3 as input format or from avi, mpg, mpeg, vob (mp2 only), mp4 and 3gp format.
+    - subtitle streams in srt, idx/sub, xml and ttxt format.
+    Add up to 20 tracks to an mp4 file.
+    Delay every audio and/or video track separately.
+    Change the framerate of added video.
+    Save a list of jobs to be completed at a later date.
+    Join supported files(mp4, 3gp) end-to-end aka concatenate joining.
+    Demux supported files(mp4, avi, mov, ts, idx/sub, srt) to their raw formats.
+    Hint tracks to ready for streaming.
+    Split files by size or duration. eg. 700mb CDs or 60min
+    Support for most MP4Box advanced options
+    Ability to set priority of mp4box
+    Logging of mp4box output and GUI input
+    Set language and title for every track
+    Adjust Pixel Aspect Ratio of video without transcoding
+    Extract clip from video at specified length and time, eg. 00:31:00-00:33:00(would extract 2 minute clip begining 31 minutes into the video)
+    Edit command line before processing
+    Full drag and drop support
+    Demux only needed tracks
+    Output fully 'Apple Compatible'
+    32 bit and 64 bit compatible
+
+
+Changelog
+
+ 
+0.6.0.0 - 2012/12/28
+
+    updated error handling
+    updated to mediainfo 0.7.61.0
+    updated to mp4box 0.5.0-Rev4065
+    added 24.00 and 15.00 fps options
+    added -ipod, hdlr=sbtl and other options "Apple Support"
+    (note)
+    These options can 'break' subtitles in
+    'non-apple' players and are only recommended
+    when playback will be on iOS, iTunes, iPhone
+    or the like.
+    added m4v, 3gp and 3g2 support
+    added 'drag-n-drop' support throughout
+    added select/deselect options to demux
+    added edit command line option
+    fixed track naming

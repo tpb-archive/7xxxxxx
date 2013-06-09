@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,cooldude187,2012-12-21T18:15Z,Enjoy & seed : 
+,PaceyPimps,2012-12-24T00:21Z,Works but only offline you have to use another app to make sure it does not validate it when you use online. Any one have a fix or patch to stop it from checking online?
+,scripghost,2012-12-27T10:16Z,"in the folder C:WindowsSystem32driversetc there is a host file, copy that file to document and add 
+
+127.0.0.1 activation.cloud.techsmith.com 
+
+to the bottom of the file, that will block the online connection to there server, and redirect it back to your computer. You will be able to use it online."
+,scripghost,2012-12-27T10:17Z,"Almost forgot, after altering the file, copy it back to Windows->system32->drivers->etc"

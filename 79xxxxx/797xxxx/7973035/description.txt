@@ -1,0 +1,26 @@
+:: WHAT THIS SCRIPT DOES WHAT THIS SCRIPT DOES WHAT THIS SCRIPT DOES WHAT THIS SCRIPT DOES
+
+When first initiated this script checks that your internett connection is up, if not waits for it.
+Then checks that your VPN service is running. 
+If not it shuts down your torrentclient and tries to restart the VPN service. 
+If successfull it will restart your torrentclient
+In short it not only checks that you never use your 
+torrentclient over an open network it will restart 
+both VPN service and torrentclient if one or both goes down
+a good place to put this is in your autostart folder.
+
+TUTORIAL TUTORIAL TUTORIAL TUTORIAL TUTORIAL TUTORIAL TUTORIAL TUTORIAL
+
+To use this script you need to fill in your user credentials and
+the location of the utorrent file and name of the file.
+The parameters you need to fill in are marked with stars.
+vpnname is the name you gave the vpn connection you created 
+if you followed the tutorial on anonines homepage you gave it the name ANONINE.
+The rest is self explanatory. 
+EXAMPLE:::::::::::::::::::::::::
+set vpnname=ANONINE
+set username=E67gbYU
+set password=wB/(=lbh
+set exelocation=C:Program Files (x86)uTorrent
+set exefile=uTorrent.exe
+END EXAMPLE:::::::::::::::::::::::::

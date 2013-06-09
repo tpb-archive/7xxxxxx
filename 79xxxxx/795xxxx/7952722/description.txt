@@ -1,0 +1,56 @@
+Format                         : Matroska
+Format version                 : Version 2
+File size                      : 277 MiB
+Duration                       : 57mn 40s
+Overall bit rate               : 671 Kbps
+Encoded date                   : UTC 2012-12-23 12:24:53
+Writing application            : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 4 frames
+Muxing mode                    : Header stripping
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 57mn 40s
+Nominal bit rate               : 600 Kbps
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.027
+Writing library                : x264 core 125 r2200 999b753
+Default                        : Yes
+Forced                         : No
+
+Audio
+ID                             : 3
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : HE-AACv2 / HE-AAC / LC
+Codec ID                       : A_AAC
+Duration                       : 57mn 40s
+Channel(s)                     : 2 channels / 1 channel / 1 channel
+Channel positions              : Front: L R / Front: C / Front: C
+Sampling rate                  : 48.0 KHz / 48.0 KHz / 24.0 KHz
+Compression mode               : Lossy
+Delay relative to video        : 11ms
+Default                        : Yes
+Forced                         : No
+
+Text
+ID                             : 2
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Language                       : English
+Default                        : Yes
+Forced                         : Yes

@@ -1,0 +1,53 @@
+PublicHD - High-Definition Bittorrent Community
+ 
+http://publichd.se/
+
+-----------------------------------------------------
+
+Deadfall.2012.720p.HDTV.DD5.1.x264-CtrlHD [PublicHD]
+ 
+http://www.imdb.com/title/tt1667310
+
+RUNTIME.........: 01h:34m:35s
+SIZE............: 4.35 GiB
+VIDEO CODEC.....: x264, High@L4.1, 2pass, DXVA
+FRAMERATE.......: 23.976 FPS
+VIDEO BITRATE...: 6200kbps
+RESOLUTION......: 1280x546
+ASPECT RATIO....: 2.35:1
+AUDIO...........: English AC3 5.1 @ 384kbps
+SUBTITLES.......: Croatian, English, Polish, Portuguese, Serbian, Spanish
+CHAPTERS........: Yes
+SOURCE..........: Deadfall 2012 1080i HDTV DD5.1 MPEG2-Fizo
+IMDB............: http://www.imdb.com/title/tt1667310
+ENCODER.........: kaziopompaa
+RELEASE DATE....: 23/12/2012
+
+
+
+x264 log
+
+y4m1280x546p 0:0 @ 24000/1001 fps (cfr)
+x264using cpu capabilities: MMX2 SSE2Fast SSSE3 FastShuffle SSE4.2
+x264profile High, level 4.1
+x264frame I:997 Avg QP:14.42 size:103359
+x264frame P:27755 Avg QP:16.89 size: 46178
+x264frame B:107327 Avg QP:18.44 size: 28057
+x264consecutive B-frames: 2.4% 2.7% 4.9% 27.8% 7.1% 10.8% 3.9% 38.1% 2.2%
+x264mb I I16..4: 8.6% 77.0% 14.4%
+x264mb P I16..4: 1.7% 19.9% 2.1% P16..4: 27.8% 26.0% 11.6% 0.0% 0.0% skip:10.9%
+x264mb B I16..4: 0.2% 3.3% 0.5% B16..8: 35.4% 20.2% 5.7% direct:12.6% skip:22.1% L0:45.7% L1:42.3% BI:12.0%
+x2648x8 transform intra:83.1% inter:65.9%
+x264direct mvs spatial:97.9% temporal:2.1%
+x264coded y,uvDC,uvAC intra: 87.5% 78.6% 56.8% inter: 52.0% 35.0% 7.8%
+x264i16 v,h,dc,p: 57% 12% 7% 24%
+x264i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 14% 10% 7% 8% 12% 12% 12% 11% 13%
+x264i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 7% 5% 7% 12% 12% 11% 10% 11%
+x264i8c dc,h,v,p: 42% 26% 19% 13%
+x264Weighted P-Frames: Y:4.9% UV:1.6%
+x264ref P L0: 42.6% 11.2% 16.8% 7.6% 5.7% 4.5% 3.6% 2.3% 2.0% 1.8% 1.7% 0.2% 0.0%
+x264ref B L0: 70.8% 11.9% 6.2% 3.2% 2.4% 1.9% 1.6% 1.1% 0.6% 0.2%
+x264ref B L1: 91.8% 8.2%
+x264kb/s:6196.37
+
+encoded 136079 frames, 2.98 fps, 6196.38 kb/s

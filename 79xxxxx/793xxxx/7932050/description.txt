@@ -1,0 +1,50 @@
+The files contained in this torrent will allow you to enjoy the PC game "Thief 2 - The Metal Age" on any modern machine. Included are some very important updates. All you have to do is to download this torrent http://thepiratebay.se/torrent/4487740/Thief_2_The_Metal_Age_%5BEnglish%5D_%5BPC%5D and apply the 1.18 patch included in my torrent. Then open t2_v119.zip, read the info and voila! The game was tested on a Windows 7 64bit PC.
+Many thanks to all the wonderful people responsible for this update!
+
+A small sample of changes and fixes
+-----------------------------------
+
+Renderer:
+ - Added windowed mode
+ - Added single display mode option - no resolution change between menus and game
+ - Added ingame support for all common resolutions, including widescreen
+ - Added support for 32-bit color
+ - Textures can now be automatically promoted to 32-bit, improving quality and effectively eliminating the palette limit
+ - Added UI framerate cap option to avoid GPU fan spinning up in UI
+ - Added DDS/PNG image support
+ - Added full 24/32-bit TGA/BMP image support
+ - Increased the maximum number of frames allowed in animated textures from 20 to 99, and increased the allowable filename length for animated textures (before the underscore) to support more than 7
+ - Animated texture rate can now be specified via a material file for that texture
+ - Fixed a bug where Transparency property didn't (correctly) apply on objects that contain transparent polys
+
+General:
+ - Replaced video player lib with an FFMpeg based one to play cutscenes. LGVid.ax or other codecs are no longer required
+ - Option to use OpenAL (if available) instead of DirectSound. Includes support for audio effects in Windows 7 without an EAX-enabled driver (e.g. ALchemy)
+ - Added "head_bob" config var to control amount of head bob
+ - Added mousewheel support to options menu
+ - Fixed player ground contact tracking when walking off an object (caused footstep sounds to get "stuck" on previous material)
+ - Fixed sound cap per schema type bug and upped max sound channels to 48
+ - Changed screenshot output format to BMP and also added support for PNG screenshots
+ - Changed mouselook sensitivity to be resolution independent
+ - Added check to avoid trying to open files with reserved system name like com ports
+ - AIs now breathe from their head instead of their stomachs. They will no longer drown when up to their waist in water.
+ - Lowered player crouch height by a tiny fraction so he's less likely to get stuck on 4 unit tall spaces
+ - Added better support for binding actions to the mouse wheel (can bind wheel up and wheel down as separate actions, with modifier key support)
+ - Fixed star rendering
+ - Added "log_player_pos" command that dumps current player pos to log file (when enabled)
+ - Added the ability to detach from ladders by crouching
+ - Improved mantling a bit and added optional new mantling algorithm with lower failure rate
+ - Fixed a bug which limited number of sound channels to 16 even if more were selected
+ - Fixed a bug that sometimes caused doors to float away into infinity
+ - Fixed (or at least greatly improved) a bug with edge triggered OBBs sometimes failing to detect collision (in particular for slow moving objects)
+ - Fixed framerate dependent speed issue for camvators/moving terrain (with collision type: none)
+ - Added "fixed_star_size" option for resolution independent star size
+ - Fixed some bugs when attaching to a ladder from water.
+ - AIs who are facing very close to a wall will no longer turn to face south when the game begins
+ - Health bar drawing adjusted in widescreen
+ - Added option to fix arm rendering
+ - Added AA to rendering of loadout screen items
+ - Fixed pickpocket count bug that would always show 1 more maximum pickpocket than there actually was.
+ - Added "Blocks frobs" property, allowing objects to block frobs of objects behind them (e.g. to stop frobbing items through safe doors)
+ - Added option to left-align map notes text
+ - Made navigation of map/objectives screen a little bit more in-game friendly (screen can also be closed with space, arrow key navigation and return to switch map/obj)

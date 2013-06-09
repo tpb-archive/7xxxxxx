@@ -1,0 +1,15 @@
+
+
+To install MATLAB R2012b make next steps:
+ 1. Run .iso file using Daemon Tools or any other emulation tool.
+ 3. Run 'setup.exe', choose 'Install without using the Internet', enter serial: 23809-26556-08469-31324
+ 4. Choose 'Custom install' to select needed components. Uncheck 'MATLAB Distributed Computing Server 6.1' if you DON'T use MDCE.
+ 5. Activate with file 'matlab2012b_std.dat' from the crack folder.
+
+ P.S. Result of execution of 'ver' are in 'ver.txt'.
+
+ The last iso file got corrupted. Uploading the correct one now.
+
+ Tested on Windows 8 64 bit and Windows XP.
+
+ Please don't forget to give feedback! 

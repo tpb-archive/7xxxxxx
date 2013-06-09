@@ -1,0 +1,14 @@
+﻿User Type,Username,Date,Text
+,ibrahimmo15,2012-12-29T22:35Z,"it is a very good application, but neither dropbox nor icloud are working!!!"
+,gu1t4r5tud,2012-12-31T09:06Z,"Thanks for the upload. But it's not opening. No message prompt, no nothing. Checked Console for posix_spawn, operation not permitted. No avail. 10.8.2"
+,nate_drake,2012-12-31T11:47Z,"@ibrahimmo15 DropBox works for me, but you're right that iCloud is not working.
+
+@gu1t4r5tud Check your Gatekeeper settings. I'm going to copy & paste what I've said already on another torrent:
+
+You have to:
+1. Install the app.
+2. Block internet connections via your Firewall (LittleSnitch recommended). Make sure app is closed at this point.
+3. Open the app (if it doesn't open try right-click-> open in FINDER -not any other filesystem manager-). You don't have to spread open Gatekeeper like a whore, my setting on Privacy panel for GateKeeper is ""Mac AppStore and Identified Developers"".
+5. Enjoy.
+
+My guess is that you either have incorrect Gatekeeper settings (probably ""Mac AppStore"" only) OR you don't have a firewall rule and it's calling home."

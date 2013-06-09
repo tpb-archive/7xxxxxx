@@ -1,0 +1,41 @@
+Video
+ID                                       : 1
+Formato                                  : AVC
+Formato/Info                             : Advanced Video Codec
+Formato del perfil                       : High@L3.1
+Ajustes del formato, CABAC               : Si
+Ajustes del formato, RefFrames           : 5marcos
+ID Códec                                 : V_MPEG4/ISO/AVC
+Duración                                 : 42min.
+Tasa de bits nominal                     : 866Kbps
+Ancho                                    : 1 280pixeles
+Alto                                     : 720pixeles
+Relación de aspecto                      : 16:9
+Velocidad de cuadro                      : 23,976fps
+ColorSpace                               : YUV
+ChromaSubsampling                        : 4:2:0
+BitDepth/String                          : 8bits
+Tipo de exploración                      : Progresivo
+Bits/(Pixel*cuadro)                      : 0.039
+Librería de codificación                 : x264 core 120 r2164 da19765
+Default                                  : Si
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Formato                                  : AAC
+Formato/Info                             : Advanced Audio Codec
+Formato del perfil                       : HE-AACv2 / HE-AAC / LC
+ID Códec                                 : A_AAC
+Duración                                 : 42min.
+Canal(es)                                : 2canales / 1canal / 1canal
+Posiciones del canal                     : Front: L R / Front: C / Front: C
+Velocidad de muestreo                    : 48,0KHz / 48,0KHz / 24,0KHz
+Idioma                                   : Inglés
+Default                                  : Si
+Forced                                   : No
+
+Fuente del Video:
+Fuente de los subs: http://www.argenteam.net/
+
+Los videos estan en ingles HD de 720p con bitrate de 900 kbps en promedio y los sub en srt aparte del video.

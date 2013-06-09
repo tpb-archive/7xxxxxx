@@ -1,0 +1,233 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-18T13:07Z,"This has plenty of seeds, the tracker they use for smaller files is not functioning. "
+[V],Anacondaz,2012-12-18T13:14Z,thanks for the update mate
+,alvester,2012-12-18T13:15Z,Hi there Murphy. I tried this activator but it just activates my Office 2013 and not the Windows 8 Core. I even tried to convert it from Retail to VL but it still didn't work. What am I doing wrong?
+,alvester,2012-12-18T13:16Z,^^ PS: Its 64-bit version..
+[T],murphy78,2012-12-18T14:37Z,"There is no such thing as KMS activation on windows 8 core, because there are no volume versions of windows 8 core.
+
+I feel bad for ya bud. I would recommend backing up important stuff and installing pro.  At least with pro you can technically convert to volume and use this kms activator.
+
+Sorry man, I hate to give bad news."
+,tiboka,2012-12-18T14:42Z,Thank you!
+[T],murphy78,2012-12-18T15:44Z,"alvester I'm not sure if you are trying to activate both core and office or just office.
+
+If you are just trying to activate office, I'm not sure how to separate the two for kms activation.  There might be a cmd script in there for just office if you already have core activated. But, again, if you want to activate core; sorry no volume core editions."
+[T],murphy78,2012-12-18T15:51Z,"I seem to remember reading somewhere that you cannot have a retail activation combined with a volume activation.  Since core is always retail, there would be no way to get both activated without purchasing them.
+
+For piracy there are 7 windows 8 versions you can use for free: pro, pro N, pro VL, pro N VL, Enterprise, Enterprise N, and Pro WMC.
+
+The first two can be activated by converting to volume license (handy if you want to be able to upgrade to wmc) the Pro VL source does not have the option.
+
+Getting a bit nerdy. Anyhow, hope the info helps at least."
+,karated,2012-12-18T15:53Z,"Thanks for upload
+
+Does it work for Office 2013 alone if Windows 8 is already activated by other activator.
+
+Does it activate Windows 8 and Office 2013 at the same time if none is activated."
+,alvester,2012-12-18T19:32Z,Well thats a letdown that Windows 8 core can't be activated...I don't want to install Windows 8 pro as I dont need its extra features and I did a reinstall yesterday so don't want to reinstall the OS again.
+[T],murphy78,2012-12-18T22:46Z,"karated I'm not sure. To use any KMS activation, you have to use all KMS activation.
+
+I'm not super-keen on all the different activation methods out there so I'm unsure exactly what your activator used.  If you are not using prowmc, chances are that you have gotten a 180 day kms activation. If that is the case, it could be as simple as running the program and adding the office activation to the tokens.dat and data.dat.  Of course it could be more complicated as your windows version may or may not be volume by default. If you activated with kms on a non-volume system like normal pro, it will technically activate, but won't survive any scrutiny and possibly won't let you add office kms.
+
+I would recommend for your situation to try the normal kmsnano.exe. If that doesn't work, run the fix hactivations.cmd to run the scannow and convert everything to legit volume. Then re-run the kmsnano.exe"
+,OnionRex,2012-12-19T01:37Z,"karated
+
+You can run KMSnano in manual mode and uncheck ""Windows"" and leave ""Office"" checked.
+
+This way it won't touch Windows activation all the while activating MS Office '13 for 180 days at a time."
+,Razor_211,2012-12-20T13:16Z,"If activate with this activator,can i use windows update or no?"
+[T],murphy78,2012-12-21T01:45Z,"razor it generates legit files. Unless MS specifically makes a kb file to analyze the activation files, you should be activated just fine. I'm referring to win8, if you are talking about other versions or office, I would say that they are probably fine too."
+,rid911,2012-12-21T10:57Z,i have another activator running but i don't think that one will survive if i install updates...do i need to uninstall that or something before using this one?...
+,karated,2012-12-22T05:17Z,"Great job
+Does this activate Visio and Project 2013 too."
+,GundyMan,2012-12-23T02:25Z,works great for office! thanks
+,crwildman,2012-12-23T10:25Z,"@murphy78 Does your program just contact someones private KMS server?  Or is this a standalone offline activation method?  Please reply :)   Cuz I got a KMS server, i need a standalone program to activate if it is offline and don't want to bring a 4+ gb VMware image with me to make sure it gets activated.    So is your program just contacting a kms? or does it simulate one and then activate?"
+,Fromme63,2012-12-23T12:21Z,"Don't work for me...
+I tried to start qemu manually, but i never starts. I see the first 2-3 sec. of the windows boot screen and then there is only black screen in qemu.
+Is there any solutions for this..?
+I'm running it on a new installed Windows 8 Pro x64."
+[T],murphy78,2012-12-25T00:38Z,"fromme63 try running it as administrator? right click it.
+
+I am not sure you need to directly run the qemu program though.  From what I can tell, you can run the scripts as administrator and they will call up the qemu on demand.
+
+Also, no this is not someone's private kms server. This emulates a real kms server in your memory using a machine emulator program.
+
+I'm not a 100 percent expert on this thing. You can read the included text file or edit the scripts to get an idea of what they do.
+
+Basically they do specific kms server activation functions such as converting your retail/oem version to volume for kms activation, or they activate just office, just windows.
+
+Other people are better suited to give advice. This is still fairly new stuff."
+,TJBab,2012-12-26T10:04Z,"+1 for me!
+Works like a charm!"
+,m33st4,2012-12-27T04:05Z,"+1
+
+It works, better than using the other tools. You'll save yourself so much time. Just run the program with Admin and allow access...boom, it's activated.
+
+Thank you for creating a similar product to the Office Toolkit! One click and it's done. ^^"
+,HAthey,2012-12-27T04:45Z,Worked Great! Super Easy to figure out! 
+,egoadk,2012-12-27T17:08Z,Am I correct that I should get a message saying that product is activated but owner should verify the product use rights. I have remaining grace of 179 days. Renewal internal: 43200 mins. Please correct me if my activation is not done properly.
+,ciscocrazy,2012-12-27T23:36Z,"Ni noobi but getting following error:
+
+---Processing--------------------------
+---------------------------------------
+SKU ID: 
+LICENSE NAME: Office 15, OfficeProPlusVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 15, VOLUME_KMSCLIENT channel
+LICENSE STATUS:  ---OOB_GRACE---
+ERROR CODE: 0x4004F00C
+ERROR DESCRIPTION: The Software Licensing Service reported that the application
+is running within the valid grace period.
+REMAINING GRACE: 29 days  (42123 minute(s) before expiring)
+Last 5 characters of installed product key: GVGXT
+        DNS auto-discovery: KMS name not available
+        Activation Interval: 120 minutes
+        Renewal Interval: 10080 minutes
+        KMS host caching: Enabled
+---------------------------------------
+---------------------------------------
+---Exiting-----------------------------
+ERROR: The system was unable to find the specified registry key or value.
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+---Processing--------------------------
+---------------------------------------
+SKU ID: b322da9c-a2e2-4058-9e4e-f59a6970bd69
+LICENSE NAME: Office 15, OfficeProPlusVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 15, VOLUME_KMSCLIENT channel
+LICENSE STATUS:  ---OOB_GRACE---
+ERROR CODE: 0x4004F00C
+ERROR DESCRIPTION: The Software Licensing Service reported that the application
+is running within the valid grace period.
+REMAINING GRACE: 29 days  (42123 minute(s) before expiring)
+Last 5 characters of installed product key: GVGXT
+        DNS auto-discovery: KMS name not available
+        Activation Interval: 120 minutes
+        Renewal Interval: 10080 minutes
+        KMS host caching: Enabled
+---------------------------------------
+---------------------------------------
+---Exiting-----------------------------
+Press any key to continue . . ."
+,54n1,2012-12-28T10:08Z,"murph it's work work me when i'm try activate win7 enterprise from yours, but today when i turn on my pc (i installed my pc yesterday) i get notification about genuine from microsoft, can you explain this..???"
+,ekajnabi,2012-12-29T14:51Z,"worked for me .i have activated office 2013 on win 8 .while activation i disabled my antivirus and off my firewell and disconected the internet conection.
+thanks murphy78"
+,nas92,2012-12-29T15:23Z,"Hi Murphy78 evry time my laptop uppdates and the computer restarts the mouse pointer dissapears and i can't use it, only the keybord. i used your windows 8 pro x64 and this activator. can u help me with this problem."
+,Rogerects,2012-12-30T02:17Z,"Thank You...
+100% Work...!!!!"
+,unclegob,2012-12-31T08:16Z,"Whenever I try to run convert_windows_retail2v1.cmd it skips right over my Windows. It says: ""Windows Detected: Windows 7 Ultimate : Ultimate
+Version Windows Skipped""
+
+Will this work on Windows 7? I have downloaded NET 4.0, but will this only work on Windows 8? Is there anything else I can do? I tried running Fix Hacktivations already, and didn't help. When I try to run Manual, it doesn't even give me the choice to check Windows. Help me!"
+,akb1ajay,2012-12-31T12:28Z,"+1
+
+Thanks man. worked for me. I have Windows 8 pro VL."
+,unclegob,2013-01-01T01:36Z,"Okay nevermind about the Windows, I got that activated with Windows Loader.
+
+Now it's not unlocking Office 2013 for me. I get this message when checking:
+
+""Office 2013 Status:
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+---Processing--------------------------
+---------------------------------------
+SKU ID: b322da9c-a2e2-4058-9e4e-f59a6970bd69
+LICENSE NAME: Office 15, OfficeProPlusVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 15, VOLUME_KMSCLIENT channel
+LICENSE STATUS:  ---OOB_GRACE---
+ERROR CODE: 0x4004F00C
+ERROR DESCRIPTION: The Software Licensing Service reported that the application
+is running within the valid grace period.
+REMAINING GRACE: 29 days  (42054 minute(s) before expiring)
+Last 5 characters of installed product key: GVGXT
+        DNS auto-discovery: KMS name not available
+        KMS machine registry override defined: 127.0.0.1:1688
+        Activation Interval: 120 minutes
+        Renewal Interval: 10080 minutes
+        KMS host caching: Enabled
+---------------------------------------
+---------------------------------------
+---Exiting-----------------------------
+ERROR: The system was unable to find the specified registry key or value.
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.""
+
+It looks like it's volume but it's not changing the 30-day grace period. Anyone know how to fix these errors or what I'm doing wrong? I'm running this on Windows 7 with NET 4.0 btw. Thanks!"
+,unclegob,2013-01-01T01:37Z,"Okay nevermind about the Windows, I got that activated with Windows Loader.
+
+Now it's not unlocking Office 2013 for me. I get this message when checking:
+
+""Office 2013 Status:
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+---Processing--------------------------
+---------------------------------------
+SKU ID: b322da9c-a2e2-4058-9e4e-f59a6970bd69
+LICENSE NAME: Office 15, OfficeProPlusVL_KMS_Client edition
+LICENSE DESCRIPTION: Office 15, VOLUME_KMSCLIENT channel
+LICENSE STATUS:  ---OOB_GRACE---
+ERROR CODE: 0x4004F00C
+ERROR DESCRIPTION: The Software Licensing Service reported that the application
+is running within the valid grace period.
+REMAINING GRACE: 29 days  (42054 minute(s) before expiring)
+Last 5 characters of installed product key: GVGXT
+        DNS auto-discovery: KMS name not available
+        KMS machine registry override defined: 127.0.0.1:1688
+        Activation Interval: 120 minutes
+        Renewal Interval: 10080 minutes
+        KMS host caching: Enabled
+---------------------------------------
+---------------------------------------
+---Exiting-----------------------------
+ERROR: The system was unable to find the specified registry key or value.
+Microsoft (R) Windows Script Host Version 5.8
+Copyright (C) Microsoft Corporation. All rights reserved.""
+
+It looks like it's volume but it's not changing the 30-day grace period. Anyone know how to fix these errors or what I'm doing wrong? I'm running this on Windows 7 with NET 4.0. Thanks for any help!"
+,stfalcon,2013-01-01T01:53Z,"Having the same problem as @unclegob
+need help here too"
+,Cocon93,2013-01-03T17:25Z,"Thanks Murphy. its working on 64bits.
+
+is it safe to use our hotmail account to sync with windows 8?"
+,tar0409,2013-01-04T18:45Z,Works perfect thanks a lot murphy78 and whoever programmed this KMSnano :)
+[T],murphy78,2013-01-05T00:10Z,"For the usage on windows 7 versions with office 2013, I am a little unfamiliar.  You should be able to do it using one of the utilities inside kmsnano.exe
+
+Try reading the text file heldigard included.  He has some sort of exe front-end that he puts in silent mode for kmsnano, but if you extract and run the appropriate files you can select and deselect things.
+
+As far as using it for just windows office 2013 and not for windows, I'm not sure that you can do that.  Legit activations either use both volume, or both retail.  And since there's no way to activate retail for either of those, you need to activate both of them with volume to have legit files created.
+
+Remember to run everything as admin by right clicking on things like the script files or exe.
+
+I'm sorry I cannot help any more than that, but I'll have to admit that a lot of this stuff is still a bit new to me and over my head."
+[T],murphy78,2013-01-05T00:13Z,"I just wanted to leave one last suggestion. If you are running this on windows 7 to activate either windows or Office 2013, you should Un-Install Daz's Windows Loader.  That will cause problems with other legit activation creation methods such as this.  To uninstall, just run the loader again and click the uninstall button and reboot."
+[T],murphy78,2013-01-05T00:23Z,"cocon93, it's hard to say.  There is a little tracker in explorer.exe that sends data to microsoft.  I think MS may be putting up with a lot of newer Windows 8 activation bypasses to get more people to use their products.  I'm sure once the product has been out a while, they will come up with some anti-piracy measures.  What those will be, who knows?
+
+As for using your microsoft email to log into the app store, I did it with no problems on any of my activation methods."
+[T],murphy78,2013-01-05T09:50Z,"It just occurred to me that office 2013 may set the activation to retail during install and that it doesn't remove the activation registry keys when you uninstall it.
+
+So this may be a possible solution for you windows 7 people who are trying to activate office 2013.  First, uninstall windows loader if it is installed. Second, uninstall office 2013 if it is installed. Third, run some sort of cleanup software for your registry and system such as windows 7 manager.  If it picks off the office retail registration, you should be able to convert windows 7 to volume and activate with kmsnano.  Try the convert_windows_retail2vl.cmd. If that doesn't work use the Fix Hacktivations.cmd. If it successfully converts windows to volume, then re-install office 2013 and attempt to activate with kmsnano.exe
+
+Remember to back up anything you are working on in office before uninstalling as it may delete settings or files."
+,cool1919,2013-01-05T15:12Z,it activates win 8 for 6 months. right? because i used it then i had to use another crack.
+,m33st4,2013-01-05T21:54Z,"I had this to work on Windows 7, but I had no Windows loader (because I found a torrent that did not require it). 
+
+I highly recommend that you uninstall any previous of Office before installing 2013, if that helps anyone.
+
+As I said, good job on this tool. It worked for me.  "
+[T],murphy78,2013-01-06T04:33Z,"cool1919 yes, kms activation is always 180 days.  For windows 8, there are only 3 ways to activate.  There is kms emulation activation like this, kms servers, and prowmc upgrade.  There are NO other methods that work at this time.  Every other method that you see simply hacks your system files.  They do not behave like real activation.  I've tried a korean one that simply blue screen'd me to death. I've tried the onthreeseas, which removed the watermark but then reloaded explorer every time you right clicked, and I've tried activators that weren't actually hacks that used kms activation servers that some people mistakenly have not firewalled.  Those work until people run out the limit of activations for specific versions of windows, but then block the key until it recharges.  I'm not sure how long the recharge is, but it's not short.
+
+If you want to deal with the hassle of finding an online kms server every 180 days, be my guest. Me, I'm going to stick with the emulated kmsnano activation and the free prowmc key upgrade."
+,raju01723031884,2013-01-08T05:40Z,"awesome......
+
+thanks man...."
+,cool1919,2013-01-08T17:41Z,@murphy78: i used windows 8 activator (46MB) found in tpb which might be made by koreans. That permanently activated win 8. thanks for your software though.
+[T],murphy78,2013-01-09T04:03Z,"interesting cool1919, does it say it's licensed when you run the slmgr /dlv command? or just it just stop nagging?"
+,PungPillaren,2013-01-09T17:30Z,"This doesnt work on my Win 8 x64 PRO.
+It says it's activated under activation details but not under PC info
+I also still get the overlay telling me to activate Windows."
+,L-Bo,2013-01-10T06:05Z,"Same for me.
+Tried running fixhactivator which runs for a while but not sure if it does anything after hitting 100% scan. 
+The convert reatil2vl app only has office available in the checkboxes. 
+Not sure what to do, i added that WMC key so thats probably whats stuffed me over."

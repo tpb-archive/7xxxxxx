@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-14T21:08Z,Forgot to change the source file info. I used the MSDN: en_windows_8_pro_n_vl_x86_dvd_918877.iso
+[T],murphy78,2012-12-14T21:18Z,"I've included info for a kms server, but WHEN it gets blocked, you need to search for another online KMS server.  If the key gets blocked, it has just hit it's limit for the month.  You can either try a different Win8 like pro N, enterprise, or enterprise N.  There are 4 volume versions you can use with different keys and everyone that uses a Volume version activates with the same keys using a KMS server.
+
+Don't give me any false positive crap about virus file in the tokens manager. It backs up and overwrites the data.dat and tokens.dat system files, that's it.  There is nothing infected about it."
+[T],murphy78,2012-12-14T21:57Z,"One of these days I'll get my description right on my win8 torrents.  Anyhow, I took down the pre-activated torrent because it wouldn't work for everyone and it could potentially cause problems trying to install other kms products that use the data.dat and tokens.dat files like office2013 etc. I don't expect anyone who is using the files will have any problems because I used the data.dat and tokens.dat from a legit activation of mine.  The recent blocking of the free wmc method leaves me with the impression that I shouldn't mess with them to prevent future kb files from possibly causing problems with activation.
+
+I also forgot to mention that the kb files in this torrent will bring you up to current with the dec 11 2012 hotfixes available for d/l in windows update."
+,Wizardx15,2012-12-15T05:17Z,"Hey murphy78 if its not any trouble can you create a windows 8 pro 32x / 64x aio with the updates integrated of this torrent meaning only containing the 64 & 32 bit merged together i am trying to boot it on my usb flash drive its so much easier to have both 32/64 bit in one install, i enjoy your work and thanks in advance. "
+[T],murphy78,2012-12-15T10:30Z,"wizard I will most likely work on an AIO soon. I typically do them after my main post patch day releases.  Right now I don't think I'll do a retail channel version, as there is no way to activate retail channels with the latest overhaul of MS's web and phone activation.  I will, however, most likely release a 4-in-1 for each x86 and x64, then an 8-in-1 with all the latest kb files.
+
+Should see those being worked out soon.
+If I stop paying attention to this torrent, please help eachother out when the pro vl key hits its limit on the kms server I made pics of.  Some people aren't great at finding good info about kms servers or making sense of the confusing mass of info on some of the forums out there."
+[T],murphy78,2012-12-16T07:12Z,theonionrex tipped me off about somethin called kmsnano which a guy created to make a small emulated kms server in memory to activate kms stuff like volume windows versions and office 2010 and office 2013.  I'ma upload it soon.
+[T],murphy78,2012-12-16T08:27Z,"There is a pack of kb files that didn't show up on windows update for a kb file for pro.  I believe it was just a short-term error on MS's part that will be fixed soon.  If it bugs you, you can try my AIO VL releases or wait till January patch day.
+
+I'm fairly certain it is an oversight because MS had them on windows update until patch day. I figured they might have been made obsolete by a newer kb file, but they weren't. I've searched around a bit and they still show up on other windows 8 versions."
+[T],murphy78,2012-12-17T14:48Z,I upped a newer one with the missing kb files that actually did use 915440 as the source for those that want to play with my new wmc fix. Click my name and look for the dec17 one if you wanna try it.

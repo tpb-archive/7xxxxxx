@@ -1,0 +1,68 @@
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 1.12 GiB
+Duration                                 : 2h 18mn
+Overall bit rate                         : 1 161 Kbps
+Movie name                               : The Promised Land (1975)
+Encoded date                             : UTC 2010-02-22 21:41:31
+Writing application                      : mkvmerge v5.9.0 ('On The Loose') built on Dec  9 2012 15:48:35
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 18mn
+Width                                    : 560 pixels
+Height                                   : 448 pixels
+Display aspect ratio                     : 1.717
+Original display aspect ratio            : 5:4
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Title                                    : DVD9
+Writing library                          : x264 core 120 r2151 a3f4407
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:-1:-1 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=5 / b_pyramid=1 / b_adapt=1 / b_bias=5 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc=cqp / mbtree=0 / qp=21 / ip_ratio=1.40 / pb_ratio=1.30 / aq=0
+Language                                 : Polish
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 18mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -31ms
+Title                                    : LC-AAC-Stereo-q0.35
+Language                                 : Polish
+Default                                  : Yes
+Forced                                   : No
+
+English SRT subtitles are also muxed into the MKV (can be switched off).
+
+Picture is stored anamorphic, as it was anamorphic on DVD.
+560x448 is the storage size, but it will be displayed as 769x448.
+
+Screenshots:  
+http://imageshack.us/a/img837/7484/shot0008i.png  
+http://imageshack.us/a/img839/6975/shot0007ak.png  
+http://imageshack.us/a/img824/6994/shot0006nz.png  
+http://imageshack.us/a/img547/4444/shot0005.png  
+http://imageshack.us/a/img5/364/shot0004t.png  
+http://imageshack.us/a/img688/9204/shot0003tv.png  
+http://imageshack.us/a/img16/1585/shot0002ih.png  
+http://imageshack.us/a/img831/6864/shot0001ts.png

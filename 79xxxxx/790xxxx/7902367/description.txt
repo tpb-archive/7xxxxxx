@@ -1,0 +1,13 @@
+Changelog:
+New: Improved user interface for main window and common settings window.
+
+Fix: A problem that cannot show full user interface at resolution 800x600.
+Fix: A no subtitle problem when copying DVD in Full Disc mode.
+Fix: A crash problem when changing language in common settings page in certain cases.
+Fix: A problem that thumbnail was lost when launch DVDFab without showing the option selection window.
+Fix: A problem that opened source was lost when DVDFab is minimized. 
+Fix: A problem that should not show BD9 and BD5 output in Full Disc mode.
+Fix: A problem that cannot change mode back to Main Movie after set output type as Blu-ray to DVD in Customize mode.
+Fix: A problem that cannot burn BD9 and BD5 on DVD disc in Blu-ray Copy Main Movie mode.
+
+Home Page: www.dvdfab.com

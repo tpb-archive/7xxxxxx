@@ -1,0 +1,20 @@
+A memory leak, in computer science (or leakage, in this context), occurs when a computer program acquires memory but fails to release it back to the operating system. In object-oriented programming, a memory leak may happen when an object is stored in memory but cannot be accessed by the running code.
+
+Windows Sidebar ReFresher is primitive application that refresh your Windows Sidebar add-on and free up leaked RAM memory used by Sidebar. 
+
+This small app made by me, 100 % clean!
+
+Programmed in: Windows PowerShell 2.0
+format: .bat (batch file).
+
+
+
+
+
+Instruction:
+
+Open Task Manager, Processes, find sidebar.exe to see memory changes (optionally),
+
+Run application.
+
+

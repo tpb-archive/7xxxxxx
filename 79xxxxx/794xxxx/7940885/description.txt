@@ -1,0 +1,67 @@
+CD1 
+ 01. Charles Gerhardt - Petite musique de nuit - I. Allegro 
+ 02. Charles Gerhardt - Petite musique de nuit - II. Romanze-Andante 
+ 03. Charles Gerhardt - Petite musique de nuit - III. Menuett - Allegretto 
+ 04. Charles Gerhardt - Petite musique de nuit - IV. Rondo - Allegro 
+ 05. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - I. Adagio maestoso-Allegro con spi... 
+ 06. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - II. Menuetto (Allegretto) 
+ 07. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - III. Concertante (Andante grazioso) 
+ 08. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - IV. Rondeau (Allegro ma non troppo) 
+ 09. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - V. Andantino 
+ 10. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - VI. Menuetto mit zwei Trios 
+ 11. Hartmut Haenchen - Serenade Nr. 9 D-Dur (Posthorn Serenade) - VII. Finale-Presto 
+ 12. Charles Gerhardt - Danses allemandes Nr. 1 D-dur 
+ 13. Charles Gerhardt - Danses allemandes Nr. 2 A-dur 
+ 14. Charles Gerhardt - Danses allemandes Nr. 3 C-dur 
+ 15. Charles Gerhardt - Danses allemandes Nr. 4 G-dur 
+ 16. Charles Gerhardt - Danses allemandes Nr. 5 B-dur 
+ 17. Charles Gerhardt - Danses allemandes Nr. 6 D-dur 
+
+ CD2 
+ 01. Charles Gerhardt - Ouverture zu 'Die Zauberflote' KV 620 
+ 02. Hartmut Haenchen - Sinfonie Nr. 40 g-Moll - I. Molto Allegro 
+ 03. Hartmut Haenchen - Sinfonie Nr. 40 g-Moll - II. Andante 
+ 04. Hartmut Haenchen - Sinfonie Nr. 40 g-Moll - III. Allegretto 
+ 05. Hartmut Haenchen - Sinfonie Nr. 40 g-Moll - IV. Allegro assai 
+ 06. Earl Wild - Konzert fuer Klavier und Orchester Nr. 21 C-dur - I. Allegro maestoso 
+ 07. Earl Wild - Konzert fuer Klavier und Orchester Nr. 21 C-dur - II. Andante 
+ 08. Earl Wild - Konzert fuer Klavier und Orchester Nr. 21 C-dur - III. Allegro vivace assai 
+ 09. Daniel Blumenthal - Sonate fuer Klavier Nr. 15 C-Dur - I. Allegro 
+ 10. Daniel Blumenthal - Sonate fuer Klavier Nr. 15 C-Dur - II. Andante 
+ 11. Daniel Blumenthal - Sonate fuer Klavier Nr. 15 C-Dur - III. Rondo 
+
+ CD3 
+ 01. Rene Leibowitz - Symphonie Nr. 41 C-Dur (Jupiter-Sinfonie) - I. Allegro vivace 
+ 02. Rene Leibowitz - Symphonie Nr. 41 C-Dur (Jupiter-Sinfonie) - II. Andante cantabile 
+ 03. Rene Leibowitz - Symphonie Nr. 41 C-Dur (Jupiter-Sinfonie) - III. Allegretto 
+ 04. Rene Leibowitz - Symphoniee Nr. 41 C-Dur (Jupiter-Sinfonie) - IV. Allegro molto 
+ 05. Daniel Blumenthal - Sonate pour piano Nr. 11 A-Dur - I. Andante grazioso (Andante mit Variationen) 
+ 06. Daniel Blumenthal - Sonate pour piano Nr. 11 A-dur - II. Menuetto 
+ 07. Daniel Blumenthal - Sonate pour piano Nr. 11 A-dur - III. Rondo 'alla turca' 
+ 08. Charles Gerhardt, Londoner Kammer-Solisten - Divertissement pour petit orchestre en MI min Nr. 2 D-dur - I. Allegro 
+ 09. Charles Gerhardt, Londoner Kammer-Solisten - Divertissement pour petit orchestre en MI min Nr. 2 D-dur - II. Adagio 
+ 10. Charles Gerhardt, Londoner Kammer-Solisten - Divertissement pour petit orchestre en MI min Nr. 2 D-dur - III. Menuetto 
+ 11. Charles Gerhardt, Londoner Kammer-Solisten - Divertissement pour petit orchestre en MI min Nr. 2 D-dur - IV. Allegretto 
+ 12. Charles Gerhardt, Londoner Kammer-Solisten - Divertissement pour petit orchestre en MI min Nr. 2 D-dur - V. Menuetto II 
+ 13. Charles Gerhardt, Londoner Kammer-Solisten - Divertissement pour petit orchestre en MI min Nr. 2 D-dur - VI. Adagio - Allegro 
+
+ Used drive : ATAPI DVD A DH20A1P Adapter: 1 ID: 0 
+
+ Read mode : Secure 
+ Utilize accurate stream : Yes 
+ Defeat audio cache : Yes 
+ Make use of C2 pointers : No 
+
+ Read offset correction : 6 
+ Overread into Lead-In and Lead-Out : No 
+ Fill up missing offset samples with silence : Yes 
+ Delete leading and trailing silent blocks : No 
+ Null samples used in CRC calculations : Yes 
+ Used interface : Native Win32 interface for Win NT & 2000 
+
+ Used output format : User Defined Encoder 
+ Selected bitrate : 768 kBit/s 
+ Quality : High 
+ Add ID3 tag : No 
+ Command line compressor : C:Program FilesExact Audio CopyFLACFLAC.EXE 
+ Additional command line options : -6 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" -T "BAND=%albuminterpret%" -T "ALBUMARTIST=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" %hascover%--picture="%coverfile%"%hascover% %source% -o %dest%

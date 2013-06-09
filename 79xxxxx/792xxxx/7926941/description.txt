@@ -1,0 +1,83 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 10. July 2010, 22:10
+
+Jay-Z / Show Me What You Got (Single)
+
+Used drive  : ASUS    DRW-24B1ST   Adapter: 5  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 768 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:Program Files (x86)FLACflac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "TOTALTRACKS=%x" -T "GENRE=%m" -T "ALBUMARTIST=%v" -T "ALBUM ARTIST=%v" -T "COMMENT=EAC Secure Mode, Test & Copy, AccurateRip, FLAC -8" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:44.37 |         0    |    16836   
+        2  |  3:44.37 |  3:44.36 |     16837    |    33672   
+        3  |  7:28.73 |  3:42.63 |     33673    |    50385   
+
+
+Track  1
+
+     Filename C:EACRips 1 - Show Me What You Got (Clean).wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Test CRC BBE8DA5D
+     Copy CRC BBE8DA5D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:EACRips 2 - Show Me What You Got (Main).wav
+
+     Pre-gap length  0:00:01.97
+
+     Peak level 99.9 %
+     Track quality 99.9 %
+     Test CRC 9EBA4706
+     Copy CRC 9EBA4706
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:EACRips 3 - Instrumental.wav
+
+     Pre-gap length  0:00:01.96
+
+     Peak level 99.9 %
+     Track quality 99.9 %
+     Test CRC 50444719
+     Copy CRC 50444719
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report

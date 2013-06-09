@@ -1,0 +1,18 @@
+System Requirements:
+ - Windows 7/Vista/XP/2000 (32-bit/64-bit)
+ - Pentium II 500 MHz
+ - 256 MB of RAM
+ - 10 GB of Free Hard Disk Space
+ - A DVD-R(W) or DVD+R(W) Drive
+
+Why Qt?
+ 1. We can have some advanced UI effects like skins and animations in future versions.
+ 2. We have moved an important step to the Mac version.
+
+Changes in DVDFab 9.0.1.6 Final:
+ Fix: A black screen problem when playback the copied Blu-ray 3D discs on standalone player in certain cases.
+ Fix: A black screen problem when playback the copied Blu-ray 3D discs on TMT and PowerDVD players in certain cases. Note: This issue only reproduces in Full Disc mode and using the Blu-ray ISO files as source.
+ Fix: A 1000 error problem when copying Blu-ray discs to Blu-ray SBS 3D in certain cases.
+ Fix: A freeze problem when copying vc1 Blu-ray discs in certain cases.
+
+Home Page: www.dvdfab.com

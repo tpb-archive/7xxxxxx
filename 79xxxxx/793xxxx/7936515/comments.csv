@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,herovello,2012-12-21T07:35Z,"I got this error message:
+
+""ERROR! cannot write to Info.plist, there are permission problems, or you are on a read-only volume.
+
+This cannot run from within a read-only dmg file.""
+
+Any suggestions to fix it? Thanks"
+,FadeGate,2012-12-21T18:38Z,"@herovello:
+When you download, you should get a Baldur'sGate EE.dmg, correct? Open and follow the instructions to get the WineSkin wrapper. From there, drag the Baldur's Gate app onto your desktop and let it copy to your desktop. Once it is copied out of the WineSkin file, you should be able to open and play the game. Hope this solves your problem. Also, let your Mac verify the file instead of skipping that process in the beginning. That worked for me!"

@@ -1,0 +1,77 @@
+Francis (Francis the Talking Mule)
+
+DVDRip, xVid
+English, subtitles in Spanish (forced)
+Show bellow for mediainfo output.
+
+
+ORIGINAL TITLE 	Francis (Francis the Talking Mule)
+YEAR		1950 	 
+RUNNING TIME	91 min.
+COUNTRY		[United States]
+DIRECTOR	Arthur Lubin
+SCREENWRITER	David Stern
+COMPOSER	Frank Skinner, Walter Scharf
+CINEMATOGRAPHER	Irving Glassberg (B&W)
+CAST		Donald O'Connor, Patricia Medina, Zasu Pitts, Ray Collins, John McIntire, Eduard Franz, Howland Chamberlain, James Todd, Robert Warwick, Frank Faylen
+STUDIO/PRODUCER	Universal International Pictures
+GENRE		Comedy. Fantasy
+
+SYNOPSIS/PLOT	
+The truthful soldier Stirling didn't know how to lie about his source of information, the talking army Mule, Francis, so he was treated as a lunatic and led to one after another hilarious situations, where the mule was the only one that appeared in his right mind. In the process of all this, the mule assisted in uncovering a spy, Mareen, who pretended to be lost among the jungles, but was actually... This is a perfect family film, even amusing to the adults. If people all have enough sense as this talking mule does, the world will be a much better place than its present condition.
+
+
+MediaServer> mediainfo Francis.avi
+General
+Complete name                            : Francis.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 802 MiB
+Duration                                 : 1h 30mn
+Overall bit rate                         : 1 233 Kbps
+Writing application                      : MEncoder SVN-r22963
+Writing library                          : MPlayer
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L3
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 1h 30mn
+Bit rate                                 : 1 173 Kbps
+Width                                    : 368 pixels
+Height                                   : 272 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.489
+Stream size                              : 763 MiB (95%)
+Writing library                          : XviD 1.1.2 (UTC 2006-11-01)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 30mn
+Bit rate mode                            : Constant
+Bit rate                                 : 48.0 Kbps
+Channel(s)                               : 1 channel
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Stream size                              : 31.2 MiB (4%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 26 ms (0.63 video frame)
+Interleave, preload duration             : 522 ms
+

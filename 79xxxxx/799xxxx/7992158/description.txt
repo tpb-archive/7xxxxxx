@@ -1,0 +1,45 @@
+MSc Thesis
+Sebastien Jeanquier
+info () securethoughts ! net
+GPG Key ID: 0xBE4D6CE8
+Supervisor: Dr. Alex Dent
+Information Security Group
+Royal Holloway College, University of London
+September 9, 2006
+
+Executive Summary
+This thesis will analyse the network security concept of Port Knocking and
+its younger brother Single Packet Authorization and assess their suitability as
+ΓÇÿFirewall AuthenticationΓÇÖ mechanisms for opening network ports or performing
+certain actions on servers using these mechanisms.
+The introduction provides a short history of network security and why this
+concept has come about at the start of this century. It will also cover the
+basics of networking and cryptography required to understand the fundamental
+workings of port knocking systems and the threats and attacks pertinent to
+them. An overview of both port knocking and single packet authorization and
+the security aspects involved, including the debated topic of security through
+obscurity, will enable a clearer understanding of port knocking in actual use
+and the analysis of implementations of both forms of firewall authentication
+schemes.
+The aim of this thesis is to analyse the security offered by both systems
+and assess which threats exist in theory and in the real world, and outline
+the practicalities of using port knocking as part of defence in depth. Finally,
+this thesis attempts to mention certain possible improvements to port knocking
+schemes, as well as an overview of alternate uses of port knocking in other
+aspects of information security.
+The two primary implementations that will be analysed are Martin Krzy-
+winskiΓÇÖs Port Knocking Perl Prototype and Michael RashΓÇÖs single packet autho-
+rization Firewall Knock Operator (fwknop). In actual use, it was found that the
+Perl Prototype may be more restrictive due to the long ΓÇÿknocksΓÇÖ required when
+encryption is used, and anti-replay features require that state be maintained on
+both the server and client. The extremely low transmission rate and delivery-
+order issues involved with port knocking make it less suitable where more data
+may be required for a secure and practical knock. On the other hand, the sin-
+gle packet authorization implementation, fwknop, uses single UDP packets to
+transmit authorization data, much in the fashion described in ISO/IEC 9798-
+2 on entity authentication, but loses the ΓÇÿknockingΓÇÖ aspect of port knocking,
+which is a novel and unique delivery mechanism. In its default configuration,
+fwknop is quite vulnerable to dictionary attacks, simply due to the way in which
+passphrases are turned into cryptographic keys. A will present a simple tool,
+fwknop da, designed to illustrate how a live attacker could intercept fwknop
+authorization packets and crack them. 

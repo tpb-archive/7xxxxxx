@@ -1,0 +1,28 @@
+﻿User Type,Username,Date,Text
+,sellera,2012-12-24T02:31Z,"forgot to put the ripping info:
+
+EAC extraction logfile from 23. December 2012, 15:11
+
+Seu Jorge / Musicas para Churrasco
+
+Used drive  : HL-DT-STDVD-RAM GH22NS30   Adapter: 0  ID: 1
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : No
+
+Combined read/write offset correction       : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 192 kBit/s
+Quality                         : High
+Add ID3 tag                     : Yes
+Command line compressor         : C:Program FilesLameLAME.EXE
+Additional command line options : %islow%-V 5%islow%%ishigh%-V 2%ishigh% --vbr-new %source% %dest%"

@@ -1,0 +1,8 @@
+OCCT Pro is the professionnal version of OCCT. Its use is allowed in commercial environment and companies, not only for personal use.
+
+This version comes with all the features included in OCCT, and adds the following :
+
+Custom test : a test composed of your own application ! Just fill in three batch files : one for starting your test, one for stopping it, one for reporting its status, and OCCT will take care of the rest ! With that, you can use your own scenarios to test your computer, with monitoring as if it was a regular OCCT Test !
+Monitoring-only test : A time period where OCCT won't do anything but recording, as if it was during a built-in test. You'll see how the temperatures, voltages, fans, CPU and memory behaved during this time priod ! Very useful to see the computer's behaviour in real end-user usage, and for monitoring various apps.
+Allows CSV Output of all sensors alongside graphs - you can now build your own graphs !
+Customize the graph output folder : you will no longer need to clean up your customer's "My Documents" folder. You can tell OCCT to put the graph in its own folder, or anywhere else !

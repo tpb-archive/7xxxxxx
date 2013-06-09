@@ -1,0 +1,31 @@
+﻿User Type,Username,Date,Text
+,rore46,2012-12-14T07:20Z,"Please seed stuck on 71,4%"
+,jamieb1367,2012-12-16T19:35Z,seed please
+,TheBillGates,2012-12-22T11:02Z,"Public KMS Server for Server 2012 / Office 2013 activation
+with NEW non-banned GOLD KMS-host keys!
+****************
+* 98.212.2.163 *
+****************
+
+Run this commands from command prompt with Administrative
+privileges to activate Server 2012:
+88
+slmgr.vbs /skms 98.212.2.163
+slmgr.vbs /ato
+88
+
+Run this commands from command prompt with Administrative
+privileges to activate Office 2013 (x64)
+88
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /sethst:98.212.2.163
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /setprt:1688
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /act 
+88
+
+Run this commands from command prompt with Administrative
+privileges to activate Office 2013 (x86)
+88
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /sethst:98.212.2.163
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /setprt:1688
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /act 
+88"

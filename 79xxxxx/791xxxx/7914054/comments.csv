@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,pjones452,2012-12-12T07:51Z,nice thank you
+,Ayni.,2012-12-12T07:58Z,"Amazing! Thank you!!
+
+Would you upload a 720p version?
+
+I've been waiting for this long time! Thank you again!"
+,kevduch,2012-12-12T08:28Z,45GiB? Whoa.
+,MacTee,2012-12-12T09:15Z,Sweet jesus thats a big torrent.  Thanks BOZX for gettin it out there.  I'll wait a bit for a re-encode and reupload thats a bit kinder to my download cap :)
+,Strajow,2012-12-12T22:34Z,45gig WHY?? is it a 20hour movie? The qualtiy must be out of this world
+,Transientbuddha,2012-12-13T04:49Z,strajow...well it could be a converted lossless bluray..they are that big a size.. 
+,Ayni.,2012-12-13T06:51Z,"@Strajow,
+
+It's an image of the Blu-ray disc. It contains everything just like the original Blu-ray disc. Extras, deleted scenes, etc."
+,evilmonkey99,2012-12-27T12:56Z,"Please help. I finished downloading this ridiculous sized torrent and the damn thing won't play. When I mount it (it's an ISO file) as an image drive i try and run it in powerdvd and it acts as if it is going to play it, but it just gives black screens with the thing at the bottom moving to the right as if it is playing files but they are only 20 seconds long. VLC Media Player also doesn't play this. I even tried extracting the ISO file and i get the same result.
+I have almost 800 high definition movies, so i've been doing this for awhile. I mean i'm not a newbie at this, but I need your advice. Please help. "
+,evilmonkey99,2012-12-29T20:13Z,has anyone gotten this thing to work? it won't work. read my previous comment and please respond with advice if you got this working.
+,Kvetanig,2012-12-31T06:41Z,"evilmonkey99, I use VLC and it works. Make sure you're using the latest VLC which is version 2.0.5.
+After you mount the image, open VLC and go to Media - Open Disc, select ""BluRay"" and choose the image drive in the dropdown. Then press ""Play""."
+,Kvetanig,2012-12-31T06:45Z,"About the video. It seems there's a glitch with colors: in the scene where Seth comes to Joe after letting his loop run, the light from the fridge is deep blue, which is quite annoying. Or is it supposed to be like that? It happens in other moments as well."
+,evilmonkey99,2012-12-31T10:18Z,"@Kvetanig i followed your instructions precisely and it won't play. it doesn't give an error or anything. the background in VLC stays black with that stupid santa hat logo. I had version 2.0.4 and i uninstalled and reinstalled the 2.0.5. 
+again, i did it just like you said.
+using cyberlink powerdvd it says the disk is an unsupported format. VLC however gives no error. it just wont play."
+,Kvetanig,2012-12-31T11:58Z,"@evilmonkey99
+Something isn't right. I can only speculate what it is, but you could try other players like MPC-HC or another disc emulator like WinCDEmu. Both are opensource.
+
+But there's a simpler way to play the movie. In the image in the folder BDMVSTREAM there should be a 32GB file 00800.m2ts, which is the whole movie. It can be played independently. If this doesn't work then something is definitely wrong."
+,evilmonkey99,2012-12-31T12:51Z,"@Kvetanig yea the 32gb file did play. it isn't the whole movie though. it starts off a ways in and when i scroll to the end of the 32gb file it definitely isn't anywhere near the actual end of the movie.
+this is the extracted folder of the ISO though.
+when i select the folder with VLC, it skips through files real fast and spits out tons of error codes saying in red NO SUITABLE DECODER MODULE VLC does not support the audi oor video format RGBA unfortunately there is no way for you to fix this. 
+let me remind you that i have near 800 mkv and other high def format video files that play perfectly fine. nothing is wrong with my system. it's just this fucking file.
+i already downloaded the 32GB Looper. it's a totally different torrent and it works. Its shitty this wont work though. I've also downloaded other movies that are the whole bluray disc and i play them with cyberlink powerdvd. they also work with VLC just fine. they weren't ISO files though... 
+kinda shitty..... i don't know what else to say.
+I appreciate you helping me. If you come to any other conclusions, i'll check back to read your comments. otherwise i'll most likely delete this torrent in a few days. unless we can figure out WTF.. i wont keep this."
+,Kvetanig,2012-12-31T13:54Z,"@evilmonkey99
+I double checked. For me this m2ts file is the entire movie. And my VLC can play every file in that folder.
+I've no idea what the problem is."
+,evilmonkey99,2013-01-01T00:44Z,"@Kvetanig yea it is the whole movie. It doesn't let you skip through the movie though in VLC. you have to watch it from the beginning and have it play all the way through, otherwise it get's screwed up. idk wtf but this iso has been nothing but trouble."

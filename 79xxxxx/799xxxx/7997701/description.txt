@@ -1,0 +1,44 @@
+Acrobat XI Pro system requirements Windows :
+
+* 1.3GHz or faster processor
+* Microsoft┬« Windows┬« XP with Service Pack 3 for 32 bit or Service Pack 2 for 64 bit; Windows Server┬« 2003 R2 (32 bit and 64 bit); Windows Server 2008 or 2008 R2 (32 bit and 64 bit); Windows 7 (32 bit and 64 bit); Windows 8 (32 bit and 64 bit)
+* 512MB of RAM (1GB recommended)
+* 1.85GB of available hard-disk space
+* 1024x768 screen resolution
+* DVD-ROM drive
+* Internet Explorer 7, 8, 9, or 10; Firefox Extended Support Release; Chrome
+* Video hardware acceleration (optional)
+
+Note: For 64-bit versions of Windows Server 2003 R2 and Windows XP (with Service Pack 2), Microsoft Update KB930627 is required.
+
+Languages : Italian, Portuguese (BR), Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Japanese, Korean, Russian, Slovak, Slovenian, Polish, Spanish, Swedish, Turkish, Ukrainian
+
+Homepage :  
+http://www.adobe.com/products/acrobatpro.html
+
+
+Please read instructions
+0. CLOSE YOUR INTERNET CONNECTION (IMPORTANT)
+
+1. Install application from "Adobe CS6" folder by double clicking on the "Setup.exe" (With admin rights on your system.)
+
+2. Choose TRIAL install. (IMPORTANT)
+
+3. Select your language. (You can not change it after installation)
+
+4. Open the application as trial version and close. (IMPORTANT)
+
+5. Install update by double clicking on "AcrobatUpd11001.msp" in"update" folder.
+
+6. Copy the patch "adobe.acrobat.xi.pro.patch-MPT.exe" from "patch-MPT" folder and paste it in to the installation folder and RUN. Click on brain shaped button and be sure to see "OK" on patch. Installation folder is generally ;
+C:Program Files (x86)AdobeAcrobat 11.0Acrobat
+OR
+C:Program FilesAdobeAcrobat 11.0Acrobat
+
+7. For your safety Use your firewall to stop internet connection of the application and uncheck automatic updates. Don't update it.
+
+* Some security software will warn you, be relax it is false positive.
+
+** If you can not find patch "adobe.acrobat.xi.pro.patch-MPT.exe" it means, your security software deleted or quarantined it without your knowledge. Open your security software and exclude it OR close your security software and download it again.
+
+Thanks to MPT

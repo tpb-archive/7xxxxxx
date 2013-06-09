@@ -1,0 +1,24 @@
+This package includes Duke Nukem 3D Atomic Edition, plus the expansion packs (Nuclear Winter, Caribbean, Duke it Out in DC) in addition to the stand alone game, the side scrolling Manhattan Project.
+
+Duke Nukem 3D Atomic Edition - Bin/Cue Files
+Nuclear Winter - Iso File
+DC - Bin/Cue
+Caribbean - Install.exe
+Manhattan Project - CCD/IMG/SUB Files
+
+
+Here's what you do to play or burn these files.
+
+1-Download MagicISO online.
+2-After setting up the program, go to Tools>Virtual CD/DVD-ROM>E:No Media>Mount
+3-Select the file to mount(it will either be the ISO file, Img file or Bin file, depending on the game)
+4-Open virtual drive and double click on image file
+5-Setup and install game as you normally would
+
+To burn:
+
+1-Insert a blank CD/DVD disc
+2-Run MagicISO
+3-Click Tools>Burn CD/DVD with ISO
+4-Select image file under the CD/DVD Image file section (NOW this is important-if you have a Cue/Bin file you always burn the Cue file, just make sure that the Cue and Bin are in the same folder. With CCD/Img/Sub files, you always burn the CCD file, just make sure the CCD/Img and Bin are in the same folder as you burn. With an ISO file you just burn the ISO).
+5-Click the Burn It! button.  

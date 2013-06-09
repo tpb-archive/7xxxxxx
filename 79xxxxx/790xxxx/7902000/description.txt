@@ -1,0 +1,151 @@
+Info file
+
+Name: The.Words.2012.iTA-ENG.Bluray.720p.x264-TRL.mkv
+Date: Thu, 06 Dec 2012 19:22:43 +0100
+Size: 4,933,988,171 bytes (4705.417796 MiB)
+
+
+[ Magic ]
+
+File type: data
+
+[ Generic infos ]
+
+Duration: 01:47:22 (6442.464 s)
+Container: matroska
+Production date: Tue, 18 Sep 2012 23:52:58 +0100
+Total tracks: 7
+Track nr. 1: video (V_MPEG4/ISO/AVC) {eng}
+Track nr. 2: audio (A_AC3) [MUX DVD] {ita}
+Track nr. 3: audio (A_AC3) {eng}
+Track nr. 4: audio (A_DTS) {eng}
+Track nr. 5: subtitle (S_TEXT/UTF8) {ita}
+Track nr. 6: subtitle (S_TEXT/UTF8) [Forced] {eng}
+Track nr. 7: subtitle (S_TEXT/UTF8) {eng}
+Muxing library: libebml v1.2.3 + libmatroska v1.3.0
+Writing application: mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep 2 2012 15:37:04
+
+[ Relevant data ]
+
+Resolution: 1280 x 528
+Width: multiple of 32
+Height: multiple of 16
+Average DRF: 20.980125
+Standard deviation: 0.705748
+Std. dev. weighted mean: 0.64523
+
+[ x264 log ]
+
+frame I: 1508 ( 0.976 %)
+frame B: 80135 ( 51.880 %) ##########
+frame P: 72820 ( 47.144 %) #########
+frame I avg QP: 13.22
+frame B avg QP: 18.26
+frame P avg QP: 15.83
+Avg QP: 17.065197
+
+[ Video track ]
+
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1280 x 528
+Display resolution: 1280 x 533 (pixels)
+Frame aspect ratio: 80:33 = 2.424242
+Pixel aspect ratio: 528:533 = 0.990619
+Display aspect ratio: 1280:533 = 2.401501
+Framerate: 23.976025 fps
+Stream size: 2,840,151,966 bytes (2708.579985 MiB)
+Duration (bs): 01:47:22 (6442.394086 s)
+Bitrate (bs): 3526.827981 kbps
+Qf: 0.217652
+
+[ Audio track nr. 1 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 360,777,984 bytes (344.064697 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 201,327
+Duration (bs): 01:47:22 (6442.464 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 448 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 2 ]
+
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 515,397,120 bytes (491.520996 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 201,327
+Duration (bs): 01:47:22 (6442.464 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 640 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): 3 front, 2 rear, 1 LFE
+
+[ Audio track nr. 3 ]
+
+Codec ID: A_DTS
+Sampling frequency: 48000 Hz
+Channels: 6
+Stream size: 1,215,207,356 bytes (1158.912045 MiB)
+Bitstream type (bs): DTS
+Frames (bs): 603,979
+Duration (bs): 01:47:22 (6442.442667 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 1536 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): C + L + R+ SL+SR
+Final skip (bs): 1,608 bytes
+
+[ Video bitstream ]
+
+Bitstream type: MPEG-4 Part 10
+User data: x264 | core 125 r2208 d9d2288 | H.264/MPEG-4 AVC codec
+User data: Copyleft 2003-2012 | http://www.videolan.org/x264.html | cabac=1
+User data: ref=5 | deblock=1:0:0 | analyse=0x3:0x133 | me=hex | subme=7 | psy=1
+User data: psy_rd=1.00:0.00 | mixed_ref=1 | me_range=16 | chroma_me=1
+User data: trellis=1 | 8x8dct=1 | cqm=0 | deadzone=21,11 | fast_pskip=1
+User data: chroma_qp_offset=-2 | threads=12 | lookahead_threads=2
+User data: sliced_threads=0 | nr=0 | decimate=1 | interlaced=0
+User data: bluray_compat=0 | constrained_intra=0 | bframes=3 | b_pyramid=2
+User data: b_adapt=1 | b_bias=0 | direct=1 | weightb=1 | open_gop=0 | weightp=2
+User data: keyint=240 | keyint_min=23 | scenecut=40 | intra_refresh=0
+User data: rc_lookahead=50 | rc=2pass | mbtree=1 | bitrate=3527 | ratetol=1.0
+User data: qcomp=0.60 | qpmin=0 | qpmax=69 | qpstep=4 | cplxblur=20.0
+User data: qblur=0.5 | ip_ratio=1.40 | aq=1:1.00
+SPS id: 0
+Profile: High@L4.1
+Num ref frames: 5
+Aspect ratio: Custom pixel shape (99:100 = 0.99)
+Chroma format: YUV 4:2:0
+PPS id: 0 (SPS: 0)
+Entropy coding type: CABAC
+Weighted prediction: P slices - explicit weighted prediction
+Weighted bipred idc: B slices - implicit weighted prediction
+8x8dct: Yes
+Total frames: 154,463
+Drop/delay frames: 0
+Corrupt frames: 0
+
+P-slices: 72820 ( 47.144 %) #########
+B-slices: 80135 ( 51.880 %) ##########
+I-slices: 1508 ( 0.976 %)
+SP-slices: 0 ( 0.000 %)
+SI-slices: 0 ( 0.000 %)
+
+
+[ DRF analysis ]
+
+average DRF: 20.980125
+standard deviation: 0.705748
+max DRF: 22
+
+DRF<14: 0.000="0.000" 0.001="0.001" 0.011="0.011" 0.024="0.024" 0.196="0.196" 0.735="0.735" 0="0" 110640="110640" 11238="11238" 1136="1136" 16.242="16.242" 17="17" 1="1" 25088="25088" 3.886="3.886" 303="303" 37="37" 6003="6003" 7.276="7.276" 71.629="71.629" drf="drf">22: 0 ( 0.000 %)
+
+P-slices average DRF: 20.91284
+P-slices std. deviation: 0.809072
+P-slices max DRF: 22

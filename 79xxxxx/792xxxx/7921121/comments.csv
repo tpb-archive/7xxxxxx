@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,aniket94,2012-12-21T04:21Z,both the games r working......but r in russian .....how to change the language ????
+,aniket94,2012-12-21T08:08Z,Give me a way to get out of the problem ...plz..asap
+,killzonex118,2012-12-21T17:18Z,Hi the games are working you Can Change the Language to English from the Setup options  but when i enter the game all the InterFace Words Disappear Help please 
+,aniket94,2012-12-21T19:19Z,i choose the english when it is asked on startup of the setup.......but after installing it......the game working in Russian.......
+,Jeus1997,2012-12-24T16:54Z,How to change languege which is in russian..? Ty in advance.
+,ancemu,2012-12-29T13:54Z,"I SOLVED THE LANGUAJE PROBLEM: go to User[UsernameAppDataRoamingBioshockBioshock.ini (you will have to activate show hidden files to see appdate folder)
+change bioshock.ini  to bioshock.txt (you will have to uncheck hide extension of known files)
+open the bioshock.txt file, and under the engine.engine section, there will be a line that says language:rus (rus is the language set) change it to english simply replacing rus with int
+
+The first dialog of the game is in russian, you can activate the subtitles to read it. In my case the english volume dialogs were too low, so I changed the music and effects volume to 20, and left the dialogs in 100.
+It works fine for me. Regards"
+,ancemu,2012-12-29T14:01Z,"Sorry, I forgot this: YOU SHOULD CHANGE AGAIN bioshock.txt to bioshock.ini
+
+I hope it works for you. Regards."
+,aniket94,2013-01-09T05:53Z,"
+Thanx for the help #ancemu"
+,aniket94,2013-01-09T12:02Z,but Bioshock 1 is crashing even aftr applying latest crack....any solution for that

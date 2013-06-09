@@ -1,0 +1,33 @@
+Adguard v 5.5.557.3275 [16 languages]
+
+Adguard 5.5 is a new release of the popular ad and popup blocking program. Not only it protects users from unwanted ads, it keeps them away from phishing and dangerous websites too. While working siltently in the background, it automatically removes banners from the web pages you visit, thereby saving your traffic and reducing the page loading time. The program supports both 32x and 64x Windows versions, and it works on all popular browsers. New release fixes most of the known compatibility issues with third-party applications and some minor bugs.
+
+Key features of Adguard:
+
+1. Saves time and nerves;
+2. Works with all popular browsers;
+3. Easy to use, works just out of the box, needs no tuning or customization;
+4. Comes with a browser module for manual ad blocking;
+5. Updated regularly;
+6. Works on 32x and 64x Windows versions.
+
+Release notes for 5.5:
+Added:
+
++ QT Web browser support
++ Sleipnir browser support
++ Extended logging
++ Filtration is enabled on big range of ports (not only 80)
++ In proxy mode Adguard automatically set system settings
+
+Fixed:
+* Problem with no filtration of some ports
+* Conflict with ESET ssl filtration
+* Errors with HTTPS websites in Opera browser
+* Problem with Opera's periodical slowdown
+* Opera Link problem
+* Some problems with flash games
+* Maxthon favourites synchronization problem
+* Errors that occurred while loading some pages
+* Some minor fixes
+

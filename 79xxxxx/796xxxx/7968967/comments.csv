@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,math27,2013-01-01T18:35Z,there is no launcher.exe. can you help how to change the language? thx
+,Sinatra,2013-01-02T15:48Z,Does it work and is it free from viruses and malware?
+,ozdlinc,2013-01-02T18:16Z,"Stay away from this it has BAD Malware hidden deep inside it the game is in english but its infected with a JAVA backdoor this is my malware log
+
+Registry Values Detected: 1
+HKLMSOFTWAREMicrosoftWindowsCurrentVersionRun|Java Update (Backdoor.Bifrose) -> Data: C:Program FilesJavasetup.vbs -> Quarantined and deleted successfully."
+,ozdlinc,2013-01-02T18:18Z,http://en.wikipedia.org/wiki/Bifrost_(Trojan_horse)
+,ozdlinc,2013-01-02T18:19Z,"Bifrost is a backdoor trojan horse family of more than 10 variants which can infect Windows 95 through Windows 7. Bifrost uses the typical server, server builder, and client backdoor program configuration to allow a remote attacker, who uses client, to execute arbitrary code on the compromised machine (which runs the server whose behavior can be controlled by the server editor).
+The server component (29,053 bytes) is dropped to C:Program FilesBifrostserver.exe with default settings and, when running, connects to a predefined IP address on TCP port 81, awaiting commands from the remote user who uses the client component. It can be assumed that once all three components are operational, the remote user can execute arbitrary code at will on the compromised machine. The servers components can also be dropped to C:Windows and file attributes changed to ""Read Only"" and ""Hidden"". Casual users may not see the directories by default due to the ""hidden"" attributes set on the directory. Some anti-virus (example AVG - 17th Feb 2010) seems to miss the file.
+The server builder component has the following capabilities:
+Create the server component
+Change the server component's port number and/or IP address
+Change the server component's executable name
+Change the name of the Windows registry startup entry
+Include rootkit to hide server process
+Include extensions to add features (adds 22,759 bytes to server)
+Use persistence (makes the server harder to remove from the infected system)
+The client component has the following capabilities:
+Process Manager (Browse or kill running processes)
+File manager (Browse, upload, download, or delete files)
+Window Manager (Browse, close, maximize/minimize, or rename windows)
+Get system information
+Extract passwords from machine
+Keystroke logging
+Screen capture
+Webcam capture
+Desktop logoff, reboot or shutdown
+Registry editor
+Remote shell
+On December 28, 2005, the Windows WMF exploit was used to drop new variants of Bifrost to machines. Some workarounds and unofficial patches were published before Microsoft announced and issued an official patch on January 5, 2006. The WMF exploit is to be considered extremely dangerous.
+Older variants of Bifrost used different ports, e.g. 1971, 1999; had a different payload, e.g. C:Winntsystem32system.exe; and/or wrote different Windows registry keys."

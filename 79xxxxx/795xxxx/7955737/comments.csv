@@ -1,0 +1,230 @@
+﻿User Type,Username,Date,Text
+,mt_phile,2012-12-25T07:35Z,"Note, these are ISO's"
+,012,2012-12-25T08:07Z,"Yes, Indeed however you can always extract with winrar ver 4 and up.
+"
+,012,2012-12-26T20:17Z,"I just realized in FAQ which I have included I was not very clear about players and issues with decoding color info. I will break this in to two sections hopefully clear it out for you.
+
+In regards official player(s) they would be Arcsoft TMT, Corel Windvd or Cyberlink PowerDVD.
+If you choose one of them make sure it support blu-ray playback. Since files I give you are in blu-ray format and wrapped in ISO.
+
+I also tried other player such VLC media player, Media Player classic home cinema and few others but they cause wash out of the picture. However this is not observed with official players. I would recommend sticking with one of the above players or using standalone blu-ray player."
+,012,2012-12-27T07:42Z,"This post is mainly geared towards mac user.
+
+Due to the nature of file system used in ISO, it may not be possible to navigate contents of file within mac.  To fix this issue you can run MacOS X 10.5, or higher as it includes native support for file system.
+
+If file system issue doesn’t matter to you or you can’t run OsX 10.5 or higher, you can use “DVDFAB Player” form “http://www.dvdfab.com”. I know it is shareware with 30 days trial, but for our purpose you can use it after 30 day trial as well without any crack. 
+
+You can also use it even if you can see contents of the ISO file as it does not cause washout of the picture. I tried window version any it plays without any issue, based on that I assuming it should work on mac based version as well."
+,captprice,2013-01-01T07:56Z,"plz post audio and video statistics.... resolution,bitrate etc."
+,012,2013-01-03T01:21Z,"Batman Begins
+-------------
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 15.3 Mbps
+Maximum Overall bit rate                 : 35.5 Mbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Bit rate mode                            : Variable
+Bit rate                                 : 14.1 Mbps
+Nominal bit rate                         : 11.5 Mbps
+Maximum bit rate                         : 35.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.283
+Stream size                              : 13.8 GiB (92%)
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+Format                                   : TrueHD / AC-3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : Stream extension
+Codec ID                                 : 131
+Duration                                 : 2h 20mn
+Bit rate mode                            : Variable / Constant
+Bit rate                                 : 640 Kbps
+Maximum bit rate                         : 3 267 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Delay relative to video                  : 83ms
+Stream size                              : 641 MiB (4%)
+Language                                 : English
+
+Text
+ID                                       : 4608 (0x1200)
+Menu ID                                  : 1 (0x1)
+Format                                   : PGS
+Codec ID                                 : 144
+Language                                 : English
+
+Dark Knight Rises
+-----------------
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 13.9 Mbps
+Maximum Overall bit rate                 : 35.5 Mbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Bit rate mode                            : Variable
+Bit rate                                 : 12.7 Mbps
+Nominal bit rate                         : 10.3 Mbps
+Maximum bit rate                         : 35.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.256
+Stream size                              : 13.5 GiB (91%)
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+Format                                   : TrueH"
+,012,2013-01-03T01:22Z,"Dark Knight Rises
+-----------------
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 13.9 Mbps
+Maximum Overall bit rate                 : 35.5 Mbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Bit rate mode                            : Variable
+Bit rate                                 : 12.7 Mbps
+Nominal bit rate                         : 10.3 Mbps
+Maximum bit rate                         : 35.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.256
+Stream size                              : 13.5 GiB (91%)
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+Format                                   : TrueHD / AC-3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Muxing mode                              : Stream extension
+Codec ID                                 : 131
+Duration                                 : 2h 32mn
+Bit rate mode                            : Variable / Constant
+Bit rate                                 : 640 Kbps
+Maximum bit rate                         : 3 267 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Stream size                              : 697 MiB (5%)
+Language                                 : English
+
+Text
+ID                                       : 4608 (0x1200)
+Menu ID                                  : 1 (0x1)
+Format                                   : PGS
+Codec ID                                 : 144
+Language                                 : English"
+,012,2013-01-03T01:24Z,"Dark Knight Rises
+-----------------
+
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 12.8 Mbps
+Maximum Overall bit rate                 : 35.5 Mbps
+
+Video
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : 27
+Duration                                 : 2h 44mn
+Bit rate mode                            : Variable
+Nominal bit rate                         : 7 950 Kbps
+Maximum bit rate                         : 35.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.160
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Format profile                           : MA / Core
+Mode                                     : 16
+Format settings, Endianness              : Big
+Muxing mode                              : Stream extension
+Codec ID                                 : 134
+Duration                                 : 2h 44mn
+Bit rate mode                            : Variable
+Bit rate                                 : Unknown / 1 509 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless / Lossy
+Language                                 : English
+
+Text
+ID                                       : 4608 (0x1200)
+Menu ID                                  : 1 (0x1)
+Format                                   : PGS
+Codec ID                                 : 144
+Language                                 : English"
+,012,2013-01-03T01:31Z,"Middle one is actually from ""The Dark Knight not Dark Knight rises"" However last one is correct.
+
+Ignore the Partial info which is shown under batman begins  for dark knight rises
+
+In summary
+
+Batman Begins
+The Dark Knight
+Dark Knight Rises"

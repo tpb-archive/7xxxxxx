@@ -1,0 +1,97 @@
+BackTrack 5 R3
+
+
+bt5r3.jpg
+
+
+Nome: BackTrack 5 R3
+Os: Linux Gnome 32bit
+Versione: 5 R3
+Genere: Dsitribuzione Linux - penetration Testing
+Data di uscita:13th of August, 2012
+Famiglia SO GNU/Linux
+Modello del sorgente Software libero (Open Source)
+Release iniziale 081004 (10 agosto 2004)
+Release corrente 5 R3 13th of August, 2012
+Piattaforme supportate i386
+Licenza GNU General Public License
+Stadio di sviluppo Attivo
+Sito web www.backtrack-linux.org
+
+.: Descrizione :.
+
+
+Backtrack è una distribuzione Linux rivolta alla sicurezza ed al penetration Testing.
+Deriva dalla fusione di WHAX e dalla Auditor Security Collection ed è avvantaggiata dal design modulare e dalla struttura di Ubuntu/Debian che permette allâ™utente di utilizzare script modificabili, tool addizionali e personalizzazione del kernel. Il progetto backtrack fu creato da Mati Aharoni e Max Moser ed è il risultato di uno sforzo di collaborazione da parte di tutta la comunità.
+
+BackTrack 5 R3, la nuova release della distribuzione basata su Ubuntu e dedicata agli utenti e professionisti per testare la sicurezza della rete, server e molto altro ancora.
+Il nuovo BackTrack 5 R3 migliora alcune falle di sicurezza correggendo diversi bug e aggiunge oltre 60 nuovi strumenti. Molti dei nuovi strumenti sono stati rilasciati come parte delle presentazioni alle recenti conferenze Black Hat e DEFCON. La distribuzione ha anche aggiunto una categoria completamente nuova di software denominata "physical exploitation". Questa categoria comprende le librerie e una IDE per la Arduino e il toolkit Kautilya che fornisce payload per la scheda di sviluppo Teensy USB.
+
+Changelog – Nuovi Tool:
+
+Identify Live Hosts
+
+dnmap – Distributed NMap
+address6 (The Second “Alive6″ entry) – IPV6 address conversion
+
+
+Information Gathering Analysis
+
+Jigsaw – Grabs information about company employees
+Uberharvest – E-mail harvester
+sslcaudit – SSL Cert audit
+VoIP honey – VoIP Honeypot
+urlcrazy – Detects URL typos used in typo squatting, url hijacking, phishing
+
+
+Web Crawlers
+
+Apache_users – Apache username enumerator
+Deblaze – Performs enumeration & interrogation against Flash remote end points
+
+
+Database Analysis
+
+Tnscmd10g – Allows you to inject commands into Oracle
+BBQSQL – Blind SQL injection toolkit
+
+
+Bluetooth Analysis
+Blueranger – Uses link quality to locate Bluetooth devices
+
+
+Vulnerability Assessment
+
+Lynis – Scans systems & software for security issues
+DotDotPwn – Directory Traversal fuzzer
+
+
+Exploitation Tools
+Netgear-telnetable – Enables Telnet console on Netgear devices
+Termineter – Smart Meter tester
+Htexploit – Tool to bypass standard directory protection
+Jboss-Autopwn – Deploys JSP shell on target JBoss servers
+Websploit – Scans & analyses remote systems for vulnerabilities
+
+
+Wireless Exploitation Tools
+Bluepot – Bluetooth honeypot
+Spooftooph – Spoofs or clones Bluetooth devices
+Smartphone-Pentest-Framework
+Fern-Wifi-cracker – Gui for testing Wireless encryption strength
+Wi-fihoney – Creates fake APs using all encryption and monitors with Airodump
+Wifite – Automated wireless auditor
+
+
+A Bunch of Password Tools
+Creddump
+Johnny
+Manglefizz
+Ophcrack
+Phrasendresher
+Rainbowcrack
+Acccheck
+smbexec
+
+
+Arduino support

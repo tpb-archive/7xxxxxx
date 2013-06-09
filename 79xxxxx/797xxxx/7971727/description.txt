@@ -1,0 +1,53 @@
+General
+
+Format                           : MPEG-4
+Format profile                   : Base Media
+Codec ID                         : isom
+File size                        : 67.1 MiB
+Duration                         : 24mn 59s
+Overall bit rate                 : 375 Kbps
+Writing application              : Lavf52.64.2
+
+Video
+
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : Baseline@L3.0
+Format settings, CABAC           : No
+Format settings, ReFrames        : 1 frame
+Codec ID                         : avc1
+Codec ID/Info                    : Advanced Video Coding
+Duration                         : 24mn 59s
+Bit rate mode                    : Variable
+Bit rate                         : 300 Kbps
+Width                            : 624 pixels
+Height                           : 468 pixels
+Display aspect ratio             : 4:3
+Frame rate mode                  : Variable
+Frame rate                       : 23.976 fps
+Minimum frame rate               : 12.500 fps
+Maximum frame rate               : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.043
+Stream size                      : 55.1 MiB (82%)
+Writing library                  : x264 core 107
+
+Audio
+
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : 40
+Duration                         : 24mn 59s
+Bit rate mode                    : Variable
+Bit rate                         : 64.0 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 22.05 KHz
+Compression mode                 : Lossy
+Stream size                      : 11.4 MiB (17%)

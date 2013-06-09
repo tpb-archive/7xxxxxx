@@ -1,0 +1,90 @@
+murphy78 presents Windows 8 Pro Alt-Lang-Pack 6of7
+These are isos created with the same dism scripts as my en-US
+release using different language MSDN source files.
+They include KB file hotfix integration current to Dec Patch date
+I have tested them all.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+1) Burn ISO to DVDR or copy the contents to a usb drive.
+2) Boot from the setup DVD or USB drive or run setup.exe to upgrade
+3) This does not ask for a product key, but you can enter one later
+4) The only activation that generates legit files is KMS.
+
+Activate and re-activate with any kms server by typing
+the following commands in admin command prompt:
+SLMGR -IPK NG4HW-VH26C-733KW-K6F98-J8CK4
+SLMGR -SKMS xxxxxxxxxxxxxxxxx.xxx
+SLMGR -ATO
+
+Insert an actual online KMS server there, don't just
+type x's. Search web for online kms servers.
+
+--OR--
+
+Use the KMSNano program.
+Extract lanano_v10.zip to a directory
+You will need to extract the kmsnano.exe file with winrar or 7zip
+Run the fix hacktivations.cmd (This checks all sys files and sets
+your windows to volume to enable correct kms activation)
+
+Then just run kmsnano.exe and wait a few mins (theres no progress
+bar or completion windows) Check task manager or run the
+check_activation.cmd after a couple mins.
+
+MSDN Sources:
+ru_windows_8_x64_dvd_915419.iso / ru_windows_8_x86_dvd_915469.iso
+sk_windows_8_x64_dvd_915438.iso / sk_windows_8_x86_dvd_915502.iso
+sl_windows_8_x64_dvd_922085.iso / sl_windows_8_x86_dvd_915542.iso
+sr_windows_8_x64_dvd_922084.iso / sr_windows_8_x86_dvd_915536.iso
+sv_windows_8_x64_dvd_915422.iso / sv_windows_8_x86_dvd_915514.iso
+
+These RTM Sources are the final Build 9200
+
+Release Files:
+Win8Pro-x64-ru-RU_Dec2012.iso / Win8Pro-x86-ru-RU_Dec2012.iso
+Win8Pro-x64-sk-SK_Dec2012.iso / Win8Pro-x86-sk-SK_Dec2012.iso
+Win8Pro-x64-sl-SI_Dec2012.iso / Win8Pro-x86-sl-SI_Dec2012.iso
+Win8Pro-x64-sr-LATN-CS_Dec2012.iso / Win8Pro-x86-sr-LATN-CS_Dec2012.iso
+Win8Pro-x64-sv-SE_Dec2012.iso / Win8Pro-x86-sv-SE_Dec2012.iso
+CRC and Hash tables included as text file.
+
+Languages:
+ru-RU (Russian - Russia)
+sk-SK (Slovak - Slovakia)
+sl-SI (Slovenian - Slovenia)
+sr-LATN-CS (Serbian_Latin - Serbia)
+sv-SE (Swedish - Sweden)
+
+Tools used:
+imagex for image compression and export
+dism for MSU KB hotfix integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2737084, KB2751352-v2, KB2753842,
+KB2756872, KB2758246-v2, KB2761094, KB2764462, KB2764870,
+KB2768703, KB2769034, KB2769165, KB2770660, KB2770917,
+KB2771744, KB2771821, KB2777166, KB2777294, KB2778171,
+KB2779030, KB2779562, KB2779768, KB2780342, KB2780523,
+KB2780541, KB2782419, KB2783251, KB2784160, KB2785605
+
+x86 only KB File added with dism:
+KB2788261
+
+KB Files added during setupcomplete.cmd phase:
+KB2761465, KB2771431, KB2772501
+Reboots system to apply the monthly IE security
+
+Use the included Advanced Tokens Manager 3.5b3 to backup your
+Activation. Newer versions stopped supporting KMS activation.
+
+If you appreciate the work, please seed.
+
+I'm not religious, but I enjoy giving.
+Have a Murphy Christmas.
+murphy78-TPB :)

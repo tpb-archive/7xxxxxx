@@ -1,0 +1,49 @@
+304 of bobs burgers
+
+Enjoy, SEED
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Simple@L3
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 21mn 31s
+Source duration                          : 21mn 31s
+Bit rate                                 : 2 357 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 24.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.107
+Stream size                              : 363 MiB (88%)
+Writing library                          : XviD 63
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 21mn 31s
+Bit rate mode                            : Variable
+Bit rate                                 : 311 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 47.9 MiB (12%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.58 video frame)
+Interleave, preload duration             : 274 ms
+Writing library                          : LAME3.98.4

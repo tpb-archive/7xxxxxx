@@ -1,0 +1,33 @@
+Movies: VHS rip, comedy, 64mins28secs
+
+The Bowery Boys 1951 Crazy Over Horses
+ 
+http://www.imdb.com/title/tt0043432/
+
+[14:28:39] starting job
+[14:28:39] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:28:39] job configuration:
+[14:28:39]  * source
+[14:28:39]    + C:Crazy Over HorsesVIDEO_TS
+[14:28:39]    + title 1, chapter(s) 1 to 1
+[14:28:39]  * destination
+[14:28:39]    + C:Documents and SettingsDead End KidsMy DocumentsCrazy Over Horses.mkv
+[14:28:39]    + container: Matroska (.mkv)
+[14:28:39]      + chapter markers
+[14:28:39]  * video track
+[14:28:39]    + decoder: mpeg2
+[14:28:39]      + bitrate 8000 kbps
+[14:28:39]    + frame rate: same as source (around 29.970 fps)
+[14:28:39]    + strict anamorphic
+[14:28:39]      + storage dimensions: 720 * 480 -> 704 * 480, crop 0/0/8/8
+[14:28:39]      + pixel aspect ratio: 8 / 9
+[14:28:39]      + display dimensions: 625 * 480
+[14:28:39]    + encoder: x264
+[14:28:39]      + options: ref=2:bframes=2:me=umh
+[14:28:39]      + bitrate: 395 kbps, pass: 2
+[14:28:39]  * audio track 0
+[14:28:39]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:28:39]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[14:28:39]    + mixdown: Stereo
+[14:28:39]    + encoder: faac
+[14:28:39]      + bitrate: 160 kbps, samplerate: 48000 Hz

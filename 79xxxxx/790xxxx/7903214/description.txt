@@ -1,0 +1,54 @@
+Movie
+A bombardier in World War II tries desperately to escape the insanity of the war. However, sometimes insanity is the only sane way cope with a crazy situation. Catch-22 is a parody of a "military mentality" and of a bureaucratic society in general (IMDB).
+
+General
+Name : Catch-22 - English - x264 aac.mkv
+Format : Matroska
+Format version : Version 2
+File size : 1.46 GiB
+Duration : 1h 56mn
+Overall bit rate : 1 797 Kbps
+Movie name : Catch-22
+Writing application : mkvmerge v5.1.0 ('And so it goes') built on Feb 1 2012 11:32:58
+Writing library : libebml v1.2.2 + libmatroska v1.3.0
+
+
+Video
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L5.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 16 frames
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 56mn
+Nominal bit rate : 1 453 Kbps
+Width : 1 264 pixels
+Height : 544 pixels
+Display aspect ratio : 2.35:1
+Frame rate : 25.000 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.085
+Writing library : x264 core 120 r2151 a3f4407
+
+Audio
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 32.0 KHz
+Compression mode : Lossy
+Delay relative to video : 80ms
+Language : English
+
+Text
+Format : VobSub
+Muxing mode : zlib
+Codec ID : S_VOBSUB
+Codec ID/Info : The same subtitle format used on DVDs
+Language : English

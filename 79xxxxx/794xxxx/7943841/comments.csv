@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,cindy25,2012-12-21T08:31Z,"thanks
+
+
+my project for the weekend is to convert an Estonian series from mkv to avi, and keep the srt subs in sync
+
+did u also notice that old series are 50 minutes, instead of 42 min now?"
+[V],MP4SUX,2012-12-21T14:04Z,"Actually, I'm probably a little older than you. See the ""4x commercials""?
+In the '50s shows were 55min.
+
+The keeping in sync is something I've studied and tracked down.
+
+It seems the known universe has trouble encoding MKV to AVI direct. They seem to gain frames, enough to throw the show out of sync.
+
+Try using ""MKVToolNix"" with ""MKVExtractGUI2"" as a front end to extrack the streams (and imbedded subtitles), then use mp4muxer-0.9.3 (or newer) to create an MP4 from the x264 & AC3 streams. Somehow encoding from MP4 does not suffer the frame adding problem that MKV presents.
+
+Possibly better, use MP4cam2AVI to further convert to AVI without disturbing a singel frame (still x264 tho'). It will lose the audio (can't see AC3 in MP4). But you can use ""MeGui"" tools/muxer/avi to combine the above "".ac3"" with your silent AVI and you have something that can be encoded with common AVI tools, like VirtualDub, AGK or pretty much anything. With AGK you choose a file size, with VirtualDub you can pick the video bitrate.
+
+Any questions, you know where to ask.
+
+Good Luck,
+
+AVIGUY"
+[V],MP4SUX,2012-12-21T15:45Z,"MeGui tools/muxer/avi can actually mux the .srt file extracted earlier and imbed it in the finished AVI.
+
+Not every player can see subtitles imbedded in an AVI, VLC can, MPC cannot.
+
+AVIGUY"
+,mousek801,2012-12-21T21:10Z,"Nice. A/V = 9.5/10
+
+Love the single .avi file torrent, no folders or stupid .nfo or sample files - just the good stuff. To hell with ETTV and the others, AVIGUY is my new go-to for Burn Notice."
+,ColdFlame81,2012-12-22T17:57Z,Thank you so much for uploading shows on AVI format! Keep on the good work!
+[V],MP4SUX,2012-12-23T01:49Z,"mousek801:
+.
+Agree on the single file torrent as opposed to the folder torrent.
+.
+My current XIII project is driving me nuts.
+But due to onscreen French I felt minimal subtitles were necessary.
+.
+Should be able to select multiple files without a folder for a single torrent.
+.
+If life was easy, I guess everybody would be doing it. heh.
+.
+AVIGUY"

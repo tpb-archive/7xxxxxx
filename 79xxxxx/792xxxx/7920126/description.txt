@@ -1,0 +1,43 @@
+Do you understand the basics of Laravel, but just need a little guidance in putting it all together? In this course, Andrew Perkins will walk you through the process of building a practical, Yahoo Answers-esque web app, "Make It Snappy," with Laravel - step by step! 
+
+
+
+Content
+Introduction
+Introduction to the Application
+Installation and Configuration
+Setup Layout and CSS
+Creating Users with Registration and Authentication
+Users Table Migration
+User Model Validation
+Registering a User
+Logging In a User
+Logging Out a User
+Asking Questions 31m 30s
+Questions Table Migration
+Question Model Validation
+Relate Questions to Users
+Asking Questions on the Home Page
+Paginating Unsolved Questions on Home Page
+Viewing an Individual Question
+Creating Users
+Paginating the Logged In Users Questions
+Allowing Logged In User to Edit their Questions
+Creating Answers
+Answers Table Migration
+Answer Model Validation
+Relate Answers to Questions and Users
+Allowing Users to Answer Questions
+Displaying Answers for Questions
+Searching
+Building the Search Form
+Processing the Search and Displaying the Results
+Conclusion
+
+Instructor: Andrew Perkins
+Difficulty: Intermediate
+Length: 3m 40s
+
+More info: https://tutsplus.com/course/hands-on-building-a-practical-web-application-with-laravel/
+
+Enjoy!

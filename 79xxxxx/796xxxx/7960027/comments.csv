@@ -1,0 +1,159 @@
+﻿User Type,Username,Date,Text
+[V],HeroMaster,2012-12-26T19:54Z,"Now this is call Fast Release, Nice up man and Merry Christmas and Happy holidays bro."
+,ChiliNoMoreX,2012-12-26T20:01Z,"changelog:
+    General fixes for the patch
+        Fixed several issues with customize controls
+
+    Multiplayer
+    General
+        Improve stability on multiplayer maps.
+        Fixed the crash when the player was planting explosives.
+        Fixed several crashes.
+        Fixed bug where user was unable to jump on certain surfaces.
+        Fixed bug where players could become invisible.
+        Fixed bug with 3D weapon images in Decoding menu.
+        Fixed bug where weapons could disappear after completing objectives in Co-op.
+        Fixed bug where users could get stuck in Loadout screen in Co-op.
+        Removed “Reloading” shout after user shoots the bow.
+        Parties will no longer be allowed to numerically unbalance games.
+        Improved and fixed several issues with host migration.
+        Connection degradation will now properly trigger a host migration.
+        Fixed several bugs with Loadout menu.
+        Fixed bug that could display a profile restriction message when trying to join a lobby.
+        Fixed bug where users could get stuck in 3rd person in Custom games.
+        Fixed bug with Flamethrower not doing any damage in certain circumstances.
+        Fixed bug where “Player is on the way” tag could stick to downed players.
+        Fixed bug where clients could remain on black screen if host left the game.
+        Fixed bug where Fire Arrows did not do fire damage.
+        Fixed bug where Long Distance Kill was not awarded.
+        Fixed bug where Tag Assist was not awarded.
+        Fixed bug where Killcam wasn’t shown in certain circumstances.
+        Fixed bug where Survival Instinct was not cancelled properly.
+        Fixed bug where Psych gas could get dropped in the wrong place.
+        Fixed bug where Psych gas could affect players outside of the deployment area.
+        Fixed bug where users could get stuck when killed by Poison gas.
+        Fixed bug where other player’s footstep sounds sometimes did not play behind you.
+        Fixed bug where sound could get muffled when being revived.
+        Fixed bug where user could get de-synced if killed in mid-air
+
+    Map Editor
+        Added information for Player Map playlists.
+        Improved available space for Player map names in lobby.
+        Fixed bug where User made maps wasn’t downloaded properly in lobby.
+        Fixed bug that made the user stuck when igniting Firestom nodes on certain maps.
+
+    Single Player
+    General
+        Fixed the accessing bug for the camera and the throwing rocks.
+        Users that have miss the Relic located in Dr. Earnhardt cave will have the relic recover.
+        Fixed the bug with the weapon models staying on screen / stuck on the charatcer arm.
+        The leaderboard is now updating correctly even after if the user is disconnecting/reconnecting the ethernet cable.
+        The objective is now properly updated after Jason burns the weed fields.
+        New options the hide the HUD are now available in the option menu.
+        Add support for downloadable content.
+        Fixed the issue when the user was becoming invincible after failing mission 'Black Gold' several times.
+        The Phonecall from Hurk (ULC missions) is no longer overlapping the brief of the 'Piece of the past' mission.
+        Fixed the issue when Sam was no longer in the jeep's turret after placing two bomb and being kill several time in 'Black Gold' mission.
+        Sam is no longer getting stuck when the user destroy an enemy car. 
+
+"
+,GODblezhackers,2012-12-26T20:12Z,"Thanks, i just downloaded the game last night, and it wont start, so was wondering if i would find an update here, and look, there it is.....just hope this solves my problem"
+,GODblezhackers,2012-12-26T20:19Z,"it wont work, it says cant detect version number, installation aborted...is there a way to fix this?"
+,jcgeny,2012-12-26T20:26Z,"game has some nice thing , but looks half-finished with second part that has no sens .
+the worst thing is the ""no save"" during mission.... this crazy shit that makes game unplayable near end .
+
+so Mr.Stifmeister please add something like to the patch : the save [during missions] ;']"
+,GODblezhackers,2012-12-26T20:29Z,"ohh shit my bad, i was in a rush i 4Got to use the crackkk ^__^"
+,theresdividnglines,2012-12-26T21:01Z,"This update/patch doesn't break previous save files like the previous 1.04 (and 1.03) update, does it?"
+,yoep,2012-12-26T21:24Z,Can someone tell me where the reloaded version saves the save data?
+,schakalen95,2012-12-26T23:48Z,"Thank you you dumb bastards called Reloaded, now my save file is gone, thank you very much!"
+,morbidmurderer,2012-12-26T23:59Z,I think I read if you still have say a version 1.02 crack then copy that over instead of this cracks and your saves might come back. I'm still on 1.02.
+,Performer81,2012-12-27T00:17Z,file sizes of the crack files are different than the other 2 1.04 crackz. Why? whats different?
+,schakalen95,2012-12-27T02:01Z,"I had the 1.03 patch installed and the crack from 1.03, but i will searrch for other cracks and see if it works"
+,Viciously,2012-12-27T04:22Z,Thanks.
+,Viciously,2012-12-27T14:27Z,Fuck. My saves are gone. 
+,Viciously,2012-12-27T14:35Z,"Guys, just put the crack files of your previous update, back, and saves will work. Fuck, I am relieved."
+,coltraz,2012-12-27T16:51Z,Does this come with a new crack? If so can we not just neglect to copy it into our install dir? 
+,simolino,2012-12-28T02:09Z,"This fucks up your game saves. Just warning you, but it does fix the game really well. Since it works better, you might as well start it all over again with the better experience."
+,wazim123,2012-12-28T05:02Z,guys i have the extracted version of fc3 .... now the problem is i cant update the game cause the update cant find the installation folder ... what should i do someone plz help...... plz
+,wazim123,2012-12-28T05:10Z,guys someone help me ... i cant update the game .. the update cant find the installation folder what should i do .... and the other thing is my fc3 game i had the extracted version it didnt had the installation version ...... so it was simple extract and play but now  cant update the game because it doesnt have any registry setting what should i do
+,LloydTempleton,2012-12-28T12:16Z,"The update works perfectly, and what a great game.
+
+Is it possible to change the name ""ReLOADed"" that appears at the start screen?"
+,yesterdays_pirate,2012-12-28T12:47Z,"Ok, folks. Here's a fix for those who are having SAVING problems. 
+
+First of all, when I first played this game for the second time, I noticed that my saves were greyed out, only the New Game option was active. 
+
+I tried every fix in PB but to no avail. But finally, the fix was more simple than I thought. At least for me. 
+
+I've managed to reproduce the problem and the fix 100%.
+
+I noticed that your saves files in your C:->ProgramData->Orbit->46
+only works when you delete them and repaste them again. Viola!
+
+Its weird, but I've managed to reproduce the problem and fix 100%. The only drawback is that you need to do this every time you want to play the game. No problem for me. It's a simple procedure. 
+
+
+Try it, and tell me if it works.
+
+Btw, this should go without saying: you need to add the -offline parameters in your FC3 shortcut. You know the drill:)"
+,Marciolii,2012-12-28T17:41Z,Anyone know why I don't float during the mushroom trip and why the boulders don't move like it supposed to?
+,hakim462000,2012-12-29T14:26Z,"Hi guys, i'm using R.G Mechanic's repack and all i got was ""Could not retrieve version number! Installation will be aborted."" HELP D:"
+,barakuda1111,2012-12-29T16:03Z,"I have this version installed http://thepiratebay.se/torrent/7869515/Far_Cry_3-RELOADED
+
+If i install this update will my save games be gone?
+
+With current version there's a problem with Dennis  calls repeating all the time so im thinking of updating but dont wana lose my saves."
+,noobfor,2012-12-30T15:53Z,does anyone found a savegame fix yet?
+,koopatroopa_15,2012-12-30T23:15Z,"This seems to work just fine. Played through to the first part where you can actually save your own game ( not autosave ) and was able to quit the game then have my save still be there. 
+
+Installed the Reloaded Far Cry 3 version fresh then followed instructions in this update. THANKS FOR THIS I was going to die if I had to play through the first scenes again lol. "
+,djozhedebeljan,2012-12-30T23:46Z,thank u!
+,civoniz,2012-12-31T03:24Z,"If what koopatroopa_15 says is true. (After getting update 1.04) Play the game until you reach the city where you meet david, 1) save, 2) quit game, 3) swap Orbit/46 files, 4) Play YOUR own saves. 
+
+Can someone confirm this?"
+,bungunners,2012-12-31T10:27Z,"I started new and played all the way up to the part where you defeat the band at the camp and go off on your own to meet the Dr. for the first time.  I took the old saves that I had and replaced the new ones that were created and when I started the game, It just gave me the option to start new game.  The save files are different sizes so I tried the combination of just the save files then just the .ini files and every combination of those.  Nothing has worked.  The only way to get my old saves working was using the 1.02 crack.   "
+,yesterdays_pirate,2013-01-01T01:22Z,"@bungunners, Maybe something is replacing a FC3.dll or FC3_d3d11.dll?
+
+This is common when using a modded or  cracked game, and the crack/mod FC3.dll or FC3_d3d11.dll you replaced is not edited to use cracked uplay_r1_loader.dll and ubiorbitapi_r2_loader.dll.
+
+For FC3.dll v1.04 to work with reloaded uplay_r1_loader.dll and ubiorbitapi_r2_loader.dll
+Offset: 00181D21
+
+Unedited: 010000008B0DB4E4DF11E8C941F4FF
+
+Edit to: 050000008B0DB4E4DF119090909090
+
+
+
+For FC3_d3d11.dll v1.04 to work with reloaded uplay_r1_loader.dll and ubiorbitapi_r2_loader.dll
+
+Offset:181798
+
+Unedited: 010000008B0DB4C5E011E8DD43F4FF
+
+Edit to: 050000008B0DB4C5E0119090909090
+
+---------------------------------------
+
+Btw, you need to use a hex editor(free) to make the changes.
+"
+,bungunners,2013-01-01T18:17Z,So are you saying that this is the fix for 1.02 saves on a 1.04 updated game? That is the only issue I'm having... along with everybody else who updated from 1.02 to 1.04.  
+,bungunners,2013-01-01T18:30Z,"@yesterdays_pirate.
+So is this the fix for everybody who is having a problem using 1.02 saves on a 1.04 updated game?  Or is your issue different?  I can save new games just fine with all versions.  It's just using those older saves on the newer updated game that is the problem."
+,Bean-Bandit,2013-01-04T14:30Z,Anybody having a issue where the autosave is always on and saving? I just updated and after selling stuff in the shop the autosave will start up to save but never go away.
+,civoniz,2013-01-05T05:40Z,"SOLUTION: Use Update 1.02 !
+
+Worked for me, i can now play my Saves again. and the game is not too bad (IF you alter the GameSettings file in the Documents folder, YOUR GAME WILL CRASH!, so just elave it alone.)"
+,zdubinit,2013-01-06T04:44Z,"I've been playing FC3 Reloaded un-patched since release. I did not patch to 1.02 or 1.03 or anything.
+
+I just installed this 1.04 patch from reloaded, and all my previous save games work fine. 
+
+Just thought I'd mention my experience. "
+,zdubinit,2013-01-06T04:45Z,"I've been playing FC3-Reloaded un-patched since release. I did not patch to 1.02 or 1.03 or anything.
+
+I just installed this 1.04 patch from reloaded, and all my previous save games work fine. 
+
+Just thought I'd mention my experience. "
+,Bean-Bandit,2013-01-07T14:38Z,Since I really didn't play that much my auto save that wouldn't stop was fixed by uninstalling and deleting my saved games and restarting. That was the 1.04 patch.
+,LanceLionroar,2013-01-07T18:46Z,"""Could not retrieve version number! Installation will be aborted."" Fuck this shit."

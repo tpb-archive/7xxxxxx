@@ -1,0 +1,46 @@
+DialogBlocks
+
+Fast, easy dialog editing and code generation.
+
+The quickest way to build wxWidgets GUIs
+
+Anthemion DialogBlocks is a sizer-based resource editor that quickly gets you creating professional-looking dialogs, wizards and frames for deployment on Windows, Linux, Mac or any other supported wxWidgets platform.
+
+What can DialogBlocks help you do?
+
+create resizeable, portable dialogs;
+create complex wizards and property sheet dialogs;
+create frames complete with menubar and toolbar;
+create wxAUI-based layouts with docking;
+see and edit the properties for each control or sizer in a convenient, consistent property editor;
+output to C++ or XRC;
+give your dialogs context-sensitive help and tooltips;
+store image resources and convert to inline or file-based XPMs;
+edit the generated C++ code by hand, but have DialogBlocks insert changes to the dialog;
+preview your dialogs, then quickly compile and run the application from within DialogBlocks;
+build wxWidgets from within DialogBlocks;
+migrate your old Windows RC dialogs as first-shot wxWidgets dialogs before full sizer-based conversion.
+What benefits will you get?
+
+spend minutes on your dialog UI, not hours;
+no more writing complex sizer-based layouts by hand;
+the chore of adding event handlers becomes effortless;
+it's like having your own programming assistant updating your UI code.
+More time-savers...
+DialogBlocks is aimed at getting the job done quickly, and so has keyboard shortcuts for most operations. And you can simply double-click some controls to edit the label or default value in a pop-up window, as a handy alternative to using the property editor.
+
+DialogBlocks is educational, too: there's a description mode that gives you an English 'translation' of the sizer settings for the selected element, as well as a short description of the element itself. This will make it much easier to spot mistakes and bring you up to speed with using sizers.
+
+DialogBlocks is available on Windows, several Linux variants, FreeBSD, Solaris x86, and Mac (PPC and Intel). The resulting C++ and XRC files can be used on any platform for which wxWidgets is supported.
+
+Supported OS:
+
+Windows XP/Vista/7/8
+
+Homepage: http://www.dialogblocks.com/
+
+Installation Instructions:
+
+- Install program.
+- Register program with given name and key.
+- Done, Enjoy

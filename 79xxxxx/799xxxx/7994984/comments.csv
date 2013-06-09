@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,Pazazz,2013-01-08T03:26Z,Was'nt zipped before upload but using BatChmod(free app just google it) to rewrite permissions fixing the issue and will also work for any other game/app uploaded in a similar fashion just make sure apply to all folders and files box is checked 
+,hurukh,2013-01-08T19:57Z,"Wow, can you get Indiana Jones and the Fate of Atlantis, The Dig, Full Throttle. That kind of games LOL, you get me."
+,creative_expansion,2013-01-08T23:37Z,it just bounces on the dock never opens....help?!!!
+,keysofanxiety,2013-01-09T01:26Z,"@creative_expansion: Sorry matey, I think I screwed up a little as I didn't zip the application before uploading to TPB â&#x20AC;Ś It does work though, promise! Should've updated the instructions. 
+
+1) Please ensure you've got The 7th Guest in your Applications folder and nowhere else. Does it still not open?
+2) As Pazazz mentioned, can you download BatChmod & 'unlock' the file -- does it work now?
+
+Cheers, sorry again for the hassle. I always try to make my torrents as easy as possible so I hope it's not too much trouble.
+
+Thanks for the suggestions as well, Pazazz. "
+,creative_expansion,2013-01-09T06:42Z,thanks ill try your suggestions!! appreciate the response thanks so much!!
+,HerpesOutbreak,2013-01-10T19:51Z,"Just run the following in the terminal:
+
+chmod 755 /Applications/The 7th Guest.app/Contents/MacOS/The 7th Guest"
+,HerpesOutbreak,2013-01-10T19:53Z,"Crap, the stupid form stripped ''. You have to escape spaces with '':
+
+'The\ 7th\ Guest' "

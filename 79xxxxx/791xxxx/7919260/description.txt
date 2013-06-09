@@ -1,0 +1,20 @@
+==============================================================================
+General
+Added a filter to the Butcher Shop list for specific pastures
+Added Butcher Shop option to automatically butcher corpses and excess livestock
+Added basic UI for Tinker Bench to assign worker, suspend and view progress
+Added option to auto-save. Can be set to save on sunrise every 1-12 days
+Gnomes only show thought bubbles for drinking/eating if they are actively getting food/drink or are dying
+Added option to scale changes in depth when looking for the closest item, job, etc
+
+Music
+Added two more night songs
+
+Fixed
+Gnomes sometimes getting stuck after building mechanisms that block movement
+Steam Engines getting in a state where they can no longer be refueled
+Livestock not immediately going back in the available butcher list after cancelling
+Tinker jobs sometimes taking priority over other workshop jobs
+Tinker Bench job status not displaying on the entire workshop floor
+Specific materials no longer showing up in stockpile settings or crafting options if there were no longer any of that item
+==============================================================================

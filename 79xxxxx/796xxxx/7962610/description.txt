@@ -1,0 +1,59 @@
+Description
+This is the loader application thats used by millions of people worldwide, well known for passing Microsoft's WAT (Windows Activation Technologies) and is arguably the safest Windows activation exploit ever created. The application itself injects a SLIC (System Licensed Internal Code) into your system before Windows boots, this is what fools Windows into thinking it's genuine.
+
+
+Features
+ΓÇóCan be run as a standalone application
+ΓÇóWorks well with all system languages
+ΓÇóArgument support for silent installs
+ΓÇóCan be used for pre-activation
+ΓÇóApplication integrity checking
+ΓÇóCustom error handling
+ΓÇóSupport for hidden partitions and complex setups
+ΓÇóCan work alongside Linux's GRUB or any other boot manager
+ΓÇóWorks with TrueCrypt and many other types of hard drive encryption applications
+ΓÇóAdd your own certificates and serials externally
+ΓÇóOffers certificate and serial installation only for users with an existing SLIC 2.1
+ΓÇóAutomated system profiling (The application matches everything up for you)
+
+The rundown
+ΓÇóCompatible with all Windows updates Γ£ö check
+ΓÇóThis will run on x86 and x64 systems Γ£ö check
+ΓÇóThis can activate all Windows versions at the same time, just install it on each Γ£ö check
+ΓÇóNo core system files get modified Γ£ö check
+ΓÇóNo extra processes are run so you have nothing eating at your RAM Γ£ö check
+ΓÇóAll key parts of the exploit are encrypted with a custom encryption Γ£ö check
+ΓÇóThe exploit runs before Windows so it's harder for Microsoft to prevent Γ£ö check
+ΓÇóThe exploit patches all necessary tables making activation look authentic Γ£ö check
+ΓÇóThe application will select the best profile for your system during installation Γ£ö check
+ΓÇóEach and every user has a unique version of the exploit installed on his/her system Γ£ö check
+
+Supported operating systems
+ΓÇóWindows 7 Ultimate
+ΓÇóWindows 7 Professional
+ΓÇóWindows 7 Home Premium
+ΓÇóWindows 7 Home Basic
+ΓÇóWindows 7 Starter
+ΓÇóWindows Vista Ultimate
+ΓÇóWindows Vista Business
+ΓÇóWindows Vista Business N
+ΓÇóWindows Vista Home Premium
+ΓÇóWindows Vista Home Basic
+ΓÇóWindows Vista Home Basic N
+ΓÇóWindows Vista Starter
+ΓÇóWindows Server 2008 R2: Enterprise
+ΓÇóWindows Server 2008 R2: Standard
+ΓÇóWindows Server 2008 R2: Foundation
+ΓÇóWindows Server 2008: Enterprise
+ΓÇóWindows Server 2008: Standard
+ΓÇóWindows Server 2008: Foundation
+ΓÇóWindows Small Business Server 2008
+
+Application integrity checking?
+
+Hover your mouse over the green, amber or red icon to see detailed application information.
+
+Note: Even if the icon is green someone might have found a way around the protection system so it's worth checking that the applications path is always the same as the location from which you launched the application. You should also check that the MD5 matches the MD5 found online.
+
+Version 1.9.5 changes (11/23/2010):
+* Added a new GRLDR version which fixes a bug that prevented activation on systems with an XSDT

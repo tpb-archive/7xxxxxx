@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,bjornagainswede,2012-12-29T18:50Z,"USELESS! 
+
+OS X 10.8.2
+
+Installed Game to my games folder on a Separate drive... Installed the fix to the same folder. Launched the game which bounded briefly in the dock and then quit!
+
+Absolutely NO information provided at all with this torrent. Thanks for Nada!"
+,bjornagainswede,2012-12-29T18:55Z,"Update...
+
+Fire up terminal and do a change ownership on the game file
+
+cjhmod -R 755 (drag in the game file here leaving a space after the 755)
+chown -R 0:0 (drag in the app file as before!)
+
+Fixes the bounce and launch issue... wait a few and the game fires up!"
+,bjornagainswede,2012-12-29T19:22Z,"Update...
+
+Fixed using terminal
+
+fire up terminal is su mode 
+
+chmod -R 755 (drag game app into teminal leaving a space after the 5
+chown -R 0:0 (drag app into terminal again leaving a space...
+
+done.
+
+Game now launches but give it a minute or 3 to start!"
+,shuaiw96,2012-12-31T15:57Z,The terminal thing didnt do a thing for me
+,bk-kam,2013-01-01T19:02Z,"dont work what i do wrong? 
+
+MacBook-Pro-kam-bul:~ kambul$ chmod -R 755 /Volumes/Kung Fu Panda/Kung Fu Panda.app 
+chmod: Unable to change file mode on /Volumes/Kung Fu Panda/Kung Fu Panda.app/Contents/Frameworks/FreeType.framework/Versions/2.3/FreeType: Read-only file system
+chmod: Unable to change file mode on /Volumes/Kung Fu Panda/Kung Fu Panda.app/Contents/Frameworks/FreeType.framework/Versions/2.3/Headers/config/ftconfig.h: Read-only file system
+
+
+MacBook-Pro-kam-bul:~ kambul$ chown -R 0:0 /Volumes/Kung Fu Panda/Kung Fu Panda.app 
+chown: /Volumes/Kung Fu Panda/Kung Fu Panda.app/Contents/Frameworks/FreeType.framework/FreeType: Operation not permitted"

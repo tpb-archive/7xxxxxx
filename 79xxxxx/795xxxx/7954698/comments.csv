@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,Lord3366,2012-12-24T20:54Z,THANK YOU!THANK YOU!THANK YOU!
+,Dj_Ziio,2012-12-24T20:58Z,"will this update break your previous save files, like update 1.03 did?"
+,Netarangi,2012-12-24T22:04Z,"^^
+
+No, that patch deleted them."
+,Insomneac,2012-12-24T22:51Z,"You do NOT need the previous patches, Ubisoft patches are cumulative."
+,Hitmannnn,2012-12-24T22:57Z,"I have two errors (each on 2 computers with far cry):
+1. Too low disc space (says that i have -1MB available o.O)
+2. Could not retrieve installation folder! Installation will be aborted!
+Can any1 help me for any of these issues?"
+,Whitebb,2012-12-24T23:12Z,"Yw, it works well ..."
+,Whitebb,2012-12-24T23:14Z,"I just now installed a new version and then installed this patch and didn't got anything, try to backup your save files and reinstall the game/"
+,Performer81,2012-12-24T23:17Z,Does it work?
+,Performer81,2012-12-24T23:27Z,edit: no savegames :(
+,Insomneac,2012-12-24T23:46Z,"This works, but previous saves will not work, you need to start a new game.
+
+BTW, what's the ""net.fix"" folder for?"
+,Whitebb,2012-12-25T01:28Z,"It's included in the crack folder too, for loading, try it out ,it may it will fix the save files, this was a backup"
+,husso_,2012-12-25T11:25Z,WTFF. IT DELETED ALL MY PROGRES IN THE GAME. SAVE GAME AND ALL OF THAT IS DELETED!
+,Borzo30,2012-12-25T14:25Z,"Eset smart security detected trojan in netfix folder, but after removing it the rest worked fine, but it also deleted my save games, torrent at your own risk"
+,rappercake,2012-12-25T19:27Z,"If you can't continue your saved game, just re-copy the 1.01 crack that came with the .iso download (or just download it again), and you can access your old savefiles again.
+
+If you changed the orbit data file name, just change it back to 46.
+
+I tried everything else (renaming folders, changing the .api info, restarting), but this is the only thing that worked."
+,puscifer,2012-12-25T21:38Z,"Copying the 1.01 crack works because it reverts the version to 1.01 (look at the version number in the title screen). If you're going to do that, there's no point in installing this update at all. Hopefully there's a fix for this soon."
+,Ascalade,2012-12-26T06:51Z,I get a black screen now everytime i run the game after patching! :(
+,jihu0918,2012-12-26T17:19Z,Do not download unless you want to finish the whole game in a single sitting lol what the hell is this crap blew my whole progress
+,yesterdays_pirate,2012-12-28T12:44Z,"Ok, folks. Here's a fix for those who are having SAVING problems. 
+
+First of all, when I first played this game for the second time, I noticed that my saves were greyed out, only the New Game option was active. 
+
+I tried every fix in here but to no avail. But finally, the fix was more simple than I thought. At least for me. 
+
+I've managed to reproduce the problem and the fix 100%.
+
+I noticed that your saves files in your C:->ProgramData->Orbit->46
+only works when you delete them and repaste them again. Viola!
+
+Its weird, but I've managed to reproduce the problem and fix 100%. The only drawback is that you need to do this every time you want to play the game. No problem for me. It's a simple procedure. 
+
+
+Try it, and tell me if it works.
+
+Btw, this should go without saying: you need to add the -offline parameters in your FC3 shortcut. You know the drill:)"
+,einzelhaft,2013-01-05T00:57Z,"Hi yesterdays!
+It worked for me! THANK YOU!"

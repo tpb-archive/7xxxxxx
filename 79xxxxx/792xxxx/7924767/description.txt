@@ -1,0 +1,32 @@
+Movies: VHS rip, comedy, 61mins16secs
+
+The Bowery Boys 1955 High Society
+ 
+http://www.imdb.com/title/tt0048166/
+
+[16:41:24] starting job
+[16:41:24] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[16:41:24] job configuration:
+[16:41:24]  * source
+[16:41:24]    + C:High SocietyVIDEO_TS
+[16:41:24]    + title 1, chapter(s) 1 to 1
+[16:41:24]  * destination
+[16:41:24]    + C:Documents and SettingsDead End KidsMy DocumentsHigh Society.mkv
+[16:41:24]    + container: Matroska (.mkv)
+[16:41:24]  * video track
+[16:41:24]    + decoder: mpeg2
+[16:41:24]      + bitrate 8000 kbps
+[16:41:24]    + frame rate: same as source (around 23.976 fps)
+[16:41:24]    + strict anamorphic
+[16:41:24]      + storage dimensions: 720 * 480 -> 720 * 408, crop 36/36/0/0
+[16:41:24]      + pixel aspect ratio: 8 / 9
+[16:41:24]      + display dimensions: 640 * 408
+[16:41:24]    + encoder: x264
+[16:41:24]      + options: ref=2:bframes=2:me=umh
+[16:41:24]      + bitrate: 397 kbps, pass: 2
+[16:41:24]  * audio track 0
+[16:41:24]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[16:41:24]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[16:41:24]    + mixdown: Stereo
+[16:41:24]    + encoder: faac
+[16:41:24]      + bitrate: 160 kbps, samplerate: 48000 Hz

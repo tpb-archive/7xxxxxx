@@ -1,0 +1,86 @@
+Supported operating systems
+
+    Windows 7 Ultimate
+    Windows 7 Ultimate E
+    Windows 7 Professional
+    Windows 7 Professional E
+    Windows 7 Home Premium
+    Windows 7 Home Premium E
+    Windows 7 Home Basic
+    Windows 7 Starter
+    Windows 7 Starter E
+    Windows Vista Ultimate
+    Windows Vista Business
+    Windows Vista Business N
+    Windows Vista Home Premium
+    Windows Vista Home Basic
+    Windows Vista Home Basic N
+    Windows Vista Starter
+    Windows Server 2008 Enterprise
+    Windows Server 2008 Enterprise (Without Hyper-V)
+    Windows Server 2008 Foundation
+    Windows Server 2008 Standard
+    Windows Small Business Server 2008
+    Windows Storage Server 2008 Standard
+    Windows Storage Server 2008 R2 Essentials
+    Windows Server 2008 R2 Enterprise
+    Windows Server 2008 R2 Foundation
+    Windows Server 2008 R2 Standard
+    Windows Server 2008 R2 Datacenter
+    Windows Small Business Server 2011 Standard
+    Windows Small Business Server 2011 Essentials
+    Windows Home Server 2011
+    Windows Server 2012 Standard
+    Windows Server 2012 Essentials
+    Windows Server 2012 Foundation
+    Windows Server 2012 Datacenter
+    Windows Storage Server 2012 Standard
+    Windows Storage Server 2012 Workgroup
+    Windows MultiPoint Server 2012 Standard
+    Windows MultiPoint Server 2012 Premium
+
+
+
+Note: You must be running build 7600 or greater for Windows 7 and Windows Server 2008 R2.
+Note: I don't recommend using any of the Windows 7 E editions.
+Note: Windows 7 N editions will only be supported when OEM SLP serials leak.
+
+
+Application integrity checking?
+
+Hover your mouse over the green, amber or red icon to see detailed application information.
+
+Note: Even if the icon is green someone might have found a way around the protection system so it's worth checking that the applications path is always the same as the location from which you launched the application. You should also check that the MD5 matches the MD5 found online.
+
+
+Virus scanner results
+
+All virus scanner detection's are a false-positive as long as the MD5 matches. Simply turn off your anti-virus while installing the loader.
+
+--
+Version 2.2 (12/28/2012)
+* Fixed Xen detection
+* Fixed a small issue with some decoded keys
+* Pressing the delete key will now remove the OEM picture
+* Other minor tweaks and fixes
+
+Version 2.1.9 (12/23/2012)
+* Added a new GRLDR
+* Blocked the loader from installing onto Xen as it's not supported
+* Added notes about Windows Server 2012 and Windows 8 to the read me file
+
+Version 2.1.8 (12/15/2012)
+* Added a new GRLDR (required to support Server 2012 operating systems)
+* Added support for Windows Server 2012 Standard, Essentials, Foundation & Datacenter
+* Added support for Windows Storage Server 2012 Standard & Workgroup
+* Added support for Windows MultiPoint Server 2012 Standard & Premium
+* Added HEDY Windows 7 Ultimate key
+* Added ByteSpeed, DakTech, Genuine C&C, INSYS, WIPRO & Zoostorm Windows 7 Professional keys
+* Added ByteSpeed & INSYS Windows 7 Home Premium keys
+* Added AOC & ByteSpeed Windows 7 Starter keys
+* Added AOC, ByteSpeed, EXTRA Computer GmbH, Mustek, Velocity and Western Digital v2.1 SLIC's and certificates
+* Added a Dell v2.2 SLIC to activate 2012 server editions (only recommended for Server 2012 unless you're dual booting with Windows 7/Vista)
+* Added new launch parameters
+* Fixed a Windows key decoding bug
+* Fixed the "Licensed" text color for BIOS activated systems
+* Other minor tweaks and fixes

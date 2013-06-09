@@ -1,0 +1,30 @@
+Arma 2 Armored Operations 1.62 Update + DAYZ + SERVER
+
+Ok no more extraction errors (why would anyone use LZ77 SREP after TAR is beyond me)
+
+This torrent contains:
+
+Arma 2 + 
+Armored Operations 1.60 + 
+1.62 Update +
+Beta Patch ARMA2_OA_Build_100258 +
+Day Z 1.7.4.4 +
+Installed and preconfigured Private Server (Blizz)
+
+Step 1. Use WINRAR to extract ( prefferably to D:ArmA2 ) - also make sure to extract additional_files.rar, they were in use when I created the main arhive and I didnt want to wait another 2h to add them
+
+Step 2. go to #JIMBOtheNOOB folder and if you have extracted the game to D:ArmA2 just run registry.reg, if not open file in notepad and replace all d:\ArmA2 entries with ur new location..
+
+Step 3. Insert a New CD Key - run #JIMBOtheNOOBkeygen.exe to generate keys for ARMA 2 and AO (use the lower number) and put them in (run options.cmd -> 1 -> 3 -> 10) but make sure u delete the spaces
+
+Step 4. Run with dayz_game.bat or server with dayz_server.bat (for lan use tunngle)
+
+Step 5. PROFIT
+
+additional notes if you host your own server:
+-make sure you block port 29910 UDP outbound (firewall -> advanced settings -> outbound rules -> new rule -> port -> UDP 29910 -> Block -> All Checked -> Name -> Done)
+-if you want to clear/spawn new vehicles use dayz_server_setup.bat (option 3)
+-to use the admin feature start the MySQL server (from dayz_server.bat option 0) then start server_setup/admin/usbwebserver.exe and then go to firefox and type localhost/admin.php or if you feel lucky localhost/phpmyadmin
+-also.. server pass is 112 (u can change it, and other stuff with dayz_server_setup.bat option 6)
+
+info inspired by

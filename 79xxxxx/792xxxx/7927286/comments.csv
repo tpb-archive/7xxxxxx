@@ -1,0 +1,98 @@
+﻿User Type,Username,Date,Text
+,GObonzo,2012-12-15T23:00Z,have RELOADED version with RELOADED crack. let Ubisoft updater update yesterday when game launched and now it is v1.03 and game still runs cracked without replacing anything.
+,hollisb,2012-12-16T00:28Z,anybody got the changelog?
+,ASD2010ASD,2012-12-16T00:41Z,"this is From skidrowgames
+
+General fixes for the patch:
+
+Added Russian and Czech language support for Steam versions.
+Fixed issues for machines that have more than 32 cores.
+Fixed issues for activation keys bundled with ULC privileges. ULC content will now unlock during activation.
+Improvements to playlists and rotation for User Made maps."
+,AlexElec,2012-12-16T01:02Z,"Just wanted to add that if you install this and your save file wont load, don't worry it's not lost. Re-download v1.02 and just copy the content from the crack folder to your install directory then run the game."
+,azkesz,2012-12-16T01:27Z,"(I didn't test this yet)
+for whoever cares
+ubiorbitapi_r2_loader.dll
+and
+orbit_api.ini
+are the same as the ones in 1.02"
+,azkesz,2012-12-16T02:11Z,"now it's easier to loot body, they increased the area apparently, so it's no need to be as precise trying to find that Press E to loot body prompt"
+,azkesz,2012-12-16T02:45Z,"after applying the patch, patch.dat is not modified, only common.dat (didn't check others), but as far as I'm concerned knowing that patch.dat is unchanged after applying the patch is good to know"
+,10hellfire01,2012-12-16T02:48Z,"Wish they'd fix the damn sound issues. Half of the game is too quiet no matter what and turning off music hurts the feeling and atmosphere it adds.
+
+Like the quiet cutscenes in AC3...."
+,azkesz,2012-12-16T05:13Z,"there's a workaround for the savegames not being seen in 1.03, i can't post linx here but already said it on a cs rin ru forum the idea is to save the decrypted savegame in 1.02 then load it as decrypted in 1.03 (this requires hex-editing 2 to 4 bytes in fc3.dll though), I've tested this to work."
+,Blazinpot,2012-12-16T15:40Z,I tried installing but the message ' Could not retrieve installation folder! Installation will be aborted!' Can someone please comment on how to fix this? Thanks!:D
+,AdrenaLiNv2,2012-12-16T15:48Z,Can I apply this to  black box repack version?
+,Performer81,2012-12-16T16:15Z,"Useless. Game works fine with autoupdate to 1.03 and 1.02 crack.
+With this crack savegames dont work anymore."
+,PainuS,2012-12-16T17:02Z,Got the same problem as @Blazinpoint 'Could not retrieve installation folder! Installation will be aborted!' HELP US PLEASE! THNX.
+,s1raz1,2012-12-16T17:03Z,"Can u enter the store fine? like without getting stuck in the doorway 
+ Can u walk fine on uneven terrain? I.E most of the caverns"
+,Doomer D. Great,2012-12-16T17:44Z,@azkesz I need to know this. I have the v1.02 saves at 'C:ProgramDataOrbit46' and cant load them in v1.03. Can u explain please?
+,azkesz,2012-12-16T19:03Z,"@Doomer D. Great
+you should find the original post, I don't think i can explain here
+basically you run farcry.exe and thus you need to change your fc3.dll file to save unenecrypted(this in v1.02) you load and then save your game, then upgrade to 1.03 and change this fc3.dll to load unencrypted savegame (and change it also to save unenecrypted, so you can load it later, OR just leave it encrypted on save and change fc3.dll to load encrypted right after you save)
+grrr, thinking of how am I gonna post the fc3.dll file offsets for making those changes here without you risking to do them wrong... 
+just google for this (it should be first link, and go read from like page 122 or around):
+far cry 3 deluxe cs rin ru"
+,spidey2033,2012-12-17T06:02Z,"is it really matter if i dun use this update bcoz as i as i playing until now, i've not encounter any problem.. only lag a bit but that bcoz of my GPU not strong enough"
+,Glassed,2012-12-17T09:33Z,"For those that lost their savegames after updating to v1.03,a temporary fix would be to replace the crack from v1.02 into the installation folder.Your saves should appear back again but the version would be identified as v1.02 on the main menu even though the auto update identifies the version as v1.03."
+,Xxii-AMD-iixX,2012-12-17T13:18Z,thank you so much glassed.. i almost lost hope and was about to delete the game
+,Viciously,2012-12-17T15:38Z,Thanks. 
+,rodoful,2012-12-17T23:39Z,"WARNING: This update no loading save files.
+
+CUIDADO: Esta actualizacion no carga las partidas guardadas."
+,MrTTAO,2012-12-18T07:36Z,@Glassed: crack v1.02 also loses the savegame files
+,lemusun,2012-12-20T02:37Z,this garbage not save the games that you played! Dump!
+,checholin,2012-12-21T21:58Z,"==============================
+
+Para aquellos que instalaron el update 1.03 y perdieron los juegos salvados: Simplemente vuelvan a copiar los archivos del crack que viene en el update v1.02
+
+     -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+
+For those who installed the update 1.03 and lost savegames: Just copy the cracked files of update v1.02
+
+=============================="
+,MrTTAO,2012-12-22T13:03Z,"==============================
+
+For those who keep repeating the same wrong advice with more fancy gimmicks and condescending as if nobody with the problem has read the other 50 comments who said so.
+
+The 1.02 update ""solution"" does not actually work.
+
+=============================="
+,R.A.M.O,2012-12-22T17:46Z,"For Those Who Are Having Saving Issues.....!!!
+
+1. First backup the save files located in ""46"" folder in C:program dataorbit (i.e) [3 files] located in the 46 folder.
+
+2.Now change the folder name from 46 to 48.
+
+3.Now copy the backup and overwrite the original in 48 folder.
+
+4.Now run the game as admin.(Some people might notice the ""LOAD GAME "" option is now available with your last save).
+
+5.If ""LOAD GAME"" is not available, Quit the Game.Now, Repeat the "" Step No.3 "".
+
+6.Now, Restart your PC.
+
+7.Now,Run the game as ""ADMIN"" and ""YOUR SAVE IS BACK"".
+
+8.This is not a permanent solution,that means you could the face the problem of "" NOT ABLE TO LOAD THE SAVE GAME "" anytime.
+
+9.My advice is that whenever you quit the game after reaching some level in the game , backup the save file by doing the "" STEP NO:1 "" [Hereafter the folder name is 48].
+
+Believe me guys i've played the game about 20 hrs at one point of time i lost my save and now
+i'm about to complete the game.I've installed blackbox version.
+
+ALWAYS REMEMBER : 
+1.Backup your save file after quitting the game.
+2.If you can load your last save,that means no problem.
+3.If you're unable to load the last save.
+4.Do the "" STEP NO:3 ""
+5.Restart your pc
+6.Now play the game from where you left........!!!
+
+PEACE OUT..............!    "
+,cocowarrior211,2012-12-23T05:54Z,can this work with KaOs far cry 3 small rip
+,panrok90,2012-12-30T09:09Z,"WOrk 100% 
+Thank you!!!"

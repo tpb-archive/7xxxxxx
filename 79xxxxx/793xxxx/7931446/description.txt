@@ -1,0 +1,13 @@
+The Recovery cd's for Toshiba satellite P750 series. Used for my P755-S5380. Includes 4 ISOs. Burn them onto 4.7GB DVDs or use a bootable USB flash drive with at least 15GB. 
+
+:USB FLASH DRIVE:
+1)Edit the Data.INI in DVD1 to read the following:
+CDNUM=1
+CDMAX=1
+2)Place all the PREINST.SWM files from dvds 2-4 into ZZImages/ZZImages/ of DVD 1
+3)During Toshiba logo splash screen press F12 boot from USB.
+
+:DVDs:
+1)Burn each ISO onto 4.7GB DVD
+2)Load disk #1 into tray and reboot.
+3)During Toshiba logo splash screen press F12 boot from ODD.

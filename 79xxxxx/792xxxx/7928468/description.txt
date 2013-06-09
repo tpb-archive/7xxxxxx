@@ -1,0 +1,70 @@
+--This will NOT fit on a single layer 4.37GiB DVDR--
+Included KB Files up to the Dec11 2012 patch date.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+murphy78 presents Windows 8 AIO Volume Channel
+Activate and re-activate with any kms server by typing
+the following commands in admin command prompt:
+SLMGR -SKMS xxxxxxxxxxxxxxxxx.xxx
+SLMGR -ATO
+
+Insert an actual online KMS server there, don't just
+type x's. Search web for online kms servers.
+
+--OR--
+
+Get the latest KMS Nano activator.
+I have uploaded v9 before this torrent.
+It does not modify any system files,
+it just emulates a KMS server.
+
+64-bit MSDN Sources:
+en_windows_8_pro_vl_x64_dvd_917699.iso
+en_windows_8_pro_n_vl_x64_dvd_918677.iso
+en_windows_8_enterprise_x64_dvd_917522.iso
+en_windows_8_enterprise_n_x64_dvd_918052.iso
+
+These RTM Sources are the final Build 9200
+
+Install Indexes:
+Windows 8 Pro VL (x64)
+Windows 8 Pro N VL (x64)
+Windows 8 Enterprise (x64)
+Windows 8 Enterprise N (x64)
+
+Release File:
+Win8AIO-VL-4in1-x64-en-US_Dec15-2012.iso
+CRC32: DFDF7ED5
+MD5: 19B576C7410423F502DD275A491BE8EA
+SHA-1: 300F536160AEF2AB6FC24665006A0AF58C3A1392
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for MSU integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+x64 KB Files added via add-package dism:
+KB2779444, KB2727528, KB2737084, KB2751352-v2, KB2753842,
+KB2756872, KB2758246-v2, KB2761094, KB2764462, KB2764870,
+KB2768703, KB2769034, KB2769165, KB2770660, KB2770917,
+KB2771744, KB2771821, KB2777166, KB2777294, KB2778171,
+KB2779030, KB2779562, KB2779768, KB2780342, KB2780523,
+KB2780541, KB2782419, KB2783251, KB2784160, KB2785605
+
+KB Files added during setupcomplete.cmd phase:
+KB2761465, KB2771431, KB2772501
+Reboots system to finish applying the monthly IE security
+
+Use the included Advanced Tokens Manager 3.5b3 to backup your
+Activation. Newer versions stopped supporting KMS activation.
+
+Enjoy Pirates,
+murphy78-TPB :)
+Support people with Low-Funtioning Autism. *Eyes a pic of T.F.K*

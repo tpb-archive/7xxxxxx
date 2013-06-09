@@ -1,0 +1,38 @@
+I wrote this tool in an hour. It simply contains the cracked amtlib.dll files, and the following C# .NET code:
+
+private void button1_Click(object sender, EventArgs e)
+{
+	List<String> x86Files = new List<string>();
+	byte[] x86Patch = AdobeCS6Crack.Properties.Resources.amtlib_86;
+	String x86Dir = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86);
+	x86Files.AddRange(Directory.GetFiles(x86Dir + @"Adobe", "amtlib.dll", SearchOption.AllDirectories));
+
+	foreach (string f in x86Files)
+	{
+		File.Copy(f, f + ".bak", true);
+		File.WriteAllBytes(f, x86Patch);
+	}
+
+	if (Environment.Is64BitOperatingSystem)
+	{
+		List<String> x64Files = new List<string>();
+		byte[] x64Patch = AdobeCS6Crack.Properties.Resources.amtlib_64;
+		String x64Dir = Environment.GetEnvironmentVariable("ProgramW6432");
+		x64Files.AddRange(Directory.GetFiles(x64Dir + @"Adobe", "amtlib.dll", SearchOption.AllDirectories));
+
+		foreach (string f in x64Files)
+		{
+			File.Copy(f, f + ".bak", true);
+			File.WriteAllBytes(f, x64Patch);
+		}
+
+		richTextBox1.Lines = x64Files.Union(x86Files).ToArray();
+	}
+
+	else
+		richTextBox1.Lines = x86Files.ToArray();
+
+	richTextBox1.Select(richTextBox1.TextLength, richTextBox1.TextLength+14);
+	richTextBox1.SelectionFont = new Font(richTextBox1.Font, FontStyle.Bold);
+	richTextBox1.AppendText("nnDONE PATCHING! All original files renamed to amtlib.dll.bak");
+}

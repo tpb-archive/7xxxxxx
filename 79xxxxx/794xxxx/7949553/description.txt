@@ -1,0 +1,16 @@
+Title: TTOS Linux version 1.0 Developer Preview 20121221
+
+* NOTE* This is a developers preview of the current build for an OEM operating system designed for the TTPC Desktop/Laptop computers.  Since the findal build will be OEM, it will include multimedia codecs and dvd player from fluendo.  At the moment, this build is fully functional and receives its updates from the debian linux community.
+
+Files:
+There are two files inside the tar.gz file.  
+* the operating system ISO image
+* the MD5 checksum file
+
+Directions, 
+1.) unpack the tar.gz file. 
+2.) check the iso using the MD5 checksum file (optional)
+3.) burn to DVD or USB stick
+4.) Boot to TTOS
+
+NOTE: This OS can be run as a live disk, or installed to a partition.  Also, the OS boots from DVD or USB drive.

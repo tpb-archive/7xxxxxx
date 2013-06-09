@@ -1,0 +1,59 @@
+Changes in Adobe Photoshop Lightroom 4.3: 
+
+Bugs Corrected in Lightroom 4.3:
+* Autolayout produces a Book with the correct amount of pages but without any images added. Please note that this only occurs when the filter is set to “Unused”.
+* Uploading large panorama images to Revel cased Lightroom to crash.
+* The “Unused” filter was not properly filtering images within the Book Module.
+* Lightroom hangs while changing the Exposure adjustment by typing in a numeric adjustment. Please note that this only occurs when the Enter key is not typed to confirm the adjustment and another Develop adjustment is tried. Also please note that this only occurs on Windows.
+* After creating a new folder in Lightroom, attempting to undo that folder can sometimes cause a corrupt catalog.
+* An image can be simultaneously flagged as both a Pick and Reject at the same time.
+* Using multiple colors within a single text cell within the Book Module can cause Lightroom to crash.
+* Unable to post photos to Flickr when the image filename contains an apostrophe.
+* The active Develop slider, the one controlled with + and – keys, defaults to Exposure when moving from one photo to another.
+* Catalogs from Photoshop Elements 11 would not update in Lightroom.
+* Site titles longer than 70 characters created in the Web Module can cause Lightroom to freeze.
+* Cell padding linking lost between sessions.
+* Deleting the top image in a stack causes the entire stack to disappear.
+* Tethered capture fails when turning camera off and back on. This also can occur if the camera goes to sleep and then wakes. This occurs only with Canon cameras and on Mac only.
+* Cropping an image to a small size sometimes causes the image in Develop to become blurry.
+* AVCHD video formats are not properly importing into Lightroom. Please note that this only occurred on Mac.
+* Enable Profile Corrections does not auto find iPhone 4 profile.
+* Crop doesn’t update in second monitor if navigator panel closed. Please note that this only occurred on Mac.
+* TIFF files can experience tonal shifts within Lightroom.
+* Mask overlay are displayed in filmstrip and navigator. They should only be displayed in the Develop Loupe.
+* Video files created on an iPhone 4 flickers when played in Lightroom.
+
+New Camera Support in Lightroom 4.3:
+1.Canon EOS 6D
+2.Canon PowerShot S110
+3.Canon PowerShot G15
+4.Canon PowerShot SX50 HS
+5.Casio Exilim EX-ZR1000
+6.Casio Exilim EX-FC300S
+7.Leica M-E
+8.Nikon 1 V2
+9.Nikon D5200
+10.Nikon D600*
+11.Olympus PEN E-PL5
+12.Olympus PEN E-PM2
+13.Olympus STYLUS XZ-2 iHS
+14.Panasonic DMC-GH3
+15.Pentax K-5 II
+16.Pentax K-5 IIs
+17.Pentax Q10
+18.Sony DSC-RX1
+19.Sony NEX-VG30
+20.Sony NEX-VG900
+
+System requirements Windows
+
+* Intel® Pentium® 4 or AMD Athlon® 64 processor
+* Microsoft® Windows Vista® with Service Pack 2 or Windows® 7 with Service Pack 1, Windows 8 (64 bit)
+* 2GB of RAM
+* 1GB of available hard-disk space
+* 1024x768 display
+* DVD-ROM drive
+
+Languages : Deutsch, English, Español, Français, Italiano, Nederlands, Português (Brasil), Svenska, 日本語, 简体中文, 繁體中文, 한국어
+
+Homepage : http://www.adobe.com/products/photoshoplightroom/

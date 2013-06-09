@@ -1,0 +1,43 @@
+v0.18.2
+
+Released 20th December, 2012
+New:
+Training: Added a Basic Flight Tutorial, and a Basic Vessel Construction Tutorial.
+Solar System: Added a new icy planet called Eeloo, somewhere out past Jool.
+Scenarios: Added a scenario called Station One, where a refueling station is already in orbit.
+UI: Added a button to open the SpacePort site on the Main Menu (opens on the default browser)
+Music: Added two new tracks for space and another one for construction.
+Bugfixes and Tweaks:
+Graphics: 800x600 is no longer a valid resolution option. Minimum possible resolution is now 960x720.
+Docking: Fixed ejected debris being incorrectly typed as "Unknown".
+UI: Fixed an issue where the "Resume Saved" dialog wouldn't show if a save folder was missing its persistent.sfs file.
+UI: The "Resume Saved" and Craft Load dialogs now offer to clean up incompatible files if any are detected.
+UI: Incompatible/Invalid entries on those dialogs are now greyed out, and the reason why they can't be loaded is displayed.
+UI: Fixed an issue with popup dialogs cutting out content (text and buttons) when multiple dialogs were spawned at once.
+UI: The Resources panel is now visible while in the Map View.
+Decouplers now break the connection at a specific node, instead of breaking the connection to the parent part. This enables choosing which side will remain attached.
+Physicsless parts now get "promoted" to physical ones if they become the root of a vessel (by decoupling)
+Persistence: Vessel rotation is now stored relative to the universe, instead of in worldspace. This fixes vessels having seemingly random rotations upon resuming a save.
+Parts: Fixed an issue with the engine fairings which caused engines to lose mass on save/load cycles.
+Parts: RCS thrusters no longer try (and fail) to do lever arm compensation.
+Music: Fixed an issue where some tracks were subject to doppler effects in flight.
+Solar System: Pol's gravity increased slightly
+Solar System: Bop and Pol's semi-major axes increased (Bop's SOI almost intersected Tylo's)
+Gameplay: Fixed an issue where crashing a ship wouldn't properly remove the root part and cause weird "physics" sometimes.
+Gameplay: Fixed an issue with renaming vessels from symmetrically-placed command pods.
+Maneuver Nodes: Fixed a small but annoying issue where maneuver gizmos would switch modes when rotating the camera just after creating a maneuver.
+Training: Fixed Gene Kerman introducing himself as Wernher von Kerman on the Orbit 101 tutorial.
+Parts: Fixed an issue where the root part of a vessel would live on in a weird state after crashing.
+Docking: Fixed an issue where docking ports wouldn't resume their fuel crossfeed properly sometimes.
+Controls: Added input locks to action groups and part context UIs, so they lock when appropriate.
+UI: Part Resource Context Gauges now correctly go away when the corresponding part gets detached from the current ship.
+Parts: Fixed an issue that could cause RCS thrusters to fly off on their own because of numerical spikes.
+Parts: Landing gear now remember to set the brakes when resuming flight.
+Gameplay: Added a rule to prevent saving the game or switching vessels while the current one is throttled up.
+Gameplay: Unrestricted vessel switching is now only allowed if the vessel to be focused is loaded and unpacked.
+Tutorials: Fixed the Construction Tutorial erroring out with an "incompatible" sfs when launching after completing the tutorial.
+Tutorials: Tutorial Scenarios now delete the instructor objects when the ScenarioModule is destroyed.
+Tutorials: The Construction Tutorial now allows launching the constructed vessel, and going back to edit it later.
+Controls: Action groups are now locked when in map view, to prevent accidental activation without being able to see the ship.
+Controls: Map View won't lock RCS off anymore when the navball is up.
+UI: Added some sanity checking to text fields (vessel names and saves), so illegal characters don't cause trouble.

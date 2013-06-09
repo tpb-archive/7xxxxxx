@@ -1,0 +1,22 @@
+Build Awesome Command-Line Applications in Ruby: Control Your Computer, Simplify Your Life
+
+Format: PDF
+
+
+Publication Date: March 19, 2012
+
+Speak directly to your system. With its simple commands, flags, and parameters, a well-formed command-line application is the quickest way to automate a backup, a build, or a deployment and simplify your life.
+
+As Ruby pro David Copeland explains, writing a command-line application that is self-documenting, robust, adaptable and forever useful is easier than you might think. Ruby is particularly suited to this task, since it combines high-level abstractions with "close to the metal" system interaction wrapped up in a concise, readable syntax. Moreover, Ruby has the support of a rich ecosystem of open-source tools and libraries.
+
+Ten insightful chapters each explain and demonstrate a command-line best practice. You'll see how to use these tools to elevate the lowliest automation script to a maintainable, polished application.
+
+You will learn how to use free, open source parsers to create user-friendly command-line interfaces as well as command suites. You'll see how to use defaults to keep options simple for everyday users, while giving advanced users options for more complex tasks.
+
+There's no reason a command-line application should lack documentation, whether its part of a help command or a man page; you'll find out when and how to use both. Your journey from command-line novice to pro ends with a look at valuable approaches to testing your apps, and includes some fun techniques for outside-the-box, colorful interfaces that will delight your users.
+
+With Ruby, the command line is not dead. Long live the command line.
+
+What You Need:
+
+All you'll need is Ruby, and the ability to install a few gems along the way. Examples written for Ruby 1.9.2, but 1.8.7 should work just as well.

@@ -1,0 +1,54 @@
+Includes the VSO ConvertXtoDVD v5.0.0.31 installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Burn automatically to DVD after video conversion. Excellentand fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Edit your project with the various settings and features listed below:
+-Create menus with videos and music
+-Preview window
+-Add chapters - automatic or custom
+-Subtitle files supported
+-Convert NTSC to PAL and vice-versa
+-Merge function - like for CD1 + CD2
+-2 pass encoding
+-Multiple encoding profiles
+-Video/Audio/Subtitle synchronisation
+-Various audio output formats
+-Image resize filters (lanczos, linear, cubic, etc . . .)
+-Quality advisor
+-Multi-core processor optimized
+-Audio amplifier
+-Padding and cropping
+-De-interlacing
+-Batch converter
+
+Additional features:
+-Compatible with any disks 
+-ISO output available
+-NTSC + PAL region formats
+-16:9 widescreen + 4:3 fullscreen
+-Burn multiple copies
+-VSO burning engine included
+-Various SD resolutions available
+-Custom output size
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE?
+
+- 0006201: [Suggestion] default opening size not ideal (cedric) - resolved.
+- 0006227: [Feature Request] Why do we see the selector box ? It's not invisible anymore, is this by design ? (cedric) - resolved.
+- 0006226: [Bug] problems converting to resolutions other than normal Full D1 (cedric) - resolved.
+- 0005794: [Bug] Ripped 24 fps DVD files not converted with pulldown (cedric) - resolved.
+- 0006017: [Bug] Sounds Events do not play when I hit the Play Button in the settings. (felicia) - resolved.
+- 0006223: [Bug] FR translation still missing - save project window (cedric) - resolved.
+- 0006225: [Bug] Default DVD Label on Settings>Burning tab not saved (felicia) - resolved.
+- 0006224: [Bug] report a bug does not work (felicia) - resolved.

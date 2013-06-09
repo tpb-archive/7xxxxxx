@@ -1,0 +1,22 @@
+﻿User Type,Username,Date,Text
+[V],HobbitGamez,2012-12-13T02:45Z,"SD DATA is the same as v1.0, found here:
+https://thepiratebay.se/torrent/7900559/"
+,operator0,2012-12-13T05:36Z,"""XAPK file validation failed"" on launch.
+
+SD data from 1.0 is in place in sdcardAndroidobbcom.rockstargames.gtavc
+
+The APK from 1.0 from the mentioned torrent plays fine.
+
+Any ideas?"
+,zirbat,2012-12-13T12:19Z,"""XAPK file validation failed"" on my SII"
+[H],shirepirate,2012-12-13T15:41Z,"even though it is exactly the same file, try renaming main.7.com.rockstargames.gtavc.obb
+to main.11.com.rockstargames.gtavc.obb
+the folder name does not change"
+,operator0,2012-12-13T18:27Z,"Awesome, thanks! Will try it when I get home.
+
+How did you determine the correct folder name? I'm brand new to Android and trying to learn. Thanks!"
+,operator0,2012-12-13T19:55Z,".obb file name, not folder name :J"
+,operator0,2012-12-14T02:59Z,Renaming the resource file did the trick. Thank you!
+,entityown,2012-12-14T03:42Z,"Ive tried all the mentioned tips, and the game is still freezing when I get into a car. I'm using a Galaxy SII, can anyone give me some advice on what to do? Thanks"
+,operator0,2012-12-14T20:59Z,Freezing when getting into a car on SII's is a widely reported issue on google play. I see they have already put up version 1.02 to address this.
+,entityown,2012-12-14T21:18Z,"yeah, i saw the new version and downloaded the apk, its still freezing. thanks for your reply. "

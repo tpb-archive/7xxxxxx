@@ -1,0 +1,41 @@
+﻿User Type,Username,Date,Text
+,hlvs,2012-12-14T00:32Z,"FileSize/String                  : 925 MiB
+Duration/String                  : 1h 15mn
+OverallBitRate/String            : 1 703 Kbps
+
+Video
+Format_Settings_BVOP/String      : 2
+Format_Settings_QPel/String      : Όχι
+Format_Settings_GMC/String       : 0 warppoint
+Format_Settings_Matrix/String    : Default (H.263)
+CodecID                          : XVID
+Duration/String                  : 1h 15mn
+BitRate/String                   : 1 502 Kbps
+Width/String                     : 720 εικονοστοιχεία
+Height/String                    : 576 εικονοστοιχεία
+DisplayAspectRatio/String        : 5:4
+FrameRate/String                 : 25,000 fps
+Standard                         : PAL
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Συνεχής σάρωση
+Bits-(Pixel*Frame)               : 0.145
+StreamSize/String                : 816 MiB (88%)
+
+Ήχος
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Profile                   : Dolby Digital
+Format_Settings_ModeExtension    : CM (complete main)
+Format_Settings_Endianness       : Big
+CodecID                          : 2000
+Duration/String                  : 1h 15mn
+BitRate/String                   : 192 Kbps
+Channel(s)/String                : 2 κανάλια
+ChannelPositions                 : Front: L R
+SamplingRate/String              : 48,0 KHz
+BitDepth/String                  : 16 bits
+StreamSize/String                : 104 MiB (11%)
+Interleave_Duration/String       : 40 ms (1.00 video frames)
+Interleave_Preload/String        : 512 ms"

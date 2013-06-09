@@ -1,0 +1,36 @@
+Movies : Thriller : TV Rip : English, 73mins 26secs
+This is a redo of my torrent to reduce file size, new format mkv.
+
+The Phantom of Hollywood 1974
+
+There's a phantom loose on the back lot of the studios.
+  
+http://www.imdb.com/title/tt0071993/
+
+[14:40:42] starting job
+[14:40:43] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:40:43] job configuration:
+[14:40:43]  * source
+[14:40:43]    + C:Phantom of HollywoodVIDEO_TS
+[14:40:43]    + title 1, chapter(s) 1 to 2
+[14:40:43]  * destination
+[14:40:43]    + C:Documents and SettingsDead End KidsMy DocumentsPhantom of Hollywood.mkv
+[14:40:43]    + container: Matroska (.mkv)
+[14:40:43]      + chapter markers
+[14:40:43]  * video track
+[14:40:43]    + decoder: mpeg2
+[14:40:43]      + bitrate 8000 kbps
+[14:40:43]    + frame rate: same as source (around 23.976 fps)
+[14:40:43]    + strict anamorphic
+[14:40:43]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[14:40:43]      + pixel aspect ratio: 8 / 9
+[14:40:43]      + display dimensions: 640 * 480
+[14:40:43]    + encoder: x264
+[14:40:43]      + options: ref=2:bframes=2:me=umh
+[14:40:43]      + bitrate: 396 kbps, pass: 2
+[14:40:43]  * audio track 0
+[14:40:43]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[14:40:43]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[14:40:43]    + mixdown: Stereo
+[14:40:43]    + encoder: faac
+[14:40:43]      + bitrate: 160 kbps, samplerate: 48000 Hz

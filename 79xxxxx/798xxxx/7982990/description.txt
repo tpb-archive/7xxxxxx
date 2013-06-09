@@ -1,0 +1,46 @@
+-------
+English
+-------
+
+OWNI Mirror 2013-01-02
+======================
+
+Recently Owni died, we are all sad :'(, but the website is still online. We do
+not know how long this will last. And since this works is under CC I create a
+mirror of Owni.
+
+The mirror was created with the following command:
+wget -rkp -K -np -nH -N http://owni.fr
+
+There may be better way to do it, but my wget-fu is small, feel free to add
+comments on *why* this command suck or not :)
+
+The last bits of owni.fr were dl the 2013-01-02.
+
+You can find my mirror at: 
+http://owni.6x9.fr 
+http://ownieu.6x9.fr
+
+------
+French
+------
+
+OWNI Mirror 2013-01-02
+======================
+
+Récement Owni est mort. Nous somme tous triste :'( mais le site est toujours en
+ligne. On ne sait pas encore pour combien de temps, et comme Owni est sous
+licence CC j'en ai créé un mirroir.
+
+Le mirroir a été créé à partir de la commande suivante:
+wget -rkp -K -np -nH -N http://owni.fr
+
+Il y a surement de meilleurs méthode pour créer un mirroir, mais mon wget-fu
+n'est pas très conséquent. J'accepte avec joie les critiques constructives sur
+le sujet :)
+
+Les derniers fichiers ont été téléchargés le 02 janvier 2013
+
+Vous pouvez trouver mes mirroirs aux adresses suivantes : 
+http://owni.6x9.fr 
+http://ownieu.6x9.fr

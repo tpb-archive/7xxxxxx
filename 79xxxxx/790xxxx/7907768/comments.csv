@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,el_barto7,2012-12-10T17:04Z,Thank You!!! as always you are the Best
+,dementie,2012-12-10T18:33Z,"Thanks, Dank U"
+,paffnucy1,2012-12-10T19:03Z,Works like a charm! :) Thank you!
+,AN-124,2012-12-10T20:53Z,thanksssss
+,sterganos,2012-12-10T21:17Z,"Thanks a lot, perfect as allways :-))"
+,Rezalabibi,2012-12-10T22:09Z,Thanks   Man
+,B737Driver,2012-12-11T08:07Z,Thank you very much for the upload. anyone knows how to get TC updates for android.
+,precursor1188,2012-12-11T10:43Z,Thank You Again
+,glounk,2012-12-11T18:30Z,"hello
+for windos PCs please guys.
+Good day."
+,autobrakes3,2012-12-15T11:45Z,"Hi everyone!
+
+Can someone teach me how to install this into an Ipad correctly? 
+
+I copied the entire ""data"" file into the documents folder but I still do not have any enroute charts.
+
+Also, after i copied the files into my ipad I am still required to enter an Activation code or click demo. Is this normal? 
+
+Thanks!"
+,V1RotateV2,2012-12-15T18:12Z,"HEY GUYS! Finally I've been able to make run 1225 FULLY, VFR-enabled, under IOS 6.0.1 and app v2.0, using Diskaid v5.42!
+
+- Erase JEPP FD application and download it from APPLE store.
+- Open it once, without having updated anything.
+- Close it completely (with X)
+- Copy only TermCharts from 1225.
+- Erase Enroute Charts (whatever you find in Documents)
+- Copy Enroute Charts from 1213.
+- Copy OVER PREVIOUS FOLDER, Enroute Charts from 1225.
+- If you want to enable VFR Terminal Charts, create your own airportlist.bin file (need jepp.exe application and JeppView for Windows)
+- Overwrite the older airportlist.bin with newer one in TermCharts
+- Copy FROM ""C:ProgramDataJeppesenCommonTerminalCharts""  TO your IPAD folder ""JeppFDDocumentsdataTermCharts""
+theese files: vfrcharts.bin, vfrchrts.dbf, vfrntms.dbf and vfrntms.dbt.
+
+* Note 1: vfrcharts.bin must be writen in LOWERCASE letters, NOT IN CAPITALS.
+* Note 2: Google to find jepp.exe application and it's manual.
+
+Voila! FULL JeppFD ;-)"
+,okkie79,2012-12-16T06:41Z,Thanks @V1RotateV2 !!! This trick did it! 
+,b_boy31,2012-12-24T18:55Z,"V1RotateV2 
+
+Just a quick one about your steps....
+
+Erase Enroute charts.....do you mean erase the contents and keep the folder (on disk aid)
+
+Copy OVER PREVIOUS FOLDER, Enroute Charts from 1225
+
+I dont fully understand this bit. Can you explain??
+
+thanks very much"
+,V1RotateV2,2012-12-25T21:37Z,"Erasing means, deleting the folder ""Enroute"" after installation (everything inside it also). Then you have to copy ""Enroute"" directory from cycle 1213 and then OVERWRITE ""Enroute"" from actual one cycle."
+,b_boy31,2012-12-26T17:40Z,Excellent. Works a treat. Thank you
+,jumbodriver,2012-12-30T17:54Z,"Thanks a bunch for the upload! I'm new at this! I've got an iPad 1 ios 5.1.1. JBn; Mac, OS X M.L.. Just haven't been able to get this to work at all, after my green efforts in following your instructions using iExp. For one thing I don't see any Enroute folder in iExp dir of my freshly downloaded JeppFD (I opened it once like you said to do...Do I agree to terms and choose Demo as well before closing & moving onto the iExp steps?)?! What I see don't match your step by step instruction. Pls help, cheers & HAPPY NEW YEAR."

@@ -1,0 +1,47 @@
+murphy78 presents Windows 8 Pro VL
+Activate and re-activate with any kms server by typing
+the following commands in admin command prompt:
+SLMGR -SKMS xxxxxxxxxxxxxxxxx.xxx
+SLMGR -ATO
+
+Insert an actual online KMS server there, don't just
+type x's. Search web for online kms servers.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+32-bit MSDN Source: en_windows_8_x86_dvd_915417.iso
+This RTM Source is the final Build 9200
+
+Release File:
+Win8Pro-VL-x86-en-US_Dec14-2012.iso
+CRC32: E22DCB82
+MD5: 8FCFD57576362736320F413D9547E76F
+SHA-1: 0E346B38C123C3E48FCD247D7A7FA8C84294EA6B
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for MSU integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+KB Files added via add-package dism:
+KB2727528, KB2737084, KB2751352-v2, KB2753842, KB2756872,
+KB2761094, KB2764462, KB2764870, KB2768703, KB2769034, KB2769165,
+KB2770660, KB2779030, KB2779444, KB2779562, KB2779768, KB2780541,
+KB2782419, KB2783251, KB2784160, KB2785605, KB2788261
+
+KB Files added during setupcomplete.cmd phase:
+KB2761465, KB2771431, KB2772501
+Reboots system to finish applying the monthly IE security
+
+Use the included Advanced Tokens Manager 3.5b3 to backup your
+Activation. Newer versions stopped supporting KMS activation.
+
+Enjoy Pirates,
+murphy78-TPB :)
+Support people with Low-Funtioning Autism. *Eyes a pic of T.F.K*

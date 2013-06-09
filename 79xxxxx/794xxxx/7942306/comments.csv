@@ -1,0 +1,96 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-20T17:00Z,"Believe it or not, more than one person actually requested this.  Naturally the OS had lots of problems and lots of hotfixes, so it was even more annoying than usual.  Took me about a whole day to get these right.
+
+If you are curious if vista is still crappy, go ahead and try it out."
+,OnionRex,2012-12-20T17:35Z,10/10 torrent description. Would read again.
+,anarchist9027,2012-12-20T19:39Z,"Thanks again man, this comes in handy for repairs. If someone has Vista and they dont want to pay extra to be upgraded, then their getting Vista back."
+,FRID@,2012-12-20T20:31Z,WOW thx.. murphy78 gonna seed so long i have a computer with internet for.. Thx again. I think you are the best OS releaser out there. And some bad old computer like HP/fujitsu are looked to the os here in sweden :/ thats why i wanted somthing like this. Thx again
+,jacob5800,2012-12-20T21:25Z, i still have my window vista ultimate on  another pc and never had a little problem wiht it  thanks anyway good upload 
+[T],murphy78,2012-12-20T23:05Z,"YW guys, I guess it could be used to generate a legit data trail if you were upgrading to win8 with the cheaper upgrade retail keys.  Of course win7 could probably do the same thing, but to each his own.
+
+Anyway, you can tell I copy other torrent descriptions and edit them. I said that kb files were added with dism just before the kb lists. They were added with vlite.
+
+If anyone wants to make an x64 version that will fit on a 4.37GiB dvdr, you could first install vistax64 with a usb drive, then install vlite and the waik (it gives you a link when you try to run vlite). Then you could remove the manual upgrade option and delete the net45 folder and $oem$ folders from the source.  I'm not sure if that would make it small enough to fit on a 4.37, but it probably would.
+
+Anyhow, really the only difference between vista and win7 is the way they handle processes. Basically the kernel in vista likes to run the hard disk into the ground every time you modify any sort of system settings.  Once your system is up and stable, I'm sure it would be quite a bit less annoying.  I would still probably use one of those programs that unloads the useless services if I had to use this.
+
+They really handled the system files much better in win7 and win8."
+,OnionRex,2012-12-21T00:05Z,"Do you also use the Windows Automated Installation Kit on Windows 8?
+
+I've used nLite and vLite in the past (Windows XP, Vista respectively), however, they are a bit outdated."
+[T],murphy78,2012-12-21T01:49Z,"onion, I suppose I could have if the operating system was worth spending the time to learn all the ins and outs of aik.  Vista just isn't worth spending that kind of time. I usually just use dism command scripting on win7 and win8, but the win8 apk is very similar. It wouldn't hurt for me to learn all about it when I get more time."
+,54n1,2012-12-21T02:58Z,"hei guys, can you please seed this torrent 
+http://thepiratebay.se/torrent/7715849/Windows_7_SP1_AIO_11in1_x64_x86_IE9_.NET_4.5_Oct10_2012"
+,OnionRex,2012-12-21T04:18Z,"54n1
+
+There are more recent uploads of Windows 7 (more seeders, includes the latest Windows Updates, etc) from the Murph. Good luck!
+
+http://thepiratebay.se/torrent/7923270/Windows_7_Ultimate_SP1_x64_en-US_Dec14_2012
+
+http://thepiratebay.se/torrent/7923283/Windows_7_Ultimate_SP1_x86_en-US_Dec14_2012"
+[T],murphy78,2012-12-21T06:20Z,"54 interest in win7 torrents has dropped significantly. It takes quite a while to both integrate and test each release. If I ever get trusted status I could probably do little interest pieces like that because there would be enough people interested in them to sustain the torrent.  Just keep bugging me, I'm sure I'll cave in. Just ask sonic and frid."
+,Addryann,2012-12-21T08:21Z,"loooooooool
+
+I've never thought i will see this updated! If T.F.K reuploads this, i will be laughing for about a week or something. 
+
+Thanks for your work."
+,anarchist9027,2012-12-21T15:28Z,"Hey hurphy78, would you be able to release Vista 32 and 64 bits with all editions up to date instead of just ultimate?"
+,zurtewizertar,2012-12-21T20:21Z,"Hello Murphy
+
+Hope you are o.k.
+seems you doing requests, so if I can use this times to ask once more time for (if it is possible) one win7ult x64 microextreme - no tweaks, no customizations, no microsoft apps, no double system files......
+only core files+net access  with less space as possible but still functioning.
+
+Thank You
+z"
+[T],murphy78,2012-12-21T22:50Z,"anarchist9027 vista is extremely bloated. Patching all versions I don't think would even fit on a 7.95GiB dual layer for just x64.
+
+Plus the seed would die in a couple days. Noone really downloads vista anymore.
+
+As far as the trimmed down ultx64, I'm sure there are a lot of ways to trim it down.  The problem is that every time you cut one service or option, a lot of people get annoyed.  There are ways to cut the iso down that don't cut the footprint down also.  I mean, I could remove the manual upgrade option.  That just removes the ability to upgrade from vista or xp.  The problem, like I said, is that it both makes people upset, and it doesn't reduce the footprint at all.
+
+There are things that are disabled by default that you have to turn on to use that I'm sure most people could live without.  I tell you what, after I work on my xdelta conversion packs for win8 languages, I'll take a look at x64 win7 slimming and see what I can do."
+[T],murphy78,2012-12-21T22:52Z,Hmm... that gave me an idea... I guess I could make other vista versions updated and just release those versions as an xdelta patch of these isos in this torrent.  I'll give it a looksee but no promises.
+,FRID@,2012-12-22T03:04Z,na no more vista :D - a updated vista is what all need who need vista :P but a slimming w7 is more intressed =)
+,catanion,2012-12-22T13:33Z,"hi murphy can you please make windows 7 ultimate SP1 OEM x86 x64 seperately for Dell Laptops(Ex. for Studio, inspiron and others etc...)
+Also windows 8 for Dell laptops(if you have)!!"
+[M],Hero,2012-12-22T18:32Z,"Your name was suggested for a trusted promotion on our IRC chan. You passed all the checks.
+
+Welcome to the trusted club. Keep up the good work :)"
+,zurtewizertar,2012-12-22T19:07Z,C O N G R A T U L A T I O N S
+,OnionRex,2012-12-22T20:02Z,Congrats Murphy!!!
+,54n1,2012-12-23T01:41Z,"yeah pink skull, congrats murphy78"
+[T],murphy78,2012-12-23T08:39Z,oh wow hey cool guys... pinkie
+,zurtewizertar,2012-12-23T09:24Z,we don't stop until she goes green
+,catanion,2012-12-23T10:11Z,"hey murphy, sorry I didn't mean, that you to make OEM version from desktop windows 7, I just want you to create(or RIP) the iso file from the reinstallation dvd from Dell's original OEM copy that comes when we purchase a Dell laptop. if you have it just RIP it from the original DVD or if any of your friends had purchased a Dell laptop borrow the DVD from them and RIP the original DVD! this is what I meant and wanted you to do, you understood now??"
+[T],murphy78,2012-12-23T20:28Z,"cantanion, the differences in the actual operating systems are not very big. The dell dvd just probably just copies a dell folder for the drivers.
+
+I'm going to put this simply. No, I will not make a custom dvd specific to your dell dvd. There really is no benefit to using old dvd sources that some guy at dell slapped together by tossing a dell directory into the mounted install.  They make these dvds to tailor specific to systems, and that's just incompatible with trying to release operating systems to the masses."
+[T],murphy78,2012-12-24T14:00Z,"I've been going over my xdelta options and although it is a very efficient way of releasing these sorts of things, I think I'll probably just try to go for an AIO release for January.  xdelta patches are great, but to be worth the effort, they need to be fairly small.  Sadly, although most of the files inside the installs are the same, they don't generate the same compressed data. I think I'm just gonna shelf that idea for now."
+,SasideGR,2012-12-29T03:09Z,"Could you please fix this into ONE ISO or tell me what tools do i need to do it ?
+
+Also from your experience is) it possible to fix Vista/7/8 AIO DVD (x86-x64) with all languages ?
+
+Thanks."
+,FRID@,2012-12-29T21:21Z,"Please Stop Hit'n'runn!!!! I have seed to 40gib and just have 1,5mbit upload. So you guys with better upload isp can seed more :@"
+,FRID@,2012-12-29T21:25Z,"@SasideGR  No there is no dvd you can have all that on one DvD. 
+Then you need a BLU-RAY =)"
+,SasideGR,2012-12-30T18:50Z,"@FRID@
+
+a)Thanks for your answer.
+
+b)Don't mind doing that. I just want to know if i can have all the languages on x86-x64 installation with all versions AIO.
+
+@murphy78 
+
+Please if you can spare me some time let me know how i can do this and with which programs. 
+
+a)Join the this Vista torrent into AIO with languages.
+
+Thanks."
+,vo_danh,2013-01-02T09:45Z,"Plz make an OEM version +SP2 +IE9 x86 x64 + latest updates. Mainly Home Premium, but other editions welcomed. The main use would be for restoring computers to their original COA which happens to be Vista, since we all can't get refurbish licensing to fix client computers!"
+[T],murphy78,2013-01-06T04:52Z,"Worry not Vistaites, I will attempt to work in an AIO x64 and x86 version of vista with all the updates for January.  The hotfixes in vista are actually very small, even though there are quite a lot. To give you an idea: Vista hotfix totals are 775mb for both x64 and x86.  You'd think with so many hotfixes that it would be like a gig and a half for both, but it's not.  Windows 8 hotfixes dwarf these.. I swear, it seems like every month they release 100mb of hotfixes.
+
+Anyhow, in January I'll try to limit the size to 7.95GiB or lower for the dual layer dvd people. If that is not possible with one release, I'll have to split them into x64 and x86 versions.  I should have the tools to accomplish the aio with x64 recovery and x64 sources directory thx to Josh Cell Softwares AIO maker.
+
+Note that for the volume versions, they might have a strange eula because of being set to retail, but it's normal. It won't affect your files, just your install screens."

@@ -1,0 +1,57 @@
+Toontrack EZmix 2 v2.0.2 UNLOCKED
+
+
+
+
+EZmix is a simple, yet powerful mixing tool that gives you access to a huge array of mix presets for the whole gamut of mixing needs. Whether you need to mix drums, vocals, guitars, bass or keyboards this is your tool. Simply insert EZmix on a channel strip in your sequencer, and pick a preset to apply to your audio source. Done. In addition, EZmix comes with a standalone host that you can use to practice your guitar with using the included amplifiers and cabinets simulations. Of course, those are available when using your recording application too!
+
+
+
+New in version 2.0.2:
+
+-EZmix now reports the latency introduced by the selected preset to the host. This can be toggled OFF or ON (it is ON by default for new instances, and OFF for projects started with a prior version).
+-New internal effects are introduced for use in future expansion packs: a new guitar amplifier model, a preamp and a tapped delay.
+-Possibility to select 'None' as Input Device in the standalone application.
+
+
+Fixed in version 2.0.2:
+
+-The fade-in occurring on changing from one preset to another is now shorter and better at eliminating click/pop sounds.
+-Selecting a preset with the Exciter effect sometimes could cause an audible click.
+-The CPU usage for the Octaver should no longer be abnormally high when the input goes silent.
+-Loading a project with several EZmix instances using certain amplifier presets could cause some of them to only output silence.
+-Clip LEDs should no longer stay lit after changing presets when the previous one was too loud.
+-In the standalone on Windows, the ASIO settings modified with control panel were not always applied when OK or Apply was clicked.
+-The standalone is now better at handling scenarios where the assigned Audio Input or -Output are temporarily unavailable.
+-The drop-down menus in the Audio Setup dialog are now wider so that text in them are not truncated as often.
+-Using the online authorization method, if the connection failed it would sometimes state "Connecting... Please wait" instead of an error message.
+
+System requirements
+
+Windows XP SP3 or newer, Pentium 4 or Athlon processor with 512 MB RAM
+
+
+INSTALLATION:
+
+
+ΓÇó Uninstall previous versions.
+
+ΓÇó You need WinRAR to extract the rar's files.
+
+ΓÇó Burn or mount the image.
+
+ΓÇó Run the *.msi official installer.
+
+
+UNLOCKED NOTE :
+
+No activations are needed for the expansions.
+
+
+
+ΓÇó That's it! Done.
+
+ΓÇó Supp0rt th3 D3v3lop3r if you liK3 it.
+
+
+3Nj0Y!!!

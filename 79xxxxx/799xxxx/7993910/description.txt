@@ -1,0 +1,67 @@
+Artist  : Psychoparadox
+Album   : ...And Your Life Is Just Another Dream
+Year    : 1995
+Genre   : Death Metal
+Country : Serbia
+Codec   : FLAC (image+cue)
+
+---------- LOG ----------
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 23. September 2011, 12:45
+
+Psychoparadox / ...And Your Life Is Just Another Dream
+
+Used drive  : PIONEER DVD-RW  DVR-111D   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : Yes
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:Program FilesExact Audio CopyFlacflac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT=EAC FLAC -8" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:18.50 |         0    |    19399   
+        2  |  4:18.50 |  3:17.01 |     19400    |    34175   
+        3  |  7:35.51 |  3:34.58 |     34176    |    50283   
+        4  | 11:10.34 |  3:41.13 |     50284    |    66871   
+        5  | 14:51.47 |  4:06.06 |     66872    |    85327   
+        6  | 18:57.53 |  5:18.69 |     85328    |   109246   
+        7  | 24:16.47 |  3:48.33 |    109247    |   126379   
+        8  | 28:05.05 |  4:24.38 |    126380    |   146217   
+        9  | 32:29.43 |  4:25.12 |    146218    |   166104   
+       10  | 36:54.55 |  2:18.71 |    166105    |   176525   
+
+
+Range status and errors
+
+Selected range
+
+     Filename D:Psychoparadox - ...And Your Life Is Just Another Dream.wav
+
+     Peak level 92.3 %
+     Range quality 99.9 %
+     Copy CRC 89716988
+     Copy OK
+
+No errors occurred
+
+End of status report
+---------- EOL ----------

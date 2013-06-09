@@ -1,0 +1,36 @@
+﻿User Type,Username,Date,Text
+,mnessim2012,2012-12-18T18:10Z,"Stopped at 99.8%, Why ?"
+,OnlyByTheRain,2012-12-18T18:40Z,wait few hrs more (min 1 hr)
+,layker73,2012-12-19T00:24Z,I'm getting a problem installing Visio Profession. It keeps me asking for the Vispro.wwvisproww.cab. Anyone else having this problem?'
+,Kazamario,2012-12-20T19:08Z,"Yes Laker I am as well. I looked for Visio 2013 on its own and found one, but its a grace version not a volume license, so its not activating via KMS. Anyone have any suggestions? "
+,lkadar,2012-12-21T12:23Z,"@Kazamario
+Same here, however, the std version did install."
+,lkadar,2012-12-22T01:27Z,I fixed Visio Professional. It is uploaded and available now.
+,TheBillGates,2012-12-22T11:06Z,"Public KMS Server for Server 2012 / Office 2013 activation
+with NEW non-banned GOLD KMS-host keys!
+****************
+* 98.212.2.163 *
+****************
+
+Run this commands from command prompt with Administrative
+privileges to activate Server 2012:
+88
+slmgr.vbs /skms 98.212.2.163
+slmgr.vbs /ato
+88
+
+Run this commands from command prompt with Administrative
+privileges to activate Office 2013 (x64)
+88
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /sethst:98.212.2.163
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /setprt:1688
+cscript ""%ProgramFiles%Microsoft OfficeOffice15ospp.vbs"" /act 
+88
+
+Run this commands from command prompt with Administrative
+privileges to activate Office 2013 (x86)
+88
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /sethst:98.212.2.163
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /setprt:1688
+cscript ""%ProgramFiles(x86)%Microsoft OfficeOffice15ospp.vbs"" /act 
+88"

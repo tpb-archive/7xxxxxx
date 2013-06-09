@@ -1,0 +1,29 @@
+DiskCryptor 0.9.593.106 - [cooldude187]
+
+
+DiskCryptor is the only truly free disk encryption solution for Windows, provided under GNU General Public License (GPLv3), which offers encryption of all disk partitions, including the system partition. The application can encrypt hard disks, partitions, pen drives or CD / DVD, having a very low impact on performance. If you want to keep your data private, you should really try this application! Features:
+
+ΓùªDisk partition encryption of any configuration, including boot and system 
+ partitions.
+ΓùªChoice to select an encryption algorithm: AES, Twofish or Serpent. Cascaded 
+ modes are available as well.
+ΓùªFull support for dynamic disks.
+ΓùªFull support for encryption of external USB storage devices.
+ΓùªAbility to create encrypted CD's and DVD's.
+ΓùªHigh encryption performance, comparable to efficiency of a non-encrypted 
+ system.
+ΓùªSupport for hardware cryptography found in VIA processors.
+ΓùªSupport for disk devices with large sector sizes, which is important when 
+ working with hardware RAID.
+ΓùªAutomatic mount of disk partitions and external storage devices.
+ΓùªExtended configuration possibilities of booting an encrypted OS. Support for 
+ different multi-boot scenarios.
+ΓùªFull support for 3rd party boot loaders (LILO, GRUB, etc.).
+ΓùªAbility to place boot loader on external medium and to authenticate using the 
+ key medium.
+ΓùªSupport for key files.
+ΓùªSupport for hotkeys to dismount partitions, initiate emergency system stop, 
+ etc.
+
+ 
+http://www.hiren.info

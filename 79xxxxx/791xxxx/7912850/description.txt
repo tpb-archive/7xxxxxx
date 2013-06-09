@@ -1,0 +1,37 @@
+Cisco IOS-On-UNIX is a fully working version of Cisco IOS that runs as a user mode Linux process. IOU supports all Cisco IOS platform independent protocols and features. IOU allows you to build out a network topology on a single PC without the need for physical routers. This is useful for validating network designs, proof-of-concept testing, and certification self-study.
+
+This is the Linux-based version, this application run only in Linux. If you are a MS Windows user, you can install a Linux operating system in a dual boot scheme or in a virtual machine such VirtualBox or Vmware Workstation.
+
+This torrent contains these files:
+
+* i86bi_linux-adventerprisek9-ms.152-2-2.3T.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-ADVENTERPRISEK9-M), Version 15.2(2.3)T
+
+* i86bi_linux-ipbase-ms-12.4.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-IPBASE-M), Experimental Version 12.4(20090407:185408)
+
+* i86bi_linuxl2-upk9-ms-12.2.bin
+Cisco IOS Software, Linux Software (LINUXL2-UPK9-M), Experimental Version 12.2(20100802:165548)
+
+* i86bi_linuxl2-upk9-ms-15.0.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX_L2-UPK9-M), Experimental Version 15.0(20120621:060510)
+
+* i86bi_linux-p-ms-15.0.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-P-M), Experimental Version 15.0(20120621:202753)
+
+* i86bi_linux-tpgen-ipbase-ms-12.4.bin
+Cisco IOS Software, Linux Software (I86BI_LINUX-TPGEN+IPBASE-M), Experimental Version 12.4(20090714:160619)
+
+* iou2net.pl v0.5, 20-Sep-2011 (for connect the virtual routers to the real world).
+
+* keygen for all IOU files (to generate the license file).
+
+* wrapper v1.1 (to use with a remote console or screen).
+
+Here are some tutorials. Please, pay special attention to the chapter of Cisco IOU Error Messages.
+ 
+http://evilrouters.net/2011/01/18/cisco-iou-faq/ 
+http://evilrouters.net/2011/01/21/example-cisco-iou-topology/ 
+http://freeccnalabs.com/resources/topology/
+
+Enjoy!

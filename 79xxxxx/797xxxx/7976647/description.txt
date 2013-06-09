@@ -1,0 +1,37 @@
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 16 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 21mn 2s
+Nominal bit rate               : 272 Kbps
+Width                          : 512 pixels
+Height                         : 384 pixels
+Display aspect ratio           : 4:3
+Frame rate mode                : Constant
+Frame rate                     : 29.970 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.046
+Writing library                : x264 core 104 r1675 2484aa0
+
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : HE-AACv2 / HE-AAC / LC
+Codec ID                       : A_AAC
+Duration                       : 21mn 2s
+Channel(s)                     : 2 channels / 1 channel / 1 channel
+Channel positions              : Front: L R / Front: C / Front: C
+Sampling rate                  : 44.1 KHz / 44.1 KHz / 22.05 KHz
+Compression mode               : Lossy
+Language                       : English
+Default                        : Yes
+Forced                         : No

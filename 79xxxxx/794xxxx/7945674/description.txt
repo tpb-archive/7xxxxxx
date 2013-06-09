@@ -1,0 +1,31 @@
+VHS rip, 25mins46secs
+
+Casey Jones 16 Dec 1957 Run To Deadwood
+ 
+http://www.imdb.com/title/tt0536994/
+
+[08:25:38] starting job
+[08:25:38] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[08:25:38] job configuration:
+[08:25:38]  * source
+[08:25:38]    + C:Run To Deadwood.mpg
+[08:25:38]    + title 1, chapter(s) 1 to 1
+[08:25:38]  * destination
+[08:25:38]    + C:Run To Deadwood.mkv
+[08:25:38]    + container: Matroska (.mkv)
+[08:25:38]  * video track
+[08:25:38]    + decoder: mpeg2
+[08:25:38]      + bitrate 8000 kbps
+[08:25:38]    + frame rate: same as source (around 23.976 fps)
+[08:25:38]    + strict anamorphic
+[08:25:38]      + storage dimensions: 720 * 480 -> 706 * 474, crop 0/6/0/14
+[08:25:38]      + pixel aspect ratio: 8 / 9
+[08:25:38]      + display dimensions: 627 * 474
+[08:25:38]    + encoder: x264
+[08:25:38]      + options: ref=2:bframes=2:me=umh
+[08:25:38]      + bitrate: 400 kbps, pass: 2
+[08:25:38]  * audio track 0
+[08:25:38]    + decoder: Unknown (MPEG) (2.0 ch) (track 1, id c0)
+[08:25:38]    + mixdown: Stereo
+[08:25:38]    + encoder: faac
+[08:25:38]      + bitrate: 160 kbps, samplerate: 48000 Hz

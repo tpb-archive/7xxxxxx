@@ -1,0 +1,41 @@
+Alpha 5 (Dec 14th 2012)
+
+This new build has a number of new features ranging from totally new cool stuff to some pretty massive improvements to existing tools. We have new ΓÇ£Staff OnlyΓÇ¥ zones, which Prisoners are not permitted to enter. We have the first emergency service callout - the Fireman - which means you no longer need to watch your prison burn to the ground without being able to do anything about it. And weΓÇÖve massively improved the Foundations tool so itΓÇÖs much more intuitive and intelligent to use.
+
+
+= Staff Only sectors
+You can now create Staff Only Sectors from the Deployment screen. They will show up Red.
+Inmates will avoid these completely (unless misbehaving)
+
+= You can now call in Firemen to put out your prison fires. Use the new 911 Emergencies menu.
+Firemen are a special controllable unit with its own icons on the right of the screen.
+Firemen will automatically spray nearby fire, or you can press H to aim their hoses manually.
+To dismiss firemen, send them all back to their fire engine.
+
+= The Foundations tool has been much improved. It is now much easier to expand existing buildings,
+and the door/entrance detection is much better at spotting valid entrances to new buildings.
+- You can now cancel foundations by right clicking on them, or right-click-dragging a box around them.
+
+- All construction tools now continue to work correctly even when the game is paused
+
+- There is a new tool in the Materials menu for demolishing walls (indoor and outdoor)
+
+- Localisation improvements:
+All object/material/room/equipment/research names are now included in the language file (english.txt)
+Lots of other hardcoded english has been moved into the language file for easy translation
+
+- You will no longer lose visibility of your indoor areas until your first Prisoners arrive
+
+- Main build toolbar tweeked to scale/layout better on higher resolutions
+
+- The Medical Ward has been renamed to the Infirmary
+
+- Fixed: You sometimes had to wait a very long time for prisoners to arrive when Continuous Intake was disabled
+
+- Fixed: Firing someone who occupies an office now vacates the office
+
+- Fixed: If an Administrator dies his office will now be released
+
+- Fixed: When a prisoner dies or escapes, his cell will now be released for re-use
+
+- Fixed a massive performance bug affecting the Intel HD graphics 4000 chipset	

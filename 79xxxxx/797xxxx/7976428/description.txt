@@ -1,0 +1,79 @@
+This is my own rip.
+
+There is a small logo for 10 seconds every 30 minutes.
+
+General
+Unique ID                        : 233686750008276311546579684383349875599 (0xAFCE6E52651C3E94A352EB28E311238F)
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 2.19 GiB
+Duration                         : 1h 59mn
+Overall bit rate mode            : Variable
+Overall bit rate                 : 2 622 Kbps
+Encoded date                     : UTC 2012-12-31 18:18:49
+Writing application              : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 7 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 59mn
+Bit rate mode                    : Variable
+Bit rate                         : 2 121 Kbps
+Maximum bit rate                 : 9.5 Mbps
+Width                            : 1 280 pixels
+Height                           : 712 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.097
+Stream size                      : 1.77 GiB (81%)
+Writing library                  : x264 core 129 r2230 1cffe9f
+Language                         : English
+Default                          : Yes
+Forced                           : No
+Audio
+ID                               : 2
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : A_AC3
+Duration                         : 1h 59mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Side: L R, LFE
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Compression mode                 : Lossy
+Stream size                      : 383 MiB (17%)
+Language                         : English
+Default                          : Yes
+Forced                           : No
+
+Menu
+00:00:00.000                     : Title/Credits/Intro
+00:13:10.456                     : The Fix Is On
+00:21:05.931                     : The Camel's Back
+00:25:28.110                     : Big Money
+00:34:48.253                     : Gettin' Shoeless Joe
+00:39:31.850                     : Somethin's Fishy
+00:46:19.568                     : Games 1 & 2
+00:58:10.946                     : Raw Deal
+01:05:37.539                     : Games 3 & 4
+01:11:27.325                     : Squelch
+01:19:25.803                     : New Stakes
+01:26:15.212                     : Clean-Up Team
+01:31:55.115                     : "Say It Ain't So"
+01:38:26.317                     : The Trial
+01:47:55.052                     : Final Verdict
+01:52:43.215                     : Gone Now
+01:55:33.510                     : Credits

@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,Hanne70,2012-12-15T04:55Z,"Why does it seems like you have a BIG problem with your sound on many of your AVI/XVID releases???
+
+I'm writing this here, but thats only for this is at this time the latest release...
+
+I was just watching s02e05 of ""Scandal""... and AGAIN, something downloaded of your releases is OUT of sync. WHY does MANY of your releases have this shit???
+
+There is one thing that SUCKS more than MP4... MUCH more... an that is to download twice a episode of a series, because the sound is out of sync
+
+From now on... I will download MP4 instead of an ""MP4SUX/AVIGUY"" release... If there is no other AVI releases... This was the last out of sync I have watched from you..."
+,Hanne70,2012-12-15T05:12Z,"Google seems to say the same...
+
+http://www.google.com/search?q=AVIGUY+out+sync+site%3Athepiratebay.se"
+,cindy25,2012-12-15T07:02Z,"I have not had any problems, and don't understand why converting an MP4 (I convert some myself) would cause it to go out of sync.  
+
+any avi now is converted from either an MP4 or other version. "
+[V],MP4SUX,2012-12-15T09:12Z,"Hanne70: it only SEEMS that way to you as it is truly not so ...
+
+First, this is a funny place to complain about MP4 > AVI sync problems.
+
+See that ""WEB-DL""? They only come in MKV, not MP4 so this doesn't apply here.
+
+For me: 640x360=MKV source, 624x352=MP4 source. I do that on purpose.
+
+Scandal.US.S02E05.All.Roads.Lead.to.Fitz.HDTV.XVID.AVIGUY.avi
+
+is decidedly NOT out of sync. Wasn't when I first encoded it and it still is not.
+
+When something doesn't work right, it's human to lash out - but it seems like the problem is at your end. Go look at the last ... twenty posts of mine that have comments and you'll see no mention of sync issues. I think in my nearly 1000 posts (early I did it anon, so it's more than you'll see credited to me), a complaint like yours has happened maybe half a dozen times and at most were true maybe twice. I could suggest maybe your machine is bogged down (too slow or running to may CPU intensive applications). Here's a funny one that's caught me before - do you run AVI in a different player? If so, check that you didn't set some audio offset a long time ago (easy to do in MPC) and forgot to change it back. Lots of choices, let me help.
+
+Checked out the Google link, most of it's me talking about sync issues that I take very seriously and I see only one complaint about my encodes. There was a last season episode of Leverage that I totally goofed on (and curiously nobody complained about) and a slight 150 ms problem on one ep of Elementary, I think.
+
+cindy25: First, thank you for your support, it means so much more when I have corroboration and you always seem to be there very quickly to my defense. There are a multitude of reasons for sync problems. If you use a certain MP4 muxer, it defaults to 25fps and if you don't correct it, trouble. AVC requires you to set a frame rate and I just discovered the reason behind the odd frame rates I've needed to use with that encoder. It adds frames, about 22 per 23.976fps sitcom, or about one frame per video minute, which doesn't seem like much, but it's a whole second off by the end of the show. So I've had to up it to 23.998 to compensate. This may be a more common problem as I think Handbrake & MeGui may be doing it too. VirtualDub is great for telling you the exact number of frames in an AVI.
+
+AVIGUY"
+[V],MP4SUX,2012-12-16T00:24Z,"Guess what?
+
+An actual comment about the file ...
+
+The WEB-DL versions of Whitney are really cool.
+
+I defy you to figure out (short of looking at other versions)
+Where the commercial breaks used to be.
+And I promise you not one frame of picture was lost cutting out every frame of black.
+The key frames line up perfectly and snip - no more cut to black.
+Just one continuous show.
+
+AVIGUY"

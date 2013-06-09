@@ -1,0 +1,33 @@
+iGO Navteq 2012.Q3 EUROPE map/hnr/fpa/fda/fsp/poi/building
+
+Requires:iGO 8.3 and up / MyWay / Amigo / Primo
+Operating System: Android / Wince / iOS / any OS running iGO software.
+
+Files:
+Directory  content  building:
+* .3 Dl - three-dimensional images of landmarks
+* .3 Dc - three-dimensional images of buildings
+* _petrol.3dl - three-dimensional images of gas stations
+
+Directory  content  POI:
+*. poi - interesting points and "Premium POI" for some countries.
+* _3dlm.poi - Three-dimensional images as a POI (can be selected)
+* _truck.poi - parking garages and more. truck
+* _DKV_rich.poi - Places that take DKV card (http://www.dkv-euroservice.ru/)
+
+Directory  content  histspeed:
+*. hsp - Navteq Traffic Patterns - average data traffic congestion on different days of the week and times of day. Helps in calculating the route to avoid potential bottlenecks. Not to be confused with TMC (he is in real time)!
+
+Directory  content  phoneme:
+*. ph - spoken street names. It takes the work of TTS (unless appropriate voice_TTS)
+
+
+Directory  content  map:
+. HNR - base ready trails (4 types: Quick, Quick, Easy, Economical) for Eastern and Western Europe, which contribute to more rapid calculation of long routes.
+*. FDA - Driver Alerts
+*. FTR - Truck Info
+*. FPA - Point Addressing
+Here are the available files (fda, ftp, fpa):
+*. fbl - Cards
+
+Throughout the description of the character * is the name of the country!

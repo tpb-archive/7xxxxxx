@@ -1,0 +1,11 @@
+ Debug your PHP code efficiently with a variety of client and server-side tools. In this concise course for experienced PHP developers, author Jon Peck demonstrates how to leverage PHP's built-in tools, as well as the Xdebug and Firebug extensions, and FirePHP libraries to improve the quality of your code and reduce troubleshooting overhead.
+
+This course covers installation of Xdebug on Apache as well as working with the NetBeans IDE (integrated development environment). Jon then introduces native web browser developer tools for Firefox and Chrome, and demonstrates browser independent web debugging tools. Best practices for debugging and profiling web application failures and performance issues are also covered.
+Topics include:
+Configuring PHP error reporting
+Logging errors to file
+Gracefully handling fatal errors
+Installing Xdebug
+Understanding the principles of remote debugging
+Remote debugging with NetBeans
+Extending your browser with Firebug, FirePHP, or ChromePHP

@@ -1,0 +1,80 @@
+murphy78 presents Windows 8 Pro x64 Jan2013
+This will most likely be the last Windows 8 Pro x64
+release that fits on a 4.37GiB Single-Layer DVDR
+Future hotfixes will enlarge the setup iso.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added to Windows.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Activate and re-activate with any kms server by typing
+the following commands in admin command prompt:
+SLMGR -SKMS xxxxxxxxxxxxxxxxx.xxx
+SLMGR -ATO
+
+Insert an actual online KMS server there, don't just
+type x's. Search web for online kms servers.
+
+--OR--
+
+Use the KMSNano activation program.
+LaNanov10.zip contains the release by heldigard.
+I have tested this release by running kmsnano.exe
+directly from the zip file. I have included pics.
+Test did not require volume pre-conversion.
+Upgrading from another windows may require conversion.
+Read the enclosed text file included with kmsnano
+for more information
+
+64-bit MSDN Source: en_windows_8_x64_dvd_915440.iso
+This RTM Source is the final Build 9200
+
+Release File:
+Win8Pro-x64-en-US_Jan2013.iso
+CRC32: BA551280
+MD5: 88055357732FA667E23405AD8EAB3CA2
+SHA-1: D5108CA1E52E6EA18FEE0ECD323AB0DC00447EA7
+
+WMC version Hashes:
+CRC32: 75FC8803
+MD5: 7C7C6C3F220967F2AA6004758E1923FA
+SHA-1: 49E504BC0AC434F6B7DFA9BC896FF6C0BA19C54A
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for MSU KB hotfix integration
+oscdimg for ISO mastering
+Added Info folder to installs to make more work for credit thieves.
+
+KB Files added via add-package dism:
+KB2779444, KB2727528, KB2737084, KB2742614, KB2750149,
+KB2751352-v2, KB2753842-v2, KB2756872, KB2757638, KB2758246-v2,
+KB2761094, KB2764462, KB2764870, KB2768703, KB2769034,
+KB2769165, KB2770660, KB2770917, KB2771744, KB2771821,
+KB2777166, KB2777294, KB2778171, KB2778930, KB2779562,
+KB2779768, KB2780342, KB2780523, KB2780541, KB2782419,
+KB2783251, KB2784160, KB2785094, KB2785220, KB2788350,
+KB2790920, KB2792009, KB2796096
+
+KB Files added during setupcomplete.cmd phase:
+KB2758694, KB2761465, KB2771431, KB2772501
+Reboots system to finish applying the monthly IE security
+
+Use the included Advanced Tokens Manager 3.5b3 to backup your
+Activation. Newer versions don't support KMS activation.
+For ProWMC users, you can use whatevever version you used
+when backing up your original activation.
+
+Do NOT attempt to use ProWMC without having a successful activation
+already backed up.  There is currently only one method of activating
+it, and it's phone method and data.dat slmgr /ipk swaps.
+
+I'm not going to give the details because they will most likely close
+the loophole any day just like they did with the previous swap method.
+If you have my previous wmc fix info, you can figure it out I'm sure.
+
+Enjoy Pirates,
+murphy78-TPB :)

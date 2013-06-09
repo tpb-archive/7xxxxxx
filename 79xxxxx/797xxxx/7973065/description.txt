@@ -1,0 +1,13 @@
+Pra quem ainda não sabe, Open PS2 Loader (abreviação oficial: OPL) é um homebrew Open Source desenvolvido por vários programadores do fórum PSX-Scene. Permite executar jogos de PS2 via USB, HDD/NA/PMCIA e Rede PC-PS2. É compatível com todos os modelos de PS2 e com PS3 com retrocompatibilidade com PS2. 
+
+
+
+Características do Open PS2 Loader O que o OPL é capaz de fazer 
+
+O OPL pode ser definido como um Multi-Loader, pois ele é capaz de carregar jogos a partir da USB, Rede (SMB) e HDD (com NA nos PS2 FAT). Em PS3 retrocompatíveis, é capaz de rodar jogos via Rede e USB. 
+
+- Como loader de USB, ele é bem superior ao antigo USB Advance, com mais compatibilidade e velocidade de carregamento aprimorada, graças ao uso de módulos USB otimizados. Evidentemente que não há milagres nessa área, pois a USB do PS2 é a lenta 1.1. Ainda falando sobre a superioridade do OPL em relação ao USB ADV, no OPL não mais ocorre aqueles bugs em que era necessário desativar fix's de vídeo no modchip Matrix e nem é mais necessário usar ferramentas extras como PS2 Load ou alterar DNAS/IOPRP. A única diferença para os usuários é que precisarão desfragmentar o dispositivo USB para usar no OPL. 
+
+- Como loader HDD/NA, ele se mostra bem superior ao HD Loader. Embora a compatibilidade não seja ainda de 100%, muitos jogos que antes não funcionavam no antigo HDL agora funcionam no OPL. Também, o OPL oferece melhores opções de configurações dos modos DMA, sendo individuais para cada jogo e podendo suas configurações ser salvas no MC. 
+
+- Como loader de Rede (SMB), obviamente não há comparações, pois nenhum outro loader tinha essa habilidade. O recurso permite executar jogos estando armazenados no PC (em formato USB ADV) e transmitidos via rede para o PS2. Possui boa compatibilidade e em termos de velocidade é na maioria das vezes superior à USB e pode em alguns casos se equiparar à velocidade do uso de jogos via Disco.

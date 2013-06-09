@@ -1,0 +1,74 @@
+﻿Filename,Size,Unit
+00. Introduction/00.01. Welcome.mov,5.07,M
+00. Introduction/00.02. What you should know.mov,859.24,K
+00. Introduction/00.03. Using the exercise files.mov,666.76,K
+00. Introduction/00.02. What you should know.srt,1.25,K
+00. Introduction/00.01. Welcome.srt,1.21,K
+00. Introduction/00.03. Using the exercise files.srt,812,B
+01. Getting Started/01.02. Why use a stored procedure.mov,4.59,M
+"01. Getting Started/01.01. Comparing triggers, functions, and procedures.mov",4.24,M
+01. Getting Started/01.03. Why use functions.mov,1.3,M
+01. Getting Started/01.04. Why use triggers.mov,1.04,M
+01. Getting Started/01.02. Why use a stored procedure.srt,7.59,K
+"01. Getting Started/01.01. Comparing triggers, functions, and procedures.srt",4.92,K
+01. Getting Started/01.03. Why use functions.srt,2.11,K
+01. Getting Started/01.04. Why use triggers.srt,1.74,K
+02. Installing SQL Server/02.01. Configuring your environment.mov,8.7,M
+02. Installing SQL Server/02.02. Downloading and installing a sample database.mov,2.61,M
+02. Installing SQL Server/02.01. Configuring your environment.srt,6.31,K
+02. Installing SQL Server/02.02. Downloading and installing a sample database.srt,1.62,K
+03. Stored Procedures/03.06. Using security and permissions.mov,9.1,M
+03. Stored Procedures/03.05. Using input and output parameters.mov,6.96,M
+03. Stored Procedures/03.03. Returning data using data sets.mov,5.09,M
+03. Stored Procedures/03.04. Returning data using cursors.mov,4.8,M
+03. Stored Procedures/03.02. Modifying a stored procedure.mov,3.7,M
+03. Stored Procedures/03.07. Using transactions.mov,3.58,M
+03. Stored Procedures/03.01. Creating a stored procedure.mov,3.19,M
+03. Stored Procedures/03.05. Using input and output parameters.srt,8.43,K
+03. Stored Procedures/03.06. Using security and permissions.srt,8.17,K
+03. Stored Procedures/03.04. Returning data using cursors.srt,5.67,K
+03. Stored Procedures/03.03. Returning data using data sets.srt,5.59,K
+03. Stored Procedures/03.01. Creating a stored procedure.srt,4.47,K
+03. Stored Procedures/03.07. Using transactions.srt,4.31,K
+03. Stored Procedures/03.02. Modifying a stored procedure.srt,3.84,K
+04. User-Defined Functions/04.02. Exploring single-value functions.mov,6.83,M
+04. User-Defined Functions/04.01. Creating a user-defined function.mov,6.4,M
+04. User-Defined Functions/04.03. Exploring table value functions.mov,3.97,M
+04. User-Defined Functions/04.01. Creating a user-defined function.srt,7.09,K
+04. User-Defined Functions/04.02. Exploring single-value functions.srt,5.71,K
+04. User-Defined Functions/04.03. Exploring table value functions.srt,3.71,K
+05. Triggers/05.01. Using after triggers.mov,5.34,M
+05. Triggers/05.02. Using instead of triggers.mov,2.74,M
+05. Triggers/05.04. Using database-level triggers.mov,2.54,M
+05. Triggers/05.03. Using nested triggers.mov,2.02,M
+05. Triggers/05.01. Using after triggers.srt,5.21,K
+05. Triggers/05.02. Using instead of triggers.srt,2.98,K
+05. Triggers/05.04. Using database-level triggers.srt,2.89,K
+05. Triggers/05.03. Using nested triggers.srt,2.36,K
+06. Putting It All Together/06.01. Exploring a real-world INSERT procedure.mov,10.73,M
+06. Putting It All Together/06.03. Implementing logging on DELETE.mov,6.21,M
+06. Putting It All Together/06.02. Exploring a real-world UPDATE procedure.mov,4.72,M
+06. Putting It All Together/06.01. Exploring a real-world INSERT procedure.srt,8.68,K
+06. Putting It All Together/06.03. Implementing logging on DELETE.srt,6.05,K
+06. Putting It All Together/06.02. Exploring a real-world UPDATE procedure.srt,4.91,K
+07. Using CLR Assemblies/07.03. Writing stored procedures with C# .NET.mov,9.4,M
+07. Using CLR Assemblies/07.04. Writing functions with .NET.mov,7.75,M
+07. Using CLR Assemblies/07.02. Using CLR with SQL Server 2012.mov,5.46,M
+07. Using CLR Assemblies/07.05. Choosing between T-SQL vs. CLR.mov,2.4,M
+07. Using CLR Assemblies/07.01. Understanding the Common Language Runtime (CLR) and the .NET framework.mov,2.4,M
+07. Using CLR Assemblies/07.03. Writing stored procedures with C# .NET.srt,7.23,K
+07. Using CLR Assemblies/07.04. Writing functions with .NET.srt,6.06,K
+07. Using CLR Assemblies/07.02. Using CLR with SQL Server 2012.srt,5.5,K
+07. Using CLR Assemblies/07.05. Choosing between T-SQL vs. CLR.srt,3.89,K
+07. Using CLR Assemblies/07.01. Understanding the Common Language Runtime (CLR) and the .NET framework.srt,2.41,K
+08. Exploring an ASP .NET Web Application/08.03. Passing parameters.mov,7.99,M
+08. Exploring an ASP .NET Web Application/08.01. Creating a basic web form and connecting to a database.mov,5.39,M
+08. Exploring an ASP .NET Web Application/08.02. Executing a stored procedure.mov,4.42,M
+08. Exploring an ASP .NET Web Application/08.04. Getting return values.mov,4.36,M
+08. Exploring an ASP .NET Web Application/08.03. Passing parameters.srt,5.17,K
+08. Exploring an ASP .NET Web Application/08.04. Getting return values.srt,4.3,K
+08. Exploring an ASP .NET Web Application/08.01. Creating a basic web form and connecting to a database.srt,4.27,K
+08. Exploring an ASP .NET Web Application/08.02. Executing a stored procedure.srt,2.99,K
+09. Conclusion/09.01. Next steps.mov,3.73,M
+09. Conclusion/09.01. Next steps.srt,2.74,K
+Exercise Files/Ex_Files_SQL_Server_Trig.zip,803.07,K

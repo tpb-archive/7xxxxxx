@@ -1,0 +1,86 @@
+﻿Filename,Size,Unit
+00. Introduction/00.03. Using the exercise files.mov,4.71,M
+00. Introduction/00.01. Welcome.mov,4.31,M
+00. Introduction/00.02. Understanding what you should know before watching this course.mov,1.64,M
+00. Introduction/00.03. Using the exercise files.srt,4.86,K
+00. Introduction/00.02. Understanding what you should know before watching this course.srt,1.91,K
+00. Introduction/00.01. Welcome.srt,827,B
+01. Getting Started/01.03. Installing Eclipse 4.2 Juno.mov,6.79,M
+01. Getting Started/01.02. Installing Java 7 on OS X.mov,4.47,M
+01. Getting Started/01.01. Installing Java 7 on Windows.mov,2.94,M
+01. Getting Started/01.03. Installing Eclipse 4.2 Juno.srt,6.22,K
+01. Getting Started/01.02. Installing Java 7 on OS X.srt,3.53,K
+01. Getting Started/01.01. Installing Java 7 on Windows.srt,2.46,K
+02. Java 7 New Features/02.04. Using strings in switch statements.mov,6.45,M
+02. Java 7 New Features/02.02. Exploring the simplified use of generics.mov,5.37,M
+02. Java 7 New Features/02.03. Using underscores in numeric literals.mov,4.23,M
+02. Java 7 New Features/02.01. An overview of Java 7 new features.mov,3.33,M
+02. Java 7 New Features/02.04. Using strings in switch statements.srt,6.58,K
+02. Java 7 New Features/02.02. Exploring the simplified use of generics.srt,5.91,K
+02. Java 7 New Features/02.01. An overview of Java 7 new features.srt,4.81,K
+02. Java 7 New Features/02.03. Using underscores in numeric literals.srt,4.68,K
+03. Using Advanced Class Structures/03.06. Creating and using enumeration classes.mov,12.1,M
+03. Using Advanced Class Structures/03.01. Using static initializers.mov,9.39,M
+03. Using Advanced Class Structures/03.03. Using member classes.mov,8.56,M
+03. Using Advanced Class Structures/03.02. Using instance field initializers.mov,7.1,M
+03. Using Advanced Class Structures/03.04. Using local inner classes.mov,4.52,M
+03. Using Advanced Class Structures/03.05. Using anonymous inner classes.mov,4.34,M
+03. Using Advanced Class Structures/03.06. Creating and using enumeration classes.srt,10.68,K
+03. Using Advanced Class Structures/03.01. Using static initializers.srt,9.27,K
+03. Using Advanced Class Structures/03.02. Using instance field initializers.srt,7.1,K
+03. Using Advanced Class Structures/03.03. Using member classes.srt,6.88,K
+03. Using Advanced Class Structures/03.05. Using anonymous inner classes.srt,4.58,K
+03. Using Advanced Class Structures/03.04. Using local inner classes.srt,4.47,K
+04. Using the Reflection API/04.02. Instantiating classes dynamically.mov,12.57,M
+04. Using the Reflection API/04.03. Navigating inheritance trees.mov,7.71,M
+04. Using the Reflection API/04.01. Using the Class class.mov,6.47,M
+04. Using the Reflection API/04.02. Instantiating classes dynamically.srt,10.83,K
+04. Using the Reflection API/04.03. Navigating inheritance trees.srt,6.84,K
+04. Using the Reflection API/04.01. Using the Class class.srt,6.05,K
+05. More of the Collections Framework/05.02. Managing ordered sets with TreeSet.mov,9.73,M
+05. More of the Collections Framework/05.01. Managing unordered sets with HashSet.mov,8.45,M
+05. More of the Collections Framework/05.03. Controlling list order with LinkedList.mov,7.19,M
+05. More of the Collections Framework/05.04. Peeking and polling with queues.mov,5.87,M
+05. More of the Collections Framework/05.02. Managing ordered sets with TreeSet.srt,9.11,K
+05. More of the Collections Framework/05.01. Managing unordered sets with HashSet.srt,6.71,K
+05. More of the Collections Framework/05.03. Controlling list order with LinkedList.srt,6.08,K
+05. More of the Collections Framework/05.04. Peeking and polling with queues.srt,5.14,K
+06. Testing and Advanced Exception Handling/06.01. Exploring test-driven development with the assert keyword.mov,10.46,M
+06. Testing and Advanced Exception Handling/06.04. Defining and throwing a custom exception.mov,9.77,M
+06. Testing and Advanced Exception Handling/06.02. Using the finally keyword.mov,8.9,M
+06. Testing and Advanced Exception Handling/06.03. Using try-with-resources in Java 7.mov,4,M
+06. Testing and Advanced Exception Handling/06.01. Exploring test-driven development with the assert keyword.srt,9.05,K
+06. Testing and Advanced Exception Handling/06.04. Defining and throwing a custom exception.srt,8.43,K
+06. Testing and Advanced Exception Handling/06.02. Using the finally keyword.srt,7.63,K
+06. Testing and Advanced Exception Handling/06.03. Using try-with-resources in Java 7.srt,3.42,K
+07. Managing Files and Directories in Java 7/07.06. Watching a directory for file changes.mov,14.18,M
+07. Managing Files and Directories in Java 7/07.03. Reading and writing text files.mov,13.89,M
+07. Managing Files and Directories in Java 7/07.02. Managing files and directories.mov,13.33,M
+07. Managing Files and Directories in Java 7/07.04. Walking the directory tree.mov,11.15,M
+07. Managing Files and Directories in Java 7/07.05. Finding files.mov,11.01,M
+07. Managing Files and Directories in Java 7/07.01. Using the Path class.mov,10.49,M
+07. Managing Files and Directories in Java 7/07.06. Watching a directory for file changes.srt,12,K
+07. Managing Files and Directories in Java 7/07.03. Reading and writing text files.srt,10.65,K
+07. Managing Files and Directories in Java 7/07.02. Managing files and directories.srt,9.79,K
+07. Managing Files and Directories in Java 7/07.05. Finding files.srt,9.73,K
+07. Managing Files and Directories in Java 7/07.04. Walking the directory tree.srt,9.51,K
+07. Managing Files and Directories in Java 7/07.01. Using the Path class.srt,9.29,K
+08. Working with I and O Streams/08.01. Reading and writing byte streams.mov,9.57,M
+08. Working with I and O Streams/08.04. Scanning tokenized text.mov,6.84,M
+08. Working with I and O Streams/08.03. Using buffered streams.mov,6.5,M
+08. Working with I and O Streams/08.02. Reading and writing character streams.mov,3.73,M
+08. Working with I and O Streams/08.01. Reading and writing byte streams.srt,9.37,K
+08. Working with I and O Streams/08.04. Scanning tokenized text.srt,6.03,K
+08. Working with I and O Streams/08.03. Using buffered streams.srt,4.29,K
+08. Working with I and O Streams/08.02. Reading and writing character streams.srt,3.43,K
+09. Working with Multi-threading/09.01. Extending the Thread class.mov,9.13,M
+09. Working with Multi-threading/09.04. Synchronizing threads.mov,8.82,M
+09. Working with Multi-threading/09.02. Implementing the Runnable interface.mov,5.64,M
+09. Working with Multi-threading/09.03. Interrupting a thread.mov,3.47,M
+09. Working with Multi-threading/09.01. Extending the Thread class.srt,9.56,K
+09. Working with Multi-threading/09.04. Synchronizing threads.srt,8.7,K
+09. Working with Multi-threading/09.02. Implementing the Runnable interface.srt,4.94,K
+09. Working with Multi-threading/09.03. Interrupting a thread.srt,3.36,K
+10. Conclusion/10.01. Where to go from here.mov,712.55,K
+10. Conclusion/10.01. Where to go from here.srt,915,B
+Excercise Files/Ex_Files_Java_Adv_Training.zip,969.56,K

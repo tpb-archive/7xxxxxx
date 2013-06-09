@@ -1,0 +1,22 @@
+HelpDeskSoftware.ru presents The New Versions of The Bat! Professional 5.3.6:
+
+On the Christmas eve our company releases a new The Bat! version with further improvements. We wish you a Merry Christmas and a Happy New Year!
+
+The list of changes in The Bat! Christmas Edition v5.3.6:
+New features
+
+    Mark message as Replied/Forwarded filter action
+    Warning when the IMAP Folder Manager should be used to delete IMAP folders
+
+Fixes
+
+    Folder tree could be not refreshed properly after deletion of an IMAP folder
+    "Out of system resources" error when multiple Folder Maintenance tasks were simultaneously started by the Scheduler
+    IMAP. Deadlock when loading some messages
+    IMAP. Memory leaks have been fixed
+    IMAP. Download preferences were not used for the folder synchronisation
+    IMAP. Deadlock while carrying out the Folder Maintenance
+    (#0000127) If smilies are enabled, some HTML messages could not be rendered properly
+    It wasn't possible to stop the search process
+
+If you would like to use new version with your existing program, then simply replace all files from the TheBat folder in your install TheBat directory and use the new version of the program The Bat! Professional

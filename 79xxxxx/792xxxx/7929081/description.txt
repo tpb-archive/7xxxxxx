@@ -1,0 +1,23 @@
+This is the original Demo ETS4 4.1.2 Full-Setup
+
+You can download a crack for ETS4 (and even this Full-Setup) in the I2P-Network anonymously : 
+http://tracker2.postman.i2p/index.php?view=TPoolDetail&id=524
+
+What is I2P ? 
+http://www.i2p2.de/
+
+
+Quick howto:
+
+*install I2P (http://www.i2p2.de/)
+*open the ports in your router (udp/tcp) until Network is 'OK'
+*adjust bandwidth settings
+*configure proxy 127.0.0.1:4444 in your browser
+*after I2P is 3 min running the proxy is up, then open: http://tracker2.postman.i2p/index.php?view=TPoolDetail&id=524
+*choose what you need, copy 'Magnet Link'
+*open included BT-Client, paste 'Magnet Link'
+*press start and be patient
+*check C:/Users//AppData/Roaming/I2P/i2psnark/ for incoming data
+
+
+-Enjoy

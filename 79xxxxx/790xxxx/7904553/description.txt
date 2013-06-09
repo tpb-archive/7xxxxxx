@@ -1,0 +1,11 @@
+XCom: Enemy Unknown for Mac (Wineskin)
+
+This epic strategy game has been updated to 1.1 and pre-cracked. Also been modded with Warspace Mod 1.5 so choose Classic difficulty or higher when starting a new game.
+
+Installation (Geforce or Intel HD Graphics): Unzip. Move XCom Enemy Unknown.app to Applications folder and open.
+
+ATI Graphics users: This wrapper is optimised for Geforce graphics cards. It may also work okay with Intel HD cards but ATI will have graphics glitches. To fix this I have included another wrapper optimised for ATI Graphics cards. Read below on how to copy the game files to the other wrapper..
+
+Installation (ATI Graphics): Unzip. Right click on the XCom Enemy Unknown.app and select "Show Package Contents". Double click "drive_c" and leave that window open (should show the folders Program Files, users, windows). Now right click on Finder and select "New Finder Window". Navigate to where you downloaded XCom and open the folder "ATI wrapper". Right click on this alternate XCom Enemy Unknown.app and select Show Package Contents then open its drive_c folder. Now drag the "Program Files" folder from the original app to the folder you just opened. Choose Replace files. Once this has finished move the XCom Enemy Unknown.app in the ATI wrapper folder to your Applications folder and open. Please note I cannot and have not tested with an ATI graphics card so if you have any problems with ATI glitches direct them to here: http://portingteam.com/files/file/7568-xcom-enemy-unknown/
+
+Thanks to thanoulas from portingteam.com for creating the wrapper, FLT for the release, Blackalpha for the mod and of course TPB for being the best torrent site on the internet. If you like this torrent please vote it up and SEED.

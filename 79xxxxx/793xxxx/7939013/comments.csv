@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+,arsenbik12,2012-12-22T00:08Z,Thank you!
+,mini890,2012-12-22T00:52Z,Nice Work by uploading this! If you want message me that i am updating the cracked client at every update.
+,BloodravenD,2012-12-22T01:08Z,"Nice upload, will seed for a long time."
+,BloodravenD,2012-12-22T01:19Z,"okay not sure if it's your launcher or just an issue with FTB, but there are no mods installed.  It's just like a 1.4.2 vanilla install...and yes I did pick the mod pack and click launch."
+,cranem258,2012-12-22T17:18Z,"@BloodravenD I really don't know what's happening, probably just a folder organization issue on your PC, there was no problems for me. Try to do a bit of a checking into the installation folders when you launch the pack. And thank you for seeding. :) "
+,BloodravenD,2012-12-22T22:24Z,"If that was the case, then silkoy's 1.1 launcher wouldn't have given me the files."
+,ColdCon,2012-12-23T20:12Z,How to use the update
+,BloodravenD,2012-12-24T02:14Z,"Okay, looks like it was an issue on the FTB servers.  I deleted it and redownloaded and it worked fine. ^_^
+
+@coldcon:  What you should do is use it just like any other jar file.  Either run it by itself, or use a bat file to run it."
+,SoYman,2012-12-25T17:30Z,OP instead of puting -xmx -xms you can just put -d64 and then you can choose the ram usage in the launcher options. you may want to add that :)
+,oatsnhoes,2012-12-26T06:25Z,"Everytime i download the file, i get a FTB1.1.7.jar, which when i open, i get a list of folders and am unable to get the launcher. Can any tell me what im doing wrong?"
+,FEarBG,2012-12-26T14:18Z,"I have a similar torrent with the older version of FTB and I was thinking : 
+
+Is someone noticed that after starting the launcher for first time he uses the root directory to download the package. However, if you delete everything and re-download the launcher the next time you run it regardless of where he still remembers that initial directory until you change it. My question is where he saves this option ? I was looking in the registry (regedit) but did not find anything. Anyone have an answer to this ?"
+,BloodravenD,2012-12-26T19:14Z,"@Oatsnhoes
+
+You have to either right click and run with java binary thing, or you can make a bat file to run that specific jar file. I use a bat because it's easier.  Just create a text document in notepad, and do like cranem258 put in the description the ""java -cp -Xmx6144m -Xms3000m -jar FTB1.1.7.jar""  But the xmx is the amount of ram it uses, and xms is the max heap size.  You can actually leave those out, and even the -cp part and just put ""java -jar FTB1.1.7.jar"" and then save it as whatever name.bat...if you do that make sure to have it in the same folder with the jarfile."
+,oatsnhoes,2012-12-27T02:17Z,"@BloodravenD
+
+Ive attempted to do that, but i havent gotten it to work. If its no trouble, can you be more specific?"
+,BloodravenD,2012-12-27T16:43Z,"Not sure how I could get more specific than that, is it creating a .bat file that's the problem for you?  If it's not working, you need to make sure when you click to save as, make sure all file types is shown, and just save as like ""run.bat"" or ""start.bat""  Also if you have java, which I assume you do if you are playing minecraft, then you should be able to right click the ftb1.1.7.jar file and choose to run as java binary thing.  I'm not 100% sure what it's called because I use .bat files to run .jar files."
+,oatsnhoes,2012-12-28T00:59Z,"@BloodravenD
+
+I had an older version of java, so i downloaded the newest version and got it to work! Thanks!"
+,arsenbik12,2013-01-01T06:43Z,Already there is a new version
+,BloodravenD,2013-01-02T03:50Z,There is a new launcher version...that has nothing to do with new packs coming out.
+,oerwin,2013-01-03T09:24Z,thx :) it works great! updating the cracked launcher would be nice...
+,batman79,2013-01-03T17:22Z,I crash trying to use this with the Mindcrack pack and 1.4.6. Anyone else getting this or get it to work?
+,batman79,2013-01-05T00:14Z,"Alright got it to work. Had to disable chicken chunks. Now i have Optifine and some shaders installed with the Mindcrack pack, works alright, some crashed if i set view distance too far. Overall solid beta quality, to be expected from community driven software like this. "
+,batman79,2013-01-09T22:36Z,This is 3 versions behind now

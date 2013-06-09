@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,ofpirate,2013-01-07T04:08Z,stuck at 98.9%
+,mrmagoo25,2013-01-07T07:09Z,"Yes, we are all stuck at 99.8%"
+,watnoto,2013-01-08T01:04Z,"Thank you for the uploads.
+Please re-upload & re-seed for part-6, part-7 and part-8, to fix the problem 99.8%."
+,forthewine,2013-01-09T10:48Z,"anyone that could elaborate on why is this 99% happening and provide us with any workaround maybe? 
+
+thanks for the uploads sys"
+,watnoto,2013-01-09T14:47Z,"I have several times found the same stucking problem on other uploader's torrents.
+I don't know why it's happened, but I saw that they solve the problem this way: 
+--Downloaders already had folder containing files (99.8%) from this stucked torrent. Say it as ""FOLDER A"". 
+--Uploader did re-upload new torrent in different title (with exactly the same content) to TPB & re-seed the new torrent. (Then delete this stucked torrent from TPB) 
+--Downloaders got the new torrent in their client (uTorrent, BitTorrent, etcs..), let the client did download for 1 or 2 minutes, so that client created, and we had new folder (let's say it as ""FOLDER B""). 
+--Stopped downloading in the client. 
+--Copied (& replaced) all files from ""FOLDER A"" into ""FOLDER B"". 
+--In the torrent client, did mouse's ""right click"" to show pop-up menu, then run ""Force Re-Check"".
+--Start the torrent again in the client. 
+This way, the same new torrent's folder will have the same files and sizes = 99.8% as the old torrent's folder, and downloaders will only need to download the rest 0.2% pieces.
+CMIIW....
+(or let uploader to just contact TPB crew on how to solve the problem..  thepiratebay.se/contact) 
+thanks..........."
+,forthewine,2013-01-10T18:48Z,"the -reloaded- part 6 of the series worked just fine, thank you.
+
+if we could please have the workaround so we can pass it on to similar cases, it would be much appreciated."

@@ -1,0 +1,20 @@
+Originally posted: 
+http://www.mpgh.net/forum/335-minecraft-hacks/563924-feed-beast-cracked-launcher-1-1-7-updated.html
+
+Originally Cracked by: greg0ree.txt
+
+"Feed the Beast is a modpack for the game Minecraft. It adds a huge number of items, recipes and world-generation to the game, and is used in the YouTube series "Feed the Beast." The modpack centers on several famous mods such as IndustrialCraft and BuildCraft but the full list is extensive. All of the mods in the pack have been approved by the modders to be included." -'FTB Wiki'
+
+(New Version 1.1.7)
+
+-HELP-
+
+If you can't start the app with 64x (More than 1GB Ram available) try making an text file with the following:
+
+java -cp -Xmx6144M -Xms3000M -jar FTB1.1.7.jar
+
+The numbers after Xmx and Xms are the available Ram, try to make them suitable for your PC, THE XMS NEED TO BE almost THE HALF OF THE XMX.
+
+Save the file as .bat and run it. :)
+
+That's it folks!

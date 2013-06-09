@@ -1,0 +1,34 @@
+ .S_sSSs           sdSSSSSSSbs         .S_sSSs    
+.SS~YS%%b          YSSSSSSSS%S        .SS~YS%%b   
+S%S   `S%b                 S%S        S%S   `S%b  
+S%S    S%S                S&S         S%S    S%S  
+S%S    S&S               S&S          S%S    d*S  
+S&S    S&S              S&S           S&S   .S*S  
+S&S    S&S             S&S            S&S_sdSSS   
+S&S    S&S            S*S             S&S~YSY%b   
+S*S    S*S           S*S              S*S   `S%b  
+S*S    S*S         .s*S               S*S    S%S  
+S*S    S*S         sY*SSSSSSSP        S*S    S&S  
+S*S    SSS        sY*SSSSSSSSP        S*S    SSS  
+SP                                    SP          
+Y                                     Y           
+
+MediaPlayer Classic - Home Cinema v1.6.5.6366
+
+MPC-HC is an extremely light-weight media player for Windows. The player supports all common video and audio file formats available for playback.
+
+Highlights of this release:
+Some long standing issues for the Internal Subtitle Renderer/VSFilter have been fixed:
+Support UTF-8 subtitles without BOM
+Fix high memory usage with complex subtitles (mostly ASS)
+Fix most cases where subtitles are not correctly positioned
+Allow floating-point values for fscx and fscy in ASS subtitles
+Windows 8 is now officially supported and the file association problem has been solved. Windows 8 users should click the ΓÇ£Set Default ProgramsΓÇ¥ button after selecting new formats.
+The DVB support has been improved with a better handling of DVB subtitles and a clearer display of the Electronic Program Guide(EPG) information when using live capture.
+
+
+Enjoyyy!
+
+Seed and Keep Torrents Alive
+
+Safety & Peace

@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,pdhawk,2012-12-08T22:46Z,Is this fix for multiplay & coop?
+,Durifon,2012-12-10T09:43Z,Doesn't work for me!
+,xero11213,2012-12-10T23:23Z,I followed all instructions perfectly and it didn't fix it for me. That's a damn shame.
+,Durifon,2012-12-11T13:52Z,let's download the extremzone one!
+,VÃ­vek,2012-12-11T20:08Z,not working waist of time..
+,JaisJose,2012-12-12T07:58Z,"Where Is This Program data,orbit ,46 and all?"
+,tflagger997,2012-12-13T20:38Z,So R.A.M.O. how about you actually test these before claiming they work?
+,DontHackMeBro,2012-12-14T22:30Z,Works perfectly for me. Thanks so much!
+,Gaurav2107,2012-12-17T05:54Z,"For those who cant save their progress try this:
+Go to your installation folder-C:Program FilesFarCry 3bin and locate orbit_api file.Open it and change the GameId=46 to GameId=48.Save it and run the game as administrator always."
+,R.A.M.O,2012-12-22T17:48Z,"For Those Who Are Having Saving Issues.....!!!
+
+1. First backup the save files located in ""46"" folder in C:program dataorbit (i.e) [3 files] located in the 46 folder.
+
+2.Now change the folder name from 46 to 48.
+
+3.Now copy the backup and overwrite the original in 48 folder.
+
+4.Now run the game as admin.(Some people might notice the ""LOAD GAME "" option is now available with your last save).
+
+5.If ""LOAD GAME"" is not available, Quit the Game.Now, Repeat the "" Step No.3 "".
+
+6.Now, Restart your PC.
+
+7.Now,Run the game as ""ADMIN"" and ""YOUR SAVE IS BACK"".
+
+8.This is not a permanent solution,that means you could the face the problem of "" NOT ABLE TO LOAD THE SAVE GAME "" anytime.
+
+9.My advice is that whenever you quit the game after reaching some level in the game , backup the save file by doing the "" STEP NO:1 "" [Hereafter the folder name is 48].
+
+Believe me guys i've played the game about 20 hrs at one point of time i lost my save and now
+i'm about to complete the game.I've installed blackbox version.
+
+ALWAYS REMEMBER : 
+1.Backup your save file after quitting the game.
+2.If you can load your last save,that means no problem.
+3.If you're unable to load the last save.
+4.Do the "" STEP NO:3 ""
+5.Restart your pc
+6.Now play the game from where you left........!!!
+
+PEACE OUT..............!    "
+,stoneyyay,2012-12-23T20:51Z,"Works Great thanx R.A.M.O
+for ppl that cant get it working, this is what I did
+
+install game, copied orbit_api to bin, launched game worked (folder 46 isnt generated til the game is launched. if you copy orbit_api BEFORE you launch the game, the folder generated will be titled 48.
+
+right click farcry DX11 or whatever version u use, go to properties, compatability, run as administrator. apply exit launch, and ur good"
+,VÃ­vek,2012-12-24T12:54Z,not working for me at all.

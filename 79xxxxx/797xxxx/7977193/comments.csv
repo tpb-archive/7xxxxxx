@@ -1,0 +1,74 @@
+﻿User Type,Username,Date,Text
+[V],2010kaiser,2013-01-01T10:37Z,"The addition of the ""branding"" on this Windows 7 torrent would not have been possible without the expertize in modifying the original $OEM$:
+
+                                                            searchenginne
+
+Regards and  respect :-)"
+,extracube,2013-01-01T15:19Z,"Thanks for this.  I'm glad to see there are some who are enthusiastic about 7.  I use 7 but am looking for a different copy so this is right on time.  So far I basically refuse to go 8 until people start reporting that validation is 100%.  Likewise, I like my start button so 7 it is for the foreseeable future for me."
+,tomas_vartofta,2013-01-01T19:55Z,Tackar!!
+[V],2010kaiser,2013-01-01T20:19Z,Din V채lkomna!
+,blake1983,2013-01-02T08:50Z,"awesome, thanks kaiser!!"
+[V],2010kaiser,2013-01-02T09:43Z,"@blake1983
+
+Your welcome :-)"
+,westcoastst,2013-01-03T04:01Z,Hey Kaiser. I've noticed alot of the Windows 7 uploads on here have activation issues.  Is this one solid ?  Thx ; )
+[V],2010kaiser,2013-01-03T09:41Z,"@westcoastst
+
+This one works just fine. The loader does the activation as part of the installation on this one. No need to run a loader post activation.
+When you install your desired edition of windows from the torrent, you'll see the loader doing the activation right at the last stage of the install. 
+Those who have issues with activation can just download the loader from the link below after the installation and run it or ""re-arm"" the installation.
+
+http://thepiratebay.se/torrent/7968119/DAZ_Loader_v2.1.9_-_2010kaiser"
+,cmusic7,2013-01-04T04:30Z,"im having trouble with it, hope you can help, ive got it on a bootable usb already and configured my laptop running xp to boot it, im at the select driver to install windows 7, what am i suppose to pick here? i tried simply choosing the flashdrive containing all the files but it says no device driver found, any ideas?"
+,draven68_uk,2013-01-04T08:00Z,how do i write this to a usb stick and make it bootable
+[V],2010kaiser,2013-01-04T09:47Z,"Download and use the software below to do it. 
+
+http://www.joshcellsoftwares.com/2012/06/WinUSBMaker.html"
+,draven68_uk,2013-01-04T17:08Z,"thanx for that 2010 KAISER ,i will let you know how i got on soon asl"
+,d69fbx,2013-01-04T19:33Z,Windows updates included? Thx
+[V],2010kaiser,2013-01-05T14:47Z,"@d69fbx
+
+Yes. Just update as you would normally."
+,boyaccent,2013-01-06T02:07Z,"Okay, so I must be doing something wrong. 
+
+1. I downloaded the ISO torrent. 
+
+2. Burnt it on the disc using CyberLink
+
+WITHOUT EXTRACTING the ISO files.
+
+Seletected the ISO file from my hard drive. 
+
+Selected Burn Settings: UDF2.0, Data DVD
+
+3. Burn Finished
+
+4. Restarted the PC with BIOS setup and chose my DVD drive as Boot Option# 1. 
+
+f10 save & exit. 
+
+5 PC Automatically restarts and I get a boot error saying: Unreadable from device. Please insert disc or boot device.....and I hit the wall there. 
+
+Please let me know where I went wrong. Thanks a lot!
+"
+,akumod77,2013-01-06T04:18Z,"@2010kaiser
+
+is this iso updated to the latest windows updates? or i need to use windows update all over again which a bummer ....
+
+ how about IE is it 8, 9 or 10? 
+
+anyway TYVM"
+,draven68_uk,2013-01-08T01:37Z,"winusbmaker program worked perfect windows 7 up and running perfectly ,much appreciated."
+,gussrtk,2013-01-08T04:43Z,"I am having trouble with this version. 
+
+Trying to install on a clean system. 
+
+about 3 out of 4 times the Logo screen freezes, when I get to the Set up screen, it asks me for language, that's fine, click next, then I click INSTALL and it says missing files. I am using a Bootable USB loaded through powerISO. Should I try to Reload it and retry?"
+[V],2010kaiser,2013-01-08T18:01Z,"@gussrtk
+
+I've had experience of making a bootable USB with PowerISO and when i load the Windows 7 files onto the USB through PowerISO and then go to install.
+I find out that PowerISO has completely skipped writing the ""install.wim"" to the USB.
+
+Use Win USB Maker from Josh Cell software to transfer the .ISO to a USB which is bootable and you should be fine. Link below:
+
+http://www.joshcellsoftwares.com/2012/06/WinUSBMaker.html"

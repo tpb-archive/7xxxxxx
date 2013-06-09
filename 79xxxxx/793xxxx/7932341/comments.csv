@@ -1,0 +1,55 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2012-12-17T14:24Z,"This one really does use the retail version as a source this time.
+It has the missing pack of KB files.
+I used this version so people could try my WMC workaround if they want. Note that you use it at your own risk. There's no murphy78 customer service Indian guy named Steve to help you.
+
+I don't mean that I or our fellow people won't try to help, but we cannot force it to work. It either works or it doesn't. Do not upgrade to WMC if you are attached to your data."
+,Sonic_27,2012-12-17T14:32Z,"murphy78, can you PLEASE upload Windows 8 x64-x86 WMC in English with .Net and all updates until today? Would really really appreciate it! Thanks "
+[T],murphy78,2012-12-17T15:59Z,"sonic, I'll sleep on it.  If I do, it will have all sorts of ""Install this sh** at your own risk"" pasted all over it.  People still haven't cracked retail activations and that wmc free upgrade key fix I posted is literally the only known method of activating a retail edition short of converting it to volume like this.
+
+I guess I understand that people may have saved permanent activations that might want newer prowmc versions...
+
+I'll sleep on it and potentially work one out for the fanboys."
+,Sonic_27,2012-12-17T17:07Z,ok murphy78. Thanks my friend!
+,ElDiabloAndal1123,2012-12-18T02:42Z,"Yo Murph, could ya please, please, please, outta the goodness of your heart, spponfeed me through this whole upgrading thing? I'm using Windows 7 Home Basic x64, and I really dunno how to do this upgrade stuff. Wait, scratch that, how to do YOUR upgrade stuff. I've only ever done the ""legit"" upgrade from Vista to 7 and I lost all my programs.
+So, you gonna? I know oyu're an uber-busy bloke, so...anything. Arigato."
+[T],murphy78,2012-12-18T03:26Z,"eldiablo, right click the iso and burn it to a dvdr. Then put the dvd back in the drive and the autoplay should load the setup.
+
+It gives you options of how much you want to keep.  Example: Keep system files, Keep nothing, etc.
+
+I actually recommend doing a fresh install from boot, but I know that's not an option for most people.
+
+Once you get your system upgraded, go back and read these instructions again and see if you can get it activated with the kms activator or the online kms activation.
+
+If you have any questions, I'm sure I or our fellow pirates can point you in the right direction."
+,ElDiabloAndal1123,2012-12-18T05:10Z,"Gracias, Murph! Really! Thanks! Bow like Schwarzenegger said to Connor, ""I'll be back!"""
+,ElDiabloAndal1123,2012-12-18T05:19Z,Gracias mate! Much appreciated!
+[T],murphy78,2012-12-18T10:43Z,You are welcome friend
+,moontykreem,2012-12-18T12:15Z,plz seeeeeeeed all >>>>>>>>
+,moontykreem,2012-12-18T12:16Z,"my 
+dwn 4Kb
+Upload 400Kb
+ ::@:@:@:@:@:"
+[T],murphy78,2012-12-19T11:27Z,"I'm going to work on a bunch of non-English versions for Christmas.  I don't want to do multi5 etc releases though. I want to use original sources. I have original msdn rtm versions for more than half of the languages out there.  I plan on making what is called xdelta patch files in a big pack with the xdelta ui program and all of the different languages in xdelta patch format.
+
+You will need the iso from this release if you want to get your language version."
+,ElDiabloAndal1123,2012-12-22T13:27Z,"Hey Murph! Just asking, do I need any key to install it?"
+,ElDiabloAndal1123,2012-12-23T08:49Z,"So Murph, I've done the upgrade. Also ran the KMSNano activator. Now do I run it every 180 days, or...?
+And then there's that stuff on the lower right of my desktop ""Windows 8 Pro Build 9200"". How do I get it to go away?"
+[T],murphy78,2012-12-23T08:58Z,you shouldn't need one to install. Volume versions don't ask for them because they use a default key for all activation.
+[T],murphy78,2012-12-23T09:00Z,"eldiablo, as far as the watermark, you need to read the description. For this version of windows, because it is not volume by default, you have to run the convert_windows_retail2vl.cmd
+
+The file is inside kmsnano.exe That file is a self-extracting archive, so you can extract them using like 7z or winrar by rightclicking on them and selecting some sort of extract option."
+,ElDiabloAndal1123,2012-12-23T11:03Z,"Murph, I've tried what you said, but it's still there."
+,ElDiabloAndal1123,2012-12-23T11:05Z,"Tried it, still there"
+,ElDiabloAndal1123,2012-12-23T12:46Z,"Don't worry mate, it's activated! YAY! MUCHAS GRACIAS! DOMO ARIGATO!
+But wait, do I need so run the KMSNano again after 180 days?"
+[T],murphy78,2012-12-24T11:15Z,"yes diablo, all kms activations are 180 days. It's just the way MS handles volume activations.  I'm sure someone will probably come up with working activation bypasses before then, though."
+[T],murphy78,2012-12-24T11:16Z,"cancel on the xdelta patches of this to other languages.  The patch files I was creating were too large to bother.  I will just release them in like 6 or 7 packs.  The prowmc flip versions only seem to have a 300meg patch, so I may release some in xdelta version for the people who have prowmc activations saved with tokens manager."
+,RoogeRidge,2012-12-26T19:05Z,"hi murphy, i downloaded the pro wmc free mode but the activation did not work for me, so i will try win 8 pro, i do not want wmc... i just wanted to know what is the difference between this version of pro and the pro VL, the one that you uploaded before this one... thank you!"
+,Prof_Oak,2012-12-29T11:46Z,"Hi murphy78. I'm getting an error while trying to install this version. I'm getting a ""Windows could not load images for this installation"" or something like that. I've tried in 2 different PCs, a laptop and in a brand new PC. This error appear if I install from a USB pen or burning a DVD. I don't see any other comments regarding this, can you help, please? Thanks"
+,OnionRex,2013-01-04T03:33Z,"Murphy, I know you like to use the DISM commands to slipstream your languages/MS updates.
+
+I came across Win8reducer that does the same thing + a handful of cool features..you might like it.
+
+http://www.winreducer.net/"

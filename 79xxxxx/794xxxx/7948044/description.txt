@@ -1,0 +1,69 @@
+Toontrack Superior Drummer v2.3.1
+
+
+Superior Drummer 2 "The New York Studio Legacy Series" is a complete overhaul of the original dfh Superior engine but Toontrack have made painstakingly sure to lose nothing of the sound quality, attention to detail and musicality that has made the Toontrack Music drum sampler line what it is.
+
+
+
+New:
+
+-ability to access producer preset sounds as X-drums (requires suitable S20 Pack).
+-authorizing the program and expansions online is now possible without having to use -an internet browser to access the Toontrack website.
+
+
+
+Fixed:
+
+-improved syncing to the host timeline in Pro Tools.
+-improved syncing in various hosts that may communicate transport info in an unusual manner.
+-improved support of legacy Superior libraries (standardised default routing and some other aspects).
+-improved 'auto' assignment scheme of microphones when creating X-drums.
+-using 'unlimited' layer limits could cause a crash when there were an unusually high number of samples in the layer.
+-changing a X-drum 'position' selection repeatedly during loading of the sounds of the previous selection should no longer lead to a crash.
+-editing multiple channels bleed setting at once when a X-mic channel was part of the selection should no longer lead to a crash.
+-setting an invalid path to a legacy library (or the first SDX alphabetically) should no longer lead to a crash on creating a new X-drum.
+-fixed a rare odd crash occurrence during sound loading that has been present since early versions of Superior 1.
+-fixed a bug that caused voices with a negative Offset to start up a buffer size early.
+-fixed a memory leak in the mapping tab.
+-when a preset can not be saved to disk due to permission issues a simple pop-up will now warn the user that their preset wasn't saved.
+-articulations without a beater or stick type associated to them, for example hihat pedal, should now work in the preview page.
+-X-drums without a tool matching one available for the main kit can now be previewed.
+EZX-s and SDX-s that seems to be non functional (left over from incomplete uninstall process) no longer appear as valid Sound library selections.
+-the mic allocation page now displays mics that only have a Close 'right channel' like the other Close mics.
+-the bounce name of X-mics must now be unique. This should fix the problem whereas some X-mics didn't bounce (earlier bounce files would be overwritten).
+-Changing volume of both the Crash Articulation and the Mute Tails articulations should no longer affect the quality of the mutes.
+-using the envelope to fade the 'tails' of muted cymbals now works more reliably.
+resetting the pitch section should now redraw the pitch value correctly.
+-authorization should now be more resilient to hardware changes, particularly when removable LAN cards are used.
+
+
+System requirements
+
+Windows XP SP3 or newer, 2 GHz Pentium 4 or Athlon processor with 1 GB RAM (multi-core CPU with 2 GB RAM or more recommended)
+
+
+
+INSTALLATION:
+
+
+ΓÇó Uninstall previous versions.
+
+ΓÇó You need WinRAR to extract the rar's files.
+
+ΓÇó Burn or mount the image.
+
+ΓÇó Run the *.msi official installer.
+
+Quote:
+UNLOCKED NOTE :
+
+No activations are needed for the expansions.
+
+
+
+ΓÇó That's it! Done.
+
+ΓÇó Supp0rt th3 D3v3lop3r if you liK3 it.
+
+
+3Nj0Y!!!

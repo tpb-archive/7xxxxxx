@@ -1,0 +1,43 @@
+﻿User Type,Username,Date,Text
+,ucomp,2012-12-24T04:35Z,"Well, I'm seeding this - not showing up, however..."
+,GObonzo,2012-12-24T07:01Z,link to screenshots or homepage?
+,OmniNegro,2012-12-24T12:19Z,"WTF happened to the other one? And why is this one broken into 40 parts when the first was one single archive? You have your reasons, care to share what they are?
+
+Something sounds wrong about this. TPB never removes a torrent that is labeled correctly. Period. 
+
+If this is unchanged but recompressed, please tell me the exact setting you used to rearchive it. I will do that with my copy of the original and seed. This will negate my suspicions as it will fail a hash check if any file is changed."
+,CMS93,2012-12-24T13:08Z,I'd like to see some screenshots as well. Don't know if it will look better than my actual mod config.
+,ucomp,2012-12-24T15:47Z,"@OmniNegro - I don't know what happened to the other torrent. It just disappeared. Attemping to access it results in 404 errors. Google Cache works on it for now, but I don't know for how long.
+
+The reason why I split this up into 40 parts is simply because I originally uploaded this torrent to a private tracker (Bitgamer, if you are curious) - that site in particular encourages something called ""partial seeding"", which basically means grabbing a few parts of a multi-part archive around when the torrent is getting started, and this gives you massive boosts to your ratio on that site. That reason is simply why I did that. Thankfully, it's easy to convert it back into a single archive - extract somewhere, and then compress again.
+
+I didn't change the file structure of the contents inside the archive any way. All I did was recompress using Ultra compression, and split it into 100 MB chunks. That's just what I did. "
+,ucomp,2012-12-24T15:49Z,"@CMS93 - http://wiki.step-project.com/Skyrim_Realistic_Overhaul
+
+This is where I got the screenshots from - thankfully, the really good STEP project archives links to screenshots on their wiki page."
+,ucomp,2012-12-24T15:50Z,"About screenshots - http://wiki.step-project.com/Skyrim_Realistic_Overhaul
+
+Thankfully, the really good STEP project archives links to screenshots on their wiki mod pages. "
+,ucomp,2012-12-24T15:53Z,"@OmniNegro - I don't know what happened to the other torrent. It just disappeared. Attemping to access it results in 404 errors. Google Cache works on it for now, but I don't know for how long.
+
+The reason why I split this up into 40 parts is simply because I originally uploaded this torrent to a private tracker (Bitgamer, if you are curious) - that site in particular encourages something called ""partial seeding"", which basically means grabbing a few parts of a multi-part archive around when the torrent is getting started, and this gives you massive boosts to your ratio on that site. That reason is simply why I did that. Thankfully, it's easy to convert it back into a single archive - extract somewhere, and then compress again.
+
+I didn't change the file structure of the contents inside the archive any way. All I did was recompress using Ultra compression, and split it into 100 MB chunks. That's just what I did."
+,ucomp,2012-12-24T15:54Z,"I'm not used to writing comments on here - they seem to disappear on me - then, once I wait a little while, they appear back again. Sorry for my multiple post barrage."
+,OmniNegro,2012-12-24T22:06Z,"I am trying this now. Using WinRar 3.90 x64 and what it calls ""Best"" compression and 100MB splits. Not using Solid archive or any other options.
+
+I used the same filenames as this torrent used.
+
+However upon archiving it there are now 41 pieces. Clearly it is not the same as your archive. Please advise me what program and settings you used in details if you do not mind."
+,ucomp,2012-12-25T01:41Z,"I am using WinRAR 4.20 64-bit on Windows 7, and I think I compressed using the highest setting (probably Best) and split this file into 100 MB chunks. Don't think I modified the file any other way.  "
+,OmniNegro,2012-12-25T04:32Z,"Then I have no way to duplicate your archive without downloading it again.
+
+Sorry, but I will not waste your bandwidth to share seeding.
+
+To be clear, the archive size is different by more than a hundred megabytes on the same settings. Something is different. It could be that you used solid archive methods rather than the normal. With as many files as this has that can account for a lot. 
+
+But in my experience no two different versions of WinRar produce such different results. (The Rar format would be defunct if two different versions were so radically different.)
+
+Whatever the cause, I am skeptical but I wish you the best. Be well."
+,ucomp,2012-12-25T05:48Z,"I don't really remember how I compressed the torrent that well (I forget about that sort of stuff), so I can't really say anything else about my compression settings. I don't think I used solid archives - but I could be mistaken. Try recompressing it with solid archives turned on - maybe that is the ticket."
+,ucomp,2012-12-31T17:34Z,"Oh, and by the way, this is the full version of the textures - 2048K, to be specific. No access at all to the lite version right now, I'm afraid."

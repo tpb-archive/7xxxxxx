@@ -1,0 +1,15 @@
+Pier Solar (2010) from WaterMelon for Sega Mega Drive/Sega Genesis - full ROM 
++ Mess emulator 
+
+working (tested on win7 64bit), but haven't played/finished it yet 
+
+
+ingame saves are not stored after the emulator restarts 
+and save states alone are not working very well either 
+
+it's best to use the ingame save feature + exit to main manu from the game + use mess save state feature to save your game while in main menu, then after you restart just load your save state from the main menu and then load your ingame save like normal (hope that makes sense) 
+
+there might be a better way how to successfuly save your progress but I haven't played the game yet so I havent messed with it for long 
+
+
++ included is also the beta version of the full rom that is playable on other emulators as well

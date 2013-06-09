@@ -1,0 +1,82 @@
+﻿User Type,Username,Date,Text
+,crwildman,2012-12-21T06:44Z,"The realmlist file you need to edit is located in Data>enUS> then u will see file named ""realmlist.wtf"" this is the file you edit the IP to say 127.0.0.1"
+,trap205,2012-12-21T11:37Z,"thanks for the release
+could u put up a working server emu for Diablo 3??"
+,crwildman,2012-12-21T11:58Z,Go check these guys out.  They are making one but not sure how functional it is yet.  You will have to check it out http://www.ownedcore.com/forums/diablo-3/diablo-3-emulator-servers/
+,alpha43,2012-12-21T14:27Z,thank you very much :) was waiting for this sort of emulator :)
+,vinith1234,2012-12-22T14:32Z,"After 69% of download,it stops downloading plz help"
+,vinith1234,2012-12-22T14:35Z,I tried to download again and this time it stopped at 65%.Waiting for help...
+,vinith1234,2012-12-22T14:39Z,please seed..
+,crwildman,2012-12-23T00:01Z,"I can't host this file by myself. So help me seed when you download at least 1:1.  Everyone hitting and quitting.   I am seeding, so be patient."
+,Yo_oY,2012-12-23T06:40Z,"--> Hello there :)
+
+--> First of all thanks for sharing this :)
+
+--> Second, Can you help me out (o.O) ?
+
+* I downloaded it.. Extracted in C: -> C:335aEmulator_Repack_T1  [in this strucure]
+
+* From the server folder opened MySQL.bat
+
+* Tried to open those exe files from Trinity folder.. But got Dll missing problems.
+So, I downloaded and pasted them at respective locations.
+
+* The exe files finally executed and i got 2 cmd windows with a dash.
+
+* I changed the realmist to set realmlist 127.0.0.1
+
+* Launched Wrath's Wow.exe
+
+* Tried to login with admin and admin.. But i got ""Unable to connect""
+
+* Tried 4 times..But same thing :P
+
+---> So, can anyone Guide me please :)
+Do i need any other software(s)?
+Or i need to follow some other steps ??
+
+Thanks in advance."
+,crwildman,2012-12-23T09:06Z,"@Yo_oY Sounds like your firewall may be blocking it.  Seems you got it running.  Did you run the authserver.exe and worldserver.exe ?  You need to start them as Mysql, then authserver, then worldserver.  Disable ur firewall.  U should be good to go.  It may require Net Framework 4.5 as well.  So after trying those steps, let me know if u got it working."
+,crwildman,2012-12-23T09:17Z,"To make more accounts type in the worldserver.exe window after it is done running.  Type:  ""account create username password""   and change username to what you want, and password to whatever u want.  This will make another account for you to use to login.  Don't type the ""  quotes.  Then to make that new account a GM account.  Type ""account set gmlevel 3 -1""  If you want this account to be a GM.  3 being the Highest lvl of a GM, and -1 means a GM on all Realms.   Enjoy guys.  Let me know if u have any questions."
+,Vanellyna,2012-12-23T10:00Z,"Hi!
+so does not work...."
+,Breaksense,2012-12-23T17:56Z,"I started up the server but it says username/password invalid for admin/admin. :
+
+I don't understand, what's the problem there?"
+,crwildman,2012-12-23T19:17Z," Type: ""account create username password"" and change username to what you want,  
+
+It does work.   You just don't know what your doing or can't read.  I have used it and played a char to level 22.   You type that in the worldserver.exe
+
+Type in google ""Trinity Core forum"" and go read for yourself if you having problems, but running a server isn't for noobs.  This isn't a quick fix, single player.  You have to know how to configure your computer to allow the mysql to run and make sure your ports are open.  
+
+I DONT upload crap.  Only Quality.  I try to help people as much as I can.   Just read the comments.  If you still can't get it working then go to http://www.trinitycore.info/ and don't try to tell me it doesn't work.  There are hundreds of thousands of people using it right now.  If you can't get it working its cuz you don't take the time to read."
+,crwildman,2012-12-23T19:33Z,"Btw I am on Windows 8 x64.  Works perfect.  I had a few missing dll files.  But they all can be downloaded here http://www.dll-files.com  and copy to the folder that has the program that needs them.  Let me know if you get it working.  I was not going to include all the dll files.  You can find the ones you need :) cuz every machine OS will be a bit different.  It does work, don't give up."
+,hardcore187,2012-12-23T20:37Z,"Works perfect!  Thx!  Just read everything above and you will get it working.  
++1"
+,Eddierips,2012-12-25T00:45Z,"everybody listen up!!! this is the problem, the username and password are WRONG!!, the one that works (and lucky me that decided to try this, cause i was having the same problem that everyone here), is:
+
+username: admins
+password: admins
+
+there u can do it! i dont know why crwildman did that mistake, but the server is awesome, so happy playing all alone with the local ip xD i love it! thanks man!"
+,crwildman,2012-12-25T03:35Z,"@Eddierips well thanks for clearing that up.  I had no idea about the typo.  
+
+You can make another account and name it whatever you want.  Type in worldserver window after it loads ""account create username password""
+then you can log in with whatever you want."
+,yuyug,2012-12-27T02:16Z,"Hello. I've followed your instructions to a T and perused the Trinity Core information site you provided for a few hours in an effort to get this to work. However, I have the same issue as Yo_oY, in which I receive an ""Unable to connect"" error. I've verified that my firewall is disabled, and I installed .Net Framework 4.5, yet I still get the error. You mentioned typing something into the worldserver.exe screen, yet I'm unable to, and, as Yo_oY said, all that shows up is the blinking line.
+
+I'm sorry to bring my issue here but there was nothing of help on the Trinity Core site."
+,crwildman,2012-12-27T20:12Z,"@yuyug  : well when the worldserver.exe executes it is like a command window.  You can type in different GM commands in it to execute.  Click the window and start typing , also try to login with username:  admins  password:  admins    If however your world server isn't executing fully then there may be some other incompatibility issue that I don't know about.  This is a TrinityCore Blizzlike repack , so my own advice is to head over to trinity core forums and see if anyone else has this problem, Juding by the rating +10 / -8  means about half the people get it working and about half don't.  I don't know but it works perfectly for me."
+,yuyug,2012-12-27T22:06Z,"@crwildman
+
+Thank you for the reply. Unfortunately, I am simply unable to type in the window, and I have tried admins for both password and username to no avail. I guess I will head over to their forums and see if I can figure it out from there.
+
+Regardless, thanks for the upload, I wouldn't have imagined something like this to exist."
+,mafakkaboy,2012-12-29T17:54Z,"Strange. I cannot get it working in Win 7 x64, but in a new Win 8 it runs without problems. Whenever I try to make it run in Win 7, the authserver.exe and worldserver.exe shows nothing, and I cannot type anything."
+,crwildman,2013-01-02T07:49Z,"Thats weird its working on win 8 but not your windows 7.   Well about only half the people are getting it to work.  Remember to use:
+
+username:  admins
+password:  admins    
+
+It was reported to me that this is this default logins. 
+"

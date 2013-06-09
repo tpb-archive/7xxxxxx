@@ -1,0 +1,34 @@
+This activation patch was made possible because of the information 
+provided by means of Beast_iND's activator/patcher and based on the
+information provided by microbolt.
+
+All thanks therefore go to them.
+
+This patch should only be a temporary solution until Beast_iND
+releases a newer version of his patcher that includes support for
+Quickbooks 2013, I personally still prefer his patcher, as his patcher
+is comprehensive, as it also supports older versions of Quickbooks.
+
+dechronic
+
+Changes since the previous versions:
+
+v0.14 (Working)
+Versions 0.12 and 0.13 are just not working.
+I have just lightened up the code, since the way Windows repairs itself, the program I use to close any open programs should always be present. I therefore took out  the checks for that file, which were causing problems.
+I need to learn a language that can be compiled. 
+
+
+v0.13 (Scrapped)
+Added a bracket so that it actually works again as version 0.12 is broken.
+I should run at least a test on it before releasing it. Very sorry to all who were frustrated with the last version 0.12. 
+I guess I haven't gotten enough sleep yet.
+
+
+v0.12 (Scrapped)
+Changed a couple of lines of code to fix the unnecessary messages that appear at times due to ending parts of the code prematurely.
+Due to completely to a lack of sleep and writing the code going to bed, If I remember correctly. I am sorry about that and I hope this will alleviate any confusion.
+
+
+v0.11
+Added the possibility to automatically close any open Quickbooks or Intuit programs that may interfere with the backing up, replacing and restoring of the patched file, provided a certain Windows program exists.				

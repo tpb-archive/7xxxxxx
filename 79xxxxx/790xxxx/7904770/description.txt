@@ -1,0 +1,50 @@
+My aim is to introduce you to the C# language (and a tiny bit of the .NET Framework), and give you a clear understanding of the fundamentals needed to start writing applications in C#.
+
+I wonΓÇÖt lie; some of the material is easier to grasp if you have some programming background. But I do try to explain things from the standpoint of a complete beginner. So even if you havenΓÇÖt programmed before, I hope youΓÇÖll find my explanations of programming concepts and fundamentals understandable.
+
+All I ask is for a few minutes of your time each day for a month. Ready?
+
+Content:
+Getting Started 31m 32s
+Setting up Your Environment 18m 51s
+Hello, World! in C# 12m 41s
+
+The Basics 1h 16m 20s
+Variables and Primitive Data Types 14m 46s
+Numbers, Arithmetic, Comments, and Value Types 11m 33s
+Strings 19m 18s
+Simple String Manipulation 14m 57s
+Creating Objects 15m 46s
+
+Encapsulating Functionality 53m 38s
+Namespaces, using Statements, and Writing Your First Class 12m 21s
+Constructors, Fields, and Methods 13m 36s
+Properties 12m 27s
+Method Overloading 11m 22s
+Optional Parameters 3m 52s
+
+Adding Intelligence and Data Processing 1h 56m 44s
+Conditions 30m 20s
+Validating Parameters 16m 21s
+Loops 21m 38s
+Arrays 10m 36s
+Arrays as Parameters 13m 9s
+Generic Lists and Dictionaries 24m 40s
+
+Inheriting Functionality and Interfaces 47m 42s
+Inheritance 27m 56s
+Abstract Classes 8m 28s
+Interfaces 11m 18s
+
+More Data Types (And Other Cool Stuff) 1h 15m 52s
+Static Members and Classes 11m 34s
+Extension Methods 5m 17s
+Enums 7m 57s
+Structs and Memory Management 12m 40s
+Delegates 11m 29s
+Functions and Lambda Expressions 11m 34s
+LINQ 15m 21s
+
+Handling Errors and Debugging 35m 11s
+Exception Handling 15m 34s
+Debugging 19m 37s

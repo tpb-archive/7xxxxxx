@@ -1,0 +1,19 @@
+The Fall 2012 release of OmniOS (r151004) a Solaris derived UNIX distribution.
+
+Features:
+ * Illumos Kernel
+ * ZFS fileystsem
+ * DTrace Analytics
+ * KVM Hypervisor
+ * Zones lightweight virtualization
+ * IPS Package Management 
+
+Learn more at: http://omnios.omniti.com/
+
+Source: 
+http://omnios.omniti.com/wiki.php/Installation 
+http://omnios.omniti.com/media/OmniOS_Text_r151004.iso
+
+stable release (omnios-33fdde4):
+md5 (OmniOS_Text_r151004.iso) = 6093aca82f5ce3e363185498ec1304b0
+sha1 (OmniOS_Text_r151004.iso) = ed54e5326be423bf4f36e2ecb1786eb55d7fd26c

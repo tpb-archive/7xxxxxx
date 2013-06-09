@@ -1,0 +1,18 @@
+VMware virtual machine with Gentoo (minimal) x86_64 (built 2012.12.31) installed.
+
+VMware machine settings: 2CPU cores, 2GB RAM, 20GB HDD.
+VMware Player 5.0.1 
+
+Gentoo-minimal was installed from "install-amd64-minimal-20121210.iso" downloaded from http://www.gentoo.org/ . OS was installed in accordance with http://www.gentoo.org/doc/en/handbook/handbook-amd64.xml .
+
+A backup of corresponding version of handbook is attached.
+
+3.6.11 kernel.
+
+There's "putty-gentoo-install.log.7z" inside - one may use it to check, whether this installation fits his needs.
+
+Login:root
+passw:root
+
+
+ABSOLUTELY NO WARRANTY! I'M A GENTOO - NOOB.	

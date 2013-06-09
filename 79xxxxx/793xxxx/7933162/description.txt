@@ -1,0 +1,53 @@
+*******************************************************************************
+                             The Avengers (2012)
+*******************************************************************************
+
+-------------------------------------------------------------------------------
+                              General Information
+-------------------------------------------------------------------------------
+Type.................: Movie
+
+
+
+Video Format.........: H.264 - 10bits - Hi10P
+Resolution...........: 1920 x 1080
+Color................: 10 bit
+Source...............: Other (specify)
+Genre................: Terror
+CD1 Size.............: 1.30 GB
+
+Audio: Portuguese BR | English
+
+Subs: English | French | Spanish | Portuguese | Spanish
+
+-------------------------------------------------------------------------------
+                               Post Information
+-------------------------------------------------------------------------------
+Posted by............: CPTEnc
+Posted to............: CPTEnc
+
+-------------------------------------------------------------------------------
+                                 Release Notes
+-------------------------------------------------------------------------------
+For those unaware, the current encodes contain "only" 8bits per color channel, 
+generating the known 16 Million colors. That's a lot, but looking at each 
+channel separately, we have only 256 shades for each color. In video compression 
+that can cause problems, and the best known of them is the banding.
+
+Basically, Hi10p is a profile of the pattern that uses H264 10 bits of 
+information to represent color. Thus, it is possible to store 1024 colors per 
+channel (against the aforementioned color 8bits 256). This yields a total of at 
++1 billion colors.
+What does this mean? Simply decrease the banding, better colors and smaller 
+sizes (since there is no need to base dithering noise) in YUV video files.
+
+Of course, not every player that can play videos of 10 bit color. We recommend 
+using VLC (VideoLAN) or KMPlayer latest that has native support for 10 bit, or 
+installing codecs to ensure color support 10-bit ...
+
+
+screens:
+ 
+http://i.imgur.com/YEG3C.jpg
+ 
+http://i.imgur.com/12uzo.jpg

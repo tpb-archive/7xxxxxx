@@ -1,0 +1,40 @@
+Movies : Comedy : VHS Rip : English, 80mins
+This is a redo of my torrent to reduce file size, new format mkv.
+
+The Manchu Eagle Murder Caper Mystery - 1975
+
+A satire on the private eye films of the forties. Dark humor.
+
+Manchu Eagle - Maltese Falcon, Manchu Eagle - Maltese Falcon, Manchu Eagle - Maltese Falcon? Coincidence, i think not. The stuff dreams are made of.
+  
+http://www.imdb.com/title/tt0070366/
+
+co-written by Gabriel Dell & Dean Hargrove, Dean Hargrove directs.	
+
+[16:13:06] starting job
+[16:13:06] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[16:13:06] job configuration:
+[16:13:06]  * source
+[16:13:06]    + C:Manchu EagleVIDEO_TS
+[16:13:06]    + title 1, chapter(s) 1 to 7
+[16:13:06]  * destination
+[16:13:06]    + C:Documents and SettingsDead End KidsMy DocumentsManchu Eagle.mkv
+[16:13:06]    + container: Matroska (.mkv)
+[16:13:06]      + chapter markers
+[16:13:06]  * video track
+[16:13:06]    + decoder: mpeg2
+[16:13:06]      + bitrate 7297 kbps
+[16:13:06]    + frame rate: same as source (around 23.976 fps)
+[16:13:06]    + strict anamorphic
+[16:13:06]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[16:13:06]      + pixel aspect ratio: 8 / 9
+[16:13:06]      + display dimensions: 640 * 480
+[16:13:06]    + encoder: x264
+[16:13:06]      + options: ref=2:bframes=2:me=umh
+[16:13:06]      + bitrate: 395 kbps, pass: 2
+[16:13:06]  * audio track 0
+[16:13:06]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[16:13:06]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[16:13:06]    + mixdown: Stereo
+[16:13:06]    + encoder: faac
+[16:13:06]      + bitrate: 160 kbps, samplerate: 48000 Hz

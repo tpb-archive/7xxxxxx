@@ -1,0 +1,55 @@
+Includes the VSO ConvertXtoDVD v5.0.0.33 installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Burn automatically to DVD after video conversion. Excellentand fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Edit your project with the various settings and features listed below:
+-Create menus with videos and music
+-Preview window
+-Add chapters - automatic or custom
+-Subtitle files supported
+-Convert NTSC to PAL and vice-versa
+-Merge function - like for CD1 + CD2
+-2 pass encoding
+-Multiple encoding profiles
+-Video/Audio/Subtitle synchronisation
+-Various audio output formats
+-Image resize filters (lanczos, linear, cubic, etc . . .)
+-Quality advisor
+-Multi-core processor optimized
+-Audio amplifier
+-Padding and cropping
+-De-interlacing
+-Batch converter
+
+Additional features:
+-Compatible with any disks 
+-ISO output available
+-NTSC + PAL region formats
+-16:9 widescreen + 4:3 fullscreen
+-Burn multiple copies
+-VSO burning engine included
+-Various SD resolutions available
+-Custom output size
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE?
+
+- 0006274: [Bug] Force to AC3, 5.1 Channels - conversion fails (cedric) - resolved.
+- 0006263: [Crash] Access vio +transcoder has stopped working (cedric) - resolved.
+- 0006260: [Bug] .32 - minimize does not work (cedric) - resolved.
+- 0006269: [Bug] white section when scrolling? (cedric) - resolved.
+- 0006259: [Bug] .32 edit translation or en text in app - size on default opening not correct (cedric) - resolved.
+- 0006270: [Information] text cropped - video resize method (cedric) - resolved.
+- 0006271: [Feature Request] display percentage for burning prgress (cedric) - resolved.
+- 0006272: [Bug] unable to cancel the conversion and exit program (cedric) - resolved.
+- 0006273: [Bug] must use task manager to close cxd (cedric) - resolved.

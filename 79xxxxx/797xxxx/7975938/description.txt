@@ -1,0 +1,85 @@
+Steam client pathes.
+SmartSteam v1.5.0.13-cr.
+GreenLuma v2.2.3.
+Setti masterserver.
+Steam client (no required pre-installation).
+Special service application.
+Configuration application.
+Microsoft Visual C++ Runtime librarys 2008 & 2010.
+Updated GCF-files:
+counter-strike source client.gcf (v94)
+half-life engine.gcf (v55)
+
+Change Logs
+23.02.2011
+Steam Pathes.
+Changed SmartSteam subscpiption settings.
+Added subscription to game "Bejeweld 3".
+Some broken games are removed from list.
+Updated GreenLuma (v1.4.5).
+Game Cache Files (GCF).
+counter-strire source client.gcf (v79).
+Ctacked Steam Launcher.
+Program is not reqire commandline parameter "/verysilent".
+The program does not add itself to the Startup list, if Cracked Steam autorun disabled.
+Counter is removed from updater.
+Added warning to Steam shut down question.
+Added ability to change the time delay on program startup (in file csiw_supportmain.cfg).
+And more changes / fixes.
+Installer.
+[Full installer] Updated Steam platform (version 11 jan 2011).
+╨ÿFixed a bug due to which the conditional downloadable games appear in SmartSteam, even if the user refused to install the files GCF.
+
+22.12.2010
+Updated file counter-strike source client.gcf (v78).
+Fixed a bug in the updater module.
+
+20.12.2010
+Return to previous versions of the patch SmartSteam test-528.
+Fixed a bug in the updater module.
+Fixed notification of an update is available.
+Fixed a potential bug in the module installation validation.
+
+19.12.2010
+Steam Pathes.
+Updated SmartSteam to version Test-544.
+Undead is excluded from installation package.
+Game files (GCF).
+Updated counter-strike source client.gcf (v76).
+New features.
+New 10 games show in the game list in smartsteam.
+Bug fixes.
+Fixed bug which caused the plugin RunBatch for smartsteam not working.
+Replased download application.
+Fixed steam patches list in tweaker.
+And etc.
+
+20.11.2010
+Steam pathes.
+Added SmartSteam plugin RunBatch.
+Fixed Garry's Mod hangs (SmartSteam only).
+Added GreenLuma v1.4.2.
+Game files (GCF).
+Updated Counter Strike Source Client.gcf v 75.
+Full installer.
+Updated Steam platform (16 Nov 2010).
+
+14.11.2010
+Steam pathes.
+Updated SmartSteam to version test-258.
+Added support for different modes of subscription applications.
+Added masterserver patching.
+And more...
+Configuration options ( ┬⌐ [user] / Anti-Steam ) for SmartSteam. Added the following profiles of subscription applications.
+All installed and all, that available to download.
+All installed and only main, that available to download.
+Only installed.
+All apps (as it was before).
+Only activated and bought (works as a licensed steam, but no regional protection).
+Cracked Steam loader.
+Changed setup validation.
+Allowed to move the program folder in a single computer.
+Allowed to run this program with modified (infected) executable file.
+Full installer.
+Updated Steam platform (04 Nov 2010).
+Winui.gcf is removed from installer.

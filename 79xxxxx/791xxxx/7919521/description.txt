@@ -1,0 +1,4 @@
+Might be a good idea to block tuneup from phoning home before launching the install
+add this to your hosts file: 127.0.0.1	secure.tune-up.com
+
+After that install tuneup, launch keygen, patch, launch tuneup and enter the cd-key.

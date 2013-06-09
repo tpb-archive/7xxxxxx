@@ -1,0 +1,30 @@
+No need if you want your system to be format. u can backup your mails data thru this software any where on your hard drives. 
+
+Using the PST Backup tool
+TIP   Before you begin the backup process, you might want to check the size of your .pst file. If you have multiple folders in your .pst file, you must select the top-level folder to determine the total file size for all the folders.
+
+To install the Microsoft Outlook Personal Folders Backup tool
+
+Quit Outlook.Download the tool 
+To start the setup program, double-click the Pfbackup.exe program file on your hard disk. Follow the instructions on the screen to complete the installation.
+Start Outlook.Instructions for use
+
+The Personal Folders file (.pst) that you want to back up must be open. If the file is visible in Folder List, it is open.
+
+On the File menu, click Backup.Click Options.
+In the Backup these personal folders files list, select the check box for each item you want to back up.
+Change the .pst file name shown. Or, to select a different folder, click Browse, navigate to the location you want, and then click Open.
+
+NOTE   The default file name and location where the .pst file is saved is shown in the File location box.
+To have Microsoft Outlook automatically remind you to make a backup copy of this file, select the Remind me to backup every x days check box, and then type the number of days between 1 and 999.
+Click OK. Click Save Backup.
+NOTE The items selected will not be backed up until you quit Outlook.
+
+FOR OFFICE 2010
+How to enable Personal Folders Backup add-in to work with Outlook 2010
+
+Note This step only needs to be performed one time.
+Start Outlook. On the Ribbon, click the Add-ins tab.
+Click the Backup button.
+Click Options and select the .pst files that you want to back up.
+The Personal Folders Backup add-in can back up files to a disk. However, the add-in cannot spread the .pst file across multiple disks. When you change backup options, select a storage location that has sufficient free space to handle your whole .pst file.

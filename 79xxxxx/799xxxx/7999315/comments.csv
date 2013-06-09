@@ -1,0 +1,111 @@
+﻿User Type,Username,Date,Text
+[T],murphy78,2013-01-09T04:26Z,"To create the ProWMC version, extract the xdeltaui archive and run the xdeltaui program. This requires netfx2, but it's still less of a pain in the rear than seeding an entire dvd. I have chosen this method even though adding the prowmc index to the install.wim is far more efficient, because it literally would not fit without exceeding the 4.37GiB mark for x64 and I wanted the releases for x86 and x64 to match.
+
+Next month it will go over the mark either way, so I will just include them both on the same dvd. It increases the size, but not very much."
+[T],murphy78,2013-01-09T04:35Z,"Comments: For those wondering, MS closed almost all the ProWMC loopholes for activation, so I removed most of the ProWMC torrents. I included the patch in this release for those who already have a ProWMC activation saved with tokens manager.
+
+Attempt to use ProWMC at your own risk if you don't have successful activation backed up.  Even if you do, know that sometimes it requires 2 restores to work properly.  The first restore sometimes fails because of the existing invalid data.dat and tokens.dat in the system.  2 Restores has worked 100% of the time for my many, many, many restores that I have done.  It does work sometimes on the first try, but I'm not certain why.
+
+I will work on Windows 7 tomorrow. I have done a lot of the preliminary stuff, but I still have the script to run, oem folder to edit to add the xml4 kb file, and testing to do.
+
+Vista and other AIO planned releases will come soon. The important thing is to get out the workhorse systems first.
+
+I may resume some seeding on those alt lang releases for December, but I also might just delete the torrents.  I really wanted to help people who speak other languages, but the only proper ways to do it are to release  single language versions like I did, and they just aren't popular enough.
+
+Anyhow, enjoy your pirating...
+murphy78"
+,absalom,2013-01-09T05:36Z,"Thanks again for your Hard Work, God Bless!"
+,absalom,2013-01-09T05:40Z,"Looking forward to the win 7 projects, hopefully it will be a 32/64 bit AIO looking to put it on a USB Drive"
+,Arkenstone,2013-01-09T05:44Z,"People can download their respective language pack via Windows Update.
+
+I am looking forward to your AIO Win8. Thanks!"
+,absalom,2013-01-09T06:27Z,"I have 1 of his AIO windows 8 Pro WMC, and running windows 8, just wanted the Windows 7 AIO for Installs for friends."
+[T],murphy78,2013-01-09T07:16Z,"Yep, will be good. Just remember that on those AIO releases, they include non-retail stuff, and if you install the non-retail indexes, the activation is different.  You can use kmsnano for all of those volume editions, but since the ei.cfg will be set to retail, you might need to run a sfc /scannow to re-default the activation.  I'll test that stuff, of course, and give appropriate advice.
+
+I'll also re-do my unreasonably popular windows 8 18in1.  On the 18in1, though, you also have to be aware that x64 upgrades and x64 recovery from dvd boot won't work.
+
+This is because the AIO maker, Josh Cell Softwares, hasn't updated his program for Windows 8 yet.  If you feel like politely begging him to work on that, the url over at MDL is:
+http://forums.mydigitallife.info/threads/29178-WinAIO-Maker-Professional-The-All-in-One-Windows-Setup-Solution
+
+Feel free to thank him for his previous work and encourage him to work on Windows 8 supported recovery mode and upgrade versions.
+
+Anyhow, been a while since I've done a Win7 AIO.  I'm looking forward to it a bit.  Windows 7 is still a very impressive operating system.  The speed of Windows 7 reminds me of why I kept using xp for the vista years until 7 finally came out.
+
+Enjoy guys, if you get stuck on anything and smoke too much pot to figure it out, I'm sure some patronizing jerk here will sort you out; just ask."
+,Midou01,2013-01-09T08:00Z,"well concerning the AIO, there is an edition with x64 recovery and it is working well from this site: http://soft.ctrlsoft.org/501
+From the CtrlSoft team. You can use the boot files and replace the install.wim to include all languages."
+,Arkenstone,2013-01-09T09:44Z,"Well Midou01 it appears ctrlsoft has tied their Win8 AIO recovery with a DRM scheme.
+
+- Do not delete the file CtrlSoft.url. In his absence, Windows Recovery will not work.
+
+Also take note that apparently heldigard is back with an update to KMSnano!"
+[T],murphy78,2013-01-09T22:27Z,"MDL still shows heldigard's latest activity as dec19, where are you showing new kmsnano stuff onion?"
+,Arkenstone,2013-01-10T02:16Z,http://thepiratebay.se/torrent/8000354/KMSnano_v10.1_Activate_Windows_and_MS_Office
+,Arkenstone,2013-01-10T02:41Z,"Link to relevant mydigitallife info
+
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0/page544?p=702876#post702876"
+[T],murphy78,2013-01-10T05:19Z,"cool deal onion, good eye.  I'll test it out when I'm doing my win7 testing and when reinstalling my 8 since it's listed as beta.  If it works well, I'll up it here.  The 10.1 beta is only 20.1mb that's pretty damn small for an emulated system.
+
+The guy continues to impress me.  If you're out there reading this heldigard, *love*"
+,Arkenstone,2013-01-10T13:48Z,"KMSnano has been updated from 10.1 beta to version 11.
+
+http://thepiratebay.se/torrent/8003290/LaNanov11.zip"
+[T],murphy78,2013-01-10T14:04Z,"Done testing the newer kmsnano version.  I learned something new.  Apparently you cannot activate Win7Ult with KMS.  I found one website listing volume licensing as an option on Win7Ult, but I guess it meant as a MAK license, which is different than KMS.  MAK means Multi-Activation License and is similar to retail keys except that it allows more computers to use the same key up to a certain amount.  KMS is Key Management Service, and is mostly software access keyed rather than hardware based.  Basically you have one KMS server that activates at least 25 computers and resets its activations every so often so that it won't run out.  Windows 7 Ultimate doesn't have KMS support, so kmsnano simply won't be able to activate it. It won't be able to activate anything except Win vista/7/8 Pro/Ent versions and Office2010/2013.
+
+Now, Enterprise is basically Ultimate in volume version.  So, since there is a problem getting legit activation with win7 and office 2013, I humbly suggest that people pair up enterprise and 2013.  Best of win7/office2013 combo.
+
+The reason you may want to pair those up is that you will be able to use the same activation method for both.  I've read in many places how office sets the default activation method based on the type of operating system you have installed, and it can cause problems if you don't have your operating system set to volume activation before installing office 2013.
+
+I'm not 100 percent sure if you can use a retail windows version that also supports volume versions, and activate it with kms; if that affects Office 2013 or if you have to do a volume conversion to your operating system first.  If that's the case you would want to extract the kmsnano.exe to a subdirectory and run the convert_windows_retail2vl.cmd as administrator.  This would only work on pro versions of vista/7/8 as enterprise doesn't come in retail, and pro is the only version that comes in both retail and volume.
+
+Anyhow my Win7Ult testing is done, but just some food for thought if you want to use Office 2013, you might want to wait for my AIO and install Win7Enterprise or Win7Pro if you plan on actually activating Office 2013 with Win7."
+,Arkenstone,2013-01-10T15:43Z,"You are right about Windows 7 Ultimate not being compatible with KMS.
+
+s1ave77 from MyDigitalLife listed Win7Ulti as unsupported.
+
+Windows editions activated by W8-Class-KMS-Host:
+Windows 8 Professional
+Windows 8 Enterprise
+Windows 7 Professional
+Windows 7 Enterprise
+Windows Vista Business
+Windows Vista Enterprise"
+,lukecz81,2013-01-10T21:05Z,"Hi
+
+Could someone explain me how to install Windows 8 and make it ""legit"" (as I understand) with WMC code?
+
+Should I install any version of Windows 8 Pro (for example this release). During installation, should I enter any code? (I don't know how Win8 installation looks like, I know installation of Win7 and there is no need to enter code). After installing Windows 8, should I use ""KMS activation method"" ?(I'm not familiar with this method, but I'll read about it). Then, should I obtain a ""WMC activation code"" from M$? (how). Then should I reinstall Win8 with obtained WMC code or somehow activate installed Win8? What is ""activation backup"" and when should I do it (and why)? At which point there is phone activation? If I install this release of Win8, can I install language pack to make it in my language - polish?)
+
+Sorry guys for many questions, but I'm new with Windows 8 (but installed hundred times Win7 with Daz loaders) and I want to know how to do it properly.
+
+Thanks for answers"
+,Arkenstone,2013-01-11T00:30Z,"@lukecz81
+
+You are right on the money to use Windows Loader by Daz for Windows 7; as you probably know such a thing doesn't exist for Windows 8. 
+
+Should I use KMS activation method? Definitely, it is currently the best available method to activate Windows 8. It's not permanent...every 180 days you need to rerun KMS (use KMSnano).
+
+During installation, should I enter any code? No need; the setup key is already slipstreamed.
+
+Can I install language pack? You bet; choose the Polish language pack under ""optional"" in Windows Update.
+
+What is ""activation backup"" and when should I do it? It's a great idea to backup your activation if you need to re-install Windows. However, if you do use KMS to activate you won't be able to back that up!
+
+At which point is there phone activation? If you use KMS you will NOT have to make a phone call to Microsoft.
+
+It appears you are interested in Windows 8 + The Media Center; read the first comment by Murphy78 to see how to set that up. Good luck!"
+[T],murphy78,2013-01-11T06:42Z,"luke the only method I'm aware of that will generate legit files without much work is the kmsnano program, and possibly the kmsmicro program that heldigard's kmsnano is based on.
+
+Basically it emulates a KMS server in your memory, and passes the info back and forth between your computer and the emulated machine in memory.
+
+People use this method because hacks are garbage.  There are hacks like kjactivator which modifies all your system files and claims to do all sorts of things like permanent activation, but it just fools you; it does not bypass the activation.  There is also an onthreeseas activator that does similar things by overwriting system files, but again does not fool activation.
+
+A good rule of thumb is that if an activator mentions that you need to reboot, it's a hack, not a legit activation method.  KMSNano does not require a reboot, and does not modify any system files directly.  It only modifies them indirectly using the built in service licensing.
+
+As far as the ProWMC free upgrade, I really would recommend trying to live without it for the time being, until someone cracks the windows 8 activation correctly.  You cannot use kms activation, and then upgrade to prowmc because it will not let you activate.  There has reportedly been a workaround with data.dat swapping and phone method, but I'm not going to go into detail because MS will close that hole soon, and you will probably screw yourself into using a windows that cannot be activated.
+
+There's technically a way to downgrade your system if you do that, but it's just as complicated as the data.dat swap, and I wouldn't recommend that for most people either.
+
+For the language issue, yes you can add any language you want to windows 8 pro.  Just start control panel by pressing winkey+r and typing ""control"" then click on the ""add a language"" option. Note that when you add a language, it just adds the keyboard type at first until you try to set it as the default language. Once you do that, it will download the language pack and set the operating system.  Note that English will still be an option if you prefer to switch keyboard for typing. The little language button on the taskbar will switch that for you.
+
+Anyway, hope that helps."

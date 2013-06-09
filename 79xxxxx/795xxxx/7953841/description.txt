@@ -1,0 +1,102 @@
+This is a just a re-encode of the torrent found here:
+ 
+http://thepiratebay.se/torrent/7933399/Star.Trek.TNG.S02.Season.2.720p.BluRay.x264-PublicHD
+
+I tried to keep the sizes down to 350mb just like normal TV shows ("TV Size" as I call it). I reduced resolution down to 720x540 and used ~950kbps bitrate for each file. 
+
+Subs are ripped straight from the MKV files without editing, so if there are any errors in spelling or whatever, it ain't my fault! :)
+
+So far I am pleased with the results.
+
+File list
+==========
+s02e01 - the child.mp4
+s02e02 - where silence has lease.mp4
+s02e03 - elementary dear data.mp4
+s02e04 - the outrageous okona.mp4
+s02e05 - loud as a whisper.mp4
+s02e06 - the schizoid man.mp4
+s02e07 - unnatural selection.mp4
+s02e08 - a matter of honor.mp4
+s02e09 - the measure of a man.mp4
+s02e10 - the dauphin.mp4
+s02e11 - contagion.mp4
+s02e12 - the royale.mp4
+s02e13 - time squared.mp4
+s02e14 - the icarus factor.mp4
+s02e15 - pen pals.mp4
+s02e16 - q who.mp4
+s02e17 - samaritan snare.mp4
+s02e18 - up the long ladder.mp4
+s02e19 - manhunt.mp4
+s02e20 - the emissary.mp4
+s02e21 - peak performance.mp4
+s02e22 - shades of gray.mp4
+
+
+A typical file info is below:
+=============================
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 349 MiB
+Duration                                 : 45mn 28s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 073 Kbps
+Encoded date                             : UTC 2012-12-24 04:33:10
+Tagged date                              : UTC 2012-12-24 05:04:40
+Writing application                      : HandBrake 0.9.8 2012071700
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 45mn 28s
+Bit rate mode                            : Variable
+Bit rate                                 : 940 Kbps
+Width                                    : 720 pixels
+Height                                   : 540 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 fps
+Minimum frame rate                       : 23.974 fps
+Maximum frame rate                       : 23.981 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.101
+Stream size                              : 306 MiB (88%)
+Writing library                          : x264 core 120
+aq=1:1.00
+Encoded date                             : UTC 2012-12-24 04:33:10
+Tagged date                              : UTC 2012-12-24 05:04:40
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 45mn 28s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 232 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 83ms
+Stream size                              : 41.6 MiB (12%)
+Language                                 : English
+Encoded date                             : UTC 2012-12-24 04:33:10
+Tagged date                              : UTC 2012-12-24 05:04:40
+
