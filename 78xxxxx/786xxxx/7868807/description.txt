@@ -1,0 +1,85 @@
+Bopup IM Client SDK version 1.0.2
+========================================================================
+
+
+Overview
+------------------------------------------------------------------------
+
+Bopup IM Client Software Development Kit (SDK) is a toolkit for Windows 
+platform that provides documentation, samples and COM components for 
+building powerful instant messaging functionality into existing 
+applications, creating and developing a chat messenger software based 
+a client/server architecture. Applications built on this SDK interact 
+and communicate with Bopup Communication Server (IM server software) 
+that must be installed as a server-side part of the instant messaging 
+system. 
+
+Bopup IM Client SDK provides functions for connecting and establishing 
+IM session with the communication server, sending/receiving personal 
+and group instant messages, receiving urgent and high-priority tasks 
+from the server, managing user's contacts, receiving presence status 
+updates within the Contact List. This SDK supports various 
+authentication methods to autorize users on the IM server: Simple, 
+Windows Authentication (SSPI) and using Private login and password 
+credentials entered by a end-user. 
+
+Provided functionality and supported features:
+
+* Secure and Private Communication
+All transmitted messages are encrypted with strong encryption algorithms 
+based on the Diffie-Hellman key exchange and CAST-128 algorithms. That 
+is the first and primary way to make corporate and business IM safe and 
+secure. 
+
+* Authentication Modes 
+Various modes to authenticate and authorize users with the IM server are 
+supported. Choose the best way for your corporate and business 
+infrastructure from the available authentication modes: Simple, Windows 
+Authentication (SSPI) and Private login/password. 
+
+* Messaging Groups 
+The centralized management of user groups makes it possible to organize 
+a flexible IM structure with a list of assigned groups and send / 
+receive-only permissions set for each user. 
+
+* User Presence Status 
+See the current status of each user in your Contact List, i.e. Online, 
+Away, Offline (Not available). Manage your own status. 
+
+* Contact List access 
+Organize your personal Contact List and access it from any workplace and 
+location. 
+
+* Offline and Urgent Messaging 
+Deliver important information to users even if they are currently 
+unavailable and receive such messages. Offline messages are stored on 
+the IM server and automatically delivered to the recipient when he goes 
+online. 
+
+* Centralized Notification 
+Receive notifications and urgent messages from the IM server and stay 
+updated on any events and information. These messages are automatically 
+sent by the server on the scheduled time and at the specified intervals. 
+
+* Message Logging & Archiving 
+Browse, search and view the entire message archives on the IM server. 
+Print information for any period and for any person. 
+
+
+
+Requirements and Restrictions
+------------------------------------------------------------------------
+
+This SDK requires Bopup Communication Server installed and used as an IM 
+server to provide instant messaging features and functions. Applications 
+built using this toolkit depend on 45-day trial of the communication 
+server during which only 10 concurrent connections are supported.
+
+For more information about Bopup Communication Server please visit 
+product page at http://www.bopup.com/products/server/
+
+
+
+========================================================================
+Copyright (C) 2000-2012 B Labs. All rights reserved. 
+http://www.bopup.com/

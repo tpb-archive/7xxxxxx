@@ -1,0 +1,18 @@
+Prison Architect - Alpha-4
+
+Released on Nov 19th 2012
+
+
+Change Log
+
+- Fog-of-war overhaul in response to community feedback
+- Areas hidden by fog-of-war are now rendered in darkened greyscale instead the solid roof effect
+- Walls, floors and Static objects under fog-of-war remain visible but greyed out.
+- Guards and CCTV now have a longer view range
+- The Chief has a long view range
+- Workmen, Cooks and Doctors have a shorter view range compared to guards
+- The game is now more permissive when loading corrupted saved games. It will no longer crash. Errors in the save file will be reported to debug.txt.
+- Bug fixes
+
+
+Support the devs and buy the game at www.prison-architect.com

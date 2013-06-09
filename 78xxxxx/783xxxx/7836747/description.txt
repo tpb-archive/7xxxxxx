@@ -1,0 +1,36 @@
+============================================================================
+|No le impostazioni di Windows 8 sono stati lesi nella realizzazione di    |
+|questa ISO.                                                               |
+|No programmi vengono aggiunti.                                            |
+|No impostazioni automatiche sono stati aggiunti all'installazione.        |
+|No le impostazioni del Registro di sistema sono state modificate.         |
+|----------------------------------murphy78--------------------------------|
+|Fonte: MSDN it_windows_8_x64_dvd_915427                                   |
+|Questa RTM a 64 bit è la Build finale 9200                                |
+|----------------------------------murphy78--------------------------------|
+|Lingua: it-IT (Italiano - Italia)                                         |
+|----------------------------------murphy78--------------------------------|
+|Strumenti utilizzati:                                                     |
+|imagex - estrazione di immagini                                           |
+|dism - aggiunta di file pacchetto                                         |
+|oscdimg - Masterizzazione ISO                                             |
+|----------------------------------murphy78--------------------------------|
+|KB file aggiunti tramite add-package dism:                                |
+|KB2712101, KB2727528, KB2729462, KB2737084, KB2756872, KB2758246-v2,      |
+|KB2761094, KB2761226, KB2764870, KB2768703, KB2769034, KB2769165,         |
+|KB2770041, KB2770917, KB2771744, KB2771821, KB2777166, KB2778171,         |
+|KB2780342, KB2780523                                                      |
+|NET 2.0-3.5.1 abilitato da DISM utilizzando la cartella SXS               |
+|----------------------------------murphy78--------------------------------|
+|KB file NON aggiunto:                                                     |
+|KB2772501 - Disponibile per l'aggiornamento di D/L 33 kb IE10 iepropschema|
+|----------------------------------murphy78--------------------------------|
+|L'origine di iso MSDN è la migliore immagine disponibile su internet al   |
+|momento dell'integrazione.                                                |
+|----------------------------------murphy78--------------------------------|
+|Mi dispiace per l'italiano scorretto. Questa è una traduzione utilizzando |
+|Bing tradurre. Non parlo Italiano.                                        |
+|----------------------------------murphy78--------------------------------|
+|Godetevi,                                                                 |
+|murphy78 :)                                                               |
+============================================================================

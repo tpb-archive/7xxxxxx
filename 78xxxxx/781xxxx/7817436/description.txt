@@ -1,0 +1,192 @@
+Heathen - The Evolution of Chaos (2008) - Dynamic Range = ~5 (tested with foobar2000)
+
+
+
+IF YOU LIKE THE MUSIC, SUPPORT THE ARTIST!
+
+
+
+Exact Audio Copy V1.0 beta 3 from 29. August 2011
+
+EAC extraction logfile from 12. November 2012, 20:07
+
+Heathen / Evolution Of Chaos
+
+Used drive  : TSSTcorpCDDVDW SH-S223F   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : No
+Make use of C2 pointers : Yes
+
+Read offset correction                      : 6
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:Program Files (x86)Exact Audio CopyFLACFLAC.EXE
+Additional command line options : -6 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "COMMENT=%comment%" -T "BAND=%albuminterpret%" -T "ALBUMARTIST=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" %hascover%--picture="%coverfile%"%hascover% %source% -o %dest%
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  1:21.13 |         0    |     6087   
+        2  |  1:21.13 |  5:40.63 |      6088    |    31650   
+        3  |  7:02.01 |  7:09.14 |     31651    |    63839   
+        4  | 14:11.15 | 11:10.30 |     63840    |   114119   
+        5  | 25:21.45 |  6:40.14 |    114120    |   144133   
+        6  | 32:01.59 |  5:44.64 |    144134    |   169997   
+        7  | 37:46.48 |  6:51.71 |    169998    |   200893   
+        8  | 44:38.44 |  6:42.07 |    200894    |   231050   
+        9  | 51:20.51 |  4:30.49 |    231051    |   251349   
+       10  | 55:51.25 |  5:51.66 |    251350    |   277740   
+       11  | 61:43.16 |  6:50.71 |    277741    |   308561   
+
+
+Track  1
+
+     Filename C:CD Rips 1 - 01 - Intro.wav
+
+     Peak level 95.4 %
+     Extraction speed 5.7 X
+     Track quality 100.0 %
+     Test CRC 3F87EBEB
+     Copy CRC 3F87EBEB
+     Accurately ripped (confidence 9)  [C26CAE2A]  (AR v1)
+     Copy OK
+
+Track  2
+
+     Filename C:CD Rips 2 - 02 - Dying Season.wav
+
+     Peak level 98.9 %
+     Extraction speed 6.8 X
+     Track quality 100.0 %
+     Test CRC 7539FB7E
+     Copy CRC 7539FB7E
+     Accurately ripped (confidence 9)  [97CF16B2]  (AR v1)
+     Copy OK
+
+Track  3
+
+     Filename C:CD Rips 3 - 03 - Control By Chaos.wav
+
+     Peak level 98.9 %
+     Extraction speed 7.6 X
+     Track quality 100.0 %
+     Test CRC 95E24E15
+     Copy CRC 95E24E15
+     Accurately ripped (confidence 9)  [BFE21910]  (AR v1)
+     Copy OK
+
+Track  4
+
+     Filename C:CD Rips 4 - 04 - No Stone Unturned.wav
+
+     Peak level 98.9 %
+     Extraction speed 9.0 X
+     Track quality 100.0 %
+     Test CRC A355B7D0
+     Copy CRC A355B7D0
+     Accurately ripped (confidence 9)  [46C53964]  (AR v1)
+     Copy OK
+
+Track  5
+
+     Filename C:CD Rips 5 - 05 - Arrows Of Agony.wav
+
+     Peak level 98.9 %
+     Extraction speed 9.7 X
+     Track quality 100.0 %
+     Test CRC CFBD5197
+     Copy CRC CFBD5197
+     Accurately ripped (confidence 9)  [3FE3B741]  (AR v1)
+     Copy OK
+
+Track  6
+
+     Filename C:CD Rips 6 - 06 - Fade Away.wav
+
+     Peak level 98.9 %
+     Extraction speed 10.4 X
+     Track quality 100.0 %
+     Test CRC 7689E553
+     Copy CRC 7689E553
+     Accurately ripped (confidence 9)  [74134742]  (AR v1)
+     Copy OK
+
+Track  7
+
+     Filename C:CD Rips 7 - 07 - A Hero's Welcome.wav
+
+     Peak level 98.9 %
+     Extraction speed 11.0 X
+     Track quality 100.0 %
+     Test CRC 0D566EDC
+     Copy CRC 0D566EDC
+     Accurately ripped (confidence 9)  [C33EA24B]  (AR v1)
+     Copy OK
+
+Track  8
+
+     Filename C:CD Rips 8 - 08 - Undone.wav
+
+     Peak level 98.9 %
+     Extraction speed 11.6 X
+     Track quality 100.0 %
+     Test CRC 50CE112C
+     Copy CRC 50CE112C
+     Accurately ripped (confidence 9)  [3533CD23]  (AR v1)
+     Copy OK
+
+Track  9
+
+     Filename C:CD Rips 9 - 09 - Bloodkult.wav
+
+     Peak level 98.9 %
+     Extraction speed 12.1 X
+     Track quality 100.0 %
+     Test CRC CAD2CAAB
+     Copy CRC CAD2CAAB
+     Accurately ripped (confidence 9)  [413FC2AD]  (AR v1)
+     Copy OK
+
+Track 10
+
+     Filename C:CD Rips10 - 10 - Red Tears Of Disgrace.wav
+
+     Peak level 98.9 %
+     Extraction speed 12.5 X
+     Track quality 100.0 %
+     Test CRC 29066E99
+     Copy CRC 29066E99
+     Accurately ripped (confidence 9)  [473711E4]  (AR v1)
+     Copy OK
+
+Track 11
+
+     Filename C:CD Rips11 - 11 - Silent Nothingness.wav
+
+     Peak level 98.9 %
+     Extraction speed 13.1 X
+     Track quality 100.0 %
+     Test CRC 04AC8F03
+     Copy CRC 04AC8F03
+     Accurately ripped (confidence 7)  [B00E28C4]  (AR v1)
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

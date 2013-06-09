@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 61min43secs
+
+The Bowery Boys 1957 Looking For Danger
+ 
+http://www.imdb.com/title/tt0050654/
+
+[10:41:54] starting job
+[10:41:54] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[10:41:54] job configuration:
+[10:41:54]  * source
+[10:41:54]    + C:Looking For DangerVIDEO_TS
+[10:41:54]    + title 1, chapter(s) 1 to 1
+[10:41:54]  * destination
+[10:41:54]    + C:Documents and SettingsDead End KidsMy DocumentsLooking For Danger.mkv
+[10:41:54]    + container: Matroska (.mkv)
+[10:41:54]      + chapter markers
+[10:41:54]  * video track
+[10:41:54]    + decoder: mpeg2
+[10:41:54]      + bitrate 8000 kbps
+[10:41:54]    + frame rate: same as source (around 23.976 fps)
+[10:41:54]    + strict anamorphic
+[10:41:54]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[10:41:54]      + pixel aspect ratio: 8 / 9
+[10:41:54]      + display dimensions: 640 * 480
+[10:41:54]    + encoder: x264
+[10:41:54]      + options: ref=2:bframes=2:me=umh
+[10:41:54]      + bitrate: 398 kbps, pass: 2
+[10:41:54]  * audio track 0
+[10:41:54]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[10:41:54]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[10:41:54]    + mixdown: Stereo
+[10:41:54]    + encoder: faac
+[10:41:54]      + bitrate: 160 kbps, samplerate: 48000 Hz

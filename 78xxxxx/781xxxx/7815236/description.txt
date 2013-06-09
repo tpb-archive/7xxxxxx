@@ -1,0 +1,22 @@
+Garmin Topo Adventure Norway all 20 CD's. Rar file, no password
+
+
+You will need a Garmin installation already to get this to work
+If you don't have that, do this:
+
+Get for example a Topo Pro Norway set with install files.(included with this torrent)
+
+Run the install. it will install map and Mapsource in C:Garmin
+
+Update your mapsource and you should also install Basecamp, mapinstall and Webupdater( Garmin website)
+
+Now you can follow method under here:
+
+Copy FAM_13xx directories to C:Garmin (or your normal path for Garmin maps) for the TOPO Adventure products you want to install.
+
+Use reg files(double click and accept) for 32-bit or 64-bit Windows to register map for MapSource and Basecamp usage.
+
+It's possible to generate new REG-files with cre_reg.bat if you have other Garmin path or some other needs.
+
+Enjoy!
+

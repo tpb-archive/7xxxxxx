@@ -1,0 +1,7 @@
+JavaScript isn't just for special effects and form validations anymore; Node.js makes it possible to write full web applications entirely in JavaScript. In this course, author Joseph LeBlanc guides you through installing Node.js for the first time, as well as installing Node modules through NPM and writing command-line scripts. The course also covers creating servers, using Node-based frameworks, building templated markup, integrating Node with legacy codebases, programming for WebSockets using the Socket.IO module, and much more.
+
+Topics include:
+Using the Socket.IO Node package to achieve "live" effects like Facebook notifications
+Templating your markup in the back end using popular JavaScript libraries
+Scraping web sites using jQuery without a browser
+Validating your JavaScript code before running it

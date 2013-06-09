@@ -1,0 +1,31 @@
+Movies : Comedy : VHS Rip : English, 71min49secs
+
+Angels With Broken Wings 1941
+
+[13:11:03] starting job
+[13:11:03] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:11:03] job configuration:
+[13:11:03]  * source
+[13:11:03]    + C:Angels With Broken WingsVIDEO_TS
+[13:11:03]    + title 1, chapter(s) 1 to 12
+[13:11:03]  * destination
+[13:11:03]    + C:Documents and SettingsDead End KidsMy DocumentsAngels With Broken Wings.mkv
+[13:11:03]    + container: Matroska (.mkv)
+[13:11:03]      + chapter markers
+[13:11:03]  * video track
+[13:11:03]    + decoder: mpeg2
+[13:11:03]      + bitrate 8000 kbps
+[13:11:03]    + frame rate: same as source (around 29.970 fps)
+[13:11:03]    + strict anamorphic
+[13:11:03]      + storage dimensions: 720 * 480 -> 716 * 480, crop 0/0/4/0
+[13:11:03]      + pixel aspect ratio: 8 / 9
+[13:11:03]      + display dimensions: 636 * 480
+[13:11:03]    + encoder: x264
+[13:11:03]      + options: ref=2:bframes=2:me=umh
+[13:11:03]      + bitrate: 303 kbps, pass: 2
+[13:11:03]  * audio track 0
+[13:11:03]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:11:03]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[13:11:03]    + mixdown: Stereo
+[13:11:03]    + encoder: faac
+[13:11:03]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,83 @@
+Flight 2012 CAM XViD - INSPiRAL
+
+SOURCES:
+
+VIDEO -  HP THANKS
+AUDIO -  HP THANKS
+SUBS  - None Add
+
+STATS:
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : 2
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (MPEG)
+Muxing mode                      : Packed bitstream
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 2h 3mn
+Bit rate                         : 1 462 Kbps
+Width                            : 624 pixels
+Height                           : 256 pixels
+Display aspect ratio             : 2.40:1
+Frame rate                       : 29.970 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.305
+Stream size                      : 1.27 GiB (91%)
+Writing library                  : XviD 64
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Mode extension                   : MS Stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 2h 3mn
+Bit rate mode                    : Constant
+Bit rate                         : 128 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Stream size                      : 113 MiB (8%)
+Alignment                        : Split accross interleaves
+Interleave, duration             : 33 ms (1.00 video frame)
+Interleave, preload duration     : 500 ms
+
+
+IMDB:  http://www.imdb.com/title/tt1907668/
+
+
+
+An airline pilot saves a flight from crashing, but an investigation into the malfunctions reveals something troubling.
+
+
+
+VIDEO - Another release by HP,thanks for everything ...Video like all the other hp ones had a small res,some slight camera movement,some strong glares but decent balanced colours.
+
+Audio - ok for cam audio but was on the quiet side and some hiss,but heard alot worse.
+
+WORKDONE:
+First off rotated video slightly ,still not straight at the start but levels up better after a short while.Then i cropped the borders and upscaled the video.
+Now doing this makes ANY issues stand out even more and on this video it had some pixel break up issues once upscaled,so had to use a HQ smoother and on a higher setting than i would have like,but doing this make sit play better ( still shots won't show this).
+After i tweaked the contrast,brightness,rgb colours,sat and used the intes to lower the glares....
+
+Audio i stripped and dropped in AA ....now the audio was quiet and contained hissing,and of course it needed to be upped in volume which made the hiss even worse....so after increasing the DB's i had to lower several eq bands to reduce the hiss,but couldn't remove it all without killing the audio.
+
+Either enjoy untill a better source comes along  :)
+
+Screens 
+ 
+http://i.imgrz.com/q6bHp.png 
+http://i.imgrz.com/KZ8rU.png 
+http://i.imgrz.com/O2Jhk.png

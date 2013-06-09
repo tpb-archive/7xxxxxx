@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+[T],3R01,2012-12-02T02:20Z,"Update Info:
+-------------
+* The Kill screen now shows what weapon and burst the enemy used to kill you
+  * Fixed an issue where players would occasionally get stuck in cover
+  * Fixed an issue where players would occasionally appear invisible
+  * Fixed an issue where game modes could appear to be over 100% full
+  * Fixed an issue where occasionally a Loadout slot could overwrite another
+    Loadout slot at the start of a round of Gang Wars
+  * Fixed an issue where a party would have trouble loading into a new game
+    after a party member had left"

@@ -1,0 +1,50 @@
+﻿User Type,Username,Date,Text
+,LuxLOL,2012-11-18T15:45Z,"(o) 2012.11.18 Changelog:
+
+* Updated Java SE Runtime Environment (JRE) from ""v7 Update 7"" to ""v7 Update 9"".
+* Updated K-Lite Mega Codec Pack from ""v9.3.0"" to ""v9.5.0"".
+* Updated Flash Player ActiveX Control from ""v11.4.402.287"" to ""v11.5.502.110"".
+* Updated Tweak ""Suppressing Microsoft Update nagging to install Windows Malicious Software Removal Tool (KB890830)"" from ""v4.13"" to ""v4.14"".
+* Includes all the newest Windows XP Service Pack 3 Updates from 10.10.2012 till 13.11.2012."
+,baldiepie,2012-11-19T05:02Z,HackTool/Win32/Keydump detected.
+,LuxLOL,2012-11-19T08:44Z,"Antivirus programs are always detecting KeyChangers as malware (virus).
+Next time use your Brain and Read the ""Read Me"" file."
+,linadze,2012-11-19T09:18Z,"thx Lux, this go for my sis :)"
+,stingrayopp,2012-11-19T10:52Z,did you integrate all net framework versions [ 1.1 to 4 ] in this xp black edition ?
+,LuxLOL,2012-11-19T12:25Z,"No i did not include the .NET Frameworks because Microsoft did not make the .NET Frameworks compatible to be directly integrated into a Windows XP.
+
+If i would include the .NET Frameworks into Windows XP then you could get update problems in the future  and then you would have to deinstall .NET Frameworks and install it again over the Windows Update Center to fix this problem.
+
+But if you still want it then you can find an All-in-One .NET Framework Pack on my website."
+,crazymadcat,2012-11-19T16:27Z,"Great upload, let me tell you.
+
+As a suggestion : aesthetics tools like themes and some other minor appz can be removed and replaced for latest driverpacks. The core is the most important data to keep within the CD /DVD. Optional stuff (like msn) can be instaled later by the users who really need them.
+
+Again, great upload."
+,maanav,2012-11-20T16:14Z,please give the link to your website and AIO .net frameworkas it is not possible to run nlitewithout it.
+,LuxLOL,2012-11-20T17:38Z,http://www.zone54.com/file-repository/viewcategory/19-miscellaneous
+,rajesh1215,2012-11-22T11:58Z,"LuxLOL. thanks for upload. one question.
+why is it not possible to run windows file protection in this black edition? it gives error that the CD is not correct, when it is the same CD I installed this from. any ideas?"
+,LuxLOL,2012-11-22T20:13Z,"Yes you can but it is useless to enable it and it will only eat system resources. That's way if you click on yes to include the custom settings it will be turned off.
+
+But if you still want to enable it then simply go to the folder ""(driver)Documents and SettingsCustom Settings"" and open the file ""Windows XP System Settings.reg"" and then search for ""System File Protection"" and then change the entry from (dword:ffffff9d) to (dword:00000000) and then save the file and reboot your computer and your done."
+,rajesh1215,2012-11-23T12:18Z,LuxLOL thanks for reply. I did all that but still it wont work. anyways I am asking this because when I open services.msc there is little CMD window appears and it is slow to open. I was thinking it is corrupted and wants to replace it. why there should be cmd.exe when I try to open services?
+,LuxLOL,2012-11-23T13:56Z,"If you save the file you have also to run it and then reboot your computer.
+And if you open services.msc there should be no extra CMD window."
+,rajesh1215,2012-11-24T10:55Z,"LuxLOL, this edition is much quicker than original I had for years, thanks for upload.
+I had installed it without extras, i like to install them myself. May be that is why Windows File Protection did not work. If anyone tried it please post the experience. 
+I went for repair instead, it took more time than the original install and I am guessing it did not go well. One thing you have to make sure is that the same option whether to add extra driver or not should be available during repair too as by default it copies them. There were errors but system is working. the problem I had with services.msc got fixed. It refuses to identify winmgmts and the startup script for .net 4 errors out now. i will reinstall it once i identify errors repair has caused. thanks."
+,oxnard123,2012-11-27T18:01Z,"@LuxLOL
+
+can i use this OS on Netbook?
+
+Processor: Intel(R) Atom(TM) CPU N550 @ 1.50GHz 1.50GHz
+
+RAM: 1.00GB"
+,LuxLOL,2012-11-28T02:15Z,Yes you can.
+,yopyop42,2012-11-29T19:25Z,Can u install this with BartPE? Ive tried other versions but since they have removed some files the bart setup crashes when installing with USB...thanks
+,LuxLOL,2012-11-30T01:12Z,This should not work any differently like a normal Windows XP. But i recommend to use the tool WinToFlash for doing a Windows XP Flash Installer. it is easier.
+,Addryann,2012-11-30T13:45Z,"LuxLOL, your work stolen right here on tpb: http://thepiratebay.se/torrent/7873173/Windows_XP_SP3_Black_Edition_(32_bit)_integrated_Nov_2012_"
+,LuxLOL,2012-11-30T18:33Z,"Thanks for the infos.
+I'm ok with it as long as the original ""Read Me"" file is included in the ISO file and if it is malware and bug free.
+But it's funny that this one get more seeders and leechers than the original. :D"

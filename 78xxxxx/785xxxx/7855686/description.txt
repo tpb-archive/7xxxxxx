@@ -1,0 +1,55 @@
+PPPPPPPPPPPPPPPPP   NNNNNNNN        NNNNNNNN   SSSSSSSSSSSSSSS 
+P::::::::::::::::P  N:::::::N       N::::::N SS:::::::::::::::S
+P::::::PPPPPP:::::P N::::::::N      N::::::NS:::::SSSSSS::::::S
+PP:::::P     P:::::PN:::::::::N     N::::::NS:::::S     SSSSSSS
+  P::::P     P:::::PN::::::::::N    N::::::NS:::::S            
+  P::::P     P:::::PN:::::::::::N   N::::::NS:::::S            
+  P::::PPPPPP:::::P N:::::::N::::N  N::::::N S::::SSSS         
+  P:::::::::::::PP  N::::::N N::::N N::::::N  SS::::::SSSSS    
+  P::::PPPPPPPPP    N::::::N  N::::N:::::::N    SSS::::::::SS  
+  P::::P            N::::::N   N:::::::::::N       SSSSSS::::S 
+  P::::P            N::::::N    N::::::::::N            S:::::S
+  P::::P            N::::::N     N:::::::::N            S:::::S
+PP::::::PP          N::::::N      N::::::::NSSSSSSS     S:::::S
+P::::::::P          N::::::N       N:::::::NS::::::SSSSSS:::::S
+P::::::::P          N::::::N        N::::::NS:::::::::::::::SS 
+PPPPPPPPPP          NNNNNNNN         NNNNNNN SSSSSSSSSSSSSSS   
+                                                               
+[root] StickMount Pro v2.00
+
+Requirements: Android 4.0+ 
+
+Automatically mount and dismount USB sticks on various devices like the Galaxy Nexus and Nexus 7.
+
+
+
+
+!!! REQUIRES ROOT !!!
+
+Various Nexus and "stock Android" devices do not automatically "mount" mass storage devices (such as USB sticks). StickMount has been made to solve this problem, and give you access to the files on your USB connected storage from all your apps.
+
+StickMount is known to work on many devices, but is built *only* with *Nexus* devices in mind.
+
+Once StickMount is installed and you connect a USB stick with a "USB host / OTG cable", the device will show you a popup if you want to open StickMount. It is advised to tell the device that you want to do this by default.
+
+If you have just installed StickMount and you already had a USB stick connected, you must manually launch the program, or disconnect/reconnect the USB stick for StickMount to start working.
+Mass storage devices are mounted to "/sdcard/usbStorage/xxxx/".
+
+----- (Pro) Kill apps preventing unmount -----
+Sometimes an app has a file in use located on the USB device, and won't let go of it. This can prevent StickMount from unmounting the USB device. It will seem like the device stays connected (this is harmless). StickMount Pro provides an option that attempts to kill (terminate) all the apps that are preventing the unmount from succeeding.
+
+----- (Pro) Media scan -----
+StickMount Pro supports triggering the media scanner on each (un)mount action. This will automatically make the files on your USB device available in apps like Gallery and Music. Please note that the media scanner is not a visible process on all Android devices - it might actually work silently in the background without any visual cues. It may take a minute for your files to show up, so don't panic if they don't show immediately.
+
+Even if you have this option enabled, you can prevent folders from being scanned by placing an empty file called ".nomedia" in that folder. If you put it in the root of the USB device, the entire device will not be scanned.
+
+----- Filesystem support -----
+The filesystems supported depends on your device firmware. On most devices, at least vfat/fat/fat32 and ext2/3/4 are supported. On the latest Android versions, ntfs is also supported in read-only mode. Some devices also support exfat out the box, but most do not.
+StickMount can utilize the "ntfs-3g" and "mount.exfat-fuse" binaries to add support for ntfs (untested) and exfat, but these are not included. If you place the "ntfs-3g" or "mount.exfat-fuse" files in the root of your internal storage ( /sdcard ), StickMount will automatically use them.
+
+This upgrade enables extra features in StickMount and supports StickMount's development. See StickMount's description to learn about these features.
+The price is aimed at being approximately one beer at the bar 
+
+More Info:
+  
+https://play.google.com/store/apps/details?id=eu.chainfire.stickmount.pro

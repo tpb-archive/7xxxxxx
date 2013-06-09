@@ -1,0 +1,18 @@
+Re-Encode From 720p Release
+Compatible With DivX DVD Players (720x400 Resolution)
+
+Screenshots: http://bayimg.com/FAGgBaaEO
+
+Resolution: 720x400
+Video Bitrate: 2017kbps
+Audio: AC3 ACM 5.1 Channel @ 256kbps @ 48,000hz
+
+Method used:
+Encoding Program: VirtualDub With Directshow Driver Plugin
+Video Settings:
+Lanczos3 Resize Filter And Saved Uncompressed @ 49.6GB
+Compressed With DivX 2-Pass On "Insane Quality" Setting, H.263 Optimized
+Audio:
+Demuxed with tsMuxerGUI
+Imported With Audacity And Saved As Uncompressed WAV
+Compressed With AC3 ACM Codec

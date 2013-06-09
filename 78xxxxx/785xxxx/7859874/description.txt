@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 60min28secs
+
+The Bowery Boys 1957 Hold That Hypnotist
+ 
+http://www.imdb.com/title/tt0050515/
+
+[14:19:57] starting job
+[14:19:57] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:19:57] job configuration:
+[14:19:57]  * source
+[14:19:57]    + C:Hold That HypnotistVIDEO_TS
+[14:19:57]    + title 1, chapter(s) 1 to 1
+[14:19:57]  * destination
+[14:19:57]    + C:Documents and SettingsDead End KidsMy DocumentsHold That Hypnotist.mkv
+[14:19:57]    + container: Matroska (.mkv)
+[14:19:57]      + chapter markers
+[14:19:57]  * video track
+[14:19:57]    + decoder: mpeg2
+[14:19:57]      + bitrate 8000 kbps
+[14:19:57]    + frame rate: same as source (around 23.976 fps)
+[14:19:57]    + strict anamorphic
+[14:19:57]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[14:19:57]      + pixel aspect ratio: 8 / 9
+[14:19:57]      + display dimensions: 640 * 480
+[14:19:57]    + encoder: x264
+[14:19:57]      + options: ref=2:bframes=2:me=umh
+[14:19:57]      + bitrate: 395 kbps, pass: 2
+[14:19:57]  * audio track 0
+[14:19:57]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[14:19:57]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[14:19:57]    + mixdown: Stereo
+[14:19:57]    + encoder: faac
+[14:19:57]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,ripthejacker420,2012-11-30T20:00Z,"Norton AV listed this as a threat. i'm not sure how correct that is but i'm not taking the risk. 
+
+
+
+Threat: WS.Reputation.1
+____________________________
+____________________________
+On computers as of Not Available
+Last Used 11/30/2012 at 1:55:04 PM
+Startup Item No
+Launched No
+____________________________
+____________________________
+Unknown
+Number of users in the Norton Community that have used this file: Unknown
+____________________________
+Unknown
+This file release is currently not known.
+____________________________
+Medium
+This file risk is medium.
+____________________________
+Threat Details
+Threat type: Insight Network Threat. There are many indications that this file is untrustworthy and therefore not safe
+____________________________
+
+____________________________
+
+File Thumbprint - SHA:
+a94e7cb8cb27d7e1c2488315d81152ae35b868686f74002e0af8e49b888f5c51
+____________________________
+File Thumbprint - MD5:
+1841a8abb0be255abf6371d1c23e75ce
+____________________________
+
+Updated:
+    February 15, 2012 3:15:47 PM
+Type:
+    Other
+Risk Impact:
+    High
+Systems Affected:
+    Windows XP, Windows Vista, Windows NT, Windows Server 2003, Windows 2000
+
+Behavior
+WS.Reputation.1 is a detection for files that have a low reputation score based on analyzing data from Symantec’s community of users and therefore are likely to be security risks. Detections of this type are based on Symantec’s reputation-based security technology. Because this detection is based on a reputation score, it does not represent a specific class of threat like adware or spyware, but instead applies to all threat categories.
+
+The reputation-based system uses ""the wisdom of crowds"" (Symantec’s tens of millions of end users) connected to cloud-based intelligence to compute a reputation score for an application, and in the process identify malicious software in an entirely new way beyond traditional signatures and behavior-based detection techniques."
+[V],TorDigger,2012-12-01T02:24Z,"@ripthejacker420: Don't know why your AV got mad, even its genuine from vendor and goodware"
+,keywest33,2012-12-01T22:26Z,"Absolutely clean -scanned ms security essentials/mbm/free antispyware.
+                                                Must be something wrong with his a/v .
+                            Thanks for upload"
+,keywest33,2012-12-01T22:29Z,@ripthejacker420  I would get rid of Norton if I was you.

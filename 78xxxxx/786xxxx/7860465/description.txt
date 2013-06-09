@@ -1,0 +1,68 @@
+MEDIA INFO:
+
+Video 
+Identifier: 1 
+Format: AVC 
+Format / Information: Advanced Video Codec 
+Format Profile: High@L4.1 
+Setting format, CABAC: Yes 
+Setting format, ReFrames: 4 frames (-s, s) 
+Id codec: V_MPEG4/ISO/AVC 
+Duration: 22 min. 
+Bit rate: 10 000 kbit / s 
+Frame Width: 1920 pixels. 
+Height ratio: 1 080 pixels. 
+Aspect ratio: 16:9 
+Frame Rate: 23.976 frames / sec 
+Color Space: YUV 
+Downsampling saturation: 4:2:0 
+Bit Depth: 8 bits 
+Scan type: Progressive 
+Bits / (Pixel * frame): 0.201 
+Stream: 1.56 hybrid (90%) 
+Title: Friends Season 01 
+Encoding library: x264 core 125 r2200 999b753 
+Language: English 
+
+Audio # 1 
+ID: 2 
+Format: AC-3 
+Format / Information: Audio Coding 3 
+Expansion mode: CM (complete main) 
+Codec ID: A_AC3 
+Duration: 22 min. 
+Mode of calculation bitrate: Postinyy (CBR) 
+Bitrate: 192 kbit / s 
+Number of channels: 2 Channel (s, s) 
+Channel Positions: Front: LR 
+Sampling frequency: 48.0 kHz 
+Bit depth: 16 bits 
+Type of compression: lossy 
+Stream: IIB 2.31 (2%) 
+Title: AC3 2.0 @ 192 kbps 1 +1 
+Language: Ukrainian 
+
+Audio # 2 
+ID: 3 
+Format: AC-3 
+Format / Information: Audio Coding 3 
+Expansion mode: CM (complete main) 
+Codec ID: A_AC3 
+Duration: 22 min. 
+Mode of calculation bitrate: Postinyy (CBR) 
+Bitrate: 640 kbit / s 
+Number of Channels: 6 Channel (s, s) 
+Channel Positions: Front: LCR, Side: LR, LFE 
+Sampling frequency: 48.0 kHz 
+Bit depth: 16 bits 
+Type of compression: lossy 
+Stream: 104 IIB (6%) 
+Title: AC3 5.1 @ 640 kbps 
+Language: ENGLISH
+
+Text 
+ID: 4 
+Format: UTF-8 
+Codec ID: S_TEXT/UTF8 
+Id codec / Information: UTF-8 Plain Text 
+Language: English

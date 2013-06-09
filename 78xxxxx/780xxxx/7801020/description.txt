@@ -1,0 +1,22 @@
+New Redsn0w 0.9.15b3
+
+Dev-Team has released a new update for redsn0w , the famous tool to jailbreak.
+Update # (Nov 1): Version 0.9.15b3 fixes the redsn0w ΓÇ£error 2601ΓÇ¥ that Windows users were seeing using the Restore button.  It also fixes a related Windows iTunes error 14 for stitched files.   Note that if you have a baseband, you should probably avoid stitching and simply use redsn0wΓÇÖs native Restore (not iTunes).  
+
+
+Those lucky recipients of new iPad minis and iPad4s can use this redsn0w to save your 6.0 blobs off to Cydia.  First connect your new device and turn it on, then use redsn0wΓÇÖs Extras->SHSH Blobs->New and point it at the 6.0 IPSW.
+
+
+1. redsn0w now lets you restore an A5+ device from any iOS5 to any other iOS5 as long as you have correct 5.x blobs for the starting (current) and ending points of the restore
+
+
+2. You DO NOT QUALIFY for iOS5-to-iOS5 restores if you got to your current 5.x via an OTA update
+
+
+3. Unlike the A4 devices, redsn0w canΓÇÖt (usefully) prevent the baseband updates of A5+ iPhones and iPads.
+
+
+4. iPad2 owners (all three models) with saved 4.x blobs can use those instead, even from 6.x
+
+
+5. As always, redsn0w lets you ΓÇ£FetchΓÇ¥ the SHSH blobs currently flashed onto your pre-A5 device

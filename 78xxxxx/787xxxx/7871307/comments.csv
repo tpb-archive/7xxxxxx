@@ -1,0 +1,66 @@
+﻿User Type,Username,Date,Text
+[T],T.F.K,2012-11-29T17:21Z,SEED and ENJOY by T.F.K team
+,brianxxx,2012-11-29T20:07Z,WOW! Really nice p! Love this prog...thanks!
+,psycho34,2012-11-30T01:30Z,"Folks you don't have to ""burn"" it save some $
+also give your cd dvd rom a break  = D
+just get this app Grub4Dos installer 1.1
+then extracted to usb with daemon tools pro
+and whoalaaa thank you Mr uploader!!!"
+,psycho34,2012-11-30T16:17Z,"Ok an update from Dr psycho
+easiest way to installed it on a USB
+
+
+Plug-in UsB Drive into PC
+
+1.    Find and right-click the Windows Command Prompt in your Start Menu and choose to run it as an Administrator.
+
+2.    At the prompt, enter ""diskpart"" to launch Microsoft’s disk management utility. The command line should now read “DISKPART>”.
+
+3.    Type ""list disk"" to show a list of all disk drives. If your USB key is plugged into your PC, it should be listed here, along
+ with other physical drives. Note the USB key’s disk number – you can pick it out by looking at the disk capacity.
+
+4.    Type **""select disk #"", with the USB key’s disk number in place of #.
+
+5.    Type ""clean"" for the utility to clean the disk, which DiskPart will confirm.
+
+6.    Create a new bootable partition by entering ""create partition primary"". 
+
+7.    Choose this partition with select partition 1, and then mark it as active by typing ""active"".  
+
+8.    Format the key by inputting ""format fs=fat32"". This should take a few minutes, and DiskPart will display a progress percentage. 
+
+9.    Lastly, type ""assign"" to give this USB key a drive letter. Close the DiskPart program using ""exit""
+
+You can now copy your OS’s installation files from the original DVD or Extract ISO onto the USB Drive. We also recommend copying 
+your hardware drivers onto the same key so the OS installation wizard can find them. 
+
+
+
+Note: 
+* All commands must be entered without punctuations.
+** # this sign mean Number (don't place this mark in command prompt)e.g: select disk 2(here 2 is your USB drive #)
+
+
+Command line to copy OS files:
+
+xcopy d:*.* /s/e/f e:    (here d: is where your OS files saved and e: is USB Drive letter)
+
+
+Important Note: First Understand after that Apply.
+
+
+Upload by iahq76
+
+
+
+
+okay Thank you Mr iahq76
+
+now get MAGIC ISO 5.5 right click on the 
+iso image you just downloaded and extract to USB,and whoalaaa  now It didn't work for me when I tried to installed it on a 1GB or 2GB USB it only worked for me when I used a 4 GB USB
+I'm using windows 7 ultimate 64 bit.....that's all folks!"
+,bert16,2012-12-01T01:51Z,"@psycho34 - thanks for your tutorial on getting this to boot on USB. What I'm wondering is, how exactly do you copy Window's hardware drivers to the flashdrive?"
+,psycho34,2012-12-01T15:52Z,@bert16 how exactly do you copy Window's hardware drivers to the flashdrive? I don't know remember it was Uploaded by iahq76 after you format fs=fat32  ignore the rest windows 7 already assign a drive letter  just reboot press esc and boot from your USB 
+,psycho34,2012-12-01T16:33Z,"the link ""Making Bootable USB Drive For Any OS""
+
+http://thepiratebay.se/torrent/7197473/Making_Bootable_USB_Drive_For_Any_OS_%5Biahq76%5D"

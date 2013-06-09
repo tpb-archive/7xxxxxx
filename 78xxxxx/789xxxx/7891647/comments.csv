@@ -1,0 +1,62 @@
+﻿User Type,Username,Date,Text
+,Themperror,2012-12-05T19:35Z,"How to get the songs workong on legit steam:
+
+the only requirement is that you own atleast ONE DLC of any kind (time saver pack/song/ preorder thingy (any .dat inside your content folder that you ACTUALLY own)
+
+
+Run RocksmithTookitGUI.exe that comes in the rar in this torrent.
+
+1. Go to the DLC Packer/Unpacker tab and unpack your DLC (anything that you OWN inside your content folder) .. then open the APP_ID file with notepad and copy the number inside there
+
+2. then fill in that number in the textfield (theres the APP ID from the song Damnit)
+
+3. then select the folder where you'd like all the output we are going to get (make this something else then the folder where all your DLC's are) - SavePath
+
+4. and click bulk repack and then select the folder where you have all your downloaded DLC's 
+
+(make sure the only files inside that folder are .dat files, else the program will probably crash (I didn't program any error checking))
+then click Bulk Repack.. now it may look like the program is hanging or going to crash but it won't, it's just busy repacking your DLC's
+
+
+
+What it's doing now is.. unpacking all the DLC's you have in that folder.. editing the APP_ID number and repacking them again.. Just look inside the folder.. you'll notice when it's done 
+then copy all the .dat files to your content folder and voila.. got all DLC's on legit rocksmith		
+
+
+How to get these working on cracked rocksmith:
+
+Copy all the .dat files into the Content folder in your rocksmith folder  (if theres no content folder, create one)
+
+IF the songs don't get detected try another crack (Also SOME no-cable cracks have some troubles detecting the DLC's)
+
+(DO NOT use my old crack (by themperror and sam2k8), It's old and useless, it won't detect the DLC's)"
+,Themperror,2012-12-05T19:36Z,Also.. Why can't i delete any of my torrents? when I press the delete torrent button it just refreshes the page..
+,laaban77,2012-12-05T20:39Z,Thanks :)
+,monomi,2012-12-05T20:56Z,"""Creep"" and ""Some Might Say"" arent official DLC, they are custom songs."
+,onurdogu,2012-12-06T00:35Z,"Great Torrent! Thanks a million times! I have a problem with Whitesnake's Is This Love. The song just does not finish, it's stuck at the end of the song, just waits after the fade away is done. I can play and hear the guitar; but the menu just does not move along. Any thoughts? Secondly, can you tell us how to back up our whole Rocksmith profile? Where is it located?"
+,onurdogu,2012-12-06T00:47Z,Is there any chance some can tell me which data file name corresponds to Whitesnake - Is This Love? I can try deleting the file and see if that works. Thank you.
+,m0ranwad,2012-12-06T04:25Z,"Themperror... for those of us running legit, can you expound on the ""You can try other ID's"". Should I just try a random number? "
+,m0ranwad,2012-12-06T05:01Z,"On Legit RockSmith using these instructions, the following songs do not work (for me).
+
+The Reaper, Tighten Up, Barracuda, All 4 Custom DLC's, All of the A7X songs (for bass), My Sharona, along with the new Pantera and Funk pack.
+
+Followed everything to a T. What gives?"
+,m0ranwad,2012-12-06T05:43Z,"Scratch that, and sorry for the spam. Pantera, Funk, and A7X now work fine. 
+
+For the other songs that still do not work - I tried Repacking with Dammit's appID, and also The Offspring's Come out and Play appID (206137). Neither of these methods worked. "
+,onurdogu,2012-12-07T16:57Z,"O.K. I've found Whitesnake - Is This Love has the file name RS001SONG0000071. Deleting it worked like a charm. I'm going on with the journey.
+
+Now can someone tell me how to backup the Rocksmith Profile? I need to reinstall Windows. Where are the profile files located?"
+,onurdogu,2012-12-07T17:29Z,"I've found this document searching all over the internet for save game transfer, but it seems really tedious:
+
+http://rsmods.oakey-dev.eu/index.php?title=Savegame_Transfer"
+,Crimson.Thunder,2012-12-07T18:14Z,"@m0ranwad
+
+(Don't Fear) The Reaper, Barracuda and My Sharona (for me) didn't work with these files, search Themperor's older torrents for the 61 song pack and use the songs with ID 16, 17 and 55 to fix them. 
+
+To the best of my knowlege there is no Tighten Up song unless it has the same issue with the songs above.
+
+Themperror is there any chance for you to upload a cleaner torrent with the custom songs in a different folder and possibly having the song name to the song ID so we can take songs out we don't want, to clean up the list of songs in Rocksmith so we can easily find the songs we want to play? "
+,monomi,2012-12-08T00:23Z," @Crimson.Thunder
+I tried using the files on that torrent but they still wont show up (Don't Fear The Reaper, Barracuda,My Sharona), in fact I think i've been using those all along. Are you sure you're using a legit version of rocksmith? (without any type of crack)
+ If so, what APP ID number did you pack your  songs with?"

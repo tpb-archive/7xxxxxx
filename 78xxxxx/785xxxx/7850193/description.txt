@@ -1,0 +1,36 @@
+============================================================================
+|This is a language support release for hotfixes released Nov13 2012       |
+|----------------------------------murphy78--------------------------------|
+|No Windows 8 Settings were harmed in the making of this ISO.              |
+|No Programs are added.                                                    |
+|No Unattended Settings were added to the installation.                    |
+|No Registry Settings were modified.                                       |
+|----------------------------------murphy78--------------------------------|
+|Source: MSDN en_windows_8_x86_dvd_915417.iso                              |
+|This 32-bit RTM is the final Build 9200                                   |
+|----------------------------------murphy78--------------------------------|
+|Languages: en-US (English - United States), el-GR (Greek - Greece),       |
+|fi-FI (Finnish - Finland), lt-LT (Lithuanian - Lithuania),                |
+|lv-LV (Latvian - Latvia)                                                  |
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction                                               |
+|dism for file package addition                                            |
+|oscdimg for iso mastering                                                 |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|KB2712101, KB2727528, KB2729462, KB2737084, KB2756872, KB2758246-v2,      |
+|KB2761094, KB2761226, KB2764870, KB2768703, KB2769034, KB2769165,         |
+|KB2770041, KB2770917, KB2771744, KB2771821, KB2777166, KB2778171,         |
+|KB2780342, KB2780523                                                      |
+|Net 2.0-3.5.1 enabled by DISM using SXS folder in sources directory       |
+|----------------------------------murphy78--------------------------------|
+|KB Files NOT added:                                                       |
+|KB2772501 - Unavailable for D/L 33kb IE10 iepropschema update             |
+|----------------------------------murphy78--------------------------------|
+|The MSDN iso source is the best image available on the internet at the    |
+|time of integration.                                                      |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 :)                                                               |
+============================================================================

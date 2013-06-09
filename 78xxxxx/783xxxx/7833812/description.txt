@@ -1,0 +1,36 @@
+ I9300XXLSJ Android 4.1.2 Jelly Bean Test firmware for the Galaxy S II. I9100XXLSJ is the first ever Jelly Bean leak for the Galaxy S II and surprisingly itΓÇÖs really stable as well.
+
+
+This build is very much near perfect so we believe that Samsung will actually start rolling out the Official Jelly Bean update for the Samsung Galaxy S II very soon. The day Samsung starts to roll out the official update you will be able to install the latest update through Kies or OTA update.
+Some of the Enhancements in the new Jelly Bean Update:
+- Buttery Smooth Performance & Great Stability (Thanks to Project Butter)
+- New TouchWiz Nature UX (Same UI as of the Galaxy S III and Galaxy Note II)
+- SamsungΓÇÖs Cloud services
+- Direct Call, Smart Stay and Pop-up Play Features
+- New Widgets From the Galaxy S III
+- 2 Home screen modes
+- New Notifications bar
+- Google Now
+This is a PRE-RELEASE version so not official from KIES.
+As this is a PRE-RELEASE firmware so expect some minor bugs.
+Firmware Details: 
+Android Version: 4.1.2 ΓÇô JZO54K (Jelly Bean)
+PDA: I9100XXLSJ
+CSC: I9100OXXLS1
+MODEM: I9100XXLS6
+Changelist: 462349
+Build Date: 6th November 2012
+
+Flashing Instructions:
+
+- Open Odin 3.04 (already included in the firmware package)
+- Restart phone in download mode (Home+power+vol down)
+- Connect phone and wait until you get a yellow sign in Odin
+- Add CODE_I9100XXLSJ.tar to PDA
+- Add MODEM_I9100XXLS6.tar to PHONE
+- Add CSC_HOME_OXX_I9100OXXLS1.tar to CSC
+- Make sure re-partition NOT ticked
+- Start flash, sit back and wait a few minutes.
+
+video:
+

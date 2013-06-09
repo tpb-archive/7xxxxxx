@@ -1,0 +1,79 @@
+
+
+Plot:
+A team of scientists travels through the universe on the spaceship "Prometheus"
+on a voyage to investigate alien life forms. The team of scientists becomes
+stranded on an Alien world, and as they struggle to survive it becomes clear that
+the horrors they experience are not just a threat to themselves, but to all of
+mankind.  
+
+SCREENSHOTS:
+ 
+http://lookpic.com/O/i2/1620/OiycK8NO.png
+ 
+http://lookpic.com/O/i2/1400/hlIoPif.png
+ 
+http://lookpic.com/O/i2/119/czayWZ5g.png
+ 
+http://lookpic.com/O/i2/1679/EDCQISsH.png
+
+General
+Complete name                  : Prometheus_2012_720p_BDRip_QEBS9_AAC20_MP4-FASM.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom
+File size                      : 1.37 GiB
+Duration                       : 2h 3mn
+Overall bit rate mode          : Variable
+Overall bit rate               : 1 584 Kbps
+Encoded date                   : UTC 2012-11-05 06:49:03
+Tagged date                    : UTC 2012-11-05 06:49:03
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 2h 3mn
+Bit rate                       : 1 495 Kbps
+Maximum bit rate               : 12.2 Mbps
+Width                          : 1 280 pixels
+Height                         : 528 pixels
+Display aspect ratio           : 2.40:1
+Frame rate mode                : Constant
+Frame rate                     : 23.976 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.092
+Stream size                    : 1.29 GiB (94%)
+Title                          : 1280x528.264#trackID=1:fps=23.976 - Imported with GPAC 0.5.0-rev4065
+Writing library                : FASM Quality Enhancer Bitrate Squeezer 9.0 (c)2012 Fachman
+
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio
+ID                             : 2
+Format                         : AAC
+Format/Info                    : Advanced Audio Codec
+Format profile                 : LC
+Codec ID                       : 40
+Duration                       : 2h 3mn
+Bit rate mode                  : Variable
+Bit rate                       : 84.5 Kbps
+Maximum bit rate               : 131 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 74.8 MiB (5%)
+Language                       : English
+
+This is an experimental encode, where I wanted to fit into whats called "sufficient bitrate". I mean the minimum bitrate where I could put maximum details at minimum commpression artefact for average viewer. So its far from perfect, but it will give you the touch of true HD quality.

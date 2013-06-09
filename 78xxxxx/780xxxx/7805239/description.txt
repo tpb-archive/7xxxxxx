@@ -1,0 +1,31 @@
+HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed. The program handles the most common sensor chips, like ITE┬« IT87 series, most Winbond┬« ICs, and others. In addition, it can read modern CPUs on-die core thermal sensors, as well has hard drives temperature via S.M.A.R.T, and video card GPU temperature.
+
+
+Features:
+
+Remote Monitoring
+Watch the sensors of one or several distant PCs through a simple TCP/IP connection.
+
+Graph Generator
+Save monitoring data and generate logging graphs as bitmap files.
+
+Improved Interface
+Sensors in system tray, editable sensors labels ...
+
+PWM Control
+Fan PWM control (for ESA compliant devices).
+
+
+Changes
+Fixed package temperature on AMD FX (Zambezi and Vishera).
+Report real-time power on AMD FX (Zambezi and Vishera).
+Support complete telemetry on AMD APU (Trinity).
+Fixed package power on multi-CPU Intel platforms.
+Added support of Nuvoton NCT7904D chip.
+Added option "Minimize to tray".
+Support for Antec CC watercoolers. That support is preliminary, it requires the use of the 32-bit version of HWMonitorPRO, and requires that the ChilControl application does NOT run in the same time.
+
+Install:
+
+- run application
+- use keygen

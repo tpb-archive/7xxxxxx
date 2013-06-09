@@ -1,0 +1,58 @@
+***Audio Re-encoded***
+
+Abalone.Wars.S01E02.mp4
+
+General
+
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 400 MiB
+Duration                                 : 41mn 58s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 331 Kbps
+
+
+Video
+
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 41mn 58s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 200 Kbps
+Maximum bit rate                         : 2 000 Kbps
+Width                                    : 700 pixels
+Height                                   : 392 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.175
+Stream size                              : 360 MiB (90%)
+Writing library                          : x264 core 114
+
+
+Audio
+ID                                       : 1
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 41mn 58s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 576 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 38.4 MiB (10%)

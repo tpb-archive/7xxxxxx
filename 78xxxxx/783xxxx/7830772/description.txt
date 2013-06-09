@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 65min48secs
+
+The Bowery Boys 1952 Here Come the Marines
+ 
+http://www.imdb.com/title/tt0044700/
+
+[15:26:35] starting job
+[15:26:35] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[15:26:35] job configuration:
+[15:26:35]  * source
+[15:26:35]    + C:Here Come The MarinesVIDEO_TS
+[15:26:35]    + title 1, chapter(s) 1 to 1
+[15:26:35]  * destination
+[15:26:35]    + C:Documents and SettingsDead End KidsMy DocumentsHere Come The Marines.mkv
+[15:26:35]    + container: Matroska (.mkv)
+[15:26:35]      + chapter markers
+[15:26:35]  * video track
+[15:26:35]    + decoder: mpeg2
+[15:26:35]      + bitrate 8000 kbps
+[15:26:35]    + frame rate: same as source (around 23.976 fps)
+[15:26:35]    + strict anamorphic
+[15:26:35]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[15:26:35]      + pixel aspect ratio: 8 / 9
+[15:26:35]      + display dimensions: 640 * 480
+[15:26:35]    + encoder: x264
+[15:26:35]      + options: ref=2:bframes=2:me=umh
+[15:26:35]      + bitrate: 397 kbps, pass: 2
+[15:26:35]  * audio track 0
+[15:26:35]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[15:26:35]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[15:26:35]    + mixdown: Stereo
+[15:26:35]    + encoder: faac
+[15:26:35]      + bitrate: 160 kbps, samplerate: 48000 Hz

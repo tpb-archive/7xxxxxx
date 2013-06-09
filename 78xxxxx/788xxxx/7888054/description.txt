@@ -1,0 +1,32 @@
+The Complete Genealogy Builder
+
+The Complete Genealogy Builder is a 99.9% compliant GEDCOM 5.5 database manager for the creation and maintenance of genealogy projects. This level of GEDCOM compliance is determined as the average of import compliance (all GEDCOM-compliant data from another genealogy program will be imported completely and correctly) and export compliance (all data are exported such that a another genealogy program will be able to import all GEDCOM-compliant data completely and correctly). Of all other genealogy programs, only Family Historian is known to exhibit a comparable level of import compliance, and we believe that no other program offers a comparable level of export compliance.
+
+The Complete Genealogy Builder includes the following capabilities that are rarely found, if at all, in most other genealogy programs:
+
+Full Unicode support. You may freely incorporate any characters from any Unicode language character set within your data.
+Multi-national keyboard support when entering or editing Notes. You may switch keyboard types (for example, English to Greek and back to English) as you type Note texts.
+Cascading forms window structure. As shown in the above animation, data are entered and edited via a cascading input form structure.
+Virtually all GEDCOM 5.5 standard (and many GEDCOM 5.5.1 proposal) data types.
+Extended image support including "Cutouts" (similar to "Marked Faces" of Family Tree Builder and "Frame Links" of Family Historian).
+Marking of sections of Note texts as "Sensitive" or "Private". These may be included in, or excluded from, GEDCOM exports.
+Spell checking of Note texts (various languages will be supported). All Notes may be spell-checked in a single operation via the Tools menu.
+Numerous validation tools. These include checking for non-standard date formats, improbable event dates, missing OBJE files, and individuals without a sex designation.
+Restricted status ("Confidential" or "Private") of specific Individual, Family, or Event data. These may be included in, or excluded from, GEDCOM exports.
+Font attributes (bold, italic, underscore and superscript) within Note texts.
+Multiple export options tailored for maximum compatibility with various other genealogy programs that exhibit non-standard behaviors.
+"Embedded" GEDCOM export. This encodes all external OBJE files within the exported file according to the GEDCOM "BLOB" tag standard. When imported by The Complete Genealogy Builder on another system, the OBJE files will be recreated as external files.
+"Minimal" GEDCOM export. This includes only the individuals' names plus the dates and places for births, marriages and deaths; which is all that you need to share with public websites that do intelligent matching of different users' databases.
+The above screenshot is that of the main window. If the main window is sufficiently wide, the Index of Individuals will appear on the right side. If the main window is sufficiently high, Grand- and Great-Grand- relations will be shown within the Individual and Family frames. Navigation is achieved by simple clicks on any of the names displayed. 
+
+Supported OS:
+
+Windows All
+
+Homepage: http://www.tcgr.bufton.org/index.html
+
+Installation Instructions:
+
+1. Install program.
+2. Use given name and key to register application.
+3. Done, Enjoy.

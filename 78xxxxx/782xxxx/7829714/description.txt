@@ -1,0 +1,8 @@
+Final ( hopefully ) date fix for Call.of.Duty.Black.Ops.II-SKIDROW
+
+I have included the source since I won't be working on this anymore, as I have beaten the game.
+
+This hooks your timezone and day of the year to always be 11/14/2012 in Bejing, China.
+
+drop GabensWrath.dll and steam_api.dll into your CoD installation dir ( the one with t6sp.exe )
+and replace any existing files.

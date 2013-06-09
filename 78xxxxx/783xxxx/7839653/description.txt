@@ -1,0 +1,75 @@
+This is a stabler cleaned up version of skyrim jacked 2.0 and retains 99.9% of the fuctions from the older version this version also fixes map markers and makes helms visable.
+
+This file is for skyrim1.8.151 This file is for skyrim1.8.151 This file is for skyrim1.8.151 This file is for skyrim1.8.151 This file is for skyrim1.8.151
+
+This File REQUIRES ALL THE DLCS (DAWNGUARD HEARTHFIRE AND HI RES TEXT PACK)
+This File REQUIRES ALL THE DLCS (DAWNGUARD HEARTHFIRE AND HI RES TEXT PACK)
+This File REQUIRES ALL THE DLCS (DAWNGUARD HEARTHFIRE AND HI RES TEXT PACK)
+
+I am not a mod creator or artist and take NO CREDIT in doing any such things.
+ 
+This file will require at least a gtx 560 or equivalent Radeon model to achieve playable framrates 30+
+
+This was created so my skyrim loving friends don't have to download over 250gb's of mod files and spend over 80+ hours of time customizing the mods to get them to work / sync with no graphical errors or game-play bugs. Feel free to use this if you like them want a seriously beefed up skyrim experience without the hassle of modding it yourself.
+
+I am not a mod creator or artist and take no credit in doing any such things.
+
+This includes everything from new character models and textures to new dust particles on the ground as well as completely redone perk trees and better magic experience for pure Mages.
+
+I'm not going to list every single mod but i will do a quick feature list of the big mods.
+
+Full High-Res S.T.E.P. Installation found here http://skyrim.nexusmods.com/mods/11 (Note that guide is not updated for 1.8.151 so i did not follow it 100%)
+
+RCRN 3.5 found here http://skyrim.nexusmods.com/mods/1875 (This has been merged with an ENB as well to provide more vibrant daytime colors Godrayes, shadow fixing and Parralex support.
+
+Automatic Varients found here http://skyrim.nexusmods.com/mods/21377 (This allows randomly textured monsters to spawn so not everything looks like clones of each other)
+
+Tales of Lycanthropy http://skyrim.nexusmods.com/mods/12687 (you will have to configure this yourself via the ingame ring that will be in you new characters inventory) -=- This is a complete werewolf overhaul that makes the werewolf experience truly unique.
+
+Better Vampires http://skyrim.nexusmods.com/mods/9717 (More like traditional vamps from everywhere but elder scrolls you get STRONGER by feeding not weeker)
+
+Make Inferno http://skyrim.nexusmods.com/mods/26429/ (Literally Set the world on fire and oh yes fire dragons become harder to fight :)
+
+SkyRe (T3nd0s Skyrim Redone) http://skyrim.nexusmods.com/mods/9286 (Changes so many things about the game i can't even begin to explain)
+
+Ultimate Follower Overhaul UFO- (http://skyrim.nexusmods.com/mods/14037)
+(Want to have 15 Mercs following you around fighting? Want followers to level with you now they do!)
+
+Apachii Sky Hair (http://skyrim.nexusmods.com/mods/10168) All the hairs
+
+LiFE - Lith Face Enhancement (http://skyrim.nexusmods.com/mods/26354) Used in combo with UNPCV2 (http://skyrim.nexusmods.com/mods/25080)
+
+3 Unoffical Patches for Skyrim Dawnguard and Hearthfire  
+http://skyrim.nexusmods.com/mods/19  
+http://skyrim.nexusmods.com/mods/23491  
+http://skyrim.nexusmods.com/mods/25127
+(These patches just add so much stability)
+
+Lots of weapons and armor sets added and they will spawn in the world on npcs as well as be available through merchants through the use of Wyre Bashes level List merger.
+
+This whole file has been Bash Patched
+
+Bards will sing these songs by Mallukah
+
+
+Werewolfs will have epic sounds
+
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-
+(THINGS YOU WILL HAVE TO DO) (THINGS YOU WILL HAVE TO DO) (THINGS YOU WILL HAVE TO DO)
+-=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-=--=-=-=-
+Navagate to where ever your steam is installed Steamsteamappscommon move the skyrim folder from this rar file into common and click yes to all merge folders and overwrite files
+
+Navagate to your skyrim folder and create a shortcut to skse_loader run skyrim from this shortcut always.
+
+Skyrim Unplugged Go here http://skyrim.nexusmods.com/mods/12744 (read description follow instructions to prevent autoupdates from steam destroying you game)
+
+Download, install and run Boss to order these plugins correctly. 
+http://skyrim.nexusmods.com/mods/6
+
+Now download and install Wyre Bash 
+http://skyrim.nexusmods.com/mods/1840
+
+Run wyre bash and on the mods tab drag and drop LostLongSwords.esp and SkyRE_plugins_NicoroshiCreations.esp under the SkyRE block of mods. (do this or your game will crash) Now move Automatic Varients.esp and Bash Patch, 0.esp to the very bottom. Right click the Bashed Patch and rebuilt patch hit ok! Your done.
+
+
+Congrats you did in about maybe 20 mins what i did over the better part of 2 weeks in my free time.

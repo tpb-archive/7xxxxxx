@@ -1,0 +1,32 @@
+ES Cross-Country 2012-11-17 Bruksvallsloppet Freestyle Hi10p PDTV x264 NX
+
+17th Nov 2012 British Eurosport 1
+10:30-11:45 men (live)
+11:45-12:45 ladies (live)
+
+The mens 15km and ladies 10km individual freestyle at Bruksvallsloppet Sweden.
+
+Coming up: 18th Nov 2012 Bruksvallsloppet Sprints.
+A 60 minute live broadcast is available only on European Eurosport 2 at 11:30 GMT/12:30 CET. A 30 minute record highlights version will be broadcast on British Eurosport 2 at 18:00 GMT.
+
+Technical Spec
+Filesize__: 679+516 MB
+Run-Time__: 66+54 min
+Container_: MKV
+Video_____: x264 CABAC L3.1 832x468 25fps bitdepth=10 chroma=4:2:0 CRF 25
+Audio_____: HE-AAC 96Kbps ABR 2 channels 48KHz +10dB
+
+CRF 25 (10bit) is roughly equivalent to CRF 23 (8bit).
+The SD source is 544x576i with 16 pixel horizontal cropping giving a useable encode width of 528. W-Zoom is therefore 832/528 or about 157%.
+Cropping is also applied vertically to keep the aspect error less than 0.2%
+The SD source filesizes are: 1.54GB and 1.18GB.
+
+To play Hi10p you'll need to use a modern software player. It won't play with any hardware player or GPU assisted player because the video chipsets only support consumer level AVC spec, i.e. bitdepth=8bits and chroma=4:2:0. Hi422p and Hi444p are better but they take longer to encode. The idea is to use the lowest quantizer but keep the bitrate below 1500Kbps.
+
+Hi10p doesn't make the picture quality any better - it just preserves as much information as possible from the mpeg2 source.
+For better picture quality HD source must be used.
+Here's some 10bit software players: MPC-HC, VLC v2.x.x, XMBC v12, [S]MPlayer[X].
+CPU usage is higher during playback of 10bit depth video.
+
+The torrents will also be posted at NordixXplained blog - use google to find it.
+If TPB goes down the torrents will be available from other places at NX.

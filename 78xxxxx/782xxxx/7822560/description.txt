@@ -1,0 +1,51 @@
+Video:
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4.1 
+Format settings, CABAC : Yes 
+Format settings, ReFrames : 3 frames 
+Codec ID : V_MPEG4/ISO/AVC 
+Duration : 1h 54mn 
+Width : 1 280 pixels 
+Height : 544 pixels 
+Display aspect ratio : 2.35:1 
+Frame rate mode : Constant 
+Frame rate : 23.976 fps 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Language : Swedish 
+Default : Yes 
+Forced : No 
+Color primaries : BT.709 
+Transfer characteristics : BT.709 
+Matrix coefficients : BT.709 
+
+Audio: 
+Format : AAC 
+Format/Info : Advanced Audio Codec 
+Format profile : LC 
+Codec ID : A_AAC 
+Duration : 1h 54mn 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 48.0 KHz 
+Compression mode : Lossy 
+Title : AAC 2.0 
+Language : Swedish 
+Default : Yes 
+Forced : No 
+
+Subs 
+ID : 3 
+Format : UTF-8 
+Codec ID : S_TEXT/UTF8 
+Codec ID/Info : UTF-8 Plain Text 
+Language : English 
+Default : Yes 
+
+Screenshots 
+ 
+http://i.imgbox.com/abuMa5GB.png 
+http://i.imgbox.com/adm7v47W.png

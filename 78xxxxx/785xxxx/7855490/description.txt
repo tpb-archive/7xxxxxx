@@ -1,0 +1,70 @@
+PPPPPPPPPPPPPPPPP   NNNNNNNN        NNNNNNNN   SSSSSSSSSSSSSSS 
+P::::::::::::::::P  N:::::::N       N::::::N SS:::::::::::::::S
+P::::::PPPPPP:::::P N::::::::N      N::::::NS:::::SSSSSS::::::S
+PP:::::P     P:::::PN:::::::::N     N::::::NS:::::S     SSSSSSS
+  P::::P     P:::::PN::::::::::N    N::::::NS:::::S            
+  P::::P     P:::::PN:::::::::::N   N::::::NS:::::S            
+  P::::PPPPPP:::::P N:::::::N::::N  N::::::N S::::SSSS         
+  P:::::::::::::PP  N::::::N N::::N N::::::N  SS::::::SSSSS    
+  P::::PPPPPPPPP    N::::::N  N::::N:::::::N    SSS::::::::SS  
+  P::::P            N::::::N   N:::::::::::N       SSSSSS::::S 
+  P::::P            N::::::N    N::::::::::N            S:::::S
+  P::::P            N::::::N     N:::::::::N            S:::::S
+PP::::::PP          N::::::N      N::::::::NSSSSSSS     S:::::S
+P::::::::P          N::::::N       N:::::::NS::::::SSSSSS:::::S
+P::::::::P          N::::::N        N::::::NS:::::::::::::::SS 
+PPPPPPPPPP          NNNNNNNN         NNNNNNN SSSSSSSSSSSSSSS   
+
+GameKeyboard v3.0.2
+
+Requirements: Android 2.1+
+
+ Soft keyboard tailor-made for playing games. Control keyboard/gampad-only games with touchscreen (e.g. Flash, Xperia Play or Onlive games), or control touch-only games with physical keyboard/gamepad (e.g. Street Fighter IV HD).
+
+
+Features
+========
+1. virtual gamepad with:
+- multi-touch (depends on device and OS)
+- 4/8-way d-pad, up to 12 game buttons
+- resizable and customizable buttons layout
+- fully configurable buttons mappings
+2. re-mapping physical keys
+3. save key/button mappings to profiles
+4. full qwerty keyboard
+5. work with Accelerometer
+6. work with physical controller through OS or 3rd party tools like BluezIME and Sixaxis
+7. support user-defined macro to perform autofire, combo keys and action sequence with single button hit
+8. emulate Xperia Play and Onlive Controller buttons
+9. emulate Touchscreen action (need root)
+10. emulate Analog Joystick (need root)
+11. support USB Analog Stick (need root)
+12. support Xperia Play Touchpad in Gingerbread (need root)
+
+Compatibility
+=============
+This app is provided as an add-on for our emulators. Various features can work with many other apps but please test to ensure compatibility. For Motorola Bionic user, there is a ROM issue where many features only work with apps which are explicitly designed to work with soft keyboard.
+
+For best compatibility we recommend using Bluetooth Controller when physical controller is needed.
+
+How to call up GameKeyboard
+===========================
+Depends on device, ROM and target app there are many different ways to call up soft keyboard, e.g.:
+- some apps have built-in option to call up soft keyboard
+- some devices support using long pressing [Menu] key to call up soft keyboard
+
+GameKeyboard also provide two methods in case the above cannot be used:
+- switch to GameKeyboard Launcher, tap on the "call out keyboard after exit" button, then switch back
+- turn on "Settings->[Vol. Up] Key Action" then use [Vol. Up] as hotkey
+
+What's in this version:
+3.0.2
+-[change] Separate "Advance Input Detection" to 2 options:
+"Use Advance Input" - to support analog stick/touchpad
+"Alternate Key Detect" - only need when cannot detect keypress
+
+This app has no advertisements
+
+More Info:
+  
+https://play.google.com/store/apps/details?id=com.locnet.gamekeyboard

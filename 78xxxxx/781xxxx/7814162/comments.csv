@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+[T],cclloyd,2012-11-11T05:32Z,"A note:  This is only my first build.  I will try to do things like allow extensions and fonts to be added later, and reduce the file size while keeping widely used functionality."
+,creative3,2012-11-11T15:06Z,"hey cclloyd, nice post.
+one question: will it work on windows 8 x64 bits system?
+please clarify as I am excited to download if it works on windows 8 x64 bits system."
+[T],cclloyd,2012-11-11T15:44Z,I don't see why it sholdnt be forward compatible
+,Parasite17,2012-11-11T22:32Z,Is there no way to add custom presets and the like?
+[T],cclloyd,2012-11-11T23:12Z,"Unfortunately no.  All preferences are saved when I built it, so to keep them when you copy it to somewhere else, you would have to open it, make your changes, then copy everything.  
+"
+,biomatrix,2012-11-12T15:31Z,"does this move files on your system, like the PAF versions? or can I run it in conjunction with installed adobe products?"
+[T],cclloyd,2012-11-13T21:23Z,"The way ThinApps work is it runs it inside what is similar to a VM, so its all inside a virtual environment. 
+
+Short answer:  You can run it with other adobe products, but I don't suggest you run it at the same time as other products."
+,Android95,2012-11-22T23:09Z,so you removed support for the RAW format? and thanks for this i hate PAF format apps also looking forward to future versions with plugins and adding fonts support but will this work if they are system fonts will it use that folder like photoshop sopose to
+[T],cclloyd,2012-11-23T05:32Z,"The fonts will work if they are installed on your system.  I just removed the fonts that were added during installation except for a select few.
+
+You might also try dragging and dropping fonts into the window while the program is open."

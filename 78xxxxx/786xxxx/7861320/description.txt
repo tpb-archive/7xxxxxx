@@ -1,0 +1,19 @@
+Sygic GPS Navigation 12.1.3 for Android Devices Base File Only (no maps)
+
+Cracked version of Sygic GPS Navigation 12.1.3 with the Base Files. In addition all English language TTS (Text To Speech) files are included.
+
+Note: Post installation you just need to download maps from "My Sygic>>Manage maps".
+
+Instructions :
+1. Extract the contents of the .zip archive.
+2. Copy the folders 'LoquendoTTS', 'Sygic' and the file 'sygic_gps_navigation_12_1_3.apk' (previously extracted) to the root of your SD Card/Phone memory.
+3. Install application by executing the file 'sygic_gps_navigation_12_1_3.apk'. ('Unknown sources' option under 'SettingsApplications' should be enabled.
+
+Note:
+1. In case there is a previous Sygic installation on the phone, uninstall and delete the 'Aura' folder.
+2. I would not recommend using the 'My Sygic' feature (including logging on) as you understand this is not genuine software. Though some reports suggests that it still works!
+3. You can also disable internet access and 'My Sygic' feature if you want by customising certain hidden settings present in the file 'SygicAndroidsettings.ini' on the memory card of the phone :
+(a) At line 167, change 'internet=true' to 'internet=false', to disallow Sygic from using internet. It uses it to do an internet search of nearby PIOs, which might not be required.
+(b) At line 172, change 'mysygic=true' to 'mysygic=false', to disable 'My Sygic' option.
+
+Enjoy!!!

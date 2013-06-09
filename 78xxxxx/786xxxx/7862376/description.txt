@@ -1,0 +1,50 @@
+Minimum Requirements
+
+Pentium II or Athlon equivalent
+CPU Speed:	 733 MHz
+RAM:	 128 MB
+OS:	 Windows 98SE/ME/2000/XP (95 & NT not supported)
+Video Card:	 32 MB Video Card, T&L Capable
+DirectX version:	 8.1
+Sound Card:	 Yes
+Free Disk Space:	 1.2 GB
+CD-ROM:	 8x speed or faster CD-ROM drive
+
+Recommended Requirements 
+
+CPU:	 Pentium 4 or Athlon XP
+CPU Speed:	 1.5 GHz
+RAM:	 512 MB
+OS:	 Windows 2000/XP
+Video Card:	 64 MB DirectX 9.0 compliant Video Card with Hardware T&L
+DirectX version:	 9.0
+Sound Card:	 Yes
+Free Disk Space:	 2 GB
+CD-ROM:	 8x speed or faster CD-ROM drive
+
+
+Halo Custom Edition Installation Guide
+
+1. Extract Game to anywhere of your choosing
+2. Go inside the Redist folder
+3. Before launch run vcredist_x86.exe as admin and install it
+4. Inside NetFramework 3.5 SP1 folder run dotNetFx35Setup.exe and install it
+5. Inside the NetFramework 4.0 folder run dotNetFx40_Client_x86_x64.exe and install it
+6. Inside the DirectX_update folder Run DXSETUP.exe and install it
+7. Run Haloce.exe and enjoy
+
+Halo 3 Style Campaign and Main Menu Installation Guide
+
+1. Open Halo 3 Campaign Mod Custom Editon.rar with any archive program exp. WinRar, 7zip, Izarc, ect. 
+2. Locate your Halo Custom Editon Game folder
+3. Go inside that folder and look for maps folder
+4. Go inside that folder and back to your rar file drag and drop everything from the rar file into your Halo Custom Editon/Maps directory
+5. When asked to copy and replace files do so for all
+6. If needed admin permission to confirm replacing click yes or ok
+7. Now rerun Haloce.exe and Enjoy Halo 3 Style 
+
+To check for halo2 or halo3 styled multiplayer maps check here for updates
+
+For further requests or bug reports drop by a email @ crusisx@aol.com
+
+Thanks for reading, The DOThack Team

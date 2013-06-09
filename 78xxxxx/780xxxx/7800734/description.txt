@@ -1,0 +1,30 @@
+GiliSoft Private Disk
+
+Private Disk is one of the best disk encryption programs available on the market today. Protects information with the strongest encryption algorithm known today ΓÇô AES 256-bit. Besides offering state-of-the-art, trustworthy and reliable AES 256-bit NIST certified encryption, Private Disk provides additional protection for your confidential information by employing its innovative Disk Image Hide method. The Disk Image Hide protects your data by application, ensuring that no viruses, trojans, spyware or any other malware will harm or steal your valuable information. This encryption software also protects data on USB flash drivesΓÇô you can work with the encrypted files on any computer without installing the software locally.
+
+GiliSoft Private Disk is a software which will make transparent encryption using virtual hard drives.GiliSoft Private Disk uses a real-time on-the-fly encryption system to encrypt and decrypt data. Your files are stored in the encrypted form on virtual hard drive with password authentication, but when it is requested by any application, it gets decrypted on-the-fly. Conversely, unencrypted data to be stored is encrypted instantaneously and then stored. GiliSoft Private Disk mounts a volume file to create a "virtual drive" that appears to applications and users like any other physical drive. Any data that the user attempts to write to this drive is intercepted by kernal driver, encrypted, and written to the volume file.Attempts to read from this volume are also intercepted, and the relevant data is read by kernal driver from the volume file, decrypted, and presented to the application trying to read the data. 
+Dismounting the "virtual drive" ensures that data cannot be read from or written to it. All data is stored encrypted within the "container". As far as windows is concerned, there is a 'new' disk that has suddenly appeared.When the program exists or the volume is unmounted, the file system stays encrypted and there is absolutely no way anyone can recover/get the data without the pass phrase.
+
+Features and Benefits: 
+
+ΓÇóAES 256-bit encryption is the most secure symmetric encryption algorithm available today, chosen as a state standard due to its strength and efficiency.
+
+ΓÇóNIST certification of all the cryptographic components applied in our encryption software.
+
+ΓÇóPortability ΓÇô you can make a private disk on USB disk or move a private disk from HDD to USB disk,and you can work with the encrypted files on any computer without installing the software locally .
+
+ΓÇóTransparent encryption No need to encrypt/decrypt files, the encryption is transparent.
+
+ΓÇóDisk Image Hide you can use this method to hide your private disk image after you close the encrypted disk. 
+
+ΓÇóMount multiple disks simultaneously and manage your files in a better way, keeping different types of files on different disks.
+
+System Compatible: Windows 2000/2003/XP/Vista/Windows 7/8 (32&64) 
+
+Homepage: http://www.gilisoft.com/product-private-disk.htm
+
+Installation Instructions:
+
+1. Install program.
+2. Use given key to register application.
+3. Done, Enjoy.

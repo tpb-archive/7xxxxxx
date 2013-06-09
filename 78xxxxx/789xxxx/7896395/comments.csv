@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,trace535,2012-12-07T16:03Z,"What is your obsession with 768 kbps? What a random number to choose for a video bitrate, is it because it was one of the old DSL standards?
+
+There's nothing wrong with still using the xvid codec for new releases, even in late 2012, but you must supply it with a sufficient bitrate.
+
+There's 4 target audiences for tv releases: mainstream (x264 at 720x404), hd (x264 at 720p), msd (x264 at 480p and heavy compression) and legacy (xvid @ 1027 kbps).
+
+x264 is far superior at minimizing artifacts at low bitrates, so aiming for low filesize xvid videos makes little sense. Who is this for? Legacy people who don't care about image quality? Is that a thing?"
+[T],MP4SUX,2012-12-07T18:58Z,"trace535:
+
+Experts are soooo cute, they think they can bend reality to their will. And they show up here like clockwork once or twice a month to bestow their wisdom.
+
+Yes, I'm terribly old-school, I can think in Hex & Binary. You will note that what you consider the standard bit rate (1024) is really Hex 400 (4*256) and Binary (0100 0000). And you will further note that 768 is hex 300 (3*256) and binary (0011 0000). Not an obsession, really - just good common sense to speak to a computer in its own language.
+
+I and all my viewers truly find 768 to be an entirely sufficient bit rate according to the glowing accolades from a great many people who aren't nearly as expert as you.
+
+Just because you can make up names for ""target demographics"" (at least use the right terminology - sheesh) doesn't mean people have to shoe-horn themselves into one of them.
+
+I have my niche and my ""target demographics"" and if it's all the same to you, we're doing just fine - thank you very much (and the door is just to your right - don't let it hit you in the ass on the way out).
+
+BetaMax was far superior to VHS and it got them nothing.
+
+But down to brass tax as it were.
+
+I'm happy doing what I'm doing and a sufficient number of people seem to like what I do so I'm going to keep doing it. Unless you've got a rather large and regular paycheck attached to your advice, I'll consider it worth what I paid for it.
+
+Now, as I see it, you have two choices:
+
+1) as the ""strict consturctionist"" XVID-o-phile you seem to be, I think you'd be much better served with the offerings of AFG as they seem to agree with you entirely. You'll find them through the door on your right. The receptionist will help you and they are always polite.
+
+2) You can do what you insist is ""the right way"" of doing things, offer them up here and take my poor amateur ass to task and run me out of Dodge in utter shame at my pitiful portable picnic player of a presentation (it's a movie reference).
+
+So, I explained 1024 & 768 - how about you give a shot at what the heck 1027 is supposed to represent, you being against random numbers and all.
+
+I've explained the XVID over x264 and so have my loyal followers until we're all blue in the face. But it comes down to one simple word:
+
+Compatibility. "
+[T],MP4SUX,2012-12-07T19:13Z,"trace535:
+
+Just realized your the same guy doing this odd hit-and-run where you bestow your wisdom, move on and never look back and NEVER engage in actual conversation. Which says a lot about why you're so hard to take seriously.
+
+I guess I'm gonna have to create a stock response for every time you do this.
+
+People might get the wrong headed idea that you know what you're talking about.
+
+You won't see this, but you're not really who these words are for, now are you?
+
+heh
+
+AVIGUY"
+,Adule,2012-12-07T19:52Z,AVIGUY please continue the good work 
+,trace535,2012-12-07T20:32Z,"Of course xvid is about compatibility, as there IS no other reason to still be releasing with this most venerable codec as of December 2012. However, my criteria for acceptable video quality is that it must be reasonably indistinguishable to the human eye from the source material at ANY given resolution.
+
+Since you are using 75% of the bitrate actually required for xvid at 360p perhaps you should reduce the resolution accordingly to 312p (bit of math: 0.8667 squared is 0.75) so that people will not be tricked into downloading something blocky and blurry.
+
+As for the 1027 kbps, I was being a bit ""ironic"", if you heard of such a concept, as ettv seems to just copy the same boilerplate description for all AFG releases, without checking out the actual avg bitrate of each particular file, because it would be of course a labor intensive waste of time."

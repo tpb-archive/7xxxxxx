@@ -1,0 +1,15 @@
+In this comprehensive introduction to the powerful Zend Framework, I'll show you how to use all of the features you'll actually want to use within your own websites, including how to effectively manage your configuration data, build rock-solid model-based web forms, take advantage of the powerful Doctrine 2 ORM, send e-mails through your website using Zend_Mail, manage user registrations, logins, and recover forgotten passwords.
+
+We'll start right at the beginning, showing you how to use the ZF command-line tool to create your first Zend Framework project, build actions, controllers, and models, and effectively manage your project views and layouts. From there you'll be provided with a comprehensive introduction to all of the framework's most important features (in addition to insight into key best practices such as unit testing and deployment), including:
+
+Effectively manage your Zend Framework layouts and views, and create view helpers which can be reused throughout your website
+Integrate Doctrine 2 into your Zend Framework application
+Manage configuration data using the Zend Framework's Zend_Config component
+Build model-driven forms which can easily be tested using PHPUnit and Zend_Test
+Mine the Amazon.com product catalog using the Amazon Product Advertising API
+Test your website using PHPUnit and Zend_Test
+Deploy your website quickly and conveniently using Capistrano
+Write PHP-driven CLI scripts which can take advantage of Zend Framework components
+And much, much, much more!
+
+Publication Date: March 10, 2011

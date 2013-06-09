@@ -1,0 +1,44 @@
+Elf-Man (2012)
+
+ Format : MPEG-4
+ Format profile : Base Media / Version 2
+ Codec ID : mp42
+ File size : 806 MiB
+ Duration : 1h 26mn
+ Overall bit rate mode : Variable
+ Overall bit rate : 1 298 Kbps
+ Encoded date : UTC 2012-11-21 14:08:51
+ Tagged date : UTC 2012-11-21 14:43:31
+ Writing application : HandBrake 0.9.8 2012071700
+
+ Video
+ ID : 1
+ Format : AVC
+ Format/Info : Advanced Video Codec
+ Format profile : Main@L3.0
+ Format settings, CABAC : Yes
+ Format settings, ReFrames : 4 frames
+ Codec ID : avc1
+ Codec ID/Info : Advanced Video Coding
+ Duration : 1h 26mn
+ Bit rate mode : Variable
+ Bit rate : 1 133 Kbps
+ Width : 720 pixels
+ Height : 404 pixels
+ Display aspect ratio : 16:9
+ Frame rate mode : Variable
+ Frame rate : 23.976 fps
+ Minimum frame rate : 23.974 fps
+ Maximum frame rate : 23.981 fps
+ Color space : YUV
+ Chroma subsampling : 4:2:0
+ Bit depth : 8 bits
+ Scan type : Progressive
+ Bits/(Pixel*Frame) : 0.162
+ Stream size : 704 MiB (87%)
+ Writing library : x264 core 120
+ Encoded date : UTC 2012-11-21 14:08:51
+ Tagged date : UTC 2012-11-21 14:43:31
+ Color primaries : BT.601 NTSC
+ Transfer characteristics : BT.709
+ Matrix coefficients : BT.601

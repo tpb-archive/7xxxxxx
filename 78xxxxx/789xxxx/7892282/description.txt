@@ -1,0 +1,36 @@
+Movies : Crime : VHS Rip : English, 69mins
+This is a redo of my torrent to reduce file size, new format mkv.
+
+the Little Tough Guys in Code of the Streets, 1939
+
+Starring Frankie Thomas, Harry Carey, Marc Lawrence, Leon Ames & a very young Paul Fix. Jimmy McCallion stars as the leader of the gang.
+  
+http://www.imdb.com/title/tt0031167/
+
+[13:37:52] starting job
+[13:37:52] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:37:52] job configuration:
+[13:37:52]  * source
+[13:37:52]    + C:Code of the StreetsVIDEO_TS
+[13:37:52]    + title 1, chapter(s) 1 to 2
+[13:37:52]  * destination
+[13:37:52]    + C:Documents and SettingsDead End KidsMy DocumentsCode of the Streets.mkv
+[13:37:52]    + container: Matroska (.mkv)
+[13:37:52]      + chapter markers
+[13:37:52]  * video track
+[13:37:52]    + decoder: mpeg2
+[13:37:52]      + bitrate 8000 kbps
+[13:37:52]    + frame rate: same as source (around 23.976 fps)
+[13:37:52]    + strict anamorphic
+[13:37:52]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[13:37:52]      + pixel aspect ratio: 8 / 9
+[13:37:52]      + display dimensions: 640 * 480
+[13:37:52]    + encoder: x264
+[13:37:52]      + options: ref=2:bframes=2:me=umh
+[13:37:52]      + bitrate: 396 kbps, pass: 2
+[13:37:52]  * audio track 0
+[13:37:52]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:37:52]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[13:37:52]    + mixdown: Stereo
+[13:37:52]    + encoder: faac
+[13:37:52]      + bitrate: 160 kbps, samplerate: 48000 Hz

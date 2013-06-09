@@ -1,0 +1,86 @@
+Save Money - Slash Your Captcha Solving Costs
+Stop wasting your time and hard-earned money on captcha solving services that are slow, inaccurate and costly. Captcha Sniper solves captchas faster and without having to pay per captcha.
+
+
+Solve Captchas On Your Desktop
+
+Captcha Sniper solves hundreds of different captchas for popular platforms including Article sites, Blogs, Social Bookmarking sites, Link Directory sites, Forums, Guestbooks, Image Gallery sites, Wikis, Document sharing sites, Video sharing sites and more - and works with your favorite internet marketing tools. Captcha Sniper also includes Captcha Destruction Kit which allows you to teach Captcha Sniper to solve captchas that are not built-in with an easy to use point and click interface.
+
+Easy to Use - So Simple Even a NOOB Can Use It
+
+Fire up Captcha Sniper and simply select the platform(s) that your favorite internet marketing tool is posting to ... and watch Captcha Sniper do it's magic .. saving you time and money on both captcha services and bandwidth.
+
+
+Here's whats new ...
+
+Main CS Interface
+=============
+'use captcha platfrom' is gone and is automatically detected. This means that you can now use apps such as GSA SER which support this feature at the same time as apps which have not yet integrated this feature. You will just need to select the captcha types for apps which do not yet support it.
+
+Save Settings on Exit. This will save your settings between sessions.
+
+Let CS try to solve unknown captchas - this feature will attempt to solve unknown captcha types and use the existing algorithm set when sizes match up. You will still have the ability to receive 'unknown' for types that do match sizes for existing algorithms. In addition a generic algorithm was introduced handle monochrome / black and white captchas.
+
+Fixed bug with - Input past end of file
+
+Installer now installs VC++ runtimes
+Installer now sets the correct compatability and permissions
+Installer makes a backup of your existing database in the backup folder
+Installer now prompts to launch CS after install
+
+New Hardcoded Captchas
+===================
+New Wordpress Captcha
+Oxwall 
+SiteSift
+ClipShare - Same algo as ArticleMS .. just a different size
+
+Captcha Platform Mappings
+====================
+These are existing algorithms that did not have the captcha platform mapped yet:
+
+Baistu Guestbook to new wordpress captcha + user defined
+PHP Fusion to new wordpress captcha + user defined
+GetBoo
+Yabb
+blogetery.com
+dolphin
+lifetype
+typepad
+b2evolution
+
+Captcha Destruction Kit
+==================
+Character Set - is now a text box that you can free-form edit how you like. So you are not limited to the entire set of Upper Case, Lower Case, Numeric and Symbols. Narrowing down the character set will greatly improve your success rates.
+
+Use Sample Answers - this allows you to specifically define a set of possible characters based on the correct answers you have entered.
+
+Enter your own ImageMagick Command - this allows you to go beyond the built in ImageMagick commands: ImageMagick: Command-line Tools: Convert
+the format is: -[command] [argument]
+Example:
+-blur 0x1
+guestbook1
+
+Fixed bug when importing databases (where the same # was used)
+
+New/Updated CDK Captchas
+=====================
+WebPronews
+she.is
+YAD
+Article Friendly
+slideshare.net
+updated blogspot.es to new algo by Giorgsky
+DedeEIMS
+write2me.nl
+Xoops
+mylinkvault
+alivenotdead.com
+Additional link bid script
+Additional mename
+Additional maxibook
+New AkoBook
+New vShare
+New General Blogs (2)
+New PHPBookmark
+

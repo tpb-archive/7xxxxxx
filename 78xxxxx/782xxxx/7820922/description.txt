@@ -1,0 +1,24 @@
+Contents:
+
+1. en_windows_8_x64_dvd_915440.iso - English language ISO of Windows 8 build 9200
+2. activate.bat - simple batch script to install a key into Windows 8, set the KMS server to one that is still working (as of November 11, 2012) and activate Windows
+3. activate pro.bat - simple batch script to install a key into Windows 8 Pro, set the KMS server to one that is still working (as of November 11, 2012) and activate Windows 8 Pro.
+
+Changes Made:
+
+1. Ability to choose between Windows 8 and Windows 8 Pro.
+2. Ability to upgrade from All versions of Windows XP, Vista, 7, Windows 8 Consumer Preview, and Windows 8 Release Preview.
+3. Ability to install without providing a Product Key.
+
+Instructions:
+
+1. Download the ISO and the batch script. Either burn the ISO, or extract the ISO contents to a USB drive (formatted into NTFS) and made bootable with bootsect.exe (or another tool).
+2. Install Windows 8. Select either Windows 8 or Windows 8 Pro. Click 'skip' when asked for a key.
+3. Continue the installation as usual for a Windows install.
+4. Copy either the 'activate.bat' or 'activate pro.bat' file to your desktop.
+5. Right-click and choose 'Run As Administrator'.
+6. Ensure you receive an "Activation Succesful" message.
+
+
+Enjoy,
+Rikairchy 

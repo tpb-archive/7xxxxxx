@@ -1,0 +1,52 @@
+Every install tested, copied directly from ISO file.
+Hotfixes current to the Nov13 2012 patch date.
+Check for newer versions every month.
+
+murphy78 presents Windows 8 Retail Channel AIO with Free WMC
+Free WMC lets you install directly to the ProWMC version of
+Windows 8 with the Free Upgrade Key from Microsoft.
+Get your free key and install directly, bypassing the need
+for Activators and shady Hacks: 
+http://windows.microsoft.com/en-US/windows-8/feature-packs
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Added ei.cfg to enable install list selection and Retail Channel.
+Added data.dat to ProWMC to enable free WMC upgrade keys.
+Added Info folder to installs to make more work for credit thieves.
+
+Windows 8 Retail Channel Installation Indexes:
+Windows 8 (x86),
+Windows 8 N (x86),
+Windows 8 Pro (x86),
+Windows 8 Pro N (x86),
+Windows 8 Pro with Media Center (x86)
+
+MSDN Sources:
+en_windows_8_x86_dvd_915417.iso,
+en_windows_8_n_x86_dvd_916097.iso
+
+These 32-bit Sources are the final Build 9200
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for MSU Hotfix integration, NetFx3 SXS Integration
+oscdimg for ISO mastering
+
+KB Files added via add-package dism:
+KB2712101, KB2727528, KB2729462, KB2737084, KB2756872, KB2758246-v2,
+KB2761094, KB2761226, KB2764870, KB2768703, KB2769034, KB2769165,
+KB2770041, KB2770917, KB2771744, KB2771821, KB2777166, KB2778171,
+KB2780342, KB2780523
+Net 2.0-3.5.1 enabled by DISM using SXS folder in sources directory
+
+KB Files NOT added:
+KB2772501 - Unavailable for D/L 33kb IE10 iepropschema update
+
+Enjoy Pirates,
+murphy78 :)

@@ -1,0 +1,53 @@
+Incredible Pi is a bootable image for the $35 Raspberry Pi. It features 
+Raspbian 7, Asterisk 1.8, and FreePBX 2.10. It includes many of the best features of Incredible PBX including Google Voice for free calling in the U.S. & Canada. 
+
+Incredible PBX 3.6 feature summary:
+
+1. New kernel with automatic memory allocation and management for 256MB and 512MB Raspberry Pi devices.
+2. Integrated update service for retrieval and installation of updates and fixes: /root/update-my-pi.
+3. For those with SD cards > 4GB, you now can resize them on the fly after first boot. Just run raspi-config.
+4. While you're in raspi-config, set the overclocking desired. We run it at full tilt 1GHz with no problems. You need a very good power adapter!
+5. Status program has been reworked to support new SMTP mail server, Exim.
+6. Exim replaces SendMail for more flexibility. SendMail commands (service sendmail restart) still work. Exim Cheatsheet: http://nerd.bz/Vru2fe
+7. All Timezone file locations for Linux and PHP now are configured the first time you log in as root. To rerun: /root/timezone-setup.
+8. Do NOT use raspi-config to set time zone as it will NOT update PHP!!!
+9. Networking initialization has been tweaked a bit more. You also can: /root/restart-eth0 or /root/restart-wlan0.
+10. Learn everything about WiFi on Your Pi by running: /root/wifi-check.
+11. Clearing cache now happens automatically every night and after first login as root. You also can do it yourself: /root/clear-cache.
+12. Gmail script in /root is gone for good. Run /root/email-setup and plug in the entries shown here: http://nerd.bz/UJa9M6
+13. Default WiFi network setup (/etc/wpa.conf) now looks for open networks automatically but sets open WiFi as lowest priority (1). 
+14. clear-logs in /root has been expanded to do more evening housecleaning.
+15. In order to support SD card expansion on the fly, the swap partition is no more. Now it's just a file. 
+16. Asterisk log rotation bug has been fixed.
+17. Quirky network failure with duplicate DHCP address handout is fixed.
+18. Check the current CPU Frequency setting of your device: /root/cpu-freq.
+19. For 512MB Raspberry Pi owners, version 3.6 adds Incredible Fax featuring HylaFax server. Tutorial: http://nerd.bz/Wu2GGj
+
+Take the Incredible Pi for a spin on our Raspberry Pi. Dial 1-843-284-6844.
+
+CAUTION: Always run Incredible Pi behind a hardware-based firewall with NO
+Internet port exposure to your server. It's your phone bill.
+
+FIRST STEPS:
+Insert a 4GB or 16GB SanDisk Type 4 SDHC card into the SDHC slot or reader
+on your PBX in a Flash or Linux server. Then reboot the machine.
+
+Download the Incredible Pi 3.6 tarball and transfer it to a Windows, Mac, or Linux server. 
+
+Decompress the tarball: tar zxvf incrediblepi-3.6.tar.gz
+
+Compare the md5sum result for .img download to the included .md5 file.
+
+Accept license agreement and run installer: ./make-sdhc or make-sdhc-mac 
+
+For Windows fans, use Win32 Disk Imager to create SD card: http://nerd.bz/UnYxmc
+
+Remove SDHC card, insert into Raspberry Pi, and boot the server.
+
+SECURITY ALERT: Before using the software, log in as root with password raspberry and run: /root/update-my-pi
+
+Read the latest Quick Start Guide on Nerd Vittles: http://nerd.bz/QuwC14
+
+Incredible PBX Apps Guide, see this article: http://nerdvittles.com/?p=2750
+
+Bug Fixes and Troubleshooting Tips on PIAF Forum: http://nerd.bz/RduTcz

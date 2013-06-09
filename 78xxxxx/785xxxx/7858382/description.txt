@@ -1,0 +1,28 @@
+Attacking the DNS Protocol
+
+
+
+ Typical DNS Attacks
+
+ Cache Poisoning using DNS Transaction ID Prediction
+
+ Example of a chace poisoning attack on a DNS server
+
+ DNS Vulnerabilities in shared host environments
+
+ Example of DNS flooding-creating a DNS denial of service attack
+
+ DNS man in the middle attacks DNS hijacking
+
+
+
+
+This paper whilst containing nothing new on DNS security brings together in one
+
+document many strands of DNS security which has been published and reported in
+
+many separate publications before,As such this document intends to act as a 
+
+single point of reference for DNS security..
+
+This paper contains some basic and advanced level attacks.

@@ -1,0 +1,38 @@
+﻿User Type,Username,Date,Text
+,questar,2012-11-29T19:12Z,"Argh! This is episode 12, not episode 2."
+,questar,2012-11-29T19:31Z,"I used these four commands to recode the original file:
+
+The first three commands are similar and work on the three parts of the file in-between the two commercial blocks.
+
+Under Linux ""Joint*"" expands to the file name ""Joint Item1.avi"".
+
+First mencoder crops the 880x464 image starting at (198,126) inside the frame. Then it scales the image to 640x360 which is an aspect ratio of 1.78. Then it adds four black lines at the top and bottom of the image to make the height divisible by 16. Some AVI decoders don't work unless the image dimensions are multiples of 16.
+
+I've specified a maximum video bitrate of 2000kbps which preserves nearly all the original information.
+
+The -endpos parameter in the first command tells mencoder to stop at 466 seconds which is the start of the first commercial block.
+
+The -ss and -endpos parameters in the second command tell mencoder to start at 694 seconds and stop at 694+396 = 1090 seconds between the two commercial blocks.
+
+The -ss parameter in the third command tells mencoder to start at 1319 seconds after the second commercial block.
+
+The audio is copied directly without modification.
+
+The three parts are written to out1.avi, out2.avi, and out3.avi.
+
+The fourth command concatenates the three files into the result file DROB_S01E12.avi.
+
+mencoder Joint* -vf crop=880:464:198:126,scale=640:360,expand=640:368 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=2000 -ffourcc XVID -nosub -oac copy -endpos 466 -o out1.avi
+
+mencoder Joint* -vf crop=880:464:198:126,scale=640:360,expand=640:368 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=2000 -ffourcc XVID -nosub -oac copy -ss 694 -endpos 396 -o out2.avi
+
+mencoder Joint* -vf crop=880:464:198:126,scale=640:360,expand=640:368 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=2000 -ffourcc XVID -nosub -oac copy -ss 1319 -o out3.avi
+
+mencoder -forceidx -ovc copy -oac copy -o DROB_S01E12.avi out1.avi out2.avi out3.avi"
+,questar,2012-11-29T21:03Z,"Actually I used four commands for the recode. I first did this:
+
+mplayer -vf cropdetect Joint*
+
+This plays the video and automatically detects the interior image. It nicely gives you numbers for the ""-vf crop"" option, in this case ""-vf crop=880:464:198:126""."
+,nemilosul,2012-11-29T23:01Z,bro i am not good at encoding videos i just record it and resize it for a friend and i put it here as well beacause there was no way to find it anywere and we can make a partnership if you wanna i record it and in tranks you mention my that i record it.
+,nemilosul,2012-11-29T23:02Z,And can u rename it? that it's the lastest episode e12 not 02? let the people know what episode it this one.

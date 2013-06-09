@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+[T],esharoth,2012-11-29T14:22Z,The game is also available on Steam.
+[T],esharoth,2012-11-29T14:53Z,"So apparently the game has some pretty bad performance issues, even on high-end PCs. You can find people complaining about it on both the GOG and Steam forums. The developers are looking into it and will release a patch."
+,Slayzer0,2012-11-29T14:59Z,"Nice one, been looking for it yesterday but couldn't find it yet~
+Seems like my type of game! If it's good I'll definitely get it in a steam-deal once I got the cash.
+Thanks esharoth!"
+,DeathNimrod,2012-11-29T15:19Z,"Thank you very much for the upload! Been waiting to see if I can try this game before buying it, it looks lovely!"
+,stefan818,2012-11-29T16:15Z,oh thanks!!
+,ionfx6502,2012-12-02T23:07Z,"Hey guys, we found a possible fix for some laptops with lag. We pinned it to the Miasmata page on the Steam forums. Miasmata doesn't seem to be triggering the discrete GPU, so the game ends up running on the integrated Intel chip. Go into your display driver settings and ensure that Miasmata.exe is forced to use the good ATI/NVIDIA GPU as opposed to the Intel one.
+
+We're working on a performance update to further improve things. Not ready yet though. Cheers."

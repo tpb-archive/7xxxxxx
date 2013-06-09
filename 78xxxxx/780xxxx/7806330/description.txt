@@ -1,0 +1,41 @@
+Movies : Comedy : VHS Rip : English, 64min36secs
+
+Had trouble copying data originally, corrupt disc.
+Built the previous Live Wires from a 352x240 file. Finally able to recover data
+from disc but with unrecoverable read errors which distort small spots momentarily.
+The clarity is much better than the previous copy so i am putting it up.
+Handbrake handles the errors fine. Not set up for re-recording original tape now.
+
+The Bowery Boys 1946 Live Wires
+ 
+http://www.imdb.com/title/tt0038699/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[12:34:44] starting job
+[12:34:44] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[12:34:44] job configuration:
+[12:34:44]  * source
+[12:34:44]    + C:Live Wires
+[12:34:44]    + title 2, chapter(s) 1 to 1
+[12:34:44]  * destination
+[12:34:44]    + C:Documents and SettingsDead End KidsMy DocumentsLive Wires.mkv
+[12:34:44]    + container: Matroska (.mkv)
+[12:34:44]      + chapter markers
+[12:34:44]  * video track
+[12:34:44]    + decoder: mpeg2
+[12:34:44]      + bitrate 8000 kbps
+[12:34:44]    + frame rate: same as source (around 23.976 fps)
+[12:34:44]    + strict anamorphic
+[12:34:44]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[12:34:44]      + pixel aspect ratio: 8 / 9
+[12:34:44]      + display dimensions: 640 * 480
+[12:34:44]    + encoder: x264
+[12:34:44]      + options: ref=2:bframes=2:me=umh
+[12:34:44]      + bitrate: 397 kbps, pass: 2
+[12:34:44]  * audio track 0
+[12:34:44]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[12:34:44]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[12:34:44]    + mixdown: Stereo
+[12:34:44]    + encoder: faac
+[12:34:44]      + bitrate: 160 kbps, samplerate: 48000 Hz

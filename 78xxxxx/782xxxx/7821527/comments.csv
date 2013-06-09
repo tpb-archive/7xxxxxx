@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,rayr_1,2012-11-13T19:40Z,Thanks. Will give this a try as I like the GUI of win-7.
+[V],DeGun,2012-11-13T20:12Z,"yep me too !
+
+thx !"
+,tiboka,2012-11-13T22:46Z,"Please upload Decor8, if it is possible. TY"
+,Leignheart,2012-11-13T23:01Z,can someone explain how to do this further? because im not getting this to work. like what is the keymaker? and when I click patch it just opens up a window that doesn't let me do anything. can someone help out please.
+[V],nikita200,2012-11-13T23:25Z,"@Leignheart
+
+Please read ""embrace.nfo"""
+,rayr_1,2012-11-14T16:08Z,"Unfortunately the key gen does not patch the app so I can only use it in trial mode ( 30 days ).
+Usually nikita200 uploads working apps."
+,darkgamerX,2012-11-14T19:42Z,rayr_1 is right. killed all the exes to start 8 including explorer exe after install and reboot. tried to patch start 8 exe but i get cant open file. im using windows 8 pro 64bit so im wondering if this only works on 32bit. if im doing something wrong let me know because i followed the instructions perfectly.
+,TShadow,2012-11-14T21:38Z,I finally could patch it on a Win 7 machine. It patched 5 dll's and Start8config.exe but not start8.exe.
+,Deimos4,2012-11-14T23:58Z,"Doesn't work for me either. I install the program, exit the configuration window when it asks me if I want the trial, restart, start the keygen as admin, kill both processes and the service plus explorer, and then click patch which opens a dialog. I click on Start8.exe but I get an error opening it and after saving the License and restarting, it opens the config window asking for the trial or key.
+
+I'm running Win 8 Pro 64-bit."
+,ccmkbr,2012-11-15T13:43Z,"Worked like a charm... For thse who couldnt install correctly:
+1.Install Start8
+2. Press Ctrl+Alt+Del > Task Manager > Services > Open Services
+3. Find the process named ""Stardock Start8"".
+4. Right-click > Properties.
+5. In the Startup type dropdown, choose the ""Disabled"" option.
+6. Reboot your PC.
+7. Open the keygen.
+8. Press Ctrl+ald+del again and kill ""Windows Explorer"" process.
+9. Now, Patch should be working fine.(Make sure start8 isn't open after reboot). It the keygen doenst find your program, find it manually.
+10. Save the license.
+11. Press Ctrl+Alt+Del > Task Manager > Services > Open Services
+12. Find the process named ""Stardock Start8"".
+13. Right-click > Properties.
+14. In the Startup type dropdown, choose the ""Automatic"" option.
+15. Reoot your PC.
+
+Have fun =)"
+,darkgamerX,2012-11-15T15:26Z, thanks ccmkbr. your instructions worked perfectly. the reason why i couldnt get it to work the first time is because i used task manager to stop the service instead of using the services menu to completely  disable it before rebooting. working fine now. the instructions for this torrent should be changed to ccmkbrs instructions 
+,netraith,2012-11-15T16:35Z,"This worked fine for me on both 32-bit and 64-bit Windows 8, I tried it on the enterprise evaluation. I followed the instructions in the NFO as is. Thanks and good job, nikita200!
+
+Those of you who couldn't patch the start8 exe: was the keygen launched through right-click then run as administrator? If you didn't do that and just double click the keygen, even if you are on an admin user account it might not have the privileges to patch the start8 exe.
+
+The reboots, the patching of the start8 exe and the saving of the license file are all important.
+
+If the start8 configuration window is closed then you don't have to terminate it in the task manager --it won't be listed there, since it's closed and not running.
+
+I didn't have to disable the start8 service, I just terminated it from the task manager. Basically you have to make sure every process and service named start8 is not running in the task manager, as well as windows explorer when you do the patching and license saving."
+,Deimos4,2012-11-15T19:01Z,"@ccmkbr Thanks, that did the trick. I wasn't properly disabling the service as per the instructions ."
+,Foesec,2012-11-15T19:18Z,"unfortunately this does not work for me. i followed the directions in the nfo, however, when i try to patch the file, i select start8.exe and receive an error message, file cannot be opened. i started the keygen as admin, to no avail."
+,rompwats,2012-11-19T03:11Z,Works great. TY

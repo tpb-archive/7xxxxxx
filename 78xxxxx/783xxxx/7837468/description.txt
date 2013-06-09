@@ -1,0 +1,15 @@
+Ever find yourself wishing that CSS had features like variables, functions, or reusable classes? Look no further. LESS and SASS are CSS style sheet tools called preprocessors that add these features and more, simplifying the creation of complex CSS styles. In this course, author Joe Marini introduces the LESS and SASS tools in a two-part manner.
+
+The first section focuses on LESS (Leaner CSS) and how it can be used on both the client and the server. The lessons show how to work with variables, mixins, nested rules, and other features to easily create maintainable CSS.
+
+The second section introduces SASS (Syntactically Awesome Stylesheets), which contains many of the same features as LESS, along with a few new ones. Joe also compares and contrasts the two tools, and explains how your platform and needs may influence which tool you choose.
+
+Topics include:
+What are LESS and SASS?
+Using variables in your CSS
+Working with reusable and parameterized mixins
+Implementing nested rules
+Combining CSS rules with operations
+Using the built-in functions in LESS and SASS
+Controlling the CSS output formatting
+Importing external files

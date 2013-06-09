@@ -1,0 +1,25 @@
+Course Syllabus
+LEVEL 1 - INTRO TO NODE.JS
+An overview of Node.js, blocking vs. non-blocking code, reading files, issuing requests
+LEVEL 2 - EVENTS
+Event emitters, event requests, event listening
+LEVEL 3 - STREAMS
+Reading, writing, piping, solving backpressure
+LEVEL 4 - MODULES
+Exporting, npm installing, dependencies, and semantic versioning
+LEVEL 5 - EXPRESS
+Routes, rendering, layouts, url building, express servers
+LEVEL 6 - SOCKET.IO
+Listening for, broadcasting, and answering questions, saving client data
+LEVEL 7 - PERSISTING DATA
+Redis, working with lists, persisting, emitting, and limiting questions
+
+
+Course Prerequisites
+Intermediate Knowledge of JavaScript, Intermediate Programming Knowledge.
+
+
+More info: 
+http://www.codeschool.com/courses/real-time-web-with-nodejs
+
+Enjoy!

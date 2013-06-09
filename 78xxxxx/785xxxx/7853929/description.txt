@@ -1,0 +1,99 @@
+Proxifier
+
+The most advanced proxy client
+
+Proxifier allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTPS proxy and chains.
+Work with any Internet client through a proxy.
+Improve network performance or ensure privacy.
+Flexible rule system.
+Easy yet powerful UI with live data.
+Up to date with new technologies.
+
+Network
+
+Proxifier can process all outgoing TCP connections.
+Full IPv6 support.
+Tunnel IPv4 connections through IPv6 proxy and vice versa.
+
+Proxy Servers
+
+SOCKS 4 and SOCKS 4A (hostnames support) with User ID authentication.
+SOCKS 5 with Username/Password authentication.
+HTTPS with Basic and NTLM authentication (explicit and transparent modes).
+HTTP with Basic authentication (HTTP connections only).
+Tested with all major proxy server implementations including Microsoft ISA, Blue Coat, WinGate, Dante, Squid, Apache and others.
+Failover (redundancy list) allows assigning any number of back up proxies. Timeout is configurable.
+Proxy failure is transparent for the client application if redundancy is enabled.
+Each proxy can be assigned a short name (label) that can be conveniently used in other parts of Proxifier.
+
+Proxy Chains
+
+Arbitrary length.
+Different proxy protocols can be used within one chain.
+Selected proxies in the chain can be enabled/disabled.
+Convenient UI that allows chain creation and reordering with drag-and-drop.
+New proxy chain type: load balancing.
+
+Client Applications
+
+32- and 64-bit applications support.
+Windows Services and applications run by other users (configurable).
+Proxification is absolutely transparent for the applications.
+Best possible compatibility with 3d party software. Automatic conflict-resolution logic.
+
+DNS
+
+System DNS and DNS over proxy modes.
+Hybrid mode.
+Automatic DNS mode detection.
+DNS over Proxy is supported for all proxy protocols.
+DNS exclusion list with wildcards (e.g. *.example.net).
+
+Flexible Configuration
+
+Proxification rules can be based on application names, IP addresses, hostnames and port numbers.
+Each rule can be assigned to proxy, chain, block or direct connection.
+Rules are processed from top to bottom and can be reordered.
+Wildcards and masks are supported for applications, IP addresses and hostnames (e.g. *app.exe; 192.168.*.*; *.example.net).
+Ranges are supported for IP addresses and port numbers (e.g. 10.1.1.1ΓÇô10.1.1.255; 80ΓÇô1234).
+On-the-fly syntax check with highlighting.
+Individual rules can be enabled/disabled.
+Proxifier context menu (right-click on arbitrary .exe file) allows dynamic choosing of a proxy for the selected application within a session.
+
+Configuration Deployment and Management
+Configuration is stored in profile files (*.ppx).
+Human readable XML format.
+Unlimited length.
+Fast profile switching from a list.
+Profiles can be managed as files. Import and export is supported.
+Silent profile load with ΓÇ£Proxifier.exe profile-name.ppx silent-loadΓÇ¥ command.
+Profiles proxy passwords encryption with current user login credentials or master password.
+Basic and AES 256-bit encryptions are supported.
+System-wide profile that is forcibly used for all users.
+User can enter login details interactively if login/password is blank in the profile.
+Proxifier re-asks login/password again if authentication on proxy fails.
+Automatic profile update from a remote Web server. UserΓÇÖs proxy login details get preserved.
+An option to force profile passwords encryption via system registry.
+Fully compatible Proxifier profiles of Windows and Mac versions.
+
+User Interface and Interaction
+
+Live information about connections including application name, target host, time/status, rule/proxy, received/sent bytes and more.
+Live traffic (bandwidth) graph.
+Live global statistics.
+Live output with 3 levels of verbosity.
+Color indication.
+System tray icon with traffic view.
+Adjustable UI that is persistent during restart (windows sizes, panes layout, etc).
+
+Supported OS:
+
+Windows Family 2000, XP, Vista (32- and 64-bit), 7 (32- and 64-bit), Windows 8
+
+Homepage: http://www.proxifier.com/features.htm
+
+Installation Instructions:
+
+1. Install program.
+2. Use given key to register application.
+3. Done, Enjoy.

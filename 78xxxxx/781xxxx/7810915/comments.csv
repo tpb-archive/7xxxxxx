@@ -1,0 +1,74 @@
+﻿User Type,Username,Date,Text
+,Stellardrive,2012-11-10T21:51Z,great i hope this works on mountain lion 
+,Stellardrive,2012-11-11T08:48Z,zip damage 
+,Kaien213,2012-11-11T14:03Z,"Seed pls, Im stuck on 79,5%"
+,REEKOOKEER,2012-11-11T14:49Z,Kaien213 so am i
+,jem0701,2012-11-11T15:04Z,I'm stuck too. 79.5 Boooooo.
+,REEKOOKEER,2012-11-11T15:31Z,so if we are al getting stuck in the same spot..is it gonna progress?
+,deuz,2012-11-11T17:57Z,Sorry guys I'm seeding right now.
+,Kaien213,2012-11-11T21:39Z,Nice... Now im stuck on 88.7% :D
+,deuz,2012-11-12T01:17Z,"You need to be patient, I been seeding all weekend."
+,mikehouston09,2012-11-12T13:07Z,"the game not work  every time i open show me a window ,the program sh2pc.exe has encountered a serious problem and need to close"
+,mikehouston09,2012-11-12T13:08Z,any body make this game work please i need a little help[
+,malthus0,2012-11-12T14:19Z,"same problem, it's not working, at least in lion"
+,jem0701,2012-11-12T14:22Z,I get the same error. OS 10.7.5. HAs anyone gotten this to work?
+,REEKOOKEER,2012-11-12T15:24Z,mine wont even unzip
+,deuz,2012-11-12T16:54Z,everybody have Lion? test in Mountain Lion if you have the chance.
+,deuz,2012-11-12T16:58Z,"maybe the resolution are making the crash because the game was fixed to 1400X900 resolution, let me check."
+,deuz,2012-11-12T18:06Z,"1st- For those who said that the zip file is damage, download again and the run the game (I had to download the game and it works fine)
+
+2nd- The game will crash if you have a lower resolution display so you have to re patch the game to your resolution:
+
+1-secondary click the Silent hill game
+2-Show package content
+3-Open wineskin
+4-Select Advance
+5-In configuration, select ""Browse""
+6-Browse to ""Program Files/Konami/Silent Hill 2
+7-Select ""Silent Hill 2 HD Patch.exe
+8-press ""Test"" bottom
+9-Select you resolution and press ""Patch""
+10-repeate 5-6
+11- Select ""sh2pc.exe
+12- close everything and test
+
+I hope you can fix the game and enjoy."
+,mikehouston09,2012-11-12T22:57Z,thanks deuz i make it work i change the resolution  and is work very good  i m use mountain lion 10.8.2
+,malthus0,2012-11-13T00:42Z,Didnt work for me in Lion..
+,deuz,2012-11-13T02:46Z,malthus0 did you have a crash dialog or something?
+,deuz,2012-11-13T02:46Z,malthus0 did you have a crash dialog or just close?
+,malthus0,2012-11-13T13:59Z,"It says: The program sh2pc.exe has encountered a serious problem and needs to close.
+"
+,pegameow,2012-11-13T20:58Z,"It works perfectly if you follow deuz instructions in the comments. 
+
+You just have to follow the steps and fix the resolution to 1920x1080. other resolution won't work (at least for me). 
+
+hope it helps. thanks for uploading. "
+,hurukh,2012-11-13T21:25Z,Anybody got this working on Snow Leopard?
+,malthus0,2012-11-14T00:12Z,"I tried, but it says:
+fixme:d3d:init_driver_info Unable to find a driver/device info for vendor_id=0x10de device_id=0x8a4 for driver_model=2"
+,deuz,2012-11-14T19:05Z,malthus0 right now I have a lot of work but i'll try to fix your problem.
+,malthus0,2012-11-14T19:14Z,"thanks man, no rush"
+,deuz,2012-11-15T20:25Z,"malthus0 I really don't know why you can run this game but let me try to run in emulation screen so:
+
+1-secondary click the Silent hill game
+2-Show package content
+3-Open wineskin
+4-Select Advance
+5-""Set Screen Option""
+6-""override""
+7-""Full screen""
+8-Resolution (Chose the same you patch)
+9-Disable ""Descorate windows"" and Auto detect GPU...""
+
+test and comment please."
+,malthus0,2012-11-16T00:34Z,"Ok cool, the game works now. But there is still a problem. My resolution is 1280x1024. But when i try to patch, closest resolution is 1280x800. So i patch with that one and adjust it in Screen options. When i test the game, it starts, but of course the game is not fullscreen, but is 1280x800, multiplying the pointer by 2 (the game pointer and the mac pointer, one that can only move in the game screen and the other in the whole screen). Thanks for your patience!  "
+,Stellardrive,2012-11-16T00:42Z,i find the way to make it work 8) here is the info you need http://portingteam.com/files/file/7225-silent-hill-2-directors-cut/
+,deuz,2012-11-16T03:40Z,"Ahhh ok I see the problem, you donÂ´t need to patch the game because you have a display with 4:3 relation and the patch fix this old game for displays with 16:9. so you could try to change the resolution in the game options and test"
+,malthus0,2012-11-16T13:48Z,Problem solved! Thanks a lot!
+,GrunnyRiku,2012-11-20T21:47Z,deuz your settings didnt work either. it seems to be a problem with the exe itself
+,XSMASH,2012-11-26T14:51Z,"hey deus!
+whenever i try to open the game it says that sch2.exe encountered a problem.
+Im running the same version of OSX as you are, but i cant seem to make it help, any suggestions?"
+,tomyssb,2012-11-30T18:38Z,deuz ur awesome
+,tomyssb,2012-11-30T18:39Z,can u do mass effect 2 next pl0x

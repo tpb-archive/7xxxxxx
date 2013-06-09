@@ -1,0 +1,20 @@
+A full quality rip of Electric City for those of you who don't get along with flash ( (yahoo's player would periodically murder the quality of the streaming video, and I couldn't find any way to let it buffer). 
+
+I ripped it straight from electriccity.yahoo.com using rtmpdump. The only other torrent I could find was a 720p screen recording, which didn't do the original justice.
+
+
+Here's what mplayer says when I play one of these files: 
+
+
+VIDEO:  [H264]  1920x1080  0bpp  24.000 fps    0.0 kbps ( 0.0 kbyte/s)
+...
+==========================================================================
+Opening video decoder: [ffmpeg] FFmpeg's libavcodec codec family
+Selected video codec: [ffh264] vfm: ffmpeg (FFmpeg H.264)
+==========================================================================
+==========================================================================
+Opening audio decoder: [faad] AAC (MPEG2/4 Advanced Audio Coding)
+FAAD: compressed input bitrate missing, assuming 128kbit/s!
+AUDIO: 44100 Hz, 2 ch, s16le, 128.0 kbit/9.07% (ratio: 16000->176400)
+Selected audio codec: [faad] afm: faad (FAAD AAC (MPEG-2/MPEG-4 Audio))
+==========================================================================

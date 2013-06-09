@@ -1,0 +1,114 @@
+﻿User Type,Username,Date,Text
+[T],ztorrenter,2012-11-29T14:18Z,"Only English Audio and sub, Here the correct info: General           : Baba Yaga [BDRip-1080p-Ita-Eng-MultiSub-Chapters][RiP By MaX].mkv
+Format            : Matroska at 8 400 Kbps
+Length            : 7.92 GiB for 2h 15mn 2s 232ms
+
+Video #0          : AVC at 6 724 Kbps
+Aspect            : 1280 x 536 (2.388) at 23.976 fps
+
+Audio #0          : DTS at 1 509 Kbps
+Infos             : 6 channels, 48.0 KHz
+Language          : en
+
+Text #0           : UTF-8
+Language          : en"
+[T],maxneb,2012-11-30T13:01Z,"I do not understand your comment, the data are not correct.
+These are the exact avinaptic report
+
+[ About file ]
+Name: Baba Yaga [BDRip-1080p-Ita-Eng-MultiSub-Chapters][RiP By MaX].mkv
+Date: Thu, 15 Mar 2012 03:45:36 +0100
+Size: 8,507,723,517 bytes (8113.597409 MiB)
+
+[ Magic ]
+File type: data
+
+[ Generic infos ]
+Duration: 01:22:25 (4945.44 s)
+Container: matroska
+Production date: Thu, 15 Mar 2012 03:42:29 +0100
+Total tracks: 9
+Track nr. 1: video (V_MPEG4/ISO/AVC) [Baba Yaga [BDRip 1080p][RiP By MaX]] {ita}
+Track nr. 2: audio (A_DTS) [Ita Dts 2.0] {ita}
+Track nr. 3: audio (A_AC3) [Ita Ac3 2.0] {ita}
+Track nr. 4: audio (A_DTS) [Eng Dts 2.0] {eng}
+Track nr. 5: audio (A_AC3) [Eng Ac3 2.0] {eng}
+Track nr. 6: subtitle (S_VOBSUB) [Sub Eng] {eng}
+Track nr. 7: subtitle (S_VOBSUB) [Sub Eng SDH] {eng}
+Track nr. 8: subtitle (S_VOBSUB) [Sub Esp] {spa}
+Track nr. 9: subtitle (S_VOBSUB) [Sub Fre] {fre}
+Muxing library: libebml v1.2.3 + libmatroska v1.3.0
+Writing application: mkvmerge v5.4.0 ('Piper') built on Mar 10 2012 13:34:39
+
+[ Relevant data ]
+Resolution: VERY HIGH (1888 x 1020)
+Width: multiple of 32 (GOOD)
+Height: multiple of 4 (16 would be better)
+Average DRF quality: LOW (26.224974)
+Standard deviation quality: HIGH (1.1225)
+Std. dev. weighted mean: HIGH (1.105527)
+
+[ Video track ]
+Codec ID: V_MPEG4/ISO/AVC
+Resolution: 1888 x 1020
+Frame aspect ratio: 472:255 = 1.85098 (~1.85:1)
+Pixel aspect ratio: 1:1 = 1
+Display aspect ratio: 472:255 = 1.85098 (~1.85:1)
+Framerate: 23.976025 fps
+[debug] codec private: 57 bytes
+Stream size: 7,281,920,131 bytes (6944.580203 MiB)
+Duration (bs): 01:22:25 (4945.315217 s)
+Bitrate (bs): 11779.908558 kbps
+Qf: 0.255131
+
+[ Audio track nr. 1 ]
+Codec ID: A_DTS
+Sampling frequency: 48000 Hz
+Channels: 5
+Stream size: 466,413,792 bytes (444.806854 MiB)
+Bitstream type (bs): DTS
+Frames (bs): 463,632
+Duration (bs): 01:22:25 (4945.408 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 768 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): C + L + R+ SL+SR
+
+[ Audio track nr. 2 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 2
+Stream size: 138,472,320 bytes (132.057495 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 154,545
+Duration (bs): 01:22:25 (4945.44 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 224 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): stereo
+
+[ Audio track nr. 3 ]
+Codec ID: A_DTS
+Sampling frequency: 48000 Hz
+Channels: 5
+Stream size: 466,413,792 bytes (444.806854 MiB)
+Bitstream type (bs): DTS
+Frames (bs): 463,632
+Duration (bs): 01:22:25 (4945.408 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 768 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): C + L + R+ SL+SR
+
+[ Audio track nr. 4 ]
+Codec ID: A_AC3
+Sampling frequency: 48000 Hz
+Channels: 2
+Stream size: 138,472,320 bytes (132.057495 MiB)
+Bitstream type (bs): AC3
+Frames (bs): 154,545
+Duration (bs): 01:22:25 (4945.44 s)
+Chunk-aligned (bs): Yes
+Bitrate (bs): 224 kbps CBR
+Sampling frequency (bs): 48000 Hz
+Mode (bs): stereo"

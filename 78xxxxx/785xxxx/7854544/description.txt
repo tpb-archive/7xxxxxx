@@ -1,0 +1,36 @@
+What is new in version 5.0.0.25 (Released November 23th 2012)
+
+- what does this mean in log: [ ] Pal (felicia) - resolved.
+- subtitle not correctly resized in ts file (cedric) - resolved.
+- languages not automatically detected (felicia) - resolved.
+- Format (Video Standard) - Automatic (Program decides format by source data) (felicia) - resolved.
+- show target size even when burning not requested (cedric) - resolved.
+- ??? in log file (cedric) - resolved.
+- change dvd - 9 target size to more conservative value of 7700 (cedric) - resolved.
+- should be transparent icon (felicia) - resolved.
+- frames dropped not accurate (cedric) - resolved.
+- ConvertXToDVD transcoder not closed when application is closed (felicia) - resolved.
+- Open Saved Project VS Double Clicking on a .XtoDVD project file has different results. (felicia) - resolved.
+- audio boost not working (cedric) - resolved.
+- code page problem ---> at least greek iso code not working (annelise) - resolved.
+- Fuzzy estimated remaining time (cedric) - resolved.
+- default install values are not the same as version 4 (cedric) - resolved.
+- make trial window look like version 4s (cedric) - resolved.
+- access violation when converting (cedric) - resolved.
+- I do not see audio boost in log file (cedric) - resolved.
+- dragging and dropping an titleset already in treeview to a new position does not work (cedric) - resolved.
+
+System Requirements
+
+Hardware
+Processor Intel Pentium III / AMD Athlon
+(Intel Pentium 4 / AMD Athlon XP or equivalent recommended)
+512 MB RAM with Windows XP
+1 GB RAM with Windows Vista
+Hard disk drive with at least 4.3 Gbytes free
+DVD Burner
+
+Operating System
+Windows XP SP2/SP3, Windows Vista, Windows 7 & 8
+
+Homepage : http://www.vso-software.fr/products/convert_x_to_dvd/

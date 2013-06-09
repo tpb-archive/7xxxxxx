@@ -1,0 +1,80 @@
+
+Encoding as 48 kHz j-stereo MPEG-1 Layer III (12x) 128 kbps qval=0
+
+misc:
+
+        scaling: 0.95
+        ch0 (left) scaling: 1
+        ch1 (right) scaling: 1
+        huffman search: best (outside loop)
+        experimental Y=0
+        ...
+
+stream format:
+
+        MPEG-1 Layer 3
+        2 channel - joint stereo
+        padding: off
+        constant bitrate - CBR
+        ...
+
+psychoacoustic:
+
+        using short blocks: channel coupled
+        subblock gain: 1
+        adjust masking: 0 dB
+        adjust masking short: 0 dB
+        quantization comparison: 9
+         ^ comparison short blocks: 9
+        noise shaping: 2
+         ^ amplification: 2
+         ^ stopping: 1
+        ATH: using
+         ^ type: 4
+         ^ shape: 4 (only for type 4)
+         ^ level adjustement: -3 dB
+         ^ adjust type: 3
+         ^ adjust sensitivity power: 1.000000
+        experimental psy tunings by Naoki Shibata
+           adjust masking bass=-0.5 dB, alto=-0.25 dB, treble=-0.025 dB, sfb21=0.5 dB
+        using temporal masking effect: yes
+        interchannel masking ratio: 0.0002
+        ...
+
+ ----------------------------------------------------------------
+   kbps        LR    MS  %     long switch short %
+  128.0        5.3  94.7        95.5   2.6   1.9
+ ----------------------------------------------------------------
+
+ Genre : Trance  Progressive
+
+ 01.Kay - I'M Dead Twice
+ 02.Wellenrausch - Echoes In The Night (Gai Barone demode remix)
+ 03.Erik Hakansson - September (Kabaa Modern remix)
+ 04.DJ Tarkan - Sad Story
+ 05.Yuri Kane feat. Jeza - Love Comes
+ 06.Khomha - Genesis
+ 07.Rex Mundi - Watch
+ 08.4 Strings - Out Of Nowhere
+ 09.M.I.K.E - We Are
+ 10.Ronski Speed feat. Melissa Loretta - Sanity
+ 11.Sensetive5 & Gordey Tsukanov - Elegance
+ 12.Tucandeo - Equilibrium
+ 13.Yura Moonlight vs. Adele Skyfall Harrier (Markus Schulz mashup)
+ 14.Johan Malmgren - Nothing On Earth
+ 15.Signum - First Strike (Juventa club mix)
+ 16.DNS Project - Gauntlet
+ 17.Eximinds - On Fire
+ 18.Akira Kayosa & Hugh Tolland - Muriwai (Max Graham remix)
+ 19.Estiva & Cardinal feat. Arielle Maren - Wait Forever (Estiva mix)
+ 20.Scott Bond vs Solarstone - 3rd Earth (Max Graham remix)
+ 21.Khomha - Dusk Riddles
+ 22.Rater - Creator (Aaron Camz remix)
+ 23.Markus Schulz feat. Ana Diaz - Nothing Without Me (Beat Service remix)
+ 24.Lange - Destination Anywhere (Markus Schulz big room reconstruction)
+ 25.Planet Perfecto - Bullet In The Gun (Gary Maguire remix)
+ 26.Fisherman & Hawkins - Apache
+
+ ----------------------------------------------------------------
+ #nesmeured - if there's something, there's nothing !
+ ----------------------------------------------------------------

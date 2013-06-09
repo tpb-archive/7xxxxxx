@@ -1,0 +1,11 @@
+﻿User Type,Username,Date,Text
+,tester3000,2012-11-18T01:32Z,Thanks!
+,JackyWuGZ,2012-11-18T05:25Z,"Thanks. But there is no peer there, I cannot download it still 0% for a long time. Could you please open the torrent client for a while?"
+,tata666,2012-11-18T08:25Z,"Good job! All work, thanks!"
+,Iolva,2012-11-21T16:08Z,"Hello XTSE. First of all, sorry for my english. Second, thanks! for this program. I only have one question: I installed all, Java JDK, Android SDK, GTK# for .NET, Mono Develop and Mono for Android. The copy for patch, but when i export the .apk with Visual Studio and test it in a real android device it not work. Any advice?"
+,candl,2012-11-21T23:36Z,Thank you! Much appreciated. Works fine.
+,giwrgos_sd,2012-11-22T13:36Z,"Hi,i just followed the instructions but when i run vs 2010 and i debug,i get in the window ""select device"" , ""evaluation copy only deploys to emulators,is that ok?also when i go to start emulator image i dont see any api,and when i click create it doesnt do anything"
+,giwrgos_sd,2012-11-22T13:42Z,"hi,i run vs 2010 and when i debug in the window ""select device"" i see evaluation version only deploys to emulators.is that ok?also when i start emulator image i dont see any api's,and when i click create it doesnt do anything"
+,Xtse,2012-11-24T10:54Z,"@Iolva, giwrgos_sd:
+
+Try re-installing mono for android, then copy over the patched executable again. I noticed that on occasion when installing MFA it would sometimes cause problems that were fixed with a fresh install."

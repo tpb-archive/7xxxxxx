@@ -1,0 +1,26 @@
+﻿User Type,Username,Date,Text
+,ronald35,2012-11-27T23:14Z,"Thanks Very Much! At first i got only questionmarks when it was installed ?? I tried again and just copy/paste the crack in the 'Programs (x86) folder', working smoothly !! [i think it had something to do with the 'Reg-key' that i used the first time... :)"
+,Dj_Ziio,2012-11-28T03:04Z,"for the question mark problem go to registry entry
+HKEY_CURRENT_USERSoftwareActual ToolsActual Window Manager
+find the languages line and change it from ru to en
+
+program shows that its full version but previous cracks I've tried stopped working after the 60 day trial period, so i'll be back to comment then.  hope to see another version of this crack out soon because the rollup feature in this version broke with the new firefox/thunderbird 17 update.  There working on a bug fix that will probably be in the next version."
+,Dj_Ziio,2012-11-28T03:07Z,"oh yeah, as always block in your firewall, this program does do silent server checks"
+,blaatann,2012-11-28T22:42Z,problem getting this to start on win8 after a reboot
+,Dj_Ziio,2012-11-29T02:43Z,"blaatann are you able to start the program manually?  If not try uninstall then reinstall the program (after searching in regedit for ""actual tools"" and manually deleting the entries; there should be two) don't install the reg file or cracked exes.  test the program and reboot, if it works then my guess is the crack was built in win 7 and won't work in win 8, you may try just installing the reg file without the cracked exe and testing that.  hope that helps"
+,blaatann,2012-11-29T13:14Z,"ok, its the medicine.
+
+so in win8 x64:
+
+1.Disable UAC
+2. replace the 2 files
+3.ActualWindowManagerCenter.exe -> properties->compatibility->check run as admin.
+
+4.Disable load at start in the program
+5. add :
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftWindowsCurrentVersionRun]
+""Actual Window Manager""=""""C:\Program Files (x86)\Actual Window Manager\ActualWindowManagerCenter.exe""""
+
+
+to the end of the reg file and merge."

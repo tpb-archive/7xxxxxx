@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,trex456,2012-12-06T01:13Z,Iam an Amatuer at encoding Any suggestions Will be Happily recieved 
+[S],velvet.,2012-12-06T01:21Z,"The MP4 file format is a container format.
+If you used an application such as Handbrake to create the MP4 movie file, then you had the opportunity to incorporate the SRT subtitle file inside the MP4 container as soft subs that could be turned on or off by the user at playback as they pleased.
+Doing so is a superior solution compared to having the SRT subtitles as a separate file."
+[S],velvet.,2012-12-06T01:48Z,"Another tip:
+
+When you create a torrent, the smaller the block sized used, the quicker and smother the data will replicate among the peers in the torrent swarm.
+You used a block size of 1 MB, resulting in 836 blocks.
+But it would be better to use a block size of 256 KB or 512 KB, resulting in 1672 or 3344 blocks."
+,trex456,2012-12-06T03:26Z,"@ velvet
+Thanks for the suggestions
+1.  I will upload mkv files from future uploads 
+2.  I will maintain a block size of 256 KB"
+[S],velvet.,2012-12-06T04:00Z,"The MKV and MP4 formats are very similar.
+They both use H.264 video encoding, and both have the ability to contain soft subs.
+The Handbrake application handles both of them.
+There is no real advantage to switch from MP4 to MKV.
+Using MP4 is actually compatible with more devices, since it is the format Apple uses."

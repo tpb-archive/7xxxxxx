@@ -1,0 +1,59 @@
+
++++ HOW TO CRACK in LiNUX: +++
+
+ModelSim SE-64 6.5f, Revision: 2010.06, Date: Jun 16 2010
+Copyright 1991-2010 Mentor Graphics Corporation
+
++++
+
+1. Device eth0 must exists. The FlexLM license tool always check the
+serial number according to eth0 MAC address. If you have more ethernet
+card always check, that the eth0 has a same MAC address. Also in 
+distribution like Fedora Core you will need to rename ethernet device
+back to eth0 (set biosdevname=0 as kernel parameter during the boot,
+or set a udev scripts which is more difficult).
+
+2. The keygen MentorKG.exe is windows binary, but can be used also
+with WINE if you do not have a dual boot. You will need WINE
+installed.
+
+3. Installation of ModelSim is i386 binary. So i386 libraries are
+still required for installation and also for WINE.
+
+4. Install ModelSim by running ./install.linux and choose a target
+directory, for example /opt or /usr/local.
+
+5. Copy the MentorKG.exe into the target directory and run it:
+
+wine MentorKG.exe -patch . -hn -o license.dat
+
+The output of command is:
+
+Mentor Graphics MGCLD License KeyGen V8.0
+ΓîÉ 2012 by Team EFA (Eda For All).
+
+File not found. on .
+
+Package:
+Z:usrlocalmodelsimmodeltechlinux_x86_64mglslibmgc.pkginfo v:
+3.1_0.1i
+Features: 217/3945 Atomic, 74/1088 Extended, 1210/1216 Composite and 4
+Eval
+Used:      1501 features                             
+
+You can ignore "File not found. on .", the license.dat is created.
+
+6. Set environment variable LM_LICENSE_FILE:
+
+export LM_LICENSE_FILE=/<your path>/license.dat
+
+7. Set the path to MoselSim binaries:
+
+export PATH=$PATH:/<your path>/bin
+
+8. Start ModelSim with command vsim.
+
++++
+
+12/1/2012 by LinuxGuru (tested in Fedora Core 17, AMD64 architecture)
+

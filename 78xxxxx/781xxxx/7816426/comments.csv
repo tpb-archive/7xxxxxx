@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,Mercyflush64,2012-11-12T01:39Z,Is this the stand alone scenario that does not require the full game to be installed?
+,rick44,2012-11-12T04:22Z,Thanx!  Been waiting for this one.
+,wingo44,2012-11-12T09:10Z,scenario alone.
+,rooboy64,2012-11-12T09:17Z,"Great d/load thanks,  does this work in career mode i can only get it to work in stranded mode 
+thanks again"
+,Ciprian7,2012-11-12T15:06Z,Can someone help me please.I can't start the engine.
+,FieroGT,2012-11-12T23:51Z,"same problem here, cant do anything.... engine wont power up / move,,,,"
+,tpb_4_ever,2012-11-13T20:29Z,"Hose those who are having problem pwering the engine:
+
+This only happens if you use this addon on Railworks 3, because railworks 4 uses different scripts for engine simulation.
+
+To solve this problem:
+
+1. Extract this addon files in a temporary folder.
+2. Search all the files by extension .out at the end
+3. Rename all .out files to .lua and save them.
+4. Now copy paste all the files in your railworks directory, before running railworks make sure you clear blueprint cache.
+5. The engine wil now run fine in railworks 3"
+,Ciprian7,2012-11-13T23:44Z,"Works like a charm,thanks tbp_4_ever."
+,FieroGT,2012-11-24T04:06Z,"works perfectly, just had to rename them files! thanx!!"

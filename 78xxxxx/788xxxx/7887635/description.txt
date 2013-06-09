@@ -1,0 +1,40 @@
+
+
+Release info:
+
+SQLite Expert: A powerful administration tool for your SQLite databases
+Are you developing SQLite3 databases and need an easy and powerful tool? SQLite Expert is the perfect choice. It is the most feature rich administration and development tool for SQLite. SQLite Expert is designed to answer the needs of all users, from writing simple SQL queries to developing complex databases.
+
+The graphical interface supports all SQLite features. It includes a visual query builder, an SQL editor with syntax highlighting and code completion, visual table and view designers and powerful import and export capabilities.
+
+Supported platforms: Windows 2000, XP, Vista, 7.
+
+
+Visual SQL Query Builder
+	Build complex SQL queries with ease.
+	Formatted SQL query text layout.
+	Powerful means of SQL query parsing and analysis.
+	Advanced SQL editor with syntax highlighting and code completion.
+Powerful restructure capabilities
+Visual editors for table columns, indexes, foreign keys, triggers, unique and check constraints.
+	Restructure any complex table without losing data.
+	Any restructure operation is wrapped in a nested transaction which is rolled back if any errors occur when applying changes.
+Import and Export data
+	Import data from ADO data source, CSV files, SQL script or SQLite.
+	Export data to CSV files, SQL script, Excel or SQLite.
+	Copy tables between SQLite databases using drag and drop operations.
+	Export data to Excel via clipboard.
+Data editing
+	Edit data in the grid using powerful in-place editors.
+	Image editor currently supporting JPEG, PNG, BMP, GIF and ICO image formats.
+	Visualize and modify BLOB fields using the integrated Hex editor.
+Other features
+Full Unicode support.
+	Support for attached databases.
+	Support for encrypted databases.
+	Lua and Pascal scripting support.
+Recent features
+View all the functions and collations installed by each SQLite extension!
+	New in 3.0: Customize the look and feel of the application using skins.
+	New in 3.0: Send the contents of any grid to printer or export it to a PDF file.	
+

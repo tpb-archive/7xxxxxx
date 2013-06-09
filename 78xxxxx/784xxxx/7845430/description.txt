@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 62min20secs
+
+The Bowery Boys 1953 Loose In London
+ 
+http://www.imdb.com/title/tt0046011/
+
+[13:45:50] starting job
+[13:45:50] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:45:50] job configuration:
+[13:45:50]  * source
+[13:45:50]    + C:Loose In LondonVIDEO_TS
+[13:45:50]    + title 2, chapter(s) 1 to 1
+[13:45:50]  * destination
+[13:45:50]    + C:Documents and SettingsDead End KidsMy DocumentsLoose In London.mkv
+[13:45:50]    + container: Matroska (.mkv)
+[13:45:50]      + chapter markers
+[13:45:50]  * video track
+[13:45:50]    + decoder: mpeg2
+[13:45:50]      + bitrate 8000 kbps
+[13:45:50]    + frame rate: same as source (around 23.976 fps)
+[13:45:50]    + strict anamorphic
+[13:45:50]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[13:45:50]      + pixel aspect ratio: 8 / 9
+[13:45:50]      + display dimensions: 640 * 480
+[13:45:50]    + encoder: x264
+[13:45:50]      + options: ref=2:bframes=2:me=umh
+[13:45:50]      + bitrate: 397 kbps, pass: 2
+[13:45:50]  * audio track 0
+[13:45:50]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:45:50]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[13:45:50]    + mixdown: Stereo
+[13:45:50]    + encoder: faac
+[13:45:50]      + bitrate: 160 kbps, samplerate: 48000 Hz

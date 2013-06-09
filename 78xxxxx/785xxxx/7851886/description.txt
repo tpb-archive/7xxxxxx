@@ -1,0 +1,18 @@
+AM Records SACD (493 645-2)
+
+Recently these files were uploaded in 16bit 44khz using a Sony Playstation.  I wanted to share the the high resolution 24bit 96khz files....
+
+2 channel SACD iso downloaded from the russian torrent site.
+The individual song 2 channel DFF master edit files were extracted from the SACD ISO with sacd extract app.
+The resulting DFF was rendered into 24 bit 96 KHz WAV using Saracon using a clip free gain in a single step with the following settings:
+
+PCM OUTPUT:  WAV
+NUMBER FORMAT:  24 bit
+DITHER:  TPDF
+SAMPLE RATE:  96 KHz
+GAIN:  + 2.0 dB
+
+The WAV was split with the cue generated on extraction. 
+The resulting track WAV files were converted to level 8 FLAC with dbpoweramp.
+
+All tracks properly tagged with Artwork embedded.

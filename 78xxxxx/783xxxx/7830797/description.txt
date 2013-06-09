@@ -1,0 +1,36 @@
+Movies : Film-Noir : VHS Rip : English, 60mins41secs
+This is a redo of my torrent to reduce file size, new format mkv.
+
+the East Side Kids & Film-Noir, i think not. ;)
+
+the East Side Kids 1945 Docks of New York
+  
+http://www.imdb.com/title/tt0037648/
+
+[13:51:01] starting job
+[13:51:01] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:51:01] job configuration:
+[13:51:01]  * source
+[13:51:01]    + C:Docks of New YorkVIDEO_TS
+[13:51:01]    + title 1, chapter(s) 1 to 1
+[13:51:01]  * destination
+[13:51:01]    + C:Documents and SettingsDead End KidsMy DocumentsDocks of New York.mkv
+[13:51:01]    + container: Matroska (.mkv)
+[13:51:01]      + chapter markers
+[13:51:01]  * video track
+[13:51:01]    + decoder: mpeg2
+[13:51:01]      + bitrate 6000 kbps
+[13:51:01]    + frame rate: same as source (around 23.976 fps)
+[13:51:01]    + strict anamorphic
+[13:51:01]      + storage dimensions: 720 * 480 -> 704 * 480, crop 0/0/8/8
+[13:51:01]      + pixel aspect ratio: 8 / 9
+[13:51:01]      + display dimensions: 625 * 480
+[13:51:01]    + encoder: x264
+[13:51:01]      + options: ref=2:bframes=2:me=umh
+[13:51:01]      + bitrate: 396 kbps, pass: 2
+[13:51:01]  * audio track 0
+[13:51:01]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:51:01]      + bitrate: 128 kbps, samplerate: 48000 Hz
+[13:51:01]    + mixdown: Stereo
+[13:51:01]    + encoder: faac
+[13:51:01]      + bitrate: 160 kbps, samplerate: 48000 Hz

@@ -1,0 +1,24 @@
+﻿User Type,Username,Date,Text
+,Freel,2012-12-05T17:57Z,"Hy Aviara!
+
+Can you help me? Do you know any information for XCOM - Enemy Unknown - Slingshot DLC???
+FLT or Skidrow release?
+
+Thx!"
+[T],aviara,2012-12-05T21:06Z,"Don`t know what to say, i diden`t check the internet for it !"
+,N3xS,2012-12-05T21:35Z,"--------
+1- Go to regedit
+2- Find the folder: HKEY_LOCAL_MACHINESOFTWAREUbisoftFarcry 3, and make sure the path in InstallDir and the Version number are correct.
+2.1- Then go to HKEY_LOCAL_MACHINESoftwareWow6432NodeMicrosoftWindowsCurrentVersionUninstall
+2.2- Create a new key in this folder named {E3B9C5A9-BD7A-4B56-B754-FAEA7DD6FA88} exactly like this. Then in the new key you just created, make a new string named DisplayVersion, and set it value to the version of the game you have(1.00 or 1.01). Then launch the update file (1.01 or 1.02) and it should work.
+-------- "
+,N3xS,2012-12-05T21:35Z,"The fix for the error ""Could not Retrieve Version Number! Installation will now aborted"":
+--------
+1- Go to regedit
+2- Find the folder: HKEY_LOCAL_MACHINESOFTWAREUbisoftFarcry 3, and make sure the path in InstallDir and the Version number are correct.
+2.1- Then go to HKEY_LOCAL_MACHINESoftwareWow6432NodeMicrosoftWindowsCurrentVersionUninstall
+2.2- Create a new key in this folder named {E3B9C5A9-BD7A-4B56-B754-FAEA7DD6FA88} exactly like this. Then in the new key you just created, make a new string named DisplayVersion, and set it value to the version of the game you have(1.00 or 1.01). Then launch the update file (1.01 or 1.02) and it should work.
+--------"
+,Pillmonster,2012-12-06T00:37Z,"@N3xS
+
+THANK YOU!"

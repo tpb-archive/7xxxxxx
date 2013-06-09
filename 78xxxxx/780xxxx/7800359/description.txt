@@ -1,0 +1,66 @@
+Movie: Tangled
+Year: 2010
+IMDB: http://www.imdb.com/title/tt0398286/
+
+Notes:
+This one has the correct aspect ratio. Audio is 6-channel AAC as encoded through NeroAAC. Video is 5000kbps with a high-quality 2-pass encode.
+
+
+
+===================== General =====================
+Complete name               : C:UsersYDZVideosMoviesTangled.mp4
+Format                      : MPEG-4
+Format profile              : Base Media
+Codec Id                    : isom
+File size                   : 4.16 GB
+Duration (ms)               : 1h 40mn
+Total bitrate               : 5 906 Kbps
+Movie                       : Tangled
+Recorded_Date               : 2010
+Encoded application         : Lavf54.31.100
+Cover                       : Yes
+
+===================== Video =====================
+Id                          : 1
+Format                      : AVC
+Format info                 : Advanced Video Codec
+Format profile              : High@L5.0
+Use of CABAC                : Yes
+RefFrames                   : 5 frames
+Codec Id                    : avc1
+Codec info                  : Advanced Video Coding
+Duration (ms)               : 1h 40mn
+Bitrate mode                : Variable
+Bitrate                     : 5 000 Kbps
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Aspect ratio                : 16:9
+Framerate mode              : Variable
+Framerate                   : 23.976 fps
+FrameRate_Minimum/String    : 23.810 fps
+FrameRate_Maximum/String    : 24.390 fps
+Colorimetry                 : YUV
+Colos space                 : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.101
+Stream size                 : 3.50 GB (84%)
+Encoded library             : x264 core 128 r2216 198a7ea
+Encoded library settings    : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=0.80:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=5 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=5000 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Language                    : English
+
+===================== Audio =====================
+Id                          : 2
+Format                      : AAC
+Format info                 : Advanced Audio Codec
+Format profile              : LC
+Codec Id                    : 40
+Duration (ms)               : 1h 40mn
+Bitrate mode                : Constant
+Bitrate                     : 929 Kbps
+Channel(s)                  : 6 channels
+ChannelPositions            : Front: L C R, Side: L R, LFE
+Sampling rate               : 48.0 KHz
+Compression_Mode/String     : Lossy
+Stream size                 : 671 MB (16%)
+Language                    : English

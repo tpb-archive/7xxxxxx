@@ -1,0 +1,48 @@
+The new "modded" apk support those path you see down inside here!!!!!!!
+
+
+You have to replace to the path you have on android device.
+
+Exsample this line and path to change: <url location="file://mnt/sdcard/tomtom/com.tomtom.europe"/>
+
+Exsample Maybe to this path and maps:<url location="file://storage/extSdCard/tomtom/com.tomtom.europe"/> (Samsung Galaxy S 3)
+
+Or what you use to path :)
+
+
+
+/mnt/external_sd/,
+/mnt/sdcard2/,
+/mnt/sdcard/external_sd/,
+/mnt/sdcard-ext/,
+/mnt/sdcard/,
+/storage/sdcard0/,
+/mnt/extSdCard/,
+/mnt/extsd/,
+/mnt/emmc/,
+/mnt/extern_sd/,
+/mnt/ext_sd/,
+/mnt/ext_card/,
+/mnt/_ExternalSD/,
+/sdcard2/,
+/sdcard/,
+/sdcard/sd/,
+/sdcard/external_sd/,
+/mnt/sd/,
+/mnt/,
+/storage/,
+/mnt/sdcard/sd/,
+/mnt/exsdcard/,
+/mnt/sdcard/extStorages/SdCard/,
+/ext_card/
+/storage/extSdCard/
+
+
+And NO need to turn data or wi-fi of anymore.
+Also removed the license check with Google and TomTom site
+
+Thanks to pawel_1980
+
+Drive carefully guy's :)
+
+ScorpioPirate :) 		

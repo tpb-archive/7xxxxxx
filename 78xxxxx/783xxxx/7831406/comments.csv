@@ -1,0 +1,103 @@
+﻿User Type,Username,Date,Text
+[T],T.F.K,2012-11-16T11:30Z,SEED and ENJOY by T.F.K team
+,ElFlaco-77,2012-11-16T18:09Z,"Thanks. Will try it, then seed."
+,anni1994,2012-11-16T19:09Z,hanks but the activator for office 2013 is nâ&#x20AC;&#x2122;t working
+,no1453,2012-11-16T19:28Z,"Does anyone know which Windows updates to avoid, or know where to find a list?  I know KB2756872 can remove some activations."
+,vivow,2012-11-17T08:03Z,"@ no1453 - i updated my windows 8 pro yesterday evening (important & optional files), so far it is still activated."
+,Buttdozer,2012-11-17T17:45Z,Windows 8 Pro activation doesn't work.
+,CodeRed24,2012-11-17T18:25Z,how to activate windows8 i dont know yet. please post some understandable instructions
+,CodeRed24,2012-11-17T18:35Z,"thx it works.......
+got to the folder
+""geetyour files here"">>v3.10>>activation>>Keyw8EntActiv
+
+run as admin
+
+you guys rock. thanx. i'll seed and +1 it"
+,porron1891,2012-11-17T19:00Z,funcina para windod 8 pro media
+,Amir1121,2012-11-18T17:53Z,"i don't mean to offence you....but PLEASE can you explain it in better English???  because for example.....I don't know what to do in step 3??  
+
+3 Office | Visio | Project VL installation.
+
+can someone PLEASE explain the installation??
+
+tnx...I appreciate the fact that we are abkle to activate windows!!
+
+tnx!!!!!!"
+,Feanor_,2012-11-18T18:07Z,"Huh... is it possible to get little better info how to activate Windows 8 and Office 2013 with this?? o.O
+
+Tnx in advance! "
+,Amir1121,2012-11-18T18:26Z,"i don't mean to offence you....but PLEASE can you explain it in better English???  because for example.....I don't know what to do in step 3??  
+
+3 Office | Visio | Project VL installation.
+
+can someone PLEASE explain the installation??
+
+tnx...I appreciate the fact that we are able to activate windows!!
+
+tnx!!!!!!"
+,nitrojunkie007,2012-11-19T05:06Z,It's working...Thanks a lot...!!
+,anni1994,2012-11-19T16:13Z,"T.F.K 
+I want to activate office 2013 I have OS windows 7 ultimate. How I can do it THANKS"
+,ElFlaco-77,2012-11-20T05:46Z,"First, thank you for the upload. Second:
+
+I'm sorry, but these are the most convoluted instructions I've ever had to follow. There has to be away to make this instructions A LOT clearer. Needless to say, I tried to follow but couldn't get it to work.... not exactly sure what step 1 begins and/or ends."
+,JBiz1,2012-11-20T14:53Z,"To Avtivate Office 2013:
+Run CMD As ADMIN!
+
+cd /D ""%ProgramFiles%Microsoft OfficeOffice15""
+cscript OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript ospp.vbs /sethst:(KMS SERVER IP)
+cscript ospp.vbs /act
+
+OR
+
+(SAVE THIS AS .CMD FILE AND RUN)
+
+@echo off 
+ setLocal EnableDelayedExpansion 
+ chcp 866 
+
+ if ""%kms_host%"" == """" set kms_host=127.0.0.1
+ if ""%kms_port%"" == """" set kms_port=1688   
+
+ echo Used KMS %kms_host%:%kms_port%   
+
+  setLocal EnableDelayedExpansion  
+  set /a X=10  
+  set /a N=0  
+
+ :loop  
+  if ""%X%"" == ""%N%"" goto eoff  
+  set /a N+=1  
+
+ cd /D ""%ProgramFiles%Microsoft OfficeOffice15""
+ net start sppsvc /y 
+ cscript ospp.vbs /sethst:KMS
+ cscript OSPP.VBS /rearm
+ cscript OSPP.VBS /unpkey:GVGXT
+ net stop sppsvc /y 
+ attrib -H C:WindowsSystem32sppstoredata.dat 
+ del C:WindowsSystem32sppstoredata.dat /q 
+ net start sppsvc /y 
+ cscript OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+ cscript ospp.vbs /act
+ net stop sppsvc /y 
+ net start sppsvc /y 
+ cd /D ""%systemroot%system32"" 
+
+timeout 2 
+goto loop   
+
+:eoff"
+,lookito,2012-11-21T16:59Z,it doesn't work on Office 2013 x86 in windows 7 x86 
+,agrisv,2012-11-23T21:36Z,"All worked, i get activated  x64 windows 8 and office 2013. las what i do was:
+1. syncronise time on kms server
+2. change my windows 8 pc timezone while time are same as kms micro server
+3. last what is us was MDL activation helpers for win 8 and office 2013
+
+soryy if not work, because i dont remember steps what i do before this ( patch registry keys or run some of cmd files in this torrent.."
+,TheBillGates,2012-11-27T02:49Z,"Yet Another Working MAK Key (for permanent activation via Phone/Skype) for Windows 8 Pro & Windows 8 Enterprise:
+967B6-N7KXM-CJKJB-BHGCW-CPKVC"
+,piratemanager,2012-11-27T08:14Z,Works like a charm!
+,ruialvell,2012-11-28T05:20Z,Can anybody please explain?? Or am i the only one who just don get them....?
+,rschalch,2012-11-29T15:32Z,I dont understand a shit of this readme !

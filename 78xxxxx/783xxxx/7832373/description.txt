@@ -1,0 +1,25 @@
+Workshop
+Added "Craft To" option for workshops
+The selected item will only be crafted if the total amount is less than the specified number
+When "any" material is selected it counts all items and when a specific material is selected, only items of that material
+
+Grove
+Groves are a designation, similar to Farms, that are automatically worked
+Grove tasks are "Plant saplings", "Cut clippings", "Pick fruit" and "Fell trees" and each one can be toggled on or off
+"Cut clippings" will remove leaves and fruit while "Pick fruit" only removes fruit.  Fruit only grows when a tree has leaves, so only picking fruit will farm fruit faster while cutting clippings will allow your Grove to expand.
+Groves can be designated over an existing tree and will be considered part of the grove even if the tree type is different than what is selected
+
+General
+Observe Windows Mouse setting to switch left and right mouse buttons
+Allow stairs to be built in rooms
+When loading, detect and repair errors in the navigation graph
+
+Fixed
+Crash when spotting mants
+Crash when viewing rooms that had stairs and were deconstructed
+Gnomes getting stuck trying to drink from a well
+Gnomes getting stuck trying to pasture an animal that was innaccesible
+Reset trap jobs persisting after a trap has been deconstructed
+Crash when completing or saving a game with a broken reset trap job
+Ammo pouch and quiver on corpses
+Formation settings not saving under certain conditions

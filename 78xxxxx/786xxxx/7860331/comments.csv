@@ -1,0 +1,32 @@
+﻿User Type,Username,Date,Text
+[V],psspss,2012-11-26T09:03Z,"man all these aussies connecting..
+
+theyre such bad sharers and seeders 
+
+its going real slow this seed out.. btw its not
+good to leech of me.. cos soon I will run out again and you have to get alternative rips"
+[V],psspss,2012-11-27T02:32Z,"For those having problems playing my VIDEO files.
+===============================================
+
+are you first sure the file is not damaged?
+
+even though you downloaded it.. a bug in the client p2p
+like utorrent or other may say its completed but
+may have a missing chunk at the end or begin of the file
+I use client utorrent 2.2.1 as was the best one
+and still is, new clients can have bugs
+
+also antip2p people can corrupt the file as well.. why I use peerblock 1.1
+
+also you may have a bad fat32 or ntfs corruption and do a scandisk to be sure.. after in utorrent you
+can right click on torrent and do a force re-check (it check the chunks match the hash table)
+
+all my files will play in VLC 1.11 or higher its always tested before
+upload and vlc has the codecs built-in hence why its a faster player and avoids bad codec issues
+
+find it at videolan.org
+
+if it says corrupted index or wont play with that you have a bad file"
+[V],psspss,2012-11-27T03:20Z,"also you might need to install the K-Lite pack of codecs
+and best of all is install the FFDSHOW direct show filters
+which is all you need really "

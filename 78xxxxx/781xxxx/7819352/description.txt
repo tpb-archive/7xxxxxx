@@ -1,0 +1,1 @@
+A polymorphic association allows a model to belong_to different types of other models. Here I show how to make a single comment model belong to articles, photos, and events. (11 minutes) If you found this helpful, please consider purchasing RailsCasts Pro.

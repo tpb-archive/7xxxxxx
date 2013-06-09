@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+[T],tr108,2012-11-22T17:55Z,"Judging by all the positive feedback, you've been doing excellent work, Hambosas!
+
+I noticed that a few folks have mentioned issues with playback on AppleTV 1 boxes, namely black screens but with sound -- I suspect you've been using the AppleTV 2 preset as your starting point. 
+
+If you want to ensure compatibility with ATV1 boxes, you must start with the ""AppleTV"" -- not 2 or 3 -- preset in HandBrake. After you've adjusted picture size and audio settings, add the string below to the Advanced pane to mimic the settings I used:
+
+""rc-lookahead=120:me=umh:merange=32:subq=10:analyse=all:trellis=2""
+
+Apologies - back when I was still on Twitter, I recall you asking me what starting preset you should use. Since you mentioned watching via iTunes on your computer, I said any preset will do. Unfortunately, the ATV1 is a *very* limited box, and requires the AppleTV preset as a starting point. 
+
+(Using the ATV1 preset will produce files that are about 10-15% larger than your current encodes, BTW, tho they will look practically identical.)
+
+Or, if you don't want to wait forever, just use the standard ATV1 preset with audio and pic size adjustments, and set RF to 21 (instead of the default 20). Forgoing the advanced string should speed up encodes by about 60%. They're won't be must of a quality drop-off.
+
+Again, great work. Best of luck with your ups! :)"
+[T],tr108,2012-11-22T17:56Z,"I meant to say, ""There won't be much of a quality drop-off"""
+,Hambosas,2012-11-22T18:30Z,"Thank you and once again everybody, I need to know if this plays fine on any of the Apple-TV versions."
+,Hambosas,2012-11-23T09:58Z,Sorry guys I'll upload the 1080p version tomorrow. TPB isn't letting me upload it...
+,thefan23,2012-11-28T17:21Z,This plays great on ATV 1. 

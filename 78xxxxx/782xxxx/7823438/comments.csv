@@ -1,0 +1,57 @@
+﻿User Type,Username,Date,Text
+,zurtewizertar,2012-11-14T15:54Z,"thank you murph
+
+...........................
+people - support murphy78"
+,aakashkatoch,2012-11-14T19:30Z,activation validity???????
+,murphy78,2012-11-14T21:55Z,"it installs windows loader at setupcomplete phase.  to check your activation, right click on my computer, properties."
+,zero1zero,2012-11-15T06:49Z,Why did you leave out KB2685811 and KB2685813? Are those bad?
+,chacrE5a,2012-11-15T09:57Z,"Hi Murphy,  Thanks for upload.   Will you be uploading a x86+x64 AIO (I mean both on same disc) like your others?  :)"
+,murphy78,2012-11-15T10:48Z,"zero1zero, they are not available to download in a .cab or .msu file.  You can only download them from windows update at this time.  If I ever find them in an integration version, I will incorporate them.
+
+chacrE5a I may, but I really wanna knock out some of my win8 language support versions for the new patch day kb files.  So many people are starting to use win8 that it's just been a little lower on priority.  We'll see.  They require a lot of TLC on integration and testing.  There is just naturally a lot more that can go wrong with an AIO, and everytime something does, I have to re-integrate and re-test everything.  It takes either a TON of rebooting and reformatting, or a really long virtual machine patience run.  I'm more of a reboot and reformat guy, mostly because I'm impatient.
+
+cheers,
+murphy78"
+,MacroFine,2012-11-15T13:29Z,"Fantastic job. Keep up the good work, you save us all lots of time by using your installs. You deserve to be paid lots of $$$."
+,shepe06,2012-11-15T21:34Z,which are the steps to instal it on a normal pc? help pls 
+,kristina111,2012-11-17T04:24Z,"Murphy78,
+
+your work is great. Can you tell me do you used Win8 or Win7 for yourself. 
+
+I want to try it. Is this pre-activated or tell me the way I can activate it.
+
+Great Job, "
+,murphy78,2012-11-17T10:05Z,"For use, just burn the iso and pop in the dvd for upgrade, or just change boot options to boot from dvd.  The instructions from there are pretty self explanatory.
+
+I have been using win8 lately, but with all the testing I have been doing, I haven't had much time to actually sit back and enjoy it.  At first I was annoyed at having to enter email password and lack of activation, but since I figured out that you can just install using a local account, and having saved my activations with tokens manager; I am not really bothered by win8 as much.  Now I guess I could get into the neat lil apps you can run from the metro thing for free.
+
+I'm so used to using win7 still that it's going to be a while before I'm fully used to win8, but it's growing on me."
+,scoutyxt,2012-11-17T18:06Z,"thanks murphy78
+
+why your torrent has deleted From kat ph?"
+,murphy78,2012-11-17T22:24Z,"Guys the windows loader 2.1.7 is giving some newer torrent clients some sort of virus alert, but it's not infected.  The loader is just on a virus list because it is a hacktool.  If you are concerned, feel free not to use this; but please note that it is just a false positive.  A virus is something that copies itself and spreads.  A hacktool is just a crack for operating systems.
+
+Anyway, just giving info before people become alarmed if they're using newer torrent clients.  I'll release a new version of this in like a week or so with no windows loader for people that don't trust windows loader or prefer removewat.
+
+someone on kat ph i think reported this false positive and I'm petitioning it atm.
+
+My work is not infected, I give my word.  As a politician once said, trust but verify.  You can run a sha-1 or something on the loader in the oem directory and compare to every other windows loader 2.1.7.
+
+murphy78"
+,scoutyxt,2012-11-18T04:03Z,"thanks for explanation murphy78 , good job.
+iÂ´ll try this on virtual box when download finish"
+,therapsody,2012-11-20T15:03Z,"WOW, this compilation was composed by a legend,
+
+You have my deepest respect mr. Murphy.
+Best Regards"
+,mew7946510,2012-11-24T06:14Z,"Is the installation process the same, sir?"
+,XprojectX2,2012-12-01T04:38Z,"I have used a few of your OS'S
+They are great, Except : In every one that i have used i have found A BitCoin.EXE in every one ?
+
+Now I understand why there is so many Versions.
+
+Look in the Default user File in AppData it is there!  Every person who uses Any of his OS'S
+are Bit minning for him ?
+He just puts out a os every few days and people
+use it - He gets Paid !"

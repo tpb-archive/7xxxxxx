@@ -1,0 +1,41 @@
+To "install" these DLC's you need either a cracked version of rocksmith (TinyIso's)
+or the steam version with atleast 1 DLC bought.
+
+if you have atleast one DLC, read the text below
+
+
+full list of available DLC's here :
+ 
+http://rocksmith DOT ubi DOT com/rocksmith/en-us/downloads/index.aspx
+
+
+---------------------
+
+
+Before you read this, All songs have been repacked with the APP_ID from damnit - blink187 so if you already have this song, you don't have to do anything, just drag the songs into your content folder
+
+
+HOW TO GET THESE SONGS WORKING ON LEGIT ROCKSMITH (STEAM)
+
+Green and I found a way to get the DLC's working on a LEGIT rocksmith version (uncracked)
+
+the only requirement is that you own atleast ONE DLC of any kind (time saver pack/song/ preorder thingy (any .dat inside your content folder that you ACTUALLY own)
+
+
+Run RocksmithTookitGUI.exe that comes in the rar in this torrent.
+
+1. Go to the DLC Packer/Unpacker tab and unpack your DLC (anything that you OWN inside your content folder) .. then open the APP_ID file with notepad and copy the number inside there
+
+2. then fill in that number in the textfield (theres the APP ID from the song Damnit)
+
+3. then select the folder where you'd like all the output we are going to get (make this something else then the folder where all your DLC's are) - SavePath
+
+4. and click bulk repack and then select the folder where you have all your downloaded DLC's 
+
+(make sure the only files inside that folder are .dat files, else the program will probably crash (I didn't program any error checking))
+then click Bulk Repack.. now it may look like the program is hanging or going to crash but it won't, it's just busy repacking your DLC's
+
+
+
+What it's doing now is.. unpacking all the DLC's you have in that folder.. editing the APP_ID number and repacking them again.. Just look inside the folder.. you'll notice when it's done 
+then copy all the .dat files to your content folder and voila.. got all DLC's on legit rocksmith

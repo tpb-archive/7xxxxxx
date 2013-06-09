@@ -1,0 +1,25 @@
+Good day!
+
+We have finally released a new version -- Adguard 5.5.
+
+Attention, Adguard 4 is going out of support.
+
+Added:
+
++ QT Web browser support 
++ Sleipnir browser support 
++ Extended logging 
++ Filtration is enabled on big range of ports (not only 80) 
++ In proxy mode Adguard automatically set system settings 
+
+Fixed:
+
+* Problem with no filtration of some ports 
+* Conflict with ESET ssl filtration 
+* Errors with HTTPS websites in Opera browser 
+* Problem with Opera''s periodical slowdown 
+* Opera Link problem 
+* Some problems with flash games 
+* Maxthon favourites synchronization problem 
+* Errors that occurred while loading some pages 
+* Some minor fixes

@@ -1,0 +1,37 @@
+Many users requested a torrent with only a patch to Adobe CS6 so here they are. This patch was taken from this torrent: http://thepiratebay.se/torrent/7359096/Adobe.Master.Collection.CS6.LS16_Patch_%5BWORKING%5D uploaded by tykoon123.
+
+The patch itself was made by "Milkman".
+
+-----
+
+Instructions from tykoon123.
+ 
+1. Open Photoshop (or any other desired program in the collection) -- you need to initiate the trial version
+
+2. Open the folder "Milkman -- PatcherFiles" that was included in the download
+
+3. RENAME THE FILE to amtlib.dll --- as soon as this is done, you COPY this file
+
+4. After you COPY the amtlib.dll file, you must paste this in all the respective folders (now this will take some digging, thankfully it's damn near impossible to mess this up)
+
+All you have to do is find the location the program is downloaded. For myself, it was in C:Program Files (x86)
+
+After you find the location of all the Adobe products, open each folder respectively, starting with the top of the list is much easier, so you don't forget or repeat
+
+All I did for the AdobeAcrobat was copied the other file in there, the one pertaining to adobeacrobat, and did the same as with the other file, only this file was only copied in to the AdobeAcrobat folder, as it was not necessary anywhere else
+
+Just simply CTRL V (paste) in to all the folders, REPLACE this file.... Once you have replaced this file, the program should run uninterrupted without prompting you that your trial period will expire or asking you to purchase the software.
+
+-----
+
+If you're running a 64 bit system you rename amtlib64bit.dll to amtlib.dll and copy over else rename amtlib32bit.dll to amtlib.dll and copy over. The amtlibacrobat.dll goes with Adobe Acrobat.
+
+Please be aware that Adobe Acrobat X Pro and Adobe Encore might not work properly in this release. On top of that, Adobe Premier might have missing presets.
+
+The AdobePatcher.bat file only works if you have Adobe installed in the default C: directory.
+
+Don't run Adobe Updates after installing, if you do the cracks might stop working.
+
+You can disable your internet connection to skip the account validation.
+
+-----

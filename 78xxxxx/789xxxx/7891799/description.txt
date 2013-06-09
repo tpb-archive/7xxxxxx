@@ -1,0 +1,35 @@
+Twidere is a powerful Twitter and Identi.ca (Use basic auth) client for Android 1.6+, which gives you a full Holo theme and much more.
+
+
+Current Version: 0.2.1
+
+Requires Android: 1.6 and up
+
+This version uses new twitter API 1.1.
+added profile banner image.
+share viewing image directly.
+error notification for home timeline refreshing.
+workaround for Donut users showing white multi select dialog.
+many enhancements.
+
+
+RATE LIMIT IS TWITTERΓÇÖS FAULT!!! NEW TWITTER API ONLY ALLOWS 15 REFRESHES/15 MINUTES!!!
+
+Features:
+
+* Preview, open and save images from many services like instagram, imgly, yfrog, twitpic, sina weibo etc
+* Tablet support
+* Custom API Proxy (gtap, twip tested)
+* Filters (block unwanted tweets)
+* Draft feature (not finished now)
+* t.co link auto expanding
+* GZip compressing for API requests
+* Adjustable text size
+* View conversation
+* Two themes (dark and light theme)
+* Multiple account support
+* Free and open source, without any ads!
+
+HELP TRANSLATE TWIDERE INTO YOUR LANGUAGE!
+
+Visit here: http://crowdin.net/project/twidere

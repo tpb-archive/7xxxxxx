@@ -1,0 +1,23 @@
+remove all previous installations of Microsoft office
+
+remove all previous kms activations or cracks etc
+
+install Microsoft office 2013 (retail or volume) 
+
+add registry key suitable for your system
+
+run "0-0-KMSmicro-normal.cmd" and it should open up a big window called "qemu"
+
+once the screen gives you options, enter the letter "t" to set the time
+
+once finished enter "13" to enter Microsoft office 2013
+
+while the screen is blank, go back to the folder and run (as admin) "office 2013 activate.bat" (if running 64-bit)
+
+it should say product activation successful
+
+wait for qemu to finish then enter the letter "s" to shutdown
+
+open Microsoft office 2013 and it should be activated, if not just try again
+
+enjoy & seed! :)

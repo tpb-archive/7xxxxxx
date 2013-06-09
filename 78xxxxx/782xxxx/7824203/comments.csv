@@ -1,0 +1,113 @@
+﻿User Type,Username,Date,Text
+[T],Gh0stNet,2012-11-14T12:26Z,"Borderlands 2 Update v1.0.1:
+-Minor bug fixes
+*Disabled Golden Keys Exploit
+
+Borderlands 2 Update v1.0.2:
+-Fixed issue with trading negative credit values.
+-Fixed issue regarding pre-order incentives.
+-Fixed issue regarding connectivity problems involving routers with restricted Firewall UDP settings.
+*Some DLC got fixed
+
+Borderlands 2 Update v1.0.3:
+- Fixed an issue regarding the ""Ignore"" feature in the mission log.
+*Contains Launcher and nickname bug
+
+Borderlands 2 Update v1.1.0:
+- Fixed some cases where the Logitech G19 screen would show incorrect information for the friends list.
+- Fixed players losing ammo when reloading a savegame with max ammo and a stockpile relic equipped.
+- Fixed the vendor UI sometimes showing a count of 1 less item in the player's backpack than is actually there.
+- Fixed the favorite/trash icons in the inventory sometimes disappearing when scrolling the inventory list.
+- Fixed players getting stuck in a white box when two people try to travel at once and one is in a vehicle.
+- Fixed co-op players sometimes spawning at different places after a level transition.
+- Fixed the ""has abandoned your struggle!"" message sometimes appearing with no player name.
+- Fixed mini-map fog-of-war sometimes not uncovering correctly when first loading a saved game as a client.
+- Fixed a rare crash when trying to select a menu item with the keyboard after playing the game with a gamepad.
+- Added ""(undiscovered)"" entries to the challenge log for challenges that the player has not yet found.
+- Fixed a rare crash in the launcher related to using a gamepad.
+- Fixed client players sometimes seeing fired bullets fly off in random directions.
+- Fixed a blocker in the ""Do No Harm"" quest. This fix prevents the bug and corrects the issue for any character hit by this bug.
+- Fixed a case where players were sometimes being sent back to the main menu after their online status changed when playing a LAN game.
+- Fixed a case where shields that reduce the player's health were sometimes not showing how much health they reduce.
+- The inventory screen will no longer jump to the top of the list when using a customization item.
+- Fixed a case where clients and servers would sometimes see different fast-travel stations available to them.
+- Fixed a bug that could cause challenges to re-complete all 5 tiers over and over again.
+- Fixed players who have lost access to their 3rd or 4th weapon slot erroneously.
+- Allowed players to trade with each other when at maximum backpack capacity if they're trading the same number of items with each other.
+*Includes Mechromancer for the pre-order versions! (SKIDROW)
+*Only servers with v1.1.0 or above are showed in ""Find games""
+*Unlocks with ini files are disabled
+
+Borderlands 2 Update v1.1.1:
+-Modified profile behavior to prevent possible data loss.
+*Support for the Captain Scarlett and Her Pirate's Booty DLC
+
+Borderlands 2 Update v1.1.2:
+â&#x20AC;&#x201C; Prevents data instability when launched with unsupported commands.
+"
+[T],Gh0stNet,2012-11-14T12:27Z,"Borderlands 2 Update v1.1.3:
+- Added a toggle for whether textures should fade or pop in when a higher-resolution version loads. High-end computers can disable this to avoid seeing lower-resolution textures streaming in.
+- Added the ability to reset all challenge progress for a character once they've completed 85% of all non-DLC, non-area-specific challenge levels. This will keep the player's current challenge bonuses and rank, but reset all challenge progress to 0 and allow challenges to be re-completed for additional ranks and bonuses. Resetting is available on the ""challenges"" screen of the status menu and will display as a tooltip at the bottom of the screen if the player has met the criteria.
+- Fixed a bug where profile files set to ""read only"" were not being saved.
+- Fixed a performance issue in Captain Scarlett and her Pirate's Booty content with PhysX set to Medium or High.
+
+Borderlands 2 Update v1.2.0:
+- Fixed fast travel stations from downloadable content sometimes disappearing when loading a saved game.
+- Fixed an issue where players could occasionally be unable to connect to one another if one of them had recently been in DLC that the other doesn't have.
+- Fixed an issue where players were sometimes unable to pick items up after another player had bulk-picked-up a nearby item.
+- Fixed a bug in the inventory UI when quickly scrolling to the bottom of a list using the mouse wheel.
+- Improved PhysX fluid rendering quality at high resolutions.
+- Improved NVIDIA 3D Vision integration.
+- Fixed the ""Inverted reverse steering"" option not working for clients in a multiplayer game.
+- Fixed the player's backpack sort setting not persisting.
+- Fixed an issue causing players to sometimes crash or freeze after killing Master Gee in the Captain Scarlett DLC.
+- Fixed challenges showing inaccurate completion amounts for area-specific challenges.
+- Fixed a bug where the player's active mission would sometimes fall back to main-game missions when completing other missions in DLC areas.
+- Fixed a bug that could cause players to lose mission rewards that they had not claimed when switching between Normal mode and True Vault Hunter mode.
+- Added a confirmation dialog when opening the golden chest in Sanctuary.
+- Fixed Arid Nexus Badlands showing an undiscovered challenge that was not attainable.
+- Restored some lost progress to players who have had their profiles reset. To ensure you are credited for as much progress as possible, please load your character, select ""Continue"" on the Main Menu, and then ""Save and Quit"" after you enter the world. Repeat this process for each character in your character list.
+- Fixed the Mechromancer's Anarchy skill sometimes losing stacks incorrectly for multiplayer clients.
+- Fixed a bug causing players to sometimes get stuck zoomed in when in ""fight for your life"" mode.
+- Fixed challenge ""For The Hoard!"" to work properly after resetting challenges.
+- Fixed a bug that could sometimes cause players' skill points to be reset when loading their character.
+- Fixed a bug that could cause enemies and missions to be locked to an incorrect level.
+- Fixed bug causing Tediore reloads to get Amplify shield damage bonuses for each round remaining in the clip.
+- Amplify damage from Amplify Shields is now divided among all projectiles fired from a single shot.
+- Balance adjustments to ""The Bee"":
+- Increased Recharge Delay
+- Significantly increased Recharge Rate
+- Reduced Amplify damage
+- DLC raid bosses no longer drop Seraph crystals in Normal Mode.
+- Reduced level of DLC raid bosses in Normal Mode.
+- Fixed issue resulting in infinite leveling exploit with Fleshstick.
+- Increased the health of Terramorphous, Willhelm, and Blue.
+- Additional miscellaneous balance tweaks.
+- Fixed issues with the following missions that could cause players to get stuck or not be able to complete them:
+- Plan B
+- Wildlife Preservation
+- Mighty Morphin
+- Animal Rescue: Food
+- The Man Who Would Be Jack
+- Get To Know Jack
+- Where Angels Fear to Tread
+- Trailer Trashing
+- Clan War: First Place
+- Stalker of Stalkers
+- The Once and Future"
+[T],Gh0stNet,2012-11-14T12:28Z,"- The Once and Future Slab
+- Home Movies
+- Shielded Favors
+- You Are Cordially Invited: Tea Party
+- (Captain Scarlett) Freedom of Speech "
+,OmniNegro,2012-11-14T13:35Z,"- Fixed bug causing Tediore reloads to get Amplify shield damage bonuses for each round remaining in the clip.
+- Amplify damage from Amplify Shields is now divided among all projectiles fired from a single shot.
+
+Those two are welcomed changes. Less cheese in the late game now!
+
+Thanks Gh0stNet."
+,asqw9,2012-11-14T17:29Z,Thank you. Working fine. I'm glad I didnt have to download NOSteams crack which includes all DLCs (1.95gb).
+,ben7530,2012-11-14T17:58Z,Is this crack compatible with win8?
+,int4ct,2012-11-15T14:12Z,"to ben7530: 
+No."
+,ZeBastian1,2012-11-16T13:06Z,Works fine with Win7/64 bit

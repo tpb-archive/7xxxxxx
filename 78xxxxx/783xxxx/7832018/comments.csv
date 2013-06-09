@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+,maxdesolate,2012-11-16T15:12Z,Hitman Absolution PS3[BLES01403] Game fix and Patch 1.01 for 3.41 and 3.55.
+,DrVonEvil,2012-11-19T12:22Z,Works perfectly. Thanks!
+,maxdesolate,2012-11-19T14:55Z,you are welcome. enjoy! 
+,RaidenRage,2012-11-21T17:11Z,I managed to get it working with this fix but the cutscenes and videos are not playing. I'm maybe half way through the game and I have no fucking clue whats happening storywise.
+,maxdesolate,2012-11-22T11:25Z,finished the game yesterday. cut scenes work fine for me and all my friends who have the duplex version. dont use abusive language. i can understand your frustration. i'm only uploading fixes after testing and getting confirmation from others. 
+,Drillsy,2012-11-24T19:35Z,thank you very much maxdesolate great upload 3.55 working 
+,maxdesolate,2012-11-25T01:26Z,you are welcome drillsy
+,larryrube,2012-12-01T07:54Z,"I'm must be doing something wrong. When I press select+x in multiman it just loads the game like normal and doesn't give me the option to change the PARAM.SFO. Obviously, I'm being an idiot. Can someone help this idiot out? "
+,maxdesolate,2012-12-01T15:26Z,"@larryrube, it just means that the param sfo has already been changed to 3.55. just move on to the next step. load the game, then install the pkg and play from xmb. you are not an idiot pal. just ask me if you need any help. "
+,Smart_Boss,2012-12-01T18:27Z,not working what i do?
+,maxdesolate,2012-12-01T19:01Z,"eboot should be the same that was downloaded in duplex release.
+
+
+replace all files in USERDIR folder from the folder i have given.
+
+after that, load the game from multiman and press select+x to change param sfo to your firmware(3.41 or 3.55).
+
+and THEN install the pkg given. THEN start the game. DONT INSTALL PKG FIRST AND THEN LOAD THE GAME. LOAD THE GAME FIRST AND THEN INSTALL PKG. then start the game."
+,larryrube,2012-12-02T01:11Z,"Maxdesolate, I can't seem to get this to work. The game will start, but after I choose the difficulty it goes black screen and won't recover. Any thoughts? Did I apply the patch incorrectly? I'm downloading a fresh copy of Duplex's release as well as the patch just in case it had something to do with my download. Any suggestions would be appreciated. "
+,maxdesolate,2012-12-02T06:10Z,"LARRY, make a backup copy of the game in your comp first. no, when the game is still on your computer, ps3_game folder  in the game one one side(right side). and the ps3_game folder from my fix in the other(left side). that way you wont be confused while replacing the files. drag and drop the usrdir folder from the fix(left) and drop it to the usrdir(right). when it asks you to merge files, click yes and check do this for all conflicts(if you are using windows 7) in the bottom of the prompt.  if you are using xp, just drag and drop it and and check yes to all when it asks you if you wanna replace them. copy the pkg on external. thats all you need to do in the computer. now load the game from multiman by pressing select+x. it will ask you if you wana change it to 3.55. do it. then instal the pkg in xmb. then load the game. lemme know if it worked. i hope you are not using TB dongle as that has been reported to be causing problems with new 3.55 games. goodluck mate."
+,maxdesolate,2012-12-02T06:11Z,"sorry - correction  - now, when the game is still on your computer, open ps3_game folder in the game one one side(right side). and"
+,maxdesolate,2012-12-02T06:26Z,"if you still have doubts, add me in yahoo messenger, my id is the same."

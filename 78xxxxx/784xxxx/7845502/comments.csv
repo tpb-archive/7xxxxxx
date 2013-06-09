@@ -1,0 +1,48 @@
+﻿User Type,Username,Date,Text
+,Theslcguy,2012-11-22T03:42Z,cannot play online... server cannot connect
+,TeamExtreme,2012-11-22T05:01Z,The server you are trying to connect to is currently offline for hardware upgrades.
+,yourfear,2012-11-22T10:05Z,i have a problem to connet on server write connecting and after discotect and write 398 how to fix this? sorry for my bad english
+,Cirothe12,2012-11-24T04:59Z,This version is not compatible with forge. I tried installing latest forge on a clean minecraft.jar and it still doesn't work...
+,LeoCYH,2012-11-24T11:24Z,Could you please teach me how to set up a cracked Minecraft server like yours?
+,gunslocker,2012-11-24T21:33Z,no one is seeding and I cannot download ): 
+,TeamExtreme,2012-11-25T07:03Z,"@yourfear
+I have no idea what you said sorry.
+
+@Cirothe12
+I should be but we will also look into this and apply a patch if needed. Can you please provide some more info, like what version you are using and what kind of error are you getting?
+
+@LeoCYH
+YouTube my friend.
+
+@gunslocker
+There are over 500 seeders, I think you maybe on crack, or you have a firewall blocking your connection.
+
+"
+,piperxo,2012-11-25T08:01Z,hi i just downloaded this torrent after the torrent 1.4.2 said i had bad video drivers. It still said the same thing. I am using windows 7. I'm not sure if it's my java because I do have it updated and this game was working just fine until I upgraded from vista to 7
+,Malakore,2012-11-25T17:07Z,"Cirothe12: No idea what version of Forge you tried, but ""minecraftforge-universal-1.4.5-6.4.0.396"" works without problems for me. Both with clean JAR and with Optifine.
+
+LeoCYH: There is nothing like cracked server. It's just offline mode server. Means that server isn't doing user verification through minecraft dot net, instead those servers rely on their own user verification systems (plugins). And it's just matter of setting online-mode to false in the server.properties file.
+
+piperxo: Install latest drivers for your video card. If it doesn't help, also download and install latest LWJGL (see minecraftwiki for tutorials)."
+,Malakore,2012-11-25T17:10Z,"piperxo: Also, I assume you are using laptop or desktop with integrated graphics? Or just very old graphic card? If so, also you can try lowering od disabling graphic hardware acceleration. That did the trick for me on the old office laptop."
+,piperxo,2012-11-25T18:05Z,I figured it out after I had posted that. I had to reinstall my nvidia after i upgraded to 7 and it loads up just fine. now to deal with crappy frame rates haha. 
+,Cirothe12,2012-11-25T22:45Z,My bad I was using a corrupted version of forge... not sure how it got corrupted
+,snuggypoo,2012-11-27T03:57Z,"A good server to play on is blackcraft.us
+
+they have a town, admins 24/7, and grief protection, hunger games server, etc. 
+
+website is blackpulsegaming us
+
+They also have cracked mw3 servers. "
+,dmilroy,2012-11-27T22:05Z,Cannot Connect To Servers
+,nightology_88,2012-11-28T05:16Z,"This worked so far for me, had a little problem the first time installing but it seems like a reinstall solved the problem, will post again for further notice. TY so much"
+,kalibcrone,2012-11-29T21:51Z,so i guess it's not possible to install mods with this version of minecraft?  ive tried using a couple mods and used mod managers and just tried applying the mods directly into the .jar file and none of them work.  its weird.
+,TeamExtreme,2012-11-30T07:48Z,"kalibcrone@
+
+This works fine with mods. This launcher does not touch any Minecraft files for this very reason...
+
+Make sure you delete  the MET-INF folder inside your minecraft.jar file, like the instructions tell you too."
+,pepo930,2012-11-30T17:58Z,Free Minecraft 1.4.5 server 78.142.45.143:25565
+,talkhtw5,2012-12-01T09:47Z,"Why after a short while like...3-4 min I disconnect from the server because of ""Java timeout"" something like that, why does it happan?"
+,talkhtw5,2012-12-01T09:51Z,Now it's connection lost time out..
+,talkhtw5,2012-12-01T09:56Z,Javanet.socket.timeoutexpection WHY!

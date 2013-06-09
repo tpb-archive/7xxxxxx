@@ -1,0 +1,20 @@
+Compiled for linux, Handshake 10 support.
+
+Enter as root into the rtmpdump directory and do
+
+# make install
+
+A simple check as user:
+
+$ rtmpdump --help
+
+RTMPDump v2.4
+(c) 2010 Andrej Stepanchuk, Howard Chu, The Flvstreamer Team; license: GPL
+
+rtmpdump: This program dumps the media content streamed over RTMP.
+
+..........................................................................
+
+If you have rtmpdump installed from your distribution, please uninstall it before any other operation, i.e. for fedora:
+
+# yum remove rtmpdump

@@ -1,0 +1,28 @@
+On Rogero 4.30 but your old PSN 3.55 games are not working? Other 3.55 games not working, esp DUPLEX ones?
+
+This fully automatic program will fix it!! just drag the .pkg file onto the .bat file and the program does all the work extracting, resigning and repacking.
+
+I tested it on Final Fight and some others.. works 100%.
+
+----------------------
+
+
+Following up on my previous update, today I decided to take my PS3 Resigner Script even further and came up with something I'm very excited about - I present to you CFW 4.xx+ F.A.R. Script v0.5b (F.A.R. standing for "Full Auto Resigner" ^^).
+
+Download: PS3 CFW 4.XX+ F.A.R. (Full Auto Resigner) Script v0.5b
+
+Changes since previous Resigner Script:
+
+    
+Automatically unpacks, resigns, finds/adds "Content and Title ID" to package.conf and repacks .pkg files (Just drag and drop your .pkg file on the "CFW 4.xx+F.A.R. Script (Drag Here).bat")
+    
+
+Automatically detects if the input file is an EBOOT.BIN and is able resign DISC and NPDRM EBOOT.BIN's (Drag and drop the EBOOT.BIN on the .bat and select DISC or NPDRM at the prompt)
+    
+
+Automatically makes a .BAK (backup) of your original EBOOT in it's source folder.
+
+
+Hope you enjoy it
+
+For questions and bug reports don't hesitate to contact me.

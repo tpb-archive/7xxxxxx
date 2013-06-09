@@ -1,0 +1,38 @@
+DVDFab 9.0.1.2 for Windows (November 30, 2012)
+
+New: Added "Version" and "Serial Number" in Settings->Drives.
+New: Added "Prevent standby/hibernation/screensaver when processing" feature.
+New: Added "Burn again" feature.
+Fix: A problem that the temp files are not deleted after burning.
+Fix: A problem that cannot display the progress at task bar.
+Fix: Some external subtitle problems in Blu-ray Copy and Bu-ray Ripper mode.
+Fix: A problem that the volume name is wrong in task queue.
+Fix: A problem that "Always display only forced subpicture" feature cannot work. 
+Fix: A problem that the summary info cannot be refreshed in certain cases.
+Fix: A glitter problem of preview in certain cases.
+Fix: A wrong link problem for renew.
+Fix: A problem that DVDFab crashed when turn off subtitle in Preview.
+Fix: A problem that cannot launch DVDFab in certain cases while an usb drive is connecting.
+Fix: A crash problem when copying or ripping with a movie without any subtitle.
+Fix: A problem that should not enable "Remove HD Audio" when the audio is not HD.
+Fix: A problem that main window cannot be maximized in certain cases.
+Fix: A truncation problem in Summary when the volume label is too long.
+Fix: A problem that should not recognize blank DVD disc as a source.
+Fix: A problem that cannot recognize blank disc for copying in certain cases.
+Fix: A problem that cannot navigate to Full Disc mode from Split mode in certain cases.
+Fix: A crash problem when opening with 2 channels PCM DVD in Ripper mode.
+Fix: Added warning information when using "Copy as 3D" feature.
+Fix: A problem that cannot create miniso file for folder source. 
+Fix: A crash problem when eject Blu-ray disc in Full disc mode.
+Fix: A problem that missing "Copy as Blu-ray 3D","Copy as Blu-ray 2D" and "Convert to Blu-ray SBS 3D" in certain cases.
+Fix: A problem that cannot distinguish "Fake title" by different color.
+Fix: A no sound problem when ripping with some profiles, the bitrate of audio is too high. Should reduce the audio bitrate form "main" level to "lc". 
+Fix: A problem that the progress bar of task queue display wrong in Video Converter mode. 
+Fix: A queue problem when creating multiple files to a DVD or Blu-ray.
+Fix: A crash problem when opening a broken file source.
+
+OS: Windows 7 / Vista / XP (32-bit / 64-bit)
+
+Languages : Multilanguage
+
+Homepaage : http://www.dvdfab.com/

@@ -1,0 +1,9 @@
+PaperScan - is a versatile, powerful and easy to use program for scanning. Most applications of this kind are designed for one scanner, PaperScan allows you to control any scanner, including network scanners (TWAIN or WIA protocols are supported.) You can import any image / PDF-files in PaperScan and arrange them in any conceivable configuration, and then perform a wide range of image adjustments / improvements, and save your work in various file formats: JPEG, TIFF, PDF and JBIG2. Image is very easy to add, settings are generally not so much, and those that are immediately apparent. I hope the program will help PaperScan you work well with your scanner.
+
+Version 1.8.0.0 (November 12th 2012)
+Battery of minor bug fixes.
+Updates notifications support.
+New option to suppress warning and notification dialogs.
+New option to convert color bitmap to 1-bit monochrome bitmap using a dithering algorithm.
+Bunch of new annotations support: Free Hand Highlighter, Text, Image, Ellipse, Rectangle, Line, Connected Lines, Free Hand Pen, Ruler, Polygon, Free Hand Polygon.
+Quick scan mode feature: start a scan process by CTRL+Q, without getting the acquisition wizard.

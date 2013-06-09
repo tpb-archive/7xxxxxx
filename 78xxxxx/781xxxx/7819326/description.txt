@@ -1,0 +1,1 @@
+A destroy link in Rails does not work without JavaScript. In this episode I show two techniques for gracefully degrading destroy links: button_to and a delete action. (8 minutes) If you found this helpful, please consider purchasing RailsCasts Pro.

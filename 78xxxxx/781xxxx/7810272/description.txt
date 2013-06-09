@@ -1,0 +1,79 @@
+Movie: Pirates of the Caribbean, The Curse of the Black Pearl
+Year: 2003
+IMDB: http://www.imdb.com/title/tt0325980/
+Source: BluRay
+Resolution: 1080p
+
+Notes:
+Video is 5000kbps with a high-quality 2-pass encode using x264 codec. Due to the settings I used, it literally took days for it to encode.
+Audio is 6-channel AAC as encoded through NeroAAC. Encoded with q=1.
+Subtitles are English and are in sync, of course.
+The video will show a thumbnail of the movie's cover, as always.
+
+Mediainfo output:
+===================== General =====================
+Complete name               : Pirates of the Caribbean, The Curse of the Black Pearl.mp4
+Format                      : MPEG-4
+Format profile              : Base Media
+Codec Id                    : isom
+File size                   : 6.01 GB
+Duration (ms)               : 2h 23mn
+Total bitrate               : 6 010 Kbps
+Movie                       : Pirates of the Caribbean, The Curse of the Black Pearl
+Recorded_Date               : 2003
+Encoded application         : Lavf54.31.100
+Cover                       : Yes
+
+===================== Video =====================
+Id                          : 1
+Format                      : AVC
+Format info                 : Advanced Video Codec
+Format profile              : High@L5.0
+Use of CABAC                : Yes
+RefFrames                   : 7 frames
+Codec Id                    : avc1
+Codec info                  : Advanced Video Coding
+Duration (ms)               : 2h 23mn
+Bitrate mode                : Variable
+Bitrate                     : 5 000 Kbps
+Width                       : 1 920 pixels
+Height                      : 800 pixels
+Aspect ratio                : 2.40:1
+Framerate mode              : Variable
+Framerate                   : 23.976 fps
+FrameRate_Minimum/String    : 23.810 fps
+FrameRate_Maximum/String    : 24.390 fps
+Colorimetry                 : YUV
+Colos space                 : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.136
+Stream size                 : 5.00 GB (83%)
+Encoded library             : x264 core 128 r2216 198a7ea
+Encoded library settings    : cabac=1 / ref=7 / deblock=1:1:-3 / analyse=0x3:0x113 / me=umh / subme=10 / psy=1 / psy_rd=0.80:0.00 / mixed_ref=1 / me_range=64 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=120 / rc=2pass / mbtree=1 / bitrate=5000 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Language                    : English
+
+===================== Audio =====================
+Id                          : 2
+Format                      : AAC
+Format info                 : Advanced Audio Codec
+Format profile              : LC
+Codec Id                    : 40
+Duration (ms)               : 2h 23mn
+Bitrate mode                : Constant
+Bitrate                     : 1 001 Kbps
+Channel(s)                  : 6 channels
+ChannelPositions            : Front: L C R, Side: L R, LFE
+Sampling rate               : 48.0 KHz
+Compression_Mode/String     : Lossy
+Stream size                 : 1.00 GB (17%)
+
+===================== Text =====================
+Id                          : 3
+Format                      : Timed text
+Muxing mode                 : sbtl
+Codec Id                    : tx3g
+Duration (ms)               : 2h 13mn
+Bitrate mode                : Variable
+Bitrate                     : 60 bps
+Stream size                 : 58.4 KB (0%)

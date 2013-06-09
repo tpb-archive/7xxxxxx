@@ -1,0 +1,135 @@
+﻿User Type,Username,Date,Text
+,DFC-Louise,2012-11-14T11:15Z,"none of those work, this is just ridicoulous."
+[T],Gh0stNet,2012-11-14T11:46Z,"i dont know what is the problems for u guys it is working fine for me 
+p.s what happens when u start the game?"
+,Richy2012,2012-11-14T12:11Z,"man this sucks bad, why are tehre so many cracks released if none work? Do people even test them? prob betetr not to even upload them til it has been tested."
+,GoodGravy,2012-11-14T12:17Z,"@DFC, do you have Steam installed?, & also, did you update the DirectX at the end of install?, make sure you have updated the DirectX within the redist folder. If you don't have Steam installed, here is a solution which allows you to play without it:
+http://thepiratebay.se/torrent/7818904/Call.of.Duty.Black.Ops.II-SKIDROW_[PublicHD]"
+,DFC-Louise,2012-11-14T12:21Z,"@gh0stnet, same as for the most other people, black screen, bo2 has stopped working.
+I tried alle the fixes, installed newest drivers and directx + vc from the dvd, got steam and changed my timezone, nothing did it.
+havent seen other fixes by now.
+well, i think i'll just have to wait, thanks anyway ;D"
+,GoodGravy,2012-11-14T12:58Z,"This works perfectly for me on Win7, but not on Win8; just have to wait for the Win8 crack.
+(If your posting comments, either pros or cons, give more info on your rig so we can triangulate key issues, might help us all out in the end)."
+,nrub,2012-11-14T13:09Z,"Same problem for me, getting black screen and then it crashes.
+Did update DX,VC++ and GPU drivers to 310.54....also have Steam. Also tried time zone change.....but nothing happens.
+
+Specs:
+Win 8 Pro 32bit
+Q8300
+GTX 460
+4BG RAM"
+,DFC-Louise,2012-11-14T13:20Z,"well, here are my specs:
+win 7 ultimate
+amd phenom 9850
+4 gb of ram
+geforce gtx 460 gs"
+,GoodGravy,2012-11-14T14:04Z,"I should've given a bit more info on my set ups:
+
+Rig 1:
+Win7 Ultimate 32bit OS
+Core2 Duo E7500 @ 2.93GHz
+AMD Radeon HD6600
+4 gig of DDR3 RAM
+Comodo Internet Security
+(Alt drive has Win8 32bit)
+
+Rig 2:
+Win7 Ultimate 32bit OS
+Core2 Duo 6700 @266GHz
+GeForce 8800GT
+4 gig of DDR2 RAM
+(No Steam installed)"
+,DFC-Louise,2012-11-14T14:33Z,"@goodgravy, does it work on both your computers? because you said it doesnt work on win 8 and both of your pcs are running win7."
+,GoodGravy,2012-11-14T15:18Z,"@DFC, yes it works on both rigs using Win7, just didn't work for me using Win8."
+,mohee23,2012-11-14T17:29Z,this works perfectly for me atleast
+,IndigoAK,2012-11-14T18:39Z,This works for me if I change my time zone.  I'm on Windows 8 Pro 64-bit too.
+,XHaloXX,2012-11-14T19:27Z,"This has been posted MILLION times, JUST FUCKIN READ COMMENTS, if you are getting a black screen, CHANGE YOUR FUCKIN TIMEZONE IN WINDOWS TO +8 GMT AND IT WILL WORK.
+
+Tested on Win7 x64, not sure about win8 and who cares about it anyway."
+,DFC-Louise,2012-11-14T19:40Z,"i wonder why its working for some people and isnt for others.
+just reinstalled the game, still doesnt work."
+,DFC-Louise,2012-11-14T20:00Z,"well, halo, I DID AND IT FUCKING DOESNT."
+,mibmib007,2012-11-14T20:13Z,works like a charm with no timechange on win 7 64 bit.. just install steam and this crack and it starts.. wow.. so many retards out there who cant even read what to do when ppl tell how to do.. lol.. then u dont deserve to play
+,jpweb72,2012-11-15T05:07Z,"yesterday it worked for me now it doesnt tryed everything 
+when the game starts i see the first intro and then it hangs
+
+gonna try to unistal the game and delete the info on the regist"
+,jackoneill420,2012-11-15T05:22Z,"i used this crack and did changed my time to +8 hong kong and changed the date to the 13th and it worked for me cheers ,i dont get how changing the date and shit makes it work but it does :)"
+,jpweb72,2012-11-15T05:27Z,"info of the problem but is in portuguse
+
+Assinatura do problema:
+Nome do Evento de Problema: AppHangB1
+Nome da aplicação: t6sp.exe
+Versão da aplicação: 1.0.0.1
+Carimbo de Data/Hora da Aplicação: 509a7621
+Assinatura de Bloqueio: ac81
+Tipo de Bloqueio: 2048
+Versão do SO: 6.1.7601.2.1.0.256.1
+ID de Região: 2070
+Assinatura Bloqueio Adicional 1: ac814be216241ee54bc7642024051550
+Assinatura Bloqueio Adicional 2: 4dad
+Assinatura Bloqueio Adicional 3: 4dadd601fc8eca6a13d3bcd2b0eef19a
+Assinatura Bloqueio Adicional 4: ac81
+Assinatura Bloqueio Adicional 5: ac814be216241ee54bc7642024051550
+Assinatura Bloqueio Adicional 6: 4dad
+Assinatura Bloqueio Adicional 7: 4dadd601fc8eca6a13d3bcd2b0eef19a"
+,5meester5,2012-11-15T05:59Z,"Okay, for all of those that cannot get this to work, here is what you need to do.
+
+1. If you haven't DL'd/Installed the game, do that first. 
+2. Do not run the game after you install it. 
+
+3. Copy the contents from this zip over to your directory in which you installed the game. 
+
+4. Then you will need to make sure you change the DATE to 11/14/12 and you may or may not have to change the Time Zone to +8 (Hong Kong). I did just because I wanted to be sure.
+
+5. I also took the precaution to disable my internet and went into my Firewall settings and removed all of the Call of Duty Black Ops II SP, MP, & Z. 
+
+6. Once you do all of this, you should be able to load the game and have it be playable. 
+Hope this helps all of those who are having problems!
+
+**Also, I created a .reg file called No_Steam_Play.  Here is what it looks like:
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINESOFTWAREValve]
+
+[HKEY_LOCAL_MACHINESOFTWAREValveSteam]
+""Language""=""english""
+""InstallPath""=""H:\Windows 8 Programs\Steam""
+""SteamPID""=dword:00000000
+""TempAppCmdLine""=""""
+""TempAppPath""="""""
+,Shadow416,2012-11-15T06:03Z,"before this update using the time zone difference i get ""unhandled "" some shit crap something caught or w.e
+
+then with this crack 'update' the game jus freezes after saying Dolby lol...........gah..............thanks for the torrent though...it was worth a shot...i'll just borrow the damn thing"
+,thomas_gaberial,2012-11-15T06:06Z,"1.Install the game
+2.Copy the crack to Game dir
+3.Install Steam
+4.Change the Time Zone to +8.00 (Beijing, Hongkong...)
+5.Change the date to 14th NOV 2012
+6. Create a firewall rule to block the CODBO2 SP.exe
+7. Create a exception for the folder where CODBO2 istalled.
+6.Right click the Single Player ICON and Run as Admin
+7.Enjoy the game
+
+I finished playing the whole game. Awesomeeeeeeeeeeeeee game. The graphics are really nice in eyefinty. I can say one of the amazing FPS of the year.
+
+Enjoy the game"
+,Shadow416,2012-11-15T06:08Z,"holy shit nvm, 5meester's solution above me worked! i did it without the registry thing though buuuuut it worked! fuck ya! made it past intro customized graphics
+
+THANKS MAN!"
+,asd-08,2012-11-15T15:37Z,"Call of Duty Black Ops II SKIDROW 100% Working Instruction
+http://thepiratebay.se/torrent/7828581/Call_of_Duty_Black_Ops_II_SKIDROW_100__Working_Instruction"
+,sunb3am,2012-11-15T19:07Z,"i can confirm that @5meester5's & @thomas_gaberial solution worked like a charm on a Windows 8 Pro x64 laptop !!!
+
+thanx again for the help guys :)"
+,sunb3am,2012-11-15T19:10Z,"i can confirm that @5meester5's & @thomas_gaberial solution worked like a charm on a Windows 8 Pro x64 laptop !!!
+
+thanx again for the help guys :)
+
+and to all that idiots who are yelling and screaming about SKIDROW -> go phuk yourselfes, go buy the game and spare us your lack of patience !!!!"
+,reryn,2012-11-19T15:31Z,"Doesn't work.
+
+Can someone please make a working crack for this game already?"
+,102gab,2012-11-19T19:50Z,"@Gh0stNet This is how it works out for everybody. We open the game and it crashes, black screen / error message saing Black Ops 2 Stoped working. I downloaded this file and it went all good untill the first mission it crashes."

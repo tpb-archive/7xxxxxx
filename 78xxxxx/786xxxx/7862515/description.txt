@@ -1,0 +1,54 @@
+Artist  : Deeper Down
+Album   : Evocation
+Year    : 2012
+Genre   : Black Metal
+Country : Serbia
+Codec   : FLAC (image+cue)
+
+---------- LOG ----------
+This log is created by Rubyripper, version 0.6.2
+Website: http://code.google.com/p/rubyripper
+
+Cdrom player used to rip:
+TSSTcorp CDDVDW SH-224BB SB00
+Cdrom offset used: 0
+
+Ripper used: cdparanoia 
+Matches required for all chunks: 2
+Matches required for erroneous chunks: 2
+
+Codec(s) used:
+-flac 	-> --best -V (flac 1.2.1)
+
+CDDB INFO
+
+Artist	= Deeper Down
+Album	= Evocation
+Year	= 2012
+Genre	= Black Metal
+Tracks	= 5 (1 selected)
+
+
+ADVANCED TOC ANALYSIS (with cdrdao)
+...please be patient, this may take a while
+
+Pregap detected for track 2 : 150 sectors
+Pregap detected for track 3 : 150 sectors
+Pregap detected for track 4 : 150 sectors
+Pregap detected for track 5 : 150 sectors
+
+
+STATUS
+
+Starting to rip CD image, trial #1 (138 seconds)
+Starting to rip CD image, trial #2 (133 seconds)
+Analyzing files for mismatching chunks (3 second(s))
+Every chunk matched 2 times :)
+MD5 sum: 9a56195d5c8018af98b0ae03b6362241
+
+
+RIPPING SUMMARY
+
+All chunks were tried to match at least 2 times.
+None of the tracks gave any problems
+---------- EOL ----------		

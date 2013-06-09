@@ -1,0 +1,91 @@
+AC3D is an easy-to-use, powerful and affordable 3D modelling package. Perfectly suited to creating in-game objects and characters.
+
+Feature Summary
+
+Simple, intuitive 'click and drag' user interface
+Truetype font 2D and 3D text generator
+Integrated graphical texture coordinate editor
+Fast subdivision surface modeling
+Many 3D file formats supported
+
+Specification
+
+Fast real-time OpenGL graphics views (2D and 3D)
+Multipoint polygon and line editing down to vertex level
+No polygon limits
+Extrusion and surface revolution
+Software development kit and plugin interface
+Fast and memory efficient, compact program binary
+Built-in fast OpenGL 3D renderer with adjustable field-of-view - instantly see results of your actions in 3D. Spin the model or switch into 'walk mode' for Quake-style control
+Edit at different granularity - groups, objects, surfaces, vertices
+Full polygon editing. e.g create a sphere and easily move the points (vertices) to deform the shape
+Create and edit multi-point polygons and lines - not just triangles
+Manipulate individual surfaces
+insert/remove vertices
+make holes
+spike
+spline
+bevel
+triangulate
+flip
+subdivide
+Texture mapping support with real-time rendering
+Texture/background image file formats supported:
+GIF
+JPG
+PNG
+BMP
+DDS
+PPM
+TGA (Targa)
+TIF
+Graphical Texture Coordinate Editor (UV Mapper)
+Assemble surfaces into new objects
+4 views - 3 orthographic and one 3D. All at once or individually
+Named objects can be searched for within a scene
+Navigate/Zoom around the 2d views with cursor keys and other single key presses
+Hierarchical view window
+Hide/unhide objects for easier/faster editing of complicated scenes
+Headlight and up to 7 other positionable lights
+24-bit colour palette with adjustable diffuse; ambient; emissive; specular; shininess and transparency
+Adjustable 2D and 3D grid guide lines with grid-snap function
+Create new surfaces/objects around any selection (Convex hull)
+Configurable to use external renderers such as Povray and BMRT - just select Tools->Render to start.
+Multi platform program - AC3D file format compatible across platforms
+Attach URLs to objects for use in VRML files
+Attach string data to objects to be used as scripting in Dive or special directives for POV or renderman
+Supports many output/input formats including:
+3D-studio 3DS
+Lightwave LWO
+Alias triangle
+DXF
+VRML1 and 2 and Inventor
+Povray
+Renderman RIB
+Triangles
+Direct X
+Milkshape
+Quake 3 bsp
+MD2
+Wavefront OBJ
+OFF
+stl (ascii)
+sof (airfoil)
+SMF
+T3D
+LDRAW .ldr (Lego)
+Collada
+Extrude and revolve 2D lines to make 3D shapes
+Scale a selection to a specific size
+Flip a selection (mirror) about X, Y or Z axis
+Remove duplicate vertices and surfaces ('optimize')
+Simple documented file formats allow easy conversion from other forms of data - ideal for visualizing your own data in 3D.
+Developer SDK
+
+Requirements
+
+Windows 95, 98, ME, NT 4, 2000, XP, Vista, Win 7 or Linux x86
+Pentium 120 (or equiv) minimum
+64 MB RAM minimum
+10 MB free hard disk space
+Preferable, but not necessary - 3D accelerated video card with OpenGL drivers

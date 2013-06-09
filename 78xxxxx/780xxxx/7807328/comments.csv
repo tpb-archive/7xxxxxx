@@ -1,0 +1,98 @@
+﻿User Type,Username,Date,Text
+,cindy25,2012-11-09T04:38Z,"thank you
+
+looks like u have a lot to do today, as AFG is AWOL again
+
+hope u have more shows up soon"
+[T],MP4SUX,2012-11-09T04:53Z,"Wish I could do everything, but between bandwidth management (2Mb/s) and covering the shows that I personally watch, my plate is kinda full.
+
+You have a computer WITH internet - how about YOU join the fray?
+
+Anybody? Is that an ECHO I hear?
+
+AVIGUY"
+[T],MP4SUX,2012-11-09T05:03Z,"Wow, just checked and sure enough, no AFG today -- but yesterday posted 58 episodes in nine hours.
+
+Must be completely tuckered out.
+
+AVIGUY"
+,cindy25,2012-11-09T05:47Z,"how do u get the shows to be the right size. I converted an MP4 Elementary easily and it turned out fine- 294 MB
+
+but that started out at 251
+
+
+But I just couldn't get Big Bang to come out anywhere near 175 or less
+
+and there is a new group (xPlay) and they have the same problem, huge files (224 Big Bang, 435 Elem)"
+[T],MP4SUX,2012-11-09T06:21Z,"You mean playTV? they're doing 480p (mine would be 360p).
+But bit rate is the governing factor. Standard is 1024KBps, I use 768.
+In Windows Explorer, just hovering over the file should give this info.
+Audio bit rate standard MP3 is 128K, but I up it to 160K
+AVC (AnyVideoConverter) is easy - what I use. It's the framerate / sync that's problematic.
+AGK (AutoGordianKnot or AutoGK) only lets you determine finished size and calculates bitrate from that.
+You can force the p (I use it for 272p), but it has to be AVI or TS or VOB.
+If you can handle x264 in your AVI, MP4cam2AVI is best and quickest with a
+slight increase in file size.
+
+Glad to help,
+
+AVIGUY"
+[T],MP4SUX,2012-11-09T06:32Z,"Forgot to mention - you can't get better quality out than you put in.
+If you start with an MP4, the XVID is ALWAYS going to look worse.
+But starting with an MKV is tricky as there are very few ways to convert.
+AVC does, but here's a convoluted process:
+Demux MKV with ""MKVextractGUI2"" as part of ""MKVToolNix"" to x264 & AC3.
+MP4muxer does the container - but I always lose the audio for:
+MP4cam2AVI and you've got something that'll load into AGK.
+
+Yes, I DO have way too much time on my hands, why do you ask?
+
+AVIGUY"
+,cindy25,2012-11-09T06:56Z,"I've been using WINX deluxe which converts anything in theory (and anything under 1GB in reality) and prism for the larger than 1GB
+
+but there is no way to set the output size
+
+Freemake allows you to set the size but for some reason Freemake seldom will play in my DVD player (only audio shows up 90% of the time) 
+
+I will try one of those you mentioned thanks"
+[T],MP4SUX,2012-11-09T08:46Z,"There is one terribly annoying thing about AVC.
+I've had to come up with a couple of bizarre frame rates.
+These rates apply only to this program.
+For instance, I had opportunity to try and encode an ep of Revolution in VirtualDub.
+A whole mistaken attempt to cure an artifact problem that was really a dying video card.
+But I encoded it at 23.976fps - absolutely standard.
+The same source file for that ep in AVC and it needed to be 23.998 to stay in sync.
+
+Just because I can make it work doesn't mean I'm a professional or even competent.
+
+But thousands get my stuff and very few complain, so magic is just as good as technology.
+
+AVIGUY"
+,disneydreams,2012-11-09T12:38Z,"thank you AVIGUY, your great to do this for us. and i have one question what do you use to capture the program to start with? never been able to get even that far"
+[T],MP4SUX,2012-11-09T20:24Z,"disneydreams:
+
+Simple direct answer: I cheat.
+
+I have no antenna, I have no cable.
+
+I DO have UseNet, but BitTorrent works as well, just slower.
+
+I grab a high quality source, which has ""720p"" or ""1080i"" or ""1080p"" in it.
+
+For instance, this very episode came from DIMENSION. For all the bad I rap LOL / DIMENSION, when it's not pixelated it's very good. I just have to pre-screen all of their stuff before I trust it to an encode.
+
+My internet connection is ALL. I have what was originally a 18/1 Mb/s connection, but my ISP offers something called Annex-M and now It's 12/2 Mb/s.
+
+When I did have a very nice Hauppage tuner, I could never get a TS / MPEG2 editor to work keeping the sound in sync.
+
+And finally, there is something really odd about all ""Scene"" caps. They are inexplicably nominally 24fps, which is a film standard. North American TV is 30fps, bet we get 24. The EU stuff is reliably 25fps, though.
+
+For all I bash ""The Scene"", if they went away, we'd all be screwed as AFG, MSD and most others do what I do, which is generally called ""re-encodering"".
+
+Hope this helps.
+
+AVIGUY"
+,rankin15,2012-11-10T11:40Z,Simple things amuse simple minds - but this is really childish.
+,Tinna_30,2012-11-10T23:20Z,Thanks!
+,disneydreams,2012-11-13T23:22Z,"AVIGUY thanks for answering, i am trying to find a program that i can use to get soaps from the main site. but haven't been able to figure it out yet. were trying to figure out how to do that. and was hoping that what ever one you used i may have been able to use to. 
+thanks so much for answering me back i appreciate it. :) and thanks for putting these shows up!"

@@ -1,0 +1,40 @@
+﻿User Type,Username,Date,Text
+,extracube,2012-11-27T05:32Z,"Just wondering what ""volume channel"" means.  Thanks."
+,apex2000,2012-11-27T06:16Z,"@extracube: VL means that activation is with a KMS server. Check this for more info: http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0?p=682524&viewfull=1#post682524
+
+Thanks for the d/l murphy78"
+,murphy78,2012-11-27T06:39Z,"It's the way volume versions handle their activations. In large companies they use a volume license server for most of their software.  This way they can buy less copies of an expensive software and just lease it out to people on demand.  For windows it just changes the way they are activated.  AFAIK the actual activations and keys are the same.  The system files for volume installs are slightly different in that they account for how many volume licenses have been activated.
+
+I'm not a huge expert with exactly how to deploy volume license versions on more than one computer and actually activate them with a kms server.  I would avoid changing the ei.cfg VL setting to more than 1 unless you really know what you are doing.
+
+There are different activation methods.  I really am not an expert on them, but volume license editions of windows probably have some bearing on them.
+
+I was able to use scypt's activator back when I first started playing with enterprise etc, and it did work, but I expect the programmer changed the activation type from the default when connecting to the kms server.
+
+It may technically be easier or harder to activate with a volume license version. I really don't know. I just know you CAN activate a volume version using non-volume keys."
+,Addryann,2012-11-27T11:56Z,"Check this out! T.F.K. doesn't even know the difference between a CD and a DVD:
+
+http://thepiratebay.se/torrent/7858140/Windows_Xp_Crazy_Mouse_V.01_2013_AIO"
+,Addryann,2012-11-27T11:56Z,Sorry about the offtopic. Couldn't help it :P
+,extracube,2012-11-27T17:42Z,Thanks to all for the replies.  Am reading up on it more...
+,murphy78,2012-11-27T22:00Z,"Don't get me started on T.F.K.  The guy doesn't do anything except re-upload stuff that other people have already uploaded.  That coupled with the fact that the people he gets things from are as dumb as him just makes for one big dumbf***ery.
+
+Breathe murphy78, breathe...."
+,rockershedge69,2012-11-28T09:33Z,"can you please upload Win8 AIO separately(x86 and x64) nov 28? with up to date windows KB updates??
+also whats the difference b/w Volume channel and Retail channel free? is channel free same as this http://thepiratebay.se/torrent/7787598/Windows_8_AIO_90in1_NetFx3_Nov3_2012 torrent but just with extra added KB update files??"
+,murphy78,2012-11-29T00:07Z,"rockers,
+
+When I made my 90in1 I didn't know that certain versions would be inappropriate as volume license versions.  It seems like one of the first things I should have known when making it, but I didn't.  I knew some of the installs had strange eulas but they all tested ok, so I just put it out there.
+
+I guess I don't like the idea of setting windows versions to the wrong channel.  If someone figures out some sort of magic activation that uses wrong channels, I may do a special thing, but until then I want to try to adhere to the source methods."
+,catanion,2012-11-30T12:29Z,can you upload AIO win8 with latest KB files updates until 30 Nov??
+,zurtewizertar,2012-12-01T02:26Z,"Greetings Murphy
+when we can expect win7 update?
+
+RedAutumn - you are crusader
+I don't have anything against of posting other works, but there is irony.....
+see - tfk have green pirate approval for posting stolen works, but people like murph, who working out releases, do not have even pink skull.
+credits go wrong
+
+I call out
+People - support murphy78"

@@ -1,0 +1,46 @@
+Every install tested, copied directly from ISO file.
+Hotfixes current to the Nov13 2012 patch date.
+Check for newer versions every month.
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Added ei.cfg to enable install list selection and Volume Channel.
+Added Info folder to installs to make more work for credit thieves.
+Note that Volume versions of Windows 8 cannot upgrade to a Media Center version.
+
+Windows 8 Volume Channel Installation Indexes:
+Windows 8 Pro VL(x64),
+Windows 8 Pro N VL (x64),
+Windows 8 Enterprise (x64),
+Windows 8 Enterprise N (x64)
+
+MSDN Sources:
+en_windows_8_pro_n_vl_x64_dvd_918677.iso,
+en_windows_8_pro_vl_x64_dvd_917699.iso,
+en_windows_8_enterprise_x64_dvd_917522.iso,
+en_windows_8_enterprise_n_x64_dvd_918052.iso,
+
+These 64-bit RTM Sources are the final Build 9200
+
+Language: en-US (English - United States)
+
+Tools used:
+imagex for image compression and export
+dism for MSU Hotfix integration, NetFx3 SXS Integration
+oscdimg for ISO mastering
+
+KB Files added via add-package dism:
+KB2712101, KB2727528, KB2729462, KB2737084, KB2756872, KB2758246-v2,
+KB2761094, KB2761226, KB2764870, KB2768703, KB2769034, KB2769165,
+KB2770041, KB2770917, KB2771744, KB2771821, KB2777166, KB2778171,
+KB2780342, KB2780523
+Net 2.0-3.5.1 enabled by DISM using SXS folder in sources directory
+
+KB Files NOT added:
+KB2772501 - Unavailable for D/L 33kb IE10 iepropschema update
+
+Enjoy Pirates,
+murphy78 :)

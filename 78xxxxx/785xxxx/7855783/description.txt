@@ -1,0 +1,110 @@
+PPPPPPPPPPPPPPPPP   NNNNNNNN        NNNNNNNN   SSSSSSSSSSSSSSS 
+P::::::::::::::::P  N:::::::N       N::::::N SS:::::::::::::::S
+P::::::PPPPPP:::::P N::::::::N      N::::::NS:::::SSSSSS::::::S
+PP:::::P     P:::::PN:::::::::N     N::::::NS:::::S     SSSSSSS
+  P::::P     P:::::PN::::::::::N    N::::::NS:::::S            
+  P::::P     P:::::PN:::::::::::N   N::::::NS:::::S            
+  P::::PPPPPP:::::P N:::::::N::::N  N::::::N S::::SSSS         
+  P:::::::::::::PP  N::::::N N::::N N::::::N  SS::::::SSSSS    
+  P::::PPPPPPPPP    N::::::N  N::::N:::::::N    SSS::::::::SS  
+  P::::P            N::::::N   N:::::::::::N       SSSSSS::::S 
+  P::::P            N::::::N    N::::::::::N            S:::::S
+  P::::P            N::::::N     N:::::::::N            S:::::S
+PP::::::PP          N::::::N      N::::::::NSSSSSSS     S:::::S
+P::::::::P          N::::::N       N:::::::NS::::::SSSSSS:::::S
+P::::::::P          N::::::N        N::::::NS:::::::::::::::SS 
+PPPPPPPPPP          NNNNNNNN         NNNNNNN SSSSSSSSSSSSSSS   
+                                                               
+VPlayer Video Player FULL v3.1.3
+
+Requirements: for Android OS 2.1+
+
+The best video player for Android.
+
+
+VPlayer is the next generation of VPlayer, which brings experimental HW accelerated decoding and rendering to HD MKV/AVI/MOV/FLV/TS/M4V/3GP for most Android devices. 
+
+Access your NAS/Wifi/UPnP/DLNA/DVR/Dropbox/Facebook/Gmail videos from VPlayer seamlessly!!!
+
+VPlayer is a HW accelerated Media player for android. It use HW video decoder at various containers and audio codecs combination.
+Dual Core/High end devices ( Sensation , Galaxy S/S2 , Nexus-S ) can play 720p even 1080p MKV/AVI/MOV/FLV/TS/M4V/3GP.
+
+VPlayer drains less bettery than SW based players such as MX Video Player, MoboPlayer.
+
+ICS devices can play 1080p files with full HW accelerations, Honeycomb tablets can play 720p MKV with Full HW accelerations.
+
+If you use MIUI, CM7 or unofficial ROMs that can not play MKV/FLV/MOV/AVI using default player, VPlayer is the best solution.
+
+Features
+
+Formats
+- AVI,MOV,MKV,FLV,AVI,3GP,3G2,ASF,WMV,MP4,M4V,TP,TS,MTP,M2T
+Video Codecs
+- HW : MPEG-4,H.264,H.263
+- SW : MPEG-4,H.264,RMVB,XVID,MS MPEG-4,VP6,H.263,MPEG-1,MPEG-2
+Audio Codecs
+- DTS,AC3,AAC,Vorbis,FLAC,MP3,MP2,WMA
+- Mutitle audtio tracks support
+
+Subtitle
+- (Advanced) SubStation Alpha(.ssa/.ass), SAMI(.smi), SubViewer(.sub), Subrip(.srt), MicroDVD(.sub), MPL2(.txt)
+- MKV subtitle extraction supported
+- Unicode/Multibyte charset supported.
+- Mutiple subtitle tracks support
+- Increased subtitle readability with thicker border and shadow around text.
+
+Transport
+- HTTP
+- RTP/RTSP/RTMP
+- MMS
+- HTTP Live Streaming with multiple bitrate
+
+Supported devices
+* ICS devices, Galaxy Nexus, Nexus S
+* Honeycomb tables(TF101,GT10.1,Iconia500) : 720p High@4.1 ( no weighted prediction )
+* Samsung Galaxy S2 : 1080p H.264 high@5.1/MPEG-4,1080i AVCHD MTS
+* Samsung Nexus S, Galaxy S and variants : 720p H.264 High@5.1
+* Samsung Galaxy Tab(7') : 1080p H.264 High@5.1. 1080i have interlace artifacts.
+* Samsung Galaxy Note : 1080p H.264 High@5.1
+* HTC Desire HD,ThunderBolt : 720p High@3.1/4.0(some Level 4.0 file have shutter problem)
+* HTC Desire and QSD8250 baesd devices : 720p H.264 High@3.
+* HTC Evo 3D : 720p High@5.1/1080p High@5.1(some 1080p files have shuttering)
+* Dell Streak,Venue : 720p H.264 High@3.1
+* HTC wildfire: video capability depends on your firmware.
+* Moto Atrix: 720p High@5.1
+* Xiao mi: 720p High@4.1
+
+More devices are supporting...
+
+Limitations
+* Video capability depends on your devices HW video decodes' capability.
+* Some devices(Moto Defy, Galaxy S/Tab) need gingerbread update.
+* Tegra 2 based devices : H.264 High@4.1 ( no weighted prediction )
+
+This software uses code of FFmpeg licensed under the LGPLv3 and its source can be downloaded from our site.
+
+PERMISSIONS:
+READ_LOGS: for feedback
+INTERNET: streaming support
+READ_PHONE_STATE: stop playback when calling
+WAKE_LOCK: keep screen up
+WRITE_EXTERNAL_STORAGE: rename or delete file
+MODIFY_AUDIO_SETTINGS: change audio effects
+
+VPlayer is the best video player for Android. 
+
+KW:
+VPlayer, VPlayer Free, VPlayer Unlocker, Rockplayer, Mobo, MoboPlayer, Mobo Player,Mobo Video Player,MX Video Player,QQPlayer, VLC, VLC Android, Video Player, Media Player, Music Player, Streaming Player, Stream, Streaming, DLNA, MPlayer, KMPlayer
+
+What's in this version:
+1. Fix volume keys not valid in Android 2.3.
+2. Fix the exiting bug when leave VPlayer and back again, e.g. Phone calls, press Home.
+3. Add MediaScanner support for hlv and f4v files.
+4. Add icon for nexus 10.
+
+Release info:
+Install and run, no unlocker needed.
+
+More Info:
+  
+https://play.google.com/store/apps/details?id=me.abitno.vplayer.t

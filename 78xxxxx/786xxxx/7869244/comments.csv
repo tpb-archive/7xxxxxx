@@ -1,0 +1,47 @@
+﻿User Type,Username,Date,Text
+,Taosinky,2012-11-29T01:44Z,Vous pouvez retrouver le patch d'Assassin's Creed 3 par ici : http://thepiratebay.se/torrent/7845304/Assassin_s_Creed_3_Patch_FR
+,FSXFS9,2012-11-29T09:07Z,merci pour ton post
+,Taosinky,2012-11-29T17:15Z,"@FSXFS9 : Je t'en prie !
+
+[!] ATTENTION [!]
+
+Vraisemblablement le patch permet les voix et les sous titres français sur toute les releases, mais ne traduirais pas l'interface de la release RELOADED. pour ce faire, vous aurez besoin de ce tout petit fichier. 
+
+http://thepiratebay.se/torrent/7870686/Far.Cry.3.Language.Selector-RELOADED
+
+Coller son contenu dans le [FarCry 3] -> [bin] -> Lancez le et choisissez français. vous voila avec une interface française. 
+
+Pour les toutes premières releases ""US/Russes"" , le patch devrait normalement s'occuper de tout (;
+
+@++"
+,sofyo,2012-11-29T17:32Z,"voici la solution
+pour les gens qui ont un problème cad: menu français + pas de voix voici la solution (surtout les personne comme moi qui ont téléchargé la version russe)
+avant tout appliquer le patch ensuite
+1- aller au Crogram Files (x86)UbisoftFarCry 3(ou bien tout simplement entrer dans le dossier FarCry 3)
+2- copier le dossier (worlds) ainsi les 02 fichier ( sound_french.dat + sound_french.fat )........et
+3- mettez les dans le dossier( data_win32 )
+4- ensuite dans ce dossier(data_win32) supprimer les autres fichiers  sound comme pour moi javais (sound_russian.dat+sound_russian.fat)
+5- attention ne supprimer pas les fichier (sound.fat +sound.dat )
+7- aller au C:UserswariDocumentsMy GamesFar Cry 3 clic droit sur fichier (GamerProfile.xml) choisir modifier     ensuite modifier la langue trouver par le mot (french)...enregistrer
+6-telecharger ce fichier (Far Cry 3 Language Selector.exe) a cette adresse:
+http://thepiratebay.se/torrent/7870686/Far.Cry.3.Language.Selector-RELOADED
+ et le mettre dans le dossier ou se trouve (farcry3.exe) pour moi c'est(Crogram Files (x86)UbisoftFarCry 3bin )
+7- enfin double clic sur Far Cry 3 Language Selector.exe  choisis ta langue et aller a la chasse"
+,Taosinky,2012-11-29T20:05Z,"@sofyo : le patch se charge de faire tout ça a votre place, donc je comprend pas trop ton intervention. 
+
+J'ai moi même testé ce patch sur la version russe, tout était passé en français automatiquement.
+
+Depuis j'ai acheté le jeu, comme c'est d’ailleurs souvent le cas."
+,thiaguinho_dac2,2012-11-29T20:59Z,Baixei esse -Far Cry 3 Selector.exe Language- escolhi portugues funcionou mas ficou sem voz como resolvo
+,tomtom785,2012-11-30T20:44Z,"Bonjour, moi quand j'essaye de lancer le patch, il me dit que le dossier que j'ai choisi n'est pas le bon.  Pourtant, j'ai mis le dossier où le jeu a été installé, il s'appelle Ubisoftgamelauncher, ensuite j'ai essayé de le rennomer en Far Cry 3 et ca a toujours pas marché. Es ce que vous pourriez m'aidez svp ça serait sympa je comprend rien."
+,tomtom785,2012-11-30T20:59Z,"Le patch me met ""Impossible d'installer le patch fr, le répertoire indiqué est incorrect! Vérifiez SVP""
+Qu'es ce que je doit faire ?"
+,Taosinky,2012-12-01T21:26Z,"@tomtom785 : 
+
+Le dossier d'installation du jeu n'est pas le dossier [Ubisoft game luncher] donc c'est bien normal que le patch refuse de s'installer. 
+
+maintenant je peux pas te dire ou tu as installé le jeu... sans doute que par défaut le jeu s'installe dans un chemin qui doit ressembler a celui la : 
+
+C: Program Files (x86) - Ubisoft - FarCry 3
+
+Après moi j'ai un HDD ou j'installe tous mes jeux... donc bein... a la limite fait une recherche windows avec : ""farcry3"" tout a attaché sans les guillements, et tu verras ou ton jeu s'est installé."

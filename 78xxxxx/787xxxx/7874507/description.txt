@@ -1,0 +1,30 @@
+This erratum is for the torrent at
+ 
+http://thepiratebay.se/torrent/7872440/
+
+magnet:?xt=urn:btih:77f16256e264d8d5eb12ca7bb5543ee7ad432c90&dn=Buddhism+%28100s+of+ebooks%29+11.30.2012+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80
+
+
+
+It should matter most for Kindle users and for the sake of preservation and completeness.
+
+I noticed some convertions from topaz didin't work in azw3. Azw3 is my preferred format for the Kindle because it allows the sharing of highlights (albeit with limitations, alas, the name of the book doesn't show -- this feature only fully works with non-pirated amazon ebooks).
+
+So I converted all htmlz (the topaz default convertion on Calibre) to mobi, and the mobis to azw3. You can always obtain the mobi from the htmlz with Calibre, and the more standard epub is already there, so I didn't bother to include the mobi (I did it for the non-topaz non-htmlz ones, since it kept a 3 file symmetry).
+
+
+Also I have noticed errors in some of Wallace, B. Allan book names. The only one which starts with "Hidden" is "Hidden Dimensions". The other six files that begin
+
+Wallace, B. Allan. Hidden
+
+Should be renamed without the "Hidden" (except for "Hidden Dimensions").
+
+After you download the main torrent, you should unpack all the rars, do this renaming, and then unpack this torrent's rar and overwrite the files on the main folder.
+
+This way you achieve the first revision, v 1.2 of the "Buddhism (100s of e-books)" torrent.
+
+Thanks.
+
+
+
+Small additions and renamings such as this will be the decimal version. The integer versions will be a resharing of the whole package + a deleting of the original torrent. Hopefully only after a few years.

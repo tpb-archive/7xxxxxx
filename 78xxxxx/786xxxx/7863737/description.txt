@@ -1,0 +1,27 @@
+Embedded scientific calculator.
+Published June 20, 2010 | By admin
+Casio fx-9860gsd is one of scientific calculator that can use for
+calculate scientific formular otherwise it also can be used in controlling
+as the embedded calculator.
+
+Casio fx-9860gsd has the graphic LCD display (only two colors , black & white).
+It use high performance processor , has the serial port and also has the SD card slot.
+This calculator can be programmed without using the external program-burning equipment
+(user can write program and download compiled-program to the calculator).
+The software development kit for develop the software is free for download (include the compiler,
+library and IDE). This SDK can make Casio fx-9860gsd to become good embedded controller board.
+The drawback is it doesnΓÇÖt have input/output port sufficiently to use ,however we can solve this drawback
+by use the external equipment to expand I/O port.
+
+Important technical specification of Casio fx-9860gsd are as followΓÇª
+- Use CPU from Renesas (SuperH-3 32-bit RISC processor) run at 100/133 MHz (depent on the working
+mode)
+- RAM 512 kB
+- 4 MB Flash memory (can actually use about 1.5 MB)
+- Download program to the calculator via mini USB by using FA-124 software.
+- One channel serial port.
+- Addition application can be appended to the calculator by ourselve.
+- Develop program using C language and the SDK is free for download.
+- Have SD card slot (SD card used for install new application or store the data).
+- Noise tolerant and high stability.
+- Can exchange the program between two calculators using the special signal-wire.

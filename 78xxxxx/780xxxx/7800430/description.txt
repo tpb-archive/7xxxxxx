@@ -1,0 +1,75 @@
+This is alternative traffic pack (ATP 2.1, October 2012) for the Flight1 Ultimate Traffic.
+
+You no need to install any previous versions or updates for my ATP.
+
+
+Warning: this traffic is for directX 9 mode!
+Warning: you can't use this traffic without F1 license file.
+
+This package includes:
+a) modules and utilities of Flight1 Ultimate Traffic version 2.09 (UT2),
+b) aircrafts models for FSX and for FS9 (FAIB, AIG, AIA, OSP, TFS, DJC, FMAI, FSP, ABAI, Makc-sim etc.),
+c) day and night textures (avsim.su, avsim.net and others sources),
+d) schedules of about 1,350 air companies (UTT, AIG, RATS etc),
+e) lighting effects (A2Ashockwave 3D Lights Redux),
+f) smoke effects for some aircrafts,
+g) sounds from "Flight1 TSS Audio Environment - Airliner Edition (v.1.2)"
+h) changed dynamics files (option "update dynamics" sets different values of reverse and braking AI aircrafts).
+
+
+*********** INSTALLATION *****************
+
+
+variant 1 - Flight 1 Ultimate Traffic 2 has been installed before
+
+a) install ΓÇ£ATP-2.1.exeΓÇ¥.
+Do not install any updates for ATP!
+
+Options:
+
+Increase taxi speed of AI-aircraft ΓÇô this option increases the taxi speed of AI-aircrafts  (replacement ai_player.dll.)
+
+DO NOT CHOOSE THIS OPTION IF NOT IN-STALLED SP2 or FSX-Acceleration! (version of your ai_player.dll be 10.0.61472.0 (fsx-sp2.20071210-2023))
+
+Normal lights ΓÇô install default lights of AI-aircrafts
+
+
+b) after the installation you can delete the backup:
+
+-Microsoft Flight Simulator X SimObjects UT2 Aircraft_before_AUT (╨╕╨╗╨╕_AUT21)
+-Microsoft Flight Simulator X Scenery World ScenerytrafficAircraft.bgl_before_AUT
+-Microsoft Flight Simulator X Flight One Software Ultimate Traffic 2_before_AUT (_AUT21)
+-APPDATAFlight One SoftwareUltimate Traffic 2_before_AUT (╨╕╨╗╨╕_AUT21)
+-APPDATA Microsoft FSX _beforeAUT (or_AUT21)
+
+d) Install (if you want) ΓÇ£Voicepack Update-10-2012.exeΓÇ¥.
+
+
+***********************************************
+variant 2 
+(Flight 1 Ultimate Traffic 2 has not been installed before)
+
+a) mount the original image of the UT2 (not included in this pack) and interrupt its installation before copying files.
+See for-example:
+
+
+
+b) install ΓÇ£ATP-preinstall.exeΓÇ¥ 
+If you see some error, ignore it and go to next step.
+!!! Do not run UT2 or FSX.
+
+
+c) install ΓÇ£ATP-2.1.exeΓÇ¥.
+Do not install any updates for ATP!
+
+d) after the installation you can delete the backup:
+
+-Microsoft Flight Simulator X SimObjectsUT2 Aircraft_before_AUT (or_AUT21)
+-Microsoft Flight Simulator X Scenery World Scenery trafficAircraft.bgl_before_AUT
+-Microsoft Flight Simulator X Flight One Software Ultimate Traffic 2_before_AUT (_AUT21)
+-APPDATAFlight One Software Ultimate Traffic 2_before_AUT (╨╕╨╗╨╕_AUT21)
+-APPDATA MicrosoftFSX _beforeAUT (or_AUT21)
+
+e) Install (if you want) ΓÇ£Voicepack Update-10-2012.exeΓÇ¥.
+
+

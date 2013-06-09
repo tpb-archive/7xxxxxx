@@ -1,0 +1,18 @@
+Bring back the Windows "Start" menu with Start8Γäó! We put the "Start" menu back in Windows 8. We accurately recreated the most used desktop feature billions of users depend on every day and packed it with additional functionality.
+
+- Windows 7-style Start menu with Windows 8 enhancements
+- Search for Windows 8-style (Modern UI) apps
+- Pin desktop and Metro apps
+- Boot directly to the Windows 8 desktop
+- Windows 8 Start screen accessible from the Start menu
+
+Changes in Start8 v1.02
+- Added typing "C:" in the start menu will launch Explorer to that location. 
+- Fixed backspace on empty search box causing the search screen to show blank 
+- Fixed non 100% dpi settings causing the start menu to appear too large 
+- Fixed Metro apps icons not scaling with higher dpi 
+- Fixed occasional corruption of All Programs tree icons on some machines 
+- Fixed timing issue sometimes causing explorer to restart if you rapidly clicked the start button
+
+Homepage:: http://www.stardock.com/products/start8/
+Language: English

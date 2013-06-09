@@ -1,0 +1,5 @@
+﻿User Type,Username,Date,Text
+,T-10,2012-11-30T13:43Z,"Apologies if this initial seed is slow.  I'm trying different clients to see if one of them handles our problem with non-sharing peers gobbling up all of my bandwidth before we get any seeders out there.  The only way I can tell if it's doing any good is how long it takes for our sharing sector to take over seeding for me so I can move on to the next torrent.  
+
+By the way I've located a few of the lost sets, so I'll be posting them right after we get Tina going good here."
+,T-10,2012-11-30T15:38Z,"Sharing update:  At first look, I think the new BitLord 2.2.1 is micromanaging the initial seed quite well.  I've been using Âľtorrent for years and it's just fine for the normal user, but for an initial seeder, it has design flaws that are really irritating.  BitLord manages to distribute the packets pretty evenly, meaning a good portion of my actual output is reaching those of you who do share it while and after downloading.  "

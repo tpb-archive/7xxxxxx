@@ -1,0 +1,24 @@
+Check out http://ps3links.info!
+
+Rogero cFW 4.30 Version 2.00
+-------------------------------------
+
+Yay, another update! The Specs are as follows:
+
+4.30 v2.00
+- Rebuilt from scratch using OFW4.30 files only (no DEX/SEX files) with official XMB and full features working as in OFW4.30
+- All known problems like XMB icons sorting and Demo Mode issues from v 1.04 are now all gone with the use of the official XMB.
+- Removed the classical "Install Package Files" Icon from XMB to have a 100% original XMB (no DEX/SEX files used).
+- Installing Package Files can be done from multiMAN 04.12.00 (XMMB Home column or MMOS File Manager).
+- Patched LV1 to disable LV2 Protection.
+- Patched LV1 to add peek/poke support to replace hvc 182/183 (multiMAN Direct Disc Access is now working fine with CFW4.21/4.30 v2.00)
+- Patched LV1 to disable SYSTEM MANAGER INTEGRITY CHECK (to prevent Bricking on non-dehashed downgraded consoles)
+- Patched LV1 Core OS Hash Check (to prevent Bricking on non-dehashed downgraded consoles)
+- Patched LV2 to add peek/poke support. (for both LV1 and LV2)
+- Patched VSH to enable ReActPSN compatibility (Allow Unsigned act.dat and *.rif files, Disable Unlinking/Deleting of act.dat)
+- Spoofed the system version to latest OFW version 4.31.
+- PSN/SEN access is available as long as the current "passphrase" still the same.
+- Loading games from App_home Icon is now fixed.
+- It can run games signed with Keys up to version 4.30 without any Eboot/Sprx patching needed
+- Games can be loaded from Disc Icon (with Original game in BD) and from app_home (Disc-less, but not all games).
+- Current 3.55 homebrew applications can't be loaded on this CFW, applications must be re-signed properly for FW4.21/4.30

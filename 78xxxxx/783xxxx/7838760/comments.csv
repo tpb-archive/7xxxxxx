@@ -1,0 +1,20 @@
+﻿User Type,Username,Date,Text
+,Rizzo220,2012-11-19T02:28Z,"Which version is this? 
+I still have the beta version 3.5-b2 for Snow Leopard which is still considered donationware."
+,DonCalimero,2012-11-19T08:07Z,"Use latest Version ...
+Open Terminal & write:
+defaults write com.bombich.ccc paid -bool YES"
+,Rizzo220,2012-11-19T13:03Z,"@ DonCalimero...
+
+I D/L & installed CCC v3.5.1, 
+entered into Terminal: defaults write com.bombich.ccc paid -bool YES,
+restarted my Mac,
+opened CCC and it shows that there is still a 30 day trial period for CCC 3.5.1.
+All the features work and backed up everything from my SSD as usual but we'll see after 30 days from now.
+"
+,Rizzo220,2012-11-19T13:14Z,"Found it!
+Along with your Terminal command, you have to this additional command:
+
+defaults write ~/Library/preferences/com.bombich.ccc RegistrationName -string ""RIZZO 220""
+
+Add your name where RIZZO 220 is with the quotes and BAM! Your CCC copy is registered and good to go!"

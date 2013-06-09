@@ -1,0 +1,13 @@
+VMware ThinApp Enterprise 4.7.3 Build 891762
+
+
+Run any version of virtually any application on a single operating system without conflicts. You can even run multiple versions of the same application. Plug VMware ThinApp, formerly known as Thinstall, into your existing management infrastructure and accelerate your software development and desktop deployment. Deliver and deploy applications more efficiently, more securely, and more cost-effectively with agentless application virtualization.
+
+
+What's New
+
+The ThinApp 4.7.3 release adds support for packaging and execution of virtualized applications on Windows 8 operating system. The Windows 8 support enables cross-platform capability for many applications regardless of the operating system of capture. The cross-platform capability is an important component of supporting the latest Microsoft Windows releases for both managed and unmanaged endpoints.
+
+New Package.ini parameter - You can use the PreventDllInjection=1 parameter to prevent ThinApp runtime from loading a DLL when another external application calls the SetWindowHook to set a global hook. This parameter should be used only when the hook is in conflict with a virtualized application. For example, if a virtualized application is unable to start because the other application NxPowerLite calls SetWindowsHook to set a global hook oehook.dll, modifying the package.ini with PreventDllInjection entry allows the virtualized application to start.
+
+OS  Windows┬« XP/Vista/7/8

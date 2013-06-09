@@ -1,0 +1,25 @@
+=================================================================================
+v0.8.20.1
+Fixed
+Crash when changing items in a build menu
+
+v0.8.20
+Fixed
+Crash when switching tabs in the Butcher Shop UI
+Crash loading jobs in rare cases
+Gnomes sometimes trying to butcher and stock a corpse, resulting in a crash
+Rare crash when typing in a drop down box
+Crash when loading a game with a corpse that is about to rise as a zombie
+Crash when loading with an active refuel steam engine job
+Crash on startup when Windows Media Player is not installed.  This is a temporary fix and in the meantime, no audio will play when WMP is not installed
+Mant worker spawns varying much more than intended for medium ranges of Kingdom Worth.  This was on average causing more mants to spawn than should
+Some memory leaks causing UI to get progressively slower
+Trying to attack enemies that can't be reached.  Ranged attackers will still attack if the target is within range and line of sight
+Butcher Shop queueing a job for something unreachable
+Gnomes accepting a Fell Tree job from a Grove when they don't have an axe and no axe is available
+Items sometimes simultaneously being held and in a crate
+Gnomes not using the closest dormitory or dining room when applicable
+Hospital jobs not cancelling properly causing gnomes to wait in hospital beds forever
+Steam engines not burning fuel properly and displaying an incorrect fuel amount
+Over zealous squad members assisting the squad leader while training
+===================================================================================

@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 64min11secs
+
+The Bowery Boys 1957 Up In Smoke
+ 
+http://www.imdb.com/title/tt0051143/
+
+[10:19:38] starting job
+[10:19:38] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[10:19:38] job configuration:
+[10:19:38]  * source
+[10:19:38]    + C:Up In SmokeVIDEO_TS
+[10:19:38]    + title 1, chapter(s) 1 to 1
+[10:19:38]  * destination
+[10:19:38]    + C:Documents and SettingsDead End KidsMy DocumentsUp In Smoke.mkv
+[10:19:38]    + container: Matroska (.mkv)
+[10:19:38]      + chapter markers
+[10:19:38]  * video track
+[10:19:38]    + decoder: mpeg2
+[10:19:38]      + bitrate 8000 kbps
+[10:19:38]    + frame rate: same as source (around 23.976 fps)
+[10:19:38]    + strict anamorphic
+[10:19:38]      + storage dimensions: 720 * 480 -> 720 * 478, crop 2/0/0/0
+[10:19:38]      + pixel aspect ratio: 8 / 9
+[10:19:38]      + display dimensions: 640 * 478
+[10:19:38]    + encoder: x264
+[10:19:38]      + options: ref=2:bframes=2:me=umh
+[10:19:38]      + bitrate: 396 kbps, pass: 2
+[10:19:38]  * audio track 0
+[10:19:38]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[10:19:38]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[10:19:38]    + mixdown: Stereo
+[10:19:38]    + encoder: faac
+[10:19:38]      + bitrate: 160 kbps, samplerate: 48000 Hz

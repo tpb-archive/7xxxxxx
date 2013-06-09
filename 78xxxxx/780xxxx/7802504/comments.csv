@@ -1,0 +1,115 @@
+﻿User Type,Username,Date,Text
+,menano,2012-11-07T19:49Z,"I am running this version on my 24"" iMac and I haven't had any problem whatsoever"
+,marcseven,2012-11-08T08:00Z,"i tried the instructions you gave. i just keeps telling me this ""E3D.license"" is invalid... sucks i really had high hopes of finally trying this plugin out.. "
+,menano,2012-11-10T01:23Z,"@marcseven
+ For the ""Invalid license error"" :
+
+1) Close After Effects
+
+2) Go inside the following folder:
+
+/Users//Library/Application Support/VideoCopilot
+
+hold ""alt"" key -> Go ( on upper menu ) - > Library -> Application Support/VideoCopilot
+
+3) Delete all files ( element_build / element_data / etc )
+
+4) Run After Effects
+
+5) Apply element to your comp
+
+6) Generate a license request, save on desktop or wherever you want
+
+7) Generate a license ( with keygen )
+
+8) install license choose ""E3D.lic"" from your desktop NOT the request file !!!"
+,filmgirl87,2012-11-12T21:54Z,The plug in crashes after effects when I go to make a movie and element is applied.  Please help!
+,krakadyll,2012-11-16T18:23Z,I did the two process you have given and I still have the same invalid license... I uninstalled then re installed still the same thing... can you please help??? BTW Thanks for the upload...
+,efkielb,2012-11-19T15:46Z,"@krakadyll
+
+It does work, though it took me a couple of tries. Firstly what I did wrong is that I didn't follow step n. 2 (Copy/Overwrite Element.plugin -> /Applications/Adobe After Effects CS ""XX""/Plug-ins/VideoCopilot). You have to take the file element.plugin you've downloaded with the torrent and replace it with the file the installer created.
+Secondly when you are generating request license file and than using the cracking tool to generate a license be sure to click (inside of the Element 3D in AE) this link that lets you upload request file. 
+
+So: 1. Click on Generate Request File and save it anywhere
+2. Click on the link in AE element 3d
+3. Use the Element 3D Keygen to create a license
+4. Upload the cracked license
+5. Done!
+
+Well as I said it took me couple of tries before it worked but finally it did. I created a pirate bay account espacially to write you all this.
+Thanks for the torrent! Be sure to support Andrew when you try out his product, he really deserves it"
+,golden466,2012-11-19T16:29Z,Thanks menano. Have been looking for sometime...
+,Erhmagard,2012-11-19T22:27Z,"i FUCKING LOVE YOU MAN! JESUS!
+GOD BLESS YOU!
+OMFG FINALLY!!! :P
+
+This step;
+For the ""Invalid license error"" :
+
+1) Close After Effects
+
+2) Go inside the following folder:
+
+/Users//Library/Application Support/VideoCopilot
+
+hold ""alt"" key -> Go ( on upper menu ) - > Library -> Application Support/VideoCopilot
+
+3) Delete all files ( element_build / element_data / etc )
+
+4) Run After Effects
+
+5) Apply element to your comp
+
+6) Generate a license request, save on desktop or wherever you want
+
+7) Generate a license ( with keygen )
+
+8) install license choose ""E3D.lic"" from your desktop NOT the request file !!!
+
+- really helped me!
+THANK YOU"
+,LeeManZad,2012-11-27T08:23Z,"/Users//Library/Application Support/VideoCopilot
+
+
+either this folder does not exist on MAC or I'm just a noob... either way.. I need help.
+
+There is no VideoCopilot in my application support folder
+
+
+I'm running CS6. I followed all steps to the T, and I still have an issue.
+
+""Invalid license error""
+
+Anyone?
+"
+,LeeManZad,2012-11-27T08:41Z,"i keep getting the 
+""Invalid license error""
+
+i try to go to
+
+/Users//Library/Application Support/VideoCopilot
+
+but inside application support... NO VIDEO COPILOT exists
+
+
+I dont know what this means
+
+""hold ""alt"" key -> Go ( on upper menu ) - > Library -> Application Support/VideoCopilot""
+
+I'm a mac Noob..
+
+
+PLEASE HELP
+
+
+im running CS6... could this be a problem?"
+,reapermadness,2012-11-29T18:26Z,"@LeeManZad
+
+I used this method because I simply can't find the folder any other way, maybe because the folder is hidden. 
+Anyway, open a finder window and in the search bar, type in ""Fonts"". Multiple results will appear. Click ONE time on each of the FOLDERS named ""Fonts"". On my Mac there are 4 FOLDERS with that name. On the bottom of the finder window there will be a hierarchy listing of the folder, showing where on your drive that it is located. 
+You will see as the first icon from the left, the hard disk icon, and name of the disk. Dont bother with those. The one you want has the ""home"" icon, and the user name attached to it. The hierarchy for this folder is ""username"" > Library > Fonts. 
+DOUBLE CLICK ""Library and it will take you to the main library folder on your user settings. Scroll down to video copilot and you're set. 
+
+I know this is a weird process, but I believe my library folder is hidden from finder some how, so I had to find another way in. Even typing the exact location into the search bar showed no results for some reason, maybe yours is set similarly. 
+
+Word of warning: Even though I found this folder, I still was unable to successfully activate Element 3d. Still got the invalid message. I tried it multiple times and no luck. Please, if this helps you to activate e3d, please post how you did it so I can enjoy this amazing plugin!"

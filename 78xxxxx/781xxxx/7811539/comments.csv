@@ -1,0 +1,91 @@
+﻿User Type,Username,Date,Text
+[T],MP4SUX,2012-11-10T12:00Z,"Here's statistics I've known for 30 years:
+
+66% of drug deaths - Nicotine
+33% of drug deaths - Alcohol
+01% of drug deaths - all other drugs combined.
+00% of drug deaths - Marijuana
+
+AVIGUY"
+,moonerman100,2012-11-10T12:36Z,Thnx! And agree with you on drugs!
+,tomreedtoon,2012-11-10T15:40Z,"Thanks for the mini-torrent. Saves time, provides the essential audio, and the occasionally necessary visuals, without wasting bandwidth. Have a great day, AVIguy!"
+,tomreedtoon,2012-11-10T17:02Z,"Okay, just so you know, audio and video are wildly out of sync. Video is slow compared to audio. Sadly, this is why VirtualDub and other freeware video programs are trouble; getting the settings JUST right for JUST the right video input is near impossible. I'll keep the DL, since I'm mostly listening to it anyway, but go back to whatever you were using previously to encode, okay?"
+,EliteBeast,2012-11-10T18:23Z,hallucinogens wont kill you but improve your way of thinking. All other drugs may not kill you but will mess up your life to the point where you are worthless to society and better off dead. Despite this all drugs should be legal in order for survival of the fittess to take effect.
+[T],MP4SUX,2012-11-10T22:47Z,"tomreedtoon:
+
+Any chance you could share what equipment plays this out of sync?
+
+Everything works fine for me and I see very few complaints such as yours.
+
+I did have to tweak the frame rate to 29.972fps from the standard 29.970 - possibly your equipment overrides the file's settings?
+
+Let me know, I'd like as many as possible to be happy with what I produce.
+
+The obvious answer would be to slightly compress / expand the audio length - but such efforts are difficult and time consuming.
+
+AVIGUY"
+[T],MP4SUX,2012-11-10T23:00Z,"EliteBeast:
+
+An interesting treatise, but technically flawed. ""improve"" is highly subjective, and your de facto assumption that we exist to serve society (some say ""the state"" ) is possibly dangerous ""group think"" of the worst kind. And that failing to serve deprives our lives of worth is ... troubling.
+
+Myself, I see a world in which you all seem to be trying to prove you're worthy of being here (how do YOU justify your existence?). Me, I think this place fails to prove itself worthy of my presence. You know that biblical ""no man may know the hour and day ...""? Well, it's not true. I know the hour and the day of my death. It will be early in March of 2023 at around 8pm pacific time. This will make my age exactly a year short of the proverbial ""three score and ten"".
+
+Basically this universe has a little over a decade to get its act together or I'm outta here.
+
+AVIGUY"
+[T],MP4SUX,2012-11-11T01:00Z,"tomreedtoon (again):
+
+Just paid closer attention to what you said. As I adjusted the frame rate up, you should experience the video being slightly fast, not slow (29.972 is faster than 29.970).
+
+Did you have problems with the previous week's mini? That was done using AutoGK, which uses VirtualDubMod (pink icon instead of grey).
+
+Most of my encodes are nominally from 23.976 sources and using AVC (AnyVideoConverter) I have to set it to 23.998 (you'd think 24 exactly, but it doesn't work). Except for one source that only sometimes needs to be exactly 23.976. The really funny ones are the nominally 29.970 that I have to set to a surprising low 29.915. What truly shocks me is how little negative feedback these strange frame rates generate. Like NONE.
+
+Bottom line - I'm really confused by your problem, unless ""wildly"" is just your vernacular for ""slightly"". But the ""slight"" error *I* noticed was corrected before posting and therefore not the same as yours.
+
+The last reported sync problem was with ""Elementary.S01E05"" where two people indicated a problem that I tracked down to an inexplicable 150ms delay in the audio. Now that I'm aware of that possibility, I'm on the lookout and have since corrected one file before posting. No, not going to mention which one.
+
+In any case, with only one report that I cannot reproduce, you're going to have to help or thete's nothing I can test for or do about it. VirtualDub(Mod) is unlikely to have anything to do with it.
+
+Just to be clear, there are two distinct types of sync problems. One is where everything is at the right speed, but the audio is offset by some amount. The other is where the frame rate of the video does not match the audio speed. You can tell the difference by comparing sync at the beginning and end of the file. If it's out in both places, then it's an offset problem. If it starts out OK, but then slowly goes out of sync, then it's a frame rate probelm.
+
+I released one episode of Leverage without checking first and discovered to my horror that the frame rate was truly ""wildly"" wrong. The curious thing about that one was that NOBODY COMPLAINED. I'm not going to look it up, but if you want to, I come clean about it in the comments.
+
+AVIGUY"
+,mumphabot,2012-11-11T03:00Z,"This blurry cap started off playing back okay enough, but playback got a little gappy. Then, suddenly can't search/seek forward or back. This using most recent XBMC for xbox which uses mplayer iirc.
+
+Thanks for the up, the size is right, but mp4 works better than this does."
+[T],MP4SUX,2012-11-11T16:22Z,"Problem solved! (see below)
+
+mumphabot:
+
+Your help has been invaluable - just having a way to see it work wrong gave me something to test against.
+
+This file also causes problems in VLC.
+
+I downloaded the windows version of XBMC and it doesn't even like this file in the folder (assertion failure). Hit 'ignore' three times and it does play ('try again' causes the program to bomb) - but trying to seek causes another assertion failure.. XBMC is worse than FireFox - it really wants to disable all music plugins just after installation. But their problem does not relieve me of my culpability.
+
+============ Problem & Solution:
+
+The problem is that I set the frame rate to 29.972 THE WRONG WAY. Who knew?
+
+Load the file into ANY flavor of VirtualDub. Set video to ""direct stream copy"". Audio defaults to this, so leave that alone.
+
+Now, go to Video- Frame Rate and in the top section you see three choices:
+No change
+Change to whatever you enter
+Change to what VirtualDub thinks is best (in this case - 29.972)
+
+DO NOT USE THE THIRD CHOICE! That's what's caused this problem. I don't know why.
+
+In the same version that caused the problem I used the second choice and manually entered 29.972 and guess what?
+
+Works just fine now in Windows XBMC & VLC.
+
+So, you can fix it yourself.
+
+I'm thinking of reposting this correctly adjusted version, but don't know if anybody really cares.
+
+Feedback ALWAYS appreciated. Especially someone using this fix to assure it will likely work for everyone.
+
+AVIGUY"

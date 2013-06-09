@@ -1,0 +1,49 @@
+Bring back the Windows┬« "Start" menu with Start8Γäó! We put the "Start" menu back in Windows 8. We accurately recreated the most used desktop feature billions of users depend on every day and packed it with additional functionality.
+
+ΓÇó Windows 7-style Start menu with Windows 8 enhancements
+ ΓÇó Search for Windows 8-style (Modern UI) apps
+ ΓÇó Pin desktop and Metro apps
+ ΓÇó Boot directly to the Windows 8 desktop
+ ΓÇó Windows 8 Start screen accessible from the Start menu
+
+Changes in Start8 v1.03
+ New Desktop page in config UI
+ New options to control which taskbar the start button appears on
+ New UI option to control if the bottom left hand corner hotspot functions
+ When disable all hot corners is disabled you can now select icons etc on the top 4 pixels
+ New UI option to hide Windows 8 Modern UI applications from the Windows 7 start menu
+ New UI option to use ctrl + winkey as an alternative for right winkey
+ New UI option to use shift + winkey as an alternative for right winkey
+ New UI button to recreate the pinned shortcut to the Windows 8 start menu if deleted
+ New option to toggle if the user picture should be visible or not
+ Highlighted folders lose their highlight once opened if they have no highlighted child items
+ Fonts rendering with the default theme with translucency disabled uses full cleartype now vs greyscale cleartype
+ Shutdown button and all programs button now have text for screen readers
+ Pressing enter on a jumplist shortcut now launches the jumplist item vs the application
+ Search items now have Open File Location menu item
+ Keyboard context menu button now opens the right click menus
+ You can now drag a shortcut to the start button (which opens the menu) and then onto the menu in order to pin something. For now it will add to the bottom of the pinned list. Once added you can rearrange it by dragging it to the location you want.
+ Items on the right hand list can be dragged onto the left side of the startmenu to pin them, or off onto other applications such as explorer windows and the desktop to create shortcuts. Jump list items can be dragged off the startmenu and into appli
+ Items on the right hand list now have Show on desktop option in their right click menus.
+ cations or explorer windows.
+ Most search result items can be dragged off the startmenu and into applications or explorer windows.
+ Tree items can be dragged out of the all programs tree and into explorer windows etc. They cannot be rearranged in 1.03, but this is planned for the next update.
+ v1.01 deadlock fix fully implemented as there was a bit missing in the previous version.
+ Empty folders in the all programs tree now have an (Empty) child to avoid confusion.
+ Blank lines in the Modern UI applications list no longer occur when you pin IE shortcuts to the Modern UI start menu.
+ All programs now looks at the Start menu folder rather than Start menuPrograms to ensure applications which install outside the normal folder tree are not missed.
+ Start button hot corner when in the Modern UI start menu will go to the desktop rather than opening Start8.
+ Start button hot corner when at the desktop and accessed via the left hand switcher no longer misses clicks at the bottom left.
+ Fake tile shortcuts added to the Modern UI start menu will not show in the Start8 menu.
+ Registry option to disable Pin to Start8 startmenu also now disables the menu in explorer windows.
+ Hovering over the all programs button and then typing in the search field will no longer confuses Start8.
+ Added option to search locations other than the default libraries to the UI.
+ Added option to make holding down winkey for more than half a second simulate a right windows key press.
+ Added new theme based on default theme but with black edges
+ Modified Windows 7 theme to pickup defined colours
+ Added new theme option for Windows 7 solid (non DWM style)
+ Modification to trial code to handle a situation where the trial would not start properly on some setups.
+ Holding down ctrl when clicking on Shutdown, Reboot or Sign out will add the force flags.
+ Holding down shift when clicking Shutdown will force a full shutdown vs Fast Startup shutdown.
+
+OS only Windows 8

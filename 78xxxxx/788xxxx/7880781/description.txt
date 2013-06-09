@@ -1,0 +1,49 @@
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 191 MiB
+Duration                                 : 6mn 16s
+Overall bit rate                         : 4 264 Kbps
+Writing library                          : TMPGEnc 4.0 XPress Version. 4.7.7.307
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format profile                           : Advanced Simple@L5
+Format settings, BVOP                    : 2
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Muxing mode                              : Packed bitstream
+Codec ID                                 : XVID
+Codec ID/Hint                            : XviD
+Duration                                 : 6mn 16s
+Bit rate                                 : 2 715 Kbps
+Width                                    : 720 pixels
+Height                                   : 404 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.373
+Stream size                              : 122 MiB (64%)
+Writing library                          : XviD 64
+
+Audio
+ID                                       : 1
+Format                                   : PCM
+Format settings, Endianness              : Little
+Format settings, Sign                    : Signed
+Codec ID                                 : 1
+Duration                                 : 6mn 16s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Stream size                              : 68.9 MiB (36%)
+Interleave, duration                     : 40 ms (1.00 video frame)
+Interleave, preload duration             : 479 ms
+

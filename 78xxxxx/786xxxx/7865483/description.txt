@@ -1,0 +1,96 @@
+Arcade Games V0.96+                  Multiple Arcade Machine Emulator
+
+This is an emulator.  Simply put, it allows a PC to mimic the internal hardware of 
+a large number of stand-alone arcade machines.
+
+Since Mame32 is emulating the original hardware, 
+the software thinks itΓÇÖs still in an arcade and is starting up for the first time in the morning.  
+Initial diagnostic screens are run through, as well as possibly some accounting information 
+presented to the arcade owner.
+The game should now be running its demo/attract mode.
+
+BUTTONS NEEDED TO PLAY GAMES:
+5 = Insert Coin
+1 = 1 Player Start
+2 = 2 Player Start
+
+Left CTRL  = Action Buton 1
+Left ALT   = Action Buton 2
+Space      = Action Buton 3
+Left Shift = Action Buton 4
+z          = Action Buton 5
+x          = Action Buton 6
+ESC        = Quit back to game selection
+
+You can also use a joypad to play games.
+for more than one joypad  set it up in 
+optionsDefault games optionscontrollers.
+
+Remap the keys in game by pressing TAB
+
+
+ Insert a coin with the [5] key on the keyboard, 
+ coin inserts are: 
+ player 1 [5], 
+ player 2 [6], 
+ player 3 [7], 
+ player 4 [8].  
+ 
+ Now that a coin has been inserted, 
+ start the game with the [1] key on the keyboard.  
+ Game start mappings are 
+ player 1 [1], 
+ player 2 [2], 
+ player 3 [3], 
+ player 4 [4].
+
+ Mame32ΓÇÖs default control scheme is to use the inverted T arrow keys on the keyboard 
+ for directional controls, and the left [CTRL] key as the primary action button.
+  
+   
+Hit the [ESC] key to exit 
+
+Other keys of interest while playing a game are : 
+
+[TAB] key to bring up the internal menu system.
+
+[~ TILDE] the onscreen display.
+
+[p] for the pause button.
+
+[F3] resets the game.
+
+[F4] displays the gameΓÇÖs color palette.
+
+[Shift-F7] save current game state [a-z, 1-0]
+
+[F7] load game state [a-z, 1-0]
+
+[F9] changes the frameskip on the fly.
+
+[F10] toggles throttling.
+
+[F11] toggles the FPS display.
+
+[F12] takes a *.png snapshot of the game and places it in the mame32snap directory.
+
+[ESC] exits from the game back to the Mame32 GUI.
+
+[Left-Alt + Enter] toggle from fullscreen mode to windowed mode.
+
+ 
+
+
+
+This is an Unofficial Compile of MAME/MAME32/MAMEPLUS!.
+
+SO IF YOU HAVE PROBLEMS  DO NOT EMAIL MAME OR ANYONE WORKING ON MAME 
+AS THEY WILL NOT SUPPORT THIS VERSION.
+
+
+
+
+05 February 2006
+01/10/06
+
+

@@ -1,0 +1,8 @@
+This course describes how to use the HTML5 Session History application programming interface to present bookmark-friendly URLs while updating parts of a page and preventing unnecessary network activity. Author Bill Weinman shows how to manipulate history by adding entries to the stack, visibly changing the URL in the address bar, and removing entries when the user presses the back or forward buttons, all without reloading the web page. The course uses practical examples that can be applied to most web sites, and also shows how to detect support for the History API in browsers and how to handle exceptions.
+
+Topics include:
+Manipulating browser history: an overview
+Detecting History API support
+Pushing a new URL onto the stack
+Handling back and forward buttons with the popstate event
+Updating the stack with replaceState()

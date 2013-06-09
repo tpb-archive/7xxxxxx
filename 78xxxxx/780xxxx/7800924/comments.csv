@@ -1,0 +1,241 @@
+﻿User Type,Username,Date,Text
+,artiljero,2012-11-07T10:51Z,fake or not???
+,HoceGdb,2012-11-07T10:51Z,Come on man pls seeds !!!
+,bane447,2012-11-07T10:57Z,fu ck the editor we need good crack 
+,CreepySpook,2012-11-07T10:59Z,not fake grrr.... download it and find out
+,punk96,2012-11-07T11:04Z,Hope it is real!! i'm fucking waiting for it :) thanks
+,jfc_campos,2012-11-07T11:09Z,is this real?
+,D5K6,2012-11-07T11:18Z,.
+,bojan995,2012-11-07T11:26Z,if he can play with it?
+,bojan995,2012-11-07T11:27Z,if he can play with it?????
+,aditrajesh11,2012-11-07T11:32Z,@CreepySpook This is the second time you have uploaded this without seeding. Why upload if you don't seed!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+,jfc_campos,2012-11-07T11:47Z,it works?
+,CreepySpook,2012-11-07T11:56Z,i am seeding it .. i clicked on seed file so i would assume i am seeding it ?????????????
+,jfc_campos,2012-11-07T12:04Z,cant make it work!!!! help
+,tiwliwlaZZ,2012-11-07T12:04Z,You stopped seeding. dl stuck at 3.6%
+,punk96,2012-11-07T12:05Z,"I have already downloaded it, but it can't find the folders to edit, i think we have to change the special folders.xml file so it work in our computer"
+,artiljero,2012-11-07T12:08Z,IT WORKS! SEED
+,jfc_campos,2012-11-07T12:08Z,help
+,helenek,2012-11-07T12:33Z,"I get a warning: Did not found resource: fonts/ helveticaneueots
+
+Anyone knows if there's a way solution to this?"
+,jfc_campos,2012-11-07T12:39Z,"help, tutorial for instalation please!!!!"
+,HoceGdb,2012-11-07T12:40Z,NOT WORK!!!
+,aditrajesh11,2012-11-07T13:11Z,"Its not working. Just show an error message ""Did not found resource: fonts/ helveticaneueots"""
+,aditrajesh11,2012-11-07T13:13Z,"@CreepySpook Could you tell us how to install? 
+Thanx"
+,xkeiserz,2012-11-07T13:37Z,"Yeah people! Cmon really? Don't be selfish.We need a tutorial here...I tried a few places and got all kinds of errors messages.
+Where I put 'it'? Do I need to do something else?
+Speak people."
+,artiljero,2012-11-07T13:37Z,Extract to Program Files/SEGA! It works perfect.
+,Koenfey,2012-11-07T14:03Z,"I have the same error: ""Did not found resource: fonts/ helveticaneueots"""
+,jericho1987,2012-11-07T14:15Z,we dont need the editor...WE NEED THE CRACK FIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIX......
+,usufructo,2012-11-07T14:59Z,"Si Funciona.
+Hay que crear 2 carpetas
+Una para el juego con este nombre exacto:
+Football Manager 2013 (aqui tiene que estar el juego)
+
+y otra para el editor:
+Football Manager 2013 Editor (Aqui los archivos del editor)"
+,punk96,2012-11-07T15:25Z,Did what gabriel17 and usufructo said and still don't work... even deleted the fm2013.skc file and always the same error font error :/
+,pirconan,2012-11-07T15:49Z,"@loizors
+
+GO FVCK URSELF with ur FAKE SURVEY GAY SHlT
+
+STOP SPAMMING U STUPID CVNT!
+
+people don't DL that crap wait until skidrow finally release playable version"
+,pirconan,2012-11-07T15:53Z,@punk96 same here mate - NOT working! font error again..
+,fregim,2012-11-07T16:29Z,"this is working. i had the same problems as you guys. the problem is that you are unzipping the folder 'football manager 2013 editor', and you have to unzip the files in it. so:
+1) create a folder in SEGA with the name 'Football Manager 2013 Editor';
+2) open the .rar file that you've downloaded, open the 'football manager 2013 editor' in it, select all the files and unzip them to the folder you created in 1).
+This worked for me, I hope I helped you."
+,pirconan,2012-11-07T16:54Z,"Ok after 2 hours of experimenting it finally working!!! fuckin lazy skidrow and fuckin sega-y
+
+First you have to unpack files into EDITOR folder, for example d:FM13editor
+
+then edit special folder.xml (located there) replacing every  line '..football manager 2013 data' with your game location (for example 'd:fm13data'
+
+finally start the game, go to preferances and disable/untick cache option there.
+
+that's it."
+,pirconan,2012-11-07T17:05Z,"Ok after 2 hours of experimenting it's finally working!!! fuckin lazy skidrow and fuckin sega-y
+
+First you have to unpack files into EDITOR folder, for example d:FM13editor
+
+then edit special folder.xml (located there) replacing every  line '..football manager 2013 data' with your game location (for example 'd:fm13data'
+
+finally start the game, go to preferances and disable/untick cache option there.
+
+that's it."
+,st.Lucifer,2012-11-07T17:41Z,@pirconan : can u be more specif about what should i do with special folder.xml and other shits?
+,4_touchdowns,2012-11-07T18:08Z,"@ pirconan
+
+I don't use the editor, but I unticked the cache option in preferences - interface (the only cache option I found), and still get crashes. The xml files are created with the editor, isn't this so? "
+,pirconan,2012-11-07T18:37Z,"@st.Lucifer
+open 'special folders.xml' (in editor folder) with notepad and replace every line ""..football manager 13/data"" with -your game location- for example ""d:/FM13/data"" there are 7 of them i think.. btw maybe it could work even if you don't do that but you have to untick cache in preferances and make editor folder
+
+@4_touchdowns yea that xml file is from editor but it doesn't change anything- game /bad crack? is very unstable atm"
+,alexbatez1234567890,2012-11-07T19:23Z,"Maybe it would be possible for someone who has figured this out to upload the correct ""special folder.xml"" file somewhere and just put in ""----"" for the directory. I believe my problem is mostly syntax at this point. I am probably not the only one. Thanks!"
+,alexbatez1234567890,2012-11-07T19:28Z,"Maybe it would be possible for someone who has figured this out to upload the correct ""special folder.xml"" file somewhere and just put in ""----"" for the directory. I believe my problem is mostly syntax at this point. I am probably not the only one. Thanks!
+
+C:Program Files (x86)SEGAFootball Manager 2013"
+,alexbatez1234567890,2012-11-07T19:33Z,"C:Program Files (x86)SEGAFootball Manager 2013
+
+Maybe it would be helpful for you to upload a ""master copy"" of sorts. Just so people know exactly where to enter what. "
+,Smalskys,2012-11-07T19:33Z,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I change them all, but it still does not work. :(
+"
+,Smalskys,2012-11-07T19:36Z,H:#game#Football Manager 2013
+,Smalskys,2012-11-07T19:42Z,"Got it working, thanks!"
+,heottt,2012-11-07T19:44Z,"Can anyone tell me if this way works and i wont have crash dumps..
+And if it works please tell me step by step what i have to do :/"
+,heottt,2012-11-07T19:47Z,"my path is this 
+C:Program Files (x86)Sports InteractiveFootball Manager 2013"
+,HoceGdb,2012-11-07T20:25Z,Not work! Please TUTORIAL! Serbish pls!
+,Smalskys,2012-11-07T20:35Z,"Could someone help, I got it running, but the background is pitch black, I can barely see words. Boarders and tables are impossible to see."
+,helenek,2012-11-07T21:00Z,"Gabe, 
+Would you mind saying which verson if the game you use? Skidrow's?"
+,salekv,2012-11-07T21:23Z,"mislio sam da je fake,ali stvarno radi...posle malo zajebancije provalio sam kako radi.ekstrakovao sam u downloads folderu  zip fajl,pa kopirao u sega folder ne u fm 13 i to je cela stvar.....extract then paste in sega folder"
+,Bulgarin,2012-11-07T21:38Z,"When I start editor see ""Warning: Did not find font resource: fonts/helveticaneueots "".
+How to fix it?
+Thanks!"
+[V],DeGun,2012-11-07T21:49Z,"@ CreepySpook.
+
+well done , i tried using the edior and succeed .
+
+Yes game will still crash as long as a fix hasnt come out.
+
+What i ve done to make it work is basicly what said PIRCONAN which was :
+
+Create a folder named EDITOR (easy to find) on desktop.
+Extract the rar ""football manager 2013 editor"" to that folder 
+Rename the extracted folder FROM Football Manager 2013 Editor TO fm13 editor 
+
+My fm2013 is there:
+D:/GAMES/SEGA/Football Manager 2013/fm13.exe SO i ve put the fm13 editor folder just into my SEGA folder which contains as well the game in another folder, the football manager 2013 one.
+
+so i did copy/paste my fm13 editor folder in that SEGA folder, near fm13 but NOT inside.
+then i went into sega/fm13 editor folder, right click onto the ""special folders"" and click on MODIFY .
+
+then EVERYWHERE you see ../Football Manager 2013/data change it (7 times you see it seven times you change it) to you DATA FOLDER ADDRESS which is THE DATA ONE FROM YOUR FOOTABLL MANGER 2013 Games.
+
+for instance mine was, remember : D:/GAMES/SEGA/Football manager then add as well /data so = D:/GAMES/SEGA/data
+
+IMPORTANT : watch out for the right ------> / "
+[V],DeGun,2012-11-07T21:52Z,"some of my comments went missing... lol too much :)
+
+so change the  to / and paste your data folder (from the game folder) address ina modified special folders from the fm13 editor (the one extracted !) then close, uncheck cache in fm 13 preferences and run editor  , load it and . change it."
+,Smalskys,2012-11-07T22:08Z,Gabriel you are a real angel. :D Thanks!
+,taklabas,2012-11-07T22:13Z,"Seed please, i'm stuck on 99.8% for a long time."
+,HoceGdb,2012-11-07T22:19Z,"Pls any tutorial on a Serbish,my english is terrible! -.-"
+,alexbatez1234567890,2012-11-07T22:45Z,"@gabriel17:
+Thank you. I will use your help to see what if the problem will resolve. Muchly Appreciated!"
+,mudrac16,2012-11-07T22:52Z,extractaj sve fileove sa winrarom i preimenuj folder u fm13 editor. kopiraj taj folder u folder SEGA (NE u folder Football Manager 2013) i to bi trebalo radit
+,heottt,2012-11-07T22:59Z,Lol make a tutorial plz .
+,heottt,2012-11-07T23:03Z,Just tell me if the crush dumps problem will be fixed with this ?????????
+,HoceGdb,2012-11-07T23:16Z,aaa come on not work! :@@@@@@@@@@@
+,HoceGdb,2012-11-07T23:25Z,"@mudrac16 
+da li bi onda trebao da mi menadzer normalno radi kada uradim to sve,tj da ne izbacuje crash dumps?"
+,bane447,2012-11-07T23:34Z,jbt kace vise izbacit krek da valja ?
+,heottt,2012-11-07T23:56Z,"ANSWER MEEE
+the method with the editor does really works?
+no crush dumps?!!!!"
+,mudrac16,2012-11-08T09:33Z,"sorry sta ti nisam prije odgovorio. ne, nakon 27.7. u igrici ti samo prestane radit. moramo cekat bolji crack jer ovaj ocito ne radi najbolje..."
+,mudrac16,2012-11-08T09:34Z,prvo sam i ja mislio da je sve normalno al igro sam jucer i vidim da svi imaju taj problem
+,HoceGdb,2012-11-08T10:50Z,"@mudrac16 
+gledao sam na skidrow-u,trebalo bi danas,sutra,da izbace novi crack koji radi,nmg docekati! :D"
+,bane447,2012-11-08T11:18Z,@HoceGdb de brate ako skines postavi na piratebay ili nam barem ostavi link :D
+,HoceGdb,2012-11-08T11:38Z,"bane447
+vazi brate,ali msm da ce neko to pre mene uraditi od njihovih ljudi... pozz"
+[V],DeGun,2012-11-08T13:04Z,"for me it worked... spent 4h last night adding and changing team/players etc.
+
+so extract into one sega/fm13 editor folder .
+
+put it near by (but not inside) the game you instaled.
+go into that editor folder you ve just extracted - change the special folders (right click/modify) 
+
+add the address of your REAL data folder from where your game is and so REPLACE the ../data (there is 7 to replace) ... mine was D:/pc games/sega/football manager 2013/data/ BUT MAKE SURE you change the ""slash"" to / THAT / one it appears ina special folders as  that  .
+
+save /close the special folders . start fm13 as normal . go to preferences down left ... then third tab on top INTERFACE then uncheck the line where you see CACHE ... , close FM13 .
+
+Go into your editor folder, start it and ... enjoy .
+
+@@ CreepySpook as i said well done for this but next time plz try to seed when first uploading...
+
+but great one +1 
+
+"
+,Garfield123321,2012-11-08T13:28Z,@mudrac16 Moze li da mi objasnish sto treba da napravam za editorot da raboti ??? :D
+,punk96,2012-11-08T14:13Z,"Finally it worked!! But i didn't changed the special folder.xml, I deleted the files inside the folder C:UsersNameAppDataRoamingSports InteractiveEditor 2013cache the strange is i had already done that and didn't worked. Now i Extracted the Files (not the folder) to a folder called 'Editor', that put it in the same path as my Football Manager 2013 folder, for example both folders (game and editor) are in d:Games"
+,mudrac16,2012-11-09T00:28Z,"@ Garfield123321
+pogledaj gore objasnio sam vec. ako nesto ne razumijes pitaj. ali tako i tako jos ne mozes igrat dok ne izađe normalan crack pa..."
+,mudrac16,2012-11-09T00:34Z,"@HoceGdb
+Ni ja ne mogu docekat! s kim ces igrat?"
+,HoceGdb,2012-11-09T00:38Z,"Aaaaa,kad ce vise,nmg vise cekatiii..."
+,CreepySpook,2012-11-09T10:19Z,"hey DeGun :)
+
+ok will seed from now on :) 
+
+was first torrent i uploaded and didnt know what i was doin but got it now :)"
+,jericho1987,2012-11-09T20:38Z,sut up katanac555 nobody find the crack fix yet...if you find it i go to the site u wrote and i must give my cellphone number to continue for downloadplus i must pay..so sut up and stop confuse the people asholes
+,bbboc,2012-11-09T21:36Z,"I don't know if i am stupid or what...
+
+i did eveything u guys told here and it's still not working for me!
+
+i even downloaded both versions of fm skidrow and the other one and it's not working anywhere
+
+please heeeeeelp!!!!!"
+,jericho1987,2012-11-09T22:48Z,you must wait the crack fix not release yet.be patient and dont listen the stupid guys with the fucking link 
+,bbboc,2012-11-10T12:18Z,"Oh, of course i dont believe them that crack fix is here, i'm just asking about editor, because i see that most of guys found the way it works, and i did everything they said, but still it's not working for me :("
+,damrey,2012-11-11T13:32Z,Do you have Editor for MAC?
+,Goldbeurk,2012-11-12T00:51Z,do not want
+,cufto12,2012-11-17T00:36Z,"Team ski has the fix crack but I cant download it beacuse of the survey so I cant share it.
+Please if anybody hass it share it."
+,Bulgarin,2012-11-22T21:41Z,"When I start editor see ""Warning: Did not find font resource: fonts/helveticaneueots "".
+How to fix it?
+Thanks! "

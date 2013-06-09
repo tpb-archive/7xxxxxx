@@ -1,0 +1,1 @@
+Keeping passwords and secret tokens in source control is a security risk. Here I show how to move these settings out into a YAML configuration file which can be loaded in as a hash or environment variables. (8 minutes) If you found this helpful, please consider purchasing RailsCasts Pro.

@@ -1,0 +1,17 @@
+port royale 3 1.3.0.28182
+
+instructions:
+unpack
+run zzzclickme.bat (as administrator)
+play
+
+
+
+additional info:
+skidrow release updated to 1.3.0
+works fine here after some testing
+
+install without .bat:
+unpack
+add "127.0.0.1 launcher01.kalypsomedia.com" to hosts file
+use PR3-QL6UQ-PK7QA-NCJXH-CCXNF-W2LD3 as product-key

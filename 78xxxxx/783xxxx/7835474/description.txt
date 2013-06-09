@@ -1,0 +1,20 @@
+Widely used for both systems and applications development, the C and C++ programming languages are available for virtually every operating system and are often the best choice for performance-critical applications. In this course, Bill Weinman dissects the anatomy of C and C++, from variables to functions and loops, and explores both the C Standard Library and the C++ Standard Template Library. Features introduced in the C++11 standard (ratified in 2011) are also discussed.
+
+This course serves both as an end-to-end tutorial for those new to the language and a solid reference for experienced C/C++ programmers.
+
+Topics include:
+
+* Setting up a development environment on Mac, Windows, or Linux
+* Understanding the development cycle
+* Writing statements and expressions
+* Declaring variables and functions
+* Working with arrays and strings
+* Comparing with conditionals
+* Including files and executing macros with the C preprocessor
+* Working with different data types
+* Using operators to perform basic arithmetic and more complicated functions
+* Understanding inheritance
+* C++ template programming
+* Handling system errors and exceptions
+* Using C++ STL containers
+* Using C++11 type inference, Lambda functions, and more

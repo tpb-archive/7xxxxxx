@@ -1,0 +1,48 @@
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 366 MiB
+Duration                                 : 45mn 21s
+Overall bit rate                         : 1 129 Kbps
+Writing application                      : Lavf52.64.2
+Writing library                          : Lavf52.64.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 45mn 21s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Original display aspect ratio            : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.470 System B, BT.470 System G
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 45mn 21s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Language                                 : Bulgarian
+Default                                  : Yes
+Forced                                   : No

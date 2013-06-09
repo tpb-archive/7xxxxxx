@@ -1,0 +1,69 @@
+Format : Matroska
+Format version : Version 2
+Overall bit rate mode : Variable
+Overall bit rate : 2 551 Kbps
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L3.0
+Format settings, CABAC : No
+Format settings, ReFrames : 1 frame
+Muxing mode : Header stripping
+Codec ID : V_MPEG4/ISO/AVC
+Nominal bit rate : 2 400 Kbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate : 23.976 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+
+Audio #1
+ID : 2
+Format : Vorbis
+Format settings, Floor : 1
+Codec ID : A_VORBIS
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Language : Portuguese
+Default : No
+Forced : No
+Writing application : Nero Ogg Encoder
+
+Audio #2
+ID : 3
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : Main
+Codec ID : A_AAC
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Language : English
+Default : No
+Forced : No
+
+Text #1
+ID : 4
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Language : Portuguese
+Default : No
+Forced : No
+
+Text #2
+ID : 5
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Language : English
+Default : No
+Forced : No

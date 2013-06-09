@@ -1,0 +1,33 @@
+========= IMDB.com/title/tt0350448/
+
+Release Name: Real.Time.With.Bill.Maher.2012.11.09.Full.Show.FIXED.MINI.XVID-AVIGUY.avi
+
+From AVIGUY:
+Release Date.: 2012-11-11
+Release Size: 110 Mb
+Run Time: 57:51
+Resolution.....: 480x272
+Video: XVID AVI
+Video Bitrate..: 222Kbps
+Audio: Mono MP3 40kbps 22KHz CBR
+
+If the previous one works for you, no need to D/L this.
+If you want to fix the previous one yourself:
+
+The problem is that I set the frame rate to 29.972 THE WRONG WAY.
+
+Load the file into ANY flavor of VirtualDub. Set video to "direct stream copy". Audio defaults to this, so leave that alone.
+Click Video- Frame Rate and in the top section you see three choices:
+No change
+Change to whatever you enter
+Change to what VirtualDub thinks is best (in this case - 29.972)
+DO NOT USE THE THIRD CHOICE! That's what's caused the problem. I don't know why.
+Use the second choice and manually enter 29.972
+Click "OK".
+Click File - save as avi - (choose a different name or folder so it doesn't try to write over itself).
+
+Tada!
+
+Feedback ALWAYS appreciated. Especially someone using this fix to assure it will likely work for everyone. Feedback is what helped me solve this problem, thank you one and all.
+
+AVIGUY

@@ -1,0 +1,18 @@
+======================================Magaiver====================================
+Schtrom released a new version of Schtrom360Xtract(info), a tool that will allow you to easily dump Xbox/Xbox360 gamedata, extract/patch the Security Sectors, PFI and DMI and fully prepare the image for burning in 1 step.
+
+What's new/fixed:
+* support for iXtreme V1.6
+* stealth check updated to work with wave 3 and wave 4 games, the wave type is now displayed
+* new Correct SS V1 option added in options dialog for XBOX360 discs. This option is deactivated by default, you need to enable it in the options dialog. If activated this option does correct the security sector at disc extraction, image extraction/injection and also during the stealth check. Pay attention that the stealth check will already fail if one challenge/response byte starting at offset 0x200 has a different value than the calculated ss V1. Keep in mind that this will only correct the security sector based on version 1. At the moment no ss version 2 games are out. But if MS is changing to ss V2 it is recommended to deactivate this option until an update of S360X is released. On iXtreme V1.6 firmware and XBOX360 backup disc extraction the Correct SS V1 option is always used no matter what is selected in the options dialog. This is because I haven't found a way until today to read the ss with C/R data from a XBOX360 backup disc on the new iXtreme V1.6 firmware.
+* defaut XBOX360 drive speeds changed for better error correction TS-H943A, VAD6038 and DG-16D2S set to 12x. During tests with the new iXtreme V1.6 it seems that scratched discs have less read errors with increased speeds on XBOX360 drives.
+* Send Custom CDB dialog buffer size field changed to support also hexadecimal values. The cdb cmd presets are now changed to hexadecimal values. Three new presets for LiteOn DG-16D2S iXtreme V1.6 fw added.
+* inquiry detection of retail XBOX360 drives added. This gives you the opportunity to test cdb cmds on retail drives if your atapi.sys is patched. The patching of atapi.sys has to be done by yourself.
+* fixed bug in directory listing for XDVDFS dialog on newer games like Damnation and Batman: Arkham Asylum, games can now be viewed and extracted correctly
+* stealth.ini updated
+
+Official Site: n/a, by Schtrom
+Download: here
+Full Readme: xbins.org
+imagem: 
+http://bayimg.com/cAGEOAaEH

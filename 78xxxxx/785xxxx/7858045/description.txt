@@ -1,0 +1,57 @@
+PPPPPPPPPPPPPPPPP   NNNNNNNN        NNNNNNNN   SSSSSSSSSSSSSSS 
+P::::::::::::::::P  N:::::::N       N::::::N SS:::::::::::::::S
+P::::::PPPPPP:::::P N::::::::N      N::::::NS:::::SSSSSS::::::S
+PP:::::P     P:::::PN:::::::::N     N::::::NS:::::S     SSSSSSS
+  P::::P     P:::::PN::::::::::N    N::::::NS:::::S            
+  P::::P     P:::::PN:::::::::::N   N::::::NS:::::S            
+  P::::PPPPPP:::::P N:::::::N::::N  N::::::N S::::SSSS         
+  P:::::::::::::PP  N::::::N N::::N N::::::N  SS::::::SSSSS    
+  P::::PPPPPPPPP    N::::::N  N::::N:::::::N    SSS::::::::SS  
+  P::::P            N::::::N   N:::::::::::N       SSSSSS::::S 
+  P::::P            N::::::N    N::::::::::N            S:::::S
+  P::::P            N::::::N     N:::::::::N            S:::::S
+PP::::::PP          N::::::N      N::::::::NSSSSSSS     S:::::S
+P::::::::P          N::::::N       N:::::::NS::::::SSSSSS:::::S
+P::::::::P          N::::::N        N::::::NS:::::::::::::::SS 
+PPPPPPPPPP          NNNNNNNN         NNNNNNN SSSSSSSSSSSSSSS   
+                                                               
+SMS Backup & Restore Pro v5.95
+
+Requirements: for all Android versions, supports App2SD
+
+ A simple App to Backup and Restore SMS Messages. This is a Paid No-Ads version of the Ad-Supported Free App.
+
+
+* Automatic Scheduled Backups.
+* View Backup Contents.
+* Backups created in XML Format on the SD Card.
+* Option to backup selected conversations only.
+* MMS not supported yet.
+* FAQs at
+
+NOTE: There is a known problem with some firmware versions of the Droid X and Droid 2 phones that the restored messages do not get the correct time stamps.
+
+
+This App needs the following permissions to work:
+* Storage - modify/delete SD card contents (android.permission.WRITE_EXTERNAL_STORAGE): To create the xml file on the SD card.
+* Your messages - edit SMS or MMS, read SMS or MMS (android.permission.READ_SMS, android.permission.WRITE_SMS): Needed to read SMS during backups and write them during restore.
+* Your personal information - read contact data (android.permission.READ_CONTACTS): To display and store the contact names in the backup file.
+* System tools - prevent phone from sleeping (android.permission.WAKE_LOCK): To prevent the phone from going to sleep/suspended state while a backup or restore operation is in progress.
+* Hardware controls - control vibrator (android.permission.VIBRATE): To vibrate the phone when the backup or restore operation is completed.
+
+Translations:
+- Finnish - Thanks to Juhana H.
+- Russian - Thanks to Pavel (????? ???????)
+- Spanish - Thanks to Miguel A. Alvarez
+- French - Thanks to Julien Benoist
+
+What's in this version:
+Note: If you intend to do a factory reset on the phone, please make sure you save/email a copy of the backup outside the phone before doing the reset.
+v5.95:
+- Now gets registered as a file handler for XML files so that backups can be viewed and restored directly from Email attachments and File Managers.
+
+This app has NO advertisements
+
+More Info:
+  
+https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestorePro

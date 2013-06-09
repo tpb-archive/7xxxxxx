@@ -1,0 +1,35 @@
+Crysis 2 fps increase tweak!
+============================
+Play Crysis 2 on low graphics cards smoothly!
+
+
+How to:
+=======
+
+1.Extract 'crysis 2 fps increase tweak-Mani'.
+
+2.Open the extracted folder and copy 'game.cfg' file
+
+3.Paste the file to 'C:UsersYOURUSERNAMESaved GamesCrysis2' and replace file
+
+4.Open Crysis 2 and check FPS :)
+
+
+
+Note:
+=====
+
+*If u are having any problems doing it right,My channel on youtube is manishpwr1212.I will upload a video on this.
+
+*Make a backup of original file before replacing so that you can switch to old settings anytime
+
+*The cfg file is configured for best performance with not much loss.
+
+*The file is edited to play the game in 640x480 resolution.If you want to play in your resolution follow the given steps:
+
+   >Right-click on game.cfg and uncheck 'Read-Only' option and click OK
+   >Open the cfg file and scroll to lowest.
+   >Find two lines
+	r_height=480  //Set your specified height
+	r_width=640   //Set your specified width
+   >Goto properties and Remark the file as 'read-only' to prevent overwriting the file!

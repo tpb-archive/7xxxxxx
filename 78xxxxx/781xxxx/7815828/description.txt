@@ -1,0 +1,35 @@
+============================================================================
+|There are no well established activation bypass as of yet, so I have not  |
+|included them.                                                            |
+|----------------------------------murphy78--------------------------------|
+|No Windows 8 Settings were harmed in the making of this ISO.              |
+|No Programs are added.                                                    |
+|No Unattended Settings were added to the installation.                    |
+|No Registry Settings were modified.                                       |
+|----------------------------------murphy78--------------------------------|
+|Get free media pack upgrade key at:                                       |
+|http://windows.microsoft.com/en-US/windows-8/feature-packs                |
+|----------------------------------murphy78--------------------------------|
+|Source: MSDN en_windows_8_x86_dvd_915417.iso                              |
+|This 32-bit RTM is Build 9200                                             |
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction and compression / ProWMC rename               |
+|dism for file package addition / ProWMC flip                              |
+|oscdimg for iso mastering                                                 |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703,         |
+|KB2770041                                                                 |
+|Net 2.0-3.5.1 enabled by DISM using SXS folder in sources directory       |
+|----------------------------------murphy78--------------------------------|
+|The MSDN iso source is the best image available on the internet at the    |
+|time of integration.                                                      |
+|----------------------------------murphy78--------------------------------|
+|To install Windows 8 Pro use key: XKY4K-2NRWR-8F6P2-448RF-CRYQH           |
+|To install Windows 8 ProWMC use key: RR3BN-3YY9P-9D7FC-7J4YF-QGJXW        |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 :)                                                               |
+============================================================================
+Description abridged - Read included Description

@@ -1,0 +1,15 @@
+Whether you're building a web- or desktop-based application with Java SE or Java EE, many Java applications need to integrate data from a relational database. This course describes how to read and manage data from relational databases such as MySQL and SQL Server using the Java Database Connectivity (JDBC) API.
+
+Author David Gassner explains how to choose a JDBC driver and connect to one or more databases. He also provides detailed instructions on reading, selecting, and updating data; calling stored procedures; managing data via JavaBean classes or with prepared statements; and working with metadata.
+
+Topics include:
+Importing a MySQL database
+Connecting to databases
+Handling JDBC exceptions
+Looping through result sets
+Limiting the number of fetched rows
+Filtering data with prepared statements
+Calling stored procedures
+Inserting, updating, and deleting rows with prepared statements
+Using a persistent database connection
+Committing and rolling back transactions

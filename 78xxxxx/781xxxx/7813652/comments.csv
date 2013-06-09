@@ -1,0 +1,27 @@
+﻿User Type,Username,Date,Text
+,Win8Lover,2012-11-11T03:16Z,thanks it's working
+,o2gulo,2012-11-11T07:48Z,Brilliant! Works perfectly
+,Ornlu_Wolfjarl,2012-11-11T19:32Z,"An error appears: ""The application has failed to start because its side-by-side configuration is incorrect""
+
+I think this has smth to do with the C++ redist libraries. Can anyone provide a solution? Uninstalling & reinstalling C++ redist or manipulating compatibility options does not solve it"
+,webflashing,2012-11-12T01:43Z,Did anyone solve the problem of the side-by-side configuration? I'me xperiencing it too.
+,T4lyX,2012-11-12T03:31Z,After I start the setup and press run nothing happens..
+[V],azaq318,2012-11-12T08:17Z,Check Redist folder. Install components inside.
+,monixx021,2012-11-12T12:28Z,"after installing all the redists still
+see below..
+Activation context generation failed for ""E:PuddleLauncher.exe"". Dependent Assembly Microsoft.VC90.CRT,processorArchitecture=""x86"",publicKeyToken=""1fc8b3b9a1e18e3b"",type=""win32"",version=""9.0.30729.6161"" could not be found. Please use sxstrace.exe for detailed diagnosis."
+,gnostics,2012-11-12T19:46Z,"Error - ""The application has failed to start because its side-by-side configuration is incorrect. Please see the application event log or use the command-line sxstrace.exe tool for more detail.""
+
+Installed everything from Redist folder, then to same error... any solutions??"
+,matt848,2012-11-12T21:15Z,"getting the error ""The application has failed to start because its side-by-side configuration is incorrect"" what should i do ?"
+,Nessdude,2012-11-12T21:20Z,"I was getting the ""side-by-side configuration"" error too.  The vcredist file that comes with the game doesn't seem to work properly.  It extracts the files, but never starts the installation.  I fixed the problem by installing the ""vcredist_x86.exe"" file found here:
+http://www.microsoft.com/en-us/download/details.aspx?id=26368"
+,monixx021,2012-11-15T21:49Z,Yep Nessdude is right that did the trick =)
+,gamez321,2012-11-15T22:05Z,"Getting a ""XML Parsing error ...DocumentsPuddleSettings.dat' Error: File not found""
+
+Anyone else getting this? I used the link above to fix my side-by-side error message, but now I get this one."
+,gamez321,2012-11-15T22:07Z,"edit: there are supposed to be 'slashes' in that file name. ""Documents - Puddle - Settings.dat"""
+,gamez321,2012-11-15T22:14Z,"edit edit: I was clicking on the ""Puddle"" application, you want to click on the ""Launcher"" application. My bad."
+,dilinwe,2012-11-18T00:21Z,"i was win 7 64bits but i need to install the redist 32x, then the game works perfect, like Nessdude says."
+,Kona_Guy,2012-11-18T09:56Z,Run Set up as Admin then run  LAUNCHER you fucking twats!
+,Kona_Guy,2012-11-18T10:05Z,"Run as admin, then run LAUNCHER"

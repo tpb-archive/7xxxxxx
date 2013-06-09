@@ -1,0 +1,76 @@
+General
+Format                           : Matroska
+Format_Version                   : Version 2
+FileSize/String                  : 729 MiB
+Duration/String                  : 50mn 11s
+OverallBitRate/String            : 2 031 Kbps
+Encoded_Application              : HandBrake 0.9.8
+Encoded_Library/String           : libmkv 0.6.5
+
+Video
+ID/String                        : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format_Profile                   : High@L3.0
+Format_Settings_CABAC/String     : Yes
+Format_Settings_RefFrames/String : 4 frames
+CodecID                          : V_MPEG4/ISO/AVC
+Duration/String                  : 50mn 11s
+Width/String                     : 704 pixels
+Height/String                    : 514 pixels
+DisplayAspectRatio/String        : 3:2
+FrameRate_Mode/String            : Constant
+FrameRate/String                 : 23.976 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Progressive
+Encoded_Library/String           : x264 core 120
+
+Audio #1
+ID/String                        : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format_Profile                   : LC
+CodecID                          : A_AAC
+Duration/String                  : 50mn 11s
+Channel(s)/String                : 2 channels
+ChannelPositions                 : Front: L R
+SamplingRate/String              : 48.0 KHz
+Compression_Mode/String          : Lossy
+Default/String                   : Yes
+Forced/String                    : No
+
+Audio #2
+ID/String                        : 3
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Format_Settings_Endianness       : Big
+CodecID                          : A_AC3
+Duration/String                  : 50mn 11s
+BitRate_Mode/String              : Constant
+BitRate/String                   : 224 Kbps
+Channel(s)/String                : 2 channels
+ChannelPositions                 : Front: L R
+SamplingRate/String              : 48.0 KHz
+BitDepth/String                  : 16 bits
+Compression_Mode/String          : Lossy
+StreamSize/String                : 80.4 MiB (11%)
+Default/String                   : No
+Forced/String                    : No
+
+Menu
+00:00:00.000                     : Chapter 1
+00:04:57.463                     : Chapter 2
+00:07:58.352                     : Chapter 3
+00:11:44.078                     : Chapter 4
+00:14:02.883                     : Chapter 5
+00:17:19.371                     : Chapter 6
+00:20:06.205                     : Chapter 7
+00:23:53.932                     : Chapter 8
+00:26:10.402                     : Chapter 9
+00:29:15.503                     : Chapter 10
+00:33:24.711                     : Chapter 11
+00:36:36.736                     : Chapter 12
+

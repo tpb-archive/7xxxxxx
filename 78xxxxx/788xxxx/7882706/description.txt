@@ -1,0 +1,107 @@
+CSS gives Web designers control over the appearance of their web sites by separating the visual presentation from the content. It lets them easily make minor changes to a site or perform a complete overhaul of the design. In CSS Web Site Design, instructor and leading industry expert Eric Meyer reviews the essentials of CSS, including selectors, the cascade, and inheritance. The training also covers how to build effective navigation, how to lay out pages, and how to work with typography, colors, backgrounds, and white space. Using a project-based approach, Eric walks through the process of creating a Web page, while teaching the essentials of CSS along the way. By the end of the training, viewers will have the tools to master professional site design. Exercise files accompany the training videos.
+
+Content: 
+
+1. Introduction
+
+Welcome
+What is CSS?
+Design tour
+Using the exercise files
+Installing the Web Developer toolbar
+
+2. CSS and XHTML
+XHTML essentials
+CSS essentials
+Embedded style sheets
+Linking a style sheet
+Linking to multiple style sheets
+Using linked and embedded style sheets together
+Using imported style sheets
+
+3. Selectors
+
+ID selector essentials
+Class selector essentials
+Best practices for classes
+Grouped selection
+Descendant selectors
+The sources of style
+Specificity
+Making things important
+Inheritance essentials
+Making things really unstyled
+User style sheets
+
+4. Layout
+
+Box model essentials
+Simple floating
+Using float for layout
+Fixing column drop
+Clearing essentials
+Float containment
+Creating a navbar from a list
+
+5. Adding Colors and Backgrounds
+
+Coloring text
+Defining color in CSS
+Coloring backgrounds
+Applying background images
+Manipulating the direction of background images
+Positioning backgrounds
+Background shorthand
+
+6. Setting Typography
+
+Altering line height
+Font style and weight
+Sizing fonts
+Using font families
+Font shorthand
+Justifying text
+Vertically aligning text
+Transforming text
+Text decoration
+
+7. Using Margins and Borders to Create White Space and Separation
+
+Margin essentials
+Adding borders
+Padding
+Using negative margins
+Margin collapsing
+
+8. Creating Tables
+
+Styling tables and captions
+Styling table cells
+Styling a column with classes
+Styling links inside table cells
+
+9. Styling for Print
+
+Styling for specific mediums
+Creating a print style sheet
+Hiding layout for print
+Styling for print
+Complex styling for print
+Creating a footer
+
+10. Bringing It All Together
+
+Getting started
+Setting global styles
+Defining masthead and navbar colors
+Layout of the navlink bar
+Using columns
+Setting content styles
+Creating the sidebar boxes
+Creating the sidebar form
+Completing the sidebar
+Making a table
+Creating a footer
+
+11. Conclusion
+Goodbye

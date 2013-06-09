@@ -1,0 +1,26 @@
+Description: The original set to recover Windows 7 Professional SP1 consists of 3 DVD discs 0A44006, 0A40707 and 0A40733, Laptop Lenovo ThinkPad T420.
+Type Model: 4177, 4178, 4236, 4170
+Compatible with ThinkPad T420s (4170), tested by me personally, it works 100%.
+Data recovery disks supposedly fit all models of ThinkPad x200s, x200, x201, x220, x301, T400, T500, T410, T420s, T510, T520, W500, W510, W520, Lenovo E120, E420, E520 (after installing the utility you want to run home updates from Lenovo - ThinkVantage Γäó ┬« System Update, all of the missing drivers will be installed automatically).
+
+MD5-sum ISO images:
+a6eabf1c846e53c18835858cf89f53ae * 0A44006_1.iso
+4a0e0a388cc2d7662b9d03c5bad0eb7f * 0A40707_2.1.iso
+0609ac3f7740954e8fef2521669f8fbf * 0A40733_2.2.iso
+44fe7e5d3ddb3be8b522e818830189df * lp.cab
+
+Attention! HDD will be completely formatted, the existing logical drives removed.
+Will be created only drive C and the recovery partition.
+
+installation
+1. Write the images 0A44006_1.iso, 0A40707_2.1.iso and 0A40733_2.2.iso three DVD disc.
+2. Loading starts with DVD (0A44006_1), following a request to put the next disc, continue the installation from DVD (0A40707_2.1), following a request to put the next disc, continue the installation from DVD (0A40733_2.2), for the third time to the request to install the drive click NO.
+3. Follow the instructions in the installer, the whole process takes about one hour (valid for ThinkPad T420s with installed SSD drive).
+
+Russification (if you need an operating system Rus)
+1. Run cmd (command line) as root and run at a time:
+DISM / Online / Add-Package / PackagePath: C:  lp.cab (advance copy lp.cab in root of drive C, or set the path to its location)
+bcdedit / set {current} locale ru-RU
+bcdboot% WinDir% / l ru-RU
+2. Then run regedit and open the HKEY_LOCAL_MACHINE / SYSTEM / CurrentControlSet / Control / MUI / UILanguages. Remove the en-US and restart the system.
+3. All OS Russified.

@@ -1,0 +1,90 @@
+﻿User Type,Username,Date,Text
+,cindy25,2012-12-06T08:29Z,"thanks
+
+just curious, why the daily show but no colbert?"
+[T],MP4SUX,2012-12-06T08:54Z,"I appreciate Colbert - but I don't really like him.
+
+I've toyed with the idea of pulling out the odd interview as a clip.
+
+Anyone you'd like to see in XVID?
+
+AVIGUY"
+,trace535,2012-12-06T09:06Z,"Colbert is kind of irritating and unfunny, to be honest, because his shtick is that he's stuck in his ""sarcastic conservative idiot"" character that he used to portrait on the daily show as a correspondent.
+
+The daily show works better because Stewart acts as the straight man who handle the news like a normal person, while his correspondents are ""nuts"" so to speak, and act a a foil in order to express a deeper point."
+,trace535,2012-12-06T09:18Z,"Questions for MP4SUX:
+
+1. What software do you use to encode?
+
+2. Why is the framerate 29.915 fps instead of 29.97 fps?
+
+3. 768 kbps is too low, xvid looks pixelated under ~1000 kbps.
+
+4. Audio for talkshows can safely be brought down to 96 kbps stereo, this isn't a movie with a musical score.
+
+Thanks for the upload though."
+[T],MP4SUX,2012-12-06T11:14Z,"trace535:
+
+I *LOVE* answering questions.
+
+Answers from MP4SUX:
+
+> 1. What software do you use to encode?
+
+Depends on the source. If only MP4 is available, I use VirtualDub two-pass.
+If only MKV is available (like this one) then I use AVC (AnyVideoConverter).
+
+> 2. Why is the framerate 29.915 fps instead of 29.97 fps?
+
+I have no idea. This has been a point of some consternation for me. It's what puts the audio in sync when I encode with AVC. I am truly surprised that odd framerates (and this is the most out of whack) don't cause people any problem. And then I found out some (KarMa) use something called VFR (VariableFrameRate), which is why you don't see those files re-encoded, it's impossible to get the sound to sync.
+
+My best answer is ""it's magic"" and ""I've stumbled across the salient incantations"" to make it all work.
+
+> 3. 768 kbps is too low, xvid looks pixelated under ~1000 kbps.
+
+First, ""pixelated"" is a very specific term and really only applies to stream buffer problems while encoding highly CPU intensive x264 encodes on-the-fly. See my comments for the first LOL entry for this evening's SVU. What you may be seeing I don't have a name for, but if you freeze on high density fast action scenes where I've used AVC (a one-pass encoder), you sometimes get fairly sizeable blocks. But the fast motion usually hides this defect from the average viewer. My encode of Arrow 103 has three documented instances. I've been informed that this is the result of a one-pass system that can't look ahead well enough to compensate. But on something like this file, that's not an issue. There is what I ve heard termed a ""stairstep problem"" where diagonal boundaries aren't handled perfectly. But the whole ""digital"" nature says EVERYTHING has this stairstep problem - it's just a matter of how small you make the steps.
+
+Well, on to your statement - that's the ""professional"" in you speaking. I've carved out my niche in the size I chose to upload (to compete with MP4 file sizes) and everything follows from that. If what you say were truly so, then I'd be getting tons of complaints and downloaders would begin to drop off. In fact, the very opposite has happened. So, pretend for a moment you don't have your keenly trained eye and see what the bulk of my downloaders see -  surprisingly viewable files. Who knew?
+
+IMHO 768 is just perfect. Feel free to follow your heart and download the stuff from AFG instead (classic 1024 encoding to 175/350MB files). Or better yet - do a better job than me by direct competition and drive my low quality ass out of the business. This is my one true secret hope - that ""quality"" will win out and the world will be better and I can retire, satisfied that the future is in good hands. Yours?
+
+> 4. Audio for talkshows can safely be brought down to 96 kbps stereo, this isn't a > movie with a musical score.
+
+Well, there are those who would deem you a ""picturist"" aka ""anti-audioist"" (insisting a higher video and lower audio quality). Some people need FLAC / AC3 / AAC and hate MP3, while others think my 272p @ 200K are just fine. You are clearly more visual while I hung around musicians much of my life (hence the 160K standard). I also used to be a Theatre Projectionist and if you really want to talk quality - if it aint 6 channel magnetic stripes on a 70mm print, then you're just fooling yourself.
+
+You'll note that for ""real time"" & ""talking dead"" I do much better than that - 40Kbps 22KHz (mono). But by and large I try to stick to a standard and not micro-manage audio and video quality. For some reason people didn't take too well to an effort or two at a ""Daily Show"" mini and for some reason I like Chelsea in my standard resolution. I did actually consider doing Whitney's talk show as a mini tonight - but I'd already posted the regular one and competing with oneself on bittorrent is never a good idea.
+
+> Thanks for the upload though.
+
+Hope it's been good enough to be worth your while. But if not, the challenge still stands. Twenty bucks a month for UseNet & VPN and you could be showing me how it's supposed to be done. I doub"
+,steppenwolf27,2012-12-06T14:15Z,"Thank you so much for putting up XVIDs of The Daily Show! Is there any chance of getting an XVID of The Colbert Report, too?"
+[T],MP4SUX,2012-12-06T15:22Z,"Forgot to mention, but just so I can keep track I use a slightly different resolution for each.
+
+640x360 - AVC
+624x352 - Virtualdub 2pass
+
+The first uses a higher quality source and the second uses a higher quality method. With my download bandwidth, 720p/AVC takes about 7 minutes longer than MP4/VDub.
+
+AVIGUY"
+,neeru,2012-12-06T22:28Z,"u shud definitely shrink the talk shows. colb/ dailyshow .
+
+colbert is a pantomime;but he provides the counter points to the arguement. spoiler alert: most of the time the counter is just avoiding facts"
+,cindy25,2012-12-07T05:02Z,"I have been using freemake video converter,because it lets you set the output size
+if the MP4 is quite large 
+
+took a while to get the setting, but if set to xvid its an easy and very fast convert, for both mkv and MP4"
+[T],MP4SUX,2012-12-07T11:07Z,"cindy25:
+
+I was wondering how your efforts were progressing. It seems you've found a way to suit your viewing needs. Alas, we seem to be on different tracks, so comparisons can only be made ""in the arena"".
+
+By which I mean, when do you plan to get a VPN and start sharing the fruits of your labor? I sorely need the competition and one more ""up from the pile of viewers"" seems to be only a good thing. There's a monopoly here to smash with the sheer weight of our numbers (soon to grow ... any day now ... honest).
+
+On my front, I don't know if you've been watching - I've had to revise some of my earlier convictions. Namely about re-encoding and MP4 and using the oddly more standard 624x352 rather than my usual 640x360.
+
+I now have two methods, one for an MKV source and one for an MP4 source. MKV still has to be AVC in my universe, but thanks to CC2AVI I can use my old favorite VirtualDub to re-encode MP4s.
+
+I detail each type differently, but feedback is rare around these parts. People download both without nary a peep, so both must be OK. Which I use depends more on what source becomes available first (or at all).
+
+Anyway, glad to hear your efforts are progressing.
+
+AVIGUY"

@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,mrtz1,2012-11-14T10:16Z,anyone tested it? is it 1.2.0  and working?
+,NickOmouk,2012-11-14T18:01Z,"I confirm, it work !"
+,Yerycho,2012-11-15T00:24Z,Thanx!!
+,jowjowjow,2012-11-15T02:44Z,Working!
+,clone94,2012-11-15T04:09Z,It works but what does the reg file do?
+,clone94,2012-11-15T04:18Z,"If you use steam, beware! It fucks it up"
+[T],nosTEAM,2012-11-15T13:09Z,"@ clone94 
+
+This info is added to registry by that file :
+
+[HKEY_LOCAL_MACHINESOFTWAREWow6432NodeValveSteam]
+""InstallPath""=""C:\Program Files (x86)\Steam""
+
+[HKEY_LOCAL_MACHINESoftwareValveSteam]
+""InstallPath""=""C:\Program Files\Steam""
+
+
+
+If you have installed STEAM on other location open Regedit and delete this info "
+,clone94,2012-11-15T15:36Z,I only found the first one. The second one isn't in the registry. What I want to know is what exactly does this registry do?
+,F3TiSH,2012-11-15T18:53Z,Can you upload 1.2.1 ?
+[T],nosTEAM,2012-11-15T19:17Z,"@ clone94 
+
+crack used by this game is working only if you have installed Steam ,that reg file I made for players without Steam installed - is adding info to registry like Steam application do "
+,clone94,2012-11-16T05:19Z,"@nosTEAM ohhh alright. thanks for the info. That's a relief. I thought it messed up my whole steam so I thought I had to reinstall it. When I'm installing this update and it asks me if I accept the registry, can I just skip that step?"
+[T],nosTEAM,2012-11-16T08:18Z,"@ clone94  
+if you  have Steam installed  - yes ,cancel add info to registry"
+,hevenz,2012-11-18T03:35Z,"this works but....
+
+itz a total newb move to plaster your group name on the fucking png's and video, it's ghey to see nosTEAM overwrite the original video and png's, cmon man for real?"
+[T],nosTEAM,2012-11-18T18:52Z,"@ hevenz - feel free to use other version ,no offense "
+,reinku,2012-11-19T07:24Z,"I do not recommend this torrent one bit. As soon as it was completed installing, a screen opened that would not allow me to close it or switch to another open window. It claimed to be the FBI having locked down my computer on suspicion of illegal activity, though legal action could be stopped with one easy payment of $200.
+
+I quickly restarted in safe mode and performed a system restore. My fault for not employing better anti-malware software. Still, don't download this shit."
+[T],nosTEAM,2012-11-19T09:38Z,"@ reinku  - clean up your PC mister ,this torrent contain 0 viruses"
+,hevenz,2012-11-19T19:42Z,"@ nosTEAM
+
+yeah actually, I did go and get another torrent to have that vanilla feeling of the game instead of a America Online group feeling to it.
+
+no offense but plastering your group name over everything when starting the game, is a pretty noobish move knowing you didnt even crack this :p"
+,hevenz,2012-11-19T19:43Z,"@ reinku
+
+roflmaoooooo"
+,oculus00,2012-11-21T05:29Z,"My new computer came with windows 8, and I got the skidrow version of the crack to work (found updated windows 8 crack). If I use this cumulative update it regresses to the previous problem I had before, which was every time I tried to launch the game, nothing happened. No messages, no errors, it just thinks for a sec, then nothing happens.  For now I'm just playing the non-updated version. Would really appreciate some advice."
+,Marikhen,2012-11-21T09:09Z,"@reinku:  The ""FBI Moneypack"" trojan/malware/whatever is the result of surfing web-sites with compromised ads.  Cleaning up after it is as simple as shutting down any rundll32.exe processes (IIRC) and then deleting any and all .exe, .dll, and just to be safe .sys files from your usersprofileappdatalocaltemp folder and then deleting the startup link it created either in your registry or startup folder.
+
+It's not the fault of this download and a system restore point was either overkill or useless if not both."
+,mbuky,2012-11-22T14:57Z,"@nosTEAM
+
+I guess this has all the tweaks (e.g Bee shield ""fix"") and what not? Or just the DLC.
+Thanks!"
+,DragoonIce412,2012-11-25T18:50Z,"So, Ive installed, and reinstalled this file multiple times to different places because it says it cant find it, i looked further into it and i think im missing the nvtt.dll file.... how do i fix this?"

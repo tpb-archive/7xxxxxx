@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,silmany,2012-11-16T16:01Z,thanks @iahq76 !
+,Sirus13,2012-11-22T03:42Z,"To anyone else using this, the crack instructions are a little fucked.
+1st restart after installation before attempting to crack. The close the gadget the program instals, you don't need to close Windows Gadgets itself.  Just end the 1 process in Task manager, he worded it to sound like you were ending a shitload of processes. It's unlikely that there is even a dtpro.dat file in your installation folder so most people can just skip that step (this is NOT dtpro.exe)."
+,nueron,2012-11-25T07:27Z,"XP user...
+its simple, after installation, End Process DTShellHlp.exe from windows task manager, it might not showup immediately as happened with me but later on it does, didnt find dtpro.dat file in the root installation directory and its definitely not dtpro.exe, the crack file .dll wont be copied unless you shut the dtshellhlp.exe process, once its copied rest all is done."
+,nueron,2012-11-25T07:29Z,thanks @iahq76
+,Fanzyd,2012-11-25T21:17Z,"Works beautifully Sirus13 is correct, the dtpro.dat may not exist, in which case it is fine to skip that step. Thanks iahq76!"
+,Sabo_bozo,2012-11-28T04:27Z,"Hey I'm pretty new to torrents and its asking for a serial number. I'm guessing that can be solved by a product key generator. Am I right? If not what did I fuck up on? I've read everything there is to read, still no answers for me. 
+-Thanks"

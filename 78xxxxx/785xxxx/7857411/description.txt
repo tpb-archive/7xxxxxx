@@ -1,0 +1,44 @@
+Downloadable for free in WAV format on the artist's webpage http://www.pvnova.com/startagain/ 
+
+Donate if you like it!
+
+I converted the files in FLAC and tagged them (cover is both in the folder and in files).
+
+flac output:
+
+PV Nova - Start Again % flac --best *.wav
+
+flac 1.2.1, Copyright (C) 2000,2001,2002,2003,2004,2005,2006,2007  Josh Coalson
+flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
+welcome to redistribute it under certain conditions.  Type `flac' for details.
+
+01 - Go.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+01 - Go.wav: 100% complete, ratio=0,76901 - Go.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+01 - Go.wav: wrote 41764237 bytes, ratio=0,769
+02 - Never Enough.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+02 - Never Enough.wav: 100% complete, ratio=0,75902 - Never Enough.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+02 - Never Enough.wav: wrote 50534383 bytes, ratio=0,758
+03 - I don't want to remember.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+03 - I don't want to remember.wav: 100% complete, ratio=0,73303 - I don't want to remember.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+03 - I don't want to remember.wav: wrote 43861851 bytes, ratio=0,733
+04 - My pride.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+04 - My pride.wav: 99% complete, ratio=0,78104 - My pride.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+04 - My pride.wav: wrote 44137383 bytes, ratio=0,779
+05 - I'm alive.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+05 - I'm alive.wav: 100% complete, ratio=0,76405 - I'm alive.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+05 - I'm alive.wav: wrote 44508388 bytes, ratio=0,763
+06 - Lonely.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+06 - Lonely.wav: 99% complete, ratio=0,75706 - Lonely.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+06 - Lonely.wav: wrote 40352787 bytes, ratio=0,755
+07 - Hello darling [feat. Shaolin Temple].wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+07 - Hello darling [feat. Shaolin Temple].wav: 100% complete, ratio=0,73407 - Hello darling [feat. Shaolin Temple].wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+07 - Hello darling [feat. Shaolin Temple].wav: wrote 42737994 bytes, ratio=0,733
+08 - Start again.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+08 - Start again.wav: 100% complete, ratio=0,74608 - Start again.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+08 - Start again.wav: wrote 41406116 bytes, ratio=0,745
+09 - Riverside.wav: WARNING: legacy WAVE file has format type 1 but bits-per-sample=24
+09 - Riverside.wav: 100% complete, ratio=0,68109 - Riverside.wav: WARNING: skipping unknown sub-chunk 'bext' (use --keep-foreign-metadata to keep)
+09 - Riverside.wav: wrote 57063821 bytes, ratio=0,681
+flac --best *.wav  61,46s user 0,94s system 97% cpu 1:04,10 total
+
+Enjoy!

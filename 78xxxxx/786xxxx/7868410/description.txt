@@ -1,0 +1,33 @@
+This is a Ubuntu Server 12.04 LTS Virtual Box Image (http://VirtualBoxImages.com/GettingStarted)
+
+If you don't want to configure the MVC framework Symfony and start to program immediately
+
+
+Login: Ubuntu
+PW: reverse
+MySQL PW: reverse
+
+
+Symfony is reachable over:
+
+Git - ssh://ubuntu@/var/www/Symfony
+FTP - ftp://ubuntu@/var/www/Symfony
+SMB - smb://ubuntu@
+
+The Virtual Machine is in the Network Bridge Mode at the moment,
+this means the Ubuntu Server will get an IP from your DHCP server.
+
+You can change this to NAT: 
+http://media.cdn.ubuntu-de.org/wiki/attachments/39/03/Bildschirmfoto_am_2012-01-18_220315.png
+
+If you have done this, you need to connect all services over localhost and the ports you chose in the VirtualBox config.
+
+i.e.: 
+http://127.0.0.1:8080
+ssh://127.0.0.1:2222 
+ftp://127.0.0.1:212
+
+
+Plz help seed
+
+- Peponi -

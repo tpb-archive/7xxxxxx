@@ -1,0 +1,48 @@
+Note: File was downloaded from http://www.sammobile.com which linked to Hotfile host
+
+N7000XXLSA ΓÇô Galaxy Note Android 4.1.2 Jelly Bean TEST firmware
+
+
+Some of the Enhancements in the new Jelly Bean Update:
+- Android 4.1.2 ΓÇô Build JZO54K
+- Buttery Smooth Performance & Great Stability (Thanks to Project Butter)
+- Multi-View (Multi Windows Multitasking, same as in Note II)
+- Multi-View can also be disabled
+- Page Buddy
+- Notification Panel can now be customized
+- New Additions in Notification Panel
+- Smart Rotation (Screen Display adjusts to your angle of sightings)
+- Continues Input in Samsung Keyboard (Like Swipe or Android 4.2 Keyboard)
+- SamsungΓÇÖs Cloud services
+- Direct Call, Smart Stay and Pop-up Play Features
+- New Widgets From the Galaxy S III
+- 2 Home screen modes
+- New Notifications bar
+- Google Now
+
+This is a PRE-RELEASE version not official from KIES.
+As this is a PRE-RELEASE firmware so expect some minor bugs.
+
+Firmware Details: 
+Android Version: 4.1.2 ΓÇô JZO54K (Jelly Bean)
+PDA: N7000XXLSA
+CSC: N7000OXALSA
+MODEM: N7000XXLSA
+Changelist: 549786
+Build Date: 20th November 2012
+Region: Europe
+Country: Germany
+Download: N7000XXLSA_N7000OXALSA_DBT.zip
+
+Flashing Instructions:
+- Unzip the file
+- Open Odin 3.04 (Get it from HERE)
+- Restart phone in download mode (Home+power+vol down)
+- Connect phone and wait until you get a yellow sign in Odin
+- Add CODE_N7000XXLSA_549786_REV02_user_low_ship.tar.md5 to PDA
+- Add MODEM_N7000XXLSA_REV_05_CL1222228.tar.md5 to PHONE
+- Add CSC_OXA_N7000OXALSA_549786_REV02_user_low_ship.tar.md5 to CSC
+- Make sure re-partition NOT ticked
+- Start flash, sit back and wait a few minutes.
+
+For more information please visit: http://www.sammobile.com/2012/11/28/n7000xxlsa-%E2%80%93-galaxy-note-android-4-1-2-jelly-bean-test-firmware/

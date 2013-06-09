@@ -1,0 +1,65 @@
+﻿User Type,Username,Date,Text
+,LOGAN_SA,2012-11-20T07:04Z," ;what button to press in game to swap gear, note if you want to use a normal key like ""b"" you DONOT include the {}
+HotKeySet('{END}', 'Quit')
+HotKeySet(""{DEL}"", ""pause"")
+HotKeySet(""{INS}"", ""RESUME"")
+$total = 1
+Global $DebugOn = True
+
+;skeep program running
+
+;main function
+
+   While $total = 1
+	  $jPos = MouseGetPos()
+	  PixelSearch(($jPos[0]-10), ($jPos[1]-40), ($jPos[0]+10), ($jPos[1]+10), 0x080808, 6)
+   if not @error Then
+	  Pix2()
+   Else
+	  $jPos = MouseGetPos()
+	  PixelSearch(($jPos[0]-15), ($jPos[1]-15), ($jPos[0]+15), ($jPos[1]+15), 0x211808, 6)
+   if not @error Then
+	  Pix2()
+	  EndIf
+   EndIf
+   WEnd
+
+
+Func pix2()
+	  $jPos = MouseGetPos()
+   	  PixelSearch(($jPos[0]-20), ($jPos[1]+25), ($jPos[0]+20), ($jPos[1]+100), 0xFF0000, 3)
+   if not @error Then
+	  mouseclick(""left"")
+	  Sleep(Random(120,125))
+   EndIf
+EndFunc
+Func Pause()
+   $total = 0
+EndFunc   ;==>Pause
+
+Func RESUME()
+   $total = 1
+EndFunc   ;==>RESUME
+
+Func DEBUG($MESSAGE)
+   If $DebugOn Then
+      ToolTip($MESSAGE, 0, 0)
+   EndIf
+EndFunc      ;==>Debug Info
+
+Func Quit()
+   Exit
+EndFunc   ;==>Quit"
+,LOGAN_SA,2012-11-21T03:05Z,"HotKeySet(""{home}"",""jPos"")
+
+
+While 1
+    Sleep(100)
+WEnd
+
+
+Func jPos()
+    $jPos = MouseGetPos()
+    MsgBox(0, ""Mouse x,y:"", $jPos[0] & "","" & $jPos[1])
+
+EndFunc"

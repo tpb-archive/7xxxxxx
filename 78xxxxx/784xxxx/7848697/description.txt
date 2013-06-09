@@ -1,0 +1,73 @@
+Description
+
+Professional Photography App for Android
+
+CameraPro (previously known as "CameraX") offers fast access to your mobile's camera capturing and video recording features. It is highly customizable including different designs and menu arrangements. Pictures can be directly uploaded from CameraPro to Facebook, Flickr, Picasa, and Twitter.
+
+The following list gives an overview over the features. PLEASE NOTE that features marked with "*" vary between different phone models!
+
+Camera Modes:
+- Still (normal mode
+)
+- !!!BETA!!!: Video / expert video mode (HD video greater than 720x480p is in Beta and works only on some phone models)
+- Self-timer
+- Time-lapse: record time-lapse picture series (Android 3.0+: record time-lapse videos too)
+- Burst: shoot a set of pictures as fast as the phone supports
+- Bracketing: take up to 10(!) different exposed images (can be used for HDR stitching with other apps)
+- Anti-shake: take pictures exactly in the moment when the phone is not moving
+Picture contols:
+- Focus (autofocus, macro, infinity, continuous autofocus, face detection,...)*
+- White balance*
+- Flash (including videolight)*
+- Effects (such as mono, negative, solarize, aqua,...)*
+- Scene modes (night, landscape, portrait, beach, snow, fireworks, sports, party, candlelight, text,...)*
+- Image controls (exposure compensation, brightness, contrast, sharpness, saturation)*
+- ISO*
+- Metering mode*
+- Antibanding*
+
+Overlays
+
+- Grid (customizable)
+- Level meter/virtual horizon with indicator*
+- Compass*
+- Touch focus (Android 4+)*
+- Zooming*
+
+Expert video mode (excerpt)
+
+- Automatic bypassing of recording time respectively file size limit by means of file splitting (short gap possible between files)
+- Disable audio recording
+- Adjust audio channels, sampling rate, audio/video bitrates, frame rates, audio/video codecs, video container format, video dimensions*
+- Supports 1080p video recording (e.g. Galaxy S2 GT9100)*
+
+Settings (excerpt)
+
+- Use volume keys, hardware shutter, trackball, and touch buttons for capturing and focusing*
+- Set CameraPro as default camera app*
+- Disable shutter sound
+- Fullscreen viewfinder*
+- Back/front camera (front camera does not support video recording yet)*
+- Image compression quality
+- Different arbitrary storage locations for video and photos including customizable filenames
+
+IMPORTANT LIMITATIONS
+
+- For video resolutions greater than 720x480 set focus mode to "Continuous" if available. Else recording might start delayed (app looks as if it hangs for some seconds on the Samsung Galaxy S2)
+- Zooming and picture controls can only be modified BEFORE video recording
+- Changing from continuous autofocus to some other focus mode can be very slow
+- Sometimes the direct HD video preview in the video player (started from CameraPro) shows only a black screen. When the player is started manually the video play back is fine.
+- If updating from CameraX fails, uninstall CameraX before installing CameraPro.
+- Video recording on some HTC devices and on all devices with Android 2.2 and older is only partly supported
+
+HTC/Distorted Pictures:
+- Some still picure resolutions on some HTC devices are distored (e.g. 16:9 resolutions). Enable the "HTC fix" under settings to fix.
+
+LG/Viewfinder orientation:
+- On some devices the viewfinder orientation is wrong (e.g. LG P500). Enable "Orientation fix" under settings to fix.
+
+What's in this version : (Updated : Nov 21, 2012)
+
+Added megapixel count information
+
+Required Android O/S : 2.2+

@@ -1,0 +1,28 @@
+Technical Specs:
+
+Format...........................: Matroska
+File size........................: ~2.19 GiB/ep
+Duration.........................: ~45min/ep
+Overall bit rate.................: ~6 750 Kbps/ep
+Subtitles........................: English
+
+Video
+Format...........................: AVC
+Bit rate.........................: ~5 200 Kbps/ep
+Width............................: 1 280 pixels
+Height...........................: 720 pixels
+Display aspect ratio.............: 16:9
+Frame rate.......................: 23.976 fps
+Resolution.......................: 8 bits
+Colorimetry......................: 4:2:0
+Scan type........................: Progressive
+Bits/(Pixel*Frame)...............: 0.230
+
+Audio
+Format...........................: DTS
+Bit rate mode....................: Constant
+Bit rate.........................: 1 510 Kbps
+Channel(s).......................: 6 channels
+Channel positions................: Front: L C R, Side: L R, LFE
+Sampling rate....................: 48.0 KHz
+Resolution.......................: 24 bits

@@ -1,0 +1,118 @@
+Counter Strike 1.6 Addons
+Mode: Deathrun v3.0
+
+Author: NightX
+AMXMODX
+dproto
+metamod
+Anti-Hack
+
+
+
+
+
+; AMX Mod X plugins
+
+; Admin Base - Always one has to be activated
+admin.amxx		; admin base (required for any admin-related)
+;admin_sql.amxx		; admin base - SQL version (comment admin.amxx)
+
+; Basic
+admincmd.amxx		; basic admin console commands
+adminhelp.amxx		; help command for admin console commands
+adminslots.amxx		; slot reservation
+multilingual.amxx	; Multi-Lingual management
+
+
+; Menus
+menufront.amxx		; front-end for admin menus
+cmdmenu.amxx		; command menu (speech, settings)
+plmenu.amxx		; players menu (kick, ban, client cmds.)
+;telemenu.amxx		; teleport menu (Fun Module required!)
+mapsmenu.amxx		; maps menu (vote, changelevel)
+pluginmenu.amxx		; Menus for commands/cvars organized by plugin
+
+; Chat / Messages
+adminchat.amxx		; console chat commands
+antiflood.amxx		; prevent clients from chat-flooding the server
+scrollmsg.amxx		; displays a scrolling message
+imessage.amxx		; displays information messages
+adminvote.amxx		; vote commands
+
+; Map related
+nextmap.amxx		; displays next map in mapcycle
+mapchooser.amxx		; allows to vote for next map
+timeleft.amxx		; displays time left on map
+
+; Configuration
+pausecfg.amxx		; allows to pause and unpause some plugins
+statscfg.amxx		; allows to manage stats plugins via menu and commands
+
+; Counter-Strike
+;restmenu.amxx		; restrict weapons menu
+statsx.amxx		; stats on death or round end (CSX Module required!)
+;miscstats.amxx		; bunch of events announcement for Counter-Strike
+;stats_logging.amxx	; weapons stats logging (CSX Module required!)
+
+; Enable to use AMX Mod plugins
+;amxmod_compat.amxx	; AMX Mod backwards compatibility layer
+
+; Custom - Add 3rd party plugins here
+DeathrunManager.amxx    
+DRM_trigger_hurt_fix.amxx  
+stuck.amxx              
+team_join.amxx          
+knife_mod.amxx         
+688268.amxx             
+advanced_gag.amxx       
+bunnyhop.amxx           
+hpk.amxx                
+amx_lastip.amxx         
+amx_showip.amxx         
+plugin_trail.amxx       
+use_button_once.amxx    
+simple_restart.amxx     
+join.amxx                
+amx_ejectcd.amxx
+speedometer.amxx
+reguli.amxx
+semiclip.amxx
+LoadingMenu.amxx
+resetscore.amxx
+Hats08.amxx			
+Messages_manager.amxx
+informatii.amxx
+amx_cvarguard.amxx
+amxx_fuckoff.amxx
+admin_who.amxx
+admin_check.amxx
+gamenamechanger.amxx
+amx_super_menu.amxx
+amx_super.amxx
+limbaj_admini.amxx
+amp.amxx
+rang_admin_chat.amxx
+dr_duel_CT_Only.amxx
+AMXX-Booster.amxx
+auto_join_on_connect.amxx
+instant_autoteambalance_nocrash.amxx
+debug.amxx
+autobuyfix.amxx
+
+
+;;;;Plugin InActiv;;;;;
+
+;rockthevote_custom.amxx 
+;xredirect-beta.amxx
+;connect_exec.amxx
+;lightmaker.amxx
+;loadingsong.amxx
+;xmas_gifts.amxx
+;CustomFlashLight.amxx
+;fireworks.amxx
+;sky.amxx
+;bull_christmass.amxx
+;winter_events.amxx
+;player_model_changer.amxx
+;specinfo.amxx           
+;ghostchat.amxx           

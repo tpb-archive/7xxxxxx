@@ -1,0 +1,14 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Revolution Z - Season 1 - Episode 5.mp4':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isomavc1
+    creation_time   : 2012-11-22 20:10:56
+    encoder         : HandBrake 5044svn 2012110601
+  Duration: 00:48:41.70, start: 0.000000, bitrate: 1440 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 720x576 [SAR 16:11 DAR 20:11], 1337 kb/s, 25 fps, 25 tbr, 90k tbn, 180k tbc
+    Metadata:
+      creation_time   : 2012-11-22 20:10:56
+    Stream #0:1(und): Audio: aac (mp4a / 0x6134706D), 48000 Hz, stereo, s16, 98 kb/s
+    Metadata:
+      creation_time   : 2012-11-22 20:10:56

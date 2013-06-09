@@ -1,0 +1,24 @@
+CPUID HWMonitor Pro is our extended version of the hardware monitoring program HWMonitor. In comparison to its classic counterpart, HWMonitor Pro adds the following features : Remote Monitoring - Watch the sensors of one or several distant PCs through a simple TCP/IP connection. Graph Generator - Save monitoring data and generate logging graphs as bitmap files. Improved Interface - Sensors in system tray, editable sensors labels ... PWM Control - Fan PWM control (for ESA compliant devices).
+
+Features :
+
+Remote Monitoring
+ Watch the sensors of one or several distant PCs through a simple TCP/IP connection.
+
+Graph Generator
+ Save monitoring data and generate logging graphs as bitmap files.
+
+Improved Interface
+ Sensors in system tray, editable sensors labels ...
+
+PWM Control
+ Fan PWM control (for ESA compliant devices).
+
+Changes in CPUID HWMonitor Pro 1.15:
+ Fixed package temperature on AMD FX (Zambezi and Vishera).
+ Report real-time power on AMD FX (Zambezi and Vishera).
+ Support complete telemetry on AMD APU (Trinity).
+ Fixed package power on multi-CPU Intel platforms.
+ Added support of Nuvoton NCT7904D chip.
+ Added option "Minimize to tray".
+ Support for Antec CC watercoolers. That support is preliminary, it requires the use of the 32-bit version of HWMonitorPRO, and requires that the ChilControl application does NOT run in the same time.

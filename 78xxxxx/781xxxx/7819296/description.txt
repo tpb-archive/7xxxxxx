@@ -1,0 +1,1 @@
+Memoization is a convenient way to cache a method's response. Here I show several ways to accomplish this from scratch since the ActiveSupport::Memoizable module has been deprecated. (9 minutes) If you found this helpful, please consider purchasing RailsCasts Pro.

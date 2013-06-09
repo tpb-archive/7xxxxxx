@@ -1,0 +1,32 @@
+[img]http://i.imgur.com/AJjhP.jpg[/img]
+
+
+Run any version of virtually any application on a single operating system without conflicts. You can even run multiple versions of the same application. Plug VMware ThinApp, formerly known as Thinstall, into your existing management infrastructure and accelerate your software development and desktop deployment. Deliver and deploy applications more efficiently, more securely, and more cost-effectively with agentless application virtualization.
+
+
+100% Agentless Application Virtualization
+ΓÇó Application isolation. VIsolated applications run in a virtual bubble in restricted user accounts without requiring any host modification. Deploy Office 97, 2003, 2007, and .NET applications on the same OS without conflict as the applications run independent of one another.
+ΓÇó Zero-runtime execution. With no installed agent, no footprint is left on the endpoint device. Applications run directly from the compressed state without first caching data to the hard disk, achieving better performance and security of data.
+ΓÇó 100% User Mode execution. Client runs on locked-down, unmanaged ΓÇ£kioskΓÇ¥ PCs without Admin rights to execute applications, enabling it to be used on managed and unmanaged PC.
+ΓÇó Block-by-block network streaming. Applications virtualized execute once the minimum amount of code required to run the application is available in the desktopΓÇÖs memory. For example, less than 10% of Microsoft Office needs to be physically streamed to the client in order for it to run. LAN streaming has an average start-up time of just a few seconds.
+ΓÇó Sandbox environments for terminal services. Provide sandboxing for appl
+ications running in a terminal services environment so that multiple users can run their own sandboxed application without affecting each other. If one instance of the application tries to make system-wide changes, other users running the same applications are not affected.
+ΓÇó 64-bit operating system support. Enables applications to be virtualized and run on 64-bit systems.
+ΓÇó Execution on thin clients. Tested and certified to run virtualized applications on Windows XP-based thin clients.
+ΓÇó Compatibility with a broad range of applications. Proven deployments on simple-to-complex applications ranging from basic Microsoft Office to custom applications with Java or .NET.
+
+Conflict-free Application Delivery
+ΓÇó Active Directory integration. VMware ThinApp does not require any distribution, streaming, or activation servers or agents. It works with AD, ESD enforcement tools, and open protocols so no additional hardware, software licenses and ongoing maintenance costs for backend infrastructure is required.
+ΓÇó Execution from USB key with portable profiles/user settings. Enable a user to run critical applications from a USB key while maintaining corporate security requirements.
+ΓÇó Integration with 3rd-party application management solutions. Creates .MSI and/or .EXE file that plugs into existing electronic software delivery systems (Inventory, Configuration Management Database, Definitive Software Library, Packagers) without additional integrations required.
+ΓÇó Application Sync. Enables application updates for mobile users as well as third parties on the corporate extranet, ensuring availability of the latest version of the application, reducing patch risks to machines that are taken off the network. Update virtual applications via http/https over the LAN or WAN leveraging existing software delivery systems.
+
+Simplified Application Packaging
+ΓÇó Application Link. Allows packaged applications to dynamically establish dependencies ("links") with other packaged applications. Administers create separate packages of interdependent components such as Java or .NET runtimes and the applications that rely on them. Each component is delivered independently while sharing resources across multiple ThinApp packages.
+ΓÇó Package it once, deliver to many. Execute a packaged application on Windows NT, Windows PE, or XP Embedded without retesting or repackaging the application for each operating system.
+ΓÇó System snapshots. Provides administrators with a rapid three-step process for pre- and post-install system states for packaging simplicity and for supporting applications that require a reboot during the installation process.
+ΓÇó ISV embeddable. Organizations can deliver their custom application throughout their extranet using VMware ThinApp application virtualization technology.
+
+Installation instructions :
+
+1. Just download and enjoy !!!

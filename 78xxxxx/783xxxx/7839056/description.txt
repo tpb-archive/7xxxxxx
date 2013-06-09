@@ -1,0 +1,47 @@
+I found this deep in the sea, so I decided to share it with you, my fellow pirates since it was not  up in TPB, and its a hassle diving deep for it.
+
+This is for Maya 2012 64 bit ( not sure if it will work with newer or older version or 32bit, try it! Then post a comment about it).
+
+Please support the developers : http://www.ikinema.com/?mod=products
+--------------
+Install:
+Install with serial: (look in Install file for serial)
+Replace IKinema.mll with the one supplied in the crk dir.
+The file that needs to be replaces is here:
+C:Program FilesAutodeskMaya2012binplug-ins
+
+Launch Maya and....
+Enjoy!
+
+----------------------------------------------------------------------------------
+IKinema Action for Maya
+Why do customers choose IKinema Action?
+Based on IKinema's powerful core middleware technology, this complete real-time tool is top-notch for speed, accuracy and flexibility. With short learning curve, the user looks forward to easy pipeline integration and a simplistic and streamlined workflow. Delivering believable, natural and organic motion.
+
+
+Real-time Marker Solving
+With power, robustness and speed behind IKinema's marker solving, it's second to none ΓÇô infact the fastest on the market. Capable of supporting high resolution skeletons across multiple subjects simultaneously. Solve for fingers, apply spine stretch for improved spine response, adjust skeleton for exact actor representation. Save time and maintain flexibility to your workflow by starting an actor or subject from any pose, not only the traditional T-pose. The solver is also flexible and generic enough to enable the same pipeline application on human and non-human chararcters.
+
+
+Real-time Retargeting
+IKinema's flexibility is key for quick, non-destructive retargeting workflows. Characterization is of the past. Save time by passing animation sources from one model to another by maintaining world positions, regardless of differences to bone sizes and numbers, or model hierarchies. Retarget partial body components and combine several source animation data to a single target. Combine both animation and constraints to customize the pose, and retarget to your rig. Also combine physics engines with retargeting, for example, drive hair or body parts by physics and retarget to specific bones. Now for seriously impressive results, apply these processes on many characters!
+
+
+StretchIK
+StretchIK helps developers to closely match skeleton to actor for more natural body behaviour and realistic pose during marker solve. Complex and difficult areas are diminished, freeing up developers time spent on manual keying and manipulation. Use for spine and neck stretch during real-time marker solving, and scale bones for extended limbs in seconds with feet remaining fixed. StretchIK is ideal for robot style rigs and cartoon characters, and rigging takes only minutes. Married with IKinema's full-body solver, this powerful tool returns flexibility and control back in the hands of the developer. As our Gadget friend would say ΓÇ£Go Go Gadget Arms!ΓÇ¥
+
+
+Rigging
+Within minutes, efficiently build a full featured rig directly on top of any model or skeleton structure. Dynamically modify and customize the rig during animation. Apply StretchIK to any bone and add to rig. Enhance productivity by using rigging and retargeting together. Use MEL SDF for an automated rigging process.
+
+
+Real-time Streaming
+Vicon and Xsens users save time by connecting and streaming joint data in real-time directly into Maya's viewport. Stream marker data from your Vicon camera system and use with the IKinema marker solver. Real-time streaming is an ideal solution for virtual cameras, real-time retargeting or just data collection directly in Maya - save your scenes and takes for future use. Also combine the interface with IKinema retargeting to generate real-time avatar movements on-screen.
+
+
+Physics and Balance
+Physics and balance is the basis to any motion. IKinema's advanced technology helps the developer and artist to achieve fluid and believable behaviour of high-end quality. Incorporating balance functionalities, the plug-in enables the application of force to any bone on the hierarchy. Animate and keyframe the force direction and strength, and use in conjunction with retargeting and marker solving to create a realistic pose. With these elements combined, the only result is for natural and lifelike motion.
+
+
+MEL SDK
+All IKinema plug-in functionalities are exposed via a free SDK. In turn this is utilized for improved automated set-up procedures for marker solving, retargeting and rigging. Well actually, that goes for any manual tasks perfomed in the viewport!

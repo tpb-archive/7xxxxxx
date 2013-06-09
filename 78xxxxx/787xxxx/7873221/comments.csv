@@ -1,0 +1,23 @@
+﻿User Type,Username,Date,Text
+[T],Gh0stNet,2012-11-30T11:21Z,"Scene group SKIDROW released Update 1 of Doom 3 BFG Edition for PC. Read the changelogs here and enjoy!
+
+    DOOM 3 BFG: Patch Release Notes
+    NEW FEATURES
+    • All projectiles cast shadows
+    • Texture LOD bias added to menu options
+    • Added option to force v-sync (instead of “smart v-sync”)
+    • Adjusted default brightness value
+    • Shadow casting projectiles added to menu options
+    • Allow setting anti-aliasing up to 16x on Nvidia hardware. AMD/Intel cap is at 8x
+    • Adjusted range of vertical sensitivity (allows you to lower sensitivity further than original implementation)
+    • Added option to disable checkpoints
+    • Allow left/right to enter resolution menu
+    • Variable FOV settings options were added into the main menu
+    • Added controller bind options
+    • Added additional anti-cheat measures
+    BUG FIXES
+    • Fixed blood splatter effects break after reloading save game
+    • Fixed broken view nodal code that allowed players to see through the world by backing into a wall and looking up
+    • Fixed weapon impact effects break after using the artifact (heart)
+    • Fixed leaderboards to work across languages 
+"

@@ -1,0 +1,10 @@
+In this course, author Drew Falkman shows how to install the latest version of PHP, the popular web application server, and reviews the performance enhancements and language improvements in the 5.4 release, including short array syntax, function arrays, and support for the $this reference to current objects in closures. The course also introduces traits, the mechanism for code reuse in single inheritance languages such as PHP.
+
+Topics include:
+
+* Installing PHP 5.4 on Mac and Windows
+* Using the built-in web server
+* Monitoring upload progress
+* Using the high-precision timer
+* Using class member access on instantiation
+* Introducing horizontal reuse

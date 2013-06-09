@@ -1,0 +1,68 @@
+﻿User Type,Username,Date,Text
+,tl2e3le4f,2012-12-05T00:29Z,does this patch work with the black box release?
+[T],AncientRome,2012-12-05T00:31Z,"I don't know.
+Try it and let us know."
+,thug_angel123,2012-12-05T00:50Z,If you have the bb release can you give it a try ? I'm downloading the game so would love to know it too.
+,AudieMurphy135,2012-12-05T01:04Z,"I get an error saying, ""Could not retrieve version number! Installation will be aborted."""
+,tl2e3le4f,2012-12-05T01:07Z,alright i just installed it and seems to work just fine. thank you ancientrome! :)
+,Quacktime,2012-12-05T01:14Z,"I have the BB release, so give me a couple of minutes and I will test it."
+,czejenesku,2012-12-05T01:42Z,does save from previous version work?
+,plagasx,2012-12-05T02:27Z,"Hey, I didn't use this and I downloaded the official patch but I used the first reloaded crack...Should It still work???"
+[T],AncientRome,2012-12-05T02:41Z,That's a stupid question.
+,Quacktime,2012-12-05T02:50Z,"For any BB users- I downloaded this and installed it and all went fine there. The game also launches fine and whatnot, but my previous safe files were gone. I also tried the update with the old black box crack files, but it just took me to the Uplay screen when I tried to launch where you have to put a CD key in. I don't know what I really expected, but it was worth a shot to see if it fixed the save problem I was having before, i.e. when you try to save in the game the save icon flashes infinitely until you quit and no save is recorded. Uplay is behind all of this, I guess."
+[T],AncientRome,2012-12-05T03:26Z,"Certain release groups make the games save differently (to circumvent uPlay).
+THETA and Black Box are a couple that do that."
+,aibonlengket,2012-12-05T03:31Z,"got the ""Could not retrieve version number! Installation will be aborted."" on the BB / Repack version. any work around? 
+
+@Quacktime: how you got yours to update? thats strange. "
+,aibonlengket,2012-12-05T05:03Z,"could some one that got can update 1.02 look at the registry. the registry for uninstall information. 
+
+it's located here : HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionUninstall
+
+go to that folder then search for ""far cry 3"". screen shot or export what it contain. I think the installer tried to look for version there. thanks in advance. "
+,aibonlengket,2012-12-05T05:04Z,HKEY_LOCAL_MACHINE | SOFTWARE | Microsoft | Windows | CurrentVersion | Uninstall
+,catracho23,2012-12-05T06:16Z,Does it works with the RGMechanics repack?
+[T],AncientRome,2012-12-05T07:16Z,Try it and let us know.
+,Halvarsson1996,2012-12-05T07:50Z,"Crack worked perfectly I can save and my old saves are still there,thanks alot man for uploading this crack,I have the reloaded edition btw."
+,xkaotic,2012-12-05T08:09Z,"what is the point of map editor?
+is it so u create a map then play on it w friends,like online??"
+[T],AncientRome,2012-12-05T09:13Z,"From experience the map editor is something to waste your time with.
+
+Making maps, sharing with friends or simply seeing how much of a beating your graphics card can take."
+,snake5302,2012-12-05T10:00Z,This patch does work is the Black Box crack.
+,Crackcheck,2012-12-05T11:10Z,"Ummm, After installing this, I can't not do anything with the game now. It's telling me that the Far Cry 3 service is unavailable. Can someone help me?"
+,Sinister181,2012-12-05T12:03Z,"Fuck's sake!! The game crashes every five minutes, even with this latest update. Turning down the graphics doesn't even make a difference. "
+,N3xS,2012-12-05T13:11Z,"I have the ""Could not retrieve version number! Installation will be aborted."" too.. No one found a solution about it? :)"
+[T],AncientRome,2012-12-05T17:20Z,"The best solution is to wait for your respective release group to come out with their own update.
+That is if they are even going to bother making one.
+
+That's why it's better to wait for proper scene release instead of grabbing the very first thing that comes out.
+
+It would also be good practice to wait on playing the game until the actual release date, because there will always be updates/patches."
+,N3xS,2012-12-05T21:37Z,"The fix for the error ""Could not Retrieve Version Number! Installation will now aborted"":
+--------
+1- Go to regedit
+2- Find the folder: HKEY_LOCAL_MACHINESOFTWAREUbisoftFarcry 3, and make sure the path in InstallDir and the Version number are correct.
+2.1- Then go to HKEY_LOCAL_MACHINESoftwareWow6432NodeMicrosoftWindowsCurrentVersionUninstall
+2.2- Create a new key in this folder named {E3B9C5A9-BD7A-4B56-B754-FAEA7DD6FA88} exactly like this. Then in the new key you just created, make a new string named DisplayVersion, and set it value to the version of the game you have(1.00 or 1.01). Then launch the update file (1.01 or 1.02) and it should work.
+--------"
+,N3xS,2012-12-05T21:50Z,"the fix for the error: ""Could not Retrieve Version Number! Installation will now aborted"".
+--------
+1- Go to regedit
+2- Find the folder: HKEY_LOCAL_MACHINESOFTWAREUbisoftFarcry 3, and make sure the path in InstallDir and the Version number are correct.
+2.1- Then go to HKEY_LOCAL_MACHINESoftwareWow6432NodeMicrosoftWindowsCurrentVersionUninstall
+2.2- Create a new key in this folder named {E3B9C5A9-BD7A-4B56-B754-FAEA7DD6FA88} exactly like this. Then in the new key you just created, make a new string named DisplayVersion, and set it value to the version of the game you have(1.00 or 1.01). Then launch the update file (1.01 or 1.02) and it should work.
+-------- "
+,BertilGM,2012-12-06T01:05Z,"Hey, AncientRome.
+
+do anyone of you guys have a soulution to this silly save problem? or is it like everyone says. use auto save, nothing else?
+
+the problem whit saves is it from the game developers side or is it an just a bi-effect of cracking it?"
+,Ardicine,2012-12-06T04:27Z,"@N3xS : Thanks! worked like a charm, step 2.2 was the fix."
+[T],AncientRome,2012-12-06T04:50Z,"Sorry BertilGM, but I don't have an answer for ya.
+Perhaps another more learned user can help with that."
+,mlmariss,2012-12-06T06:50Z,"If You carefully check the update changes..You'll notice, taht You dont need it.. :x"
+,Jakmalmo,2012-12-06T16:20Z,"The multiplayer crack ain't working for me anymore, when I launch the game it doesn't open Uplay, and it wont connect to the Far Cry 3 service..
+Any fix for this?"
+,amit3945,2012-12-07T19:02Z,"Will this crack work if I buy the original DVD, install it, and overwrite the files from crack folder to the game dir?
+There is no farcry.exe in the crack folder.Am I missing something here?"

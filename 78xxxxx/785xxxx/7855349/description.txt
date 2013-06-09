@@ -1,0 +1,65 @@
+Includes the VSO ConvertXtoDVD v5.0.0.25 installation package, a patch and a text file containing instructions.
+
+Install as usual. After installation use the provided patch. No serial number required. Done! Enjoy!
+
+
+-----------------------------------------------------------------------------------
+
+
+
+Convert videos to DVD and watch on any DVD player. Burn automatically to DVD after video conversion. Excellentand fast converter.
+
+Convert AVI, MKV, MOV, Divx, WMV, MTS/M2TS, MPG, MP4 and more to DVD.
+
+Edit your project with the various settings and features listed below:
+-Create menus with videos and music
+-Preview window
+-Add chapters - automatic or custom
+-Subtitle files supported
+-Convert NTSC to PAL and vice-versa
+-Merge function - like for CD1 + CD2
+-2 pass encoding
+-Multiple encoding profiles
+-Video/Audio/Subtitle synchronisation
+-Various audio output formats
+-Image resize filters (lanczos, linear, cubic, etc . . .)
+-Quality advisor
+-Multi-core processor optimized
+-Audio amplifier
+-Padding and cropping
+-De-interlacing
+-Batch converter
+
+Additional features:
+-Compatible with any disks 
+-ISO output available
+-NTSC + PAL region formats
+-16:9 widescreen + 4:3 fullscreen
+-Burn multiple copies
+-VSO burning engine included
+-Various SD resolutions available
+-Custom output size
+
+-----------------------------------------------------------------------------------
+
+WHY UPGRADE?
+
+- 0006126: [Information] what does this mean in log: [ ] Pal (felicia) - resolved.
+- 0004212: [Bug] subtitle not correctly resized in ts file (cedric) - resolved.
+- 0006127: [Bug] languages not automatically detected (felicia) - resolved.
+- 0005954: [Suggestion] Format (Video Standard) - Automatic (Program decides format by source data) (felicia) - resolved.
+- 0006119: [Bug] show target size even when burning not requested (cedric) - resolved.
+- 0006120: [Bug] ??? in log file (cedric) - resolved.
+- 0005107: [Feature Request] change dvd - 9 target size to more conservative value of 7700 (cedric) - resolved.
+- 0006110: [Information] should be transparent icon (felicia) - resolved.
+- 0006111: [Bug] frames dropped not accurate (cedric) - resolved.
+- 0006115: [Bug] ConvertXToDVD transcoder not closed when application is closed (felicia) - resolved.
+- 0006019: [Bug] Open Saved Project VS Double Clicking on a .XtoDVD project file has different results. (felicia) - resolved.
+- 0005605: [Bug] audio boost not working (cedric) - resolved.
+- 0004404: [Bug] code page problem ---> at least greek iso code not working (annelise) - resolved.
+- 0003106: [Bug] Fuzzy estimated remaining time (cedric) - resolved.
+- 0005599: [Bug] default install values are not the same as version 4 (cedric) - resolved.
+- 0005190: [Feature Request] make trial window look like version 4s (cedric) - resolved.
+- 0005584: [Bug] access violation when converting (cedric) - resolved.
+- 0005917: [Bug] I do not see audio boost in log file (cedric) - resolved.
+- 0005929: [Bug] dragging and dropping an titleset already in treeview to a new position does not work (cedric) - resolved.

@@ -1,0 +1,531 @@
+﻿User Type,Username,Date,Text
+,creative3,2012-11-09T08:02Z,"Sorry as I forgot to mention the ms link to get your own legit wmc key. f you do not have your free wmc key then get it your won from here: just fill with your email and within 24 hours Microsoft will send you your WMC key to your email.
+
+http://windows.microsoft.com/en-US/windows-8/feature-packs"
+,creative3,2012-11-09T08:54Z,"@irawan83,
+Welcome dear,
+
+I have seen that there are many windows 8 pro which first need to activate and for this users were spending hours to search cracks/activators but either failed to activate or if activated those were rejected by the Microsoft when they wanted to upgrade to WMC with their legit key.
+Then I made this ISO which will not require any activator or cracks or any KMS host server. just use your WMC key and get activated online legally.
+Nothing added or removed from the original ISO from MSDN account but I little house keeping. I just modified the data.dat file  and its done. data.dat file is just of 17 kb size.
+
+Hope now users will get relieved from searching activators or cracks or fake activation.
+
+Have a nice day."
+,petrus7,2012-11-09T10:20Z,his first torrent. Don't download it is FAKE!!!!!!!
+,creative3,2012-11-09T10:49Z,"@ petrus7,
+
+dear, its not fake. trust me. what i mentioned is real. just trust me.
+
+please seed more."
+,bodmas4,2012-11-09T11:16Z,"do not listen petrus7, he is fake.
+I have downloaded it. installed just now and activated successfully. 100% genuine.
+
+What creative3 said is 100% true. it really works like charms as claimed.
+
+My suggestion is go for it. download it, install it and then comment.
+
+its 100% genuine."
+,creative3,2012-11-09T11:24Z,"75 Leechers and only 2 seeders at this moments!!!!
+
+please seed. please please seeeeeeeed."
+,creative3,2012-11-09T16:57Z,"208 leechers andonly 6 seeders!!!!!!
+what a sharing here?
+In future I will never share anything.
+I have already seeded 8.46 GB @ 450 kbps. If no one seeds here than I think in another 24 hours this data will reach upto 35 GB. and this will cost me Rs 3500 ($65 USD).
+
+you all are requested to please seed and help me to save some bucks."
+,RebelRick,2012-11-09T18:17Z,"My Download is showing 0 seeds also.WTF?! Hey UPLOADER, Could you please help us out here? I just got my WMC key from MS a few minutes ago,and it took a good 24 hours to get."
+,creative3,2012-11-09T18:59Z,I am still seeding at the rate of 450 kbps. will continue for a week.
+,petrus7,2012-11-09T20:28Z,don't be stupid people. FAKE! 
+,chubbs09,2012-11-09T20:32Z,"so when the wmc code is done,does it make windows 8 legit too?????as in updates etc too????"
+,chubbs09,2012-11-09T20:36Z,so when i put in the wmc code will it also make the windows 8 legit too???as in updates etc???thanks.
+,creative3,2012-11-09T20:44Z,"@chubbs09
+yes, it will be legit. your wmc key is all. just use it at the time of install and activate it online. thats all.
+tested successfully. 
+100% legit."
+,K_Vicious,2012-11-09T20:51Z,"I usually just burn my ISO's onto a DVD. I have used bootable USBs before but it would always never work.
+
+Curious as to what you guys use to make a bootable ISO on a USB?
+
+I have tried Rufus, UNetBootin and Drivekey but it doesn't seem to work.
+
+Do you guys have any other suggestions?"
+,creative3,2012-11-09T21:34Z,"@K_Vicious,
+please follow the following step to make your usb stick bootable for win8, win7 and vista.:
+
+(1. insert your usb stick to your system.)
+(2. now open CMD (command prompt) as an administrator)
+( now type and press enter after each and every command line one by one:)
+
+diskpart
+
+(now you are in diskpart)
+
+list disk
+
+(now see what number your usb stick is here: suppose your usb stick is disk 2 then:)
+
+select disk 2
+(now your disk 2 is selected)
+
+clean
+
+(disk cleaning is successful)
+
+create partition primary
+
+(diskpart succeeded in creating partition primary)
+
+select partition 1
+
+(partition 1 is now selected)
+
+active
+
+(partition is now marked  active)
+
+format fs=ntfs quick
+
+(formatting completed)
+
+assign
+
+(your usb stick is assigned a new letter)
+
+exit
+(you are exited from diskpart
+
+exit 
+you are now exited from cmd.
+
+now copy the contents of win8/win7/vista iso to this usb stick. its done. 
+please take help from the following snapshot:
+http://i446.photobucket.com/albums/qq189/rajni1967/win7bootable_usb.png"
+,creative3,2012-11-10T02:59Z,"Please give feed back if you have installed and activated. this will help other users to trust it.
+
+have a nice day."
+,truefair46,2012-11-10T04:57Z,"Thanks for upload, Im downloading this torrent, hopefully working, I will give feedback after I done finish, anyways thanks for upload! :)"
+,kashish93,2012-11-10T05:10Z,"can someone please upload full versions of windows 8 apps?
+is it even possible? theres something called sideloading apps i found on google!"
+,K_Vicious,2012-11-10T06:44Z,"@creative3
+
+I made a bootable USB with the W8 WMC 64 bit version you provided.
+
+I got the WMC key from Microsoft..
+
+When it asked me about the key I put it in and it worked perfectly fine.
+
+Will seed this for a couple of days, great torrent!
+
+I just hope they won't hotfix this in the future~ I hope not?"
+,creative3,2012-11-10T08:13Z,"@K_Vicious,
+dear, its legal and nothing illegal so, there is no fear of any hot-fixes. as i said its 100% genuine from MS."
+,funkybunch,2012-11-10T13:12Z,"Did as K_Vicious with USB stick, this installs and works just fine. Key gotten from MS and works. Thanks creative3!
+""petrus7"" is a duchebag for posting a stupid comment.
+"
+,uberpwn13,2012-11-10T18:20Z,"hey, i burned it onto a dvd, installed perfectly with the wmc code. thanks! :). but just some doubts. is this permanent? is this a trial? does this have an expiry date?"
+,vikky66,2012-11-10T21:36Z,"created an account just to comment on this one.....great work...works like a charm...
+for every1 out there looking for windows 8 dnt give urself pain...rather try this one..it seriously works..plsssss appreciate the uploaders work..he has done a fantastic job..."
+,seby257,2012-11-10T21:42Z,"@uberpwn13
+@creative3
+I want to know the same thing, is this a permanent code, no trials? I don't doubt this torrent, but i just want to know if this is a permanent code."
+,vikky66,2012-11-10T22:11Z,"everybody who has a suspicion about it being a trial version...........
+rest assured its not a trial version...its permanent"
+,creative3,2012-11-10T22:20Z,"@uberpwn13,
+@seby257,
+@vikky66,
+
+Dear many times I mentioned that the activation is permanent. It does not have any expiry date. forever and 100% legit. 
+just open ""Run"" (windows logo key + R) and type here:
+slmgr.vbs /xpr
+
+and you will see the result.
+here is mine: 
+http://i446.photobucket.com/albums/qq189/rajni1967/1-12.png
+http://i446.photobucket.com/albums/qq189/rajni1967/12-1.png"
+,shhnedo,2012-11-11T01:04Z,"@petrus7 can you shut the fuck up? unlike your smartass head, this method is 100% legit!"
+,xfactr,2012-11-11T04:10Z,"http://forums.mydigitallife.info/threads/38896-Activate-win8ProWMC-without-first-activate-the-Pro-version
+
+here is the method used and it is reported legit by many"
+,andikthegaijin,2012-11-11T04:16Z,need more seed!!!
+,Kevs1,2012-11-11T04:49Z,This works as advised down loaded and fully tested 
+,xfactr,2012-11-11T06:14Z,It works :D total success
+,morpheiuz,2012-11-11T06:49Z,"works great, I was able to use this to do a clean install on a laptop with a blank hard drive. I entered the WMC key that Microsoft sent me during the install and when I checked it's showing me as licensed. running slmgr.vbs -dli and slmgr.vbs -dlv both confirm that the license is showing as retail windows 8 pro with media center. the system shows as being activated. "
+,hen1,2012-11-11T12:18Z,"What is wrong with @petrus7, everywhere he go and write negative comment. is that the reason you are here? "
+,sat2907,2012-11-11T13:02Z,"Great work creative3. Thank you.....
+I rated +1...."
+,kaju13,2012-11-11T13:40Z,"Great work!!
+I have just created an account to say that this really works.
+I was started to download this but seeing petrus7's comment I stopped but when I saw many positive comments than again I started to download it. I installed it and it activated online without any problem. its genuine. a permanent activation from Microsoft online. no expiry date. forever. petrus7 wasted my almost 12 hours. petrus7 is real shit!!!!!!!
+Before this I was tired of searching real activators but non worked fully. 
+But this worked like charms as claimed by creative3.
+Hats off to you creative!!!! many thanks to you.
+petrus7 is real fucking idiot. he/she should be banned by mods as he/she is misleading other users here."
+,petrus7,2012-11-11T13:57Z,petrus7 don't like fakers!!! I don't have negative comments for good legit uploaders. Check it. But I'll always bust fakers and virus uploaders.
+,petrus7,2012-11-11T14:01Z,"About WMC
+u can activate but here is what MS says about that code. Nobody read note under text:
+ Your product key must be activated no later than January 31, 2013. Microsoft will only contact you at the email address you provide to send you your product key and to remind you when the activation period for your product key is ending. "
+,petrus7,2012-11-11T14:10Z,"READ WHAT MICROSOFT SAYS FURTHER UNDER THE TWO STARS. NOBODY READ THIS!!!
+Your product key must be activated no later than January 31, 2013. Microsoft will only contact you at the email address you provide to send you your product key and to remind you when the activation period for your product key is ending. "
+,creative3,2012-11-11T14:11Z,"@petrus7,
+dear, did you download it? no, then how did you judge that this is fake?
+first download, check that, check with antivirus and then pass comment.
+don't you think without downloading or checking passing a comment is itself a FAKE?
+next time do not pass comment without checking the stuff please. I appreciate your concern but passing comment without testing is misleading others.
+I do not have hard feeling against you.
+have a nice day. "
+,creative3,2012-11-11T14:57Z,"@petrus7,
+I have read those lines carefully and then went forward,
+those lines says if you obtained your wmc key then you must use it before 1st Feb 2013. further it says that it will contact your via your email to remind you to use your obtained wmc key to activate before 1st Feb 2013.
+but let me clear your concept that once it is activated it will not be deactivated even after 31st March 2013. MS will only reminds you about the activation period and that is activation before 1st Feb 2013. this means activation with this wmc free key can only be done until January 31, 2013 but this does not mean that once you activated it will be deactivated after 31st Jan 2013.  Once activated will remain activated forever permanent.
+Half reading and quarter perceiving is disastrous for yourself and others too.
+so please stop misleading others.   "
+,petrus7,2012-11-11T16:10Z,"creative3
+I would never download this crap. I've upgaded for 40 bucks and don't want to mess whit this free useless shit."
+,petrus7,2012-11-11T16:12Z,"And creative3
+this is ur first upload. How come it is windows 8 and not some light torrent with pic or small apps? People this torrent is checked and it's crap. Just another RTM. Expect shit."
+,creative3,2012-11-11T16:38Z,"@petrus7,
+so you bought this for 40 bucks. then what are your doing here on TPB?
+we are stealer, hackers, thieves, Robbers and you are sheriff, class purchaser, elite dude so why are you messing yourself with us here on TPB?
+this is not your world here on TPB so you are requested to please do not mess yourself with us."
+,meecheevous,2012-11-11T17:09Z,Sir creative3.. thanks for your great upload.. your the man sir.. dont make hesitate this person.. thanks a lot sir.. I will seed more :)
+,petrus7,2012-11-11T17:10Z,"creative u r my ass not thieve, robber etc. U just think so, ignorant fuul."
+,mbkobra,2012-11-11T21:06Z,"OK, i've been d/l'ing torrents for at least 7 years. I got this one burned to dvd with img burn at 2x speed (low and slow for OS) put it in my 2.7 gig amd 64, 4gig ram, 2tb (system partition 100gig) 2 year old Nvidia machine. Machine had XP on it 
+
+It'll boot and I can see pre-selected USA and stuff then i click install. It goes to a setup screen stays there for about 2 minutes then I see a message for 1 second with a frowny face and the system reboots. 
+
+So I formatted the system partition with active kill disk tried it again and got the same. Then I converter this ISO to a bootable usb image and got the same..WHAT IN THE HECK IS HAPPENING? When I try other d/l's I get the blue screen of death before I even get a chance to click the Install Button...
+
+HELP!!!"
+,petrus7,2012-11-11T21:40Z,mbcobra ask this perfect uploader creative3. I've told u don' t download and u wont listen to me.
+,radische,2012-11-11T23:54Z,"Downloaded for this took 21 hours, so very slow. I then loaded it onto a drive and it did not activate. The message in the Control Panel is that ""Windows is not activated"". Clicking on ""View details in Windows Activation"" gets a window proclaiming ""Windows isn't activated"" ""The product key didn't work. Try a different key, or buy a new one."" 
+
+Please note that the ""Current product key"" is shown as ""*****-QGJXW""
+
+This may be a legitimate version of Windows 8 Pro, but it will not activate without a legitimate key."
+,imok.goca,2012-11-12T00:12Z,"@creative3
+
+Great torrent, fully tested, works great, thanks. I just have 2 questions, why i cant close apps directly from multitasking screen on the left side of the screen, directly from there, and i cant put apps from START to the left or the right side of the screen, to use them with my desktop like in splitscreen mode, u can do all these things on original Win 8 pro the 40 bucks one."
+,radische,2012-11-12T00:24Z,"Downloaded for this took 21 hours, so very slow. I then loaded it onto a drive and it did not activate. The message in the Control Panel is that ""Windows is not activated"". Clicking on ""View details in Windows Activation"" gets a window proclaiming ""Windows isn't activated"" ""The product key didn't work. Try a different key, or buy a new one."" 
+
+Please note that the ""Current product key"" is shown as ""*****-QGJXW""
+
+This may be a legitimate version of Windows 8 Pro, but it will not activate without a legitimate key."
+,seby257,2012-11-12T01:49Z,"All i have to say is, This works. Don't listen to any of the haters, this is a great Torrent! Will seed!"
+,creative3,2012-11-12T01:50Z,"@radische,
+it is because you did not put the wmc key when asked instead you skipped that and default key was selected thats why your windows is not activated. you must first get your free wmc key from here: http://windows.microsoft.com/en-US/windows-8/feature-packs
+and insert this wmc key at the time of install and your windows will get activated.
+and for your kind information free wmc key is legitimate key. and this iso is windows 8 pro WMC and not windows 8 pro only."
+,kaju13,2012-11-12T02:49Z,"@ petrus7,
+you fucking idiot petrus7, you are real jerk. I have also installed this and every thing is working well. it is only you who created multiple account here and given negative shit comment here. fuck off bastard and rub your ass to somewhere else.
+this is really great torrent and every thing is working great. I have checked everything. 
+you mother fucker petrus7 why are you so jealous of this torrent? go away and stop shitting everywhere!!!!!!"
+,kaju13,2012-11-12T03:11Z,"@imok.goca (petrus7),
+every thing you complained is working well at my install. here see the screen shot taken from my desktop: http://img407.imageshack.us/img407/4762/25389837.png
+
+you are utter liar, a big ass hole and total shit at TPB. 
+------------
+mods:You are requested to please ban the user ""petrus7"" along with his  IP address too. mods please take notice of this asshole petrus7. "
+,kaju13,2012-11-12T03:43Z,"@imok.goca (petrus7),
+you asshole fucking idiot bastard, you are real jerk and utter liar.
+I have also installed it and as claimed its working great without any problem. all functions are working well including your complained one too. here is screen shot from my desktop: http://imageshack.us/a/img407/4762/25389837.png
+you can see that your complained function is working well at my desktop. so stop uttering lie and leave this TPB.
+---
+mods: please take notice of this ""petrus7"". He is passing shit comments every now and then and spamming this forum. He should be banned including his IP address too. thanks."
+,creative3,2012-11-12T03:48Z,"@lolremakelol,
+this windows 8 pro WMC does not any activator or crack or anything extra. this can be activated legally online with MS using free wmc key.
+
+have a nice day."
+,imok.goca,2012-11-12T10:10Z,"@kaju13
+@creative3
+
+AAAAAA i am not petrus7 whats wrong with u :(((((, i am very gratefull for this torrent, u missunderstood me, and i wasnt talking about this type of closing the apps, im talking the Draging type, when u drag it to the bottom of the screen to close it, but i cant do that directly from Multitasking screen, and the other problem is i cant use desktop and a metro app at the same time in splitscreen mode (try to drag any metro app into any side of the screen ull see nothing happens, but in original 40 bucks win8 pro it stays in any side of the screen, and it makes a splitscreen mode. And pls dont get me wrong i really appreciate this torrent! im still gonna use it ofc, iwas just wondering why this doesnt work."
+,petrus7,2012-11-12T11:45Z,kaju13 and creative3 are so stupid that i can beleive. Kids grow up. Kaju13 i am sorry i can't see u in privat to slap ur ugly idiot face idiot.
+,bunnyrallowal,2012-11-12T11:53Z,"i want to ask one thing that is it includes all the features in it,,,,,,,,and which version of windows is the best????"
+,Bmuzammil,2012-11-12T12:01Z,"~Feedback~ Alerts and Advice......
+Downloaded torrent :
+Windows 8 All In One 16-in-1 (Final Build 9200) + Permanent Activator 
+#!#!#!#!#!#!#!#!#!#!#! x32 & x64
+http://thepiratebay.se/torrent/7786020/Windows_8_AIO_16-in-1_%28Final_Build_9200%29___Permanent_Activator
+#!#!#!#!#!#!#!#!#!#!#!
+hi everyone, 
+(1)there is a virus in the Activators so avoid using antivirus as it will delete the files and windows will crash.
+(2) In Windows updates, change settings to check but don't install automatically and by installing (KB2756872 update) you have to run the activator again but not fix.
+(3) Buy Windows 8 if affordable for you!!!!!!!!!!~
+(4) If you are not an advance user and that also means if you don't know what restore points are then disable windows update.
+(5) Every single time you guy install any software or update please create Windows Restore Points, only if you think windows is out of bad luck.
+
+Enjoy New OS as I am :) x32 & x64"
+,creative3,2012-11-12T13:19Z,where are mods here? this post has been spammed by few members. please take care of it. Please..
+,creative3,2012-11-13T14:11Z,"Checked all functions including the complained ones. all functions are working well without any problems. it is either the dragging left/right, down to bottom or dividing windows in two parts all are working well."
+,shirleyj,2012-11-13T14:51Z,please i need a downolad link that works
+,creative3,2012-11-13T15:34Z,"@ shirleyj,
+dear, it seems your system is not installed with bit torrent client downloader. please first install torrent client like ""utorrent"" or ""bit torrent"" and then click on ""GET THIS TORRENT"" tab and it will be automatically opened with your torrent downloader and then you can download it.
+have a nice ay. "
+,bunnyrallowal,2012-11-13T18:09Z,"thanx creative3,,,,,,,,,,"
+,radische,2012-11-14T04:08Z,"Yes, this worked legitimately. I downloaded the application, installed it and sent for the key. When I got it, I inserted it (Control Panel >System), and it activated immediately."
+,ankit_pirate,2012-11-14T08:06Z,crearive3 u r genius...God bless u :-)
+,ankit_pirate,2012-11-14T08:14Z,creative3 u r genius...God bless you :-)
+,johnplayerson,2012-11-14T10:49Z,"How could Microsoft leave so many holes open for legit activation methods. I got four computers up and running on activated windows 8 with media centre. 
+
+It's almost like an article i read that stated Microsoft want us to steal it, so they can sell us apps after the fact. "
+,putha,2012-11-14T18:31Z,bro creative3! i have a problem while downloading. i uploaded the torrent file to zbigz.com and it is downloading now. but it says that the file format is .php instead of .iso help me mate.
+,petrus7,2012-11-14T19:12Z,what a pathetic upload!!!
+,hen1,2012-11-14T19:21Z,THANKS A LOT @creative3. It works. God bless you man. Don't listen to this stupid @petrus7. he talks shit. That is the only thing he can do.
+,johnplayerson,2012-11-14T19:46Z,"Works better if you get the key from Microsoft first , Then when you install, half way through, it will say, its time to enter your key. Enter the key, and when it finishes install your up and activated with no need to do other stuff to get activated. "
+,johnplayerson,2012-11-14T19:52Z,"The reason this works is because when users update windows 8 to get media centre, the media centre key replaces the windows 8 install key. The hole, is that with Microsoft giving out free media centre keys, if you got windows 8 with media centre install disc. the media centre key will activate both windows 8 and media centre. "
+,getnikkoo,2012-11-14T22:03Z,bro can u please provide 32 bit (86X) for the same will be waiting for ur reply
+,johnplayerson,2012-11-15T01:14Z,"http://thepiratebay.se/torrent/7799018/Windows_8_Professional_with_Media_Center_(x86)
+
+Search and ye shall find "
+,chinmay343,2012-11-15T08:09Z,"excellent torrent!!!!!!!!!!!!!   I've been seeding for the past 4 days now!!!  windows is activated and genuine. just hope they don't deactivate it(if they can deactivate, I mean....)!!!!"
+,creative3,2012-11-15T08:14Z,"@getnikkoo,
+Bro, I have prepared it but it will cost me $22 usd (Rs 1200 INR) to seed fully. further, one or two idiots here are always troubles me so, I am not sure if i should. that iso has all updates integrated upto 14th Nov 2012.
+
+But you can download from the above mentioned link suggested by johnplayerson
+
+have a nice day."
+,getnikkoo,2012-11-15T12:00Z,"@creative just remember one thing great ppl and great work always get obstacles in there way that's life anyways thanks for the great work 
+
+going to try replacing ur given data.dat file with the 32 bit untouched iso god knows what will happen  
+
+bye enjoy .................. happy diwali ..........."
+,getnikkoo,2012-11-15T12:29Z,"thanks @johnplayerson but i think i will not go with a torrent with -3 rating 
+
+and yes Microsoft is for now not state of dealing with its loopholes because the management is busy in politics Steven Sinofsky and Steve Ballmer one.
+
+once this is sorted Microsoft has a secret weapon for 2013 (win 8 ultimate) which will keep customers attracted towards Microsoft market. 
+
+believe me or not but all this what is happening is a publicity and fund collection stunt
+just forgot every thing and enjoy this release
+
+and about petrus7 or what ever i am being doubt of him working for Microsoft cos who will promote buying a licence like this without trying this torrent once purely a Microsoft employee "
+,getnikkoo,2012-11-15T12:35Z,@creative3 u can take a break i am seeding at 196 kBps and now seeders are 300+ so no doubts now this torrent can survive for at least for weak without attention
+,creative3,2012-11-15T12:48Z,"@getnikkoo,
+
+Bro, I have given a tutorial here. please follow the below link:
+http://astatalk.com/thread/14237/1/%5BTutorial%5D_How_to_build_windows_8_Pro_with_WMC_to_accept_your_free_WMC_Key_at_the_time_of_Install/"
+,creative3,2012-11-15T13:01Z,"Dear getnikkoo,
+this torrent iso has been downloaded by more than 1000 peoples and also supported me to seed it by many people. I am really thankful to all those seeders. these seeders make us sharing good stuffs over internet.
+I have also stopped seeding now as I promised for a week.
+if you really interested to make your own customized ISO then go there I mentioned in my above comments and leave a PM (bodmas) to me there with your identification and i will guide you full.
+have a nice festive season you too."
+,putha,2012-11-16T03:00Z,Is this the RTM version or retail? 
+,putha,2012-11-16T03:01Z,Is this the RTM version or retail?
+,creative3,2012-11-16T04:57Z,"@ putha,
+here is your answer: its retail channel. please see picture:
+http://imageshack.us/a/img440/2940/62432274.png
+http://img850.imageshack.us/img850/8656/47529678.png"
+,putha,2012-11-16T05:37Z,"@ creative3
+appreciate your work bro. already downloaded a copy and seeding. thanks. :)"
+,sotark77,2012-11-16T07:06Z,"Great upload. confirmed working for me, all activated with media center key I got from Microsoft. thank you."
+,creative3,2012-11-16T09:23Z,"@getnikkoo,
+
+Bro, just for you as per your request:
+Here is 32 bits as promised:
+
+http://thepiratebay.se/torrent/7830905/Windows_8_Pro_with_Media_Center_x86%2832_bits%29_En__Retail_Channel"
+,nisc0nor,2012-11-16T09:28Z,"Thanx, creative3! Been waiting for an x64-version which was properly cracked for some time now.
+
+This works like a charm!"
+,vikky66,2012-11-16T09:46Z,"bro chrome is nt working in desktop mode...working well in metro mode i.e windows 8...
+i knw dis has nothing to do wid ur torrent bt still would love to have few words of advice bout wats wrong..pls confirm is it the prob wid windows 8 and chrome or my lappy...is every1 having this prob???"
+,getnikkoo,2012-11-16T11:04Z,chorme has a windows 8 mode in it try it
+,vikky66,2012-11-16T12:29Z,"i knw it has bt i hv been trying it and its nt working at all in desktop mode....
+it just hangs up and when i relaunch in windows 8 mode it starts working...wtf"
+,creative3,2012-11-16T14:19Z,"@vikky66,
+
+Working well here. see below picture:
+
+http://img339.imageshack.us/img339/8260/100ez.png
+
+uninstall and reinstall would solve the problem probably. try it."
+,Mutant_Gu,2012-11-16T15:21Z,I'm using Windows 7 64 Ultimate. It says cannot upgrade to Win 8 Pro with WMC any help?
+,aakashkatoch,2012-11-16T19:19Z,"A LOTS OF THANKS TO YOU MR.CREATIVE SIR SERIOUSLY YOU ARE A GENIOUS MAN A REAL GENIOUS HATS OFF .
+AGAIN THANK YOU SO MUCH"
+,imok.goca,2012-11-16T19:21Z,"@creative3
+@kaju13
+
+Everything works great now! i just needed to update it, and i got everything i was lack of. Sry bout a complain! Cheers"
+,Mutant_Gu,2012-11-17T01:00Z,Can't some body tell me is there any workaround for updating win 7 ultimate to win 8 pro using this. It says Can't update win 8 pro with media pack
+,Mutant_Gu,2012-11-17T01:09Z,"As i said earlier i can't update my Win 7 ultimate 64 using this. It says ""Can't update to Win 8 pro media pack from Win 7 ultimate"" If there is a way let me know. I don't want to do clean installation.
+
+Mean time I succesfully installed this on Virtual Box. And updating right now. thank alot creative3 for this work. But creative3 can you tell me it is future proof? Will this activation ever black listed? Second can i use this key lator on for re installing (I don't think microsoft keep this free media pack for ever)"
+,creative3,2012-11-17T02:51Z,"@Mutant_Gu,
+dear, activation is permanent forever and it can't be blacklisted in future.
+But the bad news is that you can't use this key to activate your windows after 1st Feb 2013.
+but you can make a system image of your activated windows and can be restored at any time even after 1st Feb 2013. 
+I do not know why you are not able to upgrade from win7 to win8. there is two way to upgrade your wind7.
+1. running set-up file as an admin from your windows. just extract the iso and run setup. if it does not work, then
+2. boot from win8 prowmc DVD/usb stick and then try to upgrade it. it should work in this  way."
+,chaiyont2,2012-11-17T12:10Z,"This works perfectly. It is not fake. You do need the free media key from MS and use that for the install. if you mess up (like I did) you can change it later without any 3rd party software. Thanks, Creative!"
+,putha,2012-11-17T14:45Z,did any one try to install it from a bootable usb drive?? i tried many times and it stuck at 62%. will a bootable dvd solve this problem?
+,emil50,2012-11-17T17:02Z,"Thanks man,works perfect,instaled from usb and from dvd.God bless you."
+,emil50,2012-11-17T17:03Z,"Thanks man,works perfect,instaled from usb and from dvd."
+,emil50,2012-11-17T17:03Z,"Thanks man,works perfect"
+,emil50,2012-11-17T17:07Z,"Thanks man,God bless you."
+,emil50,2012-11-17T17:26Z,Thanks man!God bless you!
+,vikky66,2012-11-17T17:39Z,"@putha
+i installed it via bootable usb device
+works prfct"
+,johnplayerson,2012-11-17T21:01Z,"@getnikkoo So go ahead and bypass it. works 100 percent on my 32 bit machine, just as this 64 bit version does. I am never worried about ratings, if it works 100 percent I recommend. And yes Microsoft is totally brain dead to allow this hole. Yes a slip can be made anyway, but why provide the whole yourself. "
+,creative3,2012-11-18T01:46Z,"@putha,
+dear, problems are at your end. please confirm that your system has the following minimum specs:
+C =30 GB around where you want to install windows
+RAM = 2 GB and more, 
+Processor = 2 GHz, Dual core, Core2Duo, or later.
+otherwise please install 32 bits windows 8.
+If you provide the above info on your machine then I will guide you in detail."
+,Mutant_Gu,2012-11-18T05:34Z,"@creative
+thank you so much for every thing. God bless you"
+,murphy78,2012-11-18T07:00Z,"Very cool.  I haven't heard of modifying the data.dat to accept upgrade keys.  I will need to check this out :)
+
+murphy78"
+,putha,2012-11-18T07:05Z,magnet:?xt=urn:btih:4be2c9c39aae46b7191ef3d69ad780d0f85ce858&dn=Windows+8+Professional+with+Windows+Media+Centre+%28WMC%29+64+bits+E&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3
+,nikhilbhargav,2012-11-18T21:22Z,hey!! how exactly will i perform an upgrade once i write the iso on dvd!! please help and can i keep all the files in d drive intact if im installing on c?? if so how?
+,creative3,2012-11-19T08:17Z,"@ nikhilbhargav,
+there is two ways to upgrade.
+1. Extract/Mount the ISO and run the setup as an administrator
+2. boot From DVD and run the upgrade.
+
+try 1st method . if not successful in 1st method then boot from DVD and upgrade.
+
+your all files and compatible programs/applications will remain as it is. "
+,uberflow,2012-11-19T13:40Z,Good day! Is it just me or I am not receiving any email from Microsoft? Do they send it during installing or i must have the email before i install it?
+,rockam92,2012-11-19T15:01Z,i hv the same prblm....... email from microsoft...
+,rockam92,2012-11-19T15:17Z,can i get the key from any other source..... and is it possible to install the windows with out the genuine microsof key.........
+,SweetBazz,2012-11-19T18:11Z,im not receiving any email from MS
+,hendraaji32,2012-11-19T18:40Z,"im not retrieve email frm micrsft,help me please."
+,hendraaji32,2012-11-19T18:40Z,"im not recve email frm micrsft,help me please."
+,creative3,2012-11-20T00:16Z,"@uberflow,
+@ rockam92
+@SweetBazz 
+@hendraaji32,
+please do not get panic, its still working. your delayed because of weekend. when they say 24 hours that means one working day.
+you will sure receive your free wmc key but in your case it will take 48 hours to 60 hours.
+I have also requested on Saturday Morning(+5.30 GMT) and received my key on Monday Night (+5.30 GMT)
+have a nice day."
+,StratosP,2012-11-20T02:05Z,"@creative3 dude, you're a hero, it worked like a charm, thanks a lot."
+,meecheevous,2012-11-20T03:37Z,"Sir Creative, 
+
+what key I'm going to use? is it the key that send by the MS or the keys that  in W8serials .txt ?"
+,creative3,2012-11-20T03:48Z,"@meecheevous,
+use that key which is sent to you by Microsoft (wmc upgrade key).
+further, i have not uploaded any W8serials.txt file. Where did you get it? do not use any other cd key. just use the one sent to your email by MS."
+,meecheevous,2012-11-20T03:53Z,"when asking to enter the product key.. it always says that ""this product  key can only be used to add features to windows. it can't be used to install windows.""
+
+what key should I use?"
+,meecheevous,2012-11-20T03:55Z,w8serials.txt is included inside the folder of activator
+,rockam92,2012-11-20T04:34Z,thnxxx creative3......... i got the email....
+,vikky66,2012-11-20T05:33Z,"@creative3
+bro i hv a prob
+i am upgrading my hard disk frm 500gb to 1 tb
+that means i m gonna loose my windows 8
+is there any way i cn get the same windows with the same activation key on my new hard disk
+prob arose due to some other sites and posts saying that windows installation gets bound with hardware..and if change in hardware takes place then activation is lost...pls help "
+,creative3,2012-11-20T05:38Z,"@meecheevous,
+dear, from where did you download that ISO?
+please download from my torrent and it will never give such an error. Please do not mess up your download with this torrent as you have downloaded from somewhere else and certainly not from my torrent.
+My torrent has only one file and that is Win8_Pro_WMC_x64_En.iso and it does not have any thing extra, certainly not any text file or any cd key.
+so please first download from my torrent and your wmc upgrade key will work like charms."
+,creative3,2012-11-20T05:47Z,"@vikky66,
+better download windows 8 pro with media center from this torrent and have fresh install on new HDD with your wmc key. activation is free till 1st Feb 2013.
+but if you have many other applications installed then you can make a system image back up and can be restored on new HDD but I am not sure if it will work as sometimes hardware change refutes the activation. but there is no problem in trying this. if fails then have fresh install with this windows 8 pro media centre ISO and use your wmc key to activate it online. will work like charms."
+,vikky66,2012-11-20T06:33Z,"@creative
+buddy i also thought that...but i hv already used my wmc key to install windows 8 in this hdd...if i use it again to install in new one then online activation might create a problem bcz the key has been already activated online once...thats wat my concern is.."
+,Mutant_Gu,2012-11-20T06:52Z,"I have a boot up issue here. This is not related to this torrent i think. But i use this ISO. I'm writing this only to get some help if any one get the same issue. This is not a problem of this torrent.. This is my personal problem.
+
+I have cleaned install windows 8 pro by formatting. Previously i was using windows 7. 
+Pc was running smooth 2 days. But now i have this weired problem that PC switching off itself with out showing the login screeen.
+All i see is windows booting then PC switching off. But it look like a shut down i don't see like crash. It happens just after the windows loading screen. (Blue windows and below small circle rotate as dots)
+
+But there is a way that i can avoid it that is to press some key in key board.. Then it goes to logon screen with out any problem. If i don't press a key it just switching off itsef and it is pretty annoying. Once i go inside (By pressing any key in keyboard) i don't find any warning or errors in event viewer. There is no sign of system crash. I checked power plans. nothing wrong here. It just running Balanced profile. Only change i have done is Disable the hybrid sleep because i have a UPS. 
+
+There is no heating issue here. Becase if i press a key and hold in keyboard it just goes and work with out any problem as long as i want. But with out a key press while or after loading it is geting off itself.
+
+My systm info
+core i5-3570K (Running at stock)
+Gigabyte GA-B75M-D3H (rev. 1.0) Mother board
+2X 4gb Kingston Hyper X
+320GB scorpio Black 
+Liteon DVDRW
+Silver stone Strider essential 600W
+Win 8 Pro wth Media center
+Kasperksy internet security 2013
+Adobe Premium suite CS6
+
+
+Start up programs
+Eyes Relax. (A free utility i trust it)
+Adobe Switch board
+Kaspersky
+(This can't happen because of startup item because pc swithc off before login)"
+,creative3,2012-11-20T09:03Z,"@vikky66,
+you can use your wmc key on new hdd, no problem. it will work. If not then grab one or two more from microsoft as this offer is free till 31st Jan 2013, you just need different email ID and nothing else."
+,creative3,2012-11-20T09:14Z,"@Mutant_Gu,
+please give me info on the following:
+size of system reserved partition,
+size of windows partition, How much filled and empty
+whether your windows partition is C drive or not if not the what is on C drive.
+----
+Blind suggestion:
+as you said your system was working well for 2 days so did you try to restore your system to a restore point 2 days earlier?
+try using a restore point on which your system was working well."
+,vikky66,2012-11-20T14:46Z,"@creative
+followed ur suggestion and grabbed one more key :p
+u rock buddy
+by the way i think u are frm india
+is my guess right?????no offenses just asked out of curiosity"
+,creative3,2012-11-20T15:26Z,"yes vikky66, I am from India. and you?"
+,vikky66,2012-11-20T15:57Z,"me too bro...from kanpur
+i guessed from the music u were listening ""kabhi kabhi""
+and ""oh my god 720p"" u were downloading
+happy to see an indian providing me with my os..proud to b an indian"
+,creative3,2012-11-20T16:54Z,"@vikky66,
+I am from Bhagalpur. Please visit here for detailed help: http://astatalk.com
+I am bodmas there. leave a PM to me there."
+,Mutant_Gu,2012-11-21T02:59Z,"Hi Creative3
+Now it is ok.. I did a restart and it had some pending updates.. I think problem with fast Startup if it happens again i will disable the fast startup.. 
+Thanx"
+,GlobalDissident,2012-11-21T08:16Z,"After downloading & installing, I had to create this account to say thank you @creative3. This is 100% working! I am now enjoying legit Windows 8 with all the features working. P.S. @creative3 your work is greatly appreciated!"
+,x_cutkiller_x,2012-11-21T11:56Z,"Sorry I'm not a native speaker and I just cant understant how you get the free wmc key from Microsoft, can anyone give me the right link ?"
+,creative3,2012-11-21T17:44Z,"@x_cutkiller_x,
+here is your wmc upgrade link:
+
+http://windows.microsoft.com/en-US/windows-8/feature-packs"
+,ShadowMastr,2012-11-21T18:59Z,"The free media center keys will not be issued after January 2013, so get yours now.
+
+Also, Reddit and other news outlets are reporting this exploit, so it's entirely possible Microsnot can patch this before then, or they can be lazy and not worry about it since it will only work for a few more months.
+
+I'm guessing they might try to patch it since it's kind of embarrassing to say the least...."
+,m4jinb00,2012-11-22T00:38Z,It really does takes 24 hours to receive that key from Microsoft D: thanks worked 100%
+,GlobalDissident,2012-11-22T06:28Z,@ShadowMastr This free key is permanent activation. Most likely Microsoft will not do anything about it. The reason why? The profit is with the Apps for Windows 8. I doubt they even care about this exploit. 
+,GlobalDissident,2012-11-22T06:52Z,Here is a link to an interesting article on Windows 8 so far via TNW(The Next Web): http://thenextweb.com/microsoft/2012/11/21/early-raw-data-gives-windows-8-1-of-the-desktop-market-and-all-but-zero-tablet-market-share/ Windows 8 only has a 1% market share so far. 
+,Harvey360,2012-11-22T08:14Z,"@creative3 
+
+Is this UK English or USA English?
+
+And can you use language packs on this after install?"
+,creative3,2012-11-22T10:42Z,"@Harvey360,
+its English US but you can add any language pack after install. "
+,piratemanager,2012-11-23T10:30Z,"Hey, why I cannot get the mail???"
+,creative3,2012-11-24T07:21Z,"To all users,
+for any type of assistance further please log in here: http://astatalk.com
+There you will get full support.
+On TPB sometimes I face data error as here comments are limited with words. so I could not answer your all queries in full.
+
+creative3 (bodmas)"
+,MrSharkBait911,2012-11-25T21:07Z,"Downloaded, waiting for key. Seeding"
+,MrSharkBait911,2012-11-27T00:54Z,Doesnt ask me for product key during install?
+,creative3,2012-11-27T07:54Z,"@MrSharkBait911,
+It ask at the end of install. but if you missed it then no problem. Now you insert your free wmc key by following this: open activation page and here change the product key with your free wmc key and activate online.
+or, open CMD (command prompt)  with admin privilege and use the following commands line one by one:
+slmgr /ipk xxxxx-xxxxx-xxxxx-xxxxx-xxxxx 
+slmgr /ato
+
+(xxxxx-xxxxx-xxxxx-xxxxx-xxxxx is your wmc product Key)"
+,MrSharkBait911,2012-11-27T13:05Z,Thanks. It worked!!!!!!
+,MrSharkBait911,2012-11-27T13:09Z,"I thought the key came 1st. It comes after install!!!
+This works like a charm!"
+,nikhilbhargav,2012-11-28T02:06Z,out of topic!! do you think you can use a similar key i obtained for my other email ids for activating MS office?? 

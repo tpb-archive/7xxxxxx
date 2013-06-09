@@ -1,0 +1,40 @@
+Changes in Adobe Photoshop Lightroom 4.3 RC1:
+Features:
+* Support for HiDPI displays within the Develop module.
+The following new cameras are now supported:
+* Canon PowerShot S110
+* Canon PowerShot G15
+* Canon PowerShot SX50 HS
+* Casio Exilim EX-ZR1000
+* Casio Exilim EX-FC300S
+* Nikon D600*
+* Olympus PEN E-PL5
+* Olympus PEN E-PM2
+* Olympus STYLUS XZ-2 iHS
+* Panasonic DMC-GH3
+* Pentax K-5 II
+* Pentax K-5 IIs
+* Pentax Q10
+Fixed Issues:
+* Unable to upload a large panorama to Adobe Revel via the Revel Publish Plugin
+* Unable to add a second photo to a page layout in a Book. This only occurred when the “Show Unused Photos” filter is selected in the filmstrip.
+* A photo can be flagged as both a “Pick” and “Reject” at the same time when using the Toolbar to apply flags
+* Using multiple fonts within the same text cell inside a Book can sometimes cause Lightroom to crash
+* Exposure becomes the active adjustment slider in the Basic panel (within Develop) when moving from image to image
+* Customers using Photoshop Elements 11 were unable to upgrade their catalogs in Lightroom 4
+* Custom Cell padding options in the Book Module reset in between Lightroom sessions
+* 1080p video files shot on iPhone 4S flicker on replay
+* Leaving the Book Module after using multiple text colors in the same text cell can sometimes cause the book to be lost. 
+
+System requirements Windows
+
+* Intel® Pentium® 4 or AMD Athlon® 64 processor
+* Microsoft® Windows Vista® with Service Pack 2 or Windows® 7 with Service Pack 1, Windows 8
+* 2GB of RAM
+* 1GB of available hard-disk space
+* 1024x768 display
+* DVD-ROM drive
+
+Languages : Deutsch, English, Español, Français, Italiano, Nederlands, Português (Brasil), Svenska, 日本語, 简体中文, 繁體中文, 한국어
+
+Homepage : http://www.adobe.com/products/photoshoplightroom/

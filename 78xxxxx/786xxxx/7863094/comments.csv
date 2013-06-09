@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,murphy78,2012-11-27T04:25Z,"For the x64 version with x64 recovery mode from boot and x64 upgrade support go here:
+http://thepiratebay.se/torrent/7863090/Windows_8_AIO_x64_Volume_Channel_Nov26_2012"
+,liquid_awesomeness,2012-11-27T05:03Z,how does activation work on this one? your wmc discs are awesome but this one is different
+,murphy78,2012-11-27T06:46Z,"I'm not an activation expert, but you CAN activate volume versions with non-volume keys through KMS servers.  I noticed that when I had set my prowmc to volume version back when I first played with AIO editions, I did the dial-up and it asked how many computers it was for.  When I had it set to Retail channel, it did not.
+
+There's really not a huge difference between volume activation and retail activation for the single user.  The difference would be in deploying them on multiple computers, which would be a pain in the ass in a big company.  Can you imagine trying to go install windows 8 on 100 computers with different keys?
+
+That's really the only difference.  They use one key for tons of installs. I.E. Volume."
+,aaneta1,2012-11-27T10:04Z,subject coordinated and very very beautiful thanks
+,asif0531,2012-11-27T18:44Z,date 26-10-2012 ? or 26-07-2012?
+,murphy78,2012-11-27T22:10Z,"I believe you are asking if they are retail versions.  There are NO retail versions of volume software.  There build number is what matters there.  RTM is not like a release candidate.  It's a release to manufacturing so people who integrate things like me can work their magic and release their versions along with microsoft's retail release.
+
+The only difference I've noticed in the one retail image I've actually seen is that the downloaded version from microsoft uses install.esd instead of install.wim.  Great for compression, but does not allow adding any kb files.
+
+Think of an esd file like those nero download versions.  The nero retails are over a gig, but the downloaded versions are super intelligently compressed so they only take up less than 300 megs typically.  They way they do it is simple, they plan the files.  If you know that the file has 30 apples, 20 oranges, and 15 bananas, you can pack simply 1 apple, 1 orange, and 1 banana and copy them over and over.  If you don't know what the file contains, you just pack them as you go."
+,Sonic_27,2012-11-29T15:40Z,Can you PLEASE make another Windows AIO in ENGLISH with all the updates and .NET including the new updates?? Your the best! Thanks
+,BW50093,2012-11-30T21:20Z,"Avast Antivirus says this file has a virus, don't waste your time!!"
+,murphy78,2012-11-30T22:14Z,"I went out of my way not to include anything that could be misconstrued as a virus.  If your strange virus program claims this iso has a virus in it, I'm sure it would say the same about any windows 8 iso."

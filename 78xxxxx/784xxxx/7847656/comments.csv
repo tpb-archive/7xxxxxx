@@ -1,0 +1,30 @@
+﻿User Type,Username,Date,Text
+,chano12,2012-11-21T21:05Z,"Thanks for the TomTom uploads! Can you upload TomTom Mexico with maps?
+
+Thanks in advance; I'll be grateful!"
+,ScorpioPirate,2012-11-21T21:35Z,"Hi shano12 :)
+
+I only have the apk file in Mexican, don't have the maps content to.
+So sorry :)"
+,vctrt,2012-11-22T07:56Z,"Thanks for the upload. I haven't installed it yet so can't comment if it's working or not yet.
+
+For those who struggle with the instructions, you should extract the zip file in the root of the SD card. This will create a folder named tomtom. Then edit the file tomtomcom.tomtom.uscanada.metadata.xml 
+with a text editor."
+,newfalcon,2012-11-22T16:45Z,"Thanks for the upload, but can you give me more specific intructions? "
+,ScorpioPirate,2012-11-22T20:20Z,"hi... open the metadata.xml file
+changes this path: file://mnt/sdcard/tomtom/com.tomtom.europe""/
+
+change: /mnt/sdcard/ to where your ""tomtom"" folder are located on your device.
+
+Have fun :)"
+,newfalcon,2012-11-22T22:01Z,"@ScorpioPirate
+Thanks for your quick response.I put the tomtom folder on my ext sdcard so I used your example above ""file://storage/extSdCard/ Is this correct?"
+,ScorpioPirate,2012-11-22T22:33Z,"Yes... that correct :)
+I use this path my-self on my SGS3
+
+Have fun :)"
+,ScorpioPirate,2012-11-22T22:35Z,"And for more info:
+I'm the releaser to, and have made plenty off moderations in both akp + data + maps
+
+Have fun guy's :) "
+,elcarezapato,2012-11-26T16:36Z,"Anyone knows what extension to use with a Razr M. Looking at my phone, it reads my microSD card as: ""/storage/sdcard1/tomtom"" or ""/mnt/external1/tomtom"" but both of these do not work... :("

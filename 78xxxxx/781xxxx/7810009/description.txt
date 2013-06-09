@@ -1,0 +1,22 @@
+VMware Workstation 9.0.1 with VMware Tools for all operating systems
+
+
+VMware Workstation is a virtual machine software suite for x86 and x64 computers from VMware, a division of EMC Corporation, which allows users to set up multiple x86 and x64 virtual machines (VMs) and use one or more of these virtual machines simultaneously with the hosting operating system. Each virtual machine instance can execute its own guest operating system, including Windows, Linux, BSD variants, and others. In simple terms, VMware Workstation allows one physical machine to run multiple operating systems simultaneously, whereas other VMware products help manage or migrate VMware virtual machines across multiple physical host machines. Workstation is sold and developed by VMware; VMware Player is a similar program with fewer features supplied free of charge.
+
+VMware Workstation supports bridging to existing host network adapters, CD-ROM devices, hard disk drives, and USB devices (including USB Isochronous devices such as webcams, microphones etc.), and provides the ability to simulate some hardware. For example, it can mount an ISO file as a CD-ROM, and .vmdk files as hard disks, and can configure its network adapter driver to use network address translation (NAT) through the host machine rather than bridging through it (which would require an IP address for each guest machine on the host network).
+
+Multiple successive snapshots of an operating system running under VMware Workstation can be taken, and the virtual machine can be restarted in the state it was in when any snapshot was saved.
+
+VMware Workstation includes the ability to designate multiple virtual machines as a team which administrators can then power on and off, suspend, and resume as a single object, making it particularly useful for testing client-server environments.
+
+Version: 9.0.1-894247
+Release Date: November 6, 2012
+Serial: 4F4HQ-85LDK-AZGA8-Y1CQ2-9A1MG
+
+- Instructions:
+
+1) Install the program by running the exe file.
+2) When you're asked to enter a serial use the one shown above.
+3) Restart your PC when you're done installing.
+
+Enjoy..

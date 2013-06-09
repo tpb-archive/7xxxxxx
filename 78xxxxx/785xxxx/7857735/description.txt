@@ -1,0 +1,13 @@
+This is not organized in any way, but inside the folder is a PowerPoint on how to set up mIRC and I put a text file with serials since it will probably tell you it's a trial version.
+
+Basically, mIRC is a dying method of downloading (or so it seems anyway), but once you connect to the various servers and channels you'll find much faster download speeds than you're used to using torrent programs. The reason being is simple: with torrents you have to wait for the seeders to accumulate. With mIRC you're downloading directly from the servers. 
+
+You can run multiple servers and channels at the same time giving you a monster klipper list of files. Think thousands. You can also search from the klipper windows. 
+
+From the command line on the server page remember this line /server -m <----- the "/" is already there, no need to type it again. Anyway, after you type server -m hit space then enter the server you want to add. Like /server -m irc.rizon.net as an example. Rizon used to be a good one, but not any more. That's just an example. If you forget the "-m" it will exit the server you're on and open the new server. With -m it will keep that server and open a new one.
+
+I put a list of servers in the folder also. Sometimes you have to resolve the server address to the ip address. I'm not sure why, but it would be something like /server -m 65.23.158.132 then hit enter.
+
+The list is the file that says something like irc server list 2009 updated. I checked some of them, but not all. If I made a note like "good server" it has a ton of channels. Since it's from my local folder it might have my settings saved for various servers so channels might open automatically. If so, they're the channels with the most files.
+
+Watch the Powerpoint on it. 

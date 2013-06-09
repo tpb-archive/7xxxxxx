@@ -1,0 +1,14 @@
+Book Description
+
+Developers/Architects need to manage the fine balance between the ever increasing load and ever decreasing response latency. Applications need to be designed for Internet scale, which means you need to be skilled in building large distributed, scalable, and concurrent applications. Whether you are building the next Facebook or working for a Fortune 500 organization, you need to be ready to design scalable, concurrent, and fault-tolerant applications. Akka is a toolkit and runtime for building highly concurrent, distributed, and fault-tolerant event-driven applications on the JVM.
+
+ΓÇ£Akka EssentialsΓÇ¥ will show you the current challenges with Java Scalability and concurrency model and how AkkaΓÇÖs Actor Model can help you design and build applications that are inherently scalable and fault-tolerant. Whether you are building new applications or want to refactor an existing application, you will learn the right techniques to build and scale up in no time.
+
+What you will learn from this book
+
+    Scale up and out your applications using dispatchers and remoting
+    Build fault tolerance within your application
+    Handle transactions within your application
+    Unit test your Akka applications
+    Integrate your Akka applications with existing enterprise systems using Zeromq
+    Monitor the health of your Akka application 

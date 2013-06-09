@@ -1,0 +1,57 @@
+============================================================================
+|This is exactly the same as my Nov13 release except it has no win-loader  |
+|This release is based on updates up to Nov13-2012, patch day              |
+|----------------------------------murphy78--------------------------------|
+|No Windows 7 Settings were harmed in the making of this ISO.              |
+|No Programs are added.                                                    |
+|No Unattended Settings were added to the installation.                    |
+|No Registry Settings were modified.                                       |
+|----------------------------------murphy78--------------------------------|
+|Source: X17-59463.iso                                                     |
+|Windows 7 Ultimate x86 English (digitalriver-media refresh)               |
+|This is the default SP1 retail with an ascii character fix (KB2534111)    |
+|----------------------------------murphy78--------------------------------|
+|Language: en-US (English - United States)                                 |
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction                                               |
+|dism for file package addition                                            |
+|oscdimg for iso mastering                                                 |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|IE9-win7, KB2479943, KB2484033, KB2488113, KB2491683,                     |
+|KB2492386, KB2502285, KB2503665, KB2505438, KB2506212,                    |
+|KB2506928-v2, KB2507618, KB2509553, KB2511250, KB2511455,                 |
+|KB2515325, KB2522422, KB2529073, KB2532531, KB2536275,                    |
+|KB2536276-v2, KB2541014, KB2544893, KB2545698, KB2547666,                 |
+|KB2552343, KB2560656, KB2563227, KB2564958, KB2567680,                    |
+|KB2570947, KB2574819, KB2579686, KB2584146, KB2585542,                    |
+|KB2592687, KB2604115, KB2618451, KB2619339, KB2620704,                    |
+|KB2620712, KB2621440, KB2631813, KB2640148-v2, KB2644615,                 |
+|KB2647753-v4, KB2653956, KB2654428, KB2655992, KB2656356,                 |
+|KB2656373-v2, KB2656411, KB2658846, KB2659262, KB2660075,                 |
+|KB2660649, KB2661254, KB2667402-v2, KB2676562, KB2679255-v2,              |
+|KB2685939, KB2686831, KB2688338, KB2690533, KB2691442,                    |
+|KB2698365, KB2699779-v2, KB2705219-v2, KB2709630, KB2709981-v2,           |
+|KB2712808, KB2718704, KB2719857, KB2719985, KB2724197,                    |
+|KB2727528, KB2729094-v2, KB2729452, KB2731771, KB2731847-v2,              |
+|KB2732059-v5, KB2732487-v2, KB2732500-v2, KB2735855, KB2736233,           |
+|KB2739159, KB2741355, KB2743555, KB2749655, KB2750841,                    |
+|KB2756822, KB2761217, KB2761226, KB2763523, KB982018-v3                   |
+|----------------------------------murphy78--------------------------------|
+|KB Files NOT added:                                                       |
+|KB2685811 Kernel-Mode Driver Framework 1.11 for Win7                      |
+|KB2685813 User-Mode Driver Framework 1.11 for Win7                        |
+|KB971033 Antiquated anti-piracy crawler                                   |
+|These are not available to download in package format.                    |
+|----------------------------------murphy78--------------------------------|
+|setupcomplete.cmd online integration                                      |
+|dotnetfx45_full_x86_x64.exe (NetFx 4.0-4.5)                               |
+|IE9-KB2761451 (IE9 monthly security nov2012 version)                      |
+|KB2533552 (A windows update future pre-requisite sp2 perhaps)             |
+|KB2729460, KB2737083 (Net4 security updates)                              |
+|Reboot for KB2761451 updating                                             |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 :)                                                               |
+============================================================================

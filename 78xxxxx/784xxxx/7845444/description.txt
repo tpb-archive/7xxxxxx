@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 62min14secs
+
+The Bowery Boys 1953 Paris Playboys
+ 
+http://www.imdb.com/title/tt0047331/
+
+[13:08:42] starting job
+[13:08:42] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:08:42] job configuration:
+[13:08:42]  * source
+[13:08:42]    + C:Paris PlayboysVIDEO_TS
+[13:08:42]    + title 1, chapter(s) 1 to 1
+[13:08:42]  * destination
+[13:08:42]    + C:Documents and SettingsDead End KidsMy DocumentsParis Playboys.mkv
+[13:08:42]    + container: Matroska (.mkv)
+[13:08:42]      + chapter markers
+[13:08:42]  * video track
+[13:08:42]    + decoder: mpeg2
+[13:08:42]      + bitrate 8000 kbps
+[13:08:42]    + frame rate: same as source (around 23.976 fps)
+[13:08:42]    + strict anamorphic
+[13:08:42]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[13:08:42]      + pixel aspect ratio: 8 / 9
+[13:08:42]      + display dimensions: 640 * 480
+[13:08:42]    + encoder: x264
+[13:08:42]      + options: ref=2:bframes=2:me=umh
+[13:08:42]      + bitrate: 395 kbps, pass: 2
+[13:08:42]  * audio track 0
+[13:08:42]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[13:08:42]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[13:08:42]    + mixdown: Stereo
+[13:08:42]    + encoder: faac
+[13:08:42]      + bitrate: 160 kbps, samplerate: 48000 Hz

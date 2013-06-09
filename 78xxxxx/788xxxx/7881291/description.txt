@@ -1,0 +1,9 @@
+has a great GUI interface, areas to store proxies, and a word list. 
+
+
+#!usr/bin/python
+#Ftp Brute Forcer
+
+import threading, time, random, sys, ftplib
+from ftplib import FTP
+from copy import copy

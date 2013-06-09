@@ -1,0 +1,19 @@
+
+Instruction:
+1.Download
+2.Mount or burn .iso
+3.Installation should start automatic but if not run install.cmd on dvd.
+4.After installation go to crack folder and run RegSettings.reg x32 if you use 32-bits windows or x64 for 64-bits windows
+5.Enjoy :)
+
+
+If you use Windows 7  and have "runtime error 217 at 004BB10D" do this:
+1.Deinstall old Microsoft Visual C + + 2008 Redistributable Package and install new 2010 version.
+2.Burn or mount iso
+3.Run Command Prompt (cmd) as administrator and type E: (or oder letter where is your iso mounted) and press enter
+then type install.cmd and press enter
+4.After installation go to crack folder and run RegSettings.reg x32 if you use 32-bits windows or x64 for 64-bits windows
+5.Enjoy :)
+
+
+Tested on XP, Windows 7. Not on windows 8

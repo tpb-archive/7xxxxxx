@@ -1,0 +1,112 @@
+﻿User Type,Username,Date,Text
+,K.Gunn,2012-11-14T21:08Z,Brilliance! Love your stuff. Thanks!
+,Alvarezwilliam16,2012-11-14T21:09Z,"Awesome Server and The client is working, not Fake, I love you TeamExtremeMC"
+,FlakMonkey,2012-11-14T21:33Z,Making it happen in first class style as always!!!!
+,GrymsinMiew,2012-11-14T21:46Z,total Gangdam style torrent ever :D
+,RavenousRaven,2012-11-15T06:12Z,Thanks again T.E.MC!!
+,FlashyG,2012-11-15T10:49Z,"""Team Extreme's server rocks and so does their client.""
+
+Rocks so hard it averages about 4TPS. looool"
+,plonkmeister,2012-11-15T16:37Z,"Launcher runs, but Minecraft does not. I get message ""Aliens have abducted your processor. If this occurs again, reinstall your client."" Then it quits.  Yes Java is up to date."
+,claude7777,2012-11-15T19:00Z,"can anyone help me I can't seem to install forge 6.3.0.372 it always shows fatal error or black screen. I tried deleting MinecraftApplet.class and it still won't work, I have the latest version of java and win 7 x64. It works perfectly as long as don't use forge even with a clean install. Tried different methods still won't work. plz help me T_T"
+,Malakore,2012-11-15T19:47Z,"@claude7777: Hey Claude, I'm having exactly same problem with this release (fresh install + Forge 6.3.0.372). Tried dev version of Java, latest LWJGL, dev version of Forge. Still just black screen, no crash logs. And no, I did not forget to delete meta-inf folder..
+
+Strange is that there are no reports on Forge forums from people that are using official clients, so I guess there is something Forge doesn't like about this release.
+
+Previous release (1.4.2) works perfectly fine for me with Forge and many other mods, it's just this one.
+
+Big problem for me, I like to play with mods. Other mods seems to work fine though, problem is that most mods I'm using needs Forge :)"
+,claude7777,2012-11-15T20:19Z,"@Malakore
+
+me too xD 1.4.2 and older versions worked perfectly for me but this one won't I tried fixing it for hours still won't work. I even recompiled forge with the sourcecode on github and it still won't work."
+,claude7777,2012-11-15T20:26Z,"@Malakore: Omg me too. minecraft 1.4.2 and older versions worked perfectly but this one won't.
+"
+,TeamExtreme,2012-11-15T21:38Z,"@Malakore
+@claude7777
+
+Just to be clear, are you trying to install a 1.4.2 mod on a 1.4.4 client? If you are you will have problems. We will also look into this.
+
+@plonkmeister 
+Can you please provide some into about your computer such as:
+
+Windows version: e.g. 7,8,xp?
+Have you installed any mods?
+Did you try and install the 64bit java?
+Did you change the memory allocation box?
+Have you installed Minecraft before?
+Have you tried running it as administrator?
+Can you provide any more info?
+
+Our new launcher is cable of self updating its launcher files. If we find a problem, your client will auto patch it's self."
+,TeamExtreme,2012-11-15T21:39Z,Sorry our new launcher is capable of self updating*
+,Malakore,2012-11-15T22:12Z,"Hello TeamExtreme.
+No, we are trying to install Forge for 1.4.4 (currently 6.3.0.372). It doesn't work with fresh install of this.
+
+However, I just installed your previous release 1.4.2, forced it to update to 1.4.4 and then installed same Forge on that and bam - it magically works all good. There must be something wrong with new launcher or some other files."
+,claude7777,2012-11-15T22:33Z,Me too. I fixed it by installing the previous release and updating it.
+,urbandxpc2,2012-11-15T22:42Z,"I tried to acces another server in the 1.4.2 and I couldn't, is this version restricted to your server too, or you think I could access others? (multiplayer)"
+,plonkmeister,2012-11-16T08:20Z,"@plonkmeister
+Can you please provide some into about your computer such as:
+
+Windows version: e.g. 7,8,xp?    win7 64
+Have you installed any mods?    no
+Did you try and install the 64bit java?  yes successfully
+Did you change the memory allocation box?  no at first then the second time
+Have you installed Minecraft before?    yes 1.4.2 works fine
+Have you tried running it as administrator?  yes
+Can you provide any more info?  sorry that's all I know.  your 1.4.2 works perfectly even on 1.4.4 servers after force update, though I have never been able to allocate more than 1G ram."
+,TeamExtreme,2012-11-17T01:20Z,"We have found the issue with forge and applied a fix to our client.
+
+Our Launcher is self updating, so once you start up the launcher it will apply the patch. The launcher update does effect any of the Minecraft files.
+
+@Malakore Can you please report back and see if your issue is now solved."
+,sprock,2012-11-17T05:33Z,"what does the error ""user not premium"" when connecting to a server mean?"
+,TeamExtreme,2012-11-17T08:16Z,Its means the server you are trying to connect to does not allow cracked players.
+,Malakore,2012-11-17T11:01Z,"@TeamExtremeMc: Good news, fresh install, launcher updated itself, I installed latest recommended build of Minecraft Forge (6.3.0.372) and it is working fine.
+
+I also tried latest dev version (6.4.0.381) but that ends with fatal error. It is alright though, because this version is for Minecraft 1.4.5 and it detects 1.4.4 installed and ends. So nothing to worry about really, just be sure to install proper version of Forge.
+
+Thanks TeamExtremeMc, good job and fast."
+,TeamExtreme,2012-11-17T23:59Z,"@Malakore
+
+happy to help. If you find any more issues with the launcher, feel free to let us know, so we can patch them."
+,ZeroAccend,2012-11-18T06:26Z,"How the fuck do you guys always have a current version of this game up like immediately after updates are released???
+
+I know it sounds like I'm bitching, but I'm just really impressed.
+
+Keep up the good work."
+,rodnnova,2012-11-19T20:20Z,"When I run it, ""Updating Launcher..."" appears and then it closes. If I disconnect from internet it opens normally. Whatahell?"
+,Malakore,2012-11-19T22:23Z,"@rodnnova: Based on the fact that once you turn off your internet connection it works fine, I would guess that your Firewall / AV / AM software is blocking launcher communication.
+
+Try to add it to the list of trusted files. In some databases (Comodo Defense+ in my case) it is flagged as unknown (not trusted) application so it doesn't automatically treat it as trusted and doesn't let work properly.
+
+What AV / AM / Firewall software and system are you using?"
+,Malakore,2012-11-19T22:30Z,"@TeamExtremeMc: Not a issue this time, just a suggestion for upcoming versions: Let user choose the directory for installation. It's just a matter of creating custom .bat file based on the input of user. This worked for me on all computers I tested, including XP, Vista and 7:
+
+@echo off
+TeamExtremeMc Minecraft 1.4.4
+set APPDATA=X:GamesMinecraft
+start """" ""X:GamesMinecraft.minecraftminecraft launcherMinecraft Launcher.exe"""
+,TeamExtreme,2012-11-19T22:46Z,"@rodnnova
+
+The auto updater was downloading the new launcher file, which is about 500kb or half a mb. Once it's downloaded the new launcher file, it then restarts and everything should work fine.
+
+Can you please provide some more info so we can hunt down the issue which is preventing you from using the launcher. Once the issue is found we will provide an update.
+
+Does the Minecraft launcher restart once the updater is done?
+
+What happens if you restart Minecraft once the updater has finished?
+
+Do you have anything blocking the updater from downloading it's updates?"
+,TeamExtreme,2012-11-19T22:57Z,"@Malakore
+We would like to do that but I can see a few issues popping up.
+
+We keep the Minecraft files in untouched and in the default location, that way it removes compatibility and mod issues.
+
+We may look into this in the future and do some more testing but at this point we are not ready to do so."
+,Malakore,2012-11-20T11:20Z,"@TeamExtremeMc:
+
+I understand it is not trouble free, but would definately be cool feature. I am using ramdisk for Minecraft so everytime I install it, I need to do this manually. 
+
+There must be some safe way as some of the launchers that allows you to install multiple installations to different locations works just great."
+,tratrafe2,2012-11-21T20:57Z,great

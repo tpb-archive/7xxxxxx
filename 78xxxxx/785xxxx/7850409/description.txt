@@ -1,0 +1,56 @@
+Urgences - Raymond Depardon (1988).avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 700 MiB
+Duration                                 : 1h 29mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 090 Kbps
+Writing application                      : VirtualDubMod 1.5.1.1a (build 1639/release)
+Writing library                          : VirtualDubMod build 1639/release
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format settings, BVOP                    : No
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : DX50
+Codec ID/Hint                            : DivX 5
+Duration                                 : 1h 29mn
+Bit rate                                 : 942 Kbps
+Width                                    : 480 pixels
+Height                                   : 288 pixels
+Display aspect ratio                     : 1.667
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.273
+Stream size                              : 605 MiB (86%)
+Writing library                          : DivX 5.1.0 (UTC 2003-09-02)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 29mn
+Bit rate mode                            : Variable
+Bit rate                                 : 135 Kbps
+Nominal bit rate                         : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 86.7 MiB (12%)
+Alignment                                : Aligned on interleaves
+Interleave, duration                     : 24 ms (0.60 video frame)
+Interleave, preload duration             : 324 ms
+Writing library                          : LAME3.93 
+Encoding settings                        : -m j -V 4 -q 2 -lowpass 17.5 --abr 128

@@ -1,0 +1,50 @@
+FolderSync Latest version:2.2.8 Price:US$2.29 Requirement:2.1 and up Size:4.0 MB
+ Overview: 
+FolderSync is a application that enables simple sync to cloud based storage to and from local folders on the device memory card. It currently support multiple Dropbox, SugarSync, Ubuntu One, Box.net, LiveDrive, HiDrive, NetDocuments, Amazon S3, FTP, FTPS, SFTP, WebDAV or windows share (Samba/CIFS) accounts, and support for more platforms are planned.
+
+
+Effortlessly sync your files. Backup your music, pictures and other important files from the phone to your cloud storage or the other way around. It has never been easier. Tasker / locale support enables fine grained control of your syncs.
+FolderSync also contains a full file manager, that enables you to manage your files locally and in the cloud. Copy, move and delete your files in your cloud/remote accounts. Support for creation/deletion of buckets in Amazon S3. Upload and download files from the phone. It's all supported.
+You can choose any folder on the memory card to sync. Currently one-way and two-way sync are supported. Sync intervals and other sync settings can be specified for each sync item you configure. You set up a folderpair to sync and it will automatically keep your files in sync.
+Current supported providers:
+Γÿå Amazon S3 Simple Storage Service
+Γÿå Dropbox
+Γÿå SugarSync
+Γÿå NetDocuments
+Γÿå Box.net (WebDAVs)
+Γÿå LiveDrive (WebDAV/FTP)
+Γÿå HiDrive (WebDAV/FTP)
+Γÿå FTP
+Γÿå FTPS (SSL/TLS implicit)
+Γÿå FTPES (SSL/TLS explicit)
+Γÿå SFTP (SSH File Transfer)
+Γÿå Samba/CIFS/Windows Share
+Γÿå Ubuntu One
+Γÿå WebDAV
+Γÿå WebDAVs (HTTPS)
+Current features:
+Γÿå Multiple accounts (full version)
+Γÿå File manager - manage your cloud files
+Γÿå Amazon S3 Client Side Encryption support
+Γÿå Tasker/locale support (full version)
+Γÿå User defined sync filters (full version)
+Γÿå Sync to and from you selected provider
+Γÿå Two-way sync with support for deletions
+Γÿå Backup/restore settings
+Γÿå User specified sync interval or specific sync times
+Γÿå Choose connection types for each sync item
+Γÿå Support for syncing of subfolders
+Γÿå Sync of hidden files can be disabled
+Γÿå No ads (full version)
+
+v2.2.8 update:
+Version 2.2.8 (15-11-2012):
+- Now works on Jelly Bean 4.2. Please recreate account if you still have problems.
+- Fixed issue with upload on some WebDAV servers.
+Version 2.2.7 (04-11-2012):
+- Fixed issue with pausing in uploads when using WebDAV.
+- Fixed issue with empty folders.
+- Fixed SugarSync issue.
+Version 2.2.6 (25-10-2012):
+- Fixed share to function.
+View the full changelog here: http://www.tacit.dk/foldersync/changelog

@@ -1,0 +1,75 @@
+The Campaign Extended Edition 480p Enhanced Definition Encoded by DrDeceit
+
+h264/AVC AAC-LC
+
+Source - Untouched Blu-ray Remux
+
+General
+Unique ID                                : 105389031016094258942712362131639723528 (0x4F4930668606E1B9D2F7E2414D0B6608)
+Complete name                            : C:UsersKmanVideosEncodesThe Campaign 480p - DrDeceit.mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 972 MiB
+Duration                                 : 1h 35mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 420 Kbps
+Writing application                      : HandBrake 0.9.8
+Writing library                          : libmkv 0.6.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1h 35mn
+Bit rate mode                            : Variable
+Maximum bit rate                         : 14.0 Mbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=6 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=1 / constrained_intra=0 / bframes=3 / b_pyramid=1 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=1 / weightp=0 / keyint=48 / keyint_min=2 / scenecut=40 / intra_refresh=0 / rc_lookahead=1 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.50 / qpmin=10 / qpmax=51 / qpstep=4 / vbv_maxrate=14000 / vbv_bufsize=15000 / crf_max=0.0 / nal_hrd=vbr / ip_ratio=1.10 / aq=1:1.00
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 1h 35mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 21ms
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 1
+00:09:42.582                             : Chapter 2
+00:20:13.295                             : Chapter 3
+00:32:16.392                             : Chapter 4
+00:41:10.634                             : Chapter 5
+00:55:30.744                             : Chapter 6
+01:09:48.726                             : Chapter 7
+01:19:46.448                             : Chapter 8
+01:30:53.197                             : Chapter 9

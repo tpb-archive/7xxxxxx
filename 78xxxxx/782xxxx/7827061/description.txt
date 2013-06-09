@@ -1,0 +1,18 @@
+Course Syllabus
+LEVEL 1 - INTRO TO TEST::UNIT
+Testing philosophies, overview of Test Unit, TDD (Test Driven Development), and using assertions
+LEVEL 2 - MODEL TESTING
+Preparing the database, running tests, using fixtures, and testing relationships
+LEVEL 3 - CLEANING IT UP
+Writing custom assertions, using Test Helper, and introducing Shoulda
+LEVEL 4 - MOCKS & STUBS
+Understanding and using mocks and stubs with Mocha
+LEVEL 5 - INTEGRATION TESTING
+Rails integration commands, integration testing with Capybara, and writing and using helper methods
+LEVEL 6 - USING FACTORIES
+Creating factories, adding associations between factories, and implementing factories in your tests
+
+Course Prerequisites
+Intermediate Ruby Knowledge, Intermediate Programming Knowledge
+
+Enjoy!

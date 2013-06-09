@@ -1,0 +1,40 @@
+PlayStation Download Manager / Booster is an application designed to increase the download speeds of the PlayStation Network, it can install both free and paid content as long as you’ve paid for it.
+
+In order to create a speed boost, it creates multiple segments which will draw data from the servers using multi-threading, this allows you to achieve the maximum speed of your line; unlike the PS3 which uses only 1 transfer.
+
+Your PC can also be faster at downloading in general due to several factors, including it’s connection method, processor speed, RAM and TCP Optimizations.
+
+Change LogsÂ (View Older Logs):
+
+Snippet from change log: [3.97]
+
+1) The advertisement shown on start-up has been removed
+2) The premium membership has been discontinued as it serves no purpose any more (It’s ad free)
+3) Further improvement to the code as the premium account check has been removed
+4) Adjustments to the threading to prevent the application from freezing when checking for new versions (Very rare glitch)
+
+Setting Up Your Console:
+
+1. Start Your Playstation Console
+
+2. Under Network Settings, Choose Custom.
+
+3. When it asks for Proxy, set it to Use.
+
+4. Enter your IP Address given by running Internal IP.bat
+
+5. Enter the port as 27
+
+6. Save the changes, start PSN DM.exe
+
+Using the Application:
+
+1. Start a download from the PSN
+
+2. When it says “Please Wait” Press Circle
+
+You’ll notice it is now displayed in the Download Manager,
+
+once finished, proceed with the following to Transfer onto the Playstation…
+
+3. Go back and Download the Content / File again, it should transfer from the PC…

@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 68min36secs
+
+The Bowery Boys 1951 Bowery Battalion
+ 
+http://www.imdb.com/title/tt0043356/
+
+[14:28:41] starting job
+[14:28:41] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[14:28:41] job configuration:
+[14:28:41]  * source
+[14:28:41]    + C:Bowery BattalionBowery BattalionVIDEO_TS
+[14:28:41]    + title 1, chapter(s) 1 to 2
+[14:28:41]  * destination
+[14:28:41]    + C:Documents and SettingsDead End KidsMy DocumentsBowery Battalion.mkv
+[14:28:41]    + container: Matroska (.mkv)
+[14:28:41]      + chapter markers
+[14:28:41]  * video track
+[14:28:41]    + decoder: mpeg2
+[14:28:41]      + bitrate 8000 kbps
+[14:28:41]    + frame rate: same as source (around 23.976 fps)
+[14:28:41]    + strict anamorphic
+[14:28:41]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[14:28:41]      + pixel aspect ratio: 8 / 9
+[14:28:41]      + display dimensions: 640 * 480
+[14:28:41]    + encoder: x264
+[14:28:41]      + options: ref=2:bframes=2:me=umh
+[14:28:41]      + bitrate: 396 kbps, pass: 2
+[14:28:41]  * audio track 0
+[14:28:41]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[14:28:41]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[14:28:41]    + mixdown: Stereo
+[14:28:41]    + encoder: faac
+[14:28:41]      + bitrate: 160 kbps, samplerate: 48000 Hz

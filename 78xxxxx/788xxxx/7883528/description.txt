@@ -1,0 +1,60 @@
+General
+
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 173 MiB
+Duration                                 : 53mn 55s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 448 Kbps
+Movie name                               : Dexter S07E10 HDTV x264-ASAP
+Encoded date                             : UTC 2012-12-03 15:48:56
+Writing application                      : mkvmerge v5.5.0 ('Healer') built on Apr  6 2012 21:43:24
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+
+Video
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 53mn 55s
+Bit rate mode                            : Variable
+Bit rate                                 : 389 Kbps
+Maximum bit rate                         : 25.0 Mbps
+Width                                    : 720 pixels
+Height                                   : 402 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.056
+Stream size                              : 145 MiB (84%)
+Writing library                          : x264 core 124 r2197 69a0443
+Default                                  : Yes
+Forced                                   : No
+
+
+Audio
+
+ID                                       : 2
+Format                                   : Vorbis
+Format settings, Floor                   : 1
+Codec ID                                 : A_VORBIS
+Duration                                 : 53mn 55s
+Bit rate mode                            : Variable
+Bit rate                                 : 64.0 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 24.7 MiB (14%)
+Writing library                          : aoTuV 20110424 (UTC 2011-04-24)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No

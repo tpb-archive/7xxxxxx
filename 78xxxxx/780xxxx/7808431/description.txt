@@ -1,0 +1,27 @@
+DVDFab is all you need to backup DVDs. DVDFab Platinum 3 is brand new, is completely rewritten, is based on 5 years of DVD copy software development. DVDFab is simply the easiest way to copy a DVD movie. Just insert the movie and a blank DVD then press Start. Your entire movie - including menus, trailers and special features - is copied to a single DVD with just one click, and everything happens automatically. Backup your entire DVD - including menus, trailers, and special features - onto one or multiple discs.
+
+DVDFab 8.2.1.8 Qt Updated! (November 09, 2012)
+New: Added support to control write speed for DVDFab burning engine.
+New: Updated language files.
+
+DVD Ripper:
+Fix: A crash problem when ripping DVD with PCM auido to generic.mp4.h264.aac profile.
+Fix: A freeze problem when ripping to mp4.h264.aac in certain cases, such as "The Dark Night".
+Fix: An audio problem when ripping to audio.mp4 profile.
+
+Blu-ray Copy:
+New: Added support to copy BDAV disc in Full Disc mode.
+Fix: A no sound problem when copying BDAV disc to DVD in certain cases.
+Fix: A freeze problem when copying Blu-ray to BD25 in Main Movie mode in certain cases, such as "Men In Black 3" 3D.
+
+Blu-ray Ripper:
+Fix: A subtitle out of sync problem when ripping with idx/sub files in certain cases, such as: "Inception", "The Hunger Games" and "Knight And Day".
+Fix: A subtitle problem for mkv.remux profile.
+
+Blu-ray to DVD:
+Fix: A problem that the resolution is wrong when copying Blu-ray to DVD. 
+
+Blu-ray Creator:
+New: Added support to create multiple titles for multiple sources, which means user can switch title when playback now.
+
+Home Page: www.dvdfab.com

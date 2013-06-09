@@ -1,0 +1,40 @@
+Movies : Drama : VHS Rip : English, 59mins58secs 
+This is a redo of my torrent to reduce file size, new format mkv.
+There are distortion flickers for a few tics in the first minute and after that
+it is good except for a couple of brief glitches, unedited, which are in the source.
+
+the East Side Kids in Block Busters - 1944
+
+Starring Leo Gorcey, Minerva Urecal, Kay Marvis, Jimmy Strand, Huntz Hall, Gabriel Dell, Bill Chaney, Fred Pressel & Noah Beery Sr. Also featuring Billy Benedict as the leader of the Five Pointers Gang.
+  
+http://www.imdb.com/title/tt0036650/
+
+I added a couple of newspaper type photos of Leo & Kay.	
+
+[11:43:10] starting job
+[11:43:10] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[11:43:10] job configuration:
+[11:43:10]  * source
+[11:43:10]    + C:Block BustersVIDEO_TS
+[11:43:10]    + title 1, chapter(s) 1 to 1
+[11:43:10]  * destination
+[11:43:10]    + C:Documents and SettingsDead End KidsMy DocumentsBlock Busters.mkv
+[11:43:10]    + container: Matroska (.mkv)
+[11:43:10]      + chapter markers
+[11:43:10]  * video track
+[11:43:10]    + decoder: mpeg2
+[11:43:10]      + bitrate 8000 kbps
+[11:43:10]    + frame rate: same as source (around 23.976 fps)
+[11:43:10]    + strict anamorphic
+[11:43:10]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[11:43:10]      + pixel aspect ratio: 8 / 9
+[11:43:10]      + display dimensions: 640 * 480
+[11:43:10]    + encoder: x264
+[11:43:10]      + options: ref=2:bframes=2:me=umh
+[11:43:10]      + bitrate: 395 kbps, pass: 2
+[11:43:10]  * audio track 0
+[11:43:10]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[11:43:10]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[11:43:10]    + mixdown: Stereo
+[11:43:10]    + encoder: faac
+[11:43:10]      + bitrate: 160 kbps, samplerate: 48000 Hz

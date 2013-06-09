@@ -1,0 +1,48 @@
+[img]http://bayimg.com/IaFcpAAeO[/img]
+[img]http://bayimg.com/jAFccAAeO[/img]
+[img]http://bayimg.com/jAFCEAAeo[/img]
+
+INSTALL AND ACTIVATION INSTURCTIONS
+
+Copy "KMSmicro v3.10.rar" on to Desktop and then extract it !
+
+Activation of Office 2013: FRESH INSTALL (Recommended)
+
+
+1.KMSmicro run and make the time synchronization (T)
+
+2.Import the registry required data. Double-click on the file:
+Office2010-Localhost.reg when you install Office 2010;
+Office2013-Win7-Localhost.reg when you install Office 2013 on Windows 7;
+Office2013-Win8-Localhost.reg when you install Office 2013 on Windows 8.
+
+
+3.Install Office | Visio | Project VL.
+
+4.Run the application and check the status of activation. If you suddenly see that require activation, 
+close the application, wait 1-2 minutes and check the status of the activation again. Rarely, but 
+it happens. Usually the product is activated immediately after installation
+
+5.Close KMSmicro (S)
+
+Activation of Office 2013: PRE INSTALLED
+
+1.KMSmicro run and make the time synchronization (T)
+
+2.Run one of the following cmd-file on behalf of the Adminstrator:
+Office 2010 Activate.bat Office 2010-x32 & Windows-x32 or Office 2010-x64 & Windows-x64
+Office 2010 (w64-o32) Activate.bat Office 2010-x32 & Windows-x64
+Office 2013 Activate.bat Office 2013-x32 & Windows-x32 or Office 2013-x64 & Windows-x64
+Office 2013 (w64-o32) Activate.bat Office 2013-x32 & Windows-x64.
+If the end of a saw i??i??, the product is activated / activating extended.
+
+3.Close KMSmicro (S)
+
+NOTE: 
+Activation of Office 2013: FRESH INSTALL (Tested and Working), Screen Shots Included 
+
+More Information:
+* ISO Images are directly from MSDN (UNTOUCHED), you can check the SHA 
+* KMSmicro Activator v3.10 is working fine, Tested on FRESH INSTALL METHOD (W8Pro x64)
+* Please follow Instructions exactly given
+* Office 2013 will be activated for next 180Days.

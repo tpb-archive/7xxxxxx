@@ -1,0 +1,45 @@
+                    Trinity Rescue Kit (TRK) - 2010kaiser
+
+
+
+Trinity Rescue Kit or TRK is a free live Linux distribution that aims specifically at recovery and repair operations on Windows machines, but is equally usable for Linux recovery issues. Since version 3.4 it has an easy to use scrollable text menu that allows anyone who masters a keyboard and some English to perform maintenance and repair on a computer, ranging from password resetting over disk cleanup to virus scanning
+
+
+It is possible to boot TRK in three different ways:
+-as a bootable CD which you can burn yourself from a downloadable isofile or a self burning Windows executable
+-from a USB stick/disk (optionally also a fixed disk), installable from Windows or from the bootable TRK cd (which is easier and safer)
+-from network over PXE: you start 1 TRK from CD or USB and you run all other computers from that one over the network without modifying anything to you local network.
+Ever since version 3.4, TRK has received an easy to use textmenu but has equally kept the commandline.
+
+Here 's a sumup of some of the most important features, new and old:
+
+-easily reset windows passwords with the improved winpass tool
+-simple and easy menu interface
+-5 different virusscan products integrated in a single uniform commandline with online update capability
+-full ntfs write support thanks to ntfs-3g
+-winclean, a utility that cleans up all sorts of unnecessary temporary files on your computer.
+-clone computers over the network via multicast.
+-wide range of hardware support (kernel 2.6.35 )
+-contributed backup utility called "pi", to automate local machine backups
+-easy script to find and mount all local filesystems
+-self update capability to include and update all virusscanners + local changes you made to TRK.
+-full proxyserver support.
+-run a samba fileserver (windows like filesharing)
+-run a ssh server
+-recovery and undeletion of files with utilities and procedures
+-recovery of lost partitions
+-evacuation of dying disks
+-full read/write and rpm support
+-UTF-8 international character support (select keyboard language from the scrollable textmenu at startup)
+-2 rootkit detection uitilities
+-most software updated to recent versions
+-literally thousands of changes and bugfixes since version 3.3
+-elaborated documentation, including manpages for all commands (also TRK 's own)
+
+
+TRK Home Page:
+ 
+http://trinityhome.org/Home/index.php?content=TRINITY_RESCUE_KIT____CPR_FOR_YOUR_COMPUTER&front_id=12&lang=en&locale=en
+
+
+ENJOY AND SEED!!!

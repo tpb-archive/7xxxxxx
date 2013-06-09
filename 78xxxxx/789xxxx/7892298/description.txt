@@ -1,0 +1,39 @@
+Movies : Film-Noir : TV Rip : English, 77mins
+This is a redo of my torrent to reduce file size, new format mkv.
+
+Treasure of Monte Cristo - 1949
+
+Bobby Jordan, Adele Jergens, Glenn Langan
+ 
+http://www.imdb.com/title/tt0041986/
+
+A little trivia bout this film. Glenn Langan & Adele Jergens get married in this flick. They would marry in real life in 1951, so i guess the sparks really would be flying for both in this classic set in the bay area and in the city by the bay. 
+Glenn & Adele stayed married till the passing of Glenn.
+
+[13:02:46] starting job
+[13:02:46] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[13:02:46] job configuration:
+[13:02:46]  * source
+[13:02:46]    + C:Treasure of Monte CristoTreasure editVIDEO_TS
+[13:02:46]    + title 1, chapter(s) 1 to 13
+[13:02:46]  * destination
+[13:02:46]    + C:Documents and SettingsDead End KidsMy DocumentsTreasure of Monte Cristo.mkv
+[13:02:46]    + container: Matroska (.mkv)
+[13:02:46]      + chapter markers
+[13:02:46]  * video track
+[13:02:46]    + decoder: mpeg2
+[13:02:46]      + bitrate 9800 kbps
+[13:02:46]    + frame rate: same as source (around 29.970 fps)
+[13:02:46]    + strict anamorphic
+[13:02:46]      + storage dimensions: 720 * 480 -> 718 * 478, crop 2/0/2/0
+[13:02:46]      + pixel aspect ratio: 8 / 9
+[13:02:46]      + display dimensions: 638 * 478
+[13:02:46]    + encoder: x264
+[13:02:46]      + options: ref=2:bframes=2:me=umh
+[13:02:46]      + bitrate: 395 kbps, pass: 2
+[13:02:46]  * audio track 0
+[13:02:46]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[13:02:46]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[13:02:46]    + mixdown: Stereo
+[13:02:46]    + encoder: faac
+[13:02:46]      + bitrate: 160 kbps, samplerate: 48000 Hz

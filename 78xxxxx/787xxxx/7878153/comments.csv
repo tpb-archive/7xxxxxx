@@ -1,0 +1,21 @@
+﻿User Type,Username,Date,Text
+,PandwaLima,2012-12-02T11:15Z,Is this for 64 bit or 32 bit ?
+,browner87,2012-12-03T04:01Z,"I haven't gotten this to install yet since my computer has a Windows Installer issue, but it tries to install to Program files (Not Program Files (x86)) so I presume it's either 64-bit or both."
+,browner87,2012-12-03T04:53Z,"For the life of me I can't get this to install. I've been at it for 2 days now. Is anyone familiar with this error? (Win7 x64)
+
+error: -1601 The windows installer service could not be accessed this can occur if the windows installer is not correctly installed
+
+Windows installer service is running, unregistered/reregistered it, and ran CFP with a legit disc. No luck..."
+[T],Ching_Liu,2012-12-03T05:58Z,"@browner87 - 
+http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_programs/windows-installer-error-1601/fd7c0abb-bd33-429d-884e-c7b9c9be984f"
+,newinmac,2012-12-03T10:03Z,"@Ching_Liu ... please help me with this error: here is the screenshot:
+http://imgr.us/images/hgq0wq4ezydamo3xupo.png"
+[T],Ching_Liu,2012-12-03T14:25Z,"@newinmac - 
+http://www.cyberlink.com/prog/support/cs/product-faq-content.do?id=14957&prodId=4&prodVerId=977"
+,browner87,2012-12-03T18:36Z,"Thanks Ching, but trust me I spent 2 days reading all answers online :P
+
+Eventually I followed this page for ideas on how to debug the install. Ultimately it was the WinRAR extractor causing problems, so I copied its extracted folder from Temp and ran it on my own. (http://blogs.technet.com/b/markrussinovich/archive/2011/11/29/3467449.aspx)
+
+Now it's installed and working fine (i also installed it on a clean VM and it worked no problems). I haven't actually burned anything yet, but it seems to recognize my files and stuff fine and looks great.
+
+Thanks Ching_Liu!!"

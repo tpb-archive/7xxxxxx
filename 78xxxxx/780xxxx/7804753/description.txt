@@ -1,0 +1,70 @@
+SmartAssembly
+
+Red Gate's .NET obfuscator
+Protect your .NET code and Intellectual Property
+
+Protect your .NET code and IP with SmartAssembly
+
+.NET applications are easy to disassemble if they haven't been obfuscated. SmartAssembly is an obfuscator that helps protect your application against reverse-engineering, cracking, and modification.
+
+If you don't want your C# or VB.NET code exposed internationally, or if your entire business rests on the IP embodied in your software, then obfuscating your code becomes a necessity, not a luxury.
+
+.NET applications are easy to disassemble if they haven't been obfuscated, which is obviously a problem if you've invested time, effort, and money in your code. Obfuscating your code is easy to do, and helps protect it against reverse-engineering, cracking, and modification.
+
+Maybe you just don't want your code exposed, or maybe your entire business rests on the IP embodied in your software; SmartAssembly makes sure that your code is well-protected. You can learn more about SmartAssembly Obfuscation in our case studies and webinar recordings.
+
+Multiple forms of Obfuscation and Optimization
+
+Code Obfuscation makes your application hard to reverse-engineer, removes non-useful code, and compresses dependencies, protecting and compacting your application with a minimum of fuss.
+
+Key features:
+
+Name mangling
+Changes the names of methods and fields to make it hard to understand their purpose.Control flow obfuscation
+Converts the code inside methods to 'spaghetti code' to make it difficult to see how the application works.
+References dynamic proxy
+Creates a proxy for calls to methods outside of your assembly to make it hard to find external calls.
+
+Strings encoding
+Encodes the strings used in your software to hide such information as passwords and SQL queries.
+
+Resources compression and encryption
+Compresses and encrypts managed resources to make them hard to understand, and to reduce the size of the assembly.
+
+Pruning
+Removes non-useful metadata to make the code harder to reverse-engineer, reduce the size of the assembly, and improve loading time.
+
+Dependencies merging
+Takes all the DLLs and merges dependencies into the main assembly, so you don't have to load lots of DLL files, and so that they can also be obfuscated.
+
+Dependencies compression and embedding
+Compresses and embeds your dependencies into your main assembly, simplifying the deployment of your software and reducing the size of your program.
+
+Method parent obfuscation
+Moves methods in your code by changing the class they are in, making it harder to understand how methods and classes relate to each other.
+
+Strong name signing with tamper protection
+Signs your assembly and helps to protect it against modification (the additional tamper protection is not available in the Standard edition).
+
+Declarative obfuscation
+Excludes a member from obfuscation using custom attributes directly in your code.
+
+Debugging
+
+SmartAssembly decodes obfuscated stack traces and generates .pdb files containing debugging information. This enables you to debug your assembly into your IDE, and get the full stack trace when an exception occurs. To top it off, SmartAssembly even helps to ensure that you're automatically releasing unneeded memory.
+
+Integration and Support
+
+Obfuscation can be integrated into build processes using MS Build or command-line, and supports .NET 2.0 to 4.5, Compact Framework 2.0 to 3.5, Silverlight 2.0 to 5.0, XNA (xbox, PC applications), and Windows Phone 7, with some exceptions 
+
+Technologies supported
+
+SmartAssembly can protect your Winforms, Silverlight, Windows Phone 7, ASP.NET applications and more. It can also be integrated into build processes using MS Build or the command-line.
+
+Homepage: http://www.red-gate.com/products/dotnet-development/smartassembly/
+
+Installation Instructions: 
+
+1. Install program.
+2. Copy license file from key folder and paste to mentioned directory.
+3. Done, Enjoy.

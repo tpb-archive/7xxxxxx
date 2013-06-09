@@ -1,0 +1,1 @@
+There is a chance one user will unintentionally override someone else's changes if they update a record near the same time. One solution is to use optimistic locking. The updated_at column can also be used for this as shown. (8 minutes) If you found this helpful, please consider purchasing RailsCasts Pro.

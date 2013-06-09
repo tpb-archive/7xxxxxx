@@ -1,0 +1,111 @@
+                 Oracle 11g Anti-hackers Cookbook - 2010kaiser
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Chapter 1: Operating System Security
+Chapter 2: Securing the Network and Data in Transit
+Chapter 3: Securing Data at Rest
+Chapter 4: Authentication and User Security
+Chapter 5: Beyond Privileges: Oracle Virtual Private Database
+Chapter 6: Beyond Privileges: Oracle Label Security
+Chapter 7: Beyond Privileges: Oracle Database Vault
+Chapter 8: Tracking and Analysis: Database Auditing
+Appendix: Installing and Configuring Guardium, ODF, and OAV
+
+
+
+    Chapter 1: Operating System Security
+
+        Introduction
+        Using Tripwire for file integrity checking
+        Using immutable files to prevent modifications
+        Closing vulnerable network ports and services
+        Using network security kernel tunables to protect your system
+        Using TCP wrappers to allow and deny remote connections
+        Enforcing the use of strong passwords and restricting the use of ♂previous  passwords
+        Restricting direct login and su access
+        Securing SSH login
+
+
+    Chapter 2: Securing the Network and Data in Transit
+
+        Introduction
+        Hijacking an Oracle connection
+        Using OAS network encryption for securing data in motion
+        Using OAS data integrity for securing data in motion
+        Using OAS SSL network encryption for securing data in motion
+        Encrypting network communication using IPSEC
+        Encrypting network communication with stunnel
+        Encrypting network communication using SSH tunneling
+        Restricting the fly listener administration using the ♂ADMIN_RESTRICTION_LISTENER parameter
+        Securing external program execution (EXTPROC)
+        Controlling client connections using the TCP.VALIDNODE_CHECKING ♂listener parameter
+
+
+    Chapter 3: Securing Data at Rest
+
+        Introduction
+        Using block device encryption
+        Using filesystem encryption with eCryptfs
+        Using DBMS_CRYPTO for column encryption
+        Using Transparent Data Encryption for column encryption
+        Using TDE for tablespace encryption
+        Using encryption with data pump
+        Using encryption with RMAN
+
+
+    Chapter 4: Authentication and User Security
+
+        Introduction
+        Performing a security evaluation using Oracle Enterprise Manager
+        Using an offline Oracle password cracker
+        Using user profiles to enforce password policies
+        Using secure application roles
+        How to perform authentication using external password stores
+        Using SSL authentication
+
+
+    Chapter 5: Beyond Privileges: Oracle Virtual Private Database
+
+        Introduction
+        Using session-based application contexts
+        Implementing row-level access policies
+        Using Oracle Enterprise Manager for managing VPD
+        Implementing column-level access policies
+        Implementing VPD grouped policies
+        Granting exemptions from VPD policies
+
+
+    Chapter 6: Beyond Privileges: Oracle Label Security
+
+        Introduction
+        Creating and using label components
+        Defining and using compartments and groups
+        Using label policy privileges
+        Using trusted stored units
+
+
+    Chapter 7: Beyond Privileges: Oracle Database Vault
+
+        Introduction
+        Creating and using Oracle Database Vault realms
+        Creating and using Oracle Vault command rules
+        Creating and using Oracle Database Vault rulesets
+        Creating and using Oracle Database Vault factors
+        Creating and using Oracle Database Vault reports
+
+
+    Chapter 8: Tracking and Analysis: Database Auditing
+
+        Introduction
+        Determining how and where to generate audit information
+        Auditing sessions
+        Auditing statements
+        Auditing objects
+        Auditing privileges
+        Implementing fine-grained auditing
+        Integrating Oracle audit with SYSLOG
+        Auditing sys administrative users
+
+
+ENJOY AND SEED!!!

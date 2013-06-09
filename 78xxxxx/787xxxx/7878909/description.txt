@@ -1,0 +1,50 @@
+Format: Matroska 
+Format version: Version 2 
+Daily total bit rate: Variable (VBR) 
+Overall bit rate: 32.0 Mbit / sec 
+
+Video 
+Identifier: 1 
+Format: AVC 
+Format / Information: Advanced Video Codec 
+Format Profile: High@L4.1 
+Setting format, CABAC: Yes 
+Setting format, ReFrames: 4 frames (-s, s) 
+Id codec: V_MPEG4/ISO/AVC 
+Mode of calculation bitrate: Variable (VBR) 
+Bit rate: 29.5 Mbit / sec 
+Maximum bit rate: 35.5 Mbit / sec 
+Frame Width: 1920 pixels. 
+Height ratio: 1 080 pixels. 
+Aspect ratio: 16:9 
+Frame Rate: 23.976 frames / sec 
+Color Space: YUV 
+Downsampling hromatychnosti: 4:2:0 
+Bit Depth: 8 bits 
+Scan type: Progressive 
+Bits / (Pixel * frame): 0.593 
+Language: English 
+
+Audio 
+ID: 2 
+Format: DTS 
+Format / Data: Digital Theater Systems 
+Profile format: MA / Core 
+Codec ID: A_DTS 
+Running time: 1 hr. 
+Mode of calculation bitrate: Variable (VBR) 
+Quality: 1858 kbit / s / 1510 kbit / s 
+Number of Channels: 6 Channel (s, s) 
+Channel Positions: Front: LCR, Side: LR, LFE 
+Sampling frequency: 48.0 kHz 
+Bit Depth: 24 Bit 
+Compression Type: Lossless / Lossy 
+Title: DTS-HD Master Audio / 5.1 / 48 kHz / 3622 kbps / 24-bit 
+Language: English 
+
+Text # 4 
+ID: 6 
+Format: UTF-8 
+Codec ID: S_TEXT/UTF8 
+Id codec / Information: UTF-8 Plain Text 
+Language: English 

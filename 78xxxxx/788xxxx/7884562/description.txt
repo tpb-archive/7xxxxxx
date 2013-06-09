@@ -1,0 +1,21 @@
+KSP 0.18.1
+
+Bug Fixes and Tweaks for 0.18.1:
+
+* Docking:
+- Fixed an issue which could cause an error when undocking if the undocked vessel was missing its original root part.
+- Fixed the vessel snapping when docking, which could cause misaligned docking connections sometimes.
+- Fixed an issue where docking to docked vessels could cause trouble when undocking again in a different order.
+- Fixed manually-defined vessel types getting lost after docking.
+
+* Parts
+- Fixed a misspelled parameter on the smallRadialEngine cfg
+- Fixed an issue with the solar panels exposure detection maths.
+- Fixed a case where RCS could become activated by ASAS during time warp and eat all propellant
+- Adjusted Solar Panel raycasting to prevent false positives on planetary occlusion
+- Gimbal module now displays vectoring information in the VAB
+- Adjusted initialization of the gimbal module for better mod support - gimbals now have an optional movement speed parameter
+- Changed Airflow Display during timewarp on the intakes
+- Gave Launch Pad Clamps power, so probes don't die waiting for a launch window.
+
+NOW IN .RAR BECAUSE YOU IDIOTS DON'T KNOW WHAT 7ZIP IS!!!!!

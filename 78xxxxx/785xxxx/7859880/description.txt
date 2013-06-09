@@ -1,0 +1,33 @@
+Movies : Comedy : VHS Rip : English, 59min46secs
+
+The Bowery Boys 1957 Spook Chasers
+ 
+http://www.imdb.com/title/tt0051005/
+
+[11:40:37] starting job
+[11:40:37] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[11:40:37] job configuration:
+[11:40:37]  * source
+[11:40:37]    + C:Spook ChasersVIDEO_TS
+[11:40:37]    + title 1, chapter(s) 1 to 1
+[11:40:37]  * destination
+[11:40:37]    + C:Documents and SettingsDead End KidsMy DocumentsSpook Chasers.mkv
+[11:40:37]    + container: Matroska (.mkv)
+[11:40:37]      + chapter markers
+[11:40:37]  * video track
+[11:40:37]    + decoder: mpeg2
+[11:40:37]      + bitrate 8000 kbps
+[11:40:37]    + frame rate: same as source (around 23.976 fps)
+[11:40:37]    + strict anamorphic
+[11:40:37]      + storage dimensions: 720 * 480 -> 720 * 480, crop 0/0/0/0
+[11:40:37]      + pixel aspect ratio: 8 / 9
+[11:40:37]      + display dimensions: 640 * 480
+[11:40:37]    + encoder: x264
+[11:40:37]      + options: ref=2:bframes=2:me=umh
+[11:40:37]      + bitrate: 397 kbps, pass: 2
+[11:40:37]  * audio track 0
+[11:40:37]    + decoder: Unknown (AC3) (2.0 ch) (track 1, id 80bd)
+[11:40:37]      + bitrate: 224 kbps, samplerate: 48000 Hz
+[11:40:37]    + mixdown: Stereo
+[11:40:37]    + encoder: faac
+[11:40:37]      + bitrate: 160 kbps, samplerate: 48000 Hz

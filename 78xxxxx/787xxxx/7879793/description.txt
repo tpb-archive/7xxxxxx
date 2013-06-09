@@ -1,0 +1,75 @@
+Complete name                            : X:The Dark Knight Rises 2012 1080p BRrip Eng-Hindi~Nadeemgazi~
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 3.72 GiB
+Duration                                 : 2h 44mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 234 Kbps
+Movie name                               : The Dark Knight Rises (2012) BRRip x264 [Dual-Audio] [Eng-Hindi]~Nadeemgazi~
+Encoded date                             : UTC 2012-12-02 14:03:04
+Writing application                      : mkvmerge v5.8.0 ('No Sleep / Pillow') built on Sep  2 2012 15:37:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Muxing mode                              : Header stripping
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 44mn
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 16:9
+Original display aspect ratio            : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 120
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / 
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Muxing mode                              : Header stripping
+Codec ID                                 : A_MPEG/L3
+Codec ID/Hint                            : MP3
+Duration                                 : 2h 44mn
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Writing library                          : LAME3.98
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : HE-AAC / LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 44mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz / 24.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 31ms
+Title                                    : Nadeemgazi
+Language                                 : Hindi
+Default                                  : No
+Forced                                   : No

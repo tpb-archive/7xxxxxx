@@ -1,0 +1,53 @@
+﻿User Type,Username,Date,Text
+,murphy78,2012-11-27T04:11Z,"This x64 only version uses setup files from an x64 source, so you can use the x64 recovery mode from boot. Also you can upgrade from win7x64 with an x64 setup-files version."
+,steve97,2012-11-27T06:21Z,"Dear murphy78,
+Can I install Windows Updates without any problem?
+Thanks."
+,murphy78,2012-11-27T06:57Z,"yes steve. As long as you activate before ever installing any kb files, there's nothing microsoft can do but take it.  I test all my releases to make sure they navigate the internet and update just fine."
+,murphy78,2012-11-27T11:48Z,"I was referring to WMC in the previous comment.  There are no files that are out of the ordinary for the other indexes.  The data.dat file that is replaced in the wmc could theoretically be overwritten by a kb file, but as I'm not exactly an expert on the data.dat file, I don't know how.  Basically the activation is part data.dat and part token.dat.  The data.dat in the wmc on these free versions has info added to support upgrade keys without first going through pro.  Microsoft in the future could potentially plug the hole by re-doing the way they set up the store and then requiring everyone to re-activate, but it seems pretty unlikely."
+,steve97,2012-11-27T15:23Z,@murphy78 thanks again for the info :D
+,babuin12,2012-11-27T16:14Z,thanks murphy78 but what folder can i remove to fit on  a single layer ? 
+,babuin12,2012-11-27T16:17Z,thanks but how can i get a single layer dvd from this iso ?
+,murphy78,2012-11-27T22:16Z,"babuin I'm not entirely sure.  I've already removed the sxs folder as it's useless once you start integrating packages to the source.
+
+You could get gimagex and export the non-n versions to a single install.wim and overwrite.  That would probably make it fit.  You'd have to re-ISO it with oscdimg.  If you use another iso creation software, I cannot guarantee that you will not have problems.  oscdimg is specifically designed for creating master iso images of operating systems and you can find it in the windows 8 apk.
+
+If you simply want a dvdr of the free x64 mode, I already have one out. Check my nov18 release."
+,interceptor1128,2012-11-28T10:22Z,"thanx murphy i just love your stuff.
+and i appreciate your efforts.
+
+i had a query. I invite some light on the activation process."
+,isthisme,2012-11-28T17:53Z,Just out of curiosity how long did it take out of the 72 hours to get your code? I am to anxious
+,Munchk1npuncher,2012-11-28T23:30Z,Much appreciated murphy78 your uploads are the real deal!
+,murphy78,2012-11-29T00:19Z,"I don't know isthisme.  I recently upgraded my system and all my old keys no longer work myself.  I sent for new free keys, but like you, I've been waiting a while.
+
+For anyone else who is curious, your activated key gets tied to your system, and you can reactivate it  basically forever if you don't change your system.  The windows activation thing ties some sort of identifier to the key so that only your system can use it."
+,thewallofterror,2012-11-29T06:49Z,"Hi murphy78,
+
+First, and foremost, thanks for the up man. I used that other shite with the dodgy activator. All it managed to do was install some kinda virus and froze the OS everytime I tried to install an antivirus. Anyway man, with regards to installation, is there any process that we need to follow to install this? Do we need to enter any type of key or anything like that after installation?
+
+Any info would be much appreciated dude."
+,murphy78,2012-11-29T07:30Z,"If you are referring to the pro wmc, then all you need is the free key from microsoft.  That's the genius of the data.dat switch.  Whoever made that file is a damn internet hero I swear.
+
+Anyhow, if any of you upgrade your computers and don't have another free wmc key lying around you can do what I just did:
+
+unplug internet, go to pc info page (winkey+c, settings, pc info)  go to the activation page and click on new key. Enter your key again and it will give error because you are not connected to internet.  Then it will give a phone link.  Use that phone link and if it asks you how many computers, just say ""one"".  Worked like a charm for me, and now I have the successful activation backed up with Advanced Tokens Manager from Josh Cell Softwares so I never need to do the phone thing again for this computer.
+
+Anyhow, just passing along that info"
+,Stefan1971Ger,2012-11-29T09:06Z,"Thanks for your efforts murphy78. Description says
+""Free WMC lets you install directly to the ProWMC version...."" - does ""directly"" mean this free key will also activate Windows itself (and not just allow free upgrade from existing W8 to WMC)? That linked MS page seems to say key is only for upgrade.-thanks"
+,thewallofterror,2012-11-29T09:23Z,Thanks for the info murphy78. You are a bloody legend. Will test this but i doubt it needs much testing as all i see here are positive reviews. Thanks again for the up man.
+,felchi80,2012-11-29T17:02Z,It's been more than 72 hours... sent about 3 requests for keys... different addresses... not nothing so far :(
+,steve97,2012-11-30T04:02Z,"Dear murphy78,
+One more question please, let's assume they were able to replace the data.dat file with a kb file via windows update. Will I be able to re-activate windows using the advanced tokens manager in case if it gets deactivated?
+Thanks."
+,murphy78,2012-11-30T22:23Z,"steve97 with the activation on prowmc being permanent for every method it would be very hard to imagine someone installing and updating kb files that somehow overwrite the file.  Because the activations are permanent, you would never need to restore activations on something you've updated.  You would really need to go out of your way to avoid entering a key, updating some kb file that overwrites the data.dat, and then try to enter a key.  Technically it's possible to screw yourself this way, but keep in mind that Microsoft has not released any such kb file, and may never.  Their promotion ends in January and if people don't use their codes by feb 1 they become invalid.
+
+Anyone who actually uses their key before then will have free prowmc on that particular motherboard, for life.  Even then, when you upgrade your motherboard, you can still disconnect the internet and use the phone activation.  I did it personally when I upgraded my system the other day and it works flawlessly.  I guess the phone method doesn't take into account the motherboard crc like the online method does."
+,Stefan1971Ger,2012-12-01T05:33Z,"Hello murphy78, referring to my above question: In the comments to one of your other W8 releases (Windows 8 Pro WMC x64 Netfx3 English Nov18 2012 ) you said:""the data.dat file replaced removes the requirement for having first activated normal pro."". Does that go for this release, too?  Please confirm. That would answer it (sorry if I got the description for this one wrong).-Thanks"
+,ar78,2012-12-01T05:41Z,hey murphy78 this is only first one that actually worked for me. i burned it and installed win8 pro with WMC. everything went fine. but after installation i can surf the net ans stuff but it win8 pro is still not activated. i went to the microsoft link that u posted and requested a free key but as far as i know that key is for WMC only. what about the win8 pro? how do i activate the win8 pro? i cant seem to find any activator in your torrents. can u help 
+,murphy78,2012-12-03T10:40Z,"yes gents, the data.dat has been replaced on this the same way as my nov18 version.  In fact it's the same installation just added to the wim for the rest of the retail channel versions.  I wish it fit on a 4.37 but it's only going to get worse every month for the x64 people.  MS seems to like updating their default apps with security patches causing large 50-100mb kb files.
+
+I personally prefer using a flash drive to so I don't have to burn a million discs to test everything, but I'll occasionally burn test something if people are reporting a problem that I didn't experience, which could indicate a malformed iso.
+
+As far as the MS not sending keys, they might be trying to fight this new influx of people requesting free keys somehow.  I noticed that the key time shot up from almost instant to 72hrs almost overnight and they don't seem to actually be sending out any new keys.  Either that or they are just extremely backlogged.  I hope it's just a temporary thing, but you never know.  I had a lot of new free wmc versions planned for after the dec11 patch date but if they don't send out keys, it's pointless and we'll just have to go back to kms server stuff."

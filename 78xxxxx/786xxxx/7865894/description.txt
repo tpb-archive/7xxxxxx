@@ -1,0 +1,52 @@
+Format                         : Matroska
+Format version                 : Version 1
+File size                      : 1.09 GiB
+Duration                       : 46mn 48s
+Overall bit rate               : 3 343 Kbps
+Encoded date                   : UTC 2008-09-14 16:38:52
+Writing application            : mkvmerge v2.2.0 ('Turn It On Again') built on Mar  4 2008 12:58:26
+Writing library                : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L5.1
+Format settings, CABAC         : Yes
+Format settings, ReFrames      : 5 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 46mn 48s
+Bit rate                       : 2 955 Kbps
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 25.000 fps
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.128
+Stream size                    : 968 MiB (87%)
+Writing library                : x264 core 60 r900 a9af942
+ 
+
+Audio
+ID                             : 2
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Codec ID                       : A_AC3
+Duration                       : 46mn 48s
+Bit rate mode                  : Constant
+Bit rate                       : 384 Kbps
+Channel(s)                     : 6 channels
+Channel positions              : Front: L C R, Side: L R, LFE
+Sampling rate                  : 48.0 KHz
+Bit depth                      : 16 bits
+Compression mode               : Lossy
+Stream size                    : 129 MiB (11%)
+Language                       : Danish
+Default                        : Yes
+Forced                         : No

@@ -1,0 +1,46 @@
+murphy78 presents Windows 8 Pro WMC Retail Channel
+Free Mode lets you install directly to the ProWMC version of
+Windows 8 with the Free Upgrade Key from Microsoft. It can take quite
+a while to receive a key, but the activation is legit straight from MS
+
+Get your free key and install directly, bypassing the need
+for Activators and shady Hacks:  
+http://windows.microsoft.com/en-US/windows-8/feature-packs 
+http://windows.microsoft.com/en-GB/windows-8/feature-packs
+
+No Windows 8 Settings were harmed in the making of this ISO.
+No Programs are added.
+No Unattended Settings were added to the installation.
+No Registry Settings were modified.
+
+Added ei.cfg to set Retail Channel.
+Added data.dat to ProWMC to enable free WMC upgrade keys.
+Added Info folder to installs to make more work for credit thieves.
+Net 2.0-3.5.1 enabled by DISM using SXS folder in sources directory
+
+MSDN Source:
+en-gb_windows_8_x64_dvd_915412
+
+This 64-bit RTM Source is the final Build 9200
+
+Language: en-GB (English - Great Britain)
+
+Tools used:
+imagex for image compression and export
+dism for MSU and Net2-3.5.1 integration
+oscdimg for ISO mastering
+
+KB Files added via add-package dism:
+KB2712101, KB2727528, KB2729462, KB2737084, KB2756872,
+KB2758246-v2, KB2761094, KB2761226, KB2764462, KB2764870,
+KB2768703, KB2769034, KB2769165, KB2770041, KB2770917,
+KB2771744, KB2771821, KB2777166, KB2777294, KB2778171,
+KB2780342, KB2780523
+
+KB Files NOT added:
+KB2772501 - 33kb IE10 iepropschema update
+This file is only downloadable in exe format
+Run Windows Update to D/L this update
+
+Enjoy Pirates,
+murphy78-TPB :)

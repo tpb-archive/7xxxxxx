@@ -1,0 +1,24 @@
+[Software INFO:]
+================
+
+Blu-ray Converter software can convert any Blu-ray video or AVCHD structure (from HD camcorder) to DVD video (with menu) or other video formats supported by most popular devices like PS3, XBOX360, DivX home player, iPod, iPhone, iPadΓÇª
+
+After selecting your source, the software will analyze it using our discriminator technology to find the type of content it contains:
+* only one main movie,
+* movies with bonus content (like making of, directors commentsΓÇª),
+* multi-version movie (like short & long versionsΓÇª),
+* series type (where all episodes will be listed separately)
+* multi-angle video (each angles will be listed separately). If this type of video is found, you will have access to a preview module displaying only the difference between the angles to select the good one.
+* ΓÇªother type of content will be added regarding last Blu-ray video we are testing (you can send a post if you find a Blu-ray poorly recognized, and we provide a fix ASAP)
+-Once the structure is analyzed, you can select the video sequences, the audio track and the subtitle track you want to keep. For the subtitle feature, if you select DVD profile the subtitles will be encoded as DVD subtitle (and you will can show/hide them using remote control). If you choose a single file profile (like PS3, iPod, iPhone, XBOX 360ΓÇª) the subtitles will be directly hard coded in video.
+- The next step allows you to choose the output profile, the maximum target size of the output file(s), the DVD menu template (if DVD profile is selected)ΓÇª and more. A visual helper display the final video quality regarding total video size to convert, the maximum target size and the selected profile to help the user to found the good settings.
+- The project can be automatically be burnt after the conversion by checking the option ΓÇ£Burn final result after successful ripΓÇ¥ (this option can be changed while converting too)
+- While the encoding process is working you can ask to shut down or hibernate your computer at process end
+
+================
+[INSTALL NOTES]
+================
+
+Step 1: Please use 7Zip/WinRAR/Universal Extractor to EXTRACT FILES.
+Step 2: run the setup
+Step 3: Apply patch

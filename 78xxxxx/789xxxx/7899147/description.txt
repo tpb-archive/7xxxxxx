@@ -1,0 +1,16 @@
+===================================================================================
+General
+Added quality option for Uniform
+Market Stall differentiates items by quality, so the proper value is used when trading
+Item quality improves weapon and armor effectiveness
+
+Fixed
+Becoming unresponsive when the game didn't have focus for a short period of time
+Crash when building a door at the edge of the map
+Stocking piles (dirt/ammo/etc piles) not always adhering to material constraints
+
+
+Adding filters for quality required some restructuring of how items are stored.  I had to spend some extra time this patch making sure old saves updated and nothing else broke since many parts of the game depend on finding and using items.  Now that gnomes look at quality when equipping weapons and armor, I felt comfortable having quality effect combat.
+
+I still need to add a quality option for building/placing furniture and a better method for generating quality when crafting.  I didn't want those things to hold up today's patch so they are still missing for now.
+==================================================================================

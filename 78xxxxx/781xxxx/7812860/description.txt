@@ -1,0 +1,21 @@
+Ez az eredeti Windows 8 HU Professional VL 32bit az MSDN-röl.
+
+hu_windows_8_pro_vl_x86_dvd_918150.iso
+
+Hungarian
+
+MD5:  da224410c3a8fd81c0c68f1fb6394517	
+SHA1: e6ea8862bc43a8a95830698336ebf683446e340d
+SFV:  faf2d6a8
+
+
+Aktiválásához KMS szerver kell.
+
+slmgr -ipk NG4HW-VH26C-733KW-K6F98-J8CK4
+slmgr -skms [egyik a listából*]
+slmgr -ato
+
+
+*http://textuploader.com/?p=6&id=EqWei
+
+

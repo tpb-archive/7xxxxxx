@@ -1,0 +1,1 @@
+The strong_parameters gem is an improvement over attr_accessible to securely handle mass assignment even when you have complex authorization logic. The functionality will likely be added to Rails 4 so it is a good idea to learn how it works. (12 minutes) If you found this helpful, please consider purchasing RailsCasts Pro.

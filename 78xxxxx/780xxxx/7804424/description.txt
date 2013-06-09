@@ -1,0 +1,43 @@
+============================================================================
+|There are no well established activation bypass as of yet, so I have not  |
+|included them.                                                            |
+|----------------------------------murphy78--------------------------------|
+|No Windows 8 Settings were harmed in the making of this ISO.              |
+|No Programs are added.                                                    |
+|No Unattended Settings were added to the installation.                    |
+|No Registry Settings were modified.                                       |
+|----------------------------------murphy78--------------------------------|
+|Either burn the included .iso file to a dvdr or use a usb flash drive.    |
+|I have included diskpart instructions and the win7usb tool.               |
+|I personally use diskpart and winrar, but the tool may be easier.         |
+|----------------------------------murphy78--------------------------------|
+|Source: MSDN en_windows_8_x64_dvd_915440.iso                              |
+|This 64-bit RTM is Build 9200                                             |
+|----------------------------------murphy78--------------------------------|
+|Languages included:                                                       |
+|el-GR (Greek), en-US (English), fi-FI (Finnish)                           |
+|lt-lt (Lithuanian), lv-LV (Latvian)                                       |
+|----------------------------------murphy78--------------------------------|
+|You still need to add the languages via (Control Panel-Add a language) if |
+|you want to switch between them. You simply do not need to download them. |
+|You can select the system language during installation, and even the boot |
+|languages are included.                                                   |
+|----------------------------------murphy78--------------------------------|
+|Tools used:                                                               |
+|imagex for image extraction                                               |
+|dism for file package addition                                            |
+|oscdimg for iso mastering                                                 |
+|Windows assessment and deployment kit for boot and setup languages        |
+|MSDN language packs for Install.wim language pack addition                |
+|----------------------------------murphy78--------------------------------|
+|KB Files added via add-package dism:                                      |
+|KB2712101, KB2756872, KB2758994, KB2761094, KB2764870, KB2768703,         |
+|KB2770041                                                                 |
+|Net 2.0-3.5.1 enabled by DISM using SXS folder in sources directory       |
+|----------------------------------murphy78--------------------------------|
+|The MSDN iso source is the best image available on the internet at the    |
+|time of integration.                                                      |
+|----------------------------------murphy78--------------------------------|
+|Enjoy,                                                                    |
+|murphy78 - TPB :)                                                         |
+============================================================================

@@ -1,0 +1,139 @@
+The V-Station is a polyphonic soft-synth for Mac and PC. It has the
+same real 3-oscillator flexibility as the award winning K-Station,
+with powerful filters, 8-voice polyphony, simultaneous Novation FX
+
+Programming V-Station is simple. All the primary controls are on
+the main screen. Recall a named factory preset, tweak it and
+instantly save it in any of the 400 program locations. You┬üfll find
+additional functions and controls on three further tabs.
+
+ 
+http://global.novationmusic.com/software/v-station
+
+
+PC Only release
+
+- Adds Windows 8 Compatibility
+- RTAS Plugins not tested (Pro Tools not officially supported on Windows 8)
+
+
+
+Specifications
+
+Plug-in format
+
+PC: VSTi
+Mac OSX: Audio Units and VSTi
+
+Architecture
+
+Voices: 8
+Instances/Multitimbrality: Unlimited (in practice up to 4 on a 2.5GHz PC and up to
+4 on a 1.25GHz dual-processor Mac G4)
+Effects may be switched off to increase number of instances
+
+Sound Storage
+
+Programs: 400 Re-Writable (200 factory preset) for each instance
+Compatibility: Programs from A-Station and K-Station can be uploaded and downloaded
+
+Oscillators 1, 2 and 3
+
+Waveforms: Square/Saw/Variable Pulse/Tri/Sine/Double Saw/Double Tri/Double Sine
+Octave Range: Shift -2/-1/0/+1/+2
+Mod Env Depth: -64 to +63
+LFO1 Depth: -64 to +63
+PWM Source: Mod Env/Manual/LFO2
+Ring Mod: 1 * 2
+FM: 2 * 3
+2 * 3 FM Level: 0-127
+2 * 3 FM Mod Level: -63 to +64
+FM Env Attack Rate: 250uS-20 Seconds
+FM Env Decay Rate: 1mS-20 Seconds
+Comprehensive Aftertouch, Breath and Pitch/Mod Wheel control of both static pitch and modulation of pitch
+
+Mixer
+
+Osc 1 Static Level: 0-127
+Osc 2 Static Level: 0-127
+Osc 3 Static Level: 0-127
+Noise Static Level: 0-127
+
+Filter
+
+Frequency: 5Hz-24kHz
+Slope: 12dB/24dB
+Modes: Low Pass
+Resonance: 0-Self Oscillation (24dB mode)
+Mod Env Depth: -64 to +63
+LFO 2 Depth: -64 to +63
+Cutoff: 0-127
+Keyboard Tracking: 0-127
+Overdrive: 0-127
+Q normalise: 0-127
+Comprehensive Aftertouch, Breath and Pitch/Mod Wheel control of both static filter freq and modulation of filter freq
+
+Amplifier Envelope
+
+Velocity: -64 to +63
+Attack: 250uS-20 Seconds
+Decay: 1mS-20 Seconds
+Sustain: 0-127
+Release: 1mS-20 Seconds
+
+Mod Envelope
+
+Velocity: -64 to +63
+Attack: 250uS-20 Seconds
+Decay: 1mS-20 Seconds
+Sustain: 0-127
+Release: 1mS-20 Seconds
+
+LF01
+
+Mode: Cyclic
+Waveforms: Sine/Tri/Saw/Squ
+Speed: 0 Hz-1Khz
+Delay Fade In: 0-5 Seconds
+LFO Sync: Internal/MIDI Clock
+
+LF02
+
+Mode: Cyclic
+Waveforms: Sine/Tri/Saw/Squ
+Speed: 0 Hz-1Khz
+Delay Fade In: 0-5 Seconds
+LFO Sync: Internal/MIDI Clock
+
+Arpeggiator
+
+Controls: On-Off/Speed/Octave range/Gate Time/Latch/pattern/MIDI Clock/Sync/Keysync
+
+Effects
+
+Reverb: Level/Echo Chamber, Small Room, Large Room, Small Hall, Large Hall, Grand hall/Decay/Wheel Level
+Chorus-Phaser: Level/Rate/Type/MIDI Clock Sync/Feedback/Mod Depth/Centre/MIDI clock sync initial Position Wheel Level
+Distortion: Drive/Compensation/Wheel Level
+Panning: Position/Mod Depth/Speed/MIDI clock Sync/Initial Position
+Delay: Depth/Time/Feedback/MIDI Clock Sync/Stereo Width/Ratio/Wheel Level
+EQ/Filter: Depth/Freq/Mod Depth/Mod Speed/ MIDI clock sync/MIDI clock sync Initial position
+
+
+
+INSTALLATION:
+
+
+ΓÇó Uninstall previous versions.
+
+ΓÇó Next open the .rar file by double clicking it. If you can't open it you need to get an archiver which supports rar files such as Winrar and extract.
+
+ΓÇó Install the setup...
+
+
+
+
+ΓÇó That's it! Done.
+
+
+
+3Nj0Y!!!

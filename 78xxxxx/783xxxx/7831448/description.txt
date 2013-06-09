@@ -1,0 +1,5 @@
+This screencast presents a method for writing isolated tests without using stubs or mocks. We'll explicitly separate the value part of an objectΓÇöits instance variablesΓÇöfrom the behavior partΓÇöits methods. Then, when testing other classes, we can integrate them only with the value part, as exposed by the accessor methods.
+
+We avoid the danger of mocks and stubs going out of sync with the code being tested, since we're integrating with real accessor methods that will exist in the final object. We also avoid the danger of accidentally calling complex methods that shouldn't be under test: since we only test against the data part of the object, there's no risk of integration.
+
+This method isn't universal. It falls flat on objects that are heavy on behavior and light on data. But it is one way to test against commonly-used, data-heavy classes (in the case of the Destroy All Software codebase that we work on here, the Screencast class).

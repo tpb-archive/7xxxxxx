@@ -1,0 +1,75 @@
+Compilé a partir de fichiers ISO originaux Microsoft MSDN
+
+Regroupe les principales versions de Windows 8 en 32 et 64 bits ainsi que les versions N.
+
+Versions N = Absence du Windows Media Player ainsi que des codecs audio et vidéo.
+
+ 
+http://nimga.fr/f/TIlRF.jpg
+
+
+Comparaisons des Editions :
+
+(Windows 8 = Windows 8 Core)
+
+ 
+http://nimga.fr/f/VONQq.png
+
+
+Fichier ISO : Windows.8.AIO.iso
+
+Taille : 4,12 Go (4 427 536 384 octets)
+
+
+MD5: 6557617BA0BA738AEB0DCC30B831315F
+
+SHA-1: 2D727CC329E1D247F0ED3178C276389DF90FC732
+
+
+Configuration Minimale recommandée
+
+Windows 8 32bits
+1 gigahertz (GHZ)
+1 gigabyte (GB) RAM
+12 GB available hard disk space
+
+Windows 8 64bits
+1 gigahertz (GHZ)
+2 gigabyte (GB) RAM
+16 GB available hard disk space
+
+
+Activation de Windows 8:
+
+Pour toute les versions :
+
+1.) Dans l'outil de recherche taper cmd
+2.) Clic droit sur Invite de commandes
+3.) Cliquez sur exécuter en tant qu'administrateur
+4.) Tapez dans la fenêtre noire slmgr /skms
+5.) Appuyez sur enter et attendez
+6.) Tapez slmgr -ato
+7.) Appuyez sur enter et attendez
+8.) OK
+
+OU
+
+Uniquement pour Windows 8 Pro 32 et 64 bits :
+
+1.) Tapez cmd sur l'écran d'accueil dans recherche
+2.) Clic droit sur Invite de commandes
+3.) Cliquez sur exécuter en tant qu'administrateur
+4.) Tapez dans le terminal
+slmgr /upk
+slmgr /rearm
+slmgr -skms
+5.) Appuyez sur enter et redemmarez
+6.) Recommencez les étapes 1 à 3 puis tapez dans le terminal
+slui.exe
+Une fenêtre s'ouvre en vous demandant une clé
+NG4HW-VH26C-733KW-K6F98-J8CK4
+7.) Tapez dans le terminal
+slmgr -ato
+
+
+

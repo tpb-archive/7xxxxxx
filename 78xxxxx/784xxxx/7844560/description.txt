@@ -1,0 +1,51 @@
+FrancaisAudiardAudiard.1964.Blier.Belmondo.Cent Mille Dollars Au Soleil.avi
+Format                                   : AVI
+Format/Info                              : Audio Video Interleave
+File size                                : 699 MiB
+Duration                                 : 1h 59mn
+Overall bit rate                         : 818 Kbps
+
+Video
+ID                                       : 0
+Format                                   : MPEG-4 Visual
+Format settings, BVOP                    : Yes
+Format settings, QPel                    : No
+Format settings, GMC                     : No warppoints
+Format settings, Matrix                  : Default (H.263)
+Codec ID                                 : DX50
+Codec ID/Hint                            : DivX 5
+Duration                                 : 1h 59mn
+Bit rate                                 : 677 Kbps
+Width                                    : 720 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.094
+Stream size                              : 578 MiB (83%)
+Title                                    : NeoVideoBeta10
+Writing library                          : DivX 5.0.5 (UTC 2003-04-24)
+
+Audio
+ID                                       : 1
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 3
+Mode                                     : Joint stereo
+Mode extension                           : MS Stereo
+Codec ID                                 : 55
+Codec ID/Hint                            : MP3
+Duration                                 : 1h 59mn
+Bit rate mode                            : Constant
+Bit rate                                 : 128 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Stream size                              : 109 MiB (16%)
+Alignment                                : Split accross interleaves
+Interleave, duration                     : 24 ms (0.60 video frame)
+Title                                    : NeoAudioBeta100

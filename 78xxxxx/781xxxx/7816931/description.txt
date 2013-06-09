@@ -1,0 +1,35 @@
+Movies : Comedy : VHS Rip : English, 66min15secs
+
+The Bowery Boys 1950 Blonde Dynamite
+ 
+http://www.imdb.com/title/tt0042262/
+ 
+http://thepiratebay.se/user/jmmybttm
+
+[15:05:07] starting job
+[15:05:07] work: sanitizing track 0 mixdown Dolby Pro Logic II to Stereo
+[15:05:07] job configuration:
+[15:05:07]  * source
+[15:05:07]    + C:Blonde DynamiteVIDEO_TS
+[15:05:07]    + title 1, chapter(s) 1 to 1
+[15:05:07]  * destination
+[15:05:07]    + C:Documents and SettingsDead End KidsMy DocumentsBlonde Dynamite.mkv
+[15:05:07]    + container: Matroska (.mkv)
+[15:05:07]      + chapter markers
+[15:05:07]  * video track
+[15:05:07]    + decoder: mpeg2
+[15:05:07]      + bitrate 8000 kbps
+[15:05:07]    + frame rate: same as source (around 23.976 fps)
+[15:05:07]    + strict anamorphic
+[15:05:07]      + storage dimensions: 720 * 480 -> 720 * 478, crop 0/2/0/0
+[15:05:07]      + pixel aspect ratio: 8 / 9
+[15:05:07]      + display dimensions: 640 * 478
+[15:05:07]    + encoder: x264
+[15:05:07]      + options: ref=2:bframes=2:me=umh
+[15:05:07]      + bitrate: 395 kbps, pass: 2
+[15:05:07]  * audio track 0
+[15:05:07]    + decoder: English (AC3) (2.0 ch) (track 1, id 80bd)
+[15:05:07]      + bitrate: 192 kbps, samplerate: 48000 Hz
+[15:05:07]    + mixdown: Stereo
+[15:05:07]    + encoder: faac
+[15:05:07]      + bitrate: 160 kbps, samplerate: 48000 Hz

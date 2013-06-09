@@ -1,0 +1,47 @@
+Issues Resolved in Pro Tools 10.3.2
+* Automation breakpoints are no longer added unnecessarily when editing clips with Automation Follows Edit turned on. (PTSW-173028)
+* Automation overlaying audio that is then processed using the Strip Silence command is kept intact. (PTSW-170804)
+* Very large files exported to Interplay will not be quarantined. (PTSW-154522)
+* Web Services hostname / IP address is now remembered between Send to Playback exports. (PTSW-172334)
+* The ΓÇ£Capture SelectionΓÇ¥ function in Beat Detective now captures the correct end time based on the selected note resolution instead of actual transient location. (PTSW-172978)
+
+Issues Resolved in Pro Tools 10.3.1
+* Unwanted data is no longer appended to the end of record passes under certain conditions. (PTSW-170032)
+* On Pro Tools HDX systems, 176.4/192kHz sessions are now free of unwanted noise in some specific mixer configurations. (PTSW-166529)
+* When zoomed into the sample level, waveforms whose clip start is off-screen now draw accurately (instead of one sample late). (PTSW-162497)
+* Clicking the Automation Follows Edit button now correctly causes the current selection to update to reflect the new state of the button. (PTSW-170044)
+* Automation breakpoints outside of a pasted selection area that match the edge values of the pasted automation (redundant breakpoints) are no longer modified when pasting. (PTSW-171725)
+* AudioSuite operations using the ΓÇ£Whole FileΓÇ¥ parameter no longer result in unwanted changes to audio data or cause Pro Tools to quit unexpectedly. (PTSW-170456, PTSW-170920)
+* In Dynamic Transport mode with Link Timeline and Edit Selection enabled, the playhead no longer moves to beginning of the selection. (PTSW-172367)
+
+Pro Tools HD 10 System Requirements
+
+Windows Systems
+* Computer: Avid-qualified Windows-based computer (see details)
+* System Software (32 or 64-bit) Windows 7 Home Premium, Professional, or Ultimate edition with Windows 7 Service Pack 1
+* Total System RAM: 4GB minimum, 8GB (or more) recommended
+
+Additional Requirements
+* Pro Tools|HD Audio Interfaces (required) and Peripherals (see details)
+* Audio Drive Requirements: One or More Hard Disk Drives Dedicated for Audio Record and Playback (see details)
+* System Hard Drive: Minimum 15GB free space on startup drive required for Pro Tools installation
+* Graphics Card: Dedicated Graphics Card highly recommended (see details)
+* Video Peripherals (see details)
+* Avid Shared Storage and Interplay (see details)
+
+Pro Tools Software Options
+* Video Satellite with Media Composer (see details)
+* Machine Control (see details)
+* Satellite Link (see details)
+* Video Satellite LE (see details)
+
+Other
+* Media Composer Co-install (see details)
+* Mac Aggregate Device Info (see details)
+
+Driver Updates
+* Please download and install the latest drivers for your hardware.
+
+Languages : English (US), French, German, Japanese, Chinese ( Simplified), Chinese (Traditional), Korean, Spanish.
+
+Homepage : www.avid.com/US/products/Pro-Tools-Software

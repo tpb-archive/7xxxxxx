@@ -1,0 +1,56 @@
+﻿User Type,Username,Date,Text
+,letmeshare,2012-11-21T21:35Z,please comment if you can download
+,weazel1987,2012-11-22T00:17Z,where do i put all these files?
+,letmeshare,2012-11-22T16:24Z,"C:Program Files (x86)The Elder Scrolls V Skyrim
+or
+C:Program FilesThe Elder Scrolls V Skyrim"
+,lennonlol,2012-11-23T15:55Z,Someone please seed. There are at least a dozen people stuck at 3.6%.
+,letmeshare,2012-11-23T16:59Z,i'm seeding right now!
+,jwpvenx,2012-11-24T12:10Z,seed pls !
+,jwpvenx,2012-11-24T13:49Z,seeeeeeeeeeeeeeeeeeeeeeeeeeeeeedddddddddddddd
+,rkelley1991,2012-11-25T18:30Z,"How do I install this game? I run the skyrim launcher, and it says that it cannot find the .ini file."
+,letmeshare,2012-11-25T21:27Z,"this isn't the full game
+download the full gate here: http://thepiratebay.se/torrent/6808323/The_Elder_Scrolls_V_Skyrim-Razor1911"
+,rkelley1991,2012-11-25T21:53Z,Razor1911 always requires a password to unzip the files.
+,letmeshare,2012-11-25T23:30Z,"do not unzip files, mount or burn the iso image and setup without unzipping any thing"
+,DrMurKaw,2012-11-26T10:04Z,There are only about 4 seeders online right now. Seeed. I myself will be seeding for a good long while after I download this.
+,Mr.Quipster,2012-11-28T09:18Z,"I don't get it. I move all files to their respective folders and I still can't activate Dawngaurd.
+
+Any help will be appreciated."
+,letmeshare,2012-11-28T16:28Z,"5. Locate or search for the SkyrimPrefs.ini file that should be under your My Games subfolder. For example, mine is located at:
+C:UsersELOCKLORANMy DocumentsMy GamesSkyrim
+6. Open that file and search for [Launcher] and add ""bEnableFileSelection=1"". It'll look something like this:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+So add that line so it looks like:
+[Launcher]
+bShowAllResolutions=0
+uLastAspectRatio=2
+bEnableFileSelection=1
+Now the Data Files option will be un-greyed and selectable."
+,letmeshare,2012-11-28T19:16Z,"please help me
+http://miningorbuilding.raidcall.com/?k=2eb94b7d82469d0"
+,Mr.Quipster,2012-11-28T22:41Z,"@letmeshare,
+ I already did that bro. Everything has been moved to their respective folders. The line has been added to the text file. I already see and am able to click on the Data Files option. The problem is that Dawngaurd is not an option. "
+,Mr.Quipster,2012-11-28T22:48Z,"Alright. I solved my problem. The entire time I was trying to install this I was installing this in the wrong installation folder. The previous owner had installed Skyrim and when I uninstalled that game, it didn't remove the default installtion folder. I installed my own copy to a different location (which I just found just now). Now it works. lol. I feel like an idiot. Haha Sorry about that."
+,letmeshare,2012-11-29T01:17Z,"dont worry, everyone has your own bad day"
+,CWRblew,2012-11-29T21:28Z,"I'm also getting the greyed-out Data Files option. I installed razor-911's Skyrim version, installed this in the same place (overwriting/replacing the duplicate files) and still can't choose Dawnguard as an option.  The prefs.ini has been edited to enable file selection.
+
+Is there something I am doing wrong?  What installation processes have people used that work?"
+,letmeshare,2012-11-29T22:09Z,"well uninstall and delete all folders , install skyrim into C: then copy and paste all files from Skyrim.1x10.Updates.plus.Dawnguard to where you have installed skyrim sample: C:Program Files (x86) The Elder Scrolls V Skyrim re-config prefs.ini file and see if works"
+,CWRblew,2012-11-29T22:51Z,"Success!
+
+So that nobody spends a buttload of time wandering in circles like I did, here's what you need to do to fix it.
+
+Do not look in your installation folder.  There is a skyrim.prefs in there, and that skyrim.prefs is a terrible, terrible lie.
+
+To find the actual skyrim.prefs you need to edit: 
+Open ""My Games""
+Find the Skyrim folder
+Open Skyrim.prefs
+Go to the ""Launcher"" section
+Add that bEnableFileSelection=1 line
+
+Thanks a ton for uploading this and telling me how to fix the .prefs problem."
+,letmeshare,2012-11-29T23:30Z,"i'm glad you got, enjoy!"

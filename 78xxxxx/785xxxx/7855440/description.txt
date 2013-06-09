@@ -1,0 +1,93 @@
+PPPPPPPPPPPPPPPPP   NNNNNNNN        NNNNNNNN   SSSSSSSSSSSSSSS 
+P::::::::::::::::P  N:::::::N       N::::::N SS:::::::::::::::S
+P::::::PPPPPP:::::P N::::::::N      N::::::NS:::::SSSSSS::::::S
+PP:::::P     P:::::PN:::::::::N     N::::::NS:::::S     SSSSSSS
+  P::::P     P:::::PN::::::::::N    N::::::NS:::::S            
+  P::::P     P:::::PN:::::::::::N   N::::::NS:::::S            
+  P::::PPPPPP:::::P N:::::::N::::N  N::::::N S::::SSSS         
+  P:::::::::::::PP  N::::::N N::::N N::::::N  SS::::::SSSSS    
+  P::::PPPPPPPPP    N::::::N  N::::N:::::::N    SSS::::::::SS  
+  P::::P            N::::::N   N:::::::::::N       SSSSSS::::S 
+  P::::P            N::::::N    N::::::::::N            S:::::S
+  P::::P            N::::::N     N:::::::::N            S:::::S
+PP::::::PP          N::::::N      N::::::::NSSSSSSS     S:::::S
+P::::::::P          N::::::N       N:::::::NS::::::SSSSSS:::::S
+P::::::::P          N::::::N        N::::::NS:::::::::::::::SS 
+PPPPPPPPPP          NNNNNNNN         NNNNNNN SSSSSSSSSSSSSSS   
+
+===================================================================================
+
+3D Flip Clock & World Weather v0.89
+
+Requirements: Android 1.6+
+
+A fully customizable 3D flip clock and world weather widget
+
+
+The widget features the following:
+
+- 2 widget sizes; 4x2 and 5x2(for Galaxy Note or tablets)
+- 36 skins to choose from (more skins coming in the future)
+- Support for external theme packs containing even more skins (theme packs can be downloaded separately)
+- 4 weather icon skins
+- 8 fonts for the time
+- Portrait or landscape mode
+- 12 or 24 hour clock with date
+- Display of current week number
+- Current location (city, country) taken automatically from cell/wifi or GPS, or specified by the user
+- Weather conditions for current location (condition and temperature, low and high temperatures and weather icon)
+- Detailed weather forecast display including the following:
+- Local time
+- Sunrise and sunset time for current location
+- Humidity and wind conditions
+- Current condition, temperature and low and high temperatures
+- Current condition icon
+- Last weather update time
+- 4 day weather forecast
+- World weather: Choose to display weather information for any number of different locations worldwide. Just select your favorite locations and you will immediately have updated weather and time information.
+- Refresh location or weather by tapping on the widget
+- Launch up to four different applications by tapping different widget hotspots (everything is user defined)
+
+The widget can be fully customized with the following options:
+
+- Choose the widget and weather icon skins
+- Choose the text color for the time, am/pm indication, date, location, current weather condition, current temperature and hi/lo temperatures
+- Display shadow on the time
+- Choose the font for the time
+- Display 12 or 24 hour time with optional AM/PM indicator (if 12 hour format)
+- Beep every hour (optional)
+- Select the date display format
+- Display a manually selected location's time instead of phone's time
+- Optionally show or hide specific elements of the widget (background panel, background flaps, knobs, date panel and hi/lo temperature)
+- Use current location to display weather info or specify any location you want
+- Get location updates from the network (cell/WiFi) or your GPS
+- Display temperature values in Celsius or Fahrenheit
+- Optionally display the next alarm (under the hour)
+- Select automatic weather refresh period (15 minutes, 30 minutes, 1, 2, 3, 4 or 6 hours)
+- Enter your favorite world locations to watch local times, current weather conditions and weather forecast information
+- Update weather on WiFi and/or GPRS
+- Choose whether you want to update while roaming or not
+- Play notification sounds on location and weather changes and updates
+- Select what application to launch when tapping the hours
+- Launch more applications by tapping the weekday or month
+- Optionally display the battery level
+- Specify how to receive location updates (how often and for how much distance)
+
+IMPORTANT!!!
+- This is a widget, not an application. To install it please refer to the help display when you run it. There is also a link to a video that shows you how to install it.
+
+- If you are using a task killer exclude the widget from it
+
+What's in this version:
+This update contains important changes and fixes. If you find an issue please report it via e-mail.
+- [fix] Weather forecast bug fix
+- [fix] Miscellaneous bug fixes and optimizations
+- [new] Location update on connectivity available
+- [new] Added option to save and restore settings (under Advanced settings)
+- [new] Added support for hex color values in color selection dialog
+
+This app has adsense advertisements
+
+More Info:
+  
+https://play.google.com/store/apps/details?id=com.droid27.d3flipclockweather

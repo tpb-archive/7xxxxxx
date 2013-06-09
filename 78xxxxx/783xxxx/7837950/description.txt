@@ -1,0 +1,51 @@
+Microsoft Toolkit - a set of tools to manage the licensing and activation of Microsoft Office and Windows.All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed),AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported.
+
+
+
+Requirements:
+
+Microsoft. NET Framework 4.0 or 4.5 (Not 3.5)
+
+Microsoft Office 2010 or Later for Office Toolkit Support
+
+Windows Vista or Later for Windows Tookit Support
+
+
+
+Changelog:
+
+-Activate and AutoKMS will charge a KMS Server's Client Count if it is determined to be too low.
+
+-Activate will stop KMS Server Service, and restart it when done.
+
+-Added ability to restore Microsoft Office 2013 activation on Windows 8 to a different Windows 8 Edition.
+
+-Added KMS Server Service as an Activation Tool.
+
+-Added SharePoint Designer 2013 Product Key.
+
+-AutoKMS will not attempt to activate a KMS Host Key mistakenly.
+
+-Better clearing and setting of KMS Hostname and Port if it has been set using other methods.
+
+-Blocked running from Network Drive.
+
+-Can KMS Activate Microsoft Office 2013 on Windows 7 (but not Windows 8) offline.
+
+-Customize Setup's Add Languages ??lets you integrate multiple languages ??at once.
+
+-Customize Setup's Add Updates lets you integrate multiple updates at once.
+
+-Fixed a License Restore bug on Windows 8 where tokens could not be deleted / replaced.
+
+-Fixed Remove Language always saying you only have one language installed.
+
+-If you get C004F074, KMSEmulator is started and any processes using the KMS Port are killed, to ensure KMSEmulator runs.
+
+-KMS Server Service will kill any process using the needed KMS Port.
+
+
+
+Year: 2012
+
+Operating system: Windows ┬« XP/Vista/Seven/8

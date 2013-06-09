@@ -1,0 +1,12 @@
+cPanel is a Unix based web hosting control panel that provides a graphical interface and automation tools designed to simplify the process of hosting a web site. cPanel utilizes a 3 tier structure that provides capabilities for administrators, resellers, and end-user website owners to control the various aspects of website and server administration through a standard web browser.
+
+In addition to the GUI interface, cPanel also has command line and API-based access that allows third party software vendors, web hosting organizations, and developers to automate standard system administration processes.[2]
+
+cPanel is designed to function either as a dedicated server or virtual private server. The latest cPanel version supports installation on CentOS, Red Hat Enterprise Linux (RHEL), and CloudLinux.[3] cPanel 11.30 is the last major version to support FreeBSD.[4][5]
+
+Application-based support includes Apache, PHP, MySQL, PostgreSQL, Perl, and BIND (DNS). Email based support includes POP3, IMAP, SMTP services. cPanel is commonly accessed on port 2082, with an SSL-secured server operating on port 2083.
+
+Once installed, cPanel cannot be removed (without extreme difficulty). The server must be formatted, and the operating system reinstalled. Similarly, it should only be installed on a freshly installed operating system with minimal prior configuration.
+
+ 
+http://en.wikipedia.org/wiki/CPanel

@@ -1,0 +1,1 @@
+PhantomJS allows us to test JavaScript without going through a browser window. Here I show how to do this using Capybara and Poltergeist. I also give some tips on handling database transactions and skipping javascript tests. (10 minutes)

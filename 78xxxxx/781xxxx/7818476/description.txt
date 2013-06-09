@@ -1,0 +1,29 @@
+Microsoft Windows 8 Enterprise x86 MSDN HUN
+
+
+Ez az eredeti Windows 8 HU Enterprise VL 32bit az MSDN-röl.
+
+hu_windows_8_enterprise_x86_dvd_917673.iso
+
+Hungarian
+
+MD5:  342d2a1cef512ad483461fb74d9a63b8	
+SHA1: 7d882b8b12b1b23be4deebae9376939cc95bccd2
+SFV:  5e702a54
+
+
+
+Aktiválásához KMS szerver kell.
+
+slmgr -ipk 32JNW-9KQ84-P47T8-D8GGY-CWCK7
+slmgr -skms [egyik a listából*]  pl:
+slmgr -ato
+
+
+*http://textuploader.com/?p=6&id=EqWei
+
+Például:
+--------
+slmgr /ipk 32JNW-9KQ84-P47T8-D8GGY-CWCK7
+slmgr /skms
+slmgr /ato

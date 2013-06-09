@@ -1,0 +1,21 @@
+Yellow Dog Linux is based on Red Hat Enterprise Linux/CentOS and relies on the RPM Package Manager. Its software includes user applications such as Ekiga (a voice-over-IP and videoconferencing application), GIMP (a raster graphics editor), Gnash (a free Adobe Flash player), gThumb (an image viewer), the Mozilla Firefox Web browser, the Mozilla Thunderbird e-mail and news client, the OpenOffice.org productivity suite, Pidgin (an instant messaging and IRC client), the Rhythmbox music player, and the Noatun and Totem media players.
+ 
+Since YDL version 5.0 ΓÇÿPhoenix,ΓÇÖ Enlightenment has been the default desktop environment in Yellow Dog Linux, although GNOME and KDE are also included.
+ 
+Like other Linux distributions, Yellow Dog Linux supports software development with GCC (compiled with support for C, C++, Java, and Fortran), the GNU C Library, GDB, GLib, the GTK+ toolkit, Python, the Qt toolkit, Ruby and Tcl. Standard text editors such as Vim and Emacs are complemented with IDEs such as Eclipse and KDevelop, as well as by graphical debuggers such as KDbg. Standard document preparation tools such as TeX and LaTeX are also included.
+ 
+Yellow Dog Linux includes software suitable for running a Web server (such as Apache/httpd, Perl, and PHP), database server (such as MySQL and PostgreSQL), and network server (NFS and Webmin). Additional software is also included for running an enterprise server or a compute server or cluster, although two separate products from Terra Soft Solutions, called Yellow Dog Enterprise Linux (for enterprise servers) and Y-HPC (for compute servers/clusters), are specifically targeted toward those applications.
+ 
+YDL version 6.2 was released on 29 June 2009.[1]
+ 
+Yellow Dog Linux, version 6.0 ΓÇÿPyxis,ΓÇÖ is based on Linux 2.6.23. It ships with GCC 4.1.1, glibc 4.1.1, Eclipse 3.2.2, and over 2000 software packages. [2]
+ 
+Although several other Linux distributions support the Power Architecture, Yellow Dog Linux was distinguished for its focus on supporting the Apple Macintosh platform before the AppleΓÇôIntel transition. Before this transition, Terra Soft Solutions held the unique distinction of being the only company licensed by Apple to resell Apple computers with Linux pre-installed (or for that matter, with any operating system other than Mac OS X). Full support for AirPort (AppleΓÇÖs implementation of the IEEE 802.11b-1999 wireless networking standard), and partial support for AirPort Extreme, are also built into Yellow Dog Linux, as are support for Bluetooth and support for accessing the Internet over cellular phones.
+ 
+Following AppleΓÇÖs transition to using Intel processors exclusively in their Macintosh line of computers, Yellow Dog Linux has now been retargeted to support the Sony PlayStation 3 and IBM pSeries platforms extensively, while retaining its longstanding support for PowerPC-based Apple hardware.
+ 
+[edit] Distribution
+ 
+Yellow Dog Linux is sold by Fixstars who also market Sony PlayStation 3 consoles, IBM workstations, and servers with Yellow Dog Linux pre-installed. As is the case with most other Linux distribution vendors, a portion of the revenue from the sale of these boxed distributions goes toward development of the Linux operating system and applications, the results of which are made available as source code under various free and open source licenses.
+ 
+As an interesting application of YDL on PlayStation 3 consoles: Gaurav Khanna, a professor in the Physics Department of the University of Massachusetts Dartmouth built a message-passing based cluster using 16 PS3s. This cluster was the first such cluster that generated published scientific results. Dubbed as the "PS3 Gravity Grid", this PS3 cluster performs astrophysical simulations of large supermassive black holes capturing smaller compact objects.[3] Khanna claims that the cluster's performance exceeds that of a 100+ Intel Xeon core based traditional Linux cluster on his simulations. The PS3 Gravity Grid gathered significant media attention through 2007,[4][5] 2008,[6][7] 2009 [8][9][10] and 2010.[11][12]

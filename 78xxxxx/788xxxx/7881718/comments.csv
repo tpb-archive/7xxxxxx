@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,SilenceMurderer,2012-12-03T13:18Z,A question for NLUPPER002: do you know if there is an easy way to convert 5.1 DTS/AC3 to stereo AAC?
+[V],NLUPPER002,2012-12-03T19:49Z,"If i must do it i use TMPGEnc Video Mastering Works 5 or TMPGEnc MPEG Smart Renderer 4
+
+But if u have not that programs u can try eac3to.
+http://forum.doom9.org/showthread.php?t=125966
+
+Good luck "
+,SilenceMurderer,2012-12-03T22:58Z,"Thanks a lot for your help! I tried TMPGEnc Video Mastering Works 5.0.5.32.
+
+I'm trying to convert the AC3/DTS 5.1 to stereo AAC while keeping the video same as the source (and preferably deleting the old audio). But every program I've tried so far can only convert video+audio or makes a separate audio file.
+
+I succeeded with converting the audio from 5.1 DTS to stereo AAC with ImTOO Video Converter Ultimate, which automatically splitted the audio from the video. But I managed to add the 2ch AAC to the video again with TMPGEnc Video Mastering Works. (However, when I try this(TMPGEnc's multiplexer) with a larger video (7GB) the program stops responding...)
+
+I'm wondering if you know a program what can do this at once (only converting the audio to 2ch AACwithout splitting it from the video). 
+
+This message got a bit longer then I expected, thanks a lot for your time! Ik download altijd je films, altijd goede kwaliteit! ;) "

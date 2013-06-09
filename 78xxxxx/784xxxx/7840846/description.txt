@@ -1,0 +1,17 @@
+ Installing Apache, MySQL, and PHP with David Gassner describes how to install and configure Apache HTTP server, MySQL database server, and PHP, known as the AMP stack, on a local development computer. Chapters are devoted to multiple installation approaches: installing the components separately on both Windows and Mac (including coverage of Apache and PHP on Mac OS X 10.7 Lion), installing the pre-packaged Apache and MySQL distributions in WampServer on Windows and MAMP on Mac, and installing the cross-platform XAMPP and Bitnami on both Mac and Windows. Exercise files are included with the course.
+
+This course was updated on 07/06/2012.
+Topics include:
+
+Performing Apache, PHP, and MySQL as separate installs
+Activating Apache and PHP on Leopard, Snow Leopard, and Lion
+Setting the MySQL root user password
+Installing WampServer
+Changing software versions with WampServer add-ons
+Installing MAMP
+Configuring MAMP's Apache and MySQL server ports
+Installing XAMPP for Windows and Mac
+Managing MySQL security through XAMPP
+Installing Bitnami for Windows and Mac
+Detecting and handling port conflicts
+Working with Apache and IPV6 in Windows 8

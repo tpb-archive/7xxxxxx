@@ -1,0 +1,19 @@
+﻿User Type,Username,Date,Text
+,upCdayC,2012-11-19T16:30Z,Does this have special features?
+,pcgamingftw,2012-11-19T17:26Z,"Thanks, this is the stuff."
+,tyl3rdurd3n,2012-11-19T19:49Z,@upCdayC: Yup; everything you'd expect to find if you bought the disc!
+,tyl3rdurd3n,2012-11-19T21:11Z,"@upCdayC: Taking back my comment above. Seems like this only includes the movie and the menu-related stuff. There's probably another, second disc which contains the 'bonus' material or special features."
+,upCdayC,2012-11-20T20:03Z,"Thanks for the tip, there's another torrent out there with the special features only"
+,awcamaro,2012-11-23T17:43Z,"How do you play the bdmv file? I can just play the movie with VLC but no menus show up. Are there any programs you suggest? I have a Mac, by the way."
+,tyl3rdurd3n,2012-11-23T21:11Z,"@awcamaro: You have to first make an ISO (disk image). You'd need Demon-tools to do that that. After that, you use the program to create a virtual BD-Rom and then mount the disk-image you created to the virtual drive. It plays like a bluray disc now and you get the menus and everything on VLC. Actually, I've tried playing it with VLC but I get some error altho I've heard it's capable of bluray ISO playback; maybe it's just me. I use PowerDVD instead and it works fine. You might need to install that too if you were having playback issues with VLC."
+,awcamaro,2012-11-24T21:31Z,I have a Mac and Daemon-tools is not supported on Mac. Do you know of any alternatives?
+,awcamaro,2012-11-24T23:30Z,"Ok, I have the .iso. How do make a virtual BD-ROM?"
+,awcamaro,2012-11-24T23:32Z,I have the .iso. I made it via imgburn. How do I create a virtual BD-ROM?
+,tyl3rdurd3n,2012-11-24T23:59Z,"I'm not really familiar with that program. On Demon tools, you get an option on the program to add a ""SCSI Virtual Drive"" and then you just go to your ISO and right click to mount it to the newly created drive. You should see in the Help section on what you need to do to create and mount a disk image with imgburn."
+,tyl3rdurd3n,2012-11-25T00:00Z,*create a virtual drive
+,awcamaro,2012-11-25T17:54Z,"OK, VLC plays the movie, but doesn't support any menus or anything. I'm not sure why though."
+,awcamaro,2012-11-25T18:16Z,Does PowerDVD support menu's?
+,tyl3rdurd3n,2012-11-25T20:09Z,"It does, yeah."
+,Ars_Magna,2012-11-27T21:27Z,can I burn this file in bluray disc???...I mean after seeding a couple of months IÂ´m not having this huge file on my computer...
+,tyl3rdurd3n,2012-11-27T22:58Z,"Yes, you can. Make an ISO from all the files and then you can burn that to a bluray disc."
+,contrabajo,2012-11-30T16:05Z,"If you want to play a bluray with a Mac, you have Bluray Mac Player http://www.macblurayplayer.com/ But you can play the movie as well with vlc with the correct file in the STREAM folder. Hope it helps!!"

@@ -1,0 +1,26 @@
+Custom hosts file that I made by combining multiple hosts files already available,
+
+This hosts file will be blocking most advertisement servers on the web, protect against various dangerous websites and also avoid some tracking websites.
+
+I have been using this on 2 computers with windows 7 and windows xp, no problems other than that you need to disable "DNS-Client" service, also on my iPhone 4 version 4 through 5.1.1 atm and no problems so far.
+
+So read this if you don't want any problems when using it: http://winhelp2002.mvps.org/hosts.htm#Note
+
+
+
+
+
+
+
+
+Lists used:
+used for blocking activation of various software - system utilities; - adobe 
+http://www.iphonehacks.com/2008/10/adblock-hack.html   - mobile ads 
+http://winhelp2002.mvps.org/hosts.htm - mvps hosts
+SpyBot Search and Destroy - spybot block 
+http://pgl.yoyo.org/adservers/ - ds pgl.yoyo.org/adservers 
+http://someonewhocares.org/hosts/ - someonewhocares hosts
+
+
+
+Also here is a dropbox link for the same file:

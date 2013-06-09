@@ -1,0 +1,13 @@
+﻿User Type,Username,Date,Text
+,senseotech,2012-11-08T22:26Z,"Beware, CNC has been talking in private with this dev, so theres a pretty good chance you're getting more than you bargained for.  In my testing, it attaches to twitter as a different application than the real Tweetbot, and requires re-authentication every time you open.  Who knows what else its doing nefarious."
+,andimspent,2012-11-09T02:25Z,"Thanks for letting me demo this before dishing out $20. Turns out I love this app, can afford it, and  have since happily purchased it and other Tapbots apps."
+,rnzdnyr,2012-11-09T06:56Z,"@andimspent If you actually purchased the retail version of Tweetbot, could you share it? Please. It would be awesome! Thanks. "
+,dangreen,2012-11-09T12:33Z,"@senseotech
+Bingo!. 
+Delete the „com.tapbots.Tweetbot.AccountTokens“ item from your Keychain (/Applications/Utilites/Keychain.app) and re-launch Tweetbot.
+That's the fix for re-authorization required each time."
+,rnzdnyr,2012-11-09T21:45Z,@dangreen Could you please explain us why does this version of Tweetbot requires another permission from Twitter as it was from another developer? Is this actually from Tapbots (the retail version)? 
+,senseotech,2012-11-10T03:23Z,"The fact it tries to authorize to Twitter as a different app from the retail version means more tampering has been done then a simple [k], meaning I wouldn't trust this at all."
+,dangreen,2012-11-10T07:57Z,"«@rnzdnyr @senseotech, afaik: a cracked version can't use the original Tweetbot's authorization information (which is stored in your Keynchain), so it have to require a temp access every time you launch the app. The only way — is to remove original Tweetbot's Keychain item (because a cracked one can't neither rewrite and read from it)."""
+,senseotech,2012-11-10T21:19Z,"The k'ed 1.0 version of tweetbot used the same tokens as the retail, so thats not the reason."
+[T],MrUnpopular,2012-11-25T19:45Z,"I believe it authorises differently due to not using up Tweetbot for Mac's 100,000 tokens limit. Instead, pirates are detoured to a different thing so the limit is not eaten up."

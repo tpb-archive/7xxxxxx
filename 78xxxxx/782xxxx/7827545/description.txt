@@ -1,0 +1,28 @@
+A Bug Hunters Diary: A Guided Tour Through the Wilds of Software Security
+
+
+Publication Date: November 11, 2011
+
+
+"This is one of the most interesting infosec books to come out in the last several years."
+ΓÇôDino Dai Zovi, Information Security Professional
+
+"Give a man an exploit and you make him a hacker for a day; teach a man to exploit bugs and you make him a hacker for a lifetime."
+
+ΓÇôFelix 'FX' Lindner
+
+Seemingly simple bugs can have drastic consequences, allowing attackers to compromise systems, escalate local privileges, and otherwise wreak havoc on a system.
+
+A Bug Hunters Diary follows security expert Tobias Klein as he tracks down and exploits bugs in some of the world's most popular software, like Apple's iOS, the VLC media player, web browsers, and even the Mac OS X kernel. In this one-of-a-kind account, you'll see how the developers responsible for these flaws patched the bugsΓÇöor failed to respond at all. As you follow Klein on his journey, you'll gain deep technical knowledge and insight into how hackers approach difficult problems and experience the true joys (and frustrations) of bug hunting.
+
+Along the way you'll learn how to:
+
+Use field-tested techniques to find bugs, like identifying and tracing user input data and reverse engineering
+
+Exploit vulnerabilities like NULL pointer dereferences, buffer overflows, and type conversion flaws
+
+Develop proof of concept code that verifies the security flaw
+
+Report bugs to vendors or third party brokers
+
+A Bug Hunters Diary is packed with real-world examples of vulnerable code and the custom programs used to find and test bugs. Whether you're hunting bugs for fun, for profit, or to make the world a safer place, you'll learn valuable new skills by looking over the shoulder of a professional bug hunter in action.

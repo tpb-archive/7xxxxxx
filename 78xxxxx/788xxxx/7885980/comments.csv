@@ -1,0 +1,66 @@
+﻿User Type,Username,Date,Text
+,witcher3,2012-12-04T11:09Z,"So i download this and install a fresh copy of Windows 8 Pro
+Can u plz tell me the activation process ??
+How is it gonna be legit, or will it expire after i install updates from Microsoft
+
+N thanks for the release :)"
+,OnionRex,2012-12-04T11:55Z,"witcher3
+
+Read the torrent description. Follow the included link to register for a key.
+
+Activation is permanent from Microsoft. Guaranteed working with Windows Updates."
+,OnionRex,2012-12-04T12:06Z,"Damn Murph, what kind of internet connection and download/upload speeds do you get?
+
+If I uploaded 15 torrents my internet would crawl for days."
+,Sonic_27,2012-12-04T13:02Z,Is there new updates added to this torrent and what does free mode mean??
+,jappe6,2012-12-04T13:10Z,Hi murphy78 nice job :-) can upload a Swedish version too... thanks in advance...
+,OnionRex,2012-12-04T13:17Z,"Sonic_27
+
+Do you even read the description of torrents or do you just jump down to the comments to ask obvious  questions?
+
+It must be too early in the morning for ya."
+,Sonic_27,2012-12-04T14:45Z,"@OnionRex,
+Yes I did read it and still don't understand...so go F*CK OFF!"
+,OnionRex,2012-12-04T15:35Z,"Sonic_27
+
+You did not read the description. Profanity won't help you."
+,21szpak,2012-12-04T16:27Z,Can I please a Polish/Poland version of this  Windows 8 Pro WMC x64 Retail Channel Free Mode
+,darcoola,2012-12-04T19:56Z,"Hey Murphy!
+First of all-great job, i have to say that if i want to download Windows I'm downloading yours.
+
+I have a question for you.
+Does Windows update works with this release?
+
+Thanks in advance and all the best!"
+,murphy78,2012-12-04T23:59Z,"Yes windows update will work fine.  If you add a language from the control panel and download the entire language pack you will want to re-update.  Some KB files have localized file patches.  I think I spotted 2 or 3 during my testing.
+
+The windows activation for windows 8 is comprised of data.dat and token.dat.  faiKee from mydigitallife forums created a data.dat for prowmc that lets you convert pro to prowmc and activate directly from the install without having to first install Pro.  The man is a damn genius.  Basically without including his data.dat file, you could never activate a prowmc image without using the phone method and a legit key.
+
+With the data.dat switched, you can now just input a legit upgrade key and not need to use the phone at all because it activates straight from MS.
+
+If you don't know how to click a link to get a free key and install an OS from an ISO, it's your loss.  Free Win 8 Pro with media center is worth the effort.
+
+Please be patient when waiting for your key.  I had to wait about a week for my most recent key so I could test this stuff on my new motherboard.  I would recommend trying the link every day with different new email accounts until you actually receive a key.
+
+Anyhow, enjoy guys.  I will make a new version for post-patch day but that will probably be the last pro wmc version I do for en-us.  There simply won't be any time left on the free key for the January patch day.  I may include the wmc in an AIO in January but single releases won't work with the offer expired."
+,murphy78,2012-12-05T00:09Z,"on the language conversions... I will try to release a version for every language. It takes time to build and test every language, but I'll try to knock out an average of at least 3 x64 and x86 a day.  I plan on building while seeding, then after I get enough, doing the testing and uploading. My last motherboard had errors trying to integrate while running a torrent program, but we'll see if my new system can handle it without creating problems.  My new motherboard is pretty hefty and my processor has 3x the cores, so if it takes a long time for me to pump out more languages, you'll know it didn't work and I had to wait to stop seeding before integrating.  Here's to hoping :)"
+,sunny163,2012-12-06T00:47Z,"I did a fresh install , at the end of install it ask for a serial. I put in the WMC serial I got from MS. When I checked the computer properties, it shows it is not activated.What steps am I missing ? How do I use data.dat and token.dat ?
+Thanks for your help."
+,murphy78,2012-12-06T04:58Z,"sunny163 you have to let it activate itself.  You should check the activation page and see what it says the problem is. winkey+c for charms bar, settings, pc info, activation page.
+
+If you cannot activate over the internet for some reason, you can try unplugging the internet and doing the phone method.  As long as your key is not blocked, you should be able to do it just fine.  I urge finding out the exact error message before resorting to phone method.  There's nothing wrong with phone method. It's perfectly legit, just a pain in the ass."
+,notuse,2012-12-06T07:15Z,"Hey murphy,
+Actually i need a bit of explanation of this torrent.
+Is this like demo or trial and after fetching the license key from microsoft it get genuine activation??if so then shall i wait for license key to be recieved and then install windows 8 or if i install windows 8 early will there be 'windows not genuine' watermark or someday limitation.WILL THE KEY WHICH IS RECIEVED FROM MICROSOFT WILL BE ACTIVATED FOREVER?WILL I BE ABLE TO UPGRADE?WILL I BE ABLE CUSTOMIZE OR PERSONALIZE ALL THE FEATURES?"
+,sunny163,2012-12-06T19:33Z,"IT WORKS!!  at the end of the install, put in the WMC serial i got from M$ . After WIN8 is finished installing, connect to the internet to activate.
+Thanks for the quick reply."
+,murphy78,2012-12-07T00:29Z,"notuse, windows 8 pro normally has to be installed first.  MS messed up by making this image able to be installed by itself with the dism set-image command.
+
+What happens normally is you install windows 8.  You then activate windows 8.  You then get a key from the free offer or buy one after the offer expires.  You would then go to the wuapp.exe page and click the add features button and enter they key you bought or follow another link to buy one there.  If you didn't activate windows 8 at this point it would give you an error and undo everything and tell you to first activate windows 8.  If you successfully activated windows 8 before entering the key it would then have a data.dat that reflects that it was already activated.  During the process it reboots your system a few times and sets the editionid to professionalwmc from professional.
+
+What this Free Mode release does is preset the edition to professionalwmc, which MS totally screwed up by allowing.  It then overwrites the default data.dat to the one that acts like it already activated professional. So, at this point, it's exactly the same as the normal process, except that you didn't actually go through all that normal pro activation crap.  It cut's a huge step, making it so you just need the upgrade key to get a free legit permanent prowmc activation.
+
+On top of all that goodness, I enabled netfx 2-3.5.1 by default for the people that get annoyed at downloading that.  I got tons of requests. I then added all the recent kb hotfixes that were in integration formats: msu, cab.  I only use msu versions for KB files and cab files for language packs.
+
+Dunno how else to explain it. faiKee, the guy over at MDL forums who made the data.dat and figured out the exploit, is a damn genius."
+,notuse,2012-12-07T08:20Z,THANKS murphy for explaining.keep uploading (;

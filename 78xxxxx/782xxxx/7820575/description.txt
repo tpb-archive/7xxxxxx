@@ -1,0 +1,20 @@
+Sygic GPS Navigation 12.1.3 with MapmyIndia 7 Maps for Android Devices
+
+Cracked version of Sygic GPS Navigation 12.1.3 with the Base Files and MapmyIndia 7 Maps of India integrated. In addition all English language TTS (Text To Speech) files are included.
+
+Thus no need to download anything, post installation!!! One single download and simple install. No verification/registration.
+
+Instructions :
+1. Extract the contents of the .zip archive.
+2. Copy the folders 'LoquendoTTS', 'Sygic' and the file 'sygic_gps_navigation_12_1_3.apk' (previously extracted) to the root of your SD Card/Phone memory.
+3. Install application by executing the file 'sygic_gps_navigation_12_1_3.apk'. ('Unknown sources' option under 'Settings\Applications' should be enabled.
+
+Note:
+1. Do not download maps of India from Sygic. These will overwrite the MapmyIndia maps. MapmyIndia maps seem to be more detailed than the TomTom maps included with Sygic by default.
+2. In case there is a previous Sygic installation on the phone, uninstall and delete the 'Aura' folder.
+3. I would not recommend using the 'My Sygic' feature (including logging on) as you understand this is not genuine software. Though some reports suggests that it still works!
+4. You can also disable internet access and 'My Sygic' feature if you want by customising certain hidden settings present in the file 'Sygic\Android\settings.ini' on the memory card of the phone :
+(a) At line 167, change 'internet=true' to 'internet=false', to disallow Sygic from using internet. It uses it to do an internet search of nearby PIOs, which might not be required.
+(b) At line 172, change 'mysygic=true' to 'mysygic=false', to disable 'My Sygic' option.
+
+Enjoy!!!

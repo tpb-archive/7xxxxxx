@@ -1,0 +1,10 @@
+Tooltips can greatly improve the usability of your web site by providing direction and cues to visitors. In this course, Chris Converse shows how to convert text or graphics into a mouse-sensitive tooltip. The tutorials demonstrate how to write the necessary HTML and activate the tooltip with jQuery, as well as add positioning and effects.
+
+Topics include:
+Saving web graphics from Photoshop
+Creating the tooltip container
+Adding the jQuery $(document).ready() and mouse events
+Detecting and setting HTML-based tooltips
+Attaching the tip container to the mouse
+Setting the tooltip to fade in and out
+Accounting for other CSS-positioned elements

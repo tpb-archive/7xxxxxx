@@ -1,0 +1,13 @@
+Book Description
+
+You can choose several data access frameworks when building Java enterprise applications that work with relational databases. But what about big data? This hands-on introduction shows you how Spring Data makes it relatively easy to build applications across a wide range of new data access technologies such as NoSQL and Hadoop.
+
+Through several sample projects, youΓÇÖll learn how Spring Data provides a consistent programming model that retains NoSQL-specific features and capabilities, and helps you develop Hadoop applications across a wide range of use-cases such as data analysis, event stream processing, and workflow. YouΓÇÖll also discover the features Spring Data adds to SpringΓÇÖs existing JPA and JDBC support for writing RDBMS-based data access layers.
+
+Learn about SpringΓÇÖs template helper classes to simplify the use ofdatabase-specific functionality
+Explore Spring DataΓÇÖs repository abstraction and advanced query functionality
+Use Spring Data with Redis (key/value store), HBase(column-family), MongoDB (document database), and Neo4j (graph database)
+Discover the GemFire distributed data grid solution
+Export Spring Data JPA-managed entities to the Web as RESTful web services
+Simplify the development of HBase applications, using a lightweight object-mapping framework
+Build example big-data pipelines with Spring Batch and Spring Integration 

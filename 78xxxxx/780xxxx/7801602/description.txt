@@ -1,0 +1,26 @@
+===================================================================================
+General
+Adjusted enemy spawns so that lower tier enemies still spawn at slightly higher kingdom worth or lower depth while higher tier enemies remain the same
+Underground enemies can not spawn in mined out cells for 2 days
+Underground enemies no longer spawn on cells with a construction - block floors, stairs, workshops, etc
+Added hot key to toggle highlighting areas that are dark enough for enemies to spawn in
+Crates can now store claymores, battle axes, warhammers, torches, pistols, blunderbusses and crossbows
+
+Music
+No longer using XACT
+Added 3 new songs
+Replaced combat music
+Shuffle music on repeat instead of long periods of silence
+Loosened music choice conditions to only day/night so that rarely heard songs play more often
+
+Fixed
+Crash on load in some cases
+Rare crash when animals try to leave and their path is blocked
+Pathing issue when start and end positions are both under water
+Gnomes getting stuck trying to pick up two handed items
+Gnomes only filling a quiver or ammo pouch with 1 ammo
+
+
+I'm slowly trying out these changes to enemy spawns and will continue to make adjusts based on feedback.  In general, enemies at the copper and bronze levels will spawn in a wider range of Kingdom Worth or depth, while iron and steel level enemies will spawn as before.  A higher minimum worth is required for beetles to spawn and at lower values of Kingdom Worth the number of mants will be lower while remaining the same at higher values.  The toggle for displaying dark areas ignores depth and constructions, meaning some cells will still be highlighted red when turned on but won't actually spawn enemies.
+
+===================================================================================

@@ -1,0 +1,56 @@
+Format                           : MPEG-TS
+File size                        : 769 MiB
+Duration                         : 3mn 55s
+Overall bit rate mode            : Variable
+Overall bit rate                 : 27.4 Mbps
+
+Video
+ID                               : 308 (0x134)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@High
+Format settings, BVOP            : Yes
+Format settings, Matrix          : Default
+Codec ID                         : 2
+Duration                         : 3mn 54s
+Bit rate mode                    : Variable
+Bit rate                         : 25.8 Mbps
+Maximum bit rate                 : 27.1 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 25.000 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Compression mode                 : Lossy
+Bits/(Pixel*Frame)               : 0.498
+Stream size                      : 720 MiB (94%)
+
+Audio
+ID                               : 256 (0x100)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 2
+Codec ID                         : 4
+Duration                         : 3mn 55s
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Delay relative to video          : -282ms
+Stream size                      : 7.18 MiB (1%)
+Language                         : English
+
+Menu
+ID                               : 32 (0x20)
+Menu ID                          : 1 (0x1)
+Duration                         : 3mn 55s
+List                             : 256 (0x100) (MPEG Audio, English) / 308 (0x134) (MPEG Video)
+Language                         : English
+Maximum bit rate                 : 150000000

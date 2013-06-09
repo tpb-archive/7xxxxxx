@@ -1,0 +1,61 @@
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42
+File size                                : 318 MiB
+Duration                                 : 33mn 24s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 329 Kbps
+Encoded date                             : UTC 2012-11-22 13:12:30
+Tagged date                              : UTC 2012-11-22 13:32:45
+Writing application                      : HandBrake 0.9.8 2012071700
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.0
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 33mn 24s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 200 Kbps
+Width                                    : 704 pixels
+Height                                   : 400 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 24.879 fps
+Minimum frame rate                       : 0.205 fps
+Maximum frame rate                       : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.171
+Stream size                              : 286 MiB (90%)
+Writing library                          : x264 core 120
+Encoded date                             : UTC 2012-11-22 13:12:30
+Tagged date                              : UTC 2012-11-22 13:32:45
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : 40
+Duration                                 : 33mn 19s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 Kbps
+Maximum bit rate                         : 276 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 4s 909ms
+Stream size                              : 30.5 MiB (10%)
+Encoded date                             : UTC 2012-11-22 13:12:30
+Tagged date                              : UTC 2012-11-22 13:32:44

@@ -1,0 +1,30 @@
+General
+Complete name                            : H:1_4_audio.ac3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+File size                                : 302 MiB
+Duration                                 : 1h 34mn
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 448 Kbps
+
+Audio
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Duration                                 : 1h 34mn
+Bit rate mode                            : Constant
+Bit rate                                 : 448 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 302 MiB (100%)
+
+
+1) Download mkvtoolnix
+2) Open mvkmerge (GUI)
+3) Uncheck the audio then drag and drop this one
+4) At "Default track flag" check Yes (it's default usually)
+5) Start muxing :)

@@ -1,0 +1,10 @@
+﻿User Type,Username,Date,Text
+,zniberium,2012-12-08T03:55Z,changelog?
+,susulock,2012-12-08T06:05Z,why don't you write the changelog in the description? is it that difficult?
+,KcajpalF,2012-12-08T06:15Z,"BUG FIXES
+•Support for playing the game on multiple screens.
+•Game Settings are now saved and restored properly even when using Steam offline.
+•Fixes for some interactions with Granny Rags that invalidated nonlethal playthroughs under certain circumstances. (Note: These fixes work even for savegames AFTER the final Granny Rags encounter.)
+•Fix for a crash that could happen during loading/transition between areas – notably near Dr. Galvani’s house.
+•Reworked “Choke” interaction to make it more reliable in valid contexts.
+•Fixed global post-process that sometimes worked improperly during some missions."

@@ -1,0 +1,13 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Stolichani v poveche - Season 4 - Episode 8.mp4':  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: mp42isomavc1    creation_time   : 2012-11-07 21:15:41
+    encoder         : HandBrake 5044svn 2012110601
+  Duration: 00:46:42.98, start: 0.000000, bitrate: 1006 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p, 720x576 [SAR 16:11 DAR 20:11], 856 kb/s, 24.99 
+fps, 25 tbr, 90k tbn, 180k tbc
+    Metadata:
+      creation_time   : 2012-11-07 21:15:41
+    Stream #0:1(und): Audio: aac (mp4a / 0x6134706D), 48000 Hz, stereo, s16, 144 kb/s
+    Metadata:
+      creation_time   : 2012-11-07 21:15:41

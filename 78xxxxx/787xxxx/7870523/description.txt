@@ -1,0 +1,86 @@
+Oracle 11g Anti-hackers Cookbook
+
+
+Release Date: October 25, 2012
+Over 50 recipes and scenarios to hack, defend, and secure your Oracle Database
+
+Learn to protect your sensitive data by using industry certified techniques
+Implement and use ultimate techniques in Oracle Security and new security 
+
+features introduced in Oracle 11g R2
+Implement strong network communication security using different encryption 
+
+solutions provided by Oracle Advanced Security
+In Detail
+
+For almost all organizations, data security is a matter of prestige and 
+
+credibility. The Oracle Database is one of the most rich in features and 
+
+probably the most used Database in a variety of industries where security is 
+
+essential. To ensure security of data both in transit and on the disk, Oracle 
+
+has implemented the security technologies to achieve a reliable and solid 
+
+system. In Oracle 11g Anti-Hacker's Cookbook, you will learn about the most 
+
+important solutions that can be used for better database security
+
+"Oracle 11g Anti-hacker's Cookbook" covers all the important security measures 
+
+and includes various tips and tricks to protect your Oracle Database.
+
+"Oracle 11g Anti-hacker's Cookbook" uses real-world scenarios to show you how 
+
+to secure the Oracle Database server from different perspectives and against 
+
+different attack scenarios. Almost every chapter has a possible threads 
+
+section, which describes the major dangers that can be confronted. The initial 
+
+chapters cover how to defend the operating system, the network, the data and 
+
+the users. The defense scenarios are linked and designed to prevent these 
+
+attacks. The later chapters cover Oracle Vault, Oracle VPD, Oracle Labels, and 
+
+Oracle Audit. Finally, in the Appendices, the book demonstrates how to perform 
+
+a security assessment against the operating system and the database, and how 
+
+to use a DAM tool for monitoring.
+
+What you will learn from this book
+
+Get to grips with configuring a secure server at operating system level for 
+
+Oracle Database
+Master how to secure data by using Oracle Cryptographic API and Transparent 
+
+Data Encryption
+Get step-by-step instructions to implement a solid audit strategy by using the 
+
+built in solutions and fine grained auditing
+Understand how to segregate and protect data access by using Oracle Vault
+Learn about different types of attacks and how to implement a solid defence 
+
+against them
+Empathize the attacks and interceptions by using different techniques and 
+
+tools such as sniffing, man-in-the-middle, brute force and password crackers.
+Approach
+
+This cookbook has recipes written in simple, easy to understand format with 
+
+lots of screenshots and insightful tips and hints.
+
+Who this book is written for
+
+If you are an Oracle Database Administrator, Security Manager or Security 
+
+Auditor looking to secure the Oracle Database or prevent it from being hacked, 
+
+then this book is for you
+
+This book assumes you have a basic understanding of security concepts.

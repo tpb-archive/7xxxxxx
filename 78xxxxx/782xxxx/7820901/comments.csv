@@ -1,0 +1,9 @@
+﻿User Type,Username,Date,Text
+,Overdox,2012-11-13T21:47Z,Tusen takk på en måte
+,kjellp33,2012-11-13T22:47Z,vanvitigt bra fortset slikt :P
+,Grailknight,2012-11-14T11:36Z,"AndyNOR, hvilket program er det du bruker for å kode videoene til .mp4? Et tips er å bruke x264 som codec istedetfor MPEG-4. X264 er mye bedre for kvalitet og plassbesparing :)
+Test ut opensource programmet Handbrake, sett kontainer til .mp4, codec x264 og video til 600-800kb/s. Gi det en test og fortell hva du syns :)"
+,Grailknight,2012-11-14T11:38Z,hmm.. ser ut som kommentaren min forsvant.
+,AndyNor18.87,2012-11-14T22:42Z,Heisann! Bruker Sony Vegas ettersom jeg også må redigere filene. Skal sjekke den codec'en ut!
+,Grailknight,2012-11-15T11:33Z,"Da kan du bruke MKVToolNix (opensource) til å fjerne reklamen med. Du splitter ved å bruke ""00:00:00"" tidsformat, alt annet kan du la være som det er. Du får da en .mkv fil med ""rå data"". Mkv-filen gir du videre til Handbrake som encoder vidoen (husk x264 og .mp4).
+Ga tipset fordi kvaliteten så grei ut (med unntak av korn/kornhøstingen), men filen generelt var stor. Jeg blir ikke forbauset om du klarer å presse samme kvalitet/bedre kvalitet ned til halvparten av den filstørrelsen du har nå :)"

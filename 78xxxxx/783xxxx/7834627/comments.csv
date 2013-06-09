@@ -1,0 +1,44 @@
+﻿User Type,Username,Date,Text
+,sc_tpb,2012-11-21T04:00Z,doesn't work on ubuntu 12.04
+,orion8_2012,2012-11-21T15:19Z,"Actually, it does because I installed it on my xubuntu 12.04 a couple of days ago.  If you get an error about the network server thing after the installation, run matlab from the directory where you install it and install the license again."
+,sc_tpb,2012-11-21T19:11Z,"it failed first on machine, and then as orion8_2012 mentioned, you need to re-activate it (or again).
+
+two observations:
+
+1. it does not show the license number at the matlab start-up window (windows does, and this made me hesitate to update my post last night). It seems it would not show it whether it's activated or not.
+
+2. The method of activating windows version also works for unix version. the only difference is to copy the license.dat file to
+
+/usr/local/MATLAB/R_2012b/licenses
+
+Hope it helps.
+
+sc_tpb"
+,jcmonteiro,2012-11-23T13:17Z,"I had a little trouble installing this, so this is what I did:
+
+sudo mount -t iso9660 -o loop /full/path/to_your_.iso /mnt
+sudo /mnt/install
+
+-- During installation
+Choose the online installation
+Used the code provided in 'Matlab R2012b-crack'
+Provided license_standalone.dat when asked
+--
+
+sudo apt-get install -y lsb
+./etc/lmstart
+./bin/matlab
+
+Cheerz! =)"
+,jcmonteiro,2012-11-23T13:18Z,"Forgot to mention, I'm running Ubuntu 12.04"
+,kopiokissa,2012-11-23T16:47Z,"Works well, tested standalone installation in Mac OS X 10.6.8 and Debian 6.0:
+- after installation you will get error that network.lic does not have host. Ignore it.
+- start matlab and activate it without internet connection and browse your 'license_standalone.dat'
+Enjoy and thanks."
+,t00z,2012-11-23T19:18Z,Looks like the x86 files are missing.
+,rocha20,2012-11-26T07:18Z,"Instaled fine in MAC OSX 10.8.2.
+Do as kopiokissa say!
+thanks"
+,whamwham,2012-12-02T03:14Z,Does this work on a mac?
+,orion8_2012,2012-12-02T05:44Z,"Has anyone tried to use function tf (transfer function) with this release?  My programs run fine with older release, R2011a, but get an error about Undefined function 'tf'."
+,whamwham,2012-12-02T06:14Z,Seems to me this does not contain the full set of toolboxes unlike previous versions available on TPB.  Or is it the fault of the code provided? 

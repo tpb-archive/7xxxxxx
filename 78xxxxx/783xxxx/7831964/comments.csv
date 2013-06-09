@@ -1,0 +1,54 @@
+﻿User Type,Username,Date,Text
+,jessketeer,2012-11-16T16:29Z,"Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.50 GiB
+Duration                                 : 2h 22mn
+Overall bit rate                         : 1 499 Kbps
+Encoded date                             : UTC 2012-08-26 23:50:22
+Writing application                      : mkvmerge v5.6.0 ('Kenya Kane') built on May 27 2012 16:44:04
+Writing library                          : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 22mn
+Nominal bit rate                         : 1 402 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 544 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.081
+Writing library                          : x264 core 125 r2200 999b753
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=1402 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 22mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 10ms
+Default                                  : Yes
+Forced                                   : No
+"
+,Mhen93,2012-11-27T04:50Z,"Great Torrent! Thanks for the upload!
+
+V/A: 10
+M: 10"
+,Mhen93,2012-11-27T05:06Z,"There are, although, some weird subtitles hard coded into the movie. They speak English, but it would be great if it was possible to turn those subtitles off.  No English subs included. "

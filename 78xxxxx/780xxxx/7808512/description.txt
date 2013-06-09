@@ -1,0 +1,28 @@
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 475 MiB
+Duration                         : 41mn 1s
+Overall bit rate                 : 1 617 Kbps
+Writing application              : Lavf52.94.0
+
+Video
+ID                               : 0
+Format                           : xvid
+Codec ID                         : xvid
+Duration                         : 41mn 1s
+Bit rate                         : 1 382 Kbps
+Width                            : 640 pixels
+Height                           : 360 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 23.976 fps
+Bits/(Pixel*Frame)               : 0.250
+Stream size                      : 406 MiB (85%)
+
+Audio
+ID                               : 1
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Mode extension                   : CM (complete main)
+Codec ID                         : 2000
+Duration                         : 41mn 1s
+Bit rate mode                    : Constant

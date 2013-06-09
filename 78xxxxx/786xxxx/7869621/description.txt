@@ -1,0 +1,34 @@
+What is new in version 5.0.0.26 (Released November 29th 2012)
+
+- 0006107: [Bug] preview does not show the right image after changing background menu (cedric) - resolved.
+- 0006040: [Information] v5 problem with Nero (wesson) - resolved.
+- 0006156: [Suggestion] Switch between fullscreen and normal view in conversion preview using double click (cedric) - resolved.
+- 0006155: [Bug] Bad aspect ratio displayed in conversion preview (when using double click while converting) (cedric) - resolved.
+- 0006063: [Feature Request] Could we see nice arrows for the streams in the Hint Bubble and in the ASCII Log file... (cedric) - resolved.
+- 0006070: [Bug] Negative subtitle offset has no effect (cedric) - resolved.
+- 0006039: [Crash] OUT OF MEMORY error when trying to burn a project across the network. (felicia) - resolved.
+- 0005198: [Unsupported file/stream format] hebrew sub don't show in V4/ works in v3 (wesson) - resolved.
+- 0006139: [Bug] 5.0.0.25 0005107 not completely fixed (cedric) - resolved.
+- 0006131: [Bug] adding a subtitle offset duplicates subtitles (cedric) - resolved.
+- 0006136: [Bug] AV violation on launch (cedric) - resolved.
+- 0006142: [Bug] change name of audio normalization (cedric) - resolved.
+- 0006145: [Feature Request] add to hint text for setting hardware decoding (felicia) - resolved.
+- 0006132: [Bug] shutdown computer after conversion (felicia) - resolved.
+- 0006140: [Bug] burn iso shows 100% complete but must kill program in task manager (felicia) - resolved.
+
+System Requirements
+
+Hardware
+Processor Intel Pentium III / AMD Athlon
+(Intel Pentium 4 / AMD Athlon XP or equivalent recommended)
+512 MB RAM with Windows XP
+1 GB RAM with Windows Vista
+Hard disk drive with at least 4.3 Gbytes free
+DVD Burner
+
+Operating System
+Windows XP SP2/SP3, Windows Vista, Windows 7 & 8
+
+Languages : English, Spanish, French, Italian, Japanese, Chinese, German and more.
+
+Homepage : http://www.vso-software.fr/products/convert_x_to_dvd/

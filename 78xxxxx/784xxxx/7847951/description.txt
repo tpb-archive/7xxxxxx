@@ -1,0 +1,48 @@
+Format : MPEG-4
+Format profile : Base Media
+Codec ID : isom
+File size : 661 MiB
+Duration : 57mn 24s
+Overall bit rate : 1 611 Kbps
+Writing application : Lavf53.32.100
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : Baseline@L3.1
+Format settings, CABAC : No
+Format settings, ReFrames : 5 frames
+Codec ID : avc1
+Codec ID/Info : Advanced Video Coding
+Duration : 57mn 24s
+Bit rate : 1 474 Kbps
+Width : 720 pixels
+Height : 404 pixels
+Display aspect ratio : 16:9
+Original display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 59.940 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.085
+Stream size : 605 MiB (92%)
+Writing library : x264 core 120
+Encoding settings : cabac=0 / ref=5 / deblock=1:0:0 / analyse=0x1:0x111 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : 40
+Duration : 57mn 24s
+Bit rate mode : Constant
+Bit rate : 128 Kbps
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 44.1 KHz
+Compression mode : Lossy
+Stream size : 52.4 MiB (8%)

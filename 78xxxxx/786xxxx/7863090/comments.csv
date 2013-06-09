@@ -1,0 +1,18 @@
+﻿User Type,Username,Date,Text
+,murphy78,2012-11-27T04:11Z,"This x64 only version uses setup files from an x64 source, so you can use the x64 recovery mode from boot. Also you can upgrade from win7x64 with an x64 setup-files version."
+,steve97,2012-11-27T04:22Z,"Dear murphy78,
+
+Do I need to use an activator to activate this copy of Windows?
+
+Thanks in advance."
+,apex2000,2012-11-27T06:13Z,"@steve97: That would be a good idea: Try following this link and you will find a method of activation (for Office 2013 as well).
+http://forums.mydigitallife.info/threads/39048-HOW-TO-KMS-HOST-Setup-and-Charge-v-2-0?p=682524&viewfull=1#post682524"
+,apex2000,2012-11-27T06:14Z,Thanks for the d/l murphy78
+,murphy78,2012-11-27T06:53Z,"steve, volume versions use one key for multiple installs.  Imagine a company with 50 computers they are trying to install Windows 8 on. Now imagine how hectic it would get if they had to use different keys for all of them, and try to remember which one was for each computer.
+
+Most activators already use kms servers instead of the built-in windows activation.  I suspect that as long as you knew which type of key you had and which method you were supposed to use, you  could probably activate with just slmgr commands.
+
+The only legit activator I've seen is SCYPT's which sadly is blocked atm.  Every other activator I've tried has just overwritten system files and pretended to be activated.  I really do NOT recommend using any activator that is larger than a few kilobytes at the most.  Even then, if it requires a reboot; you won't actually be activated.  It might hide the watermark and list it as activated on the activation page, but it only fools the user, not the OS."
+,aaneta1,2012-11-27T10:06Z,subject coordinated and very very beautiful thanks
+,isthisme,2012-11-28T18:09Z,"would thumperDCs hack essentially work with the volume license version? well hypothetically speaking of course, I do love your work murph, clean and proper"
+,murphy78,2012-11-29T00:11Z,"I don't know isthisme, I'm guessing that if it works for the specific files that it overwrites, that it won't matter.  With things like that, though, every hotfix you install after the hack will potentially overwrite the changed files, leaving your system fairly buggy."

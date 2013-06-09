@@ -1,0 +1,202 @@
+﻿User Type,Username,Date,Text
+,4gameslt,2012-11-25T14:57Z,This releas auto validates Client.dll.
+,Edward_PTM,2012-11-25T15:33Z,down & trying now :)
+,4gameslt,2012-11-25T16:09Z,"Okey, write comment when you will try it. :)"
+,Edward_PTM,2012-11-25T16:21Z,!   C:Counter-Strike_Global_Offensive_(csgo)_No-Steam.rar: CRC failed in 4Games - CSGOSteamsteamappscommonCounter-Strike Global Offensivecsgopak01_000.vpk. The file is corrupt
+,4gameslt,2012-11-25T16:37Z,When extracting?
+,antiqque,2012-11-25T16:40Z,"utorrent says 40 seeds, can someone confirm if this is fake or not?"
+[T],nosTEAM,2012-11-25T16:55Z,"Launcher.exe  :
+https://www.virustotal.com/file/59765bce5e56ad6317fae2bd6ea9fdab1fe0880b471a7a0e9b3665833f124c7f/analysis/1353858537/
+
+
+17/44 is  too much  for a false positive "
+,4gameslt,2012-11-25T17:06Z,Edward_PTM - Try checking torrent.
+,4gameslt,2012-11-25T17:08Z,Launcher.exe is from: http://cs.i4vn.com/
+,4gameslt,2012-11-25T17:27Z,"nosTEAM - This can be because, it creates alot of temporary files, when it is strated. It makes some files in Steam folder, to auto connect to steam account and validate client.dll, then it creates csgolauncher to see if everything is ok, and game can be started. If okey, then launcher creates not temporary files to launch csgo in  steam/steamapps/common/counter-strike global offensive folder."
+,Yoyu7,2012-11-25T18:10Z,It works or not ? PLEASE SAY ME !
+,4gameslt,2012-11-25T18:40Z,"Guys, new version of Launcher. Now its called CSGO Launcher.exe
+http://4games.lt/files/CSGO_Launcher.rar"
+,pdhawk,2012-11-25T18:51Z,"@Yoyu7
+Yep it works I been play this for a while but I did not download from this torrent but its the same"
+[T],nosTEAM,2012-11-25T20:05Z,"@ 4gameslt 
+
+one question : this archive is created by yourself ?? "
+,pfilip529,2012-11-25T20:14Z,"Can I belive this will works?
+Sry for my bad English :P"
+,4gameslt,2012-11-25T20:44Z,"Yes, I created archive."
+,4gameslt,2012-11-25T20:46Z,"Yes, it works, but, read tutorials, because, you have to try authenticating until you will be first in queue"
+,antiqque,2012-11-25T21:50Z,i could swear it's fake but i was wrong. works great.
+,4gameslt,2012-11-25T22:13Z,Told you so ;)
+,4gameslt,2012-11-25T22:13Z,Whitch Launcher have you used? :)
+,antiqque,2012-11-25T22:54Z,"i used the one you posted in the comments, worked better than the one in the torrent"
+,4gameslt,2012-11-25T23:05Z,"Ou, okey, because, you have try both of them, It depends on Your region."
+,antiqque,2012-11-26T00:49Z,I recommended this to my friend and it's lagging badly for him :( he said that during the free week-end when he played the steam version it never lagged. do you have any tips on how to make it run better on lower end pc's? I don't have lag but once i did experience a major fps drop for ~3s which is really weird.
+,4gameslt,2012-11-26T01:06Z,Free weekend didn't have that kind of graphics. So your friend needs to chack his graphic options. He have to reduce almost everything to low. Or he can try to reduce everything randomly.
+,4gameslt,2012-11-26T01:08Z,"Ou, and change resolution in game, this can also reduce lags."
+,skatrpro1987,2012-11-26T01:17Z,"When it starts steam for me says game is unplayable cause im not in the same region.
+
+Is there a way around this?"
+,skatrpro1987,2012-11-26T01:41Z,Ok past the region problem. Next step says to start csgoloader.exe and its not in the folder that is specified. Dont know what to do pls help.
+,4gameslt,2012-11-26T01:42Z,"@ skatrpro1987
+if you are using basic launcher, then try this one: http://4games.lt/files/CSGO_Launcher.rar
+if you are using this, try, that one, that was in this release."
+,4gameslt,2012-11-26T01:46Z,"@ skatrpro1987
+Start that launcher, that you used, click on Counter-Strike: Global Offensive, and then again click on logo. Picture here: http://4games.lt/files/here.jpg"
+,Edward_PTM,2012-11-26T01:52Z,"@4gameslt  was a problem in winrar (WTF?) I used a version of 5-6 years without problems .. and this is the first time that creates problems...
+
+anyway i used ultimate version of winrar from tpb (4.20) release. and i unzipped without any problems... it`s really work this version of cs go :D  thank you to generate your clients.dll for us, through teamviewer  without bad intentions..  and because your spend/dedicate time for us. God bless you :P"
+,4gameslt,2012-11-26T01:56Z,"No problem... Really, no problem. Tommorow I will make working autoupdater, not independent from steam. So no other validation will effect it."
+,skatrpro1987,2012-11-26T02:37Z,Thank you it all worked as stated. Working and playing flawlessly.
+,barby1984,2012-11-26T09:22Z,start with csgoloader.exe but it crash on desktop without any error please help
+,4gameslt,2012-11-26T10:02Z,"@ barby1984
+Did started Launcher.exe?"
+,4gameslt,2012-11-26T10:07Z,"@ barby1984
+did you clicked ""Enable Legit/Autoupdate"" in csgolauncher.exe?"
+,nj98110,2012-11-26T10:27Z,Does this have the latest CS go update as on 18 nov 2012?
+,nj98110,2012-11-26T10:32Z,Does this have latest updates of cs go?
+,4gameslt,2012-11-26T10:51Z,"Yes, this client is created yesterday."
+,barby1984,2012-11-26T10:53Z,@4gamesIt yes i followed step by step instructions and i didn't managed the game to work ps: i must run it via steam? i use win7 64 bit
+,4gameslt,2012-11-26T11:23Z,"Did you got correct message after ""Enable Legit/Autoupdate"". No, steam, has to closed, Launcher automaticaly starts steam, from his home folder."
+,a1005854,2012-11-26T11:56Z,what's up. why the size is too small compared the other releases out there? can i download other release which is .ISO and then i used your loader. or it's just worked with your release only? thank you
+,4gameslt,2012-11-26T12:43Z,"Size is small, because its rar archive. It is compressed. I didn't tested that yet, I will try and report."
+,4gameslt,2012-11-26T12:43Z,And why you need other release if this is working?
+,pfilip529,2012-11-26T13:27Z,"Hey man I must ask something:
+The downloaded cs go Non-Steam where to extract  do I must extract on steam/steamapps/common folder??
+Or extract to downloaded CSGO-Launcher.exe I ask that because when I download that crack I have a folder called steam???Plase make tutorial how to install Thanks man..... Reply please! :D"
+,4gameslt,2012-11-26T14:05Z,"Extract where ever you want, just do that with all files athat are in package."
+,4gameslt,2012-11-26T14:06Z,Video tutorial is in this forum: http://forum.4games.lt/viewtopic.php?f=7&t=3
+,seanstar,2012-11-26T15:33Z,This seems to works perfect on win8 x64...Running at a massive resolution with everything on high...Thanks a lot.
+,4gameslt,2012-11-26T16:06Z,"Yes, on 64bit win7 or win8with 4 gb rams ir tuns great :)"
+,4nt1trt,2012-11-26T16:21Z,"@4gameslt i've wrongly downloaded skidrow steam unlocked version before and waiting for their stupid crack.
+
+can i use your csgo launcher for steam unlocked?
+
+can you upload client.dll for those who have unlocked versions?
+
+thank you so much"
+,4gameslt,2012-11-26T16:35Z,"@ 4nt1trt 
+Client dll is generated by steam. Maybe one day there will be some generators. But for now you only can get it from steam. For now, I think, it wont work with skidrow files. Of course I can make updater, to update these files. But firstly, I will have to download skidrow files and kae Updater. Ofcourse, you can wait, but I think, that  it will be much more faster to download theese files."
+,pfilip529,2012-11-26T17:12Z,"I did everything you told me and then starts the program and then click any where to do and then we go out and write something please wait and so on and I waited and I start to steam out error and failed something I can not I get to read it out to me and suddenly something other than what it says in the read me txt and try 
+csgoloader game over and just black screen and its close automatic"
+,pfilip529,2012-11-26T17:14Z,sry for my bad English :D
+,Yoyu7,2012-11-26T17:15Z,MAN MAN MAN !!! O.o ive got 3 trojansers .___. and I trusted you ! :(
+,pfilip529,2012-11-26T17:19Z,I think I found the problem I have Windows 8 maybe is because that?
+,4gameslt,2012-11-26T17:30Z,"@ pfilip529 Witch launcher you used? I think that message was because of your region, you have to use second launcher. Link is somewhere here :)"
+,4gameslt,2012-11-26T17:33Z,"@ Yoyu7 - Usualy software like this is like a atrojan, because it creates a lot of files. And yes, that launcher is like a trojan, because it has alot of hidden files inside. And just in case you think that I am responsable for that trojans, I just found this launcher, I use it, my friends use it, other people from this torrent are useing it, and everything is okey."
+,pfilip529,2012-11-26T17:49Z,"@4gameslt  I have tried two launcher one is in cs go folder 
+two I was downloaded and then I run him nothing happends."
+,4gameslt,2012-11-26T18:06Z,"@ pfilip529 
+You have to try after 5-10 minutes, because, if someone else is trying to validate, you are being disconnected."
+,seanstar,2012-11-26T18:24Z,I had to run it as admin to get it to work in win8
+,4gameslt,2012-11-26T18:37Z,"@ seanstar
+Wou, thats good. It worked for me, without Admin rights :)"
+,pfilip529,2012-11-26T18:47Z,Trying now :)
+,pfilip529,2012-11-26T19:07Z,"WORKS!!!!!!!!Can I come and kiss you man?
+Tnhx works perfectly tnx tnx tnx tnx tnx tnx tnx!!!!!!!!!!!!!!
+:D 
+xD"
+,pfilip529,2012-11-26T19:14Z,After that game I do not believe that man for the King of Kings: D
+,pfilip529,2012-11-26T19:15Z,I`m now playing :D
+,4gameslt,2012-11-26T19:39Z,"Nice to see, that you are so happy :)p Support us, by playing in our servers :) When you connect, bots will connect also :)"
+,pfilip529,2012-11-26T19:53Z,I'm happy thanks to you.Oh don't worry I will be on your servers. :)  
+,pentiumslv,2012-11-27T08:16Z,how to change name? Thanks.
+,4gameslt,2012-11-27T08:40Z,"Open rev.ini in ""launcher folder/steam/steamapps/common/counter strike global offensive""
+
+And find PlayerName= aftr ""="" change to what you want :)"
+,vreaks,2012-11-27T11:57Z,seeds please :(
+,pfilip529,2012-11-27T13:15Z,Wait I can now normally open the steam and the cs go will not damage?
+,barby1984,2012-11-27T13:35Z,"I finaly made the game working...many thanks man
+:)"
+,4gameslt,2012-11-27T14:53Z,"@ pfilip529
+Yes, just dont start cs:go when your steam is opened :)"
+,4gameslt,2012-11-27T14:57Z,"@ barby1984
+I think you had to repeat ""Enable Legit/Updater"", am I right? Because, It can be intorupted, if someone else is Enabeling it. :)"
+,pfilip529,2012-11-27T15:46Z,@4gameslt Yes you must enable Legit/Updater I don t know why but yesterday I played cs go and today not working and im just start launcher and enable Legit/Updater and works :)
+,Wolton,2012-11-27T16:00Z,i found 3 Trojan's.. and could not find the launcher in the downloaded files only! :(
+,4gameslt,2012-11-27T16:11Z,"Because launcher works like trojan, it creates alot of temporary files, and some of them are in *.exe format. You antivirus delleted it."
+,barby1984,2012-11-27T16:44Z,@4gamesIt yes all the shit was that Enable Legit/Updater thing :) thx again for the help and for the game.....u deserve a green skull 4 this ;)
+,ussipoeg,2012-11-27T16:55Z,"ok after i did everything as said the game launches with only black screen visible and when i put the black screen down it says ""this game requires steam""........i wonder why?"
+,s0n,2012-11-27T16:56Z,so is that trusted?
+,4gameslt,2012-11-27T17:00Z,"@ ussipoeg
+Did you checked what message did you got after ""Enable Legit/Updater""? Because, there is shit translation from some language, that I dont undestand. If message is different from that in Forum, then you have to repeat that ""Enable Legit/Updater "" again."
+,4gameslt,2012-11-27T17:02Z,"@ s0n
+Em... You can read all comments, and you will se, that its trusted. And I am helping to solve any problem. You can post problem here or in forum, o even in our facebook."
+,ussipoeg,2012-11-27T17:21Z,"ok it works ...thanks to all who get this game to work:)
+"
+,pfilip529,2012-11-27T21:30Z,You can belive guys this game really works!!!I did not believe and I am convinced that in order to. Just seed for this perfect game!!! 
+,Yoyu7,2012-11-27T21:31Z,and what for a effect have the trojaners ?!?
+,a1210142,2012-11-28T17:05Z,Do I need to download Steam before I can use your release?
+,xyz990,2012-11-28T17:58Z,it works ! Poland thanks you ;-)
+,4gameslt,2012-11-28T21:37Z,"@ a1210142 
+no, steam is integrated :)"
+,prostak111zz,2012-11-29T17:28Z,How can i change that pic. l4vn ?
+,Amanccx,2012-11-30T09:44Z,"Im succesfully run the game, but when loading map, it crash"
+,hellson100,2012-11-30T15:06Z,does it work online ? 
+,hellson100,2012-11-30T15:07Z,and thanks very much man i was looking for a working version for 2 weeks ago :) but tell me if it works online plz ^^
+,hellson100,2012-11-30T15:09Z,"working online ? , and thanks very much i was searching for a working version for 2 weeks ago"
+,hellson100,2012-11-30T15:10Z,"sorry for spam , wrong press"
+,hellson100,2012-11-30T15:13Z,downloading is very slow :( plz seed
+,Amanccx,2012-11-30T17:56Z,the game crashes when loading map
+,4gameslt,2012-12-01T18:55Z,"If game crashes while Loading Map, try updating your drivers. Use Driver Genius for that. And in game check video options."
+,mibmib007,2012-12-01T19:01Z,it say lua5.1.dll is missing on my computer whats that for?
+,mibmib007,2012-12-01T19:05Z,error could not find data file. hmm whats that
+,mibmib007,2012-12-01T19:11Z,"what is it downloading in the beginning? something in about 2mb big only,, sais something and i pressed ok ;)"
+,hellson100,2012-12-01T19:51Z,"man plz help , i did all steps which u said and when i open erloader.exe i get black screen and client.dll error"
+,4gameslt,2012-12-02T01:49Z,"@ hellson100
+Yes it works with no-steam servers. :)"
+,4gameslt,2012-12-02T01:52Z,"@ mibmib007
+This is some kind of system dll. http://www.dll-files.com/dllindex/dll-files.shtml?lua5.1
+
+Download in begining is launcher updates :)"
+,4gameslt,2012-12-02T01:55Z,"@ hellson100
+did you got correct message? If black screan appears it means that ""Enable legit/autoupdate"" vas insuccessful. So you have to retry it.
+
+Tomorrow I will release new launcher"
+,GenCratos,2012-12-02T02:39Z,"Not working please help!! when i try to join servers, play offline with bots and even the weapons course it gives an error: Steam Validation Rejected."
+,ravibv,2012-12-02T02:57Z,The game crashes when I load the map (even offline with bots). Anybody has an idea what to do. Please help
+,hellson100,2012-12-02T03:10Z,yes yes i was getting retry in 15-30 mins but now i got the right msg and its working ^^ thanks very much man u r awesome :)
+,Chakan923,2012-12-02T04:35Z,"I don't know how the hell you guys managed to do this, but this shit works flawlessly. I'm dead serious too, no bullshit. Just follow the instructions and you'll be good.
+
+Fuckin' ecstatic to have this game up and running FINALLY after like 5 months. FUCK YOU SKIDROW!"
+,Soyeiur,2012-12-02T07:43Z,"Please help..!!!
+
+when i run the .exe and press on legit/autoupdate system is asking for CSGO legit account and CSGO legit password.
+
+i checked the video tutorial adn it seems this pop up should not come. Did i miss something? "
+,Soyeiur,2012-12-02T09:58Z,"Its awesome..!!!
+Thank you sooo much..:)"
+,Yoyu7,2012-12-02T10:19Z,what for a effect have the 3 trojans which are in the Rar File ?!? Or can you please upload cs go again in thepiratebay where no trojans are ? 
+,za1eban,2012-12-02T11:04Z,"Evriting works fine, but there is some kind of conflict with original Steam previosly instaled.
+After playing som original Steam game cs:go dont work! Is there any solution for this?
+And how to change avatar ?"
+,solutioN-Ghost,2012-12-02T11:17Z,"After extracting, what is the total size?"
+,ussipoeg,2012-12-02T11:48Z,the game works  but when i restart the computer then its black screen again when i click the game icon......and then i have to do the legit /activate thing again but its quite annoying to do it everytime i start the computer.Is there any solution for that?
+,za1eban,2012-12-02T11:52Z,About 5GB.
+,4gameslt,2012-12-02T12:07Z,"@ GenCratos
+Is your steam turned off? Have you received correct message after ""Enable Legit/Autoupdater""?"
+,4gameslt,2012-12-02T12:09Z,"@ ussipoeg
+No, do not launch game with csgo.exe. You have to launch game with CSGOLoader.exe."
+,4gameslt,2012-12-02T12:10Z,"@ solutioN-Ghost
+after axtracting: 5.204 Mb"
+,GenCratos,2012-12-02T14:23Z,@4gameslt Steam is on and i got the correct message.
+,4gameslt,2012-12-02T15:28Z,"@ GenCratos
+Ou, then I think you try to connect to steam servers."
+,thyagus,2012-12-02T19:32Z,"Hello,
+I ran ""Launcher.exe"" and after some tries I think it worked (got successfull message)...But I can't find ""csgolauncher.exe"" in my folder...And if I run it through ""csgo.exe"" I get blackscreen and a background window with the message ""This game requires Steam!""
+
+Can anyone help me?"
+,thyagus,2012-12-02T20:25Z,"I was able to play now because the game launched at the end of applting Legit...But then I exit and now I ran csgo.exe and got the same error.
+
+Can you give me where to download csgoloader.exe as respective files? I don't know why I don't have them. (I don't use antivirus protection, and the one I occasionally use has both download and games folder in exclusions)"
+,4gameslt,2012-12-02T20:29Z,"@ thyagus
+Start Launcher.exe again, and then click on ""Counter-Strike Global Offensive"", and then again click on ""Counter-Strike Global Offensive"" logo, it will create csgolauncher.exe, and start game. After this, you can launch game with ""csgolauncher.exe"""
+,4gameslt,2012-12-02T20:31Z,"@ thyagus
+Click on here: http://forum.4games.lt/download/file.php?id=7"
+,4gameslt,2012-12-02T21:55Z,NEW LAUNCHER: http://forum.4games.lt/viewtopic.php?f=7&t=10
+,thyagus,2012-12-03T01:45Z,"Thank you for your help. It works now!
+
+Great share!"
+,ravibv,2012-12-03T03:37Z,"When I click ""Play Counter Strike Global Offensive"" I get a message which says that the Launcher has stopped working and I need to close the program. Please help"
+,4gameslt,2012-12-03T08:07Z,"Close launcher. Go to ""Steam/Steamapps/common/counter-strike global offensive"" and start game with revloader.exe"
+,4gameslt,2012-12-03T08:15Z,"@ thyagus
+No problem ;)"

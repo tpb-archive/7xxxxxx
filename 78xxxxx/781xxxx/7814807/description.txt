@@ -1,0 +1,3 @@
+A multi-tenant application can be difficult to implement because the data for each tenant must be completely separate. Here I show how to do this using subdomains and default scopes in Active Record. (12 minutes)
+
+If you found this helpful, please consider purchasing RailsCasts Pro.

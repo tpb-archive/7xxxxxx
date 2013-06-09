@@ -1,0 +1,71 @@
+HWMonitor Pro
+
+What is HWMonitor
+
+HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+The program handles the most common sensor chips, like ITE┬« IT87 series, most Winbond┬« ICs, and others. In addition, it can read modern CPUs on-die core thermal sensors, as well has hard drives temperature via S.M.A.R.T, and video card GPU temperature.
+
+Hardware supported:
+
+CPUs on-die temperature sensors
+
+Intel┬« CoreΓäó, CoreΓäó 2, CoreΓäó i3/i5/i7 Digital Thermal Sensor.
+AMD┬« AthlonΓäó 64, AthlonΓäó II, PhenomΓäó, PhenomΓäó II and AMD┬« FXΓäó Thermal Sensor.
+
+On-board sensor ICs
+
+Winbond┬« W83781D, W83793, W83627HF, W83697HF, W83791D, W83627THF, W83627EHF, W83627DHG.
+Nuvoton┬« W83795G, NCT6776, NCT7802.
+ITE┬« IT8705, IT8712, IT8716, IT8718, IT8720, IT8721, IT8771, IT8772.
+Fintek┬« F71805, F71808E, F71862, F71869, F71872, F71882, F71889, F81865.
+Asus┬« AS99127, ASB100.
+SMSC┬« LPC47M192, EMC6D102, EMC6D103, DME1737, EMC6W201.
+Analog Device┬« ADM1021, ADM1030, AMD1031, ADT7461, ADT7475, ADT7490, ASP0800, ADP3228.
+National Semiconductor┬« LM63, PC87366.
+Andigilog┬« ASC7621.
+Maxim┬« MAX1617.
+
+Customized hardware monitors
+
+abit┬« uGuruΓäó 2003 and uGuruΓäó 2005.
+AMD┬« SB600/SB700 PM2.
+Asus┬« EPU & EPU2 (Energy Processing Unit).
+Asus┬« ROG mainboards series.
+Gigabyte┬« ODINΓäó power supplies monitoring.
+Intel┬« Management Engine (HECI).
+NVIDIA┬« ESA (Enthusiast System Architecture).
+VIA┬« 686A/B integrated monitoring.
+
+Laptops & Netbooks
+
+Battery voltage, capacity, wear and charge levels.
+Apple┬« MacBookΓäó and MacBook ProΓäó.
+IBM┬« ThinkpadΓäó series.
+Asus┬« eeePCΓäó 701, 901 and 1000H.
+Dell┬« LatitudeΓäó D400, D600, D830.
+Compal┬« JHL90/91, IFL90/91.
+
+Hard Drive (SMART)
+
+Assembly, airflow and HDD temperature.
+USB hard drives (Cypress┬«, JMicron┬«, Sunplus┬« USB bridges).
+
+Video card monitoring
+
+NVIDIA┬« and ATI┬« GPUs temperature.
+
+Memory modules monitoring
+
+DIMM modules with integrated thermal sensor.
+
+ACPI
+
+ACPI Thermal Zone.
+
+Homepage: http://www.cpuid.com/softwares/hwmonitor.html#directiontouse
+
+Installation Instructions:
+
+1. Install program.
+2. Use given key to register application.
+3. Done, Enjoy.

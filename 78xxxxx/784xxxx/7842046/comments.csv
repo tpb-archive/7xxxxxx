@@ -1,0 +1,17 @@
+﻿User Type,Username,Date,Text
+,Sean.,2012-11-20T01:09Z,"Can nobody upload a 1080p HD one without MKV? PS3's cant use MKV files without a converter, and a converter would make it horrible quality. Plus AVI is much better."
+,Nitrousbird,2012-11-20T02:36Z,"You don't lose any quality transferring a MKV video to a native format the PS3 can read.  Just use tsMuxer or another muxing software to de-mux (muxing a file is NOT a file conversion).  Re-mux it into something native to the PS3, such as a .TS or .M2TS container.  Takes all of 30 seconds to do.
+
+Also, no one is going to upconvert a file to 1080p.  It would serve no purpose, the video would not look better, and would take more bandwidth.  I love these straight, uncompressed, 1080i files...most people posting torrents have no clue how to properly compress a video and it always looks like hell on a large TV.  This uncompressed streams are how the program is meant to be seen."
+,oku-ichiban,2012-11-20T14:07Z,"@Sean.
+
+you can play mkv on ps3 without converting
+
+go to divx website download their codec pack and install onto your pc (using windows7) and stream any mkv file to your ps3 via media server.
+
+most of these episodes would be too big for a fat32 storage device anyways."
+[T],SecTPB,2012-11-23T03:08Z,"@Sean.
+This isn't 1080p and it isn't an MKV. It's a 1080i Transport Stream. PS3 & 360 are capable of playing them. It might help to change the file extension to .mpg or .mpeg though first.
+
+@oku-ichiban
+Streaming to a system is reducing quality content by quickly downconverting the streams of the file in comparison to internet speed."

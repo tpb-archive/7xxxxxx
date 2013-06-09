@@ -1,0 +1,53 @@
+Mirai is a suite of real-time content creation tools:
+*The result of more than 15 years of development.
+*Intuitive workflow and interface.
+*Dynamically linked 2D and 3D editors support non-linear workflow.
+*For game developers and high-end character animators.
+
+For more information: 
+http://www.izware.com/mirai/index.htm 
+http://en.wikipedia.org/wiki/Mirai_(software)
+
+----------------------------------------------------------------
+
+This is a portable version of Nichimen Mirai v1.1a.
+It will run from any directory on any drive, as long
+as the program is started with StartMirai*.exe.
+
+----------------------------------------------------------------
+
+NOTE: The first time you run mirai, you may get a few prompts
+asking to allow lmgrd.exe and lmutil.exe access to the internet.
+If you don't allow them in time, mirai will not start correctly
+because it relies on these files to be up and running. If mirai
+doesn't start, make sure you click "Allow" on the two windows,
+close any windows opened by mirai and open StartMirai*.exe again.
+
+----------------------------------------------------------------
+
+* StartMirai.exe will start the standard version of mirai.
+
+* StartMiraiDevoKit.exe will start the extended version of
+mirai intended for use with the mirai development kit.
+
+* StartMiraiDirectDraw.exe will start a Direct Draw enabled
+version of mirai if your graphics card has issues with OpenGL.
+
+----------------------------------------------------------------
+
+This release was originally cracked by XFORCE, but I have included
+an "UpdateLicense.exe" which will automatically create your license
+for you. UpdateLicense is called automatically by StartMirai*.exe, 
+so you don't need to call it yourself.
+
+Just click any of the starter executables (eg StartMirai.exe), and
+your license will be updated, FLEXlm will open in a console window, 
+and mirai will open about 2 seconds afterwards. This wait time is to
+allow FLEXlm to initialize properly.
+
+----------------------------------------------------------------
+
+No more installing, updating, cracking. You can run this anywhere.
+Tested on Windows 7 64-bit, Windows 7 32-bit and Windows XP Professional.
+
+Please share this legendary software!
